@@ -38,3 +38,39 @@ def pres_primary_dem_county():
         for row in rows[2:]:
             for candidate in candidates:
                 w.writerow([row.findAll('td')[0].text, 'President', None, 'DEM', candidate, row.findAll('td')[candidates.index(candidate)+2].text])
+
+def pres_primary_rep_precinct():
+    with open('20080119__sc__republican__primary__president__precinct.csv', 'wb') as csvfile:
+        w = unicodecsv.writer(csvfile, encoding='utf-8')
+        for county in COUNTIES:
+            url = "http://www.state.sc.us/cgi-bin/scsec/r208pf?race=PRESIDENT&election=pri08rpf&county=%s&pr=rp" % county
+            r = requests.get(url)
+            soup = BeautifulSoup(r.text)
+            table = soup.find('table')
+            rows = table.findAll('tr')[1:]
+            if county == 'ABBEVILLE':
+                first_names = [x.text for x in rows[0].findAll('td') if x.text != '']
+                last_names = [x.text for x in rows[1].findAll('td') if x.text != ''][2:]
+                candidates = [' '.join(x) for x in zip(first_names, last_names)]
+                headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
+                w.writerow(headers)
+            for row in rows[2:]:
+                for candidate in candidates:
+                    w.writerow([row.findAll('td')[0].text, row.findAll('td')[1].text, 'President', None, 'REP', candidate, row.findAll('td')[candidates.index(candidate)+2].text])
+
+def pres_primary_rep_county():
+    with open('20080119__sc__republican__primary__president__county.csv', 'wb') as csvfile:
+        w = unicodecsv.writer(csvfile, encoding='utf-8')
+        url = "http://www.state.sc.us/cgi-bin/scsec/r108pf"
+        r = requests.post(url, data = {'race':'PRESIDENT', 'election':'pri08rpf', 'prr':'rp'})
+        soup = BeautifulSoup(r.text)
+        table = soup.find('table')
+        rows = table.findAll('tr')[1:]
+        first_names = [x.text for x in rows[0].findAll('td') if x.text != '']
+        last_names = [x.text for x in rows[1].findAll('td') if x.text != ''][2:]
+        candidates = [' '.join(x) for x in zip(first_names, last_names)]
+        headers = ['county', 'office', 'district', 'party', 'candidate', 'votes']
+        w.writerow(headers)
+        for row in rows[2:]:
+            for candidate in candidates:
+                w.writerow([row.findAll('td')[0].text, 'President', None, 'REP', candidate, row.findAll('td')[candidates.index(candidate)+2].text])
