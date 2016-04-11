@@ -1,0 +1,113 @@
+county,precinct,office,district,party,candidate,votes
+UNION,001 ADAMSBURG,Governor,,REPUBLICAN,Oscar Fred Lovelace,16
+UNION,001 ADAMSBURG,Governor,,REPUBLICAN,Mark Sanford,28
+UNION,002 BLACK ROCK,Governor,,REPUBLICAN,Oscar Fred Lovelace,20
+UNION,002 BLACK ROCK,Governor,,REPUBLICAN,Mark Sanford,10
+UNION,003 BONHAM,Governor,,REPUBLICAN,Oscar Fred Lovelace,9
+UNION,003 BONHAM,Governor,,REPUBLICAN,Mark Sanford,27
+UNION,004 BUFFALO BOX 1,Governor,,REPUBLICAN,Oscar Fred Lovelace,17
+UNION,004 BUFFALO BOX 1,Governor,,REPUBLICAN,Mark Sanford,27
+UNION,005 CARLISLE,Governor,,REPUBLICAN,Oscar Fred Lovelace,2
+UNION,005 CARLISLE,Governor,,REPUBLICAN,Mark Sanford,6
+UNION,006 CROSS KEYS,Governor,,REPUBLICAN,Oscar Fred Lovelace,17
+UNION,006 CROSS KEYS,Governor,,REPUBLICAN,Mark Sanford,35
+UNION,007 EAST BUFFALO,Governor,,REPUBLICAN,Oscar Fred Lovelace,2
+UNION,007 EAST BUFFALO,Governor,,REPUBLICAN,Mark Sanford,4
+UNION,008 EXCELSIOR,Governor,,REPUBLICAN,Oscar Fred Lovelace,23
+UNION,008 EXCELSIOR,Governor,,REPUBLICAN,Mark Sanford,30
+UNION,009 JONESVILLE BOX 1,Governor,,REPUBLICAN,Oscar Fred Lovelace,14
+UNION,009 JONESVILLE BOX 1,Governor,,REPUBLICAN,Mark Sanford,43
+UNION,010 JONESVILLE BOX 2,Governor,,REPUBLICAN,Oscar Fred Lovelace,20
+UNION,010 JONESVILLE BOX 2,Governor,,REPUBLICAN,Mark Sanford,42
+UNION,011 KELTON,Governor,,REPUBLICAN,Oscar Fred Lovelace,11
+UNION,011 KELTON,Governor,,REPUBLICAN,Mark Sanford,33
+UNION,012 LOCKHART,Governor,,REPUBLICAN,Oscar Fred Lovelace,8
+UNION,012 LOCKHART,Governor,,REPUBLICAN,Mark Sanford,12
+UNION,013 MONARCH BOX 1,Governor,,REPUBLICAN,Oscar Fred Lovelace,20
+UNION,013 MONARCH BOX 1,Governor,,REPUBLICAN,Mark Sanford,26
+UNION,014 MONARCH BOX 2,Governor,,REPUBLICAN,Oscar Fred Lovelace,4
+UNION,014 MONARCH BOX 2,Governor,,REPUBLICAN,Mark Sanford,14
+UNION,015 PUTNAM,Governor,,REPUBLICAN,Oscar Fred Lovelace,13
+UNION,015 PUTNAM,Governor,,REPUBLICAN,Mark Sanford,37
+UNION,016 SANTUCK,Governor,,REPUBLICAN,Oscar Fred Lovelace,17
+UNION,016 SANTUCK,Governor,,REPUBLICAN,Mark Sanford,18
+UNION,017 WARD 1 BOX 1,Governor,,REPUBLICAN,Oscar Fred Lovelace,19
+UNION,017 WARD 1 BOX 1,Governor,,REPUBLICAN,Mark Sanford,15
+UNION,018 WARD 1 BOX 2,Governor,,REPUBLICAN,Oscar Fred Lovelace,16
+UNION,018 WARD 1 BOX 2,Governor,,REPUBLICAN,Mark Sanford,23
+UNION,019 WARD 2,Governor,,REPUBLICAN,Oscar Fred Lovelace,18
+UNION,019 WARD 2,Governor,,REPUBLICAN,Mark Sanford,20
+UNION,020 WARD 3,Governor,,REPUBLICAN,Oscar Fred Lovelace,6
+UNION,020 WARD 3,Governor,,REPUBLICAN,Mark Sanford,14
+UNION,021 WARD 4 BOX 1,Governor,,REPUBLICAN,Oscar Fred Lovelace,15
+UNION,021 WARD 4 BOX 1,Governor,,REPUBLICAN,Mark Sanford,18
+UNION,022 WARD 4 BOX 2,Governor,,REPUBLICAN,Oscar Fred Lovelace,0
+UNION,022 WARD 4 BOX 2,Governor,,REPUBLICAN,Mark Sanford,8
+UNION,023 WEST SPRINGS,Governor,,REPUBLICAN,Oscar Fred Lovelace,13
+UNION,023 WEST SPRINGS,Governor,,REPUBLICAN,Mark Sanford,19
+UNION,ABSENTEE,Governor,,REPUBLICAN,Oscar Fred Lovelace,11
+UNION,ABSENTEE,Governor,,REPUBLICAN,Mark Sanford,11
+UNION,EMERGENCY,Governor,,REPUBLICAN,Oscar Fred Lovelace,0
+UNION,EMERGENCY,Governor,,REPUBLICAN,Mark Sanford,0
+UNION,FAILSAFE,Governor,,REPUBLICAN,Oscar Fred Lovelace,0
+UNION,FAILSAFE,Governor,,REPUBLICAN,Mark Sanford,0
+UNION,PROVISIONAL,Governor,,REPUBLICAN,Oscar Fred Lovelace,0
+UNION,PROVISIONAL,Governor,,REPUBLICAN,Mark Sanford,0
+UNION,FAILSAFE PROVISONAL,Governor,,REPUBLICAN,Oscar Fred Lovelace,0
+UNION,FAILSAFE PROVISONAL,Governor,,REPUBLICAN,Mark Sanford,0
+UNION,001 ADAMSBURG,Secretary of State,,REPUBLICAN,Mark Hammond,27
+UNION,001 ADAMSBURG,Secretary of State,,REPUBLICAN,Bill McKown,12
+UNION,002 BLACK ROCK,Secretary of State,,REPUBLICAN,Mark Hammond,16
+UNION,002 BLACK ROCK,Secretary of State,,REPUBLICAN,Bill McKown,9
+UNION,003 BONHAM,Secretary of State,,REPUBLICAN,Mark Hammond,14
+UNION,003 BONHAM,Secretary of State,,REPUBLICAN,Bill McKown,16
+UNION,004 BUFFALO BOX 1,Secretary of State,,REPUBLICAN,Mark Hammond,28
+UNION,004 BUFFALO BOX 1,Secretary of State,,REPUBLICAN,Bill McKown,13
+UNION,005 CARLISLE,Secretary of State,,REPUBLICAN,Mark Hammond,4
+UNION,005 CARLISLE,Secretary of State,,REPUBLICAN,Bill McKown,4
+UNION,006 CROSS KEYS,Secretary of State,,REPUBLICAN,Mark Hammond,31
+UNION,006 CROSS KEYS,Secretary of State,,REPUBLICAN,Bill McKown,16
+UNION,007 EAST BUFFALO,Secretary of State,,REPUBLICAN,Mark Hammond,4
+UNION,007 EAST BUFFALO,Secretary of State,,REPUBLICAN,Bill McKown,2
+UNION,008 EXCELSIOR,Secretary of State,,REPUBLICAN,Mark Hammond,31
+UNION,008 EXCELSIOR,Secretary of State,,REPUBLICAN,Bill McKown,16
+UNION,009 JONESVILLE BOX 1,Secretary of State,,REPUBLICAN,Mark Hammond,41
+UNION,009 JONESVILLE BOX 1,Secretary of State,,REPUBLICAN,Bill McKown,12
+UNION,010 JONESVILLE BOX 2,Secretary of State,,REPUBLICAN,Mark Hammond,40
+UNION,010 JONESVILLE BOX 2,Secretary of State,,REPUBLICAN,Bill McKown,14
+UNION,011 KELTON,Secretary of State,,REPUBLICAN,Mark Hammond,36
+UNION,011 KELTON,Secretary of State,,REPUBLICAN,Bill McKown,5
+UNION,012 LOCKHART,Secretary of State,,REPUBLICAN,Mark Hammond,14
+UNION,012 LOCKHART,Secretary of State,,REPUBLICAN,Bill McKown,3
+UNION,013 MONARCH BOX 1,Secretary of State,,REPUBLICAN,Mark Hammond,22
+UNION,013 MONARCH BOX 1,Secretary of State,,REPUBLICAN,Bill McKown,18
+UNION,014 MONARCH BOX 2,Secretary of State,,REPUBLICAN,Mark Hammond,10
+UNION,014 MONARCH BOX 2,Secretary of State,,REPUBLICAN,Bill McKown,6
+UNION,015 PUTNAM,Secretary of State,,REPUBLICAN,Mark Hammond,33
+UNION,015 PUTNAM,Secretary of State,,REPUBLICAN,Bill McKown,14
+UNION,016 SANTUCK,Secretary of State,,REPUBLICAN,Mark Hammond,15
+UNION,016 SANTUCK,Secretary of State,,REPUBLICAN,Bill McKown,15
+UNION,017 WARD 1 BOX 1,Secretary of State,,REPUBLICAN,Mark Hammond,19
+UNION,017 WARD 1 BOX 1,Secretary of State,,REPUBLICAN,Bill McKown,13
+UNION,018 WARD 1 BOX 2,Secretary of State,,REPUBLICAN,Mark Hammond,28
+UNION,018 WARD 1 BOX 2,Secretary of State,,REPUBLICAN,Bill McKown,7
+UNION,019 WARD 2,Secretary of State,,REPUBLICAN,Mark Hammond,27
+UNION,019 WARD 2,Secretary of State,,REPUBLICAN,Bill McKown,8
+UNION,020 WARD 3,Secretary of State,,REPUBLICAN,Mark Hammond,15
+UNION,020 WARD 3,Secretary of State,,REPUBLICAN,Bill McKown,5
+UNION,021 WARD 4 BOX 1,Secretary of State,,REPUBLICAN,Mark Hammond,22
+UNION,021 WARD 4 BOX 1,Secretary of State,,REPUBLICAN,Bill McKown,9
+UNION,022 WARD 4 BOX 2,Secretary of State,,REPUBLICAN,Mark Hammond,4
+UNION,022 WARD 4 BOX 2,Secretary of State,,REPUBLICAN,Bill McKown,2
+UNION,023 WEST SPRINGS,Secretary of State,,REPUBLICAN,Mark Hammond,23
+UNION,023 WEST SPRINGS,Secretary of State,,REPUBLICAN,Bill McKown,4
+UNION,ABSENTEE,Secretary of State,,REPUBLICAN,Mark Hammond,15
+UNION,ABSENTEE,Secretary of State,,REPUBLICAN,Bill McKown,4
+UNION,EMERGENCY,Secretary of State,,REPUBLICAN,Mark Hammond,0
+UNION,EMERGENCY,Secretary of State,,REPUBLICAN,Bill McKown,0
+UNION,FAILSAFE,Secretary of State,,REPUBLICAN,Mark Hammond,0
+UNION,FAILSAFE,Secretary of State,,REPUBLICAN,Bill McKown,0
+UNION,PROVISIONAL,Secretary of State,,REPUBLICAN,Mark Hammond,0
+UNION,PROVISIONAL,Secretary of State,,REPUBLICAN,Bill McKown,0
+UNION,FAILSAFE PROVISONAL,Secretary of State,,REPUBLICAN,Mark Hammond,0
+UNION,FAILSAFE PROVISONAL,Secretary of State,,REPUBLICAN,Bill McKown,0

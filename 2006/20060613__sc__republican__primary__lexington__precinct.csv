@@ -1,0 +1,464 @@
+county,precinct,office,district,party,candidate,votes
+LEXINGTON,001 Batesburg,Governor,,REPUBLICAN,Oscar Fred Lovelace,75
+LEXINGTON,001 Batesburg,Governor,,REPUBLICAN,Mark Sanford,89
+LEXINGTON,002 Mims,Governor,,REPUBLICAN,Oscar Fred Lovelace,49
+LEXINGTON,002 Mims,Governor,,REPUBLICAN,Mark Sanford,52
+LEXINGTON,003 Lake Murray #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,185
+LEXINGTON,003 Lake Murray #1,Governor,,REPUBLICAN,Mark Sanford,124
+LEXINGTON,004 Mount Horeb,Governor,,REPUBLICAN,Oscar Fred Lovelace,186
+LEXINGTON,004 Mount Horeb,Governor,,REPUBLICAN,Mark Sanford,116
+LEXINGTON,005 Old Barnwell,Governor,,REPUBLICAN,Oscar Fred Lovelace,97
+LEXINGTON,005 Old Barnwell,Governor,,REPUBLICAN,Mark Sanford,76
+LEXINGTON,006 Beulah Church,Governor,,REPUBLICAN,Oscar Fred Lovelace,207
+LEXINGTON,006 Beulah Church,Governor,,REPUBLICAN,Mark Sanford,136
+LEXINGTON,007 Gilbert,Governor,,REPUBLICAN,Oscar Fred Lovelace,129
+LEXINGTON,007 Gilbert,Governor,,REPUBLICAN,Mark Sanford,107
+LEXINGTON,008 Pond Branch,Governor,,REPUBLICAN,Oscar Fred Lovelace,111
+LEXINGTON,008 Pond Branch,Governor,,REPUBLICAN,Mark Sanford,110
+LEXINGTON,009 Seven Oaks,Governor,,REPUBLICAN,Oscar Fred Lovelace,85
+LEXINGTON,009 Seven Oaks,Governor,,REPUBLICAN,Mark Sanford,108
+LEXINGTON,010 Ridge Road,Governor,,REPUBLICAN,Oscar Fred Lovelace,136
+LEXINGTON,010 Ridge Road,Governor,,REPUBLICAN,Mark Sanford,110
+LEXINGTON,011 Summit,Governor,,REPUBLICAN,Oscar Fred Lovelace,56
+LEXINGTON,011 Summit,Governor,,REPUBLICAN,Mark Sanford,44
+LEXINGTON,012 Leesville,Governor,,REPUBLICAN,Oscar Fred Lovelace,104
+LEXINGTON,012 Leesville,Governor,,REPUBLICAN,Mark Sanford,107
+LEXINGTON,013 Red Bank South,Governor,,REPUBLICAN,Oscar Fred Lovelace,147
+LEXINGTON,013 Red Bank South,Governor,,REPUBLICAN,Mark Sanford,109
+LEXINGTON,014 Emmanuel Church,Governor,,REPUBLICAN,Oscar Fred Lovelace,134
+LEXINGTON,014 Emmanuel Church,Governor,,REPUBLICAN,Mark Sanford,122
+LEXINGTON,015 Hollow Creek,Governor,,REPUBLICAN,Oscar Fred Lovelace,132
+LEXINGTON,015 Hollow Creek,Governor,,REPUBLICAN,Mark Sanford,121
+LEXINGTON,016 Boiling Springs,Governor,,REPUBLICAN,Oscar Fred Lovelace,116
+LEXINGTON,016 Boiling Springs,Governor,,REPUBLICAN,Mark Sanford,129
+LEXINGTON,017 Edmund,Governor,,REPUBLICAN,Oscar Fred Lovelace,46
+LEXINGTON,017 Edmund,Governor,,REPUBLICAN,Mark Sanford,57
+LEXINGTON,018 Red Bank,Governor,,REPUBLICAN,Oscar Fred Lovelace,137
+LEXINGTON,018 Red Bank,Governor,,REPUBLICAN,Mark Sanford,133
+LEXINGTON,019 Round Hill,Governor,,REPUBLICAN,Oscar Fred Lovelace,114
+LEXINGTON,019 Round Hill,Governor,,REPUBLICAN,Mark Sanford,100
+LEXINGTON,020 Fairview,Governor,,REPUBLICAN,Oscar Fred Lovelace,35
+LEXINGTON,020 Fairview,Governor,,REPUBLICAN,Mark Sanford,75
+LEXINGTON,021 Quail Hollow,Governor,,REPUBLICAN,Oscar Fred Lovelace,252
+LEXINGTON,021 Quail Hollow,Governor,,REPUBLICAN,Mark Sanford,156
+LEXINGTON,022 Pelion #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,70
+LEXINGTON,022 Pelion #1,Governor,,REPUBLICAN,Mark Sanford,87
+LEXINGTON,023 Mack Edisto,Governor,,REPUBLICAN,Oscar Fred Lovelace,34
+LEXINGTON,023 Mack Edisto,Governor,,REPUBLICAN,Mark Sanford,53
+LEXINGTON,024 Swansea #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,59
+LEXINGTON,024 Swansea #1,Governor,,REPUBLICAN,Mark Sanford,49
+LEXINGTON,025 Sandy Run,Governor,,REPUBLICAN,Oscar Fred Lovelace,35
+LEXINGTON,025 Sandy Run,Governor,,REPUBLICAN,Mark Sanford,46
+LEXINGTON,026 Gaston #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,56
+LEXINGTON,026 Gaston #1,Governor,,REPUBLICAN,Mark Sanford,55
+LEXINGTON,027 Sharpes Hill,Governor,,REPUBLICAN,Oscar Fred Lovelace,50
+LEXINGTON,027 Sharpes Hill,Governor,,REPUBLICAN,Mark Sanford,78
+LEXINGTON,028 Chapin,Governor,,REPUBLICAN,Oscar Fred Lovelace,237
+LEXINGTON,028 Chapin,Governor,,REPUBLICAN,Mark Sanford,113
+LEXINGTON,029 Leaphart Road,Governor,,REPUBLICAN,Oscar Fred Lovelace,38
+LEXINGTON,029 Leaphart Road,Governor,,REPUBLICAN,Mark Sanford,36
+LEXINGTON,030 Westover,Governor,,REPUBLICAN,Oscar Fred Lovelace,245
+LEXINGTON,030 Westover,Governor,,REPUBLICAN,Mark Sanford,203
+LEXINGTON,031 Edenwood,Governor,,REPUBLICAN,Oscar Fred Lovelace,193
+LEXINGTON,031 Edenwood,Governor,,REPUBLICAN,Mark Sanford,163
+LEXINGTON,032 Cromer,Governor,,REPUBLICAN,Oscar Fred Lovelace,117
+LEXINGTON,032 Cromer,Governor,,REPUBLICAN,Mark Sanford,122
+LEXINGTON,033 Lexington #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,201
+LEXINGTON,033 Lexington #1,Governor,,REPUBLICAN,Mark Sanford,168
+LEXINGTON,034 Lexington #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,163
+LEXINGTON,034 Lexington #2,Governor,,REPUBLICAN,Mark Sanford,115
+LEXINGTON,035 Cayce #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,89
+LEXINGTON,035 Cayce #1,Governor,,REPUBLICAN,Mark Sanford,78
+LEXINGTON,036 Cayce #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,67
+LEXINGTON,036 Cayce #2,Governor,,REPUBLICAN,Mark Sanford,49
+LEXINGTON,037 Cayce #3,Governor,,REPUBLICAN,Oscar Fred Lovelace,94
+LEXINGTON,037 Cayce #3,Governor,,REPUBLICAN,Mark Sanford,54
+LEXINGTON,038 Chalk Hill,Governor,,REPUBLICAN,Oscar Fred Lovelace,44
+LEXINGTON,038 Chalk Hill,Governor,,REPUBLICAN,Mark Sanford,45
+LEXINGTON,039 Congaree #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,108
+LEXINGTON,039 Congaree #1,Governor,,REPUBLICAN,Mark Sanford,119
+LEXINGTON,040 Hooks Store,Governor,,REPUBLICAN,Oscar Fred Lovelace,152
+LEXINGTON,040 Hooks Store,Governor,,REPUBLICAN,Mark Sanford,129
+LEXINGTON,041 Saluda River,Governor,,REPUBLICAN,Oscar Fred Lovelace,162
+LEXINGTON,041 Saluda River,Governor,,REPUBLICAN,Mark Sanford,164
+LEXINGTON,042 Springdale,Governor,,REPUBLICAN,Oscar Fred Lovelace,190
+LEXINGTON,042 Springdale,Governor,,REPUBLICAN,Mark Sanford,158
+LEXINGTON,043 Pineridge,Governor,,REPUBLICAN,Oscar Fred Lovelace,170
+LEXINGTON,043 Pineridge,Governor,,REPUBLICAN,Mark Sanford,193
+LEXINGTON,044 West Columbia #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,52
+LEXINGTON,044 West Columbia #1,Governor,,REPUBLICAN,Mark Sanford,49
+LEXINGTON,045 West Columbia #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,10
+LEXINGTON,045 West Columbia #2,Governor,,REPUBLICAN,Mark Sanford,16
+LEXINGTON,048 Irmo,Governor,,REPUBLICAN,Oscar Fred Lovelace,137
+LEXINGTON,048 Irmo,Governor,,REPUBLICAN,Mark Sanford,89
+LEXINGTON,049 Challedon,Governor,,REPUBLICAN,Oscar Fred Lovelace,104
+LEXINGTON,049 Challedon,Governor,,REPUBLICAN,Mark Sanford,116
+LEXINGTON,050 Whitehall,Governor,,REPUBLICAN,Oscar Fred Lovelace,330
+LEXINGTON,050 Whitehall,Governor,,REPUBLICAN,Mark Sanford,284
+LEXINGTON,051 Gardendale,Governor,,REPUBLICAN,Oscar Fred Lovelace,135
+LEXINGTON,051 Gardendale,Governor,,REPUBLICAN,Mark Sanford,123
+LEXINGTON,052 Woodland Hills,Governor,,REPUBLICAN,Oscar Fred Lovelace,118
+LEXINGTON,052 Woodland Hills,Governor,,REPUBLICAN,Mark Sanford,123
+LEXINGTON,053 Pineview,Governor,,REPUBLICAN,Oscar Fred Lovelace,152
+LEXINGTON,053 Pineview,Governor,,REPUBLICAN,Mark Sanford,127
+LEXINGTON,054 Quail Valley,Governor,,REPUBLICAN,Oscar Fred Lovelace,234
+LEXINGTON,054 Quail Valley,Governor,,REPUBLICAN,Mark Sanford,184
+LEXINGTON,055 Cayce 2A,Governor,,REPUBLICAN,Oscar Fred Lovelace,79
+LEXINGTON,055 Cayce 2A,Governor,,REPUBLICAN,Mark Sanford,86
+LEXINGTON,056 Barr Road,Governor,,REPUBLICAN,Oscar Fred Lovelace,198
+LEXINGTON,056 Barr Road,Governor,,REPUBLICAN,Mark Sanford,194
+LEXINGTON,057 Coldstream,Governor,,REPUBLICAN,Oscar Fred Lovelace,243
+LEXINGTON,057 Coldstream,Governor,,REPUBLICAN,Mark Sanford,221
+LEXINGTON,058 Grenadier,Governor,,REPUBLICAN,Oscar Fred Lovelace,124
+LEXINGTON,058 Grenadier,Governor,,REPUBLICAN,Mark Sanford,161
+LEXINGTON,059 St Michael,Governor,,REPUBLICAN,Oscar Fred Lovelace,261
+LEXINGTON,059 St Michael,Governor,,REPUBLICAN,Mark Sanford,241
+LEXINGTON,060 Murraywood,Governor,,REPUBLICAN,Oscar Fred Lovelace,251
+LEXINGTON,060 Murraywood,Governor,,REPUBLICAN,Mark Sanford,175
+LEXINGTON,061 Amicks Ferry,Governor,,REPUBLICAN,Oscar Fred Lovelace,434
+LEXINGTON,061 Amicks Ferry,Governor,,REPUBLICAN,Mark Sanford,303
+LEXINGTON,062 Bush River,Governor,,REPUBLICAN,Oscar Fred Lovelace,117
+LEXINGTON,062 Bush River,Governor,,REPUBLICAN,Mark Sanford,133
+LEXINGTON,063 Dutchman Shores,Governor,,REPUBLICAN,Oscar Fred Lovelace,212
+LEXINGTON,063 Dutchman Shores,Governor,,REPUBLICAN,Mark Sanford,164
+LEXINGTON,064 Pilgrim Church,Governor,,REPUBLICAN,Oscar Fred Lovelace,154
+LEXINGTON,064 Pilgrim Church,Governor,,REPUBLICAN,Mark Sanford,139
+LEXINGTON,065 White Knoll,Governor,,REPUBLICAN,Oscar Fred Lovelace,90
+LEXINGTON,065 White Knoll,Governor,,REPUBLICAN,Mark Sanford,82
+LEXINGTON,066 Faith Church,Governor,,REPUBLICAN,Oscar Fred Lovelace,124
+LEXINGTON,066 Faith Church,Governor,,REPUBLICAN,Mark Sanford,81
+LEXINGTON,067 Kitti Wake,Governor,,REPUBLICAN,Oscar Fred Lovelace,80
+LEXINGTON,067 Kitti Wake,Governor,,REPUBLICAN,Mark Sanford,81
+LEXINGTON,068 Providence Church,Governor,,REPUBLICAN,Oscar Fred Lovelace,271
+LEXINGTON,068 Providence Church,Governor,,REPUBLICAN,Mark Sanford,191
+LEXINGTON,069 Boiling Springs South,Governor,,REPUBLICAN,Oscar Fred Lovelace,108
+LEXINGTON,069 Boiling Springs South,Governor,,REPUBLICAN,Mark Sanford,121
+LEXINGTON,070 Lexington #3,Governor,,REPUBLICAN,Oscar Fred Lovelace,171
+LEXINGTON,070 Lexington #3,Governor,,REPUBLICAN,Mark Sanford,135
+LEXINGTON,071 Lexington #4,Governor,,REPUBLICAN,Oscar Fred Lovelace,164
+LEXINGTON,071 Lexington #4,Governor,,REPUBLICAN,Mark Sanford,152
+LEXINGTON,072 Midway,Governor,,REPUBLICAN,Oscar Fred Lovelace,93
+LEXINGTON,072 Midway,Governor,,REPUBLICAN,Mark Sanford,82
+LEXINGTON,073 Park Road,Governor,,REPUBLICAN,Oscar Fred Lovelace,175
+LEXINGTON,073 Park Road,Governor,,REPUBLICAN,Mark Sanford,145
+LEXINGTON,074 Springdale South,Governor,,REPUBLICAN,Oscar Fred Lovelace,50
+LEXINGTON,074 Springdale South,Governor,,REPUBLICAN,Mark Sanford,53
+LEXINGTON,075 Gaston #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,65
+LEXINGTON,075 Gaston #2,Governor,,REPUBLICAN,Mark Sanford,49
+LEXINGTON,076 Lake Murray #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,172
+LEXINGTON,076 Lake Murray #2,Governor,,REPUBLICAN,Mark Sanford,136
+LEXINGTON,077 Congaree #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,54
+LEXINGTON,077 Congaree #2,Governor,,REPUBLICAN,Mark Sanford,41
+LEXINGTON,078 Saint David,Governor,,REPUBLICAN,Oscar Fred Lovelace,130
+LEXINGTON,078 Saint David,Governor,,REPUBLICAN,Mark Sanford,135
+LEXINGTON,079 Mt Hebron,Governor,,REPUBLICAN,Oscar Fred Lovelace,92
+LEXINGTON,079 Mt Hebron,Governor,,REPUBLICAN,Mark Sanford,77
+LEXINGTON,080 Sandhills,Governor,,REPUBLICAN,Oscar Fred Lovelace,37
+LEXINGTON,080 Sandhills,Governor,,REPUBLICAN,Mark Sanford,39
+LEXINGTON,081 Bethany,Governor,,REPUBLICAN,Oscar Fred Lovelace,84
+LEXINGTON,081 Bethany,Governor,,REPUBLICAN,Mark Sanford,84
+LEXINGTON,082 Swansea #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,55
+LEXINGTON,082 Swansea #2,Governor,,REPUBLICAN,Mark Sanford,84
+LEXINGTON,083 Pelion #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,75
+LEXINGTON,083 Pelion #2,Governor,,REPUBLICAN,Mark Sanford,104
+LEXINGTON,084 Dreher Island,Governor,,REPUBLICAN,Oscar Fred Lovelace,136
+LEXINGTON,084 Dreher Island,Governor,,REPUBLICAN,Mark Sanford,71
+LEXINGTON,085 Old Lexington,Governor,,REPUBLICAN,Oscar Fred Lovelace,280
+LEXINGTON,085 Old Lexington,Governor,,REPUBLICAN,Mark Sanford,172
+LEXINGTON,086 Lincreek,Governor,,REPUBLICAN,Oscar Fred Lovelace,145
+LEXINGTON,086 Lincreek,Governor,,REPUBLICAN,Mark Sanford,94
+LEXINGTON,087 Cedar Crest,Governor,,REPUBLICAN,Oscar Fred Lovelace,72
+LEXINGTON,087 Cedar Crest,Governor,,REPUBLICAN,Mark Sanford,53
+LEXINGTON,088 Oakwood,Governor,,REPUBLICAN,Oscar Fred Lovelace,165
+LEXINGTON,088 Oakwood,Governor,,REPUBLICAN,Mark Sanford,118
+LEXINGTON,ABSENTEE,Governor,,REPUBLICAN,Oscar Fred Lovelace,629
+LEXINGTON,ABSENTEE,Governor,,REPUBLICAN,Mark Sanford,514
+LEXINGTON,EMERGENCY,Governor,,REPUBLICAN,Oscar Fred Lovelace,5
+LEXINGTON,EMERGENCY,Governor,,REPUBLICAN,Mark Sanford,2
+LEXINGTON,FAILSAFE,Governor,,REPUBLICAN,Oscar Fred Lovelace,19
+LEXINGTON,FAILSAFE,Governor,,REPUBLICAN,Mark Sanford,23
+LEXINGTON,PROVISIONAL,Governor,,REPUBLICAN,Oscar Fred Lovelace,0
+LEXINGTON,PROVISIONAL,Governor,,REPUBLICAN,Mark Sanford,0
+LEXINGTON,FAILSAFE PROVISIONAL,Governor,,REPUBLICAN,Oscar Fred Lovelace,17
+LEXINGTON,FAILSAFE PROVISIONAL,Governor,,REPUBLICAN,Mark Sanford,16
+LEXINGTON,001 Batesburg,Secretary of State,,REPUBLICAN,Mark Hammond,78
+LEXINGTON,001 Batesburg,Secretary of State,,REPUBLICAN,Bill McKown,68
+LEXINGTON,002 Mims,Secretary of State,,REPUBLICAN,Mark Hammond,53
+LEXINGTON,002 Mims,Secretary of State,,REPUBLICAN,Bill McKown,39
+LEXINGTON,003 Lake Murray #1,Secretary of State,,REPUBLICAN,Mark Hammond,165
+LEXINGTON,003 Lake Murray #1,Secretary of State,,REPUBLICAN,Bill McKown,109
+LEXINGTON,004 Mount Horeb,Secretary of State,,REPUBLICAN,Mark Hammond,167
+LEXINGTON,004 Mount Horeb,Secretary of State,,REPUBLICAN,Bill McKown,94
+LEXINGTON,005 Old Barnwell,Secretary of State,,REPUBLICAN,Mark Hammond,102
+LEXINGTON,005 Old Barnwell,Secretary of State,,REPUBLICAN,Bill McKown,60
+LEXINGTON,006 Beulah Church,Secretary of State,,REPUBLICAN,Mark Hammond,198
+LEXINGTON,006 Beulah Church,Secretary of State,,REPUBLICAN,Bill McKown,115
+LEXINGTON,007 Gilbert,Secretary of State,,REPUBLICAN,Mark Hammond,134
+LEXINGTON,007 Gilbert,Secretary of State,,REPUBLICAN,Bill McKown,70
+LEXINGTON,008 Pond Branch,Secretary of State,,REPUBLICAN,Mark Hammond,128
+LEXINGTON,008 Pond Branch,Secretary of State,,REPUBLICAN,Bill McKown,65
+LEXINGTON,009 Seven Oaks,Secretary of State,,REPUBLICAN,Mark Hammond,92
+LEXINGTON,009 Seven Oaks,Secretary of State,,REPUBLICAN,Bill McKown,79
+LEXINGTON,010 Ridge Road,Secretary of State,,REPUBLICAN,Mark Hammond,120
+LEXINGTON,010 Ridge Road,Secretary of State,,REPUBLICAN,Bill McKown,91
+LEXINGTON,011 Summit,Secretary of State,,REPUBLICAN,Mark Hammond,57
+LEXINGTON,011 Summit,Secretary of State,,REPUBLICAN,Bill McKown,32
+LEXINGTON,012 Leesville,Secretary of State,,REPUBLICAN,Mark Hammond,116
+LEXINGTON,012 Leesville,Secretary of State,,REPUBLICAN,Bill McKown,65
+LEXINGTON,013 Red Bank South,Secretary of State,,REPUBLICAN,Mark Hammond,141
+LEXINGTON,013 Red Bank South,Secretary of State,,REPUBLICAN,Bill McKown,82
+LEXINGTON,014 Emmanuel Church,Secretary of State,,REPUBLICAN,Mark Hammond,134
+LEXINGTON,014 Emmanuel Church,Secretary of State,,REPUBLICAN,Bill McKown,92
+LEXINGTON,015 Hollow Creek,Secretary of State,,REPUBLICAN,Mark Hammond,136
+LEXINGTON,015 Hollow Creek,Secretary of State,,REPUBLICAN,Bill McKown,91
+LEXINGTON,016 Boiling Springs,Secretary of State,,REPUBLICAN,Mark Hammond,129
+LEXINGTON,016 Boiling Springs,Secretary of State,,REPUBLICAN,Bill McKown,90
+LEXINGTON,017 Edmund,Secretary of State,,REPUBLICAN,Mark Hammond,53
+LEXINGTON,017 Edmund,Secretary of State,,REPUBLICAN,Bill McKown,36
+LEXINGTON,018 Red Bank,Secretary of State,,REPUBLICAN,Mark Hammond,154
+LEXINGTON,018 Red Bank,Secretary of State,,REPUBLICAN,Bill McKown,92
+LEXINGTON,019 Round Hill,Secretary of State,,REPUBLICAN,Mark Hammond,132
+LEXINGTON,019 Round Hill,Secretary of State,,REPUBLICAN,Bill McKown,61
+LEXINGTON,020 Fairview,Secretary of State,,REPUBLICAN,Mark Hammond,52
+LEXINGTON,020 Fairview,Secretary of State,,REPUBLICAN,Bill McKown,46
+LEXINGTON,021 Quail Hollow,Secretary of State,,REPUBLICAN,Mark Hammond,198
+LEXINGTON,021 Quail Hollow,Secretary of State,,REPUBLICAN,Bill McKown,158
+LEXINGTON,022 Pelion #1,Secretary of State,,REPUBLICAN,Mark Hammond,81
+LEXINGTON,022 Pelion #1,Secretary of State,,REPUBLICAN,Bill McKown,53
+LEXINGTON,023 Mack Edisto,Secretary of State,,REPUBLICAN,Mark Hammond,55
+LEXINGTON,023 Mack Edisto,Secretary of State,,REPUBLICAN,Bill McKown,24
+LEXINGTON,024 Swansea #1,Secretary of State,,REPUBLICAN,Mark Hammond,62
+LEXINGTON,024 Swansea #1,Secretary of State,,REPUBLICAN,Bill McKown,29
+LEXINGTON,025 Sandy Run,Secretary of State,,REPUBLICAN,Mark Hammond,43
+LEXINGTON,025 Sandy Run,Secretary of State,,REPUBLICAN,Bill McKown,26
+LEXINGTON,026 Gaston #1,Secretary of State,,REPUBLICAN,Mark Hammond,61
+LEXINGTON,026 Gaston #1,Secretary of State,,REPUBLICAN,Bill McKown,24
+LEXINGTON,027 Sharpes Hill,Secretary of State,,REPUBLICAN,Mark Hammond,81
+LEXINGTON,027 Sharpes Hill,Secretary of State,,REPUBLICAN,Bill McKown,35
+LEXINGTON,028 Chapin,Secretary of State,,REPUBLICAN,Mark Hammond,189
+LEXINGTON,028 Chapin,Secretary of State,,REPUBLICAN,Bill McKown,107
+LEXINGTON,029 Leaphart Road,Secretary of State,,REPUBLICAN,Mark Hammond,44
+LEXINGTON,029 Leaphart Road,Secretary of State,,REPUBLICAN,Bill McKown,16
+LEXINGTON,030 Westover,Secretary of State,,REPUBLICAN,Mark Hammond,224
+LEXINGTON,030 Westover,Secretary of State,,REPUBLICAN,Bill McKown,168
+LEXINGTON,031 Edenwood,Secretary of State,,REPUBLICAN,Mark Hammond,208
+LEXINGTON,031 Edenwood,Secretary of State,,REPUBLICAN,Bill McKown,114
+LEXINGTON,032 Cromer,Secretary of State,,REPUBLICAN,Mark Hammond,129
+LEXINGTON,032 Cromer,Secretary of State,,REPUBLICAN,Bill McKown,84
+LEXINGTON,033 Lexington #1,Secretary of State,,REPUBLICAN,Mark Hammond,190
+LEXINGTON,033 Lexington #1,Secretary of State,,REPUBLICAN,Bill McKown,133
+LEXINGTON,034 Lexington #2,Secretary of State,,REPUBLICAN,Mark Hammond,159
+LEXINGTON,034 Lexington #2,Secretary of State,,REPUBLICAN,Bill McKown,86
+LEXINGTON,035 Cayce #1,Secretary of State,,REPUBLICAN,Mark Hammond,100
+LEXINGTON,035 Cayce #1,Secretary of State,,REPUBLICAN,Bill McKown,48
+LEXINGTON,036 Cayce #2,Secretary of State,,REPUBLICAN,Mark Hammond,61
+LEXINGTON,036 Cayce #2,Secretary of State,,REPUBLICAN,Bill McKown,44
+LEXINGTON,037 Cayce #3,Secretary of State,,REPUBLICAN,Mark Hammond,72
+LEXINGTON,037 Cayce #3,Secretary of State,,REPUBLICAN,Bill McKown,59
+LEXINGTON,038 Chalk Hill,Secretary of State,,REPUBLICAN,Mark Hammond,50
+LEXINGTON,038 Chalk Hill,Secretary of State,,REPUBLICAN,Bill McKown,33
+LEXINGTON,039 Congaree #1,Secretary of State,,REPUBLICAN,Mark Hammond,113
+LEXINGTON,039 Congaree #1,Secretary of State,,REPUBLICAN,Bill McKown,87
+LEXINGTON,040 Hooks Store,Secretary of State,,REPUBLICAN,Mark Hammond,148
+LEXINGTON,040 Hooks Store,Secretary of State,,REPUBLICAN,Bill McKown,105
+LEXINGTON,041 Saluda River,Secretary of State,,REPUBLICAN,Mark Hammond,168
+LEXINGTON,041 Saluda River,Secretary of State,,REPUBLICAN,Bill McKown,127
+LEXINGTON,042 Springdale,Secretary of State,,REPUBLICAN,Mark Hammond,177
+LEXINGTON,042 Springdale,Secretary of State,,REPUBLICAN,Bill McKown,139
+LEXINGTON,043 Pineridge,Secretary of State,,REPUBLICAN,Mark Hammond,182
+LEXINGTON,043 Pineridge,Secretary of State,,REPUBLICAN,Bill McKown,148
+LEXINGTON,044 West Columbia #1,Secretary of State,,REPUBLICAN,Mark Hammond,50
+LEXINGTON,044 West Columbia #1,Secretary of State,,REPUBLICAN,Bill McKown,38
+LEXINGTON,045 West Columbia #2,Secretary of State,,REPUBLICAN,Mark Hammond,18
+LEXINGTON,045 West Columbia #2,Secretary of State,,REPUBLICAN,Bill McKown,7
+LEXINGTON,048 Irmo,Secretary of State,,REPUBLICAN,Mark Hammond,136
+LEXINGTON,048 Irmo,Secretary of State,,REPUBLICAN,Bill McKown,65
+LEXINGTON,049 Challedon,Secretary of State,,REPUBLICAN,Mark Hammond,112
+LEXINGTON,049 Challedon,Secretary of State,,REPUBLICAN,Bill McKown,81
+LEXINGTON,050 Whitehall,Secretary of State,,REPUBLICAN,Mark Hammond,331
+LEXINGTON,050 Whitehall,Secretary of State,,REPUBLICAN,Bill McKown,196
+LEXINGTON,051 Gardendale,Secretary of State,,REPUBLICAN,Mark Hammond,123
+LEXINGTON,051 Gardendale,Secretary of State,,REPUBLICAN,Bill McKown,101
+LEXINGTON,052 Woodland Hills,Secretary of State,,REPUBLICAN,Mark Hammond,120
+LEXINGTON,052 Woodland Hills,Secretary of State,,REPUBLICAN,Bill McKown,93
+LEXINGTON,053 Pineview,Secretary of State,,REPUBLICAN,Mark Hammond,152
+LEXINGTON,053 Pineview,Secretary of State,,REPUBLICAN,Bill McKown,98
+LEXINGTON,054 Quail Valley,Secretary of State,,REPUBLICAN,Mark Hammond,202
+LEXINGTON,054 Quail Valley,Secretary of State,,REPUBLICAN,Bill McKown,141
+LEXINGTON,055 Cayce 2A,Secretary of State,,REPUBLICAN,Mark Hammond,101
+LEXINGTON,055 Cayce 2A,Secretary of State,,REPUBLICAN,Bill McKown,55
+LEXINGTON,056 Barr Road,Secretary of State,,REPUBLICAN,Mark Hammond,240
+LEXINGTON,056 Barr Road,Secretary of State,,REPUBLICAN,Bill McKown,120
+LEXINGTON,057 Coldstream,Secretary of State,,REPUBLICAN,Mark Hammond,245
+LEXINGTON,057 Coldstream,Secretary of State,,REPUBLICAN,Bill McKown,159
+LEXINGTON,058 Grenadier,Secretary of State,,REPUBLICAN,Mark Hammond,143
+LEXINGTON,058 Grenadier,Secretary of State,,REPUBLICAN,Bill McKown,102
+LEXINGTON,059 St Michael,Secretary of State,,REPUBLICAN,Mark Hammond,253
+LEXINGTON,059 St Michael,Secretary of State,,REPUBLICAN,Bill McKown,198
+LEXINGTON,060 Murraywood,Secretary of State,,REPUBLICAN,Mark Hammond,223
+LEXINGTON,060 Murraywood,Secretary of State,,REPUBLICAN,Bill McKown,137
+LEXINGTON,061 Amicks Ferry,Secretary of State,,REPUBLICAN,Mark Hammond,407
+LEXINGTON,061 Amicks Ferry,Secretary of State,,REPUBLICAN,Bill McKown,223
+LEXINGTON,062 Bush River,Secretary of State,,REPUBLICAN,Mark Hammond,137
+LEXINGTON,062 Bush River,Secretary of State,,REPUBLICAN,Bill McKown,76
+LEXINGTON,063 Dutchman Shores,Secretary of State,,REPUBLICAN,Mark Hammond,179
+LEXINGTON,063 Dutchman Shores,Secretary of State,,REPUBLICAN,Bill McKown,138
+LEXINGTON,064 Pilgrim Church,Secretary of State,,REPUBLICAN,Mark Hammond,164
+LEXINGTON,064 Pilgrim Church,Secretary of State,,REPUBLICAN,Bill McKown,104
+LEXINGTON,065 White Knoll,Secretary of State,,REPUBLICAN,Mark Hammond,86
+LEXINGTON,065 White Knoll,Secretary of State,,REPUBLICAN,Bill McKown,60
+LEXINGTON,066 Faith Church,Secretary of State,,REPUBLICAN,Mark Hammond,116
+LEXINGTON,066 Faith Church,Secretary of State,,REPUBLICAN,Bill McKown,71
+LEXINGTON,067 Kitti Wake,Secretary of State,,REPUBLICAN,Mark Hammond,87
+LEXINGTON,067 Kitti Wake,Secretary of State,,REPUBLICAN,Bill McKown,59
+LEXINGTON,068 Providence Church,Secretary of State,,REPUBLICAN,Mark Hammond,260
+LEXINGTON,068 Providence Church,Secretary of State,,REPUBLICAN,Bill McKown,152
+LEXINGTON,069 Boiling Springs South,Secretary of State,,REPUBLICAN,Mark Hammond,131
+LEXINGTON,069 Boiling Springs South,Secretary of State,,REPUBLICAN,Bill McKown,69
+LEXINGTON,070 Lexington #3,Secretary of State,,REPUBLICAN,Mark Hammond,160
+LEXINGTON,070 Lexington #3,Secretary of State,,REPUBLICAN,Bill McKown,102
+LEXINGTON,071 Lexington #4,Secretary of State,,REPUBLICAN,Mark Hammond,193
+LEXINGTON,071 Lexington #4,Secretary of State,,REPUBLICAN,Bill McKown,89
+LEXINGTON,072 Midway,Secretary of State,,REPUBLICAN,Mark Hammond,97
+LEXINGTON,072 Midway,Secretary of State,,REPUBLICAN,Bill McKown,59
+LEXINGTON,073 Park Road,Secretary of State,,REPUBLICAN,Mark Hammond,195
+LEXINGTON,073 Park Road,Secretary of State,,REPUBLICAN,Bill McKown,87
+LEXINGTON,074 Springdale South,Secretary of State,,REPUBLICAN,Mark Hammond,53
+LEXINGTON,074 Springdale South,Secretary of State,,REPUBLICAN,Bill McKown,46
+LEXINGTON,075 Gaston #2,Secretary of State,,REPUBLICAN,Mark Hammond,57
+LEXINGTON,075 Gaston #2,Secretary of State,,REPUBLICAN,Bill McKown,45
+LEXINGTON,076 Lake Murray #2,Secretary of State,,REPUBLICAN,Mark Hammond,193
+LEXINGTON,076 Lake Murray #2,Secretary of State,,REPUBLICAN,Bill McKown,82
+LEXINGTON,077 Congaree #2,Secretary of State,,REPUBLICAN,Mark Hammond,51
+LEXINGTON,077 Congaree #2,Secretary of State,,REPUBLICAN,Bill McKown,37
+LEXINGTON,078 Saint David,Secretary of State,,REPUBLICAN,Mark Hammond,155
+LEXINGTON,078 Saint David,Secretary of State,,REPUBLICAN,Bill McKown,75
+LEXINGTON,079 Mt Hebron,Secretary of State,,REPUBLICAN,Mark Hammond,79
+LEXINGTON,079 Mt Hebron,Secretary of State,,REPUBLICAN,Bill McKown,66
+LEXINGTON,080 Sandhills,Secretary of State,,REPUBLICAN,Mark Hammond,46
+LEXINGTON,080 Sandhills,Secretary of State,,REPUBLICAN,Bill McKown,21
+LEXINGTON,081 Bethany,Secretary of State,,REPUBLICAN,Mark Hammond,101
+LEXINGTON,081 Bethany,Secretary of State,,REPUBLICAN,Bill McKown,58
+LEXINGTON,082 Swansea #2,Secretary of State,,REPUBLICAN,Mark Hammond,88
+LEXINGTON,082 Swansea #2,Secretary of State,,REPUBLICAN,Bill McKown,40
+LEXINGTON,083 Pelion #2,Secretary of State,,REPUBLICAN,Mark Hammond,102
+LEXINGTON,083 Pelion #2,Secretary of State,,REPUBLICAN,Bill McKown,57
+LEXINGTON,084 Dreher Island,Secretary of State,,REPUBLICAN,Mark Hammond,125
+LEXINGTON,084 Dreher Island,Secretary of State,,REPUBLICAN,Bill McKown,65
+LEXINGTON,085 Old Lexington,Secretary of State,,REPUBLICAN,Mark Hammond,199
+LEXINGTON,085 Old Lexington,Secretary of State,,REPUBLICAN,Bill McKown,202
+LEXINGTON,086 Lincreek,Secretary of State,,REPUBLICAN,Mark Hammond,144
+LEXINGTON,086 Lincreek,Secretary of State,,REPUBLICAN,Bill McKown,63
+LEXINGTON,087 Cedar Crest,Secretary of State,,REPUBLICAN,Mark Hammond,77
+LEXINGTON,087 Cedar Crest,Secretary of State,,REPUBLICAN,Bill McKown,41
+LEXINGTON,088 Oakwood,Secretary of State,,REPUBLICAN,Mark Hammond,153
+LEXINGTON,088 Oakwood,Secretary of State,,REPUBLICAN,Bill McKown,105
+LEXINGTON,ABSENTEE,Secretary of State,,REPUBLICAN,Mark Hammond,717
+LEXINGTON,ABSENTEE,Secretary of State,,REPUBLICAN,Bill McKown,308
+LEXINGTON,EMERGENCY,Secretary of State,,REPUBLICAN,Mark Hammond,3
+LEXINGTON,EMERGENCY,Secretary of State,,REPUBLICAN,Bill McKown,3
+LEXINGTON,FAILSAFE,Secretary of State,,REPUBLICAN,Mark Hammond,27
+LEXINGTON,FAILSAFE,Secretary of State,,REPUBLICAN,Bill McKown,9
+LEXINGTON,PROVISIONAL,Secretary of State,,REPUBLICAN,Mark Hammond,0
+LEXINGTON,PROVISIONAL,Secretary of State,,REPUBLICAN,Bill McKown,0
+LEXINGTON,FAILSAFE PROVISIONAL,Secretary of State,,REPUBLICAN,Mark Hammond,18
+LEXINGTON,FAILSAFE PROVISIONAL,Secretary of State,,REPUBLICAN,Bill McKown,9
+LEXINGTON,005 Old Barnwell,State House,89,REPUBLICAN,Kenny Bingham,10
+LEXINGTON,005 Old Barnwell,State House,89,REPUBLICAN,Artie White,4
+LEXINGTON,014 Emmanuel Church,State House,89,REPUBLICAN,Kenny Bingham,1
+LEXINGTON,014 Emmanuel Church,State House,89,REPUBLICAN,Artie White,0
+LEXINGTON,030 Westover,State House,89,REPUBLICAN,Kenny Bingham,356
+LEXINGTON,030 Westover,State House,89,REPUBLICAN,Artie White,89
+LEXINGTON,031 Edenwood,State House,89,REPUBLICAN,Kenny Bingham,270
+LEXINGTON,031 Edenwood,State House,89,REPUBLICAN,Artie White,84
+LEXINGTON,035 Cayce #1,State House,89,REPUBLICAN,Kenny Bingham,124
+LEXINGTON,035 Cayce #1,State House,89,REPUBLICAN,Artie White,38
+LEXINGTON,036 Cayce #2,State House,89,REPUBLICAN,Kenny Bingham,91
+LEXINGTON,036 Cayce #2,State House,89,REPUBLICAN,Artie White,20
+LEXINGTON,037 Cayce #3,State House,89,REPUBLICAN,Kenny Bingham,108
+LEXINGTON,037 Cayce #3,State House,89,REPUBLICAN,Artie White,39
+LEXINGTON,040 Hooks Store,State House,89,REPUBLICAN,Kenny Bingham,199
+LEXINGTON,040 Hooks Store,State House,89,REPUBLICAN,Artie White,82
+LEXINGTON,041 Saluda River,State House,89,REPUBLICAN,Kenny Bingham,254
+LEXINGTON,041 Saluda River,State House,89,REPUBLICAN,Artie White,63
+LEXINGTON,042 Springdale,State House,89,REPUBLICAN,Kenny Bingham,271
+LEXINGTON,042 Springdale,State House,89,REPUBLICAN,Artie White,73
+LEXINGTON,043 Pineridge,State House,89,REPUBLICAN,Kenny Bingham,12
+LEXINGTON,043 Pineridge,State House,89,REPUBLICAN,Artie White,6
+LEXINGTON,044 West Columbia #1,State House,89,REPUBLICAN,Kenny Bingham,68
+LEXINGTON,044 West Columbia #1,State House,89,REPUBLICAN,Artie White,20
+LEXINGTON,045 West Columbia #2,State House,89,REPUBLICAN,Kenny Bingham,25
+LEXINGTON,045 West Columbia #2,State House,89,REPUBLICAN,Artie White,1
+LEXINGTON,046 West Columbia #3,State House,89,REPUBLICAN,Kenny Bingham,112
+LEXINGTON,046 West Columbia #3,State House,89,REPUBLICAN,Artie White,16
+LEXINGTON,047 West Columbia #4,State House,89,REPUBLICAN,Kenny Bingham,184
+LEXINGTON,047 West Columbia #4,State House,89,REPUBLICAN,Artie White,30
+LEXINGTON,055 Cayce 2A,State House,89,REPUBLICAN,Kenny Bingham,128
+LEXINGTON,055 Cayce 2A,State House,89,REPUBLICAN,Artie White,38
+LEXINGTON,074 Springdale South,State House,89,REPUBLICAN,Kenny Bingham,80
+LEXINGTON,074 Springdale South,State House,89,REPUBLICAN,Artie White,22
+LEXINGTON,ABSENTEE,State House,89,REPUBLICAN,Kenny Bingham,131
+LEXINGTON,ABSENTEE,State House,89,REPUBLICAN,Artie White,25
+LEXINGTON,EMERGENCY,State House,89,REPUBLICAN,Kenny Bingham,0
+LEXINGTON,EMERGENCY,State House,89,REPUBLICAN,Artie White,0
+LEXINGTON,FAILSAFE,State House,89,REPUBLICAN,Kenny Bingham,1
+LEXINGTON,FAILSAFE,State House,89,REPUBLICAN,Artie White,1
+LEXINGTON,PROVISIONAL,State House,89,REPUBLICAN,Kenny Bingham,0
+LEXINGTON,PROVISIONAL,State House,89,REPUBLICAN,Artie White,0
+LEXINGTON,008 Pond Branch,State House,96,REPUBLICAN,Ken Clark,59
+LEXINGTON,008 Pond Branch,State House,96,REPUBLICAN,Dean Rawls,41
+LEXINGTON,008 Pond Branch,State House,96,REPUBLICAN,Kit Spires,28
+LEXINGTON,016 Boiling Springs,State House,96,REPUBLICAN,Ken Clark,41
+LEXINGTON,016 Boiling Springs,State House,96,REPUBLICAN,Dean Rawls,75
+LEXINGTON,016 Boiling Springs,State House,96,REPUBLICAN,Kit Spires,40
+LEXINGTON,017 Edmund,State House,96,REPUBLICAN,Ken Clark,11
+LEXINGTON,017 Edmund,State House,96,REPUBLICAN,Dean Rawls,4
+LEXINGTON,017 Edmund,State House,96,REPUBLICAN,Kit Spires,19
+LEXINGTON,020 Fairview,State House,96,REPUBLICAN,Ken Clark,9
+LEXINGTON,020 Fairview,State House,96,REPUBLICAN,Dean Rawls,39
+LEXINGTON,020 Fairview,State House,96,REPUBLICAN,Kit Spires,62
+LEXINGTON,022 Pelion #1,State House,96,REPUBLICAN,Ken Clark,26
+LEXINGTON,022 Pelion #1,State House,96,REPUBLICAN,Dean Rawls,10
+LEXINGTON,022 Pelion #1,State House,96,REPUBLICAN,Kit Spires,123
+LEXINGTON,023 Mack Edisto,State House,96,REPUBLICAN,Ken Clark,28
+LEXINGTON,023 Mack Edisto,State House,96,REPUBLICAN,Dean Rawls,11
+LEXINGTON,023 Mack Edisto,State House,96,REPUBLICAN,Kit Spires,50
+LEXINGTON,024 Swansea #1,State House,96,REPUBLICAN,Ken Clark,17
+LEXINGTON,024 Swansea #1,State House,96,REPUBLICAN,Dean Rawls,2
+LEXINGTON,024 Swansea #1,State House,96,REPUBLICAN,Kit Spires,13
+LEXINGTON,026 Gaston #1,State House,96,REPUBLICAN,Ken Clark,20
+LEXINGTON,026 Gaston #1,State House,96,REPUBLICAN,Dean Rawls,8
+LEXINGTON,026 Gaston #1,State House,96,REPUBLICAN,Kit Spires,24
+LEXINGTON,027 Sharpes Hill,State House,96,REPUBLICAN,Ken Clark,55
+LEXINGTON,027 Sharpes Hill,State House,96,REPUBLICAN,Dean Rawls,12
+LEXINGTON,027 Sharpes Hill,State House,96,REPUBLICAN,Kit Spires,58
+LEXINGTON,069 Boiling Springs South,State House,96,REPUBLICAN,Ken Clark,82
+LEXINGTON,069 Boiling Springs South,State House,96,REPUBLICAN,Dean Rawls,43
+LEXINGTON,069 Boiling Springs South,State House,96,REPUBLICAN,Kit Spires,98
+LEXINGTON,075 Gaston #2,State House,96,REPUBLICAN,Ken Clark,56
+LEXINGTON,075 Gaston #2,State House,96,REPUBLICAN,Dean Rawls,11
+LEXINGTON,075 Gaston #2,State House,96,REPUBLICAN,Kit Spires,41
+LEXINGTON,080 Sandhills,State House,96,REPUBLICAN,Ken Clark,41
+LEXINGTON,080 Sandhills,State House,96,REPUBLICAN,Dean Rawls,9
+LEXINGTON,080 Sandhills,State House,96,REPUBLICAN,Kit Spires,26
+LEXINGTON,081 Bethany,State House,96,REPUBLICAN,Ken Clark,29
+LEXINGTON,081 Bethany,State House,96,REPUBLICAN,Dean Rawls,16
+LEXINGTON,081 Bethany,State House,96,REPUBLICAN,Kit Spires,52
+LEXINGTON,082 Swansea #2,State House,96,REPUBLICAN,Ken Clark,72
+LEXINGTON,082 Swansea #2,State House,96,REPUBLICAN,Dean Rawls,6
+LEXINGTON,082 Swansea #2,State House,96,REPUBLICAN,Kit Spires,62
+LEXINGTON,083 Pelion #2,State House,96,REPUBLICAN,Ken Clark,41
+LEXINGTON,083 Pelion #2,State House,96,REPUBLICAN,Dean Rawls,9
+LEXINGTON,083 Pelion #2,State House,96,REPUBLICAN,Kit Spires,129
+LEXINGTON,ABSENTEE,State House,96,REPUBLICAN,Ken Clark,22
+LEXINGTON,ABSENTEE,State House,96,REPUBLICAN,Dean Rawls,7
+LEXINGTON,ABSENTEE,State House,96,REPUBLICAN,Kit Spires,25
+LEXINGTON,EMERGENCY,State House,96,REPUBLICAN,Ken Clark,0
+LEXINGTON,EMERGENCY,State House,96,REPUBLICAN,Dean Rawls,0
+LEXINGTON,EMERGENCY,State House,96,REPUBLICAN,Kit Spires,0
+LEXINGTON,FAILSAFE,State House,96,REPUBLICAN,Ken Clark,2
+LEXINGTON,FAILSAFE,State House,96,REPUBLICAN,Dean Rawls,0
+LEXINGTON,FAILSAFE,State House,96,REPUBLICAN,Kit Spires,1
+LEXINGTON,PROVISIONAL,State House,96,REPUBLICAN,Ken Clark,0
+LEXINGTON,PROVISIONAL,State House,96,REPUBLICAN,Dean Rawls,0
+LEXINGTON,PROVISIONAL,State House,96,REPUBLICAN,Kit Spires,0
