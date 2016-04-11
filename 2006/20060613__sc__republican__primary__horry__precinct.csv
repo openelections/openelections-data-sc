@@ -1,0 +1,519 @@
+county,precinct,office,district,party,candidate,votes
+HORRY,ADRIAN,Governor,,REPUBLICAN,Oscar Fred Lovelace,59
+HORRY,ADRIAN,Governor,,REPUBLICAN,Mark Sanford,97
+HORRY,ALLSBROOK,Governor,,REPUBLICAN,Oscar Fred Lovelace,27
+HORRY,ALLSBROOK,Governor,,REPUBLICAN,Mark Sanford,57
+HORRY,ATLANTIC BEACH,Governor,,REPUBLICAN,Oscar Fred Lovelace,1
+HORRY,ATLANTIC BEACH,Governor,,REPUBLICAN,Mark Sanford,1
+HORRY,AYNOR,Governor,,REPUBLICAN,Oscar Fred Lovelace,60
+HORRY,AYNOR,Governor,,REPUBLICAN,Mark Sanford,213
+HORRY,BAYBORO,Governor,,REPUBLICAN,Oscar Fred Lovelace,36
+HORRY,BAYBORO,Governor,,REPUBLICAN,Mark Sanford,64
+HORRY,BROOKSVILLE,Governor,,REPUBLICAN,Oscar Fred Lovelace,36
+HORRY,BROOKSVILLE,Governor,,REPUBLICAN,Mark Sanford,133
+HORRY,BROWNWAY,Governor,,REPUBLICAN,Oscar Fred Lovelace,53
+HORRY,BROWNWAY,Governor,,REPUBLICAN,Mark Sanford,103
+HORRY,BURGESS #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,78
+HORRY,BURGESS #1,Governor,,REPUBLICAN,Mark Sanford,269
+HORRY,BURGESS #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,47
+HORRY,BURGESS #2,Governor,,REPUBLICAN,Mark Sanford,133
+HORRY,CAROLINA FOREST,Governor,,REPUBLICAN,Oscar Fred Lovelace,29
+HORRY,CAROLINA FOREST,Governor,,REPUBLICAN,Mark Sanford,127
+HORRY,CEDAR GROVE,Governor,,REPUBLICAN,Oscar Fred Lovelace,30
+HORRY,CEDAR GROVE,Governor,,REPUBLICAN,Mark Sanford,54
+HORRY,CHERRY GROVE #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,29
+HORRY,CHERRY GROVE #1,Governor,,REPUBLICAN,Mark Sanford,118
+HORRY,CHERRY GROVE #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,50
+HORRY,CHERRY GROVE #2,Governor,,REPUBLICAN,Mark Sanford,187
+HORRY,COASTAL CAROLINA,Governor,,REPUBLICAN,Oscar Fred Lovelace,60
+HORRY,COASTAL CAROLINA,Governor,,REPUBLICAN,Mark Sanford,184
+HORRY,COASTAL LANE #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,7
+HORRY,COASTAL LANE #1,Governor,,REPUBLICAN,Mark Sanford,17
+HORRY,COASTAL LANE #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,4
+HORRY,COASTAL LANE #2,Governor,,REPUBLICAN,Mark Sanford,24
+HORRY,COOL SPRINGS,Governor,,REPUBLICAN,Oscar Fred Lovelace,23
+HORRY,COOL SPRINGS,Governor,,REPUBLICAN,Mark Sanford,53
+HORRY,CRESCENT,Governor,,REPUBLICAN,Oscar Fred Lovelace,28
+HORRY,CRESCENT,Governor,,REPUBLICAN,Mark Sanford,118
+HORRY,DAISY,Governor,,REPUBLICAN,Oscar Fred Lovelace,29
+HORRY,DAISY,Governor,,REPUBLICAN,Mark Sanford,71
+HORRY,DEERFIELD,Governor,,REPUBLICAN,Oscar Fred Lovelace,49
+HORRY,DEERFIELD,Governor,,REPUBLICAN,Mark Sanford,200
+HORRY,DOGBLUFF,Governor,,REPUBLICAN,Oscar Fred Lovelace,41
+HORRY,DOGBLUFF,Governor,,REPUBLICAN,Mark Sanford,84
+HORRY,DOGWOOD,Governor,,REPUBLICAN,Oscar Fred Lovelace,10
+HORRY,DOGWOOD,Governor,,REPUBLICAN,Mark Sanford,38
+HORRY,DUNES #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,114
+HORRY,DUNES #1,Governor,,REPUBLICAN,Mark Sanford,315
+HORRY,DUNES #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,36
+HORRY,DUNES #2,Governor,,REPUBLICAN,Mark Sanford,156
+HORRY,DUNES #3,Governor,,REPUBLICAN,Oscar Fred Lovelace,41
+HORRY,DUNES #3,Governor,,REPUBLICAN,Mark Sanford,142
+HORRY,EAST CONWAY,Governor,,REPUBLICAN,Oscar Fred Lovelace,76
+HORRY,EAST CONWAY,Governor,,REPUBLICAN,Mark Sanford,149
+HORRY,EAST LORIS,Governor,,REPUBLICAN,Oscar Fred Lovelace,93
+HORRY,EAST LORIS,Governor,,REPUBLICAN,Mark Sanford,250
+HORRY,EBENEZER,Governor,,REPUBLICAN,Oscar Fred Lovelace,39
+HORRY,EBENEZER,Governor,,REPUBLICAN,Mark Sanford,109
+HORRY,EMERALD FOREST,Governor,,REPUBLICAN,Oscar Fred Lovelace,26
+HORRY,EMERALD FOREST,Governor,,REPUBLICAN,Mark Sanford,79
+HORRY,ENTERPRISE,Governor,,REPUBLICAN,Oscar Fred Lovelace,24
+HORRY,ENTERPRISE,Governor,,REPUBLICAN,Mark Sanford,80
+HORRY,FLOYDS,Governor,,REPUBLICAN,Oscar Fred Lovelace,15
+HORRY,FLOYDS,Governor,,REPUBLICAN,Mark Sanford,30
+HORRY,FORESTBROOK,Governor,,REPUBLICAN,Oscar Fred Lovelace,30
+HORRY,FORESTBROOK,Governor,,REPUBLICAN,Mark Sanford,137
+HORRY,FOUR MILE,Governor,,REPUBLICAN,Oscar Fred Lovelace,35
+HORRY,FOUR MILE,Governor,,REPUBLICAN,Mark Sanford,81
+HORRY,GALIVANTS FERRY,Governor,,REPUBLICAN,Oscar Fred Lovelace,6
+HORRY,GALIVANTS FERRY,Governor,,REPUBLICAN,Mark Sanford,18
+HORRY,GARDEN CITY #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,29
+HORRY,GARDEN CITY #1,Governor,,REPUBLICAN,Mark Sanford,124
+HORRY,GARDEN CITY #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,57
+HORRY,GARDEN CITY #2,Governor,,REPUBLICAN,Mark Sanford,130
+HORRY,GARDEN CITY #3,Governor,,REPUBLICAN,Oscar Fred Lovelace,36
+HORRY,GARDEN CITY #3,Governor,,REPUBLICAN,Mark Sanford,148
+HORRY,GARDEN CITY #4,Governor,,REPUBLICAN,Oscar Fred Lovelace,25
+HORRY,GARDEN CITY #4,Governor,,REPUBLICAN,Mark Sanford,133
+HORRY,GLENNS BAY,Governor,,REPUBLICAN,Oscar Fred Lovelace,53
+HORRY,GLENNS BAY,Governor,,REPUBLICAN,Mark Sanford,130
+HORRY,GREEN SEA,Governor,,REPUBLICAN,Oscar Fred Lovelace,25
+HORRY,GREEN SEA,Governor,,REPUBLICAN,Mark Sanford,68
+HORRY,GURLEY,Governor,,REPUBLICAN,Oscar Fred Lovelace,8
+HORRY,GURLEY,Governor,,REPUBLICAN,Mark Sanford,5
+HORRY,HICKORY GROVE,Governor,,REPUBLICAN,Oscar Fred Lovelace,43
+HORRY,HICKORY GROVE,Governor,,REPUBLICAN,Mark Sanford,134
+HORRY,HICKORY HILL,Governor,,REPUBLICAN,Oscar Fred Lovelace,5
+HORRY,HICKORY HILL,Governor,,REPUBLICAN,Mark Sanford,36
+HORRY,HOMEWOOD,Governor,,REPUBLICAN,Oscar Fred Lovelace,39
+HORRY,HOMEWOOD,Governor,,REPUBLICAN,Mark Sanford,72
+HORRY,HORRY,Governor,,REPUBLICAN,Oscar Fred Lovelace,32
+HORRY,HORRY,Governor,,REPUBLICAN,Mark Sanford,89
+HORRY,JAMESTOWN,Governor,,REPUBLICAN,Oscar Fred Lovelace,72
+HORRY,JAMESTOWN,Governor,,REPUBLICAN,Mark Sanford,128
+HORRY,JERNIGANS CROSS RD,Governor,,REPUBLICAN,Oscar Fred Lovelace,9
+HORRY,JERNIGANS CROSS RD,Governor,,REPUBLICAN,Mark Sanford,41
+HORRY,JET PORT #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,12
+HORRY,JET PORT #1,Governor,,REPUBLICAN,Mark Sanford,46
+HORRY,JET PORT #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,11
+HORRY,JET PORT #2,Governor,,REPUBLICAN,Mark Sanford,63
+HORRY,JORDANVILLE,Governor,,REPUBLICAN,Oscar Fred Lovelace,13
+HORRY,JORDANVILLE,Governor,,REPUBLICAN,Mark Sanford,57
+HORRY,JOYNER SWAMP,Governor,,REPUBLICAN,Oscar Fred Lovelace,16
+HORRY,JOYNER SWAMP,Governor,,REPUBLICAN,Mark Sanford,29
+HORRY,JUNIPER BAY,Governor,,REPUBLICAN,Oscar Fred Lovelace,41
+HORRY,JUNIPER BAY,Governor,,REPUBLICAN,Mark Sanford,130
+HORRY,LAKE PARK,Governor,,REPUBLICAN,Oscar Fred Lovelace,56
+HORRY,LAKE PARK,Governor,,REPUBLICAN,Mark Sanford,141
+HORRY,LEON,Governor,,REPUBLICAN,Oscar Fred Lovelace,18
+HORRY,LEON,Governor,,REPUBLICAN,Mark Sanford,25
+HORRY,LITTLE RIVER #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,47
+HORRY,LITTLE RIVER #1,Governor,,REPUBLICAN,Mark Sanford,190
+HORRY,LITTLE RIVER #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,50
+HORRY,LITTLE RIVER #2,Governor,,REPUBLICAN,Mark Sanford,214
+HORRY,LITTLE RIVER #3,Governor,,REPUBLICAN,Oscar Fred Lovelace,46
+HORRY,LITTLE RIVER #3,Governor,,REPUBLICAN,Mark Sanford,213
+HORRY,LIVE OAK,Governor,,REPUBLICAN,Oscar Fred Lovelace,19
+HORRY,LIVE OAK,Governor,,REPUBLICAN,Mark Sanford,30
+HORRY,MAPLE,Governor,,REPUBLICAN,Oscar Fred Lovelace,60
+HORRY,MAPLE,Governor,,REPUBLICAN,Mark Sanford,90
+HORRY,MARLOWE,Governor,,REPUBLICAN,Oscar Fred Lovelace,69
+HORRY,MARLOWE,Governor,,REPUBLICAN,Mark Sanford,236
+HORRY,METHODIST REHOBETH,Governor,,REPUBLICAN,Oscar Fred Lovelace,14
+HORRY,METHODIST REHOBETH,Governor,,REPUBLICAN,Mark Sanford,49
+HORRY,MILL SWAMP,Governor,,REPUBLICAN,Oscar Fred Lovelace,11
+HORRY,MILL SWAMP,Governor,,REPUBLICAN,Mark Sanford,37
+HORRY,MT OLIVE,Governor,,REPUBLICAN,Oscar Fred Lovelace,12
+HORRY,MT OLIVE,Governor,,REPUBLICAN,Mark Sanford,37
+HORRY,MT VERNON,Governor,,REPUBLICAN,Oscar Fred Lovelace,10
+HORRY,MT VERNON,Governor,,REPUBLICAN,Mark Sanford,63
+HORRY,MYRTLE TRACE,Governor,,REPUBLICAN,Oscar Fred Lovelace,84
+HORRY,MYRTLE TRACE,Governor,,REPUBLICAN,Mark Sanford,298
+HORRY,MYRTLEWOOD #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,31
+HORRY,MYRTLEWOOD #1,Governor,,REPUBLICAN,Mark Sanford,91
+HORRY,MYRTLEWOOD #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,93
+HORRY,MYRTLEWOOD #2,Governor,,REPUBLICAN,Mark Sanford,194
+HORRY,MYRTLEWOOD #3,Governor,,REPUBLICAN,Oscar Fred Lovelace,44
+HORRY,MYRTLEWOOD #3,Governor,,REPUBLICAN,Mark Sanford,169
+HORRY,NIXONS CROSS RD #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,39
+HORRY,NIXONS CROSS RD #1,Governor,,REPUBLICAN,Mark Sanford,148
+HORRY,NIXONS CROSS RD #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,19
+HORRY,NIXONS CROSS RD #2,Governor,,REPUBLICAN,Mark Sanford,110
+HORRY,NORTH CONWAY #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,23
+HORRY,NORTH CONWAY #1,Governor,,REPUBLICAN,Mark Sanford,52
+HORRY,NORTH CONWAY #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,81
+HORRY,NORTH CONWAY #2,Governor,,REPUBLICAN,Mark Sanford,144
+HORRY,NORTON,Governor,,REPUBLICAN,Oscar Fred Lovelace,11
+HORRY,NORTON,Governor,,REPUBLICAN,Mark Sanford,9
+HORRY,OCEAN DRIVE #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,50
+HORRY,OCEAN DRIVE #1,Governor,,REPUBLICAN,Mark Sanford,150
+HORRY,OCEAN DRIVE #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,65
+HORRY,OCEAN DRIVE #2,Governor,,REPUBLICAN,Mark Sanford,353
+HORRY,OCEAN FOREST #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,49
+HORRY,OCEAN FOREST #1,Governor,,REPUBLICAN,Mark Sanford,183
+HORRY,OCEAN FOREST #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,81
+HORRY,OCEAN FOREST #2,Governor,,REPUBLICAN,Mark Sanford,188
+HORRY,OCEAN FOREST #3,Governor,,REPUBLICAN,Oscar Fred Lovelace,38
+HORRY,OCEAN FOREST #3,Governor,,REPUBLICAN,Mark Sanford,86
+HORRY,PALMETTO BAYS,Governor,,REPUBLICAN,Oscar Fred Lovelace,32
+HORRY,PALMETTO BAYS,Governor,,REPUBLICAN,Mark Sanford,118
+HORRY,PALMETTO BAYS,Governor,,REPUBLICAN,Oscar Fred Lovelace,6
+HORRY,PALMETTO BAYS,Governor,,REPUBLICAN,Mark Sanford,24
+HORRY,PLEASANT VIEW,Governor,,REPUBLICAN,Oscar Fred Lovelace,13
+HORRY,PLEASANT VIEW,Governor,,REPUBLICAN,Mark Sanford,19
+HORRY,POPLAR HILL,Governor,,REPUBLICAN,Oscar Fred Lovelace,30
+HORRY,POPLAR HILL,Governor,,REPUBLICAN,Mark Sanford,80
+HORRY,PORT HARRELSON,Governor,,REPUBLICAN,Oscar Fred Lovelace,3
+HORRY,PORT HARRELSON,Governor,,REPUBLICAN,Mark Sanford,7
+HORRY,RACEPATH #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,12
+HORRY,RACEPATH #1,Governor,,REPUBLICAN,Mark Sanford,33
+HORRY,RACEPATH #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,12
+HORRY,RACEPATH #2,Governor,,REPUBLICAN,Mark Sanford,10
+HORRY,RED BLUFF,Governor,,REPUBLICAN,Oscar Fred Lovelace,13
+HORRY,RED BLUFF,Governor,,REPUBLICAN,Mark Sanford,18
+HORRY,RED HILL #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,23
+HORRY,RED HILL #1,Governor,,REPUBLICAN,Mark Sanford,53
+HORRY,RED HILL #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,53
+HORRY,RED HILL #2,Governor,,REPUBLICAN,Mark Sanford,153
+HORRY,SALEM,Governor,,REPUBLICAN,Oscar Fred Lovelace,76
+HORRY,SALEM,Governor,,REPUBLICAN,Mark Sanford,123
+HORRY,SEA OATS #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,33
+HORRY,SEA OATS #1,Governor,,REPUBLICAN,Mark Sanford,94
+HORRY,SEA OATS #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,25
+HORRY,SEA OATS #2,Governor,,REPUBLICAN,Mark Sanford,69
+HORRY,SOCASTEE #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,55
+HORRY,SOCASTEE #1,Governor,,REPUBLICAN,Mark Sanford,143
+HORRY,SOCASTEE #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,28
+HORRY,SOCASTEE #2,Governor,,REPUBLICAN,Mark Sanford,77
+HORRY,SOCASTEE #3,Governor,,REPUBLICAN,Oscar Fred Lovelace,38
+HORRY,SOCASTEE #3,Governor,,REPUBLICAN,Mark Sanford,81
+HORRY,SOCASTEE #4,Governor,,REPUBLICAN,Oscar Fred Lovelace,27
+HORRY,SOCASTEE #4,Governor,,REPUBLICAN,Mark Sanford,98
+HORRY,SPRING BRANCH,Governor,,REPUBLICAN,Oscar Fred Lovelace,8
+HORRY,SPRING BRANCH,Governor,,REPUBLICAN,Mark Sanford,40
+HORRY,SURFSIDE #1,Governor,,REPUBLICAN,Oscar Fred Lovelace,50
+HORRY,SURFSIDE #1,Governor,,REPUBLICAN,Mark Sanford,176
+HORRY,SURFSIDE #2,Governor,,REPUBLICAN,Oscar Fred Lovelace,39
+HORRY,SURFSIDE #2,Governor,,REPUBLICAN,Mark Sanford,138
+HORRY,SURFSIDE #3,Governor,,REPUBLICAN,Oscar Fred Lovelace,29
+HORRY,SURFSIDE #3,Governor,,REPUBLICAN,Mark Sanford,122
+HORRY,SURFSIDE #4,Governor,,REPUBLICAN,Oscar Fred Lovelace,35
+HORRY,SURFSIDE #4,Governor,,REPUBLICAN,Mark Sanford,156
+HORRY,SWEET HOME,Governor,,REPUBLICAN,Oscar Fred Lovelace,10
+HORRY,SWEET HOME,Governor,,REPUBLICAN,Mark Sanford,32
+HORRY,TAYLORSVILLE,Governor,,REPUBLICAN,Oscar Fred Lovelace,14
+HORRY,TAYLORSVILLE,Governor,,REPUBLICAN,Mark Sanford,31
+HORRY,TILLY SWAMP,Governor,,REPUBLICAN,Oscar Fred Lovelace,39
+HORRY,TILLY SWAMP,Governor,,REPUBLICAN,Mark Sanford,63
+HORRY,TODDVILLE,Governor,,REPUBLICAN,Oscar Fred Lovelace,40
+HORRY,TODDVILLE,Governor,,REPUBLICAN,Mark Sanford,80
+HORRY,WAMPEE,Governor,,REPUBLICAN,Oscar Fred Lovelace,10
+HORRY,WAMPEE,Governor,,REPUBLICAN,Mark Sanford,29
+HORRY,WEST CONWAY,Governor,,REPUBLICAN,Oscar Fred Lovelace,27
+HORRY,WEST CONWAY,Governor,,REPUBLICAN,Mark Sanford,59
+HORRY,WEST LORIS,Governor,,REPUBLICAN,Oscar Fred Lovelace,21
+HORRY,WEST LORIS,Governor,,REPUBLICAN,Mark Sanford,52
+HORRY,WHITE OAK,Governor,,REPUBLICAN,Oscar Fred Lovelace,36
+HORRY,WHITE OAK,Governor,,REPUBLICAN,Mark Sanford,50
+HORRY,WILD WING,Governor,,REPUBLICAN,Oscar Fred Lovelace,53
+HORRY,WILD WING,Governor,,REPUBLICAN,Mark Sanford,130
+HORRY,WINDY HILL,Governor,,REPUBLICAN,Oscar Fred Lovelace,48
+HORRY,WINDY HILL,Governor,,REPUBLICAN,Mark Sanford,135
+HORRY,ABSENTEE,Governor,,REPUBLICAN,Oscar Fred Lovelace,119
+HORRY,ABSENTEE,Governor,,REPUBLICAN,Mark Sanford,413
+HORRY,EMERGENCY,Governor,,REPUBLICAN,Oscar Fred Lovelace,3
+HORRY,EMERGENCY,Governor,,REPUBLICAN,Mark Sanford,17
+HORRY,FAILSAFE,Governor,,REPUBLICAN,Oscar Fred Lovelace,14
+HORRY,FAILSAFE,Governor,,REPUBLICAN,Mark Sanford,23
+HORRY,PROVISIONAL,Governor,,REPUBLICAN,Oscar Fred Lovelace,0
+HORRY,PROVISIONAL,Governor,,REPUBLICAN,Mark Sanford,0
+HORRY,PROVISIONAL/FAILSAFE,Governor,,REPUBLICAN,Oscar Fred Lovelace,0
+HORRY,PROVISIONAL/FAILSAFE,Governor,,REPUBLICAN,Mark Sanford,0
+HORRY,ADRIAN,Secretary of State,,REPUBLICAN,Mark Hammond,81
+HORRY,ADRIAN,Secretary of State,,REPUBLICAN,Bill McKown,61
+HORRY,ALLSBROOK,Secretary of State,,REPUBLICAN,Mark Hammond,37
+HORRY,ALLSBROOK,Secretary of State,,REPUBLICAN,Bill McKown,40
+HORRY,ATLANTIC BEACH,Secretary of State,,REPUBLICAN,Mark Hammond,1
+HORRY,ATLANTIC BEACH,Secretary of State,,REPUBLICAN,Bill McKown,1
+HORRY,AYNOR,Secretary of State,,REPUBLICAN,Mark Hammond,132
+HORRY,AYNOR,Secretary of State,,REPUBLICAN,Bill McKown,113
+HORRY,BAYBORO,Secretary of State,,REPUBLICAN,Mark Hammond,44
+HORRY,BAYBORO,Secretary of State,,REPUBLICAN,Bill McKown,44
+HORRY,BROOKSVILLE,Secretary of State,,REPUBLICAN,Mark Hammond,84
+HORRY,BROOKSVILLE,Secretary of State,,REPUBLICAN,Bill McKown,68
+HORRY,BROWNWAY,Secretary of State,,REPUBLICAN,Mark Hammond,81
+HORRY,BROWNWAY,Secretary of State,,REPUBLICAN,Bill McKown,61
+HORRY,BURGESS #1,Secretary of State,,REPUBLICAN,Mark Hammond,142
+HORRY,BURGESS #1,Secretary of State,,REPUBLICAN,Bill McKown,167
+HORRY,BURGESS #2,Secretary of State,,REPUBLICAN,Mark Hammond,85
+HORRY,BURGESS #2,Secretary of State,,REPUBLICAN,Bill McKown,65
+HORRY,CAROLINA FOREST,Secretary of State,,REPUBLICAN,Mark Hammond,78
+HORRY,CAROLINA FOREST,Secretary of State,,REPUBLICAN,Bill McKown,55
+HORRY,CEDAR GROVE,Secretary of State,,REPUBLICAN,Mark Hammond,39
+HORRY,CEDAR GROVE,Secretary of State,,REPUBLICAN,Bill McKown,42
+HORRY,CHERRY GROVE #1,Secretary of State,,REPUBLICAN,Mark Hammond,72
+HORRY,CHERRY GROVE #1,Secretary of State,,REPUBLICAN,Bill McKown,57
+HORRY,CHERRY GROVE #2,Secretary of State,,REPUBLICAN,Mark Hammond,80
+HORRY,CHERRY GROVE #2,Secretary of State,,REPUBLICAN,Bill McKown,114
+HORRY,COASTAL CAROLINA,Secretary of State,,REPUBLICAN,Mark Hammond,118
+HORRY,COASTAL CAROLINA,Secretary of State,,REPUBLICAN,Bill McKown,97
+HORRY,COASTAL LANE #1,Secretary of State,,REPUBLICAN,Mark Hammond,9
+HORRY,COASTAL LANE #1,Secretary of State,,REPUBLICAN,Bill McKown,13
+HORRY,COASTAL LANE #2,Secretary of State,,REPUBLICAN,Mark Hammond,11
+HORRY,COASTAL LANE #2,Secretary of State,,REPUBLICAN,Bill McKown,15
+HORRY,COOL SPRINGS,Secretary of State,,REPUBLICAN,Mark Hammond,37
+HORRY,COOL SPRINGS,Secretary of State,,REPUBLICAN,Bill McKown,31
+HORRY,CRESCENT,Secretary of State,,REPUBLICAN,Mark Hammond,56
+HORRY,CRESCENT,Secretary of State,,REPUBLICAN,Bill McKown,68
+HORRY,DAISY,Secretary of State,,REPUBLICAN,Mark Hammond,54
+HORRY,DAISY,Secretary of State,,REPUBLICAN,Bill McKown,34
+HORRY,DEERFIELD,Secretary of State,,REPUBLICAN,Mark Hammond,90
+HORRY,DEERFIELD,Secretary of State,,REPUBLICAN,Bill McKown,132
+HORRY,DOGBLUFF,Secretary of State,,REPUBLICAN,Mark Hammond,65
+HORRY,DOGBLUFF,Secretary of State,,REPUBLICAN,Bill McKown,47
+HORRY,DOGWOOD,Secretary of State,,REPUBLICAN,Mark Hammond,24
+HORRY,DOGWOOD,Secretary of State,,REPUBLICAN,Bill McKown,19
+HORRY,DUNES #1,Secretary of State,,REPUBLICAN,Mark Hammond,156
+HORRY,DUNES #1,Secretary of State,,REPUBLICAN,Bill McKown,189
+HORRY,DUNES #2,Secretary of State,,REPUBLICAN,Mark Hammond,82
+HORRY,DUNES #2,Secretary of State,,REPUBLICAN,Bill McKown,87
+HORRY,DUNES #3,Secretary of State,,REPUBLICAN,Mark Hammond,87
+HORRY,DUNES #3,Secretary of State,,REPUBLICAN,Bill McKown,58
+HORRY,EAST CONWAY,Secretary of State,,REPUBLICAN,Mark Hammond,107
+HORRY,EAST CONWAY,Secretary of State,,REPUBLICAN,Bill McKown,101
+HORRY,EAST LORIS,Secretary of State,,REPUBLICAN,Mark Hammond,151
+HORRY,EAST LORIS,Secretary of State,,REPUBLICAN,Bill McKown,153
+HORRY,EBENEZER,Secretary of State,,REPUBLICAN,Mark Hammond,52
+HORRY,EBENEZER,Secretary of State,,REPUBLICAN,Bill McKown,80
+HORRY,EMERALD FOREST,Secretary of State,,REPUBLICAN,Mark Hammond,54
+HORRY,EMERALD FOREST,Secretary of State,,REPUBLICAN,Bill McKown,40
+HORRY,ENTERPRISE,Secretary of State,,REPUBLICAN,Mark Hammond,55
+HORRY,ENTERPRISE,Secretary of State,,REPUBLICAN,Bill McKown,40
+HORRY,FLOYDS,Secretary of State,,REPUBLICAN,Mark Hammond,20
+HORRY,FLOYDS,Secretary of State,,REPUBLICAN,Bill McKown,19
+HORRY,FORESTBROOK,Secretary of State,,REPUBLICAN,Mark Hammond,79
+HORRY,FORESTBROOK,Secretary of State,,REPUBLICAN,Bill McKown,70
+HORRY,FOUR MILE,Secretary of State,,REPUBLICAN,Mark Hammond,61
+HORRY,FOUR MILE,Secretary of State,,REPUBLICAN,Bill McKown,42
+HORRY,GALIVANTS FERRY,Secretary of State,,REPUBLICAN,Mark Hammond,12
+HORRY,GALIVANTS FERRY,Secretary of State,,REPUBLICAN,Bill McKown,10
+HORRY,GARDEN CITY #1,Secretary of State,,REPUBLICAN,Mark Hammond,50
+HORRY,GARDEN CITY #1,Secretary of State,,REPUBLICAN,Bill McKown,85
+HORRY,GARDEN CITY #2,Secretary of State,,REPUBLICAN,Mark Hammond,58
+HORRY,GARDEN CITY #2,Secretary of State,,REPUBLICAN,Bill McKown,109
+HORRY,GARDEN CITY #3,Secretary of State,,REPUBLICAN,Mark Hammond,74
+HORRY,GARDEN CITY #3,Secretary of State,,REPUBLICAN,Bill McKown,94
+HORRY,GARDEN CITY #4,Secretary of State,,REPUBLICAN,Mark Hammond,68
+HORRY,GARDEN CITY #4,Secretary of State,,REPUBLICAN,Bill McKown,73
+HORRY,GLENNS BAY,Secretary of State,,REPUBLICAN,Mark Hammond,76
+HORRY,GLENNS BAY,Secretary of State,,REPUBLICAN,Bill McKown,83
+HORRY,GREEN SEA,Secretary of State,,REPUBLICAN,Mark Hammond,48
+HORRY,GREEN SEA,Secretary of State,,REPUBLICAN,Bill McKown,37
+HORRY,GURLEY,Secretary of State,,REPUBLICAN,Mark Hammond,6
+HORRY,GURLEY,Secretary of State,,REPUBLICAN,Bill McKown,7
+HORRY,HICKORY GROVE,Secretary of State,,REPUBLICAN,Mark Hammond,93
+HORRY,HICKORY GROVE,Secretary of State,,REPUBLICAN,Bill McKown,70
+HORRY,HICKORY HILL,Secretary of State,,REPUBLICAN,Mark Hammond,29
+HORRY,HICKORY HILL,Secretary of State,,REPUBLICAN,Bill McKown,10
+HORRY,HOMEWOOD,Secretary of State,,REPUBLICAN,Mark Hammond,44
+HORRY,HOMEWOOD,Secretary of State,,REPUBLICAN,Bill McKown,55
+HORRY,HORRY,Secretary of State,,REPUBLICAN,Mark Hammond,59
+HORRY,HORRY,Secretary of State,,REPUBLICAN,Bill McKown,62
+HORRY,JAMESTOWN,Secretary of State,,REPUBLICAN,Mark Hammond,96
+HORRY,JAMESTOWN,Secretary of State,,REPUBLICAN,Bill McKown,88
+HORRY,JERNIGANS CROSS RD,Secretary of State,,REPUBLICAN,Mark Hammond,26
+HORRY,JERNIGANS CROSS RD,Secretary of State,,REPUBLICAN,Bill McKown,15
+HORRY,JET PORT #1,Secretary of State,,REPUBLICAN,Mark Hammond,23
+HORRY,JET PORT #1,Secretary of State,,REPUBLICAN,Bill McKown,25
+HORRY,JET PORT #2,Secretary of State,,REPUBLICAN,Mark Hammond,36
+HORRY,JET PORT #2,Secretary of State,,REPUBLICAN,Bill McKown,34
+HORRY,JORDANVILLE,Secretary of State,,REPUBLICAN,Mark Hammond,43
+HORRY,JORDANVILLE,Secretary of State,,REPUBLICAN,Bill McKown,27
+HORRY,JOYNER SWAMP,Secretary of State,,REPUBLICAN,Mark Hammond,25
+HORRY,JOYNER SWAMP,Secretary of State,,REPUBLICAN,Bill McKown,14
+HORRY,JUNIPER BAY,Secretary of State,,REPUBLICAN,Mark Hammond,92
+HORRY,JUNIPER BAY,Secretary of State,,REPUBLICAN,Bill McKown,58
+HORRY,LAKE PARK,Secretary of State,,REPUBLICAN,Mark Hammond,91
+HORRY,LAKE PARK,Secretary of State,,REPUBLICAN,Bill McKown,84
+HORRY,LEON,Secretary of State,,REPUBLICAN,Mark Hammond,20
+HORRY,LEON,Secretary of State,,REPUBLICAN,Bill McKown,21
+HORRY,LITTLE RIVER #1,Secretary of State,,REPUBLICAN,Mark Hammond,101
+HORRY,LITTLE RIVER #1,Secretary of State,,REPUBLICAN,Bill McKown,91
+HORRY,LITTLE RIVER #2,Secretary of State,,REPUBLICAN,Mark Hammond,110
+HORRY,LITTLE RIVER #2,Secretary of State,,REPUBLICAN,Bill McKown,108
+HORRY,LITTLE RIVER #3,Secretary of State,,REPUBLICAN,Mark Hammond,95
+HORRY,LITTLE RIVER #3,Secretary of State,,REPUBLICAN,Bill McKown,108
+HORRY,LIVE OAK,Secretary of State,,REPUBLICAN,Mark Hammond,21
+HORRY,LIVE OAK,Secretary of State,,REPUBLICAN,Bill McKown,25
+HORRY,MAPLE,Secretary of State,,REPUBLICAN,Mark Hammond,66
+HORRY,MAPLE,Secretary of State,,REPUBLICAN,Bill McKown,72
+HORRY,MARLOWE,Secretary of State,,REPUBLICAN,Mark Hammond,113
+HORRY,MARLOWE,Secretary of State,,REPUBLICAN,Bill McKown,156
+HORRY,METHODIST REHOBETH,Secretary of State,,REPUBLICAN,Mark Hammond,29
+HORRY,METHODIST REHOBETH,Secretary of State,,REPUBLICAN,Bill McKown,29
+HORRY,MILL SWAMP,Secretary of State,,REPUBLICAN,Mark Hammond,27
+HORRY,MILL SWAMP,Secretary of State,,REPUBLICAN,Bill McKown,19
+HORRY,MT OLIVE,Secretary of State,,REPUBLICAN,Mark Hammond,23
+HORRY,MT OLIVE,Secretary of State,,REPUBLICAN,Bill McKown,21
+HORRY,MT VERNON,Secretary of State,,REPUBLICAN,Mark Hammond,33
+HORRY,MT VERNON,Secretary of State,,REPUBLICAN,Bill McKown,33
+HORRY,MYRTLE TRACE,Secretary of State,,REPUBLICAN,Mark Hammond,163
+HORRY,MYRTLE TRACE,Secretary of State,,REPUBLICAN,Bill McKown,149
+HORRY,MYRTLEWOOD #1,Secretary of State,,REPUBLICAN,Mark Hammond,54
+HORRY,MYRTLEWOOD #1,Secretary of State,,REPUBLICAN,Bill McKown,44
+HORRY,MYRTLEWOOD #2,Secretary of State,,REPUBLICAN,Mark Hammond,124
+HORRY,MYRTLEWOOD #2,Secretary of State,,REPUBLICAN,Bill McKown,131
+HORRY,MYRTLEWOOD #3,Secretary of State,,REPUBLICAN,Mark Hammond,81
+HORRY,MYRTLEWOOD #3,Secretary of State,,REPUBLICAN,Bill McKown,102
+HORRY,NIXONS CROSS RD #1,Secretary of State,,REPUBLICAN,Mark Hammond,89
+HORRY,NIXONS CROSS RD #1,Secretary of State,,REPUBLICAN,Bill McKown,81
+HORRY,NIXONS CROSS RD #2,Secretary of State,,REPUBLICAN,Mark Hammond,52
+HORRY,NIXONS CROSS RD #2,Secretary of State,,REPUBLICAN,Bill McKown,60
+HORRY,NORTH CONWAY #1,Secretary of State,,REPUBLICAN,Mark Hammond,39
+HORRY,NORTH CONWAY #1,Secretary of State,,REPUBLICAN,Bill McKown,22
+HORRY,NORTH CONWAY #2,Secretary of State,,REPUBLICAN,Mark Hammond,106
+HORRY,NORTH CONWAY #2,Secretary of State,,REPUBLICAN,Bill McKown,95
+HORRY,NORTON,Secretary of State,,REPUBLICAN,Mark Hammond,6
+HORRY,NORTON,Secretary of State,,REPUBLICAN,Bill McKown,12
+HORRY,OCEAN DRIVE #1,Secretary of State,,REPUBLICAN,Mark Hammond,85
+HORRY,OCEAN DRIVE #1,Secretary of State,,REPUBLICAN,Bill McKown,97
+HORRY,OCEAN DRIVE #2,Secretary of State,,REPUBLICAN,Mark Hammond,169
+HORRY,OCEAN DRIVE #2,Secretary of State,,REPUBLICAN,Bill McKown,196
+HORRY,OCEAN FOREST #1,Secretary of State,,REPUBLICAN,Mark Hammond,100
+HORRY,OCEAN FOREST #1,Secretary of State,,REPUBLICAN,Bill McKown,98
+HORRY,OCEAN FOREST #2,Secretary of State,,REPUBLICAN,Mark Hammond,99
+HORRY,OCEAN FOREST #2,Secretary of State,,REPUBLICAN,Bill McKown,117
+HORRY,OCEAN FOREST #3,Secretary of State,,REPUBLICAN,Mark Hammond,53
+HORRY,OCEAN FOREST #3,Secretary of State,,REPUBLICAN,Bill McKown,55
+HORRY,PALMETTO BAYS,Secretary of State,,REPUBLICAN,Mark Hammond,63
+HORRY,PALMETTO BAYS,Secretary of State,,REPUBLICAN,Bill McKown,66
+HORRY,PALMETTO BAYS,Secretary of State,,REPUBLICAN,Mark Hammond,15
+HORRY,PALMETTO BAYS,Secretary of State,,REPUBLICAN,Bill McKown,12
+HORRY,PLEASANT VIEW,Secretary of State,,REPUBLICAN,Mark Hammond,16
+HORRY,PLEASANT VIEW,Secretary of State,,REPUBLICAN,Bill McKown,11
+HORRY,POPLAR HILL,Secretary of State,,REPUBLICAN,Mark Hammond,56
+HORRY,POPLAR HILL,Secretary of State,,REPUBLICAN,Bill McKown,43
+HORRY,PORT HARRELSON,Secretary of State,,REPUBLICAN,Mark Hammond,5
+HORRY,PORT HARRELSON,Secretary of State,,REPUBLICAN,Bill McKown,5
+HORRY,RACEPATH #1,Secretary of State,,REPUBLICAN,Mark Hammond,19
+HORRY,RACEPATH #1,Secretary of State,,REPUBLICAN,Bill McKown,19
+HORRY,RACEPATH #2,Secretary of State,,REPUBLICAN,Mark Hammond,9
+HORRY,RACEPATH #2,Secretary of State,,REPUBLICAN,Bill McKown,8
+HORRY,RED BLUFF,Secretary of State,,REPUBLICAN,Mark Hammond,15
+HORRY,RED BLUFF,Secretary of State,,REPUBLICAN,Bill McKown,14
+HORRY,RED HILL #1,Secretary of State,,REPUBLICAN,Mark Hammond,43
+HORRY,RED HILL #1,Secretary of State,,REPUBLICAN,Bill McKown,24
+HORRY,RED HILL #2,Secretary of State,,REPUBLICAN,Mark Hammond,82
+HORRY,RED HILL #2,Secretary of State,,REPUBLICAN,Bill McKown,88
+HORRY,SALEM,Secretary of State,,REPUBLICAN,Mark Hammond,100
+HORRY,SALEM,Secretary of State,,REPUBLICAN,Bill McKown,71
+HORRY,SEA OATS #1,Secretary of State,,REPUBLICAN,Mark Hammond,64
+HORRY,SEA OATS #1,Secretary of State,,REPUBLICAN,Bill McKown,48
+HORRY,SEA OATS #2,Secretary of State,,REPUBLICAN,Mark Hammond,41
+HORRY,SEA OATS #2,Secretary of State,,REPUBLICAN,Bill McKown,41
+HORRY,SOCASTEE #1,Secretary of State,,REPUBLICAN,Mark Hammond,90
+HORRY,SOCASTEE #1,Secretary of State,,REPUBLICAN,Bill McKown,85
+HORRY,SOCASTEE #2,Secretary of State,,REPUBLICAN,Mark Hammond,50
+HORRY,SOCASTEE #2,Secretary of State,,REPUBLICAN,Bill McKown,47
+HORRY,SOCASTEE #3,Secretary of State,,REPUBLICAN,Mark Hammond,66
+HORRY,SOCASTEE #3,Secretary of State,,REPUBLICAN,Bill McKown,40
+HORRY,SOCASTEE #4,Secretary of State,,REPUBLICAN,Mark Hammond,65
+HORRY,SOCASTEE #4,Secretary of State,,REPUBLICAN,Bill McKown,48
+HORRY,SPRING BRANCH,Secretary of State,,REPUBLICAN,Mark Hammond,34
+HORRY,SPRING BRANCH,Secretary of State,,REPUBLICAN,Bill McKown,11
+HORRY,SURFSIDE #1,Secretary of State,,REPUBLICAN,Mark Hammond,89
+HORRY,SURFSIDE #1,Secretary of State,,REPUBLICAN,Bill McKown,126
+HORRY,SURFSIDE #2,Secretary of State,,REPUBLICAN,Mark Hammond,74
+HORRY,SURFSIDE #2,Secretary of State,,REPUBLICAN,Bill McKown,92
+HORRY,SURFSIDE #3,Secretary of State,,REPUBLICAN,Mark Hammond,58
+HORRY,SURFSIDE #3,Secretary of State,,REPUBLICAN,Bill McKown,87
+HORRY,SURFSIDE #4,Secretary of State,,REPUBLICAN,Mark Hammond,64
+HORRY,SURFSIDE #4,Secretary of State,,REPUBLICAN,Bill McKown,101
+HORRY,SWEET HOME,Secretary of State,,REPUBLICAN,Mark Hammond,10
+HORRY,SWEET HOME,Secretary of State,,REPUBLICAN,Bill McKown,24
+HORRY,TAYLORSVILLE,Secretary of State,,REPUBLICAN,Mark Hammond,19
+HORRY,TAYLORSVILLE,Secretary of State,,REPUBLICAN,Bill McKown,24
+HORRY,TILLY SWAMP,Secretary of State,,REPUBLICAN,Mark Hammond,46
+HORRY,TILLY SWAMP,Secretary of State,,REPUBLICAN,Bill McKown,46
+HORRY,TODDVILLE,Secretary of State,,REPUBLICAN,Mark Hammond,65
+HORRY,TODDVILLE,Secretary of State,,REPUBLICAN,Bill McKown,46
+HORRY,WAMPEE,Secretary of State,,REPUBLICAN,Mark Hammond,20
+HORRY,WAMPEE,Secretary of State,,REPUBLICAN,Bill McKown,17
+HORRY,WEST CONWAY,Secretary of State,,REPUBLICAN,Mark Hammond,44
+HORRY,WEST CONWAY,Secretary of State,,REPUBLICAN,Bill McKown,33
+HORRY,WEST LORIS,Secretary of State,,REPUBLICAN,Mark Hammond,38
+HORRY,WEST LORIS,Secretary of State,,REPUBLICAN,Bill McKown,25
+HORRY,WHITE OAK,Secretary of State,,REPUBLICAN,Mark Hammond,40
+HORRY,WHITE OAK,Secretary of State,,REPUBLICAN,Bill McKown,38
+HORRY,WILD WING,Secretary of State,,REPUBLICAN,Mark Hammond,81
+HORRY,WILD WING,Secretary of State,,REPUBLICAN,Bill McKown,78
+HORRY,WINDY HILL,Secretary of State,,REPUBLICAN,Mark Hammond,82
+HORRY,WINDY HILL,Secretary of State,,REPUBLICAN,Bill McKown,78
+HORRY,ABSENTEE,Secretary of State,,REPUBLICAN,Mark Hammond,237
+HORRY,ABSENTEE,Secretary of State,,REPUBLICAN,Bill McKown,222
+HORRY,EMERGENCY,Secretary of State,,REPUBLICAN,Mark Hammond,10
+HORRY,EMERGENCY,Secretary of State,,REPUBLICAN,Bill McKown,10
+HORRY,FAILSAFE,Secretary of State,,REPUBLICAN,Mark Hammond,20
+HORRY,FAILSAFE,Secretary of State,,REPUBLICAN,Bill McKown,15
+HORRY,PROVISIONAL,Secretary of State,,REPUBLICAN,Mark Hammond,0
+HORRY,PROVISIONAL,Secretary of State,,REPUBLICAN,Bill McKown,0
+HORRY,PROVISIONAL/FAILSAFE,Secretary of State,,REPUBLICAN,Mark Hammond,0
+HORRY,PROVISIONAL/FAILSAFE,Secretary of State,,REPUBLICAN,Bill McKown,0
+HORRY,FLOYDS,State House,55,REPUBLICAN,Carl Altman,32
+HORRY,FLOYDS,State House,55,REPUBLICAN,Sharon Phillips,10
+HORRY,GREEN SEA,State House,55,REPUBLICAN,Carl Altman,18
+HORRY,GREEN SEA,State House,55,REPUBLICAN,Sharon Phillips,14
+HORRY,MT OLIVE,State House,55,REPUBLICAN,Carl Altman,18
+HORRY,MT OLIVE,State House,55,REPUBLICAN,Sharon Phillips,5
+HORRY,NORTON,State House,55,REPUBLICAN,Carl Altman,11
+HORRY,NORTON,State House,55,REPUBLICAN,Sharon Phillips,4
+HORRY,SPRING BRANCH,State House,55,REPUBLICAN,Carl Altman,31
+HORRY,SPRING BRANCH,State House,55,REPUBLICAN,Sharon Phillips,11
+HORRY,ABSENTEE,State House,55,REPUBLICAN,Carl Altman,2
+HORRY,ABSENTEE,State House,55,REPUBLICAN,Sharon Phillips,0
+HORRY,EMERGENCY,State House,55,REPUBLICAN,Carl Altman,0
+HORRY,EMERGENCY,State House,55,REPUBLICAN,Sharon Phillips,0
+HORRY,FAILSAFE,State House,55,REPUBLICAN,Carl Altman,0
+HORRY,FAILSAFE,State House,55,REPUBLICAN,Sharon Phillips,0
+HORRY,PROVISIONAL,State House,55,REPUBLICAN,Carl Altman,0
+HORRY,PROVISIONAL,State House,55,REPUBLICAN,Sharon Phillips,0
+HORRY,COASTAL LANE #1,State House,107,REPUBLICAN,Alan Clemmons,19
+HORRY,COASTAL LANE #1,State House,107,REPUBLICAN,Bobbie Tiller,6
+HORRY,COASTAL LANE #2,State House,107,REPUBLICAN,Alan Clemmons,25
+HORRY,COASTAL LANE #2,State House,107,REPUBLICAN,Bobbie Tiller,5
+HORRY,DUNES #1,State House,107,REPUBLICAN,Alan Clemmons,351
+HORRY,DUNES #1,State House,107,REPUBLICAN,Bobbie Tiller,50
+HORRY,DUNES #2,State House,107,REPUBLICAN,Alan Clemmons,156
+HORRY,DUNES #2,State House,107,REPUBLICAN,Bobbie Tiller,28
+HORRY,DUNES #3,State House,107,REPUBLICAN,Alan Clemmons,140
+HORRY,DUNES #3,State House,107,REPUBLICAN,Bobbie Tiller,27
+HORRY,JET PORT #1,State House,107,REPUBLICAN,Alan Clemmons,49
+HORRY,JET PORT #1,State House,107,REPUBLICAN,Bobbie Tiller,9
+HORRY,JET PORT #2,State House,107,REPUBLICAN,Alan Clemmons,64
+HORRY,JET PORT #2,State House,107,REPUBLICAN,Bobbie Tiller,10
+HORRY,MYRTLEWOOD #1,State House,107,REPUBLICAN,Alan Clemmons,108
+HORRY,MYRTLEWOOD #1,State House,107,REPUBLICAN,Bobbie Tiller,12
+HORRY,MYRTLEWOOD #2,State House,107,REPUBLICAN,Alan Clemmons,236
+HORRY,MYRTLEWOOD #2,State House,107,REPUBLICAN,Bobbie Tiller,36
+HORRY,MYRTLEWOOD #3,State House,107,REPUBLICAN,Alan Clemmons,188
+HORRY,MYRTLEWOOD #3,State House,107,REPUBLICAN,Bobbie Tiller,19
+HORRY,OCEAN FOREST #1,State House,107,REPUBLICAN,Alan Clemmons,196
+HORRY,OCEAN FOREST #1,State House,107,REPUBLICAN,Bobbie Tiller,30
+HORRY,OCEAN FOREST #2,State House,107,REPUBLICAN,Alan Clemmons,216
+HORRY,OCEAN FOREST #2,State House,107,REPUBLICAN,Bobbie Tiller,37
+HORRY,OCEAN FOREST #3,State House,107,REPUBLICAN,Alan Clemmons,97
+HORRY,OCEAN FOREST #3,State House,107,REPUBLICAN,Bobbie Tiller,25
+HORRY,SEA OATS #1,State House,107,REPUBLICAN,Alan Clemmons,110
+HORRY,SEA OATS #1,State House,107,REPUBLICAN,Bobbie Tiller,20
+HORRY,SEA OATS #2,State House,107,REPUBLICAN,Alan Clemmons,79
+HORRY,SEA OATS #2,State House,107,REPUBLICAN,Bobbie Tiller,14
+HORRY,SURFSIDE #4,State House,107,REPUBLICAN,Alan Clemmons,101
+HORRY,SURFSIDE #4,State House,107,REPUBLICAN,Bobbie Tiller,12
+HORRY,ABSENTEE,State House,107,REPUBLICAN,Alan Clemmons,66
+HORRY,ABSENTEE,State House,107,REPUBLICAN,Bobbie Tiller,14
+HORRY,EMERGENCY,State House,107,REPUBLICAN,Alan Clemmons,2
+HORRY,EMERGENCY,State House,107,REPUBLICAN,Bobbie Tiller,0
+HORRY,FAILSAFE,State House,107,REPUBLICAN,Alan Clemmons,0
+HORRY,FAILSAFE,State House,107,REPUBLICAN,Bobbie Tiller,0
+HORRY,PROVISIONAL,State House,107,REPUBLICAN,Alan Clemmons,0
+HORRY,PROVISIONAL,State House,107,REPUBLICAN,Bobbie Tiller,0
