@@ -1,0 +1,466 @@
+county,precinct,office,district,party,candidate,votes
+LEXINGTON,001 Batesburg,Governor,,DEM,C. Dennis Aughtry,8
+LEXINGTON,001 Batesburg,Governor,,DEM,Tommy Moore,54
+LEXINGTON,001 Batesburg,Governor,,DEM,Frank Willis,15
+LEXINGTON,002 Mims,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,002 Mims,Governor,,DEM,Tommy Moore,18
+LEXINGTON,002 Mims,Governor,,DEM,Frank Willis,0
+LEXINGTON,003 Lake Murray #1,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,003 Lake Murray #1,Governor,,DEM,Tommy Moore,12
+LEXINGTON,003 Lake Murray #1,Governor,,DEM,Frank Willis,1
+LEXINGTON,004 Mount Horeb,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,004 Mount Horeb,Governor,,DEM,Tommy Moore,19
+LEXINGTON,004 Mount Horeb,Governor,,DEM,Frank Willis,0
+LEXINGTON,005 Old Barnwell,Governor,,DEM,C. Dennis Aughtry,3
+LEXINGTON,005 Old Barnwell,Governor,,DEM,Tommy Moore,10
+LEXINGTON,005 Old Barnwell,Governor,,DEM,Frank Willis,3
+LEXINGTON,006 Beulah Church,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,006 Beulah Church,Governor,,DEM,Tommy Moore,20
+LEXINGTON,006 Beulah Church,Governor,,DEM,Frank Willis,1
+LEXINGTON,007 Gilbert,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,007 Gilbert,Governor,,DEM,Tommy Moore,7
+LEXINGTON,007 Gilbert,Governor,,DEM,Frank Willis,2
+LEXINGTON,008 Pond Branch,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,008 Pond Branch,Governor,,DEM,Tommy Moore,20
+LEXINGTON,008 Pond Branch,Governor,,DEM,Frank Willis,3
+LEXINGTON,009 Seven Oaks,Governor,,DEM,C. Dennis Aughtry,6
+LEXINGTON,009 Seven Oaks,Governor,,DEM,Tommy Moore,26
+LEXINGTON,009 Seven Oaks,Governor,,DEM,Frank Willis,8
+LEXINGTON,010 Ridge Road,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,010 Ridge Road,Governor,,DEM,Tommy Moore,21
+LEXINGTON,010 Ridge Road,Governor,,DEM,Frank Willis,4
+LEXINGTON,011 Summit,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,011 Summit,Governor,,DEM,Tommy Moore,6
+LEXINGTON,011 Summit,Governor,,DEM,Frank Willis,5
+LEXINGTON,012 Leesville,Governor,,DEM,C. Dennis Aughtry,4
+LEXINGTON,012 Leesville,Governor,,DEM,Tommy Moore,71
+LEXINGTON,012 Leesville,Governor,,DEM,Frank Willis,11
+LEXINGTON,013 Red Bank South,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,013 Red Bank South,Governor,,DEM,Tommy Moore,20
+LEXINGTON,013 Red Bank South,Governor,,DEM,Frank Willis,4
+LEXINGTON,014 Emmanuel Church,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,014 Emmanuel Church,Governor,,DEM,Tommy Moore,15
+LEXINGTON,014 Emmanuel Church,Governor,,DEM,Frank Willis,1
+LEXINGTON,015 Hollow Creek,Governor,,DEM,C. Dennis Aughtry,2
+LEXINGTON,015 Hollow Creek,Governor,,DEM,Tommy Moore,24
+LEXINGTON,015 Hollow Creek,Governor,,DEM,Frank Willis,2
+LEXINGTON,016 Boiling Springs,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,016 Boiling Springs,Governor,,DEM,Tommy Moore,14
+LEXINGTON,016 Boiling Springs,Governor,,DEM,Frank Willis,8
+LEXINGTON,017 Edmund,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,017 Edmund,Governor,,DEM,Tommy Moore,7
+LEXINGTON,017 Edmund,Governor,,DEM,Frank Willis,1
+LEXINGTON,018 Red Bank,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,018 Red Bank,Governor,,DEM,Tommy Moore,27
+LEXINGTON,018 Red Bank,Governor,,DEM,Frank Willis,1
+LEXINGTON,019 Round Hill,Governor,,DEM,C. Dennis Aughtry,3
+LEXINGTON,019 Round Hill,Governor,,DEM,Tommy Moore,17
+LEXINGTON,019 Round Hill,Governor,,DEM,Frank Willis,1
+LEXINGTON,020 Fairview,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,020 Fairview,Governor,,DEM,Tommy Moore,7
+LEXINGTON,020 Fairview,Governor,,DEM,Frank Willis,0
+LEXINGTON,021 Quail Hollow,Governor,,DEM,C. Dennis Aughtry,3
+LEXINGTON,021 Quail Hollow,Governor,,DEM,Tommy Moore,24
+LEXINGTON,021 Quail Hollow,Governor,,DEM,Frank Willis,0
+LEXINGTON,022 Pelion #1,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,022 Pelion #1,Governor,,DEM,Tommy Moore,7
+LEXINGTON,022 Pelion #1,Governor,,DEM,Frank Willis,1
+LEXINGTON,023 Mack Edisto,Governor,,DEM,C. Dennis Aughtry,2
+LEXINGTON,023 Mack Edisto,Governor,,DEM,Tommy Moore,10
+LEXINGTON,023 Mack Edisto,Governor,,DEM,Frank Willis,1
+LEXINGTON,024 Swansea #1,Governor,,DEM,C. Dennis Aughtry,5
+LEXINGTON,024 Swansea #1,Governor,,DEM,Tommy Moore,49
+LEXINGTON,024 Swansea #1,Governor,,DEM,Frank Willis,5
+LEXINGTON,025 Sandy Run,Governor,,DEM,C. Dennis Aughtry,2
+LEXINGTON,025 Sandy Run,Governor,,DEM,Tommy Moore,20
+LEXINGTON,025 Sandy Run,Governor,,DEM,Frank Willis,3
+LEXINGTON,026 Gaston #1,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,026 Gaston #1,Governor,,DEM,Tommy Moore,7
+LEXINGTON,026 Gaston #1,Governor,,DEM,Frank Willis,4
+LEXINGTON,027 Sharpes Hill,Governor,,DEM,C. Dennis Aughtry,2
+LEXINGTON,027 Sharpes Hill,Governor,,DEM,Tommy Moore,16
+LEXINGTON,027 Sharpes Hill,Governor,,DEM,Frank Willis,8
+LEXINGTON,028 Chapin,Governor,,DEM,C. Dennis Aughtry,2
+LEXINGTON,028 Chapin,Governor,,DEM,Tommy Moore,15
+LEXINGTON,028 Chapin,Governor,,DEM,Frank Willis,1
+LEXINGTON,029 Leaphart Road,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,029 Leaphart Road,Governor,,DEM,Tommy Moore,6
+LEXINGTON,029 Leaphart Road,Governor,,DEM,Frank Willis,2
+LEXINGTON,030 Westover,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,030 Westover,Governor,,DEM,Tommy Moore,36
+LEXINGTON,030 Westover,Governor,,DEM,Frank Willis,13
+LEXINGTON,031 Edenwood,Governor,,DEM,C. Dennis Aughtry,4
+LEXINGTON,031 Edenwood,Governor,,DEM,Tommy Moore,35
+LEXINGTON,031 Edenwood,Governor,,DEM,Frank Willis,4
+LEXINGTON,032 Cromer,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,032 Cromer,Governor,,DEM,Tommy Moore,21
+LEXINGTON,032 Cromer,Governor,,DEM,Frank Willis,7
+LEXINGTON,033 Lexington #1,Governor,,DEM,C. Dennis Aughtry,5
+LEXINGTON,033 Lexington #1,Governor,,DEM,Tommy Moore,29
+LEXINGTON,033 Lexington #1,Governor,,DEM,Frank Willis,7
+LEXINGTON,034 Lexington #2,Governor,,DEM,C. Dennis Aughtry,5
+LEXINGTON,034 Lexington #2,Governor,,DEM,Tommy Moore,41
+LEXINGTON,034 Lexington #2,Governor,,DEM,Frank Willis,9
+LEXINGTON,035 Cayce #1,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,035 Cayce #1,Governor,,DEM,Tommy Moore,19
+LEXINGTON,035 Cayce #1,Governor,,DEM,Frank Willis,6
+LEXINGTON,036 Cayce #2,Governor,,DEM,C. Dennis Aughtry,3
+LEXINGTON,036 Cayce #2,Governor,,DEM,Tommy Moore,32
+LEXINGTON,036 Cayce #2,Governor,,DEM,Frank Willis,9
+LEXINGTON,037 Cayce #3,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,037 Cayce #3,Governor,,DEM,Tommy Moore,13
+LEXINGTON,037 Cayce #3,Governor,,DEM,Frank Willis,3
+LEXINGTON,038 Chalk Hill,Governor,,DEM,C. Dennis Aughtry,5
+LEXINGTON,038 Chalk Hill,Governor,,DEM,Tommy Moore,74
+LEXINGTON,038 Chalk Hill,Governor,,DEM,Frank Willis,13
+LEXINGTON,039 Congaree #1,Governor,,DEM,C. Dennis Aughtry,5
+LEXINGTON,039 Congaree #1,Governor,,DEM,Tommy Moore,11
+LEXINGTON,039 Congaree #1,Governor,,DEM,Frank Willis,6
+LEXINGTON,040 Hooks Store,Governor,,DEM,C. Dennis Aughtry,6
+LEXINGTON,040 Hooks Store,Governor,,DEM,Tommy Moore,32
+LEXINGTON,040 Hooks Store,Governor,,DEM,Frank Willis,5
+LEXINGTON,041 Saluda River,Governor,,DEM,C. Dennis Aughtry,3
+LEXINGTON,041 Saluda River,Governor,,DEM,Tommy Moore,30
+LEXINGTON,041 Saluda River,Governor,,DEM,Frank Willis,5
+LEXINGTON,042 Springdale,Governor,,DEM,C. Dennis Aughtry,5
+LEXINGTON,042 Springdale,Governor,,DEM,Tommy Moore,17
+LEXINGTON,042 Springdale,Governor,,DEM,Frank Willis,2
+LEXINGTON,043 Pineridge,Governor,,DEM,C. Dennis Aughtry,6
+LEXINGTON,043 Pineridge,Governor,,DEM,Tommy Moore,33
+LEXINGTON,043 Pineridge,Governor,,DEM,Frank Willis,10
+LEXINGTON,044 West Columbia #1,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,044 West Columbia #1,Governor,,DEM,Tommy Moore,16
+LEXINGTON,044 West Columbia #1,Governor,,DEM,Frank Willis,6
+LEXINGTON,045 West Columbia #2,Governor,,DEM,C. Dennis Aughtry,4
+LEXINGTON,045 West Columbia #2,Governor,,DEM,Tommy Moore,31
+LEXINGTON,045 West Columbia #2,Governor,,DEM,Frank Willis,8
+LEXINGTON,046 West Columbia #3,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,046 West Columbia #3,Governor,,DEM,Tommy Moore,25
+LEXINGTON,046 West Columbia #3,Governor,,DEM,Frank Willis,3
+LEXINGTON,047 West Columbia #4,Governor,,DEM,C. Dennis Aughtry,4
+LEXINGTON,047 West Columbia #4,Governor,,DEM,Tommy Moore,19
+LEXINGTON,047 West Columbia #4,Governor,,DEM,Frank Willis,2
+LEXINGTON,048 Irmo,Governor,,DEM,C. Dennis Aughtry,3
+LEXINGTON,048 Irmo,Governor,,DEM,Tommy Moore,33
+LEXINGTON,048 Irmo,Governor,,DEM,Frank Willis,5
+LEXINGTON,049 Challedon,Governor,,DEM,C. Dennis Aughtry,4
+LEXINGTON,049 Challedon,Governor,,DEM,Tommy Moore,29
+LEXINGTON,049 Challedon,Governor,,DEM,Frank Willis,11
+LEXINGTON,050 Whitehall,Governor,,DEM,C. Dennis Aughtry,8
+LEXINGTON,050 Whitehall,Governor,,DEM,Tommy Moore,49
+LEXINGTON,050 Whitehall,Governor,,DEM,Frank Willis,13
+LEXINGTON,051 Gardendale,Governor,,DEM,C. Dennis Aughtry,3
+LEXINGTON,051 Gardendale,Governor,,DEM,Tommy Moore,29
+LEXINGTON,051 Gardendale,Governor,,DEM,Frank Willis,14
+LEXINGTON,052 Woodland Hills,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,052 Woodland Hills,Governor,,DEM,Tommy Moore,25
+LEXINGTON,052 Woodland Hills,Governor,,DEM,Frank Willis,8
+LEXINGTON,053 Pineview,Governor,,DEM,C. Dennis Aughtry,4
+LEXINGTON,053 Pineview,Governor,,DEM,Tommy Moore,16
+LEXINGTON,053 Pineview,Governor,,DEM,Frank Willis,3
+LEXINGTON,054 Quail Valley,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,054 Quail Valley,Governor,,DEM,Tommy Moore,42
+LEXINGTON,054 Quail Valley,Governor,,DEM,Frank Willis,5
+LEXINGTON,055 Cayce 2A,Governor,,DEM,C. Dennis Aughtry,2
+LEXINGTON,055 Cayce 2A,Governor,,DEM,Tommy Moore,35
+LEXINGTON,055 Cayce 2A,Governor,,DEM,Frank Willis,5
+LEXINGTON,056 Barr Road,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,056 Barr Road,Governor,,DEM,Tommy Moore,25
+LEXINGTON,056 Barr Road,Governor,,DEM,Frank Willis,3
+LEXINGTON,057 Coldstream,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,057 Coldstream,Governor,,DEM,Tommy Moore,36
+LEXINGTON,057 Coldstream,Governor,,DEM,Frank Willis,6
+LEXINGTON,058 Grenadier,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,058 Grenadier,Governor,,DEM,Tommy Moore,37
+LEXINGTON,058 Grenadier,Governor,,DEM,Frank Willis,7
+LEXINGTON,059 St Michael,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,059 St Michael,Governor,,DEM,Tommy Moore,26
+LEXINGTON,059 St Michael,Governor,,DEM,Frank Willis,5
+LEXINGTON,060 Murraywood,Governor,,DEM,C. Dennis Aughtry,4
+LEXINGTON,060 Murraywood,Governor,,DEM,Tommy Moore,27
+LEXINGTON,060 Murraywood,Governor,,DEM,Frank Willis,4
+LEXINGTON,061 Amicks Ferry,Governor,,DEM,C. Dennis Aughtry,4
+LEXINGTON,061 Amicks Ferry,Governor,,DEM,Tommy Moore,29
+LEXINGTON,061 Amicks Ferry,Governor,,DEM,Frank Willis,7
+LEXINGTON,062 Bush River,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,062 Bush River,Governor,,DEM,Tommy Moore,29
+LEXINGTON,062 Bush River,Governor,,DEM,Frank Willis,5
+LEXINGTON,063 Dutchman Shores,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,063 Dutchman Shores,Governor,,DEM,Tommy Moore,10
+LEXINGTON,063 Dutchman Shores,Governor,,DEM,Frank Willis,4
+LEXINGTON,064 Pilgrim Church,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,064 Pilgrim Church,Governor,,DEM,Tommy Moore,18
+LEXINGTON,064 Pilgrim Church,Governor,,DEM,Frank Willis,4
+LEXINGTON,065 White Knoll,Governor,,DEM,C. Dennis Aughtry,2
+LEXINGTON,065 White Knoll,Governor,,DEM,Tommy Moore,15
+LEXINGTON,065 White Knoll,Governor,,DEM,Frank Willis,5
+LEXINGTON,066 Faith Church,Governor,,DEM,C. Dennis Aughtry,2
+LEXINGTON,066 Faith Church,Governor,,DEM,Tommy Moore,6
+LEXINGTON,066 Faith Church,Governor,,DEM,Frank Willis,0
+LEXINGTON,067 Kitti Wake,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,067 Kitti Wake,Governor,,DEM,Tommy Moore,22
+LEXINGTON,067 Kitti Wake,Governor,,DEM,Frank Willis,4
+LEXINGTON,068 Providence Church,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,068 Providence Church,Governor,,DEM,Tommy Moore,16
+LEXINGTON,068 Providence Church,Governor,,DEM,Frank Willis,5
+LEXINGTON,069 Boiling Springs South,Governor,,DEM,C. Dennis Aughtry,3
+LEXINGTON,069 Boiling Springs South,Governor,,DEM,Tommy Moore,18
+LEXINGTON,069 Boiling Springs South,Governor,,DEM,Frank Willis,2
+LEXINGTON,070 Lexington #3,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,070 Lexington #3,Governor,,DEM,Tommy Moore,20
+LEXINGTON,070 Lexington #3,Governor,,DEM,Frank Willis,2
+LEXINGTON,071 Lexington #4,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,071 Lexington #4,Governor,,DEM,Tommy Moore,25
+LEXINGTON,071 Lexington #4,Governor,,DEM,Frank Willis,5
+LEXINGTON,072 Midway,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,072 Midway,Governor,,DEM,Tommy Moore,10
+LEXINGTON,072 Midway,Governor,,DEM,Frank Willis,6
+LEXINGTON,073 Park Road,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,073 Park Road,Governor,,DEM,Tommy Moore,18
+LEXINGTON,073 Park Road,Governor,,DEM,Frank Willis,6
+LEXINGTON,074 Springdale South,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,074 Springdale South,Governor,,DEM,Tommy Moore,9
+LEXINGTON,074 Springdale South,Governor,,DEM,Frank Willis,1
+LEXINGTON,075 Gaston #2,Governor,,DEM,C. Dennis Aughtry,4
+LEXINGTON,075 Gaston #2,Governor,,DEM,Tommy Moore,16
+LEXINGTON,075 Gaston #2,Governor,,DEM,Frank Willis,5
+LEXINGTON,076 Lake Murray #2,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,076 Lake Murray #2,Governor,,DEM,Tommy Moore,19
+LEXINGTON,076 Lake Murray #2,Governor,,DEM,Frank Willis,4
+LEXINGTON,077 Congaree #2,Governor,,DEM,C. Dennis Aughtry,3
+LEXINGTON,077 Congaree #2,Governor,,DEM,Tommy Moore,14
+LEXINGTON,077 Congaree #2,Governor,,DEM,Frank Willis,2
+LEXINGTON,078 Saint David,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,078 Saint David,Governor,,DEM,Tommy Moore,32
+LEXINGTON,078 Saint David,Governor,,DEM,Frank Willis,6
+LEXINGTON,079 Mt Hebron,Governor,,DEM,C. Dennis Aughtry,2
+LEXINGTON,079 Mt Hebron,Governor,,DEM,Tommy Moore,18
+LEXINGTON,079 Mt Hebron,Governor,,DEM,Frank Willis,3
+LEXINGTON,080 Sandhills,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,080 Sandhills,Governor,,DEM,Tommy Moore,15
+LEXINGTON,080 Sandhills,Governor,,DEM,Frank Willis,1
+LEXINGTON,081 Bethany,Governor,,DEM,C. Dennis Aughtry,3
+LEXINGTON,081 Bethany,Governor,,DEM,Tommy Moore,11
+LEXINGTON,081 Bethany,Governor,,DEM,Frank Willis,8
+LEXINGTON,082 Swansea #2,Governor,,DEM,C. Dennis Aughtry,2
+LEXINGTON,082 Swansea #2,Governor,,DEM,Tommy Moore,18
+LEXINGTON,082 Swansea #2,Governor,,DEM,Frank Willis,5
+LEXINGTON,083 Pelion #2,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,083 Pelion #2,Governor,,DEM,Tommy Moore,7
+LEXINGTON,083 Pelion #2,Governor,,DEM,Frank Willis,3
+LEXINGTON,084 Dreher Island,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,084 Dreher Island,Governor,,DEM,Tommy Moore,4
+LEXINGTON,084 Dreher Island,Governor,,DEM,Frank Willis,0
+LEXINGTON,085 Old Lexington,Governor,,DEM,C. Dennis Aughtry,2
+LEXINGTON,085 Old Lexington,Governor,,DEM,Tommy Moore,12
+LEXINGTON,085 Old Lexington,Governor,,DEM,Frank Willis,5
+LEXINGTON,086 Lincreek,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,086 Lincreek,Governor,,DEM,Tommy Moore,8
+LEXINGTON,086 Lincreek,Governor,,DEM,Frank Willis,4
+LEXINGTON,087 Cedar Crest,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,087 Cedar Crest,Governor,,DEM,Tommy Moore,36
+LEXINGTON,087 Cedar Crest,Governor,,DEM,Frank Willis,3
+LEXINGTON,088 Oakwood,Governor,,DEM,C. Dennis Aughtry,4
+LEXINGTON,088 Oakwood,Governor,,DEM,Tommy Moore,15
+LEXINGTON,088 Oakwood,Governor,,DEM,Frank Willis,1
+LEXINGTON,ABSENTEE,Governor,,DEM,C. Dennis Aughtry,9
+LEXINGTON,ABSENTEE,Governor,,DEM,Tommy Moore,77
+LEXINGTON,ABSENTEE,Governor,,DEM,Frank Willis,17
+LEXINGTON,EMERGENCY,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,EMERGENCY,Governor,,DEM,Tommy Moore,1
+LEXINGTON,EMERGENCY,Governor,,DEM,Frank Willis,0
+LEXINGTON,FAILSAFE,Governor,,DEM,C. Dennis Aughtry,1
+LEXINGTON,FAILSAFE,Governor,,DEM,Tommy Moore,2
+LEXINGTON,FAILSAFE,Governor,,DEM,Frank Willis,2
+LEXINGTON,PROVISIONAL,Governor,,DEM,C. Dennis Aughtry,0
+LEXINGTON,PROVISIONAL,Governor,,DEM,Tommy Moore,0
+LEXINGTON,PROVISIONAL,Governor,,DEM,Frank Willis,0
+LEXINGTON,FAILSAFE PROVISIONAL,Governor,,DEM,C. Dennis Aughtry,5
+LEXINGTON,FAILSAFE PROVISIONAL,Governor,,DEM,Tommy Moore,2
+LEXINGTON,FAILSAFE PROVISIONAL,Governor,,DEM,Frank Willis,2
+LEXINGTON,001 Batesburg,U.S. House,2,DEM,Michael Ray Ellisor,47
+LEXINGTON,001 Batesburg,U.S. House,2,DEM,David F. White III,22
+LEXINGTON,002 Mims,U.S. House,2,DEM,Michael Ray Ellisor,16
+LEXINGTON,002 Mims,U.S. House,2,DEM,David F. White III,3
+LEXINGTON,003 Lake Murray #1,U.S. House,2,DEM,Michael Ray Ellisor,9
+LEXINGTON,003 Lake Murray #1,U.S. House,2,DEM,David F. White III,4
+LEXINGTON,004 Mount Horeb,U.S. House,2,DEM,Michael Ray Ellisor,13
+LEXINGTON,004 Mount Horeb,U.S. House,2,DEM,David F. White III,4
+LEXINGTON,005 Old Barnwell,U.S. House,2,DEM,Michael Ray Ellisor,9
+LEXINGTON,005 Old Barnwell,U.S. House,2,DEM,David F. White III,5
+LEXINGTON,006 Beulah Church,U.S. House,2,DEM,Michael Ray Ellisor,16
+LEXINGTON,006 Beulah Church,U.S. House,2,DEM,David F. White III,5
+LEXINGTON,007 Gilbert,U.S. House,2,DEM,Michael Ray Ellisor,7
+LEXINGTON,007 Gilbert,U.S. House,2,DEM,David F. White III,3
+LEXINGTON,008 Pond Branch,U.S. House,2,DEM,Michael Ray Ellisor,13
+LEXINGTON,008 Pond Branch,U.S. House,2,DEM,David F. White III,5
+LEXINGTON,009 Seven Oaks,U.S. House,2,DEM,Michael Ray Ellisor,19
+LEXINGTON,009 Seven Oaks,U.S. House,2,DEM,David F. White III,17
+LEXINGTON,010 Ridge Road,U.S. House,2,DEM,Michael Ray Ellisor,17
+LEXINGTON,010 Ridge Road,U.S. House,2,DEM,David F. White III,6
+LEXINGTON,011 Summit,U.S. House,2,DEM,Michael Ray Ellisor,7
+LEXINGTON,011 Summit,U.S. House,2,DEM,David F. White III,5
+LEXINGTON,012 Leesville,U.S. House,2,DEM,Michael Ray Ellisor,52
+LEXINGTON,012 Leesville,U.S. House,2,DEM,David F. White III,21
+LEXINGTON,013 Red Bank South,U.S. House,2,DEM,Michael Ray Ellisor,16
+LEXINGTON,013 Red Bank South,U.S. House,2,DEM,David F. White III,7
+LEXINGTON,014 Emmanuel Church,U.S. House,2,DEM,Michael Ray Ellisor,7
+LEXINGTON,014 Emmanuel Church,U.S. House,2,DEM,David F. White III,6
+LEXINGTON,015 Hollow Creek,U.S. House,2,DEM,Michael Ray Ellisor,16
+LEXINGTON,015 Hollow Creek,U.S. House,2,DEM,David F. White III,12
+LEXINGTON,016 Boiling Springs,U.S. House,2,DEM,Michael Ray Ellisor,17
+LEXINGTON,016 Boiling Springs,U.S. House,2,DEM,David F. White III,4
+LEXINGTON,017 Edmund,U.S. House,2,DEM,Michael Ray Ellisor,5
+LEXINGTON,017 Edmund,U.S. House,2,DEM,David F. White III,4
+LEXINGTON,018 Red Bank,U.S. House,2,DEM,Michael Ray Ellisor,19
+LEXINGTON,018 Red Bank,U.S. House,2,DEM,David F. White III,9
+LEXINGTON,019 Round Hill,U.S. House,2,DEM,Michael Ray Ellisor,15
+LEXINGTON,019 Round Hill,U.S. House,2,DEM,David F. White III,7
+LEXINGTON,020 Fairview,U.S. House,2,DEM,Michael Ray Ellisor,5
+LEXINGTON,020 Fairview,U.S. House,2,DEM,David F. White III,2
+LEXINGTON,021 Quail Hollow,U.S. House,2,DEM,Michael Ray Ellisor,17
+LEXINGTON,021 Quail Hollow,U.S. House,2,DEM,David F. White III,8
+LEXINGTON,022 Pelion #1,U.S. House,2,DEM,Michael Ray Ellisor,6
+LEXINGTON,022 Pelion #1,U.S. House,2,DEM,David F. White III,3
+LEXINGTON,023 Mack Edisto,U.S. House,2,DEM,Michael Ray Ellisor,9
+LEXINGTON,023 Mack Edisto,U.S. House,2,DEM,David F. White III,2
+LEXINGTON,024 Swansea #1,U.S. House,2,DEM,Michael Ray Ellisor,35
+LEXINGTON,024 Swansea #1,U.S. House,2,DEM,David F. White III,21
+LEXINGTON,025 Sandy Run,U.S. House,2,DEM,Michael Ray Ellisor,12
+LEXINGTON,025 Sandy Run,U.S. House,2,DEM,David F. White III,7
+LEXINGTON,026 Gaston #1,U.S. House,2,DEM,Michael Ray Ellisor,9
+LEXINGTON,026 Gaston #1,U.S. House,2,DEM,David F. White III,1
+LEXINGTON,027 Sharpes Hill,U.S. House,2,DEM,Michael Ray Ellisor,22
+LEXINGTON,027 Sharpes Hill,U.S. House,2,DEM,David F. White III,5
+LEXINGTON,028 Chapin,U.S. House,2,DEM,Michael Ray Ellisor,7
+LEXINGTON,028 Chapin,U.S. House,2,DEM,David F. White III,9
+LEXINGTON,029 Leaphart Road,U.S. House,2,DEM,Michael Ray Ellisor,5
+LEXINGTON,029 Leaphart Road,U.S. House,2,DEM,David F. White III,3
+LEXINGTON,030 Westover,U.S. House,2,DEM,Michael Ray Ellisor,29
+LEXINGTON,030 Westover,U.S. House,2,DEM,David F. White III,15
+LEXINGTON,031 Edenwood,U.S. House,2,DEM,Michael Ray Ellisor,28
+LEXINGTON,031 Edenwood,U.S. House,2,DEM,David F. White III,10
+LEXINGTON,032 Cromer,U.S. House,2,DEM,Michael Ray Ellisor,18
+LEXINGTON,032 Cromer,U.S. House,2,DEM,David F. White III,10
+LEXINGTON,033 Lexington #1,U.S. House,2,DEM,Michael Ray Ellisor,26
+LEXINGTON,033 Lexington #1,U.S. House,2,DEM,David F. White III,11
+LEXINGTON,034 Lexington #2,U.S. House,2,DEM,Michael Ray Ellisor,33
+LEXINGTON,034 Lexington #2,U.S. House,2,DEM,David F. White III,15
+LEXINGTON,035 Cayce #1,U.S. House,2,DEM,Michael Ray Ellisor,18
+LEXINGTON,035 Cayce #1,U.S. House,2,DEM,David F. White III,6
+LEXINGTON,036 Cayce #2,U.S. House,2,DEM,Michael Ray Ellisor,27
+LEXINGTON,036 Cayce #2,U.S. House,2,DEM,David F. White III,10
+LEXINGTON,037 Cayce #3,U.S. House,2,DEM,Michael Ray Ellisor,5
+LEXINGTON,037 Cayce #3,U.S. House,2,DEM,David F. White III,8
+LEXINGTON,038 Chalk Hill,U.S. House,2,DEM,Michael Ray Ellisor,54
+LEXINGTON,038 Chalk Hill,U.S. House,2,DEM,David F. White III,27
+LEXINGTON,039 Congaree #1,U.S. House,2,DEM,Michael Ray Ellisor,12
+LEXINGTON,039 Congaree #1,U.S. House,2,DEM,David F. White III,9
+LEXINGTON,040 Hooks Store,U.S. House,2,DEM,Michael Ray Ellisor,28
+LEXINGTON,040 Hooks Store,U.S. House,2,DEM,David F. White III,11
+LEXINGTON,041 Saluda River,U.S. House,2,DEM,Michael Ray Ellisor,26
+LEXINGTON,041 Saluda River,U.S. House,2,DEM,David F. White III,7
+LEXINGTON,042 Springdale,U.S. House,2,DEM,Michael Ray Ellisor,13
+LEXINGTON,042 Springdale,U.S. House,2,DEM,David F. White III,9
+LEXINGTON,043 Pineridge,U.S. House,2,DEM,Michael Ray Ellisor,36
+LEXINGTON,043 Pineridge,U.S. House,2,DEM,David F. White III,9
+LEXINGTON,044 West Columbia #1,U.S. House,2,DEM,Michael Ray Ellisor,14
+LEXINGTON,044 West Columbia #1,U.S. House,2,DEM,David F. White III,6
+LEXINGTON,045 West Columbia #2,U.S. House,2,DEM,Michael Ray Ellisor,30
+LEXINGTON,045 West Columbia #2,U.S. House,2,DEM,David F. White III,12
+LEXINGTON,046 West Columbia #3,U.S. House,2,DEM,Michael Ray Ellisor,17
+LEXINGTON,046 West Columbia #3,U.S. House,2,DEM,David F. White III,9
+LEXINGTON,047 West Columbia #4,U.S. House,2,DEM,Michael Ray Ellisor,15
+LEXINGTON,047 West Columbia #4,U.S. House,2,DEM,David F. White III,7
+LEXINGTON,048 Irmo,U.S. House,2,DEM,Michael Ray Ellisor,26
+LEXINGTON,048 Irmo,U.S. House,2,DEM,David F. White III,11
+LEXINGTON,049 Challedon,U.S. House,2,DEM,Michael Ray Ellisor,31
+LEXINGTON,049 Challedon,U.S. House,2,DEM,David F. White III,13
+LEXINGTON,050 Whitehall,U.S. House,2,DEM,Michael Ray Ellisor,37
+LEXINGTON,050 Whitehall,U.S. House,2,DEM,David F. White III,27
+LEXINGTON,051 Gardendale,U.S. House,2,DEM,Michael Ray Ellisor,25
+LEXINGTON,051 Gardendale,U.S. House,2,DEM,David F. White III,20
+LEXINGTON,052 Woodland Hills,U.S. House,2,DEM,Michael Ray Ellisor,18
+LEXINGTON,052 Woodland Hills,U.S. House,2,DEM,David F. White III,13
+LEXINGTON,053 Pineview,U.S. House,2,DEM,Michael Ray Ellisor,14
+LEXINGTON,053 Pineview,U.S. House,2,DEM,David F. White III,6
+LEXINGTON,054 Quail Valley,U.S. House,2,DEM,Michael Ray Ellisor,25
+LEXINGTON,054 Quail Valley,U.S. House,2,DEM,David F. White III,15
+LEXINGTON,055 Cayce 2A,U.S. House,2,DEM,Michael Ray Ellisor,27
+LEXINGTON,055 Cayce 2A,U.S. House,2,DEM,David F. White III,17
+LEXINGTON,056 Barr Road,U.S. House,2,DEM,Michael Ray Ellisor,15
+LEXINGTON,056 Barr Road,U.S. House,2,DEM,David F. White III,10
+LEXINGTON,057 Coldstream,U.S. House,2,DEM,Michael Ray Ellisor,24
+LEXINGTON,057 Coldstream,U.S. House,2,DEM,David F. White III,15
+LEXINGTON,058 Grenadier,U.S. House,2,DEM,Michael Ray Ellisor,25
+LEXINGTON,058 Grenadier,U.S. House,2,DEM,David F. White III,16
+LEXINGTON,059 St Michael,U.S. House,2,DEM,Michael Ray Ellisor,19
+LEXINGTON,059 St Michael,U.S. House,2,DEM,David F. White III,11
+LEXINGTON,060 Murraywood,U.S. House,2,DEM,Michael Ray Ellisor,18
+LEXINGTON,060 Murraywood,U.S. House,2,DEM,David F. White III,14
+LEXINGTON,061 Amicks Ferry,U.S. House,2,DEM,Michael Ray Ellisor,23
+LEXINGTON,061 Amicks Ferry,U.S. House,2,DEM,David F. White III,14
+LEXINGTON,062 Bush River,U.S. House,2,DEM,Michael Ray Ellisor,21
+LEXINGTON,062 Bush River,U.S. House,2,DEM,David F. White III,13
+LEXINGTON,063 Dutchman Shores,U.S. House,2,DEM,Michael Ray Ellisor,8
+LEXINGTON,063 Dutchman Shores,U.S. House,2,DEM,David F. White III,8
+LEXINGTON,064 Pilgrim Church,U.S. House,2,DEM,Michael Ray Ellisor,15
+LEXINGTON,064 Pilgrim Church,U.S. House,2,DEM,David F. White III,6
+LEXINGTON,065 White Knoll,U.S. House,2,DEM,Michael Ray Ellisor,13
+LEXINGTON,065 White Knoll,U.S. House,2,DEM,David F. White III,6
+LEXINGTON,066 Faith Church,U.S. House,2,DEM,Michael Ray Ellisor,7
+LEXINGTON,066 Faith Church,U.S. House,2,DEM,David F. White III,0
+LEXINGTON,067 Kitti Wake,U.S. House,2,DEM,Michael Ray Ellisor,18
+LEXINGTON,067 Kitti Wake,U.S. House,2,DEM,David F. White III,7
+LEXINGTON,068 Providence Church,U.S. House,2,DEM,Michael Ray Ellisor,11
+LEXINGTON,068 Providence Church,U.S. House,2,DEM,David F. White III,8
+LEXINGTON,069 Boiling Springs South,U.S. House,2,DEM,Michael Ray Ellisor,13
+LEXINGTON,069 Boiling Springs South,U.S. House,2,DEM,David F. White III,8
+LEXINGTON,070 Lexington #3,U.S. House,2,DEM,Michael Ray Ellisor,6
+LEXINGTON,070 Lexington #3,U.S. House,2,DEM,David F. White III,13
+LEXINGTON,071 Lexington #4,U.S. House,2,DEM,Michael Ray Ellisor,16
+LEXINGTON,071 Lexington #4,U.S. House,2,DEM,David F. White III,12
+LEXINGTON,072 Midway,U.S. House,2,DEM,Michael Ray Ellisor,7
+LEXINGTON,072 Midway,U.S. House,2,DEM,David F. White III,7
+LEXINGTON,073 Park Road,U.S. House,2,DEM,Michael Ray Ellisor,15
+LEXINGTON,073 Park Road,U.S. House,2,DEM,David F. White III,7
+LEXINGTON,074 Springdale South,U.S. House,2,DEM,Michael Ray Ellisor,6
+LEXINGTON,074 Springdale South,U.S. House,2,DEM,David F. White III,4
+LEXINGTON,075 Gaston #2,U.S. House,2,DEM,Michael Ray Ellisor,16
+LEXINGTON,075 Gaston #2,U.S. House,2,DEM,David F. White III,7
+LEXINGTON,076 Lake Murray #2,U.S. House,2,DEM,Michael Ray Ellisor,16
+LEXINGTON,076 Lake Murray #2,U.S. House,2,DEM,David F. White III,7
+LEXINGTON,077 Congaree #2,U.S. House,2,DEM,Michael Ray Ellisor,8
+LEXINGTON,077 Congaree #2,U.S. House,2,DEM,David F. White III,11
+LEXINGTON,078 Saint David,U.S. House,2,DEM,Michael Ray Ellisor,28
+LEXINGTON,078 Saint David,U.S. House,2,DEM,David F. White III,11
+LEXINGTON,079 Mt Hebron,U.S. House,2,DEM,Michael Ray Ellisor,15
+LEXINGTON,079 Mt Hebron,U.S. House,2,DEM,David F. White III,8
+LEXINGTON,080 Sandhills,U.S. House,2,DEM,Michael Ray Ellisor,7
+LEXINGTON,080 Sandhills,U.S. House,2,DEM,David F. White III,8
+LEXINGTON,081 Bethany,U.S. House,2,DEM,Michael Ray Ellisor,11
+LEXINGTON,081 Bethany,U.S. House,2,DEM,David F. White III,9
+LEXINGTON,082 Swansea #2,U.S. House,2,DEM,Michael Ray Ellisor,16
+LEXINGTON,082 Swansea #2,U.S. House,2,DEM,David F. White III,5
+LEXINGTON,083 Pelion #2,U.S. House,2,DEM,Michael Ray Ellisor,8
+LEXINGTON,083 Pelion #2,U.S. House,2,DEM,David F. White III,2
+LEXINGTON,084 Dreher Island,U.S. House,2,DEM,Michael Ray Ellisor,3
+LEXINGTON,084 Dreher Island,U.S. House,2,DEM,David F. White III,2
+LEXINGTON,085 Old Lexington,U.S. House,2,DEM,Michael Ray Ellisor,10
+LEXINGTON,085 Old Lexington,U.S. House,2,DEM,David F. White III,7
+LEXINGTON,086 Lincreek,U.S. House,2,DEM,Michael Ray Ellisor,3
+LEXINGTON,086 Lincreek,U.S. House,2,DEM,David F. White III,8
+LEXINGTON,087 Cedar Crest,U.S. House,2,DEM,Michael Ray Ellisor,28
+LEXINGTON,087 Cedar Crest,U.S. House,2,DEM,David F. White III,8
+LEXINGTON,088 Oakwood,U.S. House,2,DEM,Michael Ray Ellisor,6
+LEXINGTON,088 Oakwood,U.S. House,2,DEM,David F. White III,10
+LEXINGTON,ABSENTEE,U.S. House,2,DEM,Michael Ray Ellisor,60
+LEXINGTON,ABSENTEE,U.S. House,2,DEM,David F. White III,31
+LEXINGTON,EMERGENCY,U.S. House,2,DEM,Michael Ray Ellisor,0
+LEXINGTON,EMERGENCY,U.S. House,2,DEM,David F. White III,1
+LEXINGTON,FAILSAFE,U.S. House,2,DEM,Michael Ray Ellisor,3
+LEXINGTON,FAILSAFE,U.S. House,2,DEM,David F. White III,1
+LEXINGTON,PROVISIONAL,U.S. House,2,DEM,Michael Ray Ellisor,0
+LEXINGTON,PROVISIONAL,U.S. House,2,DEM,David F. White III,0
+LEXINGTON,FAILSAFE PROVISIONAL,U.S. House,2,DEM,Michael Ray Ellisor,4
+LEXINGTON,FAILSAFE PROVISIONAL,U.S. House,2,DEM,David F. White III,2
