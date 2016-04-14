@@ -1,0 +1,104 @@
+county,precinct,office,district,party,candidate,votes
+CHESTER,001 BALDWIN MILL,Governor,,DEM,C. Dennis Aughtry,5
+CHESTER,001 BALDWIN MILL,Governor,,DEM,Tommy Moore,28
+CHESTER,001 BALDWIN MILL,Governor,,DEM,Frank Willis,25
+CHESTER,002 BATON ROUGE,Governor,,DEM,C. Dennis Aughtry,3
+CHESTER,002 BATON ROUGE,Governor,,DEM,Tommy Moore,29
+CHESTER,002 BATON ROUGE,Governor,,DEM,Frank Willis,16
+CHESTER,003 BECKHAMVILLE,Governor,,DEM,C. Dennis Aughtry,12
+CHESTER,003 BECKHAMVILLE,Governor,,DEM,Tommy Moore,86
+CHESTER,003 BECKHAMVILLE,Governor,,DEM,Frank Willis,36
+CHESTER,004 BLACKSTOCK,Governor,,DEM,C. Dennis Aughtry,2
+CHESTER,004 BLACKSTOCK,Governor,,DEM,Tommy Moore,36
+CHESTER,004 BLACKSTOCK,Governor,,DEM,Frank Willis,13
+CHESTER,005 EDGEMOOR,Governor,,DEM,C. Dennis Aughtry,23
+CHESTER,005 EDGEMOOR,Governor,,DEM,Tommy Moore,71
+CHESTER,005 EDGEMOOR,Governor,,DEM,Frank Willis,48
+CHESTER,010 EUREKA MILL,Governor,,DEM,C. Dennis Aughtry,17
+CHESTER,010 EUREKA MILL,Governor,,DEM,Tommy Moore,63
+CHESTER,010 EUREKA MILL,Governor,,DEM,Frank Willis,62
+CHESTER,011 FORT LAWN,Governor,,DEM,C. Dennis Aughtry,19
+CHESTER,011 FORT LAWN,Governor,,DEM,Tommy Moore,71
+CHESTER,011 FORT LAWN,Governor,,DEM,Frank Willis,31
+CHESTER,012 HALSELLVILLE,Governor,,DEM,C. Dennis Aughtry,0
+CHESTER,012 HALSELLVILLE,Governor,,DEM,Tommy Moore,17
+CHESTER,012 HALSELLVILLE,Governor,,DEM,Frank Willis,9
+CHESTER,013 HAZELWOOD,Governor,,DEM,C. Dennis Aughtry,3
+CHESTER,013 HAZELWOOD,Governor,,DEM,Tommy Moore,33
+CHESTER,013 HAZELWOOD,Governor,,DEM,Frank Willis,16
+CHESTER,014 LANDO,Governor,,DEM,C. Dennis Aughtry,6
+CHESTER,014 LANDO,Governor,,DEM,Tommy Moore,11
+CHESTER,014 LANDO,Governor,,DEM,Frank Willis,9
+CHESTER,015 LANDSFORD,Governor,,DEM,C. Dennis Aughtry,12
+CHESTER,015 LANDSFORD,Governor,,DEM,Tommy Moore,36
+CHESTER,015 LANDSFORD,Governor,,DEM,Frank Willis,28
+CHESTER,018 LOWRYS,Governor,,DEM,C. Dennis Aughtry,9
+CHESTER,018 LOWRYS,Governor,,DEM,Tommy Moore,34
+CHESTER,018 LOWRYS,Governor,,DEM,Frank Willis,20
+CHESTER,021 RICHBURG,Governor,,DEM,C. Dennis Aughtry,16
+CHESTER,021 RICHBURG,Governor,,DEM,Tommy Moore,97
+CHESTER,021 RICHBURG,Governor,,DEM,Frank Willis,33
+CHESTER,022 RODMAN,Governor,,DEM,C. Dennis Aughtry,5
+CHESTER,022 RODMAN,Governor,,DEM,Tommy Moore,39
+CHESTER,022 RODMAN,Governor,,DEM,Frank Willis,27
+CHESTER,023 ROSSVILLE,Governor,,DEM,C. Dennis Aughtry,4
+CHESTER,023 ROSSVILLE,Governor,,DEM,Tommy Moore,32
+CHESTER,023 ROSSVILLE,Governor,,DEM,Frank Willis,22
+CHESTER,024 WILKSBURG,Governor,,DEM,C. Dennis Aughtry,2
+CHESTER,024 WILKSBURG,Governor,,DEM,Tommy Moore,24
+CHESTER,024 WILKSBURG,Governor,,DEM,Frank Willis,44
+CHESTER,026 GREAT FALLS 1 & 2,Governor,,DEM,C. Dennis Aughtry,6
+CHESTER,026 GREAT FALLS 1 & 2,Governor,,DEM,Tommy Moore,36
+CHESTER,026 GREAT FALLS 1 & 2,Governor,,DEM,Frank Willis,8
+CHESTER,028 GREAT FALLS 3,Governor,,DEM,C. Dennis Aughtry,8
+CHESTER,028 GREAT FALLS 3,Governor,,DEM,Tommy Moore,53
+CHESTER,028 GREAT FALLS 3,Governor,,DEM,Frank Willis,26
+CHESTER,029 CHESTER WARD 1,Governor,,DEM,C. Dennis Aughtry,10
+CHESTER,029 CHESTER WARD 1,Governor,,DEM,Tommy Moore,95
+CHESTER,029 CHESTER WARD 1,Governor,,DEM,Frank Willis,71
+CHESTER,030 CHESTER WARD 2,Governor,,DEM,C. Dennis Aughtry,6
+CHESTER,030 CHESTER WARD 2,Governor,,DEM,Tommy Moore,56
+CHESTER,030 CHESTER WARD 2,Governor,,DEM,Frank Willis,36
+CHESTER,031 CHESTER WARD 3,Governor,,DEM,C. Dennis Aughtry,28
+CHESTER,031 CHESTER WARD 3,Governor,,DEM,Tommy Moore,187
+CHESTER,031 CHESTER WARD 3,Governor,,DEM,Frank Willis,115
+CHESTER,032 CHESTER WARD 4,Governor,,DEM,C. Dennis Aughtry,11
+CHESTER,032 CHESTER WARD 4,Governor,,DEM,Tommy Moore,80
+CHESTER,032 CHESTER WARD 4,Governor,,DEM,Frank Willis,65
+CHESTER,ABSENTEE,Governor,,DEM,C. Dennis Aughtry,13
+CHESTER,ABSENTEE,Governor,,DEM,Tommy Moore,88
+CHESTER,ABSENTEE,Governor,,DEM,Frank Willis,100
+CHESTER,EMERGENCY,Governor,,DEM,C. Dennis Aughtry,0
+CHESTER,EMERGENCY,Governor,,DEM,Tommy Moore,0
+CHESTER,EMERGENCY,Governor,,DEM,Frank Willis,0
+CHESTER,FAILSAFE,Governor,,DEM,C. Dennis Aughtry,1
+CHESTER,FAILSAFE,Governor,,DEM,Tommy Moore,4
+CHESTER,FAILSAFE,Governor,,DEM,Frank Willis,3
+CHESTER,PROVISIONAL,Governor,,DEM,C. Dennis Aughtry,0
+CHESTER,PROVISIONAL,Governor,,DEM,Tommy Moore,0
+CHESTER,PROVISIONAL,Governor,,DEM,Frank Willis,0
+CHESTER,FAILSAFE PROVISONAL,Governor,,DEM,C. Dennis Aughtry,0
+CHESTER,FAILSAFE PROVISONAL,Governor,,DEM,Tommy Moore,0
+CHESTER,FAILSAFE PROVISONAL,Governor,,DEM,Frank Willis,0
+CHESTER,001 BALDWIN MILL,State House,41,DEM,Creighton B. Coleman,38
+CHESTER,001 BALDWIN MILL,State House,41,DEM,Annie E. McDaniel,23
+CHESTER,004 BLACKSTOCK,State House,41,DEM,Creighton B. Coleman,25
+CHESTER,004 BLACKSTOCK,State House,41,DEM,Annie E. McDaniel,13
+CHESTER,010 EUREKA MILL,State House,41,DEM,Creighton B. Coleman,23
+CHESTER,010 EUREKA MILL,State House,41,DEM,Annie E. McDaniel,69
+CHESTER,012 HALSELLVILLE,State House,41,DEM,Creighton B. Coleman,2
+CHESTER,012 HALSELLVILLE,State House,41,DEM,Annie E. McDaniel,1
+CHESTER,029 CHESTER WARD 1,State House,41,DEM,Creighton B. Coleman,47
+CHESTER,029 CHESTER WARD 1,State House,41,DEM,Annie E. McDaniel,92
+CHESTER,030 CHESTER WARD 2,State House,41,DEM,Creighton B. Coleman,41
+CHESTER,030 CHESTER WARD 2,State House,41,DEM,Annie E. McDaniel,46
+CHESTER,031 CHESTER WARD 3,State House,41,DEM,Creighton B. Coleman,32
+CHESTER,031 CHESTER WARD 3,State House,41,DEM,Annie E. McDaniel,34
+CHESTER,ABSENTEE,State House,41,DEM,Creighton B. Coleman,9
+CHESTER,ABSENTEE,State House,41,DEM,Annie E. McDaniel,11
+CHESTER,EMERGENCY,State House,41,DEM,Creighton B. Coleman,0
+CHESTER,EMERGENCY,State House,41,DEM,Annie E. McDaniel,0
+CHESTER,FAILSAFE,State House,41,DEM,Creighton B. Coleman,1
+CHESTER,FAILSAFE,State House,41,DEM,Annie E. McDaniel,0
+CHESTER,PROVISIONAL,State House,41,DEM,Creighton B. Coleman,0
+CHESTER,PROVISIONAL,State House,41,DEM,Annie E. McDaniel,0

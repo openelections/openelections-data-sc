@@ -1,0 +1,85 @@
+county,precinct,office,district,party,candidate,votes
+UNION,001 ADAMSBURG,Governor,,DEM,C. Dennis Aughtry,8
+UNION,001 ADAMSBURG,Governor,,DEM,Tommy Moore,101
+UNION,001 ADAMSBURG,Governor,,DEM,Frank Willis,42
+UNION,002 BLACK ROCK,Governor,,DEM,C. Dennis Aughtry,10
+UNION,002 BLACK ROCK,Governor,,DEM,Tommy Moore,22
+UNION,002 BLACK ROCK,Governor,,DEM,Frank Willis,19
+UNION,003 BONHAM,Governor,,DEM,C. Dennis Aughtry,12
+UNION,003 BONHAM,Governor,,DEM,Tommy Moore,122
+UNION,003 BONHAM,Governor,,DEM,Frank Willis,55
+UNION,004 BUFFALO BOX 1,Governor,,DEM,C. Dennis Aughtry,17
+UNION,004 BUFFALO BOX 1,Governor,,DEM,Tommy Moore,126
+UNION,004 BUFFALO BOX 1,Governor,,DEM,Frank Willis,37
+UNION,005 CARLISLE,Governor,,DEM,C. Dennis Aughtry,17
+UNION,005 CARLISLE,Governor,,DEM,Tommy Moore,39
+UNION,005 CARLISLE,Governor,,DEM,Frank Willis,20
+UNION,006 CROSS KEYS,Governor,,DEM,C. Dennis Aughtry,10
+UNION,006 CROSS KEYS,Governor,,DEM,Tommy Moore,86
+UNION,006 CROSS KEYS,Governor,,DEM,Frank Willis,35
+UNION,007 EAST BUFFALO,Governor,,DEM,C. Dennis Aughtry,2
+UNION,007 EAST BUFFALO,Governor,,DEM,Tommy Moore,40
+UNION,007 EAST BUFFALO,Governor,,DEM,Frank Willis,7
+UNION,008 EXCELSIOR,Governor,,DEM,C. Dennis Aughtry,14
+UNION,008 EXCELSIOR,Governor,,DEM,Tommy Moore,241
+UNION,008 EXCELSIOR,Governor,,DEM,Frank Willis,78
+UNION,009 JONESVILLE BOX 1,Governor,,DEM,C. Dennis Aughtry,10
+UNION,009 JONESVILLE BOX 1,Governor,,DEM,Tommy Moore,79
+UNION,009 JONESVILLE BOX 1,Governor,,DEM,Frank Willis,25
+UNION,010 JONESVILLE BOX 2,Governor,,DEM,C. Dennis Aughtry,18
+UNION,010 JONESVILLE BOX 2,Governor,,DEM,Tommy Moore,84
+UNION,010 JONESVILLE BOX 2,Governor,,DEM,Frank Willis,44
+UNION,011 KELTON,Governor,,DEM,C. Dennis Aughtry,18
+UNION,011 KELTON,Governor,,DEM,Tommy Moore,108
+UNION,011 KELTON,Governor,,DEM,Frank Willis,61
+UNION,012 LOCKHART,Governor,,DEM,C. Dennis Aughtry,17
+UNION,012 LOCKHART,Governor,,DEM,Tommy Moore,115
+UNION,012 LOCKHART,Governor,,DEM,Frank Willis,68
+UNION,013 MONARCH BOX 1,Governor,,DEM,C. Dennis Aughtry,20
+UNION,013 MONARCH BOX 1,Governor,,DEM,Tommy Moore,201
+UNION,013 MONARCH BOX 1,Governor,,DEM,Frank Willis,72
+UNION,014 MONARCH BOX 2,Governor,,DEM,C. Dennis Aughtry,4
+UNION,014 MONARCH BOX 2,Governor,,DEM,Tommy Moore,35
+UNION,014 MONARCH BOX 2,Governor,,DEM,Frank Willis,13
+UNION,015 PUTNAM,Governor,,DEM,C. Dennis Aughtry,6
+UNION,015 PUTNAM,Governor,,DEM,Tommy Moore,42
+UNION,015 PUTNAM,Governor,,DEM,Frank Willis,27
+UNION,016 SANTUCK,Governor,,DEM,C. Dennis Aughtry,16
+UNION,016 SANTUCK,Governor,,DEM,Tommy Moore,74
+UNION,016 SANTUCK,Governor,,DEM,Frank Willis,33
+UNION,017 WARD 1 BOX 1,Governor,,DEM,C. Dennis Aughtry,6
+UNION,017 WARD 1 BOX 1,Governor,,DEM,Tommy Moore,114
+UNION,017 WARD 1 BOX 1,Governor,,DEM,Frank Willis,48
+UNION,018 WARD 1 BOX 2,Governor,,DEM,C. Dennis Aughtry,9
+UNION,018 WARD 1 BOX 2,Governor,,DEM,Tommy Moore,117
+UNION,018 WARD 1 BOX 2,Governor,,DEM,Frank Willis,59
+UNION,019 WARD 2,Governor,,DEM,C. Dennis Aughtry,10
+UNION,019 WARD 2,Governor,,DEM,Tommy Moore,132
+UNION,019 WARD 2,Governor,,DEM,Frank Willis,46
+UNION,020 WARD 3,Governor,,DEM,C. Dennis Aughtry,5
+UNION,020 WARD 3,Governor,,DEM,Tommy Moore,61
+UNION,020 WARD 3,Governor,,DEM,Frank Willis,31
+UNION,021 WARD 4 BOX 1,Governor,,DEM,C. Dennis Aughtry,15
+UNION,021 WARD 4 BOX 1,Governor,,DEM,Tommy Moore,143
+UNION,021 WARD 4 BOX 1,Governor,,DEM,Frank Willis,45
+UNION,022 WARD 4 BOX 2,Governor,,DEM,C. Dennis Aughtry,2
+UNION,022 WARD 4 BOX 2,Governor,,DEM,Tommy Moore,24
+UNION,022 WARD 4 BOX 2,Governor,,DEM,Frank Willis,12
+UNION,023 WEST SPRINGS,Governor,,DEM,C. Dennis Aughtry,2
+UNION,023 WEST SPRINGS,Governor,,DEM,Tommy Moore,31
+UNION,023 WEST SPRINGS,Governor,,DEM,Frank Willis,7
+UNION,ABSENTEE,Governor,,DEM,C. Dennis Aughtry,15
+UNION,ABSENTEE,Governor,,DEM,Tommy Moore,137
+UNION,ABSENTEE,Governor,,DEM,Frank Willis,27
+UNION,EMERGENCY,Governor,,DEM,C. Dennis Aughtry,0
+UNION,EMERGENCY,Governor,,DEM,Tommy Moore,0
+UNION,EMERGENCY,Governor,,DEM,Frank Willis,0
+UNION,FAILSAFE,Governor,,DEM,C. Dennis Aughtry,0
+UNION,FAILSAFE,Governor,,DEM,Tommy Moore,0
+UNION,FAILSAFE,Governor,,DEM,Frank Willis,0
+UNION,PROVISIONAL,Governor,,DEM,C. Dennis Aughtry,0
+UNION,PROVISIONAL,Governor,,DEM,Tommy Moore,0
+UNION,PROVISIONAL,Governor,,DEM,Frank Willis,0
+UNION,FAILSAFE PROVISONAL,Governor,,DEM,C. Dennis Aughtry,0
+UNION,FAILSAFE PROVISONAL,Governor,,DEM,Tommy Moore,0
+UNION,FAILSAFE PROVISONAL,Governor,,DEM,Frank Willis,0
