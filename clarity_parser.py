@@ -43,7 +43,7 @@ def statewide_results(url):
         else:
             results.append({ 'county': county, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
-    with open("20180508__wv__general.csv", "wt") as csvfile:
+    with open("20181106__sc__general.csv", "wt") as csvfile:
         w = csv.writer(csvfile)
         w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
         for row in results:
@@ -103,8 +103,10 @@ def precinct_results(county_name, filename):
             results.append({ 'county': county, 'precinct': precinct, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
     vote_types = list(set(vote_types))
-    vote_types.remove('overVotes')
-    vote_types.remove('underVotes')
+    if 'overVotes' in vote_types:
+        vote_types.remove('overVotes')
+    if 'underVotes' in vote_types:
+        vote_types.remove('underVotes')
     with open(f, "wt") as csvfile:
         w = csv.writer(csvfile)
         headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'] #+ [x.replace(' ','_').lower() for x in vote_types]
