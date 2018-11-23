@@ -19,7 +19,7 @@ def statewide_results(url):
     for result in p.results:
         candidate = result.choice.text
         office, district = parse_office(result.contest.text)
-        party = parse_party(result.contest.text)
+        party = result.contest.party
         if '(' in candidate and party is None:
             if '(I)' in candidate:
                 if '(I)(I)' in candidate:
@@ -77,7 +77,7 @@ def precinct_results(county_name, filename):
             continue
         candidate = result.choice.text
         office, district = parse_office(result.contest.text)
-        party = parse_party(result.contest.text)
+        party = result.choice.party
         if '(' in candidate and party is None:
             if '(I)' in candidate:
                 if '(I)(I)' in candidate:
