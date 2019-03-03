@@ -10,7 +10,7 @@ except ImportError:
 
 def statewide_results(url):
     j = clarify.Jurisdiction(url=url, level="state")
-    r = requests.get("http://results.enr.clarityelections.com/WV/74487/207685/reports/detailxml.zip", stream=True)
+    r = requests.get(j.report_url('xml'), stream=True)
     z = zipfile.ZipFile(BytesIO(r.content))
     z.extractall()
     p = clarify.Parser()
@@ -43,7 +43,7 @@ def statewide_results(url):
         else:
             results.append({ 'county': county, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
-    with open("20181106__sc__general.csv", "wt") as csvfile:
+    with open("20141104__sc__general.csv", "wt") as csvfile:
         w = csv.writer(csvfile)
         w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
         for row in results:
