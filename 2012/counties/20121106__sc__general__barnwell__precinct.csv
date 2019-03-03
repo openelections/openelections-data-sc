@@ -1,0 +1,680 @@
+county,precinct,office,district,party,candidate,votes
+Barnwell,Barnwell 1,Straight Party 1,,REP,Republican,79
+Barnwell,Barnwell 2,Straight Party 1,,REP,Republican,242
+Barnwell,Barnwell 3,Straight Party 1,,REP,Republican,262
+Barnwell,Barnwell 4,Straight Party 1,,REP,Republican,112
+Barnwell,Blackville 1,Straight Party 1,,REP,Republican,87
+Barnwell,Blackville 2,Straight Party 1,,REP,Republican,61
+Barnwell,Elko,Straight Party 1,,REP,Republican,75
+Barnwell,Friendship,Straight Party 1,,REP,Republican,203
+Barnwell,Kline,Straight Party 1,,REP,Republican,110
+Barnwell,Healing Springs,Straight Party 1,,REP,Republican,63
+Barnwell,Hilda,Straight Party 1,,REP,Republican,248
+Barnwell,Snelling,Straight Party 1,,REP,Republican,155
+Barnwell,Williston 1,Straight Party 1,,REP,Republican,143
+Barnwell,Williston 2,Straight Party 1,,REP,Republican,121
+Barnwell,Williston 3,Straight Party 1,,REP,Republican,168
+Barnwell,Absentee,Straight Party 1,,REP,Republican,365
+Barnwell,Emergency,Straight Party 1,,REP,Republican,0
+Barnwell,Failsafe,Straight Party 1,,REP,Republican,14
+Barnwell,Provisional,Straight Party 1,,REP,Republican,1
+Barnwell,Failsafe Provisional,Straight Party 1,,REP,Republican,0
+Barnwell,Barnwell 1,Straight Party 1,,LIB,Libertarian,2
+Barnwell,Barnwell 2,Straight Party 1,,LIB,Libertarian,1
+Barnwell,Barnwell 3,Straight Party 1,,LIB,Libertarian,0
+Barnwell,Barnwell 4,Straight Party 1,,LIB,Libertarian,1
+Barnwell,Blackville 1,Straight Party 1,,LIB,Libertarian,1
+Barnwell,Blackville 2,Straight Party 1,,LIB,Libertarian,0
+Barnwell,Elko,Straight Party 1,,LIB,Libertarian,1
+Barnwell,Friendship,Straight Party 1,,LIB,Libertarian,0
+Barnwell,Kline,Straight Party 1,,LIB,Libertarian,1
+Barnwell,Healing Springs,Straight Party 1,,LIB,Libertarian,2
+Barnwell,Hilda,Straight Party 1,,LIB,Libertarian,0
+Barnwell,Snelling,Straight Party 1,,LIB,Libertarian,0
+Barnwell,Williston 1,Straight Party 1,,LIB,Libertarian,0
+Barnwell,Williston 2,Straight Party 1,,LIB,Libertarian,1
+Barnwell,Williston 3,Straight Party 1,,LIB,Libertarian,1
+Barnwell,Absentee,Straight Party 1,,LIB,Libertarian,0
+Barnwell,Emergency,Straight Party 1,,LIB,Libertarian,0
+Barnwell,Failsafe,Straight Party 1,,LIB,Libertarian,0
+Barnwell,Provisional,Straight Party 1,,LIB,Libertarian,0
+Barnwell,Failsafe Provisional,Straight Party 1,,LIB,Libertarian,0
+Barnwell,Barnwell 1,Straight Party 1,,DEM,Democratic,133
+Barnwell,Barnwell 2,Straight Party 1,,DEM,Democratic,190
+Barnwell,Barnwell 3,Straight Party 1,,DEM,Democratic,264
+Barnwell,Barnwell 4,Straight Party 1,,DEM,Democratic,350
+Barnwell,Blackville 1,Straight Party 1,,DEM,Democratic,330
+Barnwell,Blackville 2,Straight Party 1,,DEM,Democratic,189
+Barnwell,Elko,Straight Party 1,,DEM,Democratic,145
+Barnwell,Friendship,Straight Party 1,,DEM,Democratic,26
+Barnwell,Kline,Straight Party 1,,DEM,Democratic,127
+Barnwell,Healing Springs,Straight Party 1,,DEM,Democratic,340
+Barnwell,Hilda,Straight Party 1,,DEM,Democratic,58
+Barnwell,Snelling,Straight Party 1,,DEM,Democratic,242
+Barnwell,Williston 1,Straight Party 1,,DEM,Democratic,459
+Barnwell,Williston 2,Straight Party 1,,DEM,Democratic,83
+Barnwell,Williston 3,Straight Party 1,,DEM,Democratic,164
+Barnwell,Absentee,Straight Party 1,,DEM,Democratic,728
+Barnwell,Emergency,Straight Party 1,,DEM,Democratic,0
+Barnwell,Failsafe,Straight Party 1,,DEM,Democratic,28
+Barnwell,Provisional,Straight Party 1,,DEM,Democratic,1
+Barnwell,Failsafe Provisional,Straight Party 1,,DEM,Democratic,3
+Barnwell,Barnwell 1,Straight Party 1,,CON,Constitution,0
+Barnwell,Barnwell 2,Straight Party 1,,CON,Constitution,4
+Barnwell,Barnwell 3,Straight Party 1,,CON,Constitution,0
+Barnwell,Barnwell 4,Straight Party 1,,CON,Constitution,2
+Barnwell,Blackville 1,Straight Party 1,,CON,Constitution,0
+Barnwell,Blackville 2,Straight Party 1,,CON,Constitution,0
+Barnwell,Elko,Straight Party 1,,CON,Constitution,1
+Barnwell,Friendship,Straight Party 1,,CON,Constitution,0
+Barnwell,Kline,Straight Party 1,,CON,Constitution,1
+Barnwell,Healing Springs,Straight Party 1,,CON,Constitution,1
+Barnwell,Hilda,Straight Party 1,,CON,Constitution,0
+Barnwell,Snelling,Straight Party 1,,CON,Constitution,1
+Barnwell,Williston 1,Straight Party 1,,CON,Constitution,0
+Barnwell,Williston 2,Straight Party 1,,CON,Constitution,3
+Barnwell,Williston 3,Straight Party 1,,CON,Constitution,2
+Barnwell,Absentee,Straight Party 1,,CON,Constitution,2
+Barnwell,Emergency,Straight Party 1,,CON,Constitution,0
+Barnwell,Failsafe,Straight Party 1,,CON,Constitution,0
+Barnwell,Provisional,Straight Party 1,,CON,Constitution,0
+Barnwell,Failsafe Provisional,Straight Party 1,,CON,Constitution,0
+Barnwell,Barnwell 1,Straight Party 1,,GRN,Green,0
+Barnwell,Barnwell 2,Straight Party 1,,GRN,Green,2
+Barnwell,Barnwell 3,Straight Party 1,,GRN,Green,1
+Barnwell,Barnwell 4,Straight Party 1,,GRN,Green,2
+Barnwell,Blackville 1,Straight Party 1,,GRN,Green,2
+Barnwell,Blackville 2,Straight Party 1,,GRN,Green,0
+Barnwell,Elko,Straight Party 1,,GRN,Green,0
+Barnwell,Friendship,Straight Party 1,,GRN,Green,0
+Barnwell,Kline,Straight Party 1,,GRN,Green,0
+Barnwell,Healing Springs,Straight Party 1,,GRN,Green,0
+Barnwell,Hilda,Straight Party 1,,GRN,Green,1
+Barnwell,Snelling,Straight Party 1,,GRN,Green,0
+Barnwell,Williston 1,Straight Party 1,,GRN,Green,0
+Barnwell,Williston 2,Straight Party 1,,GRN,Green,0
+Barnwell,Williston 3,Straight Party 1,,GRN,Green,2
+Barnwell,Absentee,Straight Party 1,,GRN,Green,1
+Barnwell,Emergency,Straight Party 1,,GRN,Green,0
+Barnwell,Failsafe,Straight Party 1,,GRN,Green,0
+Barnwell,Provisional,Straight Party 1,,GRN,Green,0
+Barnwell,Failsafe Provisional,Straight Party 1,,GRN,Green,0
+Barnwell,Barnwell 1,President and Vice President,,REP,Mitt Romney / Paul Ryan,155
+Barnwell,Barnwell 2,President and Vice President,,REP,Mitt Romney / Paul Ryan,479
+Barnwell,Barnwell 3,President and Vice President,,REP,Mitt Romney / Paul Ryan,527
+Barnwell,Barnwell 4,President and Vice President,,REP,Mitt Romney / Paul Ryan,261
+Barnwell,Blackville 1,President and Vice President,,REP,Mitt Romney / Paul Ryan,159
+Barnwell,Blackville 2,President and Vice President,,REP,Mitt Romney / Paul Ryan,113
+Barnwell,Elko,President and Vice President,,REP,Mitt Romney / Paul Ryan,166
+Barnwell,Friendship,President and Vice President,,REP,Mitt Romney / Paul Ryan,319
+Barnwell,Kline,President and Vice President,,REP,Mitt Romney / Paul Ryan,177
+Barnwell,Healing Springs,President and Vice President,,REP,Mitt Romney / Paul Ryan,94
+Barnwell,Hilda,President and Vice President,,REP,Mitt Romney / Paul Ryan,426
+Barnwell,Snelling,President and Vice President,,REP,Mitt Romney / Paul Ryan,299
+Barnwell,Williston 1,President and Vice President,,REP,Mitt Romney / Paul Ryan,269
+Barnwell,Williston 2,President and Vice President,,REP,Mitt Romney / Paul Ryan,236
+Barnwell,Williston 3,President and Vice President,,REP,Mitt Romney / Paul Ryan,288
+Barnwell,Absentee,President and Vice President,,REP,Mitt Romney / Paul Ryan,671
+Barnwell,Emergency,President and Vice President,,REP,Mitt Romney / Paul Ryan,0
+Barnwell,Failsafe,President and Vice President,,REP,Mitt Romney / Paul Ryan,16
+Barnwell,Provisional,President and Vice President,,REP,Mitt Romney / Paul Ryan,2
+Barnwell,Failsafe Provisional,President and Vice President,,REP,Mitt Romney / Paul Ryan,2
+Barnwell,Barnwell 1,President and Vice President,,LIB,Gary Johnson / James P Gray,5
+Barnwell,Barnwell 2,President and Vice President,,LIB,Gary Johnson / James P Gray,6
+Barnwell,Barnwell 3,President and Vice President,,LIB,Gary Johnson / James P Gray,3
+Barnwell,Barnwell 4,President and Vice President,,LIB,Gary Johnson / James P Gray,2
+Barnwell,Blackville 1,President and Vice President,,LIB,Gary Johnson / James P Gray,2
+Barnwell,Blackville 2,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Barnwell,Elko,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Barnwell,Friendship,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Barnwell,Kline,President and Vice President,,LIB,Gary Johnson / James P Gray,2
+Barnwell,Healing Springs,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Barnwell,Hilda,President and Vice President,,LIB,Gary Johnson / James P Gray,3
+Barnwell,Snelling,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Barnwell,Williston 1,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Barnwell,Williston 2,President and Vice President,,LIB,Gary Johnson / James P Gray,2
+Barnwell,Williston 3,President and Vice President,,LIB,Gary Johnson / James P Gray,3
+Barnwell,Absentee,President and Vice President,,LIB,Gary Johnson / James P Gray,11
+Barnwell,Emergency,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Barnwell,Failsafe,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Barnwell,Provisional,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Barnwell,Failsafe Provisional,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Barnwell,Barnwell 1,President and Vice President,,DEM,Barack Obama / Joe Biden,201
+Barnwell,Barnwell 2,President and Vice President,,DEM,Barack Obama / Joe Biden,285
+Barnwell,Barnwell 3,President and Vice President,,DEM,Barack Obama / Joe Biden,378
+Barnwell,Barnwell 4,President and Vice President,,DEM,Barack Obama / Joe Biden,470
+Barnwell,Blackville 1,President and Vice President,,DEM,Barack Obama / Joe Biden,422
+Barnwell,Blackville 2,President and Vice President,,DEM,Barack Obama / Joe Biden,252
+Barnwell,Elko,President and Vice President,,DEM,Barack Obama / Joe Biden,193
+Barnwell,Friendship,President and Vice President,,DEM,Barack Obama / Joe Biden,43
+Barnwell,Kline,President and Vice President,,DEM,Barack Obama / Joe Biden,171
+Barnwell,Healing Springs,President and Vice President,,DEM,Barack Obama / Joe Biden,431
+Barnwell,Hilda,President and Vice President,,DEM,Barack Obama / Joe Biden,80
+Barnwell,Snelling,President and Vice President,,DEM,Barack Obama / Joe Biden,366
+Barnwell,Williston 1,President and Vice President,,DEM,Barack Obama / Joe Biden,588
+Barnwell,Williston 2,President and Vice President,,DEM,Barack Obama / Joe Biden,109
+Barnwell,Williston 3,President and Vice President,,DEM,Barack Obama / Joe Biden,236
+Barnwell,Absentee,President and Vice President,,DEM,Barack Obama / Joe Biden,922
+Barnwell,Emergency,President and Vice President,,DEM,Barack Obama / Joe Biden,0
+Barnwell,Failsafe,President and Vice President,,DEM,Barack Obama / Joe Biden,35
+Barnwell,Provisional,President and Vice President,,DEM,Barack Obama / Joe Biden,2
+Barnwell,Failsafe Provisional,President and Vice President,,DEM,Barack Obama / Joe Biden,4
+Barnwell,Barnwell 1,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Barnwell,Barnwell 2,President and Vice President,,CON,Virgil Goode / Jim Clymer,4
+Barnwell,Barnwell 3,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Barnwell,Barnwell 4,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Barnwell,Blackville 1,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Barnwell,Blackville 2,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Barnwell,Elko,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Barnwell,Friendship,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Barnwell,Kline,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Barnwell,Healing Springs,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Barnwell,Hilda,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Barnwell,Snelling,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Barnwell,Williston 1,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Barnwell,Williston 2,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Barnwell,Williston 3,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Barnwell,Absentee,President and Vice President,,CON,Virgil Goode / Jim Clymer,4
+Barnwell,Emergency,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Barnwell,Failsafe,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Barnwell,Provisional,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Barnwell,Failsafe Provisional,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Barnwell,Barnwell 1,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Barnwell,Barnwell 2,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Barnwell,Barnwell 3,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Barnwell,Barnwell 4,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Barnwell,Blackville 1,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Barnwell,Blackville 2,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Barnwell,Elko,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Barnwell,Friendship,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Barnwell,Kline,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Barnwell,Healing Springs,President and Vice President,,GRN,Jill Stein / Cheri Honkala,3
+Barnwell,Hilda,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Barnwell,Snelling,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Barnwell,Williston 1,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Barnwell,Williston 2,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Barnwell,Williston 3,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Barnwell,Absentee,President and Vice President,,GRN,Jill Stein / Cheri Honkala,4
+Barnwell,Emergency,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Barnwell,Failsafe,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Barnwell,Provisional,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Barnwell,Failsafe Provisional,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Barnwell,Barnwell 1,U.S. House of Representatives,2,REP,Joe Wilson,204
+Barnwell,Barnwell 2,U.S. House of Representatives,2,REP,Joe Wilson,545
+Barnwell,Barnwell 3,U.S. House of Representatives,2,REP,Joe Wilson,600
+Barnwell,Barnwell 4,U.S. House of Representatives,2,REP,Joe Wilson,327
+Barnwell,Blackville 1,U.S. House of Representatives,2,REP,Joe Wilson,222
+Barnwell,Blackville 2,U.S. House of Representatives,2,REP,Joe Wilson,153
+Barnwell,Elko,U.S. House of Representatives,2,REP,Joe Wilson,187
+Barnwell,Friendship,U.S. House of Representatives,2,REP,Joe Wilson,321
+Barnwell,Kline,U.S. House of Representatives,2,REP,Joe Wilson,216
+Barnwell,Healing Springs,U.S. House of Representatives,2,REP,Joe Wilson,173
+Barnwell,Hilda,U.S. House of Representatives,2,REP,Joe Wilson,455
+Barnwell,Snelling,U.S. House of Representatives,2,REP,Joe Wilson,379
+Barnwell,Williston 1,U.S. House of Representatives,2,REP,Joe Wilson,333
+Barnwell,Williston 2,U.S. House of Representatives,2,REP,Joe Wilson,257
+Barnwell,Williston 3,U.S. House of Representatives,2,REP,Joe Wilson,338
+Barnwell,Absentee,U.S. House of Representatives,2,REP,Joe Wilson,752
+Barnwell,Emergency,U.S. House of Representatives,2,REP,Joe Wilson,0
+Barnwell,Failsafe,U.S. House of Representatives,2,REP,Joe Wilson,23
+Barnwell,Provisional,U.S. House of Representatives,2,REP,Joe Wilson,3
+Barnwell,Failsafe Provisional,U.S. House of Representatives,2,REP,Joe Wilson,2
+Barnwell,Barnwell 1,U.S. House of Representatives,2,NON,Write-In,1
+Barnwell,Barnwell 2,U.S. House of Representatives,2,NON,Write-In,8
+Barnwell,Barnwell 3,U.S. House of Representatives,2,NON,Write-In,3
+Barnwell,Barnwell 4,U.S. House of Representatives,2,NON,Write-In,3
+Barnwell,Blackville 1,U.S. House of Representatives,2,NON,Write-In,11
+Barnwell,Blackville 2,U.S. House of Representatives,2,NON,Write-In,2
+Barnwell,Elko,U.S. House of Representatives,2,NON,Write-In,1
+Barnwell,Friendship,U.S. House of Representatives,2,NON,Write-In,0
+Barnwell,Kline,U.S. House of Representatives,2,NON,Write-In,1
+Barnwell,Healing Springs,U.S. House of Representatives,2,NON,Write-In,5
+Barnwell,Hilda,U.S. House of Representatives,2,NON,Write-In,0
+Barnwell,Snelling,U.S. House of Representatives,2,NON,Write-In,6
+Barnwell,Williston 1,U.S. House of Representatives,2,NON,Write-In,0
+Barnwell,Williston 2,U.S. House of Representatives,2,NON,Write-In,2
+Barnwell,Williston 3,U.S. House of Representatives,2,NON,Write-In,1
+Barnwell,Absentee,U.S. House of Representatives,2,NON,Write-In,14
+Barnwell,Emergency,U.S. House of Representatives,2,NON,Write-In,0
+Barnwell,Failsafe,U.S. House of Representatives,2,NON,Write-In,0
+Barnwell,Provisional,U.S. House of Representatives,2,NON,Write-In,0
+Barnwell,Failsafe Provisional,U.S. House of Representatives,2,NON,Write-In,1
+Barnwell,Barnwell 1,State Senate District 40,,DEM,Brad Hutto,271
+Barnwell,Barnwell 2,State Senate District 40,,DEM,Brad Hutto,493
+Barnwell,Barnwell 3,State Senate District 40,,DEM,Brad Hutto,628
+Barnwell,Barnwell 4,State Senate District 40,,DEM,Brad Hutto,592
+Barnwell,Blackville 1,State Senate District 40,,DEM,Brad Hutto,470
+Barnwell,Blackville 2,State Senate District 40,,DEM,Brad Hutto,296
+Barnwell,Elko,State Senate District 40,,DEM,Brad Hutto,262
+Barnwell,Friendship,State Senate District 40,,DEM,Brad Hutto,156
+Barnwell,Kline,State Senate District 40,,DEM,Brad Hutto,239
+Barnwell,Healing Springs,State Senate District 40,,DEM,Brad Hutto,460
+Barnwell,Hilda,State Senate District 40,,DEM,Brad Hutto,260
+Barnwell,Snelling,State Senate District 40,,DEM,Brad Hutto,483
+Barnwell,Williston 1,State Senate District 40,,DEM,Brad Hutto,682
+Barnwell,Williston 2,State Senate District 40,,DEM,Brad Hutto,215
+Barnwell,Williston 3,State Senate District 40,,DEM,Brad Hutto,339
+Barnwell,Absentee,State Senate District 40,,DEM,Brad Hutto,1176
+Barnwell,Emergency,State Senate District 40,,DEM,Brad Hutto,0
+Barnwell,Failsafe,State Senate District 40,,DEM,Brad Hutto,39
+Barnwell,Provisional,State Senate District 40,,DEM,Brad Hutto,3
+Barnwell,Failsafe Provisional,State Senate District 40,,DEM,Brad Hutto,5
+Barnwell,Barnwell 1,State Senate District 40,,NON,Write-In,0
+Barnwell,Barnwell 2,State Senate District 40,,NON,Write-In,10
+Barnwell,Barnwell 3,State Senate District 40,,NON,Write-In,9
+Barnwell,Barnwell 4,State Senate District 40,,NON,Write-In,3
+Barnwell,Blackville 1,State Senate District 40,,NON,Write-In,1
+Barnwell,Blackville 2,State Senate District 40,,NON,Write-In,1
+Barnwell,Elko,State Senate District 40,,NON,Write-In,2
+Barnwell,Friendship,State Senate District 40,,NON,Write-In,3
+Barnwell,Kline,State Senate District 40,,NON,Write-In,1
+Barnwell,Healing Springs,State Senate District 40,,NON,Write-In,0
+Barnwell,Hilda,State Senate District 40,,NON,Write-In,0
+Barnwell,Snelling,State Senate District 40,,NON,Write-In,4
+Barnwell,Williston 1,State Senate District 40,,NON,Write-In,1
+Barnwell,Williston 2,State Senate District 40,,NON,Write-In,2
+Barnwell,Williston 3,State Senate District 40,,NON,Write-In,1
+Barnwell,Absentee,State Senate District 40,,NON,Write-In,11
+Barnwell,Emergency,State Senate District 40,,NON,Write-In,0
+Barnwell,Failsafe,State Senate District 40,,NON,Write-In,1
+Barnwell,Provisional,State Senate District 40,,NON,Write-In,0
+Barnwell,Failsafe Provisional,State Senate District 40,,NON,Write-In,0
+Barnwell,Barnwell 3,State House of Representatives District 90,,REP,Dan Lawrence,64
+Barnwell,Blackville 1,State House of Representatives District 90,,REP,Dan Lawrence,10
+Barnwell,Blackville 2,State House of Representatives District 90,,REP,Dan Lawrence,17
+Barnwell,Friendship,State House of Representatives District 90,,REP,Dan Lawrence,297
+Barnwell,Kline,State House of Representatives District 90,,REP,Dan Lawrence,75
+Barnwell,Hilda,State House of Representatives District 90,,REP,Dan Lawrence,403
+Barnwell,Absentee,State House of Representatives District 90,,REP,Dan Lawrence,86
+Barnwell,Emergency,State House of Representatives District 90,,REP,Dan Lawrence,0
+Barnwell,Failsafe,State House of Representatives District 90,,REP,Dan Lawrence,4
+Barnwell,Provisional,State House of Representatives District 90,,REP,Dan Lawrence,1
+Barnwell,Barnwell 3,State House of Representatives District 90,,DEM,Bakari Sellers,4
+Barnwell,Blackville 1,State House of Representatives District 90,,DEM,Bakari Sellers,12
+Barnwell,Blackville 2,State House of Representatives District 90,,DEM,Bakari Sellers,22
+Barnwell,Friendship,State House of Representatives District 90,,DEM,Bakari Sellers,50
+Barnwell,Kline,State House of Representatives District 90,,DEM,Bakari Sellers,62
+Barnwell,Hilda,State House of Representatives District 90,,DEM,Bakari Sellers,94
+Barnwell,Absentee,State House of Representatives District 90,,DEM,Bakari Sellers,27
+Barnwell,Emergency,State House of Representatives District 90,,DEM,Bakari Sellers,0
+Barnwell,Failsafe,State House of Representatives District 90,,DEM,Bakari Sellers,0
+Barnwell,Provisional,State House of Representatives District 90,,DEM,Bakari Sellers,0
+Barnwell,Barnwell 3,State House of Representatives District 90,,NON,Write-In,0
+Barnwell,Blackville 1,State House of Representatives District 90,,NON,Write-In,0
+Barnwell,Blackville 2,State House of Representatives District 90,,NON,Write-In,0
+Barnwell,Friendship,State House of Representatives District 90,,NON,Write-In,1
+Barnwell,Kline,State House of Representatives District 90,,NON,Write-In,0
+Barnwell,Hilda,State House of Representatives District 90,,NON,Write-In,0
+Barnwell,Absentee,State House of Representatives District 90,,NON,Write-In,0
+Barnwell,Emergency,State House of Representatives District 90,,NON,Write-In,0
+Barnwell,Failsafe,State House of Representatives District 90,,NON,Write-In,0
+Barnwell,Provisional,State House of Representatives District 90,,NON,Write-In,0
+Barnwell,Barnwell 1,State House of Representatives District 91,,REP,Ben Kinlaw,134
+Barnwell,Barnwell 2,State House of Representatives District 91,,REP,Ben Kinlaw,410
+Barnwell,Barnwell 3,State House of Representatives District 91,,REP,Ben Kinlaw,386
+Barnwell,Barnwell 4,State House of Representatives District 91,,REP,Ben Kinlaw,221
+Barnwell,Blackville 1,State House of Representatives District 91,,REP,Ben Kinlaw,126
+Barnwell,Blackville 2,State House of Representatives District 91,,REP,Ben Kinlaw,77
+Barnwell,Elko,State House of Representatives District 91,,REP,Ben Kinlaw,141
+Barnwell,Kline,State House of Representatives District 91,,REP,Ben Kinlaw,97
+Barnwell,Healing Springs,State House of Representatives District 91,,REP,Ben Kinlaw,95
+Barnwell,Snelling,State House of Representatives District 91,,REP,Ben Kinlaw,255
+Barnwell,Williston 1,State House of Representatives District 91,,REP,Ben Kinlaw,240
+Barnwell,Williston 2,State House of Representatives District 91,,REP,Ben Kinlaw,190
+Barnwell,Williston 3,State House of Representatives District 91,,REP,Ben Kinlaw,248
+Barnwell,Absentee,State House of Representatives District 91,,REP,Ben Kinlaw,498
+Barnwell,Emergency,State House of Representatives District 91,,REP,Ben Kinlaw,0
+Barnwell,Failsafe,State House of Representatives District 91,,REP,Ben Kinlaw,11
+Barnwell,Provisional,State House of Representatives District 91,,REP,Ben Kinlaw,2
+Barnwell,Barnwell 1,State House of Representatives District 91,,DEM,Lonnie Hosey,220
+Barnwell,Barnwell 2,State House of Representatives District 91,,DEM,Lonnie Hosey,353
+Barnwell,Barnwell 3,State House of Representatives District 91,,DEM,Lonnie Hosey,440
+Barnwell,Barnwell 4,State House of Representatives District 91,,DEM,Lonnie Hosey,498
+Barnwell,Blackville 1,State House of Representatives District 91,,DEM,Lonnie Hosey,417
+Barnwell,Blackville 2,State House of Representatives District 91,,DEM,Lonnie Hosey,247
+Barnwell,Elko,State House of Representatives District 91,,DEM,Lonnie Hosey,214
+Barnwell,Kline,State House of Representatives District 91,,DEM,Lonnie Hosey,108
+Barnwell,Healing Springs,State House of Representatives District 91,,DEM,Lonnie Hosey,427
+Barnwell,Snelling,State House of Representatives District 91,,DEM,Lonnie Hosey,400
+Barnwell,Williston 1,State House of Representatives District 91,,DEM,Lonnie Hosey,602
+Barnwell,Williston 2,State House of Representatives District 91,,DEM,Lonnie Hosey,156
+Barnwell,Williston 3,State House of Representatives District 91,,DEM,Lonnie Hosey,266
+Barnwell,Absentee,State House of Representatives District 91,,DEM,Lonnie Hosey,971
+Barnwell,Emergency,State House of Representatives District 91,,DEM,Lonnie Hosey,0
+Barnwell,Failsafe,State House of Representatives District 91,,DEM,Lonnie Hosey,34
+Barnwell,Provisional,State House of Representatives District 91,,DEM,Lonnie Hosey,1
+Barnwell,Barnwell 1,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Barnwell 2,State House of Representatives District 91,,NON,Write-In,1
+Barnwell,Barnwell 3,State House of Representatives District 91,,NON,Write-In,1
+Barnwell,Barnwell 4,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Blackville 1,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Blackville 2,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Elko,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Kline,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Healing Springs,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Snelling,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Williston 1,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Williston 2,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Williston 3,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Absentee,State House of Representatives District 91,,NON,Write-In,1
+Barnwell,Emergency,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Failsafe,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Provisional,State House of Representatives District 91,,NON,Write-In,0
+Barnwell,Barnwell 1,Solicitor Circuit 2,,REP,Strom Thurmond,201
+Barnwell,Barnwell 2,Solicitor Circuit 2,,REP,Strom Thurmond,557
+Barnwell,Barnwell 3,Solicitor Circuit 2,,REP,Strom Thurmond,612
+Barnwell,Barnwell 4,Solicitor Circuit 2,,REP,Strom Thurmond,333
+Barnwell,Blackville 1,Solicitor Circuit 2,,REP,Strom Thurmond,232
+Barnwell,Blackville 2,Solicitor Circuit 2,,REP,Strom Thurmond,162
+Barnwell,Elko,Solicitor Circuit 2,,REP,Strom Thurmond,191
+Barnwell,Friendship,Solicitor Circuit 2,,REP,Strom Thurmond,320
+Barnwell,Kline,Solicitor Circuit 2,,REP,Strom Thurmond,213
+Barnwell,Healing Springs,Solicitor Circuit 2,,REP,Strom Thurmond,183
+Barnwell,Hilda,Solicitor Circuit 2,,REP,Strom Thurmond,444
+Barnwell,Snelling,Solicitor Circuit 2,,REP,Strom Thurmond,382
+Barnwell,Williston 1,Solicitor Circuit 2,,REP,Strom Thurmond,351
+Barnwell,Williston 2,Solicitor Circuit 2,,REP,Strom Thurmond,260
+Barnwell,Williston 3,Solicitor Circuit 2,,REP,Strom Thurmond,335
+Barnwell,Absentee,Solicitor Circuit 2,,REP,Strom Thurmond,787
+Barnwell,Emergency,Solicitor Circuit 2,,REP,Strom Thurmond,0
+Barnwell,Failsafe,Solicitor Circuit 2,,REP,Strom Thurmond,23
+Barnwell,Provisional,Solicitor Circuit 2,,REP,Strom Thurmond,2
+Barnwell,Failsafe Provisional,Solicitor Circuit 2,,REP,Strom Thurmond,2
+Barnwell,Barnwell 1,Solicitor Circuit 2,,NON,Write-In,1
+Barnwell,Barnwell 2,Solicitor Circuit 2,,NON,Write-In,2
+Barnwell,Barnwell 3,Solicitor Circuit 2,,NON,Write-In,3
+Barnwell,Barnwell 4,Solicitor Circuit 2,,NON,Write-In,3
+Barnwell,Blackville 1,Solicitor Circuit 2,,NON,Write-In,2
+Barnwell,Blackville 2,Solicitor Circuit 2,,NON,Write-In,2
+Barnwell,Elko,Solicitor Circuit 2,,NON,Write-In,1
+Barnwell,Friendship,Solicitor Circuit 2,,NON,Write-In,0
+Barnwell,Kline,Solicitor Circuit 2,,NON,Write-In,1
+Barnwell,Healing Springs,Solicitor Circuit 2,,NON,Write-In,2
+Barnwell,Hilda,Solicitor Circuit 2,,NON,Write-In,0
+Barnwell,Snelling,Solicitor Circuit 2,,NON,Write-In,4
+Barnwell,Williston 1,Solicitor Circuit 2,,NON,Write-In,0
+Barnwell,Williston 2,Solicitor Circuit 2,,NON,Write-In,0
+Barnwell,Williston 3,Solicitor Circuit 2,,NON,Write-In,0
+Barnwell,Absentee,Solicitor Circuit 2,,NON,Write-In,7
+Barnwell,Emergency,Solicitor Circuit 2,,NON,Write-In,0
+Barnwell,Failsafe,Solicitor Circuit 2,,NON,Write-In,0
+Barnwell,Provisional,Solicitor Circuit 2,,NON,Write-In,0
+Barnwell,Failsafe Provisional,Solicitor Circuit 2,,NON,Write-In,1
+Barnwell,Barnwell 1,Sheriff,,REP,Ed Carroll,217
+Barnwell,Barnwell 2,Sheriff,,REP,Ed Carroll,579
+Barnwell,Barnwell 3,Sheriff,,REP,Ed Carroll,640
+Barnwell,Barnwell 4,Sheriff,,REP,Ed Carroll,369
+Barnwell,Blackville 1,Sheriff,,REP,Ed Carroll,240
+Barnwell,Blackville 2,Sheriff,,REP,Ed Carroll,165
+Barnwell,Elko,Sheriff,,REP,Ed Carroll,196
+Barnwell,Friendship,Sheriff,,REP,Ed Carroll,326
+Barnwell,Kline,Sheriff,,REP,Ed Carroll,235
+Barnwell,Healing Springs,Sheriff,,REP,Ed Carroll,196
+Barnwell,Hilda,Sheriff,,REP,Ed Carroll,458
+Barnwell,Snelling,Sheriff,,REP,Ed Carroll,414
+Barnwell,Williston 1,Sheriff,,REP,Ed Carroll,357
+Barnwell,Williston 2,Sheriff,,REP,Ed Carroll,263
+Barnwell,Williston 3,Sheriff,,REP,Ed Carroll,344
+Barnwell,Absentee,Sheriff,,REP,Ed Carroll,836
+Barnwell,Emergency,Sheriff,,REP,Ed Carroll,0
+Barnwell,Failsafe,Sheriff,,REP,Ed Carroll,24
+Barnwell,Provisional,Sheriff,,REP,Ed Carroll,2
+Barnwell,Failsafe Provisional,Sheriff,,REP,Ed Carroll,2
+Barnwell,Barnwell 1,Sheriff,,NON,Write-In,5
+Barnwell,Barnwell 2,Sheriff,,NON,Write-In,5
+Barnwell,Barnwell 3,Sheriff,,NON,Write-In,4
+Barnwell,Barnwell 4,Sheriff,,NON,Write-In,1
+Barnwell,Blackville 1,Sheriff,,NON,Write-In,3
+Barnwell,Blackville 2,Sheriff,,NON,Write-In,2
+Barnwell,Elko,Sheriff,,NON,Write-In,2
+Barnwell,Friendship,Sheriff,,NON,Write-In,0
+Barnwell,Kline,Sheriff,,NON,Write-In,1
+Barnwell,Healing Springs,Sheriff,,NON,Write-In,2
+Barnwell,Hilda,Sheriff,,NON,Write-In,1
+Barnwell,Snelling,Sheriff,,NON,Write-In,5
+Barnwell,Williston 1,Sheriff,,NON,Write-In,3
+Barnwell,Williston 2,Sheriff,,NON,Write-In,0
+Barnwell,Williston 3,Sheriff,,NON,Write-In,0
+Barnwell,Absentee,Sheriff,,NON,Write-In,9
+Barnwell,Emergency,Sheriff,,NON,Write-In,0
+Barnwell,Failsafe,Sheriff,,NON,Write-In,0
+Barnwell,Provisional,Sheriff,,NON,Write-In,0
+Barnwell,Failsafe Provisional,Sheriff,,NON,Write-In,1
+Barnwell,Barnwell 1,Clerk of Court,,DEM,Rhonda D McElveen,293
+Barnwell,Barnwell 2,Clerk of Court,,DEM,Rhonda D McElveen,567
+Barnwell,Barnwell 3,Clerk of Court,,DEM,Rhonda D McElveen,722
+Barnwell,Barnwell 4,Clerk of Court,,DEM,Rhonda D McElveen,630
+Barnwell,Blackville 1,Clerk of Court,,DEM,Rhonda D McElveen,495
+Barnwell,Blackville 2,Clerk of Court,,DEM,Rhonda D McElveen,311
+Barnwell,Elko,Clerk of Court,,DEM,Rhonda D McElveen,287
+Barnwell,Friendship,Clerk of Court,,DEM,Rhonda D McElveen,186
+Barnwell,Kline,Clerk of Court,,DEM,Rhonda D McElveen,263
+Barnwell,Healing Springs,Clerk of Court,,DEM,Rhonda D McElveen,465
+Barnwell,Hilda,Clerk of Court,,DEM,Rhonda D McElveen,300
+Barnwell,Snelling,Clerk of Court,,DEM,Rhonda D McElveen,537
+Barnwell,Williston 1,Clerk of Court,,DEM,Rhonda D McElveen,719
+Barnwell,Williston 2,Clerk of Court,,DEM,Rhonda D McElveen,246
+Barnwell,Williston 3,Clerk of Court,,DEM,Rhonda D McElveen,384
+Barnwell,Absentee,Clerk of Court,,DEM,Rhonda D McElveen,1237
+Barnwell,Emergency,Clerk of Court,,DEM,Rhonda D McElveen,0
+Barnwell,Failsafe,Clerk of Court,,DEM,Rhonda D McElveen,40
+Barnwell,Provisional,Clerk of Court,,DEM,Rhonda D McElveen,3
+Barnwell,Failsafe Provisional,Clerk of Court,,DEM,Rhonda D McElveen,5
+Barnwell,Barnwell 1,Clerk of Court,,NON,Write-In,0
+Barnwell,Barnwell 2,Clerk of Court,,NON,Write-In,3
+Barnwell,Barnwell 3,Clerk of Court,,NON,Write-In,5
+Barnwell,Barnwell 4,Clerk of Court,,NON,Write-In,1
+Barnwell,Blackville 1,Clerk of Court,,NON,Write-In,1
+Barnwell,Blackville 2,Clerk of Court,,NON,Write-In,1
+Barnwell,Elko,Clerk of Court,,NON,Write-In,0
+Barnwell,Friendship,Clerk of Court,,NON,Write-In,2
+Barnwell,Kline,Clerk of Court,,NON,Write-In,1
+Barnwell,Healing Springs,Clerk of Court,,NON,Write-In,1
+Barnwell,Hilda,Clerk of Court,,NON,Write-In,1
+Barnwell,Snelling,Clerk of Court,,NON,Write-In,0
+Barnwell,Williston 1,Clerk of Court,,NON,Write-In,1
+Barnwell,Williston 2,Clerk of Court,,NON,Write-In,0
+Barnwell,Williston 3,Clerk of Court,,NON,Write-In,1
+Barnwell,Absentee,Clerk of Court,,NON,Write-In,9
+Barnwell,Emergency,Clerk of Court,,NON,Write-In,0
+Barnwell,Failsafe,Clerk of Court,,NON,Write-In,1
+Barnwell,Provisional,Clerk of Court,,NON,Write-In,0
+Barnwell,Failsafe Provisional,Clerk of Court,,NON,Write-In,0
+Barnwell,Barnwell 1,Coroner,,REP,Lloyd B Ward,212
+Barnwell,Barnwell 2,Coroner,,REP,Lloyd B Ward,559
+Barnwell,Barnwell 3,Coroner,,REP,Lloyd B Ward,629
+Barnwell,Barnwell 4,Coroner,,REP,Lloyd B Ward,354
+Barnwell,Blackville 1,Coroner,,REP,Lloyd B Ward,241
+Barnwell,Blackville 2,Coroner,,REP,Lloyd B Ward,169
+Barnwell,Elko,Coroner,,REP,Lloyd B Ward,193
+Barnwell,Friendship,Coroner,,REP,Lloyd B Ward,327
+Barnwell,Kline,Coroner,,REP,Lloyd B Ward,235
+Barnwell,Healing Springs,Coroner,,REP,Lloyd B Ward,199
+Barnwell,Hilda,Coroner,,REP,Lloyd B Ward,448
+Barnwell,Snelling,Coroner,,REP,Lloyd B Ward,410
+Barnwell,Williston 1,Coroner,,REP,Lloyd B Ward,350
+Barnwell,Williston 2,Coroner,,REP,Lloyd B Ward,261
+Barnwell,Williston 3,Coroner,,REP,Lloyd B Ward,348
+Barnwell,Absentee,Coroner,,REP,Lloyd B Ward,808
+Barnwell,Emergency,Coroner,,REP,Lloyd B Ward,0
+Barnwell,Failsafe,Coroner,,REP,Lloyd B Ward,26
+Barnwell,Provisional,Coroner,,REP,Lloyd B Ward,3
+Barnwell,Failsafe Provisional,Coroner,,REP,Lloyd B Ward,2
+Barnwell,Barnwell 1,Coroner,,NON,Write-In,0
+Barnwell,Barnwell 2,Coroner,,NON,Write-In,2
+Barnwell,Barnwell 3,Coroner,,NON,Write-In,3
+Barnwell,Barnwell 4,Coroner,,NON,Write-In,3
+Barnwell,Blackville 1,Coroner,,NON,Write-In,3
+Barnwell,Blackville 2,Coroner,,NON,Write-In,1
+Barnwell,Elko,Coroner,,NON,Write-In,0
+Barnwell,Friendship,Coroner,,NON,Write-In,0
+Barnwell,Kline,Coroner,,NON,Write-In,2
+Barnwell,Healing Springs,Coroner,,NON,Write-In,1
+Barnwell,Hilda,Coroner,,NON,Write-In,0
+Barnwell,Snelling,Coroner,,NON,Write-In,3
+Barnwell,Williston 1,Coroner,,NON,Write-In,1
+Barnwell,Williston 2,Coroner,,NON,Write-In,0
+Barnwell,Williston 3,Coroner,,NON,Write-In,0
+Barnwell,Absentee,Coroner,,NON,Write-In,8
+Barnwell,Emergency,Coroner,,NON,Write-In,0
+Barnwell,Failsafe,Coroner,,NON,Write-In,0
+Barnwell,Provisional,Coroner,,NON,Write-In,0
+Barnwell,Failsafe Provisional,Coroner,,NON,Write-In,1
+Barnwell,Blackville 1,County Council District 1,,DEM,Freddie L Houston Sr,2
+Barnwell,Elko,County Council District 1,,DEM,Freddie L Houston Sr,219
+Barnwell,Healing Springs,County Council District 1,,DEM,Freddie L Houston Sr,12
+Barnwell,Williston 1,County Council District 1,,DEM,Freddie L Houston Sr,646
+Barnwell,Williston 2,County Council District 1,,DEM,Freddie L Houston Sr,83
+Barnwell,Williston 3,County Council District 1,,DEM,Freddie L Houston Sr,158
+Barnwell,Absentee,County Council District 1,,DEM,Freddie L Houston Sr,184
+Barnwell,Emergency,County Council District 1,,DEM,Freddie L Houston Sr,0
+Barnwell,Failsafe,County Council District 1,,DEM,Freddie L Houston Sr,3
+Barnwell,Provisional,County Council District 1,,DEM,Freddie L Houston Sr,0
+Barnwell,Blackville 1,County Council District 1,,NON,Write-In,0
+Barnwell,Elko,County Council District 1,,NON,Write-In,0
+Barnwell,Healing Springs,County Council District 1,,NON,Write-In,0
+Barnwell,Williston 1,County Council District 1,,NON,Write-In,1
+Barnwell,Williston 2,County Council District 1,,NON,Write-In,0
+Barnwell,Williston 3,County Council District 1,,NON,Write-In,0
+Barnwell,Absentee,County Council District 1,,NON,Write-In,3
+Barnwell,Emergency,County Council District 1,,NON,Write-In,0
+Barnwell,Failsafe,County Council District 1,,NON,Write-In,0
+Barnwell,Provisional,County Council District 1,,NON,Write-In,0
+Barnwell,Barnwell 1,County Council District 3,,REP,Keith Sloan,31
+Barnwell,Barnwell 2,County Council District 3,,REP,Keith Sloan,118
+Barnwell,Blackville 1,County Council District 3,,REP,Keith Sloan,103
+Barnwell,Elko,County Council District 3,,REP,Keith Sloan,55
+Barnwell,Healing Springs,County Council District 3,,REP,Keith Sloan,68
+Barnwell,Williston 1,County Council District 3,,REP,Keith Sloan,69
+Barnwell,Williston 2,County Council District 3,,REP,Keith Sloan,198
+Barnwell,Williston 3,County Council District 3,,REP,Keith Sloan,258
+Barnwell,Absentee,County Council District 3,,REP,Keith Sloan,111
+Barnwell,Emergency,County Council District 3,,REP,Keith Sloan,0
+Barnwell,Failsafe,County Council District 3,,REP,Keith Sloan,1
+Barnwell,Provisional,County Council District 3,,REP,Keith Sloan,0
+Barnwell,Barnwell 1,County Council District 3,,NON,Write-In,0
+Barnwell,Barnwell 2,County Council District 3,,NON,Write-In,3
+Barnwell,Blackville 1,County Council District 3,,NON,Write-In,1
+Barnwell,Elko,County Council District 3,,NON,Write-In,0
+Barnwell,Healing Springs,County Council District 3,,NON,Write-In,0
+Barnwell,Williston 1,County Council District 3,,NON,Write-In,0
+Barnwell,Williston 2,County Council District 3,,NON,Write-In,0
+Barnwell,Williston 3,County Council District 3,,NON,Write-In,1
+Barnwell,Absentee,County Council District 3,,NON,Write-In,5
+Barnwell,Emergency,County Council District 3,,NON,Write-In,0
+Barnwell,Failsafe,County Council District 3,,NON,Write-In,0
+Barnwell,Provisional,County Council District 3,,NON,Write-In,0
+Barnwell,Barnwell 1,County Council District 5,,REP,Joe Smith,64
+Barnwell,Barnwell 2,County Council District 5,,REP,Joe Smith,113
+Barnwell,Barnwell 3,County Council District 5,,REP,Joe Smith,261
+Barnwell,Barnwell 4,County Council District 5,,REP,Joe Smith,98
+Barnwell,Absentee,County Council District 5,,REP,Joe Smith,183
+Barnwell,Emergency,County Council District 5,,REP,Joe Smith,0
+Barnwell,Failsafe,County Council District 5,,REP,Joe Smith,6
+Barnwell,Provisional,County Council District 5,,REP,Joe Smith,0
+Barnwell,Barnwell 1,County Council District 5,,NON,Write-In,0
+Barnwell,Barnwell 2,County Council District 5,,NON,Write-In,0
+Barnwell,Barnwell 3,County Council District 5,,NON,Write-In,4
+Barnwell,Barnwell 4,County Council District 5,,NON,Write-In,1
+Barnwell,Absentee,County Council District 5,,NON,Write-In,2
+Barnwell,Emergency,County Council District 5,,NON,Write-In,0
+Barnwell,Failsafe,County Council District 5,,NON,Write-In,0
+Barnwell,Provisional,County Council District 5,,NON,Write-In,0
+Barnwell,Barnwell 2,County Council District 7,,REP,Jerry R Creech,12
+Barnwell,Barnwell 3,County Council District 7,,REP,Jerry R Creech,92
+Barnwell,Friendship,County Council District 7,,REP,Jerry R Creech,326
+Barnwell,Kline,County Council District 7,,REP,Jerry R Creech,114
+Barnwell,Hilda,County Council District 7,,REP,Jerry R Creech,434
+Barnwell,Absentee,County Council District 7,,REP,Jerry R Creech,89
+Barnwell,Emergency,County Council District 7,,REP,Jerry R Creech,0
+Barnwell,Failsafe,County Council District 7,,REP,Jerry R Creech,4
+Barnwell,Provisional,County Council District 7,,REP,Jerry R Creech,2
+Barnwell,Barnwell 2,County Council District 7,,NON,Write-In,0
+Barnwell,Barnwell 3,County Council District 7,,NON,Write-In,2
+Barnwell,Friendship,County Council District 7,,NON,Write-In,1
+Barnwell,Kline,County Council District 7,,NON,Write-In,2
+Barnwell,Hilda,County Council District 7,,NON,Write-In,0
+Barnwell,Absentee,County Council District 7,,NON,Write-In,1
+Barnwell,Emergency,County Council District 7,,NON,Write-In,0
+Barnwell,Failsafe,County Council District 7,,NON,Write-In,0
+Barnwell,Provisional,County Council District 7,,NON,Write-In,0
+Barnwell,Barnwell 1,Soil and Water District Commission,,NON,Thomas O Sanders III,165
+Barnwell,Barnwell 2,Soil and Water District Commission,,NON,Thomas O Sanders III,396
+Barnwell,Barnwell 3,Soil and Water District Commission,,NON,Thomas O Sanders III,485
+Barnwell,Barnwell 4,Soil and Water District Commission,,NON,Thomas O Sanders III,296
+Barnwell,Blackville 1,Soil and Water District Commission,,NON,Thomas O Sanders III,176
+Barnwell,Blackville 2,Soil and Water District Commission,,NON,Thomas O Sanders III,136
+Barnwell,Elko,Soil and Water District Commission,,NON,Thomas O Sanders III,131
+Barnwell,Friendship,Soil and Water District Commission,,NON,Thomas O Sanders III,171
+Barnwell,Kline,Soil and Water District Commission,,NON,Thomas O Sanders III,172
+Barnwell,Healing Springs,Soil and Water District Commission,,NON,Thomas O Sanders III,145
+Barnwell,Hilda,Soil and Water District Commission,,NON,Thomas O Sanders III,267
+Barnwell,Snelling,Soil and Water District Commission,,NON,Thomas O Sanders III,313
+Barnwell,Williston 1,Soil and Water District Commission,,NON,Thomas O Sanders III,245
+Barnwell,Williston 2,Soil and Water District Commission,,NON,Thomas O Sanders III,175
+Barnwell,Williston 3,Soil and Water District Commission,,NON,Thomas O Sanders III,229
+Barnwell,Absentee,Soil and Water District Commission,,NON,Thomas O Sanders III,652
+Barnwell,Emergency,Soil and Water District Commission,,NON,Thomas O Sanders III,0
+Barnwell,Failsafe,Soil and Water District Commission,,NON,Thomas O Sanders III,23
+Barnwell,Provisional,Soil and Water District Commission,,NON,Thomas O Sanders III,3
+Barnwell,Failsafe Provisional,Soil and Water District Commission,,NON,Thomas O Sanders III,3
+Barnwell,Barnwell 1,Soil and Water District Commission,,NON,Write-In,0
+Barnwell,Barnwell 2,Soil and Water District Commission,,NON,Write-In,2
+Barnwell,Barnwell 3,Soil and Water District Commission,,NON,Write-In,1
+Barnwell,Barnwell 4,Soil and Water District Commission,,NON,Write-In,0
+Barnwell,Blackville 1,Soil and Water District Commission,,NON,Write-In,0
+Barnwell,Blackville 2,Soil and Water District Commission,,NON,Write-In,0
+Barnwell,Elko,Soil and Water District Commission,,NON,Write-In,0
+Barnwell,Friendship,Soil and Water District Commission,,NON,Write-In,1
+Barnwell,Kline,Soil and Water District Commission,,NON,Write-In,1
+Barnwell,Healing Springs,Soil and Water District Commission,,NON,Write-In,0
+Barnwell,Hilda,Soil and Water District Commission,,NON,Write-In,0
+Barnwell,Snelling,Soil and Water District Commission,,NON,Write-In,0
+Barnwell,Williston 1,Soil and Water District Commission,,NON,Write-In,3
+Barnwell,Williston 2,Soil and Water District Commission,,NON,Write-In,0
+Barnwell,Williston 3,Soil and Water District Commission,,NON,Write-In,1
+Barnwell,Absentee,Soil and Water District Commission,,NON,Write-In,4
+Barnwell,Emergency,Soil and Water District Commission,,NON,Write-In,0
+Barnwell,Failsafe,Soil and Water District Commission,,NON,Write-In,0
+Barnwell,Provisional,Soil and Water District Commission,,NON,Write-In,0
+Barnwell,Failsafe Provisional,Soil and Water District Commission,,NON,Write-In,1
+Barnwell,Barnwell 1,Constitutional Amendment,,NON,Yes,167
+Barnwell,Barnwell 2,Constitutional Amendment,,NON,Yes,377
+Barnwell,Barnwell 3,Constitutional Amendment,,NON,Yes,461
+Barnwell,Barnwell 4,Constitutional Amendment,,NON,Yes,353
+Barnwell,Blackville 1,Constitutional Amendment,,NON,Yes,208
+Barnwell,Blackville 2,Constitutional Amendment,,NON,Yes,170
+Barnwell,Elko,Constitutional Amendment,,NON,Yes,137
+Barnwell,Friendship,Constitutional Amendment,,NON,Yes,165
+Barnwell,Kline,Constitutional Amendment,,NON,Yes,165
+Barnwell,Healing Springs,Constitutional Amendment,,NON,Yes,214
+Barnwell,Hilda,Constitutional Amendment,,NON,Yes,259
+Barnwell,Snelling,Constitutional Amendment,,NON,Yes,332
+Barnwell,Williston 1,Constitutional Amendment,,NON,Yes,297
+Barnwell,Williston 2,Constitutional Amendment,,NON,Yes,160
+Barnwell,Williston 3,Constitutional Amendment,,NON,Yes,238
+Barnwell,Absentee,Constitutional Amendment,,NON,Yes,669
+Barnwell,Emergency,Constitutional Amendment,,NON,Yes,0
+Barnwell,Failsafe,Constitutional Amendment,,NON,Yes,25
+Barnwell,Provisional,Constitutional Amendment,,NON,Yes,1
+Barnwell,Failsafe Provisional,Constitutional Amendment,,NON,Yes,2
+Barnwell,Barnwell 1,Constitutional Amendment,,NON,No,128
+Barnwell,Barnwell 2,Constitutional Amendment,,NON,No,330
+Barnwell,Barnwell 3,Constitutional Amendment,,NON,No,352
+Barnwell,Barnwell 4,Constitutional Amendment,,NON,No,205
+Barnwell,Blackville 1,Constitutional Amendment,,NON,No,157
+Barnwell,Blackville 2,Constitutional Amendment,,NON,No,137
+Barnwell,Elko,Constitutional Amendment,,NON,No,124
+Barnwell,Friendship,Constitutional Amendment,,NON,No,141
+Barnwell,Kline,Constitutional Amendment,,NON,No,136
+Barnwell,Healing Springs,Constitutional Amendment,,NON,No,155
+Barnwell,Hilda,Constitutional Amendment,,NON,No,189
+Barnwell,Snelling,Constitutional Amendment,,NON,No,250
+Barnwell,Williston 1,Constitutional Amendment,,NON,No,248
+Barnwell,Williston 2,Constitutional Amendment,,NON,No,141
+Barnwell,Williston 3,Constitutional Amendment,,NON,No,215
+Barnwell,Absentee,Constitutional Amendment,,NON,No,571
+Barnwell,Emergency,Constitutional Amendment,,NON,No,0
+Barnwell,Failsafe,Constitutional Amendment,,NON,No,14
+Barnwell,Provisional,Constitutional Amendment,,NON,No,2
+Barnwell,Failsafe Provisional,Constitutional Amendment,,NON,No,4

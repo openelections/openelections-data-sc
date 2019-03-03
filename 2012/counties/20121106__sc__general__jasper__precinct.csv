@@ -1,0 +1,925 @@
+county,precinct,office,district,party,candidate,votes
+Jasper,Coosawhatchie,Straight Party 1,,REP,Republican,26
+Jasper,Gillisonville,Straight Party 1,,REP,Republican,44
+Jasper,Grahamville 1,Straight Party 1,,REP,Republican,55
+Jasper,Grahamville 2,Straight Party 1,,REP,Republican,89
+Jasper,Grays,Straight Party 1,,REP,Republican,91
+Jasper,Hardeeville 1,Straight Party 1,,REP,Republican,97
+Jasper,Hardeeville 2,Straight Party 1,,REP,Republican,46
+Jasper,Levy,Straight Party 1,,REP,Republican,121
+Jasper,Oakatie,Straight Party 1,,REP,Republican,270
+Jasper,Pineland,Straight Party 1,,REP,Republican,14
+Jasper,Ridgeland 1,Straight Party 1,,REP,Republican,83
+Jasper,Ridgeland 2,Straight Party 1,,REP,Republican,56
+Jasper,Tillman,Straight Party 1,,REP,Republican,37
+Jasper,Ridgeland 3,Straight Party 1,,REP,Republican,54
+Jasper,Absentee,Straight Party 1,,REP,Republican,244
+Jasper,Emergency,Straight Party 1,,REP,Republican,32
+Jasper,Failsafe,Straight Party 1,,REP,Republican,0
+Jasper,Provisional,Straight Party 1,,REP,Republican,0
+Jasper,Failsafe/Provisional,Straight Party 1,,REP,Republican,0
+Jasper,Coosawhatchie,Straight Party 1,,LIB,Libertarian,1
+Jasper,Gillisonville,Straight Party 1,,LIB,Libertarian,2
+Jasper,Grahamville 1,Straight Party 1,,LIB,Libertarian,2
+Jasper,Grahamville 2,Straight Party 1,,LIB,Libertarian,4
+Jasper,Grays,Straight Party 1,,LIB,Libertarian,1
+Jasper,Hardeeville 1,Straight Party 1,,LIB,Libertarian,1
+Jasper,Hardeeville 2,Straight Party 1,,LIB,Libertarian,1
+Jasper,Levy,Straight Party 1,,LIB,Libertarian,2
+Jasper,Oakatie,Straight Party 1,,LIB,Libertarian,2
+Jasper,Pineland,Straight Party 1,,LIB,Libertarian,2
+Jasper,Ridgeland 1,Straight Party 1,,LIB,Libertarian,2
+Jasper,Ridgeland 2,Straight Party 1,,LIB,Libertarian,0
+Jasper,Tillman,Straight Party 1,,LIB,Libertarian,5
+Jasper,Ridgeland 3,Straight Party 1,,LIB,Libertarian,3
+Jasper,Absentee,Straight Party 1,,LIB,Libertarian,2
+Jasper,Emergency,Straight Party 1,,LIB,Libertarian,1
+Jasper,Failsafe,Straight Party 1,,LIB,Libertarian,0
+Jasper,Provisional,Straight Party 1,,LIB,Libertarian,0
+Jasper,Failsafe/Provisional,Straight Party 1,,LIB,Libertarian,0
+Jasper,Coosawhatchie,Straight Party 1,,DEM,Democratic,180
+Jasper,Gillisonville,Straight Party 1,,DEM,Democratic,131
+Jasper,Grahamville 1,Straight Party 1,,DEM,Democratic,142
+Jasper,Grahamville 2,Straight Party 1,,DEM,Democratic,494
+Jasper,Grays,Straight Party 1,,DEM,Democratic,87
+Jasper,Hardeeville 1,Straight Party 1,,DEM,Democratic,241
+Jasper,Hardeeville 2,Straight Party 1,,DEM,Democratic,224
+Jasper,Levy,Straight Party 1,,DEM,Democratic,415
+Jasper,Oakatie,Straight Party 1,,DEM,Democratic,233
+Jasper,Pineland,Straight Party 1,,DEM,Democratic,279
+Jasper,Ridgeland 1,Straight Party 1,,DEM,Democratic,75
+Jasper,Ridgeland 2,Straight Party 1,,DEM,Democratic,146
+Jasper,Tillman,Straight Party 1,,DEM,Democratic,189
+Jasper,Ridgeland 3,Straight Party 1,,DEM,Democratic,83
+Jasper,Absentee,Straight Party 1,,DEM,Democratic,1302
+Jasper,Emergency,Straight Party 1,,DEM,Democratic,15
+Jasper,Failsafe,Straight Party 1,,DEM,Democratic,0
+Jasper,Provisional,Straight Party 1,,DEM,Democratic,24
+Jasper,Failsafe/Provisional,Straight Party 1,,DEM,Democratic,0
+Jasper,Coosawhatchie,Straight Party 1,,CON,Constitution,0
+Jasper,Gillisonville,Straight Party 1,,CON,Constitution,2
+Jasper,Grahamville 1,Straight Party 1,,CON,Constitution,1
+Jasper,Grahamville 2,Straight Party 1,,CON,Constitution,1
+Jasper,Grays,Straight Party 1,,CON,Constitution,1
+Jasper,Hardeeville 1,Straight Party 1,,CON,Constitution,3
+Jasper,Hardeeville 2,Straight Party 1,,CON,Constitution,1
+Jasper,Levy,Straight Party 1,,CON,Constitution,0
+Jasper,Oakatie,Straight Party 1,,CON,Constitution,1
+Jasper,Pineland,Straight Party 1,,CON,Constitution,2
+Jasper,Ridgeland 1,Straight Party 1,,CON,Constitution,8
+Jasper,Ridgeland 2,Straight Party 1,,CON,Constitution,2
+Jasper,Tillman,Straight Party 1,,CON,Constitution,0
+Jasper,Ridgeland 3,Straight Party 1,,CON,Constitution,0
+Jasper,Absentee,Straight Party 1,,CON,Constitution,5
+Jasper,Emergency,Straight Party 1,,CON,Constitution,0
+Jasper,Failsafe,Straight Party 1,,CON,Constitution,0
+Jasper,Provisional,Straight Party 1,,CON,Constitution,0
+Jasper,Failsafe/Provisional,Straight Party 1,,CON,Constitution,0
+Jasper,Coosawhatchie,Straight Party 1,,GRN,Green,2
+Jasper,Gillisonville,Straight Party 1,,GRN,Green,0
+Jasper,Grahamville 1,Straight Party 1,,GRN,Green,0
+Jasper,Grahamville 2,Straight Party 1,,GRN,Green,2
+Jasper,Grays,Straight Party 1,,GRN,Green,1
+Jasper,Hardeeville 1,Straight Party 1,,GRN,Green,1
+Jasper,Hardeeville 2,Straight Party 1,,GRN,Green,1
+Jasper,Levy,Straight Party 1,,GRN,Green,0
+Jasper,Oakatie,Straight Party 1,,GRN,Green,1
+Jasper,Pineland,Straight Party 1,,GRN,Green,3
+Jasper,Ridgeland 1,Straight Party 1,,GRN,Green,0
+Jasper,Ridgeland 2,Straight Party 1,,GRN,Green,0
+Jasper,Tillman,Straight Party 1,,GRN,Green,2
+Jasper,Ridgeland 3,Straight Party 1,,GRN,Green,0
+Jasper,Absentee,Straight Party 1,,GRN,Green,1
+Jasper,Emergency,Straight Party 1,,GRN,Green,0
+Jasper,Failsafe,Straight Party 1,,GRN,Green,0
+Jasper,Provisional,Straight Party 1,,GRN,Green,0
+Jasper,Failsafe/Provisional,Straight Party 1,,GRN,Green,0
+Jasper,Coosawhatchie,President and Vice President,,REP,Mitt Romney / Paul Ryan,84
+Jasper,Gillisonville,President and Vice President,,REP,Mitt Romney / Paul Ryan,161
+Jasper,Grahamville 1,President and Vice President,,REP,Mitt Romney / Paul Ryan,229
+Jasper,Grahamville 2,President and Vice President,,REP,Mitt Romney / Paul Ryan,280
+Jasper,Grays,President and Vice President,,REP,Mitt Romney / Paul Ryan,292
+Jasper,Hardeeville 1,President and Vice President,,REP,Mitt Romney / Paul Ryan,266
+Jasper,Hardeeville 2,President and Vice President,,REP,Mitt Romney / Paul Ryan,133
+Jasper,Levy,President and Vice President,,REP,Mitt Romney / Paul Ryan,293
+Jasper,Oakatie,President and Vice President,,REP,Mitt Romney / Paul Ryan,516
+Jasper,Pineland,President and Vice President,,REP,Mitt Romney / Paul Ryan,35
+Jasper,Ridgeland 1,President and Vice President,,REP,Mitt Romney / Paul Ryan,334
+Jasper,Ridgeland 2,President and Vice President,,REP,Mitt Romney / Paul Ryan,229
+Jasper,Tillman,President and Vice President,,REP,Mitt Romney / Paul Ryan,131
+Jasper,Ridgeland 3,President and Vice President,,REP,Mitt Romney / Paul Ryan,262
+Jasper,Absentee,President and Vice President,,REP,Mitt Romney / Paul Ryan,785
+Jasper,Emergency,President and Vice President,,REP,Mitt Romney / Paul Ryan,137
+Jasper,Failsafe,President and Vice President,,REP,Mitt Romney / Paul Ryan,2
+Jasper,Provisional,President and Vice President,,REP,Mitt Romney / Paul Ryan,0
+Jasper,Failsafe/Provisional,President and Vice President,,REP,Mitt Romney / Paul Ryan,0
+Jasper,Coosawhatchie,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Jasper,Gillisonville,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Jasper,Grahamville 1,President and Vice President,,LIB,Gary Johnson / James P Gray,2
+Jasper,Grahamville 2,President and Vice President,,LIB,Gary Johnson / James P Gray,4
+Jasper,Grays,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Jasper,Hardeeville 1,President and Vice President,,LIB,Gary Johnson / James P Gray,4
+Jasper,Hardeeville 2,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Jasper,Levy,President and Vice President,,LIB,Gary Johnson / James P Gray,2
+Jasper,Oakatie,President and Vice President,,LIB,Gary Johnson / James P Gray,4
+Jasper,Pineland,President and Vice President,,LIB,Gary Johnson / James P Gray,2
+Jasper,Ridgeland 1,President and Vice President,,LIB,Gary Johnson / James P Gray,6
+Jasper,Ridgeland 2,President and Vice President,,LIB,Gary Johnson / James P Gray,4
+Jasper,Tillman,President and Vice President,,LIB,Gary Johnson / James P Gray,2
+Jasper,Ridgeland 3,President and Vice President,,LIB,Gary Johnson / James P Gray,4
+Jasper,Absentee,President and Vice President,,LIB,Gary Johnson / James P Gray,6
+Jasper,Emergency,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Jasper,Failsafe,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Jasper,Provisional,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Jasper,Failsafe/Provisional,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Jasper,Coosawhatchie,President and Vice President,,DEM,Barack Obama / Joe Biden,224
+Jasper,Gillisonville,President and Vice President,,DEM,Barack Obama / Joe Biden,185
+Jasper,Grahamville 1,President and Vice President,,DEM,Barack Obama / Joe Biden,209
+Jasper,Grahamville 2,President and Vice President,,DEM,Barack Obama / Joe Biden,634
+Jasper,Grays,President and Vice President,,DEM,Barack Obama / Joe Biden,134
+Jasper,Hardeeville 1,President and Vice President,,DEM,Barack Obama / Joe Biden,336
+Jasper,Hardeeville 2,President and Vice President,,DEM,Barack Obama / Joe Biden,301
+Jasper,Levy,President and Vice President,,DEM,Barack Obama / Joe Biden,600
+Jasper,Oakatie,President and Vice President,,DEM,Barack Obama / Joe Biden,361
+Jasper,Pineland,President and Vice President,,DEM,Barack Obama / Joe Biden,332
+Jasper,Ridgeland 1,President and Vice President,,DEM,Barack Obama / Joe Biden,125
+Jasper,Ridgeland 2,President and Vice President,,DEM,Barack Obama / Joe Biden,218
+Jasper,Tillman,President and Vice President,,DEM,Barack Obama / Joe Biden,247
+Jasper,Ridgeland 3,President and Vice President,,DEM,Barack Obama / Joe Biden,120
+Jasper,Absentee,President and Vice President,,DEM,Barack Obama / Joe Biden,1672
+Jasper,Emergency,President and Vice President,,DEM,Barack Obama / Joe Biden,28
+Jasper,Failsafe,President and Vice President,,DEM,Barack Obama / Joe Biden,1
+Jasper,Provisional,President and Vice President,,DEM,Barack Obama / Joe Biden,30
+Jasper,Failsafe/Provisional,President and Vice President,,DEM,Barack Obama / Joe Biden,0
+Jasper,Coosawhatchie,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Jasper,Gillisonville,President and Vice President,,CON,Virgil Goode / Jim Clymer,5
+Jasper,Grahamville 1,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Jasper,Grahamville 2,President and Vice President,,CON,Virgil Goode / Jim Clymer,3
+Jasper,Grays,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Jasper,Hardeeville 1,President and Vice President,,CON,Virgil Goode / Jim Clymer,2
+Jasper,Hardeeville 2,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Jasper,Levy,President and Vice President,,CON,Virgil Goode / Jim Clymer,2
+Jasper,Oakatie,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Jasper,Pineland,President and Vice President,,CON,Virgil Goode / Jim Clymer,2
+Jasper,Ridgeland 1,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Jasper,Ridgeland 2,President and Vice President,,CON,Virgil Goode / Jim Clymer,2
+Jasper,Tillman,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Jasper,Ridgeland 3,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Jasper,Absentee,President and Vice President,,CON,Virgil Goode / Jim Clymer,5
+Jasper,Emergency,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Jasper,Failsafe,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Jasper,Provisional,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Jasper,Failsafe/Provisional,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Jasper,Coosawhatchie,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Jasper,Gillisonville,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Jasper,Grahamville 1,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Jasper,Grahamville 2,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Jasper,Grays,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Jasper,Hardeeville 1,President and Vice President,,GRN,Jill Stein / Cheri Honkala,4
+Jasper,Hardeeville 2,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Jasper,Levy,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Jasper,Oakatie,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Jasper,Pineland,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Jasper,Ridgeland 1,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Jasper,Ridgeland 2,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Jasper,Tillman,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Jasper,Ridgeland 3,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Jasper,Absentee,President and Vice President,,GRN,Jill Stein / Cheri Honkala,4
+Jasper,Emergency,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Jasper,Failsafe,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Jasper,Provisional,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Jasper,Failsafe/Provisional,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Jasper,Coosawhatchie,U.S. House of Representatives,6,DEM,James E Jim Clyburn,255
+Jasper,Gillisonville,U.S. House of Representatives,6,DEM,James E Jim Clyburn,262
+Jasper,Grahamville 1,U.S. House of Representatives,6,DEM,James E Jim Clyburn,301
+Jasper,Grahamville 2,U.S. House of Representatives,6,DEM,James E Jim Clyburn,744
+Jasper,Grays,U.S. House of Representatives,6,DEM,James E Jim Clyburn,275
+Jasper,Hardeeville 1,U.S. House of Representatives,6,DEM,James E Jim Clyburn,438
+Jasper,Hardeeville 2,U.S. House of Representatives,6,DEM,James E Jim Clyburn,364
+Jasper,Levy,U.S. House of Representatives,6,DEM,James E Jim Clyburn,689
+Jasper,Oakatie,U.S. House of Representatives,6,DEM,James E Jim Clyburn,507
+Jasper,Pineland,U.S. House of Representatives,6,DEM,James E Jim Clyburn,339
+Jasper,Ridgeland 1,U.S. House of Representatives,6,DEM,James E Jim Clyburn,280
+Jasper,Ridgeland 2,U.S. House of Representatives,6,DEM,James E Jim Clyburn,320
+Jasper,Tillman,U.S. House of Representatives,6,DEM,James E Jim Clyburn,306
+Jasper,Ridgeland 3,U.S. House of Representatives,6,DEM,James E Jim Clyburn,271
+Jasper,Absentee,U.S. House of Representatives,6,DEM,James E Jim Clyburn,1942
+Jasper,Emergency,U.S. House of Representatives,6,DEM,James E Jim Clyburn,104
+Jasper,Failsafe,U.S. House of Representatives,6,DEM,James E Jim Clyburn,1
+Jasper,Provisional,U.S. House of Representatives,6,DEM,James E Jim Clyburn,30
+Jasper,Failsafe/Provisional,U.S. House of Representatives,6,DEM,James E Jim Clyburn,0
+Jasper,Coosawhatchie,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,13
+Jasper,Gillisonville,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,13
+Jasper,Grahamville 1,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,30
+Jasper,Grahamville 2,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,31
+Jasper,Grays,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,41
+Jasper,Hardeeville 1,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,35
+Jasper,Hardeeville 2,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,11
+Jasper,Levy,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,30
+Jasper,Oakatie,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,44
+Jasper,Pineland,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,9
+Jasper,Ridgeland 1,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,41
+Jasper,Ridgeland 2,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,21
+Jasper,Tillman,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,13
+Jasper,Ridgeland 3,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,25
+Jasper,Absentee,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,90
+Jasper,Emergency,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,14
+Jasper,Failsafe,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,0
+Jasper,Provisional,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,0
+Jasper,Failsafe/Provisional,U.S. House of Representatives,6,GRN,Nammu Y Muhammad,0
+Jasper,Coosawhatchie,U.S. House of Representatives,6,NON,Write-In,2
+Jasper,Gillisonville,U.S. House of Representatives,6,NON,Write-In,3
+Jasper,Grahamville 1,U.S. House of Representatives,6,NON,Write-In,2
+Jasper,Grahamville 2,U.S. House of Representatives,6,NON,Write-In,4
+Jasper,Grays,U.S. House of Representatives,6,NON,Write-In,1
+Jasper,Hardeeville 1,U.S. House of Representatives,6,NON,Write-In,4
+Jasper,Hardeeville 2,U.S. House of Representatives,6,NON,Write-In,1
+Jasper,Levy,U.S. House of Representatives,6,NON,Write-In,1
+Jasper,Oakatie,U.S. House of Representatives,6,NON,Write-In,8
+Jasper,Pineland,U.S. House of Representatives,6,NON,Write-In,2
+Jasper,Ridgeland 1,U.S. House of Representatives,6,NON,Write-In,7
+Jasper,Ridgeland 2,U.S. House of Representatives,6,NON,Write-In,3
+Jasper,Tillman,U.S. House of Representatives,6,NON,Write-In,0
+Jasper,Ridgeland 3,U.S. House of Representatives,6,NON,Write-In,1
+Jasper,Absentee,U.S. House of Representatives,6,NON,Write-In,7
+Jasper,Emergency,U.S. House of Representatives,6,NON,Write-In,3
+Jasper,Failsafe,U.S. House of Representatives,6,NON,Write-In,0
+Jasper,Provisional,U.S. House of Representatives,6,NON,Write-In,0
+Jasper,Failsafe/Provisional,U.S. House of Representatives,6,NON,Write-In,0
+Jasper,Coosawhatchie,State Senate District 45,,REP,Leilani Bessinger,70
+Jasper,Gillisonville,State Senate District 45,,REP,Leilani Bessinger,130
+Jasper,Grahamville 1,State Senate District 45,,REP,Leilani Bessinger,60
+Jasper,Grahamville 2,State Senate District 45,,REP,Leilani Bessinger,237
+Jasper,Grays,State Senate District 45,,REP,Leilani Bessinger,245
+Jasper,Hardeeville 1,State Senate District 45,,REP,Leilani Bessinger,179
+Jasper,Hardeeville 2,State Senate District 45,,REP,Leilani Bessinger,118
+Jasper,Levy,State Senate District 45,,REP,Leilani Bessinger,283
+Jasper,Pineland,State Senate District 45,,REP,Leilani Bessinger,34
+Jasper,Ridgeland 1,State Senate District 45,,REP,Leilani Bessinger,281
+Jasper,Ridgeland 2,State Senate District 45,,REP,Leilani Bessinger,194
+Jasper,Tillman,State Senate District 45,,REP,Leilani Bessinger,110
+Jasper,Ridgeland 3,State Senate District 45,,REP,Leilani Bessinger,200
+Jasper,Absentee,State Senate District 45,,REP,Leilani Bessinger,419
+Jasper,Emergency,State Senate District 45,,REP,Leilani Bessinger,0
+Jasper,Failsafe,State Senate District 45,,REP,Leilani Bessinger,1
+Jasper,Provisional,State Senate District 45,,REP,Leilani Bessinger,0
+Jasper,Coosawhatchie,State Senate District 45,,DEM,Clementa Pinckney,235
+Jasper,Gillisonville,State Senate District 45,,DEM,Clementa Pinckney,207
+Jasper,Grahamville 1,State Senate District 45,,DEM,Clementa Pinckney,79
+Jasper,Grahamville 2,State Senate District 45,,DEM,Clementa Pinckney,658
+Jasper,Grays,State Senate District 45,,DEM,Clementa Pinckney,173
+Jasper,Hardeeville 1,State Senate District 45,,DEM,Clementa Pinckney,293
+Jasper,Hardeeville 2,State Senate District 45,,DEM,Clementa Pinckney,310
+Jasper,Levy,State Senate District 45,,DEM,Clementa Pinckney,587
+Jasper,Pineland,State Senate District 45,,DEM,Clementa Pinckney,333
+Jasper,Ridgeland 1,State Senate District 45,,DEM,Clementa Pinckney,166
+Jasper,Ridgeland 2,State Senate District 45,,DEM,Clementa Pinckney,241
+Jasper,Tillman,State Senate District 45,,DEM,Clementa Pinckney,266
+Jasper,Ridgeland 3,State Senate District 45,,DEM,Clementa Pinckney,166
+Jasper,Absentee,State Senate District 45,,DEM,Clementa Pinckney,1549
+Jasper,Emergency,State Senate District 45,,DEM,Clementa Pinckney,0
+Jasper,Failsafe,State Senate District 45,,DEM,Clementa Pinckney,1
+Jasper,Provisional,State Senate District 45,,DEM,Clementa Pinckney,30
+Jasper,Coosawhatchie,State Senate District 45,,NON,Write-In,0
+Jasper,Gillisonville,State Senate District 45,,NON,Write-In,1
+Jasper,Grahamville 1,State Senate District 45,,NON,Write-In,0
+Jasper,Grahamville 2,State Senate District 45,,NON,Write-In,0
+Jasper,Grays,State Senate District 45,,NON,Write-In,0
+Jasper,Hardeeville 1,State Senate District 45,,NON,Write-In,0
+Jasper,Hardeeville 2,State Senate District 45,,NON,Write-In,1
+Jasper,Levy,State Senate District 45,,NON,Write-In,0
+Jasper,Pineland,State Senate District 45,,NON,Write-In,1
+Jasper,Ridgeland 1,State Senate District 45,,NON,Write-In,0
+Jasper,Ridgeland 2,State Senate District 45,,NON,Write-In,0
+Jasper,Tillman,State Senate District 45,,NON,Write-In,0
+Jasper,Ridgeland 3,State Senate District 45,,NON,Write-In,1
+Jasper,Absentee,State Senate District 45,,NON,Write-In,1
+Jasper,Emergency,State Senate District 45,,NON,Write-In,0
+Jasper,Failsafe,State Senate District 45,,NON,Write-In,0
+Jasper,Provisional,State Senate District 45,,NON,Write-In,0
+Jasper,Grahamville 1,State Senate District 46,,REP,Tom Davis,165
+Jasper,Hardeeville 1,State Senate District 46,,REP,Tom Davis,72
+Jasper,Oakatie,State Senate District 46,,REP,Tom Davis,584
+Jasper,Absentee,State Senate District 46,,REP,Tom Davis,295
+Jasper,Emergency,State Senate District 46,,REP,Tom Davis,148
+Jasper,Failsafe,State Senate District 46,,REP,Tom Davis,1
+Jasper,Provisional,State Senate District 46,,REP,Tom Davis,0
+Jasper,Grahamville 1,State Senate District 46,,NON,Write-In,3
+Jasper,Hardeeville 1,State Senate District 46,,NON,Write-In,0
+Jasper,Oakatie,State Senate District 46,,NON,Write-In,6
+Jasper,Absentee,State Senate District 46,,NON,Write-In,3
+Jasper,Emergency,State Senate District 46,,NON,Write-In,0
+Jasper,Failsafe,State Senate District 46,,NON,Write-In,0
+Jasper,Provisional,State Senate District 46,,NON,Write-In,0
+Jasper,Hardeeville 1,State House of Representatives District 118,,REP,Bill Herbkersman,326
+Jasper,Hardeeville 2,State House of Representatives District 118,,REP,Bill Herbkersman,128
+Jasper,Levy,State House of Representatives District 118,,REP,Bill Herbkersman,390
+Jasper,Absentee,State House of Representatives District 118,,REP,Bill Herbkersman,133
+Jasper,Emergency,State House of Representatives District 118,,REP,Bill Herbkersman,0
+Jasper,Failsafe,State House of Representatives District 118,,REP,Bill Herbkersman,0
+Jasper,Provisional,State House of Representatives District 118,,REP,Bill Herbkersman,0
+Jasper,Hardeeville 1,State House of Representatives District 118,,NON,Write-In,3
+Jasper,Hardeeville 2,State House of Representatives District 118,,NON,Write-In,3
+Jasper,Levy,State House of Representatives District 118,,NON,Write-In,3
+Jasper,Absentee,State House of Representatives District 118,,NON,Write-In,6
+Jasper,Emergency,State House of Representatives District 118,,NON,Write-In,0
+Jasper,Failsafe,State House of Representatives District 118,,NON,Write-In,0
+Jasper,Provisional,State House of Representatives District 118,,NON,Write-In,0
+Jasper,Grahamville 1,State House of Representatives District 120,,REP,Weston Newton,86
+Jasper,Oakatie,State House of Representatives District 120,,REP,Weston Newton,576
+Jasper,Absentee,State House of Representatives District 120,,REP,Weston Newton,273
+Jasper,Emergency,State House of Representatives District 120,,REP,Weston Newton,146
+Jasper,Failsafe,State House of Representatives District 120,,REP,Weston Newton,1
+Jasper,Provisional,State House of Representatives District 120,,REP,Weston Newton,0
+Jasper,Grahamville 1,State House of Representatives District 120,,NON,Write-In,1
+Jasper,Oakatie,State House of Representatives District 120,,NON,Write-In,5
+Jasper,Absentee,State House of Representatives District 120,,NON,Write-In,4
+Jasper,Emergency,State House of Representatives District 120,,NON,Write-In,0
+Jasper,Failsafe,State House of Representatives District 120,,NON,Write-In,0
+Jasper,Provisional,State House of Representatives District 120,,NON,Write-In,0
+Jasper,Coosawhatchie,State House of Representatives District 122,,DEM,Bill Bowers,276
+Jasper,Gillisonville,State House of Representatives District 122,,DEM,Bill Bowers,289
+Jasper,Grahamville 1,State House of Representatives District 122,,DEM,Bill Bowers,225
+Jasper,Grahamville 2,State House of Representatives District 122,,DEM,Bill Bowers,770
+Jasper,Grays,State House of Representatives District 122,,DEM,Bill Bowers,341
+Jasper,Hardeeville 2,State House of Representatives District 122,,DEM,Bill Bowers,94
+Jasper,Pineland,State House of Representatives District 122,,DEM,Bill Bowers,339
+Jasper,Ridgeland 1,State House of Representatives District 122,,DEM,Bill Bowers,341
+Jasper,Ridgeland 2,State House of Representatives District 122,,DEM,Bill Bowers,361
+Jasper,Tillman,State House of Representatives District 122,,DEM,Bill Bowers,327
+Jasper,Ridgeland 3,State House of Representatives District 122,,DEM,Bill Bowers,307
+Jasper,Absentee,State House of Representatives District 122,,DEM,Bill Bowers,1394
+Jasper,Emergency,State House of Representatives District 122,,DEM,Bill Bowers,0
+Jasper,Failsafe,State House of Representatives District 122,,DEM,Bill Bowers,1
+Jasper,Provisional,State House of Representatives District 122,,DEM,Bill Bowers,28
+Jasper,Coosawhatchie,State House of Representatives District 122,,NON,Write-In,1
+Jasper,Gillisonville,State House of Representatives District 122,,NON,Write-In,0
+Jasper,Grahamville 1,State House of Representatives District 122,,NON,Write-In,0
+Jasper,Grahamville 2,State House of Representatives District 122,,NON,Write-In,7
+Jasper,Grays,State House of Representatives District 122,,NON,Write-In,0
+Jasper,Hardeeville 2,State House of Representatives District 122,,NON,Write-In,0
+Jasper,Pineland,State House of Representatives District 122,,NON,Write-In,4
+Jasper,Ridgeland 1,State House of Representatives District 122,,NON,Write-In,4
+Jasper,Ridgeland 2,State House of Representatives District 122,,NON,Write-In,2
+Jasper,Tillman,State House of Representatives District 122,,NON,Write-In,4
+Jasper,Ridgeland 3,State House of Representatives District 122,,NON,Write-In,0
+Jasper,Absentee,State House of Representatives District 122,,NON,Write-In,8
+Jasper,Emergency,State House of Representatives District 122,,NON,Write-In,0
+Jasper,Failsafe,State House of Representatives District 122,,NON,Write-In,0
+Jasper,Provisional,State House of Representatives District 122,,NON,Write-In,0
+Jasper,Coosawhatchie,Solicitor Circuit 14,,REP,Duffie Stone,110
+Jasper,Gillisonville,Solicitor Circuit 14,,REP,Duffie Stone,208
+Jasper,Grahamville 1,Solicitor Circuit 14,,REP,Duffie Stone,258
+Jasper,Grahamville 2,Solicitor Circuit 14,,REP,Duffie Stone,367
+Jasper,Grays,Solicitor Circuit 14,,REP,Duffie Stone,311
+Jasper,Hardeeville 1,Solicitor Circuit 14,,REP,Duffie Stone,330
+Jasper,Hardeeville 2,Solicitor Circuit 14,,REP,Duffie Stone,183
+Jasper,Levy,Solicitor Circuit 14,,REP,Duffie Stone,390
+Jasper,Oakatie,Solicitor Circuit 14,,REP,Duffie Stone,574
+Jasper,Pineland,Solicitor Circuit 14,,REP,Duffie Stone,75
+Jasper,Ridgeland 1,Solicitor Circuit 14,,REP,Duffie Stone,343
+Jasper,Ridgeland 2,Solicitor Circuit 14,,REP,Duffie Stone,277
+Jasper,Tillman,Solicitor Circuit 14,,REP,Duffie Stone,191
+Jasper,Ridgeland 3,Solicitor Circuit 14,,REP,Duffie Stone,275
+Jasper,Absentee,Solicitor Circuit 14,,REP,Duffie Stone,985
+Jasper,Emergency,Solicitor Circuit 14,,REP,Duffie Stone,146
+Jasper,Failsafe,Solicitor Circuit 14,,REP,Duffie Stone,1
+Jasper,Provisional,Solicitor Circuit 14,,REP,Duffie Stone,3
+Jasper,Failsafe/Provisional,Solicitor Circuit 14,,REP,Duffie Stone,0
+Jasper,Coosawhatchie,Solicitor Circuit 14,,NON,Write-In,2
+Jasper,Gillisonville,Solicitor Circuit 14,,NON,Write-In,2
+Jasper,Grahamville 1,Solicitor Circuit 14,,NON,Write-In,3
+Jasper,Grahamville 2,Solicitor Circuit 14,,NON,Write-In,3
+Jasper,Grays,Solicitor Circuit 14,,NON,Write-In,1
+Jasper,Hardeeville 1,Solicitor Circuit 14,,NON,Write-In,3
+Jasper,Hardeeville 2,Solicitor Circuit 14,,NON,Write-In,3
+Jasper,Levy,Solicitor Circuit 14,,NON,Write-In,3
+Jasper,Oakatie,Solicitor Circuit 14,,NON,Write-In,8
+Jasper,Pineland,Solicitor Circuit 14,,NON,Write-In,13
+Jasper,Ridgeland 1,Solicitor Circuit 14,,NON,Write-In,4
+Jasper,Ridgeland 2,Solicitor Circuit 14,,NON,Write-In,2
+Jasper,Tillman,Solicitor Circuit 14,,NON,Write-In,7
+Jasper,Ridgeland 3,Solicitor Circuit 14,,NON,Write-In,0
+Jasper,Absentee,Solicitor Circuit 14,,NON,Write-In,17
+Jasper,Emergency,Solicitor Circuit 14,,NON,Write-In,1
+Jasper,Failsafe,Solicitor Circuit 14,,NON,Write-In,0
+Jasper,Provisional,Solicitor Circuit 14,,NON,Write-In,0
+Jasper,Failsafe/Provisional,Solicitor Circuit 14,,NON,Write-In,0
+Jasper,Coosawhatchie,Sheriff,,PET,Keefe D Blatchley,61
+Jasper,Gillisonville,Sheriff,,PET,Keefe D Blatchley,137
+Jasper,Grahamville 1,Sheriff,,PET,Keefe D Blatchley,184
+Jasper,Grahamville 2,Sheriff,,PET,Keefe D Blatchley,229
+Jasper,Grays,Sheriff,,PET,Keefe D Blatchley,238
+Jasper,Hardeeville 1,Sheriff,,PET,Keefe D Blatchley,219
+Jasper,Hardeeville 2,Sheriff,,PET,Keefe D Blatchley,116
+Jasper,Levy,Sheriff,,PET,Keefe D Blatchley,199
+Jasper,Oakatie,Sheriff,,PET,Keefe D Blatchley,252
+Jasper,Pineland,Sheriff,,PET,Keefe D Blatchley,30
+Jasper,Ridgeland 1,Sheriff,,PET,Keefe D Blatchley,277
+Jasper,Ridgeland 2,Sheriff,,PET,Keefe D Blatchley,200
+Jasper,Tillman,Sheriff,,PET,Keefe D Blatchley,94
+Jasper,Ridgeland 3,Sheriff,,PET,Keefe D Blatchley,222
+Jasper,Absentee,Sheriff,,PET,Keefe D Blatchley,542
+Jasper,Emergency,Sheriff,,PET,Keefe D Blatchley,89
+Jasper,Failsafe,Sheriff,,PET,Keefe D Blatchley,0
+Jasper,Provisional,Sheriff,,PET,Keefe D Blatchley,0
+Jasper,Failsafe/Provisional,Sheriff,,PET,Keefe D Blatchley,0
+Jasper,Coosawhatchie,Sheriff,,DEM,Gregory B Jenkins,231
+Jasper,Gillisonville,Sheriff,,DEM,Gregory B Jenkins,196
+Jasper,Grahamville 1,Sheriff,,DEM,Gregory B Jenkins,228
+Jasper,Grahamville 2,Sheriff,,DEM,Gregory B Jenkins,647
+Jasper,Grays,Sheriff,,DEM,Gregory B Jenkins,151
+Jasper,Hardeeville 1,Sheriff,,DEM,Gregory B Jenkins,343
+Jasper,Hardeeville 2,Sheriff,,DEM,Gregory B Jenkins,297
+Jasper,Levy,Sheriff,,DEM,Gregory B Jenkins,616
+Jasper,Oakatie,Sheriff,,DEM,Gregory B Jenkins,417
+Jasper,Pineland,Sheriff,,DEM,Gregory B Jenkins,332
+Jasper,Ridgeland 1,Sheriff,,DEM,Gregory B Jenkins,165
+Jasper,Ridgeland 2,Sheriff,,DEM,Gregory B Jenkins,225
+Jasper,Tillman,Sheriff,,DEM,Gregory B Jenkins,261
+Jasper,Ridgeland 3,Sheriff,,DEM,Gregory B Jenkins,146
+Jasper,Absentee,Sheriff,,DEM,Gregory B Jenkins,1737
+Jasper,Emergency,Sheriff,,DEM,Gregory B Jenkins,55
+Jasper,Failsafe,Sheriff,,DEM,Gregory B Jenkins,1
+Jasper,Provisional,Sheriff,,DEM,Gregory B Jenkins,30
+Jasper,Failsafe/Provisional,Sheriff,,DEM,Gregory B Jenkins,0
+Jasper,Coosawhatchie,Sheriff,,NON,Write-In,0
+Jasper,Gillisonville,Sheriff,,NON,Write-In,3
+Jasper,Grahamville 1,Sheriff,,NON,Write-In,2
+Jasper,Grahamville 2,Sheriff,,NON,Write-In,1
+Jasper,Grays,Sheriff,,NON,Write-In,1
+Jasper,Hardeeville 1,Sheriff,,NON,Write-In,1
+Jasper,Hardeeville 2,Sheriff,,NON,Write-In,2
+Jasper,Levy,Sheriff,,NON,Write-In,4
+Jasper,Oakatie,Sheriff,,NON,Write-In,1
+Jasper,Pineland,Sheriff,,NON,Write-In,2
+Jasper,Ridgeland 1,Sheriff,,NON,Write-In,3
+Jasper,Ridgeland 2,Sheriff,,NON,Write-In,6
+Jasper,Tillman,Sheriff,,NON,Write-In,4
+Jasper,Ridgeland 3,Sheriff,,NON,Write-In,1
+Jasper,Absentee,Sheriff,,NON,Write-In,8
+Jasper,Emergency,Sheriff,,NON,Write-In,0
+Jasper,Failsafe,Sheriff,,NON,Write-In,0
+Jasper,Provisional,Sheriff,,NON,Write-In,0
+Jasper,Failsafe/Provisional,Sheriff,,NON,Write-In,0
+Jasper,Coosawhatchie,Probate Judge,,REP,Brenda Horton,81
+Jasper,Gillisonville,Probate Judge,,REP,Brenda Horton,114
+Jasper,Grahamville 1,Probate Judge,,REP,Brenda Horton,145
+Jasper,Grahamville 2,Probate Judge,,REP,Brenda Horton,239
+Jasper,Grays,Probate Judge,,REP,Brenda Horton,251
+Jasper,Hardeeville 1,Probate Judge,,REP,Brenda Horton,238
+Jasper,Hardeeville 2,Probate Judge,,REP,Brenda Horton,111
+Jasper,Levy,Probate Judge,,REP,Brenda Horton,289
+Jasper,Oakatie,Probate Judge,,REP,Brenda Horton,496
+Jasper,Pineland,Probate Judge,,REP,Brenda Horton,34
+Jasper,Ridgeland 1,Probate Judge,,REP,Brenda Horton,243
+Jasper,Ridgeland 2,Probate Judge,,REP,Brenda Horton,180
+Jasper,Tillman,Probate Judge,,REP,Brenda Horton,101
+Jasper,Ridgeland 3,Probate Judge,,REP,Brenda Horton,178
+Jasper,Absentee,Probate Judge,,REP,Brenda Horton,692
+Jasper,Emergency,Probate Judge,,REP,Brenda Horton,110
+Jasper,Failsafe,Probate Judge,,REP,Brenda Horton,2
+Jasper,Provisional,Probate Judge,,REP,Brenda Horton,1
+Jasper,Failsafe/Provisional,Probate Judge,,REP,Brenda Horton,0
+Jasper,Coosawhatchie,Probate Judge,,DEM,Buster Kleckley,223
+Jasper,Gillisonville,Probate Judge,,DEM,Buster Kleckley,229
+Jasper,Grahamville 1,Probate Judge,,DEM,Buster Kleckley,287
+Jasper,Grahamville 2,Probate Judge,,DEM,Buster Kleckley,666
+Jasper,Grays,Probate Judge,,DEM,Buster Kleckley,176
+Jasper,Hardeeville 1,Probate Judge,,DEM,Buster Kleckley,349
+Jasper,Hardeeville 2,Probate Judge,,DEM,Buster Kleckley,321
+Jasper,Levy,Probate Judge,,DEM,Buster Kleckley,582
+Jasper,Oakatie,Probate Judge,,DEM,Buster Kleckley,342
+Jasper,Pineland,Probate Judge,,DEM,Buster Kleckley,334
+Jasper,Ridgeland 1,Probate Judge,,DEM,Buster Kleckley,214
+Jasper,Ridgeland 2,Probate Judge,,DEM,Buster Kleckley,263
+Jasper,Tillman,Probate Judge,,DEM,Buster Kleckley,279
+Jasper,Ridgeland 3,Probate Judge,,DEM,Buster Kleckley,204
+Jasper,Absentee,Probate Judge,,DEM,Buster Kleckley,1705
+Jasper,Emergency,Probate Judge,,DEM,Buster Kleckley,57
+Jasper,Failsafe,Probate Judge,,DEM,Buster Kleckley,0
+Jasper,Provisional,Probate Judge,,DEM,Buster Kleckley,29
+Jasper,Failsafe/Provisional,Probate Judge,,DEM,Buster Kleckley,0
+Jasper,Coosawhatchie,Probate Judge,,NON,Write-In,0
+Jasper,Gillisonville,Probate Judge,,NON,Write-In,0
+Jasper,Grahamville 1,Probate Judge,,NON,Write-In,0
+Jasper,Grahamville 2,Probate Judge,,NON,Write-In,0
+Jasper,Grays,Probate Judge,,NON,Write-In,0
+Jasper,Hardeeville 1,Probate Judge,,NON,Write-In,1
+Jasper,Hardeeville 2,Probate Judge,,NON,Write-In,0
+Jasper,Levy,Probate Judge,,NON,Write-In,0
+Jasper,Oakatie,Probate Judge,,NON,Write-In,0
+Jasper,Pineland,Probate Judge,,NON,Write-In,0
+Jasper,Ridgeland 1,Probate Judge,,NON,Write-In,1
+Jasper,Ridgeland 2,Probate Judge,,NON,Write-In,1
+Jasper,Tillman,Probate Judge,,NON,Write-In,1
+Jasper,Ridgeland 3,Probate Judge,,NON,Write-In,0
+Jasper,Absentee,Probate Judge,,NON,Write-In,13
+Jasper,Emergency,Probate Judge,,NON,Write-In,0
+Jasper,Failsafe,Probate Judge,,NON,Write-In,0
+Jasper,Provisional,Probate Judge,,NON,Write-In,0
+Jasper,Failsafe/Provisional,Probate Judge,,NON,Write-In,0
+Jasper,Coosawhatchie,Clerk of Court,,REP,Kim Thomas,74
+Jasper,Gillisonville,Clerk of Court,,REP,Kim Thomas,133
+Jasper,Grahamville 1,Clerk of Court,,REP,Kim Thomas,206
+Jasper,Grahamville 2,Clerk of Court,,REP,Kim Thomas,254
+Jasper,Grays,Clerk of Court,,REP,Kim Thomas,269
+Jasper,Hardeeville 1,Clerk of Court,,REP,Kim Thomas,233
+Jasper,Hardeeville 2,Clerk of Court,,REP,Kim Thomas,122
+Jasper,Levy,Clerk of Court,,REP,Kim Thomas,277
+Jasper,Oakatie,Clerk of Court,,REP,Kim Thomas,478
+Jasper,Pineland,Clerk of Court,,REP,Kim Thomas,34
+Jasper,Ridgeland 1,Clerk of Court,,REP,Kim Thomas,301
+Jasper,Ridgeland 2,Clerk of Court,,REP,Kim Thomas,220
+Jasper,Tillman,Clerk of Court,,REP,Kim Thomas,117
+Jasper,Ridgeland 3,Clerk of Court,,REP,Kim Thomas,228
+Jasper,Absentee,Clerk of Court,,REP,Kim Thomas,695
+Jasper,Emergency,Clerk of Court,,REP,Kim Thomas,112
+Jasper,Failsafe,Clerk of Court,,REP,Kim Thomas,2
+Jasper,Provisional,Clerk of Court,,REP,Kim Thomas,0
+Jasper,Failsafe/Provisional,Clerk of Court,,REP,Kim Thomas,0
+Jasper,Coosawhatchie,Clerk of Court,,DEM,Margaret Bostick,232
+Jasper,Gillisonville,Clerk of Court,,DEM,Margaret Bostick,212
+Jasper,Grahamville 1,Clerk of Court,,DEM,Margaret Bostick,224
+Jasper,Grahamville 2,Clerk of Court,,DEM,Margaret Bostick,662
+Jasper,Grays,Clerk of Court,,DEM,Margaret Bostick,158
+Jasper,Hardeeville 1,Clerk of Court,,DEM,Margaret Bostick,362
+Jasper,Hardeeville 2,Clerk of Court,,DEM,Margaret Bostick,309
+Jasper,Levy,Clerk of Court,,DEM,Margaret Bostick,606
+Jasper,Oakatie,Clerk of Court,,DEM,Margaret Bostick,368
+Jasper,Pineland,Clerk of Court,,DEM,Margaret Bostick,337
+Jasper,Ridgeland 1,Clerk of Court,,DEM,Margaret Bostick,159
+Jasper,Ridgeland 2,Clerk of Court,,DEM,Margaret Bostick,223
+Jasper,Tillman,Clerk of Court,,DEM,Margaret Bostick,267
+Jasper,Ridgeland 3,Clerk of Court,,DEM,Margaret Bostick,146
+Jasper,Absentee,Clerk of Court,,DEM,Margaret Bostick,1743
+Jasper,Emergency,Clerk of Court,,DEM,Margaret Bostick,53
+Jasper,Failsafe,Clerk of Court,,DEM,Margaret Bostick,1
+Jasper,Provisional,Clerk of Court,,DEM,Margaret Bostick,30
+Jasper,Failsafe/Provisional,Clerk of Court,,DEM,Margaret Bostick,0
+Jasper,Coosawhatchie,Clerk of Court,,NON,Write-In,0
+Jasper,Gillisonville,Clerk of Court,,NON,Write-In,0
+Jasper,Grahamville 1,Clerk of Court,,NON,Write-In,0
+Jasper,Grahamville 2,Clerk of Court,,NON,Write-In,0
+Jasper,Grays,Clerk of Court,,NON,Write-In,1
+Jasper,Hardeeville 1,Clerk of Court,,NON,Write-In,0
+Jasper,Hardeeville 2,Clerk of Court,,NON,Write-In,0
+Jasper,Levy,Clerk of Court,,NON,Write-In,0
+Jasper,Oakatie,Clerk of Court,,NON,Write-In,0
+Jasper,Pineland,Clerk of Court,,NON,Write-In,0
+Jasper,Ridgeland 1,Clerk of Court,,NON,Write-In,0
+Jasper,Ridgeland 2,Clerk of Court,,NON,Write-In,0
+Jasper,Tillman,Clerk of Court,,NON,Write-In,0
+Jasper,Ridgeland 3,Clerk of Court,,NON,Write-In,0
+Jasper,Absentee,Clerk of Court,,NON,Write-In,1
+Jasper,Emergency,Clerk of Court,,NON,Write-In,0
+Jasper,Failsafe,Clerk of Court,,NON,Write-In,0
+Jasper,Provisional,Clerk of Court,,NON,Write-In,0
+Jasper,Failsafe/Provisional,Clerk of Court,,NON,Write-In,0
+Jasper,Coosawhatchie,Coroner,,DEM,L Martin Sauls III,288
+Jasper,Gillisonville,Coroner,,DEM,L Martin Sauls III,319
+Jasper,Grahamville 1,Coroner,,DEM,L Martin Sauls III,404
+Jasper,Grahamville 2,Coroner,,DEM,L Martin Sauls III,839
+Jasper,Grays,Coroner,,DEM,L Martin Sauls III,380
+Jasper,Hardeeville 1,Coroner,,DEM,L Martin Sauls III,532
+Jasper,Hardeeville 2,Coroner,,DEM,L Martin Sauls III,402
+Jasper,Levy,Coroner,,DEM,L Martin Sauls III,777
+Jasper,Oakatie,Coroner,,DEM,L Martin Sauls III,585
+Jasper,Pineland,Coroner,,DEM,L Martin Sauls III,357
+Jasper,Ridgeland 1,Coroner,,DEM,L Martin Sauls III,415
+Jasper,Ridgeland 2,Coroner,,DEM,L Martin Sauls III,411
+Jasper,Tillman,Coroner,,DEM,L Martin Sauls III,358
+Jasper,Ridgeland 3,Coroner,,DEM,L Martin Sauls III,358
+Jasper,Absentee,Coroner,,DEM,L Martin Sauls III,2174
+Jasper,Emergency,Coroner,,DEM,L Martin Sauls III,140
+Jasper,Failsafe,Coroner,,DEM,L Martin Sauls III,1
+Jasper,Provisional,Coroner,,DEM,L Martin Sauls III,30
+Jasper,Failsafe/Provisional,Coroner,,DEM,L Martin Sauls III,0
+Jasper,Coosawhatchie,Coroner,,NON,Write-In,0
+Jasper,Gillisonville,Coroner,,NON,Write-In,0
+Jasper,Grahamville 1,Coroner,,NON,Write-In,1
+Jasper,Grahamville 2,Coroner,,NON,Write-In,0
+Jasper,Grays,Coroner,,NON,Write-In,0
+Jasper,Hardeeville 1,Coroner,,NON,Write-In,0
+Jasper,Hardeeville 2,Coroner,,NON,Write-In,0
+Jasper,Levy,Coroner,,NON,Write-In,0
+Jasper,Oakatie,Coroner,,NON,Write-In,1
+Jasper,Pineland,Coroner,,NON,Write-In,0
+Jasper,Ridgeland 1,Coroner,,NON,Write-In,0
+Jasper,Ridgeland 2,Coroner,,NON,Write-In,2
+Jasper,Tillman,Coroner,,NON,Write-In,0
+Jasper,Ridgeland 3,Coroner,,NON,Write-In,0
+Jasper,Absentee,Coroner,,NON,Write-In,8
+Jasper,Emergency,Coroner,,NON,Write-In,0
+Jasper,Failsafe,Coroner,,NON,Write-In,0
+Jasper,Provisional,Coroner,,NON,Write-In,0
+Jasper,Failsafe/Provisional,Coroner,,NON,Write-In,0
+Jasper,Coosawhatchie,County Council At Large,,REP,Joseph E Brown III,41
+Jasper,Gillisonville,County Council At Large,,REP,Joseph E Brown III,73
+Jasper,Grahamville 1,County Council At Large,,REP,Joseph E Brown III,106
+Jasper,Grahamville 2,County Council At Large,,REP,Joseph E Brown III,200
+Jasper,Grays,County Council At Large,,REP,Joseph E Brown III,141
+Jasper,Hardeeville 1,County Council At Large,,REP,Joseph E Brown III,138
+Jasper,Hardeeville 2,County Council At Large,,REP,Joseph E Brown III,63
+Jasper,Levy,County Council At Large,,REP,Joseph E Brown III,188
+Jasper,Oakatie,County Council At Large,,REP,Joseph E Brown III,442
+Jasper,Pineland,County Council At Large,,REP,Joseph E Brown III,26
+Jasper,Ridgeland 1,County Council At Large,,REP,Joseph E Brown III,159
+Jasper,Ridgeland 2,County Council At Large,,REP,Joseph E Brown III,125
+Jasper,Tillman,County Council At Large,,REP,Joseph E Brown III,55
+Jasper,Ridgeland 3,County Council At Large,,REP,Joseph E Brown III,98
+Jasper,Absentee,County Council At Large,,REP,Joseph E Brown III,447
+Jasper,Emergency,County Council At Large,,REP,Joseph E Brown III,57
+Jasper,Failsafe,County Council At Large,,REP,Joseph E Brown III,1
+Jasper,Provisional,County Council At Large,,REP,Joseph E Brown III,1
+Jasper,Failsafe/Provisional,County Council At Large,,REP,Joseph E Brown III,0
+Jasper,Coosawhatchie,County Council At Large,,DEM,Tom Johnson,264
+Jasper,Gillisonville,County Council At Large,,DEM,Tom Johnson,271
+Jasper,Grahamville 1,County Council At Large,,DEM,Tom Johnson,319
+Jasper,Grahamville 2,County Council At Large,,DEM,Tom Johnson,701
+Jasper,Grays,County Council At Large,,DEM,Tom Johnson,281
+Jasper,Hardeeville 1,County Council At Large,,DEM,Tom Johnson,453
+Jasper,Hardeeville 2,County Council At Large,,DEM,Tom Johnson,367
+Jasper,Levy,County Council At Large,,DEM,Tom Johnson,682
+Jasper,Oakatie,County Council At Large,,DEM,Tom Johnson,405
+Jasper,Pineland,County Council At Large,,DEM,Tom Johnson,341
+Jasper,Ridgeland 1,County Council At Large,,DEM,Tom Johnson,287
+Jasper,Ridgeland 2,County Council At Large,,DEM,Tom Johnson,314
+Jasper,Tillman,County Council At Large,,DEM,Tom Johnson,319
+Jasper,Ridgeland 3,County Council At Large,,DEM,Tom Johnson,274
+Jasper,Absentee,County Council At Large,,DEM,Tom Johnson,1944
+Jasper,Emergency,County Council At Large,,DEM,Tom Johnson,104
+Jasper,Failsafe,County Council At Large,,DEM,Tom Johnson,1
+Jasper,Provisional,County Council At Large,,DEM,Tom Johnson,28
+Jasper,Failsafe/Provisional,County Council At Large,,DEM,Tom Johnson,0
+Jasper,Coosawhatchie,County Council At Large,,NON,Write-In,0
+Jasper,Gillisonville,County Council At Large,,NON,Write-In,0
+Jasper,Grahamville 1,County Council At Large,,NON,Write-In,0
+Jasper,Grahamville 2,County Council At Large,,NON,Write-In,0
+Jasper,Grays,County Council At Large,,NON,Write-In,0
+Jasper,Hardeeville 1,County Council At Large,,NON,Write-In,0
+Jasper,Hardeeville 2,County Council At Large,,NON,Write-In,1
+Jasper,Levy,County Council At Large,,NON,Write-In,1
+Jasper,Oakatie,County Council At Large,,NON,Write-In,0
+Jasper,Pineland,County Council At Large,,NON,Write-In,1
+Jasper,Ridgeland 1,County Council At Large,,NON,Write-In,0
+Jasper,Ridgeland 2,County Council At Large,,NON,Write-In,0
+Jasper,Tillman,County Council At Large,,NON,Write-In,2
+Jasper,Ridgeland 3,County Council At Large,,NON,Write-In,1
+Jasper,Absentee,County Council At Large,,NON,Write-In,8
+Jasper,Emergency,County Council At Large,,NON,Write-In,0
+Jasper,Failsafe,County Council At Large,,NON,Write-In,0
+Jasper,Provisional,County Council At Large,,NON,Write-In,0
+Jasper,Failsafe/Provisional,County Council At Large,,NON,Write-In,0
+Jasper,Coosawhatchie,County Council Hardeeville Township,,REP,Joseph Arzillo,71
+Jasper,Gillisonville,County Council Hardeeville Township,,REP,Joseph Arzillo,131
+Jasper,Grahamville 1,County Council Hardeeville Township,,REP,Joseph Arzillo,197
+Jasper,Grahamville 2,County Council Hardeeville Township,,REP,Joseph Arzillo,247
+Jasper,Grays,County Council Hardeeville Township,,REP,Joseph Arzillo,249
+Jasper,Hardeeville 1,County Council Hardeeville Township,,REP,Joseph Arzillo,276
+Jasper,Hardeeville 2,County Council Hardeeville Township,,REP,Joseph Arzillo,136
+Jasper,Levy,County Council Hardeeville Township,,REP,Joseph Arzillo,264
+Jasper,Oakatie,County Council Hardeeville Township,,REP,Joseph Arzillo,477
+Jasper,Pineland,County Council Hardeeville Township,,REP,Joseph Arzillo,34
+Jasper,Ridgeland 1,County Council Hardeeville Township,,REP,Joseph Arzillo,270
+Jasper,Ridgeland 2,County Council Hardeeville Township,,REP,Joseph Arzillo,201
+Jasper,Tillman,County Council Hardeeville Township,,REP,Joseph Arzillo,122
+Jasper,Ridgeland 3,County Council Hardeeville Township,,REP,Joseph Arzillo,223
+Jasper,Absentee,County Council Hardeeville Township,,REP,Joseph Arzillo,657
+Jasper,Emergency,County Council Hardeeville Township,,REP,Joseph Arzillo,121
+Jasper,Failsafe,County Council Hardeeville Township,,REP,Joseph Arzillo,1
+Jasper,Provisional,County Council Hardeeville Township,,REP,Joseph Arzillo,0
+Jasper,Failsafe/Provisional,County Council Hardeeville Township,,REP,Joseph Arzillo,0
+Jasper,Coosawhatchie,County Council Hardeeville Township,,DEM,Barbara B Clark,235
+Jasper,Gillisonville,County Council Hardeeville Township,,DEM,Barbara B Clark,211
+Jasper,Grahamville 1,County Council Hardeeville Township,,DEM,Barbara B Clark,232
+Jasper,Grahamville 2,County Council Hardeeville Township,,DEM,Barbara B Clark,650
+Jasper,Grays,County Council Hardeeville Township,,DEM,Barbara B Clark,168
+Jasper,Hardeeville 1,County Council Hardeeville Township,,DEM,Barbara B Clark,322
+Jasper,Hardeeville 2,County Council Hardeeville Township,,DEM,Barbara B Clark,291
+Jasper,Levy,County Council Hardeeville Township,,DEM,Barbara B Clark,609
+Jasper,Oakatie,County Council Hardeeville Township,,DEM,Barbara B Clark,372
+Jasper,Pineland,County Council Hardeeville Township,,DEM,Barbara B Clark,333
+Jasper,Ridgeland 1,County Council Hardeeville Township,,DEM,Barbara B Clark,177
+Jasper,Ridgeland 2,County Council Hardeeville Township,,DEM,Barbara B Clark,241
+Jasper,Tillman,County Council Hardeeville Township,,DEM,Barbara B Clark,257
+Jasper,Ridgeland 3,County Council Hardeeville Township,,DEM,Barbara B Clark,150
+Jasper,Absentee,County Council Hardeeville Township,,DEM,Barbara B Clark,1751
+Jasper,Emergency,County Council Hardeeville Township,,DEM,Barbara B Clark,43
+Jasper,Failsafe,County Council Hardeeville Township,,DEM,Barbara B Clark,2
+Jasper,Provisional,County Council Hardeeville Township,,DEM,Barbara B Clark,29
+Jasper,Failsafe/Provisional,County Council Hardeeville Township,,DEM,Barbara B Clark,0
+Jasper,Coosawhatchie,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Gillisonville,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Grahamville 1,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Grahamville 2,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Grays,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Hardeeville 1,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Hardeeville 2,County Council Hardeeville Township,,NON,Write-In,1
+Jasper,Levy,County Council Hardeeville Township,,NON,Write-In,4
+Jasper,Oakatie,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Pineland,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Ridgeland 1,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Ridgeland 2,County Council Hardeeville Township,,NON,Write-In,1
+Jasper,Tillman,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Ridgeland 3,County Council Hardeeville Township,,NON,Write-In,1
+Jasper,Absentee,County Council Hardeeville Township,,NON,Write-In,1
+Jasper,Emergency,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Failsafe,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Provisional,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Failsafe/Provisional,County Council Hardeeville Township,,NON,Write-In,0
+Jasper,Coosawhatchie,County Council Pocatoligo Township,,DEM,Henry Etheridge,288
+Jasper,Gillisonville,County Council Pocatoligo Township,,DEM,Henry Etheridge,318
+Jasper,Grahamville 1,County Council Pocatoligo Township,,DEM,Henry Etheridge,383
+Jasper,Grahamville 2,County Council Pocatoligo Township,,DEM,Henry Etheridge,804
+Jasper,Grays,County Council Pocatoligo Township,,DEM,Henry Etheridge,369
+Jasper,Hardeeville 1,County Council Pocatoligo Township,,DEM,Henry Etheridge,496
+Jasper,Hardeeville 2,County Council Pocatoligo Township,,DEM,Henry Etheridge,390
+Jasper,Levy,County Council Pocatoligo Township,,DEM,Henry Etheridge,743
+Jasper,Oakatie,County Council Pocatoligo Township,,DEM,Henry Etheridge,557
+Jasper,Pineland,County Council Pocatoligo Township,,DEM,Henry Etheridge,355
+Jasper,Ridgeland 1,County Council Pocatoligo Township,,DEM,Henry Etheridge,404
+Jasper,Ridgeland 2,County Council Pocatoligo Township,,DEM,Henry Etheridge,401
+Jasper,Tillman,County Council Pocatoligo Township,,DEM,Henry Etheridge,348
+Jasper,Ridgeland 3,County Council Pocatoligo Township,,DEM,Henry Etheridge,350
+Jasper,Absentee,County Council Pocatoligo Township,,DEM,Henry Etheridge,2123
+Jasper,Emergency,County Council Pocatoligo Township,,DEM,Henry Etheridge,131
+Jasper,Failsafe,County Council Pocatoligo Township,,DEM,Henry Etheridge,2
+Jasper,Provisional,County Council Pocatoligo Township,,DEM,Henry Etheridge,29
+Jasper,Failsafe/Provisional,County Council Pocatoligo Township,,DEM,Henry Etheridge,0
+Jasper,Coosawhatchie,County Council Pocatoligo Township,,NON,Write-In,0
+Jasper,Gillisonville,County Council Pocatoligo Township,,NON,Write-In,1
+Jasper,Grahamville 1,County Council Pocatoligo Township,,NON,Write-In,2
+Jasper,Grahamville 2,County Council Pocatoligo Township,,NON,Write-In,3
+Jasper,Grays,County Council Pocatoligo Township,,NON,Write-In,0
+Jasper,Hardeeville 1,County Council Pocatoligo Township,,NON,Write-In,1
+Jasper,Hardeeville 2,County Council Pocatoligo Township,,NON,Write-In,1
+Jasper,Levy,County Council Pocatoligo Township,,NON,Write-In,1
+Jasper,Oakatie,County Council Pocatoligo Township,,NON,Write-In,1
+Jasper,Pineland,County Council Pocatoligo Township,,NON,Write-In,1
+Jasper,Ridgeland 1,County Council Pocatoligo Township,,NON,Write-In,3
+Jasper,Ridgeland 2,County Council Pocatoligo Township,,NON,Write-In,1
+Jasper,Tillman,County Council Pocatoligo Township,,NON,Write-In,0
+Jasper,Ridgeland 3,County Council Pocatoligo Township,,NON,Write-In,0
+Jasper,Absentee,County Council Pocatoligo Township,,NON,Write-In,8
+Jasper,Emergency,County Council Pocatoligo Township,,NON,Write-In,0
+Jasper,Failsafe,County Council Pocatoligo Township,,NON,Write-In,0
+Jasper,Provisional,County Council Pocatoligo Township,,NON,Write-In,0
+Jasper,Failsafe/Provisional,County Council Pocatoligo Township,,NON,Write-In,0
+Jasper,Pineland,School Board District 2,,NON,Write-In,169
+Jasper,Tillman,School Board District 2,,NON,Write-In,97
+Jasper,Ridgeland 3,School Board District 2,,NON,Write-In,47
+Jasper,Absentee,School Board District 2,,NON,Write-In,103
+Jasper,Emergency,School Board District 2,,NON,Write-In,0
+Jasper,Failsafe,School Board District 2,,NON,Write-In,0
+Jasper,Provisional,School Board District 2,,NON,Write-In,3
+Jasper,Coosawhatchie,School Board District 4,,NON,Randy Horton,19
+Jasper,Gillisonville,School Board District 4,,NON,Randy Horton,29
+Jasper,Ridgeland 1,School Board District 4,,NON,Randy Horton,248
+Jasper,Ridgeland 3,School Board District 4,,NON,Randy Horton,90
+Jasper,Absentee,School Board District 4,,NON,Randy Horton,140
+Jasper,Emergency,School Board District 4,,NON,Randy Horton,0
+Jasper,Failsafe,School Board District 4,,NON,Randy Horton,1
+Jasper,Provisional,School Board District 4,,NON,Randy Horton,1
+Jasper,Coosawhatchie,School Board District 4,,NON,Myra Ingram Collins,7
+Jasper,Gillisonville,School Board District 4,,NON,Myra Ingram Collins,12
+Jasper,Ridgeland 1,School Board District 4,,NON,Myra Ingram Collins,101
+Jasper,Ridgeland 3,School Board District 4,,NON,Myra Ingram Collins,37
+Jasper,Absentee,School Board District 4,,NON,Myra Ingram Collins,77
+Jasper,Emergency,School Board District 4,,NON,Myra Ingram Collins,0
+Jasper,Failsafe,School Board District 4,,NON,Myra Ingram Collins,0
+Jasper,Provisional,School Board District 4,,NON,Myra Ingram Collins,0
+Jasper,Coosawhatchie,School Board District 4,,NON,Write-In,0
+Jasper,Gillisonville,School Board District 4,,NON,Write-In,4
+Jasper,Ridgeland 1,School Board District 4,,NON,Write-In,17
+Jasper,Ridgeland 3,School Board District 4,,NON,Write-In,15
+Jasper,Absentee,School Board District 4,,NON,Write-In,10
+Jasper,Emergency,School Board District 4,,NON,Write-In,0
+Jasper,Failsafe,School Board District 4,,NON,Write-In,0
+Jasper,Provisional,School Board District 4,,NON,Write-In,0
+Jasper,Hardeeville 1,School Board District 6,,NON,Write-In,16
+Jasper,Hardeeville 2,School Board District 6,,NON,Write-In,123
+Jasper,Tillman,School Board District 6,,NON,Write-In,36
+Jasper,Absentee,School Board District 6,,NON,Write-In,24
+Jasper,Emergency,School Board District 6,,NON,Write-In,0
+Jasper,Failsafe,School Board District 6,,NON,Write-In,0
+Jasper,Provisional,School Board District 6,,NON,Write-In,0
+Jasper,Hardeeville 1,School Board District 8,,NON,Write-In,129
+Jasper,Absentee,School Board District 8,,NON,Write-In,42
+Jasper,Emergency,School Board District 8,,NON,Write-In,0
+Jasper,Failsafe,School Board District 8,,NON,Write-In,0
+Jasper,Provisional,School Board District 8,,NON,Write-In,0
+Jasper,Coosawhatchie,Soil and Water District Commission,,NON,Lonnie M Ginn,106
+Jasper,Gillisonville,Soil and Water District Commission,,NON,Lonnie M Ginn,191
+Jasper,Grahamville 1,Soil and Water District Commission,,NON,Lonnie M Ginn,227
+Jasper,Grahamville 2,Soil and Water District Commission,,NON,Lonnie M Ginn,330
+Jasper,Grays,Soil and Water District Commission,,NON,Lonnie M Ginn,277
+Jasper,Hardeeville 1,Soil and Water District Commission,,NON,Lonnie M Ginn,301
+Jasper,Hardeeville 2,Soil and Water District Commission,,NON,Lonnie M Ginn,180
+Jasper,Levy,Soil and Water District Commission,,NON,Lonnie M Ginn,322
+Jasper,Oakatie,Soil and Water District Commission,,NON,Lonnie M Ginn,386
+Jasper,Pineland,Soil and Water District Commission,,NON,Lonnie M Ginn,117
+Jasper,Ridgeland 1,Soil and Water District Commission,,NON,Lonnie M Ginn,308
+Jasper,Ridgeland 2,Soil and Water District Commission,,NON,Lonnie M Ginn,252
+Jasper,Tillman,Soil and Water District Commission,,NON,Lonnie M Ginn,210
+Jasper,Ridgeland 3,Soil and Water District Commission,,NON,Lonnie M Ginn,229
+Jasper,Absentee,Soil and Water District Commission,,NON,Lonnie M Ginn,923
+Jasper,Emergency,Soil and Water District Commission,,NON,Lonnie M Ginn,117
+Jasper,Failsafe,Soil and Water District Commission,,NON,Lonnie M Ginn,0
+Jasper,Provisional,Soil and Water District Commission,,NON,Lonnie M Ginn,4
+Jasper,Failsafe/Provisional,Soil and Water District Commission,,NON,Lonnie M Ginn,0
+Jasper,Coosawhatchie,Soil and Water District Commission,,NON,Write-In,0
+Jasper,Gillisonville,Soil and Water District Commission,,NON,Write-In,1
+Jasper,Grahamville 1,Soil and Water District Commission,,NON,Write-In,12
+Jasper,Grahamville 2,Soil and Water District Commission,,NON,Write-In,12
+Jasper,Grays,Soil and Water District Commission,,NON,Write-In,1
+Jasper,Hardeeville 1,Soil and Water District Commission,,NON,Write-In,0
+Jasper,Hardeeville 2,Soil and Water District Commission,,NON,Write-In,2
+Jasper,Levy,Soil and Water District Commission,,NON,Write-In,2
+Jasper,Oakatie,Soil and Water District Commission,,NON,Write-In,3
+Jasper,Pineland,Soil and Water District Commission,,NON,Write-In,23
+Jasper,Ridgeland 1,Soil and Water District Commission,,NON,Write-In,1
+Jasper,Ridgeland 2,Soil and Water District Commission,,NON,Write-In,7
+Jasper,Tillman,Soil and Water District Commission,,NON,Write-In,4
+Jasper,Ridgeland 3,Soil and Water District Commission,,NON,Write-In,3
+Jasper,Absentee,Soil and Water District Commission,,NON,Write-In,123
+Jasper,Emergency,Soil and Water District Commission,,NON,Write-In,2
+Jasper,Failsafe,Soil and Water District Commission,,NON,Write-In,0
+Jasper,Provisional,Soil and Water District Commission,,NON,Write-In,6
+Jasper,Failsafe/Provisional,Soil and Water District Commission,,NON,Write-In,0
+Jasper,Coosawhatchie,Constitutional Amendment,,NON,Yes,185
+Jasper,Gillisonville,Constitutional Amendment,,NON,Yes,183
+Jasper,Grahamville 1,Constitutional Amendment,,NON,Yes,236
+Jasper,Grahamville 2,Constitutional Amendment,,NON,Yes,513
+Jasper,Grays,Constitutional Amendment,,NON,Yes,209
+Jasper,Hardeeville 1,Constitutional Amendment,,NON,Yes,300
+Jasper,Hardeeville 2,Constitutional Amendment,,NON,Yes,215
+Jasper,Levy,Constitutional Amendment,,NON,Yes,425
+Jasper,Oakatie,Constitutional Amendment,,NON,Yes,526
+Jasper,Pineland,Constitutional Amendment,,NON,Yes,227
+Jasper,Ridgeland 1,Constitutional Amendment,,NON,Yes,228
+Jasper,Ridgeland 2,Constitutional Amendment,,NON,Yes,232
+Jasper,Tillman,Constitutional Amendment,,NON,Yes,178
+Jasper,Ridgeland 3,Constitutional Amendment,,NON,Yes,150
+Jasper,Absentee,Constitutional Amendment,,NON,Yes,1306
+Jasper,Emergency,Constitutional Amendment,,NON,Yes,67
+Jasper,Failsafe,Constitutional Amendment,,NON,Yes,0
+Jasper,Provisional,Constitutional Amendment,,NON,Yes,23
+Jasper,Failsafe/Provisional,Constitutional Amendment,,NON,Yes,0
+Jasper,Coosawhatchie,Constitutional Amendment,,NON,No,89
+Jasper,Gillisonville,Constitutional Amendment,,NON,No,134
+Jasper,Grahamville 1,Constitutional Amendment,,NON,No,177
+Jasper,Grahamville 2,Constitutional Amendment,,NON,No,304
+Jasper,Grays,Constitutional Amendment,,NON,No,173
+Jasper,Hardeeville 1,Constitutional Amendment,,NON,No,241
+Jasper,Hardeeville 2,Constitutional Amendment,,NON,No,158
+Jasper,Levy,Constitutional Amendment,,NON,No,355
+Jasper,Oakatie,Constitutional Amendment,,NON,No,299
+Jasper,Pineland,Constitutional Amendment,,NON,No,87
+Jasper,Ridgeland 1,Constitutional Amendment,,NON,No,192
+Jasper,Ridgeland 2,Constitutional Amendment,,NON,No,172
+Jasper,Tillman,Constitutional Amendment,,NON,No,139
+Jasper,Ridgeland 3,Constitutional Amendment,,NON,No,200
+Jasper,Absentee,Constitutional Amendment,,NON,No,788
+Jasper,Emergency,Constitutional Amendment,,NON,No,75
+Jasper,Failsafe,Constitutional Amendment,,NON,No,3
+Jasper,Provisional,Constitutional Amendment,,NON,No,3
+Jasper,Failsafe/Provisional,Constitutional Amendment,,NON,No,0
+Jasper,Coosawhatchie,LOCAL QUESTION,,NON,Change,109
+Jasper,Gillisonville,LOCAL QUESTION,,NON,Change,82
+Jasper,Grahamville 1,LOCAL QUESTION,,NON,Change,128
+Jasper,Grahamville 2,LOCAL QUESTION,,NON,Change,302
+Jasper,Grays,LOCAL QUESTION,,NON,Change,84
+Jasper,Hardeeville 1,LOCAL QUESTION,,NON,Change,149
+Jasper,Hardeeville 2,LOCAL QUESTION,,NON,Change,91
+Jasper,Levy,LOCAL QUESTION,,NON,Change,211
+Jasper,Oakatie,LOCAL QUESTION,,NON,Change,290
+Jasper,Pineland,LOCAL QUESTION,,NON,Change,129
+Jasper,Ridgeland 1,LOCAL QUESTION,,NON,Change,100
+Jasper,Ridgeland 2,LOCAL QUESTION,,NON,Change,95
+Jasper,Tillman,LOCAL QUESTION,,NON,Change,85
+Jasper,Ridgeland 3,LOCAL QUESTION,,NON,Change,78
+Jasper,Absentee,LOCAL QUESTION,,NON,Change,816
+Jasper,Emergency,LOCAL QUESTION,,NON,Change,48
+Jasper,Failsafe,LOCAL QUESTION,,NON,Change,0
+Jasper,Provisional,LOCAL QUESTION,,NON,Change,22
+Jasper,Failsafe/Provisional,LOCAL QUESTION,,NON,Change,0
+Jasper,Coosawhatchie,LOCAL QUESTION,,NON,Retain,125
+Jasper,Gillisonville,LOCAL QUESTION,,NON,Retain,203
+Jasper,Grahamville 1,LOCAL QUESTION,,NON,Retain,256
+Jasper,Grahamville 2,LOCAL QUESTION,,NON,Retain,439
+Jasper,Grays,LOCAL QUESTION,,NON,Retain,282
+Jasper,Hardeeville 1,LOCAL QUESTION,,NON,Retain,342
+Jasper,Hardeeville 2,LOCAL QUESTION,,NON,Retain,239
+Jasper,Levy,LOCAL QUESTION,,NON,Retain,496
+Jasper,Oakatie,LOCAL QUESTION,,NON,Retain,489
+Jasper,Pineland,LOCAL QUESTION,,NON,Retain,134
+Jasper,Ridgeland 1,LOCAL QUESTION,,NON,Retain,288
+Jasper,Ridgeland 2,LOCAL QUESTION,,NON,Retain,286
+Jasper,Tillman,LOCAL QUESTION,,NON,Retain,213
+Jasper,Ridgeland 3,LOCAL QUESTION,,NON,Retain,249
+Jasper,Absentee,LOCAL QUESTION,,NON,Retain,1158
+Jasper,Emergency,LOCAL QUESTION,,NON,Retain,91
+Jasper,Failsafe,LOCAL QUESTION,,NON,Retain,2
+Jasper,Provisional,LOCAL QUESTION,,NON,Retain,4
+Jasper,Failsafe/Provisional,LOCAL QUESTION,,NON,Retain,0

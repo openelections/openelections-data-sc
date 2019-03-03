@@ -1,0 +1,617 @@
+county,precinct,office,district,party,candidate,votes
+Richland,Ward 1,PRESIDENT,,DEM,Hillary Clinton,100
+Richland,Ward 2,PRESIDENT,,DEM,Hillary Clinton,104
+Richland,Ward 3,PRESIDENT,,DEM,Hillary Clinton,162
+Richland,Ward 4,PRESIDENT,,DEM,Hillary Clinton,171
+Richland,Ward 5,PRESIDENT,,DEM,Hillary Clinton,48
+Richland,Ward 6,PRESIDENT,,DEM,Hillary Clinton,155
+Richland,Ward 7,PRESIDENT,,DEM,Hillary Clinton,248
+Richland,Ward 8,PRESIDENT,,DEM,Hillary Clinton,77
+Richland,Ward 9,PRESIDENT,,DEM,Hillary Clinton,252
+Richland,Ward 10,PRESIDENT,,DEM,Hillary Clinton,179
+Richland,Ward 11,PRESIDENT,,DEM,Hillary Clinton,114
+Richland,Ward 12,PRESIDENT,,DEM,Hillary Clinton,189
+Richland,Ward 13,PRESIDENT,,DEM,Hillary Clinton,183
+Richland,Ward 14,PRESIDENT,,DEM,Hillary Clinton,181
+Richland,Ward 15,PRESIDENT,,DEM,Hillary Clinton,108
+Richland,Ward 16,PRESIDENT,,DEM,Hillary Clinton,89
+Richland,Ward 17,PRESIDENT,,DEM,Hillary Clinton,134
+Richland,Ward 18,PRESIDENT,,DEM,Hillary Clinton,220
+Richland,Ward 19,PRESIDENT,,DEM,Hillary Clinton,284
+Richland,Ward 20,PRESIDENT,,DEM,Hillary Clinton,274
+Richland,Ward 21,PRESIDENT,,DEM,Hillary Clinton,330
+Richland,Ward 22,PRESIDENT,,DEM,Hillary Clinton,340
+Richland,Ward 23,PRESIDENT,,DEM,Hillary Clinton,123
+Richland,Ward 24,PRESIDENT,,DEM,Hillary Clinton,60
+Richland,Ward 25,PRESIDENT,,DEM,Hillary Clinton,77
+Richland,Ward 26,PRESIDENT,,DEM,Hillary Clinton,103
+Richland,Ward 29,PRESIDENT,,DEM,Hillary Clinton,287
+Richland,Ward 30,PRESIDENT,,DEM,Hillary Clinton,70
+Richland,Ward 31,PRESIDENT,,DEM,Hillary Clinton,195
+Richland,Ward 32,PRESIDENT,,DEM,Hillary Clinton,229
+Richland,Ward 33,PRESIDENT,,DEM,Hillary Clinton,143
+Richland,Ward 34,PRESIDENT,,DEM,Hillary Clinton,136
+Richland,Arcadia,PRESIDENT,,DEM,Hillary Clinton,147
+Richland,Ardincaple,PRESIDENT,,DEM,Hillary Clinton,106
+Richland,Ballentine 1,PRESIDENT,,DEM,Hillary Clinton,68
+Richland,Ballentine 2,PRESIDENT,,DEM,Hillary Clinton,58
+Richland,Beatty Road,PRESIDENT,,DEM,Hillary Clinton,103
+Richland,Bluff,PRESIDENT,,DEM,Hillary Clinton,557
+Richland,Blythewood 1,PRESIDENT,,DEM,Hillary Clinton,92
+Richland,Blythewood 2,PRESIDENT,,DEM,Hillary Clinton,212
+Richland,Blythewood 3,PRESIDENT,,DEM,Hillary Clinton,196
+Richland,Bookman,PRESIDENT,,DEM,Hillary Clinton,359
+Richland,Brandon 1,PRESIDENT,,DEM,Hillary Clinton,254
+Richland,Brandon 2,PRESIDENT,,DEM,Hillary Clinton,240
+Richland,Briarwood,PRESIDENT,,DEM,Hillary Clinton,373
+Richland,Bridge Creek,PRESIDENT,,DEM,Hillary Clinton,376
+Richland,Caughman Road,PRESIDENT,,DEM,Hillary Clinton,365
+Richland,College Place,PRESIDENT,,DEM,Hillary Clinton,363
+Richland,Cooper,PRESIDENT,,DEM,Hillary Clinton,103
+Richland,Dennyside,PRESIDENT,,DEM,Hillary Clinton,139
+Richland,Dentsville,PRESIDENT,,DEM,Hillary Clinton,479
+Richland,Dutch Fork 1,PRESIDENT,,DEM,Hillary Clinton,66
+Richland,Dutch Fork 2,PRESIDENT,,DEM,Hillary Clinton,103
+Richland,Dutch Fork 3,PRESIDENT,,DEM,Hillary Clinton,117
+Richland,Dutch Fork 4,PRESIDENT,,DEM,Hillary Clinton,137
+Richland,Eastover,PRESIDENT,,DEM,Hillary Clinton,397
+Richland,Edgewood,PRESIDENT,,DEM,Hillary Clinton,367
+Richland,Estates,PRESIDENT,,DEM,Hillary Clinton,258
+Richland,Fairlawn,PRESIDENT,,DEM,Hillary Clinton,543
+Richland,Fairwold,PRESIDENT,,DEM,Hillary Clinton,246
+Richland,East Forest Acres,PRESIDENT,,DEM,Hillary Clinton,65
+Richland,North Forest Acres,PRESIDENT,,DEM,Hillary Clinton,106
+Richland,South Forest Acres,PRESIDENT,,DEM,Hillary Clinton,108
+Richland,Friarsgate 1,PRESIDENT,,DEM,Hillary Clinton,167
+Richland,Friarsgate 2,PRESIDENT,,DEM,Hillary Clinton,135
+Richland,Old Friarsgate,PRESIDENT,,DEM,Hillary Clinton,152
+Richland,Gadsden,PRESIDENT,,DEM,Hillary Clinton,458
+Richland,Garners,PRESIDENT,,DEM,Hillary Clinton,161
+Richland,Greenview,PRESIDENT,,DEM,Hillary Clinton,500
+Richland,Gregg Park,PRESIDENT,,DEM,Hillary Clinton,135
+Richland,Hampton,PRESIDENT,,DEM,Hillary Clinton,132
+Richland,Harbison 1,PRESIDENT,,DEM,Hillary Clinton,236
+Richland,Harbison 2,PRESIDENT,,DEM,Hillary Clinton,170
+Richland,Hopkins 1,PRESIDENT,,DEM,Hillary Clinton,380
+Richland,Hopkins 2,PRESIDENT,,DEM,Hillary Clinton,447
+Richland,Horrell Hill,PRESIDENT,,DEM,Hillary Clinton,260
+Richland,Hunting Creek,PRESIDENT,,DEM,Hillary Clinton,64
+Richland,Keels 1,PRESIDENT,,DEM,Hillary Clinton,289
+Richland,Keels 2,PRESIDENT,,DEM,Hillary Clinton,206
+Richland,Keenan,PRESIDENT,,DEM,Hillary Clinton,269
+Richland,Kelly Mill,PRESIDENT,,DEM,Hillary Clinton,186
+Richland,Killian,PRESIDENT,,DEM,Hillary Clinton,242
+Richland,Kingswood,PRESIDENT,,DEM,Hillary Clinton,564
+Richland,Lake Carolina,PRESIDENT,,DEM,Hillary Clinton,262
+Richland,Lincolnshire,PRESIDENT,,DEM,Hillary Clinton,477
+Richland,Longcreek,PRESIDENT,,DEM,Hillary Clinton,383
+Richland,Longleaf,PRESIDENT,,DEM,Hillary Clinton,314
+Richland,Lykesland,PRESIDENT,,DEM,Hillary Clinton,344
+Richland,Mallet Hill,PRESIDENT,,DEM,Hillary Clinton,315
+Richland,Meadowfield,PRESIDENT,,DEM,Hillary Clinton,125
+Richland,Meadowlake,PRESIDENT,,DEM,Hillary Clinton,553
+Richland,McEntire,PRESIDENT,,DEM,Hillary Clinton,155
+Richland,Midway,PRESIDENT,,DEM,Hillary Clinton,393
+Richland,Mill Creek,PRESIDENT,,DEM,Hillary Clinton,175
+Richland,Monticello,PRESIDENT,,DEM,Hillary Clinton,266
+Richland,North Springs 1,PRESIDENT,,DEM,Hillary Clinton,178
+Richland,North Springs 2,PRESIDENT,,DEM,Hillary Clinton,362
+Richland,North Springs 3,PRESIDENT,,DEM,Hillary Clinton,387
+Richland,Oak Pointe 1,PRESIDENT,,DEM,Hillary Clinton,124
+Richland,Oak Pointe 2,PRESIDENT,,DEM,Hillary Clinton,40
+Richland,Oak Pointe 3,PRESIDENT,,DEM,Hillary Clinton,117
+Richland,Oakwood,PRESIDENT,,DEM,Hillary Clinton,100
+Richland,Olympia,PRESIDENT,,DEM,Hillary Clinton,177
+Richland,Parkridge 1,PRESIDENT,,DEM,Hillary Clinton,77
+Richland,Parkridge 2,PRESIDENT,,DEM,Hillary Clinton,58
+Richland,Parkway 1,PRESIDENT,,DEM,Hillary Clinton,414
+Richland,Parkway 2,PRESIDENT,,DEM,Hillary Clinton,385
+Richland,Parkway 3,PRESIDENT,,DEM,Hillary Clinton,427
+Richland,Pennington 1,PRESIDENT,,DEM,Hillary Clinton,36
+Richland,Pennington 2,PRESIDENT,,DEM,Hillary Clinton,145
+Richland,Pine Grove,PRESIDENT,,DEM,Hillary Clinton,305
+Richland,Pine Lakes 1,PRESIDENT,,DEM,Hillary Clinton,218
+Richland,Pine Lakes 2,PRESIDENT,,DEM,Hillary Clinton,311
+Richland,Pinewood,PRESIDENT,,DEM,Hillary Clinton,345
+Richland,Polo Road,PRESIDENT,,DEM,Hillary Clinton,324
+Richland,Pontiac 1,PRESIDENT,,DEM,Hillary Clinton,214
+Richland,Pontiac 2,PRESIDENT,,DEM,Hillary Clinton,91
+Richland,Rice Creek 1,PRESIDENT,,DEM,Hillary Clinton,337
+Richland,Rice Creek 2,PRESIDENT,,DEM,Hillary Clinton,474
+Richland,Ridge View 1,PRESIDENT,,DEM,Hillary Clinton,221
+Richland,Ridge View 2,PRESIDENT,,DEM,Hillary Clinton,403
+Richland,Ridgewood,PRESIDENT,,DEM,Hillary Clinton,158
+Richland,Riverside,PRESIDENT,,DEM,Hillary Clinton,100
+Richland,Riversprings 1,PRESIDENT,,DEM,Hillary Clinton,54
+Richland,Riversprings 2,PRESIDENT,,DEM,Hillary Clinton,151
+Richland,Riversprings 3,PRESIDENT,,DEM,Hillary Clinton,116
+Richland,Riverwalk,PRESIDENT,,DEM,Hillary Clinton,367
+Richland,Round Top,PRESIDENT,,DEM,Hillary Clinton,116
+Richland,St. Andrews,PRESIDENT,,DEM,Hillary Clinton,177
+Richland,Sandlapper,PRESIDENT,,DEM,Hillary Clinton,416
+Richland,Satchelford,PRESIDENT,,DEM,Hillary Clinton,96
+Richland,Skyland,PRESIDENT,,DEM,Hillary Clinton,73
+Richland,South Beltline,PRESIDENT,,DEM,Hillary Clinton,125
+Richland,Spring Hill,PRESIDENT,,DEM,Hillary Clinton,37
+Richland,Spring Valley,PRESIDENT,,DEM,Hillary Clinton,310
+Richland,Spring Valley West,PRESIDENT,,DEM,Hillary Clinton,451
+Richland,Springville 1,PRESIDENT,,DEM,Hillary Clinton,52
+Richland,Springville 2,PRESIDENT,,DEM,Hillary Clinton,46
+Richland,Trenholm Road,PRESIDENT,,DEM,Hillary Clinton,70
+Richland,Trinity,PRESIDENT,,DEM,Hillary Clinton,153
+Richland,Valhalla,PRESIDENT,,DEM,Hillary Clinton,211
+Richland,Valley State Park,PRESIDENT,,DEM,Hillary Clinton,453
+Richland,Walden,PRESIDENT,,DEM,Hillary Clinton,123
+Richland,Webber,PRESIDENT,,DEM,Hillary Clinton,209
+Richland,Westminster,PRESIDENT,,DEM,Hillary Clinton,174
+Richland,Whitewell,PRESIDENT,,DEM,Hillary Clinton,181
+Richland,Wildewood,PRESIDENT,,DEM,Hillary Clinton,262
+Richland,Woodfield,PRESIDENT,,DEM,Hillary Clinton,367
+Richland,Woodlands,PRESIDENT,,DEM,Hillary Clinton,152
+Richland,Absentee,PRESIDENT,,DEM,Hillary Clinton,6315
+Richland,Emergency,PRESIDENT,,DEM,Hillary Clinton,1
+Richland,Failsafe,PRESIDENT,,DEM,Hillary Clinton,103
+Richland,Provisional,PRESIDENT,,DEM,Hillary Clinton,60
+Richland,Failsafe Provisional,PRESIDENT,,DEM,Hillary Clinton,0
+Richland,Ward 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 2,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 3,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 4,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 5,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 6,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 7,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 8,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 9,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 10,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 11,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 12,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 13,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 14,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Ward 15,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 16,PRESIDENT,,DEM,Martin O'Malley,2
+Richland,Ward 17,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 18,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 19,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 20,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Ward 21,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 22,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 23,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Ward 24,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 25,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 26,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 29,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 30,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 31,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Ward 32,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Ward 33,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 34,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Arcadia,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ardincaple,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ballentine 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ballentine 2,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Beatty Road,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Bluff,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Blythewood 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Blythewood 2,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Blythewood 3,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Bookman,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Brandon 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Brandon 2,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Briarwood,PRESIDENT,,DEM,Martin O'Malley,2
+Richland,Bridge Creek,PRESIDENT,,DEM,Martin O'Malley,2
+Richland,Caughman Road,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,College Place,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Cooper,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Dennyside,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Dentsville,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Dutch Fork 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Dutch Fork 2,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Dutch Fork 3,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Dutch Fork 4,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Eastover,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Edgewood,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Estates,PRESIDENT,,DEM,Martin O'Malley,2
+Richland,Fairlawn,PRESIDENT,,DEM,Martin O'Malley,2
+Richland,Fairwold,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,East Forest Acres,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,North Forest Acres,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,South Forest Acres,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Friarsgate 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Friarsgate 2,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Old Friarsgate,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Gadsden,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Garners,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Greenview,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Gregg Park,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Hampton,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Harbison 1,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Harbison 2,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Hopkins 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Hopkins 2,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Horrell Hill,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Hunting Creek,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Keels 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Keels 2,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Keenan,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Kelly Mill,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Killian,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Kingswood,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Lake Carolina,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Lincolnshire,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Longcreek,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Longleaf,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Lykesland,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Mallet Hill,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Meadowfield,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Meadowlake,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,McEntire,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Midway,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Mill Creek,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Monticello,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,North Springs 1,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,North Springs 2,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,North Springs 3,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Oak Pointe 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Oak Pointe 2,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Oak Pointe 3,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Oakwood,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Olympia,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Parkridge 1,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Parkridge 2,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Parkway 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Parkway 2,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Parkway 3,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Pennington 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Pennington 2,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Pine Grove,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Pine Lakes 1,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Pine Lakes 2,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Pinewood,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Polo Road,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Pontiac 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Pontiac 2,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Rice Creek 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Rice Creek 2,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Ridge View 1,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Ridge View 2,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Ridgewood,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Riverside,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Riversprings 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Riversprings 2,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Riversprings 3,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Riverwalk,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Round Top,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,St. Andrews,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Sandlapper,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Satchelford,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Skyland,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,South Beltline,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Spring Hill,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Spring Valley,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Spring Valley West,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Springville 1,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Springville 2,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Trenholm Road,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Trinity,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Valhalla,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Valley State Park,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Walden,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Webber,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Westminster,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Whitewell,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Wildewood,PRESIDENT,,DEM,Martin O'Malley,1
+Richland,Woodfield,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Woodlands,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Absentee,PRESIDENT,,DEM,Martin O'Malley,12
+Richland,Emergency,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Failsafe,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Provisional,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Failsafe Provisional,PRESIDENT,,DEM,Martin O'Malley,0
+Richland,Ward 1,PRESIDENT,,DEM,Bernie Sanders,114
+Richland,Ward 2,PRESIDENT,,DEM,Bernie Sanders,53
+Richland,Ward 3,PRESIDENT,,DEM,Bernie Sanders,140
+Richland,Ward 4,PRESIDENT,,DEM,Bernie Sanders,154
+Richland,Ward 5,PRESIDENT,,DEM,Bernie Sanders,77
+Richland,Ward 6,PRESIDENT,,DEM,Bernie Sanders,112
+Richland,Ward 7,PRESIDENT,,DEM,Bernie Sanders,35
+Richland,Ward 8,PRESIDENT,,DEM,Bernie Sanders,46
+Richland,Ward 9,PRESIDENT,,DEM,Bernie Sanders,43
+Richland,Ward 10,PRESIDENT,,DEM,Bernie Sanders,146
+Richland,Ward 11,PRESIDENT,,DEM,Bernie Sanders,120
+Richland,Ward 12,PRESIDENT,,DEM,Bernie Sanders,136
+Richland,Ward 13,PRESIDENT,,DEM,Bernie Sanders,248
+Richland,Ward 14,PRESIDENT,,DEM,Bernie Sanders,162
+Richland,Ward 15,PRESIDENT,,DEM,Bernie Sanders,79
+Richland,Ward 16,PRESIDENT,,DEM,Bernie Sanders,48
+Richland,Ward 17,PRESIDENT,,DEM,Bernie Sanders,114
+Richland,Ward 18,PRESIDENT,,DEM,Bernie Sanders,57
+Richland,Ward 19,PRESIDENT,,DEM,Bernie Sanders,34
+Richland,Ward 20,PRESIDENT,,DEM,Bernie Sanders,176
+Richland,Ward 21,PRESIDENT,,DEM,Bernie Sanders,66
+Richland,Ward 22,PRESIDENT,,DEM,Bernie Sanders,42
+Richland,Ward 23,PRESIDENT,,DEM,Bernie Sanders,94
+Richland,Ward 24,PRESIDENT,,DEM,Bernie Sanders,41
+Richland,Ward 25,PRESIDENT,,DEM,Bernie Sanders,66
+Richland,Ward 26,PRESIDENT,,DEM,Bernie Sanders,88
+Richland,Ward 29,PRESIDENT,,DEM,Bernie Sanders,66
+Richland,Ward 30,PRESIDENT,,DEM,Bernie Sanders,54
+Richland,Ward 31,PRESIDENT,,DEM,Bernie Sanders,27
+Richland,Ward 32,PRESIDENT,,DEM,Bernie Sanders,39
+Richland,Ward 33,PRESIDENT,,DEM,Bernie Sanders,79
+Richland,Ward 34,PRESIDENT,,DEM,Bernie Sanders,84
+Richland,Arcadia,PRESIDENT,,DEM,Bernie Sanders,74
+Richland,Ardincaple,PRESIDENT,,DEM,Bernie Sanders,17
+Richland,Ballentine 1,PRESIDENT,,DEM,Bernie Sanders,53
+Richland,Ballentine 2,PRESIDENT,,DEM,Bernie Sanders,50
+Richland,Beatty Road,PRESIDENT,,DEM,Bernie Sanders,35
+Richland,Bluff,PRESIDENT,,DEM,Bernie Sanders,74
+Richland,Blythewood 1,PRESIDENT,,DEM,Bernie Sanders,40
+Richland,Blythewood 2,PRESIDENT,,DEM,Bernie Sanders,90
+Richland,Blythewood 3,PRESIDENT,,DEM,Bernie Sanders,65
+Richland,Bookman,PRESIDENT,,DEM,Bernie Sanders,111
+Richland,Brandon 1,PRESIDENT,,DEM,Bernie Sanders,93
+Richland,Brandon 2,PRESIDENT,,DEM,Bernie Sanders,79
+Richland,Briarwood,PRESIDENT,,DEM,Bernie Sanders,140
+Richland,Bridge Creek,PRESIDENT,,DEM,Bernie Sanders,101
+Richland,Caughman Road,PRESIDENT,,DEM,Bernie Sanders,73
+Richland,College Place,PRESIDENT,,DEM,Bernie Sanders,34
+Richland,Cooper,PRESIDENT,,DEM,Bernie Sanders,43
+Richland,Dennyside,PRESIDENT,,DEM,Bernie Sanders,40
+Richland,Dentsville,PRESIDENT,,DEM,Bernie Sanders,76
+Richland,Dutch Fork 1,PRESIDENT,,DEM,Bernie Sanders,37
+Richland,Dutch Fork 2,PRESIDENT,,DEM,Bernie Sanders,43
+Richland,Dutch Fork 3,PRESIDENT,,DEM,Bernie Sanders,55
+Richland,Dutch Fork 4,PRESIDENT,,DEM,Bernie Sanders,71
+Richland,Eastover,PRESIDENT,,DEM,Bernie Sanders,41
+Richland,Edgewood,PRESIDENT,,DEM,Bernie Sanders,41
+Richland,Estates,PRESIDENT,,DEM,Bernie Sanders,78
+Richland,Fairlawn,PRESIDENT,,DEM,Bernie Sanders,109
+Richland,Fairwold,PRESIDENT,,DEM,Bernie Sanders,27
+Richland,East Forest Acres,PRESIDENT,,DEM,Bernie Sanders,53
+Richland,North Forest Acres,PRESIDENT,,DEM,Bernie Sanders,78
+Richland,South Forest Acres,PRESIDENT,,DEM,Bernie Sanders,92
+Richland,Friarsgate 1,PRESIDENT,,DEM,Bernie Sanders,73
+Richland,Friarsgate 2,PRESIDENT,,DEM,Bernie Sanders,59
+Richland,Old Friarsgate,PRESIDENT,,DEM,Bernie Sanders,49
+Richland,Gadsden,PRESIDENT,,DEM,Bernie Sanders,42
+Richland,Garners,PRESIDENT,,DEM,Bernie Sanders,29
+Richland,Greenview,PRESIDENT,,DEM,Bernie Sanders,58
+Richland,Gregg Park,PRESIDENT,,DEM,Bernie Sanders,81
+Richland,Hampton,PRESIDENT,,DEM,Bernie Sanders,141
+Richland,Harbison 1,PRESIDENT,,DEM,Bernie Sanders,96
+Richland,Harbison 2,PRESIDENT,,DEM,Bernie Sanders,73
+Richland,Hopkins 1,PRESIDENT,,DEM,Bernie Sanders,52
+Richland,Hopkins 2,PRESIDENT,,DEM,Bernie Sanders,56
+Richland,Horrell Hill,PRESIDENT,,DEM,Bernie Sanders,78
+Richland,Hunting Creek,PRESIDENT,,DEM,Bernie Sanders,21
+Richland,Keels 1,PRESIDENT,,DEM,Bernie Sanders,71
+Richland,Keels 2,PRESIDENT,,DEM,Bernie Sanders,53
+Richland,Keenan,PRESIDENT,,DEM,Bernie Sanders,112
+Richland,Kelly Mill,PRESIDENT,,DEM,Bernie Sanders,49
+Richland,Killian,PRESIDENT,,DEM,Bernie Sanders,88
+Richland,Kingswood,PRESIDENT,,DEM,Bernie Sanders,102
+Richland,Lake Carolina,PRESIDENT,,DEM,Bernie Sanders,104
+Richland,Lincolnshire,PRESIDENT,,DEM,Bernie Sanders,63
+Richland,Longcreek,PRESIDENT,,DEM,Bernie Sanders,156
+Richland,Longleaf,PRESIDENT,,DEM,Bernie Sanders,90
+Richland,Lykesland,PRESIDENT,,DEM,Bernie Sanders,90
+Richland,Mallet Hill,PRESIDENT,,DEM,Bernie Sanders,125
+Richland,Meadowfield,PRESIDENT,,DEM,Bernie Sanders,76
+Richland,Meadowlake,PRESIDENT,,DEM,Bernie Sanders,66
+Richland,McEntire,PRESIDENT,,DEM,Bernie Sanders,28
+Richland,Midway,PRESIDENT,,DEM,Bernie Sanders,111
+Richland,Mill Creek,PRESIDENT,,DEM,Bernie Sanders,57
+Richland,Monticello,PRESIDENT,,DEM,Bernie Sanders,49
+Richland,North Springs 1,PRESIDENT,,DEM,Bernie Sanders,56
+Richland,North Springs 2,PRESIDENT,,DEM,Bernie Sanders,98
+Richland,North Springs 3,PRESIDENT,,DEM,Bernie Sanders,100
+Richland,Oak Pointe 1,PRESIDENT,,DEM,Bernie Sanders,64
+Richland,Oak Pointe 2,PRESIDENT,,DEM,Bernie Sanders,28
+Richland,Oak Pointe 3,PRESIDENT,,DEM,Bernie Sanders,60
+Richland,Oakwood,PRESIDENT,,DEM,Bernie Sanders,57
+Richland,Olympia,PRESIDENT,,DEM,Bernie Sanders,103
+Richland,Parkridge 1,PRESIDENT,,DEM,Bernie Sanders,43
+Richland,Parkridge 2,PRESIDENT,,DEM,Bernie Sanders,25
+Richland,Parkway 1,PRESIDENT,,DEM,Bernie Sanders,119
+Richland,Parkway 2,PRESIDENT,,DEM,Bernie Sanders,100
+Richland,Parkway 3,PRESIDENT,,DEM,Bernie Sanders,81
+Richland,Pennington 1,PRESIDENT,,DEM,Bernie Sanders,15
+Richland,Pennington 2,PRESIDENT,,DEM,Bernie Sanders,85
+Richland,Pine Grove,PRESIDENT,,DEM,Bernie Sanders,69
+Richland,Pine Lakes 1,PRESIDENT,,DEM,Bernie Sanders,46
+Richland,Pine Lakes 2,PRESIDENT,,DEM,Bernie Sanders,74
+Richland,Pinewood,PRESIDENT,,DEM,Bernie Sanders,66
+Richland,Polo Road,PRESIDENT,,DEM,Bernie Sanders,112
+Richland,Pontiac 1,PRESIDENT,,DEM,Bernie Sanders,88
+Richland,Pontiac 2,PRESIDENT,,DEM,Bernie Sanders,24
+Richland,Rice Creek 1,PRESIDENT,,DEM,Bernie Sanders,67
+Richland,Rice Creek 2,PRESIDENT,,DEM,Bernie Sanders,122
+Richland,Ridge View 1,PRESIDENT,,DEM,Bernie Sanders,79
+Richland,Ridge View 2,PRESIDENT,,DEM,Bernie Sanders,123
+Richland,Ridgewood,PRESIDENT,,DEM,Bernie Sanders,23
+Richland,Riverside,PRESIDENT,,DEM,Bernie Sanders,68
+Richland,Riversprings 1,PRESIDENT,,DEM,Bernie Sanders,43
+Richland,Riversprings 2,PRESIDENT,,DEM,Bernie Sanders,47
+Richland,Riversprings 3,PRESIDENT,,DEM,Bernie Sanders,41
+Richland,Riverwalk,PRESIDENT,,DEM,Bernie Sanders,148
+Richland,Round Top,PRESIDENT,,DEM,Bernie Sanders,30
+Richland,St. Andrews,PRESIDENT,,DEM,Bernie Sanders,50
+Richland,Sandlapper,PRESIDENT,,DEM,Bernie Sanders,113
+Richland,Satchelford,PRESIDENT,,DEM,Bernie Sanders,69
+Richland,Skyland,PRESIDENT,,DEM,Bernie Sanders,76
+Richland,South Beltline,PRESIDENT,,DEM,Bernie Sanders,62
+Richland,Spring Hill,PRESIDENT,,DEM,Bernie Sanders,31
+Richland,Spring Valley,PRESIDENT,,DEM,Bernie Sanders,126
+Richland,Spring Valley West,PRESIDENT,,DEM,Bernie Sanders,125
+Richland,Springville 1,PRESIDENT,,DEM,Bernie Sanders,41
+Richland,Springville 2,PRESIDENT,,DEM,Bernie Sanders,17
+Richland,Trenholm Road,PRESIDENT,,DEM,Bernie Sanders,58
+Richland,Trinity,PRESIDENT,,DEM,Bernie Sanders,50
+Richland,Valhalla,PRESIDENT,,DEM,Bernie Sanders,97
+Richland,Valley State Park,PRESIDENT,,DEM,Bernie Sanders,132
+Richland,Walden,PRESIDENT,,DEM,Bernie Sanders,47
+Richland,Webber,PRESIDENT,,DEM,Bernie Sanders,30
+Richland,Westminster,PRESIDENT,,DEM,Bernie Sanders,91
+Richland,Whitewell,PRESIDENT,,DEM,Bernie Sanders,75
+Richland,Wildewood,PRESIDENT,,DEM,Bernie Sanders,96
+Richland,Woodfield,PRESIDENT,,DEM,Bernie Sanders,100
+Richland,Woodlands,PRESIDENT,,DEM,Bernie Sanders,92
+Richland,Absentee,PRESIDENT,,DEM,Bernie Sanders,1149
+Richland,Emergency,PRESIDENT,,DEM,Bernie Sanders,0
+Richland,Failsafe,PRESIDENT,,DEM,Bernie Sanders,38
+Richland,Provisional,PRESIDENT,,DEM,Bernie Sanders,34
+Richland,Failsafe Provisional,PRESIDENT,,DEM,Bernie Sanders,0
+Richland,Ward 1,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 2,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 3,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Ward 4,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Ward 5,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 6,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 7,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Ward 8,PRESIDENT,,DEM,Willie Wilson,3
+Richland,Ward 9,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Ward 10,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 11,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Ward 12,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 13,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 14,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 15,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Ward 16,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 17,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 18,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 19,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Ward 20,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Ward 21,PRESIDENT,,DEM,Willie Wilson,3
+Richland,Ward 22,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Ward 23,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 24,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Ward 25,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 26,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Ward 29,PRESIDENT,,DEM,Willie Wilson,3
+Richland,Ward 30,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ward 31,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Ward 32,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Ward 33,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Ward 34,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Arcadia,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ardincaple,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ballentine 1,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ballentine 2,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Beatty Road,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Bluff,PRESIDENT,,DEM,Willie Wilson,3
+Richland,Blythewood 1,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Blythewood 2,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Blythewood 3,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Bookman,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Brandon 1,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Brandon 2,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Briarwood,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Bridge Creek,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Caughman Road,PRESIDENT,,DEM,Willie Wilson,1
+Richland,College Place,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Cooper,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Dennyside,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Dentsville,PRESIDENT,,DEM,Willie Wilson,4
+Richland,Dutch Fork 1,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Dutch Fork 2,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Dutch Fork 3,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Dutch Fork 4,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Eastover,PRESIDENT,,DEM,Willie Wilson,3
+Richland,Edgewood,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Estates,PRESIDENT,,DEM,Willie Wilson,5
+Richland,Fairlawn,PRESIDENT,,DEM,Willie Wilson,5
+Richland,Fairwold,PRESIDENT,,DEM,Willie Wilson,1
+Richland,East Forest Acres,PRESIDENT,,DEM,Willie Wilson,0
+Richland,North Forest Acres,PRESIDENT,,DEM,Willie Wilson,1
+Richland,South Forest Acres,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Friarsgate 1,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Friarsgate 2,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Old Friarsgate,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Gadsden,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Garners,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Greenview,PRESIDENT,,DEM,Willie Wilson,5
+Richland,Gregg Park,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Hampton,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Harbison 1,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Harbison 2,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Hopkins 1,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Hopkins 2,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Horrell Hill,PRESIDENT,,DEM,Willie Wilson,3
+Richland,Hunting Creek,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Keels 1,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Keels 2,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Keenan,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Kelly Mill,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Killian,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Kingswood,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Lake Carolina,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Lincolnshire,PRESIDENT,,DEM,Willie Wilson,3
+Richland,Longcreek,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Longleaf,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Lykesland,PRESIDENT,,DEM,Willie Wilson,3
+Richland,Mallet Hill,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Meadowfield,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Meadowlake,PRESIDENT,,DEM,Willie Wilson,1
+Richland,McEntire,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Midway,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Mill Creek,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Monticello,PRESIDENT,,DEM,Willie Wilson,4
+Richland,North Springs 1,PRESIDENT,,DEM,Willie Wilson,1
+Richland,North Springs 2,PRESIDENT,,DEM,Willie Wilson,1
+Richland,North Springs 3,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Oak Pointe 1,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Oak Pointe 2,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Oak Pointe 3,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Oakwood,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Olympia,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Parkridge 1,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Parkridge 2,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Parkway 1,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Parkway 2,PRESIDENT,,DEM,Willie Wilson,3
+Richland,Parkway 3,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Pennington 1,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Pennington 2,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Pine Grove,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Pine Lakes 1,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Pine Lakes 2,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Pinewood,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Polo Road,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Pontiac 1,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Pontiac 2,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Rice Creek 1,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Rice Creek 2,PRESIDENT,,DEM,Willie Wilson,3
+Richland,Ridge View 1,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Ridge View 2,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Ridgewood,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Riverside,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Riversprings 1,PRESIDENT,,DEM,Willie Wilson,3
+Richland,Riversprings 2,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Riversprings 3,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Riverwalk,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Round Top,PRESIDENT,,DEM,Willie Wilson,0
+Richland,St. Andrews,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Sandlapper,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Satchelford,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Skyland,PRESIDENT,,DEM,Willie Wilson,0
+Richland,South Beltline,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Spring Hill,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Spring Valley,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Spring Valley West,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Springville 1,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Springville 2,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Trenholm Road,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Trinity,PRESIDENT,,DEM,Willie Wilson,2
+Richland,Valhalla,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Valley State Park,PRESIDENT,,DEM,Willie Wilson,3
+Richland,Walden,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Webber,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Westminster,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Whitewell,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Wildewood,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Woodfield,PRESIDENT,,DEM,Willie Wilson,1
+Richland,Woodlands,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Absentee,PRESIDENT,,DEM,Willie Wilson,33
+Richland,Emergency,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Failsafe,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Provisional,PRESIDENT,,DEM,Willie Wilson,0
+Richland,Failsafe Provisional,PRESIDENT,,DEM,Willie Wilson,0

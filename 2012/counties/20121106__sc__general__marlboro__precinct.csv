@@ -1,0 +1,965 @@
+county,precinct,office,district,party,candidate,votes
+Marlboro,Adamsville,Straight Party 2,,REP,Republican,28
+Marlboro,Blenheim,Straight Party 2,,REP,Republican,15
+Marlboro,Brightsville,Straight Party 2,,REP,Republican,46
+Marlboro,Brownsville,Straight Party 2,,REP,Republican,25
+Marlboro,Red Hill,Straight Party 2,,REP,Republican,54
+Marlboro,Tatum,Straight Party 2,,REP,Republican,21
+Marlboro,Wallace,Straight Party 2,,REP,Republican,89
+Marlboro,Quicks  X  Roads,Straight Party 2,,REP,Republican,30
+Marlboro,Clio,Straight Party 2,,REP,Republican,37
+Marlboro,McColl,Straight Party 2,,REP,Republican,41
+Marlboro,East McColl,Straight Party 2,,REP,Republican,61
+Marlboro,E Bennettsville,Straight Party 2,,REP,Republican,42
+Marlboro,W Bennettsville,Straight Party 2,,REP,Republican,40
+Marlboro,S Bennettsville,Straight Party 2,,REP,Republican,15
+Marlboro,N Bennettsville,Straight Party 2,,REP,Republican,72
+Marlboro,Absentee,Straight Party 2,,REP,Republican,188
+Marlboro,Emergency,Straight Party 2,,REP,Republican,1
+Marlboro,Failsafe,Straight Party 2,,REP,Republican,7
+Marlboro,Provisional,Straight Party 2,,REP,Republican,0
+Marlboro,Failsafe Provisional,Straight Party 2,,REP,Republican,0
+Marlboro,Adamsville,Straight Party 2,,LIB,Libertarian,0
+Marlboro,Blenheim,Straight Party 2,,LIB,Libertarian,0
+Marlboro,Brightsville,Straight Party 2,,LIB,Libertarian,0
+Marlboro,Brownsville,Straight Party 2,,LIB,Libertarian,0
+Marlboro,Red Hill,Straight Party 2,,LIB,Libertarian,1
+Marlboro,Tatum,Straight Party 2,,LIB,Libertarian,0
+Marlboro,Wallace,Straight Party 2,,LIB,Libertarian,2
+Marlboro,Quicks  X  Roads,Straight Party 2,,LIB,Libertarian,0
+Marlboro,Clio,Straight Party 2,,LIB,Libertarian,0
+Marlboro,McColl,Straight Party 2,,LIB,Libertarian,2
+Marlboro,East McColl,Straight Party 2,,LIB,Libertarian,2
+Marlboro,E Bennettsville,Straight Party 2,,LIB,Libertarian,0
+Marlboro,W Bennettsville,Straight Party 2,,LIB,Libertarian,4
+Marlboro,S Bennettsville,Straight Party 2,,LIB,Libertarian,0
+Marlboro,N Bennettsville,Straight Party 2,,LIB,Libertarian,3
+Marlboro,Absentee,Straight Party 2,,LIB,Libertarian,5
+Marlboro,Emergency,Straight Party 2,,LIB,Libertarian,0
+Marlboro,Failsafe,Straight Party 2,,LIB,Libertarian,0
+Marlboro,Provisional,Straight Party 2,,LIB,Libertarian,0
+Marlboro,Failsafe Provisional,Straight Party 2,,LIB,Libertarian,0
+Marlboro,Adamsville,Straight Party 2,,DEM,Democratic,56
+Marlboro,Blenheim,Straight Party 2,,DEM,Democratic,29
+Marlboro,Brightsville,Straight Party 2,,DEM,Democratic,105
+Marlboro,Brownsville,Straight Party 2,,DEM,Democratic,30
+Marlboro,Red Hill,Straight Party 2,,DEM,Democratic,128
+Marlboro,Tatum,Straight Party 2,,DEM,Democratic,30
+Marlboro,Wallace,Straight Party 2,,DEM,Democratic,176
+Marlboro,Quicks  X  Roads,Straight Party 2,,DEM,Democratic,104
+Marlboro,Clio,Straight Party 2,,DEM,Democratic,279
+Marlboro,McColl,Straight Party 2,,DEM,Democratic,118
+Marlboro,East McColl,Straight Party 2,,DEM,Democratic,42
+Marlboro,E Bennettsville,Straight Party 2,,DEM,Democratic,225
+Marlboro,W Bennettsville,Straight Party 2,,DEM,Democratic,237
+Marlboro,S Bennettsville,Straight Party 2,,DEM,Democratic,202
+Marlboro,N Bennettsville,Straight Party 2,,DEM,Democratic,192
+Marlboro,Absentee,Straight Party 2,,DEM,Democratic,1545
+Marlboro,Emergency,Straight Party 2,,DEM,Democratic,1
+Marlboro,Failsafe,Straight Party 2,,DEM,Democratic,52
+Marlboro,Provisional,Straight Party 2,,DEM,Democratic,0
+Marlboro,Failsafe Provisional,Straight Party 2,,DEM,Democratic,0
+Marlboro,Adamsville,Straight Party 2,,WFM,Working Families,2
+Marlboro,Blenheim,Straight Party 2,,WFM,Working Families,2
+Marlboro,Brightsville,Straight Party 2,,WFM,Working Families,1
+Marlboro,Brownsville,Straight Party 2,,WFM,Working Families,1
+Marlboro,Red Hill,Straight Party 2,,WFM,Working Families,3
+Marlboro,Tatum,Straight Party 2,,WFM,Working Families,5
+Marlboro,Wallace,Straight Party 2,,WFM,Working Families,9
+Marlboro,Quicks  X  Roads,Straight Party 2,,WFM,Working Families,3
+Marlboro,Clio,Straight Party 2,,WFM,Working Families,2
+Marlboro,McColl,Straight Party 2,,WFM,Working Families,5
+Marlboro,East McColl,Straight Party 2,,WFM,Working Families,6
+Marlboro,E Bennettsville,Straight Party 2,,WFM,Working Families,9
+Marlboro,W Bennettsville,Straight Party 2,,WFM,Working Families,5
+Marlboro,S Bennettsville,Straight Party 2,,WFM,Working Families,3
+Marlboro,N Bennettsville,Straight Party 2,,WFM,Working Families,7
+Marlboro,Absentee,Straight Party 2,,WFM,Working Families,14
+Marlboro,Emergency,Straight Party 2,,WFM,Working Families,0
+Marlboro,Failsafe,Straight Party 2,,WFM,Working Families,0
+Marlboro,Provisional,Straight Party 2,,WFM,Working Families,0
+Marlboro,Failsafe Provisional,Straight Party 2,,WFM,Working Families,0
+Marlboro,Adamsville,Straight Party 2,,CON,Constitution,1
+Marlboro,Blenheim,Straight Party 2,,CON,Constitution,0
+Marlboro,Brightsville,Straight Party 2,,CON,Constitution,1
+Marlboro,Brownsville,Straight Party 2,,CON,Constitution,1
+Marlboro,Red Hill,Straight Party 2,,CON,Constitution,0
+Marlboro,Tatum,Straight Party 2,,CON,Constitution,0
+Marlboro,Wallace,Straight Party 2,,CON,Constitution,0
+Marlboro,Quicks  X  Roads,Straight Party 2,,CON,Constitution,1
+Marlboro,Clio,Straight Party 2,,CON,Constitution,1
+Marlboro,McColl,Straight Party 2,,CON,Constitution,1
+Marlboro,East McColl,Straight Party 2,,CON,Constitution,0
+Marlboro,E Bennettsville,Straight Party 2,,CON,Constitution,0
+Marlboro,W Bennettsville,Straight Party 2,,CON,Constitution,1
+Marlboro,S Bennettsville,Straight Party 2,,CON,Constitution,1
+Marlboro,N Bennettsville,Straight Party 2,,CON,Constitution,0
+Marlboro,Absentee,Straight Party 2,,CON,Constitution,5
+Marlboro,Emergency,Straight Party 2,,CON,Constitution,1
+Marlboro,Failsafe,Straight Party 2,,CON,Constitution,0
+Marlboro,Provisional,Straight Party 2,,CON,Constitution,0
+Marlboro,Failsafe Provisional,Straight Party 2,,CON,Constitution,0
+Marlboro,Adamsville,Straight Party 2,,GRN,Green,1
+Marlboro,Blenheim,Straight Party 2,,GRN,Green,0
+Marlboro,Brightsville,Straight Party 2,,GRN,Green,1
+Marlboro,Brownsville,Straight Party 2,,GRN,Green,0
+Marlboro,Red Hill,Straight Party 2,,GRN,Green,2
+Marlboro,Tatum,Straight Party 2,,GRN,Green,0
+Marlboro,Wallace,Straight Party 2,,GRN,Green,0
+Marlboro,Quicks  X  Roads,Straight Party 2,,GRN,Green,1
+Marlboro,Clio,Straight Party 2,,GRN,Green,1
+Marlboro,McColl,Straight Party 2,,GRN,Green,1
+Marlboro,East McColl,Straight Party 2,,GRN,Green,1
+Marlboro,E Bennettsville,Straight Party 2,,GRN,Green,1
+Marlboro,W Bennettsville,Straight Party 2,,GRN,Green,0
+Marlboro,S Bennettsville,Straight Party 2,,GRN,Green,2
+Marlboro,N Bennettsville,Straight Party 2,,GRN,Green,0
+Marlboro,Absentee,Straight Party 2,,GRN,Green,4
+Marlboro,Emergency,Straight Party 2,,GRN,Green,0
+Marlboro,Failsafe,Straight Party 2,,GRN,Green,0
+Marlboro,Provisional,Straight Party 2,,GRN,Green,0
+Marlboro,Failsafe Provisional,Straight Party 2,,GRN,Green,0
+Marlboro,Adamsville,President and Vice President,,REP,Mitt Romney / Paul Ryan,90
+Marlboro,Blenheim,President and Vice President,,REP,Mitt Romney / Paul Ryan,100
+Marlboro,Brightsville,President and Vice President,,REP,Mitt Romney / Paul Ryan,147
+Marlboro,Brownsville,President and Vice President,,REP,Mitt Romney / Paul Ryan,110
+Marlboro,Red Hill,President and Vice President,,REP,Mitt Romney / Paul Ryan,236
+Marlboro,Tatum,President and Vice President,,REP,Mitt Romney / Paul Ryan,91
+Marlboro,Wallace,President and Vice President,,REP,Mitt Romney / Paul Ryan,330
+Marlboro,Quicks  X  Roads,President and Vice President,,REP,Mitt Romney / Paul Ryan,144
+Marlboro,Clio,President and Vice President,,REP,Mitt Romney / Paul Ryan,205
+Marlboro,McColl,President and Vice President,,REP,Mitt Romney / Paul Ryan,213
+Marlboro,East McColl,President and Vice President,,REP,Mitt Romney / Paul Ryan,268
+Marlboro,E Bennettsville,President and Vice President,,REP,Mitt Romney / Paul Ryan,165
+Marlboro,W Bennettsville,President and Vice President,,REP,Mitt Romney / Paul Ryan,146
+Marlboro,S Bennettsville,President and Vice President,,REP,Mitt Romney / Paul Ryan,34
+Marlboro,N Bennettsville,President and Vice President,,REP,Mitt Romney / Paul Ryan,411
+Marlboro,Absentee,President and Vice President,,REP,Mitt Romney / Paul Ryan,961
+Marlboro,Emergency,President and Vice President,,REP,Mitt Romney / Paul Ryan,2
+Marlboro,Failsafe,President and Vice President,,REP,Mitt Romney / Paul Ryan,23
+Marlboro,Provisional,President and Vice President,,REP,Mitt Romney / Paul Ryan,0
+Marlboro,Failsafe Provisional,President and Vice President,,REP,Mitt Romney / Paul Ryan,0
+Marlboro,Adamsville,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Marlboro,Blenheim,President and Vice President,,LIB,Gary Johnson / James P Gray,3
+Marlboro,Brightsville,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marlboro,Brownsville,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Marlboro,Red Hill,President and Vice President,,LIB,Gary Johnson / James P Gray,5
+Marlboro,Tatum,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Marlboro,Wallace,President and Vice President,,LIB,Gary Johnson / James P Gray,9
+Marlboro,Quicks  X  Roads,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Marlboro,Clio,President and Vice President,,LIB,Gary Johnson / James P Gray,2
+Marlboro,McColl,President and Vice President,,LIB,Gary Johnson / James P Gray,4
+Marlboro,East McColl,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marlboro,E Bennettsville,President and Vice President,,LIB,Gary Johnson / James P Gray,6
+Marlboro,W Bennettsville,President and Vice President,,LIB,Gary Johnson / James P Gray,2
+Marlboro,S Bennettsville,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marlboro,N Bennettsville,President and Vice President,,LIB,Gary Johnson / James P Gray,3
+Marlboro,Absentee,President and Vice President,,LIB,Gary Johnson / James P Gray,7
+Marlboro,Emergency,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marlboro,Failsafe,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marlboro,Provisional,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marlboro,Failsafe Provisional,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marlboro,Adamsville,President and Vice President,,DEM,Barack Obama / Joe Biden,93
+Marlboro,Blenheim,President and Vice President,,DEM,Barack Obama / Joe Biden,66
+Marlboro,Brightsville,President and Vice President,,DEM,Barack Obama / Joe Biden,174
+Marlboro,Brownsville,President and Vice President,,DEM,Barack Obama / Joe Biden,61
+Marlboro,Red Hill,President and Vice President,,DEM,Barack Obama / Joe Biden,230
+Marlboro,Tatum,President and Vice President,,DEM,Barack Obama / Joe Biden,102
+Marlboro,Wallace,President and Vice President,,DEM,Barack Obama / Joe Biden,313
+Marlboro,Quicks  X  Roads,President and Vice President,,DEM,Barack Obama / Joe Biden,254
+Marlboro,Clio,President and Vice President,,DEM,Barack Obama / Joe Biden,478
+Marlboro,McColl,President and Vice President,,DEM,Barack Obama / Joe Biden,263
+Marlboro,East McColl,President and Vice President,,DEM,Barack Obama / Joe Biden,124
+Marlboro,E Bennettsville,President and Vice President,,DEM,Barack Obama / Joe Biden,375
+Marlboro,W Bennettsville,President and Vice President,,DEM,Barack Obama / Joe Biden,427
+Marlboro,S Bennettsville,President and Vice President,,DEM,Barack Obama / Joe Biden,359
+Marlboro,N Bennettsville,President and Vice President,,DEM,Barack Obama / Joe Biden,409
+Marlboro,Absentee,President and Vice President,,DEM,Barack Obama / Joe Biden,2292
+Marlboro,Emergency,President and Vice President,,DEM,Barack Obama / Joe Biden,4
+Marlboro,Failsafe,President and Vice President,,DEM,Barack Obama / Joe Biden,76
+Marlboro,Provisional,President and Vice President,,DEM,Barack Obama / Joe Biden,0
+Marlboro,Failsafe Provisional,President and Vice President,,DEM,Barack Obama / Joe Biden,0
+Marlboro,Adamsville,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marlboro,Blenheim,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Marlboro,Brightsville,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Marlboro,Brownsville,President and Vice President,,CON,Virgil Goode / Jim Clymer,2
+Marlboro,Red Hill,President and Vice President,,CON,Virgil Goode / Jim Clymer,3
+Marlboro,Tatum,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marlboro,Wallace,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marlboro,Quicks  X  Roads,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Marlboro,Clio,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marlboro,McColl,President and Vice President,,CON,Virgil Goode / Jim Clymer,2
+Marlboro,East McColl,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marlboro,E Bennettsville,President and Vice President,,CON,Virgil Goode / Jim Clymer,3
+Marlboro,W Bennettsville,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marlboro,S Bennettsville,President and Vice President,,CON,Virgil Goode / Jim Clymer,2
+Marlboro,N Bennettsville,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Marlboro,Absentee,President and Vice President,,CON,Virgil Goode / Jim Clymer,7
+Marlboro,Emergency,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marlboro,Failsafe,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marlboro,Provisional,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marlboro,Failsafe Provisional,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marlboro,Adamsville,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,Blenheim,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,Brightsville,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Marlboro,Brownsville,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,Red Hill,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Marlboro,Tatum,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Marlboro,Wallace,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Marlboro,Quicks  X  Roads,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,Clio,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Marlboro,McColl,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,East McColl,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,E Bennettsville,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,W Bennettsville,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,S Bennettsville,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,N Bennettsville,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,Absentee,President and Vice President,,GRN,Jill Stein / Cheri Honkala,3
+Marlboro,Emergency,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,Failsafe,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,Provisional,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,Failsafe Provisional,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marlboro,Adamsville,U.S. House of Representatives,7,REP,Tom Rice,91
+Marlboro,Blenheim,U.S. House of Representatives,7,REP,Tom Rice,98
+Marlboro,Brightsville,U.S. House of Representatives,7,REP,Tom Rice,144
+Marlboro,Brownsville,U.S. House of Representatives,7,REP,Tom Rice,107
+Marlboro,Red Hill,U.S. House of Representatives,7,REP,Tom Rice,232
+Marlboro,Tatum,U.S. House of Representatives,7,REP,Tom Rice,90
+Marlboro,Wallace,U.S. House of Representatives,7,REP,Tom Rice,336
+Marlboro,Quicks  X  Roads,U.S. House of Representatives,7,REP,Tom Rice,156
+Marlboro,Clio,U.S. House of Representatives,7,REP,Tom Rice,210
+Marlboro,McColl,U.S. House of Representatives,7,REP,Tom Rice,229
+Marlboro,East McColl,U.S. House of Representatives,7,REP,Tom Rice,279
+Marlboro,E Bennettsville,U.S. House of Representatives,7,REP,Tom Rice,175
+Marlboro,W Bennettsville,U.S. House of Representatives,7,REP,Tom Rice,152
+Marlboro,S Bennettsville,U.S. House of Representatives,7,REP,Tom Rice,38
+Marlboro,N Bennettsville,U.S. House of Representatives,7,REP,Tom Rice,425
+Marlboro,Absentee,U.S. House of Representatives,7,REP,Tom Rice,991
+Marlboro,Emergency,U.S. House of Representatives,7,REP,Tom Rice,2
+Marlboro,Failsafe,U.S. House of Representatives,7,REP,Tom Rice,21
+Marlboro,Provisional,U.S. House of Representatives,7,REP,Tom Rice,0
+Marlboro,Failsafe Provisional,U.S. House of Representatives,7,REP,Tom Rice,0
+Marlboro,Adamsville,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,89
+Marlboro,Blenheim,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,62
+Marlboro,Brightsville,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,169
+Marlboro,Brownsville,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,56
+Marlboro,Red Hill,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,208
+Marlboro,Tatum,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,82
+Marlboro,Wallace,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,301
+Marlboro,Quicks  X  Roads,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,224
+Marlboro,Clio,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,445
+Marlboro,McColl,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,217
+Marlboro,East McColl,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,88
+Marlboro,E Bennettsville,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,339
+Marlboro,W Bennettsville,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,391
+Marlboro,S Bennettsville,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,328
+Marlboro,N Bennettsville,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,357
+Marlboro,Absentee,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,2143
+Marlboro,Emergency,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,1
+Marlboro,Failsafe,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,73
+Marlboro,Provisional,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,0
+Marlboro,Failsafe Provisional,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,0
+Marlboro,Adamsville,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,4
+Marlboro,Blenheim,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,5
+Marlboro,Brightsville,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,9
+Marlboro,Brownsville,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,8
+Marlboro,Red Hill,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,19
+Marlboro,Tatum,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,13
+Marlboro,Wallace,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,14
+Marlboro,Quicks  X  Roads,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,18
+Marlboro,Clio,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,24
+Marlboro,McColl,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,27
+Marlboro,East McColl,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,15
+Marlboro,E Bennettsville,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,24
+Marlboro,W Bennettsville,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,16
+Marlboro,S Bennettsville,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,24
+Marlboro,N Bennettsville,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,32
+Marlboro,Absentee,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,87
+Marlboro,Emergency,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,0
+Marlboro,Failsafe,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,1
+Marlboro,Provisional,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,0
+Marlboro,Failsafe Provisional,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,0
+Marlboro,Adamsville,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,Blenheim,U.S. House of Representatives,7,NON,Write-In,1
+Marlboro,Brightsville,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,Brownsville,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,Red Hill,U.S. House of Representatives,7,NON,Write-In,2
+Marlboro,Tatum,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,Wallace,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,Quicks  X  Roads,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,Clio,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,McColl,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,East McColl,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,E Bennettsville,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,W Bennettsville,U.S. House of Representatives,7,NON,Write-In,2
+Marlboro,S Bennettsville,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,N Bennettsville,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,Absentee,U.S. House of Representatives,7,NON,Write-In,1
+Marlboro,Emergency,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,Failsafe,U.S. House of Representatives,7,NON,Write-In,1
+Marlboro,Provisional,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,Failsafe Provisional,U.S. House of Representatives,7,NON,Write-In,0
+Marlboro,Adamsville,State Senate District 29,,DEM,Gerald Malloy,152
+Marlboro,Blenheim,State Senate District 29,,DEM,Gerald Malloy,115
+Marlboro,Brightsville,State Senate District 29,,DEM,Gerald Malloy,254
+Marlboro,Brownsville,State Senate District 29,,DEM,Gerald Malloy,128
+Marlboro,Red Hill,State Senate District 29,,DEM,Gerald Malloy,390
+Marlboro,Wallace,State Senate District 29,,DEM,Gerald Malloy,491
+Marlboro,Quicks  X  Roads,State Senate District 29,,DEM,Gerald Malloy,340
+Marlboro,McColl,State Senate District 29,,DEM,Gerald Malloy,349
+Marlboro,East McColl,State Senate District 29,,DEM,Gerald Malloy,255
+Marlboro,E Bennettsville,State Senate District 29,,DEM,Gerald Malloy,463
+Marlboro,W Bennettsville,State Senate District 29,,DEM,Gerald Malloy,481
+Marlboro,S Bennettsville,State Senate District 29,,DEM,Gerald Malloy,357
+Marlboro,N Bennettsville,State Senate District 29,,DEM,Gerald Malloy,673
+Marlboro,Absentee,State Senate District 29,,DEM,Gerald Malloy,2555
+Marlboro,Emergency,State Senate District 29,,DEM,Gerald Malloy,2
+Marlboro,Failsafe,State Senate District 29,,DEM,Gerald Malloy,76
+Marlboro,Provisional,State Senate District 29,,DEM,Gerald Malloy,0
+Marlboro,Adamsville,State Senate District 29,,NON,Write-In,2
+Marlboro,Blenheim,State Senate District 29,,NON,Write-In,0
+Marlboro,Brightsville,State Senate District 29,,NON,Write-In,3
+Marlboro,Brownsville,State Senate District 29,,NON,Write-In,3
+Marlboro,Red Hill,State Senate District 29,,NON,Write-In,4
+Marlboro,Wallace,State Senate District 29,,NON,Write-In,5
+Marlboro,Quicks  X  Roads,State Senate District 29,,NON,Write-In,7
+Marlboro,McColl,State Senate District 29,,NON,Write-In,1
+Marlboro,East McColl,State Senate District 29,,NON,Write-In,4
+Marlboro,E Bennettsville,State Senate District 29,,NON,Write-In,1
+Marlboro,W Bennettsville,State Senate District 29,,NON,Write-In,5
+Marlboro,S Bennettsville,State Senate District 29,,NON,Write-In,0
+Marlboro,N Bennettsville,State Senate District 29,,NON,Write-In,8
+Marlboro,Absentee,State Senate District 29,,NON,Write-In,17
+Marlboro,Emergency,State Senate District 29,,NON,Write-In,0
+Marlboro,Failsafe,State Senate District 29,,NON,Write-In,0
+Marlboro,Provisional,State Senate District 29,,NON,Write-In,0
+Marlboro,Tatum,State Senate District 30,,DEM,Kent Williams,143
+Marlboro,Clio,State Senate District 30,,DEM,Kent Williams,613
+Marlboro,Absentee,State Senate District 30,,DEM,Kent Williams,246
+Marlboro,Emergency,State Senate District 30,,DEM,Kent Williams,1
+Marlboro,Failsafe,State Senate District 30,,DEM,Kent Williams,11
+Marlboro,Provisional,State Senate District 30,,DEM,Kent Williams,0
+Marlboro,Tatum,State Senate District 30,,NON,Write-In,1
+Marlboro,Clio,State Senate District 30,,NON,Write-In,2
+Marlboro,Absentee,State Senate District 30,,NON,Write-In,1
+Marlboro,Emergency,State Senate District 30,,NON,Write-In,0
+Marlboro,Failsafe,State Senate District 30,,NON,Write-In,0
+Marlboro,Provisional,State Senate District 30,,NON,Write-In,0
+Marlboro,Adamsville,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,166
+Marlboro,Blenheim,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,61
+Marlboro,Brightsville,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,285
+Marlboro,Red Hill,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,433
+Marlboro,Tatum,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,156
+Marlboro,Wallace,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,562
+Marlboro,Quicks  X  Roads,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,365
+Marlboro,Clio,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,272
+Marlboro,McColl,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,261
+Marlboro,East McColl,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,336
+Marlboro,E Bennettsville,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,503
+Marlboro,W Bennettsville,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,537
+Marlboro,S Bennettsville,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,359
+Marlboro,N Bennettsville,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,761
+Marlboro,Absentee,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,2809
+Marlboro,Emergency,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,2
+Marlboro,Failsafe,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,79
+Marlboro,Provisional,State House of Representatives District 54,,DEM,Elizabeth R Munnerlyn,0
+Marlboro,Adamsville,State House of Representatives District 54,,NON,Write-In,0
+Marlboro,Blenheim,State House of Representatives District 54,,NON,Write-In,0
+Marlboro,Brightsville,State House of Representatives District 54,,NON,Write-In,0
+Marlboro,Red Hill,State House of Representatives District 54,,NON,Write-In,3
+Marlboro,Tatum,State House of Representatives District 54,,NON,Write-In,1
+Marlboro,Wallace,State House of Representatives District 54,,NON,Write-In,1
+Marlboro,Quicks  X  Roads,State House of Representatives District 54,,NON,Write-In,0
+Marlboro,Clio,State House of Representatives District 54,,NON,Write-In,0
+Marlboro,McColl,State House of Representatives District 54,,NON,Write-In,0
+Marlboro,East McColl,State House of Representatives District 54,,NON,Write-In,1
+Marlboro,E Bennettsville,State House of Representatives District 54,,NON,Write-In,5
+Marlboro,W Bennettsville,State House of Representatives District 54,,NON,Write-In,3
+Marlboro,S Bennettsville,State House of Representatives District 54,,NON,Write-In,2
+Marlboro,N Bennettsville,State House of Representatives District 54,,NON,Write-In,3
+Marlboro,Absentee,State House of Representatives District 54,,NON,Write-In,28
+Marlboro,Emergency,State House of Representatives District 54,,NON,Write-In,0
+Marlboro,Failsafe,State House of Representatives District 54,,NON,Write-In,0
+Marlboro,Provisional,State House of Representatives District 54,,NON,Write-In,0
+Marlboro,Blenheim,State House of Representatives District 55,,DEM,Jackie Hayes,72
+Marlboro,Brownsville,State House of Representatives District 55,,DEM,Jackie Hayes,144
+Marlboro,Clio,State House of Representatives District 55,,DEM,Jackie Hayes,354
+Marlboro,McColl,State House of Representatives District 55,,DEM,Jackie Hayes,142
+Marlboro,Absentee,State House of Representatives District 55,,DEM,Jackie Hayes,186
+Marlboro,Emergency,State House of Representatives District 55,,DEM,Jackie Hayes,1
+Marlboro,Failsafe,State House of Representatives District 55,,DEM,Jackie Hayes,10
+Marlboro,Provisional,State House of Representatives District 55,,DEM,Jackie Hayes,0
+Marlboro,Blenheim,State House of Representatives District 55,,NON,Write-In,0
+Marlboro,Brownsville,State House of Representatives District 55,,NON,Write-In,0
+Marlboro,Clio,State House of Representatives District 55,,NON,Write-In,1
+Marlboro,McColl,State House of Representatives District 55,,NON,Write-In,0
+Marlboro,Absentee,State House of Representatives District 55,,NON,Write-In,1
+Marlboro,Emergency,State House of Representatives District 55,,NON,Write-In,0
+Marlboro,Failsafe,State House of Representatives District 55,,NON,Write-In,0
+Marlboro,Provisional,State House of Representatives District 55,,NON,Write-In,0
+Marlboro,Adamsville,Solicitor Circuit 4,,DEM,Will Rogers,164
+Marlboro,Blenheim,Solicitor Circuit 4,,DEM,Will Rogers,150
+Marlboro,Brightsville,Solicitor Circuit 4,,DEM,Will Rogers,269
+Marlboro,Brownsville,Solicitor Circuit 4,,DEM,Will Rogers,148
+Marlboro,Red Hill,Solicitor Circuit 4,,DEM,Will Rogers,426
+Marlboro,Tatum,Solicitor Circuit 4,,DEM,Will Rogers,153
+Marlboro,Wallace,Solicitor Circuit 4,,DEM,Will Rogers,539
+Marlboro,Quicks  X  Roads,Solicitor Circuit 4,,DEM,Will Rogers,358
+Marlboro,Clio,Solicitor Circuit 4,,DEM,Will Rogers,621
+Marlboro,McColl,Solicitor Circuit 4,,DEM,Will Rogers,399
+Marlboro,East McColl,Solicitor Circuit 4,,DEM,Will Rogers,314
+Marlboro,E Bennettsville,Solicitor Circuit 4,,DEM,Will Rogers,503
+Marlboro,W Bennettsville,Solicitor Circuit 4,,DEM,Will Rogers,533
+Marlboro,S Bennettsville,Solicitor Circuit 4,,DEM,Will Rogers,353
+Marlboro,N Bennettsville,Solicitor Circuit 4,,DEM,Will Rogers,751
+Marlboro,Absentee,Solicitor Circuit 4,,DEM,Will Rogers,2979
+Marlboro,Emergency,Solicitor Circuit 4,,DEM,Will Rogers,3
+Marlboro,Failsafe,Solicitor Circuit 4,,DEM,Will Rogers,89
+Marlboro,Provisional,Solicitor Circuit 4,,DEM,Will Rogers,0
+Marlboro,Failsafe Provisional,Solicitor Circuit 4,,DEM,Will Rogers,0
+Marlboro,Adamsville,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,Blenheim,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,Brightsville,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,Brownsville,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,Red Hill,Solicitor Circuit 4,,NON,Write-In,2
+Marlboro,Tatum,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,Wallace,Solicitor Circuit 4,,NON,Write-In,1
+Marlboro,Quicks  X  Roads,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,Clio,Solicitor Circuit 4,,NON,Write-In,1
+Marlboro,McColl,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,East McColl,Solicitor Circuit 4,,NON,Write-In,1
+Marlboro,E Bennettsville,Solicitor Circuit 4,,NON,Write-In,2
+Marlboro,W Bennettsville,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,S Bennettsville,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,N Bennettsville,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,Absentee,Solicitor Circuit 4,,NON,Write-In,10
+Marlboro,Emergency,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,Failsafe,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,Provisional,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,Failsafe Provisional,Solicitor Circuit 4,,NON,Write-In,0
+Marlboro,Adamsville,Sheriff,,PET,Fred Brantley,8
+Marlboro,Blenheim,Sheriff,,PET,Fred Brantley,19
+Marlboro,Brightsville,Sheriff,,PET,Fred Brantley,11
+Marlboro,Brownsville,Sheriff,,PET,Fred Brantley,17
+Marlboro,Red Hill,Sheriff,,PET,Fred Brantley,49
+Marlboro,Tatum,Sheriff,,PET,Fred Brantley,21
+Marlboro,Wallace,Sheriff,,PET,Fred Brantley,23
+Marlboro,Quicks  X  Roads,Sheriff,,PET,Fred Brantley,29
+Marlboro,Clio,Sheriff,,PET,Fred Brantley,74
+Marlboro,McColl,Sheriff,,PET,Fred Brantley,45
+Marlboro,East McColl,Sheriff,,PET,Fred Brantley,20
+Marlboro,E Bennettsville,Sheriff,,PET,Fred Brantley,77
+Marlboro,W Bennettsville,Sheriff,,PET,Fred Brantley,103
+Marlboro,S Bennettsville,Sheriff,,PET,Fred Brantley,98
+Marlboro,N Bennettsville,Sheriff,,PET,Fred Brantley,119
+Marlboro,Absentee,Sheriff,,PET,Fred Brantley,436
+Marlboro,Emergency,Sheriff,,PET,Fred Brantley,0
+Marlboro,Failsafe,Sheriff,,PET,Fred Brantley,16
+Marlboro,Provisional,Sheriff,,PET,Fred Brantley,0
+Marlboro,Failsafe Provisional,Sheriff,,PET,Fred Brantley,0
+Marlboro,Adamsville,Sheriff,,PET,Charles English,31
+Marlboro,Blenheim,Sheriff,,PET,Charles English,18
+Marlboro,Brightsville,Sheriff,,PET,Charles English,48
+Marlboro,Brownsville,Sheriff,,PET,Charles English,19
+Marlboro,Red Hill,Sheriff,,PET,Charles English,45
+Marlboro,Tatum,Sheriff,,PET,Charles English,25
+Marlboro,Wallace,Sheriff,,PET,Charles English,124
+Marlboro,Quicks  X  Roads,Sheriff,,PET,Charles English,55
+Marlboro,Clio,Sheriff,,PET,Charles English,91
+Marlboro,McColl,Sheriff,,PET,Charles English,67
+Marlboro,East McColl,Sheriff,,PET,Charles English,58
+Marlboro,E Bennettsville,Sheriff,,PET,Charles English,43
+Marlboro,W Bennettsville,Sheriff,,PET,Charles English,32
+Marlboro,S Bennettsville,Sheriff,,PET,Charles English,9
+Marlboro,N Bennettsville,Sheriff,,PET,Charles English,60
+Marlboro,Absentee,Sheriff,,PET,Charles English,249
+Marlboro,Emergency,Sheriff,,PET,Charles English,0
+Marlboro,Failsafe,Sheriff,,PET,Charles English,6
+Marlboro,Provisional,Sheriff,,PET,Charles English,0
+Marlboro,Failsafe Provisional,Sheriff,,PET,Charles English,0
+Marlboro,Adamsville,Sheriff,,DEM,Fred Knight,140
+Marlboro,Blenheim,Sheriff,,DEM,Fred Knight,128
+Marlboro,Brightsville,Sheriff,,DEM,Fred Knight,252
+Marlboro,Brownsville,Sheriff,,DEM,Fred Knight,129
+Marlboro,Red Hill,Sheriff,,DEM,Fred Knight,367
+Marlboro,Tatum,Sheriff,,DEM,Fred Knight,141
+Marlboro,Wallace,Sheriff,,DEM,Fred Knight,485
+Marlboro,Quicks  X  Roads,Sheriff,,DEM,Fred Knight,305
+Marlboro,Clio,Sheriff,,DEM,Fred Knight,510
+Marlboro,McColl,Sheriff,,DEM,Fred Knight,356
+Marlboro,East McColl,Sheriff,,DEM,Fred Knight,305
+Marlboro,E Bennettsville,Sheriff,,DEM,Fred Knight,414
+Marlboro,W Bennettsville,Sheriff,,DEM,Fred Knight,431
+Marlboro,S Bennettsville,Sheriff,,DEM,Fred Knight,286
+Marlboro,N Bennettsville,Sheriff,,DEM,Fred Knight,637
+Marlboro,Absentee,Sheriff,,DEM,Fred Knight,2533
+Marlboro,Emergency,Sheriff,,DEM,Fred Knight,5
+Marlboro,Failsafe,Sheriff,,DEM,Fred Knight,76
+Marlboro,Provisional,Sheriff,,DEM,Fred Knight,0
+Marlboro,Failsafe Provisional,Sheriff,,DEM,Fred Knight,0
+Marlboro,Adamsville,Sheriff,,NON,Write-In,0
+Marlboro,Blenheim,Sheriff,,NON,Write-In,1
+Marlboro,Brightsville,Sheriff,,NON,Write-In,0
+Marlboro,Brownsville,Sheriff,,NON,Write-In,1
+Marlboro,Red Hill,Sheriff,,NON,Write-In,0
+Marlboro,Tatum,Sheriff,,NON,Write-In,0
+Marlboro,Wallace,Sheriff,,NON,Write-In,1
+Marlboro,Quicks  X  Roads,Sheriff,,NON,Write-In,1
+Marlboro,Clio,Sheriff,,NON,Write-In,0
+Marlboro,McColl,Sheriff,,NON,Write-In,1
+Marlboro,East McColl,Sheriff,,NON,Write-In,1
+Marlboro,E Bennettsville,Sheriff,,NON,Write-In,0
+Marlboro,W Bennettsville,Sheriff,,NON,Write-In,0
+Marlboro,S Bennettsville,Sheriff,,NON,Write-In,0
+Marlboro,N Bennettsville,Sheriff,,NON,Write-In,0
+Marlboro,Absentee,Sheriff,,NON,Write-In,3
+Marlboro,Emergency,Sheriff,,NON,Write-In,0
+Marlboro,Failsafe,Sheriff,,NON,Write-In,0
+Marlboro,Provisional,Sheriff,,NON,Write-In,0
+Marlboro,Failsafe Provisional,Sheriff,,NON,Write-In,0
+Marlboro,Adamsville,Clerk of Court,,PET,Steve Weaver,46
+Marlboro,Blenheim,Clerk of Court,,PET,Steve Weaver,41
+Marlboro,Brightsville,Clerk of Court,,PET,Steve Weaver,62
+Marlboro,Brownsville,Clerk of Court,,PET,Steve Weaver,35
+Marlboro,Red Hill,Clerk of Court,,PET,Steve Weaver,106
+Marlboro,Tatum,Clerk of Court,,PET,Steve Weaver,52
+Marlboro,Wallace,Clerk of Court,,PET,Steve Weaver,88
+Marlboro,Quicks  X  Roads,Clerk of Court,,PET,Steve Weaver,71
+Marlboro,Clio,Clerk of Court,,PET,Steve Weaver,144
+Marlboro,McColl,Clerk of Court,,PET,Steve Weaver,89
+Marlboro,East McColl,Clerk of Court,,PET,Steve Weaver,105
+Marlboro,E Bennettsville,Clerk of Court,,PET,Steve Weaver,97
+Marlboro,W Bennettsville,Clerk of Court,,PET,Steve Weaver,119
+Marlboro,S Bennettsville,Clerk of Court,,PET,Steve Weaver,70
+Marlboro,N Bennettsville,Clerk of Court,,PET,Steve Weaver,254
+Marlboro,Absentee,Clerk of Court,,PET,Steve Weaver,632
+Marlboro,Emergency,Clerk of Court,,PET,Steve Weaver,0
+Marlboro,Failsafe,Clerk of Court,,PET,Steve Weaver,10
+Marlboro,Provisional,Clerk of Court,,PET,Steve Weaver,0
+Marlboro,Failsafe Provisional,Clerk of Court,,PET,Steve Weaver,0
+Marlboro,Adamsville,Clerk of Court,,DEM,William B Funderburk,131
+Marlboro,Blenheim,Clerk of Court,,DEM,William B Funderburk,123
+Marlboro,Brightsville,Clerk of Court,,DEM,William B Funderburk,243
+Marlboro,Brownsville,Clerk of Court,,DEM,William B Funderburk,128
+Marlboro,Red Hill,Clerk of Court,,DEM,William B Funderburk,353
+Marlboro,Tatum,Clerk of Court,,DEM,William B Funderburk,128
+Marlboro,Wallace,Clerk of Court,,DEM,William B Funderburk,531
+Marlboro,Quicks  X  Roads,Clerk of Court,,DEM,William B Funderburk,318
+Marlboro,Clio,Clerk of Court,,DEM,William B Funderburk,526
+Marlboro,McColl,Clerk of Court,,DEM,William B Funderburk,374
+Marlboro,East McColl,Clerk of Court,,DEM,William B Funderburk,276
+Marlboro,E Bennettsville,Clerk of Court,,DEM,William B Funderburk,435
+Marlboro,W Bennettsville,Clerk of Court,,DEM,William B Funderburk,444
+Marlboro,S Bennettsville,Clerk of Court,,DEM,William B Funderburk,318
+Marlboro,N Bennettsville,Clerk of Court,,DEM,William B Funderburk,560
+Marlboro,Absentee,Clerk of Court,,DEM,William B Funderburk,2548
+Marlboro,Emergency,Clerk of Court,,DEM,William B Funderburk,5
+Marlboro,Failsafe,Clerk of Court,,DEM,William B Funderburk,87
+Marlboro,Provisional,Clerk of Court,,DEM,William B Funderburk,0
+Marlboro,Failsafe Provisional,Clerk of Court,,DEM,William B Funderburk,0
+Marlboro,Adamsville,Clerk of Court,,NON,Write-In,0
+Marlboro,Blenheim,Clerk of Court,,NON,Write-In,0
+Marlboro,Brightsville,Clerk of Court,,NON,Write-In,0
+Marlboro,Brownsville,Clerk of Court,,NON,Write-In,0
+Marlboro,Red Hill,Clerk of Court,,NON,Write-In,0
+Marlboro,Tatum,Clerk of Court,,NON,Write-In,0
+Marlboro,Wallace,Clerk of Court,,NON,Write-In,1
+Marlboro,Quicks  X  Roads,Clerk of Court,,NON,Write-In,0
+Marlboro,Clio,Clerk of Court,,NON,Write-In,0
+Marlboro,McColl,Clerk of Court,,NON,Write-In,0
+Marlboro,East McColl,Clerk of Court,,NON,Write-In,0
+Marlboro,E Bennettsville,Clerk of Court,,NON,Write-In,0
+Marlboro,W Bennettsville,Clerk of Court,,NON,Write-In,1
+Marlboro,S Bennettsville,Clerk of Court,,NON,Write-In,0
+Marlboro,N Bennettsville,Clerk of Court,,NON,Write-In,0
+Marlboro,Absentee,Clerk of Court,,NON,Write-In,2
+Marlboro,Emergency,Clerk of Court,,NON,Write-In,0
+Marlboro,Failsafe,Clerk of Court,,NON,Write-In,0
+Marlboro,Provisional,Clerk of Court,,NON,Write-In,0
+Marlboro,Failsafe Provisional,Clerk of Court,,NON,Write-In,0
+Marlboro,Adamsville,Coroner,,DEM,Timothy E Brown,172
+Marlboro,Blenheim,Coroner,,DEM,Timothy E Brown,143
+Marlboro,Brightsville,Coroner,,DEM,Timothy E Brown,278
+Marlboro,Brownsville,Coroner,,DEM,Timothy E Brown,148
+Marlboro,Red Hill,Coroner,,DEM,Timothy E Brown,434
+Marlboro,Tatum,Coroner,,DEM,Timothy E Brown,155
+Marlboro,Wallace,Coroner,,DEM,Timothy E Brown,545
+Marlboro,Quicks  X  Roads,Coroner,,DEM,Timothy E Brown,372
+Marlboro,Clio,Coroner,,DEM,Timothy E Brown,636
+Marlboro,McColl,Coroner,,DEM,Timothy E Brown,411
+Marlboro,East McColl,Coroner,,DEM,Timothy E Brown,339
+Marlboro,E Bennettsville,Coroner,,DEM,Timothy E Brown,502
+Marlboro,W Bennettsville,Coroner,,DEM,Timothy E Brown,536
+Marlboro,S Bennettsville,Coroner,,DEM,Timothy E Brown,362
+Marlboro,N Bennettsville,Coroner,,DEM,Timothy E Brown,753
+Marlboro,Absentee,Coroner,,DEM,Timothy E Brown,3037
+Marlboro,Emergency,Coroner,,DEM,Timothy E Brown,3
+Marlboro,Failsafe,Coroner,,DEM,Timothy E Brown,92
+Marlboro,Provisional,Coroner,,DEM,Timothy E Brown,0
+Marlboro,Failsafe Provisional,Coroner,,DEM,Timothy E Brown,0
+Marlboro,Adamsville,Coroner,,NON,WRITE-IN,0
+Marlboro,Blenheim,Coroner,,NON,WRITE-IN,0
+Marlboro,Brightsville,Coroner,,NON,WRITE-IN,1
+Marlboro,Brownsville,Coroner,,NON,WRITE-IN,0
+Marlboro,Red Hill,Coroner,,NON,WRITE-IN,1
+Marlboro,Tatum,Coroner,,NON,WRITE-IN,0
+Marlboro,Wallace,Coroner,,NON,WRITE-IN,7
+Marlboro,Quicks  X  Roads,Coroner,,NON,WRITE-IN,0
+Marlboro,Clio,Coroner,,NON,WRITE-IN,1
+Marlboro,McColl,Coroner,,NON,WRITE-IN,1
+Marlboro,East McColl,Coroner,,NON,WRITE-IN,1
+Marlboro,E Bennettsville,Coroner,,NON,WRITE-IN,2
+Marlboro,W Bennettsville,Coroner,,NON,WRITE-IN,2
+Marlboro,S Bennettsville,Coroner,,NON,WRITE-IN,0
+Marlboro,N Bennettsville,Coroner,,NON,WRITE-IN,1
+Marlboro,Absentee,Coroner,,NON,WRITE-IN,8
+Marlboro,Emergency,Coroner,,NON,WRITE-IN,0
+Marlboro,Failsafe,Coroner,,NON,WRITE-IN,1
+Marlboro,Provisional,Coroner,,NON,WRITE-IN,0
+Marlboro,Failsafe Provisional,Coroner,,NON,WRITE-IN,0
+Marlboro,Adamsville,County Treasurer,,DEM,Delorice B Barrington,171
+Marlboro,Blenheim,County Treasurer,,DEM,Delorice B Barrington,155
+Marlboro,Brightsville,County Treasurer,,DEM,Delorice B Barrington,293
+Marlboro,Brownsville,County Treasurer,,DEM,Delorice B Barrington,155
+Marlboro,Red Hill,County Treasurer,,DEM,Delorice B Barrington,440
+Marlboro,Tatum,County Treasurer,,DEM,Delorice B Barrington,166
+Marlboro,Wallace,County Treasurer,,DEM,Delorice B Barrington,576
+Marlboro,Quicks  X  Roads,County Treasurer,,DEM,Delorice B Barrington,373
+Marlboro,Clio,County Treasurer,,DEM,Delorice B Barrington,644
+Marlboro,McColl,County Treasurer,,DEM,Delorice B Barrington,423
+Marlboro,East McColl,County Treasurer,,DEM,Delorice B Barrington,340
+Marlboro,E Bennettsville,County Treasurer,,DEM,Delorice B Barrington,508
+Marlboro,W Bennettsville,County Treasurer,,DEM,Delorice B Barrington,543
+Marlboro,S Bennettsville,County Treasurer,,DEM,Delorice B Barrington,364
+Marlboro,N Bennettsville,County Treasurer,,DEM,Delorice B Barrington,757
+Marlboro,Absentee,County Treasurer,,DEM,Delorice B Barrington,3065
+Marlboro,Emergency,County Treasurer,,DEM,Delorice B Barrington,3
+Marlboro,Failsafe,County Treasurer,,DEM,Delorice B Barrington,93
+Marlboro,Provisional,County Treasurer,,DEM,Delorice B Barrington,0
+Marlboro,Failsafe Provisional,County Treasurer,,DEM,Delorice B Barrington,0
+Marlboro,Adamsville,County Treasurer,,NON,Write-In,1
+Marlboro,Blenheim,County Treasurer,,NON,Write-In,0
+Marlboro,Brightsville,County Treasurer,,NON,Write-In,0
+Marlboro,Brownsville,County Treasurer,,NON,Write-In,0
+Marlboro,Red Hill,County Treasurer,,NON,Write-In,1
+Marlboro,Tatum,County Treasurer,,NON,Write-In,1
+Marlboro,Wallace,County Treasurer,,NON,Write-In,1
+Marlboro,Quicks  X  Roads,County Treasurer,,NON,Write-In,1
+Marlboro,Clio,County Treasurer,,NON,Write-In,0
+Marlboro,McColl,County Treasurer,,NON,Write-In,0
+Marlboro,East McColl,County Treasurer,,NON,Write-In,1
+Marlboro,E Bennettsville,County Treasurer,,NON,Write-In,0
+Marlboro,W Bennettsville,County Treasurer,,NON,Write-In,2
+Marlboro,S Bennettsville,County Treasurer,,NON,Write-In,0
+Marlboro,N Bennettsville,County Treasurer,,NON,Write-In,3
+Marlboro,Absentee,County Treasurer,,NON,Write-In,4
+Marlboro,Emergency,County Treasurer,,NON,Write-In,0
+Marlboro,Failsafe,County Treasurer,,NON,Write-In,0
+Marlboro,Provisional,County Treasurer,,NON,Write-In,0
+Marlboro,Failsafe Provisional,County Treasurer,,NON,Write-In,0
+Marlboro,Adamsville,County Council District 2,,DEM,Willie Gladden,66
+Marlboro,Brightsville,County Council District 2,,DEM,Willie Gladden,218
+Marlboro,Red Hill,County Council District 2,,DEM,Willie Gladden,13
+Marlboro,Quicks  X  Roads,County Council District 2,,DEM,Willie Gladden,72
+Marlboro,W Bennettsville,County Council District 2,,DEM,Willie Gladden,207
+Marlboro,N Bennettsville,County Council District 2,,DEM,Willie Gladden,63
+Marlboro,Absentee,County Council District 2,,DEM,Willie Gladden,405
+Marlboro,Emergency,County Council District 2,,DEM,Willie Gladden,0
+Marlboro,Failsafe,County Council District 2,,DEM,Willie Gladden,7
+Marlboro,Provisional,County Council District 2,,DEM,Willie Gladden,0
+Marlboro,Adamsville,County Council District 2,,NON,Write-In,0
+Marlboro,Brightsville,County Council District 2,,NON,Write-In,2
+Marlboro,Red Hill,County Council District 2,,NON,Write-In,0
+Marlboro,Quicks  X  Roads,County Council District 2,,NON,Write-In,1
+Marlboro,W Bennettsville,County Council District 2,,NON,Write-In,0
+Marlboro,N Bennettsville,County Council District 2,,NON,Write-In,1
+Marlboro,Absentee,County Council District 2,,NON,Write-In,3
+Marlboro,Emergency,County Council District 2,,NON,Write-In,0
+Marlboro,Failsafe,County Council District 2,,NON,Write-In,0
+Marlboro,Provisional,County Council District 2,,NON,Write-In,0
+Marlboro,E Bennettsville,County Council District 3,,DEM,Ron Munnerlyn,83
+Marlboro,N Bennettsville,County Council District 3,,DEM,Ron Munnerlyn,540
+Marlboro,Absentee,County Council District 3,,DEM,Ron Munnerlyn,675
+Marlboro,Emergency,County Council District 3,,DEM,Ron Munnerlyn,0
+Marlboro,Failsafe,County Council District 3,,DEM,Ron Munnerlyn,11
+Marlboro,Provisional,County Council District 3,,DEM,Ron Munnerlyn,0
+Marlboro,E Bennettsville,County Council District 3,,NON,Write-In,0
+Marlboro,N Bennettsville,County Council District 3,,NON,Write-In,0
+Marlboro,Absentee,County Council District 3,,NON,Write-In,3
+Marlboro,Emergency,County Council District 3,,NON,Write-In,0
+Marlboro,Failsafe,County Council District 3,,NON,Write-In,0
+Marlboro,Provisional,County Council District 3,,NON,Write-In,0
+Marlboro,E Bennettsville,County Council District 5,,DEM,Carolyn A Prince,321
+Marlboro,W Bennettsville,County Council District 5,,DEM,Carolyn A Prince,17
+Marlboro,S Bennettsville,County Council District 5,,DEM,Carolyn A Prince,217
+Marlboro,N Bennettsville,County Council District 5,,DEM,Carolyn A Prince,45
+Marlboro,Absentee,County Council District 5,,DEM,Carolyn A Prince,508
+Marlboro,Emergency,County Council District 5,,DEM,Carolyn A Prince,0
+Marlboro,Failsafe,County Council District 5,,DEM,Carolyn A Prince,10
+Marlboro,Provisional,County Council District 5,,DEM,Carolyn A Prince,0
+Marlboro,E Bennettsville,County Council District 5,,NON,Write-In,1
+Marlboro,W Bennettsville,County Council District 5,,NON,Write-In,0
+Marlboro,S Bennettsville,County Council District 5,,NON,Write-In,0
+Marlboro,N Bennettsville,County Council District 5,,NON,Write-In,0
+Marlboro,Absentee,County Council District 5,,NON,Write-In,1
+Marlboro,Emergency,County Council District 5,,NON,Write-In,0
+Marlboro,Failsafe,County Council District 5,,NON,Write-In,0
+Marlboro,Provisional,County Council District 5,,NON,Write-In,0
+Marlboro,McColl,County Council District 6,,PET,Verd Odom,160
+Marlboro,East McColl,County Council District 6,,PET,Verd Odom,157
+Marlboro,Absentee,County Council District 6,,PET,Verd Odom,47
+Marlboro,Emergency,County Council District 6,,PET,Verd Odom,1
+Marlboro,Failsafe,County Council District 6,,PET,Verd Odom,4
+Marlboro,Provisional,County Council District 6,,PET,Verd Odom,0
+Marlboro,McColl,County Council District 6,,DEM,Ken Allen,229
+Marlboro,East McColl,County Council District 6,,DEM,Ken Allen,227
+Marlboro,Absentee,County Council District 6,,DEM,Ken Allen,135
+Marlboro,Emergency,County Council District 6,,DEM,Ken Allen,2
+Marlboro,Failsafe,County Council District 6,,DEM,Ken Allen,5
+Marlboro,Provisional,County Council District 6,,DEM,Ken Allen,0
+Marlboro,McColl,County Council District 6,,NON,Write-In,0
+Marlboro,East McColl,County Council District 6,,NON,Write-In,0
+Marlboro,Absentee,County Council District 6,,NON,Write-In,1
+Marlboro,Emergency,County Council District 6,,NON,Write-In,0
+Marlboro,Failsafe,County Council District 6,,NON,Write-In,0
+Marlboro,Provisional,County Council District 6,,NON,Write-In,0
+Marlboro,Brightsville,School Board District 1,,NON,Michael Coachman,38
+Marlboro,Wallace,School Board District 1,,NON,Michael Coachman,490
+Marlboro,Quicks  X  Roads,School Board District 1,,NON,Michael Coachman,240
+Marlboro,Absentee,School Board District 1,,NON,Michael Coachman,138
+Marlboro,Emergency,School Board District 1,,NON,Michael Coachman,0
+Marlboro,Failsafe,School Board District 1,,NON,Michael Coachman,5
+Marlboro,Provisional,School Board District 1,,NON,Michael Coachman,0
+Marlboro,Brightsville,School Board District 1,,NON,Write-In,0
+Marlboro,Wallace,School Board District 1,,NON,Write-In,2
+Marlboro,Quicks  X  Roads,School Board District 1,,NON,Write-In,5
+Marlboro,Absentee,School Board District 1,,NON,Write-In,0
+Marlboro,Emergency,School Board District 1,,NON,Write-In,0
+Marlboro,Failsafe,School Board District 1,,NON,Write-In,0
+Marlboro,Provisional,School Board District 1,,NON,Write-In,0
+Marlboro,Red Hill,School Board District 4,,NON,Mike Barrington,16
+Marlboro,E Bennettsville,School Board District 4,,NON,Mike Barrington,20
+Marlboro,W Bennettsville,School Board District 4,,NON,Mike Barrington,131
+Marlboro,S Bennettsville,School Board District 4,,NON,Mike Barrington,41
+Marlboro,Absentee,School Board District 4,,NON,Mike Barrington,125
+Marlboro,Emergency,School Board District 4,,NON,Mike Barrington,0
+Marlboro,Failsafe,School Board District 4,,NON,Mike Barrington,2
+Marlboro,Provisional,School Board District 4,,NON,Mike Barrington,0
+Marlboro,Red Hill,School Board District 4,,NON,Nan Fleming,3
+Marlboro,E Bennettsville,School Board District 4,,NON,Nan Fleming,13
+Marlboro,W Bennettsville,School Board District 4,,NON,Nan Fleming,143
+Marlboro,S Bennettsville,School Board District 4,,NON,Nan Fleming,83
+Marlboro,Absentee,School Board District 4,,NON,Nan Fleming,240
+Marlboro,Emergency,School Board District 4,,NON,Nan Fleming,0
+Marlboro,Failsafe,School Board District 4,,NON,Nan Fleming,6
+Marlboro,Provisional,School Board District 4,,NON,Nan Fleming,0
+Marlboro,Red Hill,School Board District 4,,NON,Write-In,0
+Marlboro,E Bennettsville,School Board District 4,,NON,Write-In,1
+Marlboro,W Bennettsville,School Board District 4,,NON,Write-In,0
+Marlboro,S Bennettsville,School Board District 4,,NON,Write-In,1
+Marlboro,Absentee,School Board District 4,,NON,Write-In,0
+Marlboro,Emergency,School Board District 4,,NON,Write-In,0
+Marlboro,Failsafe,School Board District 4,,NON,Write-In,0
+Marlboro,Provisional,School Board District 4,,NON,Write-In,0
+Marlboro,McColl,School Board District 6,,NON,Robert Goff,272
+Marlboro,East McColl,School Board District 6,,NON,Robert Goff,306
+Marlboro,Absentee,School Board District 6,,NON,Robert Goff,127
+Marlboro,Emergency,School Board District 6,,NON,Robert Goff,1
+Marlboro,Failsafe,School Board District 6,,NON,Robert Goff,7
+Marlboro,Provisional,School Board District 6,,NON,Robert Goff,0
+Marlboro,McColl,School Board District 6,,NON,Write-In,6
+Marlboro,East McColl,School Board District 6,,NON,Write-In,7
+Marlboro,Absentee,School Board District 6,,NON,Write-In,4
+Marlboro,Emergency,School Board District 6,,NON,Write-In,0
+Marlboro,Failsafe,School Board District 6,,NON,Write-In,0
+Marlboro,Provisional,School Board District 6,,NON,Write-In,0
+Marlboro,Blenheim,Carter's Branch Muddy Creek Watershed,,NON,James Dixon,10
+Marlboro,Red Hill,Carter's Branch Muddy Creek Watershed,,NON,James Dixon,141
+Marlboro,E Bennettsville,Carter's Branch Muddy Creek Watershed,,NON,James Dixon,41
+Marlboro,W Bennettsville,Carter's Branch Muddy Creek Watershed,,NON,James Dixon,84
+Marlboro,S Bennettsville,Carter's Branch Muddy Creek Watershed,,NON,James Dixon,15
+Marlboro,N Bennettsville,Carter's Branch Muddy Creek Watershed,,NON,James Dixon,8
+Marlboro,Absentee,Carter's Branch Muddy Creek Watershed,,NON,James Dixon,202
+Marlboro,Emergency,Carter's Branch Muddy Creek Watershed,,NON,James Dixon,0
+Marlboro,Failsafe,Carter's Branch Muddy Creek Watershed,,NON,James Dixon,10
+Marlboro,Provisional,Carter's Branch Muddy Creek Watershed,,NON,James Dixon,0
+Marlboro,Blenheim,Carter's Branch Muddy Creek Watershed,,NON,Lonnie Ward,10
+Marlboro,Red Hill,Carter's Branch Muddy Creek Watershed,,NON,Lonnie Ward,137
+Marlboro,E Bennettsville,Carter's Branch Muddy Creek Watershed,,NON,Lonnie Ward,30
+Marlboro,W Bennettsville,Carter's Branch Muddy Creek Watershed,,NON,Lonnie Ward,36
+Marlboro,S Bennettsville,Carter's Branch Muddy Creek Watershed,,NON,Lonnie Ward,9
+Marlboro,N Bennettsville,Carter's Branch Muddy Creek Watershed,,NON,Lonnie Ward,5
+Marlboro,Absentee,Carter's Branch Muddy Creek Watershed,,NON,Lonnie Ward,172
+Marlboro,Emergency,Carter's Branch Muddy Creek Watershed,,NON,Lonnie Ward,1
+Marlboro,Failsafe,Carter's Branch Muddy Creek Watershed,,NON,Lonnie Ward,7
+Marlboro,Provisional,Carter's Branch Muddy Creek Watershed,,NON,Lonnie Ward,0
+Marlboro,Blenheim,Carter's Branch Muddy Creek Watershed,,NON,Write-In,0
+Marlboro,Red Hill,Carter's Branch Muddy Creek Watershed,,NON,Write-In,17
+Marlboro,E Bennettsville,Carter's Branch Muddy Creek Watershed,,NON,Write-In,1
+Marlboro,W Bennettsville,Carter's Branch Muddy Creek Watershed,,NON,Write-In,5
+Marlboro,S Bennettsville,Carter's Branch Muddy Creek Watershed,,NON,Write-In,0
+Marlboro,N Bennettsville,Carter's Branch Muddy Creek Watershed,,NON,Write-In,0
+Marlboro,Absentee,Carter's Branch Muddy Creek Watershed,,NON,Write-In,4
+Marlboro,Emergency,Carter's Branch Muddy Creek Watershed,,NON,Write-In,0
+Marlboro,Failsafe,Carter's Branch Muddy Creek Watershed,,NON,Write-In,0
+Marlboro,Provisional,Carter's Branch Muddy Creek Watershed,,NON,Write-In,0
+Marlboro,Adamsville,Soil and Water District Commission,,NON,Richard Rogers,124
+Marlboro,Blenheim,Soil and Water District Commission,,NON,Richard Rogers,126
+Marlboro,Brightsville,Soil and Water District Commission,,NON,Richard Rogers,178
+Marlboro,Brownsville,Soil and Water District Commission,,NON,Richard Rogers,125
+Marlboro,Red Hill,Soil and Water District Commission,,NON,Richard Rogers,319
+Marlboro,Tatum,Soil and Water District Commission,,NON,Richard Rogers,137
+Marlboro,Wallace,Soil and Water District Commission,,NON,Richard Rogers,428
+Marlboro,Quicks  X  Roads,Soil and Water District Commission,,NON,Richard Rogers,292
+Marlboro,Clio,Soil and Water District Commission,,NON,Richard Rogers,424
+Marlboro,McColl,Soil and Water District Commission,,NON,Richard Rogers,324
+Marlboro,East McColl,Soil and Water District Commission,,NON,Richard Rogers,308
+Marlboro,E Bennettsville,Soil and Water District Commission,,NON,Richard Rogers,343
+Marlboro,W Bennettsville,Soil and Water District Commission,,NON,Richard Rogers,394
+Marlboro,S Bennettsville,Soil and Water District Commission,,NON,Richard Rogers,217
+Marlboro,N Bennettsville,Soil and Water District Commission,,NON,Richard Rogers,627
+Marlboro,Absentee,Soil and Water District Commission,,NON,Richard Rogers,2024
+Marlboro,Emergency,Soil and Water District Commission,,NON,Richard Rogers,3
+Marlboro,Failsafe,Soil and Water District Commission,,NON,Richard Rogers,59
+Marlboro,Provisional,Soil and Water District Commission,,NON,Richard Rogers,0
+Marlboro,Failsafe Provisional,Soil and Water District Commission,,NON,Richard Rogers,0
+Marlboro,Adamsville,Soil and Water District Commission,,NON,Write-In,0
+Marlboro,Blenheim,Soil and Water District Commission,,NON,Write-In,0
+Marlboro,Brightsville,Soil and Water District Commission,,NON,Write-In,1
+Marlboro,Brownsville,Soil and Water District Commission,,NON,Write-In,0
+Marlboro,Red Hill,Soil and Water District Commission,,NON,Write-In,4
+Marlboro,Tatum,Soil and Water District Commission,,NON,Write-In,0
+Marlboro,Wallace,Soil and Water District Commission,,NON,Write-In,1
+Marlboro,Quicks  X  Roads,Soil and Water District Commission,,NON,Write-In,0
+Marlboro,Clio,Soil and Water District Commission,,NON,Write-In,0
+Marlboro,McColl,Soil and Water District Commission,,NON,Write-In,1
+Marlboro,East McColl,Soil and Water District Commission,,NON,Write-In,1
+Marlboro,E Bennettsville,Soil and Water District Commission,,NON,Write-In,0
+Marlboro,W Bennettsville,Soil and Water District Commission,,NON,Write-In,1
+Marlboro,S Bennettsville,Soil and Water District Commission,,NON,Write-In,1
+Marlboro,N Bennettsville,Soil and Water District Commission,,NON,Write-In,1
+Marlboro,Absentee,Soil and Water District Commission,,NON,Write-In,11
+Marlboro,Emergency,Soil and Water District Commission,,NON,Write-In,0
+Marlboro,Failsafe,Soil and Water District Commission,,NON,Write-In,0
+Marlboro,Provisional,Soil and Water District Commission,,NON,Write-In,0
+Marlboro,Failsafe Provisional,Soil and Water District Commission,,NON,Write-In,0
+Marlboro,Adamsville,Constitutional Amendment,,NON,Yes,88
+Marlboro,Blenheim,Constitutional Amendment,,NON,Yes,87
+Marlboro,Brightsville,Constitutional Amendment,,NON,Yes,138
+Marlboro,Brownsville,Constitutional Amendment,,NON,Yes,83
+Marlboro,Red Hill,Constitutional Amendment,,NON,Yes,241
+Marlboro,Tatum,Constitutional Amendment,,NON,Yes,73
+Marlboro,Wallace,Constitutional Amendment,,NON,Yes,376
+Marlboro,Quicks  X  Roads,Constitutional Amendment,,NON,Yes,240
+Marlboro,Clio,Constitutional Amendment,,NON,Yes,313
+Marlboro,McColl,Constitutional Amendment,,NON,Yes,240
+Marlboro,East McColl,Constitutional Amendment,,NON,Yes,186
+Marlboro,E Bennettsville,Constitutional Amendment,,NON,Yes,270
+Marlboro,W Bennettsville,Constitutional Amendment,,NON,Yes,336
+Marlboro,S Bennettsville,Constitutional Amendment,,NON,Yes,187
+Marlboro,N Bennettsville,Constitutional Amendment,,NON,Yes,405
+Marlboro,Absentee,Constitutional Amendment,,NON,Yes,1617
+Marlboro,Emergency,Constitutional Amendment,,NON,Yes,1
+Marlboro,Failsafe,Constitutional Amendment,,NON,Yes,59
+Marlboro,Provisional,Constitutional Amendment,,NON,Yes,0
+Marlboro,Failsafe Provisional,Constitutional Amendment,,NON,Yes,0
+Marlboro,Adamsville,Constitutional Amendment,,NON,No,80
+Marlboro,Blenheim,Constitutional Amendment,,NON,No,70
+Marlboro,Brightsville,Constitutional Amendment,,NON,No,155
+Marlboro,Brownsville,Constitutional Amendment,,NON,No,82
+Marlboro,Red Hill,Constitutional Amendment,,NON,No,192
+Marlboro,Tatum,Constitutional Amendment,,NON,No,94
+Marlboro,Wallace,Constitutional Amendment,,NON,No,221
+Marlboro,Quicks  X  Roads,Constitutional Amendment,,NON,No,150
+Marlboro,Clio,Constitutional Amendment,,NON,No,328
+Marlboro,McColl,Constitutional Amendment,,NON,No,194
+Marlboro,East McColl,Constitutional Amendment,,NON,No,173
+Marlboro,E Bennettsville,Constitutional Amendment,,NON,No,216
+Marlboro,W Bennettsville,Constitutional Amendment,,NON,No,204
+Marlboro,S Bennettsville,Constitutional Amendment,,NON,No,167
+Marlboro,N Bennettsville,Constitutional Amendment,,NON,No,386
+Marlboro,Absentee,Constitutional Amendment,,NON,No,1362
+Marlboro,Emergency,Constitutional Amendment,,NON,No,2
+Marlboro,Failsafe,Constitutional Amendment,,NON,No,29
+Marlboro,Provisional,Constitutional Amendment,,NON,No,0
+Marlboro,Failsafe Provisional,Constitutional Amendment,,NON,No,0
+Marlboro,Adamsville,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",81
+Marlboro,Blenheim,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",74
+Marlboro,Brightsville,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",180
+Marlboro,Brownsville,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",78
+Marlboro,Red Hill,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",308
+Marlboro,Tatum,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",86
+Marlboro,Wallace,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",513
+Marlboro,Quicks  X  Roads,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",289
+Marlboro,Clio,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",343
+Marlboro,McColl,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",215
+Marlboro,East McColl,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",158
+Marlboro,E Bennettsville,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",276
+Marlboro,W Bennettsville,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",321
+Marlboro,S Bennettsville,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",226
+Marlboro,N Bennettsville,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",469
+Marlboro,Absentee,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",1775
+Marlboro,Emergency,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",0
+Marlboro,Failsafe,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",55
+Marlboro,Provisional,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",0
+Marlboro,Failsafe Provisional,LOCAL QUESTION #1,,NON,"Yes, in favor of the question",0
+Marlboro,Adamsville,LOCAL QUESTION #1,,NON,"No, opposed to the question",85
+Marlboro,Blenheim,LOCAL QUESTION #1,,NON,"No, opposed to the question",75
+Marlboro,Brightsville,LOCAL QUESTION #1,,NON,"No, opposed to the question",111
+Marlboro,Brownsville,LOCAL QUESTION #1,,NON,"No, opposed to the question",82
+Marlboro,Red Hill,LOCAL QUESTION #1,,NON,"No, opposed to the question",138
+Marlboro,Tatum,LOCAL QUESTION #1,,NON,"No, opposed to the question",88
+Marlboro,Wallace,LOCAL QUESTION #1,,NON,"No, opposed to the question",109
+Marlboro,Quicks  X  Roads,LOCAL QUESTION #1,,NON,"No, opposed to the question",87
+Marlboro,Clio,LOCAL QUESTION #1,,NON,"No, opposed to the question",292
+Marlboro,McColl,LOCAL QUESTION #1,,NON,"No, opposed to the question",216
+Marlboro,East McColl,LOCAL QUESTION #1,,NON,"No, opposed to the question",197
+Marlboro,E Bennettsville,LOCAL QUESTION #1,,NON,"No, opposed to the question",193
+Marlboro,W Bennettsville,LOCAL QUESTION #1,,NON,"No, opposed to the question",195
+Marlboro,S Bennettsville,LOCAL QUESTION #1,,NON,"No, opposed to the question",115
+Marlboro,N Bennettsville,LOCAL QUESTION #1,,NON,"No, opposed to the question",305
+Marlboro,Absentee,LOCAL QUESTION #1,,NON,"No, opposed to the question",1167
+Marlboro,Emergency,LOCAL QUESTION #1,,NON,"No, opposed to the question",3
+Marlboro,Failsafe,LOCAL QUESTION #1,,NON,"No, opposed to the question",27
+Marlboro,Provisional,LOCAL QUESTION #1,,NON,"No, opposed to the question",0
+Marlboro,Failsafe Provisional,LOCAL QUESTION #1,,NON,"No, opposed to the question",0
+Marlboro,Adamsville,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",85
+Marlboro,Blenheim,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",78
+Marlboro,Brightsville,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",209
+Marlboro,Brownsville,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",92
+Marlboro,Red Hill,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",341
+Marlboro,Tatum,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",107
+Marlboro,Wallace,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",547
+Marlboro,Quicks  X  Roads,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",327
+Marlboro,Clio,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",421
+Marlboro,McColl,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",262
+Marlboro,East McColl,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",175
+Marlboro,E Bennettsville,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",324
+Marlboro,W Bennettsville,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",405
+Marlboro,S Bennettsville,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",286
+Marlboro,N Bennettsville,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",516
+Marlboro,Absentee,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",2092
+Marlboro,Emergency,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",2
+Marlboro,Failsafe,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",65
+Marlboro,Provisional,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",0
+Marlboro,Failsafe Provisional,LOCAL QUESTION #2,,NON,"Yes, in favor of the question",0
+Marlboro,Adamsville,LOCAL QUESTION #2,,NON,"No, opposed to the question",81
+Marlboro,Blenheim,LOCAL QUESTION #2,,NON,"No, opposed to the question",72
+Marlboro,Brightsville,LOCAL QUESTION #2,,NON,"No, opposed to the question",93
+Marlboro,Brownsville,LOCAL QUESTION #2,,NON,"No, opposed to the question",74
+Marlboro,Red Hill,LOCAL QUESTION #2,,NON,"No, opposed to the question",118
+Marlboro,Tatum,LOCAL QUESTION #2,,NON,"No, opposed to the question",67
+Marlboro,Wallace,LOCAL QUESTION #2,,NON,"No, opposed to the question",81
+Marlboro,Quicks  X  Roads,LOCAL QUESTION #2,,NON,"No, opposed to the question",65
+Marlboro,Clio,LOCAL QUESTION #2,,NON,"No, opposed to the question",221
+Marlboro,McColl,LOCAL QUESTION #2,,NON,"No, opposed to the question",169
+Marlboro,East McColl,LOCAL QUESTION #2,,NON,"No, opposed to the question",181
+Marlboro,E Bennettsville,LOCAL QUESTION #2,,NON,"No, opposed to the question",156
+Marlboro,W Bennettsville,LOCAL QUESTION #2,,NON,"No, opposed to the question",126
+Marlboro,S Bennettsville,LOCAL QUESTION #2,,NON,"No, opposed to the question",74
+Marlboro,N Bennettsville,LOCAL QUESTION #2,,NON,"No, opposed to the question",278
+Marlboro,Absentee,LOCAL QUESTION #2,,NON,"No, opposed to the question",919
+Marlboro,Emergency,LOCAL QUESTION #2,,NON,"No, opposed to the question",1
+Marlboro,Failsafe,LOCAL QUESTION #2,,NON,"No, opposed to the question",21
+Marlboro,Provisional,LOCAL QUESTION #2,,NON,"No, opposed to the question",0
+Marlboro,Failsafe Provisional,LOCAL QUESTION #2,,NON,"No, opposed to the question",0

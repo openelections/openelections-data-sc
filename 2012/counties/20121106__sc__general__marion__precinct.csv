@@ -1,0 +1,926 @@
+county,precinct,office,district,party,candidate,votes
+Marion,BrittonS Neck,Straight Party 2,,REP,Republican,92
+Marion,Friendship,Straight Party 2,,REP,Republican,27
+Marion,Centenary,Straight Party 2,,REP,Republican,85
+Marion,Rains,Straight Party 2,,REP,Republican,51
+Marion,Marion No. 1,Straight Party 2,,REP,Republican,46
+Marion,Marion No. 2,Straight Party 2,,REP,Republican,106
+Marion,Marion North,Straight Party 2,,REP,Republican,130
+Marion,Marion South,Straight Party 2,,REP,Republican,117
+Marion,Marion West,Straight Party 2,,REP,Republican,121
+Marion,Sellers,Straight Party 2,,REP,Republican,10
+Marion,Temperance,Straight Party 2,,REP,Republican,56
+Marion,Zion,Straight Party 2,,REP,Republican,42
+Marion,Northwest Mullins,Straight Party 2,,REP,Republican,76
+Marion,Southwest Mullins,Straight Party 2,,REP,Republican,86
+Marion,Northeast Mullins,Straight Party 2,,REP,Republican,115
+Marion,Southeast Mullins,Straight Party 2,,REP,Republican,108
+Marion,Nichols,Straight Party 2,,REP,Republican,71
+Marion,Absentee,Straight Party 2,,REP,Republican,221
+Marion,Emergency,Straight Party 2,,REP,Republican,2
+Marion,Failsafe,Straight Party 2,,REP,Republican,1
+Marion,Provisional,Straight Party 2,,REP,Republican,3
+Marion,Failsafe Provisional,Straight Party 2,,REP,Republican,0
+Marion,BrittonS Neck,Straight Party 2,,LIB,Libertarian,2
+Marion,Friendship,Straight Party 2,,LIB,Libertarian,1
+Marion,Centenary,Straight Party 2,,LIB,Libertarian,1
+Marion,Rains,Straight Party 2,,LIB,Libertarian,2
+Marion,Marion No. 1,Straight Party 2,,LIB,Libertarian,1
+Marion,Marion No. 2,Straight Party 2,,LIB,Libertarian,1
+Marion,Marion North,Straight Party 2,,LIB,Libertarian,1
+Marion,Marion South,Straight Party 2,,LIB,Libertarian,4
+Marion,Marion West,Straight Party 2,,LIB,Libertarian,1
+Marion,Sellers,Straight Party 2,,LIB,Libertarian,0
+Marion,Temperance,Straight Party 2,,LIB,Libertarian,2
+Marion,Zion,Straight Party 2,,LIB,Libertarian,0
+Marion,Northwest Mullins,Straight Party 2,,LIB,Libertarian,0
+Marion,Southwest Mullins,Straight Party 2,,LIB,Libertarian,1
+Marion,Northeast Mullins,Straight Party 2,,LIB,Libertarian,0
+Marion,Southeast Mullins,Straight Party 2,,LIB,Libertarian,3
+Marion,Nichols,Straight Party 2,,LIB,Libertarian,1
+Marion,Absentee,Straight Party 2,,LIB,Libertarian,4
+Marion,Emergency,Straight Party 2,,LIB,Libertarian,0
+Marion,Failsafe,Straight Party 2,,LIB,Libertarian,1
+Marion,Provisional,Straight Party 2,,LIB,Libertarian,0
+Marion,Failsafe Provisional,Straight Party 2,,LIB,Libertarian,0
+Marion,BrittonS Neck,Straight Party 2,,DEM,Democratic,430
+Marion,Friendship,Straight Party 2,,DEM,Democratic,117
+Marion,Centenary,Straight Party 2,,DEM,Democratic,388
+Marion,Rains,Straight Party 2,,DEM,Democratic,209
+Marion,Marion No. 1,Straight Party 2,,DEM,Democratic,319
+Marion,Marion No. 2,Straight Party 2,,DEM,Democratic,159
+Marion,Marion North,Straight Party 2,,DEM,Democratic,223
+Marion,Marion South,Straight Party 2,,DEM,Democratic,851
+Marion,Marion West,Straight Party 2,,DEM,Democratic,173
+Marion,Sellers,Straight Party 2,,DEM,Democratic,104
+Marion,Temperance,Straight Party 2,,DEM,Democratic,238
+Marion,Zion,Straight Party 2,,DEM,Democratic,145
+Marion,Northwest Mullins,Straight Party 2,,DEM,Democratic,404
+Marion,Southwest Mullins,Straight Party 2,,DEM,Democratic,311
+Marion,Northeast Mullins,Straight Party 2,,DEM,Democratic,403
+Marion,Southeast Mullins,Straight Party 2,,DEM,Democratic,109
+Marion,Nichols,Straight Party 2,,DEM,Democratic,123
+Marion,Absentee,Straight Party 2,,DEM,Democratic,1626
+Marion,Emergency,Straight Party 2,,DEM,Democratic,1
+Marion,Failsafe,Straight Party 2,,DEM,Democratic,18
+Marion,Provisional,Straight Party 2,,DEM,Democratic,17
+Marion,Failsafe Provisional,Straight Party 2,,DEM,Democratic,0
+Marion,BrittonS Neck,Straight Party 2,,WFM,Working Families,6
+Marion,Friendship,Straight Party 2,,WFM,Working Families,1
+Marion,Centenary,Straight Party 2,,WFM,Working Families,3
+Marion,Rains,Straight Party 2,,WFM,Working Families,0
+Marion,Marion No. 1,Straight Party 2,,WFM,Working Families,5
+Marion,Marion No. 2,Straight Party 2,,WFM,Working Families,5
+Marion,Marion North,Straight Party 2,,WFM,Working Families,7
+Marion,Marion South,Straight Party 2,,WFM,Working Families,9
+Marion,Marion West,Straight Party 2,,WFM,Working Families,3
+Marion,Sellers,Straight Party 2,,WFM,Working Families,1
+Marion,Temperance,Straight Party 2,,WFM,Working Families,2
+Marion,Zion,Straight Party 2,,WFM,Working Families,1
+Marion,Northwest Mullins,Straight Party 2,,WFM,Working Families,10
+Marion,Southwest Mullins,Straight Party 2,,WFM,Working Families,8
+Marion,Northeast Mullins,Straight Party 2,,WFM,Working Families,10
+Marion,Southeast Mullins,Straight Party 2,,WFM,Working Families,3
+Marion,Nichols,Straight Party 2,,WFM,Working Families,5
+Marion,Absentee,Straight Party 2,,WFM,Working Families,13
+Marion,Emergency,Straight Party 2,,WFM,Working Families,0
+Marion,Failsafe,Straight Party 2,,WFM,Working Families,0
+Marion,Provisional,Straight Party 2,,WFM,Working Families,0
+Marion,Failsafe Provisional,Straight Party 2,,WFM,Working Families,0
+Marion,BrittonS Neck,Straight Party 2,,CON,Constitution,0
+Marion,Friendship,Straight Party 2,,CON,Constitution,1
+Marion,Centenary,Straight Party 2,,CON,Constitution,0
+Marion,Rains,Straight Party 2,,CON,Constitution,1
+Marion,Marion No. 1,Straight Party 2,,CON,Constitution,1
+Marion,Marion No. 2,Straight Party 2,,CON,Constitution,0
+Marion,Marion North,Straight Party 2,,CON,Constitution,1
+Marion,Marion South,Straight Party 2,,CON,Constitution,1
+Marion,Marion West,Straight Party 2,,CON,Constitution,0
+Marion,Sellers,Straight Party 2,,CON,Constitution,0
+Marion,Temperance,Straight Party 2,,CON,Constitution,0
+Marion,Zion,Straight Party 2,,CON,Constitution,0
+Marion,Northwest Mullins,Straight Party 2,,CON,Constitution,0
+Marion,Southwest Mullins,Straight Party 2,,CON,Constitution,1
+Marion,Northeast Mullins,Straight Party 2,,CON,Constitution,0
+Marion,Southeast Mullins,Straight Party 2,,CON,Constitution,1
+Marion,Nichols,Straight Party 2,,CON,Constitution,0
+Marion,Absentee,Straight Party 2,,CON,Constitution,0
+Marion,Emergency,Straight Party 2,,CON,Constitution,0
+Marion,Failsafe,Straight Party 2,,CON,Constitution,0
+Marion,Provisional,Straight Party 2,,CON,Constitution,0
+Marion,Failsafe Provisional,Straight Party 2,,CON,Constitution,0
+Marion,BrittonS Neck,Straight Party 2,,GRN,Green,1
+Marion,Friendship,Straight Party 2,,GRN,Green,0
+Marion,Centenary,Straight Party 2,,GRN,Green,2
+Marion,Rains,Straight Party 2,,GRN,Green,0
+Marion,Marion No. 1,Straight Party 2,,GRN,Green,0
+Marion,Marion No. 2,Straight Party 2,,GRN,Green,3
+Marion,Marion North,Straight Party 2,,GRN,Green,5
+Marion,Marion South,Straight Party 2,,GRN,Green,1
+Marion,Marion West,Straight Party 2,,GRN,Green,1
+Marion,Sellers,Straight Party 2,,GRN,Green,0
+Marion,Temperance,Straight Party 2,,GRN,Green,1
+Marion,Zion,Straight Party 2,,GRN,Green,0
+Marion,Northwest Mullins,Straight Party 2,,GRN,Green,1
+Marion,Southwest Mullins,Straight Party 2,,GRN,Green,0
+Marion,Northeast Mullins,Straight Party 2,,GRN,Green,3
+Marion,Southeast Mullins,Straight Party 2,,GRN,Green,4
+Marion,Nichols,Straight Party 2,,GRN,Green,1
+Marion,Absentee,Straight Party 2,,GRN,Green,3
+Marion,Emergency,Straight Party 2,,GRN,Green,0
+Marion,Failsafe,Straight Party 2,,GRN,Green,0
+Marion,Provisional,Straight Party 2,,GRN,Green,0
+Marion,Failsafe Provisional,Straight Party 2,,GRN,Green,0
+Marion,BrittonS Neck,President and Vice President,,REP,Mitt Romney / Paul Ryan,250
+Marion,Friendship,President and Vice President,,REP,Mitt Romney / Paul Ryan,61
+Marion,Centenary,President and Vice President,,REP,Mitt Romney / Paul Ryan,207
+Marion,Rains,President and Vice President,,REP,Mitt Romney / Paul Ryan,146
+Marion,Marion No. 1,President and Vice President,,REP,Mitt Romney / Paul Ryan,178
+Marion,Marion No. 2,President and Vice President,,REP,Mitt Romney / Paul Ryan,441
+Marion,Marion North,President and Vice President,,REP,Mitt Romney / Paul Ryan,377
+Marion,Marion South,President and Vice President,,REP,Mitt Romney / Paul Ryan,339
+Marion,Marion West,President and Vice President,,REP,Mitt Romney / Paul Ryan,366
+Marion,Sellers,President and Vice President,,REP,Mitt Romney / Paul Ryan,24
+Marion,Temperance,President and Vice President,,REP,Mitt Romney / Paul Ryan,171
+Marion,Zion,President and Vice President,,REP,Mitt Romney / Paul Ryan,108
+Marion,Northwest Mullins,President and Vice President,,REP,Mitt Romney / Paul Ryan,220
+Marion,Southwest Mullins,President and Vice President,,REP,Mitt Romney / Paul Ryan,303
+Marion,Northeast Mullins,President and Vice President,,REP,Mitt Romney / Paul Ryan,352
+Marion,Southeast Mullins,President and Vice President,,REP,Mitt Romney / Paul Ryan,550
+Marion,Nichols,President and Vice President,,REP,Mitt Romney / Paul Ryan,231
+Marion,Absentee,President and Vice President,,REP,Mitt Romney / Paul Ryan,828
+Marion,Emergency,President and Vice President,,REP,Mitt Romney / Paul Ryan,4
+Marion,Failsafe,President and Vice President,,REP,Mitt Romney / Paul Ryan,3
+Marion,Provisional,President and Vice President,,REP,Mitt Romney / Paul Ryan,5
+Marion,Failsafe Provisional,President and Vice President,,REP,Mitt Romney / Paul Ryan,0
+Marion,BrittonS Neck,President and Vice President,,LIB,Gary Johnson / James P Gray,4
+Marion,Friendship,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marion,Centenary,President and Vice President,,LIB,Gary Johnson / James P Gray,3
+Marion,Rains,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marion,Marion No. 1,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Marion,Marion No. 2,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Marion,Marion North,President and Vice President,,LIB,Gary Johnson / James P Gray,5
+Marion,Marion South,President and Vice President,,LIB,Gary Johnson / James P Gray,3
+Marion,Marion West,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marion,Sellers,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marion,Temperance,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marion,Zion,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marion,Northwest Mullins,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Marion,Southwest Mullins,President and Vice President,,LIB,Gary Johnson / James P Gray,4
+Marion,Northeast Mullins,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Marion,Southeast Mullins,President and Vice President,,LIB,Gary Johnson / James P Gray,2
+Marion,Nichols,President and Vice President,,LIB,Gary Johnson / James P Gray,4
+Marion,Absentee,President and Vice President,,LIB,Gary Johnson / James P Gray,5
+Marion,Emergency,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marion,Failsafe,President and Vice President,,LIB,Gary Johnson / James P Gray,1
+Marion,Provisional,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marion,Failsafe Provisional,President and Vice President,,LIB,Gary Johnson / James P Gray,0
+Marion,BrittonS Neck,President and Vice President,,DEM,Barack Obama / Joe Biden,632
+Marion,Friendship,President and Vice President,,DEM,Barack Obama / Joe Biden,152
+Marion,Centenary,President and Vice President,,DEM,Barack Obama / Joe Biden,520
+Marion,Rains,President and Vice President,,DEM,Barack Obama / Joe Biden,341
+Marion,Marion No. 1,President and Vice President,,DEM,Barack Obama / Joe Biden,487
+Marion,Marion No. 2,President and Vice President,,DEM,Barack Obama / Joe Biden,323
+Marion,Marion North,President and Vice President,,DEM,Barack Obama / Joe Biden,402
+Marion,Marion South,President and Vice President,,DEM,Barack Obama / Joe Biden,1191
+Marion,Marion West,President and Vice President,,DEM,Barack Obama / Joe Biden,309
+Marion,Sellers,President and Vice President,,DEM,Barack Obama / Joe Biden,140
+Marion,Temperance,President and Vice President,,DEM,Barack Obama / Joe Biden,413
+Marion,Zion,President and Vice President,,DEM,Barack Obama / Joe Biden,208
+Marion,Northwest Mullins,President and Vice President,,DEM,Barack Obama / Joe Biden,628
+Marion,Southwest Mullins,President and Vice President,,DEM,Barack Obama / Joe Biden,526
+Marion,Northeast Mullins,President and Vice President,,DEM,Barack Obama / Joe Biden,664
+Marion,Southeast Mullins,President and Vice President,,DEM,Barack Obama / Joe Biden,225
+Marion,Nichols,President and Vice President,,DEM,Barack Obama / Joe Biden,214
+Marion,Absentee,President and Vice President,,DEM,Barack Obama / Joe Biden,2265
+Marion,Emergency,President and Vice President,,DEM,Barack Obama / Joe Biden,4
+Marion,Failsafe,President and Vice President,,DEM,Barack Obama / Joe Biden,22
+Marion,Provisional,President and Vice President,,DEM,Barack Obama / Joe Biden,22
+Marion,Failsafe Provisional,President and Vice President,,DEM,Barack Obama / Joe Biden,0
+Marion,BrittonS Neck,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Marion,Friendship,President and Vice President,,CON,Virgil Goode / Jim Clymer,3
+Marion,Centenary,President and Vice President,,CON,Virgil Goode / Jim Clymer,2
+Marion,Rains,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Marion,Marion No. 1,President and Vice President,,CON,Virgil Goode / Jim Clymer,4
+Marion,Marion No. 2,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Marion,Marion North,President and Vice President,,CON,Virgil Goode / Jim Clymer,3
+Marion,Marion South,President and Vice President,,CON,Virgil Goode / Jim Clymer,7
+Marion,Marion West,President and Vice President,,CON,Virgil Goode / Jim Clymer,2
+Marion,Sellers,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marion,Temperance,President and Vice President,,CON,Virgil Goode / Jim Clymer,1
+Marion,Zion,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marion,Northwest Mullins,President and Vice President,,CON,Virgil Goode / Jim Clymer,5
+Marion,Southwest Mullins,President and Vice President,,CON,Virgil Goode / Jim Clymer,6
+Marion,Northeast Mullins,President and Vice President,,CON,Virgil Goode / Jim Clymer,2
+Marion,Southeast Mullins,President and Vice President,,CON,Virgil Goode / Jim Clymer,5
+Marion,Nichols,President and Vice President,,CON,Virgil Goode / Jim Clymer,2
+Marion,Absentee,President and Vice President,,CON,Virgil Goode / Jim Clymer,10
+Marion,Emergency,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marion,Failsafe,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marion,Provisional,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marion,Failsafe Provisional,President and Vice President,,CON,Virgil Goode / Jim Clymer,0
+Marion,BrittonS Neck,President and Vice President,,GRN,Jill Stein / Cheri Honkala,4
+Marion,Friendship,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marion,Centenary,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Marion,Rains,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Marion,Marion No. 1,President and Vice President,,GRN,Jill Stein / Cheri Honkala,3
+Marion,Marion No. 2,President and Vice President,,GRN,Jill Stein / Cheri Honkala,3
+Marion,Marion North,President and Vice President,,GRN,Jill Stein / Cheri Honkala,4
+Marion,Marion South,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Marion,Marion West,President and Vice President,,GRN,Jill Stein / Cheri Honkala,4
+Marion,Sellers,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Marion,Temperance,President and Vice President,,GRN,Jill Stein / Cheri Honkala,2
+Marion,Zion,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Marion,Northwest Mullins,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Marion,Southwest Mullins,President and Vice President,,GRN,Jill Stein / Cheri Honkala,3
+Marion,Northeast Mullins,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marion,Southeast Mullins,President and Vice President,,GRN,Jill Stein / Cheri Honkala,6
+Marion,Nichols,President and Vice President,,GRN,Jill Stein / Cheri Honkala,1
+Marion,Absentee,President and Vice President,,GRN,Jill Stein / Cheri Honkala,6
+Marion,Emergency,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marion,Failsafe,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marion,Provisional,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marion,Failsafe Provisional,President and Vice President,,GRN,Jill Stein / Cheri Honkala,0
+Marion,BrittonS Neck,U.S. House of Representatives,7,REP,Tom Rice,243
+Marion,Friendship,U.S. House of Representatives,7,REP,Tom Rice,61
+Marion,Centenary,U.S. House of Representatives,7,REP,Tom Rice,210
+Marion,Rains,U.S. House of Representatives,7,REP,Tom Rice,150
+Marion,Marion No. 1,U.S. House of Representatives,7,REP,Tom Rice,198
+Marion,Marion No. 2,U.S. House of Representatives,7,REP,Tom Rice,456
+Marion,Marion North,U.S. House of Representatives,7,REP,Tom Rice,394
+Marion,Marion South,U.S. House of Representatives,7,REP,Tom Rice,351
+Marion,Marion West,U.S. House of Representatives,7,REP,Tom Rice,376
+Marion,Sellers,U.S. House of Representatives,7,REP,Tom Rice,25
+Marion,Temperance,U.S. House of Representatives,7,REP,Tom Rice,182
+Marion,Zion,U.S. House of Representatives,7,REP,Tom Rice,107
+Marion,Northwest Mullins,U.S. House of Representatives,7,REP,Tom Rice,232
+Marion,Southwest Mullins,U.S. House of Representatives,7,REP,Tom Rice,316
+Marion,Northeast Mullins,U.S. House of Representatives,7,REP,Tom Rice,350
+Marion,Southeast Mullins,U.S. House of Representatives,7,REP,Tom Rice,571
+Marion,Nichols,U.S. House of Representatives,7,REP,Tom Rice,220
+Marion,Absentee,U.S. House of Representatives,7,REP,Tom Rice,877
+Marion,Emergency,U.S. House of Representatives,7,REP,Tom Rice,0
+Marion,Failsafe,U.S. House of Representatives,7,REP,Tom Rice,3
+Marion,Provisional,U.S. House of Representatives,7,REP,Tom Rice,5
+Marion,Failsafe Provisional,U.S. House of Representatives,7,REP,Tom Rice,0
+Marion,BrittonS Neck,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,600
+Marion,Friendship,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,151
+Marion,Centenary,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,504
+Marion,Rains,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,314
+Marion,Marion No. 1,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,437
+Marion,Marion No. 2,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,285
+Marion,Marion North,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,363
+Marion,Marion South,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,1137
+Marion,Marion West,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,269
+Marion,Sellers,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,134
+Marion,Temperance,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,379
+Marion,Zion,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,194
+Marion,Northwest Mullins,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,582
+Marion,Southwest Mullins,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,478
+Marion,Northeast Mullins,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,608
+Marion,Southeast Mullins,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,195
+Marion,Nichols,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,203
+Marion,Absentee,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,2123
+Marion,Emergency,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,1
+Marion,Failsafe,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,21
+Marion,Provisional,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,20
+Marion,Failsafe Provisional,U.S. House of Representatives,7,DEM,Gloria Bromell Tinubu,0
+Marion,BrittonS Neck,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,26
+Marion,Friendship,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,2
+Marion,Centenary,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,10
+Marion,Rains,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,20
+Marion,Marion No. 1,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,28
+Marion,Marion No. 2,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,17
+Marion,Marion North,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,20
+Marion,Marion South,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,49
+Marion,Marion West,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,22
+Marion,Sellers,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,4
+Marion,Temperance,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,20
+Marion,Zion,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,10
+Marion,Northwest Mullins,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,36
+Marion,Southwest Mullins,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,27
+Marion,Northeast Mullins,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,42
+Marion,Southeast Mullins,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,19
+Marion,Nichols,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,20
+Marion,Absentee,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,70
+Marion,Emergency,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,0
+Marion,Failsafe,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,1
+Marion,Provisional,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,2
+Marion,Failsafe Provisional,U.S. House of Representatives,7,WFM,Gloria Bromell Tinubu,0
+Marion,BrittonS Neck,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Friendship,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Centenary,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Rains,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Marion No. 1,U.S. House of Representatives,7,NON,Write-In,1
+Marion,Marion No. 2,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Marion North,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Marion South,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Marion West,U.S. House of Representatives,7,NON,Write-In,2
+Marion,Sellers,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Temperance,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Zion,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Northwest Mullins,U.S. House of Representatives,7,NON,Write-In,1
+Marion,Southwest Mullins,U.S. House of Representatives,7,NON,Write-In,1
+Marion,Northeast Mullins,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Southeast Mullins,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Nichols,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Absentee,U.S. House of Representatives,7,NON,Write-In,3
+Marion,Emergency,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Failsafe,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Provisional,U.S. House of Representatives,7,NON,Write-In,0
+Marion,Failsafe Provisional,U.S. House of Representatives,7,NON,Write-In,0
+Marion,BrittonS Neck,State Senate District 30,,DEM,Kent Williams,751
+Marion,Friendship,State Senate District 30,,DEM,Kent Williams,191
+Marion,Centenary,State Senate District 30,,DEM,Kent Williams,628
+Marion,Rains,State Senate District 30,,DEM,Kent Williams,435
+Marion,Marion No. 1,State Senate District 30,,DEM,Kent Williams,601
+Marion,Marion No. 2,State Senate District 30,,DEM,Kent Williams,633
+Marion,Marion North,State Senate District 30,,DEM,Kent Williams,655
+Marion,Marion South,State Senate District 30,,DEM,Kent Williams,1415
+Marion,Marion West,State Senate District 30,,DEM,Kent Williams,557
+Marion,Sellers,State Senate District 30,,DEM,Kent Williams,149
+Marion,Temperance,State Senate District 30,,DEM,Kent Williams,509
+Marion,Zion,State Senate District 30,,DEM,Kent Williams,264
+Marion,Northwest Mullins,State Senate District 30,,DEM,Kent Williams,755
+Marion,Southwest Mullins,State Senate District 30,,DEM,Kent Williams,703
+Marion,Northeast Mullins,State Senate District 30,,DEM,Kent Williams,871
+Marion,Southeast Mullins,State Senate District 30,,DEM,Kent Williams,669
+Marion,Nichols,State Senate District 30,,DEM,Kent Williams,365
+Marion,Absentee,State Senate District 30,,DEM,Kent Williams,2711
+Marion,Emergency,State Senate District 30,,DEM,Kent Williams,4
+Marion,Failsafe,State Senate District 30,,DEM,Kent Williams,24
+Marion,Provisional,State Senate District 30,,DEM,Kent Williams,24
+Marion,Failsafe Provisional,State Senate District 30,,DEM,Kent Williams,0
+Marion,BrittonS Neck,State Senate District 30,,NON,Write-In,11
+Marion,Friendship,State Senate District 30,,NON,Write-In,3
+Marion,Centenary,State Senate District 30,,NON,Write-In,3
+Marion,Rains,State Senate District 30,,NON,Write-In,4
+Marion,Marion No. 1,State Senate District 30,,NON,Write-In,3
+Marion,Marion No. 2,State Senate District 30,,NON,Write-In,6
+Marion,Marion North,State Senate District 30,,NON,Write-In,9
+Marion,Marion South,State Senate District 30,,NON,Write-In,1
+Marion,Marion West,State Senate District 30,,NON,Write-In,7
+Marion,Sellers,State Senate District 30,,NON,Write-In,0
+Marion,Temperance,State Senate District 30,,NON,Write-In,6
+Marion,Zion,State Senate District 30,,NON,Write-In,2
+Marion,Northwest Mullins,State Senate District 30,,NON,Write-In,4
+Marion,Southwest Mullins,State Senate District 30,,NON,Write-In,3
+Marion,Northeast Mullins,State Senate District 30,,NON,Write-In,7
+Marion,Southeast Mullins,State Senate District 30,,NON,Write-In,1
+Marion,Nichols,State Senate District 30,,NON,Write-In,0
+Marion,Absentee,State Senate District 30,,NON,Write-In,22
+Marion,Emergency,State Senate District 30,,NON,Write-In,1
+Marion,Failsafe,State Senate District 30,,NON,Write-In,0
+Marion,Provisional,State Senate District 30,,NON,Write-In,0
+Marion,Failsafe Provisional,State Senate District 30,,NON,Write-In,0
+Marion,BrittonS Neck,State House of Representatives District 57,,REP,Eric Fry,170
+Marion,Friendship,State House of Representatives District 57,,REP,Eric Fry,43
+Marion,Centenary,State House of Representatives District 57,,REP,Eric Fry,139
+Marion,Rains,State House of Representatives District 57,,REP,Eric Fry,83
+Marion,Marion No. 1,State House of Representatives District 57,,REP,Eric Fry,87
+Marion,Marion No. 2,State House of Representatives District 57,,REP,Eric Fry,204
+Marion,Marion North,State House of Representatives District 57,,REP,Eric Fry,234
+Marion,Marion South,State House of Representatives District 57,,REP,Eric Fry,187
+Marion,Temperance,State House of Representatives District 57,,REP,Eric Fry,124
+Marion,Zion,State House of Representatives District 57,,REP,Eric Fry,61
+Marion,Northwest Mullins,State House of Representatives District 57,,REP,Eric Fry,121
+Marion,Southwest Mullins,State House of Representatives District 57,,REP,Eric Fry,129
+Marion,Northeast Mullins,State House of Representatives District 57,,REP,Eric Fry,163
+Marion,Southeast Mullins,State House of Representatives District 57,,REP,Eric Fry,183
+Marion,Nichols,State House of Representatives District 57,,REP,Eric Fry,118
+Marion,Absentee,State House of Representatives District 57,,REP,Eric Fry,371
+Marion,Emergency,State House of Representatives District 57,,REP,Eric Fry,0
+Marion,Failsafe,State House of Representatives District 57,,REP,Eric Fry,1
+Marion,Provisional,State House of Representatives District 57,,REP,Eric Fry,2
+Marion,BrittonS Neck,State House of Representatives District 57,,DEM,J Wayne George,666
+Marion,Friendship,State House of Representatives District 57,,DEM,J Wayne George,169
+Marion,Centenary,State House of Representatives District 57,,DEM,J Wayne George,560
+Marion,Rains,State House of Representatives District 57,,DEM,J Wayne George,385
+Marion,Marion No. 1,State House of Representatives District 57,,DEM,J Wayne George,546
+Marion,Marion No. 2,State House of Representatives District 57,,DEM,J Wayne George,531
+Marion,Marion North,State House of Representatives District 57,,DEM,J Wayne George,524
+Marion,Marion South,State House of Representatives District 57,,DEM,J Wayne George,1321
+Marion,Temperance,State House of Representatives District 57,,DEM,J Wayne George,446
+Marion,Zion,State House of Representatives District 57,,DEM,J Wayne George,243
+Marion,Northwest Mullins,State House of Representatives District 57,,DEM,J Wayne George,710
+Marion,Southwest Mullins,State House of Representatives District 57,,DEM,J Wayne George,674
+Marion,Northeast Mullins,State House of Representatives District 57,,DEM,J Wayne George,833
+Marion,Southeast Mullins,State House of Representatives District 57,,DEM,J Wayne George,594
+Marion,Nichols,State House of Representatives District 57,,DEM,J Wayne George,315
+Marion,Absentee,State House of Representatives District 57,,DEM,J Wayne George,2453
+Marion,Emergency,State House of Representatives District 57,,DEM,J Wayne George,0
+Marion,Failsafe,State House of Representatives District 57,,DEM,J Wayne George,21
+Marion,Provisional,State House of Representatives District 57,,DEM,J Wayne George,15
+Marion,BrittonS Neck,State House of Representatives District 57,,NON,Write-In,1
+Marion,Friendship,State House of Representatives District 57,,NON,Write-In,0
+Marion,Centenary,State House of Representatives District 57,,NON,Write-In,0
+Marion,Rains,State House of Representatives District 57,,NON,Write-In,0
+Marion,Marion No. 1,State House of Representatives District 57,,NON,Write-In,0
+Marion,Marion No. 2,State House of Representatives District 57,,NON,Write-In,1
+Marion,Marion North,State House of Representatives District 57,,NON,Write-In,2
+Marion,Marion South,State House of Representatives District 57,,NON,Write-In,0
+Marion,Temperance,State House of Representatives District 57,,NON,Write-In,0
+Marion,Zion,State House of Representatives District 57,,NON,Write-In,1
+Marion,Northwest Mullins,State House of Representatives District 57,,NON,Write-In,0
+Marion,Southwest Mullins,State House of Representatives District 57,,NON,Write-In,2
+Marion,Northeast Mullins,State House of Representatives District 57,,NON,Write-In,0
+Marion,Southeast Mullins,State House of Representatives District 57,,NON,Write-In,0
+Marion,Nichols,State House of Representatives District 57,,NON,Write-In,1
+Marion,Absentee,State House of Representatives District 57,,NON,Write-In,3
+Marion,Emergency,State House of Representatives District 57,,NON,Write-In,0
+Marion,Failsafe,State House of Representatives District 57,,NON,Write-In,0
+Marion,Provisional,State House of Representatives District 57,,NON,Write-In,0
+Marion,Marion West,State House of Representatives District 61,,DEM,Lester Branham,487
+Marion,Sellers,State House of Representatives District 61,,DEM,Lester Branham,148
+Marion,Absentee,State House of Representatives District 61,,DEM,Lester Branham,97
+Marion,Emergency,State House of Representatives District 61,,DEM,Lester Branham,3
+Marion,Failsafe,State House of Representatives District 61,,DEM,Lester Branham,0
+Marion,Provisional,State House of Representatives District 61,,DEM,Lester Branham,1
+Marion,Marion West,State House of Representatives District 61,,NON,Write-In,3
+Marion,Sellers,State House of Representatives District 61,,NON,Write-In,0
+Marion,Absentee,State House of Representatives District 61,,NON,Write-In,0
+Marion,Emergency,State House of Representatives District 61,,NON,Write-In,1
+Marion,Failsafe,State House of Representatives District 61,,NON,Write-In,0
+Marion,Provisional,State House of Representatives District 61,,NON,Write-In,0
+Marion,BrittonS Neck,Sheriff,,DEM,Mark Richardson,793
+Marion,Friendship,Sheriff,,DEM,Mark Richardson,197
+Marion,Centenary,Sheriff,,DEM,Mark Richardson,649
+Marion,Rains,Sheriff,,DEM,Mark Richardson,436
+Marion,Marion No. 1,Sheriff,,DEM,Mark Richardson,608
+Marion,Marion No. 2,Sheriff,,DEM,Mark Richardson,671
+Marion,Marion North,Sheriff,,DEM,Mark Richardson,703
+Marion,Marion South,Sheriff,,DEM,Mark Richardson,1436
+Marion,Marion West,Sheriff,,DEM,Mark Richardson,584
+Marion,Sellers,Sheriff,,DEM,Mark Richardson,152
+Marion,Temperance,Sheriff,,DEM,Mark Richardson,524
+Marion,Zion,Sheriff,,DEM,Mark Richardson,270
+Marion,Northwest Mullins,Sheriff,,DEM,Mark Richardson,768
+Marion,Southwest Mullins,Sheriff,,DEM,Mark Richardson,720
+Marion,Northeast Mullins,Sheriff,,DEM,Mark Richardson,896
+Marion,Southeast Mullins,Sheriff,,DEM,Mark Richardson,718
+Marion,Nichols,Sheriff,,DEM,Mark Richardson,392
+Marion,Absentee,Sheriff,,DEM,Mark Richardson,2763
+Marion,Emergency,Sheriff,,DEM,Mark Richardson,4
+Marion,Failsafe,Sheriff,,DEM,Mark Richardson,23
+Marion,Provisional,Sheriff,,DEM,Mark Richardson,23
+Marion,Failsafe Provisional,Sheriff,,DEM,Mark Richardson,0
+Marion,BrittonS Neck,Sheriff,,NON,Write-In,3
+Marion,Friendship,Sheriff,,NON,Write-In,0
+Marion,Centenary,Sheriff,,NON,Write-In,4
+Marion,Rains,Sheriff,,NON,Write-In,2
+Marion,Marion No. 1,Sheriff,,NON,Write-In,0
+Marion,Marion No. 2,Sheriff,,NON,Write-In,5
+Marion,Marion North,Sheriff,,NON,Write-In,6
+Marion,Marion South,Sheriff,,NON,Write-In,6
+Marion,Marion West,Sheriff,,NON,Write-In,0
+Marion,Sellers,Sheriff,,NON,Write-In,0
+Marion,Temperance,Sheriff,,NON,Write-In,1
+Marion,Zion,Sheriff,,NON,Write-In,0
+Marion,Northwest Mullins,Sheriff,,NON,Write-In,0
+Marion,Southwest Mullins,Sheriff,,NON,Write-In,6
+Marion,Northeast Mullins,Sheriff,,NON,Write-In,5
+Marion,Southeast Mullins,Sheriff,,NON,Write-In,2
+Marion,Nichols,Sheriff,,NON,Write-In,1
+Marion,Absentee,Sheriff,,NON,Write-In,20
+Marion,Emergency,Sheriff,,NON,Write-In,1
+Marion,Failsafe,Sheriff,,NON,Write-In,1
+Marion,Provisional,Sheriff,,NON,Write-In,0
+Marion,Failsafe Provisional,Sheriff,,NON,Write-In,0
+Marion,BrittonS Neck,Probate Judge,,DEM,T Carroll Atkinson III,779
+Marion,Friendship,Probate Judge,,DEM,T Carroll Atkinson III,201
+Marion,Centenary,Probate Judge,,DEM,T Carroll Atkinson III,645
+Marion,Rains,Probate Judge,,DEM,T Carroll Atkinson III,437
+Marion,Marion No. 1,Probate Judge,,DEM,T Carroll Atkinson III,607
+Marion,Marion No. 2,Probate Judge,,DEM,T Carroll Atkinson III,668
+Marion,Marion North,Probate Judge,,DEM,T Carroll Atkinson III,692
+Marion,Marion South,Probate Judge,,DEM,T Carroll Atkinson III,1442
+Marion,Marion West,Probate Judge,,DEM,T Carroll Atkinson III,590
+Marion,Sellers,Probate Judge,,DEM,T Carroll Atkinson III,151
+Marion,Temperance,Probate Judge,,DEM,T Carroll Atkinson III,528
+Marion,Zion,Probate Judge,,DEM,T Carroll Atkinson III,276
+Marion,Northwest Mullins,Probate Judge,,DEM,T Carroll Atkinson III,770
+Marion,Southwest Mullins,Probate Judge,,DEM,T Carroll Atkinson III,734
+Marion,Northeast Mullins,Probate Judge,,DEM,T Carroll Atkinson III,897
+Marion,Southeast Mullins,Probate Judge,,DEM,T Carroll Atkinson III,711
+Marion,Nichols,Probate Judge,,DEM,T Carroll Atkinson III,383
+Marion,Absentee,Probate Judge,,DEM,T Carroll Atkinson III,2793
+Marion,Emergency,Probate Judge,,DEM,T Carroll Atkinson III,5
+Marion,Failsafe,Probate Judge,,DEM,T Carroll Atkinson III,23
+Marion,Provisional,Probate Judge,,DEM,T Carroll Atkinson III,23
+Marion,Failsafe Provisional,Probate Judge,,DEM,T Carroll Atkinson III,0
+Marion,BrittonS Neck,Probate Judge,,NON,Write-In,1
+Marion,Friendship,Probate Judge,,NON,Write-In,0
+Marion,Centenary,Probate Judge,,NON,Write-In,1
+Marion,Rains,Probate Judge,,NON,Write-In,2
+Marion,Marion No. 1,Probate Judge,,NON,Write-In,0
+Marion,Marion No. 2,Probate Judge,,NON,Write-In,0
+Marion,Marion North,Probate Judge,,NON,Write-In,5
+Marion,Marion South,Probate Judge,,NON,Write-In,2
+Marion,Marion West,Probate Judge,,NON,Write-In,2
+Marion,Sellers,Probate Judge,,NON,Write-In,0
+Marion,Temperance,Probate Judge,,NON,Write-In,2
+Marion,Zion,Probate Judge,,NON,Write-In,0
+Marion,Northwest Mullins,Probate Judge,,NON,Write-In,0
+Marion,Southwest Mullins,Probate Judge,,NON,Write-In,3
+Marion,Northeast Mullins,Probate Judge,,NON,Write-In,3
+Marion,Southeast Mullins,Probate Judge,,NON,Write-In,1
+Marion,Nichols,Probate Judge,,NON,Write-In,1
+Marion,Absentee,Probate Judge,,NON,Write-In,18
+Marion,Emergency,Probate Judge,,NON,Write-In,0
+Marion,Failsafe,Probate Judge,,NON,Write-In,0
+Marion,Provisional,Probate Judge,,NON,Write-In,0
+Marion,Failsafe Provisional,Probate Judge,,NON,Write-In,0
+Marion,BrittonS Neck,Clerk of Court,,DEM,Sherry Richardson Rhodes,780
+Marion,Friendship,Clerk of Court,,DEM,Sherry Richardson Rhodes,197
+Marion,Centenary,Clerk of Court,,DEM,Sherry Richardson Rhodes,642
+Marion,Rains,Clerk of Court,,DEM,Sherry Richardson Rhodes,433
+Marion,Marion No. 1,Clerk of Court,,DEM,Sherry Richardson Rhodes,600
+Marion,Marion No. 2,Clerk of Court,,DEM,Sherry Richardson Rhodes,659
+Marion,Marion North,Clerk of Court,,DEM,Sherry Richardson Rhodes,688
+Marion,Marion South,Clerk of Court,,DEM,Sherry Richardson Rhodes,1440
+Marion,Marion West,Clerk of Court,,DEM,Sherry Richardson Rhodes,567
+Marion,Sellers,Clerk of Court,,DEM,Sherry Richardson Rhodes,154
+Marion,Temperance,Clerk of Court,,DEM,Sherry Richardson Rhodes,529
+Marion,Zion,Clerk of Court,,DEM,Sherry Richardson Rhodes,264
+Marion,Northwest Mullins,Clerk of Court,,DEM,Sherry Richardson Rhodes,766
+Marion,Southwest Mullins,Clerk of Court,,DEM,Sherry Richardson Rhodes,723
+Marion,Northeast Mullins,Clerk of Court,,DEM,Sherry Richardson Rhodes,887
+Marion,Southeast Mullins,Clerk of Court,,DEM,Sherry Richardson Rhodes,697
+Marion,Nichols,Clerk of Court,,DEM,Sherry Richardson Rhodes,383
+Marion,Absentee,Clerk of Court,,DEM,Sherry Richardson Rhodes,2769
+Marion,Emergency,Clerk of Court,,DEM,Sherry Richardson Rhodes,5
+Marion,Failsafe,Clerk of Court,,DEM,Sherry Richardson Rhodes,25
+Marion,Provisional,Clerk of Court,,DEM,Sherry Richardson Rhodes,21
+Marion,Failsafe Provisional,Clerk of Court,,DEM,Sherry Richardson Rhodes,0
+Marion,BrittonS Neck,Clerk of Court,,NON,Write-In,0
+Marion,Friendship,Clerk of Court,,NON,Write-In,0
+Marion,Centenary,Clerk of Court,,NON,Write-In,1
+Marion,Rains,Clerk of Court,,NON,Write-In,0
+Marion,Marion No. 1,Clerk of Court,,NON,Write-In,0
+Marion,Marion No. 2,Clerk of Court,,NON,Write-In,2
+Marion,Marion North,Clerk of Court,,NON,Write-In,1
+Marion,Marion South,Clerk of Court,,NON,Write-In,2
+Marion,Marion West,Clerk of Court,,NON,Write-In,0
+Marion,Sellers,Clerk of Court,,NON,Write-In,0
+Marion,Temperance,Clerk of Court,,NON,Write-In,0
+Marion,Zion,Clerk of Court,,NON,Write-In,0
+Marion,Northwest Mullins,Clerk of Court,,NON,Write-In,0
+Marion,Southwest Mullins,Clerk of Court,,NON,Write-In,2
+Marion,Northeast Mullins,Clerk of Court,,NON,Write-In,1
+Marion,Southeast Mullins,Clerk of Court,,NON,Write-In,0
+Marion,Nichols,Clerk of Court,,NON,Write-In,0
+Marion,Absentee,Clerk of Court,,NON,Write-In,9
+Marion,Emergency,Clerk of Court,,NON,Write-In,0
+Marion,Failsafe,Clerk of Court,,NON,Write-In,0
+Marion,Provisional,Clerk of Court,,NON,Write-In,0
+Marion,Failsafe Provisional,Clerk of Court,,NON,Write-In,0
+Marion,BrittonS Neck,Coroner,,DEM,Jerry M Richardson,794
+Marion,Friendship,Coroner,,DEM,Jerry M Richardson,201
+Marion,Centenary,Coroner,,DEM,Jerry M Richardson,653
+Marion,Rains,Coroner,,DEM,Jerry M Richardson,443
+Marion,Marion No. 1,Coroner,,DEM,Jerry M Richardson,610
+Marion,Marion No. 2,Coroner,,DEM,Jerry M Richardson,689
+Marion,Marion North,Coroner,,DEM,Jerry M Richardson,702
+Marion,Marion South,Coroner,,DEM,Jerry M Richardson,1462
+Marion,Marion West,Coroner,,DEM,Jerry M Richardson,599
+Marion,Sellers,Coroner,,DEM,Jerry M Richardson,155
+Marion,Temperance,Coroner,,DEM,Jerry M Richardson,535
+Marion,Zion,Coroner,,DEM,Jerry M Richardson,276
+Marion,Northwest Mullins,Coroner,,DEM,Jerry M Richardson,777
+Marion,Southwest Mullins,Coroner,,DEM,Jerry M Richardson,736
+Marion,Northeast Mullins,Coroner,,DEM,Jerry M Richardson,904
+Marion,Southeast Mullins,Coroner,,DEM,Jerry M Richardson,707
+Marion,Nichols,Coroner,,DEM,Jerry M Richardson,381
+Marion,Absentee,Coroner,,DEM,Jerry M Richardson,2795
+Marion,Emergency,Coroner,,DEM,Jerry M Richardson,6
+Marion,Failsafe,Coroner,,DEM,Jerry M Richardson,25
+Marion,Provisional,Coroner,,DEM,Jerry M Richardson,21
+Marion,Failsafe Provisional,Coroner,,DEM,Jerry M Richardson,0
+Marion,BrittonS Neck,Coroner,,NON,Write-In,0
+Marion,Friendship,Coroner,,NON,Write-In,0
+Marion,Centenary,Coroner,,NON,Write-In,1
+Marion,Rains,Coroner,,NON,Write-In,0
+Marion,Marion No. 1,Coroner,,NON,Write-In,0
+Marion,Marion No. 2,Coroner,,NON,Write-In,0
+Marion,Marion North,Coroner,,NON,Write-In,0
+Marion,Marion South,Coroner,,NON,Write-In,0
+Marion,Marion West,Coroner,,NON,Write-In,0
+Marion,Sellers,Coroner,,NON,Write-In,0
+Marion,Temperance,Coroner,,NON,Write-In,0
+Marion,Zion,Coroner,,NON,Write-In,0
+Marion,Northwest Mullins,Coroner,,NON,Write-In,0
+Marion,Southwest Mullins,Coroner,,NON,Write-In,1
+Marion,Northeast Mullins,Coroner,,NON,Write-In,1
+Marion,Southeast Mullins,Coroner,,NON,Write-In,1
+Marion,Nichols,Coroner,,NON,Write-In,0
+Marion,Absentee,Coroner,,NON,Write-In,14
+Marion,Emergency,Coroner,,NON,Write-In,0
+Marion,Failsafe,Coroner,,NON,Write-In,0
+Marion,Provisional,Coroner,,NON,Write-In,0
+Marion,Failsafe Provisional,Coroner,,NON,Write-In,0
+Marion,Marion No. 1,County Council District 1,,DEM,John Q Atkinson Jr,300
+Marion,Marion No. 2,County Council District 1,,DEM,John Q Atkinson Jr,315
+Marion,Marion North,County Council District 1,,DEM,John Q Atkinson Jr,389
+Marion,Temperance,County Council District 1,,DEM,John Q Atkinson Jr,528
+Marion,Zion,County Council District 1,,DEM,John Q Atkinson Jr,73
+Marion,Absentee,County Council District 1,,DEM,John Q Atkinson Jr,396
+Marion,Emergency,County Council District 1,,DEM,John Q Atkinson Jr,0
+Marion,Failsafe,County Council District 1,,DEM,John Q Atkinson Jr,4
+Marion,Provisional,County Council District 1,,DEM,John Q Atkinson Jr,0
+Marion,Marion No. 1,County Council District 1,,NON,Write-In,1
+Marion,Marion No. 2,County Council District 1,,NON,Write-In,2
+Marion,Marion North,County Council District 1,,NON,Write-In,0
+Marion,Temperance,County Council District 1,,NON,Write-In,0
+Marion,Zion,County Council District 1,,NON,Write-In,0
+Marion,Absentee,County Council District 1,,NON,Write-In,1
+Marion,Emergency,County Council District 1,,NON,Write-In,0
+Marion,Failsafe,County Council District 1,,NON,Write-In,0
+Marion,Provisional,County Council District 1,,NON,Write-In,0
+Marion,Friendship,County Council District 2,,DEM,Simon M Jenkins,10
+Marion,Centenary,County Council District 2,,DEM,Simon M Jenkins,84
+Marion,Marion No. 1,County Council District 2,,DEM,Simon M Jenkins,241
+Marion,Marion No. 2,County Council District 2,,DEM,Simon M Jenkins,191
+Marion,Marion South,County Council District 2,,DEM,Simon M Jenkins,135
+Marion,Marion West,County Council District 2,,DEM,Simon M Jenkins,509
+Marion,Sellers,County Council District 2,,DEM,Simon M Jenkins,153
+Marion,Absentee,County Council District 2,,DEM,Simon M Jenkins,360
+Marion,Emergency,County Council District 2,,DEM,Simon M Jenkins,6
+Marion,Failsafe,County Council District 2,,DEM,Simon M Jenkins,4
+Marion,Provisional,County Council District 2,,DEM,Simon M Jenkins,3
+Marion,Friendship,County Council District 2,,NON,Write-In,0
+Marion,Centenary,County Council District 2,,NON,Write-In,1
+Marion,Marion No. 1,County Council District 2,,NON,Write-In,0
+Marion,Marion No. 2,County Council District 2,,NON,Write-In,1
+Marion,Marion South,County Council District 2,,NON,Write-In,0
+Marion,Marion West,County Council District 2,,NON,Write-In,7
+Marion,Sellers,County Council District 2,,NON,Write-In,0
+Marion,Absentee,County Council District 2,,NON,Write-In,4
+Marion,Emergency,County Council District 2,,NON,Write-In,1
+Marion,Failsafe,County Council District 2,,NON,Write-In,0
+Marion,Provisional,County Council District 2,,NON,Write-In,0
+Marion,Northwest Mullins,County Council District 4,,DEM,Allen W Floyd,287
+Marion,Southwest Mullins,County Council District 4,,DEM,Allen W Floyd,196
+Marion,Northeast Mullins,County Council District 4,,DEM,Allen W Floyd,486
+Marion,Southeast Mullins,County Council District 4,,DEM,Allen W Floyd,470
+Marion,Absentee,County Council District 4,,DEM,Allen W Floyd,406
+Marion,Emergency,County Council District 4,,DEM,Allen W Floyd,0
+Marion,Failsafe,County Council District 4,,DEM,Allen W Floyd,4
+Marion,Provisional,County Council District 4,,DEM,Allen W Floyd,1
+Marion,Northwest Mullins,County Council District 4,,NON,Write-In,1
+Marion,Southwest Mullins,County Council District 4,,NON,Write-In,2
+Marion,Northeast Mullins,County Council District 4,,NON,Write-In,1
+Marion,Southeast Mullins,County Council District 4,,NON,Write-In,1
+Marion,Absentee,County Council District 4,,NON,Write-In,2
+Marion,Emergency,County Council District 4,,NON,Write-In,0
+Marion,Failsafe,County Council District 4,,NON,Write-In,0
+Marion,Provisional,County Council District 4,,NON,Write-In,0
+Marion,Centenary,County Council District 6,,DEM,Buddy Collins,60
+Marion,Marion North,County Council District 6,,DEM,Buddy Collins,218
+Marion,Marion South,County Council District 6,,DEM,Buddy Collins,77
+Marion,Zion,County Council District 6,,DEM,Buddy Collins,199
+Marion,Northwest Mullins,County Council District 6,,DEM,Buddy Collins,151
+Marion,Southwest Mullins,County Council District 6,,DEM,Buddy Collins,100
+Marion,Northeast Mullins,County Council District 6,,DEM,Buddy Collins,401
+Marion,Southeast Mullins,County Council District 6,,DEM,Buddy Collins,38
+Marion,Nichols,County Council District 6,,DEM,Buddy Collins,66
+Marion,Absentee,County Council District 6,,DEM,Buddy Collins,285
+Marion,Emergency,County Council District 6,,DEM,Buddy Collins,0
+Marion,Failsafe,County Council District 6,,DEM,Buddy Collins,1
+Marion,Provisional,County Council District 6,,DEM,Buddy Collins,0
+Marion,Centenary,County Council District 6,,NON,Write-In,0
+Marion,Marion North,County Council District 6,,NON,Write-In,0
+Marion,Marion South,County Council District 6,,NON,Write-In,0
+Marion,Zion,County Council District 6,,NON,Write-In,0
+Marion,Northwest Mullins,County Council District 6,,NON,Write-In,1
+Marion,Southwest Mullins,County Council District 6,,NON,Write-In,0
+Marion,Northeast Mullins,County Council District 6,,NON,Write-In,1
+Marion,Southeast Mullins,County Council District 6,,NON,Write-In,0
+Marion,Nichols,County Council District 6,,NON,Write-In,0
+Marion,Absentee,County Council District 6,,NON,Write-In,4
+Marion,Emergency,County Council District 6,,NON,Write-In,0
+Marion,Failsafe,County Council District 6,,NON,Write-In,0
+Marion,Provisional,County Council District 6,,NON,Write-In,0
+Marion,BrittonS Neck,Soil and Water  District Commission,,NON,James C Taylor,362
+Marion,Friendship,Soil and Water  District Commission,,NON,James C Taylor,86
+Marion,Centenary,Soil and Water  District Commission,,NON,James C Taylor,266
+Marion,Rains,Soil and Water  District Commission,,NON,James C Taylor,256
+Marion,Marion No. 1,Soil and Water  District Commission,,NON,James C Taylor,329
+Marion,Marion No. 2,Soil and Water  District Commission,,NON,James C Taylor,510
+Marion,Marion North,Soil and Water  District Commission,,NON,James C Taylor,499
+Marion,Marion South,Soil and Water  District Commission,,NON,James C Taylor,731
+Marion,Marion West,Soil and Water  District Commission,,NON,James C Taylor,378
+Marion,Sellers,Soil and Water  District Commission,,NON,James C Taylor,53
+Marion,Temperance,Soil and Water  District Commission,,NON,James C Taylor,326
+Marion,Zion,Soil and Water  District Commission,,NON,James C Taylor,142
+Marion,Northwest Mullins,Soil and Water  District Commission,,NON,James C Taylor,431
+Marion,Southwest Mullins,Soil and Water  District Commission,,NON,James C Taylor,465
+Marion,Northeast Mullins,Soil and Water  District Commission,,NON,James C Taylor,552
+Marion,Southeast Mullins,Soil and Water  District Commission,,NON,James C Taylor,573
+Marion,Nichols,Soil and Water  District Commission,,NON,James C Taylor,267
+Marion,Absentee,Soil and Water  District Commission,,NON,James C Taylor,1384
+Marion,Emergency,Soil and Water  District Commission,,NON,James C Taylor,5
+Marion,Failsafe,Soil and Water  District Commission,,NON,James C Taylor,14
+Marion,Provisional,Soil and Water  District Commission,,NON,James C Taylor,9
+Marion,Failsafe Provisional,Soil and Water  District Commission,,NON,James C Taylor,0
+Marion,BrittonS Neck,Soil and Water  District Commission,,NON,Write-In,0
+Marion,Friendship,Soil and Water  District Commission,,NON,Write-In,0
+Marion,Centenary,Soil and Water  District Commission,,NON,Write-In,2
+Marion,Rains,Soil and Water  District Commission,,NON,Write-In,2
+Marion,Marion No. 1,Soil and Water  District Commission,,NON,Write-In,0
+Marion,Marion No. 2,Soil and Water  District Commission,,NON,Write-In,3
+Marion,Marion North,Soil and Water  District Commission,,NON,Write-In,0
+Marion,Marion South,Soil and Water  District Commission,,NON,Write-In,1
+Marion,Marion West,Soil and Water  District Commission,,NON,Write-In,1
+Marion,Sellers,Soil and Water  District Commission,,NON,Write-In,0
+Marion,Temperance,Soil and Water  District Commission,,NON,Write-In,1
+Marion,Zion,Soil and Water  District Commission,,NON,Write-In,2
+Marion,Northwest Mullins,Soil and Water  District Commission,,NON,Write-In,1
+Marion,Southwest Mullins,Soil and Water  District Commission,,NON,Write-In,4
+Marion,Northeast Mullins,Soil and Water  District Commission,,NON,Write-In,2
+Marion,Southeast Mullins,Soil and Water  District Commission,,NON,Write-In,3
+Marion,Nichols,Soil and Water  District Commission,,NON,Write-In,0
+Marion,Absentee,Soil and Water  District Commission,,NON,Write-In,7
+Marion,Emergency,Soil and Water  District Commission,,NON,Write-In,1
+Marion,Failsafe,Soil and Water  District Commission,,NON,Write-In,0
+Marion,Provisional,Soil and Water  District Commission,,NON,Write-In,0
+Marion,Failsafe Provisional,Soil and Water  District Commission,,NON,Write-In,0
+Marion,Northwest Mullins,Mayor,,NON,Isaac M Black,145
+Marion,Southwest Mullins,Mayor,,NON,Isaac M Black,67
+Marion,Northeast Mullins,Mayor,,NON,Isaac M Black,154
+Marion,Southeast Mullins,Mayor,,NON,Isaac M Black,20
+Marion,Absentee,Mayor,,NON,Isaac M Black,163
+Marion,Emergency,Mayor,,NON,Isaac M Black,0
+Marion,Failsafe,Mayor,,NON,Isaac M Black,0
+Marion,Provisional,Mayor,,NON,Isaac M Black,1
+Marion,Northwest Mullins,Mayor,,NON,Amber Kopanski,4
+Marion,Southwest Mullins,Mayor,,NON,Amber Kopanski,3
+Marion,Northeast Mullins,Mayor,,NON,Amber Kopanski,3
+Marion,Southeast Mullins,Mayor,,NON,Amber Kopanski,9
+Marion,Absentee,Mayor,,NON,Amber Kopanski,9
+Marion,Emergency,Mayor,,NON,Amber Kopanski,0
+Marion,Failsafe,Mayor,,NON,Amber Kopanski,0
+Marion,Provisional,Mayor,,NON,Amber Kopanski,0
+Marion,Northwest Mullins,Mayor,,NON,Pam T Lee,28
+Marion,Southwest Mullins,Mayor,,NON,Pam T Lee,12
+Marion,Northeast Mullins,Mayor,,NON,Pam T Lee,51
+Marion,Southeast Mullins,Mayor,,NON,Pam T Lee,25
+Marion,Absentee,Mayor,,NON,Pam T Lee,22
+Marion,Emergency,Mayor,,NON,Pam T Lee,0
+Marion,Failsafe,Mayor,,NON,Pam T Lee,0
+Marion,Provisional,Mayor,,NON,Pam T Lee,0
+Marion,Northwest Mullins,Mayor,,NON,William Bo McMillan,82
+Marion,Southwest Mullins,Mayor,,NON,William Bo McMillan,59
+Marion,Northeast Mullins,Mayor,,NON,William Bo McMillan,109
+Marion,Southeast Mullins,Mayor,,NON,William Bo McMillan,232
+Marion,Absentee,Mayor,,NON,William Bo McMillan,153
+Marion,Emergency,Mayor,,NON,William Bo McMillan,0
+Marion,Failsafe,Mayor,,NON,William Bo McMillan,1
+Marion,Provisional,Mayor,,NON,William Bo McMillan,0
+Marion,Northwest Mullins,Mayor,,NON,Pat Phillips,181
+Marion,Southwest Mullins,Mayor,,NON,Pat Phillips,71
+Marion,Northeast Mullins,Mayor,,NON,Pat Phillips,167
+Marion,Southeast Mullins,Mayor,,NON,Pat Phillips,33
+Marion,Absentee,Mayor,,NON,Pat Phillips,132
+Marion,Emergency,Mayor,,NON,Pat Phillips,0
+Marion,Failsafe,Mayor,,NON,Pat Phillips,4
+Marion,Provisional,Mayor,,NON,Pat Phillips,5
+Marion,Northwest Mullins,Mayor,,NON,Write-In,0
+Marion,Southwest Mullins,Mayor,,NON,Write-In,2
+Marion,Northeast Mullins,Mayor,,NON,Write-In,1
+Marion,Southeast Mullins,Mayor,,NON,Write-In,0
+Marion,Absentee,Mayor,,NON,Write-In,1
+Marion,Emergency,Mayor,,NON,Write-In,0
+Marion,Failsafe,Mayor,,NON,Write-In,0
+Marion,Provisional,Mayor,,NON,Write-In,0
+Marion,Northwest Mullins,City Council District 1,,NON,Drew Foil,26
+Marion,Southwest Mullins,City Council District 1,,NON,Drew Foil,9
+Marion,Northeast Mullins,City Council District 1,,NON,Drew Foil,9
+Marion,Southeast Mullins,City Council District 1,,NON,Drew Foil,53
+Marion,Absentee,City Council District 1,,NON,Drew Foil,22
+Marion,Emergency,City Council District 1,,NON,Drew Foil,0
+Marion,Failsafe,City Council District 1,,NON,Drew Foil,1
+Marion,Provisional,City Council District 1,,NON,Drew Foil,0
+Marion,Northwest Mullins,City Council District 1,,NON,George H Hardwick,26
+Marion,Southwest Mullins,City Council District 1,,NON,George H Hardwick,25
+Marion,Northeast Mullins,City Council District 1,,NON,George H Hardwick,5
+Marion,Southeast Mullins,City Council District 1,,NON,George H Hardwick,87
+Marion,Absentee,City Council District 1,,NON,George H Hardwick,51
+Marion,Emergency,City Council District 1,,NON,George H Hardwick,0
+Marion,Failsafe,City Council District 1,,NON,George H Hardwick,0
+Marion,Provisional,City Council District 1,,NON,George H Hardwick,0
+Marion,Northwest Mullins,City Council District 1,,NON,Write-In,0
+Marion,Southwest Mullins,City Council District 1,,NON,Write-In,0
+Marion,Northeast Mullins,City Council District 1,,NON,Write-In,0
+Marion,Southeast Mullins,City Council District 1,,NON,Write-In,0
+Marion,Absentee,City Council District 1,,NON,Write-In,0
+Marion,Emergency,City Council District 1,,NON,Write-In,0
+Marion,Failsafe,City Council District 1,,NON,Write-In,0
+Marion,Provisional,City Council District 1,,NON,Write-In,0
+Marion,Nichols,Town Council,,NON,Pamela Catlett,62
+Marion,Absentee,Town Council,,NON,Pamela Catlett,9
+Marion,Emergency,Town Council,,NON,Pamela Catlett,0
+Marion,Failsafe,Town Council,,NON,Pamela Catlett,0
+Marion,Provisional,Town Council,,NON,Pamela Catlett,0
+Marion,Nichols,Town Council,,NON,Kathryn A McCormick,72
+Marion,Absentee,Town Council,,NON,Kathryn A McCormick,17
+Marion,Emergency,Town Council,,NON,Kathryn A McCormick,0
+Marion,Failsafe,Town Council,,NON,Kathryn A McCormick,0
+Marion,Provisional,Town Council,,NON,Kathryn A McCormick,0
+Marion,Nichols,Town Council,,NON,Verna Mason Nance,66
+Marion,Absentee,Town Council,,NON,Verna Mason Nance,26
+Marion,Emergency,Town Council,,NON,Verna Mason Nance,0
+Marion,Failsafe,Town Council,,NON,Verna Mason Nance,0
+Marion,Provisional,Town Council,,NON,Verna Mason Nance,0
+Marion,Nichols,Town Council,,NON,Write-In,1
+Marion,Absentee,Town Council,,NON,Write-In,1
+Marion,Emergency,Town Council,,NON,Write-In,0
+Marion,Failsafe,Town Council,,NON,Write-In,0
+Marion,Provisional,Town Council,,NON,Write-In,0
+Marion,BrittonS Neck,Constitutional Amendment,,NON,Yes,495
+Marion,Friendship,Constitutional Amendment,,NON,Yes,137
+Marion,Centenary,Constitutional Amendment,,NON,Yes,411
+Marion,Rains,Constitutional Amendment,,NON,Yes,247
+Marion,Marion No. 1,Constitutional Amendment,,NON,Yes,373
+Marion,Marion No. 2,Constitutional Amendment,,NON,Yes,423
+Marion,Marion North,Constitutional Amendment,,NON,Yes,411
+Marion,Marion South,Constitutional Amendment,,NON,Yes,905
+Marion,Marion West,Constitutional Amendment,,NON,Yes,313
+Marion,Sellers,Constitutional Amendment,,NON,Yes,123
+Marion,Temperance,Constitutional Amendment,,NON,Yes,285
+Marion,Zion,Constitutional Amendment,,NON,Yes,182
+Marion,Northwest Mullins,Constitutional Amendment,,NON,Yes,421
+Marion,Southwest Mullins,Constitutional Amendment,,NON,Yes,454
+Marion,Northeast Mullins,Constitutional Amendment,,NON,Yes,531
+Marion,Southeast Mullins,Constitutional Amendment,,NON,Yes,420
+Marion,Nichols,Constitutional Amendment,,NON,Yes,267
+Marion,Absentee,Constitutional Amendment,,NON,Yes,1264
+Marion,Emergency,Constitutional Amendment,,NON,Yes,2
+Marion,Failsafe,Constitutional Amendment,,NON,Yes,15
+Marion,Provisional,Constitutional Amendment,,NON,Yes,9
+Marion,Failsafe Provisional,Constitutional Amendment,,NON,Yes,0
+Marion,BrittonS Neck,Constitutional Amendment,,NON,No,364
+Marion,Friendship,Constitutional Amendment,,NON,No,64
+Marion,Centenary,Constitutional Amendment,,NON,No,263
+Marion,Rains,Constitutional Amendment,,NON,No,219
+Marion,Marion No. 1,Constitutional Amendment,,NON,No,223
+Marion,Marion No. 2,Constitutional Amendment,,NON,No,307
+Marion,Marion North,Constitutional Amendment,,NON,No,345
+Marion,Marion South,Constitutional Amendment,,NON,No,523
+Marion,Marion West,Constitutional Amendment,,NON,No,319
+Marion,Sellers,Constitutional Amendment,,NON,No,37
+Marion,Temperance,Constitutional Amendment,,NON,No,285
+Marion,Zion,Constitutional Amendment,,NON,No,116
+Marion,Northwest Mullins,Constitutional Amendment,,NON,No,330
+Marion,Southwest Mullins,Constitutional Amendment,,NON,No,302
+Marion,Northeast Mullins,Constitutional Amendment,,NON,No,359
+Marion,Southeast Mullins,Constitutional Amendment,,NON,No,330
+Marion,Nichols,Constitutional Amendment,,NON,No,169
+Marion,Absentee,Constitutional Amendment,,NON,No,1321
+Marion,Emergency,Constitutional Amendment,,NON,No,3
+Marion,Failsafe,Constitutional Amendment,,NON,No,8
+Marion,Provisional,Constitutional Amendment,,NON,No,12
+Marion,Failsafe Provisional,Constitutional Amendment,,NON,No,0
+Marion,BrittonS Neck,LOCAL QUESTION,,NON,"Yes, in favor of the question",509
+Marion,Friendship,LOCAL QUESTION,,NON,"Yes, in favor of the question",113
+Marion,Centenary,LOCAL QUESTION,,NON,"Yes, in favor of the question",341
+Marion,Rains,LOCAL QUESTION,,NON,"Yes, in favor of the question",228
+Marion,Marion No. 1,LOCAL QUESTION,,NON,"Yes, in favor of the question",379
+Marion,Marion No. 2,LOCAL QUESTION,,NON,"Yes, in favor of the question",439
+Marion,Marion North,LOCAL QUESTION,,NON,"Yes, in favor of the question",382
+Marion,Marion South,LOCAL QUESTION,,NON,"Yes, in favor of the question",852
+Marion,Marion West,LOCAL QUESTION,,NON,"Yes, in favor of the question",281
+Marion,Sellers,LOCAL QUESTION,,NON,"Yes, in favor of the question",122
+Marion,Temperance,LOCAL QUESTION,,NON,"Yes, in favor of the question",285
+Marion,Zion,LOCAL QUESTION,,NON,"Yes, in favor of the question",133
+Marion,Northwest Mullins,LOCAL QUESTION,,NON,"Yes, in favor of the question",404
+Marion,Southwest Mullins,LOCAL QUESTION,,NON,"Yes, in favor of the question",400
+Marion,Northeast Mullins,LOCAL QUESTION,,NON,"Yes, in favor of the question",505
+Marion,Southeast Mullins,LOCAL QUESTION,,NON,"Yes, in favor of the question",360
+Marion,Nichols,LOCAL QUESTION,,NON,"Yes, in favor of the question",253
+Marion,Absentee,LOCAL QUESTION,,NON,"Yes, in favor of the question",1399
+Marion,Emergency,LOCAL QUESTION,,NON,"Yes, in favor of the question",4
+Marion,Failsafe,LOCAL QUESTION,,NON,"Yes, in favor of the question",14
+Marion,Provisional,LOCAL QUESTION,,NON,"Yes, in favor of the question",10
+Marion,Failsafe Provisional,LOCAL QUESTION,,NON,"Yes, in favor of the question",0
+Marion,BrittonS Neck,LOCAL QUESTION,,NON,"No, opposed to the question",335
+Marion,Friendship,LOCAL QUESTION,,NON,"No, opposed to the question",72
+Marion,Centenary,LOCAL QUESTION,,NON,"No, opposed to the question",316
+Marion,Rains,LOCAL QUESTION,,NON,"No, opposed to the question",239
+Marion,Marion No. 1,LOCAL QUESTION,,NON,"No, opposed to the question",197
+Marion,Marion No. 2,LOCAL QUESTION,,NON,"No, opposed to the question",280
+Marion,Marion North,LOCAL QUESTION,,NON,"No, opposed to the question",341
+Marion,Marion South,LOCAL QUESTION,,NON,"No, opposed to the question",532
+Marion,Marion West,LOCAL QUESTION,,NON,"No, opposed to the question",339
+Marion,Sellers,LOCAL QUESTION,,NON,"No, opposed to the question",35
+Marion,Temperance,LOCAL QUESTION,,NON,"No, opposed to the question",273
+Marion,Zion,LOCAL QUESTION,,NON,"No, opposed to the question",158
+Marion,Northwest Mullins,LOCAL QUESTION,,NON,"No, opposed to the question",344
+Marion,Southwest Mullins,LOCAL QUESTION,,NON,"No, opposed to the question",353
+Marion,Northeast Mullins,LOCAL QUESTION,,NON,"No, opposed to the question",378
+Marion,Southeast Mullins,LOCAL QUESTION,,NON,"No, opposed to the question",388
+Marion,Nichols,LOCAL QUESTION,,NON,"No, opposed to the question",182
+Marion,Absentee,LOCAL QUESTION,,NON,"No, opposed to the question",1202
+Marion,Emergency,LOCAL QUESTION,,NON,"No, opposed to the question",1
+Marion,Failsafe,LOCAL QUESTION,,NON,"No, opposed to the question",11
+Marion,Provisional,LOCAL QUESTION,,NON,"No, opposed to the question",9
+Marion,Failsafe Provisional,LOCAL QUESTION,,NON,"No, opposed to the question",0
