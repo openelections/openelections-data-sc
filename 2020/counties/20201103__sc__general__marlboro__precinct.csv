@@ -1,0 +1,782 @@
+county,precinct,office,district,party,candidate,votes,in-person_absentee,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Marlboro,ADAMSVILLE,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Marlboro,BLENHEIM,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Marlboro,BRIGHTSVILLE,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Marlboro,BROWNSVILLE,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Marlboro,RED HILL,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Marlboro,TATUM,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Marlboro,WALLACE,STRAIGHT PARTY 1,,CON,Constitution,3,0,0,0,0,2,1
+Marlboro,QUICKS X ROADS,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Marlboro,CLIO,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Marlboro,MCCOLL,STRAIGHT PARTY 1,,CON,Constitution,2,0,0,0,0,2,0
+Marlboro,EAST MCCOLL,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Marlboro,E BENNETTSVILLE,STRAIGHT PARTY 1,,CON,Constitution,7,4,0,0,0,0,3
+Marlboro,W BENNETTSVILLE,STRAIGHT PARTY 1,,CON,Constitution,3,2,0,0,0,0,1
+Marlboro,S BENNETTSVILLE,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Marlboro,N BENNETTSVILLE,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Marlboro,Failsafe,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Marlboro,Provisional,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marlboro,BLENHEIM,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marlboro,BRIGHTSVILLE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marlboro,BROWNSVILLE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marlboro,RED HILL,STRAIGHT PARTY 1,,GRN,Green,1,1,0,0,0,0,0
+Marlboro,TATUM,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marlboro,WALLACE,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Marlboro,QUICKS X ROADS,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marlboro,CLIO,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marlboro,MCCOLL,STRAIGHT PARTY 1,,GRN,Green,2,0,0,0,0,0,2
+Marlboro,EAST MCCOLL,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marlboro,E BENNETTSVILLE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marlboro,W BENNETTSVILLE,STRAIGHT PARTY 1,,GRN,Green,2,1,0,0,0,1,0
+Marlboro,S BENNETTSVILLE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marlboro,N BENNETTSVILLE,STRAIGHT PARTY 1,,GRN,Green,2,2,0,0,0,0,0
+Marlboro,Failsafe,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marlboro,Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,STRAIGHT PARTY 1,,REP,Republican,89,40,0,0,0,8,41
+Marlboro,BLENHEIM,STRAIGHT PARTY 1,,REP,Republican,46,14,0,0,0,0,32
+Marlboro,BRIGHTSVILLE,STRAIGHT PARTY 1,,REP,Republican,126,69,0,0,0,0,57
+Marlboro,BROWNSVILLE,STRAIGHT PARTY 1,,REP,Republican,77,18,0,0,0,1,58
+Marlboro,RED HILL,STRAIGHT PARTY 1,,REP,Republican,194,101,0,0,0,10,83
+Marlboro,TATUM,STRAIGHT PARTY 1,,REP,Republican,63,21,0,0,0,3,39
+Marlboro,WALLACE,STRAIGHT PARTY 1,,REP,Republican,241,71,0,0,0,5,165
+Marlboro,QUICKS X ROADS,STRAIGHT PARTY 1,,REP,Republican,139,55,0,0,0,4,80
+Marlboro,CLIO,STRAIGHT PARTY 1,,REP,Republican,125,58,0,0,0,10,57
+Marlboro,MCCOLL,STRAIGHT PARTY 1,,REP,Republican,230,76,0,0,0,30,124
+Marlboro,EAST MCCOLL,STRAIGHT PARTY 1,,REP,Republican,183,59,0,0,0,36,88
+Marlboro,E BENNETTSVILLE,STRAIGHT PARTY 1,,REP,Republican,134,104,0,0,0,3,27
+Marlboro,W BENNETTSVILLE,STRAIGHT PARTY 1,,REP,Republican,152,106,0,0,0,8,38
+Marlboro,S BENNETTSVILLE,STRAIGHT PARTY 1,,REP,Republican,29,20,0,0,0,1,8
+Marlboro,N BENNETTSVILLE,STRAIGHT PARTY 1,,REP,Republican,252,178,0,0,0,10,64
+Marlboro,Failsafe,STRAIGHT PARTY 1,,REP,Republican,7,0,0,0,7,0,0
+Marlboro,Provisional,STRAIGHT PARTY 1,,REP,Republican,5,0,0,5,0,0,0
+Marlboro,Failsafe Provisional,STRAIGHT PARTY 1,,REP,Republican,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,BLENHEIM,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,BRIGHTSVILLE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,BROWNSVILLE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,RED HILL,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,TATUM,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,WALLACE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,QUICKS X ROADS,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,CLIO,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,MCCOLL,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,EAST MCCOLL,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,E BENNETTSVILLE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,W BENNETTSVILLE,STRAIGHT PARTY 1,,ALN,Alliance,2,1,0,0,0,0,1
+Marlboro,S BENNETTSVILLE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,N BENNETTSVILLE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,Failsafe,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marlboro,BLENHEIM,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,1,0
+Marlboro,BRIGHTSVILLE,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marlboro,BROWNSVILLE,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marlboro,RED HILL,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marlboro,TATUM,STRAIGHT PARTY 1,,LIB,Libertarian,2,1,0,0,0,0,1
+Marlboro,WALLACE,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,0,0,2
+Marlboro,QUICKS X ROADS,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Marlboro,CLIO,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Marlboro,MCCOLL,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marlboro,EAST MCCOLL,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marlboro,E BENNETTSVILLE,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marlboro,W BENNETTSVILLE,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,1,0
+Marlboro,S BENNETTSVILLE,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,0,0,2
+Marlboro,N BENNETTSVILLE,STRAIGHT PARTY 1,,LIB,Libertarian,2,2,0,0,0,0,0
+Marlboro,Failsafe,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marlboro,Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,STRAIGHT PARTY 1,,DEM,Democratic,76,43,0,0,0,8,25
+Marlboro,BLENHEIM,STRAIGHT PARTY 1,,DEM,Democratic,83,58,0,0,0,8,17
+Marlboro,BRIGHTSVILLE,STRAIGHT PARTY 1,,DEM,Democratic,190,103,0,0,0,22,65
+Marlboro,BROWNSVILLE,STRAIGHT PARTY 1,,DEM,Democratic,51,34,0,0,0,5,12
+Marlboro,RED HILL,STRAIGHT PARTY 1,,DEM,Democratic,263,187,0,0,0,22,54
+Marlboro,TATUM,STRAIGHT PARTY 1,,DEM,Democratic,89,53,0,0,0,7,29
+Marlboro,WALLACE,STRAIGHT PARTY 1,,DEM,Democratic,251,145,0,0,0,20,86
+Marlboro,QUICKS X ROADS,STRAIGHT PARTY 1,,DEM,Democratic,273,168,0,0,0,36,69
+Marlboro,CLIO,STRAIGHT PARTY 1,,DEM,Democratic,457,278,0,0,0,33,146
+Marlboro,MCCOLL,STRAIGHT PARTY 1,,DEM,Democratic,194,100,0,0,0,14,80
+Marlboro,EAST MCCOLL,STRAIGHT PARTY 1,,DEM,Democratic,65,29,0,0,0,8,28
+Marlboro,E BENNETTSVILLE,STRAIGHT PARTY 1,,DEM,Democratic,530,353,0,0,0,102,75
+Marlboro,W BENNETTSVILLE,STRAIGHT PARTY 1,,DEM,Democratic,680,457,0,0,0,138,85
+Marlboro,S BENNETTSVILLE,STRAIGHT PARTY 1,,DEM,Democratic,389,251,0,0,0,55,83
+Marlboro,N BENNETTSVILLE,STRAIGHT PARTY 1,,DEM,Democratic,770,556,0,0,0,128,86
+Marlboro,Failsafe,STRAIGHT PARTY 1,,DEM,Democratic,2,0,0,0,2,0,0
+Marlboro,Provisional,STRAIGHT PARTY 1,,DEM,Democratic,8,0,0,8,0,0,0
+Marlboro,Failsafe Provisional,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,0,1
+Marlboro,BLENHEIM,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,0,1
+Marlboro,BRIGHTSVILLE,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Marlboro,BROWNSVILLE,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Marlboro,RED HILL,President,,GRN,Howie Hawkins | Angela Walker,3,3,0,0,0,0,0
+Marlboro,TATUM,President,,GRN,Howie Hawkins | Angela Walker,3,2,0,0,0,0,1
+Marlboro,WALLACE,President,,GRN,Howie Hawkins | Angela Walker,2,1,0,0,0,0,1
+Marlboro,QUICKS X ROADS,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,0,1
+Marlboro,CLIO,President,,GRN,Howie Hawkins | Angela Walker,1,1,0,0,0,0,0
+Marlboro,MCCOLL,President,,GRN,Howie Hawkins | Angela Walker,2,0,0,0,0,0,2
+Marlboro,EAST MCCOLL,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,1,0
+Marlboro,E BENNETTSVILLE,President,,GRN,Howie Hawkins | Angela Walker,5,4,0,0,0,0,1
+Marlboro,W BENNETTSVILLE,President,,GRN,Howie Hawkins | Angela Walker,5,3,0,0,0,1,1
+Marlboro,S BENNETTSVILLE,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Marlboro,N BENNETTSVILLE,President,,GRN,Howie Hawkins | Angela Walker,8,5,0,0,0,0,3
+Marlboro,Failsafe,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Marlboro,Provisional,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,President,,REP,Donald J Trump | Michael R Pence,186,77,0,0,0,10,99
+Marlboro,BLENHEIM,President,,REP,Donald J Trump | Michael R Pence,111,37,0,0,0,6,68
+Marlboro,BRIGHTSVILLE,President,,REP,Donald J Trump | Michael R Pence,255,129,0,0,0,2,124
+Marlboro,BROWNSVILLE,President,,REP,Donald J Trump | Michael R Pence,155,36,0,0,0,6,113
+Marlboro,RED HILL,President,,REP,Donald J Trump | Michael R Pence,490,243,0,0,0,23,224
+Marlboro,TATUM,President,,REP,Donald J Trump | Michael R Pence,147,56,0,0,0,7,84
+Marlboro,WALLACE,President,,REP,Donald J Trump | Michael R Pence,485,150,0,0,0,18,317
+Marlboro,QUICKS X ROADS,President,,REP,Donald J Trump | Michael R Pence,281,114,0,0,0,12,155
+Marlboro,CLIO,President,,REP,Donald J Trump | Michael R Pence,336,153,0,0,0,25,158
+Marlboro,MCCOLL,President,,REP,Donald J Trump | Michael R Pence,517,163,0,0,0,107,247
+Marlboro,EAST MCCOLL,President,,REP,Donald J Trump | Michael R Pence,447,132,0,0,0,90,225
+Marlboro,E BENNETTSVILLE,President,,REP,Donald J Trump | Michael R Pence,347,252,0,0,0,13,82
+Marlboro,W BENNETTSVILLE,President,,REP,Donald J Trump | Michael R Pence,363,258,0,0,0,20,85
+Marlboro,S BENNETTSVILLE,President,,REP,Donald J Trump | Michael R Pence,71,45,0,0,0,2,24
+Marlboro,N BENNETTSVILLE,President,,REP,Donald J Trump | Michael R Pence,822,590,0,0,0,48,184
+Marlboro,Failsafe,President,,REP,Donald J Trump | Michael R Pence,14,0,0,0,14,0,0
+Marlboro,Provisional,President,,REP,Donald J Trump | Michael R Pence,17,0,0,17,0,0,0
+Marlboro,Failsafe Provisional,President,,REP,Donald J Trump | Michael R Pence,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Marlboro,BLENHEIM,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Marlboro,BRIGHTSVILLE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Marlboro,BROWNSVILLE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Marlboro,RED HILL,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Marlboro,TATUM,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Marlboro,WALLACE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,1,0,0,0,0,0
+Marlboro,QUICKS X ROADS,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Marlboro,CLIO,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,0,0,0,0,0,1
+Marlboro,MCCOLL,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Marlboro,EAST MCCOLL,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Marlboro,E BENNETTSVILLE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,2,1,0,0,0,0,1
+Marlboro,W BENNETTSVILLE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,3,1,0,0,0,0,2
+Marlboro,S BENNETTSVILLE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,0,0,0,0,0,1
+Marlboro,N BENNETTSVILLE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,2,0,0,0,0,0,2
+Marlboro,Failsafe,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Marlboro,Provisional,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,0,0,0,0,1,1
+Marlboro,BLENHEIM,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,0,0,0,0,0,2
+Marlboro,BRIGHTSVILLE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,1,0,0,0,0,0
+Marlboro,BROWNSVILLE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,0,0,0,0,1,1
+Marlboro,RED HILL,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,3,2,0,0,0,0,1
+Marlboro,TATUM,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,7,1,0,0,0,2,4
+Marlboro,WALLACE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,6,0,0,0,0,0,6
+Marlboro,QUICKS X ROADS,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,1,0,0,0,0,1
+Marlboro,CLIO,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,4,2,0,0,0,1,1
+Marlboro,MCCOLL,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,5,0,0,0,0,0,5
+Marlboro,EAST MCCOLL,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Marlboro,E BENNETTSVILLE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,5,2,0,0,0,0,3
+Marlboro,W BENNETTSVILLE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,9,8,0,0,0,1,0
+Marlboro,S BENNETTSVILLE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,6,2,0,0,0,0,4
+Marlboro,N BENNETTSVILLE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,13,9,0,0,0,1,3
+Marlboro,Failsafe,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,0,0,0,1,0,0
+Marlboro,Provisional,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,0,0,1,0,0,0
+Marlboro,Failsafe Provisional,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,President,,DEM,Joseph R Biden | Kamala D Harris,129,59,0,0,0,13,57
+Marlboro,BLENHEIM,President,,DEM,Joseph R Biden | Kamala D Harris,100,65,0,0,0,12,23
+Marlboro,BRIGHTSVILLE,President,,DEM,Joseph R Biden | Kamala D Harris,270,122,0,0,0,65,83
+Marlboro,BROWNSVILLE,President,,DEM,Joseph R Biden | Kamala D Harris,72,42,0,0,0,11,19
+Marlboro,RED HILL,President,,DEM,Joseph R Biden | Kamala D Harris,393,263,0,0,0,40,90
+Marlboro,TATUM,President,,DEM,Joseph R Biden | Kamala D Harris,137,82,0,0,0,16,39
+Marlboro,WALLACE,President,,DEM,Joseph R Biden | Kamala D Harris,348,185,0,0,0,39,124
+Marlboro,QUICKS X ROADS,President,,DEM,Joseph R Biden | Kamala D Harris,378,221,0,0,0,58,99
+Marlboro,CLIO,President,,DEM,Joseph R Biden | Kamala D Harris,670,381,0,0,0,74,215
+Marlboro,MCCOLL,President,,DEM,Joseph R Biden | Kamala D Harris,316,139,0,0,0,50,127
+Marlboro,EAST MCCOLL,President,,DEM,Joseph R Biden | Kamala D Harris,108,41,0,0,0,18,49
+Marlboro,E BENNETTSVILLE,President,,DEM,Joseph R Biden | Kamala D Harris,762,496,0,0,0,134,132
+Marlboro,W BENNETTSVILLE,President,,DEM,Joseph R Biden | Kamala D Harris,964,639,0,0,0,212,113
+Marlboro,S BENNETTSVILLE,President,,DEM,Joseph R Biden | Kamala D Harris,532,333,0,0,0,86,113
+Marlboro,N BENNETTSVILLE,President,,DEM,Joseph R Biden | Kamala D Harris,1093,772,0,0,0,171,150
+Marlboro,Failsafe,President,,DEM,Joseph R Biden | Kamala D Harris,5,0,0,0,5,0,0
+Marlboro,Provisional,President,,DEM,Joseph R Biden | Kamala D Harris,13,0,0,13,0,0,0
+Marlboro,Failsafe Provisional,President,,DEM,Joseph R Biden | Kamala D Harris,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,U.S. Senate,,CON,Bill Bledsoe,6,1,0,0,0,0,5
+Marlboro,BLENHEIM,U.S. Senate,,CON,Bill Bledsoe,6,2,0,0,0,0,4
+Marlboro,BRIGHTSVILLE,U.S. Senate,,CON,Bill Bledsoe,14,2,0,0,0,2,10
+Marlboro,BROWNSVILLE,U.S. Senate,,CON,Bill Bledsoe,7,0,0,0,0,0,7
+Marlboro,RED HILL,U.S. Senate,,CON,Bill Bledsoe,12,6,0,0,0,0,6
+Marlboro,TATUM,U.S. Senate,,CON,Bill Bledsoe,6,4,0,0,0,1,1
+Marlboro,WALLACE,U.S. Senate,,CON,Bill Bledsoe,22,8,0,0,0,1,13
+Marlboro,QUICKS X ROADS,U.S. Senate,,CON,Bill Bledsoe,13,4,0,0,0,0,9
+Marlboro,CLIO,U.S. Senate,,CON,Bill Bledsoe,5,1,0,0,0,0,4
+Marlboro,MCCOLL,U.S. Senate,,CON,Bill Bledsoe,12,3,0,0,0,0,9
+Marlboro,EAST MCCOLL,U.S. Senate,,CON,Bill Bledsoe,7,0,0,0,0,2,5
+Marlboro,E BENNETTSVILLE,U.S. Senate,,CON,Bill Bledsoe,23,12,0,0,0,0,11
+Marlboro,W BENNETTSVILLE,U.S. Senate,,CON,Bill Bledsoe,16,8,0,0,0,0,8
+Marlboro,S BENNETTSVILLE,U.S. Senate,,CON,Bill Bledsoe,9,6,0,0,0,0,3
+Marlboro,N BENNETTSVILLE,U.S. Senate,,CON,Bill Bledsoe,9,8,0,0,0,0,1
+Marlboro,Failsafe,U.S. Senate,,CON,Bill Bledsoe,1,0,0,0,1,0,0
+Marlboro,Provisional,U.S. Senate,,CON,Bill Bledsoe,1,0,0,1,0,0,0
+Marlboro,Failsafe Provisional,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,U.S. Senate,,REP,Lindsey Graham,182,76,0,0,0,10,96
+Marlboro,BLENHEIM,U.S. Senate,,REP,Lindsey Graham,106,34,0,0,0,6,66
+Marlboro,BRIGHTSVILLE,U.S. Senate,,REP,Lindsey Graham,242,126,0,0,0,5,111
+Marlboro,BROWNSVILLE,U.S. Senate,,REP,Lindsey Graham,145,36,0,0,0,7,102
+Marlboro,RED HILL,U.S. Senate,,REP,Lindsey Graham,467,227,0,0,0,23,217
+Marlboro,TATUM,U.S. Senate,,REP,Lindsey Graham,143,53,0,0,0,6,84
+Marlboro,WALLACE,U.S. Senate,,REP,Lindsey Graham,452,139,0,0,0,16,297
+Marlboro,QUICKS X ROADS,U.S. Senate,,REP,Lindsey Graham,260,108,0,0,0,14,138
+Marlboro,CLIO,U.S. Senate,,REP,Lindsey Graham,318,151,0,0,0,24,143
+Marlboro,MCCOLL,U.S. Senate,,REP,Lindsey Graham,493,154,0,0,0,107,232
+Marlboro,EAST MCCOLL,U.S. Senate,,REP,Lindsey Graham,418,128,0,0,0,85,205
+Marlboro,E BENNETTSVILLE,U.S. Senate,,REP,Lindsey Graham,324,244,0,0,0,11,69
+Marlboro,W BENNETTSVILLE,U.S. Senate,,REP,Lindsey Graham,350,256,0,0,0,20,74
+Marlboro,S BENNETTSVILLE,U.S. Senate,,REP,Lindsey Graham,60,39,0,0,0,2,19
+Marlboro,N BENNETTSVILLE,U.S. Senate,,REP,Lindsey Graham,788,558,0,0,0,49,181
+Marlboro,Failsafe,U.S. Senate,,REP,Lindsey Graham,13,0,0,0,13,0,0
+Marlboro,Provisional,U.S. Senate,,REP,Lindsey Graham,14,0,0,14,0,0,0
+Marlboro,Failsafe Provisional,U.S. Senate,,REP,Lindsey Graham,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,U.S. Senate,,DEM,Jaime Harrison,129,59,0,0,0,13,57
+Marlboro,BLENHEIM,U.S. Senate,,DEM,Jaime Harrison,102,67,0,0,0,12,23
+Marlboro,BRIGHTSVILLE,U.S. Senate,,DEM,Jaime Harrison,267,123,0,0,0,59,85
+Marlboro,BROWNSVILLE,U.S. Senate,,DEM,Jaime Harrison,74,42,0,0,0,11,21
+Marlboro,RED HILL,U.S. Senate,,DEM,Jaime Harrison,412,278,0,0,0,40,94
+Marlboro,TATUM,U.S. Senate,,DEM,Jaime Harrison,146,85,0,0,0,18,43
+Marlboro,WALLACE,U.S. Senate,,DEM,Jaime Harrison,365,189,0,0,0,40,136
+Marlboro,QUICKS X ROADS,U.S. Senate,,DEM,Jaime Harrison,389,227,0,0,0,56,106
+Marlboro,CLIO,U.S. Senate,,DEM,Jaime Harrison,691,385,0,0,0,76,230
+Marlboro,MCCOLL,U.S. Senate,,DEM,Jaime Harrison,333,145,0,0,0,50,138
+Marlboro,EAST MCCOLL,U.S. Senate,,DEM,Jaime Harrison,129,47,0,0,0,22,60
+Marlboro,E BENNETTSVILLE,U.S. Senate,,DEM,Jaime Harrison,779,501,0,0,0,136,142
+Marlboro,W BENNETTSVILLE,U.S. Senate,,DEM,Jaime Harrison,978,649,0,0,0,213,116
+Marlboro,S BENNETTSVILLE,U.S. Senate,,DEM,Jaime Harrison,545,337,0,0,0,86,122
+Marlboro,N BENNETTSVILLE,U.S. Senate,,DEM,Jaime Harrison,1147,818,0,0,0,173,156
+Marlboro,Failsafe,U.S. Senate,,DEM,Jaime Harrison,5,0,0,0,5,0,0
+Marlboro,Provisional,U.S. Senate,,DEM,Jaime Harrison,13,0,0,13,0,0,0
+Marlboro,Failsafe Provisional,U.S. Senate,,DEM,Jaime Harrison,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,BLENHEIM,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Marlboro,BRIGHTSVILLE,U.S. Senate,,NON,Write-In,2,2,0,0,0,0,0
+Marlboro,BROWNSVILLE,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Marlboro,RED HILL,U.S. Senate,,NON,Write-In,1,1,0,0,0,0,0
+Marlboro,TATUM,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,WALLACE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,QUICKS X ROADS,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,CLIO,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,MCCOLL,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Marlboro,EAST MCCOLL,U.S. Senate,,NON,Write-In,2,0,0,0,0,0,2
+Marlboro,E BENNETTSVILLE,U.S. Senate,,NON,Write-In,1,1,0,0,0,0,0
+Marlboro,W BENNETTSVILLE,U.S. Senate,,NON,Write-In,3,2,0,0,0,0,1
+Marlboro,S BENNETTSVILLE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,N BENNETTSVILLE,U.S. Senate,,NON,Write-In,2,1,0,0,0,0,1
+Marlboro,Failsafe,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,U.S. House,7,REP,Tom Rice,190,77,0,0,0,12,101
+Marlboro,BLENHEIM,U.S. House,7,REP,Tom Rice,110,33,0,0,0,7,70
+Marlboro,BRIGHTSVILLE,U.S. House,7,REP,Tom Rice,260,132,0,0,0,5,123
+Marlboro,BROWNSVILLE,U.S. House,7,REP,Tom Rice,163,40,0,0,0,8,115
+Marlboro,RED HILL,U.S. House,7,REP,Tom Rice,493,240,0,0,0,23,230
+Marlboro,TATUM,U.S. House,7,REP,Tom Rice,153,57,0,0,0,9,87
+Marlboro,WALLACE,U.S. House,7,REP,Tom Rice,488,154,0,0,0,19,315
+Marlboro,QUICKS X ROADS,U.S. House,7,REP,Tom Rice,291,121,0,0,0,14,156
+Marlboro,CLIO,U.S. House,7,REP,Tom Rice,345,161,0,0,0,28,156
+Marlboro,MCCOLL,U.S. House,7,REP,Tom Rice,545,169,0,0,0,117,259
+Marlboro,EAST MCCOLL,U.S. House,7,REP,Tom Rice,448,131,0,0,0,96,221
+Marlboro,E BENNETTSVILLE,U.S. House,7,REP,Tom Rice,370,271,0,0,0,14,85
+Marlboro,W BENNETTSVILLE,U.S. House,7,REP,Tom Rice,391,273,0,0,0,30,88
+Marlboro,S BENNETTSVILLE,U.S. House,7,REP,Tom Rice,74,45,0,0,0,2,27
+Marlboro,N BENNETTSVILLE,U.S. House,7,REP,Tom Rice,863,612,0,0,0,54,197
+Marlboro,Failsafe,U.S. House,7,REP,Tom Rice,14,0,0,0,14,0,0
+Marlboro,Provisional,U.S. House,7,REP,Tom Rice,15,0,0,15,0,0,0
+Marlboro,Failsafe Provisional,U.S. House,7,REP,Tom Rice,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,U.S. House,7,DEM,Melissa Ward Watson,123,59,0,0,0,10,54
+Marlboro,BLENHEIM,U.S. House,7,DEM,Melissa Ward Watson,106,69,0,0,0,11,26
+Marlboro,BRIGHTSVILLE,U.S. House,7,DEM,Melissa Ward Watson,266,120,0,0,0,61,85
+Marlboro,BROWNSVILLE,U.S. House,7,DEM,Melissa Ward Watson,66,38,0,0,0,10,18
+Marlboro,RED HILL,U.S. House,7,DEM,Melissa Ward Watson,399,272,0,0,0,40,87
+Marlboro,TATUM,U.S. House,7,DEM,Melissa Ward Watson,137,82,0,0,0,16,39
+Marlboro,WALLACE,U.S. House,7,DEM,Melissa Ward Watson,352,181,0,0,0,39,132
+Marlboro,QUICKS X ROADS,U.S. House,7,DEM,Melissa Ward Watson,373,218,0,0,0,55,100
+Marlboro,CLIO,U.S. House,7,DEM,Melissa Ward Watson,666,379,0,0,0,71,216
+Marlboro,MCCOLL,U.S. House,7,DEM,Melissa Ward Watson,293,135,0,0,0,39,119
+Marlboro,EAST MCCOLL,U.S. House,7,DEM,Melissa Ward Watson,108,43,0,0,0,12,53
+Marlboro,E BENNETTSVILLE,U.S. House,7,DEM,Melissa Ward Watson,753,483,0,0,0,133,137
+Marlboro,W BENNETTSVILLE,U.S. House,7,DEM,Melissa Ward Watson,951,639,0,0,0,202,110
+Marlboro,S BENNETTSVILLE,U.S. House,7,DEM,Melissa Ward Watson,539,336,0,0,0,85,118
+Marlboro,N BENNETTSVILLE,U.S. House,7,DEM,Melissa Ward Watson,1083,774,0,0,0,166,143
+Marlboro,Failsafe,U.S. House,7,DEM,Melissa Ward Watson,5,0,0,0,5,0,0
+Marlboro,Provisional,U.S. House,7,DEM,Melissa Ward Watson,12,0,0,12,0,0,0
+Marlboro,Failsafe Provisional,U.S. House,7,DEM,Melissa Ward Watson,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,BLENHEIM,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,BRIGHTSVILLE,U.S. House,7,NON,Write-In,1,1,0,0,0,0,0
+Marlboro,BROWNSVILLE,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,RED HILL,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,TATUM,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,WALLACE,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,QUICKS X ROADS,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,CLIO,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,MCCOLL,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,EAST MCCOLL,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,E BENNETTSVILLE,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,W BENNETTSVILLE,U.S. House,7,NON,Write-In,2,1,0,0,0,0,1
+Marlboro,S BENNETTSVILLE,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,N BENNETTSVILLE,U.S. House,7,NON,Write-In,1,1,0,0,0,0,0
+Marlboro,Failsafe,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Provisional,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,State Senate,29,REP,J D Chaplin,176,72,0,0,0,10,94
+Marlboro,BLENHEIM,State Senate,29,REP,J D Chaplin,100,32,0,0,0,5,63
+Marlboro,BRIGHTSVILLE,State Senate,29,REP,J D Chaplin,243,124,0,0,0,5,114
+Marlboro,BROWNSVILLE,State Senate,29,REP,J D Chaplin,154,37,0,0,0,8,109
+Marlboro,RED HILL,State Senate,29,REP,J D Chaplin,449,216,0,0,0,23,210
+Marlboro,WALLACE,State Senate,29,REP,J D Chaplin,469,147,0,0,0,18,304
+Marlboro,QUICKS X ROADS,State Senate,29,REP,J D Chaplin,269,111,0,0,0,12,146
+Marlboro,MCCOLL,State Senate,29,REP,J D Chaplin,494,158,0,0,0,98,238
+Marlboro,EAST MCCOLL,State Senate,29,REP,J D Chaplin,402,114,0,0,0,90,198
+Marlboro,E BENNETTSVILLE,State Senate,29,REP,J D Chaplin,329,246,0,0,0,10,73
+Marlboro,W BENNETTSVILLE,State Senate,29,REP,J D Chaplin,354,252,0,0,0,24,78
+Marlboro,S BENNETTSVILLE,State Senate,29,REP,J D Chaplin,65,38,0,0,0,2,25
+Marlboro,N BENNETTSVILLE,State Senate,29,REP,J D Chaplin,773,556,0,0,0,40,177
+Marlboro,Failsafe,State Senate,29,REP,J D Chaplin,12,0,0,0,12,0,0
+Marlboro,Provisional,State Senate,29,REP,J D Chaplin,10,0,0,10,0,0,0
+Marlboro,Failsafe Provisional,State Senate,29,REP,J D Chaplin,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,State Senate,29,DEM,Gerald Malloy,142,64,0,0,0,13,65
+Marlboro,BLENHEIM,State Senate,29,DEM,Gerald Malloy,114,71,0,0,0,13,30
+Marlboro,BRIGHTSVILLE,State Senate,29,DEM,Gerald Malloy,276,127,0,0,0,58,91
+Marlboro,BROWNSVILLE,State Senate,29,DEM,Gerald Malloy,74,41,0,0,0,10,23
+Marlboro,RED HILL,State Senate,29,DEM,Gerald Malloy,442,294,0,0,0,40,108
+Marlboro,WALLACE,State Senate,29,DEM,Gerald Malloy,372,188,0,0,0,40,144
+Marlboro,QUICKS X ROADS,State Senate,29,DEM,Gerald Malloy,393,227,0,0,0,54,112
+Marlboro,MCCOLL,State Senate,29,DEM,Gerald Malloy,338,145,0,0,0,53,140
+Marlboro,EAST MCCOLL,State Senate,29,DEM,Gerald Malloy,151,59,0,0,0,18,74
+Marlboro,E BENNETTSVILLE,State Senate,29,DEM,Gerald Malloy,792,511,0,0,0,133,148
+Marlboro,W BENNETTSVILLE,State Senate,29,DEM,Gerald Malloy,976,658,0,0,0,198,120
+Marlboro,S BENNETTSVILLE,State Senate,29,DEM,Gerald Malloy,549,343,0,0,0,86,120
+Marlboro,N BENNETTSVILLE,State Senate,29,DEM,Gerald Malloy,1167,826,0,0,0,178,163
+Marlboro,Failsafe,State Senate,29,DEM,Gerald Malloy,6,0,0,0,6,0,0
+Marlboro,Provisional,State Senate,29,DEM,Gerald Malloy,12,0,0,12,0,0,0
+Marlboro,Failsafe Provisional,State Senate,29,DEM,Gerald Malloy,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,State Senate,29,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,BLENHEIM,State Senate,29,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,BRIGHTSVILLE,State Senate,29,NON,Write-In,1,1,0,0,0,0,0
+Marlboro,BROWNSVILLE,State Senate,29,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,RED HILL,State Senate,29,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,WALLACE,State Senate,29,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,QUICKS X ROADS,State Senate,29,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,MCCOLL,State Senate,29,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,EAST MCCOLL,State Senate,29,NON,Write-In,1,0,0,0,0,0,1
+Marlboro,E BENNETTSVILLE,State Senate,29,NON,Write-In,2,2,0,0,0,0,0
+Marlboro,W BENNETTSVILLE,State Senate,29,NON,Write-In,1,1,0,0,0,0,0
+Marlboro,S BENNETTSVILLE,State Senate,29,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,N BENNETTSVILLE,State Senate,29,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Failsafe,State Senate,29,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Provisional,State Senate,29,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,State Senate,29,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,TATUM,State Senate,30,DEM,Kent M Williams,220,115,0,0,0,21,84
+Marlboro,CLIO,State Senate,30,DEM,Kent M Williams,873,478,0,0,0,91,304
+Marlboro,Failsafe,State Senate,30,DEM,Kent M Williams,1,0,0,0,1,0,0
+Marlboro,Provisional,State Senate,30,DEM,Kent M Williams,4,0,0,4,0,0,0
+Marlboro,Failsafe Provisional,State Senate,30,DEM,Kent M Williams,0,0,0,0,0,0,0
+Marlboro,TATUM,State Senate,30,NON,Write-In,8,0,0,0,0,0,8
+Marlboro,CLIO,State Senate,30,NON,Write-In,9,5,0,0,0,0,4
+Marlboro,Failsafe,State Senate,30,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Provisional,State Senate,30,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,State Senate,30,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,State House,54,REP,Sterling McDiarmid,165,69,0,0,0,11,85
+Marlboro,BLENHEIM,State House,54,REP,Sterling McDiarmid,47,11,0,0,0,1,35
+Marlboro,BRIGHTSVILLE,State House,54,REP,Sterling McDiarmid,242,124,0,0,0,6,112
+Marlboro,RED HILL,State House,54,REP,Sterling McDiarmid,443,210,0,0,0,23,210
+Marlboro,TATUM,State House,54,REP,Sterling McDiarmid,137,49,0,0,0,11,77
+Marlboro,WALLACE,State House,54,REP,Sterling McDiarmid,465,148,0,0,0,16,301
+Marlboro,QUICKS X ROADS,State House,54,REP,Sterling McDiarmid,268,105,0,0,0,17,146
+Marlboro,CLIO,State House,54,REP,Sterling McDiarmid,98,50,0,0,0,7,41
+Marlboro,MCCOLL,State House,54,REP,Sterling McDiarmid,291,79,0,0,0,60,152
+Marlboro,EAST MCCOLL,State House,54,REP,Sterling McDiarmid,386,116,0,0,0,82,188
+Marlboro,E BENNETTSVILLE,State House,54,REP,Sterling McDiarmid,315,232,0,0,0,15,68
+Marlboro,W BENNETTSVILLE,State House,54,REP,Sterling McDiarmid,340,243,0,0,0,24,73
+Marlboro,S BENNETTSVILLE,State House,54,REP,Sterling McDiarmid,65,38,0,0,0,4,23
+Marlboro,N BENNETTSVILLE,State House,54,REP,Sterling McDiarmid,702,512,0,0,0,37,153
+Marlboro,Failsafe,State House,54,REP,Sterling McDiarmid,11,0,0,0,11,0,0
+Marlboro,Provisional,State House,54,REP,Sterling McDiarmid,11,0,0,11,0,0,0
+Marlboro,Failsafe Provisional,State House,54,REP,Sterling McDiarmid,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,State House,54,DEM,Patricia Moore Pat Henegan,152,66,0,0,0,12,74
+Marlboro,BLENHEIM,State House,54,DEM,Patricia Moore Pat Henegan,71,46,0,0,0,10,15
+Marlboro,BRIGHTSVILLE,State House,54,DEM,Patricia Moore Pat Henegan,281,128,0,0,0,58,95
+Marlboro,RED HILL,State House,54,DEM,Patricia Moore Pat Henegan,451,303,0,0,0,40,108
+Marlboro,TATUM,State House,54,DEM,Patricia Moore Pat Henegan,157,93,0,0,0,14,50
+Marlboro,WALLACE,State House,54,DEM,Patricia Moore Pat Henegan,378,190,0,0,0,42,146
+Marlboro,QUICKS X ROADS,State House,54,DEM,Patricia Moore Pat Henegan,393,236,0,0,0,49,108
+Marlboro,CLIO,State House,54,DEM,Patricia Moore Pat Henegan,351,190,0,0,0,39,122
+Marlboro,MCCOLL,State House,54,DEM,Patricia Moore Pat Henegan,244,97,0,0,0,41,106
+Marlboro,EAST MCCOLL,State House,54,DEM,Patricia Moore Pat Henegan,166,58,0,0,0,25,83
+Marlboro,E BENNETTSVILLE,State House,54,DEM,Patricia Moore Pat Henegan,816,530,0,0,0,132,154
+Marlboro,W BENNETTSVILLE,State House,54,DEM,Patricia Moore Pat Henegan,996,669,0,0,0,201,126
+Marlboro,S BENNETTSVILLE,State House,54,DEM,Patricia Moore Pat Henegan,550,344,0,0,0,84,122
+Marlboro,N BENNETTSVILLE,State House,54,DEM,Patricia Moore Pat Henegan,1239,871,0,0,0,180,188
+Marlboro,Failsafe,State House,54,DEM,Patricia Moore Pat Henegan,6,0,0,0,6,0,0
+Marlboro,Provisional,State House,54,DEM,Patricia Moore Pat Henegan,12,0,0,12,0,0,0
+Marlboro,Failsafe Provisional,State House,54,DEM,Patricia Moore Pat Henegan,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,State House,54,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,BLENHEIM,State House,54,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,BRIGHTSVILLE,State House,54,NON,Write-In,2,2,0,0,0,0,0
+Marlboro,RED HILL,State House,54,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,TATUM,State House,54,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,WALLACE,State House,54,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,QUICKS X ROADS,State House,54,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,CLIO,State House,54,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,MCCOLL,State House,54,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,EAST MCCOLL,State House,54,NON,Write-In,1,0,0,0,0,0,1
+Marlboro,E BENNETTSVILLE,State House,54,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,W BENNETTSVILLE,State House,54,NON,Write-In,1,1,0,0,0,0,0
+Marlboro,S BENNETTSVILLE,State House,54,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,N BENNETTSVILLE,State House,54,NON,Write-In,1,1,0,0,0,0,0
+Marlboro,Failsafe,State House,54,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Provisional,State House,54,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,State House,54,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,BLENHEIM,State House,55,DEM,Jackie E Hayes,72,35,0,0,0,6,31
+Marlboro,BROWNSVILLE,State House,55,DEM,Jackie E Hayes,157,62,0,0,0,16,79
+Marlboro,CLIO,State House,55,DEM,Jackie E Hayes,486,273,0,0,0,47,166
+Marlboro,MCCOLL,State House,55,DEM,Jackie E Hayes,188,80,0,0,0,28,80
+Marlboro,Failsafe,State House,55,DEM,Jackie E Hayes,1,0,0,0,1,0,0
+Marlboro,Provisional,State House,55,DEM,Jackie E Hayes,3,0,0,3,0,0,0
+Marlboro,Failsafe Provisional,State House,55,DEM,Jackie E Hayes,0,0,0,0,0,0,0
+Marlboro,BLENHEIM,State House,55,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,BROWNSVILLE,State House,55,NON,Write-In,7,0,0,0,0,0,7
+Marlboro,CLIO,State House,55,NON,Write-In,4,1,0,0,0,0,3
+Marlboro,MCCOLL,State House,55,NON,Write-In,6,3,0,0,0,1,2
+Marlboro,Failsafe,State House,55,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Provisional,State House,55,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,State House,55,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,Solicitor, Circuit  4,DEM,Will Rogers,245,110,0,0,0,16,119
+Marlboro,BLENHEIM,Solicitor, Circuit  4,DEM,Will Rogers,179,90,0,0,0,16,73
+Marlboro,BRIGHTSVILLE,Solicitor, Circuit  4,DEM,Will Rogers,368,190,0,0,0,37,141
+Marlboro,BROWNSVILLE,Solicitor, Circuit  4,DEM,Will Rogers,161,62,0,0,0,16,83
+Marlboro,RED HILL,Solicitor, Circuit  4,DEM,Will Rogers,755,439,0,0,0,51,265
+Marlboro,TATUM,Solicitor, Circuit  4,DEM,Will Rogers,244,122,0,0,0,21,101
+Marlboro,WALLACE,Solicitor, Circuit  4,DEM,Will Rogers,607,271,0,0,0,51,285
+Marlboro,QUICKS X ROADS,Solicitor, Circuit  4,DEM,Will Rogers,547,288,0,0,0,63,196
+Marlboro,CLIO,Solicitor, Circuit  4,DEM,Will Rogers,892,493,0,0,0,90,309
+Marlboro,MCCOLL,Solicitor, Circuit  4,DEM,Will Rogers,578,223,0,0,0,96,259
+Marlboro,EAST MCCOLL,Solicitor, Circuit  4,DEM,Will Rogers,376,127,0,0,0,59,190
+Marlboro,E BENNETTSVILLE,Solicitor, Circuit  4,DEM,Will Rogers,1022,686,0,0,0,137,199
+Marlboro,W BENNETTSVILLE,Solicitor, Circuit  4,DEM,Will Rogers,1221,830,0,0,0,214,177
+Marlboro,S BENNETTSVILLE,Solicitor, Circuit  4,DEM,Will Rogers,580,365,0,0,0,79,136
+Marlboro,N BENNETTSVILLE,Solicitor, Circuit  4,DEM,Will Rogers,1730,1239,0,0,0,207,284
+Marlboro,Failsafe,Solicitor, Circuit  4,DEM,Will Rogers,12,0,0,0,12,0,0
+Marlboro,Provisional,Solicitor, Circuit  4,DEM,Will Rogers,20,0,0,20,0,0,0
+Marlboro,Failsafe Provisional,Solicitor, Circuit  4,DEM,Will Rogers,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,Solicitor, Circuit  4,NON,Write-In,1,0,0,0,0,0,1
+Marlboro,BLENHEIM,Solicitor, Circuit  4,NON,Write-In,2,0,0,0,0,0,2
+Marlboro,BRIGHTSVILLE,Solicitor, Circuit  4,NON,Write-In,5,3,0,0,0,0,2
+Marlboro,BROWNSVILLE,Solicitor, Circuit  4,NON,Write-In,4,0,0,0,0,0,4
+Marlboro,RED HILL,Solicitor, Circuit  4,NON,Write-In,6,3,0,0,0,0,3
+Marlboro,TATUM,Solicitor, Circuit  4,NON,Write-In,5,0,0,0,0,0,5
+Marlboro,WALLACE,Solicitor, Circuit  4,NON,Write-In,8,1,0,0,0,0,7
+Marlboro,QUICKS X ROADS,Solicitor, Circuit  4,NON,Write-In,4,2,0,0,0,0,2
+Marlboro,CLIO,Solicitor, Circuit  4,NON,Write-In,4,2,0,0,0,0,2
+Marlboro,MCCOLL,Solicitor, Circuit  4,NON,Write-In,11,2,0,0,0,3,6
+Marlboro,EAST MCCOLL,Solicitor, Circuit  4,NON,Write-In,6,0,0,0,0,1,5
+Marlboro,E BENNETTSVILLE,Solicitor, Circuit  4,NON,Write-In,13,9,0,0,0,1,3
+Marlboro,W BENNETTSVILLE,Solicitor, Circuit  4,NON,Write-In,7,7,0,0,0,0,0
+Marlboro,S BENNETTSVILLE,Solicitor, Circuit  4,NON,Write-In,1,1,0,0,0,0,0
+Marlboro,N BENNETTSVILLE,Solicitor, Circuit  4,NON,Write-In,7,5,0,0,0,0,2
+Marlboro,Failsafe,Solicitor, Circuit  4,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Provisional,Solicitor, Circuit  4,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,Solicitor, Circuit  4,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,Sheriff,,REP,Henry Love,121,51,0,0,0,9,61
+Marlboro,BLENHEIM,Sheriff,,REP,Henry Love,67,21,0,0,0,7,39
+Marlboro,BRIGHTSVILLE,Sheriff,,REP,Henry Love,151,80,0,0,0,0,71
+Marlboro,BROWNSVILLE,Sheriff,,REP,Henry Love,100,24,0,0,0,1,75
+Marlboro,RED HILL,Sheriff,,REP,Henry Love,259,133,0,0,0,11,115
+Marlboro,TATUM,Sheriff,,REP,Henry Love,86,28,0,0,0,5,53
+Marlboro,WALLACE,Sheriff,,REP,Henry Love,323,99,0,0,0,13,211
+Marlboro,QUICKS X ROADS,Sheriff,,REP,Henry Love,195,81,0,0,0,10,104
+Marlboro,CLIO,Sheriff,,REP,Henry Love,184,85,0,0,0,11,88
+Marlboro,MCCOLL,Sheriff,,REP,Henry Love,352,115,0,0,0,50,187
+Marlboro,EAST MCCOLL,Sheriff,,REP,Henry Love,275,77,0,0,0,59,139
+Marlboro,E BENNETTSVILLE,Sheriff,,REP,Henry Love,215,164,0,0,0,5,46
+Marlboro,W BENNETTSVILLE,Sheriff,,REP,Henry Love,230,164,0,0,0,11,55
+Marlboro,S BENNETTSVILLE,Sheriff,,REP,Henry Love,51,33,0,0,0,1,17
+Marlboro,N BENNETTSVILLE,Sheriff,,REP,Henry Love,386,273,0,0,0,21,92
+Marlboro,Failsafe,Sheriff,,REP,Henry Love,9,0,0,0,9,0,0
+Marlboro,Provisional,Sheriff,,REP,Henry Love,8,0,0,8,0,0,0
+Marlboro,Failsafe Provisional,Sheriff,,REP,Henry Love,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,Sheriff,,DEM,Charles Lemon,146,67,0,0,0,12,67
+Marlboro,BLENHEIM,Sheriff,,DEM,Charles Lemon,122,72,0,0,0,7,43
+Marlboro,BRIGHTSVILLE,Sheriff,,DEM,Charles Lemon,338,157,0,0,0,62,119
+Marlboro,BROWNSVILLE,Sheriff,,DEM,Charles Lemon,101,46,0,0,0,15,40
+Marlboro,RED HILL,Sheriff,,DEM,Charles Lemon,439,279,0,0,0,39,121
+Marlboro,TATUM,Sheriff,,DEM,Charles Lemon,144,80,0,0,0,15,49
+Marlboro,WALLACE,Sheriff,,DEM,Charles Lemon,437,211,0,0,0,43,183
+Marlboro,QUICKS X ROADS,Sheriff,,DEM,Charles Lemon,402,222,0,0,0,56,124
+Marlboro,CLIO,Sheriff,,DEM,Charles Lemon,656,373,0,0,0,59,224
+Marlboro,MCCOLL,Sheriff,,DEM,Charles Lemon,394,160,0,0,0,75,159
+Marlboro,EAST MCCOLL,Sheriff,,DEM,Charles Lemon,221,76,0,0,0,45,100
+Marlboro,E BENNETTSVILLE,Sheriff,,DEM,Charles Lemon,764,498,0,0,0,129,137
+Marlboro,W BENNETTSVILLE,Sheriff,,DEM,Charles Lemon,932,617,0,0,0,200,115
+Marlboro,S BENNETTSVILLE,Sheriff,,DEM,Charles Lemon,492,305,0,0,0,86,101
+Marlboro,N BENNETTSVILLE,Sheriff,,DEM,Charles Lemon,1258,905,0,0,0,179,174
+Marlboro,Failsafe,Sheriff,,DEM,Charles Lemon,6,0,0,0,6,0,0
+Marlboro,Provisional,Sheriff,,DEM,Charles Lemon,15,0,0,15,0,0,0
+Marlboro,Failsafe Provisional,Sheriff,,DEM,Charles Lemon,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,Sheriff,,NON,Write-In,52,19,0,0,0,3,30
+Marlboro,BLENHEIM,Sheriff,,NON,Write-In,28,10,0,0,0,3,15
+Marlboro,BRIGHTSVILLE,Sheriff,,NON,Write-In,38,17,0,0,0,3,18
+Marlboro,BROWNSVILLE,Sheriff,,NON,Write-In,24,8,0,0,0,0,16
+Marlboro,RED HILL,Sheriff,,NON,Write-In,192,97,0,0,0,13,82
+Marlboro,TATUM,Sheriff,,NON,Write-In,62,34,0,0,0,5,23
+Marlboro,WALLACE,Sheriff,,NON,Write-In,84,28,0,0,0,2,54
+Marlboro,QUICKS X ROADS,Sheriff,,NON,Write-In,69,38,0,0,0,4,27
+Marlboro,CLIO,Sheriff,,NON,Write-In,167,83,0,0,0,25,59
+Marlboro,MCCOLL,Sheriff,,NON,Write-In,87,29,0,0,0,25,33
+Marlboro,EAST MCCOLL,Sheriff,,NON,Write-In,60,22,0,0,0,3,35
+Marlboro,E BENNETTSVILLE,Sheriff,,NON,Write-In,155,103,0,0,0,12,40
+Marlboro,W BENNETTSVILLE,Sheriff,,NON,Write-In,187,138,0,0,0,19,30
+Marlboro,S BENNETTSVILLE,Sheriff,,NON,Write-In,74,47,0,0,0,0,27
+Marlboro,N BENNETTSVILLE,Sheriff,,NON,Write-In,301,205,0,0,0,21,75
+Marlboro,Failsafe,Sheriff,,NON,Write-In,5,0,0,0,5,0,0
+Marlboro,Provisional,Sheriff,,NON,Write-In,3,0,0,3,0,0,0
+Marlboro,Failsafe Provisional,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,Clerk of Court,,DEM,Anita M Joy Williams,250,110,0,0,0,14,126
+Marlboro,BLENHEIM,Clerk of Court,,DEM,Anita M Joy Williams,184,91,0,0,0,17,76
+Marlboro,BRIGHTSVILLE,Clerk of Court,,DEM,Anita M Joy Williams,378,190,0,0,0,37,151
+Marlboro,BROWNSVILLE,Clerk of Court,,DEM,Anita M Joy Williams,159,62,0,0,0,16,81
+Marlboro,RED HILL,Clerk of Court,,DEM,Anita M Joy Williams,732,432,0,0,0,51,249
+Marlboro,TATUM,Clerk of Court,,DEM,Anita M Joy Williams,237,119,0,0,0,21,97
+Marlboro,WALLACE,Clerk of Court,,DEM,Anita M Joy Williams,620,276,0,0,0,48,296
+Marlboro,QUICKS X ROADS,Clerk of Court,,DEM,Anita M Joy Williams,546,288,0,0,0,63,195
+Marlboro,CLIO,Clerk of Court,,DEM,Anita M Joy Williams,891,493,0,0,0,89,309
+Marlboro,MCCOLL,Clerk of Court,,DEM,Anita M Joy Williams,595,225,0,0,0,104,266
+Marlboro,EAST MCCOLL,Clerk of Court,,DEM,Anita M Joy Williams,376,131,0,0,0,56,189
+Marlboro,E BENNETTSVILLE,Clerk of Court,,DEM,Anita M Joy Williams,1022,682,0,0,0,140,200
+Marlboro,W BENNETTSVILLE,Clerk of Court,,DEM,Anita M Joy Williams,1229,839,0,0,0,216,174
+Marlboro,S BENNETTSVILLE,Clerk of Court,,DEM,Anita M Joy Williams,580,362,0,0,0,81,137
+Marlboro,N BENNETTSVILLE,Clerk of Court,,DEM,Anita M Joy Williams,1739,1245,0,0,0,209,285
+Marlboro,Failsafe,Clerk of Court,,DEM,Anita M Joy Williams,12,0,0,0,12,0,0
+Marlboro,Provisional,Clerk of Court,,DEM,Anita M Joy Williams,21,0,0,21,0,0,0
+Marlboro,Failsafe Provisional,Clerk of Court,,DEM,Anita M Joy Williams,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,Clerk of Court,,NON,Write-in,2,1,0,0,0,0,1
+Marlboro,BLENHEIM,Clerk of Court,,NON,Write-in,1,0,0,0,0,0,1
+Marlboro,BRIGHTSVILLE,Clerk of Court,,NON,Write-in,5,4,0,0,0,0,1
+Marlboro,BROWNSVILLE,Clerk of Court,,NON,Write-in,4,0,0,0,0,0,4
+Marlboro,RED HILL,Clerk of Court,,NON,Write-in,4,1,0,0,0,0,3
+Marlboro,TATUM,Clerk of Court,,NON,Write-in,6,1,0,0,0,1,4
+Marlboro,WALLACE,Clerk of Court,,NON,Write-in,9,0,0,0,0,2,7
+Marlboro,QUICKS X ROADS,Clerk of Court,,NON,Write-in,6,2,0,0,0,1,3
+Marlboro,CLIO,Clerk of Court,,NON,Write-in,3,2,0,0,0,0,1
+Marlboro,MCCOLL,Clerk of Court,,NON,Write-in,3,0,0,0,0,0,3
+Marlboro,EAST MCCOLL,Clerk of Court,,NON,Write-in,5,0,0,0,0,2,3
+Marlboro,E BENNETTSVILLE,Clerk of Court,,NON,Write-in,9,7,0,0,0,0,2
+Marlboro,W BENNETTSVILLE,Clerk of Court,,NON,Write-in,3,3,0,0,0,0,0
+Marlboro,S BENNETTSVILLE,Clerk of Court,,NON,Write-in,2,2,0,0,0,0,0
+Marlboro,N BENNETTSVILLE,Clerk of Court,,NON,Write-in,5,3,0,0,0,0,2
+Marlboro,Failsafe,Clerk of Court,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Provisional,Clerk of Court,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,Clerk of Court,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,Coroner,,DEM,Timothy E Brown,248,110,0,0,0,15,123
+Marlboro,BLENHEIM,Coroner,,DEM,Timothy E Brown,184,91,0,0,0,16,77
+Marlboro,BRIGHTSVILLE,Coroner,,DEM,Timothy E Brown,380,193,0,0,0,37,150
+Marlboro,BROWNSVILLE,Coroner,,DEM,Timothy E Brown,162,63,0,0,0,16,83
+Marlboro,RED HILL,Coroner,,DEM,Timothy E Brown,744,439,0,0,0,51,254
+Marlboro,TATUM,Coroner,,DEM,Timothy E Brown,246,127,0,0,0,21,98
+Marlboro,WALLACE,Coroner,,DEM,Timothy E Brown,623,274,0,0,0,51,298
+Marlboro,QUICKS X ROADS,Coroner,,DEM,Timothy E Brown,545,286,0,0,0,64,195
+Marlboro,CLIO,Coroner,,DEM,Timothy E Brown,894,488,0,0,0,91,315
+Marlboro,MCCOLL,Coroner,,DEM,Timothy E Brown,605,232,0,0,0,109,264
+Marlboro,EAST MCCOLL,Coroner,,DEM,Timothy E Brown,375,133,0,0,0,56,186
+Marlboro,E BENNETTSVILLE,Coroner,,DEM,Timothy E Brown,1018,681,0,0,0,140,197
+Marlboro,W BENNETTSVILLE,Coroner,,DEM,Timothy E Brown,1226,831,0,0,0,219,176
+Marlboro,S BENNETTSVILLE,Coroner,,DEM,Timothy E Brown,577,360,0,0,0,80,137
+Marlboro,N BENNETTSVILLE,Coroner,,DEM,Timothy E Brown,1736,1249,0,0,0,206,281
+Marlboro,Failsafe,Coroner,,DEM,Timothy E Brown,12,0,0,0,12,0,0
+Marlboro,Provisional,Coroner,,DEM,Timothy E Brown,20,0,0,20,0,0,0
+Marlboro,Failsafe Provisional,Coroner,,DEM,Timothy E Brown,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,Coroner,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,BLENHEIM,Coroner,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,BRIGHTSVILLE,Coroner,,NON,Write-in,5,4,0,0,0,0,1
+Marlboro,BROWNSVILLE,Coroner,,NON,Write-in,4,1,0,0,0,0,3
+Marlboro,RED HILL,Coroner,,NON,Write-in,4,1,0,0,0,0,3
+Marlboro,TATUM,Coroner,,NON,Write-in,5,1,0,0,0,0,4
+Marlboro,WALLACE,Coroner,,NON,Write-in,8,0,0,0,0,0,8
+Marlboro,QUICKS X ROADS,Coroner,,NON,Write-in,5,2,0,0,0,0,3
+Marlboro,CLIO,Coroner,,NON,Write-in,6,5,0,0,0,0,1
+Marlboro,MCCOLL,Coroner,,NON,Write-in,3,0,0,0,0,0,3
+Marlboro,EAST MCCOLL,Coroner,,NON,Write-in,6,0,0,0,0,1,5
+Marlboro,E BENNETTSVILLE,Coroner,,NON,Write-in,10,8,0,0,0,0,2
+Marlboro,W BENNETTSVILLE,Coroner,,NON,Write-in,8,7,0,0,0,0,1
+Marlboro,S BENNETTSVILLE,Coroner,,NON,Write-in,1,1,0,0,0,0,0
+Marlboro,N BENNETTSVILLE,Coroner,,NON,Write-in,6,4,0,0,0,0,2
+Marlboro,Failsafe,Coroner,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Provisional,Coroner,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,Coroner,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,County Treasurer,,DEM,Delorice B Barrington,255,112,0,0,0,16,127
+Marlboro,BLENHEIM,County Treasurer,,DEM,Delorice B Barrington,183,91,0,0,0,15,77
+Marlboro,BRIGHTSVILLE,County Treasurer,,DEM,Delorice B Barrington,387,197,0,0,0,37,153
+Marlboro,BROWNSVILLE,County Treasurer,,DEM,Delorice B Barrington,163,64,0,0,0,15,84
+Marlboro,RED HILL,County Treasurer,,DEM,Delorice B Barrington,752,441,0,0,0,51,260
+Marlboro,TATUM,County Treasurer,,DEM,Delorice B Barrington,244,124,0,0,0,20,100
+Marlboro,WALLACE,County Treasurer,,DEM,Delorice B Barrington,645,287,0,0,0,50,308
+Marlboro,QUICKS X ROADS,County Treasurer,,DEM,Delorice B Barrington,549,288,0,0,0,63,198
+Marlboro,CLIO,County Treasurer,,DEM,Delorice B Barrington,896,492,0,0,0,88,316
+Marlboro,MCCOLL,County Treasurer,,DEM,Delorice B Barrington,628,236,0,0,0,115,277
+Marlboro,EAST MCCOLL,County Treasurer,,DEM,Delorice B Barrington,394,136,0,0,0,62,196
+Marlboro,E BENNETTSVILLE,County Treasurer,,DEM,Delorice B Barrington,1023,684,0,0,0,139,200
+Marlboro,W BENNETTSVILLE,County Treasurer,,DEM,Delorice B Barrington,1233,837,0,0,0,217,179
+Marlboro,S BENNETTSVILLE,County Treasurer,,DEM,Delorice B Barrington,577,360,0,0,0,80,137
+Marlboro,N BENNETTSVILLE,County Treasurer,,DEM,Delorice B Barrington,1749,1255,0,0,0,206,288
+Marlboro,Failsafe,County Treasurer,,DEM,Delorice B Barrington,12,0,0,0,12,0,0
+Marlboro,Provisional,County Treasurer,,DEM,Delorice B Barrington,18,0,0,18,0,0,0
+Marlboro,Failsafe Provisional,County Treasurer,,DEM,Delorice B Barrington,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,County Treasurer,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,BLENHEIM,County Treasurer,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,BRIGHTSVILLE,County Treasurer,,NON,Write-in,4,2,0,0,0,0,2
+Marlboro,BROWNSVILLE,County Treasurer,,NON,Write-in,4,1,0,0,0,0,3
+Marlboro,RED HILL,County Treasurer,,NON,Write-in,5,2,0,0,0,0,3
+Marlboro,TATUM,County Treasurer,,NON,Write-in,5,0,0,0,0,0,5
+Marlboro,WALLACE,County Treasurer,,NON,Write-in,6,0,0,0,0,2,4
+Marlboro,QUICKS X ROADS,County Treasurer,,NON,Write-in,5,2,0,0,0,0,3
+Marlboro,CLIO,County Treasurer,,NON,Write-in,2,1,0,0,0,0,1
+Marlboro,MCCOLL,County Treasurer,,NON,Write-in,1,0,0,0,0,0,1
+Marlboro,EAST MCCOLL,County Treasurer,,NON,Write-in,4,0,0,0,0,1,3
+Marlboro,E BENNETTSVILLE,County Treasurer,,NON,Write-in,8,7,0,0,0,0,1
+Marlboro,W BENNETTSVILLE,County Treasurer,,NON,Write-in,7,7,0,0,0,0,0
+Marlboro,S BENNETTSVILLE,County Treasurer,,NON,Write-in,2,2,0,0,0,0,0
+Marlboro,N BENNETTSVILLE,County Treasurer,,NON,Write-in,5,3,0,0,0,0,2
+Marlboro,Failsafe,County Treasurer,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Provisional,County Treasurer,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,County Treasurer,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,County Council District 2,,DEM,Damien E Johnson,127,55,0,0,0,12,60
+Marlboro,BRIGHTSVILLE,County Council District 2,,DEM,Damien E Johnson,350,162,0,0,0,55,133
+Marlboro,RED HILL,County Council District 2,,DEM,Damien E Johnson,32,19,0,0,0,4,9
+Marlboro,QUICKS X ROADS,County Council District 2,,DEM,Damien E Johnson,124,72,0,0,0,26,26
+Marlboro,W BENNETTSVILLE,County Council District 2,,DEM,Damien E Johnson,456,322,0,0,0,73,61
+Marlboro,N BENNETTSVILLE,County Council District 2,,DEM,Damien E Johnson,194,136,0,0,0,25,33
+Marlboro,Failsafe,County Council District 2,,DEM,Damien E Johnson,2,0,0,0,2,0,0
+Marlboro,Provisional,County Council District 2,,DEM,Damien E Johnson,2,0,0,2,0,0,0
+Marlboro,Failsafe Provisional,County Council District 2,,DEM,Damien E Johnson,0,0,0,0,0,0,0
+Marlboro,ADAMSVILLE,County Council District 2,,NON,Write-in,1,1,0,0,0,0,0
+Marlboro,BRIGHTSVILLE,County Council District 2,,NON,Write-in,2,1,0,0,0,0,1
+Marlboro,RED HILL,County Council District 2,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,QUICKS X ROADS,County Council District 2,,NON,Write-in,2,1,0,0,0,0,1
+Marlboro,W BENNETTSVILLE,County Council District 2,,NON,Write-in,5,4,0,0,0,1,0
+Marlboro,N BENNETTSVILLE,County Council District 2,,NON,Write-in,3,3,0,0,0,0,0
+Marlboro,Failsafe,County Council District 2,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Provisional,County Council District 2,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,County Council District 2,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,E BENNETTSVILLE,County Council District 3,,DEM,Charles Paul Midgley Jr,152,96,0,0,0,32,24
+Marlboro,N BENNETTSVILLE,County Council District 3,,DEM,Charles Paul Midgley Jr,1268,899,0,0,0,152,217
+Marlboro,Failsafe,County Council District 3,,DEM,Charles Paul Midgley Jr,2,0,0,0,2,0,0
+Marlboro,Provisional,County Council District 3,,DEM,Charles Paul Midgley Jr,1,0,0,1,0,0,0
+Marlboro,Failsafe Provisional,County Council District 3,,DEM,Charles Paul Midgley Jr,0,0,0,0,0,0,0
+Marlboro,E BENNETTSVILLE,County Council District 3,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,N BENNETTSVILLE,County Council District 3,,NON,Write-in,7,6,0,0,0,0,1
+Marlboro,Failsafe,County Council District 3,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Provisional,County Council District 3,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,County Council District 3,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,E BENNETTSVILLE,County Council District 5,,DEM,Ken Stroman,700,465,0,0,0,97,138
+Marlboro,W BENNETTSVILLE,County Council District 5,,DEM,Ken Stroman,79,49,0,0,0,8,22
+Marlboro,S BENNETTSVILLE,County Council District 5,,DEM,Ken Stroman,288,188,0,0,0,40,60
+Marlboro,N BENNETTSVILLE,County Council District 5,,DEM,Ken Stroman,106,79,0,0,0,8,19
+Marlboro,Failsafe,County Council District 5,,DEM,Ken Stroman,0,0,0,0,0,0,0
+Marlboro,Provisional,County Council District 5,,DEM,Ken Stroman,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,County Council District 5,,DEM,Ken Stroman,0,0,0,0,0,0,0
+Marlboro,E BENNETTSVILLE,County Council District 5,,NON,Write-in,5,5,0,0,0,0,0
+Marlboro,W BENNETTSVILLE,County Council District 5,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,S BENNETTSVILLE,County Council District 5,,NON,Write-in,4,3,0,0,0,0,1
+Marlboro,N BENNETTSVILLE,County Council District 5,,NON,Write-in,1,1,0,0,0,0,0
+Marlboro,Failsafe,County Council District 5,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Provisional,County Council District 5,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,County Council District 5,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,MCCOLL,County Council District 6,,REP,Verd Odom,411,123,0,0,0,113,175
+Marlboro,EAST MCCOLL,County Council District 6,,REP,Verd Odom,386,113,0,0,0,87,186
+Marlboro,Failsafe,County Council District 6,,REP,Verd Odom,0,0,0,0,0,0,0
+Marlboro,Provisional,County Council District 6,,REP,Verd Odom,3,0,0,3,0,0,0
+Marlboro,Failsafe Provisional,County Council District 6,,REP,Verd Odom,0,0,0,0,0,0,0
+Marlboro,MCCOLL,County Council District 6,,DEM,Bobby Odom,313,132,0,0,0,27,154
+Marlboro,EAST MCCOLL,County Council District 6,,DEM,Bobby Odom,165,60,0,0,0,20,85
+Marlboro,Failsafe,County Council District 6,,DEM,Bobby Odom,0,0,0,0,0,0,0
+Marlboro,Provisional,County Council District 6,,DEM,Bobby Odom,3,0,0,3,0,0,0
+Marlboro,Failsafe Provisional,County Council District 6,,DEM,Bobby Odom,0,0,0,0,0,0,0
+Marlboro,MCCOLL,County Council District 6,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,EAST MCCOLL,County Council District 6,,NON,Write-in,3,1,0,0,0,0,2
+Marlboro,Failsafe,County Council District 6,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Provisional,County Council District 6,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,County Council District 6,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,BRIGHTSVILLE,School Board District 1,,NON,Michael Coachman,39,21,0,0,0,6,12
+Marlboro,WALLACE,School Board District 1,,NON,Michael Coachman,563,237,0,0,0,43,283
+Marlboro,QUICKS X ROADS,School Board District 1,,NON,Michael Coachman,364,184,0,0,0,33,147
+Marlboro,Failsafe,School Board District 1,,NON,Michael Coachman,0,0,0,0,0,0,0
+Marlboro,Provisional,School Board District 1,,NON,Michael Coachman,2,0,0,2,0,0,0
+Marlboro,Failsafe Provisional,School Board District 1,,NON,Michael Coachman,0,0,0,0,0,0,0
+Marlboro,BRIGHTSVILLE,School Board District 1,,NON,Write-In,2,2,0,0,0,0,0
+Marlboro,WALLACE,School Board District 1,,NON,Write-In,6,2,0,0,0,1,3
+Marlboro,QUICKS X ROADS,School Board District 1,,NON,Write-In,12,5,0,0,0,0,7
+Marlboro,Failsafe,School Board District 1,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Provisional,School Board District 1,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,School Board District 1,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,RED HILL,School Board District 4,,NON,Wendell Crowley,34,18,0,0,0,0,16
+Marlboro,E BENNETTSVILLE,School Board District 4,,NON,Wendell Crowley,26,19,0,0,0,0,7
+Marlboro,W BENNETTSVILLE,School Board District 4,,NON,Wendell Crowley,143,110,0,0,0,8,25
+Marlboro,S BENNETTSVILLE,School Board District 4,,NON,Wendell Crowley,57,41,0,0,0,2,14
+Marlboro,Failsafe,School Board District 4,,NON,Wendell Crowley,0,0,0,0,0,0,0
+Marlboro,Provisional,School Board District 4,,NON,Wendell Crowley,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,School Board District 4,,NON,Wendell Crowley,0,0,0,0,0,0,0
+Marlboro,RED HILL,School Board District 4,,NON,Reginald Gaymon,19,12,0,0,0,3,4
+Marlboro,E BENNETTSVILLE,School Board District 4,,NON,Reginald Gaymon,38,27,0,0,0,2,9
+Marlboro,W BENNETTSVILLE,School Board District 4,,NON,Reginald Gaymon,275,164,0,0,0,71,40
+Marlboro,S BENNETTSVILLE,School Board District 4,,NON,Reginald Gaymon,150,81,0,0,0,25,44
+Marlboro,Failsafe,School Board District 4,,NON,Reginald Gaymon,0,0,0,0,0,0,0
+Marlboro,Provisional,School Board District 4,,NON,Reginald Gaymon,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,School Board District 4,,NON,Reginald Gaymon,0,0,0,0,0,0,0
+Marlboro,RED HILL,School Board District 4,,NON,Chris Jones,17,14,0,0,0,1,2
+Marlboro,E BENNETTSVILLE,School Board District 4,,NON,Chris Jones,21,14,0,0,0,2,5
+Marlboro,W BENNETTSVILLE,School Board District 4,,NON,Chris Jones,167,128,0,0,0,14,25
+Marlboro,S BENNETTSVILLE,School Board District 4,,NON,Chris Jones,39,21,0,0,0,3,15
+Marlboro,Failsafe,School Board District 4,,NON,Chris Jones,2,0,0,0,2,0,0
+Marlboro,Provisional,School Board District 4,,NON,Chris Jones,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,School Board District 4,,NON,Chris Jones,0,0,0,0,0,0,0
+Marlboro,RED HILL,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,E BENNETTSVILLE,School Board District 4,,NON,Write-In,3,2,0,0,0,0,1
+Marlboro,W BENNETTSVILLE,School Board District 4,,NON,Write-In,2,2,0,0,0,0,0
+Marlboro,S BENNETTSVILLE,School Board District 4,,NON,Write-In,1,1,0,0,0,0,0
+Marlboro,Failsafe,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,MCCOLL,School Board District 6,,NON,David Flowers,378,139,0,0,0,60,179
+Marlboro,EAST MCCOLL,School Board District 6,,NON,David Flowers,270,75,0,0,0,41,154
+Marlboro,Failsafe,School Board District 6,,NON,David Flowers,0,0,0,0,0,0,0
+Marlboro,Provisional,School Board District 6,,NON,David Flowers,4,0,0,4,0,0,0
+Marlboro,Failsafe Provisional,School Board District 6,,NON,David Flowers,0,0,0,0,0,0,0
+Marlboro,MCCOLL,School Board District 6,,NON,Billy Bert Shelley,277,80,0,0,0,77,120
+Marlboro,EAST MCCOLL,School Board District 6,,NON,Billy Bert Shelley,234,82,0,0,0,59,93
+Marlboro,Failsafe,School Board District 6,,NON,Billy Bert Shelley,0,0,0,0,0,0,0
+Marlboro,Provisional,School Board District 6,,NON,Billy Bert Shelley,2,0,0,2,0,0,0
+Marlboro,Failsafe Provisional,School Board District 6,,NON,Billy Bert Shelley,0,0,0,0,0,0,0
+Marlboro,MCCOLL,School Board District 6,,NON,Write-In,1,0,0,0,0,0,1
+Marlboro,EAST MCCOLL,School Board District 6,,NON,Write-In,2,1,0,0,0,1,0
+Marlboro,Failsafe,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Provisional,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Marlboro,TATUM,Mayor Town of Tatum,,NON,Steven Nolan,29,7,0,0,0,1,21
+Marlboro,Failsafe,Mayor Town of Tatum,,NON,Steven Nolan,0,0,0,0,0,0,0
+Marlboro,Provisional,Mayor Town of Tatum,,NON,Steven Nolan,3,0,0,3,0,0,0
+Marlboro,Failsafe Provisional,Mayor Town of Tatum,,NON,Steven Nolan,0,0,0,0,0,0,0
+Marlboro,TATUM,Mayor Town of Tatum,,NON,Betty Jo Quick,13,7,0,0,0,2,4
+Marlboro,Failsafe,Mayor Town of Tatum,,NON,Betty Jo Quick,0,0,0,0,0,0,0
+Marlboro,Provisional,Mayor Town of Tatum,,NON,Betty Jo Quick,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,Mayor Town of Tatum,,NON,Betty Jo Quick,0,0,0,0,0,0,0
+Marlboro,TATUM,Mayor Town of Tatum,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Failsafe,Mayor Town of Tatum,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Provisional,Mayor Town of Tatum,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,Mayor Town of Tatum,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,TATUM,Town Council Town of Tatum,,NON,Rebecca Hubbard,29,10,0,0,0,1,18
+Marlboro,Failsafe,Town Council Town of Tatum,,NON,Rebecca Hubbard,0,0,0,0,0,0,0
+Marlboro,Provisional,Town Council Town of Tatum,,NON,Rebecca Hubbard,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,Town Council Town of Tatum,,NON,Rebecca Hubbard,0,0,0,0,0,0,0
+Marlboro,TATUM,Town Council Town of Tatum,,NON,Wayne Usher,33,8,0,0,0,3,22
+Marlboro,Failsafe,Town Council Town of Tatum,,NON,Wayne Usher,0,0,0,0,0,0,0
+Marlboro,Provisional,Town Council Town of Tatum,,NON,Wayne Usher,2,0,0,2,0,0,0
+Marlboro,Failsafe Provisional,Town Council Town of Tatum,,NON,Wayne Usher,0,0,0,0,0,0,0
+Marlboro,TATUM,Town Council Town of Tatum,,NON,Write-in,1,0,0,0,0,0,1
+Marlboro,Failsafe,Town Council Town of Tatum,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Provisional,Town Council Town of Tatum,,NON,Write-in,0,0,0,0,0,0,0
+Marlboro,Failsafe Provisional,Town Council Town of Tatum,,NON,Write-in,0,0,0,0,0,0,0

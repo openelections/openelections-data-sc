@@ -1,0 +1,690 @@
+county,precinct,office,district,party,candidate,votes,in-person_absentee,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Edgefield,Edgefield No.1,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Edgefield,Johnston No.1,STRAIGHT PARTY 1,,CON,Constitution,2,1,0,0,0,0,1
+Edgefield,Johnston No.2,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Edgefield,Trenton No.1,STRAIGHT PARTY 1,,CON,Constitution,2,1,0,0,0,0,1
+Edgefield,Merriweather No.1,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,1,0
+Edgefield,Westside,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Edgefield,Harmony,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Edgefield,North Side,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Edgefield,Brunson,STRAIGHT PARTY 1,,CON,Constitution,1,1,0,0,0,0,0
+Edgefield,Merriweather No.2,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Edgefield,Trenton No.2,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Edgefield,Failsafe,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Edgefield,Provisional,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Edgefield,Johnston No.1,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Edgefield,Johnston No.2,STRAIGHT PARTY 1,,GRN,Green,2,1,0,0,0,1,0
+Edgefield,Trenton No.1,STRAIGHT PARTY 1,,GRN,Green,2,1,0,0,0,0,1
+Edgefield,Merriweather No.1,STRAIGHT PARTY 1,,GRN,Green,2,0,0,0,0,0,2
+Edgefield,Westside,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Edgefield,Harmony,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Edgefield,North Side,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Edgefield,Brunson,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Edgefield,Merriweather No.2,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Edgefield,Trenton No.2,STRAIGHT PARTY 1,,GRN,Green,1,1,0,0,0,0,0
+Edgefield,Failsafe,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Edgefield,Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,STRAIGHT PARTY 1,,REP,Republican,239,104,0,0,0,10,125
+Edgefield,Edgefield No.2,STRAIGHT PARTY 1,,REP,Republican,408,195,0,0,0,26,187
+Edgefield,Johnston No.1,STRAIGHT PARTY 1,,REP,Republican,218,78,0,0,0,16,124
+Edgefield,Johnston No.2,STRAIGHT PARTY 1,,REP,Republican,235,78,0,0,0,9,148
+Edgefield,Trenton No.1,STRAIGHT PARTY 1,,REP,Republican,283,105,0,0,0,15,163
+Edgefield,Merriweather No.1,STRAIGHT PARTY 1,,REP,Republican,1275,518,0,0,0,111,646
+Edgefield,Westside,STRAIGHT PARTY 1,,REP,Republican,410,156,0,0,0,16,238
+Edgefield,Harmony,STRAIGHT PARTY 1,,REP,Republican,284,120,0,0,0,8,156
+Edgefield,North Side,STRAIGHT PARTY 1,,REP,Republican,80,15,0,0,0,6,59
+Edgefield,Brunson,STRAIGHT PARTY 1,,REP,Republican,108,38,0,0,0,11,59
+Edgefield,Merriweather No.2,STRAIGHT PARTY 1,,REP,Republican,1373,658,0,0,0,70,645
+Edgefield,Trenton No.2,STRAIGHT PARTY 1,,REP,Republican,405,157,0,0,0,33,215
+Edgefield,Failsafe,STRAIGHT PARTY 1,,REP,Republican,1,0,0,0,1,0,0
+Edgefield,Provisional,STRAIGHT PARTY 1,,REP,Republican,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,STRAIGHT PARTY 1,,REP,Republican,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,STRAIGHT PARTY 1,,ALN,Alliance,1,0,0,0,0,0,1
+Edgefield,Johnston No.1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,Johnston No.2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,Merriweather No.1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,Westside,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,Harmony,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,North Side,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,Brunson,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,Merriweather No.2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,Trenton No.2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,Failsafe,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Edgefield,Edgefield No.2,STRAIGHT PARTY 1,,LIB,Libertarian,6,5,0,0,0,1,0
+Edgefield,Johnston No.1,STRAIGHT PARTY 1,,LIB,Libertarian,2,1,0,0,0,0,1
+Edgefield,Johnston No.2,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,0,1,1
+Edgefield,Trenton No.1,STRAIGHT PARTY 1,,LIB,Libertarian,2,2,0,0,0,0,0
+Edgefield,Merriweather No.1,STRAIGHT PARTY 1,,LIB,Libertarian,7,3,0,0,0,0,4
+Edgefield,Westside,STRAIGHT PARTY 1,,LIB,Libertarian,2,1,0,0,0,0,1
+Edgefield,Harmony,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Edgefield,North Side,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Edgefield,Brunson,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Edgefield,Merriweather No.2,STRAIGHT PARTY 1,,LIB,Libertarian,4,0,0,0,0,0,4
+Edgefield,Trenton No.2,STRAIGHT PARTY 1,,LIB,Libertarian,4,2,0,0,0,0,2
+Edgefield,Failsafe,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Edgefield,Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,STRAIGHT PARTY 1,,DEM,Democratic,169,83,0,0,0,26,60
+Edgefield,Edgefield No.2,STRAIGHT PARTY 1,,DEM,Democratic,502,262,0,0,0,77,163
+Edgefield,Johnston No.1,STRAIGHT PARTY 1,,DEM,Democratic,476,173,0,0,0,76,227
+Edgefield,Johnston No.2,STRAIGHT PARTY 1,,DEM,Democratic,378,159,0,0,0,59,160
+Edgefield,Trenton No.1,STRAIGHT PARTY 1,,DEM,Democratic,312,166,0,0,0,25,121
+Edgefield,Merriweather No.1,STRAIGHT PARTY 1,,DEM,Democratic,262,112,0,0,0,44,106
+Edgefield,Westside,STRAIGHT PARTY 1,,DEM,Democratic,25,12,0,0,0,4,9
+Edgefield,Harmony,STRAIGHT PARTY 1,,DEM,Democratic,104,55,0,0,0,24,25
+Edgefield,North Side,STRAIGHT PARTY 1,,DEM,Democratic,156,43,0,0,0,19,94
+Edgefield,Brunson,STRAIGHT PARTY 1,,DEM,Democratic,206,113,0,0,0,34,59
+Edgefield,Merriweather No.2,STRAIGHT PARTY 1,,DEM,Democratic,335,187,0,0,0,57,91
+Edgefield,Trenton No.2,STRAIGHT PARTY 1,,DEM,Democratic,693,359,0,0,0,86,248
+Edgefield,Failsafe,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Edgefield,Provisional,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,President,,GRN,Howie Hawkins | Angela Walker,2,1,0,0,0,0,1
+Edgefield,Edgefield No.2,President,,GRN,Howie Hawkins | Angela Walker,5,1,0,0,0,0,4
+Edgefield,Johnston No.1,President,,GRN,Howie Hawkins | Angela Walker,3,1,0,0,0,0,2
+Edgefield,Johnston No.2,President,,GRN,Howie Hawkins | Angela Walker,3,1,0,0,0,0,2
+Edgefield,Trenton No.1,President,,GRN,Howie Hawkins | Angela Walker,4,2,0,0,0,1,1
+Edgefield,Merriweather No.1,President,,GRN,Howie Hawkins | Angela Walker,4,1,0,0,0,1,2
+Edgefield,Westside,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Edgefield,Harmony,President,,GRN,Howie Hawkins | Angela Walker,1,1,0,0,0,0,0
+Edgefield,North Side,President,,GRN,Howie Hawkins | Angela Walker,2,0,0,0,0,0,2
+Edgefield,Brunson,President,,GRN,Howie Hawkins | Angela Walker,2,1,0,0,0,0,1
+Edgefield,Merriweather No.2,President,,GRN,Howie Hawkins | Angela Walker,4,1,0,0,0,0,3
+Edgefield,Trenton No.2,President,,GRN,Howie Hawkins | Angela Walker,9,6,0,0,0,0,3
+Edgefield,Failsafe,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Edgefield,Provisional,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,President,,REP,Donald J Trump | Michael R Pence,448,181,0,0,0,36,231
+Edgefield,Edgefield No.2,President,,REP,Donald J Trump | Michael R Pence,648,294,0,0,0,52,302
+Edgefield,Johnston No.1,President,,REP,Donald J Trump | Michael R Pence,379,123,0,0,0,29,227
+Edgefield,Johnston No.2,President,,REP,Donald J Trump | Michael R Pence,410,130,0,0,0,23,257
+Edgefield,Trenton No.1,President,,REP,Donald J Trump | Michael R Pence,459,148,0,0,0,48,263
+Edgefield,Merriweather No.1,President,,REP,Donald J Trump | Michael R Pence,1718,689,0,0,0,174,855
+Edgefield,Westside,President,,REP,Donald J Trump | Michael R Pence,727,223,0,0,0,38,466
+Edgefield,Harmony,President,,REP,Donald J Trump | Michael R Pence,510,202,0,0,0,35,273
+Edgefield,North Side,President,,REP,Donald J Trump | Michael R Pence,155,25,0,0,0,8,122
+Edgefield,Brunson,President,,REP,Donald J Trump | Michael R Pence,177,54,0,0,0,16,107
+Edgefield,Merriweather No.2,President,,REP,Donald J Trump | Michael R Pence,1967,917,0,0,0,134,916
+Edgefield,Trenton No.2,President,,REP,Donald J Trump | Michael R Pence,584,222,0,0,0,59,303
+Edgefield,Failsafe,President,,REP,Donald J Trump | Michael R Pence,1,0,0,0,1,0,0
+Edgefield,Provisional,President,,REP,Donald J Trump | Michael R Pence,1,0,0,1,0,0,0
+Edgefield,Failsafe Provisional,President,,REP,Donald J Trump | Michael R Pence,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,2,1,0,0,0,0,1
+Edgefield,Johnston No.1,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,1,0,0,0,0,0
+Edgefield,Johnston No.2,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,1,0,0,0,0,0
+Edgefield,Trenton No.1,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Edgefield,Merriweather No.1,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Edgefield,Westside,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Edgefield,Harmony,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Edgefield,North Side,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,0,0,0,0,0,1
+Edgefield,Brunson,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Edgefield,Merriweather No.2,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,2,1,0,0,0,1,0
+Edgefield,Trenton No.2,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,1,0,0,0,0,0
+Edgefield,Failsafe,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Edgefield,Provisional,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,6,2,0,0,0,1,3
+Edgefield,Edgefield No.2,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,13,8,0,0,0,1,4
+Edgefield,Johnston No.1,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,9,4,0,0,0,0,5
+Edgefield,Johnston No.2,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,8,2,0,0,0,0,6
+Edgefield,Trenton No.1,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,3,2,0,0,0,0,1
+Edgefield,Merriweather No.1,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,28,10,0,0,0,2,16
+Edgefield,Westside,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,7,2,0,0,0,1,4
+Edgefield,Harmony,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,12,2,0,0,0,0,10
+Edgefield,North Side,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,1,0,0,0,0,1
+Edgefield,Brunson,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Edgefield,Merriweather No.2,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,19,5,0,0,0,1,13
+Edgefield,Trenton No.2,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,13,5,0,0,0,0,8
+Edgefield,Failsafe,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Edgefield,Provisional,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,President,,DEM,Joseph R Biden | Kamala D Harris,271,128,0,0,0,48,95
+Edgefield,Edgefield No.2,President,,DEM,Joseph R Biden | Kamala D Harris,647,329,0,0,0,116,202
+Edgefield,Johnston No.1,President,,DEM,Joseph R Biden | Kamala D Harris,553,202,0,0,0,93,258
+Edgefield,Johnston No.2,President,,DEM,Joseph R Biden | Kamala D Harris,485,200,0,0,0,80,205
+Edgefield,Trenton No.1,President,,DEM,Joseph R Biden | Kamala D Harris,404,204,0,0,0,57,143
+Edgefield,Merriweather No.1,President,,DEM,Joseph R Biden | Kamala D Harris,426,152,0,0,0,114,160
+Edgefield,Westside,President,,DEM,Joseph R Biden | Kamala D Harris,58,20,0,0,0,17,21
+Edgefield,Harmony,President,,DEM,Joseph R Biden | Kamala D Harris,171,80,0,0,0,41,50
+Edgefield,North Side,President,,DEM,Joseph R Biden | Kamala D Harris,201,51,0,0,0,31,119
+Edgefield,Brunson,President,,DEM,Joseph R Biden | Kamala D Harris,266,132,0,0,0,53,81
+Edgefield,Merriweather No.2,President,,DEM,Joseph R Biden | Kamala D Harris,561,281,0,0,0,125,155
+Edgefield,Trenton No.2,President,,DEM,Joseph R Biden | Kamala D Harris,910,449,0,0,0,145,316
+Edgefield,Failsafe,President,,DEM,Joseph R Biden | Kamala D Harris,0,0,0,0,0,0,0
+Edgefield,Provisional,President,,DEM,Joseph R Biden | Kamala D Harris,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,President,,DEM,Joseph R Biden | Kamala D Harris,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,U.S. Senate,,CON,Bill Bledsoe,8,3,0,0,0,0,5
+Edgefield,Edgefield No.2,U.S. Senate,,CON,Bill Bledsoe,18,4,0,0,0,2,12
+Edgefield,Johnston No.1,U.S. Senate,,CON,Bill Bledsoe,16,4,0,0,0,3,9
+Edgefield,Johnston No.2,U.S. Senate,,CON,Bill Bledsoe,11,3,0,0,0,0,8
+Edgefield,Trenton No.1,U.S. Senate,,CON,Bill Bledsoe,14,3,0,0,0,1,10
+Edgefield,Merriweather No.1,U.S. Senate,,CON,Bill Bledsoe,41,14,0,0,0,3,24
+Edgefield,Westside,U.S. Senate,,CON,Bill Bledsoe,16,5,0,0,0,0,11
+Edgefield,Harmony,U.S. Senate,,CON,Bill Bledsoe,14,2,0,0,0,2,10
+Edgefield,North Side,U.S. Senate,,CON,Bill Bledsoe,4,2,0,0,0,1,1
+Edgefield,Brunson,U.S. Senate,,CON,Bill Bledsoe,4,3,0,0,0,0,1
+Edgefield,Merriweather No.2,U.S. Senate,,CON,Bill Bledsoe,46,12,0,0,0,2,32
+Edgefield,Trenton No.2,U.S. Senate,,CON,Bill Bledsoe,25,9,0,0,0,0,16
+Edgefield,Failsafe,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Edgefield,Provisional,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,U.S. Senate,,REP,Lindsey Graham,448,184,0,0,0,37,227
+Edgefield,Edgefield No.2,U.S. Senate,,REP,Lindsey Graham,630,286,0,0,0,53,291
+Edgefield,Johnston No.1,U.S. Senate,,REP,Lindsey Graham,364,122,0,0,0,25,217
+Edgefield,Johnston No.2,U.S. Senate,,REP,Lindsey Graham,402,131,0,0,0,24,247
+Edgefield,Trenton No.1,U.S. Senate,,REP,Lindsey Graham,438,145,0,0,0,45,248
+Edgefield,Merriweather No.1,U.S. Senate,,REP,Lindsey Graham,1682,677,0,0,0,170,835
+Edgefield,Westside,U.S. Senate,,REP,Lindsey Graham,712,221,0,0,0,38,453
+Edgefield,Harmony,U.S. Senate,,REP,Lindsey Graham,500,201,0,0,0,32,267
+Edgefield,North Side,U.S. Senate,,REP,Lindsey Graham,157,25,0,0,0,7,125
+Edgefield,Brunson,U.S. Senate,,REP,Lindsey Graham,169,53,0,0,0,17,99
+Edgefield,Merriweather No.2,U.S. Senate,,REP,Lindsey Graham,1920,904,0,0,0,133,883
+Edgefield,Trenton No.2,U.S. Senate,,REP,Lindsey Graham,564,216,0,0,0,57,291
+Edgefield,Failsafe,U.S. Senate,,REP,Lindsey Graham,1,0,0,0,1,0,0
+Edgefield,Provisional,U.S. Senate,,REP,Lindsey Graham,1,0,0,1,0,0,0
+Edgefield,Failsafe Provisional,U.S. Senate,,REP,Lindsey Graham,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,U.S. Senate,,DEM,Jaime Harrison,276,127,0,0,0,49,100
+Edgefield,Edgefield No.2,U.S. Senate,,DEM,Jaime Harrison,671,341,0,0,0,114,216
+Edgefield,Johnston No.1,U.S. Senate,,DEM,Jaime Harrison,569,204,0,0,0,95,270
+Edgefield,Johnston No.2,U.S. Senate,,DEM,Jaime Harrison,492,199,0,0,0,81,212
+Edgefield,Trenton No.1,U.S. Senate,,DEM,Jaime Harrison,417,209,0,0,0,59,149
+Edgefield,Merriweather No.1,U.S. Senate,,DEM,Jaime Harrison,449,158,0,0,0,118,173
+Edgefield,Westside,U.S. Senate,,DEM,Jaime Harrison,60,20,0,0,0,17,23
+Edgefield,Harmony,U.S. Senate,,DEM,Jaime Harrison,180,83,0,0,0,41,56
+Edgefield,North Side,U.S. Senate,,DEM,Jaime Harrison,198,49,0,0,0,31,118
+Edgefield,Brunson,U.S. Senate,,DEM,Jaime Harrison,275,132,0,0,0,53,90
+Edgefield,Merriweather No.2,U.S. Senate,,DEM,Jaime Harrison,583,289,0,0,0,123,171
+Edgefield,Trenton No.2,U.S. Senate,,DEM,Jaime Harrison,934,462,0,0,0,148,324
+Edgefield,Failsafe,U.S. Senate,,DEM,Jaime Harrison,0,0,0,0,0,0,0
+Edgefield,Provisional,U.S. Senate,,DEM,Jaime Harrison,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. Senate,,DEM,Jaime Harrison,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Johnston No.1,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Johnston No.2,U.S. Senate,,NON,Write-In,4,0,0,0,0,0,4
+Edgefield,Trenton No.1,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Merriweather No.1,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,Westside,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Harmony,U.S. Senate,,NON,Write-In,1,0,0,0,0,1,0
+Edgefield,North Side,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Brunson,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,Merriweather No.2,U.S. Senate,,NON,Write-In,1,0,0,0,0,1,0
+Edgefield,Trenton No.2,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,U.S. House,3,REP,Jeff Duncan,476,193,0,0,0,42,241
+Edgefield,Edgefield No.2,U.S. House,3,REP,Jeff Duncan,677,310,0,0,0,54,313
+Edgefield,Johnston No.1,U.S. House,3,REP,Jeff Duncan,386,128,0,0,0,30,228
+Edgefield,Johnston No.2,U.S. House,3,REP,Jeff Duncan,427,138,0,0,0,25,264
+Edgefield,Trenton No.1,U.S. House,3,REP,Jeff Duncan,460,150,0,0,0,50,260
+Edgefield,Merriweather No.1,U.S. House,3,REP,Jeff Duncan,1762,703,0,0,0,181,878
+Edgefield,Westside,U.S. House,3,REP,Jeff Duncan,739,228,0,0,0,39,472
+Edgefield,Harmony,U.S. House,3,REP,Jeff Duncan,540,212,0,0,0,37,291
+Edgefield,North Side,U.S. House,3,REP,Jeff Duncan,160,26,0,0,0,8,126
+Edgefield,Brunson,U.S. House,3,REP,Jeff Duncan,179,55,0,0,0,18,106
+Edgefield,Merriweather No.2,U.S. House,3,REP,Jeff Duncan,2007,931,0,0,0,141,935
+Edgefield,Trenton No.2,U.S. House,3,REP,Jeff Duncan,613,238,0,0,0,65,310
+Edgefield,Failsafe,U.S. House,3,REP,Jeff Duncan,1,0,0,0,1,0,0
+Edgefield,Provisional,U.S. House,3,REP,Jeff Duncan,1,0,0,1,0,0,0
+Edgefield,Failsafe Provisional,U.S. House,3,REP,Jeff Duncan,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,U.S. House,3,DEM,Hosea Cleveland,250,119,0,0,0,40,91
+Edgefield,Edgefield No.2,U.S. House,3,DEM,Hosea Cleveland,646,326,0,0,0,114,206
+Edgefield,Johnston No.1,U.S. House,3,DEM,Hosea Cleveland,562,205,0,0,0,93,264
+Edgefield,Johnston No.2,U.S. House,3,DEM,Hosea Cleveland,478,197,0,0,0,80,201
+Edgefield,Trenton No.1,U.S. House,3,DEM,Hosea Cleveland,401,203,0,0,0,54,144
+Edgefield,Merriweather No.1,U.S. House,3,DEM,Hosea Cleveland,407,149,0,0,0,107,151
+Edgefield,Westside,U.S. House,3,DEM,Hosea Cleveland,48,18,0,0,0,15,15
+Edgefield,Harmony,U.S. House,3,DEM,Hosea Cleveland,152,72,0,0,0,38,42
+Edgefield,North Side,U.S. House,3,DEM,Hosea Cleveland,202,51,0,0,0,31,120
+Edgefield,Brunson,U.S. House,3,DEM,Hosea Cleveland,270,134,0,0,0,52,84
+Edgefield,Merriweather No.2,U.S. House,3,DEM,Hosea Cleveland,536,270,0,0,0,119,147
+Edgefield,Trenton No.2,U.S. House,3,DEM,Hosea Cleveland,907,449,0,0,0,138,320
+Edgefield,Failsafe,U.S. House,3,DEM,Hosea Cleveland,0,0,0,0,0,0,0
+Edgefield,Provisional,U.S. House,3,DEM,Hosea Cleveland,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. House,3,DEM,Hosea Cleveland,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,U.S. House,3,NON,Write-In,1,1,0,0,0,0,0
+Edgefield,Johnston No.1,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Johnston No.2,U.S. House,3,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,Trenton No.1,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Merriweather No.1,U.S. House,3,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,Westside,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Harmony,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,North Side,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Brunson,U.S. House,3,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,Merriweather No.2,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Trenton No.2,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,State Senate,25,REP,Shane Massey,495,203,0,0,0,46,246
+Edgefield,Edgefield No.2,State Senate,25,REP,Shane Massey,704,321,0,0,0,56,327
+Edgefield,Johnston No.1,State Senate,25,REP,Shane Massey,408,135,0,0,0,37,236
+Edgefield,Johnston No.2,State Senate,25,REP,Shane Massey,446,144,0,0,0,30,272
+Edgefield,Trenton No.1,State Senate,25,REP,Shane Massey,485,165,0,0,0,56,264
+Edgefield,Merriweather No.1,State Senate,25,REP,Shane Massey,1789,708,0,0,0,193,888
+Edgefield,Westside,State Senate,25,REP,Shane Massey,732,229,0,0,0,41,462
+Edgefield,Harmony,State Senate,25,REP,Shane Massey,548,214,0,0,0,37,297
+Edgefield,North Side,State Senate,25,REP,Shane Massey,167,27,0,0,0,10,130
+Edgefield,Brunson,State Senate,25,REP,Shane Massey,191,59,0,0,0,19,113
+Edgefield,Merriweather No.2,State Senate,25,REP,Shane Massey,2035,950,0,0,0,146,939
+Edgefield,Trenton No.2,State Senate,25,REP,Shane Massey,652,251,0,0,0,71,330
+Edgefield,Failsafe,State Senate,25,REP,Shane Massey,1,0,0,0,1,0,0
+Edgefield,Provisional,State Senate,25,REP,Shane Massey,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,State Senate,25,REP,Shane Massey,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,State Senate,25,DEM,Shirley A Green Fayson,233,109,0,0,0,38,86
+Edgefield,Edgefield No.2,State Senate,25,DEM,Shirley A Green Fayson,611,308,0,0,0,112,191
+Edgefield,Johnston No.1,State Senate,25,DEM,Shirley A Green Fayson,543,198,0,0,0,87,258
+Edgefield,Johnston No.2,State Senate,25,DEM,Shirley A Green Fayson,465,191,0,0,0,74,200
+Edgefield,Trenton No.1,State Senate,25,DEM,Shirley A Green Fayson,381,190,0,0,0,49,142
+Edgefield,Merriweather No.1,State Senate,25,DEM,Shirley A Green Fayson,381,142,0,0,0,96,143
+Edgefield,Westside,State Senate,25,DEM,Shirley A Green Fayson,48,16,0,0,0,14,18
+Edgefield,Harmony,State Senate,25,DEM,Shirley A Green Fayson,143,71,0,0,0,38,34
+Edgefield,North Side,State Senate,25,DEM,Shirley A Green Fayson,191,49,0,0,0,29,113
+Edgefield,Brunson,State Senate,25,DEM,Shirley A Green Fayson,258,130,0,0,0,51,77
+Edgefield,Merriweather No.2,State Senate,25,DEM,Shirley A Green Fayson,513,254,0,0,0,114,145
+Edgefield,Trenton No.2,State Senate,25,DEM,Shirley A Green Fayson,870,438,0,0,0,132,300
+Edgefield,Failsafe,State Senate,25,DEM,Shirley A Green Fayson,0,0,0,0,0,0,0
+Edgefield,Provisional,State Senate,25,DEM,Shirley A Green Fayson,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,State Senate,25,DEM,Shirley A Green Fayson,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,State Senate,25,NON,Write-In,1,1,0,0,0,0,0
+Edgefield,Edgefield No.2,State Senate,25,NON,Write-In,1,1,0,0,0,0,0
+Edgefield,Johnston No.1,State Senate,25,NON,Write-In,1,1,0,0,0,0,0
+Edgefield,Johnston No.2,State Senate,25,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,State Senate,25,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,Merriweather No.1,State Senate,25,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,Westside,State Senate,25,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,Harmony,State Senate,25,NON,Write-In,2,0,0,0,0,0,2
+Edgefield,North Side,State Senate,25,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,Brunson,State Senate,25,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Merriweather No.2,State Senate,25,NON,Write-In,1,0,0,0,0,1,0
+Edgefield,Trenton No.2,State Senate,25,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe,State Senate,25,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,State Senate,25,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,State Senate,25,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,State House,82,DEM,William Bill Clyburn,486,208,0,0,0,64,214
+Edgefield,Edgefield No.2,State House,82,DEM,William Bill Clyburn,916,439,0,0,0,130,347
+Edgefield,Johnston No.1,State House,82,DEM,William Bill Clyburn,730,262,0,0,0,97,371
+Edgefield,Johnston No.2,State House,82,DEM,William Bill Clyburn,661,256,0,0,0,92,313
+Edgefield,Trenton No.1,State House,82,DEM,William Bill Clyburn,578,258,0,0,0,72,248
+Edgefield,Westside,State House,82,DEM,William Bill Clyburn,280,89,0,0,0,22,169
+Edgefield,Harmony,State House,82,DEM,William Bill Clyburn,415,177,0,0,0,50,188
+Edgefield,North Side,State House,82,DEM,William Bill Clyburn,265,63,0,0,0,32,170
+Edgefield,Brunson,State House,82,DEM,William Bill Clyburn,344,157,0,0,0,57,130
+Edgefield,Trenton No.2,State House,82,DEM,William Bill Clyburn,1132,529,0,0,0,161,442
+Edgefield,Failsafe,State House,82,DEM,William Bill Clyburn,1,0,0,0,1,0,0
+Edgefield,Provisional,State House,82,DEM,William Bill Clyburn,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,State House,82,DEM,William Bill Clyburn,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,State House,82,NON,Write-In,40,15,0,0,0,1,24
+Edgefield,Edgefield No.2,State House,82,NON,Write-In,69,32,0,0,0,3,34
+Edgefield,Johnston No.1,State House,82,NON,Write-In,27,11,0,0,0,1,15
+Edgefield,Johnston No.2,State House,82,NON,Write-In,45,10,0,0,0,1,34
+Edgefield,Trenton No.1,State House,82,NON,Write-In,38,7,0,0,0,3,28
+Edgefield,Westside,State House,82,NON,Write-In,98,27,0,0,0,4,67
+Edgefield,Harmony,State House,82,NON,Write-In,45,15,0,0,0,5,25
+Edgefield,North Side,State House,82,NON,Write-In,14,2,0,0,0,0,12
+Edgefield,Brunson,State House,82,NON,Write-In,17,8,0,0,0,0,9
+Edgefield,Trenton No.2,State House,82,NON,Write-In,68,19,0,0,0,5,44
+Edgefield,Failsafe,State House,82,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,State House,82,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,State House,82,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Merriweather No.1,State House,83,REP,Bill Hixon,1771,704,0,0,0,187,880
+Edgefield,Merriweather No.2,State House,83,REP,Bill Hixon,2004,933,0,0,0,145,926
+Edgefield,Failsafe,State House,83,REP,Bill Hixon,0,0,0,0,0,0,0
+Edgefield,Provisional,State House,83,REP,Bill Hixon,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,State House,83,REP,Bill Hixon,0,0,0,0,0,0,0
+Edgefield,Merriweather No.1,State House,83,DEM,Evelyn T Robinson,399,144,0,0,0,104,151
+Edgefield,Merriweather No.2,State House,83,DEM,Evelyn T Robinson,538,269,0,0,0,113,156
+Edgefield,Failsafe,State House,83,DEM,Evelyn T Robinson,0,0,0,0,0,0,0
+Edgefield,Provisional,State House,83,DEM,Evelyn T Robinson,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,State House,83,DEM,Evelyn T Robinson,0,0,0,0,0,0,0
+Edgefield,Merriweather No.1,State House,83,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,Merriweather No.2,State House,83,NON,Write-In,6,3,0,0,0,1,2
+Edgefield,Failsafe,State House,83,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,State House,83,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,State House,83,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Solicitor, Circuit  11,REP,Rick Hubbard,549,231,0,0,0,49,269
+Edgefield,Edgefield No.2,Solicitor, Circuit  11,REP,Rick Hubbard,794,371,0,0,0,62,361
+Edgefield,Johnston No.1,Solicitor, Circuit  11,REP,Rick Hubbard,505,184,0,0,0,36,285
+Edgefield,Johnston No.2,Solicitor, Circuit  11,REP,Rick Hubbard,526,176,0,0,0,37,313
+Edgefield,Trenton No.1,Solicitor, Circuit  11,REP,Rick Hubbard,566,201,0,0,0,62,303
+Edgefield,Merriweather No.1,Solicitor, Circuit  11,REP,Rick Hubbard,1895,747,0,0,0,207,941
+Edgefield,Westside,Solicitor, Circuit  11,REP,Rick Hubbard,738,226,0,0,0,41,471
+Edgefield,Harmony,Solicitor, Circuit  11,REP,Rick Hubbard,561,222,0,0,0,38,301
+Edgefield,North Side,Solicitor, Circuit  11,REP,Rick Hubbard,197,36,0,0,0,8,153
+Edgefield,Brunson,Solicitor, Circuit  11,REP,Rick Hubbard,243,87,0,0,0,30,126
+Edgefield,Merriweather No.2,Solicitor, Circuit  11,REP,Rick Hubbard,2195,1034,0,0,0,160,1001
+Edgefield,Trenton No.2,Solicitor, Circuit  11,REP,Rick Hubbard,870,348,0,0,0,86,436
+Edgefield,Failsafe,Solicitor, Circuit  11,REP,Rick Hubbard,1,0,0,0,1,0,0
+Edgefield,Provisional,Solicitor, Circuit  11,REP,Rick Hubbard,1,0,0,1,0,0,0
+Edgefield,Failsafe Provisional,Solicitor, Circuit  11,REP,Rick Hubbard,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Solicitor, Circuit  11,NON,Write-In,11,4,0,0,0,1,6
+Edgefield,Edgefield No.2,Solicitor, Circuit  11,NON,Write-In,17,10,0,0,0,1,6
+Edgefield,Johnston No.1,Solicitor, Circuit  11,NON,Write-In,11,5,0,0,0,1,5
+Edgefield,Johnston No.2,Solicitor, Circuit  11,NON,Write-In,14,4,0,0,0,2,8
+Edgefield,Trenton No.1,Solicitor, Circuit  11,NON,Write-In,13,9,0,0,0,1,3
+Edgefield,Merriweather No.1,Solicitor, Circuit  11,NON,Write-In,28,10,0,0,0,4,14
+Edgefield,Westside,Solicitor, Circuit  11,NON,Write-In,3,0,0,0,0,3,0
+Edgefield,Harmony,Solicitor, Circuit  11,NON,Write-In,5,3,0,0,0,1,1
+Edgefield,North Side,Solicitor, Circuit  11,NON,Write-In,2,0,0,0,0,0,2
+Edgefield,Brunson,Solicitor, Circuit  11,NON,Write-In,6,2,0,0,0,1,3
+Edgefield,Merriweather No.2,Solicitor, Circuit  11,NON,Write-In,35,20,0,0,0,4,11
+Edgefield,Trenton No.2,Solicitor, Circuit  11,NON,Write-In,46,18,0,0,0,3,25
+Edgefield,Failsafe,Solicitor, Circuit  11,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,Solicitor, Circuit  11,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Solicitor, Circuit  11,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Sheriff,,REP,Jody Rowland,410,179,0,0,0,34,197
+Edgefield,Edgefield No.2,Sheriff,,REP,Jody Rowland,589,267,0,0,0,53,269
+Edgefield,Johnston No.1,Sheriff,,REP,Jody Rowland,299,105,0,0,0,29,165
+Edgefield,Johnston No.2,Sheriff,,REP,Jody Rowland,361,124,0,0,0,22,215
+Edgefield,Trenton No.1,Sheriff,,REP,Jody Rowland,431,142,0,0,0,49,240
+Edgefield,Merriweather No.1,Sheriff,,REP,Jody Rowland,1709,674,0,0,0,178,857
+Edgefield,Westside,Sheriff,,REP,Jody Rowland,664,213,0,0,0,38,413
+Edgefield,Harmony,Sheriff,,REP,Jody Rowland,453,185,0,0,0,26,242
+Edgefield,North Side,Sheriff,,REP,Jody Rowland,133,24,0,0,0,5,104
+Edgefield,Brunson,Sheriff,,REP,Jody Rowland,158,52,0,0,0,15,91
+Edgefield,Merriweather No.2,Sheriff,,REP,Jody Rowland,1886,886,0,0,0,143,857
+Edgefield,Trenton No.2,Sheriff,,REP,Jody Rowland,577,220,0,0,0,57,300
+Edgefield,Failsafe,Sheriff,,REP,Jody Rowland,1,0,0,0,1,0,0
+Edgefield,Provisional,Sheriff,,REP,Jody Rowland,1,0,0,1,0,0,0
+Edgefield,Failsafe Provisional,Sheriff,,REP,Jody Rowland,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Sheriff,,DEM,Roosevelt Young,320,134,0,0,0,52,134
+Edgefield,Edgefield No.2,Sheriff,,DEM,Roosevelt Young,733,368,0,0,0,116,249
+Edgefield,Johnston No.1,Sheriff,,DEM,Roosevelt Young,651,228,0,0,0,92,331
+Edgefield,Johnston No.2,Sheriff,,DEM,Roosevelt Young,546,208,0,0,0,82,256
+Edgefield,Trenton No.1,Sheriff,,DEM,Roosevelt Young,436,214,0,0,0,56,166
+Edgefield,Merriweather No.1,Sheriff,,DEM,Roosevelt Young,464,177,0,0,0,112,175
+Edgefield,Westside,Sheriff,,DEM,Roosevelt Young,116,32,0,0,0,15,69
+Edgefield,Harmony,Sheriff,,DEM,Roosevelt Young,242,101,0,0,0,50,91
+Edgefield,North Side,Sheriff,,DEM,Roosevelt Young,230,53,0,0,0,34,143
+Edgefield,Brunson,Sheriff,,DEM,Roosevelt Young,288,136,0,0,0,55,97
+Edgefield,Merriweather No.2,Sheriff,,DEM,Roosevelt Young,654,312,0,0,0,117,225
+Edgefield,Trenton No.2,Sheriff,,DEM,Roosevelt Young,945,468,0,0,0,147,330
+Edgefield,Failsafe,Sheriff,,DEM,Roosevelt Young,0,0,0,0,0,0,0
+Edgefield,Provisional,Sheriff,,DEM,Roosevelt Young,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Sheriff,,DEM,Roosevelt Young,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,Sheriff,,NON,Write-In,2,2,0,0,0,0,0
+Edgefield,Johnston No.1,Sheriff,,NON,Write-In,1,1,0,0,0,0,0
+Edgefield,Johnston No.2,Sheriff,,NON,Write-In,2,1,0,0,0,0,1
+Edgefield,Trenton No.1,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Merriweather No.1,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Westside,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Harmony,Sheriff,,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,North Side,Sheriff,,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,Brunson,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Merriweather No.2,Sheriff,,NON,Write-In,11,5,0,0,0,0,6
+Edgefield,Trenton No.2,Sheriff,,NON,Write-In,3,0,0,0,0,1,2
+Edgefield,Failsafe,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Clerk of Court,,REP,Charles Sonny Reel,571,238,0,0,0,55,278
+Edgefield,Edgefield No.2,Clerk of Court,,REP,Charles Sonny Reel,829,391,0,0,0,71,367
+Edgefield,Johnston No.1,Clerk of Court,,REP,Charles Sonny Reel,531,188,0,0,0,42,301
+Edgefield,Johnston No.2,Clerk of Court,,REP,Charles Sonny Reel,535,184,0,0,0,40,311
+Edgefield,Trenton No.1,Clerk of Court,,REP,Charles Sonny Reel,589,212,0,0,0,68,309
+Edgefield,Merriweather No.1,Clerk of Court,,REP,Charles Sonny Reel,1905,747,0,0,0,207,951
+Edgefield,Westside,Clerk of Court,,REP,Charles Sonny Reel,743,227,0,0,0,41,475
+Edgefield,Harmony,Clerk of Court,,REP,Charles Sonny Reel,578,234,0,0,0,41,303
+Edgefield,North Side,Clerk of Court,,REP,Charles Sonny Reel,210,37,0,0,0,12,161
+Edgefield,Brunson,Clerk of Court,,REP,Charles Sonny Reel,250,91,0,0,0,32,127
+Edgefield,Merriweather No.2,Clerk of Court,,REP,Charles Sonny Reel,2211,1042,0,0,0,168,1001
+Edgefield,Trenton No.2,Clerk of Court,,REP,Charles Sonny Reel,897,368,0,0,0,91,438
+Edgefield,Failsafe,Clerk of Court,,REP,Charles Sonny Reel,1,0,0,0,1,0,0
+Edgefield,Provisional,Clerk of Court,,REP,Charles Sonny Reel,1,0,0,1,0,0,0
+Edgefield,Failsafe Provisional,Clerk of Court,,REP,Charles Sonny Reel,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Clerk of Court,,NON,Write-In,8,3,0,0,0,0,5
+Edgefield,Edgefield No.2,Clerk of Court,,NON,Write-In,10,5,0,0,0,0,5
+Edgefield,Johnston No.1,Clerk of Court,,NON,Write-In,7,3,0,0,0,2,2
+Edgefield,Johnston No.2,Clerk of Court,,NON,Write-In,11,4,0,0,0,2,5
+Edgefield,Trenton No.1,Clerk of Court,,NON,Write-In,10,6,0,0,0,1,3
+Edgefield,Merriweather No.1,Clerk of Court,,NON,Write-In,22,10,0,0,0,2,10
+Edgefield,Westside,Clerk of Court,,NON,Write-In,3,0,0,0,0,3,0
+Edgefield,Harmony,Clerk of Court,,NON,Write-In,4,1,0,0,0,1,2
+Edgefield,North Side,Clerk of Court,,NON,Write-In,2,1,0,0,0,0,1
+Edgefield,Brunson,Clerk of Court,,NON,Write-In,5,2,0,0,0,0,3
+Edgefield,Merriweather No.2,Clerk of Court,,NON,Write-In,28,14,0,0,0,5,9
+Edgefield,Trenton No.2,Clerk of Court,,NON,Write-In,37,13,0,0,0,4,20
+Edgefield,Failsafe,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,County Council District 1,,DEM,Albert Talbert,335,137,0,0,0,47,151
+Edgefield,Edgefield No.2,County Council District 1,,DEM,Albert Talbert,604,282,0,0,0,97,225
+Edgefield,Johnston No.2,County Council District 1,,DEM,Albert Talbert,406,158,0,0,0,65,183
+Edgefield,Harmony,County Council District 1,,DEM,Albert Talbert,27,14,0,0,0,5,8
+Edgefield,North Side,County Council District 1,,DEM,Albert Talbert,282,64,0,0,0,34,184
+Edgefield,Brunson,County Council District 1,,DEM,Albert Talbert,308,144,0,0,0,50,114
+Edgefield,Failsafe,County Council District 1,,DEM,Albert Talbert,1,0,0,0,1,0,0
+Edgefield,Provisional,County Council District 1,,DEM,Albert Talbert,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,County Council District 1,,DEM,Albert Talbert,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,County Council District 1,,NON,Write-In,16,5,0,0,0,1,10
+Edgefield,Edgefield No.2,County Council District 1,,NON,Write-In,16,6,0,0,0,0,10
+Edgefield,Johnston No.2,County Council District 1,,NON,Write-In,15,4,0,0,0,0,11
+Edgefield,Harmony,County Council District 1,,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,North Side,County Council District 1,,NON,Write-In,6,1,0,0,0,0,5
+Edgefield,Brunson,County Council District 1,,NON,Write-In,10,8,0,0,0,0,2
+Edgefield,Failsafe,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,County Council District 2,,REP,Tiffani Ireland,215,109,0,0,0,14,92
+Edgefield,Trenton No.1,County Council District 2,,REP,Tiffani Ireland,26,10,0,0,0,1,15
+Edgefield,Westside,County Council District 2,,REP,Tiffani Ireland,729,225,0,0,0,38,466
+Edgefield,Brunson,County Council District 2,,REP,Tiffani Ireland,64,14,0,0,0,7,43
+Edgefield,Merriweather No.2,County Council District 2,,REP,Tiffani Ireland,1288,639,0,0,0,100,549
+Edgefield,Trenton No.2,County Council District 2,,REP,Tiffani Ireland,62,19,0,0,0,8,35
+Edgefield,Failsafe,County Council District 2,,REP,Tiffani Ireland,0,0,0,0,0,0,0
+Edgefield,Provisional,County Council District 2,,REP,Tiffani Ireland,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,County Council District 2,,REP,Tiffani Ireland,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Westside,County Council District 2,,NON,Write-In,7,1,0,0,0,3,3
+Edgefield,Brunson,County Council District 2,,NON,Write-In,2,0,0,0,0,2,0
+Edgefield,Merriweather No.2,County Council District 2,,NON,Write-In,19,11,0,0,0,5,3
+Edgefield,Trenton No.2,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,County Council District 3,,REP,Dean Campbell,70,29,0,0,0,6,35
+Edgefield,Johnston No.1,County Council District 3,,REP,Dean Campbell,519,186,0,0,0,43,290
+Edgefield,Johnston No.2,County Council District 3,,REP,Dean Campbell,301,90,0,0,0,21,190
+Edgefield,Trenton No.1,County Council District 3,,REP,Dean Campbell,247,89,0,0,0,22,136
+Edgefield,Harmony,County Council District 3,,REP,Dean Campbell,497,194,0,0,0,39,264
+Edgefield,Trenton No.2,County Council District 3,,REP,Dean Campbell,109,24,0,0,0,11,74
+Edgefield,Failsafe,County Council District 3,,REP,Dean Campbell,0,0,0,0,0,0,0
+Edgefield,Provisional,County Council District 3,,REP,Dean Campbell,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,County Council District 3,,REP,Dean Campbell,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Johnston No.1,County Council District 3,,NON,Write-In,10,6,0,0,0,2,2
+Edgefield,Johnston No.2,County Council District 3,,NON,Write-In,6,4,0,0,0,1,1
+Edgefield,Trenton No.1,County Council District 3,,NON,Write-In,4,3,0,0,0,0,1
+Edgefield,Harmony,County Council District 3,,NON,Write-In,5,2,0,0,0,0,3
+Edgefield,Trenton No.2,County Council District 3,,NON,Write-In,3,2,0,0,0,0,1
+Edgefield,Failsafe,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,County Council District 4,,DEM,Jacqueline Glover Kennion,117,61,0,0,0,10,46
+Edgefield,Edgefield No.2,County Council District 4,,DEM,Jacqueline Glover Kennion,243,121,0,0,0,23,99
+Edgefield,Trenton No.1,County Council District 4,,DEM,Jacqueline Glover Kennion,338,153,0,0,0,52,133
+Edgefield,Harmony,County Council District 4,,DEM,Jacqueline Glover Kennion,70,39,0,0,0,13,18
+Edgefield,Merriweather No.2,County Council District 4,,DEM,Jacqueline Glover Kennion,52,29,0,0,0,12,11
+Edgefield,Trenton No.2,County Council District 4,,DEM,Jacqueline Glover Kennion,1013,484,0,0,0,150,379
+Edgefield,Failsafe,County Council District 4,,DEM,Jacqueline Glover Kennion,0,0,0,0,0,0,0
+Edgefield,Provisional,County Council District 4,,DEM,Jacqueline Glover Kennion,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,County Council District 4,,DEM,Jacqueline Glover Kennion,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,County Council District 4,,NON,Write-In,7,5,0,0,0,0,2
+Edgefield,Edgefield No.2,County Council District 4,,NON,Write-In,8,4,0,0,0,0,4
+Edgefield,Trenton No.1,County Council District 4,,NON,Write-In,11,4,0,0,0,2,5
+Edgefield,Harmony,County Council District 4,,NON,Write-In,3,0,0,0,0,0,3
+Edgefield,Merriweather No.2,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Trenton No.2,County Council District 4,,NON,Write-In,44,15,0,0,0,3,26
+Edgefield,Failsafe,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Merriweather No.1,County Council District 5,,REP,Scott Cooper,1873,731,0,0,0,207,935
+Edgefield,Merriweather No.2,County Council District 5,,REP,Scott Cooper,864,369,0,0,0,56,439
+Edgefield,Failsafe,County Council District 5,,REP,Scott Cooper,0,0,0,0,0,0,0
+Edgefield,Provisional,County Council District 5,,REP,Scott Cooper,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,County Council District 5,,REP,Scott Cooper,0,0,0,0,0,0,0
+Edgefield,Merriweather No.1,County Council District 5,,NON,Write-In,45,22,0,0,0,3,20
+Edgefield,Merriweather No.2,County Council District 5,,NON,Write-In,25,13,0,0,0,1,11
+Edgefield,Failsafe,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Soil and Water District Commission,,NON,William G Smith III,445,181,0,0,0,55,209
+Edgefield,Edgefield No.2,Soil and Water District Commission,,NON,William G Smith III,630,274,0,0,0,70,286
+Edgefield,Johnston No.1,Soil and Water District Commission,,NON,William G Smith III,445,159,0,0,0,62,224
+Edgefield,Johnston No.2,Soil and Water District Commission,,NON,William G Smith III,463,157,0,0,0,58,248
+Edgefield,Trenton No.1,Soil and Water District Commission,,NON,William G Smith III,455,164,0,0,0,59,232
+Edgefield,Merriweather No.1,Soil and Water District Commission,,NON,William G Smith III,1558,611,0,0,0,163,784
+Edgefield,Westside,Soil and Water District Commission,,NON,William G Smith III,485,141,0,0,0,28,316
+Edgefield,Harmony,Soil and Water District Commission,,NON,William G Smith III,478,188,0,0,0,43,247
+Edgefield,North Side,Soil and Water District Commission,,NON,William G Smith III,170,31,0,0,0,16,123
+Edgefield,Brunson,Soil and Water District Commission,,NON,William G Smith III,220,78,0,0,0,40,102
+Edgefield,Merriweather No.2,Soil and Water District Commission,,NON,William G Smith III,1839,864,0,0,0,147,828
+Edgefield,Trenton No.2,Soil and Water District Commission,,NON,William G Smith III,758,280,0,0,0,115,363
+Edgefield,Failsafe,Soil and Water District Commission,,NON,William G Smith III,1,0,0,0,1,0,0
+Edgefield,Provisional,Soil and Water District Commission,,NON,William G Smith III,1,0,0,1,0,0,0
+Edgefield,Failsafe Provisional,Soil and Water District Commission,,NON,William G Smith III,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Soil and Water District Commission,,NON,Write-In,7,1,0,0,0,0,6
+Edgefield,Edgefield No.2,Soil and Water District Commission,,NON,Write-In,7,2,0,0,0,0,5
+Edgefield,Johnston No.1,Soil and Water District Commission,,NON,Write-In,8,4,0,0,0,1,3
+Edgefield,Johnston No.2,Soil and Water District Commission,,NON,Write-In,5,1,0,0,0,2,2
+Edgefield,Trenton No.1,Soil and Water District Commission,,NON,Write-In,12,7,0,0,0,3,2
+Edgefield,Merriweather No.1,Soil and Water District Commission,,NON,Write-In,20,7,0,0,0,1,12
+Edgefield,Westside,Soil and Water District Commission,,NON,Write-In,15,1,0,0,0,0,14
+Edgefield,Harmony,Soil and Water District Commission,,NON,Write-In,6,3,0,0,0,0,3
+Edgefield,North Side,Soil and Water District Commission,,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,Brunson,Soil and Water District Commission,,NON,Write-In,4,2,0,0,0,0,2
+Edgefield,Merriweather No.2,Soil and Water District Commission,,NON,Write-In,31,13,0,0,0,6,12
+Edgefield,Trenton No.2,Soil and Water District Commission,,NON,Write-In,18,3,0,0,0,2,13
+Edgefield,Failsafe,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Beaverdam Creek Watershed Conservation District,,NON,Wayne Mills,109,50,0,0,0,7,52
+Edgefield,Edgefield No.2,Beaverdam Creek Watershed Conservation District,,NON,Wayne Mills,47,15,0,0,0,7,25
+Edgefield,Westside,Beaverdam Creek Watershed Conservation District,,NON,Wayne Mills,7,2,0,0,0,0,5
+Edgefield,Harmony,Beaverdam Creek Watershed Conservation District,,NON,Wayne Mills,14,9,0,0,0,0,5
+Edgefield,Brunson,Beaverdam Creek Watershed Conservation District,,NON,Wayne Mills,59,22,0,0,0,9,28
+Edgefield,Failsafe,Beaverdam Creek Watershed Conservation District,,NON,Wayne Mills,1,0,0,0,1,0,0
+Edgefield,Provisional,Beaverdam Creek Watershed Conservation District,,NON,Wayne Mills,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Beaverdam Creek Watershed Conservation District,,NON,Wayne Mills,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Beaverdam Creek Watershed Conservation District,,NON,Alan Perano,86,39,0,0,0,4,43
+Edgefield,Edgefield No.2,Beaverdam Creek Watershed Conservation District,,NON,Alan Perano,33,11,0,0,0,5,17
+Edgefield,Westside,Beaverdam Creek Watershed Conservation District,,NON,Alan Perano,3,2,0,0,0,0,1
+Edgefield,Harmony,Beaverdam Creek Watershed Conservation District,,NON,Alan Perano,16,7,0,0,0,3,6
+Edgefield,Brunson,Beaverdam Creek Watershed Conservation District,,NON,Alan Perano,40,14,0,0,0,6,20
+Edgefield,Failsafe,Beaverdam Creek Watershed Conservation District,,NON,Alan Perano,0,0,0,0,0,0,0
+Edgefield,Provisional,Beaverdam Creek Watershed Conservation District,,NON,Alan Perano,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Beaverdam Creek Watershed Conservation District,,NON,Alan Perano,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Beaverdam Creek Watershed Conservation District,,NON,Write-In,12,6,0,0,0,0,6
+Edgefield,Edgefield No.2,Beaverdam Creek Watershed Conservation District,,NON,Write-In,1,0,0,0,0,0,1
+Edgefield,Westside,Beaverdam Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Harmony,Beaverdam Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Brunson,Beaverdam Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe,Beaverdam Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,Beaverdam Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Beaverdam Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,School Board District 3,,NON,Deidra Tanks-Young,274,111,0,0,0,39,124
+Edgefield,Harmony,School Board District 3,,NON,Deidra Tanks-Young,29,12,0,0,0,9,8
+Edgefield,Merriweather No.2,School Board District 3,,NON,Deidra Tanks-Young,32,18,0,0,0,7,7
+Edgefield,Trenton No.2,School Board District 3,,NON,Deidra Tanks-Young,810,333,0,0,0,125,352
+Edgefield,Failsafe,School Board District 3,,NON,Deidra Tanks-Young,0,0,0,0,0,0,0
+Edgefield,Provisional,School Board District 3,,NON,Deidra Tanks-Young,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,School Board District 3,,NON,Deidra Tanks-Young,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,School Board District 3,,NON,Write-In,8,3,0,0,0,2,3
+Edgefield,Harmony,School Board District 3,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Merriweather No.2,School Board District 3,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Trenton No.2,School Board District 3,,NON,Write-In,17,4,0,0,0,3,10
+Edgefield,Failsafe,School Board District 3,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,School Board District 3,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,School Board District 3,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,School Board District 4,,NON,Blair Massey,129,60,0,0,0,9,60
+Edgefield,Edgefield No.2,School Board District 4,,NON,Blair Massey,44,15,0,0,0,3,26
+Edgefield,Trenton No.1,School Board District 4,,NON,Blair Massey,101,38,0,0,0,8,55
+Edgefield,Merriweather No.1,School Board District 4,,NON,Blair Massey,272,114,0,0,0,28,130
+Edgefield,Harmony,School Board District 4,,NON,Blair Massey,32,16,0,0,0,3,13
+Edgefield,Merriweather No.2,School Board District 4,,NON,Blair Massey,920,484,0,0,0,76,360
+Edgefield,Trenton No.2,School Board District 4,,NON,Blair Massey,29,13,0,0,0,3,13
+Edgefield,Failsafe,School Board District 4,,NON,Blair Massey,1,0,0,0,1,0,0
+Edgefield,Provisional,School Board District 4,,NON,Blair Massey,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,School Board District 4,,NON,Blair Massey,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,School Board District 4,,NON,Write-In,6,2,0,0,0,1,3
+Edgefield,Edgefield No.2,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Merriweather No.1,School Board District 4,,NON,Write-In,6,2,0,0,0,0,4
+Edgefield,Harmony,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Merriweather No.2,School Board District 4,,NON,Write-In,14,10,0,0,0,1,3
+Edgefield,Trenton No.2,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,School Board District 5,,NON,Johnny Peterson,464,218,0,0,0,52,194
+Edgefield,Westside,School Board District 5,,NON,Johnny Peterson,14,2,0,0,0,0,12
+Edgefield,North Side,School Board District 5,,NON,Johnny Peterson,77,15,0,0,0,15,47
+Edgefield,Brunson,School Board District 5,,NON,Johnny Peterson,285,119,0,0,0,50,116
+Edgefield,Failsafe,School Board District 5,,NON,Johnny Peterson,0,0,0,0,0,0,0
+Edgefield,Provisional,School Board District 5,,NON,Johnny Peterson,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,School Board District 5,,NON,Johnny Peterson,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,School Board District 5,,NON,Write-In,7,1,0,0,0,0,6
+Edgefield,Westside,School Board District 5,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,North Side,School Board District 5,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Brunson,School Board District 5,,NON,Write-In,3,1,0,0,0,0,2
+Edgefield,Failsafe,School Board District 5,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,School Board District 5,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,School Board District 5,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,School Board District 7,,NON,Robin Ball,116,66,0,0,0,7,43
+Edgefield,Merriweather No.1,School Board District 7,,NON,Robin Ball,399,151,0,0,0,38,210
+Edgefield,Westside,School Board District 7,,NON,Robin Ball,485,140,0,0,0,30,315
+Edgefield,Merriweather No.2,School Board District 7,,NON,Robin Ball,423,184,0,0,0,26,213
+Edgefield,Failsafe,School Board District 7,,NON,Robin Ball,0,0,0,0,0,0,0
+Edgefield,Provisional,School Board District 7,,NON,Robin Ball,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,School Board District 7,,NON,Robin Ball,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,School Board District 7,,NON,Write-In,1,1,0,0,0,0,0
+Edgefield,Merriweather No.1,School Board District 7,,NON,Write-In,10,5,0,0,0,0,5
+Edgefield,Westside,School Board District 7,,NON,Write-In,10,0,0,0,0,0,10
+Edgefield,Merriweather No.2,School Board District 7,,NON,Write-In,7,1,0,0,0,4,2
+Edgefield,Failsafe,School Board District 7,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Provisional,School Board District 7,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,School Board District 7,,NON,Write-In,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Capital Project Sales Tax Referendum,,NON,Yes,413,171,0,0,0,44,198
+Edgefield,Edgefield No.2,Capital Project Sales Tax Referendum,,NON,Yes,700,337,0,0,0,71,292
+Edgefield,Johnston No.1,Capital Project Sales Tax Referendum,,NON,Yes,488,166,0,0,0,62,260
+Edgefield,Johnston No.2,Capital Project Sales Tax Referendum,,NON,Yes,473,173,0,0,0,41,259
+Edgefield,Trenton No.1,Capital Project Sales Tax Referendum,,NON,Yes,425,163,0,0,0,59,203
+Edgefield,Merriweather No.1,Capital Project Sales Tax Referendum,,NON,Yes,1215,501,0,0,0,154,560
+Edgefield,Westside,Capital Project Sales Tax Referendum,,NON,Yes,438,129,0,0,0,21,288
+Edgefield,Harmony,Capital Project Sales Tax Referendum,,NON,Yes,375,144,0,0,0,36,195
+Edgefield,North Side,Capital Project Sales Tax Referendum,,NON,Yes,175,37,0,0,0,8,130
+Edgefield,Brunson,Capital Project Sales Tax Referendum,,NON,Yes,236,111,0,0,0,26,99
+Edgefield,Merriweather No.2,Capital Project Sales Tax Referendum,,NON,Yes,1355,654,0,0,0,104,597
+Edgefield,Trenton No.2,Capital Project Sales Tax Referendum,,NON,Yes,776,333,0,0,0,88,355
+Edgefield,Failsafe,Capital Project Sales Tax Referendum,,NON,Yes,1,0,0,0,1,0,0
+Edgefield,Provisional,Capital Project Sales Tax Referendum,,NON,Yes,1,0,0,1,0,0,0
+Edgefield,Failsafe Provisional,Capital Project Sales Tax Referendum,,NON,Yes,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Capital Project Sales Tax Referendum,,NON,No,273,118,0,0,0,29,126
+Edgefield,Edgefield No.2,Capital Project Sales Tax Referendum,,NON,No,523,262,0,0,0,57,204
+Edgefield,Johnston No.1,Capital Project Sales Tax Referendum,,NON,No,412,145,0,0,0,49,218
+Edgefield,Johnston No.2,Capital Project Sales Tax Referendum,,NON,No,383,141,0,0,0,49,193
+Edgefield,Trenton No.1,Capital Project Sales Tax Referendum,,NON,No,393,175,0,0,0,31,187
+Edgefield,Merriweather No.1,Capital Project Sales Tax Referendum,,NON,No,885,323,0,0,0,113,449
+Edgefield,Westside,Capital Project Sales Tax Referendum,,NON,No,334,107,0,0,0,29,198
+Edgefield,Harmony,Capital Project Sales Tax Referendum,,NON,No,301,134,0,0,0,31,136
+Edgefield,North Side,Capital Project Sales Tax Referendum,,NON,No,163,37,0,0,0,16,110
+Edgefield,Brunson,Capital Project Sales Tax Referendum,,NON,No,186,63,0,0,0,42,81
+Edgefield,Merriweather No.2,Capital Project Sales Tax Referendum,,NON,No,1125,514,0,0,0,135,476
+Edgefield,Trenton No.2,Capital Project Sales Tax Referendum,,NON,No,654,293,0,0,0,100,261
+Edgefield,Failsafe,Capital Project Sales Tax Referendum,,NON,No,0,0,0,0,0,0,0
+Edgefield,Provisional,Capital Project Sales Tax Referendum,,NON,No,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Capital Project Sales Tax Referendum,,NON,No,0,0,0,0,0,0,0

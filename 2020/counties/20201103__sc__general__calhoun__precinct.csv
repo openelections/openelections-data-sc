@@ -1,0 +1,703 @@
+county,precinct,office,district,party,candidate,votes,in-person_absentee,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Calhoun,Bethel,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Calhoun,Cameron,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Calhoun,Center Hill,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Calhoun,Creston,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Calhoun,Dixie,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Calhoun,Fall Branch,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Calhoun,Fort Motte,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Calhoun,Lone Star,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Calhoun,Midway,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Calhoun,Murph Hill,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Calhoun,Sandy Run,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Calhoun,St. Matthews,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Calhoun,Failsafe,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Calhoun,Provisional,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Calhoun,Bethel,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Calhoun,Cameron,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Calhoun,Center Hill,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Calhoun,Creston,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Calhoun,Dixie,STRAIGHT PARTY 1,,GRN,Green,2,1,0,0,0,0,1
+Calhoun,Fall Branch,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Calhoun,Fort Motte,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Calhoun,Lone Star,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Calhoun,Midway,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Calhoun,Murph Hill,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Calhoun,Sandy Run,STRAIGHT PARTY 1,,GRN,Green,2,0,0,0,0,1,1
+Calhoun,St. Matthews,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Calhoun,Failsafe,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Calhoun,Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Calhoun,Bethel,STRAIGHT PARTY 1,,REP,Republican,276,71,0,0,0,18,187
+Calhoun,Cameron,STRAIGHT PARTY 1,,REP,Republican,113,23,0,0,0,9,81
+Calhoun,Center Hill,STRAIGHT PARTY 1,,REP,Republican,276,84,0,0,0,17,175
+Calhoun,Creston,STRAIGHT PARTY 1,,REP,Republican,49,8,0,0,0,3,38
+Calhoun,Dixie,STRAIGHT PARTY 1,,REP,Republican,225,115,0,0,0,11,99
+Calhoun,Fall Branch,STRAIGHT PARTY 1,,REP,Republican,126,37,0,0,0,5,84
+Calhoun,Fort Motte,STRAIGHT PARTY 1,,REP,Republican,48,18,0,0,0,1,29
+Calhoun,Lone Star,STRAIGHT PARTY 1,,REP,Republican,301,120,0,0,0,27,154
+Calhoun,Midway,STRAIGHT PARTY 1,,REP,Republican,119,8,0,0,0,3,108
+Calhoun,Murph Hill,STRAIGHT PARTY 1,,REP,Republican,95,27,0,0,0,3,65
+Calhoun,Sandy Run,STRAIGHT PARTY 1,,REP,Republican,563,113,0,0,0,46,404
+Calhoun,St. Matthews,STRAIGHT PARTY 1,,REP,Republican,305,154,0,0,0,19,132
+Calhoun,Failsafe,STRAIGHT PARTY 1,,REP,Republican,7,0,0,0,7,0,0
+Calhoun,Provisional,STRAIGHT PARTY 1,,REP,Republican,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,STRAIGHT PARTY 1,,REP,Republican,1,0,1,0,0,0,0
+Calhoun,Bethel,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,Cameron,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,Center Hill,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,Creston,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,Dixie,STRAIGHT PARTY 1,,ALN,Alliance,1,1,0,0,0,0,0
+Calhoun,Fall Branch,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,Fort Motte,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,Lone Star,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,Midway,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,Murph Hill,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,Sandy Run,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,St. Matthews,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,Failsafe,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Calhoun,Bethel,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Calhoun,Cameron,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Calhoun,Center Hill,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Calhoun,Creston,STRAIGHT PARTY 1,,LIB,Libertarian,1,1,0,0,0,0,0
+Calhoun,Dixie,STRAIGHT PARTY 1,,LIB,Libertarian,5,0,0,0,0,2,3
+Calhoun,Fall Branch,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Calhoun,Fort Motte,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Calhoun,Lone Star,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,1,0
+Calhoun,Midway,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Calhoun,Murph Hill,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Calhoun,Sandy Run,STRAIGHT PARTY 1,,LIB,Libertarian,4,0,0,0,0,0,4
+Calhoun,St. Matthews,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Calhoun,Failsafe,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Calhoun,Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Calhoun,Bethel,STRAIGHT PARTY 1,,DEM,Democratic,157,68,0,0,0,27,62
+Calhoun,Cameron,STRAIGHT PARTY 1,,DEM,Democratic,209,78,0,0,0,33,98
+Calhoun,Center Hill,STRAIGHT PARTY 1,,DEM,Democratic,330,148,0,0,0,58,124
+Calhoun,Creston,STRAIGHT PARTY 1,,DEM,Democratic,49,15,0,0,0,18,16
+Calhoun,Dixie,STRAIGHT PARTY 1,,DEM,Democratic,927,568,0,0,0,159,200
+Calhoun,Fall Branch,STRAIGHT PARTY 1,,DEM,Democratic,115,62,0,0,0,11,42
+Calhoun,Fort Motte,STRAIGHT PARTY 1,,DEM,Democratic,61,25,0,0,0,8,28
+Calhoun,Lone Star,STRAIGHT PARTY 1,,DEM,Democratic,272,104,0,0,0,74,94
+Calhoun,Midway,STRAIGHT PARTY 1,,DEM,Democratic,44,11,0,0,0,14,19
+Calhoun,Murph Hill,STRAIGHT PARTY 1,,DEM,Democratic,154,74,0,0,0,23,57
+Calhoun,Sandy Run,STRAIGHT PARTY 1,,DEM,Democratic,216,84,0,0,0,44,88
+Calhoun,St. Matthews,STRAIGHT PARTY 1,,DEM,Democratic,398,250,0,0,0,57,91
+Calhoun,Failsafe,STRAIGHT PARTY 1,,DEM,Democratic,12,0,0,0,12,0,0
+Calhoun,Provisional,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,STRAIGHT PARTY 1,,DEM,Democratic,1,0,1,0,0,0,0
+Calhoun,Bethel,President,,GRN,Howie Hawkins | Angela Walker,2,1,0,0,0,0,1
+Calhoun,Cameron,President,,GRN,Howie Hawkins | Angela Walker,2,1,0,0,0,0,1
+Calhoun,Center Hill,President,,GRN,Howie Hawkins | Angela Walker,2,1,0,0,0,0,1
+Calhoun,Creston,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,0,1
+Calhoun,Dixie,President,,GRN,Howie Hawkins | Angela Walker,5,3,0,0,0,1,1
+Calhoun,Fall Branch,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,0,1
+Calhoun,Fort Motte,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Calhoun,Lone Star,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Calhoun,Midway,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Calhoun,Murph Hill,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Calhoun,Sandy Run,President,,GRN,Howie Hawkins | Angela Walker,3,0,0,0,0,1,2
+Calhoun,St. Matthews,President,,GRN,Howie Hawkins | Angela Walker,2,1,0,0,0,0,1
+Calhoun,Failsafe,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Calhoun,Provisional,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Calhoun,Bethel,President,,REP,Donald J Trump | Michael R Pence,499,129,0,0,0,41,329
+Calhoun,Cameron,President,,REP,Donald J Trump | Michael R Pence,262,47,0,0,0,18,197
+Calhoun,Center Hill,President,,REP,Donald J Trump | Michael R Pence,443,130,0,0,0,40,273
+Calhoun,Creston,President,,REP,Donald J Trump | Michael R Pence,88,14,0,0,0,7,67
+Calhoun,Dixie,President,,REP,Donald J Trump | Michael R Pence,359,193,0,0,0,19,147
+Calhoun,Fall Branch,President,,REP,Donald J Trump | Michael R Pence,216,48,0,0,0,13,155
+Calhoun,Fort Motte,President,,REP,Donald J Trump | Michael R Pence,101,27,0,0,0,5,69
+Calhoun,Lone Star,President,,REP,Donald J Trump | Michael R Pence,438,156,0,0,0,51,231
+Calhoun,Midway,President,,REP,Donald J Trump | Michael R Pence,196,16,0,0,0,9,171
+Calhoun,Murph Hill,President,,REP,Donald J Trump | Michael R Pence,140,37,0,0,0,7,96
+Calhoun,Sandy Run,President,,REP,Donald J Trump | Michael R Pence,918,192,0,0,0,99,627
+Calhoun,St. Matthews,President,,REP,Donald J Trump | Michael R Pence,630,287,0,0,0,48,295
+Calhoun,Failsafe,President,,REP,Donald J Trump | Michael R Pence,12,0,0,0,12,0,0
+Calhoun,Provisional,President,,REP,Donald J Trump | Michael R Pence,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,President,,REP,Donald J Trump | Michael R Pence,3,0,3,0,0,0,0
+Calhoun,Bethel,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Calhoun,Cameron,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Calhoun,Center Hill,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Calhoun,Creston,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Calhoun,Dixie,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,2,2,0,0,0,0,0
+Calhoun,Fall Branch,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,0,0,0,0,0,1
+Calhoun,Fort Motte,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Calhoun,Lone Star,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Calhoun,Midway,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Calhoun,Murph Hill,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Calhoun,Sandy Run,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,0,0,0,0,0,1
+Calhoun,St. Matthews,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,0,0,0,0,0,1
+Calhoun,Failsafe,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Calhoun,Provisional,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Calhoun,Bethel,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,0,0,0,0,0,2
+Calhoun,Cameron,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,10,0,0,0,0,3,7
+Calhoun,Center Hill,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,5,1,0,0,0,1,3
+Calhoun,Creston,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,1,0,0,0,0,1
+Calhoun,Dixie,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,10,5,0,0,0,0,5
+Calhoun,Fall Branch,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,0,0,0,0,0,1
+Calhoun,Fort Motte,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Calhoun,Lone Star,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,3,1,0,0,0,1,1
+Calhoun,Midway,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Calhoun,Murph Hill,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,0,0,0,0,0,1
+Calhoun,Sandy Run,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,14,1,0,0,0,1,12
+Calhoun,St. Matthews,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,10,4,0,0,0,3,3
+Calhoun,Failsafe,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Calhoun,Provisional,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Calhoun,Bethel,President,,DEM,Joseph R Biden | Kamala D Harris,211,91,0,0,0,34,86
+Calhoun,Cameron,President,,DEM,Joseph R Biden | Kamala D Harris,281,101,0,0,0,53,127
+Calhoun,Center Hill,President,,DEM,Joseph R Biden | Kamala D Harris,430,182,0,0,0,86,162
+Calhoun,Creston,President,,DEM,Joseph R Biden | Kamala D Harris,71,18,0,0,0,23,30
+Calhoun,Dixie,President,,DEM,Joseph R Biden | Kamala D Harris,1141,691,0,0,0,214,236
+Calhoun,Fall Branch,President,,DEM,Joseph R Biden | Kamala D Harris,155,76,0,0,0,16,63
+Calhoun,Fort Motte,President,,DEM,Joseph R Biden | Kamala D Harris,93,35,0,0,0,19,39
+Calhoun,Lone Star,President,,DEM,Joseph R Biden | Kamala D Harris,350,126,0,0,0,112,112
+Calhoun,Midway,President,,DEM,Joseph R Biden | Kamala D Harris,60,12,0,0,0,21,27
+Calhoun,Murph Hill,President,,DEM,Joseph R Biden | Kamala D Harris,209,98,0,0,0,37,74
+Calhoun,Sandy Run,President,,DEM,Joseph R Biden | Kamala D Harris,348,130,0,0,0,83,135
+Calhoun,St. Matthews,President,,DEM,Joseph R Biden | Kamala D Harris,538,317,0,0,0,86,135
+Calhoun,Failsafe,President,,DEM,Joseph R Biden | Kamala D Harris,16,0,0,0,16,0,0
+Calhoun,Provisional,President,,DEM,Joseph R Biden | Kamala D Harris,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,President,,DEM,Joseph R Biden | Kamala D Harris,2,0,2,0,0,0,0
+Calhoun,Bethel,U.S. Senate,,CON,Bill Bledsoe,12,6,0,0,0,0,6
+Calhoun,Cameron,U.S. Senate,,CON,Bill Bledsoe,11,3,0,0,0,1,7
+Calhoun,Center Hill,U.S. Senate,,CON,Bill Bledsoe,15,8,0,0,0,0,7
+Calhoun,Creston,U.S. Senate,,CON,Bill Bledsoe,2,0,0,0,0,0,2
+Calhoun,Dixie,U.S. Senate,,CON,Bill Bledsoe,15,6,0,0,0,1,8
+Calhoun,Fall Branch,U.S. Senate,,CON,Bill Bledsoe,12,1,0,0,0,1,10
+Calhoun,Fort Motte,U.S. Senate,,CON,Bill Bledsoe,5,0,0,0,0,0,5
+Calhoun,Lone Star,U.S. Senate,,CON,Bill Bledsoe,8,2,0,0,0,0,6
+Calhoun,Midway,U.S. Senate,,CON,Bill Bledsoe,1,0,0,0,0,1,0
+Calhoun,Murph Hill,U.S. Senate,,CON,Bill Bledsoe,4,1,0,0,0,0,3
+Calhoun,Sandy Run,U.S. Senate,,CON,Bill Bledsoe,23,3,0,0,0,2,18
+Calhoun,St. Matthews,U.S. Senate,,CON,Bill Bledsoe,14,3,0,0,0,0,11
+Calhoun,Failsafe,U.S. Senate,,CON,Bill Bledsoe,1,0,0,0,1,0,0
+Calhoun,Provisional,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Calhoun,Bethel,U.S. Senate,,REP,Lindsey Graham,477,119,0,0,0,40,318
+Calhoun,Cameron,U.S. Senate,,REP,Lindsey Graham,259,45,0,0,0,18,196
+Calhoun,Center Hill,U.S. Senate,,REP,Lindsey Graham,418,119,0,0,0,40,259
+Calhoun,Creston,U.S. Senate,,REP,Lindsey Graham,90,15,0,0,0,6,69
+Calhoun,Dixie,U.S. Senate,,REP,Lindsey Graham,351,189,0,0,0,19,143
+Calhoun,Fall Branch,U.S. Senate,,REP,Lindsey Graham,204,47,0,0,0,12,145
+Calhoun,Fort Motte,U.S. Senate,,REP,Lindsey Graham,100,27,0,0,0,4,69
+Calhoun,Lone Star,U.S. Senate,,REP,Lindsey Graham,428,158,0,0,0,50,220
+Calhoun,Midway,U.S. Senate,,REP,Lindsey Graham,196,17,0,0,0,8,171
+Calhoun,Murph Hill,U.S. Senate,,REP,Lindsey Graham,134,33,0,0,0,6,95
+Calhoun,Sandy Run,U.S. Senate,,REP,Lindsey Graham,910,188,0,0,0,100,622
+Calhoun,St. Matthews,U.S. Senate,,REP,Lindsey Graham,619,287,0,0,0,46,286
+Calhoun,Failsafe,U.S. Senate,,REP,Lindsey Graham,12,0,0,0,12,0,0
+Calhoun,Provisional,U.S. Senate,,REP,Lindsey Graham,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. Senate,,REP,Lindsey Graham,3,0,3,0,0,0,0
+Calhoun,Bethel,U.S. Senate,,DEM,Jaime Harrison,227,99,0,0,0,35,93
+Calhoun,Cameron,U.S. Senate,,DEM,Jaime Harrison,288,101,0,0,0,55,132
+Calhoun,Center Hill,U.S. Senate,,DEM,Jaime Harrison,446,188,0,0,0,87,171
+Calhoun,Creston,U.S. Senate,,DEM,Jaime Harrison,72,20,0,0,0,23,29
+Calhoun,Dixie,U.S. Senate,,DEM,Jaime Harrison,1154,701,0,0,0,213,240
+Calhoun,Fall Branch,U.S. Senate,,DEM,Jaime Harrison,160,76,0,0,0,16,68
+Calhoun,Fort Motte,U.S. Senate,,DEM,Jaime Harrison,89,35,0,0,0,20,34
+Calhoun,Lone Star,U.S. Senate,,DEM,Jaime Harrison,351,123,0,0,0,114,114
+Calhoun,Midway,U.S. Senate,,DEM,Jaime Harrison,60,12,0,0,0,22,26
+Calhoun,Murph Hill,U.S. Senate,,DEM,Jaime Harrison,211,102,0,0,0,36,73
+Calhoun,Sandy Run,U.S. Senate,,DEM,Jaime Harrison,350,130,0,0,0,81,139
+Calhoun,St. Matthews,U.S. Senate,,DEM,Jaime Harrison,550,323,0,0,0,90,137
+Calhoun,Failsafe,U.S. Senate,,DEM,Jaime Harrison,15,0,0,0,15,0,0
+Calhoun,Provisional,U.S. Senate,,DEM,Jaime Harrison,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. Senate,,DEM,Jaime Harrison,2,0,2,0,0,0,0
+Calhoun,Bethel,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Cameron,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Center Hill,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Calhoun,Creston,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Dixie,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Fall Branch,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Fort Motte,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Lone Star,U.S. Senate,,NON,Write-In,2,0,0,0,0,0,2
+Calhoun,Midway,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Murph Hill,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Sandy Run,U.S. Senate,,NON,Write-In,1,1,0,0,0,0,0
+Calhoun,St. Matthews,U.S. Senate,,NON,Write-In,1,0,0,0,0,1,0
+Calhoun,Failsafe,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Bethel,U.S. House,6,CON,Mark Hackett,10,1,0,0,0,1,8
+Calhoun,Cameron,U.S. House,6,CON,Mark Hackett,5,1,0,0,0,1,3
+Calhoun,Center Hill,U.S. House,6,CON,Mark Hackett,7,2,0,0,0,0,5
+Calhoun,Creston,U.S. House,6,CON,Mark Hackett,0,0,0,0,0,0,0
+Calhoun,Dixie,U.S. House,6,CON,Mark Hackett,10,5,0,0,0,0,5
+Calhoun,Fall Branch,U.S. House,6,CON,Mark Hackett,3,0,0,0,0,0,3
+Calhoun,Fort Motte,U.S. House,6,CON,Mark Hackett,2,0,0,0,0,0,2
+Calhoun,Lone Star,U.S. House,6,CON,Mark Hackett,5,1,0,0,0,0,4
+Calhoun,Midway,U.S. House,6,CON,Mark Hackett,0,0,0,0,0,0,0
+Calhoun,Murph Hill,U.S. House,6,CON,Mark Hackett,9,3,0,0,0,1,5
+Calhoun,Sandy Run,U.S. House,6,CON,Mark Hackett,17,2,0,0,0,1,14
+Calhoun,St. Matthews,U.S. House,6,CON,Mark Hackett,12,4,0,0,0,0,8
+Calhoun,Failsafe,U.S. House,6,CON,Mark Hackett,0,0,0,0,0,0,0
+Calhoun,Provisional,U.S. House,6,CON,Mark Hackett,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. House,6,CON,Mark Hackett,0,0,0,0,0,0,0
+Calhoun,Bethel,U.S. House,6,REP,John McCollum,480,121,0,0,0,38,321
+Calhoun,Cameron,U.S. House,6,REP,John McCollum,250,43,0,0,0,18,189
+Calhoun,Center Hill,U.S. House,6,REP,John McCollum,423,124,0,0,0,39,260
+Calhoun,Creston,U.S. House,6,REP,John McCollum,90,15,0,0,0,5,70
+Calhoun,Dixie,U.S. House,6,REP,John McCollum,341,182,0,0,0,19,140
+Calhoun,Fall Branch,U.S. House,6,REP,John McCollum,215,47,0,0,0,13,155
+Calhoun,Fort Motte,U.S. House,6,REP,John McCollum,98,27,0,0,0,4,67
+Calhoun,Lone Star,U.S. House,6,REP,John McCollum,428,160,0,0,0,56,212
+Calhoun,Midway,U.S. House,6,REP,John McCollum,193,17,0,0,0,8,168
+Calhoun,Murph Hill,U.S. House,6,REP,John McCollum,134,34,0,0,0,6,94
+Calhoun,Sandy Run,U.S. House,6,REP,John McCollum,905,190,0,0,0,98,617
+Calhoun,St. Matthews,U.S. House,6,REP,John McCollum,605,278,0,0,0,51,276
+Calhoun,Failsafe,U.S. House,6,REP,John McCollum,12,0,0,0,12,0,0
+Calhoun,Provisional,U.S. House,6,REP,John McCollum,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. House,6,REP,John McCollum,3,0,3,0,0,0,0
+Calhoun,Bethel,U.S. House,6,DEM,James E Jim Clyburn,223,99,0,0,0,36,88
+Calhoun,Cameron,U.S. House,6,DEM,James E Jim Clyburn,299,105,0,0,0,54,140
+Calhoun,Center Hill,U.S. House,6,DEM,James E Jim Clyburn,448,189,0,0,0,87,172
+Calhoun,Creston,U.S. House,6,DEM,James E Jim Clyburn,74,20,0,0,0,24,30
+Calhoun,Dixie,U.S. House,6,DEM,James E Jim Clyburn,1160,700,0,0,0,214,246
+Calhoun,Fall Branch,U.S. House,6,DEM,James E Jim Clyburn,156,77,0,0,0,16,63
+Calhoun,Fort Motte,U.S. House,6,DEM,James E Jim Clyburn,94,35,0,0,0,20,39
+Calhoun,Lone Star,U.S. House,6,DEM,James E Jim Clyburn,357,124,0,0,0,108,125
+Calhoun,Midway,U.S. House,6,DEM,James E Jim Clyburn,64,12,0,0,0,23,29
+Calhoun,Murph Hill,U.S. House,6,DEM,James E Jim Clyburn,207,100,0,0,0,36,71
+Calhoun,Sandy Run,U.S. House,6,DEM,James E Jim Clyburn,356,128,0,0,0,82,146
+Calhoun,St. Matthews,U.S. House,6,DEM,James E Jim Clyburn,560,327,0,0,0,85,148
+Calhoun,Failsafe,U.S. House,6,DEM,James E Jim Clyburn,16,0,0,0,16,0,0
+Calhoun,Provisional,U.S. House,6,DEM,James E Jim Clyburn,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. House,6,DEM,James E Jim Clyburn,2,0,2,0,0,0,0
+Calhoun,Bethel,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Cameron,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Center Hill,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Creston,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Dixie,U.S. House,6,NON,Write-In,1,1,0,0,0,0,0
+Calhoun,Fall Branch,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Fort Motte,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Lone Star,U.S. House,6,NON,Write-In,2,0,0,0,0,0,2
+Calhoun,Midway,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Murph Hill,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Sandy Run,U.S. House,6,NON,Write-In,1,1,0,0,0,0,0
+Calhoun,St. Matthews,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Provisional,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Bethel,State Senate,26,REP,Chris Smith,445,114,0,0,0,32,299
+Calhoun,Center Hill,State Senate,26,REP,Chris Smith,400,125,0,0,0,38,237
+Calhoun,Fall Branch,State Senate,26,REP,Chris Smith,194,46,0,0,0,12,136
+Calhoun,Sandy Run,State Senate,26,REP,Chris Smith,789,162,0,0,0,77,550
+Calhoun,Failsafe,State Senate,26,REP,Chris Smith,3,0,0,0,3,0,0
+Calhoun,Provisional,State Senate,26,REP,Chris Smith,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,State Senate,26,REP,Chris Smith,0,0,0,0,0,0,0
+Calhoun,Bethel,State Senate,26,DEM,Nikki Setzler,265,107,0,0,0,42,116
+Calhoun,Center Hill,State Senate,26,DEM,Nikki Setzler,478,189,0,0,0,88,201
+Calhoun,Fall Branch,State Senate,26,DEM,Nikki Setzler,179,79,0,0,0,17,83
+Calhoun,Sandy Run,State Senate,26,DEM,Nikki Setzler,488,159,0,0,0,103,226
+Calhoun,Failsafe,State Senate,26,DEM,Nikki Setzler,0,0,0,0,0,0,0
+Calhoun,Provisional,State Senate,26,DEM,Nikki Setzler,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,State Senate,26,DEM,Nikki Setzler,0,0,0,0,0,0,0
+Calhoun,Bethel,State Senate,26,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Center Hill,State Senate,26,NON,Write-In,2,1,0,0,0,0,1
+Calhoun,Fall Branch,State Senate,26,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Sandy Run,State Senate,26,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe,State Senate,26,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Provisional,State Senate,26,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,State Senate,26,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Cameron,State Senate,39,REP,Tom Connor,277,48,0,0,0,22,207
+Calhoun,Creston,State Senate,39,REP,Tom Connor,92,15,0,0,0,5,72
+Calhoun,Dixie,State Senate,39,REP,Tom Connor,360,195,0,0,0,19,146
+Calhoun,Fort Motte,State Senate,39,REP,Tom Connor,101,27,0,0,0,5,69
+Calhoun,Lone Star,State Senate,39,REP,Tom Connor,442,160,0,0,0,56,226
+Calhoun,Midway,State Senate,39,REP,Tom Connor,199,17,0,0,0,10,172
+Calhoun,Murph Hill,State Senate,39,REP,Tom Connor,143,35,0,0,0,10,98
+Calhoun,St. Matthews,State Senate,39,REP,Tom Connor,644,293,0,0,0,53,298
+Calhoun,Failsafe,State Senate,39,REP,Tom Connor,8,0,0,0,8,0,0
+Calhoun,Provisional,State Senate,39,REP,Tom Connor,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,State Senate,39,REP,Tom Connor,0,0,0,0,0,0,0
+Calhoun,Cameron,State Senate,39,DEM,Vernon Stephens,277,100,0,0,0,51,126
+Calhoun,Creston,State Senate,39,DEM,Vernon Stephens,70,20,0,0,0,24,26
+Calhoun,Dixie,State Senate,39,DEM,Vernon Stephens,1149,692,0,0,0,214,243
+Calhoun,Fort Motte,State Senate,39,DEM,Vernon Stephens,89,34,0,0,0,17,38
+Calhoun,Lone Star,State Senate,39,DEM,Vernon Stephens,349,126,0,0,0,107,116
+Calhoun,Midway,State Senate,39,DEM,Vernon Stephens,58,12,0,0,0,21,25
+Calhoun,Murph Hill,State Senate,39,DEM,Vernon Stephens,204,101,0,0,0,31,72
+Calhoun,St. Matthews,State Senate,39,DEM,Vernon Stephens,532,317,0,0,0,81,134
+Calhoun,Failsafe,State Senate,39,DEM,Vernon Stephens,10,0,0,0,10,0,0
+Calhoun,Provisional,State Senate,39,DEM,Vernon Stephens,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,State Senate,39,DEM,Vernon Stephens,2,0,2,0,0,0,0
+Calhoun,Cameron,State Senate,39,NON,Write-In,1,0,0,0,0,0,1
+Calhoun,Creston,State Senate,39,NON,Write-In,1,0,0,0,0,0,1
+Calhoun,Dixie,State Senate,39,NON,Write-In,1,1,0,0,0,0,0
+Calhoun,Fort Motte,State Senate,39,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Lone Star,State Senate,39,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Midway,State Senate,39,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Murph Hill,State Senate,39,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,St. Matthews,State Senate,39,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe,State Senate,39,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Provisional,State Senate,39,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,State Senate,39,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Bethel,State House,93,DEM,Russell L Ott,512,178,0,0,0,53,281
+Calhoun,Cameron,State House,93,DEM,Russell L Ott,472,136,0,0,0,64,272
+Calhoun,Center Hill,State House,93,DEM,Russell L Ott,667,249,0,0,0,104,314
+Calhoun,Creston,State House,93,DEM,Russell L Ott,129,29,0,0,0,26,74
+Calhoun,Dixie,State House,93,DEM,Russell L Ott,1360,810,0,0,0,220,330
+Calhoun,Fall Branch,State House,93,DEM,Russell L Ott,289,102,0,0,0,26,161
+Calhoun,Fort Motte,State House,93,DEM,Russell L Ott,156,52,0,0,0,23,81
+Calhoun,Lone Star,State House,93,DEM,Russell L Ott,524,171,0,0,0,128,225
+Calhoun,Midway,State House,93,DEM,Russell L Ott,179,22,0,0,0,29,128
+Calhoun,Murph Hill,State House,93,DEM,Russell L Ott,288,117,0,0,0,39,132
+Calhoun,Sandy Run,State House,93,DEM,Russell L Ott,798,215,0,0,0,129,454
+Calhoun,St. Matthews,State House,93,DEM,Russell L Ott,948,515,0,0,0,112,321
+Calhoun,Failsafe,State House,93,DEM,Russell L Ott,21,0,0,0,21,0,0
+Calhoun,Provisional,State House,93,DEM,Russell L Ott,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,State House,93,DEM,Russell L Ott,4,0,4,0,0,0,0
+Calhoun,Bethel,State House,93,NON,Write-In,24,3,0,0,0,3,18
+Calhoun,Cameron,State House,93,NON,Write-In,7,0,0,0,0,0,7
+Calhoun,Center Hill,State House,93,NON,Write-In,28,7,0,0,0,2,19
+Calhoun,Creston,State House,93,NON,Write-In,7,1,0,0,0,0,6
+Calhoun,Dixie,State House,93,NON,Write-In,26,16,0,0,0,0,10
+Calhoun,Fall Branch,State House,93,NON,Write-In,13,3,0,0,0,0,10
+Calhoun,Fort Motte,State House,93,NON,Write-In,9,3,0,0,0,0,6
+Calhoun,Lone Star,State House,93,NON,Write-In,15,4,0,0,0,0,11
+Calhoun,Midway,State House,93,NON,Write-In,9,1,0,0,0,0,8
+Calhoun,Murph Hill,State House,93,NON,Write-In,10,2,0,0,0,0,8
+Calhoun,Sandy Run,State House,93,NON,Write-In,74,14,0,0,0,1,59
+Calhoun,St. Matthews,State House,93,NON,Write-In,37,15,0,0,0,2,20
+Calhoun,Failsafe,State House,93,NON,Write-In,1,0,0,0,1,0,0
+Calhoun,Provisional,State House,93,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,State House,93,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Bethel,Solicitor, Circuit  1,DEM,David M Pascoe,499,169,0,0,0,54,276
+Calhoun,Cameron,Solicitor, Circuit  1,DEM,David M Pascoe,450,132,0,0,0,60,258
+Calhoun,Center Hill,Solicitor, Circuit  1,DEM,David M Pascoe,658,251,0,0,0,102,305
+Calhoun,Creston,Solicitor, Circuit  1,DEM,David M Pascoe,124,28,0,0,0,26,70
+Calhoun,Dixie,Solicitor, Circuit  1,DEM,David M Pascoe,1345,800,0,0,0,220,325
+Calhoun,Fall Branch,Solicitor, Circuit  1,DEM,David M Pascoe,283,99,0,0,0,26,158
+Calhoun,Fort Motte,Solicitor, Circuit  1,DEM,David M Pascoe,161,54,0,0,0,23,84
+Calhoun,Lone Star,Solicitor, Circuit  1,DEM,David M Pascoe,525,170,0,0,0,130,225
+Calhoun,Midway,Solicitor, Circuit  1,DEM,David M Pascoe,174,20,0,0,0,29,125
+Calhoun,Murph Hill,Solicitor, Circuit  1,DEM,David M Pascoe,276,110,0,0,0,40,126
+Calhoun,Sandy Run,Solicitor, Circuit  1,DEM,David M Pascoe,769,204,0,0,0,124,441
+Calhoun,St. Matthews,Solicitor, Circuit  1,DEM,David M Pascoe,929,497,0,0,0,105,327
+Calhoun,Failsafe,Solicitor, Circuit  1,DEM,David M Pascoe,22,0,0,0,22,0,0
+Calhoun,Provisional,Solicitor, Circuit  1,DEM,David M Pascoe,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Solicitor, Circuit  1,DEM,David M Pascoe,4,0,4,0,0,0,0
+Calhoun,Bethel,Solicitor, Circuit  1,NON,Write-In,18,4,0,0,0,1,13
+Calhoun,Cameron,Solicitor, Circuit  1,NON,Write-In,11,0,0,0,0,0,11
+Calhoun,Center Hill,Solicitor, Circuit  1,NON,Write-In,13,4,0,0,0,1,8
+Calhoun,Creston,Solicitor, Circuit  1,NON,Write-In,9,2,0,0,0,0,7
+Calhoun,Dixie,Solicitor, Circuit  1,NON,Write-In,22,13,0,0,0,0,9
+Calhoun,Fall Branch,Solicitor, Circuit  1,NON,Write-In,10,1,0,0,0,0,9
+Calhoun,Fort Motte,Solicitor, Circuit  1,NON,Write-In,7,2,0,0,0,0,5
+Calhoun,Lone Star,Solicitor, Circuit  1,NON,Write-In,16,5,0,0,0,0,11
+Calhoun,Midway,Solicitor, Circuit  1,NON,Write-In,6,1,0,0,0,0,5
+Calhoun,Murph Hill,Solicitor, Circuit  1,NON,Write-In,5,1,0,0,0,0,4
+Calhoun,Sandy Run,Solicitor, Circuit  1,NON,Write-In,38,7,0,0,0,2,29
+Calhoun,St. Matthews,Solicitor, Circuit  1,NON,Write-In,27,13,0,0,0,2,12
+Calhoun,Failsafe,Solicitor, Circuit  1,NON,Write-In,1,0,0,0,1,0,0
+Calhoun,Provisional,Solicitor, Circuit  1,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Solicitor, Circuit  1,NON,Write-In,1,0,1,0,0,0,0
+Calhoun,Bethel,Sheriff,,DEM,Thomas Summers,548,183,0,0,0,58,307
+Calhoun,Cameron,Sheriff,,DEM,Thomas Summers,505,140,0,0,0,61,304
+Calhoun,Center Hill,Sheriff,,DEM,Thomas Summers,690,261,0,0,0,105,324
+Calhoun,Creston,Sheriff,,DEM,Thomas Summers,140,32,0,0,0,25,83
+Calhoun,Dixie,Sheriff,,DEM,Thomas Summers,1394,832,0,0,0,221,341
+Calhoun,Fall Branch,Sheriff,,DEM,Thomas Summers,304,109,0,0,0,26,169
+Calhoun,Fort Motte,Sheriff,,DEM,Thomas Summers,164,57,0,0,0,22,85
+Calhoun,Lone Star,Sheriff,,DEM,Thomas Summers,560,186,0,0,0,136,238
+Calhoun,Midway,Sheriff,,DEM,Thomas Summers,196,24,0,0,0,29,143
+Calhoun,Murph Hill,Sheriff,,DEM,Thomas Summers,290,115,0,0,0,39,136
+Calhoun,Sandy Run,Sheriff,,DEM,Thomas Summers,873,234,0,0,0,126,513
+Calhoun,St. Matthews,Sheriff,,DEM,Thomas Summers,1009,540,0,0,0,113,356
+Calhoun,Failsafe,Sheriff,,DEM,Thomas Summers,22,0,0,0,22,0,0
+Calhoun,Provisional,Sheriff,,DEM,Thomas Summers,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Sheriff,,DEM,Thomas Summers,5,0,5,0,0,0,0
+Calhoun,Bethel,Sheriff,,NON,Write-In,14,2,0,0,0,0,12
+Calhoun,Cameron,Sheriff,,NON,Write-In,4,0,0,0,0,1,3
+Calhoun,Center Hill,Sheriff,,NON,Write-In,18,7,0,0,0,0,11
+Calhoun,Creston,Sheriff,,NON,Write-In,5,1,0,0,0,1,3
+Calhoun,Dixie,Sheriff,,NON,Write-In,13,6,0,0,0,0,7
+Calhoun,Fall Branch,Sheriff,,NON,Write-In,8,1,0,0,0,0,7
+Calhoun,Fort Motte,Sheriff,,NON,Write-In,4,0,0,0,0,0,4
+Calhoun,Lone Star,Sheriff,,NON,Write-In,12,2,0,0,0,0,10
+Calhoun,Midway,Sheriff,,NON,Write-In,4,0,0,0,0,0,4
+Calhoun,Murph Hill,Sheriff,,NON,Write-In,4,0,0,0,0,0,4
+Calhoun,Sandy Run,Sheriff,,NON,Write-In,33,7,0,0,0,3,23
+Calhoun,St. Matthews,Sheriff,,NON,Write-In,15,5,0,0,0,0,10
+Calhoun,Failsafe,Sheriff,,NON,Write-In,1,0,0,0,1,0,0
+Calhoun,Provisional,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Bethel,Probate Judge,,DEM,Kathryn Strickland Brown,532,182,0,0,0,55,295
+Calhoun,Cameron,Probate Judge,,DEM,Kathryn Strickland Brown,474,133,0,0,0,63,278
+Calhoun,Center Hill,Probate Judge,,DEM,Kathryn Strickland Brown,659,247,0,0,0,104,308
+Calhoun,Creston,Probate Judge,,DEM,Kathryn Strickland Brown,130,28,0,0,0,27,75
+Calhoun,Dixie,Probate Judge,,DEM,Kathryn Strickland Brown,1373,820,0,0,0,220,333
+Calhoun,Fall Branch,Probate Judge,,DEM,Kathryn Strickland Brown,286,102,0,0,0,26,158
+Calhoun,Fort Motte,Probate Judge,,DEM,Kathryn Strickland Brown,160,52,0,0,0,22,86
+Calhoun,Lone Star,Probate Judge,,DEM,Kathryn Strickland Brown,529,180,0,0,0,129,220
+Calhoun,Midway,Probate Judge,,DEM,Kathryn Strickland Brown,177,22,0,0,0,29,126
+Calhoun,Murph Hill,Probate Judge,,DEM,Kathryn Strickland Brown,283,113,0,0,0,40,130
+Calhoun,Sandy Run,Probate Judge,,DEM,Kathryn Strickland Brown,798,214,0,0,0,124,460
+Calhoun,St. Matthews,Probate Judge,,DEM,Kathryn Strickland Brown,979,525,0,0,0,114,340
+Calhoun,Failsafe,Probate Judge,,DEM,Kathryn Strickland Brown,21,0,0,0,21,0,0
+Calhoun,Provisional,Probate Judge,,DEM,Kathryn Strickland Brown,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Probate Judge,,DEM,Kathryn Strickland Brown,4,0,4,0,0,0,0
+Calhoun,Bethel,Probate Judge,,NON,Write-In,11,3,0,0,0,0,8
+Calhoun,Cameron,Probate Judge,,NON,Write-In,4,0,0,0,0,0,4
+Calhoun,Center Hill,Probate Judge,,NON,Write-In,13,6,0,0,0,1,6
+Calhoun,Creston,Probate Judge,,NON,Write-In,7,3,0,0,0,0,4
+Calhoun,Dixie,Probate Judge,,NON,Write-In,10,4,0,0,0,0,6
+Calhoun,Fall Branch,Probate Judge,,NON,Write-In,7,1,0,0,0,0,6
+Calhoun,Fort Motte,Probate Judge,,NON,Write-In,2,0,0,0,0,0,2
+Calhoun,Lone Star,Probate Judge,,NON,Write-In,13,2,0,0,0,1,10
+Calhoun,Midway,Probate Judge,,NON,Write-In,5,1,0,0,0,0,4
+Calhoun,Murph Hill,Probate Judge,,NON,Write-In,3,0,0,0,0,0,3
+Calhoun,Sandy Run,Probate Judge,,NON,Write-In,27,7,0,0,0,2,18
+Calhoun,St. Matthews,Probate Judge,,NON,Write-In,14,3,0,0,0,2,9
+Calhoun,Failsafe,Probate Judge,,NON,Write-In,1,0,0,0,1,0,0
+Calhoun,Provisional,Probate Judge,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Probate Judge,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Bethel,Clerk of Court,,DEM,Ken Hasty,531,177,0,0,0,57,297
+Calhoun,Cameron,Clerk of Court,,DEM,Ken Hasty,476,134,0,0,0,59,283
+Calhoun,Center Hill,Clerk of Court,,DEM,Ken Hasty,668,255,0,0,0,100,313
+Calhoun,Creston,Clerk of Court,,DEM,Ken Hasty,129,29,0,0,0,26,74
+Calhoun,Dixie,Clerk of Court,,DEM,Ken Hasty,1374,816,0,0,0,219,339
+Calhoun,Fall Branch,Clerk of Court,,DEM,Ken Hasty,301,108,0,0,0,24,169
+Calhoun,Fort Motte,Clerk of Court,,DEM,Ken Hasty,164,54,0,0,0,23,87
+Calhoun,Lone Star,Clerk of Court,,DEM,Ken Hasty,532,175,0,0,0,132,225
+Calhoun,Midway,Clerk of Court,,DEM,Ken Hasty,176,21,0,0,0,29,126
+Calhoun,Murph Hill,Clerk of Court,,DEM,Ken Hasty,287,115,0,0,0,40,132
+Calhoun,Sandy Run,Clerk of Court,,DEM,Ken Hasty,822,217,0,0,0,130,475
+Calhoun,St. Matthews,Clerk of Court,,DEM,Ken Hasty,981,522,0,0,0,113,346
+Calhoun,Failsafe,Clerk of Court,,DEM,Ken Hasty,20,0,0,0,20,0,0
+Calhoun,Provisional,Clerk of Court,,DEM,Ken Hasty,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Clerk of Court,,DEM,Ken Hasty,4,0,4,0,0,0,0
+Calhoun,Bethel,Clerk of Court,,NON,Write-In,11,5,0,0,0,0,6
+Calhoun,Cameron,Clerk of Court,,NON,Write-In,2,0,0,0,0,0,2
+Calhoun,Center Hill,Clerk of Court,,NON,Write-In,8,4,0,0,0,1,3
+Calhoun,Creston,Clerk of Court,,NON,Write-In,5,1,0,0,0,0,4
+Calhoun,Dixie,Clerk of Court,,NON,Write-In,10,3,0,0,0,2,5
+Calhoun,Fall Branch,Clerk of Court,,NON,Write-In,4,1,0,0,0,0,3
+Calhoun,Fort Motte,Clerk of Court,,NON,Write-In,3,0,0,0,0,0,3
+Calhoun,Lone Star,Clerk of Court,,NON,Write-In,12,1,0,0,0,0,11
+Calhoun,Midway,Clerk of Court,,NON,Write-In,4,0,0,0,0,0,4
+Calhoun,Murph Hill,Clerk of Court,,NON,Write-In,4,0,0,0,0,0,4
+Calhoun,Sandy Run,Clerk of Court,,NON,Write-In,26,7,0,0,0,3,16
+Calhoun,St. Matthews,Clerk of Court,,NON,Write-In,15,6,0,0,0,2,7
+Calhoun,Failsafe,Clerk of Court,,NON,Write-In,2,0,0,0,2,0,0
+Calhoun,Provisional,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Bethel,Coroner,,REP,Donnie B Porth,594,167,0,0,0,53,374
+Calhoun,Cameron,Coroner,,REP,Donnie B Porth,396,95,0,0,0,44,257
+Calhoun,Center Hill,Coroner,,REP,Donnie B Porth,601,192,0,0,0,66,343
+Calhoun,Creston,Coroner,,REP,Donnie B Porth,112,21,0,0,0,11,80
+Calhoun,Dixie,Coroner,,REP,Donnie B Porth,821,467,0,0,0,80,274
+Calhoun,Fall Branch,Coroner,,REP,Donnie B Porth,303,87,0,0,0,21,195
+Calhoun,Fort Motte,Coroner,,REP,Donnie B Porth,142,42,0,0,0,12,88
+Calhoun,Lone Star,Coroner,,REP,Donnie B Porth,546,200,0,0,0,77,269
+Calhoun,Midway,Coroner,,REP,Donnie B Porth,220,21,0,0,0,16,183
+Calhoun,Murph Hill,Coroner,,REP,Donnie B Porth,234,79,0,0,0,24,131
+Calhoun,Sandy Run,Coroner,,REP,Donnie B Porth,1095,249,0,0,0,137,709
+Calhoun,St. Matthews,Coroner,,REP,Donnie B Porth,876,421,0,0,0,79,376
+Calhoun,Failsafe,Coroner,,REP,Donnie B Porth,22,0,0,0,22,0,0
+Calhoun,Provisional,Coroner,,REP,Donnie B Porth,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Coroner,,REP,Donnie B Porth,4,0,4,0,0,0,0
+Calhoun,Bethel,Coroner,,NON,Write-In,5,2,0,0,0,0,3
+Calhoun,Cameron,Coroner,,NON,Write-In,8,4,0,0,0,0,4
+Calhoun,Center Hill,Coroner,,NON,Write-In,14,4,0,0,0,3,7
+Calhoun,Creston,Coroner,,NON,Write-In,1,0,0,0,0,0,1
+Calhoun,Dixie,Coroner,,NON,Write-In,30,19,0,0,0,7,4
+Calhoun,Fall Branch,Coroner,,NON,Write-In,1,0,0,0,0,0,1
+Calhoun,Fort Motte,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Lone Star,Coroner,,NON,Write-In,10,4,0,0,0,4,2
+Calhoun,Midway,Coroner,,NON,Write-In,4,2,0,0,0,1,1
+Calhoun,Murph Hill,Coroner,,NON,Write-In,10,4,0,0,0,1,5
+Calhoun,Sandy Run,Coroner,,NON,Write-In,12,6,0,0,0,2,4
+Calhoun,St. Matthews,Coroner,,NON,Write-In,12,8,0,0,0,1,3
+Calhoun,Failsafe,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Provisional,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Bethel,Auditor,,DEM,April Wise,538,186,0,0,0,56,296
+Calhoun,Cameron,Auditor,,DEM,April Wise,490,137,0,0,0,63,290
+Calhoun,Center Hill,Auditor,,DEM,April Wise,669,252,0,0,0,105,312
+Calhoun,Creston,Auditor,,DEM,April Wise,129,30,0,0,0,26,73
+Calhoun,Dixie,Auditor,,DEM,April Wise,1372,822,0,0,0,220,330
+Calhoun,Fall Branch,Auditor,,DEM,April Wise,297,109,0,0,0,24,164
+Calhoun,Fort Motte,Auditor,,DEM,April Wise,167,55,0,0,0,23,89
+Calhoun,Lone Star,Auditor,,DEM,April Wise,551,186,0,0,0,135,230
+Calhoun,Midway,Auditor,,DEM,April Wise,182,22,0,0,0,29,131
+Calhoun,Murph Hill,Auditor,,DEM,April Wise,284,113,0,0,0,40,131
+Calhoun,Sandy Run,Auditor,,DEM,April Wise,828,217,0,0,0,132,479
+Calhoun,St. Matthews,Auditor,,DEM,April Wise,989,535,0,0,0,111,343
+Calhoun,Failsafe,Auditor,,DEM,April Wise,20,0,0,0,20,0,0
+Calhoun,Provisional,Auditor,,DEM,April Wise,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Auditor,,DEM,April Wise,4,0,4,0,0,0,0
+Calhoun,Bethel,Auditor,,NON,Write-In,9,2,0,0,0,0,7
+Calhoun,Cameron,Auditor,,NON,Write-In,1,0,0,0,0,0,1
+Calhoun,Center Hill,Auditor,,NON,Write-In,8,4,0,0,0,0,4
+Calhoun,Creston,Auditor,,NON,Write-In,6,1,0,0,0,0,5
+Calhoun,Dixie,Auditor,,NON,Write-In,5,2,0,0,0,0,3
+Calhoun,Fall Branch,Auditor,,NON,Write-In,5,0,0,0,0,0,5
+Calhoun,Fort Motte,Auditor,,NON,Write-In,2,0,0,0,0,0,2
+Calhoun,Lone Star,Auditor,,NON,Write-In,10,1,0,0,0,0,9
+Calhoun,Midway,Auditor,,NON,Write-In,3,0,0,0,0,0,3
+Calhoun,Murph Hill,Auditor,,NON,Write-In,2,0,0,0,0,0,2
+Calhoun,Sandy Run,Auditor,,NON,Write-In,18,3,0,0,0,2,13
+Calhoun,St. Matthews,Auditor,,NON,Write-In,14,4,0,0,0,2,8
+Calhoun,Failsafe,Auditor,,NON,Write-In,1,0,0,0,1,0,0
+Calhoun,Provisional,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Bethel,County Treasurer,,DEM,Rebecca C Furtick,549,184,0,0,0,59,306
+Calhoun,Cameron,County Treasurer,,DEM,Rebecca C Furtick,488,138,0,0,0,62,288
+Calhoun,Center Hill,County Treasurer,,DEM,Rebecca C Furtick,694,260,0,0,0,106,328
+Calhoun,Creston,County Treasurer,,DEM,Rebecca C Furtick,135,30,0,0,0,26,79
+Calhoun,Dixie,County Treasurer,,DEM,Rebecca C Furtick,1389,829,0,0,0,220,340
+Calhoun,Fall Branch,County Treasurer,,DEM,Rebecca C Furtick,299,107,0,0,0,24,168
+Calhoun,Fort Motte,County Treasurer,,DEM,Rebecca C Furtick,165,54,0,0,0,23,88
+Calhoun,Lone Star,County Treasurer,,DEM,Rebecca C Furtick,563,189,0,0,0,135,239
+Calhoun,Midway,County Treasurer,,DEM,Rebecca C Furtick,187,23,0,0,0,28,136
+Calhoun,Murph Hill,County Treasurer,,DEM,Rebecca C Furtick,291,116,0,0,0,40,135
+Calhoun,Sandy Run,County Treasurer,,DEM,Rebecca C Furtick,894,234,0,0,0,135,525
+Calhoun,St. Matthews,County Treasurer,,DEM,Rebecca C Furtick,1006,546,0,0,0,115,345
+Calhoun,Failsafe,County Treasurer,,DEM,Rebecca C Furtick,21,0,0,0,21,0,0
+Calhoun,Provisional,County Treasurer,,DEM,Rebecca C Furtick,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,County Treasurer,,DEM,Rebecca C Furtick,4,0,4,0,0,0,0
+Calhoun,Bethel,County Treasurer,,NON,Write-In,7,2,0,0,0,0,5
+Calhoun,Cameron,County Treasurer,,NON,Write-In,2,0,0,0,0,0,2
+Calhoun,Center Hill,County Treasurer,,NON,Write-In,8,3,0,0,0,0,5
+Calhoun,Creston,County Treasurer,,NON,Write-In,3,1,0,0,0,0,2
+Calhoun,Dixie,County Treasurer,,NON,Write-In,4,2,0,0,0,0,2
+Calhoun,Fall Branch,County Treasurer,,NON,Write-In,5,1,0,0,0,0,4
+Calhoun,Fort Motte,County Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Calhoun,Lone Star,County Treasurer,,NON,Write-In,8,1,0,0,0,0,7
+Calhoun,Midway,County Treasurer,,NON,Write-In,4,0,0,0,0,1,3
+Calhoun,Murph Hill,County Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Calhoun,Sandy Run,County Treasurer,,NON,Write-In,16,2,0,0,0,2,12
+Calhoun,St. Matthews,County Treasurer,,NON,Write-In,7,1,0,0,0,1,5
+Calhoun,Failsafe,County Treasurer,,NON,Write-In,1,0,0,0,1,0,0
+Calhoun,Provisional,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Cameron,County Council District 1,,REP,David K Summers Jr,387,96,0,0,0,42,249
+Calhoun,Creston,County Council District 1,,REP,David K Summers Jr,83,12,0,0,0,8,63
+Calhoun,Fort Motte,County Council District 1,,REP,David K Summers Jr,2,0,0,0,0,0,2
+Calhoun,Lone Star,County Council District 1,,REP,David K Summers Jr,476,163,0,0,0,62,251
+Calhoun,Midway,County Council District 1,,REP,David K Summers Jr,221,22,0,0,0,15,184
+Calhoun,St. Matthews,County Council District 1,,REP,David K Summers Jr,126,53,0,0,0,11,62
+Calhoun,Failsafe,County Council District 1,,REP,David K Summers Jr,3,0,0,0,3,0,0
+Calhoun,Provisional,County Council District 1,,REP,David K Summers Jr,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,County Council District 1,,REP,David K Summers Jr,0,0,0,0,0,0,0
+Calhoun,Cameron,County Council District 1,,NON,Write-In,9,4,0,0,0,0,5
+Calhoun,Creston,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Fort Motte,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Lone Star,County Council District 1,,NON,Write-In,7,1,0,0,0,4,2
+Calhoun,Midway,County Council District 1,,NON,Write-In,3,1,0,0,0,1,1
+Calhoun,St. Matthews,County Council District 1,,NON,Write-In,1,0,0,0,0,0,1
+Calhoun,Failsafe,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Provisional,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,County Council District 1,,NON,Write-In,1,0,1,0,0,0,0
+Calhoun,Bethel,County Council District 2,,DEM,Ken Westbury,334,124,0,0,0,37,173
+Calhoun,Dixie,County Council District 2,,DEM,Ken Westbury,473,257,0,0,0,81,135
+Calhoun,Fort Motte,County Council District 2,,DEM,Ken Westbury,156,53,0,0,0,22,81
+Calhoun,Lone Star,County Council District 2,,DEM,Ken Westbury,109,46,0,0,0,21,42
+Calhoun,St. Matthews,County Council District 2,,DEM,Ken Westbury,194,109,0,0,0,31,54
+Calhoun,Failsafe,County Council District 2,,DEM,Ken Westbury,4,0,0,0,4,0,0
+Calhoun,Provisional,County Council District 2,,DEM,Ken Westbury,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,County Council District 2,,DEM,Ken Westbury,0,0,0,0,0,0,0
+Calhoun,Bethel,County Council District 2,,NON,Write-In,6,0,0,0,0,0,6
+Calhoun,Dixie,County Council District 2,,NON,Write-In,3,1,0,0,0,0,2
+Calhoun,Fort Motte,County Council District 2,,NON,Write-In,6,0,0,0,0,0,6
+Calhoun,Lone Star,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,St. Matthews,County Council District 2,,NON,Write-In,2,1,0,0,0,1,0
+Calhoun,Failsafe,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Provisional,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Bethel,Soil and Water District Commission,,NON,Kendall Wannamaker,437,128,0,0,0,44,265
+Calhoun,Cameron,Soil and Water District Commission,,NON,Kendall Wannamaker,347,88,0,0,0,41,218
+Calhoun,Center Hill,Soil and Water District Commission,,NON,Kendall Wannamaker,444,143,0,0,0,61,240
+Calhoun,Creston,Soil and Water District Commission,,NON,Kendall Wannamaker,96,19,0,0,0,11,66
+Calhoun,Dixie,Soil and Water District Commission,,NON,Kendall Wannamaker,788,448,0,0,0,100,240
+Calhoun,Fall Branch,Soil and Water District Commission,,NON,Kendall Wannamaker,245,73,0,0,0,18,154
+Calhoun,Fort Motte,Soil and Water District Commission,,NON,Kendall Wannamaker,117,34,0,0,0,12,71
+Calhoun,Lone Star,Soil and Water District Commission,,NON,Kendall Wannamaker,389,117,0,0,0,99,173
+Calhoun,Midway,Soil and Water District Commission,,NON,Kendall Wannamaker,168,18,0,0,0,16,134
+Calhoun,Murph Hill,Soil and Water District Commission,,NON,Kendall Wannamaker,211,74,0,0,0,31,106
+Calhoun,Sandy Run,Soil and Water District Commission,,NON,Kendall Wannamaker,801,182,0,0,0,111,508
+Calhoun,St. Matthews,Soil and Water District Commission,,NON,Kendall Wannamaker,756,374,0,0,0,80,302
+Calhoun,Failsafe,Soil and Water District Commission,,NON,Kendall Wannamaker,15,0,0,0,15,0,0
+Calhoun,Provisional,Soil and Water District Commission,,NON,Kendall Wannamaker,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Soil and Water District Commission,,NON,Kendall Wannamaker,4,0,4,0,0,0,0
+Calhoun,Bethel,Soil and Water District Commission,,NON,Write-In,7,3,0,0,0,0,4
+Calhoun,Cameron,Soil and Water District Commission,,NON,Write-In,2,1,0,0,0,0,1
+Calhoun,Center Hill,Soil and Water District Commission,,NON,Write-In,7,2,0,0,0,0,5
+Calhoun,Creston,Soil and Water District Commission,,NON,Write-In,2,0,0,0,0,0,2
+Calhoun,Dixie,Soil and Water District Commission,,NON,Write-In,10,8,0,0,0,1,1
+Calhoun,Fall Branch,Soil and Water District Commission,,NON,Write-In,2,0,0,0,0,0,2
+Calhoun,Fort Motte,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Lone Star,Soil and Water District Commission,,NON,Write-In,9,2,0,0,0,2,5
+Calhoun,Midway,Soil and Water District Commission,,NON,Write-In,1,0,0,0,0,0,1
+Calhoun,Murph Hill,Soil and Water District Commission,,NON,Write-In,1,1,0,0,0,0,0
+Calhoun,Sandy Run,Soil and Water District Commission,,NON,Write-In,11,2,0,0,0,2,7
+Calhoun,St. Matthews,Soil and Water District Commission,,NON,Write-In,3,3,0,0,0,0,0
+Calhoun,Failsafe,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Cameron,School Board District 1,,NON,Ronald Johnson,127,47,0,0,0,18,62
+Calhoun,Creston,School Board District 1,,NON,Ronald Johnson,41,8,0,0,0,16,17
+Calhoun,Fort Motte,School Board District 1,,NON,Ronald Johnson,0,0,0,0,0,0,0
+Calhoun,Lone Star,School Board District 1,,NON,Ronald Johnson,204,58,0,0,0,74,72
+Calhoun,Midway,School Board District 1,,NON,Ronald Johnson,45,8,0,0,0,12,25
+Calhoun,St. Matthews,School Board District 1,,NON,Ronald Johnson,35,19,0,0,0,4,12
+Calhoun,Failsafe,School Board District 1,,NON,Ronald Johnson,1,0,0,0,1,0,0
+Calhoun,Provisional,School Board District 1,,NON,Ronald Johnson,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,School Board District 1,,NON,Ronald Johnson,1,0,1,0,0,0,0
+Calhoun,Cameron,School Board District 1,,NON,Gary B Porth,277,57,0,0,0,26,194
+Calhoun,Creston,School Board District 1,,NON,Gary B Porth,56,9,0,0,0,2,45
+Calhoun,Fort Motte,School Board District 1,,NON,Gary B Porth,2,0,0,0,0,0,2
+Calhoun,Lone Star,School Board District 1,,NON,Gary B Porth,222,63,0,0,0,26,133
+Calhoun,Midway,School Board District 1,,NON,Gary B Porth,137,14,0,0,0,7,116
+Calhoun,St. Matthews,School Board District 1,,NON,Gary B Porth,80,31,0,0,0,6,43
+Calhoun,Failsafe,School Board District 1,,NON,Gary B Porth,0,0,0,0,0,0,0
+Calhoun,Provisional,School Board District 1,,NON,Gary B Porth,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,School Board District 1,,NON,Gary B Porth,1,0,1,0,0,0,0
+Calhoun,Cameron,School Board District 1,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Creston,School Board District 1,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Fort Motte,School Board District 1,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Lone Star,School Board District 1,,NON,Write-In,2,1,0,0,0,0,1
+Calhoun,Midway,School Board District 1,,NON,Write-In,2,0,0,0,0,0,2
+Calhoun,St. Matthews,School Board District 1,,NON,Write-In,2,0,0,0,0,0,2
+Calhoun,Failsafe,School Board District 1,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Provisional,School Board District 1,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,School Board District 1,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Bethel,School Board District 3,,NON,Sandra M Tucker,147,32,0,0,0,17,98
+Calhoun,Center Hill,School Board District 3,,NON,Sandra M Tucker,57,12,0,0,0,6,39
+Calhoun,Fall Branch,School Board District 3,,NON,Sandra M Tucker,18,5,0,0,0,1,12
+Calhoun,Sandy Run,School Board District 3,,NON,Sandra M Tucker,862,200,0,0,0,111,551
+Calhoun,Failsafe,School Board District 3,,NON,Sandra M Tucker,0,0,0,0,0,0,0
+Calhoun,Provisional,School Board District 3,,NON,Sandra M Tucker,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,School Board District 3,,NON,Sandra M Tucker,0,0,0,0,0,0,0
+Calhoun,Bethel,School Board District 3,,NON,Write-In,1,1,0,0,0,0,0
+Calhoun,Center Hill,School Board District 3,,NON,Write-In,1,1,0,0,0,0,0
+Calhoun,Fall Branch,School Board District 3,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Sandy Run,School Board District 3,,NON,Write-In,11,3,0,0,0,3,5
+Calhoun,Failsafe,School Board District 3,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Provisional,School Board District 3,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,School Board District 3,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Cameron,School Board District 4,,NON,Ned Nelson,3,0,0,0,0,0,3
+Calhoun,Center Hill,School Board District 4,,NON,Ned Nelson,160,73,0,0,0,16,71
+Calhoun,Creston,School Board District 4,,NON,Ned Nelson,23,6,0,0,0,3,14
+Calhoun,Dixie,School Board District 4,,NON,Ned Nelson,275,156,0,0,0,36,83
+Calhoun,Murph Hill,School Board District 4,,NON,Ned Nelson,69,23,0,0,0,9,37
+Calhoun,St. Matthews,School Board District 4,,NON,Ned Nelson,542,281,0,0,0,45,216
+Calhoun,Failsafe,School Board District 4,,NON,Ned Nelson,7,0,0,0,7,0,0
+Calhoun,Provisional,School Board District 4,,NON,Ned Nelson,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,School Board District 4,,NON,Ned Nelson,0,0,0,0,0,0,0
+Calhoun,Cameron,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Center Hill,School Board District 4,,NON,Write-In,2,1,0,0,0,0,1
+Calhoun,Creston,School Board District 4,,NON,Write-In,1,0,0,0,0,0,1
+Calhoun,Dixie,School Board District 4,,NON,Write-In,7,4,0,0,0,1,2
+Calhoun,Murph Hill,School Board District 4,,NON,Write-In,1,1,0,0,0,0,0
+Calhoun,St. Matthews,School Board District 4,,NON,Write-In,4,2,0,0,0,0,2
+Calhoun,Failsafe,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0

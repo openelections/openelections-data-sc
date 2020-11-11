@@ -1,0 +1,760 @@
+county,precinct,office,district,party,candidate,votes,in-person_absentee,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Barnwell,BARNWELL 1,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Barnwell,BARNWELL 2,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Barnwell,BARNWELL 3,STRAIGHT PARTY 1,,CON,Constitution,3,1,0,0,0,0,2
+Barnwell,BARNWELL 4,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 1,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 2,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Barnwell,ELKO,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Barnwell,FRIENDSHIP,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Barnwell,KLINE,STRAIGHT PARTY 1,,CON,Constitution,2,1,0,0,0,1,0
+Barnwell,HEALING SPRINGS,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Barnwell,HILDA,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Barnwell,SNELLING,STRAIGHT PARTY 1,,CON,Constitution,3,2,0,0,0,0,1
+Barnwell,WILLISTON 1,STRAIGHT PARTY 1,,CON,Constitution,2,0,0,0,0,1,1
+Barnwell,WILLISTON 2,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Barnwell,WILLISTON 3,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Barnwell,Failsafe,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Barnwell,Provisional,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,BARNWELL 2,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,BARNWELL 3,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,BARNWELL 4,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Barnwell,BLACKVILLE 1,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 2,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,ELKO,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,FRIENDSHIP,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,KLINE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,HEALING SPRINGS,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,HILDA,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,SNELLING,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,1,0
+Barnwell,WILLISTON 1,STRAIGHT PARTY 1,,GRN,Green,1,1,0,0,0,0,0
+Barnwell,WILLISTON 2,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,WILLISTON 3,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,Failsafe,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,STRAIGHT PARTY 1,,REP,Republican,151,77,0,0,0,17,57
+Barnwell,BARNWELL 2,STRAIGHT PARTY 1,,REP,Republican,459,302,0,0,0,25,132
+Barnwell,BARNWELL 3,STRAIGHT PARTY 1,,REP,Republican,490,300,0,0,0,25,165
+Barnwell,BARNWELL 4,STRAIGHT PARTY 1,,REP,Republican,230,142,0,0,0,9,79
+Barnwell,BLACKVILLE 1,STRAIGHT PARTY 1,,REP,Republican,157,63,0,0,0,10,84
+Barnwell,BLACKVILLE 2,STRAIGHT PARTY 1,,REP,Republican,81,37,0,0,0,5,39
+Barnwell,ELKO,STRAIGHT PARTY 1,,REP,Republican,164,43,0,0,0,9,112
+Barnwell,FRIENDSHIP,STRAIGHT PARTY 1,,REP,Republican,336,95,0,0,0,3,238
+Barnwell,KLINE,STRAIGHT PARTY 1,,REP,Republican,164,51,0,0,0,3,110
+Barnwell,HEALING SPRINGS,STRAIGHT PARTY 1,,REP,Republican,116,41,0,0,0,6,69
+Barnwell,HILDA,STRAIGHT PARTY 1,,REP,Republican,425,123,0,0,0,11,291
+Barnwell,SNELLING,STRAIGHT PARTY 1,,REP,Republican,336,118,0,0,0,12,206
+Barnwell,WILLISTON 1,STRAIGHT PARTY 1,,REP,Republican,220,54,0,0,0,9,157
+Barnwell,WILLISTON 2,STRAIGHT PARTY 1,,REP,Republican,181,56,0,0,0,14,111
+Barnwell,WILLISTON 3,STRAIGHT PARTY 1,,REP,Republican,244,88,0,0,0,11,145
+Barnwell,Failsafe,STRAIGHT PARTY 1,,REP,Republican,5,0,0,0,5,0,0
+Barnwell,Provisional,STRAIGHT PARTY 1,,REP,Republican,2,0,0,2,0,0,0
+Barnwell,Failsafe Provisional,STRAIGHT PARTY 1,,REP,Republican,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,BARNWELL 2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,BARNWELL 3,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,BARNWELL 4,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,ELKO,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,FRIENDSHIP,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,KLINE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,HEALING SPRINGS,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,HILDA,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,SNELLING,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,WILLISTON 1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,WILLISTON 2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,WILLISTON 3,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,Failsafe,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Barnwell,BARNWELL 2,STRAIGHT PARTY 1,,LIB,Libertarian,1,1,0,0,0,0,0
+Barnwell,BARNWELL 3,STRAIGHT PARTY 1,,LIB,Libertarian,5,2,0,0,0,1,2
+Barnwell,BARNWELL 4,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Barnwell,BLACKVILLE 1,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 2,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Barnwell,ELKO,STRAIGHT PARTY 1,,LIB,Libertarian,1,1,0,0,0,0,0
+Barnwell,FRIENDSHIP,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Barnwell,KLINE,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Barnwell,HEALING SPRINGS,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Barnwell,HILDA,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Barnwell,SNELLING,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Barnwell,WILLISTON 1,STRAIGHT PARTY 1,,LIB,Libertarian,3,1,0,0,0,1,1
+Barnwell,WILLISTON 2,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Barnwell,WILLISTON 3,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Barnwell,Failsafe,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Barnwell,Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,STRAIGHT PARTY 1,,DEM,Democratic,173,115,0,0,0,7,51
+Barnwell,BARNWELL 2,STRAIGHT PARTY 1,,DEM,Democratic,265,165,0,0,0,38,62
+Barnwell,BARNWELL 3,STRAIGHT PARTY 1,,DEM,Democratic,292,197,0,0,0,38,57
+Barnwell,BARNWELL 4,STRAIGHT PARTY 1,,DEM,Democratic,369,242,0,0,0,26,101
+Barnwell,BLACKVILLE 1,STRAIGHT PARTY 1,,DEM,Democratic,338,146,0,0,0,34,158
+Barnwell,BLACKVILLE 2,STRAIGHT PARTY 1,,DEM,Democratic,193,77,0,0,0,28,88
+Barnwell,ELKO,STRAIGHT PARTY 1,,DEM,Democratic,143,61,0,0,0,19,63
+Barnwell,FRIENDSHIP,STRAIGHT PARTY 1,,DEM,Democratic,20,8,0,0,0,6,6
+Barnwell,KLINE,STRAIGHT PARTY 1,,DEM,Democratic,102,47,0,0,0,11,44
+Barnwell,HEALING SPRINGS,STRAIGHT PARTY 1,,DEM,Democratic,345,147,0,0,0,44,154
+Barnwell,HILDA,STRAIGHT PARTY 1,,DEM,Democratic,42,17,0,0,0,7,18
+Barnwell,SNELLING,STRAIGHT PARTY 1,,DEM,Democratic,260,142,0,0,0,25,93
+Barnwell,WILLISTON 1,STRAIGHT PARTY 1,,DEM,Democratic,453,133,0,0,0,115,205
+Barnwell,WILLISTON 2,STRAIGHT PARTY 1,,DEM,Democratic,93,31,0,0,0,25,37
+Barnwell,WILLISTON 3,STRAIGHT PARTY 1,,DEM,Democratic,187,53,0,0,0,35,99
+Barnwell,Failsafe,STRAIGHT PARTY 1,,DEM,Democratic,9,0,0,0,9,0,0
+Barnwell,Provisional,STRAIGHT PARTY 1,,DEM,Democratic,2,0,0,2,0,0,0
+Barnwell,Failsafe Provisional,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,President,,GRN,Howie Hawkins | Angela Walker,1,1,0,0,0,0,0
+Barnwell,BARNWELL 2,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Barnwell,BARNWELL 3,President,,GRN,Howie Hawkins | Angela Walker,2,0,0,0,0,0,2
+Barnwell,BARNWELL 4,President,,GRN,Howie Hawkins | Angela Walker,4,1,0,0,0,0,3
+Barnwell,BLACKVILLE 1,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,0,1
+Barnwell,BLACKVILLE 2,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Barnwell,ELKO,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Barnwell,FRIENDSHIP,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Barnwell,KLINE,President,,GRN,Howie Hawkins | Angela Walker,3,0,0,0,0,0,3
+Barnwell,HEALING SPRINGS,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Barnwell,HILDA,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,0,1
+Barnwell,SNELLING,President,,GRN,Howie Hawkins | Angela Walker,2,0,0,0,0,0,2
+Barnwell,WILLISTON 1,President,,GRN,Howie Hawkins | Angela Walker,3,2,0,0,0,0,1
+Barnwell,WILLISTON 2,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,0,1
+Barnwell,WILLISTON 3,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,0,1
+Barnwell,Failsafe,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Barnwell,Provisional,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,President,,REP,Donald J Trump | Michael R Pence,227,113,0,0,0,25,89
+Barnwell,BARNWELL 2,President,,REP,Donald J Trump | Michael R Pence,690,459,0,0,0,36,195
+Barnwell,BARNWELL 3,President,,REP,Donald J Trump | Michael R Pence,727,431,0,0,0,55,241
+Barnwell,BARNWELL 4,President,,REP,Donald J Trump | Michael R Pence,383,218,0,0,0,28,137
+Barnwell,BLACKVILLE 1,President,,REP,Donald J Trump | Michael R Pence,210,89,0,0,0,14,107
+Barnwell,BLACKVILLE 2,President,,REP,Donald J Trump | Michael R Pence,132,53,0,0,0,11,68
+Barnwell,ELKO,President,,REP,Donald J Trump | Michael R Pence,248,65,0,0,0,18,165
+Barnwell,FRIENDSHIP,President,,REP,Donald J Trump | Michael R Pence,455,123,0,0,0,5,327
+Barnwell,KLINE,President,,REP,Donald J Trump | Michael R Pence,234,70,0,0,0,10,154
+Barnwell,HEALING SPRINGS,President,,REP,Donald J Trump | Michael R Pence,163,56,0,0,0,9,98
+Barnwell,HILDA,President,,REP,Donald J Trump | Michael R Pence,576,162,0,0,0,22,392
+Barnwell,SNELLING,President,,REP,Donald J Trump | Michael R Pence,474,159,0,0,0,25,290
+Barnwell,WILLISTON 1,President,,REP,Donald J Trump | Michael R Pence,330,86,0,0,0,19,225
+Barnwell,WILLISTON 2,President,,REP,Donald J Trump | Michael R Pence,286,87,0,0,0,24,175
+Barnwell,WILLISTON 3,President,,REP,Donald J Trump | Michael R Pence,345,118,0,0,0,28,199
+Barnwell,Failsafe,President,,REP,Donald J Trump | Michael R Pence,8,0,0,0,8,0,0
+Barnwell,Provisional,President,,REP,Donald J Trump | Michael R Pence,4,0,0,4,0,0,0
+Barnwell,Failsafe Provisional,President,,REP,Donald J Trump | Michael R Pence,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Barnwell,BARNWELL 2,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,0,0,0,0,0,1
+Barnwell,BARNWELL 3,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,2,1,0,0,0,0,1
+Barnwell,BARNWELL 4,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 1,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,0,0,0,0,0,1
+Barnwell,BLACKVILLE 2,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,2,0,0,0,0,0,2
+Barnwell,ELKO,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Barnwell,FRIENDSHIP,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Barnwell,KLINE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,2,0,0,0,0,0,2
+Barnwell,HEALING SPRINGS,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Barnwell,HILDA,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Barnwell,SNELLING,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Barnwell,WILLISTON 1,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,4,1,0,0,0,1,2
+Barnwell,WILLISTON 2,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Barnwell,WILLISTON 3,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Barnwell,Failsafe,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Barnwell,Provisional,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,0,0,0,0,0,1
+Barnwell,BARNWELL 2,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,10,3,0,0,0,1,6
+Barnwell,BARNWELL 3,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,16,5,0,0,0,2,9
+Barnwell,BARNWELL 4,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,10,3,0,0,0,2,5
+Barnwell,BLACKVILLE 1,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 2,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,7,2,0,0,0,0,5
+Barnwell,ELKO,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,1,0,0,0,0,0
+Barnwell,FRIENDSHIP,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,0,0,0,0,0,2
+Barnwell,KLINE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,0,0,0,0,0,2
+Barnwell,HEALING SPRINGS,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,5,4,0,0,0,0,1
+Barnwell,HILDA,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,5,1,0,0,0,0,4
+Barnwell,SNELLING,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,0,0,0,0,0,2
+Barnwell,WILLISTON 1,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,10,3,0,0,0,0,7
+Barnwell,WILLISTON 2,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,5,0,0,0,0,4,1
+Barnwell,WILLISTON 3,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,0,0,0,0,0,2
+Barnwell,Failsafe,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Barnwell,Provisional,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,President,,DEM,Joseph R Biden | Kamala D Harris,256,165,0,0,0,25,66
+Barnwell,BARNWELL 2,President,,DEM,Joseph R Biden | Kamala D Harris,406,235,0,0,0,65,106
+Barnwell,BARNWELL 3,President,,DEM,Joseph R Biden | Kamala D Harris,494,315,0,0,0,68,111
+Barnwell,BARNWELL 4,President,,DEM,Joseph R Biden | Kamala D Harris,578,366,0,0,0,60,152
+Barnwell,BLACKVILLE 1,President,,DEM,Joseph R Biden | Kamala D Harris,436,196,0,0,0,49,191
+Barnwell,BLACKVILLE 2,President,,DEM,Joseph R Biden | Kamala D Harris,256,103,0,0,0,35,118
+Barnwell,ELKO,President,,DEM,Joseph R Biden | Kamala D Harris,188,76,0,0,0,31,81
+Barnwell,FRIENDSHIP,President,,DEM,Joseph R Biden | Kamala D Harris,38,16,0,0,0,9,13
+Barnwell,KLINE,President,,DEM,Joseph R Biden | Kamala D Harris,168,76,0,0,0,17,75
+Barnwell,HEALING SPRINGS,President,,DEM,Joseph R Biden | Kamala D Harris,454,177,0,0,0,65,212
+Barnwell,HILDA,President,,DEM,Joseph R Biden | Kamala D Harris,66,28,0,0,0,8,30
+Barnwell,SNELLING,President,,DEM,Joseph R Biden | Kamala D Harris,397,211,0,0,0,46,140
+Barnwell,WILLISTON 1,President,,DEM,Joseph R Biden | Kamala D Harris,592,171,0,0,0,155,266
+Barnwell,WILLISTON 2,President,,DEM,Joseph R Biden | Kamala D Harris,131,46,0,0,0,29,56
+Barnwell,WILLISTON 3,President,,DEM,Joseph R Biden | Kamala D Harris,247,76,0,0,0,42,129
+Barnwell,Failsafe,President,,DEM,Joseph R Biden | Kamala D Harris,10,0,0,0,10,0,0
+Barnwell,Provisional,President,,DEM,Joseph R Biden | Kamala D Harris,3,0,0,3,0,0,0
+Barnwell,Failsafe Provisional,President,,DEM,Joseph R Biden | Kamala D Harris,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,U.S. Senate,,CON,Bill Bledsoe,7,3,0,0,0,1,3
+Barnwell,BARNWELL 2,U.S. Senate,,CON,Bill Bledsoe,23,12,0,0,0,1,10
+Barnwell,BARNWELL 3,U.S. Senate,,CON,Bill Bledsoe,16,8,0,0,0,0,8
+Barnwell,BARNWELL 4,U.S. Senate,,CON,Bill Bledsoe,7,3,0,0,0,0,4
+Barnwell,BLACKVILLE 1,U.S. Senate,,CON,Bill Bledsoe,3,0,0,0,0,0,3
+Barnwell,BLACKVILLE 2,U.S. Senate,,CON,Bill Bledsoe,5,3,0,0,0,0,2
+Barnwell,ELKO,U.S. Senate,,CON,Bill Bledsoe,3,0,0,0,0,0,3
+Barnwell,FRIENDSHIP,U.S. Senate,,CON,Bill Bledsoe,9,0,0,0,0,0,9
+Barnwell,KLINE,U.S. Senate,,CON,Bill Bledsoe,5,1,0,0,0,1,3
+Barnwell,HEALING SPRINGS,U.S. Senate,,CON,Bill Bledsoe,9,4,0,0,0,0,5
+Barnwell,HILDA,U.S. Senate,,CON,Bill Bledsoe,7,1,0,0,0,0,6
+Barnwell,SNELLING,U.S. Senate,,CON,Bill Bledsoe,14,4,0,0,0,0,10
+Barnwell,WILLISTON 1,U.S. Senate,,CON,Bill Bledsoe,10,1,0,0,0,0,9
+Barnwell,WILLISTON 2,U.S. Senate,,CON,Bill Bledsoe,8,2,0,0,0,2,4
+Barnwell,WILLISTON 3,U.S. Senate,,CON,Bill Bledsoe,2,0,0,0,0,0,2
+Barnwell,Failsafe,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,U.S. Senate,,REP,Lindsey Graham,216,111,0,0,0,24,81
+Barnwell,BARNWELL 2,U.S. Senate,,REP,Lindsey Graham,665,443,0,0,0,35,187
+Barnwell,BARNWELL 3,U.S. Senate,,REP,Lindsey Graham,725,429,0,0,0,55,241
+Barnwell,BARNWELL 4,U.S. Senate,,REP,Lindsey Graham,381,218,0,0,0,29,134
+Barnwell,BLACKVILLE 1,U.S. Senate,,REP,Lindsey Graham,209,90,0,0,0,15,104
+Barnwell,BLACKVILLE 2,U.S. Senate,,REP,Lindsey Graham,123,50,0,0,0,11,62
+Barnwell,ELKO,U.S. Senate,,REP,Lindsey Graham,243,64,0,0,0,18,161
+Barnwell,FRIENDSHIP,U.S. Senate,,REP,Lindsey Graham,447,123,0,0,0,5,319
+Barnwell,KLINE,U.S. Senate,,REP,Lindsey Graham,230,71,0,0,0,8,151
+Barnwell,HEALING SPRINGS,U.S. Senate,,REP,Lindsey Graham,152,53,0,0,0,7,92
+Barnwell,HILDA,U.S. Senate,,REP,Lindsey Graham,560,160,0,0,0,20,380
+Barnwell,SNELLING,U.S. Senate,,REP,Lindsey Graham,459,155,0,0,0,25,279
+Barnwell,WILLISTON 1,U.S. Senate,,REP,Lindsey Graham,333,88,0,0,0,22,223
+Barnwell,WILLISTON 2,U.S. Senate,,REP,Lindsey Graham,280,84,0,0,0,25,171
+Barnwell,WILLISTON 3,U.S. Senate,,REP,Lindsey Graham,345,116,0,0,0,28,201
+Barnwell,Failsafe,U.S. Senate,,REP,Lindsey Graham,6,0,0,0,6,0,0
+Barnwell,Provisional,U.S. Senate,,REP,Lindsey Graham,4,0,0,4,0,0,0
+Barnwell,Failsafe Provisional,U.S. Senate,,REP,Lindsey Graham,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,U.S. Senate,,DEM,Jaime Harrison,260,165,0,0,0,25,70
+Barnwell,BARNWELL 2,U.S. Senate,,DEM,Jaime Harrison,419,242,0,0,0,67,110
+Barnwell,BARNWELL 3,U.S. Senate,,DEM,Jaime Harrison,492,310,0,0,0,67,115
+Barnwell,BARNWELL 4,U.S. Senate,,DEM,Jaime Harrison,586,366,0,0,0,61,159
+Barnwell,BLACKVILLE 1,U.S. Senate,,DEM,Jaime Harrison,435,194,0,0,0,48,193
+Barnwell,BLACKVILLE 2,U.S. Senate,,DEM,Jaime Harrison,270,105,0,0,0,33,132
+Barnwell,ELKO,U.S. Senate,,DEM,Jaime Harrison,191,79,0,0,0,30,82
+Barnwell,FRIENDSHIP,U.S. Senate,,DEM,Jaime Harrison,38,16,0,0,0,9,13
+Barnwell,KLINE,U.S. Senate,,DEM,Jaime Harrison,175,75,0,0,0,18,82
+Barnwell,HEALING SPRINGS,U.S. Senate,,DEM,Jaime Harrison,462,181,0,0,0,66,215
+Barnwell,HILDA,U.S. Senate,,DEM,Jaime Harrison,78,29,0,0,0,9,40
+Barnwell,SNELLING,U.S. Senate,,DEM,Jaime Harrison,401,211,0,0,0,46,144
+Barnwell,WILLISTON 1,U.S. Senate,,DEM,Jaime Harrison,597,173,0,0,0,153,271
+Barnwell,WILLISTON 2,U.S. Senate,,DEM,Jaime Harrison,136,47,0,0,0,29,60
+Barnwell,WILLISTON 3,U.S. Senate,,DEM,Jaime Harrison,251,79,0,0,0,42,130
+Barnwell,Failsafe,U.S. Senate,,DEM,Jaime Harrison,12,0,0,0,12,0,0
+Barnwell,Provisional,U.S. Senate,,DEM,Jaime Harrison,3,0,0,3,0,0,0
+Barnwell,Failsafe Provisional,U.S. Senate,,DEM,Jaime Harrison,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Barnwell,BARNWELL 2,U.S. Senate,,NON,Write-In,2,0,0,0,0,0,2
+Barnwell,BARNWELL 3,U.S. Senate,,NON,Write-In,2,0,0,0,0,2,0
+Barnwell,BARNWELL 4,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 1,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 2,U.S. Senate,,NON,Write-In,1,0,0,0,0,1,0
+Barnwell,ELKO,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,FRIENDSHIP,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,KLINE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,HEALING SPRINGS,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,HILDA,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Barnwell,SNELLING,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,WILLISTON 1,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Barnwell,WILLISTON 2,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,WILLISTON 3,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,U.S. House,2,CON,Kathleen K Wright,6,3,0,0,0,1,2
+Barnwell,BARNWELL 2,U.S. House,2,CON,Kathleen K Wright,16,7,0,0,0,0,9
+Barnwell,BARNWELL 3,U.S. House,2,CON,Kathleen K Wright,14,7,0,0,0,0,7
+Barnwell,BARNWELL 4,U.S. House,2,CON,Kathleen K Wright,11,6,0,0,0,0,5
+Barnwell,BLACKVILLE 1,U.S. House,2,CON,Kathleen K Wright,1,1,0,0,0,0,0
+Barnwell,BLACKVILLE 2,U.S. House,2,CON,Kathleen K Wright,4,1,0,0,0,2,1
+Barnwell,ELKO,U.S. House,2,CON,Kathleen K Wright,3,1,0,0,0,0,2
+Barnwell,FRIENDSHIP,U.S. House,2,CON,Kathleen K Wright,1,0,0,0,0,0,1
+Barnwell,KLINE,U.S. House,2,CON,Kathleen K Wright,9,3,0,0,0,1,5
+Barnwell,HEALING SPRINGS,U.S. House,2,CON,Kathleen K Wright,4,1,0,0,0,1,2
+Barnwell,HILDA,U.S. House,2,CON,Kathleen K Wright,5,1,0,0,0,1,3
+Barnwell,SNELLING,U.S. House,2,CON,Kathleen K Wright,19,6,0,0,0,1,12
+Barnwell,WILLISTON 1,U.S. House,2,CON,Kathleen K Wright,13,4,0,0,0,1,8
+Barnwell,WILLISTON 2,U.S. House,2,CON,Kathleen K Wright,8,1,0,0,0,1,6
+Barnwell,WILLISTON 3,U.S. House,2,CON,Kathleen K Wright,2,0,0,0,0,1,1
+Barnwell,Failsafe,U.S. House,2,CON,Kathleen K Wright,1,0,0,0,1,0,0
+Barnwell,Provisional,U.S. House,2,CON,Kathleen K Wright,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. House,2,CON,Kathleen K Wright,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,U.S. House,2,REP,Joe Wilson,217,111,0,0,0,24,82
+Barnwell,BARNWELL 2,U.S. House,2,REP,Joe Wilson,674,445,0,0,0,35,194
+Barnwell,BARNWELL 3,U.S. House,2,REP,Joe Wilson,735,434,0,0,0,59,242
+Barnwell,BARNWELL 4,U.S. House,2,REP,Joe Wilson,390,226,0,0,0,28,136
+Barnwell,BLACKVILLE 1,U.S. House,2,REP,Joe Wilson,213,89,0,0,0,16,108
+Barnwell,BLACKVILLE 2,U.S. House,2,REP,Joe Wilson,131,54,0,0,0,9,68
+Barnwell,ELKO,U.S. House,2,REP,Joe Wilson,237,58,0,0,0,20,159
+Barnwell,FRIENDSHIP,U.S. House,2,REP,Joe Wilson,449,121,0,0,0,5,323
+Barnwell,KLINE,U.S. House,2,REP,Joe Wilson,233,71,0,0,0,9,153
+Barnwell,HEALING SPRINGS,U.S. House,2,REP,Joe Wilson,168,56,0,0,0,8,104
+Barnwell,HILDA,U.S. House,2,REP,Joe Wilson,566,158,0,0,0,20,388
+Barnwell,SNELLING,U.S. House,2,REP,Joe Wilson,459,157,0,0,0,23,279
+Barnwell,WILLISTON 1,U.S. House,2,REP,Joe Wilson,310,80,0,0,0,19,211
+Barnwell,WILLISTON 2,U.S. House,2,REP,Joe Wilson,265,80,0,0,0,23,162
+Barnwell,WILLISTON 3,U.S. House,2,REP,Joe Wilson,327,111,0,0,0,27,189
+Barnwell,Failsafe,U.S. House,2,REP,Joe Wilson,8,0,0,0,8,0,0
+Barnwell,Provisional,U.S. House,2,REP,Joe Wilson,4,0,0,4,0,0,0
+Barnwell,Failsafe Provisional,U.S. House,2,REP,Joe Wilson,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,U.S. House,2,DEM,Adair Ford Boroughs,262,166,0,0,0,24,72
+Barnwell,BARNWELL 2,U.S. House,2,DEM,Adair Ford Boroughs,414,242,0,0,0,67,105
+Barnwell,BARNWELL 3,U.S. House,2,DEM,Adair Ford Boroughs,483,304,0,0,0,65,114
+Barnwell,BARNWELL 4,U.S. House,2,DEM,Adair Ford Boroughs,564,351,0,0,0,62,151
+Barnwell,BLACKVILLE 1,U.S. House,2,DEM,Adair Ford Boroughs,436,195,0,0,0,47,194
+Barnwell,BLACKVILLE 2,U.S. House,2,DEM,Adair Ford Boroughs,265,103,0,0,0,34,128
+Barnwell,ELKO,U.S. House,2,DEM,Adair Ford Boroughs,197,82,0,0,0,29,86
+Barnwell,FRIENDSHIP,U.S. House,2,DEM,Adair Ford Boroughs,44,18,0,0,0,9,17
+Barnwell,KLINE,U.S. House,2,DEM,Adair Ford Boroughs,168,73,0,0,0,17,78
+Barnwell,HEALING SPRINGS,U.S. House,2,DEM,Adair Ford Boroughs,455,181,0,0,0,65,209
+Barnwell,HILDA,U.S. House,2,DEM,Adair Ford Boroughs,73,31,0,0,0,7,35
+Barnwell,SNELLING,U.S. House,2,DEM,Adair Ford Boroughs,397,208,0,0,0,47,142
+Barnwell,WILLISTON 1,U.S. House,2,DEM,Adair Ford Boroughs,620,177,0,0,0,156,287
+Barnwell,WILLISTON 2,U.S. House,2,DEM,Adair Ford Boroughs,149,51,0,0,0,32,66
+Barnwell,WILLISTON 3,U.S. House,2,DEM,Adair Ford Boroughs,269,84,0,0,0,42,143
+Barnwell,Failsafe,U.S. House,2,DEM,Adair Ford Boroughs,9,0,0,0,9,0,0
+Barnwell,Provisional,U.S. House,2,DEM,Adair Ford Boroughs,2,0,0,2,0,0,0
+Barnwell,Failsafe Provisional,U.S. House,2,DEM,Adair Ford Boroughs,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 2,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 3,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 4,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 1,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 2,U.S. House,2,NON,Write-In,1,0,0,0,0,1,0
+Barnwell,ELKO,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,FRIENDSHIP,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,KLINE,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,HEALING SPRINGS,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,HILDA,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,SNELLING,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,WILLISTON 1,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,WILLISTON 2,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,WILLISTON 3,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. House,2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,State Senate,40,DEM,Brad Hutto,372,216,0,0,0,34,122
+Barnwell,BARNWELL 2,State Senate,40,DEM,Brad Hutto,722,437,0,0,0,75,210
+Barnwell,BARNWELL 3,State Senate,40,DEM,Brad Hutto,830,496,0,0,0,83,251
+Barnwell,BARNWELL 4,State Senate,40,DEM,Brad Hutto,742,450,0,0,0,71,221
+Barnwell,BLACKVILLE 1,State Senate,40,DEM,Brad Hutto,511,229,0,0,0,49,233
+Barnwell,BLACKVILLE 2,State Senate,40,DEM,Brad Hutto,320,125,0,0,0,35,160
+Barnwell,ELKO,State Senate,40,DEM,Brad Hutto,293,104,0,0,0,32,157
+Barnwell,FRIENDSHIP,State Senate,40,DEM,Brad Hutto,234,67,0,0,0,9,158
+Barnwell,KLINE,State Senate,40,DEM,Brad Hutto,265,103,0,0,0,20,142
+Barnwell,HEALING SPRINGS,State Senate,40,DEM,Brad Hutto,511,195,0,0,0,64,252
+Barnwell,HILDA,State Senate,40,DEM,Brad Hutto,313,90,0,0,0,12,211
+Barnwell,SNELLING,State Senate,40,DEM,Brad Hutto,617,267,0,0,0,53,297
+Barnwell,WILLISTON 1,State Senate,40,DEM,Brad Hutto,754,217,0,0,0,161,376
+Barnwell,WILLISTON 2,State Senate,40,DEM,Brad Hutto,261,80,0,0,0,39,142
+Barnwell,WILLISTON 3,State Senate,40,DEM,Brad Hutto,396,122,0,0,0,51,223
+Barnwell,Failsafe,State Senate,40,DEM,Brad Hutto,13,0,0,0,13,0,0
+Barnwell,Provisional,State Senate,40,DEM,Brad Hutto,6,0,0,6,0,0,0
+Barnwell,Failsafe Provisional,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,State Senate,40,NON,Write-In,7,3,0,0,0,1,3
+Barnwell,BARNWELL 2,State Senate,40,NON,Write-In,24,18,0,0,0,0,6
+Barnwell,BARNWELL 3,State Senate,40,NON,Write-In,31,19,0,0,0,2,10
+Barnwell,BARNWELL 4,State Senate,40,NON,Write-In,18,8,0,0,0,2,8
+Barnwell,BLACKVILLE 1,State Senate,40,NON,Write-In,9,3,0,0,0,0,6
+Barnwell,BLACKVILLE 2,State Senate,40,NON,Write-In,8,1,0,0,0,1,6
+Barnwell,ELKO,State Senate,40,NON,Write-In,15,4,0,0,0,0,11
+Barnwell,FRIENDSHIP,State Senate,40,NON,Write-In,11,0,0,0,0,0,11
+Barnwell,KLINE,State Senate,40,NON,Write-In,6,0,0,0,0,0,6
+Barnwell,HEALING SPRINGS,State Senate,40,NON,Write-In,8,2,0,0,0,1,5
+Barnwell,HILDA,State Senate,40,NON,Write-In,16,3,0,0,0,1,12
+Barnwell,SNELLING,State Senate,40,NON,Write-In,19,2,0,0,0,0,17
+Barnwell,WILLISTON 1,State Senate,40,NON,Write-In,16,2,0,0,0,2,12
+Barnwell,WILLISTON 2,State Senate,40,NON,Write-In,15,4,0,0,0,1,10
+Barnwell,WILLISTON 3,State Senate,40,NON,Write-In,13,3,0,0,0,2,8
+Barnwell,Failsafe,State Senate,40,NON,Write-In,1,0,0,0,1,0,0
+Barnwell,Provisional,State Senate,40,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,State Senate,40,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 3,State House of Representatives,90,REP,Glenn Posey,89,54,0,0,0,7,28
+Barnwell,BLACKVILLE 1,State House of Representatives,90,REP,Glenn Posey,14,5,0,0,0,0,9
+Barnwell,BLACKVILLE 2,State House of Representatives,90,REP,Glenn Posey,33,21,0,0,0,2,10
+Barnwell,FRIENDSHIP,State House of Representatives,90,REP,Glenn Posey,442,119,0,0,0,5,318
+Barnwell,KLINE,State House of Representatives,90,REP,Glenn Posey,113,40,0,0,0,5,68
+Barnwell,HILDA,State House of Representatives,90,REP,Glenn Posey,542,151,0,0,0,20,371
+Barnwell,Failsafe,State House of Representatives,90,REP,Glenn Posey,3,0,0,0,3,0,0
+Barnwell,Provisional,State House of Representatives,90,REP,Glenn Posey,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,State House of Representatives,90,REP,Glenn Posey,0,0,0,0,0,0,0
+Barnwell,BARNWELL 3,State House of Representatives,90,DEM,Justin Bamberg,7,4,0,0,0,2,1
+Barnwell,BLACKVILLE 1,State House of Representatives,90,DEM,Justin Bamberg,8,4,0,0,0,2,2
+Barnwell,BLACKVILLE 2,State House of Representatives,90,DEM,Justin Bamberg,29,16,0,0,0,1,12
+Barnwell,FRIENDSHIP,State House of Representatives,90,DEM,Justin Bamberg,49,20,0,0,0,9,20
+Barnwell,KLINE,State House of Representatives,90,DEM,Justin Bamberg,79,28,0,0,0,9,42
+Barnwell,HILDA,State House of Representatives,90,DEM,Justin Bamberg,101,36,0,0,0,10,55
+Barnwell,Failsafe,State House of Representatives,90,DEM,Justin Bamberg,0,0,0,0,0,0,0
+Barnwell,Provisional,State House of Representatives,90,DEM,Justin Bamberg,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,State House of Representatives,90,DEM,Justin Bamberg,0,0,0,0,0,0,0
+Barnwell,BARNWELL 3,State House of Representatives,90,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 1,State House of Representatives,90,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 2,State House of Representatives,90,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,FRIENDSHIP,State House of Representatives,90,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,KLINE,State House of Representatives,90,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,HILDA,State House of Representatives,90,NON,Write-In,1,1,0,0,0,0,0
+Barnwell,Failsafe,State House of Representatives,90,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Provisional,State House of Representatives,90,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,State House of Representatives,90,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,State House of Representatives,91,DEM,Lonnie Hosey,365,215,0,0,0,32,118
+Barnwell,BARNWELL 2,State House of Representatives,91,DEM,Lonnie Hosey,696,420,0,0,0,72,204
+Barnwell,BARNWELL 3,State House of Representatives,91,DEM,Lonnie Hosey,792,473,0,0,0,81,238
+Barnwell,BARNWELL 4,State House of Representatives,91,DEM,Lonnie Hosey,763,457,0,0,0,75,231
+Barnwell,BLACKVILLE 1,State House of Representatives,91,DEM,Lonnie Hosey,498,220,0,0,0,51,227
+Barnwell,BLACKVILLE 2,State House of Representatives,91,DEM,Lonnie Hosey,280,100,0,0,0,36,144
+Barnwell,ELKO,State House of Representatives,91,DEM,Lonnie Hosey,294,103,0,0,0,35,156
+Barnwell,KLINE,State House of Representatives,91,DEM,Lonnie Hosey,149,60,0,0,0,11,78
+Barnwell,HEALING SPRINGS,State House of Representatives,91,DEM,Lonnie Hosey,514,197,0,0,0,67,250
+Barnwell,SNELLING,State House of Representatives,91,DEM,Lonnie Hosey,618,268,0,0,0,57,293
+Barnwell,WILLISTON 1,State House of Representatives,91,DEM,Lonnie Hosey,761,220,0,0,0,163,378
+Barnwell,WILLISTON 2,State House of Representatives,91,DEM,Lonnie Hosey,263,85,0,0,0,38,140
+Barnwell,WILLISTON 3,State House of Representatives,91,DEM,Lonnie Hosey,385,117,0,0,0,53,215
+Barnwell,Failsafe,State House of Representatives,91,DEM,Lonnie Hosey,13,0,0,0,13,0,0
+Barnwell,Provisional,State House of Representatives,91,DEM,Lonnie Hosey,3,0,0,3,0,0,0
+Barnwell,Failsafe Provisional,State House of Representatives,91,DEM,Lonnie Hosey,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,State House of Representatives,91,NON,Write-In,6,2,0,0,0,1,3
+Barnwell,BARNWELL 2,State House of Representatives,91,NON,Write-In,30,20,0,0,0,1,9
+Barnwell,BARNWELL 3,State House of Representatives,91,NON,Write-In,25,15,0,0,0,3,7
+Barnwell,BARNWELL 4,State House of Representatives,91,NON,Write-In,13,6,0,0,0,1,6
+Barnwell,BLACKVILLE 1,State House of Representatives,91,NON,Write-In,7,2,0,0,0,0,5
+Barnwell,BLACKVILLE 2,State House of Representatives,91,NON,Write-In,5,0,0,0,0,1,4
+Barnwell,ELKO,State House of Representatives,91,NON,Write-In,14,5,0,0,0,0,9
+Barnwell,KLINE,State House of Representatives,91,NON,Write-In,2,0,0,0,0,1,1
+Barnwell,HEALING SPRINGS,State House of Representatives,91,NON,Write-In,7,1,0,0,0,0,6
+Barnwell,SNELLING,State House of Representatives,91,NON,Write-In,24,1,0,0,0,1,22
+Barnwell,WILLISTON 1,State House of Representatives,91,NON,Write-In,14,2,0,0,0,1,11
+Barnwell,WILLISTON 2,State House of Representatives,91,NON,Write-In,15,3,0,0,0,1,11
+Barnwell,WILLISTON 3,State House of Representatives,91,NON,Write-In,8,2,0,0,0,1,5
+Barnwell,Failsafe,State House of Representatives,91,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Provisional,State House of Representatives,91,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,State House of Representatives,91,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,Solicitor, Circuit  2,REP,Bill Weeks,281,140,0,0,0,33,108
+Barnwell,BARNWELL 2,Solicitor, Circuit  2,REP,Bill Weeks,806,511,0,0,0,51,244
+Barnwell,BARNWELL 3,Solicitor, Circuit  2,REP,Bill Weeks,883,526,0,0,0,70,287
+Barnwell,BARNWELL 4,Solicitor, Circuit  2,REP,Bill Weeks,542,312,0,0,0,42,188
+Barnwell,BLACKVILLE 1,Solicitor, Circuit  2,REP,Bill Weeks,291,125,0,0,0,20,146
+Barnwell,BLACKVILLE 2,Solicitor, Circuit  2,REP,Bill Weeks,193,76,0,0,0,18,99
+Barnwell,ELKO,Solicitor, Circuit  2,REP,Bill Weeks,286,81,0,0,0,24,181
+Barnwell,FRIENDSHIP,Solicitor, Circuit  2,REP,Bill Weeks,469,131,0,0,0,6,332
+Barnwell,KLINE,Solicitor, Circuit  2,REP,Bill Weeks,279,86,0,0,0,11,182
+Barnwell,HEALING SPRINGS,Solicitor, Circuit  2,REP,Bill Weeks,253,80,0,0,0,23,150
+Barnwell,HILDA,Solicitor, Circuit  2,REP,Bill Weeks,600,169,0,0,0,22,409
+Barnwell,SNELLING,Solicitor, Circuit  2,REP,Bill Weeks,582,207,0,0,0,32,343
+Barnwell,WILLISTON 1,Solicitor, Circuit  2,REP,Bill Weeks,451,121,0,0,0,34,296
+Barnwell,WILLISTON 2,Solicitor, Circuit  2,REP,Bill Weeks,324,98,0,0,0,28,198
+Barnwell,WILLISTON 3,Solicitor, Circuit  2,REP,Bill Weeks,410,138,0,0,0,31,241
+Barnwell,Failsafe,Solicitor, Circuit  2,REP,Bill Weeks,13,0,0,0,13,0,0
+Barnwell,Provisional,Solicitor, Circuit  2,REP,Bill Weeks,4,0,0,4,0,0,0
+Barnwell,Failsafe Provisional,Solicitor, Circuit  2,REP,Bill Weeks,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,Solicitor, Circuit  2,NON,Write-In,8,4,0,0,0,1,3
+Barnwell,BARNWELL 2,Solicitor, Circuit  2,NON,Write-In,13,7,0,0,0,0,6
+Barnwell,BARNWELL 3,Solicitor, Circuit  2,NON,Write-In,12,7,0,0,0,1,4
+Barnwell,BARNWELL 4,Solicitor, Circuit  2,NON,Write-In,17,10,0,0,0,2,5
+Barnwell,BLACKVILLE 1,Solicitor, Circuit  2,NON,Write-In,12,6,0,0,0,0,6
+Barnwell,BLACKVILLE 2,Solicitor, Circuit  2,NON,Write-In,7,4,0,0,0,0,3
+Barnwell,ELKO,Solicitor, Circuit  2,NON,Write-In,4,1,0,0,0,0,3
+Barnwell,FRIENDSHIP,Solicitor, Circuit  2,NON,Write-In,2,1,0,0,0,0,1
+Barnwell,KLINE,Solicitor, Circuit  2,NON,Write-In,4,1,0,0,0,0,3
+Barnwell,HEALING SPRINGS,Solicitor, Circuit  2,NON,Write-In,14,6,0,0,0,2,6
+Barnwell,HILDA,Solicitor, Circuit  2,NON,Write-In,6,3,0,0,0,1,2
+Barnwell,SNELLING,Solicitor, Circuit  2,NON,Write-In,13,7,0,0,0,2,4
+Barnwell,WILLISTON 1,Solicitor, Circuit  2,NON,Write-In,18,8,0,0,0,3,7
+Barnwell,WILLISTON 2,Solicitor, Circuit  2,NON,Write-In,7,2,0,0,0,1,4
+Barnwell,WILLISTON 3,Solicitor, Circuit  2,NON,Write-In,5,2,0,0,0,0,3
+Barnwell,Failsafe,Solicitor, Circuit  2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Provisional,Solicitor, Circuit  2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Solicitor, Circuit  2,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,Sheriff,,REP,Steven Grits Griffith,242,130,0,0,0,28,84
+Barnwell,BARNWELL 2,Sheriff,,REP,Steven Grits Griffith,719,466,0,0,0,48,205
+Barnwell,BARNWELL 3,Sheriff,,REP,Steven Grits Griffith,780,459,0,0,0,62,259
+Barnwell,BARNWELL 4,Sheriff,,REP,Steven Grits Griffith,427,248,0,0,0,32,147
+Barnwell,BLACKVILLE 1,Sheriff,,REP,Steven Grits Griffith,212,90,0,0,0,17,105
+Barnwell,BLACKVILLE 2,Sheriff,,REP,Steven Grits Griffith,130,55,0,0,0,12,63
+Barnwell,ELKO,Sheriff,,REP,Steven Grits Griffith,220,61,0,0,0,16,143
+Barnwell,FRIENDSHIP,Sheriff,,REP,Steven Grits Griffith,428,122,0,0,0,7,299
+Barnwell,KLINE,Sheriff,,REP,Steven Grits Griffith,248,79,0,0,0,8,161
+Barnwell,HEALING SPRINGS,Sheriff,,REP,Steven Grits Griffith,176,59,0,0,0,15,102
+Barnwell,HILDA,Sheriff,,REP,Steven Grits Griffith,562,163,0,0,0,22,377
+Barnwell,SNELLING,Sheriff,,REP,Steven Grits Griffith,492,174,0,0,0,28,290
+Barnwell,WILLISTON 1,Sheriff,,REP,Steven Grits Griffith,335,90,0,0,0,22,223
+Barnwell,WILLISTON 2,Sheriff,,REP,Steven Grits Griffith,272,82,0,0,0,28,162
+Barnwell,WILLISTON 3,Sheriff,,REP,Steven Grits Griffith,338,120,0,0,0,28,190
+Barnwell,Failsafe,Sheriff,,REP,Steven Grits Griffith,8,0,0,0,8,0,0
+Barnwell,Provisional,Sheriff,,REP,Steven Grits Griffith,4,0,0,4,0,0,0
+Barnwell,Failsafe Provisional,Sheriff,,REP,Steven Grits Griffith,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,Sheriff,,DEM,John Trottie,242,149,0,0,0,21,72
+Barnwell,BARNWELL 2,Sheriff,,DEM,John Trottie,389,232,0,0,0,55,102
+Barnwell,BARNWELL 3,Sheriff,,DEM,John Trottie,451,288,0,0,0,60,103
+Barnwell,BARNWELL 4,Sheriff,,DEM,John Trottie,536,334,0,0,0,56,146
+Barnwell,BLACKVILLE 1,Sheriff,,DEM,John Trottie,437,195,0,0,0,45,197
+Barnwell,BLACKVILLE 2,Sheriff,,DEM,John Trottie,268,102,0,0,0,33,133
+Barnwell,ELKO,Sheriff,,DEM,John Trottie,217,82,0,0,0,32,103
+Barnwell,FRIENDSHIP,Sheriff,,DEM,John Trottie,65,16,0,0,0,7,42
+Barnwell,KLINE,Sheriff,,DEM,John Trottie,161,66,0,0,0,19,76
+Barnwell,HEALING SPRINGS,Sheriff,,DEM,John Trottie,446,178,0,0,0,58,210
+Barnwell,HILDA,Sheriff,,DEM,John Trottie,85,28,0,0,0,8,49
+Barnwell,SNELLING,Sheriff,,DEM,John Trottie,385,197,0,0,0,43,145
+Barnwell,WILLISTON 1,Sheriff,,DEM,John Trottie,609,174,0,0,0,153,282
+Barnwell,WILLISTON 2,Sheriff,,DEM,John Trottie,153,52,0,0,0,28,73
+Barnwell,WILLISTON 3,Sheriff,,DEM,John Trottie,258,74,0,0,0,42,142
+Barnwell,Failsafe,Sheriff,,DEM,John Trottie,10,0,0,0,10,0,0
+Barnwell,Provisional,Sheriff,,DEM,John Trottie,3,0,0,3,0,0,0
+Barnwell,Failsafe Provisional,Sheriff,,DEM,John Trottie,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,Sheriff,,NON,Write-In,2,2,0,0,0,0,0
+Barnwell,BARNWELL 2,Sheriff,,NON,Write-In,1,1,0,0,0,0,0
+Barnwell,BARNWELL 3,Sheriff,,NON,Write-In,1,1,0,0,0,0,0
+Barnwell,BARNWELL 4,Sheriff,,NON,Write-In,1,0,0,0,0,0,1
+Barnwell,BLACKVILLE 1,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 2,Sheriff,,NON,Write-In,1,0,0,0,0,1,0
+Barnwell,ELKO,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,FRIENDSHIP,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,KLINE,Sheriff,,NON,Write-In,1,1,0,0,0,0,0
+Barnwell,HEALING SPRINGS,Sheriff,,NON,Write-In,2,1,0,0,0,1,0
+Barnwell,HILDA,Sheriff,,NON,Write-In,1,0,0,0,0,0,1
+Barnwell,SNELLING,Sheriff,,NON,Write-In,1,0,0,0,0,0,1
+Barnwell,WILLISTON 1,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,WILLISTON 2,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,WILLISTON 3,Sheriff,,NON,Write-In,1,1,0,0,0,0,0
+Barnwell,Failsafe,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Provisional,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,Clerk of Court,,DEM,Rhonda D McElveen,377,221,0,0,0,33,123
+Barnwell,BARNWELL 2,Clerk of Court,,DEM,Rhonda D McElveen,744,451,0,0,0,76,217
+Barnwell,BARNWELL 3,Clerk of Court,,DEM,Rhonda D McElveen,878,526,0,0,0,92,260
+Barnwell,BARNWELL 4,Clerk of Court,,DEM,Rhonda D McElveen,776,465,0,0,0,76,235
+Barnwell,BLACKVILLE 1,Clerk of Court,,DEM,Rhonda D McElveen,521,231,0,0,0,54,236
+Barnwell,BLACKVILLE 2,Clerk of Court,,DEM,Rhonda D McElveen,331,129,0,0,0,39,163
+Barnwell,ELKO,Clerk of Court,,DEM,Rhonda D McElveen,305,108,0,0,0,35,162
+Barnwell,FRIENDSHIP,Clerk of Court,,DEM,Rhonda D McElveen,260,73,0,0,0,10,177
+Barnwell,KLINE,Clerk of Court,,DEM,Rhonda D McElveen,276,109,0,0,0,21,146
+Barnwell,HEALING SPRINGS,Clerk of Court,,DEM,Rhonda D McElveen,512,192,0,0,0,68,252
+Barnwell,HILDA,Clerk of Court,,DEM,Rhonda D McElveen,327,96,0,0,0,14,217
+Barnwell,SNELLING,Clerk of Court,,DEM,Rhonda D McElveen,641,274,0,0,0,59,308
+Barnwell,WILLISTON 1,Clerk of Court,,DEM,Rhonda D McElveen,778,222,0,0,0,164,392
+Barnwell,WILLISTON 2,Clerk of Court,,DEM,Rhonda D McElveen,283,84,0,0,0,42,157
+Barnwell,WILLISTON 3,Clerk of Court,,DEM,Rhonda D McElveen,402,125,0,0,0,54,223
+Barnwell,Failsafe,Clerk of Court,,DEM,Rhonda D McElveen,13,0,0,0,13,0,0
+Barnwell,Provisional,Clerk of Court,,DEM,Rhonda D McElveen,7,0,0,7,0,0,0
+Barnwell,Failsafe Provisional,Clerk of Court,,DEM,Rhonda D McElveen,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,Clerk of Court,,NON,Write-In,7,5,0,0,0,1,1
+Barnwell,BARNWELL 2,Clerk of Court,,NON,Write-In,20,14,0,0,0,0,6
+Barnwell,BARNWELL 3,Clerk of Court,,NON,Write-In,20,11,0,0,0,2,7
+Barnwell,BARNWELL 4,Clerk of Court,,NON,Write-In,4,1,0,0,0,1,2
+Barnwell,BLACKVILLE 1,Clerk of Court,,NON,Write-In,4,0,0,0,0,0,4
+Barnwell,BLACKVILLE 2,Clerk of Court,,NON,Write-In,4,0,0,0,0,1,3
+Barnwell,ELKO,Clerk of Court,,NON,Write-In,5,2,0,0,0,0,3
+Barnwell,FRIENDSHIP,Clerk of Court,,NON,Write-In,9,0,0,0,0,0,9
+Barnwell,KLINE,Clerk of Court,,NON,Write-In,3,0,0,0,0,0,3
+Barnwell,HEALING SPRINGS,Clerk of Court,,NON,Write-In,7,1,0,0,0,0,6
+Barnwell,HILDA,Clerk of Court,,NON,Write-In,15,3,0,0,0,0,12
+Barnwell,SNELLING,Clerk of Court,,NON,Write-In,15,2,0,0,0,0,13
+Barnwell,WILLISTON 1,Clerk of Court,,NON,Write-In,11,2,0,0,0,1,8
+Barnwell,WILLISTON 2,Clerk of Court,,NON,Write-In,8,2,0,0,0,0,6
+Barnwell,WILLISTON 3,Clerk of Court,,NON,Write-In,8,1,0,0,0,2,5
+Barnwell,Failsafe,Clerk of Court,,NON,Write-In,1,0,0,0,1,0,0
+Barnwell,Provisional,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,Coroner,,REP,Denise Gibson,243,126,0,0,0,29,88
+Barnwell,BARNWELL 2,Coroner,,REP,Denise Gibson,714,464,0,0,0,46,204
+Barnwell,BARNWELL 3,Coroner,,REP,Denise Gibson,772,458,0,0,0,62,252
+Barnwell,BARNWELL 4,Coroner,,REP,Denise Gibson,414,239,0,0,0,32,143
+Barnwell,BLACKVILLE 1,Coroner,,REP,Denise Gibson,218,94,0,0,0,17,107
+Barnwell,BLACKVILLE 2,Coroner,,REP,Denise Gibson,135,57,0,0,0,13,65
+Barnwell,ELKO,Coroner,,REP,Denise Gibson,252,66,0,0,0,19,167
+Barnwell,FRIENDSHIP,Coroner,,REP,Denise Gibson,451,125,0,0,0,6,320
+Barnwell,KLINE,Coroner,,REP,Denise Gibson,246,77,0,0,0,10,159
+Barnwell,HEALING SPRINGS,Coroner,,REP,Denise Gibson,173,60,0,0,0,13,100
+Barnwell,HILDA,Coroner,,REP,Denise Gibson,579,166,0,0,0,22,391
+Barnwell,SNELLING,Coroner,,REP,Denise Gibson,476,158,0,0,0,25,293
+Barnwell,WILLISTON 1,Coroner,,REP,Denise Gibson,350,90,0,0,0,24,236
+Barnwell,WILLISTON 2,Coroner,,REP,Denise Gibson,298,93,0,0,0,26,179
+Barnwell,WILLISTON 3,Coroner,,REP,Denise Gibson,357,122,0,0,0,30,205
+Barnwell,Failsafe,Coroner,,REP,Denise Gibson,8,0,0,0,8,0,0
+Barnwell,Provisional,Coroner,,REP,Denise Gibson,3,0,0,3,0,0,0
+Barnwell,Failsafe Provisional,Coroner,,REP,Denise Gibson,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,Coroner,,DEM,Rodney Brown,228,145,0,0,0,19,64
+Barnwell,BARNWELL 2,Coroner,,DEM,Rodney Brown,363,214,0,0,0,56,93
+Barnwell,BARNWELL 3,Coroner,,DEM,Rodney Brown,425,274,0,0,0,59,92
+Barnwell,BARNWELL 4,Coroner,,DEM,Rodney Brown,507,313,0,0,0,54,140
+Barnwell,BLACKVILLE 1,Coroner,,DEM,Rodney Brown,406,180,0,0,0,43,183
+Barnwell,BLACKVILLE 2,Coroner,,DEM,Rodney Brown,242,89,0,0,0,31,122
+Barnwell,ELKO,Coroner,,DEM,Rodney Brown,176,74,0,0,0,29,73
+Barnwell,FRIENDSHIP,Coroner,,DEM,Rodney Brown,38,14,0,0,0,7,17
+Barnwell,KLINE,Coroner,,DEM,Rodney Brown,152,64,0,0,0,17,71
+Barnwell,HEALING SPRINGS,Coroner,,DEM,Rodney Brown,423,168,0,0,0,58,197
+Barnwell,HILDA,Coroner,,DEM,Rodney Brown,64,25,0,0,0,7,32
+Barnwell,SNELLING,Coroner,,DEM,Rodney Brown,373,203,0,0,0,40,130
+Barnwell,WILLISTON 1,Coroner,,DEM,Rodney Brown,585,168,0,0,0,151,266
+Barnwell,WILLISTON 2,Coroner,,DEM,Rodney Brown,123,39,0,0,0,29,55
+Barnwell,WILLISTON 3,Coroner,,DEM,Rodney Brown,230,69,0,0,0,39,122
+Barnwell,Failsafe,Coroner,,DEM,Rodney Brown,10,0,0,0,10,0,0
+Barnwell,Provisional,Coroner,,DEM,Rodney Brown,4,0,0,4,0,0,0
+Barnwell,Failsafe Provisional,Coroner,,DEM,Rodney Brown,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,Coroner,,NON,Write-In,13,9,0,0,0,1,3
+Barnwell,BARNWELL 2,Coroner,,NON,Write-In,24,16,0,0,0,0,8
+Barnwell,BARNWELL 3,Coroner,,NON,Write-In,35,15,0,0,0,1,19
+Barnwell,BARNWELL 4,Coroner,,NON,Write-In,47,29,0,0,0,3,15
+Barnwell,BLACKVILLE 1,Coroner,,NON,Write-In,23,9,0,0,0,2,12
+Barnwell,BLACKVILLE 2,Coroner,,NON,Write-In,20,12,0,0,0,1,7
+Barnwell,ELKO,Coroner,,NON,Write-In,8,2,0,0,0,0,6
+Barnwell,FRIENDSHIP,Coroner,,NON,Write-In,1,0,0,0,0,0,1
+Barnwell,KLINE,Coroner,,NON,Write-In,9,4,0,0,0,0,5
+Barnwell,HEALING SPRINGS,Coroner,,NON,Write-In,24,7,0,0,0,1,16
+Barnwell,HILDA,Coroner,,NON,Write-In,1,0,0,0,0,0,1
+Barnwell,SNELLING,Coroner,,NON,Write-In,25,11,0,0,0,3,11
+Barnwell,WILLISTON 1,Coroner,,NON,Write-In,12,5,0,0,0,1,6
+Barnwell,WILLISTON 2,Coroner,,NON,Write-In,2,1,0,0,0,0,1
+Barnwell,WILLISTON 3,Coroner,,NON,Write-In,10,4,0,0,0,0,6
+Barnwell,Failsafe,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Provisional,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,County Treasurer,,REP,Sandy Cochran,287,141,0,0,0,36,110
+Barnwell,BARNWELL 2,County Treasurer,,REP,Sandy Cochran,807,514,0,0,0,54,239
+Barnwell,BARNWELL 3,County Treasurer,,REP,Sandy Cochran,887,525,0,0,0,67,295
+Barnwell,BARNWELL 4,County Treasurer,,REP,Sandy Cochran,565,322,0,0,0,46,197
+Barnwell,BLACKVILLE 1,County Treasurer,,REP,Sandy Cochran,301,132,0,0,0,22,147
+Barnwell,BLACKVILLE 2,County Treasurer,,REP,Sandy Cochran,195,78,0,0,0,20,97
+Barnwell,ELKO,County Treasurer,,REP,Sandy Cochran,290,85,0,0,0,22,183
+Barnwell,FRIENDSHIP,County Treasurer,,REP,Sandy Cochran,471,129,0,0,0,7,335
+Barnwell,KLINE,County Treasurer,,REP,Sandy Cochran,284,87,0,0,0,13,184
+Barnwell,HEALING SPRINGS,County Treasurer,,REP,Sandy Cochran,264,88,0,0,0,22,154
+Barnwell,HILDA,County Treasurer,,REP,Sandy Cochran,599,169,0,0,0,23,407
+Barnwell,SNELLING,County Treasurer,,REP,Sandy Cochran,591,209,0,0,0,38,344
+Barnwell,WILLISTON 1,County Treasurer,,REP,Sandy Cochran,465,126,0,0,0,35,304
+Barnwell,WILLISTON 2,County Treasurer,,REP,Sandy Cochran,332,101,0,0,0,30,201
+Barnwell,WILLISTON 3,County Treasurer,,REP,Sandy Cochran,417,140,0,0,0,32,245
+Barnwell,Failsafe,County Treasurer,,REP,Sandy Cochran,13,0,0,0,13,0,0
+Barnwell,Provisional,County Treasurer,,REP,Sandy Cochran,4,0,0,4,0,0,0
+Barnwell,Failsafe Provisional,County Treasurer,,REP,Sandy Cochran,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,County Treasurer,,NON,Write-In,4,3,0,0,0,0,1
+Barnwell,BARNWELL 2,County Treasurer,,NON,Write-In,14,6,0,0,0,0,8
+Barnwell,BARNWELL 3,County Treasurer,,NON,Write-In,20,12,0,0,0,1,7
+Barnwell,BARNWELL 4,County Treasurer,,NON,Write-In,9,5,0,0,0,1,3
+Barnwell,BLACKVILLE 1,County Treasurer,,NON,Write-In,10,4,0,0,0,0,6
+Barnwell,BLACKVILLE 2,County Treasurer,,NON,Write-In,9,4,0,0,0,1,4
+Barnwell,ELKO,County Treasurer,,NON,Write-In,4,1,0,0,0,1,2
+Barnwell,FRIENDSHIP,County Treasurer,,NON,Write-In,3,3,0,0,0,0,0
+Barnwell,KLINE,County Treasurer,,NON,Write-In,3,1,0,0,0,0,2
+Barnwell,HEALING SPRINGS,County Treasurer,,NON,Write-In,10,6,0,0,0,3,1
+Barnwell,HILDA,County Treasurer,,NON,Write-In,7,3,0,0,0,1,3
+Barnwell,SNELLING,County Treasurer,,NON,Write-In,12,6,0,0,0,1,5
+Barnwell,WILLISTON 1,County Treasurer,,NON,Write-In,11,6,0,0,0,2,3
+Barnwell,WILLISTON 2,County Treasurer,,NON,Write-In,5,2,0,0,0,1,2
+Barnwell,WILLISTON 3,County Treasurer,,NON,Write-In,4,2,0,0,0,0,2
+Barnwell,Failsafe,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Provisional,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 1,County Council District 1,,DEM,Freddie L Houston,4,0,0,0,0,1,3
+Barnwell,ELKO,County Council District 1,,DEM,Freddie L Houston,236,78,0,0,0,34,124
+Barnwell,HEALING SPRINGS,County Council District 1,,DEM,Freddie L Houston,21,12,0,0,0,3,6
+Barnwell,WILLISTON 1,County Council District 1,,DEM,Freddie L Houston,662,189,0,0,0,146,327
+Barnwell,WILLISTON 2,County Council District 1,,DEM,Freddie L Houston,84,22,0,0,0,18,44
+Barnwell,WILLISTON 3,County Council District 1,,DEM,Freddie L Houston,162,38,0,0,0,33,91
+Barnwell,Failsafe,County Council District 1,,DEM,Freddie L Houston,3,0,0,0,3,0,0
+Barnwell,Provisional,County Council District 1,,DEM,Freddie L Houston,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,County Council District 1,,DEM,Freddie L Houston,0,0,0,0,0,0,0
+Barnwell,BLACKVILLE 1,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,ELKO,County Council District 1,,NON,Write-In,9,3,0,0,0,0,6
+Barnwell,HEALING SPRINGS,County Council District 1,,NON,Write-In,1,0,0,0,0,0,1
+Barnwell,WILLISTON 1,County Council District 1,,NON,Write-In,7,1,0,0,0,0,6
+Barnwell,WILLISTON 2,County Council District 1,,NON,Write-In,1,0,0,0,0,0,1
+Barnwell,WILLISTON 3,County Council District 1,,NON,Write-In,2,0,0,0,0,0,2
+Barnwell,Failsafe,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Provisional,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,County Council District 3,,REP,Don Harper,56,33,0,0,0,4,19
+Barnwell,BARNWELL 2,County Council District 3,,REP,Don Harper,175,108,0,0,0,7,60
+Barnwell,BLACKVILLE 1,County Council District 3,,REP,Don Harper,134,70,0,0,0,8,56
+Barnwell,ELKO,County Council District 3,,REP,Don Harper,91,26,0,0,0,6,59
+Barnwell,HEALING SPRINGS,County Council District 3,,REP,Don Harper,115,42,0,0,0,8,65
+Barnwell,WILLISTON 1,County Council District 3,,REP,Don Harper,103,28,0,0,0,8,67
+Barnwell,WILLISTON 2,County Council District 3,,REP,Don Harper,271,90,0,0,0,26,155
+Barnwell,WILLISTON 3,County Council District 3,,REP,Don Harper,322,114,0,0,0,24,184
+Barnwell,Failsafe,County Council District 3,,REP,Don Harper,0,0,0,0,0,0,0
+Barnwell,Provisional,County Council District 3,,REP,Don Harper,1,0,0,1,0,0,0
+Barnwell,Failsafe Provisional,County Council District 3,,REP,Don Harper,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,County Council District 3,,NON,Write-In,3,3,0,0,0,0,0
+Barnwell,BARNWELL 2,County Council District 3,,NON,Write-In,3,1,0,0,0,0,2
+Barnwell,BLACKVILLE 1,County Council District 3,,NON,Write-In,2,1,0,0,0,0,1
+Barnwell,ELKO,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,HEALING SPRINGS,County Council District 3,,NON,Write-In,3,2,0,0,0,0,1
+Barnwell,WILLISTON 1,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,WILLISTON 2,County Council District 3,,NON,Write-In,4,1,0,0,0,1,2
+Barnwell,WILLISTON 3,County Council District 3,,NON,Write-In,4,2,0,0,0,0,2
+Barnwell,Failsafe,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Provisional,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,County Council District 5,,REP,Ben Kinlaw,96,38,0,0,0,15,43
+Barnwell,BARNWELL 2,County Council District 5,,REP,Ben Kinlaw,161,108,0,0,0,7,46
+Barnwell,BARNWELL 3,County Council District 5,,REP,Ben Kinlaw,384,215,0,0,0,28,141
+Barnwell,BARNWELL 4,County Council District 5,,REP,Ben Kinlaw,158,89,0,0,0,14,55
+Barnwell,Failsafe,County Council District 5,,REP,Ben Kinlaw,2,0,0,0,2,0,0
+Barnwell,Provisional,County Council District 5,,REP,Ben Kinlaw,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,County Council District 5,,REP,Ben Kinlaw,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,County Council District 5,,NON,Write-In,3,2,0,0,0,0,1
+Barnwell,BARNWELL 2,County Council District 5,,NON,Write-In,4,3,0,0,0,0,1
+Barnwell,BARNWELL 3,County Council District 5,,NON,Write-In,7,3,0,0,0,2,2
+Barnwell,BARNWELL 4,County Council District 5,,NON,Write-In,2,1,0,0,0,0,1
+Barnwell,Failsafe,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Provisional,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 2,County Council District 7,,REP,Jerry R Creech,14,13,0,0,0,1,0
+Barnwell,BARNWELL 3,County Council District 7,,REP,Jerry R Creech,121,80,0,0,0,8,33
+Barnwell,FRIENDSHIP,County Council District 7,,REP,Jerry R Creech,465,128,0,0,0,7,330
+Barnwell,KLINE,County Council District 7,,REP,Jerry R Creech,149,49,0,0,0,7,93
+Barnwell,HILDA,County Council District 7,,REP,Jerry R Creech,565,159,0,0,0,24,382
+Barnwell,Failsafe,County Council District 7,,REP,Jerry R Creech,1,0,0,0,1,0,0
+Barnwell,Provisional,County Council District 7,,REP,Jerry R Creech,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,County Council District 7,,REP,Jerry R Creech,0,0,0,0,0,0,0
+Barnwell,BARNWELL 2,County Council District 7,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 3,County Council District 7,,NON,Write-In,4,3,0,0,0,1,0
+Barnwell,FRIENDSHIP,County Council District 7,,NON,Write-In,7,5,0,0,0,0,2
+Barnwell,KLINE,County Council District 7,,NON,Write-In,3,1,0,0,0,0,2
+Barnwell,HILDA,County Council District 7,,NON,Write-In,7,4,0,0,0,0,3
+Barnwell,Failsafe,County Council District 7,,NON,Write-In,1,0,0,0,1,0,0
+Barnwell,Provisional,County Council District 7,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,County Council District 7,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,Soil and Water District Commission,,NON,Susan A Birt,220,104,0,0,0,27,89
+Barnwell,BARNWELL 2,Soil and Water District Commission,,NON,Susan A Birt,538,318,0,0,0,36,184
+Barnwell,BARNWELL 3,Soil and Water District Commission,,NON,Susan A Birt,620,343,0,0,0,54,223
+Barnwell,BARNWELL 4,Soil and Water District Commission,,NON,Susan A Birt,428,236,0,0,0,39,153
+Barnwell,BLACKVILLE 1,Soil and Water District Commission,,NON,Susan A Birt,215,97,0,0,0,17,101
+Barnwell,BLACKVILLE 2,Soil and Water District Commission,,NON,Susan A Birt,146,57,0,0,0,17,72
+Barnwell,ELKO,Soil and Water District Commission,,NON,Susan A Birt,206,59,0,0,0,22,125
+Barnwell,FRIENDSHIP,Soil and Water District Commission,,NON,Susan A Birt,260,65,0,0,0,5,190
+Barnwell,KLINE,Soil and Water District Commission,,NON,Susan A Birt,180,51,0,0,0,10,119
+Barnwell,HEALING SPRINGS,Soil and Water District Commission,,NON,Susan A Birt,207,64,0,0,0,28,115
+Barnwell,HILDA,Soil and Water District Commission,,NON,Susan A Birt,309,83,0,0,0,12,214
+Barnwell,SNELLING,Soil and Water District Commission,,NON,Susan A Birt,422,139,0,0,0,36,247
+Barnwell,WILLISTON 1,Soil and Water District Commission,,NON,Susan A Birt,378,106,0,0,0,38,234
+Barnwell,WILLISTON 2,Soil and Water District Commission,,NON,Susan A Birt,223,59,0,0,0,19,145
+Barnwell,WILLISTON 3,Soil and Water District Commission,,NON,Susan A Birt,281,87,0,0,0,22,172
+Barnwell,Failsafe,Soil and Water District Commission,,NON,Susan A Birt,10,0,0,0,10,0,0
+Barnwell,Provisional,Soil and Water District Commission,,NON,Susan A Birt,3,0,0,3,0,0,0
+Barnwell,Failsafe Provisional,Soil and Water District Commission,,NON,Susan A Birt,0,0,0,0,0,0,0
+Barnwell,BARNWELL 1,Soil and Water District Commission,,NON,Write-In,3,2,0,0,0,1,0
+Barnwell,BARNWELL 2,Soil and Water District Commission,,NON,Write-In,10,5,0,0,0,0,5
+Barnwell,BARNWELL 3,Soil and Water District Commission,,NON,Write-In,8,7,0,0,0,0,1
+Barnwell,BARNWELL 4,Soil and Water District Commission,,NON,Write-In,3,2,0,0,0,0,1
+Barnwell,BLACKVILLE 1,Soil and Water District Commission,,NON,Write-In,6,1,0,0,0,0,5
+Barnwell,BLACKVILLE 2,Soil and Water District Commission,,NON,Write-In,4,1,0,0,0,1,2
+Barnwell,ELKO,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,FRIENDSHIP,Soil and Water District Commission,,NON,Write-In,2,1,0,0,0,0,1
+Barnwell,KLINE,Soil and Water District Commission,,NON,Write-In,3,1,0,0,0,0,2
+Barnwell,HEALING SPRINGS,Soil and Water District Commission,,NON,Write-In,7,2,0,0,0,1,4
+Barnwell,HILDA,Soil and Water District Commission,,NON,Write-In,6,0,0,0,0,1,5
+Barnwell,SNELLING,Soil and Water District Commission,,NON,Write-In,6,0,0,0,0,1,5
+Barnwell,WILLISTON 1,Soil and Water District Commission,,NON,Write-In,5,2,0,0,0,1,2
+Barnwell,WILLISTON 2,Soil and Water District Commission,,NON,Write-In,1,0,0,0,0,0,1
+Barnwell,WILLISTON 3,Soil and Water District Commission,,NON,Write-In,7,1,0,0,0,2,4
+Barnwell,Failsafe,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0

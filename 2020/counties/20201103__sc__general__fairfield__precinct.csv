@@ -1,0 +1,1023 @@
+county,precinct,office,district,party,candidate,votes,in-person_absentee,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Fairfield,BLACKSTOCK,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,BLAIRS,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,FEASTERVILLE,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,STRAIGHT PARTY 1,,CON,Constitution,2,0,0,0,0,0,2
+Fairfield,GLADDEN GROVE,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,JENKINSVILLE,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,Horeb-Glenn,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,HICKORY RIDGE,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,LEBANON,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,MITFORD,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Fairfield,MONTICELLO,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,NEW HOPE,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,RIDGEWAY,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Fairfield,SIMPSON,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,SOUTH WINNSBORO,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,WINNSBORO MILLS,STRAIGHT PARTY 1,,CON,Constitution,1,1,0,0,0,0,0
+Fairfield,WINNSBORO NO. 1,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,WINNSBORO NO. 2,STRAIGHT PARTY 1,,CON,Constitution,2,0,0,0,0,2,0
+Fairfield,WHITE OAK,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,WOODARD,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Fairfield,Failsafe,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,Provisional,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,BLAIRS,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,FEASTERVILLE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,1,0
+Fairfield,GLADDEN GROVE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,JENKINSVILLE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,Horeb-Glenn,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Fairfield,HICKORY RIDGE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,LEBANON,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,MITFORD,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Fairfield,MONTICELLO,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,NEW HOPE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,RIDGEWAY,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Fairfield,SIMPSON,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,SOUTH WINNSBORO,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,WINNSBORO MILLS,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,WINNSBORO NO. 1,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Fairfield,WINNSBORO NO. 2,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Fairfield,WHITE OAK,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,WOODARD,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,Failsafe,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,STRAIGHT PARTY 1,,REP,Republican,8,1,0,0,0,2,5
+Fairfield,BLAIRS,STRAIGHT PARTY 1,,REP,Republican,36,5,0,0,0,3,28
+Fairfield,CENTERVILLE,STRAIGHT PARTY 1,,REP,Republican,101,7,0,0,0,0,94
+Fairfield,FEASTERVILLE,STRAIGHT PARTY 1,,REP,Republican,26,6,0,0,0,0,20
+Fairfield,GREENBRIER,STRAIGHT PARTY 1,,REP,Republican,216,89,0,0,0,14,113
+Fairfield,GLADDEN GROVE,STRAIGHT PARTY 1,,REP,Republican,14,2,0,0,0,0,12
+Fairfield,JENKINSVILLE,STRAIGHT PARTY 1,,REP,Republican,54,7,0,0,0,6,41
+Fairfield,Horeb-Glenn,STRAIGHT PARTY 1,,REP,Republican,23,5,0,0,0,2,16
+Fairfield,HICKORY RIDGE,STRAIGHT PARTY 1,,REP,Republican,83,39,0,0,0,3,41
+Fairfield,LEBANON,STRAIGHT PARTY 1,,REP,Republican,71,32,0,0,0,3,36
+Fairfield,MITFORD,STRAIGHT PARTY 1,,REP,Republican,203,25,0,0,0,9,169
+Fairfield,MONTICELLO,STRAIGHT PARTY 1,,REP,Republican,50,19,0,0,0,4,27
+Fairfield,NEW HOPE,STRAIGHT PARTY 1,,REP,Republican,14,1,0,0,0,2,11
+Fairfield,RIDGEWAY,STRAIGHT PARTY 1,,REP,Republican,316,123,0,0,0,30,163
+Fairfield,SIMPSON,STRAIGHT PARTY 1,,REP,Republican,163,66,0,0,0,16,81
+Fairfield,SOUTH WINNSBORO,STRAIGHT PARTY 1,,REP,Republican,37,24,0,0,0,2,11
+Fairfield,WINNSBORO MILLS,STRAIGHT PARTY 1,,REP,Republican,84,31,0,0,0,1,52
+Fairfield,WINNSBORO NO. 1,STRAIGHT PARTY 1,,REP,Republican,93,52,0,0,0,6,35
+Fairfield,WINNSBORO NO. 2,STRAIGHT PARTY 1,,REP,Republican,149,66,0,0,0,7,76
+Fairfield,WHITE OAK,STRAIGHT PARTY 1,,REP,Republican,16,3,0,0,0,2,11
+Fairfield,WOODARD,STRAIGHT PARTY 1,,REP,Republican,13,5,0,0,0,0,8
+Fairfield,DUTCHMANS CREEK,STRAIGHT PARTY 1,,REP,Republican,453,113,0,0,0,31,309
+Fairfield,Failsafe,STRAIGHT PARTY 1,,REP,Republican,1,0,0,0,1,0,0
+Fairfield,Provisional,STRAIGHT PARTY 1,,REP,Republican,1,0,0,1,0,0,0
+Fairfield,Failsafe Provisional,STRAIGHT PARTY 1,,REP,Republican,1,0,1,0,0,0,0
+Fairfield,BLACKSTOCK,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,BLAIRS,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,FEASTERVILLE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,GLADDEN GROVE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,JENKINSVILLE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,Horeb-Glenn,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,HICKORY RIDGE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,LEBANON,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,MITFORD,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,MONTICELLO,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,NEW HOPE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,RIDGEWAY,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,SIMPSON,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,SOUTH WINNSBORO,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,WINNSBORO MILLS,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,WINNSBORO NO. 1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,WINNSBORO NO. 2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,WHITE OAK,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,WOODARD,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,Failsafe,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,BLAIRS,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Fairfield,FEASTERVILLE,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Fairfield,GLADDEN GROVE,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,JENKINSVILLE,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,0,0,2
+Fairfield,Horeb-Glenn,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,HICKORY RIDGE,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Fairfield,LEBANON,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,MITFORD,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,MONTICELLO,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,NEW HOPE,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,1,0
+Fairfield,RIDGEWAY,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,SIMPSON,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,1,0
+Fairfield,SOUTH WINNSBORO,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,WINNSBORO MILLS,STRAIGHT PARTY 1,,LIB,Libertarian,3,0,0,0,0,0,3
+Fairfield,WINNSBORO NO. 1,STRAIGHT PARTY 1,,LIB,Libertarian,2,2,0,0,0,0,0
+Fairfield,WINNSBORO NO. 2,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,WHITE OAK,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,WOODARD,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,STRAIGHT PARTY 1,,LIB,Libertarian,2,1,0,0,0,0,1
+Fairfield,Failsafe,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,STRAIGHT PARTY 1,,DEM,Democratic,28,3,0,0,0,1,24
+Fairfield,BLAIRS,STRAIGHT PARTY 1,,DEM,Democratic,183,46,0,0,0,25,112
+Fairfield,CENTERVILLE,STRAIGHT PARTY 1,,DEM,Democratic,41,16,0,0,0,8,17
+Fairfield,FEASTERVILLE,STRAIGHT PARTY 1,,DEM,Democratic,95,20,0,0,0,13,62
+Fairfield,GREENBRIER,STRAIGHT PARTY 1,,DEM,Democratic,583,349,0,0,0,83,151
+Fairfield,GLADDEN GROVE,STRAIGHT PARTY 1,,DEM,Democratic,13,0,0,0,0,2,11
+Fairfield,JENKINSVILLE,STRAIGHT PARTY 1,,DEM,Democratic,173,58,0,0,0,25,90
+Fairfield,Horeb-Glenn,STRAIGHT PARTY 1,,DEM,Democratic,148,76,0,0,0,17,55
+Fairfield,HICKORY RIDGE,STRAIGHT PARTY 1,,DEM,Democratic,299,142,0,0,0,38,119
+Fairfield,LEBANON,STRAIGHT PARTY 1,,DEM,Democratic,167,83,0,0,0,28,56
+Fairfield,MITFORD,STRAIGHT PARTY 1,,DEM,Democratic,185,82,0,0,0,13,90
+Fairfield,MONTICELLO,STRAIGHT PARTY 1,,DEM,Democratic,191,63,0,0,0,18,110
+Fairfield,NEW HOPE,STRAIGHT PARTY 1,,DEM,Democratic,13,10,0,0,0,1,2
+Fairfield,RIDGEWAY,STRAIGHT PARTY 1,,DEM,Democratic,676,361,0,0,0,111,204
+Fairfield,SIMPSON,STRAIGHT PARTY 1,,DEM,Democratic,232,104,0,0,0,30,98
+Fairfield,SOUTH WINNSBORO,STRAIGHT PARTY 1,,DEM,Democratic,284,159,0,0,0,30,95
+Fairfield,WINNSBORO MILLS,STRAIGHT PARTY 1,,DEM,Democratic,182,99,0,0,0,8,75
+Fairfield,WINNSBORO NO. 1,STRAIGHT PARTY 1,,DEM,Democratic,519,290,0,0,0,48,181
+Fairfield,WINNSBORO NO. 2,STRAIGHT PARTY 1,,DEM,Democratic,275,156,0,0,0,27,92
+Fairfield,WHITE OAK,STRAIGHT PARTY 1,,DEM,Democratic,93,43,0,0,0,9,41
+Fairfield,WOODARD,STRAIGHT PARTY 1,,DEM,Democratic,56,14,0,0,0,5,37
+Fairfield,DUTCHMANS CREEK,STRAIGHT PARTY 1,,DEM,Democratic,155,59,0,0,0,32,64
+Fairfield,Failsafe,STRAIGHT PARTY 1,,DEM,Democratic,3,0,0,0,3,0,0
+Fairfield,Provisional,STRAIGHT PARTY 1,,DEM,Democratic,5,0,0,5,0,0,0
+Fairfield,Failsafe Provisional,STRAIGHT PARTY 1,,DEM,Democratic,2,0,2,0,0,0,0
+Fairfield,BLACKSTOCK,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Fairfield,BLAIRS,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,President,,GRN,Howie Hawkins | Angela Walker,3,1,0,0,0,0,2
+Fairfield,FEASTERVILLE,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,President,,GRN,Howie Hawkins | Angela Walker,2,0,0,0,0,0,2
+Fairfield,GLADDEN GROVE,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Fairfield,JENKINSVILLE,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,0,1
+Fairfield,Horeb-Glenn,President,,GRN,Howie Hawkins | Angela Walker,2,1,0,0,0,0,1
+Fairfield,HICKORY RIDGE,President,,GRN,Howie Hawkins | Angela Walker,1,1,0,0,0,0,0
+Fairfield,LEBANON,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Fairfield,MITFORD,President,,GRN,Howie Hawkins | Angela Walker,2,0,0,0,0,1,1
+Fairfield,MONTICELLO,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,0,1
+Fairfield,NEW HOPE,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Fairfield,RIDGEWAY,President,,GRN,Howie Hawkins | Angela Walker,6,3,0,0,0,0,3
+Fairfield,SIMPSON,President,,GRN,Howie Hawkins | Angela Walker,3,1,0,0,0,1,1
+Fairfield,SOUTH WINNSBORO,President,,GRN,Howie Hawkins | Angela Walker,3,0,0,0,0,0,3
+Fairfield,WINNSBORO MILLS,President,,GRN,Howie Hawkins | Angela Walker,7,3,0,0,0,0,4
+Fairfield,WINNSBORO NO. 1,President,,GRN,Howie Hawkins | Angela Walker,2,1,0,0,0,0,1
+Fairfield,WINNSBORO NO. 2,President,,GRN,Howie Hawkins | Angela Walker,2,0,0,0,0,0,2
+Fairfield,WHITE OAK,President,,GRN,Howie Hawkins | Angela Walker,4,2,0,0,0,0,2
+Fairfield,WOODARD,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,President,,GRN,Howie Hawkins | Angela Walker,2,0,0,0,0,1,1
+Fairfield,Failsafe,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Fairfield,Provisional,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,President,,REP,Donald J Trump | Michael R Pence,12,2,0,0,0,3,7
+Fairfield,BLAIRS,President,,REP,Donald J Trump | Michael R Pence,59,8,0,0,0,4,47
+Fairfield,CENTERVILLE,President,,REP,Donald J Trump | Michael R Pence,141,9,0,0,0,9,123
+Fairfield,FEASTERVILLE,President,,REP,Donald J Trump | Michael R Pence,64,11,0,0,0,7,46
+Fairfield,GREENBRIER,President,,REP,Donald J Trump | Michael R Pence,517,217,0,0,0,63,237
+Fairfield,GLADDEN GROVE,President,,REP,Donald J Trump | Michael R Pence,27,5,0,0,0,1,21
+Fairfield,JENKINSVILLE,President,,REP,Donald J Trump | Michael R Pence,88,14,0,0,0,13,61
+Fairfield,Horeb-Glenn,President,,REP,Donald J Trump | Michael R Pence,48,15,0,0,0,4,29
+Fairfield,HICKORY RIDGE,President,,REP,Donald J Trump | Michael R Pence,239,107,0,0,0,22,110
+Fairfield,LEBANON,President,,REP,Donald J Trump | Michael R Pence,278,110,0,0,0,23,145
+Fairfield,MITFORD,President,,REP,Donald J Trump | Michael R Pence,297,40,0,0,0,23,234
+Fairfield,MONTICELLO,President,,REP,Donald J Trump | Michael R Pence,118,35,0,0,0,26,57
+Fairfield,NEW HOPE,President,,REP,Donald J Trump | Michael R Pence,35,2,0,0,0,9,24
+Fairfield,RIDGEWAY,President,,REP,Donald J Trump | Michael R Pence,567,220,0,0,0,88,259
+Fairfield,SIMPSON,President,,REP,Donald J Trump | Michael R Pence,328,138,0,0,0,44,146
+Fairfield,SOUTH WINNSBORO,President,,REP,Donald J Trump | Michael R Pence,84,35,0,0,0,12,37
+Fairfield,WINNSBORO MILLS,President,,REP,Donald J Trump | Michael R Pence,210,88,0,0,0,18,104
+Fairfield,WINNSBORO NO. 1,President,,REP,Donald J Trump | Michael R Pence,244,130,0,0,0,30,84
+Fairfield,WINNSBORO NO. 2,President,,REP,Donald J Trump | Michael R Pence,372,159,0,0,0,59,154
+Fairfield,WHITE OAK,President,,REP,Donald J Trump | Michael R Pence,47,4,0,0,0,10,33
+Fairfield,WOODARD,President,,REP,Donald J Trump | Michael R Pence,22,7,0,0,0,1,14
+Fairfield,DUTCHMANS CREEK,President,,REP,Donald J Trump | Michael R Pence,820,200,0,0,0,99,521
+Fairfield,Failsafe,President,,REP,Donald J Trump | Michael R Pence,3,0,0,0,3,0,0
+Fairfield,Provisional,President,,REP,Donald J Trump | Michael R Pence,3,0,0,3,0,0,0
+Fairfield,Failsafe Provisional,President,,REP,Donald J Trump | Michael R Pence,2,0,2,0,0,0,0
+Fairfield,BLACKSTOCK,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,BLAIRS,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,FEASTERVILLE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,GLADDEN GROVE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,JENKINSVILLE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,Horeb-Glenn,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,HICKORY RIDGE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,LEBANON,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,MITFORD,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,0,0,0,0,0,1
+Fairfield,MONTICELLO,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,NEW HOPE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,RIDGEWAY,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,SIMPSON,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,SOUTH WINNSBORO,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,1,1,0,0,0,0,0
+Fairfield,WINNSBORO MILLS,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,3,0,0,0,0,0,3
+Fairfield,WINNSBORO NO. 1,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,WINNSBORO NO. 2,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,WHITE OAK,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,2,0,0,0,0,0,2
+Fairfield,WOODARD,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,3,1,0,0,0,1,1
+Fairfield,Failsafe,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,Provisional,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Fairfield,BLAIRS,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,4,0,0,0,0,0,4
+Fairfield,FEASTERVILLE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,0,0,0,0,0,2
+Fairfield,GREENBRIER,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,8,1,0,0,0,1,6
+Fairfield,GLADDEN GROVE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Fairfield,JENKINSVILLE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,4,0,0,0,0,0,4
+Fairfield,Horeb-Glenn,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Fairfield,HICKORY RIDGE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,3,1,0,0,0,1,1
+Fairfield,LEBANON,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,1,0,0,0,0,0
+Fairfield,MITFORD,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,0,0,0,0,0,2
+Fairfield,MONTICELLO,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,0,0,0,0,0,1
+Fairfield,NEW HOPE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,0,0,0,0,1,0
+Fairfield,RIDGEWAY,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,8,2,0,0,0,0,6
+Fairfield,SIMPSON,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,9,6,0,0,0,1,2
+Fairfield,SOUTH WINNSBORO,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,0,0,0,0,1,0
+Fairfield,WINNSBORO MILLS,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,9,2,0,0,0,1,6
+Fairfield,WINNSBORO NO. 1,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,5,2,0,0,0,0,3
+Fairfield,WINNSBORO NO. 2,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,7,2,0,0,0,0,5
+Fairfield,WHITE OAK,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Fairfield,WOODARD,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,12,2,0,0,0,1,9
+Fairfield,Failsafe,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Fairfield,Provisional,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,0,0,1,0,0,0
+Fairfield,Failsafe Provisional,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,President,,DEM,Joseph R Biden | Kamala D Harris,48,4,0,0,0,4,40
+Fairfield,BLAIRS,President,,DEM,Joseph R Biden | Kamala D Harris,260,63,0,0,0,44,153
+Fairfield,CENTERVILLE,President,,DEM,Joseph R Biden | Kamala D Harris,73,25,0,0,0,13,35
+Fairfield,FEASTERVILLE,President,,DEM,Joseph R Biden | Kamala D Harris,167,39,0,0,0,25,103
+Fairfield,GREENBRIER,President,,DEM,Joseph R Biden | Kamala D Harris,930,542,0,0,0,176,212
+Fairfield,GLADDEN GROVE,President,,DEM,Joseph R Biden | Kamala D Harris,23,1,0,0,0,8,14
+Fairfield,JENKINSVILLE,President,,DEM,Joseph R Biden | Kamala D Harris,340,109,0,0,0,54,177
+Fairfield,Horeb-Glenn,President,,DEM,Joseph R Biden | Kamala D Harris,221,107,0,0,0,30,84
+Fairfield,HICKORY RIDGE,President,,DEM,Joseph R Biden | Kamala D Harris,448,206,0,0,0,76,166
+Fairfield,LEBANON,President,,DEM,Joseph R Biden | Kamala D Harris,302,141,0,0,0,65,96
+Fairfield,MITFORD,President,,DEM,Joseph R Biden | Kamala D Harris,269,112,0,0,0,32,125
+Fairfield,MONTICELLO,President,,DEM,Joseph R Biden | Kamala D Harris,317,104,0,0,0,43,170
+Fairfield,NEW HOPE,President,,DEM,Joseph R Biden | Kamala D Harris,19,12,0,0,0,3,4
+Fairfield,RIDGEWAY,President,,DEM,Joseph R Biden | Kamala D Harris,1118,577,0,0,0,227,314
+Fairfield,SIMPSON,President,,DEM,Joseph R Biden | Kamala D Harris,382,163,0,0,0,62,157
+Fairfield,SOUTH WINNSBORO,President,,DEM,Joseph R Biden | Kamala D Harris,429,233,0,0,0,54,142
+Fairfield,WINNSBORO MILLS,President,,DEM,Joseph R Biden | Kamala D Harris,259,129,0,0,0,14,116
+Fairfield,WINNSBORO NO. 1,President,,DEM,Joseph R Biden | Kamala D Harris,772,424,0,0,0,97,251
+Fairfield,WINNSBORO NO. 2,President,,DEM,Joseph R Biden | Kamala D Harris,453,245,0,0,0,70,138
+Fairfield,WHITE OAK,President,,DEM,Joseph R Biden | Kamala D Harris,140,55,0,0,0,22,63
+Fairfield,WOODARD,President,,DEM,Joseph R Biden | Kamala D Harris,77,17,0,0,0,6,54
+Fairfield,DUTCHMANS CREEK,President,,DEM,Joseph R Biden | Kamala D Harris,317,106,0,0,0,81,130
+Fairfield,Failsafe,President,,DEM,Joseph R Biden | Kamala D Harris,5,0,0,0,5,0,0
+Fairfield,Provisional,President,,DEM,Joseph R Biden | Kamala D Harris,8,0,0,8,0,0,0
+Fairfield,Failsafe Provisional,President,,DEM,Joseph R Biden | Kamala D Harris,5,0,5,0,0,0,0
+Fairfield,BLACKSTOCK,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Fairfield,BLAIRS,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,U.S. Senate,,CON,Bill Bledsoe,5,1,0,0,0,0,4
+Fairfield,FEASTERVILLE,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,U.S. Senate,,CON,Bill Bledsoe,19,8,0,0,0,0,11
+Fairfield,GLADDEN GROVE,U.S. Senate,,CON,Bill Bledsoe,1,0,0,0,0,0,1
+Fairfield,JENKINSVILLE,U.S. Senate,,CON,Bill Bledsoe,2,1,0,0,0,0,1
+Fairfield,Horeb-Glenn,U.S. Senate,,CON,Bill Bledsoe,1,0,0,0,0,0,1
+Fairfield,HICKORY RIDGE,U.S. Senate,,CON,Bill Bledsoe,4,2,0,0,0,1,1
+Fairfield,LEBANON,U.S. Senate,,CON,Bill Bledsoe,7,4,0,0,0,0,3
+Fairfield,MITFORD,U.S. Senate,,CON,Bill Bledsoe,6,1,0,0,0,0,5
+Fairfield,MONTICELLO,U.S. Senate,,CON,Bill Bledsoe,4,3,0,0,0,0,1
+Fairfield,NEW HOPE,U.S. Senate,,CON,Bill Bledsoe,1,0,0,0,0,0,1
+Fairfield,RIDGEWAY,U.S. Senate,,CON,Bill Bledsoe,13,3,0,0,0,0,10
+Fairfield,SIMPSON,U.S. Senate,,CON,Bill Bledsoe,6,2,0,0,0,1,3
+Fairfield,SOUTH WINNSBORO,U.S. Senate,,CON,Bill Bledsoe,5,1,0,0,0,2,2
+Fairfield,WINNSBORO MILLS,U.S. Senate,,CON,Bill Bledsoe,4,2,0,0,0,0,2
+Fairfield,WINNSBORO NO. 1,U.S. Senate,,CON,Bill Bledsoe,10,4,0,0,0,1,5
+Fairfield,WINNSBORO NO. 2,U.S. Senate,,CON,Bill Bledsoe,6,2,0,0,0,1,3
+Fairfield,WHITE OAK,U.S. Senate,,CON,Bill Bledsoe,3,0,0,0,0,0,3
+Fairfield,WOODARD,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,U.S. Senate,,CON,Bill Bledsoe,17,5,0,0,0,0,12
+Fairfield,Failsafe,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Fairfield,Provisional,U.S. Senate,,CON,Bill Bledsoe,1,0,0,1,0,0,0
+Fairfield,Failsafe Provisional,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,U.S. Senate,,REP,Lindsey Graham,12,2,0,0,0,3,7
+Fairfield,BLAIRS,U.S. Senate,,REP,Lindsey Graham,54,8,0,0,0,4,42
+Fairfield,CENTERVILLE,U.S. Senate,,REP,Lindsey Graham,144,8,0,0,0,9,127
+Fairfield,FEASTERVILLE,U.S. Senate,,REP,Lindsey Graham,62,11,0,0,0,6,45
+Fairfield,GREENBRIER,U.S. Senate,,REP,Lindsey Graham,506,211,0,0,0,68,227
+Fairfield,GLADDEN GROVE,U.S. Senate,,REP,Lindsey Graham,27,5,0,0,0,2,20
+Fairfield,JENKINSVILLE,U.S. Senate,,REP,Lindsey Graham,88,12,0,0,0,14,62
+Fairfield,Horeb-Glenn,U.S. Senate,,REP,Lindsey Graham,45,15,0,0,0,3,27
+Fairfield,HICKORY RIDGE,U.S. Senate,,REP,Lindsey Graham,232,106,0,0,0,22,104
+Fairfield,LEBANON,U.S. Senate,,REP,Lindsey Graham,271,108,0,0,0,25,138
+Fairfield,MITFORD,U.S. Senate,,REP,Lindsey Graham,291,40,0,0,0,24,227
+Fairfield,MONTICELLO,U.S. Senate,,REP,Lindsey Graham,115,33,0,0,0,28,54
+Fairfield,NEW HOPE,U.S. Senate,,REP,Lindsey Graham,33,2,0,0,0,9,22
+Fairfield,RIDGEWAY,U.S. Senate,,REP,Lindsey Graham,556,217,0,0,0,90,249
+Fairfield,SIMPSON,U.S. Senate,,REP,Lindsey Graham,329,134,0,0,0,47,148
+Fairfield,SOUTH WINNSBORO,U.S. Senate,,REP,Lindsey Graham,79,34,0,0,0,10,35
+Fairfield,WINNSBORO MILLS,U.S. Senate,,REP,Lindsey Graham,221,89,0,0,0,19,113
+Fairfield,WINNSBORO NO. 1,U.S. Senate,,REP,Lindsey Graham,231,120,0,0,0,30,81
+Fairfield,WINNSBORO NO. 2,U.S. Senate,,REP,Lindsey Graham,364,163,0,0,0,58,143
+Fairfield,WHITE OAK,U.S. Senate,,REP,Lindsey Graham,46,4,0,0,0,11,31
+Fairfield,WOODARD,U.S. Senate,,REP,Lindsey Graham,22,7,0,0,0,1,14
+Fairfield,DUTCHMANS CREEK,U.S. Senate,,REP,Lindsey Graham,820,194,0,0,0,108,518
+Fairfield,Failsafe,U.S. Senate,,REP,Lindsey Graham,3,0,0,0,3,0,0
+Fairfield,Provisional,U.S. Senate,,REP,Lindsey Graham,3,0,0,3,0,0,0
+Fairfield,Failsafe Provisional,U.S. Senate,,REP,Lindsey Graham,2,0,2,0,0,0,0
+Fairfield,BLACKSTOCK,U.S. Senate,,DEM,Jaime Harrison,47,4,0,0,0,3,40
+Fairfield,BLAIRS,U.S. Senate,,DEM,Jaime Harrison,264,63,0,0,0,44,157
+Fairfield,CENTERVILLE,U.S. Senate,,DEM,Jaime Harrison,70,25,0,0,0,12,33
+Fairfield,FEASTERVILLE,U.S. Senate,,DEM,Jaime Harrison,170,39,0,0,0,26,105
+Fairfield,GREENBRIER,U.S. Senate,,DEM,Jaime Harrison,930,540,0,0,0,174,216
+Fairfield,GLADDEN GROVE,U.S. Senate,,DEM,Jaime Harrison,22,1,0,0,0,7,14
+Fairfield,JENKINSVILLE,U.S. Senate,,DEM,Jaime Harrison,344,109,0,0,0,53,182
+Fairfield,Horeb-Glenn,U.S. Senate,,DEM,Jaime Harrison,227,108,0,0,0,31,88
+Fairfield,HICKORY RIDGE,U.S. Senate,,DEM,Jaime Harrison,450,208,0,0,0,75,167
+Fairfield,LEBANON,U.S. Senate,,DEM,Jaime Harrison,305,141,0,0,0,63,101
+Fairfield,MITFORD,U.S. Senate,,DEM,Jaime Harrison,275,111,0,0,0,34,130
+Fairfield,MONTICELLO,U.S. Senate,,DEM,Jaime Harrison,314,103,0,0,0,41,170
+Fairfield,NEW HOPE,U.S. Senate,,DEM,Jaime Harrison,20,12,0,0,0,3,5
+Fairfield,RIDGEWAY,U.S. Senate,,DEM,Jaime Harrison,1133,584,0,0,0,226,323
+Fairfield,SIMPSON,U.S. Senate,,DEM,Jaime Harrison,391,174,0,0,0,61,156
+Fairfield,SOUTH WINNSBORO,U.S. Senate,,DEM,Jaime Harrison,437,237,0,0,0,55,145
+Fairfield,WINNSBORO MILLS,U.S. Senate,,DEM,Jaime Harrison,265,132,0,0,0,13,120
+Fairfield,WINNSBORO NO. 1,U.S. Senate,,DEM,Jaime Harrison,785,432,0,0,0,96,257
+Fairfield,WINNSBORO NO. 2,U.S. Senate,,DEM,Jaime Harrison,459,241,0,0,0,69,149
+Fairfield,WHITE OAK,U.S. Senate,,DEM,Jaime Harrison,146,59,0,0,0,21,66
+Fairfield,WOODARD,U.S. Senate,,DEM,Jaime Harrison,75,17,0,0,0,6,52
+Fairfield,DUTCHMANS CREEK,U.S. Senate,,DEM,Jaime Harrison,317,108,0,0,0,74,135
+Fairfield,Failsafe,U.S. Senate,,DEM,Jaime Harrison,5,0,0,0,5,0,0
+Fairfield,Provisional,U.S. Senate,,DEM,Jaime Harrison,8,0,0,8,0,0,0
+Fairfield,Failsafe Provisional,U.S. Senate,,DEM,Jaime Harrison,4,0,4,0,0,0,0
+Fairfield,BLACKSTOCK,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLAIRS,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,FEASTERVILLE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,GLADDEN GROVE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,JENKINSVILLE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Horeb-Glenn,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,HICKORY RIDGE,U.S. Senate,,NON,Write-In,2,0,0,0,0,0,2
+Fairfield,LEBANON,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,MITFORD,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,MONTICELLO,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,NEW HOPE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,RIDGEWAY,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,SIMPSON,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,SOUTH WINNSBORO,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,WINNSBORO MILLS,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,WINNSBORO NO. 1,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,WINNSBORO NO. 2,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,WHITE OAK,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,WOODARD,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,U.S. House,5,REP,Ralph Norman,12,3,0,0,0,2,7
+Fairfield,BLAIRS,U.S. House,5,REP,Ralph Norman,58,10,0,0,0,4,44
+Fairfield,CENTERVILLE,U.S. House,5,REP,Ralph Norman,146,10,0,0,0,9,127
+Fairfield,FEASTERVILLE,U.S. House,5,REP,Ralph Norman,65,11,0,0,0,8,46
+Fairfield,GREENBRIER,U.S. House,5,REP,Ralph Norman,533,214,0,0,0,75,244
+Fairfield,GLADDEN GROVE,U.S. House,5,REP,Ralph Norman,29,5,0,0,0,3,21
+Fairfield,JENKINSVILLE,U.S. House,5,REP,Ralph Norman,91,13,0,0,0,14,64
+Fairfield,Horeb-Glenn,U.S. House,5,REP,Ralph Norman,48,15,0,0,0,4,29
+Fairfield,HICKORY RIDGE,U.S. House,5,REP,Ralph Norman,236,108,0,0,0,22,106
+Fairfield,LEBANON,U.S. House,5,REP,Ralph Norman,282,110,0,0,0,25,147
+Fairfield,MITFORD,U.S. House,5,REP,Ralph Norman,298,41,0,0,0,26,231
+Fairfield,MONTICELLO,U.S. House,5,REP,Ralph Norman,127,38,0,0,0,29,60
+Fairfield,NEW HOPE,U.S. House,5,REP,Ralph Norman,34,2,0,0,0,9,23
+Fairfield,RIDGEWAY,U.S. House,5,REP,Ralph Norman,589,231,0,0,0,94,264
+Fairfield,SIMPSON,U.S. House,5,REP,Ralph Norman,345,142,0,0,0,52,151
+Fairfield,SOUTH WINNSBORO,U.S. House,5,REP,Ralph Norman,87,35,0,0,0,12,40
+Fairfield,WINNSBORO MILLS,U.S. House,5,REP,Ralph Norman,222,90,0,0,0,19,113
+Fairfield,WINNSBORO NO. 1,U.S. House,5,REP,Ralph Norman,254,131,0,0,0,34,89
+Fairfield,WINNSBORO NO. 2,U.S. House,5,REP,Ralph Norman,382,166,0,0,0,62,154
+Fairfield,WHITE OAK,U.S. House,5,REP,Ralph Norman,51,5,0,0,0,11,35
+Fairfield,WOODARD,U.S. House,5,REP,Ralph Norman,24,8,0,0,0,1,15
+Fairfield,DUTCHMANS CREEK,U.S. House,5,REP,Ralph Norman,848,199,0,0,0,114,535
+Fairfield,Failsafe,U.S. House,5,REP,Ralph Norman,3,0,0,0,3,0,0
+Fairfield,Provisional,U.S. House,5,REP,Ralph Norman,3,0,0,3,0,0,0
+Fairfield,Failsafe Provisional,U.S. House,5,REP,Ralph Norman,3,0,3,0,0,0,0
+Fairfield,BLACKSTOCK,U.S. House,5,DEM,Moe Brown,46,3,0,0,0,3,40
+Fairfield,BLAIRS,U.S. House,5,DEM,Moe Brown,261,61,0,0,0,44,156
+Fairfield,CENTERVILLE,U.S. House,5,DEM,Moe Brown,74,25,0,0,0,12,37
+Fairfield,FEASTERVILLE,U.S. House,5,DEM,Moe Brown,162,38,0,0,0,23,101
+Fairfield,GREENBRIER,U.S. House,5,DEM,Moe Brown,926,544,0,0,0,167,215
+Fairfield,GLADDEN GROVE,U.S. House,5,DEM,Moe Brown,21,1,0,0,0,6,14
+Fairfield,JENKINSVILLE,U.S. House,5,DEM,Moe Brown,341,109,0,0,0,51,181
+Fairfield,Horeb-Glenn,U.S. House,5,DEM,Moe Brown,223,108,0,0,0,30,85
+Fairfield,HICKORY RIDGE,U.S. House,5,DEM,Moe Brown,449,207,0,0,0,74,168
+Fairfield,LEBANON,U.S. House,5,DEM,Moe Brown,294,140,0,0,0,62,92
+Fairfield,MITFORD,U.S. House,5,DEM,Moe Brown,271,111,0,0,0,31,129
+Fairfield,MONTICELLO,U.S. House,5,DEM,Moe Brown,309,101,0,0,0,40,168
+Fairfield,NEW HOPE,U.S. House,5,DEM,Moe Brown,20,12,0,0,0,3,5
+Fairfield,RIDGEWAY,U.S. House,5,DEM,Moe Brown,1105,571,0,0,0,219,315
+Fairfield,SIMPSON,U.S. House,5,DEM,Moe Brown,374,166,0,0,0,56,152
+Fairfield,SOUTH WINNSBORO,U.S. House,5,DEM,Moe Brown,429,234,0,0,0,53,142
+Fairfield,WINNSBORO MILLS,U.S. House,5,DEM,Moe Brown,263,130,0,0,0,13,120
+Fairfield,WINNSBORO NO. 1,U.S. House,5,DEM,Moe Brown,768,426,0,0,0,90,252
+Fairfield,WINNSBORO NO. 2,U.S. House,5,DEM,Moe Brown,445,241,0,0,0,64,140
+Fairfield,WHITE OAK,U.S. House,5,DEM,Moe Brown,145,58,0,0,0,21,66
+Fairfield,WOODARD,U.S. House,5,DEM,Moe Brown,75,16,0,0,0,6,53
+Fairfield,DUTCHMANS CREEK,U.S. House,5,DEM,Moe Brown,299,108,0,0,0,64,127
+Fairfield,Failsafe,U.S. House,5,DEM,Moe Brown,4,0,0,0,4,0,0
+Fairfield,Provisional,U.S. House,5,DEM,Moe Brown,8,0,0,8,0,0,0
+Fairfield,Failsafe Provisional,U.S. House,5,DEM,Moe Brown,3,0,3,0,0,0,0
+Fairfield,BLACKSTOCK,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLAIRS,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,FEASTERVILLE,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,GLADDEN GROVE,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,JENKINSVILLE,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Horeb-Glenn,U.S. House,5,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,HICKORY RIDGE,U.S. House,5,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,LEBANON,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,MITFORD,U.S. House,5,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,MONTICELLO,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,NEW HOPE,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,RIDGEWAY,U.S. House,5,NON,Write-In,2,0,0,0,0,0,2
+Fairfield,SIMPSON,U.S. House,5,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,SOUTH WINNSBORO,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,WINNSBORO MILLS,U.S. House,5,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,WINNSBORO NO. 1,U.S. House,5,NON,Write-In,3,2,0,0,0,0,1
+Fairfield,WINNSBORO NO. 2,U.S. House,5,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,WHITE OAK,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,WOODARD,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,U.S. House,5,NON,Write-In,1,0,0,1,0,0,0
+Fairfield,Failsafe Provisional,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,State Senate,17,REP,Erin Mosley,12,2,0,0,0,2,8
+Fairfield,BLAIRS,State Senate,17,REP,Erin Mosley,55,7,0,0,0,4,44
+Fairfield,CENTERVILLE,State Senate,17,REP,Erin Mosley,146,10,0,0,0,9,127
+Fairfield,FEASTERVILLE,State Senate,17,REP,Erin Mosley,60,11,0,0,0,6,43
+Fairfield,GREENBRIER,State Senate,17,REP,Erin Mosley,490,208,0,0,0,66,216
+Fairfield,GLADDEN GROVE,State Senate,17,REP,Erin Mosley,29,5,0,0,0,3,21
+Fairfield,JENKINSVILLE,State Senate,17,REP,Erin Mosley,85,12,0,0,0,13,60
+Fairfield,Horeb-Glenn,State Senate,17,REP,Erin Mosley,46,14,0,0,0,7,25
+Fairfield,HICKORY RIDGE,State Senate,17,REP,Erin Mosley,226,108,0,0,0,23,95
+Fairfield,LEBANON,State Senate,17,REP,Erin Mosley,273,110,0,0,0,26,137
+Fairfield,MITFORD,State Senate,17,REP,Erin Mosley,289,38,0,0,0,21,230
+Fairfield,MONTICELLO,State Senate,17,REP,Erin Mosley,112,35,0,0,0,23,54
+Fairfield,NEW HOPE,State Senate,17,REP,Erin Mosley,33,2,0,0,0,9,22
+Fairfield,RIDGEWAY,State Senate,17,REP,Erin Mosley,556,219,0,0,0,86,251
+Fairfield,SIMPSON,State Senate,17,REP,Erin Mosley,310,130,0,0,0,47,133
+Fairfield,SOUTH WINNSBORO,State Senate,17,REP,Erin Mosley,72,27,0,0,0,11,34
+Fairfield,WINNSBORO MILLS,State Senate,17,REP,Erin Mosley,193,79,0,0,0,15,99
+Fairfield,WINNSBORO NO. 1,State Senate,17,REP,Erin Mosley,233,126,0,0,0,30,77
+Fairfield,WINNSBORO NO. 2,State Senate,17,REP,Erin Mosley,359,158,0,0,0,60,141
+Fairfield,WHITE OAK,State Senate,17,REP,Erin Mosley,51,4,0,0,0,11,36
+Fairfield,WOODARD,State Senate,17,REP,Erin Mosley,20,7,0,0,0,1,12
+Fairfield,DUTCHMANS CREEK,State Senate,17,REP,Erin Mosley,821,203,0,0,0,105,513
+Fairfield,Failsafe,State Senate,17,REP,Erin Mosley,3,0,0,0,3,0,0
+Fairfield,Provisional,State Senate,17,REP,Erin Mosley,4,0,0,4,0,0,0
+Fairfield,Failsafe Provisional,State Senate,17,REP,Erin Mosley,1,0,1,0,0,0,0
+Fairfield,BLACKSTOCK,State Senate,17,DEM,Mike Fanning,45,4,0,0,0,2,39
+Fairfield,BLAIRS,State Senate,17,DEM,Mike Fanning,261,64,0,0,0,41,156
+Fairfield,CENTERVILLE,State Senate,17,DEM,Mike Fanning,74,25,0,0,0,12,37
+Fairfield,FEASTERVILLE,State Senate,17,DEM,Mike Fanning,169,39,0,0,0,26,104
+Fairfield,GREENBRIER,State Senate,17,DEM,Mike Fanning,964,548,0,0,0,176,240
+Fairfield,GLADDEN GROVE,State Senate,17,DEM,Mike Fanning,21,1,0,0,0,6,14
+Fairfield,JENKINSVILLE,State Senate,17,DEM,Mike Fanning,344,109,0,0,0,51,184
+Fairfield,Horeb-Glenn,State Senate,17,DEM,Mike Fanning,226,109,0,0,0,27,90
+Fairfield,HICKORY RIDGE,State Senate,17,DEM,Mike Fanning,462,209,0,0,0,72,181
+Fairfield,LEBANON,State Senate,17,DEM,Mike Fanning,304,142,0,0,0,59,103
+Fairfield,MITFORD,State Senate,17,DEM,Mike Fanning,281,113,0,0,0,35,133
+Fairfield,MONTICELLO,State Senate,17,DEM,Mike Fanning,322,105,0,0,0,43,174
+Fairfield,NEW HOPE,State Senate,17,DEM,Mike Fanning,21,12,0,0,0,3,6
+Fairfield,RIDGEWAY,State Senate,17,DEM,Mike Fanning,1131,576,0,0,0,225,330
+Fairfield,SIMPSON,State Senate,17,DEM,Mike Fanning,406,177,0,0,0,60,169
+Fairfield,SOUTH WINNSBORO,State Senate,17,DEM,Mike Fanning,446,243,0,0,0,54,149
+Fairfield,WINNSBORO MILLS,State Senate,17,DEM,Mike Fanning,284,140,0,0,0,16,128
+Fairfield,WINNSBORO NO. 1,State Senate,17,DEM,Mike Fanning,776,423,0,0,0,90,263
+Fairfield,WINNSBORO NO. 2,State Senate,17,DEM,Mike Fanning,467,248,0,0,0,65,154
+Fairfield,WHITE OAK,State Senate,17,DEM,Mike Fanning,143,58,0,0,0,20,65
+Fairfield,WOODARD,State Senate,17,DEM,Mike Fanning,79,17,0,0,0,6,56
+Fairfield,DUTCHMANS CREEK,State Senate,17,DEM,Mike Fanning,319,102,0,0,0,70,147
+Fairfield,Failsafe,State Senate,17,DEM,Mike Fanning,5,0,0,0,5,0,0
+Fairfield,Provisional,State Senate,17,DEM,Mike Fanning,8,0,0,8,0,0,0
+Fairfield,Failsafe Provisional,State Senate,17,DEM,Mike Fanning,5,0,5,0,0,0,0
+Fairfield,BLACKSTOCK,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLAIRS,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,FEASTERVILLE,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,GLADDEN GROVE,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,JENKINSVILLE,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Horeb-Glenn,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,HICKORY RIDGE,State Senate,17,NON,Write-In,2,0,0,0,0,1,1
+Fairfield,LEBANON,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,MITFORD,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,MONTICELLO,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,NEW HOPE,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,RIDGEWAY,State Senate,17,NON,Write-In,3,1,0,0,0,0,2
+Fairfield,SIMPSON,State Senate,17,NON,Write-In,2,1,0,0,0,0,1
+Fairfield,SOUTH WINNSBORO,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,WINNSBORO MILLS,State Senate,17,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,WINNSBORO NO. 1,State Senate,17,NON,Write-In,4,1,0,0,0,2,1
+Fairfield,WINNSBORO NO. 2,State Senate,17,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,WHITE OAK,State Senate,17,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,WOODARD,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,State Senate,17,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,State House,41,REP,Jennifer Brecheisen,12,2,0,0,0,3,7
+Fairfield,BLAIRS,State House,41,REP,Jennifer Brecheisen,54,7,0,0,0,4,43
+Fairfield,CENTERVILLE,State House,41,REP,Jennifer Brecheisen,149,10,0,0,0,9,130
+Fairfield,FEASTERVILLE,State House,41,REP,Jennifer Brecheisen,63,11,0,0,0,6,46
+Fairfield,GREENBRIER,State House,41,REP,Jennifer Brecheisen,496,210,0,0,0,67,219
+Fairfield,GLADDEN GROVE,State House,41,REP,Jennifer Brecheisen,28,5,0,0,0,2,21
+Fairfield,JENKINSVILLE,State House,41,REP,Jennifer Brecheisen,84,13,0,0,0,14,57
+Fairfield,Horeb-Glenn,State House,41,REP,Jennifer Brecheisen,49,14,0,0,0,6,29
+Fairfield,HICKORY RIDGE,State House,41,REP,Jennifer Brecheisen,229,109,0,0,0,23,97
+Fairfield,LEBANON,State House,41,REP,Jennifer Brecheisen,284,111,0,0,0,31,142
+Fairfield,MITFORD,State House,41,REP,Jennifer Brecheisen,291,38,0,0,0,25,228
+Fairfield,MONTICELLO,State House,41,REP,Jennifer Brecheisen,119,38,0,0,0,26,55
+Fairfield,NEW HOPE,State House,41,REP,Jennifer Brecheisen,33,2,0,0,0,9,22
+Fairfield,RIDGEWAY,State House,41,REP,Jennifer Brecheisen,561,224,0,0,0,87,250
+Fairfield,SIMPSON,State House,41,REP,Jennifer Brecheisen,316,137,0,0,0,42,137
+Fairfield,SOUTH WINNSBORO,State House,41,REP,Jennifer Brecheisen,79,34,0,0,0,12,33
+Fairfield,WINNSBORO MILLS,State House,41,REP,Jennifer Brecheisen,210,87,0,0,0,18,105
+Fairfield,WINNSBORO NO. 1,State House,41,REP,Jennifer Brecheisen,249,134,0,0,0,35,80
+Fairfield,WINNSBORO NO. 2,State House,41,REP,Jennifer Brecheisen,373,164,0,0,0,62,147
+Fairfield,WHITE OAK,State House,41,REP,Jennifer Brecheisen,51,5,0,0,0,11,35
+Fairfield,WOODARD,State House,41,REP,Jennifer Brecheisen,23,8,0,0,0,1,14
+Fairfield,DUTCHMANS CREEK,State House,41,REP,Jennifer Brecheisen,809,198,0,0,0,101,510
+Fairfield,Failsafe,State House,41,REP,Jennifer Brecheisen,3,0,0,0,3,0,0
+Fairfield,Provisional,State House,41,REP,Jennifer Brecheisen,4,0,0,4,0,0,0
+Fairfield,Failsafe Provisional,State House,41,REP,Jennifer Brecheisen,4,0,4,0,0,0,0
+Fairfield,BLACKSTOCK,State House,41,DEM,Annie E McDaniel,46,4,0,0,0,2,40
+Fairfield,BLAIRS,State House,41,DEM,Annie E McDaniel,264,64,0,0,0,44,156
+Fairfield,CENTERVILLE,State House,41,DEM,Annie E McDaniel,72,25,0,0,0,12,35
+Fairfield,FEASTERVILLE,State House,41,DEM,Annie E McDaniel,165,38,0,0,0,25,102
+Fairfield,GREENBRIER,State House,41,DEM,Annie E McDaniel,959,551,0,0,0,174,234
+Fairfield,GLADDEN GROVE,State House,41,DEM,Annie E McDaniel,21,1,0,0,0,6,14
+Fairfield,JENKINSVILLE,State House,41,DEM,Annie E McDaniel,347,108,0,0,0,53,186
+Fairfield,Horeb-Glenn,State House,41,DEM,Annie E McDaniel,222,108,0,0,0,28,86
+Fairfield,HICKORY RIDGE,State House,41,DEM,Annie E McDaniel,456,205,0,0,0,73,178
+Fairfield,LEBANON,State House,41,DEM,Annie E McDaniel,295,140,0,0,0,57,98
+Fairfield,MITFORD,State House,41,DEM,Annie E McDaniel,276,111,0,0,0,32,133
+Fairfield,MONTICELLO,State House,41,DEM,Annie E McDaniel,314,101,0,0,0,41,172
+Fairfield,NEW HOPE,State House,41,DEM,Annie E McDaniel,20,12,0,0,0,3,5
+Fairfield,RIDGEWAY,State House,41,DEM,Annie E McDaniel,1123,572,0,0,0,225,326
+Fairfield,SIMPSON,State House,41,DEM,Annie E McDaniel,401,171,0,0,0,65,165
+Fairfield,SOUTH WINNSBORO,State House,41,DEM,Annie E McDaniel,440,235,0,0,0,55,150
+Fairfield,WINNSBORO MILLS,State House,41,DEM,Annie E McDaniel,274,134,0,0,0,12,128
+Fairfield,WINNSBORO NO. 1,State House,41,DEM,Annie E McDaniel,768,421,0,0,0,87,260
+Fairfield,WINNSBORO NO. 2,State House,41,DEM,Annie E McDaniel,447,239,0,0,0,61,147
+Fairfield,WHITE OAK,State House,41,DEM,Annie E McDaniel,142,58,0,0,0,21,63
+Fairfield,WOODARD,State House,41,DEM,Annie E McDaniel,75,16,0,0,0,6,53
+Fairfield,DUTCHMANS CREEK,State House,41,DEM,Annie E McDaniel,328,106,0,0,0,73,149
+Fairfield,Failsafe,State House,41,DEM,Annie E McDaniel,5,0,0,0,5,0,0
+Fairfield,Provisional,State House,41,DEM,Annie E McDaniel,8,0,0,8,0,0,0
+Fairfield,Failsafe Provisional,State House,41,DEM,Annie E McDaniel,3,0,3,0,0,0,0
+Fairfield,BLACKSTOCK,State House,41,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLAIRS,State House,41,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,State House,41,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,FEASTERVILLE,State House,41,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,State House,41,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,GLADDEN GROVE,State House,41,NON,Write-In,1,0,0,0,0,1,0
+Fairfield,JENKINSVILLE,State House,41,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Horeb-Glenn,State House,41,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,HICKORY RIDGE,State House,41,NON,Write-In,2,1,0,0,0,0,1
+Fairfield,LEBANON,State House,41,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,MITFORD,State House,41,NON,Write-In,2,1,0,0,0,0,1
+Fairfield,MONTICELLO,State House,41,NON,Write-In,1,0,0,0,0,1,0
+Fairfield,NEW HOPE,State House,41,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,RIDGEWAY,State House,41,NON,Write-In,5,3,0,0,0,0,2
+Fairfield,SIMPSON,State House,41,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,SOUTH WINNSBORO,State House,41,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,WINNSBORO MILLS,State House,41,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,WINNSBORO NO. 1,State House,41,NON,Write-In,3,2,0,0,0,1,0
+Fairfield,WINNSBORO NO. 2,State House,41,NON,Write-In,3,1,0,0,0,2,0
+Fairfield,WHITE OAK,State House,41,NON,Write-In,2,0,0,0,0,0,2
+Fairfield,WOODARD,State House,41,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,State House,41,NON,Write-In,1,0,0,0,0,1,0
+Fairfield,Failsafe,State House,41,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,State House,41,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,State House,41,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,Sheriff,,DEM,Will Montgomery,43,5,0,0,0,3,35
+Fairfield,BLAIRS,Sheriff,,DEM,Will Montgomery,242,55,0,0,0,30,157
+Fairfield,CENTERVILLE,Sheriff,,DEM,Will Montgomery,154,28,0,0,0,19,107
+Fairfield,FEASTERVILLE,Sheriff,,DEM,Will Montgomery,177,41,0,0,0,23,113
+Fairfield,GREENBRIER,Sheriff,,DEM,Will Montgomery,1212,628,0,0,0,193,391
+Fairfield,GLADDEN GROVE,Sheriff,,DEM,Will Montgomery,47,5,0,0,0,9,33
+Fairfield,JENKINSVILLE,Sheriff,,DEM,Will Montgomery,272,82,0,0,0,39,151
+Fairfield,Horeb-Glenn,Sheriff,,DEM,Will Montgomery,217,102,0,0,0,27,88
+Fairfield,HICKORY RIDGE,Sheriff,,DEM,Will Montgomery,585,272,0,0,0,80,233
+Fairfield,LEBANON,Sheriff,,DEM,Will Montgomery,487,220,0,0,0,60,207
+Fairfield,MITFORD,Sheriff,,DEM,Will Montgomery,467,121,0,0,0,47,299
+Fairfield,MONTICELLO,Sheriff,,DEM,Will Montgomery,324,104,0,0,0,45,175
+Fairfield,NEW HOPE,Sheriff,,DEM,Will Montgomery,42,13,0,0,0,7,22
+Fairfield,RIDGEWAY,Sheriff,,DEM,Will Montgomery,1290,626,0,0,0,231,433
+Fairfield,SIMPSON,Sheriff,,DEM,Will Montgomery,562,252,0,0,0,74,236
+Fairfield,SOUTH WINNSBORO,Sheriff,,DEM,Will Montgomery,432,223,0,0,0,53,156
+Fairfield,WINNSBORO MILLS,Sheriff,,DEM,Will Montgomery,443,205,0,0,0,31,207
+Fairfield,WINNSBORO NO. 1,Sheriff,,DEM,Will Montgomery,920,504,0,0,0,104,312
+Fairfield,WINNSBORO NO. 2,Sheriff,,DEM,Will Montgomery,739,358,0,0,0,113,268
+Fairfield,WHITE OAK,Sheriff,,DEM,Will Montgomery,168,55,0,0,0,26,87
+Fairfield,WOODARD,Sheriff,,DEM,Will Montgomery,89,22,0,0,0,6,61
+Fairfield,DUTCHMANS CREEK,Sheriff,,DEM,Will Montgomery,911,245,0,0,0,154,512
+Fairfield,Failsafe,Sheriff,,DEM,Will Montgomery,4,0,0,0,4,0,0
+Fairfield,Provisional,Sheriff,,DEM,Will Montgomery,11,0,0,11,0,0,0
+Fairfield,Failsafe Provisional,Sheriff,,DEM,Will Montgomery,7,0,7,0,0,0,0
+Fairfield,BLACKSTOCK,Sheriff,,PET,PET Ed Eddie Jenkins,11,0,0,0,0,0,11
+Fairfield,BLAIRS,Sheriff,,PET,PET Ed Eddie Jenkins,68,15,0,0,0,15,38
+Fairfield,CENTERVILLE,Sheriff,,PET,PET Ed Eddie Jenkins,33,6,0,0,0,2,25
+Fairfield,FEASTERVILLE,Sheriff,,PET,PET Ed Eddie Jenkins,49,7,0,0,0,9,33
+Fairfield,GREENBRIER,Sheriff,,PET,PET Ed Eddie Jenkins,209,122,0,0,0,33,54
+Fairfield,GLADDEN GROVE,Sheriff,,PET,PET Ed Eddie Jenkins,3,1,0,0,0,0,2
+Fairfield,JENKINSVILLE,Sheriff,,PET,PET Ed Eddie Jenkins,144,38,0,0,0,21,85
+Fairfield,Horeb-Glenn,Sheriff,,PET,PET Ed Eddie Jenkins,54,20,0,0,0,7,27
+Fairfield,HICKORY RIDGE,Sheriff,,PET,PET Ed Eddie Jenkins,94,42,0,0,0,18,34
+Fairfield,LEBANON,Sheriff,,PET,PET Ed Eddie Jenkins,79,27,0,0,0,26,26
+Fairfield,MITFORD,Sheriff,,PET,PET Ed Eddie Jenkins,78,25,0,0,0,7,46
+Fairfield,MONTICELLO,Sheriff,,PET,PET Ed Eddie Jenkins,105,34,0,0,0,20,51
+Fairfield,NEW HOPE,Sheriff,,PET,PET Ed Eddie Jenkins,6,1,0,0,0,1,4
+Fairfield,RIDGEWAY,Sheriff,,PET,PET Ed Eddie Jenkins,322,154,0,0,0,52,116
+Fairfield,SIMPSON,Sheriff,,PET,PET Ed Eddie Jenkins,120,50,0,0,0,19,51
+Fairfield,SOUTH WINNSBORO,Sheriff,,PET,PET Ed Eddie Jenkins,86,46,0,0,0,14,26
+Fairfield,WINNSBORO MILLS,Sheriff,,PET,PET Ed Eddie Jenkins,38,10,0,0,0,2,26
+Fairfield,WINNSBORO NO. 1,Sheriff,,PET,PET Ed Eddie Jenkins,104,56,0,0,0,21,27
+Fairfield,WINNSBORO NO. 2,Sheriff,,PET,PET Ed Eddie Jenkins,72,41,0,0,0,7,24
+Fairfield,WHITE OAK,Sheriff,,PET,PET Ed Eddie Jenkins,23,7,0,0,0,4,12
+Fairfield,WOODARD,Sheriff,,PET,PET Ed Eddie Jenkins,8,1,0,0,0,1,6
+Fairfield,DUTCHMANS CREEK,Sheriff,,PET,PET Ed Eddie Jenkins,148,41,0,0,0,6,101
+Fairfield,Failsafe,Sheriff,,PET,PET Ed Eddie Jenkins,3,0,0,0,3,0,0
+Fairfield,Provisional,Sheriff,,PET,PET Ed Eddie Jenkins,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,Sheriff,,PET,PET Ed Eddie Jenkins,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLAIRS,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,Sheriff,,NON,Write-In,3,0,0,0,0,0,3
+Fairfield,FEASTERVILLE,Sheriff,,NON,Write-In,3,1,0,0,0,0,2
+Fairfield,GREENBRIER,Sheriff,,NON,Write-In,3,0,0,0,0,3,0
+Fairfield,GLADDEN GROVE,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,JENKINSVILLE,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Horeb-Glenn,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,HICKORY RIDGE,Sheriff,,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,LEBANON,Sheriff,,NON,Write-In,3,2,0,0,0,0,1
+Fairfield,MITFORD,Sheriff,,NON,Write-In,4,1,0,0,0,0,3
+Fairfield,MONTICELLO,Sheriff,,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,NEW HOPE,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,RIDGEWAY,Sheriff,,NON,Write-In,10,2,0,0,0,0,8
+Fairfield,SIMPSON,Sheriff,,NON,Write-In,2,1,0,0,0,1,0
+Fairfield,SOUTH WINNSBORO,Sheriff,,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,WINNSBORO MILLS,Sheriff,,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,WINNSBORO NO. 1,Sheriff,,NON,Write-In,2,0,0,0,0,0,2
+Fairfield,WINNSBORO NO. 2,Sheriff,,NON,Write-In,4,2,0,0,0,1,1
+Fairfield,WHITE OAK,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,WOODARD,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,Sheriff,,NON,Write-In,4,2,0,0,0,0,2
+Fairfield,Failsafe,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,Clerk of Court,,DEM,Judy Bonds,50,4,0,0,0,2,44
+Fairfield,BLAIRS,Clerk of Court,,DEM,Judy Bonds,295,68,0,0,0,45,182
+Fairfield,CENTERVILLE,Clerk of Court,,DEM,Judy Bonds,161,30,0,0,0,20,111
+Fairfield,FEASTERVILLE,Clerk of Court,,DEM,Judy Bonds,215,47,0,0,0,32,136
+Fairfield,GREENBRIER,Clerk of Court,,DEM,Judy Bonds,1351,722,0,0,0,219,410
+Fairfield,GLADDEN GROVE,Clerk of Court,,DEM,Judy Bonds,44,5,0,0,0,9,30
+Fairfield,JENKINSVILLE,Clerk of Court,,DEM,Judy Bonds,395,117,0,0,0,57,221
+Fairfield,Horeb-Glenn,Clerk of Court,,DEM,Judy Bonds,263,119,0,0,0,33,111
+Fairfield,HICKORY RIDGE,Clerk of Court,,DEM,Judy Bonds,651,306,0,0,0,91,254
+Fairfield,LEBANON,Clerk of Court,,DEM,Judy Bonds,545,242,0,0,0,82,221
+Fairfield,MITFORD,Clerk of Court,,DEM,Judy Bonds,462,139,0,0,0,48,275
+Fairfield,MONTICELLO,Clerk of Court,,DEM,Judy Bonds,404,132,0,0,0,63,209
+Fairfield,NEW HOPE,Clerk of Court,,DEM,Judy Bonds,45,13,0,0,0,7,25
+Fairfield,RIDGEWAY,Clerk of Court,,DEM,Judy Bonds,1481,723,0,0,0,260,498
+Fairfield,SIMPSON,Clerk of Court,,DEM,Judy Bonds,630,283,0,0,0,92,255
+Fairfield,SOUTH WINNSBORO,Clerk of Court,,DEM,Judy Bonds,510,268,0,0,0,66,176
+Fairfield,WINNSBORO MILLS,Clerk of Court,,DEM,Judy Bonds,466,214,0,0,0,31,221
+Fairfield,WINNSBORO NO. 1,Clerk of Court,,DEM,Judy Bonds,986,543,0,0,0,117,326
+Fairfield,WINNSBORO NO. 2,Clerk of Court,,DEM,Judy Bonds,784,390,0,0,0,116,278
+Fairfield,WHITE OAK,Clerk of Court,,DEM,Judy Bonds,186,59,0,0,0,29,98
+Fairfield,WOODARD,Clerk of Court,,DEM,Judy Bonds,96,23,0,0,0,7,66
+Fairfield,DUTCHMANS CREEK,Clerk of Court,,DEM,Judy Bonds,878,249,0,0,0,133,496
+Fairfield,Failsafe,Clerk of Court,,DEM,Judy Bonds,5,0,0,0,5,0,0
+Fairfield,Provisional,Clerk of Court,,DEM,Judy Bonds,11,0,0,11,0,0,0
+Fairfield,Failsafe Provisional,Clerk of Court,,DEM,Judy Bonds,7,0,7,0,0,0,0
+Fairfield,BLACKSTOCK,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLAIRS,Clerk of Court,,NON,Write-In,2,0,0,0,0,0,2
+Fairfield,CENTERVILLE,Clerk of Court,,NON,Write-In,7,2,0,0,0,0,5
+Fairfield,FEASTERVILLE,Clerk of Court,,NON,Write-In,2,1,0,0,0,0,1
+Fairfield,GREENBRIER,Clerk of Court,,NON,Write-In,8,3,0,0,0,0,5
+Fairfield,GLADDEN GROVE,Clerk of Court,,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,JENKINSVILLE,Clerk of Court,,NON,Write-In,2,0,0,0,0,2,0
+Fairfield,Horeb-Glenn,Clerk of Court,,NON,Write-In,3,3,0,0,0,0,0
+Fairfield,HICKORY RIDGE,Clerk of Court,,NON,Write-In,4,1,0,0,0,0,3
+Fairfield,LEBANON,Clerk of Court,,NON,Write-In,9,3,0,0,0,0,6
+Fairfield,MITFORD,Clerk of Court,,NON,Write-In,9,0,0,0,0,0,9
+Fairfield,MONTICELLO,Clerk of Court,,NON,Write-In,3,0,0,0,0,0,3
+Fairfield,NEW HOPE,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,RIDGEWAY,Clerk of Court,,NON,Write-In,21,8,0,0,0,0,13
+Fairfield,SIMPSON,Clerk of Court,,NON,Write-In,9,3,0,0,0,1,5
+Fairfield,SOUTH WINNSBORO,Clerk of Court,,NON,Write-In,2,0,0,0,0,0,2
+Fairfield,WINNSBORO MILLS,Clerk of Court,,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,WINNSBORO NO. 1,Clerk of Court,,NON,Write-In,10,2,0,0,0,3,5
+Fairfield,WINNSBORO NO. 2,Clerk of Court,,NON,Write-In,3,1,0,0,0,0,2
+Fairfield,WHITE OAK,Clerk of Court,,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,WOODARD,Clerk of Court,,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,DUTCHMANS CREEK,Clerk of Court,,NON,Write-In,16,4,0,0,0,0,12
+Fairfield,Failsafe,Clerk of Court,,NON,Write-In,1,0,0,0,1,0,0
+Fairfield,Provisional,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,Coroner,,DEM,Chris Hill,49,4,0,0,0,2,43
+Fairfield,BLAIRS,Coroner,,DEM,Chris Hill,297,68,0,0,0,46,183
+Fairfield,CENTERVILLE,Coroner,,DEM,Chris Hill,162,30,0,0,0,20,112
+Fairfield,FEASTERVILLE,Coroner,,DEM,Chris Hill,214,47,0,0,0,32,135
+Fairfield,GREENBRIER,Coroner,,DEM,Chris Hill,1351,719,0,0,0,217,415
+Fairfield,GLADDEN GROVE,Coroner,,DEM,Chris Hill,44,5,0,0,0,9,30
+Fairfield,JENKINSVILLE,Coroner,,DEM,Chris Hill,397,119,0,0,0,59,219
+Fairfield,Horeb-Glenn,Coroner,,DEM,Chris Hill,264,120,0,0,0,33,111
+Fairfield,HICKORY RIDGE,Coroner,,DEM,Chris Hill,646,302,0,0,0,91,253
+Fairfield,LEBANON,Coroner,,DEM,Chris Hill,543,241,0,0,0,84,218
+Fairfield,MITFORD,Coroner,,DEM,Chris Hill,463,139,0,0,0,45,279
+Fairfield,MONTICELLO,Coroner,,DEM,Chris Hill,401,130,0,0,0,59,212
+Fairfield,NEW HOPE,Coroner,,DEM,Chris Hill,46,14,0,0,0,7,25
+Fairfield,RIDGEWAY,Coroner,,DEM,Chris Hill,1495,730,0,0,0,265,500
+Fairfield,SIMPSON,Coroner,,DEM,Chris Hill,641,285,0,0,0,95,261
+Fairfield,SOUTH WINNSBORO,Coroner,,DEM,Chris Hill,505,263,0,0,0,66,176
+Fairfield,WINNSBORO MILLS,Coroner,,DEM,Chris Hill,457,212,0,0,0,29,216
+Fairfield,WINNSBORO NO. 1,Coroner,,DEM,Chris Hill,985,541,0,0,0,116,328
+Fairfield,WINNSBORO NO. 2,Coroner,,DEM,Chris Hill,773,381,0,0,0,116,276
+Fairfield,WHITE OAK,Coroner,,DEM,Chris Hill,184,60,0,0,0,30,94
+Fairfield,WOODARD,Coroner,,DEM,Chris Hill,95,23,0,0,0,7,65
+Fairfield,DUTCHMANS CREEK,Coroner,,DEM,Chris Hill,873,249,0,0,0,124,500
+Fairfield,Failsafe,Coroner,,DEM,Chris Hill,6,0,0,0,6,0,0
+Fairfield,Provisional,Coroner,,DEM,Chris Hill,11,0,0,11,0,0,0
+Fairfield,Failsafe Provisional,Coroner,,DEM,Chris Hill,6,0,6,0,0,0,0
+Fairfield,BLACKSTOCK,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLAIRS,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,CENTERVILLE,Coroner,,NON,Write-In,6,2,0,0,0,0,4
+Fairfield,FEASTERVILLE,Coroner,,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,GREENBRIER,Coroner,,NON,Write-In,2,0,0,0,0,0,2
+Fairfield,GLADDEN GROVE,Coroner,,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,JENKINSVILLE,Coroner,,NON,Write-In,2,0,0,0,0,1,1
+Fairfield,Horeb-Glenn,Coroner,,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,HICKORY RIDGE,Coroner,,NON,Write-In,8,4,0,0,0,1,3
+Fairfield,LEBANON,Coroner,,NON,Write-In,11,5,0,0,0,0,6
+Fairfield,MITFORD,Coroner,,NON,Write-In,9,0,0,0,0,2,7
+Fairfield,MONTICELLO,Coroner,,NON,Write-In,3,0,0,0,0,0,3
+Fairfield,NEW HOPE,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,RIDGEWAY,Coroner,,NON,Write-In,19,5,0,0,0,1,13
+Fairfield,SIMPSON,Coroner,,NON,Write-In,6,1,0,0,0,1,4
+Fairfield,SOUTH WINNSBORO,Coroner,,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,WINNSBORO MILLS,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,WINNSBORO NO. 1,Coroner,,NON,Write-In,5,1,0,0,0,2,2
+Fairfield,WINNSBORO NO. 2,Coroner,,NON,Write-In,6,2,0,0,0,1,3
+Fairfield,WHITE OAK,Coroner,,NON,Write-In,2,0,0,0,0,0,2
+Fairfield,WOODARD,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,Coroner,,NON,Write-In,17,3,0,0,0,2,12
+Fairfield,Failsafe,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,Coroner,,NON,Write-In,1,0,1,0,0,0,0
+Fairfield,LEBANON,County Council District 2,,NON,Jimmy Ray Douglas,224,88,0,0,0,27,109
+Fairfield,MITFORD,County Council District 2,,NON,Jimmy Ray Douglas,111,13,0,0,0,12,86
+Fairfield,RIDGEWAY,County Council District 2,,NON,Jimmy Ray Douglas,17,8,0,0,0,1,8
+Fairfield,WINNSBORO NO. 2,County Council District 2,,NON,Jimmy Ray Douglas,100,47,0,0,0,11,42
+Fairfield,DUTCHMANS CREEK,County Council District 2,,NON,Jimmy Ray Douglas,498,130,0,0,0,60,308
+Fairfield,Failsafe,County Council District 2,,NON,Jimmy Ray Douglas,0,0,0,0,0,0,0
+Fairfield,Provisional,County Council District 2,,NON,Jimmy Ray Douglas,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,County Council District 2,,NON,Jimmy Ray Douglas,0,0,0,0,0,0,0
+Fairfield,LEBANON,County Council District 2,,NON,Shirley Greene,212,106,0,0,0,35,71
+Fairfield,MITFORD,County Council District 2,,NON,Shirley Greene,139,54,0,0,0,13,72
+Fairfield,RIDGEWAY,County Council District 2,,NON,Shirley Greene,36,15,0,0,0,3,18
+Fairfield,WINNSBORO NO. 2,County Council District 2,,NON,Shirley Greene,126,70,0,0,0,17,39
+Fairfield,DUTCHMANS CREEK,County Council District 2,,NON,Shirley Greene,443,111,0,0,0,80,252
+Fairfield,Failsafe,County Council District 2,,NON,Shirley Greene,0,0,0,0,0,0,0
+Fairfield,Provisional,County Council District 2,,NON,Shirley Greene,2,0,0,2,0,0,0
+Fairfield,Failsafe Provisional,County Council District 2,,NON,Shirley Greene,0,0,0,0,0,0,0
+Fairfield,LEBANON,County Council District 2,,NON,Write-In,4,2,0,0,0,0,2
+Fairfield,MITFORD,County Council District 2,,NON,Write-In,2,0,0,0,0,0,2
+Fairfield,RIDGEWAY,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,WINNSBORO NO. 2,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,County Council District 2,,NON,Write-In,2,0,0,0,0,0,2
+Fairfield,Failsafe,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,County Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,County Council District 4,,NON,Bertha Goins,219,129,0,0,0,33,57
+Fairfield,JENKINSVILLE,County Council District 4,,NON,Bertha Goins,143,23,0,0,0,34,86
+Fairfield,Horeb-Glenn,County Council District 4,,NON,Bertha Goins,50,20,0,0,0,16,14
+Fairfield,MONTICELLO,County Council District 4,,NON,Bertha Goins,127,46,0,0,0,26,55
+Fairfield,Failsafe,County Council District 4,,NON,Bertha Goins,0,0,0,0,0,0,0
+Fairfield,Provisional,County Council District 4,,NON,Bertha Goins,2,0,0,2,0,0,0
+Fairfield,Failsafe Provisional,County Council District 4,,NON,Bertha Goins,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,County Council District 4,,NON,Cynthia Parnell-Rivers,277,153,0,0,0,54,70
+Fairfield,JENKINSVILLE,County Council District 4,,NON,Cynthia Parnell-Rivers,43,13,0,0,0,3,27
+Fairfield,Horeb-Glenn,County Council District 4,,NON,Cynthia Parnell-Rivers,50,23,0,0,0,4,23
+Fairfield,MONTICELLO,County Council District 4,,NON,Cynthia Parnell-Rivers,31,9,0,0,0,4,18
+Fairfield,Failsafe,County Council District 4,,NON,Cynthia Parnell-Rivers,0,0,0,0,0,0,0
+Fairfield,Provisional,County Council District 4,,NON,Cynthia Parnell-Rivers,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,County Council District 4,,NON,Cynthia Parnell-Rivers,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,County Council District 4,,NON,Tim Roseborough,276,138,0,0,0,52,86
+Fairfield,JENKINSVILLE,County Council District 4,,NON,Tim Roseborough,228,80,0,0,0,27,121
+Fairfield,Horeb-Glenn,County Council District 4,,NON,Tim Roseborough,40,19,0,0,0,1,20
+Fairfield,MONTICELLO,County Council District 4,,NON,Tim Roseborough,252,73,0,0,0,31,148
+Fairfield,Failsafe,County Council District 4,,NON,Tim Roseborough,0,0,0,0,0,0,0
+Fairfield,Provisional,County Council District 4,,NON,Tim Roseborough,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,County Council District 4,,NON,Tim Roseborough,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,County Council District 4,,NON,Write-In,11,5,0,0,0,3,3
+Fairfield,JENKINSVILLE,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Horeb-Glenn,County Council District 4,,NON,Write-In,6,2,0,0,0,1,3
+Fairfield,MONTICELLO,County Council District 4,,NON,Write-In,2,1,0,0,0,0,1
+Fairfield,Failsafe,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,HICKORY RIDGE,County Council District 6,,NON,Bob Prather,11,5,0,0,0,3,3
+Fairfield,SOUTH WINNSBORO,County Council District 6,,NON,Bob Prather,3,1,0,0,0,0,2
+Fairfield,WINNSBORO MILLS,County Council District 6,,NON,Bob Prather,158,73,0,0,0,17,68
+Fairfield,WINNSBORO NO. 1,County Council District 6,,NON,Bob Prather,125,70,0,0,0,17,38
+Fairfield,Failsafe,County Council District 6,,NON,Bob Prather,0,0,0,0,0,0,0
+Fairfield,Provisional,County Council District 6,,NON,Bob Prather,1,0,0,1,0,0,0
+Fairfield,Failsafe Provisional,County Council District 6,,NON,Bob Prather,0,0,0,0,0,0,0
+Fairfield,HICKORY RIDGE,County Council District 6,,NON,Neil Robinson,76,42,0,0,0,7,27
+Fairfield,SOUTH WINNSBORO,County Council District 6,,NON,Neil Robinson,42,22,0,0,0,0,20
+Fairfield,WINNSBORO MILLS,County Council District 6,,NON,Neil Robinson,247,114,0,0,0,10,123
+Fairfield,WINNSBORO NO. 1,County Council District 6,,NON,Neil Robinson,468,252,0,0,0,52,164
+Fairfield,Failsafe,County Council District 6,,NON,Neil Robinson,0,0,0,0,0,0,0
+Fairfield,Provisional,County Council District 6,,NON,Neil Robinson,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,County Council District 6,,NON,Neil Robinson,3,0,3,0,0,0,0
+Fairfield,HICKORY RIDGE,County Council District 6,,NON,Write-In,16,9,0,0,0,1,6
+Fairfield,SOUTH WINNSBORO,County Council District 6,,NON,Write-In,3,3,0,0,0,0,0
+Fairfield,WINNSBORO MILLS,County Council District 6,,NON,Write-In,16,6,0,0,0,0,10
+Fairfield,WINNSBORO NO. 1,County Council District 6,,NON,Write-In,54,26,0,0,0,7,21
+Fairfield,Failsafe,County Council District 6,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,County Council District 6,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,County Council District 6,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,Soil and Water District Commission,,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,BLAIRS,Soil and Water District Commission,,NON,Write-In,27,2,0,0,0,0,25
+Fairfield,CENTERVILLE,Soil and Water District Commission,,NON,Write-In,21,4,0,0,0,2,15
+Fairfield,FEASTERVILLE,Soil and Water District Commission,,NON,Write-In,17,4,0,0,0,3,10
+Fairfield,GREENBRIER,Soil and Water District Commission,,NON,Write-In,116,40,0,0,0,21,55
+Fairfield,GLADDEN GROVE,Soil and Water District Commission,,NON,Write-In,8,1,0,0,0,2,5
+Fairfield,JENKINSVILLE,Soil and Water District Commission,,NON,Write-In,32,8,0,0,0,3,21
+Fairfield,Horeb-Glenn,Soil and Water District Commission,,NON,Write-In,21,6,0,0,0,2,13
+Fairfield,HICKORY RIDGE,Soil and Water District Commission,,NON,Write-In,78,39,0,0,0,9,30
+Fairfield,LEBANON,Soil and Water District Commission,,NON,Write-In,103,42,0,0,0,15,46
+Fairfield,MITFORD,Soil and Water District Commission,,NON,Write-In,52,10,0,0,0,2,40
+Fairfield,MONTICELLO,Soil and Water District Commission,,NON,Write-In,25,6,0,0,0,6,13
+Fairfield,NEW HOPE,Soil and Water District Commission,,NON,Write-In,8,1,0,0,0,0,7
+Fairfield,RIDGEWAY,Soil and Water District Commission,,NON,Write-In,122,59,0,0,0,12,51
+Fairfield,SIMPSON,Soil and Water District Commission,,NON,Write-In,75,32,0,0,0,11,32
+Fairfield,SOUTH WINNSBORO,Soil and Water District Commission,,NON,Write-In,27,6,0,0,0,4,17
+Fairfield,WINNSBORO MILLS,Soil and Water District Commission,,NON,Write-In,23,10,0,0,0,1,12
+Fairfield,WINNSBORO NO. 1,Soil and Water District Commission,,NON,Write-In,106,53,0,0,0,16,37
+Fairfield,WINNSBORO NO. 2,Soil and Water District Commission,,NON,Write-In,116,51,0,0,0,16,49
+Fairfield,WHITE OAK,Soil and Water District Commission,,NON,Write-In,38,5,0,0,0,3,30
+Fairfield,WOODARD,Soil and Water District Commission,,NON,Write-In,10,2,0,0,0,0,8
+Fairfield,DUTCHMANS CREEK,Soil and Water District Commission,,NON,Write-In,93,25,0,0,0,8,60
+Fairfield,Failsafe,Soil and Water District Commission,,NON,Write-In,1,0,0,0,1,0,0
+Fairfield,Provisional,Soil and Water District Commission,,NON,Write-In,2,0,0,2,0,0,0
+Fairfield,Failsafe Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,LEBANON,School Board District 2,,NON,J Renee Green,240,114,0,0,0,38,88
+Fairfield,MITFORD,School Board District 2,,NON,J Renee Green,164,50,0,0,0,14,100
+Fairfield,RIDGEWAY,School Board District 2,,NON,J Renee Green,27,10,0,0,0,1,16
+Fairfield,WINNSBORO NO. 2,School Board District 2,,NON,J Renee Green,154,85,0,0,0,16,53
+Fairfield,DUTCHMANS CREEK,School Board District 2,,NON,J Renee Green,460,105,0,0,0,61,294
+Fairfield,Failsafe,School Board District 2,,NON,J Renee Green,0,0,0,0,0,0,0
+Fairfield,Provisional,School Board District 2,,NON,J Renee Green,2,0,0,2,0,0,0
+Fairfield,Failsafe Provisional,School Board District 2,,NON,J Renee Green,0,0,0,0,0,0,0
+Fairfield,LEBANON,School Board District 2,,NON,Paula Meisner Hartman,166,63,0,0,0,23,80
+Fairfield,MITFORD,School Board District 2,,NON,Paula Meisner Hartman,72,16,0,0,0,10,46
+Fairfield,RIDGEWAY,School Board District 2,,NON,Paula Meisner Hartman,23,12,0,0,0,3,8
+Fairfield,WINNSBORO NO. 2,School Board District 2,,NON,Paula Meisner Hartman,65,27,0,0,0,10,28
+Fairfield,DUTCHMANS CREEK,School Board District 2,,NON,Paula Meisner Hartman,390,115,0,0,0,62,213
+Fairfield,Failsafe,School Board District 2,,NON,Paula Meisner Hartman,0,0,0,0,0,0,0
+Fairfield,Provisional,School Board District 2,,NON,Paula Meisner Hartman,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,School Board District 2,,NON,Paula Meisner Hartman,0,0,0,0,0,0,0
+Fairfield,LEBANON,School Board District 2,,NON,Write-In,5,4,0,0,0,0,1
+Fairfield,MITFORD,School Board District 2,,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,RIDGEWAY,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,WINNSBORO NO. 2,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,DUTCHMANS CREEK,School Board District 2,,NON,Write-In,2,1,0,0,0,0,1
+Fairfield,Failsafe,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,School Board District 4,,NON,Joe E Seibles,588,332,0,0,0,94,162
+Fairfield,JENKINSVILLE,School Board District 4,,NON,Joe E Seibles,232,68,0,0,0,36,128
+Fairfield,Horeb-Glenn,School Board District 4,,NON,Joe E Seibles,92,39,0,0,0,18,35
+Fairfield,MONTICELLO,School Board District 4,,NON,Joe E Seibles,200,70,0,0,0,31,99
+Fairfield,Failsafe,School Board District 4,,NON,Joe E Seibles,0,0,0,0,0,0,0
+Fairfield,Provisional,School Board District 4,,NON,Joe E Seibles,2,0,0,2,0,0,0
+Fairfield,Failsafe Provisional,School Board District 4,,NON,Joe E Seibles,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,School Board District 4,,NON,Carrie Suber-ONeal,190,86,0,0,0,47,57
+Fairfield,JENKINSVILLE,School Board District 4,,NON,Carrie Suber-ONeal,169,48,0,0,0,27,94
+Fairfield,Horeb-Glenn,School Board District 4,,NON,Carrie Suber-ONeal,52,22,0,0,0,5,25
+Fairfield,MONTICELLO,School Board District 4,,NON,Carrie Suber-ONeal,189,58,0,0,0,22,109
+Fairfield,Failsafe,School Board District 4,,NON,Carrie Suber-ONeal,0,0,0,0,0,0,0
+Fairfield,Provisional,School Board District 4,,NON,Carrie Suber-ONeal,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,School Board District 4,,NON,Carrie Suber-ONeal,0,0,0,0,0,0,0
+Fairfield,GREENBRIER,School Board District 4,,NON,Write-In,3,1,0,0,0,2,0
+Fairfield,JENKINSVILLE,School Board District 4,,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,Horeb-Glenn,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,MONTICELLO,School Board District 4,,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,Failsafe,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,HICKORY RIDGE,School Board District 6,,NON,James Harris Jr,90,49,0,0,0,9,32
+Fairfield,SOUTH WINNSBORO,School Board District 6,,NON,James Harris Jr,38,21,0,0,0,0,17
+Fairfield,WINNSBORO MILLS,School Board District 6,,NON,James Harris Jr,342,163,0,0,0,17,162
+Fairfield,WINNSBORO NO. 1,School Board District 6,,NON,James Harris Jr,570,318,0,0,0,63,189
+Fairfield,Failsafe,School Board District 6,,NON,James Harris Jr,0,0,0,0,0,0,0
+Fairfield,Provisional,School Board District 6,,NON,James Harris Jr,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,School Board District 6,,NON,James Harris Jr,2,0,2,0,0,0,0
+Fairfield,HICKORY RIDGE,School Board District 6,,NON,Write-In,1,1,0,0,0,0,0
+Fairfield,SOUTH WINNSBORO,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,WINNSBORO MILLS,School Board District 6,,NON,Write-In,5,3,0,0,0,0,2
+Fairfield,WINNSBORO NO. 1,School Board District 6,,NON,Write-In,12,4,0,0,0,3,5
+Fairfield,Failsafe,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,Rocky Creek Watershed Conservation District,,NON,Calvin C Clark,2,0,0,0,0,0,2
+Fairfield,GLADDEN GROVE,Rocky Creek Watershed Conservation District,,NON,Calvin C Clark,11,1,0,0,0,2,8
+Fairfield,MITFORD,Rocky Creek Watershed Conservation District,,NON,Calvin C Clark,37,11,0,0,0,4,22
+Fairfield,Failsafe,Rocky Creek Watershed Conservation District,,NON,Calvin C Clark,0,0,0,0,0,0,0
+Fairfield,Provisional,Rocky Creek Watershed Conservation District,,NON,Calvin C Clark,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,Rocky Creek Watershed Conservation District,,NON,Calvin C Clark,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,Rocky Creek Watershed Conservation District,,NON,H Keith McDonald,4,0,0,0,0,1,3
+Fairfield,GLADDEN GROVE,Rocky Creek Watershed Conservation District,,NON,H Keith McDonald,24,1,0,0,0,5,18
+Fairfield,MITFORD,Rocky Creek Watershed Conservation District,,NON,H Keith McDonald,51,16,0,0,0,5,30
+Fairfield,Failsafe,Rocky Creek Watershed Conservation District,,NON,H Keith McDonald,0,0,0,0,0,0,0
+Fairfield,Provisional,Rocky Creek Watershed Conservation District,,NON,H Keith McDonald,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,Rocky Creek Watershed Conservation District,,NON,H Keith McDonald,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,Rocky Creek Watershed Conservation District,,NON,Oscar L Buddy Peay,4,1,0,0,0,0,3
+Fairfield,GLADDEN GROVE,Rocky Creek Watershed Conservation District,,NON,Oscar L Buddy Peay,10,1,0,0,0,2,7
+Fairfield,MITFORD,Rocky Creek Watershed Conservation District,,NON,Oscar L Buddy Peay,37,11,0,0,0,4,22
+Fairfield,Failsafe,Rocky Creek Watershed Conservation District,,NON,Oscar L Buddy Peay,0,0,0,0,0,0,0
+Fairfield,Provisional,Rocky Creek Watershed Conservation District,,NON,Oscar L Buddy Peay,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,Rocky Creek Watershed Conservation District,,NON,Oscar L Buddy Peay,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,Rocky Creek Watershed Conservation District,,NON,Write-In,1,0,0,0,0,0,1
+Fairfield,GLADDEN GROVE,Rocky Creek Watershed Conservation District,,NON,Write-In,2,0,0,0,0,0,2
+Fairfield,MITFORD,Rocky Creek Watershed Conservation District,,NON,Write-In,2,0,0,0,0,0,2
+Fairfield,Failsafe,Rocky Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,Rocky Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,Rocky Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Horeb-Glenn,Jackson Mill Creek Watershed Conservation District,,NON,Write-In,3,1,0,0,0,0,2
+Fairfield,HICKORY RIDGE,Jackson Mill Creek Watershed Conservation District,,NON,Write-In,49,23,0,0,0,9,17
+Fairfield,LEBANON,Jackson Mill Creek Watershed Conservation District,,NON,Write-In,43,15,0,0,0,1,27
+Fairfield,WINNSBORO MILLS,Jackson Mill Creek Watershed Conservation District,,NON,Write-In,15,4,0,0,0,1,10
+Fairfield,WINNSBORO NO. 1,Jackson Mill Creek Watershed Conservation District,,NON,Write-In,5,0,0,0,0,3,2
+Fairfield,WINNSBORO NO. 2,Jackson Mill Creek Watershed Conservation District,,NON,Write-In,10,3,0,0,0,0,7
+Fairfield,Failsafe,Jackson Mill Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,Jackson Mill Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,Jackson Mill Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,GLADDEN GROVE,Wateree Creek Watershed Conservation District,,NON,Write-In,2,1,0,0,0,1,0
+Fairfield,MITFORD,Wateree Creek Watershed Conservation District,,NON,Write-In,6,0,0,0,0,1,5
+Fairfield,WHITE OAK,Wateree Creek Watershed Conservation District,,NON,Write-In,8,1,0,0,0,0,7
+Fairfield,WOODARD,Wateree Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe,Wateree Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Provisional,Wateree Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,Failsafe Provisional,Wateree Creek Watershed Conservation District,,NON,Write-In,0,0,0,0,0,0,0
+Fairfield,BLACKSTOCK,Capital Project Sales Tax Referendum,,NON,Yes,15,1,0,0,0,1,13
+Fairfield,BLAIRS,Capital Project Sales Tax Referendum,,NON,Yes,105,26,0,0,0,13,66
+Fairfield,CENTERVILLE,Capital Project Sales Tax Referendum,,NON,Yes,71,13,0,0,0,2,56
+Fairfield,FEASTERVILLE,Capital Project Sales Tax Referendum,,NON,Yes,78,9,0,0,0,18,51
+Fairfield,GREENBRIER,Capital Project Sales Tax Referendum,,NON,Yes,519,263,0,0,0,92,164
+Fairfield,GLADDEN GROVE,Capital Project Sales Tax Referendum,,NON,Yes,24,4,0,0,0,5,15
+Fairfield,JENKINSVILLE,Capital Project Sales Tax Referendum,,NON,Yes,140,31,0,0,0,21,88
+Fairfield,Horeb-Glenn,Capital Project Sales Tax Referendum,,NON,Yes,84,37,0,0,0,9,38
+Fairfield,HICKORY RIDGE,Capital Project Sales Tax Referendum,,NON,Yes,233,106,0,0,0,41,86
+Fairfield,LEBANON,Capital Project Sales Tax Referendum,,NON,Yes,231,91,0,0,0,41,99
+Fairfield,MITFORD,Capital Project Sales Tax Referendum,,NON,Yes,244,54,0,0,0,35,155
+Fairfield,MONTICELLO,Capital Project Sales Tax Referendum,,NON,Yes,146,46,0,0,0,25,75
+Fairfield,NEW HOPE,Capital Project Sales Tax Referendum,,NON,Yes,25,6,0,0,0,4,15
+Fairfield,RIDGEWAY,Capital Project Sales Tax Referendum,,NON,Yes,580,243,0,0,0,115,222
+Fairfield,SIMPSON,Capital Project Sales Tax Referendum,,NON,Yes,219,87,0,0,0,38,94
+Fairfield,SOUTH WINNSBORO,Capital Project Sales Tax Referendum,,NON,Yes,197,93,0,0,0,37,67
+Fairfield,WINNSBORO MILLS,Capital Project Sales Tax Referendum,,NON,Yes,200,94,0,0,0,13,93
+Fairfield,WINNSBORO NO. 1,Capital Project Sales Tax Referendum,,NON,Yes,433,238,0,0,0,71,124
+Fairfield,WINNSBORO NO. 2,Capital Project Sales Tax Referendum,,NON,Yes,362,160,0,0,0,63,139
+Fairfield,WHITE OAK,Capital Project Sales Tax Referendum,,NON,Yes,59,16,0,0,0,13,30
+Fairfield,WOODARD,Capital Project Sales Tax Referendum,,NON,Yes,33,11,0,0,0,3,19
+Fairfield,DUTCHMANS CREEK,Capital Project Sales Tax Referendum,,NON,Yes,438,119,0,0,0,83,236
+Fairfield,Failsafe,Capital Project Sales Tax Referendum,,NON,Yes,4,0,0,0,4,0,0
+Fairfield,Provisional,Capital Project Sales Tax Referendum,,NON,Yes,5,0,0,5,0,0,0
+Fairfield,Failsafe Provisional,Capital Project Sales Tax Referendum,,NON,Yes,2,0,2,0,0,0,0
+Fairfield,BLACKSTOCK,Capital Project Sales Tax Referendum,,NON,No,24,3,0,0,0,4,17
+Fairfield,BLAIRS,Capital Project Sales Tax Referendum,,NON,No,128,23,0,0,0,22,83
+Fairfield,CENTERVILLE,Capital Project Sales Tax Referendum,,NON,No,88,12,0,0,0,15,61
+Fairfield,FEASTERVILLE,Capital Project Sales Tax Referendum,,NON,No,98,24,0,0,0,11,63
+Fairfield,GREENBRIER,Capital Project Sales Tax Referendum,,NON,No,621,295,0,0,0,124,202
+Fairfield,GLADDEN GROVE,Capital Project Sales Tax Referendum,,NON,No,18,2,0,0,0,3,13
+Fairfield,JENKINSVILLE,Capital Project Sales Tax Referendum,,NON,No,188,53,0,0,0,38,97
+Fairfield,Horeb-Glenn,Capital Project Sales Tax Referendum,,NON,No,96,37,0,0,0,22,37
+Fairfield,HICKORY RIDGE,Capital Project Sales Tax Referendum,,NON,No,254,123,0,0,0,43,88
+Fairfield,LEBANON,Capital Project Sales Tax Referendum,,NON,No,218,93,0,0,0,37,88
+Fairfield,MITFORD,Capital Project Sales Tax Referendum,,NON,No,193,49,0,0,0,15,129
+Fairfield,MONTICELLO,Capital Project Sales Tax Referendum,,NON,No,171,53,0,0,0,34,84
+Fairfield,NEW HOPE,Capital Project Sales Tax Referendum,,NON,No,20,4,0,0,0,8,8
+Fairfield,RIDGEWAY,Capital Project Sales Tax Referendum,,NON,No,732,326,0,0,0,170,236
+Fairfield,SIMPSON,Capital Project Sales Tax Referendum,,NON,No,351,146,0,0,0,58,147
+Fairfield,SOUTH WINNSBORO,Capital Project Sales Tax Referendum,,NON,No,139,75,0,0,0,23,41
+Fairfield,WINNSBORO MILLS,Capital Project Sales Tax Referendum,,NON,No,142,60,0,0,0,15,67
+Fairfield,WINNSBORO NO. 1,Capital Project Sales Tax Referendum,,NON,No,339,162,0,0,0,42,135
+Fairfield,WINNSBORO NO. 2,Capital Project Sales Tax Referendum,,NON,No,286,137,0,0,0,52,97
+Fairfield,WHITE OAK,Capital Project Sales Tax Referendum,,NON,No,79,23,0,0,0,18,38
+Fairfield,WOODARD,Capital Project Sales Tax Referendum,,NON,No,30,7,0,0,0,3,20
+Fairfield,DUTCHMANS CREEK,Capital Project Sales Tax Referendum,,NON,No,541,126,0,0,0,88,327
+Fairfield,Failsafe,Capital Project Sales Tax Referendum,,NON,No,2,0,0,0,2,0,0
+Fairfield,Provisional,Capital Project Sales Tax Referendum,,NON,No,4,0,0,4,0,0,0
+Fairfield,Failsafe Provisional,Capital Project Sales Tax Referendum,,NON,No,2,0,2,0,0,0,0

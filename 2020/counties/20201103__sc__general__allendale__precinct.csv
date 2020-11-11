@@ -1,0 +1,484 @@
+county,precinct,office,district,party,candidate,votes,in-person_absentee,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Allendale,ALLENDALE #1,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Allendale,ALLENDALE #2,STRAIGHT PARTY 1,,CON,Constitution,2,1,0,0,0,1,0
+Allendale,FAIRFAX #1,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,STRAIGHT PARTY 1,,CON,Constitution,1,0,0,0,0,0,1
+Allendale,MARTIN,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Allendale,SYCAMORE,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Allendale,ULMER,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Allendale,WOODS,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Allendale,Failsafe,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Allendale,Provisional,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,STRAIGHT PARTY 1,,CON,Constitution,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Allendale,ALLENDALE #2,STRAIGHT PARTY 1,,GRN,Green,2,1,0,0,0,0,1
+Allendale,FAIRFAX #1,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Allendale,FAIRFAX #2,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Allendale,MARTIN,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Allendale,SYCAMORE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Allendale,ULMER,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Allendale,WOODS,STRAIGHT PARTY 1,,GRN,Green,1,1,0,0,0,0,0
+Allendale,Failsafe,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Allendale,Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,STRAIGHT PARTY 1,,REP,Republican,70,44,0,0,0,8,18
+Allendale,ALLENDALE #2,STRAIGHT PARTY 1,,REP,Republican,7,2,0,0,0,1,4
+Allendale,FAIRFAX #1,STRAIGHT PARTY 1,,REP,Republican,64,34,0,0,0,6,24
+Allendale,FAIRFAX #2,STRAIGHT PARTY 1,,REP,Republican,44,18,0,0,0,5,21
+Allendale,MARTIN,STRAIGHT PARTY 1,,REP,Republican,33,3,0,0,0,1,29
+Allendale,SYCAMORE,STRAIGHT PARTY 1,,REP,Republican,90,22,0,0,0,3,65
+Allendale,ULMER,STRAIGHT PARTY 1,,REP,Republican,33,5,0,0,0,2,26
+Allendale,WOODS,STRAIGHT PARTY 1,,REP,Republican,128,69,0,0,0,8,51
+Allendale,Failsafe,STRAIGHT PARTY 1,,REP,Republican,0,0,0,0,0,0,0
+Allendale,Provisional,STRAIGHT PARTY 1,,REP,Republican,3,0,0,3,0,0,0
+Allendale,Failsafe Provisional,STRAIGHT PARTY 1,,REP,Republican,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Allendale,ALLENDALE #2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Allendale,MARTIN,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Allendale,SYCAMORE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Allendale,ULMER,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Allendale,WOODS,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Allendale,Failsafe,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Allendale,Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,STRAIGHT PARTY 1,,LIB,Libertarian,2,1,0,0,0,1,0
+Allendale,ALLENDALE #2,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Allendale,MARTIN,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,1,0
+Allendale,SYCAMORE,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Allendale,ULMER,STRAIGHT PARTY 1,,LIB,Libertarian,1,1,0,0,0,0,0
+Allendale,WOODS,STRAIGHT PARTY 1,,LIB,Libertarian,1,1,0,0,0,0,0
+Allendale,Failsafe,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Allendale,Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,STRAIGHT PARTY 1,,DEM,Democratic,429,302,0,0,0,38,89
+Allendale,ALLENDALE #2,STRAIGHT PARTY 1,,DEM,Democratic,506,365,0,0,0,49,92
+Allendale,FAIRFAX #1,STRAIGHT PARTY 1,,DEM,Democratic,179,92,0,0,0,14,73
+Allendale,FAIRFAX #2,STRAIGHT PARTY 1,,DEM,Democratic,524,294,0,0,0,78,152
+Allendale,MARTIN,STRAIGHT PARTY 1,,DEM,Democratic,132,47,0,0,0,23,62
+Allendale,SYCAMORE,STRAIGHT PARTY 1,,DEM,Democratic,56,26,0,0,0,1,29
+Allendale,ULMER,STRAIGHT PARTY 1,,DEM,Democratic,52,18,0,0,0,5,29
+Allendale,WOODS,STRAIGHT PARTY 1,,DEM,Democratic,307,213,0,0,0,30,64
+Allendale,Failsafe,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Allendale,Provisional,STRAIGHT PARTY 1,,DEM,Democratic,4,0,0,4,0,0,0
+Allendale,Failsafe Provisional,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,0,1
+Allendale,ALLENDALE #2,President,,GRN,Howie Hawkins | Angela Walker,7,3,0,0,0,1,3
+Allendale,FAIRFAX #1,President,,GRN,Howie Hawkins | Angela Walker,2,0,0,0,0,0,2
+Allendale,FAIRFAX #2,President,,GRN,Howie Hawkins | Angela Walker,4,2,0,0,0,1,1
+Allendale,MARTIN,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Allendale,SYCAMORE,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Allendale,ULMER,President,,GRN,Howie Hawkins | Angela Walker,1,0,0,0,0,0,1
+Allendale,WOODS,President,,GRN,Howie Hawkins | Angela Walker,4,4,0,0,0,0,0
+Allendale,Failsafe,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Allendale,Provisional,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,President,,GRN,Howie Hawkins | Angela Walker,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,6,3,0,0,0,2,1
+Allendale,ALLENDALE #2,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,3,3,0,0,0,0,0
+Allendale,FAIRFAX #1,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,1,0,0,0,0,0
+Allendale,MARTIN,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,0,0,0,0,1,0
+Allendale,SYCAMORE,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,2,1,0,0,0,0,1
+Allendale,ULMER,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,5,2,0,0,0,0,3
+Allendale,WOODS,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,1,1,0,0,0,0,0
+Allendale,Failsafe,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Allendale,Provisional,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,President,,LIB,Jo Jorgensen | Jeremy Spike Cohen,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Allendale,ALLENDALE #2,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,2,1,0,0,0,0,1
+Allendale,FAIRFAX #1,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Allendale,MARTIN,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Allendale,SYCAMORE,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Allendale,ULMER,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Allendale,WOODS,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Allendale,Failsafe,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Allendale,Provisional,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,President,,ALN,ALN Roque Rocky De La Fuente | Darcy G Richardson,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,President,,REP,Donald J Trump | Michael R Pence,109,67,0,0,0,17,25
+Allendale,ALLENDALE #2,President,,REP,Donald J Trump | Michael R Pence,13,4,0,0,0,1,8
+Allendale,FAIRFAX #1,President,,REP,Donald J Trump | Michael R Pence,132,73,0,0,0,11,48
+Allendale,FAIRFAX #2,President,,REP,Donald J Trump | Michael R Pence,66,31,0,0,0,6,29
+Allendale,MARTIN,President,,REP,Donald J Trump | Michael R Pence,44,4,0,0,0,2,38
+Allendale,SYCAMORE,President,,REP,Donald J Trump | Michael R Pence,174,38,0,0,0,7,129
+Allendale,ULMER,President,,REP,Donald J Trump | Michael R Pence,99,19,0,0,0,3,77
+Allendale,WOODS,President,,REP,Donald J Trump | Michael R Pence,194,94,0,0,0,12,88
+Allendale,Failsafe,President,,REP,Donald J Trump | Michael R Pence,0,0,0,0,0,0,0
+Allendale,Provisional,President,,REP,Donald J Trump | Michael R Pence,4,0,0,4,0,0,0
+Allendale,Failsafe Provisional,President,,REP,Donald J Trump | Michael R Pence,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,President,,DEM,Joseph R Biden | Kamala D Harris,544,365,0,0,0,69,110
+Allendale,ALLENDALE #2,President,,DEM,Joseph R Biden | Kamala D Harris,614,419,0,0,0,78,117
+Allendale,FAIRFAX #1,President,,DEM,Joseph R Biden | Kamala D Harris,224,106,0,0,0,30,88
+Allendale,FAIRFAX #2,President,,DEM,Joseph R Biden | Kamala D Harris,645,341,0,0,0,136,168
+Allendale,MARTIN,President,,DEM,Joseph R Biden | Kamala D Harris,161,56,0,0,0,34,71
+Allendale,SYCAMORE,President,,DEM,Joseph R Biden | Kamala D Harris,77,32,0,0,0,6,39
+Allendale,ULMER,President,,DEM,Joseph R Biden | Kamala D Harris,65,23,0,0,0,7,35
+Allendale,WOODS,President,,DEM,Joseph R Biden | Kamala D Harris,384,246,0,0,0,46,92
+Allendale,Failsafe,President,,DEM,Joseph R Biden | Kamala D Harris,0,0,0,0,0,0,0
+Allendale,Provisional,President,,DEM,Joseph R Biden | Kamala D Harris,4,0,0,4,0,0,0
+Allendale,Failsafe Provisional,President,,DEM,Joseph R Biden | Kamala D Harris,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,U.S. Senate,,CON,Bill Bledsoe,1,0,0,0,0,0,1
+Allendale,ALLENDALE #2,U.S. Senate,,CON,Bill Bledsoe,3,2,0,0,0,0,1
+Allendale,FAIRFAX #1,U.S. Senate,,CON,Bill Bledsoe,3,1,0,0,0,1,1
+Allendale,FAIRFAX #2,U.S. Senate,,CON,Bill Bledsoe,3,1,0,0,0,0,2
+Allendale,MARTIN,U.S. Senate,,CON,Bill Bledsoe,2,0,0,0,0,0,2
+Allendale,SYCAMORE,U.S. Senate,,CON,Bill Bledsoe,1,0,0,0,0,0,1
+Allendale,ULMER,U.S. Senate,,CON,Bill Bledsoe,3,2,0,0,0,0,1
+Allendale,WOODS,U.S. Senate,,CON,Bill Bledsoe,2,2,0,0,0,0,0
+Allendale,Failsafe,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. Senate,,CON,Bill Bledsoe,1,0,0,1,0,0,0
+Allendale,Failsafe Provisional,U.S. Senate,,CON,Bill Bledsoe,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,U.S. Senate,,REP,Lindsey Graham,115,71,0,0,0,18,26
+Allendale,ALLENDALE #2,U.S. Senate,,REP,Lindsey Graham,15,7,0,0,0,0,8
+Allendale,FAIRFAX #1,U.S. Senate,,REP,Lindsey Graham,129,71,0,0,0,9,49
+Allendale,FAIRFAX #2,U.S. Senate,,REP,Lindsey Graham,62,25,0,0,0,8,29
+Allendale,MARTIN,U.S. Senate,,REP,Lindsey Graham,44,4,0,0,0,3,37
+Allendale,SYCAMORE,U.S. Senate,,REP,Lindsey Graham,175,40,0,0,0,7,128
+Allendale,ULMER,U.S. Senate,,REP,Lindsey Graham,99,20,0,0,0,3,76
+Allendale,WOODS,U.S. Senate,,REP,Lindsey Graham,191,92,0,0,0,13,86
+Allendale,Failsafe,U.S. Senate,,REP,Lindsey Graham,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. Senate,,REP,Lindsey Graham,3,0,0,3,0,0,0
+Allendale,Failsafe Provisional,U.S. Senate,,REP,Lindsey Graham,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,U.S. Senate,,DEM,Jaime Harrison,548,368,0,0,0,68,112
+Allendale,ALLENDALE #2,U.S. Senate,,DEM,Jaime Harrison,632,433,0,0,0,79,120
+Allendale,FAIRFAX #1,U.S. Senate,,DEM,Jaime Harrison,228,108,0,0,0,31,89
+Allendale,FAIRFAX #2,U.S. Senate,,DEM,Jaime Harrison,654,349,0,0,0,135,170
+Allendale,MARTIN,U.S. Senate,,DEM,Jaime Harrison,165,59,0,0,0,34,72
+Allendale,SYCAMORE,U.S. Senate,,DEM,Jaime Harrison,82,35,0,0,0,6,41
+Allendale,ULMER,U.S. Senate,,DEM,Jaime Harrison,68,22,0,0,0,7,39
+Allendale,WOODS,U.S. Senate,,DEM,Jaime Harrison,392,252,0,0,0,45,95
+Allendale,Failsafe,U.S. Senate,,DEM,Jaime Harrison,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. Senate,,DEM,Jaime Harrison,4,0,0,4,0,0,0
+Allendale,Failsafe Provisional,U.S. Senate,,DEM,Jaime Harrison,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,U.S. Senate,,NON,Write-In,1,1,0,0,0,0,0
+Allendale,ALLENDALE #2,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,MARTIN,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,SYCAMORE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ULMER,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,WOODS,U.S. Senate,,NON,Write-In,1,1,0,0,0,0,0
+Allendale,Failsafe,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,U.S. House,6,CON,Mark Hackett,1,1,0,0,0,0,0
+Allendale,ALLENDALE #2,U.S. House,6,CON,Mark Hackett,8,4,0,0,0,1,3
+Allendale,FAIRFAX #1,U.S. House,6,CON,Mark Hackett,2,0,0,0,0,0,2
+Allendale,FAIRFAX #2,U.S. House,6,CON,Mark Hackett,5,1,0,0,0,1,3
+Allendale,MARTIN,U.S. House,6,CON,Mark Hackett,1,0,0,0,0,0,1
+Allendale,SYCAMORE,U.S. House,6,CON,Mark Hackett,2,1,0,0,0,0,1
+Allendale,ULMER,U.S. House,6,CON,Mark Hackett,0,0,0,0,0,0,0
+Allendale,WOODS,U.S. House,6,CON,Mark Hackett,5,3,0,0,0,0,2
+Allendale,Failsafe,U.S. House,6,CON,Mark Hackett,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. House,6,CON,Mark Hackett,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,U.S. House,6,CON,Mark Hackett,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,U.S. House,6,REP,John McCollum,112,68,0,0,0,18,26
+Allendale,ALLENDALE #2,U.S. House,6,REP,John McCollum,16,6,0,0,0,2,8
+Allendale,FAIRFAX #1,U.S. House,6,REP,John McCollum,126,70,0,0,0,10,46
+Allendale,FAIRFAX #2,U.S. House,6,REP,John McCollum,65,27,0,0,0,8,30
+Allendale,MARTIN,U.S. House,6,REP,John McCollum,41,3,0,0,0,2,36
+Allendale,SYCAMORE,U.S. House,6,REP,John McCollum,170,37,0,0,0,6,127
+Allendale,ULMER,U.S. House,6,REP,John McCollum,96,17,0,0,0,3,76
+Allendale,WOODS,U.S. House,6,REP,John McCollum,183,89,0,0,0,12,82
+Allendale,Failsafe,U.S. House,6,REP,John McCollum,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. House,6,REP,John McCollum,3,0,0,3,0,0,0
+Allendale,Failsafe Provisional,U.S. House,6,REP,John McCollum,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,U.S. House,6,DEM,James E Jim Clyburn,552,371,0,0,0,68,113
+Allendale,ALLENDALE #2,U.S. House,6,DEM,James E Jim Clyburn,629,437,0,0,0,76,116
+Allendale,FAIRFAX #1,U.S. House,6,DEM,James E Jim Clyburn,230,110,0,0,0,30,90
+Allendale,FAIRFAX #2,U.S. House,6,DEM,James E Jim Clyburn,645,345,0,0,0,133,167
+Allendale,MARTIN,U.S. House,6,DEM,James E Jim Clyburn,165,58,0,0,0,35,72
+Allendale,SYCAMORE,U.S. House,6,DEM,James E Jim Clyburn,87,37,0,0,0,7,43
+Allendale,ULMER,U.S. House,6,DEM,James E Jim Clyburn,72,26,0,0,0,7,39
+Allendale,WOODS,U.S. House,6,DEM,James E Jim Clyburn,393,251,0,0,0,46,96
+Allendale,Failsafe,U.S. House,6,DEM,James E Jim Clyburn,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. House,6,DEM,James E Jim Clyburn,5,0,0,5,0,0,0
+Allendale,Failsafe Provisional,U.S. House,6,DEM,James E Jim Clyburn,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,U.S. House,6,NON,Write-In,2,1,0,0,0,0,1
+Allendale,ALLENDALE #2,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Allendale,MARTIN,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Allendale,SYCAMORE,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ULMER,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Allendale,WOODS,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,State Senate,40,DEM,Brad Hutto,585,384,0,0,0,70,131
+Allendale,ALLENDALE #2,State Senate,40,DEM,Brad Hutto,198,143,0,0,0,23,32
+Allendale,FAIRFAX #1,State Senate,40,DEM,Brad Hutto,148,70,0,0,0,17,61
+Allendale,FAIRFAX #2,State Senate,40,DEM,Brad Hutto,115,68,0,0,0,14,33
+Allendale,SYCAMORE,State Senate,40,DEM,Brad Hutto,163,55,0,0,0,10,98
+Allendale,ULMER,State Senate,40,DEM,Brad Hutto,127,38,0,0,0,6,83
+Allendale,WOODS,State Senate,40,DEM,Brad Hutto,81,39,0,0,0,7,35
+Allendale,Failsafe,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Allendale,Provisional,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,State Senate,40,NON,Write-In,9,7,0,0,0,0,2
+Allendale,ALLENDALE #2,State Senate,40,NON,Write-In,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,State Senate,40,NON,Write-In,1,1,0,0,0,0,0
+Allendale,FAIRFAX #2,State Senate,40,NON,Write-In,0,0,0,0,0,0,0
+Allendale,SYCAMORE,State Senate,40,NON,Write-In,10,4,0,0,0,0,6
+Allendale,ULMER,State Senate,40,NON,Write-In,2,1,0,0,0,0,1
+Allendale,WOODS,State Senate,40,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe,State Senate,40,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,State Senate,40,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Senate,40,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,State Senate,45,REP,Rodney Buncum,10,9,0,0,0,0,1
+Allendale,ALLENDALE #2,State Senate,45,REP,Rodney Buncum,11,5,0,0,0,1,5
+Allendale,FAIRFAX #1,State Senate,45,REP,Rodney Buncum,70,40,0,0,0,4,26
+Allendale,FAIRFAX #2,State Senate,45,REP,Rodney Buncum,51,22,0,0,0,5,24
+Allendale,MARTIN,State Senate,45,REP,Rodney Buncum,45,5,0,0,0,2,38
+Allendale,ULMER,State Senate,45,REP,Rodney Buncum,1,0,0,0,0,0,1
+Allendale,WOODS,State Senate,45,REP,Rodney Buncum,166,90,0,0,0,10,66
+Allendale,Failsafe,State Senate,45,REP,Rodney Buncum,0,0,0,0,0,0,0
+Allendale,Provisional,State Senate,45,REP,Rodney Buncum,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Senate,45,REP,Rodney Buncum,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,State Senate,45,DEM,Margie Bright Matthews,5,5,0,0,0,0,0
+Allendale,ALLENDALE #2,State Senate,45,DEM,Margie Bright Matthews,436,296,0,0,0,52,88
+Allendale,FAIRFAX #1,State Senate,45,DEM,Margie Bright Matthews,103,50,0,0,0,14,39
+Allendale,FAIRFAX #2,State Senate,45,DEM,Margie Bright Matthews,532,280,0,0,0,116,136
+Allendale,MARTIN,State Senate,45,DEM,Margie Bright Matthews,164,57,0,0,0,35,72
+Allendale,ULMER,State Senate,45,DEM,Margie Bright Matthews,2,0,0,0,0,2,0
+Allendale,WOODS,State Senate,45,DEM,Margie Bright Matthews,327,214,0,0,0,37,76
+Allendale,Failsafe,State Senate,45,DEM,Margie Bright Matthews,0,0,0,0,0,0,0
+Allendale,Provisional,State Senate,45,DEM,Margie Bright Matthews,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Senate,45,DEM,Margie Bright Matthews,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,State Senate,45,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ALLENDALE #2,State Senate,45,NON,Write-In,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,State Senate,45,NON,Write-In,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,State Senate,45,NON,Write-In,1,0,0,0,0,0,1
+Allendale,MARTIN,State Senate,45,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ULMER,State Senate,45,NON,Write-In,0,0,0,0,0,0,0
+Allendale,WOODS,State Senate,45,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe,State Senate,45,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,State Senate,45,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Senate,45,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,State House,91,DEM,Lonnie Hosey,592,397,0,0,0,70,125
+Allendale,ALLENDALE #2,State House,91,DEM,Lonnie Hosey,641,436,0,0,0,79,126
+Allendale,FAIRFAX #1,State House,91,DEM,Lonnie Hosey,282,133,0,0,0,33,116
+Allendale,FAIRFAX #2,State House,91,DEM,Lonnie Hosey,671,354,0,0,0,135,182
+Allendale,MARTIN,State House,91,DEM,Lonnie Hosey,183,60,0,0,0,35,88
+Allendale,SYCAMORE,State House,91,DEM,Lonnie Hosey,155,53,0,0,0,10,92
+Allendale,ULMER,State House,91,DEM,Lonnie Hosey,124,36,0,0,0,8,80
+Allendale,WOODS,State House,91,DEM,Lonnie Hosey,493,304,0,0,0,50,139
+Allendale,Failsafe,State House,91,DEM,Lonnie Hosey,0,0,0,0,0,0,0
+Allendale,Provisional,State House,91,DEM,Lonnie Hosey,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State House,91,DEM,Lonnie Hosey,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,State House,91,NON,Write-In,3,1,0,0,0,0,2
+Allendale,ALLENDALE #2,State House,91,NON,Write-In,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,State House,91,NON,Write-In,4,3,0,0,0,0,1
+Allendale,FAIRFAX #2,State House,91,NON,Write-In,1,0,0,0,0,0,1
+Allendale,MARTIN,State House,91,NON,Write-In,0,0,0,0,0,0,0
+Allendale,SYCAMORE,State House,91,NON,Write-In,12,4,0,0,0,0,8
+Allendale,ULMER,State House,91,NON,Write-In,4,2,0,0,0,0,2
+Allendale,WOODS,State House,91,NON,Write-In,2,1,0,0,0,0,1
+Allendale,Failsafe,State House,91,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,State House,91,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State House,91,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Solicitor, Circuit 14,REP,Duffie Stone,268,164,0,0,0,33,71
+Allendale,ALLENDALE #2,Solicitor, Circuit 14,REP,Duffie Stone,177,113,0,0,0,16,48
+Allendale,FAIRFAX #1,Solicitor, Circuit 14,REP,Duffie Stone,192,100,0,0,0,18,74
+Allendale,FAIRFAX #2,Solicitor, Circuit 14,REP,Duffie Stone,171,83,0,0,0,25,63
+Allendale,MARTIN,Solicitor, Circuit 14,REP,Duffie Stone,85,20,0,0,0,12,53
+Allendale,SYCAMORE,Solicitor, Circuit 14,REP,Duffie Stone,195,46,0,0,0,11,138
+Allendale,ULMER,Solicitor, Circuit 14,REP,Duffie Stone,119,26,0,0,0,6,87
+Allendale,WOODS,Solicitor, Circuit 14,REP,Duffie Stone,280,144,0,0,0,20,116
+Allendale,Failsafe,Solicitor, Circuit 14,REP,Duffie Stone,0,0,0,0,0,0,0
+Allendale,Provisional,Solicitor, Circuit 14,REP,Duffie Stone,5,0,0,5,0,0,0
+Allendale,Failsafe Provisional,Solicitor, Circuit 14,REP,Duffie Stone,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Solicitor, Circuit 14,NON,Write-In,14,9,0,0,0,1,4
+Allendale,ALLENDALE #2,Solicitor, Circuit 14,NON,Write-In,7,2,0,0,0,4,1
+Allendale,FAIRFAX #1,Solicitor, Circuit 14,NON,Write-In,14,3,0,0,0,0,11
+Allendale,FAIRFAX #2,Solicitor, Circuit 14,NON,Write-In,10,2,0,0,0,2,6
+Allendale,MARTIN,Solicitor, Circuit 14,NON,Write-In,2,2,0,0,0,0,0
+Allendale,SYCAMORE,Solicitor, Circuit 14,NON,Write-In,1,1,0,0,0,0,0
+Allendale,ULMER,Solicitor, Circuit 14,NON,Write-In,1,1,0,0,0,0,0
+Allendale,WOODS,Solicitor, Circuit 14,NON,Write-In,10,7,0,0,0,0,3
+Allendale,Failsafe,Solicitor, Circuit 14,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,Solicitor, Circuit 14,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Solicitor, Circuit 14,NON,Write-In,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,County Council District 1,,DEM,Theresa Harvey Taylor,656,349,0,0,0,126,181
+Allendale,Failsafe,County Council District 1,,DEM,Theresa Harvey Taylor,0,0,0,0,0,0,0
+Allendale,Provisional,County Council District 1,,DEM,Theresa Harvey Taylor,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 1,,DEM,Theresa Harvey Taylor,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,County Council District 1,,NON,Write-In,2,0,0,0,0,0,2
+Allendale,Failsafe,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 1,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,County Council District 4,,REP,James J All,99,50,0,0,0,11,38
+Allendale,SYCAMORE,County Council District 4,,REP,James J All,115,27,0,0,0,1,87
+Allendale,ULMER,County Council District 4,,REP,James J All,50,11,0,0,0,4,35
+Allendale,Failsafe,County Council District 4,,REP,James J All,0,0,0,0,0,0,0
+Allendale,Provisional,County Council District 4,,REP,James J All,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 4,,REP,James J All,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,County Council District 4,,DEM,Matthew J Connelly,258,132,0,0,0,27,99
+Allendale,SYCAMORE,County Council District 4,,DEM,Matthew J Connelly,144,48,0,0,0,12,84
+Allendale,ULMER,County Council District 4,,DEM,Matthew J Connelly,121,34,0,0,0,6,81
+Allendale,Failsafe,County Council District 4,,DEM,Matthew J Connelly,0,0,0,0,0,0,0
+Allendale,Provisional,County Council District 4,,DEM,Matthew J Connelly,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 4,,DEM,Matthew J Connelly,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,SYCAMORE,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ULMER,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Soil and Water District Commission,,NON,Jonathan Brabham,293,176,0,0,0,35,82
+Allendale,ALLENDALE #2,Soil and Water District Commission,,NON,Jonathan Brabham,254,160,0,0,0,34,60
+Allendale,FAIRFAX #1,Soil and Water District Commission,,NON,Jonathan Brabham,179,84,0,0,0,17,78
+Allendale,FAIRFAX #2,Soil and Water District Commission,,NON,Jonathan Brabham,192,96,0,0,0,40,56
+Allendale,MARTIN,Soil and Water District Commission,,NON,Jonathan Brabham,94,26,0,0,0,19,49
+Allendale,SYCAMORE,Soil and Water District Commission,,NON,Jonathan Brabham,158,41,0,0,0,8,109
+Allendale,ULMER,Soil and Water District Commission,,NON,Jonathan Brabham,104,26,0,0,0,6,72
+Allendale,WOODS,Soil and Water District Commission,,NON,Jonathan Brabham,283,156,0,0,0,25,102
+Allendale,Failsafe,Soil and Water District Commission,,NON,Jonathan Brabham,0,0,0,0,0,0,0
+Allendale,Provisional,Soil and Water District Commission,,NON,Jonathan Brabham,5,0,0,5,0,0,0
+Allendale,Failsafe Provisional,Soil and Water District Commission,,NON,Jonathan Brabham,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Soil and Water District Commission,,NON,Write-In,4,3,0,0,0,0,1
+Allendale,ALLENDALE #2,Soil and Water District Commission,,NON,Write-In,5,0,0,0,0,4,1
+Allendale,FAIRFAX #1,Soil and Water District Commission,,NON,Write-In,6,2,0,0,0,0,4
+Allendale,FAIRFAX #2,Soil and Water District Commission,,NON,Write-In,7,1,0,0,0,2,4
+Allendale,MARTIN,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,SYCAMORE,Soil and Water District Commission,,NON,Write-In,2,0,0,0,0,0,2
+Allendale,ULMER,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,WOODS,Soil and Water District Commission,,NON,Write-In,2,1,0,0,0,0,1
+Allendale,Failsafe,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,School Board District 1,,NON,Write-In,76,25,0,0,0,21,30
+Allendale,Failsafe,School Board District 1,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,School Board District 1,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,School Board District 1,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,MARTIN,School Board District 3,,NON,Willa Marian Jennings,122,38,0,0,0,23,61
+Allendale,WOODS,School Board District 3,,NON,Willa Marian Jennings,341,188,0,0,0,39,114
+Allendale,Failsafe,School Board District 3,,NON,Willa Marian Jennings,0,0,0,0,0,0,0
+Allendale,Provisional,School Board District 3,,NON,Willa Marian Jennings,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,School Board District 3,,NON,Willa Marian Jennings,0,0,0,0,0,0,0
+Allendale,MARTIN,School Board District 3,,NON,Write-In,26,11,0,0,0,7,8
+Allendale,WOODS,School Board District 3,,NON,Write-In,75,48,0,0,0,8,19
+Allendale,Failsafe,School Board District 3,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,School Board District 3,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,School Board District 3,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ALLENDALE #2,School Board District 5,,NON,Wilda J Robinson,237,160,0,0,0,33,44
+Allendale,Failsafe,School Board District 5,,NON,Wilda J Robinson,0,0,0,0,0,0,0
+Allendale,Provisional,School Board District 5,,NON,Wilda J Robinson,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,School Board District 5,,NON,Wilda J Robinson,0,0,0,0,0,0,0
+Allendale,ALLENDALE #2,School Board District 5,,NON,Katrina L Youmans,337,225,0,0,0,39,73
+Allendale,Failsafe,School Board District 5,,NON,Katrina L Youmans,0,0,0,0,0,0,0
+Allendale,Provisional,School Board District 5,,NON,Katrina L Youmans,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,School Board District 5,,NON,Katrina L Youmans,0,0,0,0,0,0,0
+Allendale,ALLENDALE #2,School Board District 5,,NON,Write-In,24,18,0,0,0,4,2
+Allendale,Failsafe,School Board District 5,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,School Board District 5,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,School Board District 5,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Mayor Town of Allendale,,NON,Larry Cohen,165,109,0,0,0,21,35
+Allendale,ALLENDALE #2,Mayor Town of Allendale,,NON,Larry Cohen,304,211,0,0,0,40,53
+Allendale,WOODS,Mayor Town of Allendale,,NON,Larry Cohen,21,13,0,0,0,2,6
+Allendale,Failsafe,Mayor Town of Allendale,,NON,Larry Cohen,0,0,0,0,0,0,0
+Allendale,Provisional,Mayor Town of Allendale,,NON,Larry Cohen,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Mayor Town of Allendale,,NON,Larry Cohen,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Mayor Town of Allendale,,NON,Marlon Creech,152,90,0,0,0,18,44
+Allendale,ALLENDALE #2,Mayor Town of Allendale,,NON,Marlon Creech,157,102,0,0,0,9,46
+Allendale,WOODS,Mayor Town of Allendale,,NON,Marlon Creech,31,21,0,0,0,0,10
+Allendale,Failsafe,Mayor Town of Allendale,,NON,Marlon Creech,0,0,0,0,0,0,0
+Allendale,Provisional,Mayor Town of Allendale,,NON,Marlon Creech,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Mayor Town of Allendale,,NON,Marlon Creech,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Mayor Town of Allendale,,NON,Jacqueline Jackie Jones,79,53,0,0,0,12,14
+Allendale,ALLENDALE #2,Mayor Town of Allendale,,NON,Jacqueline Jackie Jones,115,72,0,0,0,18,25
+Allendale,WOODS,Mayor Town of Allendale,,NON,Jacqueline Jackie Jones,7,3,0,0,0,0,4
+Allendale,Failsafe,Mayor Town of Allendale,,NON,Jacqueline Jackie Jones,0,0,0,0,0,0,0
+Allendale,Provisional,Mayor Town of Allendale,,NON,Jacqueline Jackie Jones,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Mayor Town of Allendale,,NON,Jacqueline Jackie Jones,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Mayor Town of Allendale,,NON,Horace Matthews,90,60,0,0,0,17,13
+Allendale,ALLENDALE #2,Mayor Town of Allendale,,NON,Horace Matthews,68,50,0,0,0,11,7
+Allendale,WOODS,Mayor Town of Allendale,,NON,Horace Matthews,9,7,0,0,0,0,2
+Allendale,Failsafe,Mayor Town of Allendale,,NON,Horace Matthews,0,0,0,0,0,0,0
+Allendale,Provisional,Mayor Town of Allendale,,NON,Horace Matthews,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Mayor Town of Allendale,,NON,Horace Matthews,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Mayor Town of Allendale,,NON,Write-In,3,3,0,0,0,0,0
+Allendale,ALLENDALE #2,Mayor Town of Allendale,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,WOODS,Mayor Town of Allendale,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe,Mayor Town of Allendale,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,Mayor Town of Allendale,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Mayor Town of Allendale,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Town Council Town of Allendale,,NON,James Grant,157,98,0,0,0,26,33
+Allendale,ALLENDALE #2,Town Council Town of Allendale,,NON,James Grant,237,154,0,0,0,34,49
+Allendale,WOODS,Town Council Town of Allendale,,NON,James Grant,16,12,0,0,0,0,4
+Allendale,Failsafe,Town Council Town of Allendale,,NON,James Grant,0,0,0,0,0,0,0
+Allendale,Provisional,Town Council Town of Allendale,,NON,James Grant,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Town Council Town of Allendale,,NON,James Grant,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Town Council Town of Allendale,,NON,Vernie Harney,117,80,0,0,0,11,26
+Allendale,ALLENDALE #2,Town Council Town of Allendale,,NON,Vernie Harney,142,98,0,0,0,20,24
+Allendale,WOODS,Town Council Town of Allendale,,NON,Vernie Harney,17,9,0,0,0,1,7
+Allendale,Failsafe,Town Council Town of Allendale,,NON,Vernie Harney,0,0,0,0,0,0,0
+Allendale,Provisional,Town Council Town of Allendale,,NON,Vernie Harney,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Town Council Town of Allendale,,NON,Vernie Harney,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Town Council Town of Allendale,,NON,Nathaniel Nate Hartley,168,115,0,0,0,29,24
+Allendale,ALLENDALE #2,Town Council Town of Allendale,,NON,Nathaniel Nate Hartley,191,139,0,0,0,38,14
+Allendale,WOODS,Town Council Town of Allendale,,NON,Nathaniel Nate Hartley,20,15,0,0,0,1,4
+Allendale,Failsafe,Town Council Town of Allendale,,NON,Nathaniel Nate Hartley,0,0,0,0,0,0,0
+Allendale,Provisional,Town Council Town of Allendale,,NON,Nathaniel Nate Hartley,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Town Council Town of Allendale,,NON,Nathaniel Nate Hartley,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Town Council Town of Allendale,,NON,Hattie Jackson,283,183,0,0,0,37,63
+Allendale,ALLENDALE #2,Town Council Town of Allendale,,NON,Hattie Jackson,392,273,0,0,0,35,84
+Allendale,WOODS,Town Council Town of Allendale,,NON,Hattie Jackson,46,33,0,0,0,2,11
+Allendale,Failsafe,Town Council Town of Allendale,,NON,Hattie Jackson,0,0,0,0,0,0,0
+Allendale,Provisional,Town Council Town of Allendale,,NON,Hattie Jackson,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Town Council Town of Allendale,,NON,Hattie Jackson,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Town Council Town of Allendale,,NON,Earl Morell,193,133,0,0,0,22,38
+Allendale,ALLENDALE #2,Town Council Town of Allendale,,NON,Earl Morell,232,162,0,0,0,30,40
+Allendale,WOODS,Town Council Town of Allendale,,NON,Earl Morell,33,19,0,0,0,2,12
+Allendale,Failsafe,Town Council Town of Allendale,,NON,Earl Morell,0,0,0,0,0,0,0
+Allendale,Provisional,Town Council Town of Allendale,,NON,Earl Morell,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Town Council Town of Allendale,,NON,Earl Morell,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Town Council Town of Allendale,,NON,Stanford Robinson,89,61,0,0,0,18,10
+Allendale,ALLENDALE #2,Town Council Town of Allendale,,NON,Stanford Robinson,108,83,0,0,0,9,16
+Allendale,WOODS,Town Council Town of Allendale,,NON,Stanford Robinson,12,9,0,0,0,0,3
+Allendale,Failsafe,Town Council Town of Allendale,,NON,Stanford Robinson,0,0,0,0,0,0,0
+Allendale,Provisional,Town Council Town of Allendale,,NON,Stanford Robinson,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Town Council Town of Allendale,,NON,Stanford Robinson,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Town Council Town of Allendale,,NON,Dawan Pookie Smith,186,102,0,0,0,32,52
+Allendale,ALLENDALE #2,Town Council Town of Allendale,,NON,Dawan Pookie Smith,259,165,0,0,0,35,59
+Allendale,WOODS,Town Council Town of Allendale,,NON,Dawan Pookie Smith,24,12,0,0,0,0,12
+Allendale,Failsafe,Town Council Town of Allendale,,NON,Dawan Pookie Smith,0,0,0,0,0,0,0
+Allendale,Provisional,Town Council Town of Allendale,,NON,Dawan Pookie Smith,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Town Council Town of Allendale,,NON,Dawan Pookie Smith,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Town Council Town of Allendale,,NON,Write-In,5,5,0,0,0,0,0
+Allendale,ALLENDALE #2,Town Council Town of Allendale,,NON,Write-In,7,3,0,0,0,1,3
+Allendale,WOODS,Town Council Town of Allendale,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe,Town Council Town of Allendale,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Provisional,Town Council Town of Allendale,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Town Council Town of Allendale,,NON,Write-In,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Town Council Unexpired Term Town of Allendale,,NON,Portereshice Tibby Brabham,224,152,0,0,0,29,43
+Allendale,ALLENDALE #2,Town Council Unexpired Term Town of Allendale,,NON,Portereshice Tibby Brabham,249,158,0,0,0,26,65
+Allendale,WOODS,Town Council Unexpired Term Town of Allendale,,NON,Portereshice Tibby Brabham,40,24,0,0,0,1,15
+Allendale,Failsafe,Town Council Unexpired Term Town of Allendale,,NON,Portereshice Tibby Brabham,0,0,0,0,0,0,0
+Allendale,Provisional,Town Council Unexpired Term Town of Allendale,,NON,Portereshice Tibby Brabham,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Town Council Unexpired Term Town of Allendale,,NON,Portereshice Tibby Brabham,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Town Council Unexpired Term Town of Allendale,,NON,Larry Cohen,221,140,0,0,0,28,53
+Allendale,ALLENDALE #2,Town Council Unexpired Term Town of Allendale,,NON,Larry Cohen,360,258,0,0,0,39,63
+Allendale,WOODS,Town Council Unexpired Term Town of Allendale,,NON,Larry Cohen,26,19,0,0,0,1,6
+Allendale,Failsafe,Town Council Unexpired Term Town of Allendale,,NON,Larry Cohen,0,0,0,0,0,0,0
+Allendale,Provisional,Town Council Unexpired Term Town of Allendale,,NON,Larry Cohen,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Town Council Unexpired Term Town of Allendale,,NON,Larry Cohen,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,Town Council Unexpired Term Town of Allendale,,NON,Write-in,5,3,0,0,0,1,1
+Allendale,ALLENDALE #2,Town Council Unexpired Term Town of Allendale,,NON,Write-in,1,1,0,0,0,0,0
+Allendale,WOODS,Town Council Unexpired Term Town of Allendale,,NON,Write-in,0,0,0,0,0,0,0
+Allendale,Failsafe,Town Council Unexpired Term Town of Allendale,,NON,Write-in,0,0,0,0,0,0,0
+Allendale,Provisional,Town Council Unexpired Term Town of Allendale,,NON,Write-in,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Town Council Unexpired Term Town of Allendale,,NON,Write-in,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,New Community Center Fund Town of Fairfax,,NON,Yes,156,74,0,0,0,10,72
+Allendale,FAIRFAX #2,New Community Center Fund Town of Fairfax,,NON,Yes,375,198,0,0,0,73,104
+Allendale,Failsafe,New Community Center Fund Town of Fairfax,,NON,Yes,0,0,0,0,0,0,0
+Allendale,Provisional,New Community Center Fund Town of Fairfax,,NON,Yes,1,0,0,1,0,0,0
+Allendale,Failsafe Provisional,New Community Center Fund Town of Fairfax,,NON,Yes,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,New Community Center Fund Town of Fairfax,,NON,No,123,72,0,0,0,14,37
+Allendale,FAIRFAX #2,New Community Center Fund Town of Fairfax,,NON,No,164,82,0,0,0,31,51
+Allendale,Failsafe,New Community Center Fund Town of Fairfax,,NON,No,0,0,0,0,0,0,0
+Allendale,Provisional,New Community Center Fund Town of Fairfax,,NON,No,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,New Community Center Fund Town of Fairfax,,NON,No,0,0,0,0,0,0,0
