@@ -43,7 +43,7 @@ def statewide_results(url):
         else:
             results.append({ 'county': county, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
-    with open("20141104__sc__general.csv", "wt") as csvfile:
+    with open("20201103__sc__general__county.csv", "wt") as csvfile:
         w = csv.writer(csvfile)
         w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
         for row in results:
@@ -63,6 +63,22 @@ def download_county_files(url, filename):
         except:
             no_xml.append(sub.name)
 
+    print(no_xml)
+
+def download_county_files_new(state, json_url, filename):
+    no_xml = []
+    r = requests.get(json_url)
+    counties = r.json()['settings']['electiondetails']['participatingcounties']
+    for c in counties:
+        name, first_id, second_id, date, fill = c.split('|')
+        url = 'https://results.enr.clarityelections.com//' + state + '/' + name + '/' + first_id + '/' + second_id + '/reports/detailxml.zip'
+        try:
+            r = requests.get(url, stream=True)
+            z = zipfile.ZipFile(BytesIO(r.content))
+            z.extractall()
+            precinct_results(name.replace(' ','_').lower(),filename)
+        except:
+            no_xml.append(name)
     print(no_xml)
 
 def precinct_results(county_name, filename):
@@ -107,6 +123,8 @@ def precinct_results(county_name, filename):
         vote_types.remove('overVotes')
     if 'underVotes' in vote_types:
         vote_types.remove('underVotes')
+    if 'regVotersCounty' in vote_types:
+        vote_types.remove('regVotersCounty')
     with open(f, "wt") as csvfile:
         w = csv.writer(csvfile)
         headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'] + [x.replace(' ','_').lower() for x in vote_types]

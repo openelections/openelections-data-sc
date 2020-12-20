@@ -2,10 +2,10 @@ import os
 import glob
 import csv
 
-year = '2018'
-election = '20180619'
+year = '2020'
+election = '20201103'
 path = election+'*precinct.csv'
-output_file = election+'__sc__primary_runoff__precinct.csv'
+output_file = election+'__sc__general__precinct.csv'
 
 def generate_headers(year, path):
     os.chdir(year)
@@ -46,10 +46,10 @@ def generate_consolidated_file(year, path, output_file):
             reader = csv.DictReader(csvfile)
             for row in reader:
                 if row['office'].strip() in ['STRAIGHT PARTY', 'President', 'Governor and Lieutenant Governor', 'Secretary of State', 'Comptroller General', 'State Auditor', 'State Treasurer', 'State Superintendent of Education', 'Commissioner of Agriculture', 'Attorney General', 'U.S. House', 'State Senate', 'State House', 'U.S. Senate', 'House of Delegates', 'State Representative', 'Registered Voters', 'Ballots Cast']:
-                    results.append([row['county'], row['precinct'], row['office'], row['district'], row['candidate'], row['party'], row['votes']])
+                    results.append([row['county'], row['precinct'], row['office'], row['district'], row['candidate'], row['party'], row['votes'], row['in-person_absentee'], row['failsafe_provisional'], row['provisional'], row['failsafe'], row['absentee_by_mail'], row['election_day']])
     os.chdir('..')
     os.chdir('..')
     with open(output_file, "w") as csv_outfile:
         outfile = csv.writer(csv_outfile)
-        outfile.writerow(['county','precinct', 'office', 'district', 'candidate', 'party', 'votes'])
+        outfile.writerow(['county','precinct', 'office', 'district', 'candidate', 'party', 'votes', 'in-person_absentee', 'failsafe_provisional', 'provisional', 'failsafe', 'absentee_by_mail', 'election_day'])
         outfile.writerows(results)
