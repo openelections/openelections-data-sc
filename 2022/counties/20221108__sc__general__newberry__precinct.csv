@@ -1,0 +1,1671 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Newberry,Newberry Ward 1,STRAIGHT PARTY 1,,REP,Republican,28,0,3,0,8,0,17
+Newberry,Newberry Ward 2,STRAIGHT PARTY 1,,REP,Republican,134,0,5,0,71,0,58
+Newberry,Newberry Ward 3,STRAIGHT PARTY 1,,REP,Republican,94,0,2,0,36,0,56
+Newberry,Newberry Ward 4,STRAIGHT PARTY 1,,REP,Republican,11,0,0,0,3,0,8
+Newberry,Newberry Ward 5,STRAIGHT PARTY 1,,REP,Republican,11,0,0,0,1,0,10
+Newberry,Newberry Ward 6,STRAIGHT PARTY 1,,REP,Republican,96,0,1,0,51,0,44
+Newberry,Beth - Eden,STRAIGHT PARTY 1,,REP,Republican,102,0,2,0,30,0,70
+Newberry,Bush River,STRAIGHT PARTY 1,,REP,Republican,63,0,0,0,11,0,52
+Newberry,Chappells,STRAIGHT PARTY 1,,REP,Republican,181,0,1,0,22,0,158
+Newberry,Fairview,STRAIGHT PARTY 1,,REP,Republican,475,0,2,0,139,0,334
+Newberry,Hartford,STRAIGHT PARTY 1,,REP,Republican,151,0,1,0,57,0,93
+Newberry,Helena,STRAIGHT PARTY 1,,REP,Republican,37,0,1,0,19,0,17
+Newberry,Kinards-Jalapa,STRAIGHT PARTY 1,,REP,Republican,138,0,1,0,32,0,105
+Newberry,Johnstone,STRAIGHT PARTY 1,,REP,Republican,93,0,0,0,25,0,68
+Newberry,Little Mountain,STRAIGHT PARTY 1,,REP,Republican,293,0,3,0,53,0,237
+Newberry,Maybinton,STRAIGHT PARTY 1,,REP,Republican,9,0,0,0,0,0,9
+Newberry,Mt. Bethel-Garmany,STRAIGHT PARTY 1,,REP,Republican,137,0,0,0,57,0,80
+Newberry,Consolidated Number 5,STRAIGHT PARTY 1,,REP,Republican,151,0,2,0,21,0,128
+Newberry,O'Neal,STRAIGHT PARTY 1,,REP,Republican,395,0,8,0,103,0,284
+Newberry,Oakland,STRAIGHT PARTY 1,,REP,Republican,31,0,0,0,13,0,18
+Newberry,Peak,STRAIGHT PARTY 1,,REP,Republican,26,0,1,0,0,0,25
+Newberry,Pomaria,STRAIGHT PARTY 1,,REP,Republican,113,0,3,0,13,0,97
+Newberry,Prosperity City,STRAIGHT PARTY 1,,REP,Republican,96,0,0,0,29,0,67
+Newberry,Silverstreet,STRAIGHT PARTY 1,,REP,Republican,155,0,3,0,17,0,135
+Newberry,Stoney Hill,STRAIGHT PARTY 1,,REP,Republican,218,0,0,0,57,0,161
+Newberry,St. Phillips-Jolly Street,STRAIGHT PARTY 1,,REP,Republican,170,0,0,0,36,0,134
+Newberry,Wheeland,STRAIGHT PARTY 1,,REP,Republican,137,0,1,0,16,0,120
+Newberry,Whitmire City,STRAIGHT PARTY 1,,REP,Republican,142,0,0,0,20,0,122
+Newberry,Whitmire Outside,STRAIGHT PARTY 1,,REP,Republican,152,0,1,0,26,0,125
+Newberry,Prosperity Outside,STRAIGHT PARTY 1,,REP,Republican,164,0,0,0,51,0,113
+Newberry,Failsafe,STRAIGHT PARTY 1,,REP,Republican,1,1,0,0,0,0,0
+Newberry,Provisional,STRAIGHT PARTY 1,,REP,Republican,2,0,0,0,0,2,0
+Newberry,Failsafe Provisional,STRAIGHT PARTY 1,,REP,Republican,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,STRAIGHT PARTY 1,,DEM,Democratic,45,0,0,0,14,0,31
+Newberry,Newberry Ward 2,STRAIGHT PARTY 1,,DEM,Democratic,74,0,2,0,37,0,35
+Newberry,Newberry Ward 3,STRAIGHT PARTY 1,,DEM,Democratic,88,0,1,0,25,0,62
+Newberry,Newberry Ward 4,STRAIGHT PARTY 1,,DEM,Democratic,118,0,1,0,55,0,62
+Newberry,Newberry Ward 5,STRAIGHT PARTY 1,,DEM,Democratic,99,0,0,0,30,0,69
+Newberry,Newberry Ward 6,STRAIGHT PARTY 1,,DEM,Democratic,124,0,6,0,38,0,80
+Newberry,Beth - Eden,STRAIGHT PARTY 1,,DEM,Democratic,51,0,0,0,25,0,26
+Newberry,Bush River,STRAIGHT PARTY 1,,DEM,Democratic,14,0,0,0,1,0,13
+Newberry,Chappells,STRAIGHT PARTY 1,,DEM,Democratic,68,0,1,0,13,0,54
+Newberry,Fairview,STRAIGHT PARTY 1,,DEM,Democratic,61,0,4,0,17,0,40
+Newberry,Hartford,STRAIGHT PARTY 1,,DEM,Democratic,101,0,0,0,61,0,40
+Newberry,Helena,STRAIGHT PARTY 1,,DEM,Democratic,230,0,2,0,65,0,163
+Newberry,Kinards-Jalapa,STRAIGHT PARTY 1,,DEM,Democratic,34,0,0,0,7,0,27
+Newberry,Johnstone,STRAIGHT PARTY 1,,DEM,Democratic,31,0,0,0,15,0,16
+Newberry,Little Mountain,STRAIGHT PARTY 1,,DEM,Democratic,96,0,3,0,28,0,65
+Newberry,Maybinton,STRAIGHT PARTY 1,,DEM,Democratic,27,0,0,0,7,0,20
+Newberry,Mt. Bethel-Garmany,STRAIGHT PARTY 1,,DEM,Democratic,146,0,3,0,69,0,74
+Newberry,Consolidated Number 5,STRAIGHT PARTY 1,,DEM,Democratic,89,0,0,0,29,0,60
+Newberry,O'Neal,STRAIGHT PARTY 1,,DEM,Democratic,59,0,3,0,23,0,33
+Newberry,Oakland,STRAIGHT PARTY 1,,DEM,Democratic,88,0,0,0,18,0,70
+Newberry,Peak,STRAIGHT PARTY 1,,DEM,Democratic,9,0,0,0,2,0,7
+Newberry,Pomaria,STRAIGHT PARTY 1,,DEM,Democratic,36,0,0,0,10,0,26
+Newberry,Prosperity City,STRAIGHT PARTY 1,,DEM,Democratic,88,0,1,0,31,0,56
+Newberry,Silverstreet,STRAIGHT PARTY 1,,DEM,Democratic,77,0,0,0,35,0,42
+Newberry,Stoney Hill,STRAIGHT PARTY 1,,DEM,Democratic,26,0,1,0,10,0,15
+Newberry,St. Phillips-Jolly Street,STRAIGHT PARTY 1,,DEM,Democratic,99,0,4,0,43,0,52
+Newberry,Wheeland,STRAIGHT PARTY 1,,DEM,Democratic,16,0,0,0,10,0,6
+Newberry,Whitmire City,STRAIGHT PARTY 1,,DEM,Democratic,48,0,0,0,4,0,44
+Newberry,Whitmire Outside,STRAIGHT PARTY 1,,DEM,Democratic,68,0,0,0,20,0,48
+Newberry,Prosperity Outside,STRAIGHT PARTY 1,,DEM,Democratic,93,0,0,0,34,0,59
+Newberry,Failsafe,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Newberry,Provisional,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Newberry Ward 2,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Newberry Ward 3,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,0,0,2
+Newberry,Newberry Ward 4,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Newberry Ward 5,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Newberry Ward 6,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,1,0,0
+Newberry,Beth - Eden,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Bush River,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Chappells,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Newberry,Fairview,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Newberry,Hartford,STRAIGHT PARTY 1,,LIB,Libertarian,3,0,0,0,0,0,3
+Newberry,Helena,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,0,0,2
+Newberry,Kinards-Jalapa,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Johnstone,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Little Mountain,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Newberry,Maybinton,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Newberry,Mt. Bethel-Garmany,STRAIGHT PARTY 1,,LIB,Libertarian,3,0,0,0,2,0,1
+Newberry,Consolidated Number 5,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,O'Neal,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Oakland,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Peak,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Pomaria,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Newberry,Prosperity City,STRAIGHT PARTY 1,,LIB,Libertarian,4,0,0,0,0,0,4
+Newberry,Silverstreet,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Stoney Hill,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,1,0,1
+Newberry,St. Phillips-Jolly Street,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Wheeland,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Whitmire City,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Whitmire Outside,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Prosperity Outside,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Failsafe,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Newberry Ward 2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Newberry Ward 3,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Newberry Ward 4,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Newberry Ward 5,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Newberry Ward 6,STRAIGHT PARTY 1,,ALN,Alliance,1,0,0,0,1,0,0
+Newberry,Beth - Eden,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Bush River,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Chappells,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Fairview,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Hartford,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Helena,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Kinards-Jalapa,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Johnstone,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Little Mountain,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Maybinton,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Consolidated Number 5,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,O'Neal,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Oakland,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Peak,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Pomaria,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Prosperity City,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Silverstreet,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Stoney Hill,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,St. Phillips-Jolly Street,STRAIGHT PARTY 1,,ALN,Alliance,1,0,0,0,0,0,1
+Newberry,Wheeland,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Whitmire City,STRAIGHT PARTY 1,,ALN,Alliance,1,0,0,0,0,0,1
+Newberry,Whitmire Outside,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Prosperity Outside,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Failsafe,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Newberry Ward 2,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Newberry Ward 3,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Newberry,Newberry Ward 4,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Newberry Ward 5,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Newberry,Newberry Ward 6,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Beth - Eden,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Newberry,Bush River,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Chappells,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Newberry,Fairview,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Hartford,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Helena,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Kinards-Jalapa,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Johnstone,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Little Mountain,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Newberry,Maybinton,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Consolidated Number 5,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Newberry,O'Neal,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Newberry,Oakland,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Newberry,Peak,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Pomaria,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Prosperity City,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Silverstreet,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Newberry,Stoney Hill,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Newberry,St. Phillips-Jolly Street,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,1,0,0
+Newberry,Wheeland,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Whitmire City,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Whitmire Outside,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Newberry,Prosperity Outside,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,1,0,0
+Newberry,Failsafe,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,STRAIGHT PARTY 1,,UNC,United Citizens,1,0,0,0,0,0,1
+Newberry,Newberry Ward 2,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,1,0,3
+Newberry,Newberry Ward 3,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,0,0,4
+Newberry,Newberry Ward 4,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,1,0,4
+Newberry,Newberry Ward 5,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,0,0,5
+Newberry,Newberry Ward 6,STRAIGHT PARTY 1,,UNC,United Citizens,6,0,1,0,0,0,5
+Newberry,Beth - Eden,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,1,0,4
+Newberry,Bush River,STRAIGHT PARTY 1,,UNC,United Citizens,2,0,0,0,0,0,2
+Newberry,Chappells,STRAIGHT PARTY 1,,UNC,United Citizens,6,0,0,0,2,0,4
+Newberry,Fairview,STRAIGHT PARTY 1,,UNC,United Citizens,7,0,0,0,0,0,7
+Newberry,Hartford,STRAIGHT PARTY 1,,UNC,United Citizens,3,0,0,0,0,0,3
+Newberry,Helena,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,3,0,2
+Newberry,Kinards-Jalapa,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Newberry,Johnstone,STRAIGHT PARTY 1,,UNC,United Citizens,2,0,0,0,0,0,2
+Newberry,Little Mountain,STRAIGHT PARTY 1,,UNC,United Citizens,2,0,0,0,0,0,2
+Newberry,Maybinton,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,STRAIGHT PARTY 1,,UNC,United Citizens,7,0,0,0,3,0,4
+Newberry,Consolidated Number 5,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,1,0,3
+Newberry,O'Neal,STRAIGHT PARTY 1,,UNC,United Citizens,1,0,0,0,1,0,0
+Newberry,Oakland,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,0,0,5
+Newberry,Peak,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Newberry,Pomaria,STRAIGHT PARTY 1,,UNC,United Citizens,1,0,0,0,0,0,1
+Newberry,Prosperity City,STRAIGHT PARTY 1,,UNC,United Citizens,6,0,0,0,0,0,6
+Newberry,Silverstreet,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,0,0,4
+Newberry,Stoney Hill,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Newberry,St. Phillips-Jolly Street,STRAIGHT PARTY 1,,UNC,United Citizens,6,0,0,0,3,0,3
+Newberry,Wheeland,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Newberry,Whitmire City,STRAIGHT PARTY 1,,UNC,United Citizens,8,0,1,0,1,0,6
+Newberry,Whitmire Outside,STRAIGHT PARTY 1,,UNC,United Citizens,1,0,0,0,0,0,1
+Newberry,Prosperity Outside,STRAIGHT PARTY 1,,UNC,United Citizens,2,0,0,0,1,0,1
+Newberry,Failsafe,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Newberry,Provisional,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,88,0,8,0,18,0,62
+Newberry,Newberry Ward 2,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,347,0,9,0,163,0,175
+Newberry,Newberry Ward 3,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,200,0,6,0,74,0,120
+Newberry,Newberry Ward 4,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,21,0,0,0,4,0,17
+Newberry,Newberry Ward 5,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,22,0,0,0,5,0,17
+Newberry,Newberry Ward 6,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,305,0,6,0,140,0,159
+Newberry,Beth - Eden,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,192,0,3,0,53,0,136
+Newberry,Bush River,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,141,0,3,0,24,0,114
+Newberry,Chappells,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,295,0,3,0,40,0,252
+Newberry,Fairview,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,933,0,16,0,239,0,678
+Newberry,Hartford,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,325,0,3,0,113,0,209
+Newberry,Helena,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,93,0,1,0,49,0,43
+Newberry,Kinards-Jalapa,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,223,0,4,0,54,0,165
+Newberry,Johnstone,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,186,0,0,0,46,0,140
+Newberry,Little Mountain,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,621,0,5,0,116,0,500
+Newberry,Maybinton,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,14,0,0,0,0,0,14
+Newberry,Mt. Bethel-Garmany,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,300,0,3,0,103,0,194
+Newberry,Consolidated Number 5,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,425,0,3,0,83,0,339
+Newberry,O'Neal,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,753,0,14,0,196,0,543
+Newberry,Oakland,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,70,0,0,0,24,0,46
+Newberry,Peak,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,59,0,1,0,2,0,56
+Newberry,Pomaria,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,273,0,3,0,36,0,234
+Newberry,Prosperity City,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,229,0,0,0,56,0,173
+Newberry,Silverstreet,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,290,0,3,0,47,0,240
+Newberry,Stoney Hill,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,438,0,3,0,93,0,342
+Newberry,St. Phillips-Jolly Street,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,406,0,2,0,81,0,323
+Newberry,Wheeland,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,260,0,1,0,32,0,227
+Newberry,Whitmire City,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,279,0,3,0,38,0,238
+Newberry,Whitmire Outside,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,271,0,6,0,42,0,223
+Newberry,Prosperity Outside,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,350,0,3,0,102,0,245
+Newberry,Failsafe,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,1,1,0,0,0,0,0
+Newberry,Provisional,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,3,0,0,0,0,3,0
+Newberry,Failsafe Provisional,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,2,0,0,0,2,0,0
+Newberry,Newberry Ward 2,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,4,0,0,0,0,0,4
+Newberry,Newberry Ward 3,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,11,0,0,0,4,0,7
+Newberry,Newberry Ward 4,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,3,0,0,0,1,0,2
+Newberry,Newberry Ward 5,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,2,0,0,0,0,0,2
+Newberry,Newberry Ward 6,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,12,0,1,0,7,0,4
+Newberry,Beth - Eden,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,7,0,0,0,2,0,5
+Newberry,Bush River,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,3,0,0,0,0,0,3
+Newberry,Chappells,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,3,0,0,0,0,0,3
+Newberry,Fairview,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,13,0,0,0,4,0,9
+Newberry,Hartford,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,7,0,0,0,0,0,7
+Newberry,Helena,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,7,0,1,0,1,0,5
+Newberry,Kinards-Jalapa,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,4,0,0,0,0,0,4
+Newberry,Johnstone,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,4,0,0,0,0,0,4
+Newberry,Little Mountain,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,10,0,0,0,0,0,10
+Newberry,Maybinton,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,1,0,0,0,0,0,1
+Newberry,Mt. Bethel-Garmany,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,6,0,0,0,2,0,4
+Newberry,Consolidated Number 5,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,4,0,0,0,0,0,4
+Newberry,O'Neal,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,5,0,0,0,0,0,5
+Newberry,Oakland,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,4,0,0,0,1,0,3
+Newberry,Peak,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,1,0,0,0,0,0,1
+Newberry,Pomaria,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,3,0,0,0,1,0,2
+Newberry,Prosperity City,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,10,0,0,0,2,0,8
+Newberry,Silverstreet,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,4,0,0,0,0,0,4
+Newberry,Stoney Hill,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,5,0,0,0,1,0,4
+Newberry,St. Phillips-Jolly Street,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,8,0,0,0,3,0,5
+Newberry,Wheeland,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,7,0,0,0,2,0,5
+Newberry,Whitmire City,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,7,0,0,0,1,0,6
+Newberry,Whitmire Outside,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,6,0,0,0,1,0,5
+Newberry,Prosperity Outside,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,2,0,0,0,0,0,2
+Newberry,Failsafe,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,0,0,0,0,0,0,0
+Newberry,Provisional,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,96,0,3,0,30,0,63
+Newberry,Newberry Ward 2,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,205,0,6,0,86,0,113
+Newberry,Newberry Ward 3,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,164,0,1,0,47,0,116
+Newberry,Newberry Ward 4,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,159,0,3,0,68,0,88
+Newberry,Newberry Ward 5,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,141,0,0,0,40,0,101
+Newberry,Newberry Ward 6,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,246,0,8,0,90,0,148
+Newberry,Beth - Eden,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,107,0,1,0,44,0,62
+Newberry,Bush River,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,42,0,1,0,9,0,32
+Newberry,Chappells,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,122,0,1,0,21,0,100
+Newberry,Fairview,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,248,0,13,0,67,0,168
+Newberry,Hartford,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,178,0,0,0,96,0,82
+Newberry,Helena,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,264,0,2,0,78,0,184
+Newberry,Kinards-Jalapa,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,55,0,0,0,10,0,45
+Newberry,Johnstone,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,68,0,2,0,28,0,38
+Newberry,Little Mountain,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,212,0,6,0,57,0,149
+Newberry,Maybinton,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,31,0,0,0,8,0,23
+Newberry,Mt. Bethel-Garmany,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,255,0,5,0,111,0,139
+Newberry,Consolidated Number 5,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,195,0,1,0,57,0,137
+Newberry,O'Neal,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,198,0,14,0,64,0,120
+Newberry,Oakland,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,126,0,0,0,23,0,103
+Newberry,Peak,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,20,0,0,0,3,0,17
+Newberry,Pomaria,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,75,0,0,0,15,0,60
+Newberry,Prosperity City,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,175,0,1,0,53,0,121
+Newberry,Silverstreet,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,131,0,2,0,48,0,81
+Newberry,Stoney Hill,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,90,0,1,0,23,0,66
+Newberry,St. Phillips-Jolly Street,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,212,0,4,0,77,0,131
+Newberry,Wheeland,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,50,0,0,0,17,0,33
+Newberry,Whitmire City,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,110,0,1,0,16,0,93
+Newberry,Whitmire Outside,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,112,0,2,0,27,0,83
+Newberry,Prosperity Outside,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,160,0,1,0,59,0,100
+Newberry,Failsafe,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,1,1,0,0,0,0,0
+Newberry,Provisional,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 2,Governor and Lieutenant Governor,,,Write-In,1,0,0,0,0,0,1
+Newberry,Newberry Ward 3,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 4,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 5,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 6,Governor and Lieutenant Governor,,,Write-In,2,0,0,0,0,0,2
+Newberry,Beth - Eden,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Bush River,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Chappells,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Fairview,Governor and Lieutenant Governor,,,Write-In,2,0,0,0,0,0,2
+Newberry,Hartford,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Helena,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Kinards-Jalapa,Governor and Lieutenant Governor,,,Write-In,1,0,0,0,0,0,1
+Newberry,Johnstone,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Little Mountain,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Maybinton,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Consolidated Number 5,Governor and Lieutenant Governor,,,Write-In,1,0,0,0,0,0,1
+Newberry,O'Neal,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Oakland,Governor and Lieutenant Governor,,,Write-In,1,0,0,0,0,0,1
+Newberry,Peak,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Pomaria,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Prosperity City,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Silverstreet,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Stoney Hill,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,St. Phillips-Jolly Street,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Wheeland,Governor and Lieutenant Governor,,,Write-In,1,0,0,0,0,0,1
+Newberry,Whitmire City,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Whitmire Outside,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Prosperity Outside,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Failsafe,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Provisional,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Governor and Lieutenant Governor,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Secretary of State,,REP,REP Mark Hammond,101,0,8,0,23,0,70
+Newberry,Newberry Ward 2,Secretary of State,,REP,REP Mark Hammond,391,0,9,0,174,0,208
+Newberry,Newberry Ward 3,Secretary of State,,REP,REP Mark Hammond,224,0,6,0,81,0,137
+Newberry,Newberry Ward 4,Secretary of State,,REP,REP Mark Hammond,22,0,0,0,4,0,18
+Newberry,Newberry Ward 5,Secretary of State,,REP,REP Mark Hammond,27,0,0,0,4,0,23
+Newberry,Newberry Ward 6,Secretary of State,,REP,REP Mark Hammond,349,0,8,0,153,0,188
+Newberry,Beth - Eden,Secretary of State,,REP,REP Mark Hammond,215,0,4,0,57,0,154
+Newberry,Bush River,Secretary of State,,REP,REP Mark Hammond,153,0,3,0,26,0,124
+Newberry,Chappells,Secretary of State,,REP,REP Mark Hammond,308,0,3,0,39,0,266
+Newberry,Fairview,Secretary of State,,REP,REP Mark Hammond,1005,0,16,0,255,0,734
+Newberry,Hartford,Secretary of State,,REP,REP Mark Hammond,348,0,3,0,120,0,225
+Newberry,Helena,Secretary of State,,REP,REP Mark Hammond,98,0,1,0,49,0,48
+Newberry,Kinards-Jalapa,Secretary of State,,REP,REP Mark Hammond,231,0,4,0,56,0,171
+Newberry,Johnstone,Secretary of State,,REP,REP Mark Hammond,206,0,2,0,51,0,153
+Newberry,Little Mountain,Secretary of State,,REP,REP Mark Hammond,664,0,6,0,121,0,537
+Newberry,Maybinton,Secretary of State,,REP,REP Mark Hammond,14,0,0,0,0,0,14
+Newberry,Mt. Bethel-Garmany,Secretary of State,,REP,REP Mark Hammond,317,0,3,0,114,0,200
+Newberry,Consolidated Number 5,Secretary of State,,REP,REP Mark Hammond,468,0,3,0,89,0,376
+Newberry,O'Neal,Secretary of State,,REP,REP Mark Hammond,806,0,19,0,209,0,578
+Newberry,Oakland,Secretary of State,,REP,REP Mark Hammond,82,0,0,0,25,0,57
+Newberry,Peak,Secretary of State,,REP,REP Mark Hammond,60,0,1,0,0,0,59
+Newberry,Pomaria,Secretary of State,,REP,REP Mark Hammond,292,0,3,0,39,0,250
+Newberry,Prosperity City,Secretary of State,,REP,REP Mark Hammond,261,0,0,0,64,0,197
+Newberry,Silverstreet,Secretary of State,,REP,REP Mark Hammond,313,0,3,0,48,0,262
+Newberry,Stoney Hill,Secretary of State,,REP,REP Mark Hammond,465,0,3,0,99,0,363
+Newberry,St. Phillips-Jolly Street,Secretary of State,,REP,REP Mark Hammond,445,0,2,0,88,0,355
+Newberry,Wheeland,Secretary of State,,REP,REP Mark Hammond,282,0,1,0,36,0,245
+Newberry,Whitmire City,Secretary of State,,REP,REP Mark Hammond,299,0,3,0,41,0,255
+Newberry,Whitmire Outside,Secretary of State,,REP,REP Mark Hammond,287,0,7,0,44,0,236
+Newberry,Prosperity Outside,Secretary of State,,REP,REP Mark Hammond,372,0,3,0,109,0,260
+Newberry,Failsafe,Secretary of State,,REP,REP Mark Hammond,1,1,0,0,0,0,0
+Newberry,Provisional,Secretary of State,,REP,REP Mark Hammond,3,0,0,0,0,3,0
+Newberry,Failsafe Provisional,Secretary of State,,REP,REP Mark Hammond,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,82,0,3,0,27,0,52
+Newberry,Newberry Ward 2,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,167,0,6,0,76,0,85
+Newberry,Newberry Ward 3,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,147,0,1,0,43,0,103
+Newberry,Newberry Ward 4,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,162,0,3,0,70,0,89
+Newberry,Newberry Ward 5,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,136,0,0,0,40,0,96
+Newberry,Newberry Ward 6,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,210,0,7,0,79,0,124
+Newberry,Beth - Eden,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,92,0,0,0,42,0,50
+Newberry,Bush River,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,29,0,0,0,4,0,25
+Newberry,Chappells,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,112,0,1,0,21,0,90
+Newberry,Fairview,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,183,0,13,0,53,0,117
+Newberry,Hartford,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,159,0,0,0,89,0,70
+Newberry,Helena,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,263,0,3,0,79,0,181
+Newberry,Kinards-Jalapa,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,53,0,0,0,8,0,45
+Newberry,Johnstone,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,50,0,0,0,22,0,28
+Newberry,Little Mountain,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,171,0,3,0,53,0,115
+Newberry,Maybinton,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,32,0,0,0,8,0,24
+Newberry,Mt. Bethel-Garmany,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,236,0,5,0,99,0,132
+Newberry,Consolidated Number 5,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,151,0,1,0,48,0,102
+Newberry,O'Neal,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,148,0,9,0,50,0,89
+Newberry,Oakland,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,119,0,0,0,24,0,95
+Newberry,Peak,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,19,0,0,0,5,0,14
+Newberry,Pomaria,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,61,0,0,0,16,0,45
+Newberry,Prosperity City,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,146,0,1,0,46,0,99
+Newberry,Silverstreet,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,114,0,2,0,46,0,66
+Newberry,Stoney Hill,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,66,0,1,0,18,0,47
+Newberry,St. Phillips-Jolly Street,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,178,0,4,0,72,0,102
+Newberry,Wheeland,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,33,0,0,0,15,0,18
+Newberry,Whitmire City,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,97,0,1,0,14,0,82
+Newberry,Whitmire Outside,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,101,0,1,0,27,0,73
+Newberry,Prosperity Outside,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,136,0,0,0,51,0,85
+Newberry,Failsafe,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,1,1,0,0,0,0,0
+Newberry,Provisional,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 2,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 3,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 4,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 5,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 6,Secretary of State,,,Write-In,1,0,0,0,0,0,1
+Newberry,Beth - Eden,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Bush River,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Chappells,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Fairview,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Hartford,Secretary of State,,,Write-In,2,0,0,0,0,0,2
+Newberry,Helena,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Kinards-Jalapa,Secretary of State,,,Write-In,1,0,0,0,0,0,1
+Newberry,Johnstone,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Little Mountain,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Maybinton,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Consolidated Number 5,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,O'Neal,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Oakland,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Peak,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Pomaria,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Prosperity City,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Silverstreet,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Stoney Hill,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,St. Phillips-Jolly Street,Secretary of State,,,Write-In,1,0,0,0,0,0,1
+Newberry,Wheeland,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Whitmire City,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Whitmire Outside,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Prosperity Outside,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Failsafe,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Provisional,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Secretary of State,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,State Treasurer,,REP,REP Curtis Loftis,101,0,8,0,25,0,68
+Newberry,Newberry Ward 2,State Treasurer,,REP,REP Curtis Loftis,408,0,10,0,184,0,214
+Newberry,Newberry Ward 3,State Treasurer,,REP,REP Curtis Loftis,236,0,6,0,82,0,148
+Newberry,Newberry Ward 4,State Treasurer,,REP,REP Curtis Loftis,35,0,0,0,10,0,25
+Newberry,Newberry Ward 5,State Treasurer,,REP,REP Curtis Loftis,31,0,0,0,7,0,24
+Newberry,Newberry Ward 6,State Treasurer,,REP,REP Curtis Loftis,357,0,8,0,160,0,189
+Newberry,Beth - Eden,State Treasurer,,REP,REP Curtis Loftis,224,0,4,0,61,0,159
+Newberry,Bush River,State Treasurer,,REP,REP Curtis Loftis,154,0,4,0,25,0,125
+Newberry,Chappells,State Treasurer,,REP,REP Curtis Loftis,320,0,3,0,40,0,277
+Newberry,Fairview,State Treasurer,,REP,REP Curtis Loftis,1023,0,16,0,256,0,751
+Newberry,Hartford,State Treasurer,,REP,REP Curtis Loftis,363,0,3,0,127,0,233
+Newberry,Helena,State Treasurer,,REP,REP Curtis Loftis,110,0,1,0,58,0,51
+Newberry,Kinards-Jalapa,State Treasurer,,REP,REP Curtis Loftis,235,0,4,0,57,0,174
+Newberry,Johnstone,State Treasurer,,REP,REP Curtis Loftis,210,0,2,0,53,0,155
+Newberry,Little Mountain,State Treasurer,,REP,REP Curtis Loftis,687,0,6,0,128,0,553
+Newberry,Maybinton,State Treasurer,,REP,REP Curtis Loftis,14,0,0,0,0,0,14
+Newberry,Mt. Bethel-Garmany,State Treasurer,,REP,REP Curtis Loftis,336,0,3,0,121,0,212
+Newberry,Consolidated Number 5,State Treasurer,,REP,REP Curtis Loftis,481,0,3,0,95,0,383
+Newberry,O'Neal,State Treasurer,,REP,REP Curtis Loftis,828,0,20,0,217,0,591
+Newberry,Oakland,State Treasurer,,REP,REP Curtis Loftis,85,0,0,0,28,0,57
+Newberry,Peak,State Treasurer,,REP,REP Curtis Loftis,65,0,1,0,1,0,63
+Newberry,Pomaria,State Treasurer,,REP,REP Curtis Loftis,297,0,3,0,41,0,253
+Newberry,Prosperity City,State Treasurer,,REP,REP Curtis Loftis,267,0,0,0,68,0,199
+Newberry,Silverstreet,State Treasurer,,REP,REP Curtis Loftis,329,0,3,0,58,0,268
+Newberry,Stoney Hill,State Treasurer,,REP,REP Curtis Loftis,477,0,3,0,103,0,371
+Newberry,St. Phillips-Jolly Street,State Treasurer,,REP,REP Curtis Loftis,464,0,2,0,93,0,369
+Newberry,Wheeland,State Treasurer,,REP,REP Curtis Loftis,284,0,1,0,38,0,245
+Newberry,Whitmire City,State Treasurer,,REP,REP Curtis Loftis,306,0,3,0,43,0,260
+Newberry,Whitmire Outside,State Treasurer,,REP,REP Curtis Loftis,296,0,8,0,48,0,240
+Newberry,Prosperity Outside,State Treasurer,,REP,REP Curtis Loftis,378,0,4,0,113,0,261
+Newberry,Failsafe,State Treasurer,,REP,REP Curtis Loftis,1,1,0,0,0,0,0
+Newberry,Provisional,State Treasurer,,REP,REP Curtis Loftis,3,0,0,0,0,3,0
+Newberry,Failsafe Provisional,State Treasurer,,REP,REP Curtis Loftis,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,State Treasurer,,ALN,ALN Sarah E Work,44,0,3,0,11,0,30
+Newberry,Newberry Ward 2,State Treasurer,,ALN,ALN Sarah E Work,77,0,2,0,27,0,48
+Newberry,Newberry Ward 3,State Treasurer,,ALN,ALN Sarah E Work,69,0,1,0,17,0,51
+Newberry,Newberry Ward 4,State Treasurer,,ALN,ALN Sarah E Work,39,0,2,0,11,0,26
+Newberry,Newberry Ward 5,State Treasurer,,ALN,ALN Sarah E Work,36,0,0,0,8,0,28
+Newberry,Newberry Ward 6,State Treasurer,,ALN,ALN Sarah E Work,91,0,1,0,35,0,55
+Newberry,Beth - Eden,State Treasurer,,ALN,ALN Sarah E Work,42,0,0,0,19,0,23
+Newberry,Bush River,State Treasurer,,ALN,ALN Sarah E Work,15,0,0,0,4,0,11
+Newberry,Chappells,State Treasurer,,ALN,ALN Sarah E Work,38,0,0,0,11,0,27
+Newberry,Fairview,State Treasurer,,ALN,ALN Sarah E Work,106,0,6,0,34,0,66
+Newberry,Hartford,State Treasurer,,ALN,ALN Sarah E Work,59,0,0,0,27,0,32
+Newberry,Helena,State Treasurer,,ALN,ALN Sarah E Work,34,0,0,0,12,0,22
+Newberry,Kinards-Jalapa,State Treasurer,,ALN,ALN Sarah E Work,18,0,0,0,1,0,17
+Newberry,Johnstone,State Treasurer,,ALN,ALN Sarah E Work,21,0,0,0,6,0,15
+Newberry,Little Mountain,State Treasurer,,ALN,ALN Sarah E Work,76,0,0,0,25,0,51
+Newberry,Maybinton,State Treasurer,,ALN,ALN Sarah E Work,2,0,0,0,1,0,1
+Newberry,Mt. Bethel-Garmany,State Treasurer,,ALN,ALN Sarah E Work,92,0,3,0,24,0,65
+Newberry,Consolidated Number 5,State Treasurer,,ALN,ALN Sarah E Work,58,0,1,0,13,0,44
+Newberry,O'Neal,State Treasurer,,ALN,ALN Sarah E Work,77,0,3,0,23,0,51
+Newberry,Oakland,State Treasurer,,ALN,ALN Sarah E Work,46,0,0,0,4,0,42
+Newberry,Peak,State Treasurer,,ALN,ALN Sarah E Work,7,0,0,0,3,0,4
+Newberry,Pomaria,State Treasurer,,ALN,ALN Sarah E Work,24,0,0,0,4,0,20
+Newberry,Prosperity City,State Treasurer,,ALN,ALN Sarah E Work,57,0,0,0,11,0,46
+Newberry,Silverstreet,State Treasurer,,ALN,ALN Sarah E Work,34,0,2,0,10,0,22
+Newberry,Stoney Hill,State Treasurer,,ALN,ALN Sarah E Work,32,0,0,0,7,0,25
+Newberry,St. Phillips-Jolly Street,State Treasurer,,ALN,ALN Sarah E Work,74,0,0,0,27,0,47
+Newberry,Wheeland,State Treasurer,,ALN,ALN Sarah E Work,14,0,0,0,2,0,12
+Newberry,Whitmire City,State Treasurer,,ALN,ALN Sarah E Work,60,0,1,0,9,0,50
+Newberry,Whitmire Outside,State Treasurer,,ALN,ALN Sarah E Work,42,0,0,0,12,0,30
+Newberry,Prosperity Outside,State Treasurer,,ALN,ALN Sarah E Work,50,0,0,0,15,0,35
+Newberry,Failsafe,State Treasurer,,ALN,ALN Sarah E Work,1,1,0,0,0,0,0
+Newberry,Provisional,State Treasurer,,ALN,ALN Sarah E Work,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,State Treasurer,,ALN,ALN Sarah E Work,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,State Treasurer,,,Write-In,1,0,0,0,0,0,1
+Newberry,Newberry Ward 2,State Treasurer,,,Write-In,1,0,0,0,0,0,1
+Newberry,Newberry Ward 3,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 4,State Treasurer,,,Write-In,1,0,0,0,0,0,1
+Newberry,Newberry Ward 5,State Treasurer,,,Write-In,3,0,0,0,0,0,3
+Newberry,Newberry Ward 6,State Treasurer,,,Write-In,3,0,0,0,0,0,3
+Newberry,Beth - Eden,State Treasurer,,,Write-In,1,0,0,0,0,0,1
+Newberry,Bush River,State Treasurer,,,Write-In,1,0,0,0,0,0,1
+Newberry,Chappells,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Fairview,State Treasurer,,,Write-In,1,0,0,0,0,0,1
+Newberry,Hartford,State Treasurer,,,Write-In,1,0,0,0,0,0,1
+Newberry,Helena,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Kinards-Jalapa,State Treasurer,,,Write-In,1,0,0,0,0,0,1
+Newberry,Johnstone,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Little Mountain,State Treasurer,,,Write-In,2,0,0,0,0,0,2
+Newberry,Maybinton,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,State Treasurer,,,Write-In,2,0,0,0,0,0,2
+Newberry,Consolidated Number 5,State Treasurer,,,Write-In,4,0,0,0,0,0,4
+Newberry,O'Neal,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Oakland,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Peak,State Treasurer,,,Write-In,1,0,0,0,0,0,1
+Newberry,Pomaria,State Treasurer,,,Write-In,1,0,0,0,0,0,1
+Newberry,Prosperity City,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Silverstreet,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Stoney Hill,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,St. Phillips-Jolly Street,State Treasurer,,,Write-In,1,0,0,0,0,0,1
+Newberry,Wheeland,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Whitmire City,State Treasurer,,,Write-In,1,0,0,0,0,0,1
+Newberry,Whitmire Outside,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Prosperity Outside,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Failsafe,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Provisional,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,State Treasurer,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Attorney General,,REP,REP Alan Wilson,116,0,8,0,24,0,84
+Newberry,Newberry Ward 2,Attorney General,,REP,REP Alan Wilson,429,0,12,0,187,0,230
+Newberry,Newberry Ward 3,Attorney General,,REP,REP Alan Wilson,255,0,6,0,81,0,168
+Newberry,Newberry Ward 4,Attorney General,,REP,REP Alan Wilson,45,0,1,0,11,0,33
+Newberry,Newberry Ward 5,Attorney General,,REP,REP Alan Wilson,47,0,0,0,10,0,37
+Newberry,Newberry Ward 6,Attorney General,,REP,REP Alan Wilson,395,0,8,0,173,0,214
+Newberry,Beth - Eden,Attorney General,,REP,REP Alan Wilson,238,0,4,0,68,0,166
+Newberry,Bush River,Attorney General,,REP,REP Alan Wilson,158,0,3,0,26,0,129
+Newberry,Chappells,Attorney General,,REP,REP Alan Wilson,330,0,3,0,42,0,285
+Newberry,Fairview,Attorney General,,REP,REP Alan Wilson,1039,0,16,0,263,0,760
+Newberry,Hartford,Attorney General,,REP,REP Alan Wilson,379,0,3,0,131,0,245
+Newberry,Helena,Attorney General,,REP,REP Alan Wilson,123,0,1,0,63,0,59
+Newberry,Kinards-Jalapa,Attorney General,,REP,REP Alan Wilson,240,0,4,0,56,0,180
+Newberry,Johnstone,Attorney General,,REP,REP Alan Wilson,218,0,2,0,54,0,162
+Newberry,Little Mountain,Attorney General,,REP,REP Alan Wilson,709,0,6,0,130,0,573
+Newberry,Maybinton,Attorney General,,REP,REP Alan Wilson,15,0,0,0,1,0,14
+Newberry,Mt. Bethel-Garmany,Attorney General,,REP,REP Alan Wilson,383,0,5,0,129,0,249
+Newberry,Consolidated Number 5,Attorney General,,REP,REP Alan Wilson,507,0,4,0,98,0,405
+Newberry,O'Neal,Attorney General,,REP,REP Alan Wilson,845,0,19,0,216,0,610
+Newberry,Oakland,Attorney General,,REP,REP Alan Wilson,110,0,0,0,28,0,82
+Newberry,Peak,Attorney General,,REP,REP Alan Wilson,67,0,1,0,2,0,64
+Newberry,Pomaria,Attorney General,,REP,REP Alan Wilson,304,0,3,0,41,0,260
+Newberry,Prosperity City,Attorney General,,REP,REP Alan Wilson,291,0,0,0,71,0,220
+Newberry,Silverstreet,Attorney General,,REP,REP Alan Wilson,339,0,3,0,60,0,276
+Newberry,Stoney Hill,Attorney General,,REP,REP Alan Wilson,479,0,3,0,103,0,373
+Newberry,St. Phillips-Jolly Street,Attorney General,,REP,REP Alan Wilson,493,0,2,0,98,0,393
+Newberry,Wheeland,Attorney General,,REP,REP Alan Wilson,290,0,1,0,37,0,252
+Newberry,Whitmire City,Attorney General,,REP,REP Alan Wilson,330,0,3,0,43,0,284
+Newberry,Whitmire Outside,Attorney General,,REP,REP Alan Wilson,312,0,8,0,53,0,251
+Newberry,Prosperity Outside,Attorney General,,REP,REP Alan Wilson,402,0,3,0,116,0,283
+Newberry,Failsafe,Attorney General,,REP,REP Alan Wilson,2,2,0,0,0,0,0
+Newberry,Provisional,Attorney General,,REP,REP Alan Wilson,2,0,0,0,0,2,0
+Newberry,Failsafe Provisional,Attorney General,,REP,REP Alan Wilson,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Attorney General,,,Write-In,4,0,0,0,0,0,4
+Newberry,Newberry Ward 2,Attorney General,,,Write-In,11,0,0,0,0,0,11
+Newberry,Newberry Ward 3,Attorney General,,,Write-In,4,0,0,0,0,0,4
+Newberry,Newberry Ward 4,Attorney General,,,Write-In,2,0,0,0,0,0,2
+Newberry,Newberry Ward 5,Attorney General,,,Write-In,5,0,0,0,0,0,5
+Newberry,Newberry Ward 6,Attorney General,,,Write-In,10,0,0,0,0,0,10
+Newberry,Beth - Eden,Attorney General,,,Write-In,4,0,0,0,0,0,4
+Newberry,Bush River,Attorney General,,,Write-In,1,0,0,0,0,0,1
+Newberry,Chappells,Attorney General,,,Write-In,1,0,0,0,0,0,1
+Newberry,Fairview,Attorney General,,,Write-In,17,0,0,0,0,0,17
+Newberry,Hartford,Attorney General,,,Write-In,8,0,0,0,0,0,8
+Newberry,Helena,Attorney General,,,Write-In,3,0,0,0,0,0,3
+Newberry,Kinards-Jalapa,Attorney General,,,Write-In,3,0,0,0,0,0,3
+Newberry,Johnstone,Attorney General,,,Write-In,0,0,0,0,0,0,0
+Newberry,Little Mountain,Attorney General,,,Write-In,15,0,0,0,0,0,15
+Newberry,Maybinton,Attorney General,,,Write-In,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,Attorney General,,,Write-In,6,0,0,0,0,0,6
+Newberry,Consolidated Number 5,Attorney General,,,Write-In,6,0,0,0,0,0,6
+Newberry,O'Neal,Attorney General,,,Write-In,13,0,0,0,0,0,13
+Newberry,Oakland,Attorney General,,,Write-In,1,0,0,0,0,0,1
+Newberry,Peak,Attorney General,,,Write-In,4,0,0,0,0,0,4
+Newberry,Pomaria,Attorney General,,,Write-In,4,0,0,0,0,0,4
+Newberry,Prosperity City,Attorney General,,,Write-In,7,0,0,0,0,0,7
+Newberry,Silverstreet,Attorney General,,,Write-In,1,0,0,0,0,0,1
+Newberry,Stoney Hill,Attorney General,,,Write-In,3,0,0,0,0,0,3
+Newberry,St. Phillips-Jolly Street,Attorney General,,,Write-In,5,0,0,0,0,0,5
+Newberry,Wheeland,Attorney General,,,Write-In,0,0,0,0,0,0,0
+Newberry,Whitmire City,Attorney General,,,Write-In,10,0,0,0,0,0,10
+Newberry,Whitmire Outside,Attorney General,,,Write-In,1,0,0,0,0,0,1
+Newberry,Prosperity Outside,Attorney General,,,Write-In,2,0,0,0,0,0,2
+Newberry,Failsafe,Attorney General,,,Write-In,0,0,0,0,0,0,0
+Newberry,Provisional,Attorney General,,,Write-In,1,0,0,0,0,0,1
+Newberry,Failsafe Provisional,Attorney General,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Comptroller General,,REP,REP Richard Eckstrom,118,0,9,0,26,0,83
+Newberry,Newberry Ward 2,Comptroller General,,REP,REP Richard Eckstrom,431,0,11,0,189,0,231
+Newberry,Newberry Ward 3,Comptroller General,,REP,REP Richard Eckstrom,264,0,6,0,85,0,173
+Newberry,Newberry Ward 4,Comptroller General,,REP,REP Richard Eckstrom,47,0,1,0,13,0,33
+Newberry,Newberry Ward 5,Comptroller General,,REP,REP Richard Eckstrom,46,0,0,0,11,0,35
+Newberry,Newberry Ward 6,Comptroller General,,REP,REP Richard Eckstrom,407,0,8,0,177,0,222
+Newberry,Beth - Eden,Comptroller General,,REP,REP Richard Eckstrom,242,0,4,0,70,0,168
+Newberry,Bush River,Comptroller General,,REP,REP Richard Eckstrom,162,0,4,0,27,0,131
+Newberry,Chappells,Comptroller General,,REP,REP Richard Eckstrom,328,0,3,0,42,0,283
+Newberry,Fairview,Comptroller General,,REP,REP Richard Eckstrom,1052,0,16,0,265,0,771
+Newberry,Hartford,Comptroller General,,REP,REP Richard Eckstrom,381,0,3,0,129,0,249
+Newberry,Helena,Comptroller General,,REP,REP Richard Eckstrom,123,0,1,0,63,0,59
+Newberry,Kinards-Jalapa,Comptroller General,,REP,REP Richard Eckstrom,240,0,4,0,56,0,180
+Newberry,Johnstone,Comptroller General,,REP,REP Richard Eckstrom,220,0,2,0,54,0,164
+Newberry,Little Mountain,Comptroller General,,REP,REP Richard Eckstrom,714,0,5,0,134,0,575
+Newberry,Maybinton,Comptroller General,,REP,REP Richard Eckstrom,15,0,0,0,1,0,14
+Newberry,Mt. Bethel-Garmany,Comptroller General,,REP,REP Richard Eckstrom,387,0,5,0,131,0,251
+Newberry,Consolidated Number 5,Comptroller General,,REP,REP Richard Eckstrom,509,0,4,0,100,0,405
+Newberry,O'Neal,Comptroller General,,REP,REP Richard Eckstrom,859,0,21,0,221,0,617
+Newberry,Oakland,Comptroller General,,REP,REP Richard Eckstrom,107,0,0,0,29,0,78
+Newberry,Peak,Comptroller General,,REP,REP Richard Eckstrom,67,0,1,0,3,0,63
+Newberry,Pomaria,Comptroller General,,REP,REP Richard Eckstrom,304,0,3,0,42,0,259
+Newberry,Prosperity City,Comptroller General,,REP,REP Richard Eckstrom,292,0,0,0,73,0,219
+Newberry,Silverstreet,Comptroller General,,REP,REP Richard Eckstrom,339,0,3,0,60,0,276
+Newberry,Stoney Hill,Comptroller General,,REP,REP Richard Eckstrom,485,0,3,0,103,0,379
+Newberry,St. Phillips-Jolly Street,Comptroller General,,REP,REP Richard Eckstrom,499,0,2,0,104,0,393
+Newberry,Wheeland,Comptroller General,,REP,REP Richard Eckstrom,289,0,1,0,36,0,252
+Newberry,Whitmire City,Comptroller General,,REP,REP Richard Eckstrom,330,0,3,0,44,0,283
+Newberry,Whitmire Outside,Comptroller General,,REP,REP Richard Eckstrom,316,0,8,0,54,0,254
+Newberry,Prosperity Outside,Comptroller General,,REP,REP Richard Eckstrom,402,0,3,0,119,0,280
+Newberry,Failsafe,Comptroller General,,REP,REP Richard Eckstrom,2,2,0,0,0,0,0
+Newberry,Provisional,Comptroller General,,REP,REP Richard Eckstrom,3,0,0,0,0,3,0
+Newberry,Failsafe Provisional,Comptroller General,,REP,REP Richard Eckstrom,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Comptroller General,,,Write-In,2,0,0,0,0,0,2
+Newberry,Newberry Ward 2,Comptroller General,,,Write-In,8,0,0,0,0,0,8
+Newberry,Newberry Ward 3,Comptroller General,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 4,Comptroller General,,,Write-In,2,0,0,0,0,0,2
+Newberry,Newberry Ward 5,Comptroller General,,,Write-In,4,0,0,0,0,0,4
+Newberry,Newberry Ward 6,Comptroller General,,,Write-In,6,0,0,0,0,0,6
+Newberry,Beth - Eden,Comptroller General,,,Write-In,3,0,0,0,0,0,3
+Newberry,Bush River,Comptroller General,,,Write-In,1,0,0,0,0,0,1
+Newberry,Chappells,Comptroller General,,,Write-In,0,0,0,0,0,0,0
+Newberry,Fairview,Comptroller General,,,Write-In,10,0,0,0,0,0,10
+Newberry,Hartford,Comptroller General,,,Write-In,3,0,0,0,0,0,3
+Newberry,Helena,Comptroller General,,,Write-In,2,0,0,0,0,0,2
+Newberry,Kinards-Jalapa,Comptroller General,,,Write-In,2,0,0,0,0,0,2
+Newberry,Johnstone,Comptroller General,,,Write-In,0,0,0,0,0,0,0
+Newberry,Little Mountain,Comptroller General,,,Write-In,9,0,0,0,0,0,9
+Newberry,Maybinton,Comptroller General,,,Write-In,1,0,0,0,0,0,1
+Newberry,Mt. Bethel-Garmany,Comptroller General,,,Write-In,3,0,0,0,0,0,3
+Newberry,Consolidated Number 5,Comptroller General,,,Write-In,5,0,0,0,0,0,5
+Newberry,O'Neal,Comptroller General,,,Write-In,4,0,0,0,0,0,4
+Newberry,Oakland,Comptroller General,,,Write-In,3,0,0,0,0,0,3
+Newberry,Peak,Comptroller General,,,Write-In,3,0,0,0,0,0,3
+Newberry,Pomaria,Comptroller General,,,Write-In,2,0,0,0,0,0,2
+Newberry,Prosperity City,Comptroller General,,,Write-In,3,0,0,0,0,0,3
+Newberry,Silverstreet,Comptroller General,,,Write-In,0,0,0,0,0,0,0
+Newberry,Stoney Hill,Comptroller General,,,Write-In,1,0,0,0,0,0,1
+Newberry,St. Phillips-Jolly Street,Comptroller General,,,Write-In,1,0,0,0,0,0,1
+Newberry,Wheeland,Comptroller General,,,Write-In,1,0,0,0,0,0,1
+Newberry,Whitmire City,Comptroller General,,,Write-In,8,0,0,0,0,0,8
+Newberry,Whitmire Outside,Comptroller General,,,Write-In,0,0,0,0,0,0,0
+Newberry,Prosperity Outside,Comptroller General,,,Write-In,2,0,0,0,0,0,2
+Newberry,Failsafe,Comptroller General,,,Write-In,0,0,0,0,0,0,0
+Newberry,Provisional,Comptroller General,,,Write-In,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Comptroller General,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,State Superintendent of Education,,GRN,GRN Patricia M Mickel,1,0,0,0,0,0,1
+Newberry,Newberry Ward 2,State Superintendent of Education,,GRN,GRN Patricia M Mickel,8,0,0,0,6,0,2
+Newberry,Newberry Ward 3,State Superintendent of Education,,GRN,GRN Patricia M Mickel,3,0,0,0,0,0,3
+Newberry,Newberry Ward 4,State Superintendent of Education,,GRN,GRN Patricia M Mickel,0,0,0,0,0,0,0
+Newberry,Newberry Ward 5,State Superintendent of Education,,GRN,GRN Patricia M Mickel,6,0,0,0,2,0,4
+Newberry,Newberry Ward 6,State Superintendent of Education,,GRN,GRN Patricia M Mickel,9,0,1,0,5,0,3
+Newberry,Beth - Eden,State Superintendent of Education,,GRN,GRN Patricia M Mickel,6,0,0,0,2,0,4
+Newberry,Bush River,State Superintendent of Education,,GRN,GRN Patricia M Mickel,2,0,0,0,0,0,2
+Newberry,Chappells,State Superintendent of Education,,GRN,GRN Patricia M Mickel,5,0,0,0,0,0,5
+Newberry,Fairview,State Superintendent of Education,,GRN,GRN Patricia M Mickel,15,0,0,0,3,0,12
+Newberry,Hartford,State Superintendent of Education,,GRN,GRN Patricia M Mickel,3,0,0,0,1,0,2
+Newberry,Helena,State Superintendent of Education,,GRN,GRN Patricia M Mickel,2,0,0,0,0,0,2
+Newberry,Kinards-Jalapa,State Superintendent of Education,,GRN,GRN Patricia M Mickel,4,0,0,0,3,0,1
+Newberry,Johnstone,State Superintendent of Education,,GRN,GRN Patricia M Mickel,2,0,0,0,0,0,2
+Newberry,Little Mountain,State Superintendent of Education,,GRN,GRN Patricia M Mickel,14,0,0,0,3,0,11
+Newberry,Maybinton,State Superintendent of Education,,GRN,GRN Patricia M Mickel,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,State Superintendent of Education,,GRN,GRN Patricia M Mickel,11,0,1,0,1,0,9
+Newberry,Consolidated Number 5,State Superintendent of Education,,GRN,GRN Patricia M Mickel,5,0,0,0,1,0,4
+Newberry,O'Neal,State Superintendent of Education,,GRN,GRN Patricia M Mickel,14,0,0,0,7,0,7
+Newberry,Oakland,State Superintendent of Education,,GRN,GRN Patricia M Mickel,1,0,0,0,0,0,1
+Newberry,Peak,State Superintendent of Education,,GRN,GRN Patricia M Mickel,1,0,0,0,0,0,1
+Newberry,Pomaria,State Superintendent of Education,,GRN,GRN Patricia M Mickel,3,0,0,0,0,0,3
+Newberry,Prosperity City,State Superintendent of Education,,GRN,GRN Patricia M Mickel,3,0,0,0,2,0,1
+Newberry,Silverstreet,State Superintendent of Education,,GRN,GRN Patricia M Mickel,9,0,1,0,3,0,5
+Newberry,Stoney Hill,State Superintendent of Education,,GRN,GRN Patricia M Mickel,8,0,0,0,1,0,7
+Newberry,St. Phillips-Jolly Street,State Superintendent of Education,,GRN,GRN Patricia M Mickel,7,0,0,0,2,0,5
+Newberry,Wheeland,State Superintendent of Education,,GRN,GRN Patricia M Mickel,4,0,0,0,1,0,3
+Newberry,Whitmire City,State Superintendent of Education,,GRN,GRN Patricia M Mickel,17,0,0,0,1,0,16
+Newberry,Whitmire Outside,State Superintendent of Education,,GRN,GRN Patricia M Mickel,7,0,0,0,1,0,6
+Newberry,Prosperity Outside,State Superintendent of Education,,GRN,GRN Patricia M Mickel,6,0,0,0,4,0,2
+Newberry,Failsafe,State Superintendent of Education,,GRN,GRN Patricia M Mickel,0,0,0,0,0,0,0
+Newberry,Provisional,State Superintendent of Education,,GRN,GRN Patricia M Mickel,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,State Superintendent of Education,,GRN,GRN Patricia M Mickel,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,State Superintendent of Education,,REP,REP Ellen Weaver,76,0,7,0,19,0,50
+Newberry,Newberry Ward 2,State Superintendent of Education,,REP,REP Ellen Weaver,268,0,8,0,133,0,127
+Newberry,Newberry Ward 3,State Superintendent of Education,,REP,REP Ellen Weaver,165,0,6,0,64,0,95
+Newberry,Newberry Ward 4,State Superintendent of Education,,REP,REP Ellen Weaver,18,0,0,0,4,0,14
+Newberry,Newberry Ward 5,State Superintendent of Education,,REP,REP Ellen Weaver,20,0,0,0,3,0,17
+Newberry,Newberry Ward 6,State Superintendent of Education,,REP,REP Ellen Weaver,238,0,5,0,116,0,117
+Newberry,Beth - Eden,State Superintendent of Education,,REP,REP Ellen Weaver,165,0,2,0,46,0,117
+Newberry,Bush River,State Superintendent of Education,,REP,REP Ellen Weaver,118,0,4,0,20,0,94
+Newberry,Chappells,State Superintendent of Education,,REP,REP Ellen Weaver,274,0,3,0,35,0,236
+Newberry,Fairview,State Superintendent of Education,,REP,REP Ellen Weaver,843,0,15,0,227,0,601
+Newberry,Hartford,State Superintendent of Education,,REP,REP Ellen Weaver,263,0,3,0,89,0,171
+Newberry,Helena,State Superintendent of Education,,REP,REP Ellen Weaver,75,0,1,0,40,0,34
+Newberry,Kinards-Jalapa,State Superintendent of Education,,REP,REP Ellen Weaver,191,0,4,0,46,0,141
+Newberry,Johnstone,State Superintendent of Education,,REP,REP Ellen Weaver,145,0,0,0,35,0,110
+Newberry,Little Mountain,State Superintendent of Education,,REP,REP Ellen Weaver,552,0,6,0,97,0,449
+Newberry,Maybinton,State Superintendent of Education,,REP,REP Ellen Weaver,14,0,0,0,0,0,14
+Newberry,Mt. Bethel-Garmany,State Superintendent of Education,,REP,REP Ellen Weaver,260,0,1,0,100,0,159
+Newberry,Consolidated Number 5,State Superintendent of Education,,REP,REP Ellen Weaver,327,0,3,0,55,0,269
+Newberry,O'Neal,State Superintendent of Education,,REP,REP Ellen Weaver,648,0,14,0,171,0,463
+Newberry,Oakland,State Superintendent of Education,,REP,REP Ellen Weaver,63,0,0,0,23,0,40
+Newberry,Peak,State Superintendent of Education,,REP,REP Ellen Weaver,47,0,1,0,0,0,46
+Newberry,Pomaria,State Superintendent of Education,,REP,REP Ellen Weaver,225,0,3,0,35,0,187
+Newberry,Prosperity City,State Superintendent of Education,,REP,REP Ellen Weaver,197,0,0,0,41,0,156
+Newberry,Silverstreet,State Superintendent of Education,,REP,REP Ellen Weaver,236,0,2,0,37,0,197
+Newberry,Stoney Hill,State Superintendent of Education,,REP,REP Ellen Weaver,353,0,3,0,84,0,266
+Newberry,St. Phillips-Jolly Street,State Superintendent of Education,,REP,REP Ellen Weaver,336,0,2,0,70,0,264
+Newberry,Wheeland,State Superintendent of Education,,REP,REP Ellen Weaver,237,0,1,0,32,0,204
+Newberry,Whitmire City,State Superintendent of Education,,REP,REP Ellen Weaver,242,0,3,0,35,0,204
+Newberry,Whitmire Outside,State Superintendent of Education,,REP,REP Ellen Weaver,239,0,5,0,39,0,195
+Newberry,Prosperity Outside,State Superintendent of Education,,REP,REP Ellen Weaver,301,0,3,0,92,0,206
+Newberry,Failsafe,State Superintendent of Education,,REP,REP Ellen Weaver,1,1,0,0,0,0,0
+Newberry,Provisional,State Superintendent of Education,,REP,REP Ellen Weaver,2,0,0,0,0,2,0
+Newberry,Failsafe Provisional,State Superintendent of Education,,REP,REP Ellen Weaver,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,State Superintendent of Education,,ALN,ALN Lisa Ellis,11,0,0,0,2,0,9
+Newberry,Newberry Ward 2,State Superintendent of Education,,ALN,ALN Lisa Ellis,37,0,1,0,14,0,22
+Newberry,Newberry Ward 3,State Superintendent of Education,,ALN,ALN Lisa Ellis,22,0,0,0,3,0,19
+Newberry,Newberry Ward 4,State Superintendent of Education,,ALN,ALN Lisa Ellis,2,0,0,0,1,0,1
+Newberry,Newberry Ward 5,State Superintendent of Education,,ALN,ALN Lisa Ellis,6,0,0,0,1,0,5
+Newberry,Newberry Ward 6,State Superintendent of Education,,ALN,ALN Lisa Ellis,39,0,1,0,10,0,28
+Newberry,Beth - Eden,State Superintendent of Education,,ALN,ALN Lisa Ellis,14,0,0,0,1,0,13
+Newberry,Bush River,State Superintendent of Education,,ALN,ALN Lisa Ellis,8,0,0,0,0,0,8
+Newberry,Chappells,State Superintendent of Education,,ALN,ALN Lisa Ellis,13,0,0,0,0,0,13
+Newberry,Fairview,State Superintendent of Education,,ALN,ALN Lisa Ellis,64,0,0,0,10,0,54
+Newberry,Hartford,State Superintendent of Education,,ALN,ALN Lisa Ellis,31,0,0,0,11,0,20
+Newberry,Helena,State Superintendent of Education,,ALN,ALN Lisa Ellis,10,0,0,0,4,0,6
+Newberry,Kinards-Jalapa,State Superintendent of Education,,ALN,ALN Lisa Ellis,12,0,0,0,2,0,10
+Newberry,Johnstone,State Superintendent of Education,,ALN,ALN Lisa Ellis,25,0,0,0,6,0,19
+Newberry,Little Mountain,State Superintendent of Education,,ALN,ALN Lisa Ellis,38,0,0,0,8,0,30
+Newberry,Maybinton,State Superintendent of Education,,ALN,ALN Lisa Ellis,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,State Superintendent of Education,,ALN,ALN Lisa Ellis,24,0,0,0,7,0,17
+Newberry,Consolidated Number 5,State Superintendent of Education,,ALN,ALN Lisa Ellis,40,0,0,0,10,0,30
+Newberry,O'Neal,State Superintendent of Education,,ALN,ALN Lisa Ellis,47,0,0,0,9,0,38
+Newberry,Oakland,State Superintendent of Education,,ALN,ALN Lisa Ellis,5,0,0,0,0,0,5
+Newberry,Peak,State Superintendent of Education,,ALN,ALN Lisa Ellis,2,0,0,0,0,0,2
+Newberry,Pomaria,State Superintendent of Education,,ALN,ALN Lisa Ellis,21,0,0,0,0,0,21
+Newberry,Prosperity City,State Superintendent of Education,,ALN,ALN Lisa Ellis,22,0,0,0,8,0,14
+Newberry,Silverstreet,State Superintendent of Education,,ALN,ALN Lisa Ellis,25,0,0,0,4,0,21
+Newberry,Stoney Hill,State Superintendent of Education,,ALN,ALN Lisa Ellis,42,0,0,0,5,0,37
+Newberry,St. Phillips-Jolly Street,State Superintendent of Education,,ALN,ALN Lisa Ellis,37,0,0,0,9,0,28
+Newberry,Wheeland,State Superintendent of Education,,ALN,ALN Lisa Ellis,14,0,0,0,1,0,13
+Newberry,Whitmire City,State Superintendent of Education,,ALN,ALN Lisa Ellis,18,0,0,0,3,0,15
+Newberry,Whitmire Outside,State Superintendent of Education,,ALN,ALN Lisa Ellis,15,0,0,0,0,0,15
+Newberry,Prosperity Outside,State Superintendent of Education,,ALN,ALN Lisa Ellis,18,0,0,0,2,0,16
+Newberry,Failsafe,State Superintendent of Education,,ALN,ALN Lisa Ellis,0,0,0,0,0,0,0
+Newberry,Provisional,State Superintendent of Education,,ALN,ALN Lisa Ellis,1,0,0,0,0,1,0
+Newberry,Failsafe Provisional,State Superintendent of Education,,ALN,ALN Lisa Ellis,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,State Superintendent of Education,,DEM,DEM Lisa Ellis,96,0,4,0,29,0,63
+Newberry,Newberry Ward 2,State Superintendent of Education,,DEM,DEM Lisa Ellis,240,0,6,0,94,0,140
+Newberry,Newberry Ward 3,State Superintendent of Education,,DEM,DEM Lisa Ellis,184,0,1,0,56,0,127
+Newberry,Newberry Ward 4,State Superintendent of Education,,DEM,DEM Lisa Ellis,162,0,3,0,69,0,90
+Newberry,Newberry Ward 5,State Superintendent of Education,,DEM,DEM Lisa Ellis,130,0,0,0,38,0,92
+Newberry,Newberry Ward 6,State Superintendent of Education,,DEM,DEM Lisa Ellis,275,0,8,0,102,0,165
+Newberry,Beth - Eden,State Superintendent of Education,,DEM,DEM Lisa Ellis,113,0,1,0,46,0,66
+Newberry,Bush River,State Superintendent of Education,,DEM,DEM Lisa Ellis,57,0,0,0,12,0,45
+Newberry,Chappells,State Superintendent of Education,,DEM,DEM Lisa Ellis,120,0,1,0,25,0,94
+Newberry,Fairview,State Superintendent of Education,,DEM,DEM Lisa Ellis,258,0,14,0,66,0,178
+Newberry,Hartford,State Superintendent of Education,,DEM,DEM Lisa Ellis,207,0,0,0,108,0,99
+Newberry,Helena,State Superintendent of Education,,DEM,DEM Lisa Ellis,276,0,3,0,85,0,188
+Newberry,Kinards-Jalapa,State Superintendent of Education,,DEM,DEM Lisa Ellis,72,0,0,0,11,0,61
+Newberry,Johnstone,State Superintendent of Education,,DEM,DEM Lisa Ellis,83,0,2,0,33,0,48
+Newberry,Little Mountain,State Superintendent of Education,,DEM,DEM Lisa Ellis,230,0,3,0,65,0,162
+Newberry,Maybinton,State Superintendent of Education,,DEM,DEM Lisa Ellis,31,0,0,0,8,0,23
+Newberry,Mt. Bethel-Garmany,State Superintendent of Education,,DEM,DEM Lisa Ellis,257,0,6,0,104,0,147
+Newberry,Consolidated Number 5,State Superintendent of Education,,DEM,DEM Lisa Ellis,244,0,1,0,70,0,173
+Newberry,O'Neal,State Superintendent of Education,,DEM,DEM Lisa Ellis,237,0,13,0,70,0,154
+Newberry,Oakland,State Superintendent of Education,,DEM,DEM Lisa Ellis,127,0,0,0,24,0,103
+Newberry,Peak,State Superintendent of Education,,DEM,DEM Lisa Ellis,30,0,0,0,5,0,25
+Newberry,Pomaria,State Superintendent of Education,,DEM,DEM Lisa Ellis,100,0,0,0,20,0,80
+Newberry,Prosperity City,State Superintendent of Education,,DEM,DEM Lisa Ellis,184,0,1,0,57,0,126
+Newberry,Silverstreet,State Superintendent of Education,,DEM,DEM Lisa Ellis,152,0,2,0,51,0,99
+Newberry,Stoney Hill,State Superintendent of Education,,DEM,DEM Lisa Ellis,121,0,1,0,27,0,93
+Newberry,St. Phillips-Jolly Street,State Superintendent of Education,,DEM,DEM Lisa Ellis,243,0,4,0,79,0,160
+Newberry,Wheeland,State Superintendent of Education,,DEM,DEM Lisa Ellis,58,0,0,0,16,0,42
+Newberry,Whitmire City,State Superintendent of Education,,DEM,DEM Lisa Ellis,117,0,1,0,15,0,101
+Newberry,Whitmire Outside,State Superintendent of Education,,DEM,DEM Lisa Ellis,125,0,2,0,30,0,93
+Newberry,Prosperity Outside,State Superintendent of Education,,DEM,DEM Lisa Ellis,182,0,1,0,65,0,116
+Newberry,Failsafe,State Superintendent of Education,,DEM,DEM Lisa Ellis,1,1,0,0,0,0,0
+Newberry,Provisional,State Superintendent of Education,,DEM,DEM Lisa Ellis,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,State Superintendent of Education,,DEM,DEM Lisa Ellis,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,State Superintendent of Education,,,Write-In,1,0,0,0,0,0,1
+Newberry,Newberry Ward 2,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 3,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 4,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 5,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 6,State Superintendent of Education,,,Write-In,2,0,0,0,0,0,2
+Newberry,Beth - Eden,State Superintendent of Education,,,Write-In,3,0,0,0,0,0,3
+Newberry,Bush River,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Chappells,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Fairview,State Superintendent of Education,,,Write-In,4,0,0,0,0,0,4
+Newberry,Hartford,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Helena,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Kinards-Jalapa,State Superintendent of Education,,,Write-In,3,0,0,0,0,0,3
+Newberry,Johnstone,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Little Mountain,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Maybinton,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,State Superintendent of Education,,,Write-In,1,0,0,0,0,0,1
+Newberry,Consolidated Number 5,State Superintendent of Education,,,Write-In,4,0,0,0,0,0,4
+Newberry,O'Neal,State Superintendent of Education,,,Write-In,4,0,0,0,0,0,4
+Newberry,Oakland,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Peak,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Pomaria,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Prosperity City,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Silverstreet,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Stoney Hill,State Superintendent of Education,,,Write-In,2,0,0,0,0,0,2
+Newberry,St. Phillips-Jolly Street,State Superintendent of Education,,,Write-In,2,0,0,0,0,0,2
+Newberry,Wheeland,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Whitmire City,State Superintendent of Education,,,Write-In,1,0,0,0,0,0,1
+Newberry,Whitmire Outside,State Superintendent of Education,,,Write-In,2,0,0,0,0,0,2
+Newberry,Prosperity Outside,State Superintendent of Education,,,Write-In,4,0,0,0,0,0,4
+Newberry,Failsafe,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Provisional,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,State Superintendent of Education,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Commissioner of Agriculture,,UNC,UNC Chris Nelums,11,0,0,0,3,0,8
+Newberry,Newberry Ward 2,Commissioner of Agriculture,,UNC,UNC Chris Nelums,25,0,0,0,10,0,15
+Newberry,Newberry Ward 3,Commissioner of Agriculture,,UNC,UNC Chris Nelums,29,0,1,0,5,0,23
+Newberry,Newberry Ward 4,Commissioner of Agriculture,,UNC,UNC Chris Nelums,24,0,1,0,8,0,15
+Newberry,Newberry Ward 5,Commissioner of Agriculture,,UNC,UNC Chris Nelums,28,0,0,0,3,0,25
+Newberry,Newberry Ward 6,Commissioner of Agriculture,,UNC,UNC Chris Nelums,31,0,2,0,8,0,21
+Newberry,Beth - Eden,Commissioner of Agriculture,,UNC,UNC Chris Nelums,26,0,0,0,8,0,18
+Newberry,Bush River,Commissioner of Agriculture,,UNC,UNC Chris Nelums,6,0,0,0,2,0,4
+Newberry,Chappells,Commissioner of Agriculture,,UNC,UNC Chris Nelums,20,0,0,0,3,0,17
+Newberry,Fairview,Commissioner of Agriculture,,UNC,UNC Chris Nelums,37,0,3,0,9,0,25
+Newberry,Hartford,Commissioner of Agriculture,,UNC,UNC Chris Nelums,23,0,0,0,8,0,15
+Newberry,Helena,Commissioner of Agriculture,,UNC,UNC Chris Nelums,22,0,0,0,9,0,13
+Newberry,Kinards-Jalapa,Commissioner of Agriculture,,UNC,UNC Chris Nelums,13,0,0,0,3,0,10
+Newberry,Johnstone,Commissioner of Agriculture,,UNC,UNC Chris Nelums,11,0,0,0,3,0,8
+Newberry,Little Mountain,Commissioner of Agriculture,,UNC,UNC Chris Nelums,37,0,0,0,9,0,28
+Newberry,Maybinton,Commissioner of Agriculture,,UNC,UNC Chris Nelums,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,Commissioner of Agriculture,,UNC,UNC Chris Nelums,47,0,2,0,11,0,34
+Newberry,Consolidated Number 5,Commissioner of Agriculture,,UNC,UNC Chris Nelums,34,0,0,0,7,0,27
+Newberry,O'Neal,Commissioner of Agriculture,,UNC,UNC Chris Nelums,30,0,1,0,12,0,17
+Newberry,Oakland,Commissioner of Agriculture,,UNC,UNC Chris Nelums,19,0,0,0,1,0,18
+Newberry,Peak,Commissioner of Agriculture,,UNC,UNC Chris Nelums,7,0,0,0,0,0,7
+Newberry,Pomaria,Commissioner of Agriculture,,UNC,UNC Chris Nelums,14,0,0,0,0,0,14
+Newberry,Prosperity City,Commissioner of Agriculture,,UNC,UNC Chris Nelums,27,0,0,0,5,0,22
+Newberry,Silverstreet,Commissioner of Agriculture,,UNC,UNC Chris Nelums,26,0,0,0,6,0,20
+Newberry,Stoney Hill,Commissioner of Agriculture,,UNC,UNC Chris Nelums,17,0,0,0,4,0,13
+Newberry,St. Phillips-Jolly Street,Commissioner of Agriculture,,UNC,UNC Chris Nelums,31,0,0,0,11,0,20
+Newberry,Wheeland,Commissioner of Agriculture,,UNC,UNC Chris Nelums,5,0,0,0,1,0,4
+Newberry,Whitmire City,Commissioner of Agriculture,,UNC,UNC Chris Nelums,27,0,0,0,4,0,23
+Newberry,Whitmire Outside,Commissioner of Agriculture,,UNC,UNC Chris Nelums,20,0,0,0,3,0,17
+Newberry,Prosperity Outside,Commissioner of Agriculture,,UNC,UNC Chris Nelums,37,0,0,0,8,0,29
+Newberry,Failsafe,Commissioner of Agriculture,,UNC,UNC Chris Nelums,1,1,0,0,0,0,0
+Newberry,Provisional,Commissioner of Agriculture,,UNC,UNC Chris Nelums,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Commissioner of Agriculture,,UNC,UNC Chris Nelums,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Commissioner of Agriculture,,GRN,GRN David Edmond,30,0,3,0,6,0,21
+Newberry,Newberry Ward 2,Commissioner of Agriculture,,GRN,GRN David Edmond,68,0,2,0,27,0,39
+Newberry,Newberry Ward 3,Commissioner of Agriculture,,GRN,GRN David Edmond,37,0,0,0,9,0,28
+Newberry,Newberry Ward 4,Commissioner of Agriculture,,GRN,GRN David Edmond,18,0,1,0,5,0,12
+Newberry,Newberry Ward 5,Commissioner of Agriculture,,GRN,GRN David Edmond,15,0,0,0,6,0,9
+Newberry,Newberry Ward 6,Commissioner of Agriculture,,GRN,GRN David Edmond,52,0,1,0,20,0,31
+Newberry,Beth - Eden,Commissioner of Agriculture,,GRN,GRN David Edmond,25,0,0,0,9,0,16
+Newberry,Bush River,Commissioner of Agriculture,,GRN,GRN David Edmond,11,0,0,0,5,0,6
+Newberry,Chappells,Commissioner of Agriculture,,GRN,GRN David Edmond,29,0,0,0,3,0,26
+Newberry,Fairview,Commissioner of Agriculture,,GRN,GRN David Edmond,70,0,3,0,19,0,48
+Newberry,Hartford,Commissioner of Agriculture,,GRN,GRN David Edmond,35,0,0,0,13,0,22
+Newberry,Helena,Commissioner of Agriculture,,GRN,GRN David Edmond,21,0,0,0,6,0,15
+Newberry,Kinards-Jalapa,Commissioner of Agriculture,,GRN,GRN David Edmond,8,0,0,0,1,0,7
+Newberry,Johnstone,Commissioner of Agriculture,,GRN,GRN David Edmond,11,0,0,0,3,0,8
+Newberry,Little Mountain,Commissioner of Agriculture,,GRN,GRN David Edmond,61,0,0,0,17,0,44
+Newberry,Maybinton,Commissioner of Agriculture,,GRN,GRN David Edmond,2,0,0,0,1,0,1
+Newberry,Mt. Bethel-Garmany,Commissioner of Agriculture,,GRN,GRN David Edmond,54,0,0,0,20,0,34
+Newberry,Consolidated Number 5,Commissioner of Agriculture,,GRN,GRN David Edmond,30,0,0,0,12,0,18
+Newberry,O'Neal,Commissioner of Agriculture,,GRN,GRN David Edmond,56,0,3,0,14,0,39
+Newberry,Oakland,Commissioner of Agriculture,,GRN,GRN David Edmond,27,0,0,0,3,0,24
+Newberry,Peak,Commissioner of Agriculture,,GRN,GRN David Edmond,5,0,0,0,2,0,3
+Newberry,Pomaria,Commissioner of Agriculture,,GRN,GRN David Edmond,12,0,0,0,3,0,9
+Newberry,Prosperity City,Commissioner of Agriculture,,GRN,GRN David Edmond,35,0,0,0,6,0,29
+Newberry,Silverstreet,Commissioner of Agriculture,,GRN,GRN David Edmond,22,0,0,0,6,0,16
+Newberry,Stoney Hill,Commissioner of Agriculture,,GRN,GRN David Edmond,28,0,1,0,3,0,24
+Newberry,St. Phillips-Jolly Street,Commissioner of Agriculture,,GRN,GRN David Edmond,46,0,0,0,24,0,22
+Newberry,Wheeland,Commissioner of Agriculture,,GRN,GRN David Edmond,10,0,0,0,2,0,8
+Newberry,Whitmire City,Commissioner of Agriculture,,GRN,GRN David Edmond,37,0,1,0,2,0,34
+Newberry,Whitmire Outside,Commissioner of Agriculture,,GRN,GRN David Edmond,30,0,1,0,8,0,21
+Newberry,Prosperity Outside,Commissioner of Agriculture,,GRN,GRN David Edmond,23,0,0,0,10,0,13
+Newberry,Failsafe,Commissioner of Agriculture,,GRN,GRN David Edmond,0,0,0,0,0,0,0
+Newberry,Provisional,Commissioner of Agriculture,,GRN,GRN David Edmond,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Commissioner of Agriculture,,GRN,GRN David Edmond,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Commissioner of Agriculture,,REP,REP Hugh Weathers,103,0,8,0,26,0,69
+Newberry,Newberry Ward 2,Commissioner of Agriculture,,REP,REP Hugh Weathers,403,0,11,0,180,0,212
+Newberry,Newberry Ward 3,Commissioner of Agriculture,,REP,REP Hugh Weathers,231,0,6,0,82,0,143
+Newberry,Newberry Ward 4,Commissioner of Agriculture,,REP,REP Hugh Weathers,27,0,0,0,8,0,19
+Newberry,Newberry Ward 5,Commissioner of Agriculture,,REP,REP Hugh Weathers,27,0,0,0,5,0,22
+Newberry,Newberry Ward 6,Commissioner of Agriculture,,REP,REP Hugh Weathers,366,0,7,0,167,0,192
+Newberry,Beth - Eden,Commissioner of Agriculture,,REP,REP Hugh Weathers,212,0,4,0,59,0,149
+Newberry,Bush River,Commissioner of Agriculture,,REP,REP Hugh Weathers,155,0,4,0,25,0,126
+Newberry,Chappells,Commissioner of Agriculture,,REP,REP Hugh Weathers,302,0,3,0,40,0,259
+Newberry,Fairview,Commissioner of Agriculture,,REP,REP Hugh Weathers,1012,0,17,0,259,0,736
+Newberry,Hartford,Commissioner of Agriculture,,REP,REP Hugh Weathers,349,0,3,0,123,0,223
+Newberry,Helena,Commissioner of Agriculture,,REP,REP Hugh Weathers,100,0,1,0,55,0,44
+Newberry,Kinards-Jalapa,Commissioner of Agriculture,,REP,REP Hugh Weathers,233,0,4,0,55,0,174
+Newberry,Johnstone,Commissioner of Agriculture,,REP,REP Hugh Weathers,208,0,2,0,53,0,153
+Newberry,Little Mountain,Commissioner of Agriculture,,REP,REP Hugh Weathers,662,0,5,0,124,0,533
+Newberry,Maybinton,Commissioner of Agriculture,,REP,REP Hugh Weathers,13,0,0,0,0,0,13
+Newberry,Mt. Bethel-Garmany,Commissioner of Agriculture,,REP,REP Hugh Weathers,320,0,3,0,115,0,202
+Newberry,Consolidated Number 5,Commissioner of Agriculture,,REP,REP Hugh Weathers,476,0,4,0,89,0,383
+Newberry,O'Neal,Commissioner of Agriculture,,REP,REP Hugh Weathers,817,0,20,0,210,0,587
+Newberry,Oakland,Commissioner of Agriculture,,REP,REP Hugh Weathers,78,0,0,0,28,0,50
+Newberry,Peak,Commissioner of Agriculture,,REP,REP Hugh Weathers,62,0,1,0,2,0,59
+Newberry,Pomaria,Commissioner of Agriculture,,REP,REP Hugh Weathers,291,0,3,0,42,0,246
+Newberry,Prosperity City,Commissioner of Agriculture,,REP,REP Hugh Weathers,266,0,0,0,69,0,197
+Newberry,Silverstreet,Commissioner of Agriculture,,REP,REP Hugh Weathers,310,0,3,0,54,0,253
+Newberry,Stoney Hill,Commissioner of Agriculture,,REP,REP Hugh Weathers,465,0,2,0,103,0,360
+Newberry,St. Phillips-Jolly Street,Commissioner of Agriculture,,REP,REP Hugh Weathers,460,0,2,0,88,0,370
+Newberry,Wheeland,Commissioner of Agriculture,,REP,REP Hugh Weathers,282,0,1,0,36,0,245
+Newberry,Whitmire City,Commissioner of Agriculture,,REP,REP Hugh Weathers,298,0,3,0,42,0,253
+Newberry,Whitmire Outside,Commissioner of Agriculture,,REP,REP Hugh Weathers,284,0,7,0,47,0,230
+Newberry,Prosperity Outside,Commissioner of Agriculture,,REP,REP Hugh Weathers,369,0,4,0,111,0,254
+Newberry,Failsafe,Commissioner of Agriculture,,REP,REP Hugh Weathers,1,1,0,0,0,0,0
+Newberry,Provisional,Commissioner of Agriculture,,REP,REP Hugh Weathers,3,0,0,0,0,3,0
+Newberry,Failsafe Provisional,Commissioner of Agriculture,,REP,REP Hugh Weathers,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 2,Commissioner of Agriculture,,,Write-In,1,0,0,0,0,0,1
+Newberry,Newberry Ward 3,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 4,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 5,Commissioner of Agriculture,,,Write-In,2,0,0,0,0,0,2
+Newberry,Newberry Ward 6,Commissioner of Agriculture,,,Write-In,2,0,0,0,0,0,2
+Newberry,Beth - Eden,Commissioner of Agriculture,,,Write-In,1,0,0,0,0,0,1
+Newberry,Bush River,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Chappells,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Fairview,Commissioner of Agriculture,,,Write-In,1,0,0,0,0,0,1
+Newberry,Hartford,Commissioner of Agriculture,,,Write-In,2,0,0,0,0,0,2
+Newberry,Helena,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Kinards-Jalapa,Commissioner of Agriculture,,,Write-In,1,0,0,0,0,0,1
+Newberry,Johnstone,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Little Mountain,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Maybinton,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,Commissioner of Agriculture,,,Write-In,1,0,0,0,0,0,1
+Newberry,Consolidated Number 5,Commissioner of Agriculture,,,Write-In,2,0,0,0,0,0,2
+Newberry,O'Neal,Commissioner of Agriculture,,,Write-In,1,0,0,0,0,0,1
+Newberry,Oakland,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Peak,Commissioner of Agriculture,,,Write-In,1,0,0,0,0,0,1
+Newberry,Pomaria,Commissioner of Agriculture,,,Write-In,1,0,0,0,0,0,1
+Newberry,Prosperity City,Commissioner of Agriculture,,,Write-In,1,0,0,0,0,0,1
+Newberry,Silverstreet,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Stoney Hill,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,St. Phillips-Jolly Street,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Wheeland,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Whitmire City,Commissioner of Agriculture,,,Write-In,1,0,0,0,0,0,1
+Newberry,Whitmire Outside,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Prosperity Outside,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Failsafe,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Provisional,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Commissioner of Agriculture,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,U.S. Senate,,REP,REP Tim Scott,100,0,8,0,22,0,70
+Newberry,Newberry Ward 2,U.S. Senate,,REP,REP Tim Scott,392,0,9,0,168,0,215
+Newberry,Newberry Ward 3,U.S. Senate,,REP,REP Tim Scott,212,0,6,0,77,0,129
+Newberry,Newberry Ward 4,U.S. Senate,,REP,REP Tim Scott,21,0,0,0,5,0,16
+Newberry,Newberry Ward 5,U.S. Senate,,REP,REP Tim Scott,26,0,0,0,6,0,20
+Newberry,Newberry Ward 6,U.S. Senate,,REP,REP Tim Scott,337,0,7,0,147,0,183
+Newberry,Beth - Eden,U.S. Senate,,REP,REP Tim Scott,207,0,4,0,54,0,149
+Newberry,Bush River,U.S. Senate,,REP,REP Tim Scott,156,0,4,0,26,0,126
+Newberry,Chappells,U.S. Senate,,REP,REP Tim Scott,302,0,3,0,38,0,261
+Newberry,Fairview,U.S. Senate,,REP,REP Tim Scott,991,0,16,0,252,0,723
+Newberry,Hartford,U.S. Senate,,REP,REP Tim Scott,343,0,3,0,117,0,223
+Newberry,Helena,U.S. Senate,,REP,REP Tim Scott,97,0,1,0,49,0,47
+Newberry,Kinards-Jalapa,U.S. Senate,,REP,REP Tim Scott,229,0,4,0,55,0,170
+Newberry,Johnstone,U.S. Senate,,REP,REP Tim Scott,202,0,2,0,48,0,152
+Newberry,Little Mountain,U.S. Senate,,REP,REP Tim Scott,659,0,6,0,122,0,531
+Newberry,Maybinton,U.S. Senate,,REP,REP Tim Scott,14,0,0,0,0,0,14
+Newberry,Mt. Bethel-Garmany,U.S. Senate,,REP,REP Tim Scott,311,0,4,0,108,0,199
+Newberry,Consolidated Number 5,U.S. Senate,,REP,REP Tim Scott,466,0,3,0,86,0,377
+Newberry,O'Neal,U.S. Senate,,REP,REP Tim Scott,793,0,16,0,201,0,576
+Newberry,Oakland,U.S. Senate,,REP,REP Tim Scott,74,0,0,0,24,0,50
+Newberry,Peak,U.S. Senate,,REP,REP Tim Scott,60,0,1,0,1,0,58
+Newberry,Pomaria,U.S. Senate,,REP,REP Tim Scott,286,0,3,0,37,0,246
+Newberry,Prosperity City,U.S. Senate,,REP,REP Tim Scott,247,0,0,0,59,0,188
+Newberry,Silverstreet,U.S. Senate,,REP,REP Tim Scott,307,0,3,0,48,0,256
+Newberry,Stoney Hill,U.S. Senate,,REP,REP Tim Scott,460,0,3,0,97,0,360
+Newberry,St. Phillips-Jolly Street,U.S. Senate,,REP,REP Tim Scott,440,0,2,0,86,0,352
+Newberry,Wheeland,U.S. Senate,,REP,REP Tim Scott,278,0,1,0,35,0,242
+Newberry,Whitmire City,U.S. Senate,,REP,REP Tim Scott,293,0,3,0,39,0,251
+Newberry,Whitmire Outside,U.S. Senate,,REP,REP Tim Scott,287,0,7,0,44,0,236
+Newberry,Prosperity Outside,U.S. Senate,,REP,REP Tim Scott,373,0,3,0,111,0,259
+Newberry,Failsafe,U.S. Senate,,REP,REP Tim Scott,1,1,0,0,0,0,0
+Newberry,Provisional,U.S. Senate,,REP,REP Tim Scott,3,0,0,0,0,3,0
+Newberry,Failsafe Provisional,U.S. Senate,,REP,REP Tim Scott,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,U.S. Senate,,DEM,DEM Krystle Matthews,86,0,3,0,28,0,55
+Newberry,Newberry Ward 2,U.S. Senate,,DEM,DEM Krystle Matthews,164,0,6,0,79,0,79
+Newberry,Newberry Ward 3,U.S. Senate,,DEM,DEM Krystle Matthews,162,0,1,0,47,0,114
+Newberry,Newberry Ward 4,U.S. Senate,,DEM,DEM Krystle Matthews,159,0,3,0,69,0,87
+Newberry,Newberry Ward 5,U.S. Senate,,DEM,DEM Krystle Matthews,136,0,0,0,38,0,98
+Newberry,Newberry Ward 6,U.S. Senate,,DEM,DEM Krystle Matthews,226,0,8,0,85,0,133
+Newberry,Beth - Eden,U.S. Senate,,DEM,DEM Krystle Matthews,96,0,0,0,44,0,52
+Newberry,Bush River,U.S. Senate,,DEM,DEM Krystle Matthews,28,0,0,0,6,0,22
+Newberry,Chappells,U.S. Senate,,DEM,DEM Krystle Matthews,116,0,1,0,22,0,93
+Newberry,Fairview,U.S. Senate,,DEM,DEM Krystle Matthews,196,0,13,0,55,0,128
+Newberry,Hartford,U.S. Senate,,DEM,DEM Krystle Matthews,163,0,0,0,92,0,71
+Newberry,Helena,U.S. Senate,,DEM,DEM Krystle Matthews,268,0,3,0,81,0,184
+Newberry,Kinards-Jalapa,U.S. Senate,,DEM,DEM Krystle Matthews,53,0,0,0,9,0,44
+Newberry,Johnstone,U.S. Senate,,DEM,DEM Krystle Matthews,55,0,0,0,26,0,29
+Newberry,Little Mountain,U.S. Senate,,DEM,DEM Krystle Matthews,177,0,3,0,51,0,123
+Newberry,Maybinton,U.S. Senate,,DEM,DEM Krystle Matthews,32,0,0,0,8,0,24
+Newberry,Mt. Bethel-Garmany,U.S. Senate,,DEM,DEM Krystle Matthews,241,0,4,0,104,0,133
+Newberry,Consolidated Number 5,U.S. Senate,,DEM,DEM Krystle Matthews,152,0,1,0,51,0,100
+Newberry,O'Neal,U.S. Senate,,DEM,DEM Krystle Matthews,155,0,12,0,54,0,89
+Newberry,Oakland,U.S. Senate,,DEM,DEM Krystle Matthews,121,0,0,0,23,0,98
+Newberry,Peak,U.S. Senate,,DEM,DEM Krystle Matthews,19,0,0,0,4,0,15
+Newberry,Pomaria,U.S. Senate,,DEM,DEM Krystle Matthews,60,0,0,0,14,0,46
+Newberry,Prosperity City,U.S. Senate,,DEM,DEM Krystle Matthews,159,0,1,0,51,0,107
+Newberry,Silverstreet,U.S. Senate,,DEM,DEM Krystle Matthews,118,0,2,0,47,0,69
+Newberry,Stoney Hill,U.S. Senate,,DEM,DEM Krystle Matthews,69,0,1,0,20,0,48
+Newberry,St. Phillips-Jolly Street,U.S. Senate,,DEM,DEM Krystle Matthews,185,0,4,0,74,0,107
+Newberry,Wheeland,U.S. Senate,,DEM,DEM Krystle Matthews,37,0,0,0,14,0,23
+Newberry,Whitmire City,U.S. Senate,,DEM,DEM Krystle Matthews,102,0,1,0,15,0,86
+Newberry,Whitmire Outside,U.S. Senate,,DEM,DEM Krystle Matthews,99,0,0,0,26,0,73
+Newberry,Prosperity Outside,U.S. Senate,,DEM,DEM Krystle Matthews,140,0,1,0,51,0,88
+Newberry,Failsafe,U.S. Senate,,DEM,DEM Krystle Matthews,1,1,0,0,0,0,0
+Newberry,Provisional,U.S. Senate,,DEM,DEM Krystle Matthews,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,U.S. Senate,,DEM,DEM Krystle Matthews,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 2,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 3,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 4,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 5,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 6,U.S. Senate,,,Write-In,1,0,0,0,0,0,1
+Newberry,Beth - Eden,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Bush River,U.S. Senate,,,Write-In,1,0,0,0,0,0,1
+Newberry,Chappells,U.S. Senate,,,Write-In,1,0,0,0,0,0,1
+Newberry,Fairview,U.S. Senate,,,Write-In,1,0,0,0,0,0,1
+Newberry,Hartford,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Helena,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Kinards-Jalapa,U.S. Senate,,,Write-In,2,0,0,0,0,0,2
+Newberry,Johnstone,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Little Mountain,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Maybinton,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Consolidated Number 5,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,O'Neal,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Oakland,U.S. Senate,,,Write-In,1,0,0,0,0,0,1
+Newberry,Peak,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Pomaria,U.S. Senate,,,Write-In,1,0,0,0,0,0,1
+Newberry,Prosperity City,U.S. Senate,,,Write-In,2,0,0,0,0,0,2
+Newberry,Silverstreet,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Stoney Hill,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,St. Phillips-Jolly Street,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Wheeland,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Whitmire City,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Whitmire Outside,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Prosperity Outside,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Failsafe,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Provisional,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,U.S. Senate,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,U.S. House,3,REP,REP Jeff Duncan,112,0,8,0,26,0,78
+Newberry,Newberry Ward 2,U.S. House,3,REP,REP Jeff Duncan,429,0,11,0,183,0,235
+Newberry,Newberry Ward 3,U.S. House,3,REP,REP Jeff Duncan,249,0,6,0,82,0,161
+Newberry,Newberry Ward 4,U.S. House,3,REP,REP Jeff Duncan,38,0,1,0,9,0,28
+Newberry,Newberry Ward 5,U.S. House,3,REP,REP Jeff Duncan,43,0,0,0,8,0,35
+Newberry,Newberry Ward 6,U.S. House,3,REP,REP Jeff Duncan,391,0,8,0,171,0,212
+Newberry,Beth - Eden,U.S. House,3,REP,REP Jeff Duncan,231,0,4,0,63,0,164
+Newberry,Bush River,U.S. House,3,REP,REP Jeff Duncan,160,0,4,0,26,0,130
+Newberry,Chappells,U.S. House,3,REP,REP Jeff Duncan,329,0,3,0,42,0,284
+Newberry,Fairview,U.S. House,3,REP,REP Jeff Duncan,1042,0,16,0,262,0,764
+Newberry,Hartford,U.S. House,3,REP,REP Jeff Duncan,368,0,3,0,125,0,240
+Newberry,Helena,U.S. House,3,REP,REP Jeff Duncan,120,0,1,0,60,0,59
+Newberry,Kinards-Jalapa,U.S. House,3,REP,REP Jeff Duncan,237,0,4,0,54,0,179
+Newberry,Johnstone,U.S. House,3,REP,REP Jeff Duncan,219,0,2,0,54,0,163
+Newberry,Little Mountain,U.S. House,3,REP,REP Jeff Duncan,701,0,6,0,129,0,566
+Newberry,Maybinton,U.S. House,3,REP,REP Jeff Duncan,14,0,0,0,1,0,13
+Newberry,Mt. Bethel-Garmany,U.S. House,3,REP,REP Jeff Duncan,385,0,6,0,131,0,248
+Newberry,Consolidated Number 5,U.S. House,3,REP,REP Jeff Duncan,505,0,4,0,97,0,404
+Newberry,O'Neal,U.S. House,3,REP,REP Jeff Duncan,850,0,20,0,215,0,615
+Newberry,Oakland,U.S. House,3,REP,REP Jeff Duncan,107,0,0,0,30,0,77
+Newberry,Peak,U.S. House,3,REP,REP Jeff Duncan,68,0,1,0,3,0,64
+Newberry,Pomaria,U.S. House,3,REP,REP Jeff Duncan,301,0,3,0,39,0,259
+Newberry,Prosperity City,U.S. House,3,REP,REP Jeff Duncan,283,0,0,0,68,0,215
+Newberry,Silverstreet,U.S. House,3,REP,REP Jeff Duncan,335,0,3,0,58,0,274
+Newberry,Stoney Hill,U.S. House,3,REP,REP Jeff Duncan,476,0,3,0,103,0,370
+Newberry,St. Phillips-Jolly Street,U.S. House,3,REP,REP Jeff Duncan,494,0,2,0,100,0,392
+Newberry,Wheeland,U.S. House,3,REP,REP Jeff Duncan,285,0,1,0,36,0,248
+Newberry,Whitmire City,U.S. House,3,REP,REP Jeff Duncan,327,0,3,0,43,0,281
+Newberry,Whitmire Outside,U.S. House,3,REP,REP Jeff Duncan,307,0,7,0,51,0,249
+Newberry,Prosperity Outside,U.S. House,3,REP,REP Jeff Duncan,397,0,3,0,115,0,279
+Newberry,Newberry Ward 1,U.S. House,3,,Write-In,7,0,0,0,0,0,7
+Newberry,Newberry Ward 2,U.S. House,3,,Write-In,15,0,0,0,0,0,15
+Newberry,Newberry Ward 3,U.S. House,3,,Write-In,1,0,0,0,0,0,1
+Newberry,Newberry Ward 4,U.S. House,3,,Write-In,2,0,0,0,0,0,2
+Newberry,Newberry Ward 5,U.S. House,3,,Write-In,4,0,0,0,0,0,4
+Newberry,Newberry Ward 6,U.S. House,3,,Write-In,10,0,0,0,0,0,10
+Newberry,Beth - Eden,U.S. House,3,,Write-In,4,0,0,0,0,0,4
+Newberry,Bush River,U.S. House,3,,Write-In,1,0,0,0,0,0,1
+Newberry,Chappells,U.S. House,3,,Write-In,1,0,0,0,0,0,1
+Newberry,Fairview,U.S. House,3,,Write-In,11,0,0,0,0,0,11
+Newberry,Hartford,U.S. House,3,,Write-In,5,0,0,0,0,0,5
+Newberry,Helena,U.S. House,3,,Write-In,2,0,0,0,0,0,2
+Newberry,Kinards-Jalapa,U.S. House,3,,Write-In,4,0,0,0,0,0,4
+Newberry,Johnstone,U.S. House,3,,Write-In,0,0,0,0,0,0,0
+Newberry,Little Mountain,U.S. House,3,,Write-In,11,0,0,0,0,0,11
+Newberry,Maybinton,U.S. House,3,,Write-In,2,0,0,0,0,0,2
+Newberry,Mt. Bethel-Garmany,U.S. House,3,,Write-In,5,0,0,0,0,0,5
+Newberry,Consolidated Number 5,U.S. House,3,,Write-In,6,0,0,0,0,0,6
+Newberry,O'Neal,U.S. House,3,,Write-In,5,0,0,0,0,0,5
+Newberry,Oakland,U.S. House,3,,Write-In,3,0,0,0,0,0,3
+Newberry,Peak,U.S. House,3,,Write-In,2,0,0,0,0,0,2
+Newberry,Pomaria,U.S. House,3,,Write-In,3,0,0,0,0,0,3
+Newberry,Prosperity City,U.S. House,3,,Write-In,7,0,0,0,0,0,7
+Newberry,Silverstreet,U.S. House,3,,Write-In,1,0,0,0,0,0,1
+Newberry,Stoney Hill,U.S. House,3,,Write-In,2,0,0,0,0,0,2
+Newberry,St. Phillips-Jolly Street,U.S. House,3,,Write-In,1,0,0,0,0,0,1
+Newberry,Wheeland,U.S. House,3,,Write-In,0,0,0,0,0,0,0
+Newberry,Whitmire City,U.S. House,3,,Write-In,7,0,0,0,0,0,7
+Newberry,Whitmire Outside,U.S. House,3,,Write-In,4,0,0,0,0,0,4
+Newberry,Prosperity Outside,U.S. House,3,,Write-In,1,0,0,0,0,0,1
+Newberry,Newberry Ward 1,State House,40,REP,REP Joe White,109,0,9,0,27,0,73
+Newberry,Newberry Ward 2,State House,40,REP,REP Joe White,423,0,12,0,180,0,231
+Newberry,Newberry Ward 3,State House,40,REP,REP Joe White,241,0,6,0,80,0,155
+Newberry,Newberry Ward 4,State House,40,REP,REP Joe White,40,0,1,0,10,0,29
+Newberry,Newberry Ward 5,State House,40,REP,REP Joe White,46,0,0,0,9,0,37
+Newberry,Newberry Ward 6,State House,40,REP,REP Joe White,385,0,8,0,168,0,209
+Newberry,Beth - Eden,State House,40,REP,REP Joe White,233,0,3,0,67,0,163
+Newberry,Bush River,State House,40,REP,REP Joe White,160,0,4,0,25,0,131
+Newberry,Chappells,State House,40,REP,REP Joe White,329,0,3,0,41,0,285
+Newberry,Fairview,State House,40,REP,REP Joe White,1012,0,16,0,257,0,739
+Newberry,Hartford,State House,40,REP,REP Joe White,365,0,3,0,123,0,239
+Newberry,Helena,State House,40,REP,REP Joe White,118,0,1,0,59,0,58
+Newberry,Kinards-Jalapa,State House,40,REP,REP Joe White,237,0,4,0,55,0,178
+Newberry,Johnstone,State House,40,REP,REP Joe White,214,0,2,0,54,0,158
+Newberry,Little Mountain,State House,40,REP,REP Joe White,695,0,5,0,128,0,562
+Newberry,Maybinton,State House,40,REP,REP Joe White,13,0,0,0,1,0,12
+Newberry,Mt. Bethel-Garmany,State House,40,REP,REP Joe White,381,0,5,0,129,0,247
+Newberry,Consolidated Number 5,State House,40,REP,REP Joe White,497,0,4,0,91,0,402
+Newberry,O'Neal,State House,40,REP,REP Joe White,841,0,18,0,214,0,609
+Newberry,Oakland,State House,40,REP,REP Joe White,102,0,0,0,29,0,73
+Newberry,Peak,State House,40,REP,REP Joe White,67,0,1,0,3,0,63
+Newberry,Pomaria,State House,40,REP,REP Joe White,295,0,3,0,41,0,251
+Newberry,Prosperity City,State House,40,REP,REP Joe White,271,0,0,0,66,0,205
+Newberry,Silverstreet,State House,40,REP,REP Joe White,334,0,3,0,57,0,274
+Newberry,Stoney Hill,State House,40,REP,REP Joe White,472,0,3,0,104,0,365
+Newberry,St. Phillips-Jolly Street,State House,40,REP,REP Joe White,488,0,2,0,98,0,388
+Newberry,Wheeland,State House,40,REP,REP Joe White,285,0,1,0,33,0,251
+Newberry,Whitmire City,State House,40,REP,REP Joe White,326,0,3,0,44,0,279
+Newberry,Whitmire Outside,State House,40,REP,REP Joe White,306,0,6,0,51,0,249
+Newberry,Prosperity Outside,State House,40,REP,REP Joe White,396,0,3,0,117,0,276
+Newberry,Newberry Ward 1,State House,40,,Write-In,6,0,0,0,0,0,6
+Newberry,Newberry Ward 2,State House,40,,Write-In,13,0,0,0,0,0,13
+Newberry,Newberry Ward 3,State House,40,,Write-In,9,0,0,0,0,0,9
+Newberry,Newberry Ward 4,State House,40,,Write-In,3,0,0,0,0,0,3
+Newberry,Newberry Ward 5,State House,40,,Write-In,4,0,0,0,0,0,4
+Newberry,Newberry Ward 6,State House,40,,Write-In,12,0,0,0,0,0,12
+Newberry,Beth - Eden,State House,40,,Write-In,6,0,0,0,0,0,6
+Newberry,Bush River,State House,40,,Write-In,1,0,0,0,0,0,1
+Newberry,Chappells,State House,40,,Write-In,2,0,0,0,0,0,2
+Newberry,Fairview,State House,40,,Write-In,26,0,0,0,0,0,26
+Newberry,Hartford,State House,40,,Write-In,8,0,0,0,0,0,8
+Newberry,Helena,State House,40,,Write-In,4,0,0,0,0,0,4
+Newberry,Kinards-Jalapa,State House,40,,Write-In,3,0,0,0,0,0,3
+Newberry,Johnstone,State House,40,,Write-In,3,0,0,0,0,0,3
+Newberry,Little Mountain,State House,40,,Write-In,12,0,0,0,0,0,12
+Newberry,Maybinton,State House,40,,Write-In,3,0,0,0,0,0,3
+Newberry,Mt. Bethel-Garmany,State House,40,,Write-In,4,0,0,0,0,0,4
+Newberry,Consolidated Number 5,State House,40,,Write-In,10,0,0,0,0,0,10
+Newberry,O'Neal,State House,40,,Write-In,8,0,0,0,0,0,8
+Newberry,Oakland,State House,40,,Write-In,3,0,0,0,0,0,3
+Newberry,Peak,State House,40,,Write-In,3,0,0,0,0,0,3
+Newberry,Pomaria,State House,40,,Write-In,4,0,0,0,0,0,4
+Newberry,Prosperity City,State House,40,,Write-In,17,0,0,0,0,0,17
+Newberry,Silverstreet,State House,40,,Write-In,0,0,0,0,0,0,0
+Newberry,Stoney Hill,State House,40,,Write-In,6,0,0,0,0,0,6
+Newberry,St. Phillips-Jolly Street,State House,40,,Write-In,3,0,0,0,0,0,3
+Newberry,Wheeland,State House,40,,Write-In,2,0,0,0,0,0,2
+Newberry,Whitmire City,State House,40,,Write-In,8,0,0,0,0,0,8
+Newberry,Whitmire Outside,State House,40,,Write-In,2,0,0,0,0,0,2
+Newberry,Prosperity Outside,State House,40,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Probate Judge,,DEM,DEM Kelly Baker Nobles,145,0,6,0,42,0,97
+Newberry,Newberry Ward 2,Probate Judge,,DEM,DEM Kelly Baker Nobles,431,0,10,0,189,0,232
+Newberry,Newberry Ward 3,Probate Judge,,DEM,DEM Kelly Baker Nobles,283,0,4,0,89,0,190
+Newberry,Newberry Ward 4,Probate Judge,,DEM,DEM Kelly Baker Nobles,171,0,3,0,71,0,97
+Newberry,Newberry Ward 5,Probate Judge,,DEM,DEM Kelly Baker Nobles,152,0,0,0,43,0,109
+Newberry,Newberry Ward 6,Probate Judge,,DEM,DEM Kelly Baker Nobles,452,0,14,0,182,0,256
+Newberry,Beth - Eden,Probate Judge,,DEM,DEM Kelly Baker Nobles,224,0,4,0,70,0,150
+Newberry,Bush River,Probate Judge,,DEM,DEM Kelly Baker Nobles,131,0,4,0,23,0,104
+Newberry,Chappells,Probate Judge,,DEM,DEM Kelly Baker Nobles,190,0,2,0,30,0,158
+Newberry,Fairview,Probate Judge,,DEM,DEM Kelly Baker Nobles,628,0,21,0,155,0,452
+Newberry,Hartford,Probate Judge,,DEM,DEM Kelly Baker Nobles,360,0,1,0,160,0,199
+Newberry,Helena,Probate Judge,,DEM,DEM Kelly Baker Nobles,326,0,3,0,111,0,212
+Newberry,Kinards-Jalapa,Probate Judge,,DEM,DEM Kelly Baker Nobles,167,0,1,0,36,0,130
+Newberry,Johnstone,Probate Judge,,DEM,DEM Kelly Baker Nobles,177,0,2,0,56,0,119
+Newberry,Little Mountain,Probate Judge,,DEM,DEM Kelly Baker Nobles,460,0,4,0,107,0,349
+Newberry,Maybinton,Probate Judge,,DEM,DEM Kelly Baker Nobles,40,0,0,0,8,0,32
+Newberry,Mt. Bethel-Garmany,Probate Judge,,DEM,DEM Kelly Baker Nobles,406,0,8,0,158,0,240
+Newberry,Consolidated Number 5,Probate Judge,,DEM,DEM Kelly Baker Nobles,437,0,3,0,109,0,325
+Newberry,O'Neal,Probate Judge,,DEM,DEM Kelly Baker Nobles,511,0,14,0,135,0,362
+Newberry,Oakland,Probate Judge,,DEM,DEM Kelly Baker Nobles,169,0,0,0,39,0,130
+Newberry,Peak,Probate Judge,,DEM,DEM Kelly Baker Nobles,39,0,0,0,5,0,34
+Newberry,Pomaria,Probate Judge,,DEM,DEM Kelly Baker Nobles,212,0,0,0,38,0,174
+Newberry,Prosperity City,Probate Judge,,DEM,DEM Kelly Baker Nobles,292,0,1,0,78,0,213
+Newberry,Silverstreet,Probate Judge,,DEM,DEM Kelly Baker Nobles,299,0,3,0,80,0,216
+Newberry,Stoney Hill,Probate Judge,,DEM,DEM Kelly Baker Nobles,288,0,3,0,58,0,227
+Newberry,St. Phillips-Jolly Street,Probate Judge,,DEM,DEM Kelly Baker Nobles,453,0,6,0,125,0,322
+Newberry,Wheeland,Probate Judge,,DEM,DEM Kelly Baker Nobles,179,0,0,0,33,0,146
+Newberry,Whitmire City,Probate Judge,,DEM,DEM Kelly Baker Nobles,269,0,3,0,38,0,228
+Newberry,Whitmire Outside,Probate Judge,,DEM,DEM Kelly Baker Nobles,246,0,6,0,46,0,194
+Newberry,Prosperity Outside,Probate Judge,,DEM,DEM Kelly Baker Nobles,320,0,3,0,104,0,213
+Newberry,Failsafe,Probate Judge,,DEM,DEM Kelly Baker Nobles,1,1,0,0,0,0,0
+Newberry,Provisional,Probate Judge,,DEM,DEM Kelly Baker Nobles,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Probate Judge,,DEM,DEM Kelly Baker Nobles,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Probate Judge,,,Write-In,3,0,0,0,0,0,3
+Newberry,Newberry Ward 2,Probate Judge,,,Write-In,10,0,0,0,0,0,10
+Newberry,Newberry Ward 3,Probate Judge,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 4,Probate Judge,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 5,Probate Judge,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 6,Probate Judge,,,Write-In,5,0,0,0,0,0,5
+Newberry,Beth - Eden,Probate Judge,,,Write-In,3,0,0,0,0,0,3
+Newberry,Bush River,Probate Judge,,,Write-In,1,0,0,0,0,0,1
+Newberry,Chappells,Probate Judge,,,Write-In,9,0,0,0,0,0,9
+Newberry,Fairview,Probate Judge,,,Write-In,14,0,0,0,0,0,14
+Newberry,Hartford,Probate Judge,,,Write-In,7,0,0,0,0,0,7
+Newberry,Helena,Probate Judge,,,Write-In,1,0,0,0,0,0,1
+Newberry,Kinards-Jalapa,Probate Judge,,,Write-In,7,0,0,0,0,0,7
+Newberry,Johnstone,Probate Judge,,,Write-In,3,0,0,0,0,0,3
+Newberry,Little Mountain,Probate Judge,,,Write-In,16,0,0,0,0,0,16
+Newberry,Maybinton,Probate Judge,,,Write-In,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,Probate Judge,,,Write-In,10,0,0,0,0,0,10
+Newberry,Consolidated Number 5,Probate Judge,,,Write-In,4,0,0,0,0,0,4
+Newberry,O'Neal,Probate Judge,,,Write-In,8,0,0,0,0,0,8
+Newberry,Oakland,Probate Judge,,,Write-In,2,0,0,0,0,0,2
+Newberry,Peak,Probate Judge,,,Write-In,0,0,0,0,0,0,0
+Newberry,Pomaria,Probate Judge,,,Write-In,8,0,0,0,0,0,8
+Newberry,Prosperity City,Probate Judge,,,Write-In,13,0,0,0,0,0,13
+Newberry,Silverstreet,Probate Judge,,,Write-In,2,0,0,0,0,0,2
+Newberry,Stoney Hill,Probate Judge,,,Write-In,9,0,0,0,0,0,9
+Newberry,St. Phillips-Jolly Street,Probate Judge,,,Write-In,10,0,0,0,0,0,10
+Newberry,Wheeland,Probate Judge,,,Write-In,2,0,0,0,0,0,2
+Newberry,Whitmire City,Probate Judge,,,Write-In,6,0,0,0,0,0,6
+Newberry,Whitmire Outside,Probate Judge,,,Write-In,4,0,0,0,0,0,4
+Newberry,Prosperity Outside,Probate Judge,,,Write-In,12,0,0,0,0,0,12
+Newberry,Failsafe,Probate Judge,,,Write-In,0,0,0,0,0,0,0
+Newberry,Provisional,Probate Judge,,,Write-In,1,0,0,0,0,0,1
+Newberry,Failsafe Provisional,Probate Judge,,,Write-In,0,0,0,0,0,0,0
+Newberry,Little Mountain,County Council District 3,,REP,REP Karl Sease,384,0,5,0,55,0,324
+Newberry,Mt. Bethel-Garmany,County Council District 3,,REP,REP Karl Sease,110,0,2,0,30,0,78
+Newberry,Consolidated Number 5,County Council District 3,,REP,REP Karl Sease,288,0,1,0,45,0,242
+Newberry,Peak,County Council District 3,,REP,REP Karl Sease,53,0,1,0,0,0,52
+Newberry,Pomaria,County Council District 3,,REP,REP Karl Sease,191,0,2,0,23,0,166
+Newberry,St. Phillips-Jolly Street,County Council District 3,,REP,REP Karl Sease,165,0,0,0,26,0,139
+Newberry,Wheeland,County Council District 3,,REP,REP Karl Sease,18,0,0,0,0,0,18
+Newberry,Little Mountain,County Council District 3,,DEM,DEM Henry H Buddy Livingston,187,0,3,0,52,0,132
+Newberry,Mt. Bethel-Garmany,County Council District 3,,DEM,DEM Henry H Buddy Livingston,126,0,1,0,57,0,68
+Newberry,Consolidated Number 5,County Council District 3,,DEM,DEM Henry H Buddy Livingston,181,0,2,0,50,0,129
+Newberry,Peak,County Council District 3,,DEM,DEM Henry H Buddy Livingston,26,0,0,0,5,0,21
+Newberry,Pomaria,County Council District 3,,DEM,DEM Henry H Buddy Livingston,84,0,0,0,19,0,65
+Newberry,St. Phillips-Jolly Street,County Council District 3,,DEM,DEM Henry H Buddy Livingston,195,0,3,0,67,0,125
+Newberry,Wheeland,County Council District 3,,DEM,DEM Henry H Buddy Livingston,12,0,0,0,3,0,9
+Newberry,Little Mountain,County Council District 3,,,Write-In,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,County Council District 3,,,Write-In,0,0,0,0,0,0,0
+Newberry,Consolidated Number 5,County Council District 3,,,Write-In,2,0,0,0,0,0,2
+Newberry,Peak,County Council District 3,,,Write-In,0,0,0,0,0,0,0
+Newberry,Pomaria,County Council District 3,,,Write-In,0,0,0,0,0,0,0
+Newberry,St. Phillips-Jolly Street,County Council District 3,,,Write-In,0,0,0,0,0,0,0
+Newberry,Wheeland,County Council District 3,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,County Council District 6,,DEM,DEM Johnny Mack Scurry,3,0,0,0,0,0,3
+Newberry,Beth - Eden,County Council District 6,,DEM,DEM Johnny Mack Scurry,21,0,0,0,6,0,15
+Newberry,Bush River,County Council District 6,,DEM,DEM Johnny Mack Scurry,75,0,1,0,13,0,61
+Newberry,Chappells,County Council District 6,,DEM,DEM Johnny Mack Scurry,196,0,2,0,28,0,166
+Newberry,Hartford,County Council District 6,,DEM,DEM Johnny Mack Scurry,6,0,0,0,1,0,5
+Newberry,Helena,County Council District 6,,DEM,DEM Johnny Mack Scurry,242,0,3,0,67,0,172
+Newberry,Kinards-Jalapa,County Council District 6,,DEM,DEM Johnny Mack Scurry,54,0,0,0,14,0,40
+Newberry,Mt. Bethel-Garmany,County Council District 6,,DEM,DEM Johnny Mack Scurry,135,0,3,0,48,0,84
+Newberry,Oakland,County Council District 6,,DEM,DEM Johnny Mack Scurry,119,0,0,0,23,0,96
+Newberry,Silverstreet,County Council District 6,,DEM,DEM Johnny Mack Scurry,159,0,2,0,33,0,124
+Newberry,Newberry Ward 1,County Council District 6,,,Write-In,0,0,0,0,0,0,0
+Newberry,Beth - Eden,County Council District 6,,,Write-In,0,0,0,0,0,0,0
+Newberry,Bush River,County Council District 6,,,Write-In,1,0,0,0,0,0,1
+Newberry,Chappells,County Council District 6,,,Write-In,11,0,0,0,0,0,11
+Newberry,Hartford,County Council District 6,,,Write-In,0,0,0,0,0,0,0
+Newberry,Helena,County Council District 6,,,Write-In,0,0,0,0,0,0,0
+Newberry,Kinards-Jalapa,County Council District 6,,,Write-In,2,0,0,0,0,0,2
+Newberry,Mt. Bethel-Garmany,County Council District 6,,,Write-In,2,0,0,0,0,0,2
+Newberry,Oakland,County Council District 6,,,Write-In,1,0,0,0,0,0,1
+Newberry,Silverstreet,County Council District 6,,,Write-In,3,0,0,0,0,0,3
+Newberry,Newberry Ward 1,County Council District 7,,DEM,DEM Travis D Reeder,52,0,2,0,11,0,39
+Newberry,Newberry Ward 3,County Council District 7,,DEM,DEM Travis D Reeder,145,0,1,0,37,0,107
+Newberry,Newberry Ward 4,County Council District 7,,DEM,DEM Travis D Reeder,165,0,3,0,70,0,92
+Newberry,Newberry Ward 5,County Council District 7,,DEM,DEM Travis D Reeder,148,0,0,0,42,0,106
+Newberry,Newberry Ward 6,County Council District 7,,DEM,DEM Travis D Reeder,104,0,3,0,20,0,81
+Newberry,Hartford,County Council District 7,,DEM,DEM Travis D Reeder,138,0,0,0,68,0,70
+Newberry,Helena,County Council District 7,,DEM,DEM Travis D Reeder,16,0,0,0,6,0,10
+Newberry,Johnstone,County Council District 7,,DEM,DEM Travis D Reeder,5,0,0,0,1,0,4
+Newberry,Silverstreet,County Council District 7,,DEM,DEM Travis D Reeder,77,0,0,0,36,0,41
+Newberry,Newberry Ward 1,County Council District 7,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 3,County Council District 7,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 4,County Council District 7,,,Write-In,1,0,0,0,0,0,1
+Newberry,Newberry Ward 5,County Council District 7,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 6,County Council District 7,,,Write-In,2,0,0,0,0,0,2
+Newberry,Hartford,County Council District 7,,,Write-In,8,0,0,0,0,0,8
+Newberry,Helena,County Council District 7,,,Write-In,0,0,0,0,0,0,0
+Newberry,Johnstone,County Council District 7,,,Write-In,0,0,0,0,0,0,0
+Newberry,Silverstreet,County Council District 7,,,Write-In,2,0,0,0,0,0,2
+Newberry,Newberry Ward 1,Soil and Water District Commission,,NON,Rolf Mark Kiser,58,0,2,0,13,0,43
+Newberry,Newberry Ward 2,Soil and Water District Commission,,NON,Rolf Mark Kiser,243,0,6,0,100,0,137
+Newberry,Newberry Ward 3,Soil and Water District Commission,,NON,Rolf Mark Kiser,124,0,2,0,41,0,81
+Newberry,Newberry Ward 4,Soil and Water District Commission,,NON,Rolf Mark Kiser,29,0,2,0,10,0,17
+Newberry,Newberry Ward 5,Soil and Water District Commission,,NON,Rolf Mark Kiser,27,0,0,0,8,0,19
+Newberry,Newberry Ward 6,Soil and Water District Commission,,NON,Rolf Mark Kiser,212,0,7,0,90,0,115
+Newberry,Beth - Eden,Soil and Water District Commission,,NON,Rolf Mark Kiser,122,0,1,0,34,0,87
+Newberry,Bush River,Soil and Water District Commission,,NON,Rolf Mark Kiser,81,0,1,0,15,0,65
+Newberry,Chappells,Soil and Water District Commission,,NON,Rolf Mark Kiser,144,0,1,0,24,0,119
+Newberry,Fairview,Soil and Water District Commission,,NON,Rolf Mark Kiser,400,0,8,0,98,0,294
+Newberry,Hartford,Soil and Water District Commission,,NON,Rolf Mark Kiser,191,0,1,0,68,0,122
+Newberry,Helena,Soil and Water District Commission,,NON,Rolf Mark Kiser,95,0,0,0,35,0,60
+Newberry,Kinards-Jalapa,Soil and Water District Commission,,NON,Rolf Mark Kiser,101,0,1,0,25,0,75
+Newberry,Johnstone,Soil and Water District Commission,,NON,Rolf Mark Kiser,85,0,0,0,23,0,62
+Newberry,Little Mountain,Soil and Water District Commission,,NON,Rolf Mark Kiser,359,0,2,0,82,0,275
+Newberry,Maybinton,Soil and Water District Commission,,NON,Rolf Mark Kiser,8,0,0,0,1,0,7
+Newberry,Mt. Bethel-Garmany,Soil and Water District Commission,,NON,Rolf Mark Kiser,194,0,4,0,64,0,126
+Newberry,Consolidated Number 5,Soil and Water District Commission,,NON,Rolf Mark Kiser,244,0,2,0,48,0,194
+Newberry,O'Neal,Soil and Water District Commission,,NON,Rolf Mark Kiser,316,0,3,0,82,0,231
+Newberry,Oakland,Soil and Water District Commission,,NON,Rolf Mark Kiser,51,0,0,0,17,0,34
+Newberry,Peak,Soil and Water District Commission,,NON,Rolf Mark Kiser,33,0,1,0,1,0,31
+Newberry,Pomaria,Soil and Water District Commission,,NON,Rolf Mark Kiser,156,0,1,0,23,0,132
+Newberry,Prosperity City,Soil and Water District Commission,,NON,Rolf Mark Kiser,136,0,0,0,28,0,108
+Newberry,Silverstreet,Soil and Water District Commission,,NON,Rolf Mark Kiser,160,0,2,0,32,0,126
+Newberry,Stoney Hill,Soil and Water District Commission,,NON,Rolf Mark Kiser,176,0,1,0,40,0,135
+Newberry,St. Phillips-Jolly Street,Soil and Water District Commission,,NON,Rolf Mark Kiser,275,0,0,0,62,0,213
+Newberry,Wheeland,Soil and Water District Commission,,NON,Rolf Mark Kiser,113,0,0,0,12,0,101
+Newberry,Whitmire City,Soil and Water District Commission,,NON,Rolf Mark Kiser,129,0,2,0,17,0,110
+Newberry,Whitmire Outside,Soil and Water District Commission,,NON,Rolf Mark Kiser,114,0,5,0,23,0,86
+Newberry,Prosperity Outside,Soil and Water District Commission,,NON,Rolf Mark Kiser,157,0,2,0,41,0,114
+Newberry,Failsafe,Soil and Water District Commission,,NON,Rolf Mark Kiser,0,0,0,0,0,0,0
+Newberry,Provisional,Soil and Water District Commission,,NON,Rolf Mark Kiser,1,0,0,0,0,1,0
+Newberry,Failsafe Provisional,Soil and Water District Commission,,NON,Rolf Mark Kiser,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Soil and Water District Commission,,NON,Toni Willingham Warren,72,0,5,0,21,0,46
+Newberry,Newberry Ward 2,Soil and Water District Commission,,NON,Toni Willingham Warren,234,0,5,0,109,0,120
+Newberry,Newberry Ward 3,Soil and Water District Commission,,NON,Toni Willingham Warren,143,0,2,0,51,0,90
+Newberry,Newberry Ward 4,Soil and Water District Commission,,NON,Toni Willingham Warren,55,0,2,0,17,0,36
+Newberry,Newberry Ward 5,Soil and Water District Commission,,NON,Toni Willingham Warren,51,0,0,0,11,0,40
+Newberry,Newberry Ward 6,Soil and Water District Commission,,NON,Toni Willingham Warren,225,0,8,0,97,0,120
+Newberry,Beth - Eden,Soil and Water District Commission,,NON,Toni Willingham Warren,125,0,4,0,37,0,84
+Newberry,Bush River,Soil and Water District Commission,,NON,Toni Willingham Warren,75,0,4,0,17,0,54
+Newberry,Chappells,Soil and Water District Commission,,NON,Toni Willingham Warren,178,0,1,0,29,0,148
+Newberry,Fairview,Soil and Water District Commission,,NON,Toni Willingham Warren,415,0,9,0,100,0,306
+Newberry,Hartford,Soil and Water District Commission,,NON,Toni Willingham Warren,172,0,0,0,71,0,101
+Newberry,Helena,Soil and Water District Commission,,NON,Toni Willingham Warren,94,0,0,0,40,0,54
+Newberry,Kinards-Jalapa,Soil and Water District Commission,,NON,Toni Willingham Warren,91,0,3,0,21,0,67
+Newberry,Johnstone,Soil and Water District Commission,,NON,Toni Willingham Warren,107,0,2,0,33,0,72
+Newberry,Little Mountain,Soil and Water District Commission,,NON,Toni Willingham Warren,329,0,0,0,67,0,262
+Newberry,Maybinton,Soil and Water District Commission,,NON,Toni Willingham Warren,3,0,0,0,0,0,3
+Newberry,Mt. Bethel-Garmany,Soil and Water District Commission,,NON,Toni Willingham Warren,230,0,5,0,78,0,147
+Newberry,Consolidated Number 5,Soil and Water District Commission,,NON,Toni Willingham Warren,274,0,3,0,67,0,204
+Newberry,O'Neal,Soil and Water District Commission,,NON,Toni Willingham Warren,306,0,11,0,77,0,218
+Newberry,Oakland,Soil and Water District Commission,,NON,Toni Willingham Warren,66,0,0,0,19,0,47
+Newberry,Peak,Soil and Water District Commission,,NON,Toni Willingham Warren,34,0,0,0,3,0,31
+Newberry,Pomaria,Soil and Water District Commission,,NON,Toni Willingham Warren,138,0,1,0,23,0,114
+Newberry,Prosperity City,Soil and Water District Commission,,NON,Toni Willingham Warren,140,0,0,0,38,0,102
+Newberry,Silverstreet,Soil and Water District Commission,,NON,Toni Willingham Warren,195,0,3,0,52,0,140
+Newberry,Stoney Hill,Soil and Water District Commission,,NON,Toni Willingham Warren,175,0,1,0,40,0,134
+Newberry,St. Phillips-Jolly Street,Soil and Water District Commission,,NON,Toni Willingham Warren,265,0,2,0,62,0,201
+Newberry,Wheeland,Soil and Water District Commission,,NON,Toni Willingham Warren,105,0,0,0,15,0,90
+Newberry,Whitmire City,Soil and Water District Commission,,NON,Toni Willingham Warren,154,0,1,0,21,0,132
+Newberry,Whitmire Outside,Soil and Water District Commission,,NON,Toni Willingham Warren,134,0,4,0,30,0,100
+Newberry,Prosperity Outside,Soil and Water District Commission,,NON,Toni Willingham Warren,148,0,2,0,45,0,101
+Newberry,Failsafe,Soil and Water District Commission,,NON,Toni Willingham Warren,1,1,0,0,0,0,0
+Newberry,Provisional,Soil and Water District Commission,,NON,Toni Willingham Warren,1,0,0,0,0,1,0
+Newberry,Failsafe Provisional,Soil and Water District Commission,,NON,Toni Willingham Warren,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Soil and Water District Commission,,,Write-In,1,0,0,0,0,0,1
+Newberry,Newberry Ward 2,Soil and Water District Commission,,,Write-In,6,0,0,0,0,0,6
+Newberry,Newberry Ward 3,Soil and Water District Commission,,,Write-In,1,0,0,0,0,0,1
+Newberry,Newberry Ward 4,Soil and Water District Commission,,,Write-In,1,0,0,0,0,0,1
+Newberry,Newberry Ward 5,Soil and Water District Commission,,,Write-In,3,0,0,0,0,0,3
+Newberry,Newberry Ward 6,Soil and Water District Commission,,,Write-In,3,0,0,0,0,0,3
+Newberry,Beth - Eden,Soil and Water District Commission,,,Write-In,0,0,0,0,0,0,0
+Newberry,Bush River,Soil and Water District Commission,,,Write-In,3,0,0,0,0,0,3
+Newberry,Chappells,Soil and Water District Commission,,,Write-In,1,0,0,0,0,0,1
+Newberry,Fairview,Soil and Water District Commission,,,Write-In,5,0,0,0,0,0,5
+Newberry,Hartford,Soil and Water District Commission,,,Write-In,2,0,0,0,0,0,2
+Newberry,Helena,Soil and Water District Commission,,,Write-In,0,0,0,0,0,0,0
+Newberry,Kinards-Jalapa,Soil and Water District Commission,,,Write-In,7,0,0,0,0,0,7
+Newberry,Johnstone,Soil and Water District Commission,,,Write-In,1,0,0,0,0,0,1
+Newberry,Little Mountain,Soil and Water District Commission,,,Write-In,2,0,0,0,0,0,2
+Newberry,Maybinton,Soil and Water District Commission,,,Write-In,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,Soil and Water District Commission,,,Write-In,4,0,0,0,0,0,4
+Newberry,Consolidated Number 5,Soil and Water District Commission,,,Write-In,9,0,0,0,0,0,9
+Newberry,O'Neal,Soil and Water District Commission,,,Write-In,6,0,0,0,0,0,6
+Newberry,Oakland,Soil and Water District Commission,,,Write-In,0,0,0,0,0,0,0
+Newberry,Peak,Soil and Water District Commission,,,Write-In,1,0,0,0,0,0,1
+Newberry,Pomaria,Soil and Water District Commission,,,Write-In,0,0,0,0,0,0,0
+Newberry,Prosperity City,Soil and Water District Commission,,,Write-In,2,0,0,0,0,0,2
+Newberry,Silverstreet,Soil and Water District Commission,,,Write-In,5,0,0,0,0,0,5
+Newberry,Stoney Hill,Soil and Water District Commission,,,Write-In,0,0,0,0,0,0,0
+Newberry,St. Phillips-Jolly Street,Soil and Water District Commission,,,Write-In,3,0,0,0,0,0,3
+Newberry,Wheeland,Soil and Water District Commission,,,Write-In,1,0,0,0,0,0,1
+Newberry,Whitmire City,Soil and Water District Commission,,,Write-In,2,0,0,0,0,0,2
+Newberry,Whitmire Outside,Soil and Water District Commission,,,Write-In,1,0,0,0,0,0,1
+Newberry,Prosperity Outside,Soil and Water District Commission,,,Write-In,3,0,0,0,0,0,3
+Newberry,Failsafe,Soil and Water District Commission,,,Write-In,0,0,0,0,0,0,0
+Newberry,Provisional,Soil and Water District Commission,,,Write-In,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Soil and Water District Commission,,,Write-In,0,0,0,0,0,0,0
+Newberry,Fairview,School Board District 2,,,Write-In,132,0,0,0,0,0,132
+Newberry,Little Mountain,School Board District 2,,,Write-In,21,0,0,0,0,0,21
+Newberry,O'Neal,School Board District 2,,,Write-In,158,0,0,0,0,0,158
+Newberry,Stoney Hill,School Board District 2,,,Write-In,28,0,0,0,0,0,28
+Newberry,Wheeland,School Board District 2,,,Write-In,28,0,0,0,0,0,28
+Newberry,Newberry Ward 1,School Board District 5,,NON,Quin Cureton,31,0,2,0,7,0,22
+Newberry,Newberry Ward 2,School Board District 5,,NON,Quin Cureton,96,0,1,0,43,0,52
+Newberry,Newberry Ward 3,School Board District 5,,NON,Quin Cureton,17,0,0,0,10,0,7
+Newberry,Newberry Ward 6,School Board District 5,,NON,Quin Cureton,92,0,0,0,44,0,48
+Newberry,Johnstone,School Board District 5,,NON,Quin Cureton,52,0,0,0,17,0,35
+Newberry,Mt. Bethel-Garmany,School Board District 5,,NON,Quin Cureton,23,0,0,0,11,0,12
+Newberry,Oakland,School Board District 5,,NON,Quin Cureton,16,0,0,0,3,0,13
+Newberry,Prosperity City,School Board District 5,,NON,Quin Cureton,10,0,0,0,2,0,8
+Newberry,St. Phillips-Jolly Street,School Board District 5,,NON,Quin Cureton,0,0,0,0,0,0,0
+Newberry,Prosperity Outside,School Board District 5,,NON,Quin Cureton,1,0,0,0,1,0,0
+Newberry,Newberry Ward 1,School Board District 5,,NON,Hugh Gray,67,0,1,0,22,0,44
+Newberry,Newberry Ward 2,School Board District 5,,NON,Hugh Gray,390,0,12,0,175,0,203
+Newberry,Newberry Ward 3,School Board District 5,,NON,Hugh Gray,36,0,0,0,16,0,20
+Newberry,Newberry Ward 6,School Board District 5,,NON,Hugh Gray,297,0,9,0,145,0,143
+Newberry,Johnstone,School Board District 5,,NON,Hugh Gray,152,0,2,0,40,0,110
+Newberry,Mt. Bethel-Garmany,School Board District 5,,NON,Hugh Gray,67,0,0,0,30,0,37
+Newberry,Oakland,School Board District 5,,NON,Hugh Gray,40,0,0,0,12,0,28
+Newberry,Prosperity City,School Board District 5,,NON,Hugh Gray,9,0,0,0,2,0,7
+Newberry,St. Phillips-Jolly Street,School Board District 5,,NON,Hugh Gray,24,0,0,0,6,0,18
+Newberry,Prosperity Outside,School Board District 5,,NON,Hugh Gray,13,0,0,0,5,0,8
+Newberry,Newberry Ward 1,School Board District 5,,,Write-In,1,0,0,0,0,0,1
+Newberry,Newberry Ward 2,School Board District 5,,,Write-In,3,0,0,0,0,0,3
+Newberry,Newberry Ward 3,School Board District 5,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 6,School Board District 5,,,Write-In,4,0,0,0,0,0,4
+Newberry,Johnstone,School Board District 5,,,Write-In,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,School Board District 5,,,Write-In,1,0,0,0,0,0,1
+Newberry,Oakland,School Board District 5,,,Write-In,0,0,0,0,0,0,0
+Newberry,Prosperity City,School Board District 5,,,Write-In,0,0,0,0,0,0,0
+Newberry,St. Phillips-Jolly Street,School Board District 5,,,Write-In,0,0,0,0,0,0,0
+Newberry,Prosperity Outside,School Board District 5,,,Write-In,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,School Board District 7,,NON,Constance Young Shannon,34,0,1,0,9,0,24
+Newberry,Newberry Ward 3,School Board District 7,,NON,Constance Young Shannon,119,0,1,0,26,0,92
+Newberry,Newberry Ward 4,School Board District 7,,NON,Constance Young Shannon,85,0,3,0,35,0,47
+Newberry,Newberry Ward 5,School Board District 7,,NON,Constance Young Shannon,66,0,0,0,18,0,48
+Newberry,Newberry Ward 6,School Board District 7,,NON,Constance Young Shannon,61,0,2,0,16,0,43
+Newberry,Hartford,School Board District 7,,NON,Constance Young Shannon,124,0,0,0,50,0,74
+Newberry,Helena,School Board District 7,,NON,Constance Young Shannon,11,0,0,0,3,0,8
+Newberry,Johnstone,School Board District 7,,NON,Constance Young Shannon,2,0,0,0,0,0,2
+Newberry,Silverstreet,School Board District 7,,NON,Constance Young Shannon,54,0,0,0,19,0,35
+Newberry,Newberry Ward 1,School Board District 7,,,Write-In,4,0,0,0,0,0,4
+Newberry,Newberry Ward 3,School Board District 7,,,Write-In,2,0,0,0,0,0,2
+Newberry,Newberry Ward 4,School Board District 7,,,Write-In,6,0,0,0,0,0,6
+Newberry,Newberry Ward 5,School Board District 7,,,Write-In,6,0,0,0,0,0,6
+Newberry,Newberry Ward 6,School Board District 7,,,Write-In,3,0,0,0,0,0,3
+Newberry,Hartford,School Board District 7,,,Write-In,8,0,0,0,0,0,8
+Newberry,Helena,School Board District 7,,,Write-In,0,0,0,0,0,0,0
+Newberry,Johnstone,School Board District 7,,,Write-In,0,0,0,0,0,0,0
+Newberry,Silverstreet,School Board District 7,,,Write-In,7,0,0,0,0,0,7
+Newberry,Newberry Ward 1,Statewide Constitutional Amendment 1,,,Yes,107,0,6,0,33,0,68
+Newberry,Newberry Ward 2,Statewide Constitutional Amendment 1,,,Yes,366,0,8,0,170,0,188
+Newberry,Newberry Ward 3,Statewide Constitutional Amendment 1,,,Yes,219,0,4,0,78,0,137
+Newberry,Newberry Ward 4,Statewide Constitutional Amendment 1,,,Yes,95,0,2,0,36,0,57
+Newberry,Newberry Ward 5,Statewide Constitutional Amendment 1,,,Yes,80,0,0,0,16,0,64
+Newberry,Newberry Ward 6,Statewide Constitutional Amendment 1,,,Yes,382,0,9,0,166,0,207
+Newberry,Beth - Eden,Statewide Constitutional Amendment 1,,,Yes,178,0,2,0,61,0,115
+Newberry,Bush River,Statewide Constitutional Amendment 1,,,Yes,109,0,4,0,18,0,87
+Newberry,Chappells,Statewide Constitutional Amendment 1,,,Yes,234,0,4,0,30,0,200
+Newberry,Fairview,Statewide Constitutional Amendment 1,,,Yes,699,0,15,0,185,0,499
+Newberry,Hartford,Statewide Constitutional Amendment 1,,,Yes,279,0,1,0,119,0,159
+Newberry,Helena,Statewide Constitutional Amendment 1,,,Yes,132,0,1,0,64,0,67
+Newberry,Kinards-Jalapa,Statewide Constitutional Amendment 1,,,Yes,162,0,3,0,36,0,123
+Newberry,Johnstone,Statewide Constitutional Amendment 1,,,Yes,168,0,0,0,46,0,122
+Newberry,Little Mountain,Statewide Constitutional Amendment 1,,,Yes,477,0,3,0,111,0,363
+Newberry,Maybinton,Statewide Constitutional Amendment 1,,,Yes,22,0,0,0,6,0,16
+Newberry,Mt. Bethel-Garmany,Statewide Constitutional Amendment 1,,,Yes,290,0,3,0,114,0,173
+Newberry,Consolidated Number 5,Statewide Constitutional Amendment 1,,,Yes,349,0,2,0,85,0,262
+Newberry,O'Neal,Statewide Constitutional Amendment 1,,,Yes,575,0,21,0,165,0,389
+Newberry,Oakland,Statewide Constitutional Amendment 1,,,Yes,96,0,0,0,25,0,71
+Newberry,Peak,Statewide Constitutional Amendment 1,,,Yes,40,0,0,0,2,0,38
+Newberry,Pomaria,Statewide Constitutional Amendment 1,,,Yes,190,0,2,0,33,0,155
+Newberry,Prosperity City,Statewide Constitutional Amendment 1,,,Yes,234,0,1,0,68,0,165
+Newberry,Silverstreet,Statewide Constitutional Amendment 1,,,Yes,260,0,2,0,50,0,208
+Newberry,Stoney Hill,Statewide Constitutional Amendment 1,,,Yes,309,0,2,0,61,0,246
+Newberry,St. Phillips-Jolly Street,Statewide Constitutional Amendment 1,,,Yes,369,0,1,0,97,0,271
+Newberry,Wheeland,Statewide Constitutional Amendment 1,,,Yes,179,0,0,0,28,0,151
+Newberry,Whitmire City,Statewide Constitutional Amendment 1,,,Yes,206,0,1,0,27,0,178
+Newberry,Whitmire Outside,Statewide Constitutional Amendment 1,,,Yes,206,0,3,0,47,0,156
+Newberry,Prosperity Outside,Statewide Constitutional Amendment 1,,,Yes,279,0,2,0,96,0,181
+Newberry,Failsafe,Statewide Constitutional Amendment 1,,,Yes,1,1,0,0,0,0,0
+Newberry,Provisional,Statewide Constitutional Amendment 1,,,Yes,1,0,0,0,0,1,0
+Newberry,Failsafe Provisional,Statewide Constitutional Amendment 1,,,Yes,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Statewide Constitutional Amendment 1,,,No,61,0,5,0,14,0,42
+Newberry,Newberry Ward 2,Statewide Constitutional Amendment 1,,,No,155,0,2,0,57,0,96
+Newberry,Newberry Ward 3,Statewide Constitutional Amendment 1,,,No,124,0,0,0,34,0,90
+Newberry,Newberry Ward 4,Statewide Constitutional Amendment 1,,,No,60,0,1,0,23,0,36
+Newberry,Newberry Ward 5,Statewide Constitutional Amendment 1,,,No,62,0,0,0,22,0,40
+Newberry,Newberry Ward 6,Statewide Constitutional Amendment 1,,,No,145,0,5,0,60,0,80
+Newberry,Beth - Eden,Statewide Constitutional Amendment 1,,,No,116,0,2,0,34,0,80
+Newberry,Bush River,Statewide Constitutional Amendment 1,,,No,69,0,0,0,13,0,56
+Newberry,Chappells,Statewide Constitutional Amendment 1,,,No,156,0,0,0,26,0,130
+Newberry,Fairview,Statewide Constitutional Amendment 1,,,No,444,0,14,0,111,0,319
+Newberry,Hartford,Statewide Constitutional Amendment 1,,,No,191,0,2,0,72,0,117
+Newberry,Helena,Statewide Constitutional Amendment 1,,,No,186,0,0,0,47,0,139
+Newberry,Kinards-Jalapa,Statewide Constitutional Amendment 1,,,No,108,0,0,0,23,0,85
+Newberry,Johnstone,Statewide Constitutional Amendment 1,,,No,82,0,2,0,26,0,54
+Newberry,Little Mountain,Statewide Constitutional Amendment 1,,,No,326,0,4,0,52,0,270
+Newberry,Maybinton,Statewide Constitutional Amendment 1,,,No,22,0,0,0,1,0,21
+Newberry,Mt. Bethel-Garmany,Statewide Constitutional Amendment 1,,,No,232,0,3,0,81,0,148
+Newberry,Consolidated Number 5,Statewide Constitutional Amendment 1,,,No,228,0,2,0,37,0,189
+Newberry,O'Neal,Statewide Constitutional Amendment 1,,,No,337,0,3,0,82,0,252
+Newberry,Oakland,Statewide Constitutional Amendment 1,,,No,75,0,0,0,16,0,59
+Newberry,Peak,Statewide Constitutional Amendment 1,,,No,36,0,1,0,2,0,33
+Newberry,Pomaria,Statewide Constitutional Amendment 1,,,No,145,0,1,0,17,0,127
+Newberry,Prosperity City,Statewide Constitutional Amendment 1,,,No,148,0,0,0,31,0,117
+Newberry,Silverstreet,Statewide Constitutional Amendment 1,,,No,142,0,2,0,35,0,105
+Newberry,Stoney Hill,Statewide Constitutional Amendment 1,,,No,202,0,2,0,47,0,153
+Newberry,St. Phillips-Jolly Street,Statewide Constitutional Amendment 1,,,No,227,0,3,0,50,0,174
+Newberry,Wheeland,Statewide Constitutional Amendment 1,,,No,123,0,0,0,20,0,103
+Newberry,Whitmire City,Statewide Constitutional Amendment 1,,,No,166,0,2,0,26,0,138
+Newberry,Whitmire Outside,Statewide Constitutional Amendment 1,,,No,160,0,5,0,19,0,136
+Newberry,Prosperity Outside,Statewide Constitutional Amendment 1,,,No,201,0,1,0,57,0,143
+Newberry,Failsafe,Statewide Constitutional Amendment 1,,,No,1,1,0,0,0,0,0
+Newberry,Provisional,Statewide Constitutional Amendment 1,,,No,2,0,0,0,0,2,0
+Newberry,Failsafe Provisional,Statewide Constitutional Amendment 1,,,No,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Statewide Constitutional Amendment 2,,,Yes,105,0,6,0,29,0,70
+Newberry,Newberry Ward 2,Statewide Constitutional Amendment 2,,,Yes,372,0,6,0,173,0,193
+Newberry,Newberry Ward 3,Statewide Constitutional Amendment 2,,,Yes,215,0,3,0,69,0,143
+Newberry,Newberry Ward 4,Statewide Constitutional Amendment 2,,,Yes,92,0,2,0,34,0,56
+Newberry,Newberry Ward 5,Statewide Constitutional Amendment 2,,,Yes,88,0,0,0,19,0,69
+Newberry,Newberry Ward 6,Statewide Constitutional Amendment 2,,,Yes,377,0,9,0,165,0,203
+Newberry,Beth - Eden,Statewide Constitutional Amendment 2,,,Yes,183,0,3,0,60,0,120
+Newberry,Bush River,Statewide Constitutional Amendment 2,,,Yes,114,0,4,0,19,0,91
+Newberry,Chappells,Statewide Constitutional Amendment 2,,,Yes,234,0,4,0,28,0,202
+Newberry,Fairview,Statewide Constitutional Amendment 2,,,Yes,689,0,12,0,173,0,504
+Newberry,Hartford,Statewide Constitutional Amendment 2,,,Yes,270,0,1,0,117,0,152
+Newberry,Helena,Statewide Constitutional Amendment 2,,,Yes,129,0,1,0,63,0,65
+Newberry,Kinards-Jalapa,Statewide Constitutional Amendment 2,,,Yes,162,0,2,0,34,0,126
+Newberry,Johnstone,Statewide Constitutional Amendment 2,,,Yes,169,0,0,0,49,0,120
+Newberry,Little Mountain,Statewide Constitutional Amendment 2,,,Yes,473,0,1,0,109,0,363
+Newberry,Maybinton,Statewide Constitutional Amendment 2,,,Yes,19,0,0,0,5,0,14
+Newberry,Mt. Bethel-Garmany,Statewide Constitutional Amendment 2,,,Yes,282,0,4,0,102,0,176
+Newberry,Consolidated Number 5,Statewide Constitutional Amendment 2,,,Yes,357,0,2,0,87,0,268
+Newberry,O'Neal,Statewide Constitutional Amendment 2,,,Yes,566,0,21,0,157,0,388
+Newberry,Oakland,Statewide Constitutional Amendment 2,,,Yes,99,0,0,0,22,0,77
+Newberry,Peak,Statewide Constitutional Amendment 2,,,Yes,44,0,0,0,2,0,42
+Newberry,Pomaria,Statewide Constitutional Amendment 2,,,Yes,198,0,2,0,31,0,165
+Newberry,Prosperity City,Statewide Constitutional Amendment 2,,,Yes,235,0,1,0,64,0,170
+Newberry,Silverstreet,Statewide Constitutional Amendment 2,,,Yes,245,0,2,0,45,0,198
+Newberry,Stoney Hill,Statewide Constitutional Amendment 2,,,Yes,294,0,2,0,63,0,229
+Newberry,St. Phillips-Jolly Street,Statewide Constitutional Amendment 2,,,Yes,379,0,1,0,92,0,286
+Newberry,Wheeland,Statewide Constitutional Amendment 2,,,Yes,176,0,0,0,28,0,148
+Newberry,Whitmire City,Statewide Constitutional Amendment 2,,,Yes,201,0,0,0,28,0,173
+Newberry,Whitmire Outside,Statewide Constitutional Amendment 2,,,Yes,206,0,4,0,48,0,154
+Newberry,Prosperity Outside,Statewide Constitutional Amendment 2,,,Yes,258,0,2,0,83,0,173
+Newberry,Failsafe,Statewide Constitutional Amendment 2,,,Yes,1,1,0,0,0,0,0
+Newberry,Provisional,Statewide Constitutional Amendment 2,,,Yes,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Statewide Constitutional Amendment 2,,,Yes,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Statewide Constitutional Amendment 2,,,No,57,0,5,0,14,0,38
+Newberry,Newberry Ward 2,Statewide Constitutional Amendment 2,,,No,149,0,4,0,57,0,88
+Newberry,Newberry Ward 3,Statewide Constitutional Amendment 2,,,No,129,0,1,0,44,0,84
+Newberry,Newberry Ward 4,Statewide Constitutional Amendment 2,,,No,59,0,1,0,23,0,35
+Newberry,Newberry Ward 5,Statewide Constitutional Amendment 2,,,No,53,0,0,0,19,0,34
+Newberry,Newberry Ward 6,Statewide Constitutional Amendment 2,,,No,146,0,5,0,58,0,83
+Newberry,Beth - Eden,Statewide Constitutional Amendment 2,,,No,111,0,1,0,34,0,76
+Newberry,Bush River,Statewide Constitutional Amendment 2,,,No,64,0,0,0,12,0,52
+Newberry,Chappells,Statewide Constitutional Amendment 2,,,No,154,0,0,0,28,0,126
+Newberry,Fairview,Statewide Constitutional Amendment 2,,,No,447,0,13,0,121,0,313
+Newberry,Hartford,Statewide Constitutional Amendment 2,,,No,196,0,2,0,73,0,121
+Newberry,Helena,Statewide Constitutional Amendment 2,,,No,179,0,0,0,42,0,137
+Newberry,Kinards-Jalapa,Statewide Constitutional Amendment 2,,,No,108,0,0,0,24,0,84
+Newberry,Johnstone,Statewide Constitutional Amendment 2,,,No,77,0,2,0,20,0,55
+Newberry,Little Mountain,Statewide Constitutional Amendment 2,,,No,325,0,6,0,55,0,264
+Newberry,Maybinton,Statewide Constitutional Amendment 2,,,No,24,0,0,0,1,0,23
+Newberry,Mt. Bethel-Garmany,Statewide Constitutional Amendment 2,,,No,228,0,2,0,88,0,138
+Newberry,Consolidated Number 5,Statewide Constitutional Amendment 2,,,No,218,0,2,0,34,0,182
+Newberry,O'Neal,Statewide Constitutional Amendment 2,,,No,339,0,2,0,88,0,249
+Newberry,Oakland,Statewide Constitutional Amendment 2,,,No,68,0,0,0,17,0,51
+Newberry,Peak,Statewide Constitutional Amendment 2,,,No,31,0,1,0,2,0,28
+Newberry,Pomaria,Statewide Constitutional Amendment 2,,,No,136,0,1,0,18,0,117
+Newberry,Prosperity City,Statewide Constitutional Amendment 2,,,No,142,0,0,0,31,0,111
+Newberry,Silverstreet,Statewide Constitutional Amendment 2,,,No,148,0,2,0,34,0,112
+Newberry,Stoney Hill,Statewide Constitutional Amendment 2,,,No,217,0,2,0,47,0,168
+Newberry,St. Phillips-Jolly Street,Statewide Constitutional Amendment 2,,,No,209,0,3,0,51,0,155
+Newberry,Wheeland,Statewide Constitutional Amendment 2,,,No,126,0,0,0,20,0,106
+Newberry,Whitmire City,Statewide Constitutional Amendment 2,,,No,166,0,3,0,24,0,139
+Newberry,Whitmire Outside,Statewide Constitutional Amendment 2,,,No,160,0,4,0,18,0,138
+Newberry,Prosperity Outside,Statewide Constitutional Amendment 2,,,No,210,0,1,0,62,0,147
+Newberry,Failsafe,Statewide Constitutional Amendment 2,,,No,1,1,0,0,0,0,0
+Newberry,Provisional,Statewide Constitutional Amendment 2,,,No,3,0,0,0,0,3,0
+Newberry,Failsafe Provisional,Statewide Constitutional Amendment 2,,,No,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,127,0,8,0,38,0,81
+Newberry,Newberry Ward 2,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,417,0,10,0,192,0,215
+Newberry,Newberry Ward 3,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,279,0,6,0,88,0,185
+Newberry,Newberry Ward 4,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,116,0,1,0,57,0,58
+Newberry,Newberry Ward 5,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,111,0,0,0,31,0,80
+Newberry,Newberry Ward 6,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,397,0,7,0,172,0,218
+Newberry,Beth - Eden,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,195,0,4,0,66,0,125
+Newberry,Bush River,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,113,0,1,0,24,0,88
+Newberry,Chappells,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,179,0,1,0,21,0,157
+Newberry,Fairview,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,676,0,15,0,179,0,482
+Newberry,Hartford,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,331,0,1,0,138,0,192
+Newberry,Helena,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,235,0,1,0,88,0,146
+Newberry,Kinards-Jalapa,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,179,0,3,0,41,0,135
+Newberry,Johnstone,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,172,0,0,0,45,0,127
+Newberry,Little Mountain,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,506,0,2,0,119,0,385
+Newberry,Maybinton,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,18,0,0,0,4,0,14
+Newberry,Mt. Bethel-Garmany,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,354,0,4,0,130,0,220
+Newberry,Consolidated Number 5,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,357,0,1,0,81,0,275
+Newberry,O'Neal,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,573,0,17,0,161,0,395
+Newberry,Oakland,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,112,0,0,0,35,0,77
+Newberry,Peak,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,45,0,0,0,3,0,42
+Newberry,Pomaria,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,221,0,2,0,39,0,180
+Newberry,Prosperity City,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,256,0,0,0,71,0,185
+Newberry,Silverstreet,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,265,0,2,0,62,0,201
+Newberry,Stoney Hill,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,314,0,2,0,66,0,246
+Newberry,St. Phillips-Jolly Street,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,395,0,3,0,110,0,282
+Newberry,Wheeland,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,182,0,0,0,30,0,152
+Newberry,Whitmire City,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,214,0,2,0,27,0,185
+Newberry,Whitmire Outside,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,219,0,5,0,42,0,172
+Newberry,Prosperity Outside,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,298,0,2,0,105,0,191
+Newberry,Failsafe,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,1,1,0,0,0,0,0
+Newberry,Provisional,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,2,0,0,0,0,2,0
+Newberry,Failsafe Provisional,Newberry County One Percent Sales and Use Tax Referendum,,,Yes,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Newberry County One Percent Sales and Use Tax Referendum,,,No,43,0,3,0,8,0,32
+Newberry,Newberry Ward 2,Newberry County One Percent Sales and Use Tax Referendum,,,No,127,0,3,0,49,0,75
+Newberry,Newberry Ward 3,Newberry County One Percent Sales and Use Tax Referendum,,,No,85,0,1,0,33,0,51
+Newberry,Newberry Ward 4,Newberry County One Percent Sales and Use Tax Referendum,,,No,58,0,2,0,12,0,44
+Newberry,Newberry Ward 5,Newberry County One Percent Sales and Use Tax Referendum,,,No,40,0,0,0,10,0,30
+Newberry,Newberry Ward 6,Newberry County One Percent Sales and Use Tax Referendum,,,No,162,0,8,0,62,0,92
+Newberry,Beth - Eden,Newberry County One Percent Sales and Use Tax Referendum,,,No,106,0,0,0,31,0,75
+Newberry,Bush River,Newberry County One Percent Sales and Use Tax Referendum,,,No,69,0,3,0,7,0,59
+Newberry,Chappells,Newberry County One Percent Sales and Use Tax Referendum,,,No,222,0,3,0,37,0,182
+Newberry,Fairview,Newberry County One Percent Sales and Use Tax Referendum,,,No,488,0,13,0,128,0,347
+Newberry,Hartford,Newberry County One Percent Sales and Use Tax Referendum,,,No,160,0,2,0,58,0,100
+Newberry,Helena,Newberry County One Percent Sales and Use Tax Referendum,,,No,108,0,1,0,34,0,73
+Newberry,Kinards-Jalapa,Newberry County One Percent Sales and Use Tax Referendum,,,No,97,0,0,0,20,0,77
+Newberry,Johnstone,Newberry County One Percent Sales and Use Tax Referendum,,,No,78,0,2,0,27,0,49
+Newberry,Little Mountain,Newberry County One Percent Sales and Use Tax Referendum,,,No,312,0,4,0,46,0,262
+Newberry,Maybinton,Newberry County One Percent Sales and Use Tax Referendum,,,No,25,0,0,0,3,0,22
+Newberry,Mt. Bethel-Garmany,Newberry County One Percent Sales and Use Tax Referendum,,,No,185,0,2,0,72,0,111
+Newberry,Consolidated Number 5,Newberry County One Percent Sales and Use Tax Referendum,,,No,240,0,3,0,47,0,190
+Newberry,O'Neal,Newberry County One Percent Sales and Use Tax Referendum,,,No,366,0,4,0,97,0,265
+Newberry,Oakland,Newberry County One Percent Sales and Use Tax Referendum,,,No,62,0,0,0,10,0,52
+Newberry,Peak,Newberry County One Percent Sales and Use Tax Referendum,,,No,34,0,1,0,2,0,31
+Newberry,Pomaria,Newberry County One Percent Sales and Use Tax Referendum,,,No,122,0,1,0,13,0,108
+Newberry,Prosperity City,Newberry County One Percent Sales and Use Tax Referendum,,,No,140,0,1,0,32,0,107
+Newberry,Silverstreet,Newberry County One Percent Sales and Use Tax Referendum,,,No,144,0,2,0,27,0,115
+Newberry,Stoney Hill,Newberry County One Percent Sales and Use Tax Referendum,,,No,202,0,2,0,47,0,153
+Newberry,St. Phillips-Jolly Street,Newberry County One Percent Sales and Use Tax Referendum,,,No,218,0,3,0,42,0,173
+Newberry,Wheeland,Newberry County One Percent Sales and Use Tax Referendum,,,No,131,0,1,0,20,0,110
+Newberry,Whitmire City,Newberry County One Percent Sales and Use Tax Referendum,,,No,164,0,2,0,25,0,137
+Newberry,Whitmire Outside,Newberry County One Percent Sales and Use Tax Referendum,,,No,160,0,3,0,26,0,131
+Newberry,Prosperity Outside,Newberry County One Percent Sales and Use Tax Referendum,,,No,196,0,2,0,51,0,143
+Newberry,Failsafe,Newberry County One Percent Sales and Use Tax Referendum,,,No,1,1,0,0,0,0,0
+Newberry,Provisional,Newberry County One Percent Sales and Use Tax Referendum,,,No,1,0,0,0,0,1,0
+Newberry,Failsafe Provisional,Newberry County One Percent Sales and Use Tax Referendum,,,No,0,0,0,0,0,0,0
+Newberry,Pomaria,Mayor Pomaria,,NON,Darryl Hentz,53,0,0,0,9,0,44
+Newberry,Pomaria,Mayor Pomaria,,,Write-In,2,0,0,0,0,0,2
+Newberry,Silverstreet,Mayor Silverstreet,,,Write-In,28,0,0,0,0,0,28
+Newberry,Pomaria,Town Council Pomaria,,NON,Zachary Hentz,49,0,0,0,8,0,41
+Newberry,Pomaria,Town Council Pomaria,,,Write-In,13,0,0,0,0,0,13
+Newberry,Little Mountain,Town Council Little Mountain,,NON,Marty C Frick,93,0,2,0,11,0,80
+Newberry,Little Mountain,Town Council Little Mountain,,NON,Steve White,71,0,0,0,18,0,53
+Newberry,Little Mountain,Town Council Little Mountain,,,Write-In,19,0,0,0,0,0,19
+Newberry,Whitmire City,Town Council Whitmire,,NON,JP Ammons,33,0,0,0,1,0,32
+Newberry,Whitmire City,Town Council Whitmire,,NON,John J Bullard,46,0,0,0,0,0,46
+Newberry,Whitmire City,Town Council Whitmire,,NON,Lirhonda Butler,18,0,0,0,1,0,17
+Newberry,Whitmire City,Town Council Whitmire,,NON,Maria Shields Dickerson,252,0,2,0,22,0,228
+Newberry,Whitmire City,Town Council Whitmire,,NON,Tony Hill,177,0,3,0,17,0,157
+Newberry,Whitmire City,Town Council Whitmire,,NON,Tomekia R Means,115,0,0,0,5,0,110
+Newberry,Whitmire City,Town Council Whitmire,,NON,Michael Patterson,30,0,2,0,4,0,24
+Newberry,Whitmire City,Town Council Whitmire,,NON,Michael P Thomas,148,0,0,0,15,0,133
+Newberry,Whitmire City,Town Council Whitmire,,NON,Charles E Worthy,114,0,1,0,9,0,104
+Newberry,Whitmire City,Town Council Whitmire,,,Write-In,101,0,0,0,0,0,101
+Newberry,Silverstreet,Town Council Silverstreet,,,Write-In,37,0,0,0,0,0,37

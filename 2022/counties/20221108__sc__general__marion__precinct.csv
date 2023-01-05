@@ -1,0 +1,1159 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Marion,BRITTON'S NECK,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,0,0,4
+Marion,FRIENDSHIP,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,2,0,0,0,2
+Marion,CENTENARY,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,1,0,4,0,0
+Marion,RAINS,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,1,0,4
+Marion,MARION NO. 1,STRAIGHT PARTY 1,,UNC,United Citizens,7,0,0,0,2,0,5
+Marion,MARION NO. 2,STRAIGHT PARTY 1,,UNC,United Citizens,6,0,1,0,0,0,5
+Marion,MARION NORTH,STRAIGHT PARTY 1,,UNC,United Citizens,8,0,0,0,2,0,6
+Marion,MARION SOUTH,STRAIGHT PARTY 1,,UNC,United Citizens,14,0,2,0,6,0,6
+Marion,MARION WEST,STRAIGHT PARTY 1,,UNC,United Citizens,7,0,1,0,2,0,4
+Marion,SELLERS,STRAIGHT PARTY 1,,UNC,United Citizens,1,0,0,0,0,0,1
+Marion,TEMPERANCE,STRAIGHT PARTY 1,,UNC,United Citizens,15,0,0,0,4,0,11
+Marion,ZION,STRAIGHT PARTY 1,,UNC,United Citizens,3,0,0,0,0,0,3
+Marion,N WEST MULLINS,STRAIGHT PARTY 1,,UNC,United Citizens,11,0,0,0,2,0,9
+Marion,S WEST MULLINS,STRAIGHT PARTY 1,,UNC,United Citizens,10,0,0,0,2,0,8
+Marion,N EAST MULLINS,STRAIGHT PARTY 1,,UNC,United Citizens,8,0,0,0,2,0,6
+Marion,S EAST MULLINS,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,1,0,3
+Marion,NICHOLS,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,0,0,5
+Marion,Failsafe,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Marion,Provisional,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marion,FRIENDSHIP,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marion,CENTENARY,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marion,RAINS,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,1,0,0
+Marion,MARION NO. 1,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marion,MARION NO. 2,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Marion,MARION NORTH,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marion,MARION SOUTH,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Marion,MARION WEST,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,1,0,0
+Marion,SELLERS,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marion,TEMPERANCE,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,1,0,0
+Marion,ZION,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marion,S WEST MULLINS,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Marion,N EAST MULLINS,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,1,0,0
+Marion,S EAST MULLINS,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Marion,NICHOLS,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Marion,Failsafe,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marion,Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,STRAIGHT PARTY 1,,REP,Republican,117,0,4,0,9,0,104
+Marion,FRIENDSHIP,STRAIGHT PARTY 1,,REP,Republican,29,0,1,0,1,0,27
+Marion,CENTENARY,STRAIGHT PARTY 1,,REP,Republican,108,0,1,0,33,0,74
+Marion,RAINS,STRAIGHT PARTY 1,,REP,Republican,49,0,0,0,16,0,33
+Marion,MARION NO. 1,STRAIGHT PARTY 1,,REP,Republican,56,0,0,0,15,0,41
+Marion,MARION NO. 2,STRAIGHT PARTY 1,,REP,Republican,156,0,1,0,37,0,118
+Marion,MARION NORTH,STRAIGHT PARTY 1,,REP,Republican,191,0,1,0,61,0,129
+Marion,MARION SOUTH,STRAIGHT PARTY 1,,REP,Republican,130,0,4,0,62,0,64
+Marion,MARION WEST,STRAIGHT PARTY 1,,REP,Republican,176,0,1,0,30,0,145
+Marion,SELLERS,STRAIGHT PARTY 1,,REP,Republican,16,0,1,0,0,0,15
+Marion,TEMPERANCE,STRAIGHT PARTY 1,,REP,Republican,82,0,0,0,13,0,69
+Marion,ZION,STRAIGHT PARTY 1,,REP,Republican,57,0,1,0,12,0,44
+Marion,N WEST MULLINS,STRAIGHT PARTY 1,,REP,Republican,100,0,2,0,23,0,75
+Marion,S WEST MULLINS,STRAIGHT PARTY 1,,REP,Republican,134,0,5,0,44,0,85
+Marion,N EAST MULLINS,STRAIGHT PARTY 1,,REP,Republican,154,0,4,0,23,0,127
+Marion,S EAST MULLINS,STRAIGHT PARTY 1,,REP,Republican,222,0,0,0,68,0,154
+Marion,NICHOLS,STRAIGHT PARTY 1,,REP,Republican,114,0,1,0,21,0,92
+Marion,Failsafe,STRAIGHT PARTY 1,,REP,Republican,3,3,0,0,0,0,0
+Marion,Provisional,STRAIGHT PARTY 1,,REP,Republican,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,STRAIGHT PARTY 1,,REP,Republican,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,STRAIGHT PARTY 1,,ALN,Alliance,1,0,0,0,0,0,1
+Marion,FRIENDSHIP,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,CENTENARY,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,RAINS,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,MARION NO. 1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,MARION NO. 2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,MARION NORTH,STRAIGHT PARTY 1,,ALN,Alliance,1,0,0,0,0,0,1
+Marion,MARION SOUTH,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,MARION WEST,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,SELLERS,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,TEMPERANCE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,ZION,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,S WEST MULLINS,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,N EAST MULLINS,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,S EAST MULLINS,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,NICHOLS,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,Failsafe,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Marion,FRIENDSHIP,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,0,0,2
+Marion,CENTENARY,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,0,0,2
+Marion,RAINS,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marion,MARION NO. 1,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marion,MARION NO. 2,STRAIGHT PARTY 1,,LIB,Libertarian,3,0,0,0,0,0,3
+Marion,MARION NORTH,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marion,MARION SOUTH,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marion,MARION WEST,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Marion,SELLERS,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marion,TEMPERANCE,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marion,ZION,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,1,0,0
+Marion,S WEST MULLINS,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Marion,N EAST MULLINS,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,0,0,2
+Marion,S EAST MULLINS,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marion,NICHOLS,STRAIGHT PARTY 1,,LIB,Libertarian,3,0,0,0,0,0,3
+Marion,Failsafe,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marion,Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,STRAIGHT PARTY 1,,DEM,Democratic,329,0,57,0,56,0,216
+Marion,FRIENDSHIP,STRAIGHT PARTY 1,,DEM,Democratic,55,0,0,0,11,0,44
+Marion,CENTENARY,STRAIGHT PARTY 1,,DEM,Democratic,238,0,21,0,63,0,154
+Marion,RAINS,STRAIGHT PARTY 1,,DEM,Democratic,119,0,7,0,36,0,76
+Marion,MARION NO. 1,STRAIGHT PARTY 1,,DEM,Democratic,160,0,20,0,49,0,91
+Marion,MARION NO. 2,STRAIGHT PARTY 1,,DEM,Democratic,138,0,13,0,40,0,85
+Marion,MARION NORTH,STRAIGHT PARTY 1,,DEM,Democratic,174,0,9,0,78,0,87
+Marion,MARION SOUTH,STRAIGHT PARTY 1,,DEM,Democratic,449,0,51,0,155,0,243
+Marion,MARION WEST,STRAIGHT PARTY 1,,DEM,Democratic,148,0,9,0,58,0,81
+Marion,SELLERS,STRAIGHT PARTY 1,,DEM,Democratic,47,0,5,0,4,0,38
+Marion,TEMPERANCE,STRAIGHT PARTY 1,,DEM,Democratic,145,0,10,0,49,0,86
+Marion,ZION,STRAIGHT PARTY 1,,DEM,Democratic,85,0,3,0,23,0,59
+Marion,N WEST MULLINS,STRAIGHT PARTY 1,,DEM,Democratic,229,0,18,0,70,0,141
+Marion,S WEST MULLINS,STRAIGHT PARTY 1,,DEM,Democratic,258,0,26,0,84,0,148
+Marion,N EAST MULLINS,STRAIGHT PARTY 1,,DEM,Democratic,297,0,43,0,93,0,161
+Marion,S EAST MULLINS,STRAIGHT PARTY 1,,DEM,Democratic,93,0,3,0,39,0,51
+Marion,NICHOLS,STRAIGHT PARTY 1,,DEM,Democratic,66,0,2,0,13,0,51
+Marion,Failsafe,STRAIGHT PARTY 1,,DEM,Democratic,2,2,0,0,0,0,0
+Marion,Provisional,STRAIGHT PARTY 1,,DEM,Democratic,12,0,0,0,0,12,0
+Marion,Failsafe Provisional,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,227,0,10,0,21,0,196
+Marion,FRIENDSHIP,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,52,0,1,0,3,0,48
+Marion,CENTENARY,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,187,0,5,0,55,0,127
+Marion,RAINS,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,123,0,0,0,43,0,80
+Marion,MARION NO. 1,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,158,0,8,0,50,0,100
+Marion,MARION NO. 2,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,365,0,7,0,96,0,262
+Marion,MARION NORTH,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,330,0,8,0,91,0,231
+Marion,MARION SOUTH,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,291,0,13,0,120,0,158
+Marion,MARION WEST,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,325,0,4,0,53,0,268
+Marion,SELLERS,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,26,0,0,0,0,0,26
+Marion,TEMPERANCE,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,160,0,3,0,23,0,134
+Marion,ZION,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,105,0,1,0,22,0,82
+Marion,N WEST MULLINS,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,201,0,5,0,51,0,145
+Marion,S WEST MULLINS,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,314,0,11,0,98,0,205
+Marion,N EAST MULLINS,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,286,0,9,0,65,0,212
+Marion,S EAST MULLINS,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,484,0,9,0,126,0,349
+Marion,NICHOLS,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,207,0,3,0,30,0,174
+Marion,Failsafe,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,5,5,0,0,0,0,0
+Marion,Provisional,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,4,0,0,0,1,0,3
+Marion,FRIENDSHIP,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,2,0,0,0,0,0,2
+Marion,CENTENARY,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,4,0,0,0,0,0,4
+Marion,RAINS,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,2,0,0,0,0,0,2
+Marion,MARION NO. 1,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,7,0,0,0,1,0,6
+Marion,MARION NO. 2,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,8,0,0,0,0,0,8
+Marion,MARION NORTH,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,5,0,0,0,1,0,4
+Marion,MARION SOUTH,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,7,0,1,0,1,0,5
+Marion,MARION WEST,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,3,0,0,0,0,0,3
+Marion,SELLERS,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,1,0,0,0,0,0,1
+Marion,TEMPERANCE,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,5,0,0,0,1,0,4
+Marion,ZION,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,1,0,0,0,0,0,1
+Marion,N WEST MULLINS,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,5,0,0,0,1,0,4
+Marion,S WEST MULLINS,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,5,0,1,0,2,0,2
+Marion,N EAST MULLINS,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,9,0,1,0,3,0,5
+Marion,S EAST MULLINS,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,7,0,0,0,4,0,3
+Marion,NICHOLS,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,4,0,0,0,0,0,4
+Marion,Failsafe,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,1,1,0,0,0,0,0
+Marion,Provisional,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,428,0,79,0,81,0,268
+Marion,FRIENDSHIP,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,85,0,4,0,18,0,63
+Marion,CENTENARY,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,314,0,33,0,92,0,189
+Marion,RAINS,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,159,0,14,0,48,0,97
+Marion,MARION NO. 1,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,247,0,26,0,86,0,135
+Marion,MARION NO. 2,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,268,0,20,0,88,0,160
+Marion,MARION NORTH,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,283,0,14,0,122,0,147
+Marion,MARION SOUTH,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,639,0,75,0,228,0,336
+Marion,MARION WEST,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,204,0,15,0,68,0,121
+Marion,SELLERS,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,62,0,8,0,8,0,46
+Marion,TEMPERANCE,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,231,0,11,0,77,0,143
+Marion,ZION,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,121,0,6,0,28,0,87
+Marion,N WEST MULLINS,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,349,0,30,0,109,0,210
+Marion,S WEST MULLINS,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,368,0,38,0,119,0,211
+Marion,N EAST MULLINS,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,428,0,62,0,143,0,223
+Marion,S EAST MULLINS,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,169,0,7,0,64,0,98
+Marion,NICHOLS,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,105,0,3,0,25,0,77
+Marion,Failsafe,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,6,6,0,0,0,0,0
+Marion,Provisional,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,18,0,0,0,0,18,0
+Marion,Failsafe Provisional,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,FRIENDSHIP,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,CENTENARY,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,RAINS,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NO. 1,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NO. 2,Governor and Lieutenant Governor,,NON,Write-In,1,0,0,0,0,0,1
+Marion,MARION NORTH,Governor and Lieutenant Governor,,NON,Write-In,2,0,0,0,0,0,2
+Marion,MARION SOUTH,Governor and Lieutenant Governor,,NON,Write-In,2,0,0,0,1,0,1
+Marion,MARION WEST,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,SELLERS,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,TEMPERANCE,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,ZION,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,S WEST MULLINS,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,N EAST MULLINS,Governor and Lieutenant Governor,,NON,Write-In,1,0,0,0,1,0,0
+Marion,S EAST MULLINS,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,NICHOLS,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Secretary of State,,REP,REP Mark Hammond,232,0,11,0,21,0,200
+Marion,FRIENDSHIP,Secretary of State,,REP,REP Mark Hammond,52,0,1,0,3,0,48
+Marion,CENTENARY,Secretary of State,,REP,REP Mark Hammond,194,0,5,0,58,0,131
+Marion,RAINS,Secretary of State,,REP,REP Mark Hammond,124,0,0,0,42,0,82
+Marion,MARION NO. 1,Secretary of State,,REP,REP Mark Hammond,177,0,9,0,56,0,112
+Marion,MARION NO. 2,Secretary of State,,REP,REP Mark Hammond,393,0,6,0,110,0,277
+Marion,MARION NORTH,Secretary of State,,REP,REP Mark Hammond,345,0,8,0,98,0,239
+Marion,MARION SOUTH,Secretary of State,,REP,REP Mark Hammond,315,0,14,0,128,0,173
+Marion,MARION WEST,Secretary of State,,REP,REP Mark Hammond,335,0,4,0,54,0,277
+Marion,SELLERS,Secretary of State,,REP,REP Mark Hammond,27,0,1,0,2,0,24
+Marion,TEMPERANCE,Secretary of State,,REP,REP Mark Hammond,166,0,3,0,23,0,140
+Marion,ZION,Secretary of State,,REP,REP Mark Hammond,106,0,1,0,22,0,83
+Marion,N WEST MULLINS,Secretary of State,,REP,REP Mark Hammond,212,0,5,0,59,0,148
+Marion,S WEST MULLINS,Secretary of State,,REP,REP Mark Hammond,325,0,10,0,100,0,215
+Marion,N EAST MULLINS,Secretary of State,,REP,REP Mark Hammond,304,0,9,0,73,0,222
+Marion,S EAST MULLINS,Secretary of State,,REP,REP Mark Hammond,504,0,10,0,134,0,360
+Marion,NICHOLS,Secretary of State,,REP,REP Mark Hammond,208,0,3,0,28,0,177
+Marion,Failsafe,Secretary of State,,REP,REP Mark Hammond,6,6,0,0,0,0,0
+Marion,Provisional,Secretary of State,,REP,REP Mark Hammond,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Secretary of State,,REP,REP Mark Hammond,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,421,0,79,0,80,0,262
+Marion,FRIENDSHIP,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,84,0,3,0,19,0,62
+Marion,CENTENARY,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,307,0,33,0,89,0,185
+Marion,RAINS,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,158,0,14,0,49,0,95
+Marion,MARION NO. 1,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,232,0,25,0,80,0,127
+Marion,MARION NO. 2,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,247,0,21,0,72,0,154
+Marion,MARION NORTH,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,268,0,13,0,117,0,138
+Marion,MARION SOUTH,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,622,0,75,0,220,0,327
+Marion,MARION WEST,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,199,0,15,0,68,0,116
+Marion,SELLERS,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,58,0,7,0,5,0,46
+Marion,TEMPERANCE,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,227,0,11,0,76,0,140
+Marion,ZION,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,119,0,6,0,28,0,85
+Marion,N WEST MULLINS,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,338,0,29,0,99,0,210
+Marion,S WEST MULLINS,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,358,0,40,0,117,0,201
+Marion,N EAST MULLINS,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,419,0,62,0,137,0,220
+Marion,S EAST MULLINS,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,155,0,6,0,59,0,90
+Marion,NICHOLS,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,101,0,3,0,25,0,73
+Marion,Failsafe,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,6,6,0,0,0,0,0
+Marion,Provisional,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,17,0,0,0,0,17,0
+Marion,Failsafe Provisional,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,FRIENDSHIP,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,CENTENARY,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,RAINS,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NO. 1,Secretary of State,,NON,Write-In,1,0,0,0,1,0,0
+Marion,MARION NO. 2,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NORTH,Secretary of State,,NON,Write-In,2,0,0,0,0,0,2
+Marion,MARION SOUTH,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION WEST,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,SELLERS,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,TEMPERANCE,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,ZION,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,S WEST MULLINS,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,N EAST MULLINS,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,S EAST MULLINS,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,NICHOLS,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,State Treasurer,,REP,REP Curtis Loftis,251,0,16,0,27,0,208
+Marion,FRIENDSHIP,State Treasurer,,REP,REP Curtis Loftis,65,0,3,0,6,0,56
+Marion,CENTENARY,State Treasurer,,REP,REP Curtis Loftis,205,0,5,0,63,0,137
+Marion,RAINS,State Treasurer,,REP,REP Curtis Loftis,136,0,2,0,47,0,87
+Marion,MARION NO. 1,State Treasurer,,REP,REP Curtis Loftis,192,0,10,0,61,0,121
+Marion,MARION NO. 2,State Treasurer,,REP,REP Curtis Loftis,418,0,7,0,115,0,296
+Marion,MARION NORTH,State Treasurer,,REP,REP Curtis Loftis,369,0,13,0,109,0,247
+Marion,MARION SOUTH,State Treasurer,,REP,REP Curtis Loftis,347,0,13,0,141,0,193
+Marion,MARION WEST,State Treasurer,,REP,REP Curtis Loftis,346,0,6,0,57,0,283
+Marion,SELLERS,State Treasurer,,REP,REP Curtis Loftis,29,0,1,0,2,0,26
+Marion,TEMPERANCE,State Treasurer,,REP,REP Curtis Loftis,190,0,4,0,36,0,150
+Marion,ZION,State Treasurer,,REP,REP Curtis Loftis,110,0,1,0,22,0,87
+Marion,N WEST MULLINS,State Treasurer,,REP,REP Curtis Loftis,228,0,7,0,60,0,161
+Marion,S WEST MULLINS,State Treasurer,,REP,REP Curtis Loftis,346,0,11,0,107,0,228
+Marion,N EAST MULLINS,State Treasurer,,REP,REP Curtis Loftis,322,0,10,0,77,0,235
+Marion,S EAST MULLINS,State Treasurer,,REP,REP Curtis Loftis,511,0,10,0,137,0,364
+Marion,NICHOLS,State Treasurer,,REP,REP Curtis Loftis,219,0,3,0,33,0,183
+Marion,Failsafe,State Treasurer,,REP,REP Curtis Loftis,7,7,0,0,0,0,0
+Marion,Provisional,State Treasurer,,REP,REP Curtis Loftis,2,0,0,0,0,2,0
+Marion,Failsafe Provisional,State Treasurer,,REP,REP Curtis Loftis,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,State Treasurer,,ALN,ALN Sarah E Work,95,0,18,0,19,0,58
+Marion,FRIENDSHIP,State Treasurer,,ALN,ALN Sarah E Work,19,0,1,0,3,0,15
+Marion,CENTENARY,State Treasurer,,ALN,ALN Sarah E Work,72,0,15,0,24,0,33
+Marion,RAINS,State Treasurer,,ALN,ALN Sarah E Work,44,0,2,0,14,0,28
+Marion,MARION NO. 1,State Treasurer,,ALN,ALN Sarah E Work,65,0,3,0,23,0,39
+Marion,MARION NO. 2,State Treasurer,,ALN,ALN Sarah E Work,115,0,9,0,34,0,72
+Marion,MARION NORTH,State Treasurer,,ALN,ALN Sarah E Work,93,0,2,0,39,0,52
+Marion,MARION SOUTH,State Treasurer,,ALN,ALN Sarah E Work,210,0,23,0,68,0,119
+Marion,MARION WEST,State Treasurer,,ALN,ALN Sarah E Work,62,0,3,0,20,0,39
+Marion,SELLERS,State Treasurer,,ALN,ALN Sarah E Work,18,0,2,0,1,0,15
+Marion,TEMPERANCE,State Treasurer,,ALN,ALN Sarah E Work,87,0,5,0,27,0,55
+Marion,ZION,State Treasurer,,ALN,ALN Sarah E Work,43,0,3,0,6,0,34
+Marion,N WEST MULLINS,State Treasurer,,ALN,ALN Sarah E Work,131,0,8,0,34,0,89
+Marion,S WEST MULLINS,State Treasurer,,ALN,ALN Sarah E Work,119,0,6,0,39,0,74
+Marion,N EAST MULLINS,State Treasurer,,ALN,ALN Sarah E Work,137,0,20,0,47,0,70
+Marion,S EAST MULLINS,State Treasurer,,ALN,ALN Sarah E Work,63,0,2,0,21,0,40
+Marion,NICHOLS,State Treasurer,,ALN,ALN Sarah E Work,36,0,1,0,5,0,30
+Marion,Failsafe,State Treasurer,,ALN,ALN Sarah E Work,4,4,0,0,0,0,0
+Marion,Provisional,State Treasurer,,ALN,ALN Sarah E Work,1,0,0,0,0,1,0
+Marion,Failsafe Provisional,State Treasurer,,ALN,ALN Sarah E Work,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,State Treasurer,,NON,Write-In,1,0,0,0,1,0,0
+Marion,FRIENDSHIP,State Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Marion,CENTENARY,State Treasurer,,NON,Write-In,2,0,0,0,2,0,0
+Marion,RAINS,State Treasurer,,NON,Write-In,4,0,4,0,0,0,0
+Marion,MARION NO. 1,State Treasurer,,NON,Write-In,4,0,0,0,3,0,1
+Marion,MARION NO. 2,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NORTH,State Treasurer,,NON,Write-In,3,0,0,0,1,0,2
+Marion,MARION SOUTH,State Treasurer,,NON,Write-In,5,0,0,0,2,0,3
+Marion,MARION WEST,State Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Marion,SELLERS,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Marion,TEMPERANCE,State Treasurer,,NON,Write-In,1,0,0,0,1,0,0
+Marion,ZION,State Treasurer,,NON,Write-In,1,0,0,0,1,0,0
+Marion,N WEST MULLINS,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Marion,S WEST MULLINS,State Treasurer,,NON,Write-In,2,0,0,0,1,0,1
+Marion,N EAST MULLINS,State Treasurer,,NON,Write-In,2,0,0,0,1,0,1
+Marion,S EAST MULLINS,State Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Marion,NICHOLS,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Attorney General,,REP,REP Alan Wilson,299,0,24,0,36,0,239
+Marion,FRIENDSHIP,Attorney General,,REP,REP Alan Wilson,75,0,4,0,7,0,64
+Marion,CENTENARY,Attorney General,,REP,REP Alan Wilson,237,0,10,0,76,0,151
+Marion,RAINS,Attorney General,,REP,REP Alan Wilson,153,0,2,0,53,0,98
+Marion,MARION NO. 1,Attorney General,,REP,REP Alan Wilson,214,0,11,0,65,0,138
+Marion,MARION NO. 2,Attorney General,,REP,REP Alan Wilson,471,0,8,0,129,0,334
+Marion,MARION NORTH,Attorney General,,REP,REP Alan Wilson,405,0,11,0,121,0,273
+Marion,MARION SOUTH,Attorney General,,REP,REP Alan Wilson,438,0,21,0,164,0,253
+Marion,MARION WEST,Attorney General,,REP,REP Alan Wilson,377,0,4,0,64,0,309
+Marion,SELLERS,Attorney General,,REP,REP Alan Wilson,38,0,3,0,1,0,34
+Marion,TEMPERANCE,Attorney General,,REP,REP Alan Wilson,221,0,4,0,46,0,171
+Marion,ZION,Attorney General,,REP,REP Alan Wilson,126,0,2,0,23,0,101
+Marion,N WEST MULLINS,Attorney General,,REP,REP Alan Wilson,292,0,12,0,71,0,209
+Marion,S WEST MULLINS,Attorney General,,REP,REP Alan Wilson,397,0,13,0,121,0,263
+Marion,N EAST MULLINS,Attorney General,,REP,REP Alan Wilson,384,0,16,0,99,0,269
+Marion,S EAST MULLINS,Attorney General,,REP,REP Alan Wilson,545,0,10,0,146,0,389
+Marion,NICHOLS,Attorney General,,REP,REP Alan Wilson,230,0,3,0,34,0,193
+Marion,Failsafe,Attorney General,,REP,REP Alan Wilson,9,9,0,0,0,0,0
+Marion,Provisional,Attorney General,,REP,REP Alan Wilson,2,0,0,0,0,2,0
+Marion,Failsafe Provisional,Attorney General,,REP,REP Alan Wilson,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Attorney General,,NON,Write-In,4,0,1,0,1,0,2
+Marion,FRIENDSHIP,Attorney General,,NON,Write-In,1,0,0,0,0,0,1
+Marion,CENTENARY,Attorney General,,NON,Write-In,6,0,0,0,2,0,4
+Marion,RAINS,Attorney General,,NON,Write-In,5,0,4,0,0,0,1
+Marion,MARION NO. 1,Attorney General,,NON,Write-In,11,0,0,0,8,0,3
+Marion,MARION NO. 2,Attorney General,,NON,Write-In,5,0,0,0,0,0,5
+Marion,MARION NORTH,Attorney General,,NON,Write-In,11,0,0,0,4,0,7
+Marion,MARION SOUTH,Attorney General,,NON,Write-In,17,0,1,0,7,0,9
+Marion,MARION WEST,Attorney General,,NON,Write-In,2,0,0,0,0,0,2
+Marion,SELLERS,Attorney General,,NON,Write-In,0,0,0,0,0,0,0
+Marion,TEMPERANCE,Attorney General,,NON,Write-In,5,0,0,0,3,0,2
+Marion,ZION,Attorney General,,NON,Write-In,2,0,0,0,1,0,1
+Marion,N WEST MULLINS,Attorney General,,NON,Write-In,3,0,0,0,1,0,2
+Marion,S WEST MULLINS,Attorney General,,NON,Write-In,9,0,0,0,2,0,7
+Marion,N EAST MULLINS,Attorney General,,NON,Write-In,12,0,3,0,5,0,4
+Marion,S EAST MULLINS,Attorney General,,NON,Write-In,6,0,0,0,1,0,5
+Marion,NICHOLS,Attorney General,,NON,Write-In,2,0,0,0,1,0,1
+Marion,Failsafe,Attorney General,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,Attorney General,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Attorney General,,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Comptroller General,,REP,REP Richard Eckstrom,294,0,22,0,35,0,237
+Marion,FRIENDSHIP,Comptroller General,,REP,REP Richard Eckstrom,76,0,4,0,7,0,65
+Marion,CENTENARY,Comptroller General,,REP,REP Richard Eckstrom,232,0,10,0,75,0,147
+Marion,RAINS,Comptroller General,,REP,REP Richard Eckstrom,154,0,3,0,53,0,98
+Marion,MARION NO. 1,Comptroller General,,REP,REP Richard Eckstrom,212,0,9,0,67,0,136
+Marion,MARION NO. 2,Comptroller General,,REP,REP Richard Eckstrom,476,0,8,0,133,0,335
+Marion,MARION NORTH,Comptroller General,,REP,REP Richard Eckstrom,410,0,12,0,124,0,274
+Marion,MARION SOUTH,Comptroller General,,REP,REP Richard Eckstrom,432,0,20,0,161,0,251
+Marion,MARION WEST,Comptroller General,,REP,REP Richard Eckstrom,375,0,5,0,65,0,305
+Marion,SELLERS,Comptroller General,,REP,REP Richard Eckstrom,39,0,3,0,2,0,34
+Marion,TEMPERANCE,Comptroller General,,REP,REP Richard Eckstrom,221,0,4,0,45,0,172
+Marion,ZION,Comptroller General,,REP,REP Richard Eckstrom,126,0,2,0,24,0,100
+Marion,N WEST MULLINS,Comptroller General,,REP,REP Richard Eckstrom,290,0,12,0,71,0,207
+Marion,S WEST MULLINS,Comptroller General,,REP,REP Richard Eckstrom,397,0,13,0,120,0,264
+Marion,N EAST MULLINS,Comptroller General,,REP,REP Richard Eckstrom,385,0,17,0,100,0,268
+Marion,S EAST MULLINS,Comptroller General,,REP,REP Richard Eckstrom,537,0,9,0,148,0,380
+Marion,NICHOLS,Comptroller General,,REP,REP Richard Eckstrom,229,0,3,0,34,0,192
+Marion,Failsafe,Comptroller General,,REP,REP Richard Eckstrom,9,9,0,0,0,0,0
+Marion,Provisional,Comptroller General,,REP,REP Richard Eckstrom,1,0,0,0,0,1,0
+Marion,Failsafe Provisional,Comptroller General,,REP,REP Richard Eckstrom,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Comptroller General,,NON,Write-In,4,0,1,0,1,0,2
+Marion,FRIENDSHIP,Comptroller General,,NON,Write-In,1,0,0,0,0,0,1
+Marion,CENTENARY,Comptroller General,,NON,Write-In,6,0,0,0,2,0,4
+Marion,RAINS,Comptroller General,,NON,Write-In,5,0,4,0,0,0,1
+Marion,MARION NO. 1,Comptroller General,,NON,Write-In,11,0,0,0,8,0,3
+Marion,MARION NO. 2,Comptroller General,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NORTH,Comptroller General,,NON,Write-In,9,0,0,0,3,0,6
+Marion,MARION SOUTH,Comptroller General,,NON,Write-In,12,0,1,0,5,0,6
+Marion,MARION WEST,Comptroller General,,NON,Write-In,2,0,0,0,0,0,2
+Marion,SELLERS,Comptroller General,,NON,Write-In,0,0,0,0,0,0,0
+Marion,TEMPERANCE,Comptroller General,,NON,Write-In,4,0,0,0,3,0,1
+Marion,ZION,Comptroller General,,NON,Write-In,1,0,0,0,0,0,1
+Marion,N WEST MULLINS,Comptroller General,,NON,Write-In,2,0,0,0,1,0,1
+Marion,S WEST MULLINS,Comptroller General,,NON,Write-In,7,0,0,0,2,0,5
+Marion,N EAST MULLINS,Comptroller General,,NON,Write-In,6,0,1,0,3,0,2
+Marion,S EAST MULLINS,Comptroller General,,NON,Write-In,4,0,0,0,0,0,4
+Marion,NICHOLS,Comptroller General,,NON,Write-In,1,0,0,0,0,0,1
+Marion,Failsafe,Comptroller General,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,Comptroller General,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Comptroller General,,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,State Superintendent of Education,,GRN,GRN Patricia M Mickel,10,0,0,0,1,0,9
+Marion,FRIENDSHIP,State Superintendent of Education,,GRN,GRN Patricia M Mickel,4,0,1,0,0,0,3
+Marion,CENTENARY,State Superintendent of Education,,GRN,GRN Patricia M Mickel,7,0,0,0,3,0,4
+Marion,RAINS,State Superintendent of Education,,GRN,GRN Patricia M Mickel,9,0,0,0,4,0,5
+Marion,MARION NO. 1,State Superintendent of Education,,GRN,GRN Patricia M Mickel,12,0,0,0,3,0,9
+Marion,MARION NO. 2,State Superintendent of Education,,GRN,GRN Patricia M Mickel,8,0,0,0,1,0,7
+Marion,MARION NORTH,State Superintendent of Education,,GRN,GRN Patricia M Mickel,9,0,0,0,3,0,6
+Marion,MARION SOUTH,State Superintendent of Education,,GRN,GRN Patricia M Mickel,10,0,0,0,3,0,7
+Marion,MARION WEST,State Superintendent of Education,,GRN,GRN Patricia M Mickel,8,0,0,0,2,0,6
+Marion,SELLERS,State Superintendent of Education,,GRN,GRN Patricia M Mickel,1,0,0,0,0,0,1
+Marion,TEMPERANCE,State Superintendent of Education,,GRN,GRN Patricia M Mickel,9,0,0,0,2,0,7
+Marion,ZION,State Superintendent of Education,,GRN,GRN Patricia M Mickel,6,0,0,0,2,0,4
+Marion,N WEST MULLINS,State Superintendent of Education,,GRN,GRN Patricia M Mickel,11,0,1,0,4,0,6
+Marion,S WEST MULLINS,State Superintendent of Education,,GRN,GRN Patricia M Mickel,10,0,0,0,5,0,5
+Marion,N EAST MULLINS,State Superintendent of Education,,GRN,GRN Patricia M Mickel,7,0,0,0,2,0,5
+Marion,S EAST MULLINS,State Superintendent of Education,,GRN,GRN Patricia M Mickel,9,0,0,0,3,0,6
+Marion,NICHOLS,State Superintendent of Education,,GRN,GRN Patricia M Mickel,7,0,0,0,0,0,7
+Marion,Failsafe,State Superintendent of Education,,GRN,GRN Patricia M Mickel,0,0,0,0,0,0,0
+Marion,Provisional,State Superintendent of Education,,GRN,GRN Patricia M Mickel,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,State Superintendent of Education,,GRN,GRN Patricia M Mickel,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,State Superintendent of Education,,REP,REP Ellen Weaver,211,0,11,0,20,0,180
+Marion,FRIENDSHIP,State Superintendent of Education,,REP,REP Ellen Weaver,42,0,0,0,1,0,41
+Marion,CENTENARY,State Superintendent of Education,,REP,REP Ellen Weaver,187,0,5,0,53,0,129
+Marion,RAINS,State Superintendent of Education,,REP,REP Ellen Weaver,108,0,0,0,38,0,70
+Marion,MARION NO. 1,State Superintendent of Education,,REP,REP Ellen Weaver,148,0,10,0,44,0,94
+Marion,MARION NO. 2,State Superintendent of Education,,REP,REP Ellen Weaver,330,0,6,0,89,0,235
+Marion,MARION NORTH,State Superintendent of Education,,REP,REP Ellen Weaver,313,0,8,0,89,0,216
+Marion,MARION SOUTH,State Superintendent of Education,,REP,REP Ellen Weaver,298,0,34,0,116,0,148
+Marion,MARION WEST,State Superintendent of Education,,REP,REP Ellen Weaver,296,0,4,0,51,0,241
+Marion,SELLERS,State Superintendent of Education,,REP,REP Ellen Weaver,25,0,1,0,0,0,24
+Marion,TEMPERANCE,State Superintendent of Education,,REP,REP Ellen Weaver,152,0,3,0,23,0,126
+Marion,ZION,State Superintendent of Education,,REP,REP Ellen Weaver,90,0,1,0,20,0,69
+Marion,N WEST MULLINS,State Superintendent of Education,,REP,REP Ellen Weaver,188,0,4,0,47,0,137
+Marion,S WEST MULLINS,State Superintendent of Education,,REP,REP Ellen Weaver,287,0,12,0,89,0,186
+Marion,N EAST MULLINS,State Superintendent of Education,,REP,REP Ellen Weaver,277,0,9,0,62,0,206
+Marion,S EAST MULLINS,State Superintendent of Education,,REP,REP Ellen Weaver,445,0,8,0,123,0,314
+Marion,NICHOLS,State Superintendent of Education,,REP,REP Ellen Weaver,189,0,3,0,29,0,157
+Marion,Failsafe,State Superintendent of Education,,REP,REP Ellen Weaver,6,6,0,0,0,0,0
+Marion,Provisional,State Superintendent of Education,,REP,REP Ellen Weaver,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,State Superintendent of Education,,REP,REP Ellen Weaver,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,State Superintendent of Education,,ALN,ALN Lisa Ellis,7,0,1,0,1,0,5
+Marion,FRIENDSHIP,State Superintendent of Education,,ALN,ALN Lisa Ellis,5,0,0,0,1,0,4
+Marion,CENTENARY,State Superintendent of Education,,ALN,ALN Lisa Ellis,9,0,1,0,4,0,4
+Marion,RAINS,State Superintendent of Education,,ALN,ALN Lisa Ellis,6,0,0,0,3,0,3
+Marion,MARION NO. 1,State Superintendent of Education,,ALN,ALN Lisa Ellis,8,0,0,0,3,0,5
+Marion,MARION NO. 2,State Superintendent of Education,,ALN,ALN Lisa Ellis,15,0,1,0,5,0,9
+Marion,MARION NORTH,State Superintendent of Education,,ALN,ALN Lisa Ellis,17,0,0,0,6,0,11
+Marion,MARION SOUTH,State Superintendent of Education,,ALN,ALN Lisa Ellis,11,0,0,0,5,0,6
+Marion,MARION WEST,State Superintendent of Education,,ALN,ALN Lisa Ellis,11,0,0,0,1,0,10
+Marion,SELLERS,State Superintendent of Education,,ALN,ALN Lisa Ellis,2,0,0,0,1,0,1
+Marion,TEMPERANCE,State Superintendent of Education,,ALN,ALN Lisa Ellis,7,0,0,0,0,0,7
+Marion,ZION,State Superintendent of Education,,ALN,ALN Lisa Ellis,8,0,0,0,0,0,8
+Marion,N WEST MULLINS,State Superintendent of Education,,ALN,ALN Lisa Ellis,11,0,0,0,1,0,10
+Marion,S WEST MULLINS,State Superintendent of Education,,ALN,ALN Lisa Ellis,10,0,0,0,5,0,5
+Marion,N EAST MULLINS,State Superintendent of Education,,ALN,ALN Lisa Ellis,19,0,1,0,8,0,10
+Marion,S EAST MULLINS,State Superintendent of Education,,ALN,ALN Lisa Ellis,13,0,0,0,2,0,11
+Marion,NICHOLS,State Superintendent of Education,,ALN,ALN Lisa Ellis,8,0,0,0,3,0,5
+Marion,Failsafe,State Superintendent of Education,,ALN,ALN Lisa Ellis,0,0,0,0,0,0,0
+Marion,Provisional,State Superintendent of Education,,ALN,ALN Lisa Ellis,1,0,0,0,0,1,0
+Marion,Failsafe Provisional,State Superintendent of Education,,ALN,ALN Lisa Ellis,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,State Superintendent of Education,,DEM,DEM Lisa Ellis,425,0,78,0,79,0,268
+Marion,FRIENDSHIP,State Superintendent of Education,,DEM,DEM Lisa Ellis,90,0,4,0,20,0,66
+Marion,CENTENARY,State Superintendent of Education,,DEM,DEM Lisa Ellis,292,0,31,0,84,0,177
+Marion,RAINS,State Superintendent of Education,,DEM,DEM Lisa Ellis,159,0,14,0,45,0,100
+Marion,MARION NO. 1,State Superintendent of Education,,DEM,DEM Lisa Ellis,234,0,22,0,84,0,128
+Marion,MARION NO. 2,State Superintendent of Education,,DEM,DEM Lisa Ellis,282,0,20,0,89,0,173
+Marion,MARION NORTH,State Superintendent of Education,,DEM,DEM Lisa Ellis,270,0,14,0,114,0,142
+Marion,MARION SOUTH,State Superintendent of Education,,DEM,DEM Lisa Ellis,625,0,64,0,223,0,338
+Marion,MARION WEST,State Superintendent of Education,,DEM,DEM Lisa Ellis,217,0,15,0,69,0,133
+Marion,SELLERS,State Superintendent of Education,,DEM,DEM Lisa Ellis,59,0,7,0,8,0,44
+Marion,TEMPERANCE,State Superintendent of Education,,DEM,DEM Lisa Ellis,219,0,11,0,72,0,136
+Marion,ZION,State Superintendent of Education,,DEM,DEM Lisa Ellis,119,0,6,0,29,0,84
+Marion,N WEST MULLINS,State Superintendent of Education,,DEM,DEM Lisa Ellis,340,0,29,0,103,0,208
+Marion,S WEST MULLINS,State Superintendent of Education,,DEM,DEM Lisa Ellis,378,0,40,0,120,0,218
+Marion,N EAST MULLINS,State Superintendent of Education,,DEM,DEM Lisa Ellis,420,0,62,0,136,0,222
+Marion,S EAST MULLINS,State Superintendent of Education,,DEM,DEM Lisa Ellis,183,0,6,0,66,0,111
+Marion,NICHOLS,State Superintendent of Education,,DEM,DEM Lisa Ellis,100,0,3,0,20,0,77
+Marion,Failsafe,State Superintendent of Education,,DEM,DEM Lisa Ellis,6,6,0,0,0,0,0
+Marion,Provisional,State Superintendent of Education,,DEM,DEM Lisa Ellis,16,0,0,0,0,16,0
+Marion,Failsafe Provisional,State Superintendent of Education,,DEM,DEM Lisa Ellis,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Marion,FRIENDSHIP,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Marion,CENTENARY,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Marion,RAINS,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NO. 1,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NO. 2,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NORTH,State Superintendent of Education,,NON,Write-In,2,0,0,0,0,0,2
+Marion,MARION SOUTH,State Superintendent of Education,,NON,Write-In,1,0,1,0,0,0,0
+Marion,MARION WEST,State Superintendent of Education,,NON,Write-In,1,0,0,0,0,0,1
+Marion,SELLERS,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Marion,TEMPERANCE,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Marion,ZION,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Marion,S WEST MULLINS,State Superintendent of Education,,NON,Write-In,2,0,0,0,0,0,2
+Marion,N EAST MULLINS,State Superintendent of Education,,NON,Write-In,1,0,0,0,1,0,0
+Marion,S EAST MULLINS,State Superintendent of Education,,NON,Write-In,2,0,0,0,1,0,1
+Marion,NICHOLS,State Superintendent of Education,,NON,Write-In,1,0,0,0,0,0,1
+Marion,Failsafe,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Commissioner of Agriculture,,UNC,UNC Chris Nelums,40,0,9,0,6,0,25
+Marion,FRIENDSHIP,Commissioner of Agriculture,,UNC,UNC Chris Nelums,7,0,0,0,1,0,6
+Marion,CENTENARY,Commissioner of Agriculture,,UNC,UNC Chris Nelums,36,0,15,0,11,0,10
+Marion,RAINS,Commissioner of Agriculture,,UNC,UNC Chris Nelums,23,0,1,0,6,0,16
+Marion,MARION NO. 1,Commissioner of Agriculture,,UNC,UNC Chris Nelums,25,0,0,0,8,0,17
+Marion,MARION NO. 2,Commissioner of Agriculture,,UNC,UNC Chris Nelums,43,0,5,0,7,0,31
+Marion,MARION NORTH,Commissioner of Agriculture,,UNC,UNC Chris Nelums,36,0,2,0,15,0,19
+Marion,MARION SOUTH,Commissioner of Agriculture,,UNC,UNC Chris Nelums,91,0,9,0,26,0,56
+Marion,MARION WEST,Commissioner of Agriculture,,UNC,UNC Chris Nelums,25,0,3,0,5,0,17
+Marion,SELLERS,Commissioner of Agriculture,,UNC,UNC Chris Nelums,9,0,1,0,0,0,8
+Marion,TEMPERANCE,Commissioner of Agriculture,,UNC,UNC Chris Nelums,48,0,1,0,14,0,33
+Marion,ZION,Commissioner of Agriculture,,UNC,UNC Chris Nelums,15,0,1,0,2,0,12
+Marion,N WEST MULLINS,Commissioner of Agriculture,,UNC,UNC Chris Nelums,65,0,5,0,18,0,42
+Marion,S WEST MULLINS,Commissioner of Agriculture,,UNC,UNC Chris Nelums,55,0,3,0,18,0,34
+Marion,N EAST MULLINS,Commissioner of Agriculture,,UNC,UNC Chris Nelums,52,0,6,0,17,0,29
+Marion,S EAST MULLINS,Commissioner of Agriculture,,UNC,UNC Chris Nelums,23,0,3,0,7,0,13
+Marion,NICHOLS,Commissioner of Agriculture,,UNC,UNC Chris Nelums,16,0,0,0,2,0,14
+Marion,Failsafe,Commissioner of Agriculture,,UNC,UNC Chris Nelums,1,1,0,0,0,0,0
+Marion,Provisional,Commissioner of Agriculture,,UNC,UNC Chris Nelums,2,0,0,0,0,2,0
+Marion,Failsafe Provisional,Commissioner of Agriculture,,UNC,UNC Chris Nelums,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Commissioner of Agriculture,,GRN,GRN David Edmond,44,0,2,0,11,0,31
+Marion,FRIENDSHIP,Commissioner of Agriculture,,GRN,GRN David Edmond,16,0,0,0,3,0,13
+Marion,CENTENARY,Commissioner of Agriculture,,GRN,GRN David Edmond,42,0,3,0,13,0,26
+Marion,RAINS,Commissioner of Agriculture,,GRN,GRN David Edmond,27,0,2,0,7,0,18
+Marion,MARION NO. 1,Commissioner of Agriculture,,GRN,GRN David Edmond,49,0,2,0,19,0,28
+Marion,MARION NO. 2,Commissioner of Agriculture,,GRN,GRN David Edmond,68,0,3,0,23,0,42
+Marion,MARION NORTH,Commissioner of Agriculture,,GRN,GRN David Edmond,56,0,1,0,21,0,34
+Marion,MARION SOUTH,Commissioner of Agriculture,,GRN,GRN David Edmond,97,0,9,0,32,0,56
+Marion,MARION WEST,Commissioner of Agriculture,,GRN,GRN David Edmond,42,0,0,0,14,0,28
+Marion,SELLERS,Commissioner of Agriculture,,GRN,GRN David Edmond,11,0,2,0,0,0,9
+Marion,TEMPERANCE,Commissioner of Agriculture,,GRN,GRN David Edmond,46,0,4,0,22,0,20
+Marion,ZION,Commissioner of Agriculture,,GRN,GRN David Edmond,15,0,2,0,4,0,9
+Marion,N WEST MULLINS,Commissioner of Agriculture,,GRN,GRN David Edmond,69,0,5,0,19,0,45
+Marion,S WEST MULLINS,Commissioner of Agriculture,,GRN,GRN David Edmond,65,0,1,0,23,0,41
+Marion,N EAST MULLINS,Commissioner of Agriculture,,GRN,GRN David Edmond,79,0,7,0,29,0,43
+Marion,S EAST MULLINS,Commissioner of Agriculture,,GRN,GRN David Edmond,44,0,1,0,16,0,27
+Marion,NICHOLS,Commissioner of Agriculture,,GRN,GRN David Edmond,29,0,0,0,6,0,23
+Marion,Failsafe,Commissioner of Agriculture,,GRN,GRN David Edmond,2,2,0,0,0,0,0
+Marion,Provisional,Commissioner of Agriculture,,GRN,GRN David Edmond,1,0,0,0,0,1,0
+Marion,Failsafe Provisional,Commissioner of Agriculture,,GRN,GRN David Edmond,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Commissioner of Agriculture,,REP,REP Hugh Weathers,245,0,18,0,26,0,201
+Marion,FRIENDSHIP,Commissioner of Agriculture,,REP,REP Hugh Weathers,60,0,4,0,5,0,51
+Marion,CENTENARY,Commissioner of Agriculture,,REP,REP Hugh Weathers,204,0,4,0,65,0,135
+Marion,RAINS,Commissioner of Agriculture,,REP,REP Hugh Weathers,128,0,2,0,45,0,81
+Marion,MARION NO. 1,Commissioner of Agriculture,,REP,REP Hugh Weathers,187,0,11,0,63,0,113
+Marion,MARION NO. 2,Commissioner of Agriculture,,REP,REP Hugh Weathers,409,0,6,0,119,0,284
+Marion,MARION NORTH,Commissioner of Agriculture,,REP,REP Hugh Weathers,365,0,12,0,109,0,244
+Marion,MARION SOUTH,Commissioner of Agriculture,,REP,REP Hugh Weathers,322,0,14,0,132,0,176
+Marion,MARION WEST,Commissioner of Agriculture,,REP,REP Hugh Weathers,338,0,5,0,57,0,276
+Marion,SELLERS,Commissioner of Agriculture,,REP,REP Hugh Weathers,28,0,1,0,1,0,26
+Marion,TEMPERANCE,Commissioner of Agriculture,,REP,REP Hugh Weathers,169,0,3,0,26,0,140
+Marion,ZION,Commissioner of Agriculture,,REP,REP Hugh Weathers,114,0,1,0,24,0,89
+Marion,N WEST MULLINS,Commissioner of Agriculture,,REP,REP Hugh Weathers,216,0,5,0,55,0,156
+Marion,S WEST MULLINS,Commissioner of Agriculture,,REP,REP Hugh Weathers,329,0,13,0,100,0,216
+Marion,N EAST MULLINS,Commissioner of Agriculture,,REP,REP Hugh Weathers,310,0,11,0,72,0,227
+Marion,S EAST MULLINS,Commissioner of Agriculture,,REP,REP Hugh Weathers,505,0,10,0,138,0,357
+Marion,NICHOLS,Commissioner of Agriculture,,REP,REP Hugh Weathers,208,0,3,0,31,0,174
+Marion,Failsafe,Commissioner of Agriculture,,REP,REP Hugh Weathers,7,7,0,0,0,0,0
+Marion,Provisional,Commissioner of Agriculture,,REP,REP Hugh Weathers,3,0,0,0,0,3,0
+Marion,Failsafe Provisional,Commissioner of Agriculture,,REP,REP Hugh Weathers,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,1,0,0
+Marion,FRIENDSHIP,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,0,0,1
+Marion,CENTENARY,Commissioner of Agriculture,,NON,Write-In,2,0,0,0,2,0,0
+Marion,RAINS,Commissioner of Agriculture,,NON,Write-In,4,0,4,0,0,0,0
+Marion,MARION NO. 1,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,0,0,1
+Marion,MARION NO. 2,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NORTH,Commissioner of Agriculture,,NON,Write-In,4,0,0,0,1,0,3
+Marion,MARION SOUTH,Commissioner of Agriculture,,NON,Write-In,4,0,0,0,1,0,3
+Marion,MARION WEST,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Marion,SELLERS,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Marion,TEMPERANCE,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,1,0,0
+Marion,ZION,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Marion,S WEST MULLINS,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,0,0,1
+Marion,N EAST MULLINS,Commissioner of Agriculture,,NON,Write-In,2,0,1,0,0,0,1
+Marion,S EAST MULLINS,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,0,0,1
+Marion,NICHOLS,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,U.S. Senate,,REP,REP Tim Scott,224,0,9,0,21,0,194
+Marion,FRIENDSHIP,U.S. Senate,,REP,REP Tim Scott,47,0,1,0,2,0,44
+Marion,CENTENARY,U.S. Senate,,REP,REP Tim Scott,192,0,5,0,58,0,129
+Marion,RAINS,U.S. Senate,,REP,REP Tim Scott,120,0,0,0,41,0,79
+Marion,MARION NO. 1,U.S. Senate,,REP,REP Tim Scott,170,0,7,0,54,0,109
+Marion,MARION NO. 2,U.S. Senate,,REP,REP Tim Scott,391,0,7,0,108,0,276
+Marion,MARION NORTH,U.S. Senate,,REP,REP Tim Scott,343,0,8,0,96,0,239
+Marion,MARION SOUTH,U.S. Senate,,REP,REP Tim Scott,304,0,13,0,127,0,164
+Marion,MARION WEST,U.S. Senate,,REP,REP Tim Scott,337,0,4,0,53,0,280
+Marion,SELLERS,U.S. Senate,,REP,REP Tim Scott,24,0,1,0,0,0,23
+Marion,TEMPERANCE,U.S. Senate,,REP,REP Tim Scott,162,0,2,0,22,0,138
+Marion,ZION,U.S. Senate,,REP,REP Tim Scott,105,0,1,0,22,0,82
+Marion,N WEST MULLINS,U.S. Senate,,REP,REP Tim Scott,201,0,4,0,51,0,146
+Marion,S WEST MULLINS,U.S. Senate,,REP,REP Tim Scott,317,0,10,0,98,0,209
+Marion,N EAST MULLINS,U.S. Senate,,REP,REP Tim Scott,305,0,11,0,70,0,224
+Marion,S EAST MULLINS,U.S. Senate,,REP,REP Tim Scott,499,0,9,0,135,0,355
+Marion,NICHOLS,U.S. Senate,,REP,REP Tim Scott,204,0,3,0,28,0,173
+Marion,Failsafe,U.S. Senate,,REP,REP Tim Scott,7,7,0,0,0,0,0
+Marion,Provisional,U.S. Senate,,REP,REP Tim Scott,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,U.S. Senate,,REP,REP Tim Scott,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,U.S. Senate,,DEM,DEM Krystle Matthews,431,0,81,0,82,0,268
+Marion,FRIENDSHIP,U.S. Senate,,DEM,DEM Krystle Matthews,92,0,4,0,20,0,68
+Marion,CENTENARY,U.S. Senate,,DEM,DEM Krystle Matthews,308,0,33,0,88,0,187
+Marion,RAINS,U.S. Senate,,DEM,DEM Krystle Matthews,163,0,14,0,48,0,101
+Marion,MARION NO. 1,U.S. Senate,,DEM,DEM Krystle Matthews,238,0,27,0,81,0,130
+Marion,MARION NO. 2,U.S. Senate,,DEM,DEM Krystle Matthews,245,0,20,0,78,0,147
+Marion,MARION NORTH,U.S. Senate,,DEM,DEM Krystle Matthews,273,0,14,0,119,0,140
+Marion,MARION SOUTH,U.S. Senate,,DEM,DEM Krystle Matthews,635,0,76,0,222,0,337
+Marion,MARION WEST,U.S. Senate,,DEM,DEM Krystle Matthews,198,0,15,0,69,0,114
+Marion,SELLERS,U.S. Senate,,DEM,DEM Krystle Matthews,63,0,7,0,9,0,47
+Marion,TEMPERANCE,U.S. Senate,,DEM,DEM Krystle Matthews,227,0,12,0,74,0,141
+Marion,ZION,U.S. Senate,,DEM,DEM Krystle Matthews,120,0,6,0,27,0,87
+Marion,N WEST MULLINS,U.S. Senate,,DEM,DEM Krystle Matthews,353,0,31,0,107,0,215
+Marion,S WEST MULLINS,U.S. Senate,,DEM,DEM Krystle Matthews,366,0,40,0,119,0,207
+Marion,N EAST MULLINS,U.S. Senate,,DEM,DEM Krystle Matthews,420,0,62,0,142,0,216
+Marion,S EAST MULLINS,U.S. Senate,,DEM,DEM Krystle Matthews,160,0,7,0,58,0,95
+Marion,NICHOLS,U.S. Senate,,DEM,DEM Krystle Matthews,107,0,3,0,27,0,77
+Marion,Failsafe,U.S. Senate,,DEM,DEM Krystle Matthews,5,5,0,0,0,0,0
+Marion,Provisional,U.S. Senate,,DEM,DEM Krystle Matthews,17,0,0,0,0,17,0
+Marion,Failsafe Provisional,U.S. Senate,,DEM,DEM Krystle Matthews,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,FRIENDSHIP,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,CENTENARY,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,RAINS,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NO. 1,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NO. 2,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NORTH,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Marion,MARION SOUTH,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION WEST,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,SELLERS,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,TEMPERANCE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,ZION,U.S. Senate,,NON,Write-In,1,0,0,0,1,0,0
+Marion,N WEST MULLINS,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,S WEST MULLINS,U.S. Senate,,NON,Write-In,2,0,0,0,1,0,1
+Marion,N EAST MULLINS,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,S EAST MULLINS,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,NICHOLS,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,U.S. House,7,REP,REP Russell Fry,219,0,10,0,22,0,187
+Marion,FRIENDSHIP,U.S. House,7,REP,REP Russell Fry,47,0,1,0,2,0,44
+Marion,CENTENARY,U.S. House,7,REP,REP Russell Fry,196,0,9,0,56,0,131
+Marion,RAINS,U.S. House,7,REP,REP Russell Fry,122,0,3,0,41,0,78
+Marion,MARION NO. 1,U.S. House,7,REP,REP Russell Fry,160,0,9,0,50,0,101
+Marion,MARION NO. 2,U.S. House,7,REP,REP Russell Fry,374,0,6,0,97,0,271
+Marion,MARION NORTH,U.S. House,7,REP,REP Russell Fry,329,0,8,0,92,0,229
+Marion,MARION SOUTH,U.S. House,7,REP,REP Russell Fry,306,0,27,0,123,0,156
+Marion,MARION WEST,U.S. House,7,REP,REP Russell Fry,329,0,4,0,53,0,272
+Marion,SELLERS,U.S. House,7,REP,REP Russell Fry,25,0,1,0,0,0,24
+Marion,TEMPERANCE,U.S. House,7,REP,REP Russell Fry,161,0,3,0,22,0,136
+Marion,ZION,U.S. House,7,REP,REP Russell Fry,104,0,1,0,21,0,82
+Marion,N WEST MULLINS,U.S. House,7,REP,REP Russell Fry,195,0,4,0,46,0,145
+Marion,S WEST MULLINS,U.S. House,7,REP,REP Russell Fry,323,0,12,0,99,0,212
+Marion,N EAST MULLINS,U.S. House,7,REP,REP Russell Fry,297,0,9,0,70,0,218
+Marion,S EAST MULLINS,U.S. House,7,REP,REP Russell Fry,483,0,9,0,130,0,344
+Marion,NICHOLS,U.S. House,7,REP,REP Russell Fry,199,0,2,0,29,0,168
+Marion,Failsafe,U.S. House,7,REP,REP Russell Fry,6,6,0,0,0,0,0
+Marion,Provisional,U.S. House,7,REP,REP Russell Fry,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,U.S. House,7,REP,REP Russell Fry,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,U.S. House,7,DEM,DEM Daryl W Scott,433,0,80,0,78,0,275
+Marion,FRIENDSHIP,U.S. House,7,DEM,DEM Daryl W Scott,95,0,4,0,20,0,71
+Marion,CENTENARY,U.S. House,7,DEM,DEM Daryl W Scott,305,0,29,0,89,0,187
+Marion,RAINS,U.S. House,7,DEM,DEM Daryl W Scott,162,0,11,0,49,0,102
+Marion,MARION NO. 1,U.S. House,7,DEM,DEM Daryl W Scott,251,0,26,0,86,0,139
+Marion,MARION NO. 2,U.S. House,7,DEM,DEM Daryl W Scott,261,0,21,0,85,0,155
+Marion,MARION NORTH,U.S. House,7,DEM,DEM Daryl W Scott,282,0,14,0,121,0,147
+Marion,MARION SOUTH,U.S. House,7,DEM,DEM Daryl W Scott,643,0,71,0,226,0,346
+Marion,MARION WEST,U.S. House,7,DEM,DEM Daryl W Scott,205,0,15,0,68,0,122
+Marion,SELLERS,U.S. House,7,DEM,DEM Daryl W Scott,61,0,7,0,8,0,46
+Marion,TEMPERANCE,U.S. House,7,DEM,DEM Daryl W Scott,230,0,11,0,77,0,142
+Marion,ZION,U.S. House,7,DEM,DEM Daryl W Scott,121,0,6,0,29,0,86
+Marion,N WEST MULLINS,U.S. House,7,DEM,DEM Daryl W Scott,361,0,31,0,109,0,221
+Marion,S WEST MULLINS,U.S. House,7,DEM,DEM Daryl W Scott,363,0,39,0,117,0,207
+Marion,N EAST MULLINS,U.S. House,7,DEM,DEM Daryl W Scott,429,0,64,0,141,0,224
+Marion,S EAST MULLINS,U.S. House,7,DEM,DEM Daryl W Scott,175,0,7,0,65,0,103
+Marion,NICHOLS,U.S. House,7,DEM,DEM Daryl W Scott,109,0,4,0,24,0,81
+Marion,Failsafe,U.S. House,7,DEM,DEM Daryl W Scott,6,6,0,0,0,0,0
+Marion,Provisional,U.S. House,7,DEM,DEM Daryl W Scott,17,0,0,0,0,17,0
+Marion,Failsafe Provisional,U.S. House,7,DEM,DEM Daryl W Scott,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marion,FRIENDSHIP,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marion,CENTENARY,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marion,RAINS,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NO. 1,U.S. House,7,NON,Write-In,1,0,0,0,1,0,0
+Marion,MARION NO. 2,U.S. House,7,NON,Write-In,3,0,0,0,2,0,1
+Marion,MARION NORTH,U.S. House,7,NON,Write-In,1,0,0,0,0,0,1
+Marion,MARION SOUTH,U.S. House,7,NON,Write-In,1,0,1,0,0,0,0
+Marion,MARION WEST,U.S. House,7,NON,Write-In,1,0,0,0,0,0,1
+Marion,SELLERS,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marion,TEMPERANCE,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marion,ZION,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,U.S. House,7,NON,Write-In,1,0,0,0,1,0,0
+Marion,S WEST MULLINS,U.S. House,7,NON,Write-In,1,0,0,0,0,0,1
+Marion,N EAST MULLINS,U.S. House,7,NON,Write-In,1,0,0,0,0,0,1
+Marion,S EAST MULLINS,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marion,NICHOLS,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,U.S. House,7,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,State House,57,DEM,DEM Lucas Atkinson,515,0,85,0,87,0,343
+Marion,FRIENDSHIP,State House,57,DEM,DEM Lucas Atkinson,113,0,5,0,19,0,89
+Marion,CENTENARY,State House,57,DEM,DEM Lucas Atkinson,401,0,37,0,115,0,249
+Marion,RAINS,State House,57,DEM,DEM Lucas Atkinson,229,0,13,0,74,0,142
+Marion,MARION NO. 1,State House,57,DEM,DEM Lucas Atkinson,349,0,32,0,120,0,197
+Marion,MARION NO. 2,State House,57,DEM,DEM Lucas Atkinson,499,0,25,0,146,0,328
+Marion,MARION NORTH,State House,57,DEM,DEM Lucas Atkinson,453,0,19,0,166,0,268
+Marion,MARION SOUTH,State House,57,DEM,DEM Lucas Atkinson,827,0,96,0,288,0,443
+Marion,MARION WEST,State House,57,DEM,DEM Lucas Atkinson,350,0,17,0,92,0,241
+Marion,SELLERS,State House,57,DEM,DEM Lucas Atkinson,64,0,8,0,7,0,49
+Marion,TEMPERANCE,State House,57,DEM,DEM Lucas Atkinson,312,0,14,0,83,0,215
+Marion,ZION,State House,57,DEM,DEM Lucas Atkinson,166,0,7,0,35,0,124
+Marion,N WEST MULLINS,State House,57,DEM,DEM Lucas Atkinson,461,0,33,0,130,0,298
+Marion,S WEST MULLINS,State House,57,DEM,DEM Lucas Atkinson,557,0,47,0,169,0,341
+Marion,N EAST MULLINS,State House,57,DEM,DEM Lucas Atkinson,586,0,68,0,191,0,327
+Marion,S EAST MULLINS,State House,57,DEM,DEM Lucas Atkinson,476,0,15,0,139,0,322
+Marion,NICHOLS,State House,57,DEM,DEM Lucas Atkinson,196,0,5,0,38,0,153
+Marion,Failsafe,State House,57,DEM,DEM Lucas Atkinson,9,9,0,0,0,0,0
+Marion,Provisional,State House,57,DEM,DEM Lucas Atkinson,17,0,0,0,0,17,0
+Marion,Failsafe Provisional,State House,57,DEM,DEM Lucas Atkinson,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,State House,57,NON,Write-In,4,0,0,0,0,0,4
+Marion,FRIENDSHIP,State House,57,NON,Write-In,2,0,0,0,0,0,2
+Marion,CENTENARY,State House,57,NON,Write-In,2,0,0,0,1,0,1
+Marion,RAINS,State House,57,NON,Write-In,3,0,0,0,0,0,3
+Marion,MARION NO. 1,State House,57,NON,Write-In,4,0,0,0,3,0,1
+Marion,MARION NO. 2,State House,57,NON,Write-In,8,0,0,0,2,0,6
+Marion,MARION NORTH,State House,57,NON,Write-In,7,0,1,0,1,0,5
+Marion,MARION SOUTH,State House,57,NON,Write-In,6,0,0,0,3,0,3
+Marion,MARION WEST,State House,57,NON,Write-In,12,0,0,0,1,0,11
+Marion,SELLERS,State House,57,NON,Write-In,1,0,0,0,0,0,1
+Marion,TEMPERANCE,State House,57,NON,Write-In,0,0,0,0,0,0,0
+Marion,ZION,State House,57,NON,Write-In,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,State House,57,NON,Write-In,9,0,0,0,2,0,7
+Marion,S WEST MULLINS,State House,57,NON,Write-In,7,0,0,0,3,0,4
+Marion,N EAST MULLINS,State House,57,NON,Write-In,8,0,0,0,3,0,5
+Marion,S EAST MULLINS,State House,57,NON,Write-In,8,0,0,0,3,0,5
+Marion,NICHOLS,State House,57,NON,Write-In,2,0,0,0,0,0,2
+Marion,Failsafe,State House,57,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,State House,57,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,State House,57,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Solicitor Circuit 12,,DEM,DEM Ed Clements III,511,0,85,0,87,0,339
+Marion,FRIENDSHIP,Solicitor Circuit 12,,DEM,DEM Ed Clements III,111,0,5,0,19,0,87
+Marion,CENTENARY,Solicitor Circuit 12,,DEM,DEM Ed Clements III,386,0,36,0,111,0,239
+Marion,RAINS,Solicitor Circuit 12,,DEM,DEM Ed Clements III,228,0,13,0,73,0,142
+Marion,MARION NO. 1,Solicitor Circuit 12,,DEM,DEM Ed Clements III,345,0,29,0,118,0,198
+Marion,MARION NO. 2,Solicitor Circuit 12,,DEM,DEM Ed Clements III,469,0,23,0,140,0,306
+Marion,MARION NORTH,Solicitor Circuit 12,,DEM,DEM Ed Clements III,430,0,16,0,164,0,250
+Marion,MARION SOUTH,Solicitor Circuit 12,,DEM,DEM Ed Clements III,794,0,93,0,283,0,418
+Marion,MARION WEST,Solicitor Circuit 12,,DEM,DEM Ed Clements III,343,0,15,0,93,0,235
+Marion,SELLERS,Solicitor Circuit 12,,DEM,DEM Ed Clements III,66,0,8,0,8,0,50
+Marion,TEMPERANCE,Solicitor Circuit 12,,DEM,DEM Ed Clements III,300,0,13,0,82,0,205
+Marion,ZION,Solicitor Circuit 12,,DEM,DEM Ed Clements III,160,0,7,0,38,0,115
+Marion,N WEST MULLINS,Solicitor Circuit 12,,DEM,DEM Ed Clements III,450,0,33,0,129,0,288
+Marion,S WEST MULLINS,Solicitor Circuit 12,,DEM,DEM Ed Clements III,539,0,46,0,170,0,323
+Marion,N EAST MULLINS,Solicitor Circuit 12,,DEM,DEM Ed Clements III,563,0,64,0,179,0,320
+Marion,S EAST MULLINS,Solicitor Circuit 12,,DEM,DEM Ed Clements III,436,0,16,0,127,0,293
+Marion,NICHOLS,Solicitor Circuit 12,,DEM,DEM Ed Clements III,188,0,5,0,36,0,147
+Marion,Failsafe,Solicitor Circuit 12,,DEM,DEM Ed Clements III,9,9,0,0,0,0,0
+Marion,Provisional,Solicitor Circuit 12,,DEM,DEM Ed Clements III,17,0,0,0,0,17,0
+Marion,Failsafe Provisional,Solicitor Circuit 12,,DEM,DEM Ed Clements III,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Solicitor Circuit 12,,NON,Write-In,4,0,0,0,0,0,4
+Marion,FRIENDSHIP,Solicitor Circuit 12,,NON,Write-In,1,0,0,0,0,0,1
+Marion,CENTENARY,Solicitor Circuit 12,,NON,Write-In,3,0,0,0,1,0,2
+Marion,RAINS,Solicitor Circuit 12,,NON,Write-In,2,0,0,0,0,0,2
+Marion,MARION NO. 1,Solicitor Circuit 12,,NON,Write-In,2,0,0,0,1,0,1
+Marion,MARION NO. 2,Solicitor Circuit 12,,NON,Write-In,5,0,0,0,1,0,4
+Marion,MARION NORTH,Solicitor Circuit 12,,NON,Write-In,6,0,1,0,0,0,5
+Marion,MARION SOUTH,Solicitor Circuit 12,,NON,Write-In,7,0,0,0,1,0,6
+Marion,MARION WEST,Solicitor Circuit 12,,NON,Write-In,11,0,1,0,0,0,10
+Marion,SELLERS,Solicitor Circuit 12,,NON,Write-In,0,0,0,0,0,0,0
+Marion,TEMPERANCE,Solicitor Circuit 12,,NON,Write-In,0,0,0,0,0,0,0
+Marion,ZION,Solicitor Circuit 12,,NON,Write-In,1,0,0,0,0,0,1
+Marion,N WEST MULLINS,Solicitor Circuit 12,,NON,Write-In,8,0,0,0,0,0,8
+Marion,S WEST MULLINS,Solicitor Circuit 12,,NON,Write-In,5,0,0,0,1,0,4
+Marion,N EAST MULLINS,Solicitor Circuit 12,,NON,Write-In,3,0,0,0,2,0,1
+Marion,S EAST MULLINS,Solicitor Circuit 12,,NON,Write-In,3,0,0,0,2,0,1
+Marion,NICHOLS,Solicitor Circuit 12,,NON,Write-In,4,0,0,0,0,0,4
+Marion,Failsafe,Solicitor Circuit 12,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,Solicitor Circuit 12,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Solicitor Circuit 12,,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Auditor,,DEM,DEM Vicki Jackson Cook,512,0,85,0,86,0,341
+Marion,FRIENDSHIP,Auditor,,DEM,DEM Vicki Jackson Cook,113,0,5,0,19,0,89
+Marion,CENTENARY,Auditor,,DEM,DEM Vicki Jackson Cook,392,0,35,0,113,0,244
+Marion,RAINS,Auditor,,DEM,DEM Vicki Jackson Cook,228,0,13,0,73,0,142
+Marion,MARION NO. 1,Auditor,,DEM,DEM Vicki Jackson Cook,340,0,29,0,115,0,196
+Marion,MARION NO. 2,Auditor,,DEM,DEM Vicki Jackson Cook,467,0,22,0,142,0,303
+Marion,MARION NORTH,Auditor,,DEM,DEM Vicki Jackson Cook,426,0,18,0,159,0,249
+Marion,MARION SOUTH,Auditor,,DEM,DEM Vicki Jackson Cook,788,0,81,0,278,0,429
+Marion,MARION WEST,Auditor,,DEM,DEM Vicki Jackson Cook,346,0,17,0,92,0,237
+Marion,SELLERS,Auditor,,DEM,DEM Vicki Jackson Cook,65,0,8,0,7,0,50
+Marion,TEMPERANCE,Auditor,,DEM,DEM Vicki Jackson Cook,302,0,14,0,81,0,207
+Marion,ZION,Auditor,,DEM,DEM Vicki Jackson Cook,164,0,7,0,38,0,119
+Marion,N WEST MULLINS,Auditor,,DEM,DEM Vicki Jackson Cook,450,0,32,0,132,0,286
+Marion,S WEST MULLINS,Auditor,,DEM,DEM Vicki Jackson Cook,537,0,44,0,171,0,322
+Marion,N EAST MULLINS,Auditor,,DEM,DEM Vicki Jackson Cook,561,0,64,0,178,0,319
+Marion,S EAST MULLINS,Auditor,,DEM,DEM Vicki Jackson Cook,432,0,12,0,126,0,294
+Marion,NICHOLS,Auditor,,DEM,DEM Vicki Jackson Cook,182,0,5,0,35,0,142
+Marion,Failsafe,Auditor,,DEM,DEM Vicki Jackson Cook,9,9,0,0,0,0,0
+Marion,Provisional,Auditor,,DEM,DEM Vicki Jackson Cook,17,0,0,0,0,17,0
+Marion,Failsafe Provisional,Auditor,,DEM,DEM Vicki Jackson Cook,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Auditor,,NON,Write-In,4,0,0,0,0,0,4
+Marion,FRIENDSHIP,Auditor,,NON,Write-In,1,0,0,0,0,0,1
+Marion,CENTENARY,Auditor,,NON,Write-In,1,0,0,0,0,0,1
+Marion,RAINS,Auditor,,NON,Write-In,2,0,0,0,0,0,2
+Marion,MARION NO. 1,Auditor,,NON,Write-In,3,0,0,0,1,0,2
+Marion,MARION NO. 2,Auditor,,NON,Write-In,5,0,0,0,1,0,4
+Marion,MARION NORTH,Auditor,,NON,Write-In,4,0,0,0,0,0,4
+Marion,MARION SOUTH,Auditor,,NON,Write-In,1,0,0,0,0,0,1
+Marion,MARION WEST,Auditor,,NON,Write-In,9,0,0,0,0,0,9
+Marion,SELLERS,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,TEMPERANCE,Auditor,,NON,Write-In,1,0,0,0,1,0,0
+Marion,ZION,Auditor,,NON,Write-In,1,0,0,0,0,0,1
+Marion,N WEST MULLINS,Auditor,,NON,Write-In,7,0,0,0,0,0,7
+Marion,S WEST MULLINS,Auditor,,NON,Write-In,3,0,0,0,1,0,2
+Marion,N EAST MULLINS,Auditor,,NON,Write-In,3,0,0,0,2,0,1
+Marion,S EAST MULLINS,Auditor,,NON,Write-In,4,0,0,0,3,0,1
+Marion,NICHOLS,Auditor,,NON,Write-In,3,0,0,0,0,0,3
+Marion,Failsafe,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,County Treasurer,,DEM,DEM Alta S DuBose,516,0,84,0,85,0,347
+Marion,FRIENDSHIP,County Treasurer,,DEM,DEM Alta S DuBose,114,0,5,0,19,0,90
+Marion,CENTENARY,County Treasurer,,DEM,DEM Alta S DuBose,395,0,37,0,114,0,244
+Marion,RAINS,County Treasurer,,DEM,DEM Alta S DuBose,228,0,13,0,75,0,140
+Marion,MARION NO. 1,County Treasurer,,DEM,DEM Alta S DuBose,360,0,31,0,121,0,208
+Marion,MARION NO. 2,County Treasurer,,DEM,DEM Alta S DuBose,506,0,26,0,149,0,331
+Marion,MARION NORTH,County Treasurer,,DEM,DEM Alta S DuBose,471,0,17,0,173,0,281
+Marion,MARION SOUTH,County Treasurer,,DEM,DEM Alta S DuBose,812,0,81,0,288,0,443
+Marion,MARION WEST,County Treasurer,,DEM,DEM Alta S DuBose,376,0,17,0,100,0,259
+Marion,SELLERS,County Treasurer,,DEM,DEM Alta S DuBose,72,0,8,0,7,0,57
+Marion,TEMPERANCE,County Treasurer,,DEM,DEM Alta S DuBose,317,0,14,0,85,0,218
+Marion,ZION,County Treasurer,,DEM,DEM Alta S DuBose,175,0,7,0,40,0,128
+Marion,N WEST MULLINS,County Treasurer,,DEM,DEM Alta S DuBose,474,0,32,0,139,0,303
+Marion,S WEST MULLINS,County Treasurer,,DEM,DEM Alta S DuBose,558,0,45,0,181,0,332
+Marion,N EAST MULLINS,County Treasurer,,DEM,DEM Alta S DuBose,595,0,68,0,187,0,340
+Marion,S EAST MULLINS,County Treasurer,,DEM,DEM Alta S DuBose,494,0,16,0,146,0,332
+Marion,NICHOLS,County Treasurer,,DEM,DEM Alta S DuBose,204,0,5,0,38,0,161
+Marion,Failsafe,County Treasurer,,DEM,DEM Alta S DuBose,8,8,0,0,0,0,0
+Marion,Provisional,County Treasurer,,DEM,DEM Alta S DuBose,16,0,0,0,0,16,0
+Marion,Failsafe Provisional,County Treasurer,,DEM,DEM Alta S DuBose,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,County Treasurer,,NON,Write-In,4,0,0,0,0,0,4
+Marion,FRIENDSHIP,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Marion,CENTENARY,County Treasurer,,NON,Write-In,3,0,0,0,1,0,2
+Marion,RAINS,County Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Marion,MARION NO. 1,County Treasurer,,NON,Write-In,3,0,0,0,2,0,1
+Marion,MARION NO. 2,County Treasurer,,NON,Write-In,3,0,0,0,2,0,1
+Marion,MARION NORTH,County Treasurer,,NON,Write-In,5,0,0,0,0,0,5
+Marion,MARION SOUTH,County Treasurer,,NON,Write-In,3,0,0,0,2,0,1
+Marion,MARION WEST,County Treasurer,,NON,Write-In,7,0,0,0,0,0,7
+Marion,SELLERS,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Marion,TEMPERANCE,County Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Marion,ZION,County Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Marion,N WEST MULLINS,County Treasurer,,NON,Write-In,8,0,0,0,0,0,8
+Marion,S WEST MULLINS,County Treasurer,,NON,Write-In,3,0,0,0,0,0,3
+Marion,N EAST MULLINS,County Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Marion,S EAST MULLINS,County Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Marion,NICHOLS,County Treasurer,,NON,Write-In,3,0,0,0,0,0,3
+Marion,Failsafe,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,County Council District 3,,REP,REP Shane McDonald,168,0,6,0,16,0,146
+Marion,FRIENDSHIP,County Council District 3,,REP,REP Shane McDonald,31,0,0,0,2,0,29
+Marion,CENTENARY,County Council District 3,,REP,REP Shane McDonald,140,0,3,0,33,0,104
+Marion,RAINS,County Council District 3,,REP,REP Shane McDonald,57,0,0,0,16,0,41
+Marion,Failsafe,County Council District 3,,REP,REP Shane McDonald,0,0,0,0,0,0,0
+Marion,Provisional,County Council District 3,,REP,REP Shane McDonald,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,County Council District 3,,REP,REP Shane McDonald,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,County Council District 3,,DEM,DEM Joel Rogers,487,0,84,0,88,0,315
+Marion,FRIENDSHIP,County Council District 3,,DEM,DEM Joel Rogers,60,0,3,0,12,0,45
+Marion,CENTENARY,County Council District 3,,DEM,DEM Joel Rogers,256,0,33,0,71,0,152
+Marion,RAINS,County Council District 3,,DEM,DEM Joel Rogers,142,0,6,0,44,0,92
+Marion,Failsafe,County Council District 3,,DEM,DEM Joel Rogers,0,0,0,0,0,0,0
+Marion,Provisional,County Council District 3,,DEM,DEM Joel Rogers,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,County Council District 3,,DEM,DEM Joel Rogers,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Marion,FRIENDSHIP,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Marion,CENTENARY,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Marion,RAINS,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Marion,RAINS,County Council District 5,,DEM,DEM Tarus G Gilchrist,57,0,7,0,19,0,31
+Marion,N WEST MULLINS,County Council District 5,,DEM,DEM Tarus G Gilchrist,218,0,18,0,67,0,133
+Marion,S WEST MULLINS,County Council District 5,,DEM,DEM Tarus G Gilchrist,323,0,28,0,114,0,181
+Marion,S EAST MULLINS,County Council District 5,,DEM,DEM Tarus G Gilchrist,117,0,7,0,35,0,75
+Marion,NICHOLS,County Council District 5,,DEM,DEM Tarus G Gilchrist,188,0,5,0,35,0,148
+Marion,Failsafe,County Council District 5,,DEM,DEM Tarus G Gilchrist,1,1,0,0,0,0,0
+Marion,Provisional,County Council District 5,,DEM,DEM Tarus G Gilchrist,2,0,0,0,0,2,0
+Marion,Failsafe Provisional,County Council District 5,,DEM,DEM Tarus G Gilchrist,0,0,0,0,0,0,0
+Marion,RAINS,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,County Council District 5,,NON,Write-In,3,0,0,0,0,0,3
+Marion,S WEST MULLINS,County Council District 5,,NON,Write-In,3,0,0,0,0,0,3
+Marion,S EAST MULLINS,County Council District 5,,NON,Write-In,1,0,0,0,1,0,0
+Marion,NICHOLS,County Council District 5,,NON,Write-In,6,0,0,0,0,0,6
+Marion,Failsafe,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Marion,MARION NO. 1,County Council District 7,,DEM,DEM Dewayne Tennie,24,0,0,0,8,0,16
+Marion,MARION NO. 2,County Council District 7,,DEM,DEM Dewayne Tennie,107,0,8,0,32,0,67
+Marion,MARION SOUTH,County Council District 7,,DEM,DEM Dewayne Tennie,685,0,84,0,254,0,347
+Marion,Failsafe,County Council District 7,,DEM,DEM Dewayne Tennie,0,0,0,0,0,0,0
+Marion,Provisional,County Council District 7,,DEM,DEM Dewayne Tennie,3,0,0,0,0,3,0
+Marion,Failsafe Provisional,County Council District 7,,DEM,DEM Dewayne Tennie,0,0,0,0,0,0,0
+Marion,MARION NO. 1,County Council District 7,,NON,Write-In,1,0,0,0,1,0,0
+Marion,MARION NO. 2,County Council District 7,,NON,Write-In,2,0,0,0,0,0,2
+Marion,MARION SOUTH,County Council District 7,,NON,Write-In,3,0,0,0,0,0,3
+Marion,Failsafe,County Council District 7,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,County Council District 7,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,County Council District 7,,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Soil and Water District Commission,,NON,Bruce Baker,190,0,28,0,23,0,139
+Marion,FRIENDSHIP,Soil and Water District Commission,,NON,Bruce Baker,52,0,5,0,7,0,40
+Marion,CENTENARY,Soil and Water District Commission,,NON,Bruce Baker,171,0,16,0,65,0,90
+Marion,RAINS,Soil and Water District Commission,,NON,Bruce Baker,113,0,3,0,45,0,65
+Marion,MARION NO. 1,Soil and Water District Commission,,NON,Bruce Baker,178,0,7,0,66,0,105
+Marion,MARION NO. 2,Soil and Water District Commission,,NON,Bruce Baker,309,0,9,0,88,0,212
+Marion,MARION NORTH,Soil and Water District Commission,,NON,Bruce Baker,289,0,8,0,97,0,184
+Marion,MARION SOUTH,Soil and Water District Commission,,NON,Bruce Baker,352,0,26,0,124,0,202
+Marion,MARION WEST,Soil and Water District Commission,,NON,Bruce Baker,233,0,8,0,47,0,178
+Marion,SELLERS,Soil and Water District Commission,,NON,Bruce Baker,28,0,3,0,1,0,24
+Marion,TEMPERANCE,Soil and Water District Commission,,NON,Bruce Baker,174,0,7,0,41,0,126
+Marion,ZION,Soil and Water District Commission,,NON,Bruce Baker,88,0,3,0,18,0,67
+Marion,N WEST MULLINS,Soil and Water District Commission,,NON,Bruce Baker,239,0,16,0,69,0,154
+Marion,S WEST MULLINS,Soil and Water District Commission,,NON,Bruce Baker,319,0,21,0,101,0,197
+Marion,N EAST MULLINS,Soil and Water District Commission,,NON,Bruce Baker,303,0,19,0,96,0,188
+Marion,S EAST MULLINS,Soil and Water District Commission,,NON,Bruce Baker,437,0,12,0,118,0,307
+Marion,NICHOLS,Soil and Water District Commission,,NON,Bruce Baker,136,0,2,0,20,0,114
+Marion,Failsafe,Soil and Water District Commission,,NON,Bruce Baker,3,3,0,0,0,0,0
+Marion,Provisional,Soil and Water District Commission,,NON,Bruce Baker,3,0,0,0,0,3,0
+Marion,Failsafe Provisional,Soil and Water District Commission,,NON,Bruce Baker,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Soil and Water District Commission,,NON,Tyler Seagroves,87,0,18,0,16,0,53
+Marion,FRIENDSHIP,Soil and Water District Commission,,NON,Tyler Seagroves,33,0,2,0,7,0,24
+Marion,CENTENARY,Soil and Water District Commission,,NON,Tyler Seagroves,70,0,5,0,25,0,40
+Marion,RAINS,Soil and Water District Commission,,NON,Tyler Seagroves,47,0,2,0,13,0,32
+Marion,MARION NO. 1,Soil and Water District Commission,,NON,Tyler Seagroves,106,0,4,0,44,0,58
+Marion,MARION NO. 2,Soil and Water District Commission,,NON,Tyler Seagroves,179,0,9,0,55,0,115
+Marion,MARION NORTH,Soil and Water District Commission,,NON,Tyler Seagroves,137,0,6,0,46,0,85
+Marion,MARION SOUTH,Soil and Water District Commission,,NON,Tyler Seagroves,168,0,14,0,57,0,97
+Marion,MARION WEST,Soil and Water District Commission,,NON,Tyler Seagroves,117,0,0,0,22,0,95
+Marion,SELLERS,Soil and Water District Commission,,NON,Tyler Seagroves,17,0,1,0,1,0,15
+Marion,TEMPERANCE,Soil and Water District Commission,,NON,Tyler Seagroves,71,0,1,0,23,0,47
+Marion,ZION,Soil and Water District Commission,,NON,Tyler Seagroves,35,0,2,0,6,0,27
+Marion,N WEST MULLINS,Soil and Water District Commission,,NON,Tyler Seagroves,108,0,5,0,26,0,77
+Marion,S WEST MULLINS,Soil and Water District Commission,,NON,Tyler Seagroves,108,0,3,0,31,0,74
+Marion,N EAST MULLINS,Soil and Water District Commission,,NON,Tyler Seagroves,122,0,10,0,39,0,73
+Marion,S EAST MULLINS,Soil and Water District Commission,,NON,Tyler Seagroves,111,0,5,0,28,0,78
+Marion,NICHOLS,Soil and Water District Commission,,NON,Tyler Seagroves,51,0,1,0,12,0,38
+Marion,Failsafe,Soil and Water District Commission,,NON,Tyler Seagroves,5,5,0,0,0,0,0
+Marion,Provisional,Soil and Water District Commission,,NON,Tyler Seagroves,1,0,0,0,0,1,0
+Marion,Failsafe Provisional,Soil and Water District Commission,,NON,Tyler Seagroves,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Soil and Water District Commission,,NON,Write-In,3,0,0,0,0,0,3
+Marion,FRIENDSHIP,Soil and Water District Commission,,NON,Write-In,1,0,1,0,0,0,0
+Marion,CENTENARY,Soil and Water District Commission,,NON,Write-In,8,0,0,0,4,0,4
+Marion,RAINS,Soil and Water District Commission,,NON,Write-In,6,0,4,0,0,0,2
+Marion,MARION NO. 1,Soil and Water District Commission,,NON,Write-In,3,0,0,0,2,0,1
+Marion,MARION NO. 2,Soil and Water District Commission,,NON,Write-In,1,0,0,0,0,0,1
+Marion,MARION NORTH,Soil and Water District Commission,,NON,Write-In,7,0,0,0,1,0,6
+Marion,MARION SOUTH,Soil and Water District Commission,,NON,Write-In,5,0,0,0,1,0,4
+Marion,MARION WEST,Soil and Water District Commission,,NON,Write-In,6,0,0,0,0,0,6
+Marion,SELLERS,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Marion,TEMPERANCE,Soil and Water District Commission,,NON,Write-In,1,0,0,0,1,0,0
+Marion,ZION,Soil and Water District Commission,,NON,Write-In,1,0,0,0,0,0,1
+Marion,N WEST MULLINS,Soil and Water District Commission,,NON,Write-In,3,0,0,0,0,0,3
+Marion,S WEST MULLINS,Soil and Water District Commission,,NON,Write-In,1,0,0,0,0,0,1
+Marion,N EAST MULLINS,Soil and Water District Commission,,NON,Write-In,3,0,0,0,2,0,1
+Marion,S EAST MULLINS,Soil and Water District Commission,,NON,Write-In,1,0,0,0,0,0,1
+Marion,NICHOLS,Soil and Water District Commission,,NON,Write-In,1,0,0,0,0,0,1
+Marion,Failsafe,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Statewide Constitutional Amendment 1,,NON,Yes,248,0,47,0,38,0,163
+Marion,FRIENDSHIP,Statewide Constitutional Amendment 1,,NON,Yes,69,0,4,0,10,0,55
+Marion,CENTENARY,Statewide Constitutional Amendment 1,,NON,Yes,211,0,12,0,78,0,121
+Marion,RAINS,Statewide Constitutional Amendment 1,,NON,Yes,132,0,4,0,52,0,76
+Marion,MARION NO. 1,Statewide Constitutional Amendment 1,,NON,Yes,209,0,11,0,73,0,125
+Marion,MARION NO. 2,Statewide Constitutional Amendment 1,,NON,Yes,384,0,13,0,117,0,254
+Marion,MARION NORTH,Statewide Constitutional Amendment 1,,NON,Yes,305,0,15,0,119,0,171
+Marion,MARION SOUTH,Statewide Constitutional Amendment 1,,NON,Yes,441,0,37,0,175,0,229
+Marion,MARION WEST,Statewide Constitutional Amendment 1,,NON,Yes,270,0,5,0,56,0,209
+Marion,SELLERS,Statewide Constitutional Amendment 1,,NON,Yes,41,0,8,0,2,0,31
+Marion,TEMPERANCE,Statewide Constitutional Amendment 1,,NON,Yes,188,0,7,0,42,0,139
+Marion,ZION,Statewide Constitutional Amendment 1,,NON,Yes,90,0,4,0,22,0,64
+Marion,N WEST MULLINS,Statewide Constitutional Amendment 1,,NON,Yes,278,0,20,0,77,0,181
+Marion,S WEST MULLINS,Statewide Constitutional Amendment 1,,NON,Yes,314,0,17,0,106,0,191
+Marion,N EAST MULLINS,Statewide Constitutional Amendment 1,,NON,Yes,324,0,29,0,96,0,199
+Marion,S EAST MULLINS,Statewide Constitutional Amendment 1,,NON,Yes,355,0,6,0,111,0,238
+Marion,NICHOLS,Statewide Constitutional Amendment 1,,NON,Yes,142,0,5,0,25,0,112
+Marion,Failsafe,Statewide Constitutional Amendment 1,,NON,Yes,5,5,0,0,0,0,0
+Marion,Provisional,Statewide Constitutional Amendment 1,,NON,Yes,12,0,0,0,0,12,0
+Marion,Failsafe Provisional,Statewide Constitutional Amendment 1,,NON,Yes,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Statewide Constitutional Amendment 1,,NON,No,281,0,40,0,40,0,201
+Marion,FRIENDSHIP,Statewide Constitutional Amendment 1,,NON,No,49,0,3,0,8,0,38
+Marion,CENTENARY,Statewide Constitutional Amendment 1,,NON,No,201,0,12,0,40,0,149
+Marion,RAINS,Statewide Constitutional Amendment 1,,NON,No,87,0,9,0,20,0,58
+Marion,MARION NO. 1,Statewide Constitutional Amendment 1,,NON,No,134,0,9,0,40,0,85
+Marion,MARION NO. 2,Statewide Constitutional Amendment 1,,NON,No,193,0,10,0,52,0,131
+Marion,MARION NORTH,Statewide Constitutional Amendment 1,,NON,No,230,0,4,0,63,0,163
+Marion,MARION SOUTH,Statewide Constitutional Amendment 1,,NON,No,327,0,30,0,103,0,194
+Marion,MARION WEST,Statewide Constitutional Amendment 1,,NON,No,214,0,13,0,51,0,150
+Marion,SELLERS,Statewide Constitutional Amendment 1,,NON,No,32,0,0,0,5,0,27
+Marion,TEMPERANCE,Statewide Constitutional Amendment 1,,NON,No,159,0,4,0,44,0,111
+Marion,ZION,Statewide Constitutional Amendment 1,,NON,No,89,0,2,0,21,0,66
+Marion,N WEST MULLINS,Statewide Constitutional Amendment 1,,NON,No,182,0,12,0,48,0,122
+Marion,S WEST MULLINS,Statewide Constitutional Amendment 1,,NON,No,262,0,28,0,75,0,159
+Marion,N EAST MULLINS,Statewide Constitutional Amendment 1,,NON,No,272,0,38,0,80,0,154
+Marion,S EAST MULLINS,Statewide Constitutional Amendment 1,,NON,No,228,0,4,0,56,0,168
+Marion,NICHOLS,Statewide Constitutional Amendment 1,,NON,No,114,0,1,0,17,0,96
+Marion,Failsafe,Statewide Constitutional Amendment 1,,NON,No,4,4,0,0,0,0,0
+Marion,Provisional,Statewide Constitutional Amendment 1,,NON,No,4,0,0,0,0,4,0
+Marion,Failsafe Provisional,Statewide Constitutional Amendment 1,,NON,No,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Statewide Constitutional Amendment 2,,NON,Yes,257,0,39,0,42,0,176
+Marion,FRIENDSHIP,Statewide Constitutional Amendment 2,,NON,Yes,73,0,4,0,12,0,57
+Marion,CENTENARY,Statewide Constitutional Amendment 2,,NON,Yes,222,0,13,0,80,0,129
+Marion,RAINS,Statewide Constitutional Amendment 2,,NON,Yes,140,0,3,0,51,0,86
+Marion,MARION NO. 1,Statewide Constitutional Amendment 2,,NON,Yes,215,0,10,0,72,0,133
+Marion,MARION NO. 2,Statewide Constitutional Amendment 2,,NON,Yes,380,0,14,0,117,0,249
+Marion,MARION NORTH,Statewide Constitutional Amendment 2,,NON,Yes,312,0,10,0,120,0,182
+Marion,MARION SOUTH,Statewide Constitutional Amendment 2,,NON,Yes,466,0,33,0,182,0,251
+Marion,MARION WEST,Statewide Constitutional Amendment 2,,NON,Yes,262,0,6,0,54,0,202
+Marion,SELLERS,Statewide Constitutional Amendment 2,,NON,Yes,45,0,5,0,3,0,37
+Marion,TEMPERANCE,Statewide Constitutional Amendment 2,,NON,Yes,193,0,7,0,39,0,147
+Marion,ZION,Statewide Constitutional Amendment 2,,NON,Yes,102,0,4,0,20,0,78
+Marion,N WEST MULLINS,Statewide Constitutional Amendment 2,,NON,Yes,291,0,21,0,83,0,187
+Marion,S WEST MULLINS,Statewide Constitutional Amendment 2,,NON,Yes,330,0,17,0,110,0,203
+Marion,N EAST MULLINS,Statewide Constitutional Amendment 2,,NON,Yes,327,0,30,0,101,0,196
+Marion,S EAST MULLINS,Statewide Constitutional Amendment 2,,NON,Yes,345,0,6,0,103,0,236
+Marion,NICHOLS,Statewide Constitutional Amendment 2,,NON,Yes,163,0,5,0,29,0,129
+Marion,Failsafe,Statewide Constitutional Amendment 2,,NON,Yes,6,6,0,0,0,0,0
+Marion,Provisional,Statewide Constitutional Amendment 2,,NON,Yes,11,0,0,0,0,11,0
+Marion,Failsafe Provisional,Statewide Constitutional Amendment 2,,NON,Yes,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Statewide Constitutional Amendment 2,,NON,No,317,0,44,0,48,0,225
+Marion,FRIENDSHIP,Statewide Constitutional Amendment 2,,NON,No,60,0,3,0,10,0,47
+Marion,CENTENARY,Statewide Constitutional Amendment 2,,NON,No,202,0,11,0,44,0,147
+Marion,RAINS,Statewide Constitutional Amendment 2,,NON,No,95,0,9,0,26,0,60
+Marion,MARION NO. 1,Statewide Constitutional Amendment 2,,NON,No,136,0,9,0,42,0,85
+Marion,MARION NO. 2,Statewide Constitutional Amendment 2,,NON,No,206,0,10,0,50,0,146
+Marion,MARION NORTH,Statewide Constitutional Amendment 2,,NON,No,241,0,9,0,68,0,164
+Marion,MARION SOUTH,Statewide Constitutional Amendment 2,,NON,No,346,0,34,0,116,0,196
+Marion,MARION WEST,Statewide Constitutional Amendment 2,,NON,No,227,0,11,0,53,0,163
+Marion,SELLERS,Statewide Constitutional Amendment 2,,NON,No,30,0,0,0,4,0,26
+Marion,TEMPERANCE,Statewide Constitutional Amendment 2,,NON,No,163,0,4,0,46,0,113
+Marion,ZION,Statewide Constitutional Amendment 2,,NON,No,90,0,2,0,22,0,66
+Marion,N WEST MULLINS,Statewide Constitutional Amendment 2,,NON,No,190,0,10,0,50,0,130
+Marion,S WEST MULLINS,Statewide Constitutional Amendment 2,,NON,No,280,0,26,0,87,0,167
+Marion,N EAST MULLINS,Statewide Constitutional Amendment 2,,NON,No,287,0,39,0,80,0,168
+Marion,S EAST MULLINS,Statewide Constitutional Amendment 2,,NON,No,251,0,4,0,66,0,181
+Marion,NICHOLS,Statewide Constitutional Amendment 2,,NON,No,108,0,1,0,15,0,92
+Marion,Failsafe,Statewide Constitutional Amendment 2,,NON,No,5,5,0,0,0,0,0
+Marion,Provisional,Statewide Constitutional Amendment 2,,NON,No,5,0,0,0,0,5,0
+Marion,Failsafe Provisional,Statewide Constitutional Amendment 2,,NON,No,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Public Safety Fee Referendum,,NON,Yes,257,0,53,0,37,0,167
+Marion,FRIENDSHIP,Public Safety Fee Referendum,,NON,Yes,54,0,3,0,9,0,42
+Marion,CENTENARY,Public Safety Fee Referendum,,NON,Yes,203,0,14,0,66,0,123
+Marion,RAINS,Public Safety Fee Referendum,,NON,Yes,98,0,4,0,42,0,52
+Marion,MARION NO. 1,Public Safety Fee Referendum,,NON,Yes,196,0,6,0,67,0,123
+Marion,MARION NO. 2,Public Safety Fee Referendum,,NON,Yes,352,0,11,0,109,0,232
+Marion,MARION NORTH,Public Safety Fee Referendum,,NON,Yes,278,0,8,0,99,0,171
+Marion,MARION SOUTH,Public Safety Fee Referendum,,NON,Yes,382,0,29,0,137,0,216
+Marion,MARION WEST,Public Safety Fee Referendum,,NON,Yes,203,0,8,0,34,0,161
+Marion,SELLERS,Public Safety Fee Referendum,,NON,Yes,27,0,5,0,4,0,18
+Marion,TEMPERANCE,Public Safety Fee Referendum,,NON,Yes,180,0,7,0,39,0,134
+Marion,ZION,Public Safety Fee Referendum,,NON,Yes,93,0,2,0,24,0,67
+Marion,N WEST MULLINS,Public Safety Fee Referendum,,NON,Yes,215,0,9,0,57,0,149
+Marion,S WEST MULLINS,Public Safety Fee Referendum,,NON,Yes,326,0,15,0,104,0,207
+Marion,N EAST MULLINS,Public Safety Fee Referendum,,NON,Yes,311,0,17,0,98,0,196
+Marion,S EAST MULLINS,Public Safety Fee Referendum,,NON,Yes,329,0,2,0,100,0,227
+Marion,NICHOLS,Public Safety Fee Referendum,,NON,Yes,118,0,2,0,20,0,96
+Marion,Failsafe,Public Safety Fee Referendum,,NON,Yes,5,5,0,0,0,0,0
+Marion,Provisional,Public Safety Fee Referendum,,NON,Yes,8,0,0,0,0,8,0
+Marion,Failsafe Provisional,Public Safety Fee Referendum,,NON,Yes,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Public Safety Fee Referendum,,NON,No,335,0,36,0,55,0,244
+Marion,FRIENDSHIP,Public Safety Fee Referendum,,NON,No,74,0,4,0,13,0,57
+Marion,CENTENARY,Public Safety Fee Referendum,,NON,No,230,0,17,0,61,0,152
+Marion,RAINS,Public Safety Fee Referendum,,NON,No,139,0,9,0,37,0,93
+Marion,MARION NO. 1,Public Safety Fee Referendum,,NON,No,164,0,17,0,49,0,98
+Marion,MARION NO. 2,Public Safety Fee Referendum,,NON,No,248,0,13,0,64,0,171
+Marion,MARION NORTH,Public Safety Fee Referendum,,NON,No,280,0,11,0,88,0,181
+Marion,MARION SOUTH,Public Safety Fee Referendum,,NON,No,451,0,46,0,167,0,238
+Marion,MARION WEST,Public Safety Fee Referendum,,NON,No,292,0,10,0,73,0,209
+Marion,SELLERS,Public Safety Fee Referendum,,NON,No,50,0,3,0,3,0,44
+Marion,TEMPERANCE,Public Safety Fee Referendum,,NON,No,176,0,3,0,47,0,126
+Marion,ZION,Public Safety Fee Referendum,,NON,No,107,0,3,0,20,0,84
+Marion,N WEST MULLINS,Public Safety Fee Referendum,,NON,No,266,0,24,0,75,0,167
+Marion,S WEST MULLINS,Public Safety Fee Referendum,,NON,No,292,0,28,0,93,0,171
+Marion,N EAST MULLINS,Public Safety Fee Referendum,,NON,No,312,0,47,0,91,0,174
+Marion,S EAST MULLINS,Public Safety Fee Referendum,,NON,No,276,0,10,0,73,0,193
+Marion,NICHOLS,Public Safety Fee Referendum,,NON,No,154,0,2,0,27,0,125
+Marion,Failsafe,Public Safety Fee Referendum,,NON,No,6,6,0,0,0,0,0
+Marion,Provisional,Public Safety Fee Referendum,,NON,No,8,0,0,0,0,8,0
+Marion,Failsafe Provisional,Public Safety Fee Referendum,,NON,No,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,City Council District 2 Mullins,,NON,Andre Teco Campbell,19,0,5,0,6,0,8
+Marion,N EAST MULLINS,City Council District 2 Mullins,,NON,Andre Teco Campbell,43,0,3,0,15,0,25
+Marion,Failsafe,City Council District 2 Mullins,,NON,Andre Teco Campbell,1,1,0,0,0,0,0
+Marion,Provisional,City Council District 2 Mullins,,NON,Andre Teco Campbell,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,City Council District 2 Mullins,,NON,Andre Teco Campbell,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,City Council District 2 Mullins,,NON,Albert Bo Woodberry,38,0,4,0,19,0,15
+Marion,N EAST MULLINS,City Council District 2 Mullins,,NON,Albert Bo Woodberry,48,0,4,0,14,0,30
+Marion,Failsafe,City Council District 2 Mullins,,NON,Albert Bo Woodberry,0,0,0,0,0,0,0
+Marion,Provisional,City Council District 2 Mullins,,NON,Albert Bo Woodberry,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,City Council District 2 Mullins,,NON,Albert Bo Woodberry,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,City Council District 2 Mullins,,NON,Write-In,4,0,0,0,2,0,2
+Marion,N EAST MULLINS,City Council District 2 Mullins,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe,City Council District 2 Mullins,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,City Council District 2 Mullins,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,City Council District 2 Mullins,,NON,Write-In,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,City Council District 4 Mullins,,NON,Pat Phillips,38,0,5,0,14,0,19
+Marion,Failsafe,City Council District 4 Mullins,,NON,Pat Phillips,0,0,0,0,0,0,0
+Marion,Provisional,City Council District 4 Mullins,,NON,Pat Phillips,1,0,0,0,0,1,0
+Marion,Failsafe Provisional,City Council District 4 Mullins,,NON,Pat Phillips,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,City Council District 4 Mullins,,NON,Kindra Brewton Pompey,97,0,4,0,29,0,64
+Marion,Failsafe,City Council District 4 Mullins,,NON,Kindra Brewton Pompey,0,0,0,0,0,0,0
+Marion,Provisional,City Council District 4 Mullins,,NON,Kindra Brewton Pompey,1,0,0,0,0,1,0
+Marion,Failsafe Provisional,City Council District 4 Mullins,,NON,Kindra Brewton Pompey,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,City Council District 4 Mullins,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe,City Council District 4 Mullins,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,City Council District 4 Mullins,,NON,Write-In,1,0,0,0,0,1,0
+Marion,Failsafe Provisional,City Council District 4 Mullins,,NON,Write-In,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,City Council District 6 Mullins,,NON,Carolyn Ford Wilson,12,0,3,0,4,0,5
+Marion,S WEST MULLINS,City Council District 6 Mullins,,NON,Carolyn Ford Wilson,106,0,13,0,27,0,66
+Marion,Failsafe,City Council District 6 Mullins,,NON,Carolyn Ford Wilson,0,0,0,0,0,0,0
+Marion,Provisional,City Council District 6 Mullins,,NON,Carolyn Ford Wilson,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,City Council District 6 Mullins,,NON,Carolyn Ford Wilson,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,City Council District 6 Mullins,,NON,Write-In,0,0,0,0,0,0,0
+Marion,S WEST MULLINS,City Council District 6 Mullins,,NON,Write-In,2,0,1,0,1,0,0
+Marion,Failsafe,City Council District 6 Mullins,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,City Council District 6 Mullins,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,City Council District 6 Mullins,,NON,Write-In,0,0,0,0,0,0,0
+Marion,NICHOLS,Mayor Nichols,,NON,Lawson Battle,74,0,3,0,16,0,55
+Marion,Failsafe,Mayor Nichols,,NON,Lawson Battle,0,0,0,0,0,0,0
+Marion,Provisional,Mayor Nichols,,NON,Lawson Battle,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Mayor Nichols,,NON,Lawson Battle,0,0,0,0,0,0,0
+Marion,NICHOLS,Mayor Nichols,,NON,Michael Elliott,34,0,0,0,6,0,28
+Marion,Failsafe,Mayor Nichols,,NON,Michael Elliott,0,0,0,0,0,0,0
+Marion,Provisional,Mayor Nichols,,NON,Michael Elliott,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Mayor Nichols,,NON,Michael Elliott,0,0,0,0,0,0,0
+Marion,NICHOLS,Mayor Nichols,,NON,Write-In,1,0,1,0,0,0,0
+Marion,Failsafe,Mayor Nichols,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,Mayor Nichols,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Mayor Nichols,,NON,Write-In,0,0,0,0,0,0,0
+Marion,NICHOLS,Town Council Nichols,,NON,Michael Elliott,48,0,3,0,12,0,33
+Marion,Failsafe,Town Council Nichols,,NON,Michael Elliott,0,0,0,0,0,0,0
+Marion,Provisional,Town Council Nichols,,NON,Michael Elliott,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Town Council Nichols,,NON,Michael Elliott,0,0,0,0,0,0,0
+Marion,NICHOLS,Town Council Nichols,,NON,Delphia Gause,50,0,1,0,14,0,35
+Marion,Failsafe,Town Council Nichols,,NON,Delphia Gause,0,0,0,0,0,0,0
+Marion,Provisional,Town Council Nichols,,NON,Delphia Gause,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Town Council Nichols,,NON,Delphia Gause,0,0,0,0,0,0,0
+Marion,NICHOLS,Town Council Nichols,,NON,Estella L Lee-Harrell,40,0,2,0,8,0,30
+Marion,Failsafe,Town Council Nichols,,NON,Estella L Lee-Harrell,0,0,0,0,0,0,0
+Marion,Provisional,Town Council Nichols,,NON,Estella L Lee-Harrell,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Town Council Nichols,,NON,Estella L Lee-Harrell,0,0,0,0,0,0,0
+Marion,NICHOLS,Town Council Nichols,,NON,Timothy Overley,24,0,1,0,4,0,19
+Marion,Failsafe,Town Council Nichols,,NON,Timothy Overley,0,0,0,0,0,0,0
+Marion,Provisional,Town Council Nichols,,NON,Timothy Overley,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Town Council Nichols,,NON,Timothy Overley,0,0,0,0,0,0,0
+Marion,NICHOLS,Town Council Nichols,,NON,Write-In,1,0,0,0,1,0,0
+Marion,Failsafe,Town Council Nichols,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Provisional,Town Council Nichols,,NON,Write-In,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Town Council Nichols,,NON,Write-In,0,0,0,0,0,0,0

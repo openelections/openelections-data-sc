@@ -1,0 +1,2379 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Kershaw,Airport,STRAIGHT PARTY 1,,UNC,United Citizens,2,0,0,0,1,0,1
+Kershaw,Antioch,STRAIGHT PARTY 1,,UNC,United Citizens,6,0,0,0,1,0,5
+Kershaw,Bethune,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,0,0,4
+Kershaw,Buffalo,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,0,0,4
+Kershaw,Camden No. 1,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,3,0,2
+Kershaw,Camden No. 2 & 3,STRAIGHT PARTY 1,,UNC,United Citizens,3,0,0,0,0,0,3
+Kershaw,Hobkirk's Hill,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,2,0,3
+Kershaw,Camden No. 5,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,1,0,3
+Kershaw,Camden No. 5-A,STRAIGHT PARTY 1,,UNC,United Citizens,2,0,0,0,2,0,0
+Kershaw,Camden No. 6,STRAIGHT PARTY 1,,UNC,United Citizens,2,0,0,0,0,0,2
+Kershaw,Cassatt,STRAIGHT PARTY 1,,UNC,United Citizens,9,0,0,0,3,0,6
+Kershaw,Charlotte Thompson,STRAIGHT PARTY 1,,UNC,United Citizens,6,0,0,0,3,0,3
+Kershaw,Doby's Mill,STRAIGHT PARTY 1,,UNC,United Citizens,7,0,0,0,0,0,7
+Kershaw,Elgin No. 1,STRAIGHT PARTY 1,,UNC,United Citizens,11,0,0,0,3,0,8
+Kershaw,Elgin No. 2,STRAIGHT PARTY 1,,UNC,United Citizens,2,0,0,0,0,0,2
+Kershaw,Elgin No. 3,STRAIGHT PARTY 1,,UNC,United Citizens,6,0,0,0,0,0,6
+Kershaw,Elgin No. 4,STRAIGHT PARTY 1,,UNC,United Citizens,8,0,0,0,1,0,7
+Kershaw,Elgin No. 5,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,1,0,4
+Kershaw,Elgin No. 6,STRAIGHT PARTY 1,,UNC,United Citizens,3,0,0,0,0,0,3
+Kershaw,Liberty Hill,STRAIGHT PARTY 1,,UNC,United Citizens,1,0,0,0,1,0,0
+Kershaw,Lugoff No. 1,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,1,0,3
+Kershaw,Lugoff No. 2,STRAIGHT PARTY 1,,UNC,United Citizens,11,0,0,0,3,0,8
+Kershaw,Lugoff No. 3,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,0,0,4
+Kershaw,Lugoff No. 4,STRAIGHT PARTY 1,,UNC,United Citizens,6,0,0,0,0,0,6
+Kershaw,Malvern Hill,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,2,0,3
+Kershaw,Rabon's X Roads,STRAIGHT PARTY 1,,UNC,United Citizens,7,0,0,0,4,0,3
+Kershaw,Riverdale,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,2,0,2
+Kershaw,Salt Pond,STRAIGHT PARTY 1,,UNC,United Citizens,6,0,0,0,1,0,5
+Kershaw,Shaylor's Hill,STRAIGHT PARTY 1,,UNC,United Citizens,2,0,0,0,0,0,2
+Kershaw,Springdale,STRAIGHT PARTY 1,,UNC,United Citizens,6,0,0,0,3,0,3
+Kershaw,Westville,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,0,0,4
+Kershaw,Whites Gardens,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,1,0,4
+Kershaw,Failsafe,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Kershaw,Provisional,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Kershaw,Airport,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Kershaw,Antioch,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,1,0,0
+Kershaw,Bethune,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Kershaw,Buffalo,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Camden No. 1,STRAIGHT PARTY 1,,GRN,Green,2,0,0,0,1,0,1
+Kershaw,Camden No. 2 & 3,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Hobkirk's Hill,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Camden No. 5,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Kershaw,Camden No. 5-A,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Camden No. 6,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Cassatt,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Kershaw,Charlotte Thompson,STRAIGHT PARTY 1,,GRN,Green,2,0,0,0,1,0,1
+Kershaw,Doby's Mill,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Kershaw,Elgin No. 1,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Kershaw,Elgin No. 2,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Elgin No. 3,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Elgin No. 4,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Elgin No. 5,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Elgin No. 6,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Liberty Hill,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 1,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 2,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 3,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,1,0,0
+Kershaw,Lugoff No. 4,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Kershaw,Malvern Hill,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,1,0,0
+Kershaw,Rabon's X Roads,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Kershaw,Riverdale,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Salt Pond,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Shaylor's Hill,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Springdale,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Westville,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Whites Gardens,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Failsafe,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Kershaw,Airport,STRAIGHT PARTY 1,,REP,Republican,176,0,2,0,59,0,115
+Kershaw,Antioch,STRAIGHT PARTY 1,,REP,Republican,147,0,1,0,38,0,108
+Kershaw,Bethune,STRAIGHT PARTY 1,,REP,Republican,180,0,2,0,17,0,161
+Kershaw,Buffalo,STRAIGHT PARTY 1,,REP,Republican,337,0,1,0,43,0,293
+Kershaw,Camden No. 1,STRAIGHT PARTY 1,,REP,Republican,150,0,4,0,75,0,71
+Kershaw,Camden No. 2 & 3,STRAIGHT PARTY 1,,REP,Republican,36,0,0,0,24,0,12
+Kershaw,Hobkirk's Hill,STRAIGHT PARTY 1,,REP,Republican,174,0,3,0,108,0,63
+Kershaw,Camden No. 5,STRAIGHT PARTY 1,,REP,Republican,107,0,2,0,57,0,48
+Kershaw,Camden No. 5-A,STRAIGHT PARTY 1,,REP,Republican,34,0,0,0,15,0,19
+Kershaw,Camden No. 6,STRAIGHT PARTY 1,,REP,Republican,115,0,3,0,63,0,49
+Kershaw,Cassatt,STRAIGHT PARTY 1,,REP,Republican,273,0,3,0,61,0,209
+Kershaw,Charlotte Thompson,STRAIGHT PARTY 1,,REP,Republican,246,0,2,0,131,0,113
+Kershaw,Doby's Mill,STRAIGHT PARTY 1,,REP,Republican,350,0,10,0,69,0,271
+Kershaw,Elgin No. 1,STRAIGHT PARTY 1,,REP,Republican,426,0,5,0,113,0,308
+Kershaw,Elgin No. 2,STRAIGHT PARTY 1,,REP,Republican,265,0,5,0,74,0,186
+Kershaw,Elgin No. 3,STRAIGHT PARTY 1,,REP,Republican,250,0,4,0,88,0,158
+Kershaw,Elgin No. 4,STRAIGHT PARTY 1,,REP,Republican,312,0,5,0,78,0,229
+Kershaw,Elgin No. 5,STRAIGHT PARTY 1,,REP,Republican,249,0,7,0,50,0,192
+Kershaw,Elgin No. 6,STRAIGHT PARTY 1,,REP,Republican,139,0,5,0,20,0,114
+Kershaw,Liberty Hill,STRAIGHT PARTY 1,,REP,Republican,169,0,3,0,47,0,119
+Kershaw,Lugoff No. 1,STRAIGHT PARTY 1,,REP,Republican,227,0,5,0,99,0,123
+Kershaw,Lugoff No. 2,STRAIGHT PARTY 1,,REP,Republican,288,0,9,0,103,0,176
+Kershaw,Lugoff No. 3,STRAIGHT PARTY 1,,REP,Republican,296,0,6,0,80,0,210
+Kershaw,Lugoff No. 4,STRAIGHT PARTY 1,,REP,Republican,252,0,7,0,89,0,156
+Kershaw,Malvern Hill,STRAIGHT PARTY 1,,REP,Republican,203,0,4,0,66,0,133
+Kershaw,Rabon's X Roads,STRAIGHT PARTY 1,,REP,Republican,446,0,7,0,112,0,327
+Kershaw,Riverdale,STRAIGHT PARTY 1,,REP,Republican,29,0,2,0,11,0,16
+Kershaw,Salt Pond,STRAIGHT PARTY 1,,REP,Republican,315,0,7,0,98,0,210
+Kershaw,Shaylor's Hill,STRAIGHT PARTY 1,,REP,Republican,200,0,4,0,77,0,119
+Kershaw,Springdale,STRAIGHT PARTY 1,,REP,Republican,270,0,11,0,124,0,135
+Kershaw,Westville,STRAIGHT PARTY 1,,REP,Republican,337,0,4,0,98,0,235
+Kershaw,Whites Gardens,STRAIGHT PARTY 1,,REP,Republican,282,0,5,0,104,0,173
+Kershaw,Failsafe,STRAIGHT PARTY 1,,REP,Republican,0,0,0,0,0,0,0
+Kershaw,Provisional,STRAIGHT PARTY 1,,REP,Republican,4,0,0,0,0,4,0
+Kershaw,Failsafe Provisional,STRAIGHT PARTY 1,,REP,Republican,1,0,0,1,0,0,0
+Kershaw,Airport,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Antioch,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Bethune,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Buffalo,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Camden No. 1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Camden No. 2 & 3,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Hobkirk's Hill,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Camden No. 5,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Camden No. 5-A,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Camden No. 6,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Cassatt,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Charlotte Thompson,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Doby's Mill,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Elgin No. 1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Elgin No. 2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Elgin No. 3,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Elgin No. 4,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Elgin No. 5,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Elgin No. 6,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Liberty Hill,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 1,STRAIGHT PARTY 1,,ALN,Alliance,1,0,0,0,1,0,0
+Kershaw,Lugoff No. 2,STRAIGHT PARTY 1,,ALN,Alliance,1,0,1,0,0,0,0
+Kershaw,Lugoff No. 3,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 4,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Malvern Hill,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Rabon's X Roads,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Riverdale,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Salt Pond,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Shaylor's Hill,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Springdale,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Westville,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Whites Gardens,STRAIGHT PARTY 1,,ALN,Alliance,1,0,0,0,0,0,1
+Kershaw,Failsafe,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Kershaw,Airport,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Kershaw,Antioch,STRAIGHT PARTY 1,,LIB,Libertarian,3,0,0,0,0,0,3
+Kershaw,Bethune,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Buffalo,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,0,0,2
+Kershaw,Camden No. 1,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,1,0,1
+Kershaw,Camden No. 2 & 3,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,1,0,0
+Kershaw,Hobkirk's Hill,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Kershaw,Camden No. 5,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Kershaw,Camden No. 5-A,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Kershaw,Camden No. 6,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,1,0,0
+Kershaw,Cassatt,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Charlotte Thompson,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Kershaw,Doby's Mill,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,1,0,1
+Kershaw,Elgin No. 1,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Kershaw,Elgin No. 2,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,1,0,0
+Kershaw,Elgin No. 3,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Elgin No. 4,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Elgin No. 5,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Elgin No. 6,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Kershaw,Liberty Hill,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 1,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 2,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Kershaw,Lugoff No. 3,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,1,0,0
+Kershaw,Lugoff No. 4,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Kershaw,Malvern Hill,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,0,0,2
+Kershaw,Rabon's X Roads,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Riverdale,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Kershaw,Salt Pond,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Shaylor's Hill,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Springdale,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Kershaw,Westville,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Whites Gardens,STRAIGHT PARTY 1,,LIB,Libertarian,4,0,0,0,0,0,4
+Kershaw,Failsafe,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Kershaw,Airport,STRAIGHT PARTY 1,,DEM,Democratic,93,0,0,0,45,0,48
+Kershaw,Antioch,STRAIGHT PARTY 1,,DEM,Democratic,72,0,0,0,35,0,37
+Kershaw,Bethune,STRAIGHT PARTY 1,,DEM,Democratic,116,0,0,0,36,0,80
+Kershaw,Buffalo,STRAIGHT PARTY 1,,DEM,Democratic,45,0,2,0,10,0,33
+Kershaw,Camden No. 1,STRAIGHT PARTY 1,,DEM,Democratic,228,0,2,0,137,0,89
+Kershaw,Camden No. 2 & 3,STRAIGHT PARTY 1,,DEM,Democratic,30,0,0,0,17,0,13
+Kershaw,Hobkirk's Hill,STRAIGHT PARTY 1,,DEM,Democratic,120,0,3,0,63,0,54
+Kershaw,Camden No. 5,STRAIGHT PARTY 1,,DEM,Democratic,55,0,1,0,28,0,26
+Kershaw,Camden No. 5-A,STRAIGHT PARTY 1,,DEM,Democratic,83,0,1,0,32,0,50
+Kershaw,Camden No. 6,STRAIGHT PARTY 1,,DEM,Democratic,73,0,3,0,39,0,31
+Kershaw,Cassatt,STRAIGHT PARTY 1,,DEM,Democratic,89,0,1,0,43,0,45
+Kershaw,Charlotte Thompson,STRAIGHT PARTY 1,,DEM,Democratic,209,0,5,0,132,0,72
+Kershaw,Doby's Mill,STRAIGHT PARTY 1,,DEM,Democratic,156,0,1,0,77,0,78
+Kershaw,Elgin No. 1,STRAIGHT PARTY 1,,DEM,Democratic,234,0,7,0,82,0,145
+Kershaw,Elgin No. 2,STRAIGHT PARTY 1,,DEM,Democratic,165,0,7,0,76,0,82
+Kershaw,Elgin No. 3,STRAIGHT PARTY 1,,DEM,Democratic,141,0,4,0,65,0,72
+Kershaw,Elgin No. 4,STRAIGHT PARTY 1,,DEM,Democratic,159,0,3,0,58,0,98
+Kershaw,Elgin No. 5,STRAIGHT PARTY 1,,DEM,Democratic,119,0,1,0,32,0,86
+Kershaw,Elgin No. 6,STRAIGHT PARTY 1,,DEM,Democratic,156,0,1,0,36,0,119
+Kershaw,Liberty Hill,STRAIGHT PARTY 1,,DEM,Democratic,34,0,0,0,12,0,22
+Kershaw,Lugoff No. 1,STRAIGHT PARTY 1,,DEM,Democratic,90,0,9,0,37,0,44
+Kershaw,Lugoff No. 2,STRAIGHT PARTY 1,,DEM,Democratic,125,0,1,0,67,0,57
+Kershaw,Lugoff No. 3,STRAIGHT PARTY 1,,DEM,Democratic,96,0,2,0,45,0,49
+Kershaw,Lugoff No. 4,STRAIGHT PARTY 1,,DEM,Democratic,89,0,0,0,49,0,40
+Kershaw,Malvern Hill,STRAIGHT PARTY 1,,DEM,Democratic,135,0,2,0,63,0,70
+Kershaw,Rabon's X Roads,STRAIGHT PARTY 1,,DEM,Democratic,131,0,5,0,58,0,68
+Kershaw,Riverdale,STRAIGHT PARTY 1,,DEM,Democratic,154,0,4,0,72,0,78
+Kershaw,Salt Pond,STRAIGHT PARTY 1,,DEM,Democratic,98,0,5,0,48,0,45
+Kershaw,Shaylor's Hill,STRAIGHT PARTY 1,,DEM,Democratic,104,0,1,0,61,0,42
+Kershaw,Springdale,STRAIGHT PARTY 1,,DEM,Democratic,224,0,3,0,123,0,98
+Kershaw,Westville,STRAIGHT PARTY 1,,DEM,Democratic,88,0,0,0,51,0,37
+Kershaw,Whites Gardens,STRAIGHT PARTY 1,,DEM,Democratic,136,0,2,0,69,0,65
+Kershaw,Failsafe,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Kershaw,Provisional,STRAIGHT PARTY 1,,DEM,Democratic,2,0,0,0,0,2,0
+Kershaw,Failsafe Provisional,STRAIGHT PARTY 1,,DEM,Democratic,1,0,0,1,0,0,0
+Kershaw,Airport,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,362,0,5,0,152,0,205
+Kershaw,Antioch,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,260,0,4,0,62,0,194
+Kershaw,Bethune,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,364,0,5,0,38,0,321
+Kershaw,Buffalo,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,606,0,6,0,78,0,522
+Kershaw,Camden No. 1,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,349,0,10,0,179,0,160
+Kershaw,Camden No. 2 & 3,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,103,0,0,0,59,0,44
+Kershaw,Hobkirk's Hill,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,586,0,9,0,298,0,279
+Kershaw,Camden No. 5,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,343,0,9,0,162,0,172
+Kershaw,Camden No. 5-A,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,99,0,0,0,40,0,59
+Kershaw,Camden No. 6,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,254,0,15,0,122,0,117
+Kershaw,Cassatt,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,462,0,4,0,109,0,349
+Kershaw,Charlotte Thompson,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,461,0,5,0,239,0,217
+Kershaw,Doby's Mill,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,537,0,12,0,93,0,432
+Kershaw,Elgin No. 1,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,748,0,13,0,177,0,558
+Kershaw,Elgin No. 2,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,506,0,7,0,152,0,347
+Kershaw,Elgin No. 3,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,416,0,5,0,135,0,276
+Kershaw,Elgin No. 4,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,535,0,9,0,126,0,400
+Kershaw,Elgin No. 5,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,428,0,14,0,81,0,333
+Kershaw,Elgin No. 6,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,266,0,9,0,38,0,219
+Kershaw,Liberty Hill,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,275,0,5,0,74,0,196
+Kershaw,Lugoff No. 1,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,417,0,8,0,166,0,243
+Kershaw,Lugoff No. 2,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,597,0,15,0,209,0,373
+Kershaw,Lugoff No. 3,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,584,0,9,0,173,0,402
+Kershaw,Lugoff No. 4,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,549,0,12,0,180,0,357
+Kershaw,Malvern Hill,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,401,0,5,0,130,0,266
+Kershaw,Rabon's X Roads,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,872,0,11,0,207,0,654
+Kershaw,Riverdale,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,57,0,2,0,20,0,35
+Kershaw,Salt Pond,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,468,0,10,0,154,0,304
+Kershaw,Shaylor's Hill,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,360,0,9,0,133,0,218
+Kershaw,Springdale,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,616,0,15,0,274,0,327
+Kershaw,Westville,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,593,0,5,0,158,0,430
+Kershaw,Whites Gardens,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,541,0,10,0,210,0,321
+Kershaw,Failsafe,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,0,0,0,0,0,0,0
+Kershaw,Provisional,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,7,0,0,0,0,7,0
+Kershaw,Failsafe Provisional,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,2,0,0,2,0,0,0
+Kershaw,Airport,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,8,0,0,0,1,0,7
+Kershaw,Antioch,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,7,0,0,0,0,0,7
+Kershaw,Bethune,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,10,0,0,0,2,0,8
+Kershaw,Buffalo,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,9,0,0,0,0,0,9
+Kershaw,Camden No. 1,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,15,0,0,0,5,0,10
+Kershaw,Camden No. 2 & 3,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,3,0,0,0,1,0,2
+Kershaw,Hobkirk's Hill,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,9,0,0,0,1,0,8
+Kershaw,Camden No. 5,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,9,0,0,0,3,0,6
+Kershaw,Camden No. 5-A,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,6,0,0,0,0,0,6
+Kershaw,Camden No. 6,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,5,0,0,0,4,0,1
+Kershaw,Cassatt,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,6,0,0,0,1,0,5
+Kershaw,Charlotte Thompson,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,12,0,0,0,4,0,8
+Kershaw,Doby's Mill,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,16,0,0,0,2,0,14
+Kershaw,Elgin No. 1,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,12,0,0,0,3,0,9
+Kershaw,Elgin No. 2,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,13,0,0,0,4,0,9
+Kershaw,Elgin No. 3,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,7,0,0,0,2,0,5
+Kershaw,Elgin No. 4,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,9,0,0,0,1,0,8
+Kershaw,Elgin No. 5,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,8,0,0,0,2,0,6
+Kershaw,Elgin No. 6,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,14,0,0,0,0,0,14
+Kershaw,Liberty Hill,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,1,0,0,0,0,0,1
+Kershaw,Lugoff No. 1,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,5,0,0,0,2,0,3
+Kershaw,Lugoff No. 2,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,17,0,0,0,0,0,17
+Kershaw,Lugoff No. 3,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,9,0,0,0,6,0,3
+Kershaw,Lugoff No. 4,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,10,0,0,0,0,0,10
+Kershaw,Malvern Hill,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,8,0,0,0,1,0,7
+Kershaw,Rabon's X Roads,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,5,0,0,0,1,0,4
+Kershaw,Riverdale,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,2,0,0,0,0,0,2
+Kershaw,Salt Pond,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,10,0,0,0,0,0,10
+Kershaw,Shaylor's Hill,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,5,0,0,0,4,0,1
+Kershaw,Springdale,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,18,0,0,0,4,0,14
+Kershaw,Westville,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,9,0,0,0,1,0,8
+Kershaw,Whites Gardens,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,16,0,0,0,3,0,13
+Kershaw,Failsafe,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,0,0,0,0,0,0,0
+Kershaw,Provisional,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,0,0,0,0,0,0,0
+Kershaw,Airport,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,179,0,1,0,88,0,90
+Kershaw,Antioch,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,132,0,0,0,63,0,69
+Kershaw,Bethune,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,203,0,1,0,55,0,147
+Kershaw,Buffalo,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,96,0,3,0,22,0,71
+Kershaw,Camden No. 1,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,386,0,4,0,230,0,152
+Kershaw,Camden No. 2 & 3,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,83,0,1,0,50,0,32
+Kershaw,Hobkirk's Hill,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,433,0,9,0,235,0,189
+Kershaw,Camden No. 5,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,209,0,6,0,98,0,105
+Kershaw,Camden No. 5-A,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,148,0,4,0,56,0,88
+Kershaw,Camden No. 6,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,178,0,6,0,79,0,93
+Kershaw,Cassatt,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,162,0,1,0,70,0,91
+Kershaw,Charlotte Thompson,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,367,0,9,0,223,0,135
+Kershaw,Doby's Mill,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,291,0,6,0,118,0,167
+Kershaw,Elgin No. 1,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,516,0,14,0,166,0,336
+Kershaw,Elgin No. 2,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,356,0,13,0,131,0,212
+Kershaw,Elgin No. 3,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,321,0,6,0,132,0,183
+Kershaw,Elgin No. 4,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,368,0,5,0,110,0,253
+Kershaw,Elgin No. 5,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,276,0,8,0,64,0,204
+Kershaw,Elgin No. 6,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,284,0,2,0,79,0,203
+Kershaw,Liberty Hill,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,73,0,0,0,21,0,52
+Kershaw,Lugoff No. 1,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,184,0,10,0,78,0,96
+Kershaw,Lugoff No. 2,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,294,0,10,0,127,0,157
+Kershaw,Lugoff No. 3,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,246,0,9,0,101,0,136
+Kershaw,Lugoff No. 4,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,215,0,1,0,110,0,104
+Kershaw,Malvern Hill,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,235,0,2,0,114,0,119
+Kershaw,Rabon's X Roads,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,284,0,10,0,120,0,154
+Kershaw,Riverdale,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,241,0,9,0,104,0,128
+Kershaw,Salt Pond,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,178,0,7,0,81,0,90
+Kershaw,Shaylor's Hill,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,193,0,3,0,114,0,76
+Kershaw,Springdale,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,514,0,20,0,269,0,225
+Kershaw,Westville,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,169,0,1,0,83,0,85
+Kershaw,Whites Gardens,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,251,0,6,0,119,0,126
+Kershaw,Failsafe,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,0,0,0,0,0,0,0
+Kershaw,Provisional,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,6,0,0,0,0,6,0
+Kershaw,Failsafe Provisional,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,1,0,0,1,0,0,0
+Kershaw,Airport,Governor and Lieutenant Governor,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Antioch,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Bethune,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Buffalo,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 1,Governor and Lieutenant Governor,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Camden No. 2 & 3,Governor and Lieutenant Governor,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Hobkirk's Hill,Governor and Lieutenant Governor,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Camden No. 5,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 5-A,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 6,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Cassatt,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Charlotte Thompson,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Doby's Mill,Governor and Lieutenant Governor,,NON,Write-In,1,0,1,0,0,0,0
+Kershaw,Elgin No. 1,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 2,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 3,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 4,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 5,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 6,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Liberty Hill,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 1,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 2,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 3,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 4,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Malvern Hill,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Rabon's X Roads,Governor and Lieutenant Governor,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Riverdale,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Salt Pond,Governor and Lieutenant Governor,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Shaylor's Hill,Governor and Lieutenant Governor,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Springdale,Governor and Lieutenant Governor,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Westville,Governor and Lieutenant Governor,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Whites Gardens,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,Secretary of State,,REP,REP Mark Hammond,381,0,5,0,157,0,219
+Kershaw,Antioch,Secretary of State,,REP,REP Mark Hammond,277,0,4,0,67,0,206
+Kershaw,Bethune,Secretary of State,,REP,REP Mark Hammond,384,0,5,0,39,0,340
+Kershaw,Buffalo,Secretary of State,,REP,REP Mark Hammond,631,0,6,0,82,0,543
+Kershaw,Camden No. 1,Secretary of State,,REP,REP Mark Hammond,398,0,10,0,203,0,185
+Kershaw,Camden No. 2 & 3,Secretary of State,,REP,REP Mark Hammond,122,0,0,0,72,0,50
+Kershaw,Hobkirk's Hill,Secretary of State,,REP,REP Mark Hammond,691,0,11,0,353,0,327
+Kershaw,Camden No. 5,Secretary of State,,REP,REP Mark Hammond,393,0,9,0,183,0,201
+Kershaw,Camden No. 5-A,Secretary of State,,REP,REP Mark Hammond,112,0,1,0,46,0,65
+Kershaw,Camden No. 6,Secretary of State,,REP,REP Mark Hammond,278,0,15,0,136,0,127
+Kershaw,Cassatt,Secretary of State,,REP,REP Mark Hammond,485,0,4,0,117,0,364
+Kershaw,Charlotte Thompson,Secretary of State,,REP,REP Mark Hammond,503,0,5,0,259,0,239
+Kershaw,Doby's Mill,Secretary of State,,REP,REP Mark Hammond,579,0,14,0,99,0,466
+Kershaw,Elgin No. 1,Secretary of State,,REP,REP Mark Hammond,802,0,13,0,192,0,597
+Kershaw,Elgin No. 2,Secretary of State,,REP,REP Mark Hammond,557,0,7,0,167,0,383
+Kershaw,Elgin No. 3,Secretary of State,,REP,REP Mark Hammond,463,0,6,0,145,0,312
+Kershaw,Elgin No. 4,Secretary of State,,REP,REP Mark Hammond,609,0,9,0,135,0,465
+Kershaw,Elgin No. 5,Secretary of State,,REP,REP Mark Hammond,468,0,14,0,89,0,365
+Kershaw,Elgin No. 6,Secretary of State,,REP,REP Mark Hammond,294,0,10,0,39,0,245
+Kershaw,Liberty Hill,Secretary of State,,REP,REP Mark Hammond,285,0,5,0,78,0,202
+Kershaw,Lugoff No. 1,Secretary of State,,REP,REP Mark Hammond,457,0,8,0,179,0,270
+Kershaw,Lugoff No. 2,Secretary of State,,REP,REP Mark Hammond,639,0,16,0,213,0,410
+Kershaw,Lugoff No. 3,Secretary of State,,REP,REP Mark Hammond,625,0,9,0,182,0,434
+Kershaw,Lugoff No. 4,Secretary of State,,REP,REP Mark Hammond,589,0,12,0,196,0,381
+Kershaw,Malvern Hill,Secretary of State,,REP,REP Mark Hammond,417,0,4,0,131,0,282
+Kershaw,Rabon's X Roads,Secretary of State,,REP,REP Mark Hammond,920,0,11,0,217,0,692
+Kershaw,Riverdale,Secretary of State,,REP,REP Mark Hammond,67,0,2,0,23,0,42
+Kershaw,Salt Pond,Secretary of State,,REP,REP Mark Hammond,501,0,10,0,162,0,329
+Kershaw,Shaylor's Hill,Secretary of State,,REP,REP Mark Hammond,386,0,8,0,146,0,232
+Kershaw,Springdale,Secretary of State,,REP,REP Mark Hammond,684,0,17,0,301,0,366
+Kershaw,Westville,Secretary of State,,REP,REP Mark Hammond,615,0,5,0,169,0,441
+Kershaw,Whites Gardens,Secretary of State,,REP,REP Mark Hammond,581,0,13,0,222,0,346
+Kershaw,Failsafe,Secretary of State,,REP,REP Mark Hammond,0,0,0,0,0,0,0
+Kershaw,Provisional,Secretary of State,,REP,REP Mark Hammond,8,0,0,0,0,8,0
+Kershaw,Failsafe Provisional,Secretary of State,,REP,REP Mark Hammond,2,0,0,2,0,0,0
+Kershaw,Airport,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,166,0,1,0,86,0,79
+Kershaw,Antioch,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,118,0,0,0,57,0,61
+Kershaw,Bethune,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,183,0,1,0,52,0,130
+Kershaw,Buffalo,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,78,0,3,0,18,0,57
+Kershaw,Camden No. 1,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,350,0,4,0,210,0,136
+Kershaw,Camden No. 2 & 3,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,67,0,1,0,39,0,27
+Kershaw,Hobkirk's Hill,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,318,0,9,0,177,0,132
+Kershaw,Camden No. 5,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,163,0,6,0,79,0,78
+Kershaw,Camden No. 5-A,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,139,0,3,0,49,0,87
+Kershaw,Camden No. 6,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,150,0,5,0,68,0,77
+Kershaw,Cassatt,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,143,0,1,0,60,0,82
+Kershaw,Charlotte Thompson,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,332,0,9,0,202,0,121
+Kershaw,Doby's Mill,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,265,0,5,0,113,0,147
+Kershaw,Elgin No. 1,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,463,0,14,0,152,0,297
+Kershaw,Elgin No. 2,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,316,0,13,0,121,0,182
+Kershaw,Elgin No. 3,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,283,0,5,0,125,0,153
+Kershaw,Elgin No. 4,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,305,0,5,0,102,0,198
+Kershaw,Elgin No. 5,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,241,0,8,0,58,0,175
+Kershaw,Elgin No. 6,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,268,0,1,0,78,0,189
+Kershaw,Liberty Hill,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,64,0,0,0,18,0,46
+Kershaw,Lugoff No. 1,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,153,0,10,0,71,0,72
+Kershaw,Lugoff No. 2,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,261,0,9,0,122,0,130
+Kershaw,Lugoff No. 3,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,209,0,8,0,95,0,106
+Kershaw,Lugoff No. 4,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,181,0,1,0,92,0,88
+Kershaw,Malvern Hill,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,224,0,3,0,111,0,110
+Kershaw,Rabon's X Roads,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,239,0,9,0,109,0,121
+Kershaw,Riverdale,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,231,0,9,0,100,0,122
+Kershaw,Salt Pond,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,155,0,6,0,72,0,77
+Kershaw,Shaylor's Hill,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,169,0,3,0,104,0,62
+Kershaw,Springdale,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,455,0,18,0,244,0,193
+Kershaw,Westville,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,156,0,1,0,75,0,80
+Kershaw,Whites Gardens,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,221,0,4,0,107,0,110
+Kershaw,Failsafe,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,0,0,0,0,0,0,0
+Kershaw,Provisional,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,6,0,0,0,0,6,0
+Kershaw,Failsafe Provisional,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,1,0,0,1,0,0,0
+Kershaw,Airport,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Antioch,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Bethune,Secretary of State,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Buffalo,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 1,Secretary of State,,NON,Write-In,2,0,0,0,2,0,0
+Kershaw,Camden No. 2 & 3,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Hobkirk's Hill,Secretary of State,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Camden No. 5,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 5-A,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 6,Secretary of State,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Cassatt,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Charlotte Thompson,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Doby's Mill,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 1,Secretary of State,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Elgin No. 2,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 3,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 4,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 5,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 6,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Liberty Hill,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 1,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 2,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 3,Secretary of State,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Lugoff No. 4,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Malvern Hill,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Rabon's X Roads,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Riverdale,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Salt Pond,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Shaylor's Hill,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Springdale,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Westville,Secretary of State,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Whites Gardens,Secretary of State,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Failsafe,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,State Treasurer,,REP,REP Curtis Loftis,403,0,5,0,164,0,234
+Kershaw,Antioch,State Treasurer,,REP,REP Curtis Loftis,288,0,4,0,72,0,212
+Kershaw,Bethune,State Treasurer,,REP,REP Curtis Loftis,399,0,5,0,46,0,348
+Kershaw,Buffalo,State Treasurer,,REP,REP Curtis Loftis,633,0,6,0,81,0,546
+Kershaw,Camden No. 1,State Treasurer,,REP,REP Curtis Loftis,424,0,10,0,222,0,192
+Kershaw,Camden No. 2 & 3,State Treasurer,,REP,REP Curtis Loftis,131,0,0,0,77,0,54
+Kershaw,Hobkirk's Hill,State Treasurer,,REP,REP Curtis Loftis,753,0,14,0,383,0,356
+Kershaw,Camden No. 5,State Treasurer,,REP,REP Curtis Loftis,416,0,9,0,196,0,211
+Kershaw,Camden No. 5-A,State Treasurer,,REP,REP Curtis Loftis,126,0,1,0,49,0,76
+Kershaw,Camden No. 6,State Treasurer,,REP,REP Curtis Loftis,291,0,14,0,144,0,133
+Kershaw,Cassatt,State Treasurer,,REP,REP Curtis Loftis,490,0,4,0,122,0,364
+Kershaw,Charlotte Thompson,State Treasurer,,REP,REP Curtis Loftis,525,0,5,0,274,0,246
+Kershaw,Doby's Mill,State Treasurer,,REP,REP Curtis Loftis,606,0,16,0,106,0,484
+Kershaw,Elgin No. 1,State Treasurer,,REP,REP Curtis Loftis,858,0,14,0,208,0,636
+Kershaw,Elgin No. 2,State Treasurer,,REP,REP Curtis Loftis,591,0,7,0,176,0,408
+Kershaw,Elgin No. 3,State Treasurer,,REP,REP Curtis Loftis,492,0,6,0,157,0,329
+Kershaw,Elgin No. 4,State Treasurer,,REP,REP Curtis Loftis,621,0,9,0,142,0,470
+Kershaw,Elgin No. 5,State Treasurer,,REP,REP Curtis Loftis,495,0,15,0,99,0,381
+Kershaw,Elgin No. 6,State Treasurer,,REP,REP Curtis Loftis,312,0,10,0,45,0,257
+Kershaw,Liberty Hill,State Treasurer,,REP,REP Curtis Loftis,288,0,5,0,76,0,207
+Kershaw,Lugoff No. 1,State Treasurer,,REP,REP Curtis Loftis,458,0,8,0,180,0,270
+Kershaw,Lugoff No. 2,State Treasurer,,REP,REP Curtis Loftis,676,0,14,0,232,0,430
+Kershaw,Lugoff No. 3,State Treasurer,,REP,REP Curtis Loftis,649,0,10,0,195,0,444
+Kershaw,Lugoff No. 4,State Treasurer,,REP,REP Curtis Loftis,609,0,12,0,208,0,389
+Kershaw,Malvern Hill,State Treasurer,,REP,REP Curtis Loftis,436,0,4,0,142,0,290
+Kershaw,Rabon's X Roads,State Treasurer,,REP,REP Curtis Loftis,953,0,12,0,233,0,708
+Kershaw,Riverdale,State Treasurer,,REP,REP Curtis Loftis,84,0,3,0,33,0,48
+Kershaw,Salt Pond,State Treasurer,,REP,REP Curtis Loftis,513,0,10,0,166,0,337
+Kershaw,Shaylor's Hill,State Treasurer,,REP,REP Curtis Loftis,401,0,10,0,157,0,234
+Kershaw,Springdale,State Treasurer,,REP,REP Curtis Loftis,749,0,18,0,341,0,390
+Kershaw,Westville,State Treasurer,,REP,REP Curtis Loftis,630,0,5,0,177,0,448
+Kershaw,Whites Gardens,State Treasurer,,REP,REP Curtis Loftis,593,0,13,0,226,0,354
+Kershaw,Failsafe,State Treasurer,,REP,REP Curtis Loftis,0,0,0,0,0,0,0
+Kershaw,Provisional,State Treasurer,,REP,REP Curtis Loftis,9,0,0,0,0,9,0
+Kershaw,Failsafe Provisional,State Treasurer,,REP,REP Curtis Loftis,2,0,0,2,0,0,0
+Kershaw,Airport,State Treasurer,,ALN,ALN Sarah E Work,63,0,1,0,35,0,27
+Kershaw,Antioch,State Treasurer,,ALN,ALN Sarah E Work,46,0,0,0,15,0,31
+Kershaw,Bethune,State Treasurer,,ALN,ALN Sarah E Work,57,0,0,0,16,0,41
+Kershaw,Buffalo,State Treasurer,,ALN,ALN Sarah E Work,37,0,1,0,8,0,28
+Kershaw,Camden No. 1,State Treasurer,,ALN,ALN Sarah E Work,140,0,1,0,73,0,66
+Kershaw,Camden No. 2 & 3,State Treasurer,,ALN,ALN Sarah E Work,27,0,1,0,13,0,13
+Kershaw,Hobkirk's Hill,State Treasurer,,ALN,ALN Sarah E Work,131,0,2,0,74,0,55
+Kershaw,Camden No. 5,State Treasurer,,ALN,ALN Sarah E Work,88,0,4,0,37,0,47
+Kershaw,Camden No. 5-A,State Treasurer,,ALN,ALN Sarah E Work,50,0,1,0,16,0,33
+Kershaw,Camden No. 6,State Treasurer,,ALN,ALN Sarah E Work,70,0,3,0,22,0,45
+Kershaw,Cassatt,State Treasurer,,ALN,ALN Sarah E Work,67,0,1,0,24,0,42
+Kershaw,Charlotte Thompson,State Treasurer,,ALN,ALN Sarah E Work,116,0,1,0,59,0,56
+Kershaw,Doby's Mill,State Treasurer,,ALN,ALN Sarah E Work,128,0,2,0,50,0,76
+Kershaw,Elgin No. 1,State Treasurer,,ALN,ALN Sarah E Work,252,0,4,0,70,0,178
+Kershaw,Elgin No. 2,State Treasurer,,ALN,ALN Sarah E Work,154,0,7,0,54,0,93
+Kershaw,Elgin No. 3,State Treasurer,,ALN,ALN Sarah E Work,131,0,5,0,54,0,72
+Kershaw,Elgin No. 4,State Treasurer,,ALN,ALN Sarah E Work,170,0,2,0,46,0,122
+Kershaw,Elgin No. 5,State Treasurer,,ALN,ALN Sarah E Work,134,0,5,0,28,0,101
+Kershaw,Elgin No. 6,State Treasurer,,ALN,ALN Sarah E Work,140,0,0,0,47,0,93
+Kershaw,Liberty Hill,State Treasurer,,ALN,ALN Sarah E Work,30,0,0,0,6,0,24
+Kershaw,Lugoff No. 1,State Treasurer,,ALN,ALN Sarah E Work,84,0,4,0,37,0,43
+Kershaw,Lugoff No. 2,State Treasurer,,ALN,ALN Sarah E Work,117,0,9,0,49,0,59
+Kershaw,Lugoff No. 3,State Treasurer,,ALN,ALN Sarah E Work,104,0,3,0,41,0,60
+Kershaw,Lugoff No. 4,State Treasurer,,ALN,ALN Sarah E Work,96,0,1,0,40,0,55
+Kershaw,Malvern Hill,State Treasurer,,ALN,ALN Sarah E Work,77,0,1,0,35,0,41
+Kershaw,Rabon's X Roads,State Treasurer,,ALN,ALN Sarah E Work,102,0,3,0,46,0,53
+Kershaw,Riverdale,State Treasurer,,ALN,ALN Sarah E Work,65,0,2,0,23,0,40
+Kershaw,Salt Pond,State Treasurer,,ALN,ALN Sarah E Work,66,0,3,0,30,0,33
+Kershaw,Shaylor's Hill,State Treasurer,,ALN,ALN Sarah E Work,53,0,1,0,33,0,19
+Kershaw,Springdale,State Treasurer,,ALN,ALN Sarah E Work,170,0,9,0,81,0,80
+Kershaw,Westville,State Treasurer,,ALN,ALN Sarah E Work,64,0,1,0,18,0,45
+Kershaw,Whites Gardens,State Treasurer,,ALN,ALN Sarah E Work,88,0,3,0,33,0,52
+Kershaw,Failsafe,State Treasurer,,ALN,ALN Sarah E Work,0,0,0,0,0,0,0
+Kershaw,Provisional,State Treasurer,,ALN,ALN Sarah E Work,3,0,0,0,0,3,0
+Kershaw,Failsafe Provisional,State Treasurer,,ALN,ALN Sarah E Work,0,0,0,0,0,0,0
+Kershaw,Airport,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Antioch,State Treasurer,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Bethune,State Treasurer,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Buffalo,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 1,State Treasurer,,NON,Write-In,3,0,0,0,1,0,2
+Kershaw,Camden No. 2 & 3,State Treasurer,,NON,Write-In,2,0,0,0,2,0,0
+Kershaw,Hobkirk's Hill,State Treasurer,,NON,Write-In,3,0,0,0,1,0,2
+Kershaw,Camden No. 5,State Treasurer,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Camden No. 5-A,State Treasurer,,NON,Write-In,1,0,1,0,0,0,0
+Kershaw,Camden No. 6,State Treasurer,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Cassatt,State Treasurer,,NON,Write-In,4,0,0,0,0,0,4
+Kershaw,Charlotte Thompson,State Treasurer,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Doby's Mill,State Treasurer,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Elgin No. 1,State Treasurer,,NON,Write-In,6,0,0,0,1,0,5
+Kershaw,Elgin No. 2,State Treasurer,,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Elgin No. 3,State Treasurer,,NON,Write-In,5,0,0,0,0,0,5
+Kershaw,Elgin No. 4,State Treasurer,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Elgin No. 5,State Treasurer,,NON,Write-In,5,0,0,0,1,0,4
+Kershaw,Elgin No. 6,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Liberty Hill,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 1,State Treasurer,,NON,Write-In,2,0,0,0,2,0,0
+Kershaw,Lugoff No. 2,State Treasurer,,NON,Write-In,2,0,1,0,1,0,0
+Kershaw,Lugoff No. 3,State Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Lugoff No. 4,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Malvern Hill,State Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Rabon's X Roads,State Treasurer,,NON,Write-In,6,0,1,0,3,0,2
+Kershaw,Riverdale,State Treasurer,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Salt Pond,State Treasurer,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Shaylor's Hill,State Treasurer,,NON,Write-In,4,0,0,0,4,0,0
+Kershaw,Springdale,State Treasurer,,NON,Write-In,3,0,0,0,2,0,1
+Kershaw,Westville,State Treasurer,,NON,Write-In,3,0,0,0,1,0,2
+Kershaw,Whites Gardens,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,Attorney General,,REP,REP Alan Wilson,426,0,5,0,175,0,246
+Kershaw,Antioch,Attorney General,,REP,REP Alan Wilson,310,0,4,0,77,0,229
+Kershaw,Bethune,Attorney General,,REP,REP Alan Wilson,415,0,5,0,46,0,364
+Kershaw,Buffalo,Attorney General,,REP,REP Alan Wilson,643,0,6,0,86,0,551
+Kershaw,Camden No. 1,Attorney General,,REP,REP Alan Wilson,480,0,10,0,241,0,229
+Kershaw,Camden No. 2 & 3,Attorney General,,REP,REP Alan Wilson,135,0,0,0,79,0,56
+Kershaw,Hobkirk's Hill,Attorney General,,REP,REP Alan Wilson,766,0,12,0,381,0,373
+Kershaw,Camden No. 5,Attorney General,,REP,REP Alan Wilson,438,0,11,0,200,0,227
+Kershaw,Camden No. 5-A,Attorney General,,REP,REP Alan Wilson,145,0,1,0,53,0,91
+Kershaw,Camden No. 6,Attorney General,,REP,REP Alan Wilson,318,0,17,0,150,0,151
+Kershaw,Cassatt,Attorney General,,REP,REP Alan Wilson,520,0,4,0,132,0,384
+Kershaw,Charlotte Thompson,Attorney General,,REP,REP Alan Wilson,575,0,5,0,285,0,285
+Kershaw,Doby's Mill,Attorney General,,REP,REP Alan Wilson,650,0,15,0,116,0,519
+Kershaw,Elgin No. 1,Attorney General,,REP,REP Alan Wilson,979,0,16,0,230,0,733
+Kershaw,Elgin No. 2,Attorney General,,REP,REP Alan Wilson,643,0,8,0,186,0,449
+Kershaw,Elgin No. 3,Attorney General,,REP,REP Alan Wilson,546,0,8,0,173,0,365
+Kershaw,Elgin No. 4,Attorney General,,REP,REP Alan Wilson,698,0,9,0,155,0,534
+Kershaw,Elgin No. 5,Attorney General,,REP,REP Alan Wilson,552,0,14,0,108,0,430
+Kershaw,Elgin No. 6,Attorney General,,REP,REP Alan Wilson,359,0,10,0,55,0,294
+Kershaw,Liberty Hill,Attorney General,,REP,REP Alan Wilson,299,0,5,0,76,0,218
+Kershaw,Lugoff No. 1,Attorney General,,REP,REP Alan Wilson,491,0,9,0,186,0,296
+Kershaw,Lugoff No. 2,Attorney General,,REP,REP Alan Wilson,726,0,18,0,251,0,457
+Kershaw,Lugoff No. 3,Attorney General,,REP,REP Alan Wilson,688,0,10,0,205,0,473
+Kershaw,Lugoff No. 4,Attorney General,,REP,REP Alan Wilson,637,0,12,0,213,0,412
+Kershaw,Malvern Hill,Attorney General,,REP,REP Alan Wilson,464,0,5,0,155,0,304
+Kershaw,Rabon's X Roads,Attorney General,,REP,REP Alan Wilson,988,0,11,0,242,0,735
+Kershaw,Riverdale,Attorney General,,REP,REP Alan Wilson,112,0,2,0,40,0,70
+Kershaw,Salt Pond,Attorney General,,REP,REP Alan Wilson,538,0,10,0,179,0,349
+Kershaw,Shaylor's Hill,Attorney General,,REP,REP Alan Wilson,417,0,9,0,164,0,244
+Kershaw,Springdale,Attorney General,,REP,REP Alan Wilson,790,0,20,0,347,0,423
+Kershaw,Westville,Attorney General,,REP,REP Alan Wilson,656,0,6,0,179,0,471
+Kershaw,Whites Gardens,Attorney General,,REP,REP Alan Wilson,635,0,11,0,241,0,383
+Kershaw,Failsafe,Attorney General,,REP,REP Alan Wilson,0,0,0,0,0,0,0
+Kershaw,Provisional,Attorney General,,REP,REP Alan Wilson,10,0,0,0,0,10,0
+Kershaw,Failsafe Provisional,Attorney General,,REP,REP Alan Wilson,2,0,0,2,0,0,0
+Kershaw,Airport,Attorney General,,NON,Write-In,8,0,1,0,5,0,2
+Kershaw,Antioch,Attorney General,,NON,Write-In,3,0,0,0,2,0,1
+Kershaw,Bethune,Attorney General,,NON,Write-In,8,0,0,0,2,0,6
+Kershaw,Buffalo,Attorney General,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Camden No. 1,Attorney General,,NON,Write-In,16,0,0,0,12,0,4
+Kershaw,Camden No. 2 & 3,Attorney General,,NON,Write-In,5,0,0,0,4,0,1
+Kershaw,Hobkirk's Hill,Attorney General,,NON,Write-In,26,0,0,0,17,0,9
+Kershaw,Camden No. 5,Attorney General,,NON,Write-In,7,0,1,0,2,0,4
+Kershaw,Camden No. 5-A,Attorney General,,NON,Write-In,3,0,1,0,2,0,0
+Kershaw,Camden No. 6,Attorney General,,NON,Write-In,12,0,0,0,4,0,8
+Kershaw,Cassatt,Attorney General,,NON,Write-In,5,0,0,0,1,0,4
+Kershaw,Charlotte Thompson,Attorney General,,NON,Write-In,16,0,0,0,9,0,7
+Kershaw,Doby's Mill,Attorney General,,NON,Write-In,14,0,1,0,1,0,12
+Kershaw,Elgin No. 1,Attorney General,,NON,Write-In,26,0,1,0,9,0,16
+Kershaw,Elgin No. 2,Attorney General,,NON,Write-In,18,0,0,0,10,0,8
+Kershaw,Elgin No. 3,Attorney General,,NON,Write-In,19,0,1,0,7,0,11
+Kershaw,Elgin No. 4,Attorney General,,NON,Write-In,15,0,0,0,8,0,7
+Kershaw,Elgin No. 5,Attorney General,,NON,Write-In,21,0,2,0,5,0,14
+Kershaw,Elgin No. 6,Attorney General,,NON,Write-In,12,0,0,0,6,0,6
+Kershaw,Liberty Hill,Attorney General,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Lugoff No. 1,Attorney General,,NON,Write-In,7,0,0,0,6,0,1
+Kershaw,Lugoff No. 2,Attorney General,,NON,Write-In,9,0,2,0,6,0,1
+Kershaw,Lugoff No. 3,Attorney General,,NON,Write-In,12,0,2,0,4,0,6
+Kershaw,Lugoff No. 4,Attorney General,,NON,Write-In,14,0,0,0,7,0,7
+Kershaw,Malvern Hill,Attorney General,,NON,Write-In,8,0,0,0,3,0,5
+Kershaw,Rabon's X Roads,Attorney General,,NON,Write-In,14,0,3,0,7,0,4
+Kershaw,Riverdale,Attorney General,,NON,Write-In,5,0,0,0,3,0,2
+Kershaw,Salt Pond,Attorney General,,NON,Write-In,8,0,1,0,1,0,6
+Kershaw,Shaylor's Hill,Attorney General,,NON,Write-In,9,0,0,0,6,0,3
+Kershaw,Springdale,Attorney General,,NON,Write-In,21,0,3,0,10,0,8
+Kershaw,Westville,Attorney General,,NON,Write-In,7,0,0,0,2,0,5
+Kershaw,Whites Gardens,Attorney General,,NON,Write-In,7,0,0,0,1,0,6
+Kershaw,Failsafe,Attorney General,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,Attorney General,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Attorney General,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,Comptroller General,,REP,REP Richard Eckstrom,426,0,5,0,176,0,245
+Kershaw,Antioch,Comptroller General,,REP,REP Richard Eckstrom,310,0,4,0,77,0,229
+Kershaw,Bethune,Comptroller General,,REP,REP Richard Eckstrom,421,0,5,0,48,0,368
+Kershaw,Buffalo,Comptroller General,,REP,REP Richard Eckstrom,644,0,6,0,86,0,552
+Kershaw,Camden No. 1,Comptroller General,,REP,REP Richard Eckstrom,485,0,10,0,248,0,227
+Kershaw,Camden No. 2 & 3,Comptroller General,,REP,REP Richard Eckstrom,135,0,0,0,80,0,55
+Kershaw,Hobkirk's Hill,Comptroller General,,REP,REP Richard Eckstrom,783,0,11,0,398,0,374
+Kershaw,Camden No. 5,Comptroller General,,REP,REP Richard Eckstrom,451,0,11,0,213,0,227
+Kershaw,Camden No. 5-A,Comptroller General,,REP,REP Richard Eckstrom,147,0,1,0,54,0,92
+Kershaw,Camden No. 6,Comptroller General,,REP,REP Richard Eckstrom,317,0,17,0,153,0,147
+Kershaw,Cassatt,Comptroller General,,REP,REP Richard Eckstrom,522,0,4,0,135,0,383
+Kershaw,Charlotte Thompson,Comptroller General,,REP,REP Richard Eckstrom,585,0,4,0,292,0,289
+Kershaw,Doby's Mill,Comptroller General,,REP,REP Richard Eckstrom,658,0,16,0,120,0,522
+Kershaw,Elgin No. 1,Comptroller General,,REP,REP Richard Eckstrom,985,0,16,0,233,0,736
+Kershaw,Elgin No. 2,Comptroller General,,REP,REP Richard Eckstrom,647,0,8,0,189,0,450
+Kershaw,Elgin No. 3,Comptroller General,,REP,REP Richard Eckstrom,550,0,9,0,176,0,365
+Kershaw,Elgin No. 4,Comptroller General,,REP,REP Richard Eckstrom,698,0,9,0,155,0,534
+Kershaw,Elgin No. 5,Comptroller General,,REP,REP Richard Eckstrom,558,0,16,0,111,0,431
+Kershaw,Elgin No. 6,Comptroller General,,REP,REP Richard Eckstrom,367,0,10,0,58,0,299
+Kershaw,Liberty Hill,Comptroller General,,REP,REP Richard Eckstrom,297,0,5,0,77,0,215
+Kershaw,Lugoff No. 1,Comptroller General,,REP,REP Richard Eckstrom,493,0,9,0,190,0,294
+Kershaw,Lugoff No. 2,Comptroller General,,REP,REP Richard Eckstrom,731,0,18,0,256,0,457
+Kershaw,Lugoff No. 3,Comptroller General,,REP,REP Richard Eckstrom,694,0,11,0,206,0,477
+Kershaw,Lugoff No. 4,Comptroller General,,REP,REP Richard Eckstrom,638,0,11,0,218,0,409
+Kershaw,Malvern Hill,Comptroller General,,REP,REP Richard Eckstrom,472,0,5,0,160,0,307
+Kershaw,Rabon's X Roads,Comptroller General,,REP,REP Richard Eckstrom,989,0,11,0,247,0,731
+Kershaw,Riverdale,Comptroller General,,REP,REP Richard Eckstrom,112,0,2,0,44,0,66
+Kershaw,Salt Pond,Comptroller General,,REP,REP Richard Eckstrom,543,0,11,0,179,0,353
+Kershaw,Shaylor's Hill,Comptroller General,,REP,REP Richard Eckstrom,421,0,9,0,166,0,246
+Kershaw,Springdale,Comptroller General,,REP,REP Richard Eckstrom,796,0,20,0,353,0,423
+Kershaw,Westville,Comptroller General,,REP,REP Richard Eckstrom,663,0,6,0,183,0,474
+Kershaw,Whites Gardens,Comptroller General,,REP,REP Richard Eckstrom,635,0,12,0,241,0,382
+Kershaw,Failsafe,Comptroller General,,REP,REP Richard Eckstrom,0,0,0,0,0,0,0
+Kershaw,Provisional,Comptroller General,,REP,REP Richard Eckstrom,9,0,0,0,0,9,0
+Kershaw,Failsafe Provisional,Comptroller General,,REP,REP Richard Eckstrom,2,0,0,2,0,0,0
+Kershaw,Airport,Comptroller General,,NON,Write-In,5,0,1,0,3,0,1
+Kershaw,Antioch,Comptroller General,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Bethune,Comptroller General,,NON,Write-In,6,0,0,0,2,0,4
+Kershaw,Buffalo,Comptroller General,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Camden No. 1,Comptroller General,,NON,Write-In,12,0,0,0,9,0,3
+Kershaw,Camden No. 2 & 3,Comptroller General,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Hobkirk's Hill,Comptroller General,,NON,Write-In,18,0,0,0,9,0,9
+Kershaw,Camden No. 5,Comptroller General,,NON,Write-In,4,0,1,0,1,0,2
+Kershaw,Camden No. 5-A,Comptroller General,,NON,Write-In,4,0,1,0,2,0,1
+Kershaw,Camden No. 6,Comptroller General,,NON,Write-In,10,0,0,0,4,0,6
+Kershaw,Cassatt,Comptroller General,,NON,Write-In,5,0,0,0,0,0,5
+Kershaw,Charlotte Thompson,Comptroller General,,NON,Write-In,9,0,0,0,6,0,3
+Kershaw,Doby's Mill,Comptroller General,,NON,Write-In,10,0,0,0,0,0,10
+Kershaw,Elgin No. 1,Comptroller General,,NON,Write-In,14,0,0,0,5,0,9
+Kershaw,Elgin No. 2,Comptroller General,,NON,Write-In,16,0,0,0,10,0,6
+Kershaw,Elgin No. 3,Comptroller General,,NON,Write-In,14,0,0,0,4,0,10
+Kershaw,Elgin No. 4,Comptroller General,,NON,Write-In,14,0,0,0,8,0,6
+Kershaw,Elgin No. 5,Comptroller General,,NON,Write-In,15,0,1,0,4,0,10
+Kershaw,Elgin No. 6,Comptroller General,,NON,Write-In,9,0,0,0,5,0,4
+Kershaw,Liberty Hill,Comptroller General,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Lugoff No. 1,Comptroller General,,NON,Write-In,5,0,0,0,5,0,0
+Kershaw,Lugoff No. 2,Comptroller General,,NON,Write-In,5,0,2,0,2,0,1
+Kershaw,Lugoff No. 3,Comptroller General,,NON,Write-In,6,0,0,0,3,0,3
+Kershaw,Lugoff No. 4,Comptroller General,,NON,Write-In,7,0,0,0,3,0,4
+Kershaw,Malvern Hill,Comptroller General,,NON,Write-In,6,0,0,0,1,0,5
+Kershaw,Rabon's X Roads,Comptroller General,,NON,Write-In,12,0,3,0,5,0,4
+Kershaw,Riverdale,Comptroller General,,NON,Write-In,4,0,0,0,2,0,2
+Kershaw,Salt Pond,Comptroller General,,NON,Write-In,6,0,1,0,0,0,5
+Kershaw,Shaylor's Hill,Comptroller General,,NON,Write-In,6,0,0,0,5,0,1
+Kershaw,Springdale,Comptroller General,,NON,Write-In,16,0,2,0,7,0,7
+Kershaw,Westville,Comptroller General,,NON,Write-In,6,0,0,0,2,0,4
+Kershaw,Whites Gardens,Comptroller General,,NON,Write-In,5,0,0,0,1,0,4
+Kershaw,Failsafe,Comptroller General,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,Comptroller General,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Comptroller General,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,State Superintendent of Education,,GRN,GRN Patricia M Mickel,15,0,0,0,6,0,9
+Kershaw,Antioch,State Superintendent of Education,,GRN,GRN Patricia M Mickel,8,0,0,0,1,0,7
+Kershaw,Bethune,State Superintendent of Education,,GRN,GRN Patricia M Mickel,13,0,0,0,4,0,9
+Kershaw,Buffalo,State Superintendent of Education,,GRN,GRN Patricia M Mickel,8,0,0,0,0,0,8
+Kershaw,Camden No. 1,State Superintendent of Education,,GRN,GRN Patricia M Mickel,24,0,0,0,12,0,12
+Kershaw,Camden No. 2 & 3,State Superintendent of Education,,GRN,GRN Patricia M Mickel,4,0,0,0,1,0,3
+Kershaw,Hobkirk's Hill,State Superintendent of Education,,GRN,GRN Patricia M Mickel,18,0,1,0,11,0,6
+Kershaw,Camden No. 5,State Superintendent of Education,,GRN,GRN Patricia M Mickel,16,0,0,0,7,0,9
+Kershaw,Camden No. 5-A,State Superintendent of Education,,GRN,GRN Patricia M Mickel,6,0,0,0,2,0,4
+Kershaw,Camden No. 6,State Superintendent of Education,,GRN,GRN Patricia M Mickel,6,0,0,0,1,0,5
+Kershaw,Cassatt,State Superintendent of Education,,GRN,GRN Patricia M Mickel,10,0,0,0,2,0,8
+Kershaw,Charlotte Thompson,State Superintendent of Education,,GRN,GRN Patricia M Mickel,16,0,0,0,6,0,10
+Kershaw,Doby's Mill,State Superintendent of Education,,GRN,GRN Patricia M Mickel,16,0,0,0,3,0,13
+Kershaw,Elgin No. 1,State Superintendent of Education,,GRN,GRN Patricia M Mickel,24,0,1,0,5,0,18
+Kershaw,Elgin No. 2,State Superintendent of Education,,GRN,GRN Patricia M Mickel,16,0,1,0,3,0,12
+Kershaw,Elgin No. 3,State Superintendent of Education,,GRN,GRN Patricia M Mickel,11,0,0,0,3,0,8
+Kershaw,Elgin No. 4,State Superintendent of Education,,GRN,GRN Patricia M Mickel,12,0,0,0,3,0,9
+Kershaw,Elgin No. 5,State Superintendent of Education,,GRN,GRN Patricia M Mickel,18,0,0,0,5,0,13
+Kershaw,Elgin No. 6,State Superintendent of Education,,GRN,GRN Patricia M Mickel,10,0,0,0,2,0,8
+Kershaw,Liberty Hill,State Superintendent of Education,,GRN,GRN Patricia M Mickel,8,0,0,0,1,0,7
+Kershaw,Lugoff No. 1,State Superintendent of Education,,GRN,GRN Patricia M Mickel,9,0,0,0,4,0,5
+Kershaw,Lugoff No. 2,State Superintendent of Education,,GRN,GRN Patricia M Mickel,17,0,0,0,12,0,5
+Kershaw,Lugoff No. 3,State Superintendent of Education,,GRN,GRN Patricia M Mickel,14,0,0,0,6,0,8
+Kershaw,Lugoff No. 4,State Superintendent of Education,,GRN,GRN Patricia M Mickel,8,0,0,0,3,0,5
+Kershaw,Malvern Hill,State Superintendent of Education,,GRN,GRN Patricia M Mickel,10,0,0,0,3,0,7
+Kershaw,Rabon's X Roads,State Superintendent of Education,,GRN,GRN Patricia M Mickel,31,0,0,0,11,0,20
+Kershaw,Riverdale,State Superintendent of Education,,GRN,GRN Patricia M Mickel,10,0,0,0,5,0,5
+Kershaw,Salt Pond,State Superintendent of Education,,GRN,GRN Patricia M Mickel,6,0,0,0,2,0,4
+Kershaw,Shaylor's Hill,State Superintendent of Education,,GRN,GRN Patricia M Mickel,5,0,1,0,1,0,3
+Kershaw,Springdale,State Superintendent of Education,,GRN,GRN Patricia M Mickel,15,0,0,0,5,0,10
+Kershaw,Westville,State Superintendent of Education,,GRN,GRN Patricia M Mickel,5,0,0,0,1,0,4
+Kershaw,Whites Gardens,State Superintendent of Education,,GRN,GRN Patricia M Mickel,9,0,0,0,3,0,6
+Kershaw,Failsafe,State Superintendent of Education,,GRN,GRN Patricia M Mickel,0,0,0,0,0,0,0
+Kershaw,Provisional,State Superintendent of Education,,GRN,GRN Patricia M Mickel,1,0,0,0,0,1,0
+Kershaw,Failsafe Provisional,State Superintendent of Education,,GRN,GRN Patricia M Mickel,0,0,0,0,0,0,0
+Kershaw,Airport,State Superintendent of Education,,REP,REP Ellen Weaver,315,0,5,0,131,0,179
+Kershaw,Antioch,State Superintendent of Education,,REP,REP Ellen Weaver,237,0,4,0,65,0,168
+Kershaw,Bethune,State Superintendent of Education,,REP,REP Ellen Weaver,330,0,4,0,33,0,293
+Kershaw,Buffalo,State Superintendent of Education,,REP,REP Ellen Weaver,503,0,5,0,66,0,432
+Kershaw,Camden No. 1,State Superintendent of Education,,REP,REP Ellen Weaver,301,0,10,0,150,0,141
+Kershaw,Camden No. 2 & 3,State Superintendent of Education,,REP,REP Ellen Weaver,89,0,0,0,53,0,36
+Kershaw,Hobkirk's Hill,State Superintendent of Education,,REP,REP Ellen Weaver,456,0,8,0,243,0,205
+Kershaw,Camden No. 5,State Superintendent of Education,,REP,REP Ellen Weaver,270,0,7,0,129,0,134
+Kershaw,Camden No. 5-A,State Superintendent of Education,,REP,REP Ellen Weaver,84,0,0,0,32,0,52
+Kershaw,Camden No. 6,State Superintendent of Education,,REP,REP Ellen Weaver,236,0,12,0,115,0,109
+Kershaw,Cassatt,State Superintendent of Education,,REP,REP Ellen Weaver,426,0,4,0,107,0,315
+Kershaw,Charlotte Thompson,State Superintendent of Education,,REP,REP Ellen Weaver,445,0,5,0,238,0,202
+Kershaw,Doby's Mill,State Superintendent of Education,,REP,REP Ellen Weaver,509,0,12,0,91,0,406
+Kershaw,Elgin No. 1,State Superintendent of Education,,REP,REP Ellen Weaver,688,0,13,0,172,0,503
+Kershaw,Elgin No. 2,State Superintendent of Education,,REP,REP Ellen Weaver,467,0,6,0,148,0,313
+Kershaw,Elgin No. 3,State Superintendent of Education,,REP,REP Ellen Weaver,383,0,5,0,117,0,261
+Kershaw,Elgin No. 4,State Superintendent of Education,,REP,REP Ellen Weaver,495,0,8,0,119,0,368
+Kershaw,Elgin No. 5,State Superintendent of Education,,REP,REP Ellen Weaver,390,0,13,0,77,0,300
+Kershaw,Elgin No. 6,State Superintendent of Education,,REP,REP Ellen Weaver,236,0,9,0,36,0,191
+Kershaw,Liberty Hill,State Superintendent of Education,,REP,REP Ellen Weaver,262,0,5,0,71,0,186
+Kershaw,Lugoff No. 1,State Superintendent of Education,,REP,REP Ellen Weaver,368,0,7,0,154,0,207
+Kershaw,Lugoff No. 2,State Superintendent of Education,,REP,REP Ellen Weaver,499,0,14,0,172,0,313
+Kershaw,Lugoff No. 3,State Superintendent of Education,,REP,REP Ellen Weaver,495,0,9,0,146,0,340
+Kershaw,Lugoff No. 4,State Superintendent of Education,,REP,REP Ellen Weaver,447,0,11,0,150,0,286
+Kershaw,Malvern Hill,State Superintendent of Education,,REP,REP Ellen Weaver,357,0,4,0,110,0,243
+Kershaw,Rabon's X Roads,State Superintendent of Education,,REP,REP Ellen Weaver,753,0,11,0,186,0,556
+Kershaw,Riverdale,State Superintendent of Education,,REP,REP Ellen Weaver,53,0,2,0,19,0,32
+Kershaw,Salt Pond,State Superintendent of Education,,REP,REP Ellen Weaver,452,0,10,0,148,0,294
+Kershaw,Shaylor's Hill,State Superintendent of Education,,REP,REP Ellen Weaver,324,0,7,0,124,0,193
+Kershaw,Springdale,State Superintendent of Education,,REP,REP Ellen Weaver,542,0,14,0,234,0,294
+Kershaw,Westville,State Superintendent of Education,,REP,REP Ellen Weaver,527,0,5,0,153,0,369
+Kershaw,Whites Gardens,State Superintendent of Education,,REP,REP Ellen Weaver,503,0,10,0,195,0,298
+Kershaw,Failsafe,State Superintendent of Education,,REP,REP Ellen Weaver,0,0,0,0,0,0,0
+Kershaw,Provisional,State Superintendent of Education,,REP,REP Ellen Weaver,8,0,0,0,0,8,0
+Kershaw,Failsafe Provisional,State Superintendent of Education,,REP,REP Ellen Weaver,2,0,0,2,0,0,0
+Kershaw,Airport,State Superintendent of Education,,ALN,ALN Lisa Ellis,21,0,0,0,9,0,12
+Kershaw,Antioch,State Superintendent of Education,,ALN,ALN Lisa Ellis,16,0,0,0,0,0,16
+Kershaw,Bethune,State Superintendent of Education,,ALN,ALN Lisa Ellis,27,0,0,0,3,0,24
+Kershaw,Buffalo,State Superintendent of Education,,ALN,ALN Lisa Ellis,43,0,0,0,8,0,35
+Kershaw,Camden No. 1,State Superintendent of Education,,ALN,ALN Lisa Ellis,27,0,0,0,16,0,11
+Kershaw,Camden No. 2 & 3,State Superintendent of Education,,ALN,ALN Lisa Ellis,9,0,0,0,6,0,3
+Kershaw,Hobkirk's Hill,State Superintendent of Education,,ALN,ALN Lisa Ellis,73,0,0,0,31,0,42
+Kershaw,Camden No. 5,State Superintendent of Education,,ALN,ALN Lisa Ellis,31,0,0,0,13,0,18
+Kershaw,Camden No. 5-A,State Superintendent of Education,,ALN,ALN Lisa Ellis,7,0,0,0,3,0,4
+Kershaw,Camden No. 6,State Superintendent of Education,,ALN,ALN Lisa Ellis,15,0,0,0,4,0,11
+Kershaw,Cassatt,State Superintendent of Education,,ALN,ALN Lisa Ellis,21,0,0,0,5,0,16
+Kershaw,Charlotte Thompson,State Superintendent of Education,,ALN,ALN Lisa Ellis,25,0,0,0,8,0,17
+Kershaw,Doby's Mill,State Superintendent of Education,,ALN,ALN Lisa Ellis,27,0,1,0,5,0,21
+Kershaw,Elgin No. 1,State Superintendent of Education,,ALN,ALN Lisa Ellis,48,0,0,0,3,0,45
+Kershaw,Elgin No. 2,State Superintendent of Education,,ALN,ALN Lisa Ellis,36,0,0,0,4,0,32
+Kershaw,Elgin No. 3,State Superintendent of Education,,ALN,ALN Lisa Ellis,15,0,0,0,5,0,10
+Kershaw,Elgin No. 4,State Superintendent of Education,,ALN,ALN Lisa Ellis,40,0,0,0,8,0,32
+Kershaw,Elgin No. 5,State Superintendent of Education,,ALN,ALN Lisa Ellis,30,0,0,0,4,0,26
+Kershaw,Elgin No. 6,State Superintendent of Education,,ALN,ALN Lisa Ellis,20,0,0,0,2,0,18
+Kershaw,Liberty Hill,State Superintendent of Education,,ALN,ALN Lisa Ellis,6,0,0,0,3,0,3
+Kershaw,Lugoff No. 1,State Superintendent of Education,,ALN,ALN Lisa Ellis,22,0,1,0,3,0,18
+Kershaw,Lugoff No. 2,State Superintendent of Education,,ALN,ALN Lisa Ellis,48,0,3,0,15,0,30
+Kershaw,Lugoff No. 3,State Superintendent of Education,,ALN,ALN Lisa Ellis,40,0,0,0,11,0,29
+Kershaw,Lugoff No. 4,State Superintendent of Education,,ALN,ALN Lisa Ellis,55,0,0,0,19,0,36
+Kershaw,Malvern Hill,State Superintendent of Education,,ALN,ALN Lisa Ellis,20,0,0,0,12,0,8
+Kershaw,Rabon's X Roads,State Superintendent of Education,,ALN,ALN Lisa Ellis,46,0,0,0,5,0,41
+Kershaw,Riverdale,State Superintendent of Education,,ALN,ALN Lisa Ellis,8,0,0,0,1,0,7
+Kershaw,Salt Pond,State Superintendent of Education,,ALN,ALN Lisa Ellis,18,0,0,0,3,0,15
+Kershaw,Shaylor's Hill,State Superintendent of Education,,ALN,ALN Lisa Ellis,23,0,0,0,7,0,16
+Kershaw,Springdale,State Superintendent of Education,,ALN,ALN Lisa Ellis,40,0,1,0,15,0,24
+Kershaw,Westville,State Superintendent of Education,,ALN,ALN Lisa Ellis,37,0,0,0,7,0,30
+Kershaw,Whites Gardens,State Superintendent of Education,,ALN,ALN Lisa Ellis,32,0,0,0,11,0,21
+Kershaw,Failsafe,State Superintendent of Education,,ALN,ALN Lisa Ellis,0,0,0,0,0,0,0
+Kershaw,Provisional,State Superintendent of Education,,ALN,ALN Lisa Ellis,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State Superintendent of Education,,ALN,ALN Lisa Ellis,0,0,0,0,0,0,0
+Kershaw,Airport,State Superintendent of Education,,DEM,DEM Lisa Ellis,199,0,1,0,99,0,99
+Kershaw,Antioch,State Superintendent of Education,,DEM,DEM Lisa Ellis,130,0,0,0,57,0,73
+Kershaw,Bethune,State Superintendent of Education,,DEM,DEM Lisa Ellis,200,0,2,0,55,0,143
+Kershaw,Buffalo,State Superintendent of Education,,DEM,DEM Lisa Ellis,149,0,4,0,26,0,119
+Kershaw,Camden No. 1,State Superintendent of Education,,DEM,DEM Lisa Ellis,389,0,4,0,230,0,155
+Kershaw,Camden No. 2 & 3,State Superintendent of Education,,DEM,DEM Lisa Ellis,86,0,1,0,49,0,36
+Kershaw,Hobkirk's Hill,State Superintendent of Education,,DEM,DEM Lisa Ellis,468,0,9,0,244,0,215
+Kershaw,Camden No. 5,State Superintendent of Education,,DEM,DEM Lisa Ellis,233,0,7,0,109,0,117
+Kershaw,Camden No. 5-A,State Superintendent of Education,,DEM,DEM Lisa Ellis,152,0,4,0,59,0,89
+Kershaw,Camden No. 6,State Superintendent of Education,,DEM,DEM Lisa Ellis,176,0,9,0,82,0,85
+Kershaw,Cassatt,State Superintendent of Education,,DEM,DEM Lisa Ellis,166,0,1,0,63,0,102
+Kershaw,Charlotte Thompson,State Superintendent of Education,,DEM,DEM Lisa Ellis,349,0,9,0,209,0,131
+Kershaw,Doby's Mill,State Superintendent of Education,,DEM,DEM Lisa Ellis,290,0,5,0,113,0,172
+Kershaw,Elgin No. 1,State Superintendent of Education,,DEM,DEM Lisa Ellis,504,0,13,0,162,0,329
+Kershaw,Elgin No. 2,State Superintendent of Education,,DEM,DEM Lisa Ellis,353,0,13,0,134,0,206
+Kershaw,Elgin No. 3,State Superintendent of Education,,DEM,DEM Lisa Ellis,330,0,6,0,143,0,181
+Kershaw,Elgin No. 4,State Superintendent of Education,,DEM,DEM Lisa Ellis,361,0,6,0,106,0,249
+Kershaw,Elgin No. 5,State Superintendent of Education,,DEM,DEM Lisa Ellis,267,0,9,0,60,0,198
+Kershaw,Elgin No. 6,State Superintendent of Education,,DEM,DEM Lisa Ellis,291,0,2,0,75,0,214
+Kershaw,Liberty Hill,State Superintendent of Education,,DEM,DEM Lisa Ellis,71,0,0,0,20,0,51
+Kershaw,Lugoff No. 1,State Superintendent of Education,,DEM,DEM Lisa Ellis,205,0,10,0,85,0,110
+Kershaw,Lugoff No. 2,State Superintendent of Education,,DEM,DEM Lisa Ellis,334,0,9,0,136,0,189
+Kershaw,Lugoff No. 3,State Superintendent of Education,,DEM,DEM Lisa Ellis,284,0,8,0,115,0,161
+Kershaw,Lugoff No. 4,State Superintendent of Education,,DEM,DEM Lisa Ellis,254,0,1,0,112,0,141
+Kershaw,Malvern Hill,State Superintendent of Education,,DEM,DEM Lisa Ellis,250,0,3,0,115,0,132
+Kershaw,Rabon's X Roads,State Superintendent of Education,,DEM,DEM Lisa Ellis,327,0,10,0,123,0,194
+Kershaw,Riverdale,State Superintendent of Education,,DEM,DEM Lisa Ellis,225,0,8,0,99,0,118
+Kershaw,Salt Pond,State Superintendent of Education,,DEM,DEM Lisa Ellis,175,0,7,0,81,0,87
+Kershaw,Shaylor's Hill,State Superintendent of Education,,DEM,DEM Lisa Ellis,195,0,1,0,115,0,79
+Kershaw,Springdale,State Superintendent of Education,,DEM,DEM Lisa Ellis,528,0,20,0,281,0,227
+Kershaw,Westville,State Superintendent of Education,,DEM,DEM Lisa Ellis,199,0,1,0,82,0,116
+Kershaw,Whites Gardens,State Superintendent of Education,,DEM,DEM Lisa Ellis,254,0,6,0,117,0,131
+Kershaw,Failsafe,State Superintendent of Education,,DEM,DEM Lisa Ellis,0,0,0,0,0,0,0
+Kershaw,Provisional,State Superintendent of Education,,DEM,DEM Lisa Ellis,6,0,0,0,0,6,0
+Kershaw,Failsafe Provisional,State Superintendent of Education,,DEM,DEM Lisa Ellis,1,0,0,1,0,0,0
+Kershaw,Airport,State Superintendent of Education,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Antioch,State Superintendent of Education,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Bethune,State Superintendent of Education,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Buffalo,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 1,State Superintendent of Education,,NON,Write-In,2,0,0,0,2,0,0
+Kershaw,Camden No. 2 & 3,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Hobkirk's Hill,State Superintendent of Education,,NON,Write-In,5,0,0,0,3,0,2
+Kershaw,Camden No. 5,State Superintendent of Education,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Camden No. 5-A,State Superintendent of Education,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Camden No. 6,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Cassatt,State Superintendent of Education,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Charlotte Thompson,State Superintendent of Education,,NON,Write-In,3,0,0,0,2,0,1
+Kershaw,Doby's Mill,State Superintendent of Education,,NON,Write-In,2,0,1,0,0,0,1
+Kershaw,Elgin No. 1,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 2,State Superintendent of Education,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Elgin No. 3,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 4,State Superintendent of Education,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Elgin No. 5,State Superintendent of Education,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Elgin No. 6,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Liberty Hill,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 1,State Superintendent of Education,,NON,Write-In,3,0,0,0,1,0,2
+Kershaw,Lugoff No. 2,State Superintendent of Education,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Lugoff No. 3,State Superintendent of Education,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Lugoff No. 4,State Superintendent of Education,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Malvern Hill,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Rabon's X Roads,State Superintendent of Education,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Riverdale,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Salt Pond,State Superintendent of Education,,NON,Write-In,4,0,0,0,0,0,4
+Kershaw,Shaylor's Hill,State Superintendent of Education,,NON,Write-In,4,0,2,0,0,0,2
+Kershaw,Springdale,State Superintendent of Education,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Westville,State Superintendent of Education,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Whites Gardens,State Superintendent of Education,,NON,Write-In,7,0,0,0,3,0,4
+Kershaw,Failsafe,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,Commissioner of Agriculture,,UNC,UNC Chris Nelums,25,0,0,0,9,0,16
+Kershaw,Antioch,Commissioner of Agriculture,,UNC,UNC Chris Nelums,22,0,0,0,7,0,15
+Kershaw,Bethune,Commissioner of Agriculture,,UNC,UNC Chris Nelums,23,0,0,0,6,0,17
+Kershaw,Buffalo,Commissioner of Agriculture,,UNC,UNC Chris Nelums,16,0,0,0,2,0,14
+Kershaw,Camden No. 1,Commissioner of Agriculture,,UNC,UNC Chris Nelums,66,0,0,0,34,0,32
+Kershaw,Camden No. 2 & 3,Commissioner of Agriculture,,UNC,UNC Chris Nelums,7,0,0,0,2,0,5
+Kershaw,Hobkirk's Hill,Commissioner of Agriculture,,UNC,UNC Chris Nelums,43,0,0,0,17,0,26
+Kershaw,Camden No. 5,Commissioner of Agriculture,,UNC,UNC Chris Nelums,22,0,1,0,7,0,14
+Kershaw,Camden No. 5-A,Commissioner of Agriculture,,UNC,UNC Chris Nelums,30,0,0,0,6,0,24
+Kershaw,Camden No. 6,Commissioner of Agriculture,,UNC,UNC Chris Nelums,31,0,1,0,10,0,20
+Kershaw,Cassatt,Commissioner of Agriculture,,UNC,UNC Chris Nelums,27,0,0,0,10,0,17
+Kershaw,Charlotte Thompson,Commissioner of Agriculture,,UNC,UNC Chris Nelums,52,0,1,0,31,0,20
+Kershaw,Doby's Mill,Commissioner of Agriculture,,UNC,UNC Chris Nelums,51,0,0,0,13,0,38
+Kershaw,Elgin No. 1,Commissioner of Agriculture,,UNC,UNC Chris Nelums,115,0,2,0,31,0,82
+Kershaw,Elgin No. 2,Commissioner of Agriculture,,UNC,UNC Chris Nelums,62,0,3,0,24,0,35
+Kershaw,Elgin No. 3,Commissioner of Agriculture,,UNC,UNC Chris Nelums,65,0,3,0,23,0,39
+Kershaw,Elgin No. 4,Commissioner of Agriculture,,UNC,UNC Chris Nelums,59,0,0,0,14,0,45
+Kershaw,Elgin No. 5,Commissioner of Agriculture,,UNC,UNC Chris Nelums,61,0,0,0,9,0,52
+Kershaw,Elgin No. 6,Commissioner of Agriculture,,UNC,UNC Chris Nelums,54,0,1,0,16,0,37
+Kershaw,Liberty Hill,Commissioner of Agriculture,,UNC,UNC Chris Nelums,9,0,0,0,4,0,5
+Kershaw,Lugoff No. 1,Commissioner of Agriculture,,UNC,UNC Chris Nelums,28,0,0,0,9,0,19
+Kershaw,Lugoff No. 2,Commissioner of Agriculture,,UNC,UNC Chris Nelums,40,0,2,0,15,0,23
+Kershaw,Lugoff No. 3,Commissioner of Agriculture,,UNC,UNC Chris Nelums,41,0,3,0,9,0,29
+Kershaw,Lugoff No. 4,Commissioner of Agriculture,,UNC,UNC Chris Nelums,39,0,0,0,15,0,24
+Kershaw,Malvern Hill,Commissioner of Agriculture,,UNC,UNC Chris Nelums,42,0,0,0,17,0,25
+Kershaw,Rabon's X Roads,Commissioner of Agriculture,,UNC,UNC Chris Nelums,46,0,0,0,17,0,29
+Kershaw,Riverdale,Commissioner of Agriculture,,UNC,UNC Chris Nelums,27,0,0,0,11,0,16
+Kershaw,Salt Pond,Commissioner of Agriculture,,UNC,UNC Chris Nelums,30,0,1,0,8,0,21
+Kershaw,Shaylor's Hill,Commissioner of Agriculture,,UNC,UNC Chris Nelums,22,0,1,0,9,0,12
+Kershaw,Springdale,Commissioner of Agriculture,,UNC,UNC Chris Nelums,64,0,3,0,31,0,30
+Kershaw,Westville,Commissioner of Agriculture,,UNC,UNC Chris Nelums,29,0,0,0,7,0,22
+Kershaw,Whites Gardens,Commissioner of Agriculture,,UNC,UNC Chris Nelums,34,0,0,0,8,0,26
+Kershaw,Failsafe,Commissioner of Agriculture,,UNC,UNC Chris Nelums,0,0,0,0,0,0,0
+Kershaw,Provisional,Commissioner of Agriculture,,UNC,UNC Chris Nelums,1,0,0,0,0,1,0
+Kershaw,Failsafe Provisional,Commissioner of Agriculture,,UNC,UNC Chris Nelums,0,0,0,0,0,0,0
+Kershaw,Airport,Commissioner of Agriculture,,GRN,GRN David Edmond,49,0,1,0,22,0,26
+Kershaw,Antioch,Commissioner of Agriculture,,GRN,GRN David Edmond,31,0,0,0,15,0,16
+Kershaw,Bethune,Commissioner of Agriculture,,GRN,GRN David Edmond,45,0,0,0,8,0,37
+Kershaw,Buffalo,Commissioner of Agriculture,,GRN,GRN David Edmond,30,0,1,0,5,0,24
+Kershaw,Camden No. 1,Commissioner of Agriculture,,GRN,GRN David Edmond,88,0,2,0,50,0,36
+Kershaw,Camden No. 2 & 3,Commissioner of Agriculture,,GRN,GRN David Edmond,27,0,1,0,12,0,14
+Kershaw,Hobkirk's Hill,Commissioner of Agriculture,,GRN,GRN David Edmond,106,0,2,0,50,0,54
+Kershaw,Camden No. 5,Commissioner of Agriculture,,GRN,GRN David Edmond,75,0,2,0,30,0,43
+Kershaw,Camden No. 5-A,Commissioner of Agriculture,,GRN,GRN David Edmond,29,0,0,0,12,0,17
+Kershaw,Camden No. 6,Commissioner of Agriculture,,GRN,GRN David Edmond,42,0,1,0,15,0,26
+Kershaw,Cassatt,Commissioner of Agriculture,,GRN,GRN David Edmond,43,0,1,0,14,0,28
+Kershaw,Charlotte Thompson,Commissioner of Agriculture,,GRN,GRN David Edmond,85,0,2,0,40,0,43
+Kershaw,Doby's Mill,Commissioner of Agriculture,,GRN,GRN David Edmond,93,0,2,0,32,0,59
+Kershaw,Elgin No. 1,Commissioner of Agriculture,,GRN,GRN David Edmond,167,0,4,0,51,0,112
+Kershaw,Elgin No. 2,Commissioner of Agriculture,,GRN,GRN David Edmond,99,0,4,0,26,0,69
+Kershaw,Elgin No. 3,Commissioner of Agriculture,,GRN,GRN David Edmond,96,0,1,0,38,0,57
+Kershaw,Elgin No. 4,Commissioner of Agriculture,,GRN,GRN David Edmond,130,0,1,0,38,0,91
+Kershaw,Elgin No. 5,Commissioner of Agriculture,,GRN,GRN David Edmond,89,0,5,0,20,0,64
+Kershaw,Elgin No. 6,Commissioner of Agriculture,,GRN,GRN David Edmond,101,0,0,0,25,0,76
+Kershaw,Liberty Hill,Commissioner of Agriculture,,GRN,GRN David Edmond,24,0,0,0,4,0,20
+Kershaw,Lugoff No. 1,Commissioner of Agriculture,,GRN,GRN David Edmond,57,0,3,0,27,0,27
+Kershaw,Lugoff No. 2,Commissioner of Agriculture,,GRN,GRN David Edmond,81,0,5,0,30,0,46
+Kershaw,Lugoff No. 3,Commissioner of Agriculture,,GRN,GRN David Edmond,77,0,3,0,34,0,40
+Kershaw,Lugoff No. 4,Commissioner of Agriculture,,GRN,GRN David Edmond,65,0,1,0,25,0,39
+Kershaw,Malvern Hill,Commissioner of Agriculture,,GRN,GRN David Edmond,39,0,1,0,17,0,21
+Kershaw,Rabon's X Roads,Commissioner of Agriculture,,GRN,GRN David Edmond,70,0,2,0,32,0,36
+Kershaw,Riverdale,Commissioner of Agriculture,,GRN,GRN David Edmond,41,0,2,0,14,0,25
+Kershaw,Salt Pond,Commissioner of Agriculture,,GRN,GRN David Edmond,42,0,2,0,20,0,20
+Kershaw,Shaylor's Hill,Commissioner of Agriculture,,GRN,GRN David Edmond,35,0,1,0,17,0,17
+Kershaw,Springdale,Commissioner of Agriculture,,GRN,GRN David Edmond,133,0,6,0,65,0,62
+Kershaw,Westville,Commissioner of Agriculture,,GRN,GRN David Edmond,45,0,1,0,15,0,29
+Kershaw,Whites Gardens,Commissioner of Agriculture,,GRN,GRN David Edmond,73,0,2,0,31,0,40
+Kershaw,Failsafe,Commissioner of Agriculture,,GRN,GRN David Edmond,0,0,0,0,0,0,0
+Kershaw,Provisional,Commissioner of Agriculture,,GRN,GRN David Edmond,3,0,0,0,0,3,0
+Kershaw,Failsafe Provisional,Commissioner of Agriculture,,GRN,GRN David Edmond,0,0,0,0,0,0,0
+Kershaw,Airport,Commissioner of Agriculture,,REP,REP Hugh Weathers,387,0,5,0,164,0,218
+Kershaw,Antioch,Commissioner of Agriculture,,REP,REP Hugh Weathers,281,0,4,0,68,0,209
+Kershaw,Bethune,Commissioner of Agriculture,,REP,REP Hugh Weathers,392,0,5,0,44,0,343
+Kershaw,Buffalo,Commissioner of Agriculture,,REP,REP Hugh Weathers,615,0,6,0,80,0,529
+Kershaw,Camden No. 1,Commissioner of Agriculture,,REP,REP Hugh Weathers,394,0,10,0,205,0,179
+Kershaw,Camden No. 2 & 3,Commissioner of Agriculture,,REP,REP Hugh Weathers,129,0,0,0,79,0,50
+Kershaw,Hobkirk's Hill,Commissioner of Agriculture,,REP,REP Hugh Weathers,754,0,14,0,396,0,344
+Kershaw,Camden No. 5,Commissioner of Agriculture,,REP,REP Hugh Weathers,401,0,11,0,189,0,201
+Kershaw,Camden No. 5-A,Commissioner of Agriculture,,REP,REP Hugh Weathers,117,0,1,0,48,0,68
+Kershaw,Camden No. 6,Commissioner of Agriculture,,REP,REP Hugh Weathers,283,0,15,0,138,0,130
+Kershaw,Cassatt,Commissioner of Agriculture,,REP,REP Hugh Weathers,484,0,4,0,120,0,360
+Kershaw,Charlotte Thompson,Commissioner of Agriculture,,REP,REP Hugh Weathers,517,0,5,0,270,0,242
+Kershaw,Doby's Mill,Commissioner of Agriculture,,REP,REP Hugh Weathers,579,0,16,0,104,0,459
+Kershaw,Elgin No. 1,Commissioner of Agriculture,,REP,REP Hugh Weathers,818,0,13,0,198,0,607
+Kershaw,Elgin No. 2,Commissioner of Agriculture,,REP,REP Hugh Weathers,577,0,8,0,174,0,395
+Kershaw,Elgin No. 3,Commissioner of Agriculture,,REP,REP Hugh Weathers,464,0,6,0,150,0,308
+Kershaw,Elgin No. 4,Commissioner of Agriculture,,REP,REP Hugh Weathers,590,0,10,0,140,0,440
+Kershaw,Elgin No. 5,Commissioner of Agriculture,,REP,REP Hugh Weathers,475,0,15,0,95,0,365
+Kershaw,Elgin No. 6,Commissioner of Agriculture,,REP,REP Hugh Weathers,285,0,9,0,43,0,233
+Kershaw,Liberty Hill,Commissioner of Agriculture,,REP,REP Hugh Weathers,282,0,4,0,75,0,203
+Kershaw,Lugoff No. 1,Commissioner of Agriculture,,REP,REP Hugh Weathers,447,0,8,0,176,0,263
+Kershaw,Lugoff No. 2,Commissioner of Agriculture,,REP,REP Hugh Weathers,654,0,15,0,227,0,412
+Kershaw,Lugoff No. 3,Commissioner of Agriculture,,REP,REP Hugh Weathers,631,0,9,0,192,0,430
+Kershaw,Lugoff No. 4,Commissioner of Agriculture,,REP,REP Hugh Weathers,591,0,12,0,201,0,378
+Kershaw,Malvern Hill,Commissioner of Agriculture,,REP,REP Hugh Weathers,425,0,4,0,141,0,280
+Kershaw,Rabon's X Roads,Commissioner of Agriculture,,REP,REP Hugh Weathers,935,0,13,0,232,0,690
+Kershaw,Riverdale,Commissioner of Agriculture,,REP,REP Hugh Weathers,73,0,3,0,26,0,44
+Kershaw,Salt Pond,Commissioner of Agriculture,,REP,REP Hugh Weathers,515,0,12,0,168,0,335
+Kershaw,Shaylor's Hill,Commissioner of Agriculture,,REP,REP Hugh Weathers,389,0,9,0,160,0,220
+Kershaw,Springdale,Commissioner of Agriculture,,REP,REP Hugh Weathers,711,0,18,0,325,0,368
+Kershaw,Westville,Commissioner of Agriculture,,REP,REP Hugh Weathers,615,0,5,0,173,0,437
+Kershaw,Whites Gardens,Commissioner of Agriculture,,REP,REP Hugh Weathers,574,0,14,0,219,0,341
+Kershaw,Failsafe,Commissioner of Agriculture,,REP,REP Hugh Weathers,0,0,0,0,0,0,0
+Kershaw,Provisional,Commissioner of Agriculture,,REP,REP Hugh Weathers,8,0,0,0,0,8,0
+Kershaw,Failsafe Provisional,Commissioner of Agriculture,,REP,REP Hugh Weathers,2,0,0,2,0,0,0
+Kershaw,Airport,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Antioch,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Bethune,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Buffalo,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Camden No. 1,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Camden No. 2 & 3,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Hobkirk's Hill,Commissioner of Agriculture,,NON,Write-In,3,0,0,0,1,0,2
+Kershaw,Camden No. 5,Commissioner of Agriculture,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Camden No. 5-A,Commissioner of Agriculture,,NON,Write-In,1,0,1,0,0,0,0
+Kershaw,Camden No. 6,Commissioner of Agriculture,,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Cassatt,Commissioner of Agriculture,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Charlotte Thompson,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Doby's Mill,Commissioner of Agriculture,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Elgin No. 1,Commissioner of Agriculture,,NON,Write-In,6,0,0,0,0,0,6
+Kershaw,Elgin No. 2,Commissioner of Agriculture,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Elgin No. 3,Commissioner of Agriculture,,NON,Write-In,4,0,1,0,1,0,2
+Kershaw,Elgin No. 4,Commissioner of Agriculture,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Elgin No. 5,Commissioner of Agriculture,,NON,Write-In,5,0,1,0,0,0,4
+Kershaw,Elgin No. 6,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Liberty Hill,Commissioner of Agriculture,,NON,Write-In,1,0,1,0,0,0,0
+Kershaw,Lugoff No. 1,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Lugoff No. 2,Commissioner of Agriculture,,NON,Write-In,2,0,1,0,1,0,0
+Kershaw,Lugoff No. 3,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 4,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Malvern Hill,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Rabon's X Roads,Commissioner of Agriculture,,NON,Write-In,2,0,1,0,0,0,1
+Kershaw,Riverdale,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Salt Pond,Commissioner of Agriculture,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Shaylor's Hill,Commissioner of Agriculture,,NON,Write-In,6,0,0,0,5,0,1
+Kershaw,Springdale,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Westville,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Whites Gardens,Commissioner of Agriculture,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Failsafe,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,U.S. Senate,,REP,REP Tim Scott,380,0,5,0,159,0,216
+Kershaw,Antioch,U.S. Senate,,REP,REP Tim Scott,275,0,4,0,66,0,205
+Kershaw,Bethune,U.S. Senate,,REP,REP Tim Scott,382,0,5,0,41,0,336
+Kershaw,Buffalo,U.S. Senate,,REP,REP Tim Scott,614,0,6,0,79,0,529
+Kershaw,Camden No. 1,U.S. Senate,,REP,REP Tim Scott,375,0,10,0,191,0,174
+Kershaw,Camden No. 2 & 3,U.S. Senate,,REP,REP Tim Scott,120,0,0,0,69,0,51
+Kershaw,Hobkirk's Hill,U.S. Senate,,REP,REP Tim Scott,682,0,11,0,344,0,327
+Kershaw,Camden No. 5,U.S. Senate,,REP,REP Tim Scott,384,0,9,0,175,0,200
+Kershaw,Camden No. 5-A,U.S. Senate,,REP,REP Tim Scott,112,0,0,0,43,0,69
+Kershaw,Camden No. 6,U.S. Senate,,REP,REP Tim Scott,274,0,15,0,132,0,127
+Kershaw,Cassatt,U.S. Senate,,REP,REP Tim Scott,476,0,4,0,112,0,360
+Kershaw,Charlotte Thompson,U.S. Senate,,REP,REP Tim Scott,485,0,5,0,251,0,229
+Kershaw,Doby's Mill,U.S. Senate,,REP,REP Tim Scott,577,0,13,0,97,0,467
+Kershaw,Elgin No. 1,U.S. Senate,,REP,REP Tim Scott,795,0,13,0,188,0,594
+Kershaw,Elgin No. 2,U.S. Senate,,REP,REP Tim Scott,542,0,7,0,162,0,373
+Kershaw,Elgin No. 3,U.S. Senate,,REP,REP Tim Scott,457,0,5,0,145,0,307
+Kershaw,Elgin No. 4,U.S. Senate,,REP,REP Tim Scott,591,0,9,0,131,0,451
+Kershaw,Elgin No. 5,U.S. Senate,,REP,REP Tim Scott,462,0,14,0,88,0,360
+Kershaw,Elgin No. 6,U.S. Senate,,REP,REP Tim Scott,283,0,9,0,39,0,235
+Kershaw,Liberty Hill,U.S. Senate,,REP,REP Tim Scott,281,0,4,0,76,0,201
+Kershaw,Lugoff No. 1,U.S. Senate,,REP,REP Tim Scott,443,0,7,0,172,0,264
+Kershaw,Lugoff No. 2,U.S. Senate,,REP,REP Tim Scott,636,0,15,0,214,0,407
+Kershaw,Lugoff No. 3,U.S. Senate,,REP,REP Tim Scott,615,0,9,0,180,0,426
+Kershaw,Lugoff No. 4,U.S. Senate,,REP,REP Tim Scott,581,0,12,0,190,0,379
+Kershaw,Malvern Hill,U.S. Senate,,REP,REP Tim Scott,411,0,4,0,129,0,278
+Kershaw,Rabon's X Roads,U.S. Senate,,REP,REP Tim Scott,916,0,11,0,213,0,692
+Kershaw,Riverdale,U.S. Senate,,REP,REP Tim Scott,63,0,2,0,22,0,39
+Kershaw,Salt Pond,U.S. Senate,,REP,REP Tim Scott,501,0,10,0,163,0,328
+Kershaw,Shaylor's Hill,U.S. Senate,,REP,REP Tim Scott,377,0,9,0,138,0,230
+Kershaw,Springdale,U.S. Senate,,REP,REP Tim Scott,657,0,15,0,289,0,353
+Kershaw,Westville,U.S. Senate,,REP,REP Tim Scott,606,0,5,0,164,0,437
+Kershaw,Whites Gardens,U.S. Senate,,REP,REP Tim Scott,572,0,12,0,214,0,346
+Kershaw,Failsafe,U.S. Senate,,REP,REP Tim Scott,0,0,0,0,0,0,0
+Kershaw,Provisional,U.S. Senate,,REP,REP Tim Scott,8,0,0,0,0,8,0
+Kershaw,Failsafe Provisional,U.S. Senate,,REP,REP Tim Scott,2,0,0,2,0,0,0
+Kershaw,Airport,U.S. Senate,,DEM,DEM Krystle Matthews,166,0,1,0,83,0,82
+Kershaw,Antioch,U.S. Senate,,DEM,DEM Krystle Matthews,122,0,0,0,59,0,63
+Kershaw,Bethune,U.S. Senate,,DEM,DEM Krystle Matthews,191,0,1,0,54,0,136
+Kershaw,Buffalo,U.S. Senate,,DEM,DEM Krystle Matthews,91,0,3,0,21,0,67
+Kershaw,Camden No. 1,U.S. Senate,,DEM,DEM Krystle Matthews,369,0,4,0,220,0,145
+Kershaw,Camden No. 2 & 3,U.S. Senate,,DEM,DEM Krystle Matthews,72,0,1,0,43,0,28
+Kershaw,Hobkirk's Hill,U.S. Senate,,DEM,DEM Krystle Matthews,331,0,9,0,187,0,135
+Kershaw,Camden No. 5,U.S. Senate,,DEM,DEM Krystle Matthews,172,0,6,0,88,0,78
+Kershaw,Camden No. 5-A,U.S. Senate,,DEM,DEM Krystle Matthews,140,0,4,0,53,0,83
+Kershaw,Camden No. 6,U.S. Senate,,DEM,DEM Krystle Matthews,161,0,6,0,73,0,82
+Kershaw,Cassatt,U.S. Senate,,DEM,DEM Krystle Matthews,153,0,1,0,64,0,88
+Kershaw,Charlotte Thompson,U.S. Senate,,DEM,DEM Krystle Matthews,357,0,9,0,217,0,131
+Kershaw,Doby's Mill,U.S. Senate,,DEM,DEM Krystle Matthews,268,0,5,0,114,0,149
+Kershaw,Elgin No. 1,U.S. Senate,,DEM,DEM Krystle Matthews,474,0,14,0,156,0,304
+Kershaw,Elgin No. 2,U.S. Senate,,DEM,DEM Krystle Matthews,329,0,13,0,125,0,191
+Kershaw,Elgin No. 3,U.S. Senate,,DEM,DEM Krystle Matthews,288,0,6,0,125,0,157
+Kershaw,Elgin No. 4,U.S. Senate,,DEM,DEM Krystle Matthews,322,0,5,0,107,0,210
+Kershaw,Elgin No. 5,U.S. Senate,,DEM,DEM Krystle Matthews,247,0,8,0,59,0,180
+Kershaw,Elgin No. 6,U.S. Senate,,DEM,DEM Krystle Matthews,278,0,2,0,77,0,199
+Kershaw,Liberty Hill,U.S. Senate,,DEM,DEM Krystle Matthews,66,0,0,0,19,0,47
+Kershaw,Lugoff No. 1,U.S. Senate,,DEM,DEM Krystle Matthews,161,0,11,0,74,0,76
+Kershaw,Lugoff No. 2,U.S. Senate,,DEM,DEM Krystle Matthews,262,0,10,0,118,0,134
+Kershaw,Lugoff No. 3,U.S. Senate,,DEM,DEM Krystle Matthews,217,0,8,0,98,0,111
+Kershaw,Lugoff No. 4,U.S. Senate,,DEM,DEM Krystle Matthews,190,0,1,0,99,0,90
+Kershaw,Malvern Hill,U.S. Senate,,DEM,DEM Krystle Matthews,226,0,3,0,111,0,112
+Kershaw,Rabon's X Roads,U.S. Senate,,DEM,DEM Krystle Matthews,250,0,10,0,115,0,125
+Kershaw,Riverdale,U.S. Senate,,DEM,DEM Krystle Matthews,237,0,9,0,102,0,126
+Kershaw,Salt Pond,U.S. Senate,,DEM,DEM Krystle Matthews,156,0,7,0,72,0,77
+Kershaw,Shaylor's Hill,U.S. Senate,,DEM,DEM Krystle Matthews,177,0,3,0,111,0,63
+Kershaw,Springdale,U.S. Senate,,DEM,DEM Krystle Matthews,482,0,20,0,257,0,205
+Kershaw,Westville,U.S. Senate,,DEM,DEM Krystle Matthews,167,0,1,0,80,0,86
+Kershaw,Whites Gardens,U.S. Senate,,DEM,DEM Krystle Matthews,229,0,4,0,116,0,109
+Kershaw,Failsafe,U.S. Senate,,DEM,DEM Krystle Matthews,0,0,0,0,0,0,0
+Kershaw,Provisional,U.S. Senate,,DEM,DEM Krystle Matthews,7,0,0,0,0,7,0
+Kershaw,Failsafe Provisional,U.S. Senate,,DEM,DEM Krystle Matthews,1,0,0,1,0,0,0
+Kershaw,Airport,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Antioch,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Bethune,U.S. Senate,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Buffalo,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 1,U.S. Senate,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Camden No. 2 & 3,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Hobkirk's Hill,U.S. Senate,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Camden No. 5,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 5-A,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 6,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Cassatt,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Charlotte Thompson,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Doby's Mill,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 1,U.S. Senate,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Elgin No. 2,U.S. Senate,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Elgin No. 3,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 4,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 5,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 6,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Liberty Hill,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 1,U.S. Senate,,NON,Write-In,1,0,1,0,0,0,0
+Kershaw,Lugoff No. 2,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 3,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 4,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Malvern Hill,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Rabon's X Roads,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Riverdale,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Salt Pond,U.S. Senate,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Shaylor's Hill,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Springdale,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Westville,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Whites Gardens,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,U.S. House,5,GRN,GRN Larry Gaither,16,0,0,0,3,0,13
+Kershaw,Antioch,U.S. House,5,GRN,GRN Larry Gaither,6,0,0,0,2,0,4
+Kershaw,Bethune,U.S. House,5,GRN,GRN Larry Gaither,10,0,0,0,2,0,8
+Kershaw,Buffalo,U.S. House,5,GRN,GRN Larry Gaither,7,0,0,0,2,0,5
+Kershaw,Camden No. 1,U.S. House,5,GRN,GRN Larry Gaither,14,0,0,0,9,0,5
+Kershaw,Camden No. 2 & 3,U.S. House,5,GRN,GRN Larry Gaither,5,0,0,0,3,0,2
+Kershaw,Hobkirk's Hill,U.S. House,5,GRN,GRN Larry Gaither,27,0,0,0,14,0,13
+Kershaw,Camden No. 5,U.S. House,5,GRN,GRN Larry Gaither,16,0,1,0,8,0,7
+Kershaw,Camden No. 5-A,U.S. House,5,GRN,GRN Larry Gaither,2,0,0,0,2,0,0
+Kershaw,Camden No. 6,U.S. House,5,GRN,GRN Larry Gaither,10,0,0,0,5,0,5
+Kershaw,Cassatt,U.S. House,5,GRN,GRN Larry Gaither,16,0,0,0,6,0,10
+Kershaw,Charlotte Thompson,U.S. House,5,GRN,GRN Larry Gaither,17,0,1,0,6,0,10
+Kershaw,Doby's Mill,U.S. House,5,GRN,GRN Larry Gaither,11,0,0,0,2,0,9
+Kershaw,Elgin No. 1,U.S. House,5,GRN,GRN Larry Gaither,15,0,1,0,2,0,12
+Kershaw,Elgin No. 2,U.S. House,5,GRN,GRN Larry Gaither,10,0,0,0,2,0,8
+Kershaw,Elgin No. 3,U.S. House,5,GRN,GRN Larry Gaither,9,0,0,0,4,0,5
+Kershaw,Elgin No. 4,U.S. House,5,GRN,GRN Larry Gaither,17,0,0,0,3,0,14
+Kershaw,Elgin No. 5,U.S. House,5,GRN,GRN Larry Gaither,14,0,1,0,3,0,10
+Kershaw,Elgin No. 6,U.S. House,5,GRN,GRN Larry Gaither,13,0,0,0,2,0,11
+Kershaw,Liberty Hill,U.S. House,5,GRN,GRN Larry Gaither,2,0,0,0,1,0,1
+Kershaw,Lugoff No. 1,U.S. House,5,GRN,GRN Larry Gaither,5,0,0,0,0,0,5
+Kershaw,Lugoff No. 2,U.S. House,5,GRN,GRN Larry Gaither,13,0,0,0,3,0,10
+Kershaw,Lugoff No. 3,U.S. House,5,GRN,GRN Larry Gaither,12,0,0,0,6,0,6
+Kershaw,Lugoff No. 4,U.S. House,5,GRN,GRN Larry Gaither,11,0,0,0,2,0,9
+Kershaw,Malvern Hill,U.S. House,5,GRN,GRN Larry Gaither,9,0,0,0,4,0,5
+Kershaw,Rabon's X Roads,U.S. House,5,GRN,GRN Larry Gaither,15,0,0,0,3,0,12
+Kershaw,Riverdale,U.S. House,5,GRN,GRN Larry Gaither,1,0,0,0,0,0,1
+Kershaw,Salt Pond,U.S. House,5,GRN,GRN Larry Gaither,15,0,0,0,6,0,9
+Kershaw,Shaylor's Hill,U.S. House,5,GRN,GRN Larry Gaither,8,0,0,0,0,0,8
+Kershaw,Springdale,U.S. House,5,GRN,GRN Larry Gaither,8,0,0,0,3,0,5
+Kershaw,Westville,U.S. House,5,GRN,GRN Larry Gaither,9,0,0,0,0,0,9
+Kershaw,Whites Gardens,U.S. House,5,GRN,GRN Larry Gaither,14,0,0,0,5,0,9
+Kershaw,Failsafe,U.S. House,5,GRN,GRN Larry Gaither,0,0,0,0,0,0,0
+Kershaw,Provisional,U.S. House,5,GRN,GRN Larry Gaither,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,U.S. House,5,GRN,GRN Larry Gaither,0,0,0,0,0,0,0
+Kershaw,Airport,U.S. House,5,REP,REP Ralph Norman,365,0,5,0,154,0,206
+Kershaw,Antioch,U.S. House,5,REP,REP Ralph Norman,273,0,4,0,65,0,204
+Kershaw,Bethune,U.S. House,5,REP,REP Ralph Norman,377,0,5,0,39,0,333
+Kershaw,Buffalo,U.S. House,5,REP,REP Ralph Norman,619,0,6,0,77,0,536
+Kershaw,Camden No. 1,U.S. House,5,REP,REP Ralph Norman,372,0,10,0,189,0,173
+Kershaw,Camden No. 2 & 3,U.S. House,5,REP,REP Ralph Norman,113,0,0,0,66,0,47
+Kershaw,Hobkirk's Hill,U.S. House,5,REP,REP Ralph Norman,652,0,11,0,328,0,313
+Kershaw,Camden No. 5,U.S. House,5,REP,REP Ralph Norman,365,0,8,0,163,0,194
+Kershaw,Camden No. 5-A,U.S. House,5,REP,REP Ralph Norman,110,0,1,0,45,0,64
+Kershaw,Camden No. 6,U.S. House,5,REP,REP Ralph Norman,274,0,15,0,131,0,128
+Kershaw,Cassatt,U.S. House,5,REP,REP Ralph Norman,469,0,4,0,109,0,356
+Kershaw,Charlotte Thompson,U.S. House,5,REP,REP Ralph Norman,483,0,5,0,251,0,227
+Kershaw,Doby's Mill,U.S. House,5,REP,REP Ralph Norman,564,0,13,0,95,0,456
+Kershaw,Elgin No. 1,U.S. House,5,REP,REP Ralph Norman,784,0,13,0,186,0,585
+Kershaw,Elgin No. 2,U.S. House,5,REP,REP Ralph Norman,543,0,7,0,162,0,374
+Kershaw,Elgin No. 3,U.S. House,5,REP,REP Ralph Norman,451,0,5,0,142,0,304
+Kershaw,Elgin No. 4,U.S. House,5,REP,REP Ralph Norman,571,0,8,0,126,0,437
+Kershaw,Elgin No. 5,U.S. House,5,REP,REP Ralph Norman,453,0,14,0,88,0,351
+Kershaw,Elgin No. 6,U.S. House,5,REP,REP Ralph Norman,278,0,9,0,38,0,231
+Kershaw,Liberty Hill,U.S. House,5,REP,REP Ralph Norman,279,0,4,0,74,0,201
+Kershaw,Lugoff No. 1,U.S. House,5,REP,REP Ralph Norman,441,0,8,0,171,0,262
+Kershaw,Lugoff No. 2,U.S. House,5,REP,REP Ralph Norman,634,0,15,0,213,0,406
+Kershaw,Lugoff No. 3,U.S. House,5,REP,REP Ralph Norman,614,0,9,0,177,0,428
+Kershaw,Lugoff No. 4,U.S. House,5,REP,REP Ralph Norman,569,0,11,0,192,0,366
+Kershaw,Malvern Hill,U.S. House,5,REP,REP Ralph Norman,409,0,4,0,131,0,274
+Kershaw,Rabon's X Roads,U.S. House,5,REP,REP Ralph Norman,898,0,11,0,207,0,680
+Kershaw,Riverdale,U.S. House,5,REP,REP Ralph Norman,63,0,2,0,21,0,40
+Kershaw,Salt Pond,U.S. House,5,REP,REP Ralph Norman,492,0,10,0,159,0,323
+Kershaw,Shaylor's Hill,U.S. House,5,REP,REP Ralph Norman,369,0,9,0,141,0,219
+Kershaw,Springdale,U.S. House,5,REP,REP Ralph Norman,655,0,15,0,287,0,353
+Kershaw,Westville,U.S. House,5,REP,REP Ralph Norman,610,0,5,0,167,0,438
+Kershaw,Whites Gardens,U.S. House,5,REP,REP Ralph Norman,569,0,12,0,215,0,342
+Kershaw,Failsafe,U.S. House,5,REP,REP Ralph Norman,0,0,0,0,0,0,0
+Kershaw,Provisional,U.S. House,5,REP,REP Ralph Norman,8,0,0,0,0,8,0
+Kershaw,Failsafe Provisional,U.S. House,5,REP,REP Ralph Norman,2,0,0,2,0,0,0
+Kershaw,Airport,U.S. House,5,DEM,DEM Evangeline Hundley,166,0,1,0,85,0,80
+Kershaw,Antioch,U.S. House,5,DEM,DEM Evangeline Hundley,120,0,0,0,58,0,62
+Kershaw,Bethune,U.S. House,5,DEM,DEM Evangeline Hundley,180,0,1,0,52,0,127
+Kershaw,Buffalo,U.S. House,5,DEM,DEM Evangeline Hundley,81,0,3,0,20,0,58
+Kershaw,Camden No. 1,U.S. House,5,DEM,DEM Evangeline Hundley,361,0,4,0,215,0,142
+Kershaw,Camden No. 2 & 3,U.S. House,5,DEM,DEM Evangeline Hundley,74,0,1,0,43,0,30
+Kershaw,Hobkirk's Hill,U.S. House,5,DEM,DEM Evangeline Hundley,335,0,9,0,187,0,139
+Kershaw,Camden No. 5,U.S. House,5,DEM,DEM Evangeline Hundley,176,0,6,0,89,0,81
+Kershaw,Camden No. 5-A,U.S. House,5,DEM,DEM Evangeline Hundley,140,0,3,0,50,0,87
+Kershaw,Camden No. 6,U.S. House,5,DEM,DEM Evangeline Hundley,150,0,6,0,69,0,75
+Kershaw,Cassatt,U.S. House,5,DEM,DEM Evangeline Hundley,141,0,1,0,62,0,78
+Kershaw,Charlotte Thompson,U.S. House,5,DEM,DEM Evangeline Hundley,340,0,8,0,210,0,122
+Kershaw,Doby's Mill,U.S. House,5,DEM,DEM Evangeline Hundley,269,0,5,0,113,0,151
+Kershaw,Elgin No. 1,U.S. House,5,DEM,DEM Evangeline Hundley,469,0,13,0,155,0,301
+Kershaw,Elgin No. 2,U.S. House,5,DEM,DEM Evangeline Hundley,323,0,13,0,125,0,185
+Kershaw,Elgin No. 3,U.S. House,5,DEM,DEM Evangeline Hundley,285,0,6,0,124,0,155
+Kershaw,Elgin No. 4,U.S. House,5,DEM,DEM Evangeline Hundley,318,0,6,0,107,0,205
+Kershaw,Elgin No. 5,U.S. House,5,DEM,DEM Evangeline Hundley,240,0,7,0,56,0,177
+Kershaw,Elgin No. 6,U.S. House,5,DEM,DEM Evangeline Hundley,268,0,2,0,75,0,191
+Kershaw,Liberty Hill,U.S. House,5,DEM,DEM Evangeline Hundley,67,0,0,0,21,0,46
+Kershaw,Lugoff No. 1,U.S. House,5,DEM,DEM Evangeline Hundley,158,0,11,0,75,0,72
+Kershaw,Lugoff No. 2,U.S. House,5,DEM,DEM Evangeline Hundley,254,0,10,0,121,0,123
+Kershaw,Lugoff No. 3,U.S. House,5,DEM,DEM Evangeline Hundley,203,0,8,0,91,0,104
+Kershaw,Lugoff No. 4,U.S. House,5,DEM,DEM Evangeline Hundley,187,0,1,0,94,0,92
+Kershaw,Malvern Hill,U.S. House,5,DEM,DEM Evangeline Hundley,219,0,3,0,106,0,110
+Kershaw,Rabon's X Roads,U.S. House,5,DEM,DEM Evangeline Hundley,252,0,10,0,116,0,126
+Kershaw,Riverdale,U.S. House,5,DEM,DEM Evangeline Hundley,234,0,9,0,102,0,123
+Kershaw,Salt Pond,U.S. House,5,DEM,DEM Evangeline Hundley,149,0,7,0,68,0,74
+Kershaw,Shaylor's Hill,U.S. House,5,DEM,DEM Evangeline Hundley,176,0,3,0,109,0,64
+Kershaw,Springdale,U.S. House,5,DEM,DEM Evangeline Hundley,472,0,20,0,253,0,199
+Kershaw,Westville,U.S. House,5,DEM,DEM Evangeline Hundley,153,0,1,0,77,0,75
+Kershaw,Whites Gardens,U.S. House,5,DEM,DEM Evangeline Hundley,225,0,5,0,113,0,107
+Kershaw,Failsafe,U.S. House,5,DEM,DEM Evangeline Hundley,0,0,0,0,0,0,0
+Kershaw,Provisional,U.S. House,5,DEM,DEM Evangeline Hundley,7,0,0,0,0,7,0
+Kershaw,Failsafe Provisional,U.S. House,5,DEM,DEM Evangeline Hundley,1,0,0,1,0,0,0
+Kershaw,Airport,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Antioch,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Bethune,U.S. House,5,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Buffalo,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 1,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 2 & 3,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Hobkirk's Hill,U.S. House,5,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Camden No. 5,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 5-A,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 6,U.S. House,5,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Cassatt,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Charlotte Thompson,U.S. House,5,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Doby's Mill,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 1,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 2,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 3,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 4,U.S. House,5,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Elgin No. 5,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 6,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Liberty Hill,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 1,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 2,U.S. House,5,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Lugoff No. 3,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 4,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Malvern Hill,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Rabon's X Roads,U.S. House,5,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Riverdale,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Salt Pond,U.S. House,5,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Shaylor's Hill,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Springdale,U.S. House,5,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Westville,U.S. House,5,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Whites Gardens,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,U.S. House,5,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Bethune,State House,65,REP,REP Cody T Mitchell,412,0,3,0,48,0,361
+Kershaw,Buffalo,State House,65,REP,REP Cody T Mitchell,640,0,6,0,84,0,550
+Kershaw,Westville,State House,65,REP,REP Cody T Mitchell,657,0,6,0,179,0,472
+Kershaw,Failsafe,State House,65,REP,REP Cody T Mitchell,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,65,REP,REP Cody T Mitchell,1,0,0,0,0,1,0
+Kershaw,Failsafe Provisional,State House,65,REP,REP Cody T Mitchell,0,0,0,0,0,0,0
+Kershaw,Bethune,State House,65,NON,Write-In,7,0,0,0,0,0,7
+Kershaw,Buffalo,State House,65,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Westville,State House,65,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Failsafe,State House,65,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,65,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State House,65,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,State House,50,REP,REP Marvin Jones,12,0,2,0,5,0,5
+Kershaw,Antioch,State House,50,REP,REP Marvin Jones,255,0,4,0,60,0,191
+Kershaw,Cassatt,State House,50,REP,REP Marvin Jones,453,0,4,0,102,0,347
+Kershaw,Charlotte Thompson,State House,50,REP,REP Marvin Jones,453,0,5,0,233,0,215
+Kershaw,Malvern Hill,State House,50,REP,REP Marvin Jones,389,0,4,0,124,0,261
+Kershaw,Springdale,State House,50,REP,REP Marvin Jones,22,0,0,0,8,0,14
+Kershaw,Whites Gardens,State House,50,REP,REP Marvin Jones,548,0,12,0,202,0,334
+Kershaw,Failsafe,State House,50,REP,REP Marvin Jones,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,50,REP,REP Marvin Jones,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State House,50,REP,REP Marvin Jones,0,0,0,0,0,0,0
+Kershaw,Airport,State House,50,DEM,DEM Will Wheeler,6,0,0,0,2,0,4
+Kershaw,Antioch,State House,50,DEM,DEM Will Wheeler,139,0,0,0,64,0,75
+Kershaw,Cassatt,State House,50,DEM,DEM Will Wheeler,169,0,1,0,73,0,95
+Kershaw,Charlotte Thompson,State House,50,DEM,DEM Will Wheeler,378,0,9,0,227,0,142
+Kershaw,Malvern Hill,State House,50,DEM,DEM Will Wheeler,245,0,3,0,114,0,128
+Kershaw,Springdale,State House,50,DEM,DEM Will Wheeler,22,0,0,0,14,0,8
+Kershaw,Whites Gardens,State House,50,DEM,DEM Will Wheeler,252,0,5,0,128,0,119
+Kershaw,Failsafe,State House,50,DEM,DEM Will Wheeler,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,50,DEM,DEM Will Wheeler,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State House,50,DEM,DEM Will Wheeler,0,0,0,0,0,0,0
+Kershaw,Airport,State House,50,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Antioch,State House,50,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Cassatt,State House,50,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Charlotte Thompson,State House,50,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Malvern Hill,State House,50,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Springdale,State House,50,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Whites Gardens,State House,50,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Failsafe,State House,50,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,50,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State House,50,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,State House,52,REP,REP Ben Connell,377,0,3,0,157,0,217
+Kershaw,Camden No. 1,State House,52,REP,REP Ben Connell,380,0,10,0,193,0,177
+Kershaw,Camden No. 2 & 3,State House,52,REP,REP Ben Connell,121,0,0,0,70,0,51
+Kershaw,Hobkirk's Hill,State House,52,REP,REP Ben Connell,700,0,11,0,363,0,326
+Kershaw,Camden No. 5,State House,52,REP,REP Ben Connell,395,0,8,0,182,0,205
+Kershaw,Camden No. 5-A,State House,52,REP,REP Ben Connell,113,0,1,0,44,0,68
+Kershaw,Camden No. 6,State House,52,REP,REP Ben Connell,277,0,14,0,133,0,130
+Kershaw,Doby's Mill,State House,52,REP,REP Ben Connell,574,0,12,0,97,0,465
+Kershaw,Elgin No. 1,State House,52,REP,REP Ben Connell,791,0,13,0,187,0,591
+Kershaw,Elgin No. 2,State House,52,REP,REP Ben Connell,546,0,7,0,157,0,382
+Kershaw,Elgin No. 3,State House,52,REP,REP Ben Connell,466,0,5,0,149,0,312
+Kershaw,Elgin No. 4,State House,52,REP,REP Ben Connell,582,0,7,0,129,0,446
+Kershaw,Elgin No. 5,State House,52,REP,REP Ben Connell,472,0,16,0,91,0,365
+Kershaw,Elgin No. 6,State House,52,REP,REP Ben Connell,284,0,9,0,39,0,236
+Kershaw,Lugoff No. 1,State House,52,REP,REP Ben Connell,449,0,9,0,173,0,267
+Kershaw,Lugoff No. 2,State House,52,REP,REP Ben Connell,641,0,14,0,214,0,413
+Kershaw,Lugoff No. 3,State House,52,REP,REP Ben Connell,621,0,9,0,180,0,432
+Kershaw,Lugoff No. 4,State House,52,REP,REP Ben Connell,583,0,12,0,196,0,375
+Kershaw,Riverdale,State House,52,REP,REP Ben Connell,67,0,2,0,26,0,39
+Kershaw,Salt Pond,State House,52,REP,REP Ben Connell,263,0,2,0,82,0,179
+Kershaw,Springdale,State House,52,REP,REP Ben Connell,646,0,15,0,289,0,342
+Kershaw,Failsafe,State House,52,REP,REP Ben Connell,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,52,REP,REP Ben Connell,8,0,0,0,0,8,0
+Kershaw,Failsafe Provisional,State House,52,REP,REP Ben Connell,0,0,0,0,0,0,0
+Kershaw,Airport,State House,52,DEM,DEM Eve Carlin,152,0,1,0,78,0,73
+Kershaw,Camden No. 1,State House,52,DEM,DEM Eve Carlin,363,0,4,0,215,0,144
+Kershaw,Camden No. 2 & 3,State House,52,DEM,DEM Eve Carlin,70,0,1,0,41,0,28
+Kershaw,Hobkirk's Hill,State House,52,DEM,DEM Eve Carlin,315,0,9,0,169,0,137
+Kershaw,Camden No. 5,State House,52,DEM,DEM Eve Carlin,159,0,6,0,79,0,74
+Kershaw,Camden No. 5-A,State House,52,DEM,DEM Eve Carlin,136,0,3,0,51,0,82
+Kershaw,Camden No. 6,State House,52,DEM,DEM Eve Carlin,153,0,7,0,73,0,73
+Kershaw,Doby's Mill,State House,52,DEM,DEM Eve Carlin,263,0,6,0,111,0,146
+Kershaw,Elgin No. 1,State House,52,DEM,DEM Eve Carlin,462,0,14,0,153,0,295
+Kershaw,Elgin No. 2,State House,52,DEM,DEM Eve Carlin,321,0,13,0,128,0,180
+Kershaw,Elgin No. 3,State House,52,DEM,DEM Eve Carlin,273,0,6,0,119,0,148
+Kershaw,Elgin No. 4,State House,52,DEM,DEM Eve Carlin,323,0,7,0,106,0,210
+Kershaw,Elgin No. 5,State House,52,DEM,DEM Eve Carlin,235,0,6,0,55,0,174
+Kershaw,Elgin No. 6,State House,52,DEM,DEM Eve Carlin,275,0,2,0,77,0,196
+Kershaw,Lugoff No. 1,State House,52,DEM,DEM Eve Carlin,150,0,9,0,70,0,71
+Kershaw,Lugoff No. 2,State House,52,DEM,DEM Eve Carlin,252,0,11,0,119,0,122
+Kershaw,Lugoff No. 3,State House,52,DEM,DEM Eve Carlin,208,0,7,0,96,0,105
+Kershaw,Lugoff No. 4,State House,52,DEM,DEM Eve Carlin,180,0,1,0,91,0,88
+Kershaw,Riverdale,State House,52,DEM,DEM Eve Carlin,227,0,9,0,96,0,122
+Kershaw,Salt Pond,State House,52,DEM,DEM Eve Carlin,71,0,2,0,30,0,39
+Kershaw,Springdale,State House,52,DEM,DEM Eve Carlin,442,0,20,0,228,0,194
+Kershaw,Failsafe,State House,52,DEM,DEM Eve Carlin,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,52,DEM,DEM Eve Carlin,6,0,0,0,0,6,0
+Kershaw,Failsafe Provisional,State House,52,DEM,DEM Eve Carlin,0,0,0,0,0,0,0
+Kershaw,Airport,State House,52,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Camden No. 1,State House,52,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Camden No. 2 & 3,State House,52,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Hobkirk's Hill,State House,52,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Camden No. 5,State House,52,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Camden No. 5-A,State House,52,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Camden No. 6,State House,52,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Doby's Mill,State House,52,NON,Write-In,4,0,1,0,2,0,1
+Kershaw,Elgin No. 1,State House,52,NON,Write-In,6,0,0,0,1,0,5
+Kershaw,Elgin No. 2,State House,52,NON,Write-In,6,0,0,0,3,0,3
+Kershaw,Elgin No. 3,State House,52,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Elgin No. 4,State House,52,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Elgin No. 5,State House,52,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Elgin No. 6,State House,52,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Lugoff No. 1,State House,52,NON,Write-In,5,0,0,0,4,0,1
+Kershaw,Lugoff No. 2,State House,52,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Lugoff No. 3,State House,52,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Lugoff No. 4,State House,52,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Riverdale,State House,52,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Salt Pond,State House,52,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Springdale,State House,52,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Failsafe,State House,52,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,52,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State House,52,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Liberty Hill,State House,45,REP,REP Brandon Newton,278,0,4,0,75,0,199
+Kershaw,Rabon's X Roads,State House,45,REP,REP Brandon Newton,906,0,11,0,210,0,685
+Kershaw,Salt Pond,State House,45,REP,REP Brandon Newton,230,0,7,0,76,0,147
+Kershaw,Shaylor's Hill,State House,45,REP,REP Brandon Newton,369,0,8,0,139,0,222
+Kershaw,Failsafe,State House,45,REP,REP Brandon Newton,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,45,REP,REP Brandon Newton,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State House,45,REP,REP Brandon Newton,0,0,0,0,0,0,0
+Kershaw,Liberty Hill,State House,45,DEM,DEM Keith T Grey Sr,71,0,0,0,21,0,50
+Kershaw,Rabon's X Roads,State House,45,DEM,DEM Keith T Grey Sr,247,0,10,0,114,0,123
+Kershaw,Salt Pond,State House,45,DEM,DEM Keith T Grey Sr,88,0,5,0,44,0,39
+Kershaw,Shaylor's Hill,State House,45,DEM,DEM Keith T Grey Sr,178,0,3,0,108,0,67
+Kershaw,Failsafe,State House,45,DEM,DEM Keith T Grey Sr,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,45,DEM,DEM Keith T Grey Sr,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State House,45,DEM,DEM Keith T Grey Sr,0,0,0,0,0,0,0
+Kershaw,Liberty Hill,State House,45,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Rabon's X Roads,State House,45,NON,Write-In,4,0,0,0,2,0,2
+Kershaw,Salt Pond,State House,45,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Shaylor's Hill,State House,45,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Failsafe,State House,45,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,45,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State House,45,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,292,0,5,0,134,0,153
+Kershaw,Antioch,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,187,0,1,0,74,0,112
+Kershaw,Bethune,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,287,0,2,0,63,0,222
+Kershaw,Buffalo,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,241,0,4,0,39,0,198
+Kershaw,Camden No. 1,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,498,0,7,0,289,0,202
+Kershaw,Camden No. 2 & 3,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,116,0,1,0,68,0,47
+Kershaw,Hobkirk's Hill,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,627,0,10,0,321,0,296
+Kershaw,Camden No. 5,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,332,0,10,0,161,0,161
+Kershaw,Camden No. 5-A,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,182,0,3,0,69,0,110
+Kershaw,Camden No. 6,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,253,0,13,0,111,0,129
+Kershaw,Cassatt,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,255,0,1,0,93,0,161
+Kershaw,Charlotte Thompson,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,470,0,8,0,271,0,191
+Kershaw,Doby's Mill,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,390,0,6,0,128,0,256
+Kershaw,Elgin No. 1,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,669,0,16,0,190,0,463
+Kershaw,Elgin No. 2,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,479,0,12,0,168,0,299
+Kershaw,Elgin No. 3,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,413,0,7,0,170,0,236
+Kershaw,Elgin No. 4,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,481,0,6,0,138,0,337
+Kershaw,Elgin No. 5,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,365,0,10,0,79,0,276
+Kershaw,Elgin No. 6,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,360,0,4,0,87,0,269
+Kershaw,Liberty Hill,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,126,0,1,0,32,0,93
+Kershaw,Lugoff No. 1,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,279,0,13,0,118,0,148
+Kershaw,Lugoff No. 2,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,471,0,13,0,194,0,264
+Kershaw,Lugoff No. 3,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,398,0,9,0,156,0,233
+Kershaw,Lugoff No. 4,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,364,0,3,0,147,0,214
+Kershaw,Malvern Hill,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,328,0,3,0,143,0,182
+Kershaw,Rabon's X Roads,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,495,0,10,0,167,0,318
+Kershaw,Riverdale,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,257,0,9,0,110,0,138
+Kershaw,Salt Pond,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,263,0,7,0,108,0,148
+Kershaw,Shaylor's Hill,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,268,0,4,0,141,0,123
+Kershaw,Springdale,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,680,0,19,0,352,0,309
+Kershaw,Westville,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,289,0,1,0,110,0,178
+Kershaw,Whites Gardens,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,392,0,7,0,178,0,207
+Kershaw,Failsafe,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,0,0,0,0,0,0,0
+Kershaw,Provisional,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,9,0,0,0,0,9,0
+Kershaw,Failsafe Provisional,Solicitor Circuit 5,,DEM,DEM Byron E Gipson,1,0,0,1,0,0,0
+Kershaw,Airport,Solicitor Circuit 5,,NON,Write-In,12,0,0,0,6,0,6
+Kershaw,Antioch,Solicitor Circuit 5,,NON,Write-In,10,0,0,0,0,0,10
+Kershaw,Bethune,Solicitor Circuit 5,,NON,Write-In,21,0,0,0,0,0,21
+Kershaw,Buffalo,Solicitor Circuit 5,,NON,Write-In,12,0,0,0,2,0,10
+Kershaw,Camden No. 1,Solicitor Circuit 5,,NON,Write-In,14,0,1,0,6,0,7
+Kershaw,Camden No. 2 & 3,Solicitor Circuit 5,,NON,Write-In,6,0,0,0,1,0,5
+Kershaw,Hobkirk's Hill,Solicitor Circuit 5,,NON,Write-In,26,0,0,0,9,0,17
+Kershaw,Camden No. 5,Solicitor Circuit 5,,NON,Write-In,18,0,2,0,4,0,12
+Kershaw,Camden No. 5-A,Solicitor Circuit 5,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Camden No. 6,Solicitor Circuit 5,,NON,Write-In,12,0,0,0,3,0,9
+Kershaw,Cassatt,Solicitor Circuit 5,,NON,Write-In,20,0,0,0,3,0,17
+Kershaw,Charlotte Thompson,Solicitor Circuit 5,,NON,Write-In,24,0,0,0,10,0,14
+Kershaw,Doby's Mill,Solicitor Circuit 5,,NON,Write-In,31,0,2,0,6,0,23
+Kershaw,Elgin No. 1,Solicitor Circuit 5,,NON,Write-In,44,0,0,0,12,0,32
+Kershaw,Elgin No. 2,Solicitor Circuit 5,,NON,Write-In,27,0,0,0,11,0,16
+Kershaw,Elgin No. 3,Solicitor Circuit 5,,NON,Write-In,16,0,0,0,3,0,13
+Kershaw,Elgin No. 4,Solicitor Circuit 5,,NON,Write-In,26,0,1,0,2,0,23
+Kershaw,Elgin No. 5,Solicitor Circuit 5,,NON,Write-In,24,0,0,0,8,0,16
+Kershaw,Elgin No. 6,Solicitor Circuit 5,,NON,Write-In,15,0,0,0,1,0,14
+Kershaw,Liberty Hill,Solicitor Circuit 5,,NON,Write-In,5,0,0,0,2,0,3
+Kershaw,Lugoff No. 1,Solicitor Circuit 5,,NON,Write-In,15,0,0,0,4,0,11
+Kershaw,Lugoff No. 2,Solicitor Circuit 5,,NON,Write-In,30,0,0,0,10,0,20
+Kershaw,Lugoff No. 3,Solicitor Circuit 5,,NON,Write-In,19,0,0,0,5,0,14
+Kershaw,Lugoff No. 4,Solicitor Circuit 5,,NON,Write-In,24,0,0,0,5,0,19
+Kershaw,Malvern Hill,Solicitor Circuit 5,,NON,Write-In,18,0,0,0,4,0,14
+Kershaw,Rabon's X Roads,Solicitor Circuit 5,,NON,Write-In,35,0,2,0,7,0,26
+Kershaw,Riverdale,Solicitor Circuit 5,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Salt Pond,Solicitor Circuit 5,,NON,Write-In,20,0,0,0,6,0,14
+Kershaw,Shaylor's Hill,Solicitor Circuit 5,,NON,Write-In,11,0,0,0,2,0,9
+Kershaw,Springdale,Solicitor Circuit 5,,NON,Write-In,26,0,0,0,9,0,17
+Kershaw,Westville,Solicitor Circuit 5,,NON,Write-In,23,0,0,0,6,0,17
+Kershaw,Whites Gardens,Solicitor Circuit 5,,NON,Write-In,17,0,0,0,6,0,11
+Kershaw,Failsafe,Solicitor Circuit 5,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,Solicitor Circuit 5,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Solicitor Circuit 5,,NON,Write-In,1,0,0,1,0,0,0
+Kershaw,Airport,Sheriff,,REP,REP Lee Boan,439,0,5,0,181,0,253
+Kershaw,Antioch,Sheriff,,REP,REP Lee Boan,324,0,4,0,86,0,234
+Kershaw,Bethune,Sheriff,,REP,REP Lee Boan,421,0,5,0,52,0,364
+Kershaw,Buffalo,Sheriff,,REP,REP Lee Boan,634,0,6,0,87,0,541
+Kershaw,Camden No. 1,Sheriff,,REP,REP Lee Boan,540,0,11,0,288,0,241
+Kershaw,Camden No. 2 & 3,Sheriff,,REP,REP Lee Boan,148,0,0,0,84,0,64
+Kershaw,Hobkirk's Hill,Sheriff,,REP,REP Lee Boan,847,0,14,0,438,0,395
+Kershaw,Camden No. 5,Sheriff,,REP,REP Lee Boan,472,0,12,0,221,0,239
+Kershaw,Camden No. 5-A,Sheriff,,REP,REP Lee Boan,169,0,0,0,65,0,104
+Kershaw,Camden No. 6,Sheriff,,REP,REP Lee Boan,349,0,18,0,164,0,167
+Kershaw,Cassatt,Sheriff,,REP,REP Lee Boan,531,0,4,0,140,0,387
+Kershaw,Charlotte Thompson,Sheriff,,REP,REP Lee Boan,621,0,5,0,323,0,293
+Kershaw,Doby's Mill,Sheriff,,REP,REP Lee Boan,666,0,15,0,128,0,523
+Kershaw,Elgin No. 1,Sheriff,,REP,REP Lee Boan,1020,0,16,0,250,0,754
+Kershaw,Elgin No. 2,Sheriff,,REP,REP Lee Boan,669,0,10,0,202,0,457
+Kershaw,Elgin No. 3,Sheriff,,REP,REP Lee Boan,562,0,8,0,185,0,369
+Kershaw,Elgin No. 4,Sheriff,,REP,REP Lee Boan,724,0,8,0,170,0,546
+Kershaw,Elgin No. 5,Sheriff,,REP,REP Lee Boan,584,0,17,0,119,0,448
+Kershaw,Elgin No. 6,Sheriff,,REP,REP Lee Boan,388,0,10,0,62,0,316
+Kershaw,Liberty Hill,Sheriff,,REP,REP Lee Boan,307,0,5,0,83,0,219
+Kershaw,Lugoff No. 1,Sheriff,,REP,REP Lee Boan,493,0,10,0,191,0,292
+Kershaw,Lugoff No. 2,Sheriff,,REP,REP Lee Boan,760,0,19,0,273,0,468
+Kershaw,Lugoff No. 3,Sheriff,,REP,REP Lee Boan,727,0,13,0,225,0,489
+Kershaw,Lugoff No. 4,Sheriff,,REP,REP Lee Boan,659,0,12,0,232,0,415
+Kershaw,Malvern Hill,Sheriff,,REP,REP Lee Boan,490,0,5,0,171,0,314
+Kershaw,Rabon's X Roads,Sheriff,,REP,REP Lee Boan,1013,0,13,0,260,0,740
+Kershaw,Riverdale,Sheriff,,REP,REP Lee Boan,144,0,3,0,53,0,88
+Kershaw,Salt Pond,Sheriff,,REP,REP Lee Boan,560,0,10,0,190,0,360
+Kershaw,Shaylor's Hill,Sheriff,,REP,REP Lee Boan,437,0,10,0,178,0,249
+Kershaw,Springdale,Sheriff,,REP,REP Lee Boan,871,0,23,0,397,0,451
+Kershaw,Westville,Sheriff,,REP,REP Lee Boan,662,0,6,0,189,0,467
+Kershaw,Whites Gardens,Sheriff,,REP,REP Lee Boan,659,0,10,0,260,0,389
+Kershaw,Failsafe,Sheriff,,REP,REP Lee Boan,0,0,0,0,0,0,0
+Kershaw,Provisional,Sheriff,,REP,REP Lee Boan,9,0,0,0,0,9,0
+Kershaw,Failsafe Provisional,Sheriff,,REP,REP Lee Boan,2,0,0,2,0,0,0
+Kershaw,Airport,Sheriff,,NON,Write-In,11,0,1,0,5,0,5
+Kershaw,Antioch,Sheriff,,NON,Write-In,4,0,0,0,0,0,4
+Kershaw,Bethune,Sheriff,,NON,Write-In,13,0,0,0,1,0,12
+Kershaw,Buffalo,Sheriff,,NON,Write-In,8,0,0,0,0,0,8
+Kershaw,Camden No. 1,Sheriff,,NON,Write-In,13,0,0,0,7,0,6
+Kershaw,Camden No. 2 & 3,Sheriff,,NON,Write-In,2,0,0,0,2,0,0
+Kershaw,Hobkirk's Hill,Sheriff,,NON,Write-In,17,0,0,0,7,0,10
+Kershaw,Camden No. 5,Sheriff,,NON,Write-In,10,0,0,0,2,0,8
+Kershaw,Camden No. 5-A,Sheriff,,NON,Write-In,3,0,0,0,1,0,2
+Kershaw,Camden No. 6,Sheriff,,NON,Write-In,7,0,0,0,4,0,3
+Kershaw,Cassatt,Sheriff,,NON,Write-In,15,0,0,0,4,0,11
+Kershaw,Charlotte Thompson,Sheriff,,NON,Write-In,20,0,0,0,12,0,8
+Kershaw,Doby's Mill,Sheriff,,NON,Write-In,18,0,2,0,3,0,13
+Kershaw,Elgin No. 1,Sheriff,,NON,Write-In,20,0,0,0,5,0,15
+Kershaw,Elgin No. 2,Sheriff,,NON,Write-In,25,0,0,0,12,0,13
+Kershaw,Elgin No. 3,Sheriff,,NON,Write-In,15,0,0,0,3,0,12
+Kershaw,Elgin No. 4,Sheriff,,NON,Write-In,16,0,0,0,8,0,8
+Kershaw,Elgin No. 5,Sheriff,,NON,Write-In,13,0,1,0,3,0,9
+Kershaw,Elgin No. 6,Sheriff,,NON,Write-In,14,0,0,0,6,0,8
+Kershaw,Liberty Hill,Sheriff,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Lugoff No. 1,Sheriff,,NON,Write-In,16,0,0,0,10,0,6
+Kershaw,Lugoff No. 2,Sheriff,,NON,Write-In,12,0,1,0,5,0,6
+Kershaw,Lugoff No. 3,Sheriff,,NON,Write-In,10,0,0,0,2,0,8
+Kershaw,Lugoff No. 4,Sheriff,,NON,Write-In,9,0,0,0,1,0,8
+Kershaw,Malvern Hill,Sheriff,,NON,Write-In,7,0,0,0,0,0,7
+Kershaw,Rabon's X Roads,Sheriff,,NON,Write-In,22,0,1,0,5,0,16
+Kershaw,Riverdale,Sheriff,,NON,Write-In,3,0,0,0,1,0,2
+Kershaw,Salt Pond,Sheriff,,NON,Write-In,10,0,1,0,3,0,6
+Kershaw,Shaylor's Hill,Sheriff,,NON,Write-In,9,0,0,0,6,0,3
+Kershaw,Springdale,Sheriff,,NON,Write-In,12,0,1,0,6,0,5
+Kershaw,Westville,Sheriff,,NON,Write-In,7,0,0,0,2,0,5
+Kershaw,Whites Gardens,Sheriff,,NON,Write-In,11,0,0,0,2,0,9
+Kershaw,Failsafe,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,Probate Judge,,REP,REP Debbie Branham,430,0,5,0,177,0,248
+Kershaw,Antioch,Probate Judge,,REP,REP Debbie Branham,321,0,4,0,81,0,236
+Kershaw,Bethune,Probate Judge,,REP,REP Debbie Branham,437,0,5,0,54,0,378
+Kershaw,Buffalo,Probate Judge,,REP,REP Debbie Branham,645,0,6,0,82,0,557
+Kershaw,Camden No. 1,Probate Judge,,REP,REP Debbie Branham,503,0,10,0,258,0,235
+Kershaw,Camden No. 2 & 3,Probate Judge,,REP,REP Debbie Branham,143,0,0,0,82,0,61
+Kershaw,Hobkirk's Hill,Probate Judge,,REP,REP Debbie Branham,826,0,12,0,426,0,388
+Kershaw,Camden No. 5,Probate Judge,,REP,REP Debbie Branham,461,0,10,0,217,0,234
+Kershaw,Camden No. 5-A,Probate Judge,,REP,REP Debbie Branham,157,0,0,0,57,0,100
+Kershaw,Camden No. 6,Probate Judge,,REP,REP Debbie Branham,338,0,17,0,156,0,165
+Kershaw,Cassatt,Probate Judge,,REP,REP Debbie Branham,528,0,4,0,135,0,389
+Kershaw,Charlotte Thompson,Probate Judge,,REP,REP Debbie Branham,612,0,5,0,315,0,292
+Kershaw,Doby's Mill,Probate Judge,,REP,REP Debbie Branham,665,0,15,0,123,0,527
+Kershaw,Elgin No. 1,Probate Judge,,REP,REP Debbie Branham,1004,0,17,0,240,0,747
+Kershaw,Elgin No. 2,Probate Judge,,REP,REP Debbie Branham,668,0,9,0,203,0,456
+Kershaw,Elgin No. 3,Probate Judge,,REP,REP Debbie Branham,556,0,8,0,179,0,369
+Kershaw,Elgin No. 4,Probate Judge,,REP,REP Debbie Branham,712,0,9,0,166,0,537
+Kershaw,Elgin No. 5,Probate Judge,,REP,REP Debbie Branham,570,0,15,0,117,0,438
+Kershaw,Elgin No. 6,Probate Judge,,REP,REP Debbie Branham,377,0,10,0,60,0,307
+Kershaw,Liberty Hill,Probate Judge,,REP,REP Debbie Branham,305,0,5,0,81,0,219
+Kershaw,Lugoff No. 1,Probate Judge,,REP,REP Debbie Branham,499,0,9,0,193,0,297
+Kershaw,Lugoff No. 2,Probate Judge,,REP,REP Debbie Branham,753,0,18,0,262,0,473
+Kershaw,Lugoff No. 3,Probate Judge,,REP,REP Debbie Branham,715,0,13,0,214,0,488
+Kershaw,Lugoff No. 4,Probate Judge,,REP,REP Debbie Branham,650,0,12,0,226,0,412
+Kershaw,Malvern Hill,Probate Judge,,REP,REP Debbie Branham,481,0,5,0,165,0,311
+Kershaw,Rabon's X Roads,Probate Judge,,REP,REP Debbie Branham,1012,0,13,0,252,0,747
+Kershaw,Riverdale,Probate Judge,,REP,REP Debbie Branham,125,0,3,0,46,0,76
+Kershaw,Salt Pond,Probate Judge,,REP,REP Debbie Branham,550,0,11,0,183,0,356
+Kershaw,Shaylor's Hill,Probate Judge,,REP,REP Debbie Branham,426,0,9,0,169,0,248
+Kershaw,Springdale,Probate Judge,,REP,REP Debbie Branham,839,0,23,0,374,0,442
+Kershaw,Westville,Probate Judge,,REP,REP Debbie Branham,659,0,6,0,186,0,467
+Kershaw,Whites Gardens,Probate Judge,,REP,REP Debbie Branham,656,0,11,0,252,0,393
+Kershaw,Failsafe,Probate Judge,,REP,REP Debbie Branham,0,0,0,0,0,0,0
+Kershaw,Provisional,Probate Judge,,REP,REP Debbie Branham,8,0,0,0,0,8,0
+Kershaw,Failsafe Provisional,Probate Judge,,REP,REP Debbie Branham,2,0,0,2,0,0,0
+Kershaw,Airport,Probate Judge,,NON,Write-In,5,0,1,0,3,0,1
+Kershaw,Antioch,Probate Judge,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Bethune,Probate Judge,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Buffalo,Probate Judge,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 1,Probate Judge,,NON,Write-In,11,0,0,0,8,0,3
+Kershaw,Camden No. 2 & 3,Probate Judge,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Hobkirk's Hill,Probate Judge,,NON,Write-In,5,0,0,0,2,0,3
+Kershaw,Camden No. 5,Probate Judge,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Camden No. 5-A,Probate Judge,,NON,Write-In,3,0,1,0,2,0,0
+Kershaw,Camden No. 6,Probate Judge,,NON,Write-In,8,0,1,0,5,0,2
+Kershaw,Cassatt,Probate Judge,,NON,Write-In,5,0,0,0,0,0,5
+Kershaw,Charlotte Thompson,Probate Judge,,NON,Write-In,12,0,0,0,8,0,4
+Kershaw,Doby's Mill,Probate Judge,,NON,Write-In,6,0,0,0,1,0,5
+Kershaw,Elgin No. 1,Probate Judge,,NON,Write-In,7,0,0,0,2,0,5
+Kershaw,Elgin No. 2,Probate Judge,,NON,Write-In,8,0,0,0,4,0,4
+Kershaw,Elgin No. 3,Probate Judge,,NON,Write-In,6,0,0,0,2,0,4
+Kershaw,Elgin No. 4,Probate Judge,,NON,Write-In,9,0,0,0,5,0,4
+Kershaw,Elgin No. 5,Probate Judge,,NON,Write-In,11,0,1,0,2,0,8
+Kershaw,Elgin No. 6,Probate Judge,,NON,Write-In,9,0,0,0,5,0,4
+Kershaw,Liberty Hill,Probate Judge,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Lugoff No. 1,Probate Judge,,NON,Write-In,4,0,0,0,4,0,0
+Kershaw,Lugoff No. 2,Probate Judge,,NON,Write-In,5,0,2,0,2,0,1
+Kershaw,Lugoff No. 3,Probate Judge,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Lugoff No. 4,Probate Judge,,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Malvern Hill,Probate Judge,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Rabon's X Roads,Probate Judge,,NON,Write-In,7,0,1,0,3,0,3
+Kershaw,Riverdale,Probate Judge,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Salt Pond,Probate Judge,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Shaylor's Hill,Probate Judge,,NON,Write-In,5,0,0,0,5,0,0
+Kershaw,Springdale,Probate Judge,,NON,Write-In,3,0,0,0,2,0,1
+Kershaw,Westville,Probate Judge,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Whites Gardens,Probate Judge,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Failsafe,Probate Judge,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,Probate Judge,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Probate Judge,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,Coroner,,REP,REP David A West,437,0,5,0,182,0,250
+Kershaw,Antioch,Coroner,,REP,REP David A West,326,0,4,0,85,0,237
+Kershaw,Bethune,Coroner,,REP,REP David A West,448,0,5,0,55,0,388
+Kershaw,Buffalo,Coroner,,REP,REP David A West,651,0,6,0,86,0,559
+Kershaw,Camden No. 1,Coroner,,REP,REP David A West,522,0,10,0,271,0,241
+Kershaw,Camden No. 2 & 3,Coroner,,REP,REP David A West,139,0,0,0,81,0,58
+Kershaw,Hobkirk's Hill,Coroner,,REP,REP David A West,838,0,14,0,430,0,394
+Kershaw,Camden No. 5,Coroner,,REP,REP David A West,472,0,12,0,222,0,238
+Kershaw,Camden No. 5-A,Coroner,,REP,REP David A West,164,0,0,0,59,0,105
+Kershaw,Camden No. 6,Coroner,,REP,REP David A West,352,0,18,0,161,0,173
+Kershaw,Cassatt,Coroner,,REP,REP David A West,537,0,4,0,139,0,394
+Kershaw,Charlotte Thompson,Coroner,,REP,REP David A West,631,0,6,0,322,0,303
+Kershaw,Doby's Mill,Coroner,,REP,REP David A West,672,0,17,0,125,0,530
+Kershaw,Elgin No. 1,Coroner,,REP,REP David A West,1011,0,16,0,242,0,753
+Kershaw,Elgin No. 2,Coroner,,REP,REP David A West,670,0,9,0,203,0,458
+Kershaw,Elgin No. 3,Coroner,,REP,REP David A West,561,0,8,0,181,0,372
+Kershaw,Elgin No. 4,Coroner,,REP,REP David A West,721,0,9,0,166,0,546
+Kershaw,Elgin No. 5,Coroner,,REP,REP David A West,577,0,16,0,120,0,441
+Kershaw,Elgin No. 6,Coroner,,REP,REP David A West,384,0,10,0,62,0,312
+Kershaw,Liberty Hill,Coroner,,REP,REP David A West,306,0,5,0,82,0,219
+Kershaw,Lugoff No. 1,Coroner,,REP,REP David A West,510,0,10,0,199,0,301
+Kershaw,Lugoff No. 2,Coroner,,REP,REP David A West,760,0,18,0,269,0,473
+Kershaw,Lugoff No. 3,Coroner,,REP,REP David A West,720,0,13,0,216,0,491
+Kershaw,Lugoff No. 4,Coroner,,REP,REP David A West,652,0,12,0,223,0,417
+Kershaw,Malvern Hill,Coroner,,REP,REP David A West,490,0,5,0,168,0,317
+Kershaw,Rabon's X Roads,Coroner,,REP,REP David A West,1014,0,13,0,252,0,749
+Kershaw,Riverdale,Coroner,,REP,REP David A West,141,0,3,0,54,0,84
+Kershaw,Salt Pond,Coroner,,REP,REP David A West,556,0,11,0,185,0,360
+Kershaw,Shaylor's Hill,Coroner,,REP,REP David A West,436,0,10,0,173,0,253
+Kershaw,Springdale,Coroner,,REP,REP David A West,862,0,23,0,387,0,452
+Kershaw,Westville,Coroner,,REP,REP David A West,670,0,6,0,192,0,472
+Kershaw,Whites Gardens,Coroner,,REP,REP David A West,678,0,14,0,263,0,401
+Kershaw,Failsafe,Coroner,,REP,REP David A West,0,0,0,0,0,0,0
+Kershaw,Provisional,Coroner,,REP,REP David A West,9,0,0,0,0,9,0
+Kershaw,Failsafe Provisional,Coroner,,REP,REP David A West,2,0,0,2,0,0,0
+Kershaw,Airport,Coroner,,NON,Write-In,5,0,1,0,2,0,2
+Kershaw,Antioch,Coroner,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Bethune,Coroner,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Buffalo,Coroner,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Camden No. 1,Coroner,,NON,Write-In,7,0,0,0,5,0,2
+Kershaw,Camden No. 2 & 3,Coroner,,NON,Write-In,4,0,0,0,2,0,2
+Kershaw,Hobkirk's Hill,Coroner,,NON,Write-In,5,0,0,0,1,0,4
+Kershaw,Camden No. 5,Coroner,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Camden No. 5-A,Coroner,,NON,Write-In,2,0,1,0,1,0,0
+Kershaw,Camden No. 6,Coroner,,NON,Write-In,2,0,0,0,2,0,0
+Kershaw,Cassatt,Coroner,,NON,Write-In,6,0,0,0,1,0,5
+Kershaw,Charlotte Thompson,Coroner,,NON,Write-In,7,0,0,0,6,0,1
+Kershaw,Doby's Mill,Coroner,,NON,Write-In,8,0,0,0,2,0,6
+Kershaw,Elgin No. 1,Coroner,,NON,Write-In,5,0,0,0,2,0,3
+Kershaw,Elgin No. 2,Coroner,,NON,Write-In,9,0,0,0,5,0,4
+Kershaw,Elgin No. 3,Coroner,,NON,Write-In,7,0,0,0,1,0,6
+Kershaw,Elgin No. 4,Coroner,,NON,Write-In,9,0,0,0,5,0,4
+Kershaw,Elgin No. 5,Coroner,,NON,Write-In,12,0,1,0,2,0,9
+Kershaw,Elgin No. 6,Coroner,,NON,Write-In,7,0,0,0,4,0,3
+Kershaw,Liberty Hill,Coroner,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Lugoff No. 1,Coroner,,NON,Write-In,2,0,0,0,2,0,0
+Kershaw,Lugoff No. 2,Coroner,,NON,Write-In,7,0,2,0,2,0,3
+Kershaw,Lugoff No. 3,Coroner,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Lugoff No. 4,Coroner,,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Malvern Hill,Coroner,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Rabon's X Roads,Coroner,,NON,Write-In,8,0,1,0,4,0,3
+Kershaw,Riverdale,Coroner,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Salt Pond,Coroner,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Shaylor's Hill,Coroner,,NON,Write-In,5,0,0,0,5,0,0
+Kershaw,Springdale,Coroner,,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Westville,Coroner,,NON,Write-In,4,0,0,0,0,0,4
+Kershaw,Whites Gardens,Coroner,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Failsafe,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,Auditor,,REP,REP Dennis G Arledge Sr,426,0,4,0,177,0,245
+Kershaw,Antioch,Auditor,,REP,REP Dennis G Arledge Sr,316,0,4,0,80,0,232
+Kershaw,Bethune,Auditor,,REP,REP Dennis G Arledge Sr,436,0,5,0,52,0,379
+Kershaw,Buffalo,Auditor,,REP,REP Dennis G Arledge Sr,641,0,6,0,83,0,552
+Kershaw,Camden No. 1,Auditor,,REP,REP Dennis G Arledge Sr,502,0,10,0,258,0,234
+Kershaw,Camden No. 2 & 3,Auditor,,REP,REP Dennis G Arledge Sr,142,0,0,0,82,0,60
+Kershaw,Hobkirk's Hill,Auditor,,REP,REP Dennis G Arledge Sr,821,0,13,0,425,0,383
+Kershaw,Camden No. 5,Auditor,,REP,REP Dennis G Arledge Sr,463,0,11,0,215,0,237
+Kershaw,Camden No. 5-A,Auditor,,REP,REP Dennis G Arledge Sr,155,0,0,0,56,0,99
+Kershaw,Camden No. 6,Auditor,,REP,REP Dennis G Arledge Sr,336,0,17,0,159,0,160
+Kershaw,Cassatt,Auditor,,REP,REP Dennis G Arledge Sr,528,0,4,0,134,0,390
+Kershaw,Charlotte Thompson,Auditor,,REP,REP Dennis G Arledge Sr,610,0,5,0,313,0,292
+Kershaw,Doby's Mill,Auditor,,REP,REP Dennis G Arledge Sr,669,0,15,0,125,0,529
+Kershaw,Elgin No. 1,Auditor,,REP,REP Dennis G Arledge Sr,993,0,15,0,234,0,744
+Kershaw,Elgin No. 2,Auditor,,REP,REP Dennis G Arledge Sr,658,0,8,0,194,0,456
+Kershaw,Elgin No. 3,Auditor,,REP,REP Dennis G Arledge Sr,554,0,8,0,178,0,368
+Kershaw,Elgin No. 4,Auditor,,REP,REP Dennis G Arledge Sr,705,0,9,0,161,0,535
+Kershaw,Elgin No. 5,Auditor,,REP,REP Dennis G Arledge Sr,567,0,16,0,115,0,436
+Kershaw,Elgin No. 6,Auditor,,REP,REP Dennis G Arledge Sr,375,0,10,0,61,0,304
+Kershaw,Liberty Hill,Auditor,,REP,REP Dennis G Arledge Sr,304,0,5,0,81,0,218
+Kershaw,Lugoff No. 1,Auditor,,REP,REP Dennis G Arledge Sr,499,0,9,0,192,0,298
+Kershaw,Lugoff No. 2,Auditor,,REP,REP Dennis G Arledge Sr,746,0,18,0,261,0,467
+Kershaw,Lugoff No. 3,Auditor,,REP,REP Dennis G Arledge Sr,711,0,13,0,214,0,484
+Kershaw,Lugoff No. 4,Auditor,,REP,REP Dennis G Arledge Sr,647,0,12,0,221,0,414
+Kershaw,Malvern Hill,Auditor,,REP,REP Dennis G Arledge Sr,472,0,5,0,160,0,307
+Kershaw,Rabon's X Roads,Auditor,,REP,REP Dennis G Arledge Sr,1006,0,13,0,248,0,745
+Kershaw,Riverdale,Auditor,,REP,REP Dennis G Arledge Sr,119,0,3,0,44,0,72
+Kershaw,Salt Pond,Auditor,,REP,REP Dennis G Arledge Sr,551,0,12,0,182,0,357
+Kershaw,Shaylor's Hill,Auditor,,REP,REP Dennis G Arledge Sr,424,0,10,0,168,0,246
+Kershaw,Springdale,Auditor,,REP,REP Dennis G Arledge Sr,838,0,22,0,376,0,440
+Kershaw,Westville,Auditor,,REP,REP Dennis G Arledge Sr,660,0,6,0,186,0,468
+Kershaw,Whites Gardens,Auditor,,REP,REP Dennis G Arledge Sr,650,0,11,0,251,0,388
+Kershaw,Failsafe,Auditor,,REP,REP Dennis G Arledge Sr,0,0,0,0,0,0,0
+Kershaw,Provisional,Auditor,,REP,REP Dennis G Arledge Sr,9,0,0,0,0,9,0
+Kershaw,Failsafe Provisional,Auditor,,REP,REP Dennis G Arledge Sr,2,0,0,2,0,0,0
+Kershaw,Airport,Auditor,,NON,Write-In,5,0,1,0,3,0,1
+Kershaw,Antioch,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Bethune,Auditor,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Buffalo,Auditor,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Camden No. 1,Auditor,,NON,Write-In,5,0,0,0,3,0,2
+Kershaw,Camden No. 2 & 3,Auditor,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Hobkirk's Hill,Auditor,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Camden No. 5,Auditor,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Camden No. 5-A,Auditor,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Camden No. 6,Auditor,,NON,Write-In,4,0,0,0,4,0,0
+Kershaw,Cassatt,Auditor,,NON,Write-In,4,0,0,0,0,0,4
+Kershaw,Charlotte Thompson,Auditor,,NON,Write-In,11,0,0,0,8,0,3
+Kershaw,Doby's Mill,Auditor,,NON,Write-In,8,0,0,0,2,0,6
+Kershaw,Elgin No. 1,Auditor,,NON,Write-In,8,0,0,0,4,0,4
+Kershaw,Elgin No. 2,Auditor,,NON,Write-In,11,0,0,0,7,0,4
+Kershaw,Elgin No. 3,Auditor,,NON,Write-In,5,0,0,0,1,0,4
+Kershaw,Elgin No. 4,Auditor,,NON,Write-In,9,0,0,0,5,0,4
+Kershaw,Elgin No. 5,Auditor,,NON,Write-In,13,0,1,0,3,0,9
+Kershaw,Elgin No. 6,Auditor,,NON,Write-In,6,0,0,0,3,0,3
+Kershaw,Liberty Hill,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 1,Auditor,,NON,Write-In,4,0,0,0,3,0,1
+Kershaw,Lugoff No. 2,Auditor,,NON,Write-In,6,0,2,0,2,0,2
+Kershaw,Lugoff No. 3,Auditor,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Lugoff No. 4,Auditor,,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Malvern Hill,Auditor,,NON,Write-In,4,0,0,0,0,0,4
+Kershaw,Rabon's X Roads,Auditor,,NON,Write-In,9,0,1,0,5,0,3
+Kershaw,Riverdale,Auditor,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Salt Pond,Auditor,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Shaylor's Hill,Auditor,,NON,Write-In,6,0,0,0,5,0,1
+Kershaw,Springdale,Auditor,,NON,Write-In,4,0,0,0,3,0,1
+Kershaw,Westville,Auditor,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Whites Gardens,Auditor,,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Failsafe,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,County Treasurer,,REP,REP Randy Roberts,422,0,5,0,178,0,239
+Kershaw,Antioch,County Treasurer,,REP,REP Randy Roberts,313,0,4,0,77,0,232
+Kershaw,Bethune,County Treasurer,,REP,REP Randy Roberts,433,0,5,0,52,0,376
+Kershaw,Buffalo,County Treasurer,,REP,REP Randy Roberts,651,0,6,0,86,0,559
+Kershaw,Camden No. 1,County Treasurer,,REP,REP Randy Roberts,506,0,10,0,262,0,234
+Kershaw,Camden No. 2 & 3,County Treasurer,,REP,REP Randy Roberts,138,0,0,0,81,0,57
+Kershaw,Hobkirk's Hill,County Treasurer,,REP,REP Randy Roberts,790,0,12,0,405,0,373
+Kershaw,Camden No. 5,County Treasurer,,REP,REP Randy Roberts,450,0,10,0,211,0,229
+Kershaw,Camden No. 5-A,County Treasurer,,REP,REP Randy Roberts,155,0,0,0,57,0,98
+Kershaw,Camden No. 6,County Treasurer,,REP,REP Randy Roberts,329,0,17,0,156,0,156
+Kershaw,Cassatt,County Treasurer,,REP,REP Randy Roberts,521,0,4,0,133,0,384
+Kershaw,Charlotte Thompson,County Treasurer,,REP,REP Randy Roberts,593,0,6,0,299,0,288
+Kershaw,Doby's Mill,County Treasurer,,REP,REP Randy Roberts,662,0,15,0,120,0,527
+Kershaw,Elgin No. 1,County Treasurer,,REP,REP Randy Roberts,988,0,16,0,236,0,736
+Kershaw,Elgin No. 2,County Treasurer,,REP,REP Randy Roberts,654,0,9,0,196,0,449
+Kershaw,Elgin No. 3,County Treasurer,,REP,REP Randy Roberts,551,0,8,0,180,0,363
+Kershaw,Elgin No. 4,County Treasurer,,REP,REP Randy Roberts,707,0,9,0,162,0,536
+Kershaw,Elgin No. 5,County Treasurer,,REP,REP Randy Roberts,568,0,16,0,116,0,436
+Kershaw,Elgin No. 6,County Treasurer,,REP,REP Randy Roberts,372,0,10,0,56,0,306
+Kershaw,Liberty Hill,County Treasurer,,REP,REP Randy Roberts,302,0,4,0,81,0,217
+Kershaw,Lugoff No. 1,County Treasurer,,REP,REP Randy Roberts,499,0,9,0,192,0,298
+Kershaw,Lugoff No. 2,County Treasurer,,REP,REP Randy Roberts,741,0,18,0,260,0,463
+Kershaw,Lugoff No. 3,County Treasurer,,REP,REP Randy Roberts,709,0,13,0,209,0,487
+Kershaw,Lugoff No. 4,County Treasurer,,REP,REP Randy Roberts,635,0,12,0,216,0,407
+Kershaw,Malvern Hill,County Treasurer,,REP,REP Randy Roberts,470,0,5,0,157,0,308
+Kershaw,Rabon's X Roads,County Treasurer,,REP,REP Randy Roberts,1000,0,13,0,245,0,742
+Kershaw,Riverdale,County Treasurer,,REP,REP Randy Roberts,118,0,2,0,43,0,73
+Kershaw,Salt Pond,County Treasurer,,REP,REP Randy Roberts,542,0,12,0,179,0,351
+Kershaw,Shaylor's Hill,County Treasurer,,REP,REP Randy Roberts,428,0,9,0,171,0,248
+Kershaw,Springdale,County Treasurer,,REP,REP Randy Roberts,815,0,20,0,360,0,435
+Kershaw,Westville,County Treasurer,,REP,REP Randy Roberts,658,0,6,0,185,0,467
+Kershaw,Whites Gardens,County Treasurer,,REP,REP Randy Roberts,648,0,10,0,253,0,385
+Kershaw,Failsafe,County Treasurer,,REP,REP Randy Roberts,0,0,0,0,0,0,0
+Kershaw,Provisional,County Treasurer,,REP,REP Randy Roberts,10,0,0,0,0,10,0
+Kershaw,Failsafe Provisional,County Treasurer,,REP,REP Randy Roberts,2,0,0,2,0,0,0
+Kershaw,Airport,County Treasurer,,NON,Write-In,5,0,1,0,3,0,1
+Kershaw,Antioch,County Treasurer,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Bethune,County Treasurer,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Buffalo,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 1,County Treasurer,,NON,Write-In,6,0,0,0,3,0,3
+Kershaw,Camden No. 2 & 3,County Treasurer,,NON,Write-In,3,0,0,0,1,0,2
+Kershaw,Hobkirk's Hill,County Treasurer,,NON,Write-In,10,0,0,0,5,0,5
+Kershaw,Camden No. 5,County Treasurer,,NON,Write-In,3,0,1,0,0,0,2
+Kershaw,Camden No. 5-A,County Treasurer,,NON,Write-In,4,0,1,0,2,0,1
+Kershaw,Camden No. 6,County Treasurer,,NON,Write-In,5,0,0,0,4,0,1
+Kershaw,Cassatt,County Treasurer,,NON,Write-In,5,0,0,0,0,0,5
+Kershaw,Charlotte Thompson,County Treasurer,,NON,Write-In,13,0,0,0,8,0,5
+Kershaw,Doby's Mill,County Treasurer,,NON,Write-In,8,0,1,0,1,0,6
+Kershaw,Elgin No. 1,County Treasurer,,NON,Write-In,8,0,0,0,5,0,3
+Kershaw,Elgin No. 2,County Treasurer,,NON,Write-In,12,0,0,0,6,0,6
+Kershaw,Elgin No. 3,County Treasurer,,NON,Write-In,7,0,0,0,1,0,6
+Kershaw,Elgin No. 4,County Treasurer,,NON,Write-In,8,0,0,0,4,0,4
+Kershaw,Elgin No. 5,County Treasurer,,NON,Write-In,10,0,1,0,1,0,8
+Kershaw,Elgin No. 6,County Treasurer,,NON,Write-In,8,0,0,0,6,0,2
+Kershaw,Liberty Hill,County Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Lugoff No. 1,County Treasurer,,NON,Write-In,3,0,0,0,3,0,0
+Kershaw,Lugoff No. 2,County Treasurer,,NON,Write-In,6,0,2,0,2,0,2
+Kershaw,Lugoff No. 3,County Treasurer,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Lugoff No. 4,County Treasurer,,NON,Write-In,7,0,0,0,3,0,4
+Kershaw,Malvern Hill,County Treasurer,,NON,Write-In,6,0,0,0,3,0,3
+Kershaw,Rabon's X Roads,County Treasurer,,NON,Write-In,9,0,1,0,6,0,2
+Kershaw,Riverdale,County Treasurer,,NON,Write-In,4,0,0,0,2,0,2
+Kershaw,Salt Pond,County Treasurer,,NON,Write-In,6,0,0,0,1,0,5
+Kershaw,Shaylor's Hill,County Treasurer,,NON,Write-In,5,0,0,0,4,0,1
+Kershaw,Springdale,County Treasurer,,NON,Write-In,10,0,1,0,6,0,3
+Kershaw,Westville,County Treasurer,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Whites Gardens,County Treasurer,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Failsafe,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,County Council Chair,,REP,REP Katie Guinn,412,0,5,0,169,0,238
+Kershaw,Antioch,County Council Chair,,REP,REP Katie Guinn,306,0,3,0,79,0,224
+Kershaw,Bethune,County Council Chair,,REP,REP Katie Guinn,425,0,5,0,50,0,370
+Kershaw,Buffalo,County Council Chair,,REP,REP Katie Guinn,644,0,6,0,84,0,554
+Kershaw,Camden No. 1,County Council Chair,,REP,REP Katie Guinn,474,0,10,0,244,0,220
+Kershaw,Camden No. 2 & 3,County Council Chair,,REP,REP Katie Guinn,121,0,0,0,70,0,51
+Kershaw,Hobkirk's Hill,County Council Chair,,REP,REP Katie Guinn,655,0,8,0,328,0,319
+Kershaw,Camden No. 5,County Council Chair,,REP,REP Katie Guinn,412,0,7,0,193,0,212
+Kershaw,Camden No. 5-A,County Council Chair,,REP,REP Katie Guinn,147,0,0,0,53,0,94
+Kershaw,Camden No. 6,County Council Chair,,REP,REP Katie Guinn,311,0,17,0,143,0,151
+Kershaw,Cassatt,County Council Chair,,REP,REP Katie Guinn,517,0,4,0,131,0,382
+Kershaw,Charlotte Thompson,County Council Chair,,REP,REP Katie Guinn,547,0,3,0,276,0,268
+Kershaw,Doby's Mill,County Council Chair,,REP,REP Katie Guinn,654,0,15,0,118,0,521
+Kershaw,Elgin No. 1,County Council Chair,,REP,REP Katie Guinn,986,0,16,0,237,0,733
+Kershaw,Elgin No. 2,County Council Chair,,REP,REP Katie Guinn,648,0,9,0,191,0,448
+Kershaw,Elgin No. 3,County Council Chair,,REP,REP Katie Guinn,548,0,8,0,179,0,361
+Kershaw,Elgin No. 4,County Council Chair,,REP,REP Katie Guinn,704,0,9,0,160,0,535
+Kershaw,Elgin No. 5,County Council Chair,,REP,REP Katie Guinn,576,0,16,0,118,0,442
+Kershaw,Elgin No. 6,County Council Chair,,REP,REP Katie Guinn,370,0,10,0,59,0,301
+Kershaw,Liberty Hill,County Council Chair,,REP,REP Katie Guinn,303,0,4,0,80,0,219
+Kershaw,Lugoff No. 1,County Council Chair,,REP,REP Katie Guinn,492,0,9,0,191,0,292
+Kershaw,Lugoff No. 2,County Council Chair,,REP,REP Katie Guinn,726,0,17,0,248,0,461
+Kershaw,Lugoff No. 3,County Council Chair,,REP,REP Katie Guinn,704,0,13,0,210,0,481
+Kershaw,Lugoff No. 4,County Council Chair,,REP,REP Katie Guinn,635,0,12,0,219,0,404
+Kershaw,Malvern Hill,County Council Chair,,REP,REP Katie Guinn,470,0,5,0,157,0,308
+Kershaw,Rabon's X Roads,County Council Chair,,REP,REP Katie Guinn,988,0,13,0,240,0,735
+Kershaw,Riverdale,County Council Chair,,REP,REP Katie Guinn,119,0,3,0,43,0,73
+Kershaw,Salt Pond,County Council Chair,,REP,REP Katie Guinn,541,0,11,0,179,0,351
+Kershaw,Shaylor's Hill,County Council Chair,,REP,REP Katie Guinn,404,0,8,0,159,0,237
+Kershaw,Springdale,County Council Chair,,REP,REP Katie Guinn,764,0,17,0,326,0,421
+Kershaw,Westville,County Council Chair,,REP,REP Katie Guinn,641,0,6,0,180,0,455
+Kershaw,Whites Gardens,County Council Chair,,REP,REP Katie Guinn,639,0,11,0,244,0,384
+Kershaw,Failsafe,County Council Chair,,REP,REP Katie Guinn,0,0,0,0,0,0,0
+Kershaw,Provisional,County Council Chair,,REP,REP Katie Guinn,10,0,0,0,0,10,0
+Kershaw,Failsafe Provisional,County Council Chair,,REP,REP Katie Guinn,2,0,0,2,0,0,0
+Kershaw,Airport,County Council Chair,,NON,Write-In,13,0,1,0,7,0,5
+Kershaw,Antioch,County Council Chair,,NON,Write-In,9,0,0,0,1,0,8
+Kershaw,Bethune,County Council Chair,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Buffalo,County Council Chair,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 1,County Council Chair,,NON,Write-In,25,0,0,0,15,0,10
+Kershaw,Camden No. 2 & 3,County Council Chair,,NON,Write-In,16,0,0,0,8,0,8
+Kershaw,Hobkirk's Hill,County Council Chair,,NON,Write-In,104,0,3,0,60,0,41
+Kershaw,Camden No. 5,County Council Chair,,NON,Write-In,32,0,5,0,12,0,15
+Kershaw,Camden No. 5-A,County Council Chair,,NON,Write-In,6,0,1,0,3,0,2
+Kershaw,Camden No. 6,County Council Chair,,NON,Write-In,25,0,1,0,12,0,12
+Kershaw,Cassatt,County Council Chair,,NON,Write-In,7,0,0,0,1,0,6
+Kershaw,Charlotte Thompson,County Council Chair,,NON,Write-In,48,0,2,0,28,0,18
+Kershaw,Doby's Mill,County Council Chair,,NON,Write-In,14,0,1,0,4,0,9
+Kershaw,Elgin No. 1,County Council Chair,,NON,Write-In,10,0,0,0,2,0,8
+Kershaw,Elgin No. 2,County Council Chair,,NON,Write-In,17,0,1,0,7,0,9
+Kershaw,Elgin No. 3,County Council Chair,,NON,Write-In,11,0,0,0,5,0,6
+Kershaw,Elgin No. 4,County Council Chair,,NON,Write-In,14,0,0,0,8,0,6
+Kershaw,Elgin No. 5,County Council Chair,,NON,Write-In,10,0,1,0,1,0,8
+Kershaw,Elgin No. 6,County Council Chair,,NON,Write-In,7,0,0,0,5,0,2
+Kershaw,Liberty Hill,County Council Chair,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Lugoff No. 1,County Council Chair,,NON,Write-In,10,0,0,0,7,0,3
+Kershaw,Lugoff No. 2,County Council Chair,,NON,Write-In,11,0,2,0,5,0,4
+Kershaw,Lugoff No. 3,County Council Chair,,NON,Write-In,8,0,0,0,1,0,7
+Kershaw,Lugoff No. 4,County Council Chair,,NON,Write-In,9,0,0,0,4,0,5
+Kershaw,Malvern Hill,County Council Chair,,NON,Write-In,8,0,0,0,4,0,4
+Kershaw,Rabon's X Roads,County Council Chair,,NON,Write-In,17,0,1,0,7,0,9
+Kershaw,Riverdale,County Council Chair,,NON,Write-In,3,0,0,0,1,0,2
+Kershaw,Salt Pond,County Council Chair,,NON,Write-In,8,0,1,0,3,0,4
+Kershaw,Shaylor's Hill,County Council Chair,,NON,Write-In,22,0,1,0,13,0,8
+Kershaw,Springdale,County Council Chair,,NON,Write-In,41,0,4,0,23,0,14
+Kershaw,Westville,County Council Chair,,NON,Write-In,12,0,0,0,3,0,9
+Kershaw,Whites Gardens,County Council Chair,,NON,Write-In,11,0,0,0,2,0,9
+Kershaw,Failsafe,County Council Chair,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,County Council Chair,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,County Council Chair,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 2,County Council District 4,,REP,REP Jimmy Jones,503,0,9,0,150,0,344
+Kershaw,Elgin No. 4,County Council District 4,,REP,REP Jimmy Jones,530,0,5,0,121,0,404
+Kershaw,Elgin No. 6,County Council District 4,,REP,REP Jimmy Jones,210,0,3,0,31,0,176
+Kershaw,Lugoff No. 2,County Council District 4,,REP,REP Jimmy Jones,651,0,16,0,231,0,404
+Kershaw,Lugoff No. 3,County Council District 4,,REP,REP Jimmy Jones,439,0,5,0,149,0,285
+Kershaw,Lugoff No. 4,County Council District 4,,REP,REP Jimmy Jones,640,0,12,0,219,0,409
+Kershaw,Failsafe,County Council District 4,,REP,REP Jimmy Jones,0,0,0,0,0,0,0
+Kershaw,Provisional,County Council District 4,,REP,REP Jimmy Jones,2,0,0,0,0,2,0
+Kershaw,Failsafe Provisional,County Council District 4,,REP,REP Jimmy Jones,0,0,0,0,0,0,0
+Kershaw,Elgin No. 2,County Council District 4,,NON,Write-In,12,0,0,0,7,0,5
+Kershaw,Elgin No. 4,County Council District 4,,NON,Write-In,10,0,0,0,7,0,3
+Kershaw,Elgin No. 6,County Council District 4,,NON,Write-In,5,0,0,0,3,0,2
+Kershaw,Lugoff No. 2,County Council District 4,,NON,Write-In,10,0,2,0,4,0,4
+Kershaw,Lugoff No. 3,County Council District 4,,NON,Write-In,5,0,0,0,2,0,3
+Kershaw,Lugoff No. 4,County Council District 4,,NON,Write-In,7,0,0,0,4,0,3
+Kershaw,Failsafe,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,County Council Distric 5,,REP,REP Brant Tomlinson,420,0,5,0,175,0,240
+Kershaw,Antioch,County Council Distric 5,,REP,REP Brant Tomlinson,269,0,4,0,59,0,206
+Kershaw,Camden No. 1,County Council Distric 5,,REP,REP Brant Tomlinson,403,0,9,0,216,0,178
+Kershaw,Camden No. 2 & 3,County Council Distric 5,,REP,REP Brant Tomlinson,121,0,0,0,71,0,50
+Kershaw,Hobkirk's Hill,County Council Distric 5,,REP,REP Brant Tomlinson,687,0,10,0,361,0,316
+Kershaw,Camden No. 6,County Council Distric 5,,REP,REP Brant Tomlinson,326,0,17,0,151,0,158
+Kershaw,Cassatt,County Council Distric 5,,REP,REP Brant Tomlinson,136,0,2,0,44,0,90
+Kershaw,Charlotte Thompson,County Council Distric 5,,REP,REP Brant Tomlinson,27,0,0,0,17,0,10
+Kershaw,Malvern Hill,County Council Distric 5,,REP,REP Brant Tomlinson,296,0,1,0,107,0,188
+Kershaw,Springdale,County Council Distric 5,,REP,REP Brant Tomlinson,35,0,0,0,17,0,18
+Kershaw,Whites Gardens,County Council Distric 5,,REP,REP Brant Tomlinson,526,0,10,0,196,0,320
+Kershaw,Failsafe,County Council Distric 5,,REP,REP Brant Tomlinson,0,0,0,0,0,0,0
+Kershaw,Provisional,County Council Distric 5,,REP,REP Brant Tomlinson,1,0,0,0,0,1,0
+Kershaw,Failsafe Provisional,County Council Distric 5,,REP,REP Brant Tomlinson,0,0,0,0,0,0,0
+Kershaw,Airport,County Council Distric 5,,NON,Write-In,12,0,1,0,5,0,6
+Kershaw,Antioch,County Council Distric 5,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Camden No. 1,County Council Distric 5,,NON,Write-In,13,0,0,0,8,0,5
+Kershaw,Camden No. 2 & 3,County Council Distric 5,,NON,Write-In,3,0,0,0,1,0,2
+Kershaw,Hobkirk's Hill,County Council Distric 5,,NON,Write-In,18,0,0,0,11,0,7
+Kershaw,Camden No. 6,County Council Distric 5,,NON,Write-In,16,0,1,0,7,0,8
+Kershaw,Cassatt,County Council Distric 5,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Charlotte Thompson,County Council Distric 5,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Malvern Hill,County Council Distric 5,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Springdale,County Council Distric 5,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Whites Gardens,County Council Distric 5,,NON,Write-In,5,0,0,0,1,0,4
+Kershaw,Failsafe,County Council Distric 5,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,County Council Distric 5,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,County Council Distric 5,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Bethune,County Council District 6,,REP,REP Danny Bruce Catoe,429,0,5,0,53,0,371
+Kershaw,Buffalo,County Council District 6,,REP,REP Danny Bruce Catoe,649,0,6,0,86,0,557
+Kershaw,Camden No. 5,County Council District 6,,REP,REP Danny Bruce Catoe,243,0,8,0,115,0,120
+Kershaw,Camden No. 5-A,County Council District 6,,REP,REP Danny Bruce Catoe,92,0,0,0,38,0,54
+Kershaw,Cassatt,County Council District 6,,REP,REP Danny Bruce Catoe,375,0,2,0,84,0,289
+Kershaw,Springdale,County Council District 6,,REP,REP Danny Bruce Catoe,488,0,12,0,221,0,255
+Kershaw,Westville,County Council District 6,,REP,REP Danny Bruce Catoe,660,0,6,0,183,0,471
+Kershaw,Failsafe,County Council District 6,,REP,REP Danny Bruce Catoe,0,0,0,0,0,0,0
+Kershaw,Provisional,County Council District 6,,REP,REP Danny Bruce Catoe,2,0,0,0,0,2,0
+Kershaw,Failsafe Provisional,County Council District 6,,REP,REP Danny Bruce Catoe,0,0,0,0,0,0,0
+Kershaw,Bethune,County Council District 6,,NON,Write-In,5,0,0,0,0,0,5
+Kershaw,Buffalo,County Council District 6,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 5,County Council District 6,,NON,Write-In,9,0,1,0,7,0,1
+Kershaw,Camden No. 5-A,County Council District 6,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Cassatt,County Council District 6,,NON,Write-In,6,0,0,0,1,0,5
+Kershaw,Springdale,County Council District 6,,NON,Write-In,10,0,0,0,5,0,5
+Kershaw,Westville,County Council District 6,,NON,Write-In,3,0,0,0,1,0,2
+Kershaw,Failsafe,County Council District 6,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,County Council District 6,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,County Council District 6,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,Soil and Water District Commission,,NON,Ed Estridge,147,0,0,0,73,0,74
+Kershaw,Antioch,Soil and Water District Commission,,NON,Ed Estridge,86,0,1,0,18,0,67
+Kershaw,Bethune,Soil and Water District Commission,,NON,Ed Estridge,229,0,5,0,34,0,190
+Kershaw,Buffalo,Soil and Water District Commission,,NON,Ed Estridge,289,0,1,0,39,0,249
+Kershaw,Camden No. 1,Soil and Water District Commission,,NON,Ed Estridge,211,0,8,0,119,0,84
+Kershaw,Camden No. 2 & 3,Soil and Water District Commission,,NON,Ed Estridge,56,0,1,0,35,0,20
+Kershaw,Hobkirk's Hill,Soil and Water District Commission,,NON,Ed Estridge,320,0,8,0,169,0,143
+Kershaw,Camden No. 5,Soil and Water District Commission,,NON,Ed Estridge,197,0,10,0,103,0,84
+Kershaw,Camden No. 5-A,Soil and Water District Commission,,NON,Ed Estridge,71,0,1,0,33,0,37
+Kershaw,Camden No. 6,Soil and Water District Commission,,NON,Ed Estridge,132,0,9,0,64,0,59
+Kershaw,Cassatt,Soil and Water District Commission,,NON,Ed Estridge,139,0,0,0,42,0,97
+Kershaw,Charlotte Thompson,Soil and Water District Commission,,NON,Ed Estridge,199,0,4,0,100,0,95
+Kershaw,Doby's Mill,Soil and Water District Commission,,NON,Ed Estridge,208,0,6,0,45,0,157
+Kershaw,Elgin No. 1,Soil and Water District Commission,,NON,Ed Estridge,360,0,8,0,86,0,266
+Kershaw,Elgin No. 2,Soil and Water District Commission,,NON,Ed Estridge,241,0,8,0,74,0,159
+Kershaw,Elgin No. 3,Soil and Water District Commission,,NON,Ed Estridge,197,0,7,0,65,0,125
+Kershaw,Elgin No. 4,Soil and Water District Commission,,NON,Ed Estridge,242,0,4,0,59,0,179
+Kershaw,Elgin No. 5,Soil and Water District Commission,,NON,Ed Estridge,218,0,6,0,45,0,167
+Kershaw,Elgin No. 6,Soil and Water District Commission,,NON,Ed Estridge,137,0,2,0,25,0,110
+Kershaw,Liberty Hill,Soil and Water District Commission,,NON,Ed Estridge,106,0,1,0,29,0,76
+Kershaw,Lugoff No. 1,Soil and Water District Commission,,NON,Ed Estridge,182,0,5,0,74,0,103
+Kershaw,Lugoff No. 2,Soil and Water District Commission,,NON,Ed Estridge,272,0,10,0,102,0,160
+Kershaw,Lugoff No. 3,Soil and Water District Commission,,NON,Ed Estridge,247,0,6,0,78,0,163
+Kershaw,Lugoff No. 4,Soil and Water District Commission,,NON,Ed Estridge,238,0,2,0,81,0,155
+Kershaw,Malvern Hill,Soil and Water District Commission,,NON,Ed Estridge,157,0,0,0,48,0,109
+Kershaw,Rabon's X Roads,Soil and Water District Commission,,NON,Ed Estridge,342,0,7,0,104,0,231
+Kershaw,Riverdale,Soil and Water District Commission,,NON,Ed Estridge,59,0,7,0,27,0,25
+Kershaw,Salt Pond,Soil and Water District Commission,,NON,Ed Estridge,151,0,3,0,51,0,97
+Kershaw,Shaylor's Hill,Soil and Water District Commission,,NON,Ed Estridge,140,0,3,0,72,0,65
+Kershaw,Springdale,Soil and Water District Commission,,NON,Ed Estridge,344,0,10,0,175,0,159
+Kershaw,Westville,Soil and Water District Commission,,NON,Ed Estridge,230,0,2,0,69,0,159
+Kershaw,Whites Gardens,Soil and Water District Commission,,NON,Ed Estridge,216,0,5,0,82,0,129
+Kershaw,Failsafe,Soil and Water District Commission,,NON,Ed Estridge,0,0,0,0,0,0,0
+Kershaw,Provisional,Soil and Water District Commission,,NON,Ed Estridge,3,0,0,0,0,3,0
+Kershaw,Failsafe Provisional,Soil and Water District Commission,,NON,Ed Estridge,0,0,0,0,0,0,0
+Kershaw,Airport,Soil and Water District Commission,,NON,Will Galloway,233,0,4,0,97,0,132
+Kershaw,Antioch,Soil and Water District Commission,,NON,Will Galloway,157,0,2,0,41,0,114
+Kershaw,Bethune,Soil and Water District Commission,,NON,Will Galloway,163,0,1,0,18,0,144
+Kershaw,Buffalo,Soil and Water District Commission,,NON,Will Galloway,185,0,2,0,27,0,156
+Kershaw,Camden No. 1,Soil and Water District Commission,,NON,Will Galloway,326,0,4,0,177,0,145
+Kershaw,Camden No. 2 & 3,Soil and Water District Commission,,NON,Will Galloway,95,0,1,0,52,0,42
+Kershaw,Hobkirk's Hill,Soil and Water District Commission,,NON,Will Galloway,599,0,10,0,296,0,293
+Kershaw,Camden No. 5,Soil and Water District Commission,,NON,Will Galloway,308,0,8,0,133,0,167
+Kershaw,Camden No. 5-A,Soil and Water District Commission,,NON,Will Galloway,97,0,2,0,32,0,63
+Kershaw,Camden No. 6,Soil and Water District Commission,,NON,Will Galloway,198,0,14,0,82,0,102
+Kershaw,Cassatt,Soil and Water District Commission,,NON,Will Galloway,236,0,1,0,61,0,174
+Kershaw,Charlotte Thompson,Soil and Water District Commission,,NON,Will Galloway,304,0,1,0,164,0,139
+Kershaw,Doby's Mill,Soil and Water District Commission,,NON,Will Galloway,272,0,4,0,59,0,209
+Kershaw,Elgin No. 1,Soil and Water District Commission,,NON,Will Galloway,511,0,10,0,125,0,376
+Kershaw,Elgin No. 2,Soil and Water District Commission,,NON,Will Galloway,370,0,8,0,115,0,247
+Kershaw,Elgin No. 3,Soil and Water District Commission,,NON,Will Galloway,290,0,6,0,98,0,186
+Kershaw,Elgin No. 4,Soil and Water District Commission,,NON,Will Galloway,361,0,3,0,82,0,276
+Kershaw,Elgin No. 5,Soil and Water District Commission,,NON,Will Galloway,262,0,9,0,58,0,195
+Kershaw,Elgin No. 6,Soil and Water District Commission,,NON,Will Galloway,232,0,3,0,47,0,182
+Kershaw,Liberty Hill,Soil and Water District Commission,,NON,Will Galloway,122,0,0,0,33,0,89
+Kershaw,Lugoff No. 1,Soil and Water District Commission,,NON,Will Galloway,274,0,7,0,104,0,163
+Kershaw,Lugoff No. 2,Soil and Water District Commission,,NON,Will Galloway,412,0,8,0,143,0,261
+Kershaw,Lugoff No. 3,Soil and Water District Commission,,NON,Will Galloway,387,0,9,0,130,0,248
+Kershaw,Lugoff No. 4,Soil and Water District Commission,,NON,Will Galloway,332,0,5,0,126,0,201
+Kershaw,Malvern Hill,Soil and Water District Commission,,NON,Will Galloway,223,0,0,0,76,0,147
+Kershaw,Rabon's X Roads,Soil and Water District Commission,,NON,Will Galloway,493,0,5,0,141,0,347
+Kershaw,Riverdale,Soil and Water District Commission,,NON,Will Galloway,80,0,4,0,29,0,47
+Kershaw,Salt Pond,Soil and Water District Commission,,NON,Will Galloway,207,0,5,0,78,0,124
+Kershaw,Shaylor's Hill,Soil and Water District Commission,,NON,Will Galloway,187,0,4,0,80,0,103
+Kershaw,Springdale,Soil and Water District Commission,,NON,Will Galloway,497,0,12,0,231,0,254
+Kershaw,Westville,Soil and Water District Commission,,NON,Will Galloway,279,0,2,0,84,0,193
+Kershaw,Whites Gardens,Soil and Water District Commission,,NON,Will Galloway,353,0,5,0,138,0,210
+Kershaw,Failsafe,Soil and Water District Commission,,NON,Will Galloway,0,0,0,0,0,0,0
+Kershaw,Provisional,Soil and Water District Commission,,NON,Will Galloway,7,0,0,0,0,7,0
+Kershaw,Failsafe Provisional,Soil and Water District Commission,,NON,Will Galloway,1,0,0,1,0,0,0
+Kershaw,Airport,Soil and Water District Commission,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Antioch,Soil and Water District Commission,,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Bethune,Soil and Water District Commission,,NON,Write-In,8,0,0,0,0,0,8
+Kershaw,Buffalo,Soil and Water District Commission,,NON,Write-In,4,0,0,0,0,0,4
+Kershaw,Camden No. 1,Soil and Water District Commission,,NON,Write-In,5,0,0,0,4,0,1
+Kershaw,Camden No. 2 & 3,Soil and Water District Commission,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Hobkirk's Hill,Soil and Water District Commission,,NON,Write-In,7,0,0,0,3,0,4
+Kershaw,Camden No. 5,Soil and Water District Commission,,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Camden No. 5-A,Soil and Water District Commission,,NON,Write-In,2,0,2,0,0,0,0
+Kershaw,Camden No. 6,Soil and Water District Commission,,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Cassatt,Soil and Water District Commission,,NON,Write-In,4,0,0,0,0,0,4
+Kershaw,Charlotte Thompson,Soil and Water District Commission,,NON,Write-In,10,0,0,0,2,0,8
+Kershaw,Doby's Mill,Soil and Water District Commission,,NON,Write-In,13,0,0,0,3,0,10
+Kershaw,Elgin No. 1,Soil and Water District Commission,,NON,Write-In,8,0,0,0,2,0,6
+Kershaw,Elgin No. 2,Soil and Water District Commission,,NON,Write-In,4,0,0,0,2,0,2
+Kershaw,Elgin No. 3,Soil and Water District Commission,,NON,Write-In,7,0,0,0,4,0,3
+Kershaw,Elgin No. 4,Soil and Water District Commission,,NON,Write-In,6,0,1,0,1,0,4
+Kershaw,Elgin No. 5,Soil and Water District Commission,,NON,Write-In,15,0,1,0,3,0,11
+Kershaw,Elgin No. 6,Soil and Water District Commission,,NON,Write-In,4,0,0,0,2,0,2
+Kershaw,Liberty Hill,Soil and Water District Commission,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Lugoff No. 1,Soil and Water District Commission,,NON,Write-In,10,0,1,0,3,0,6
+Kershaw,Lugoff No. 2,Soil and Water District Commission,,NON,Write-In,7,0,0,0,1,0,6
+Kershaw,Lugoff No. 3,Soil and Water District Commission,,NON,Write-In,9,0,0,0,3,0,6
+Kershaw,Lugoff No. 4,Soil and Water District Commission,,NON,Write-In,7,0,0,0,3,0,4
+Kershaw,Malvern Hill,Soil and Water District Commission,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Rabon's X Roads,Soil and Water District Commission,,NON,Write-In,8,0,1,0,2,0,5
+Kershaw,Riverdale,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Salt Pond,Soil and Water District Commission,,NON,Write-In,7,0,0,0,1,0,6
+Kershaw,Shaylor's Hill,Soil and Water District Commission,,NON,Write-In,4,0,0,0,3,0,1
+Kershaw,Springdale,Soil and Water District Commission,,NON,Write-In,8,0,0,0,0,0,8
+Kershaw,Westville,Soil and Water District Commission,,NON,Write-In,4,0,0,0,0,0,4
+Kershaw,Whites Gardens,Soil and Water District Commission,,NON,Write-In,3,0,0,0,0,0,3
+Kershaw,Failsafe,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 1,School Board District 2,,NON,Nathan Greene Jr,192,0,3,0,72,0,117
+Kershaw,Elgin No. 2,School Board District 2,,NON,Nathan Greene Jr,10,0,0,0,2,0,8
+Kershaw,Elgin No. 3,School Board District 2,,NON,Nathan Greene Jr,168,0,7,0,58,0,103
+Kershaw,Elgin No. 4,School Board District 2,,NON,Nathan Greene Jr,17,0,0,0,0,0,17
+Kershaw,Elgin No. 5,School Board District 2,,NON,Nathan Greene Jr,105,0,2,0,29,0,74
+Kershaw,Elgin No. 6,School Board District 2,,NON,Nathan Greene Jr,28,0,0,0,12,0,16
+Kershaw,Failsafe,School Board District 2,,NON,Nathan Greene Jr,0,0,0,0,0,0,0
+Kershaw,Provisional,School Board District 2,,NON,Nathan Greene Jr,1,0,0,0,0,1,0
+Kershaw,Failsafe Provisional,School Board District 2,,NON,Nathan Greene Jr,0,0,0,0,0,0,0
+Kershaw,Elgin No. 1,School Board District 2,,NON,Donald R Reeves Jr,452,0,5,0,62,0,385
+Kershaw,Elgin No. 2,School Board District 2,,NON,Donald R Reeves Jr,12,0,0,0,1,0,11
+Kershaw,Elgin No. 3,School Board District 2,,NON,Donald R Reeves Jr,158,0,1,0,51,0,106
+Kershaw,Elgin No. 4,School Board District 2,,NON,Donald R Reeves Jr,11,0,0,0,0,0,11
+Kershaw,Elgin No. 5,School Board District 2,,NON,Donald R Reeves Jr,90,0,4,0,17,0,69
+Kershaw,Elgin No. 6,School Board District 2,,NON,Donald R Reeves Jr,35,0,0,0,10,0,25
+Kershaw,Failsafe,School Board District 2,,NON,Donald R Reeves Jr,0,0,0,0,0,0,0
+Kershaw,Provisional,School Board District 2,,NON,Donald R Reeves Jr,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,School Board District 2,,NON,Donald R Reeves Jr,0,0,0,0,0,0,0
+Kershaw,Elgin No. 1,School Board District 2,,NON,Mark Sury,308,0,3,0,95,0,210
+Kershaw,Elgin No. 2,School Board District 2,,NON,Mark Sury,38,0,1,0,14,0,23
+Kershaw,Elgin No. 3,School Board District 2,,NON,Mark Sury,184,0,1,0,65,0,118
+Kershaw,Elgin No. 4,School Board District 2,,NON,Mark Sury,15,0,0,0,4,0,11
+Kershaw,Elgin No. 5,School Board District 2,,NON,Mark Sury,106,0,4,0,33,0,69
+Kershaw,Elgin No. 6,School Board District 2,,NON,Mark Sury,30,0,1,0,8,0,21
+Kershaw,Failsafe,School Board District 2,,NON,Mark Sury,0,0,0,0,0,0,0
+Kershaw,Provisional,School Board District 2,,NON,Mark Sury,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,School Board District 2,,NON,Mark Sury,0,0,0,0,0,0,0
+Kershaw,Elgin No. 1,School Board District 2,,NON,Write-In,7,0,0,0,3,0,4
+Kershaw,Elgin No. 2,School Board District 2,,NON,Write-In,1,0,0,0,1,0,0
+Kershaw,Elgin No. 3,School Board District 2,,NON,Write-In,6,0,0,0,0,0,6
+Kershaw,Elgin No. 4,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Elgin No. 5,School Board District 2,,NON,Write-In,6,0,0,0,2,0,4
+Kershaw,Elgin No. 6,School Board District 2,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Failsafe,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Camden No. 1,School Board District 4,,NON,Shirley L Halley,188,0,6,0,90,0,92
+Kershaw,Camden No. 2 & 3,School Board District 4,,NON,Shirley L Halley,12,0,0,0,5,0,7
+Kershaw,Hobkirk's Hill,School Board District 4,,NON,Shirley L Halley,38,0,0,0,17,0,21
+Kershaw,Charlotte Thompson,School Board District 4,,NON,Shirley L Halley,70,0,0,0,45,0,25
+Kershaw,Doby's Mill,School Board District 4,,NON,Shirley L Halley,379,0,7,0,84,0,288
+Kershaw,Elgin No. 2,School Board District 4,,NON,Shirley L Halley,214,0,6,0,64,0,144
+Kershaw,Elgin No. 6,School Board District 4,,NON,Shirley L Halley,240,0,3,0,42,0,195
+Kershaw,Lugoff No. 2,School Board District 4,,NON,Shirley L Halley,16,0,0,0,8,0,8
+Kershaw,Lugoff No. 4,School Board District 4,,NON,Shirley L Halley,11,0,0,0,6,0,5
+Kershaw,Riverdale,School Board District 4,,NON,Shirley L Halley,24,0,1,0,13,0,10
+Kershaw,Failsafe,School Board District 4,,NON,Shirley L Halley,0,0,0,0,0,0,0
+Kershaw,Provisional,School Board District 4,,NON,Shirley L Halley,1,0,0,0,0,1,0
+Kershaw,Failsafe Provisional,School Board District 4,,NON,Shirley L Halley,0,0,0,0,0,0,0
+Kershaw,Camden No. 1,School Board District 4,,NON,Write-In,3,0,0,0,1,0,2
+Kershaw,Camden No. 2 & 3,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Hobkirk's Hill,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Charlotte Thompson,School Board District 4,,NON,Write-In,5,0,0,0,4,0,1
+Kershaw,Doby's Mill,School Board District 4,,NON,Write-In,13,0,1,0,4,0,8
+Kershaw,Elgin No. 2,School Board District 4,,NON,Write-In,4,0,1,0,0,0,3
+Kershaw,Elgin No. 6,School Board District 4,,NON,Write-In,4,0,0,0,2,0,2
+Kershaw,Lugoff No. 2,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Lugoff No. 4,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Riverdale,School Board District 4,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Failsafe,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Bethune,School Board District 6,,NON,David W Roberts,318,0,2,0,30,0,286
+Kershaw,Buffalo,School Board District 6,,NON,David W Roberts,503,0,4,0,61,0,438
+Kershaw,Cassatt,School Board District 6,,NON,David W Roberts,235,0,1,0,32,0,202
+Kershaw,Westville,School Board District 6,,NON,David W Roberts,49,0,0,0,6,0,43
+Kershaw,Failsafe,School Board District 6,,NON,David W Roberts,0,0,0,0,0,0,0
+Kershaw,Provisional,School Board District 6,,NON,David W Roberts,1,0,0,0,0,1,0
+Kershaw,Failsafe Provisional,School Board District 6,,NON,David W Roberts,0,0,0,0,0,0,0
+Kershaw,Bethune,School Board District 6,,NON,Brittany Robinson,129,0,4,0,31,0,94
+Kershaw,Buffalo,School Board District 6,,NON,Brittany Robinson,99,0,0,0,19,0,80
+Kershaw,Cassatt,School Board District 6,,NON,Brittany Robinson,194,0,0,0,57,0,137
+Kershaw,Westville,School Board District 6,,NON,Brittany Robinson,56,0,1,0,10,0,45
+Kershaw,Failsafe,School Board District 6,,NON,Brittany Robinson,0,0,0,0,0,0,0
+Kershaw,Provisional,School Board District 6,,NON,Brittany Robinson,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,School Board District 6,,NON,Brittany Robinson,0,0,0,0,0,0,0
+Kershaw,Bethune,School Board District 6,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Buffalo,School Board District 6,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Cassatt,School Board District 6,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Westville,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Antioch,School Board District 8,,NON,Charles King,99,0,1,0,31,0,67
+Kershaw,Camden No. 1,School Board District 8,,NON,Charles King,286,0,6,0,160,0,120
+Kershaw,Camden No. 6,School Board District 8,,NON,Charles King,147,0,1,0,64,0,82
+Kershaw,Charlotte Thompson,School Board District 8,,NON,Charles King,347,0,3,0,168,0,176
+Kershaw,Whites Gardens,School Board District 8,,NON,Charles King,516,0,4,0,203,0,309
+Kershaw,Failsafe,School Board District 8,,NON,Charles King,0,0,0,0,0,0,0
+Kershaw,Provisional,School Board District 8,,NON,Charles King,1,0,0,0,0,1,0
+Kershaw,Failsafe Provisional,School Board District 8,,NON,Charles King,0,0,0,0,0,0,0
+Kershaw,Antioch,School Board District 8,,NON,Write-In,2,0,0,0,1,0,1
+Kershaw,Camden No. 1,School Board District 8,,NON,Write-In,3,0,0,0,2,0,1
+Kershaw,Camden No. 6,School Board District 8,,NON,Write-In,3,0,0,0,1,0,2
+Kershaw,Charlotte Thompson,School Board District 8,,NON,Write-In,8,0,0,0,3,0,5
+Kershaw,Whites Gardens,School Board District 8,,NON,Write-In,12,0,0,0,2,0,10
+Kershaw,Failsafe,School Board District 8,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,School Board District 8,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,School Board District 8,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Bethune,Watershed Conservation District Little Lynches Cre,,NON,Jacob Annan,162,0,2,0,28,0,132
+Kershaw,Buffalo,Watershed Conservation District Little Lynches Cre,,NON,Jacob Annan,247,0,2,0,31,0,214
+Kershaw,Cassatt,Watershed Conservation District Little Lynches Cre,,NON,Jacob Annan,59,0,0,0,15,0,44
+Kershaw,Westville,Watershed Conservation District Little Lynches Cre,,NON,Jacob Annan,98,0,1,0,13,0,84
+Kershaw,Failsafe,Watershed Conservation District Little Lynches Cre,,NON,Jacob Annan,0,0,0,0,0,0,0
+Kershaw,Provisional,Watershed Conservation District Little Lynches Cre,,NON,Jacob Annan,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Watershed Conservation District Little Lynches Cre,,NON,Jacob Annan,0,0,0,0,0,0,0
+Kershaw,Bethune,Watershed Conservation District Little Lynches Cre,,NON,Write-In,5,0,0,0,0,0,5
+Kershaw,Buffalo,Watershed Conservation District Little Lynches Cre,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Cassatt,Watershed Conservation District Little Lynches Cre,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Westville,Watershed Conservation District Little Lynches Cre,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe,Watershed Conservation District Little Lynches Cre,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,Watershed Conservation District Little Lynches Cre,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Watershed Conservation District Little Lynches Cre,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Doby's Mill,Fire District Commissioner Lugoff Fire,,NON,David G Hines,48,0,0,0,15,0,33
+Kershaw,Elgin No. 2,Fire District Commissioner Lugoff Fire,,NON,David G Hines,81,0,3,0,26,0,52
+Kershaw,Lugoff No. 1,Fire District Commissioner Lugoff Fire,,NON,David G Hines,188,0,5,0,71,0,112
+Kershaw,Lugoff No. 2,Fire District Commissioner Lugoff Fire,,NON,David G Hines,269,0,5,0,97,0,167
+Kershaw,Lugoff No. 3,Fire District Commissioner Lugoff Fire,,NON,David G Hines,273,0,3,0,80,0,190
+Kershaw,Lugoff No. 4,Fire District Commissioner Lugoff Fire,,NON,David G Hines,226,0,4,0,83,0,139
+Kershaw,Rabon's X Roads,Fire District Commissioner Lugoff Fire,,NON,David G Hines,10,0,0,0,2,0,8
+Kershaw,Salt Pond,Fire District Commissioner Lugoff Fire,,NON,David G Hines,3,0,0,0,2,0,1
+Kershaw,Failsafe,Fire District Commissioner Lugoff Fire,,NON,David G Hines,0,0,0,0,0,0,0
+Kershaw,Provisional,Fire District Commissioner Lugoff Fire,,NON,David G Hines,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Fire District Commissioner Lugoff Fire,,NON,David G Hines,0,0,0,0,0,0,0
+Kershaw,Doby's Mill,Fire District Commissioner Lugoff Fire,,NON,Eric N Tisdale,60,0,2,0,15,0,43
+Kershaw,Elgin No. 2,Fire District Commissioner Lugoff Fire,,NON,Eric N Tisdale,115,0,2,0,28,0,85
+Kershaw,Lugoff No. 1,Fire District Commissioner Lugoff Fire,,NON,Eric N Tisdale,239,0,3,0,93,0,143
+Kershaw,Lugoff No. 2,Fire District Commissioner Lugoff Fire,,NON,Eric N Tisdale,380,0,10,0,136,0,234
+Kershaw,Lugoff No. 3,Fire District Commissioner Lugoff Fire,,NON,Eric N Tisdale,316,0,5,0,107,0,204
+Kershaw,Lugoff No. 4,Fire District Commissioner Lugoff Fire,,NON,Eric N Tisdale,278,0,1,0,102,0,175
+Kershaw,Rabon's X Roads,Fire District Commissioner Lugoff Fire,,NON,Eric N Tisdale,12,0,0,0,4,0,8
+Kershaw,Salt Pond,Fire District Commissioner Lugoff Fire,,NON,Eric N Tisdale,6,0,1,0,3,0,2
+Kershaw,Failsafe,Fire District Commissioner Lugoff Fire,,NON,Eric N Tisdale,0,0,0,0,0,0,0
+Kershaw,Provisional,Fire District Commissioner Lugoff Fire,,NON,Eric N Tisdale,2,0,0,0,0,2,0
+Kershaw,Failsafe Provisional,Fire District Commissioner Lugoff Fire,,NON,Eric N Tisdale,0,0,0,0,0,0,0
+Kershaw,Doby's Mill,Fire District Commissioner Lugoff Fire,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Elgin No. 2,Fire District Commissioner Lugoff Fire,,NON,Write-In,2,0,0,0,0,0,2
+Kershaw,Lugoff No. 1,Fire District Commissioner Lugoff Fire,,NON,Write-In,3,0,0,0,2,0,1
+Kershaw,Lugoff No. 2,Fire District Commissioner Lugoff Fire,,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Lugoff No. 3,Fire District Commissioner Lugoff Fire,,NON,Write-In,4,0,0,0,1,0,3
+Kershaw,Lugoff No. 4,Fire District Commissioner Lugoff Fire,,NON,Write-In,3,0,0,0,3,0,0
+Kershaw,Rabon's X Roads,Fire District Commissioner Lugoff Fire,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Salt Pond,Fire District Commissioner Lugoff Fire,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe,Fire District Commissioner Lugoff Fire,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,Fire District Commissioner Lugoff Fire,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Fire District Commissioner Lugoff Fire,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Airport,Statewide Constitutional Amendment 1,,NON,Yes,309,0,3,0,137,0,169
+Kershaw,Antioch,Statewide Constitutional Amendment 1,,NON,Yes,186,0,2,0,53,0,131
+Kershaw,Bethune,Statewide Constitutional Amendment 1,,NON,Yes,337,0,2,0,58,0,277
+Kershaw,Buffalo,Statewide Constitutional Amendment 1,,NON,Yes,363,0,6,0,52,0,305
+Kershaw,Camden No. 1,Statewide Constitutional Amendment 1,,NON,Yes,351,0,5,0,185,0,161
+Kershaw,Camden No. 2 & 3,Statewide Constitutional Amendment 1,,NON,Yes,111,0,1,0,62,0,48
+Kershaw,Hobkirk's Hill,Statewide Constitutional Amendment 1,,NON,Yes,626,0,15,0,326,0,285
+Kershaw,Camden No. 5,Statewide Constitutional Amendment 1,,NON,Yes,334,0,12,0,165,0,157
+Kershaw,Camden No. 5-A,Statewide Constitutional Amendment 1,,NON,Yes,136,0,2,0,53,0,81
+Kershaw,Camden No. 6,Statewide Constitutional Amendment 1,,NON,Yes,227,0,14,0,101,0,112
+Kershaw,Cassatt,Statewide Constitutional Amendment 1,,NON,Yes,324,0,2,0,91,0,231
+Kershaw,Charlotte Thompson,Statewide Constitutional Amendment 1,,NON,Yes,456,0,9,0,265,0,182
+Kershaw,Doby's Mill,Statewide Constitutional Amendment 1,,NON,Yes,454,0,10,0,116,0,328
+Kershaw,Elgin No. 1,Statewide Constitutional Amendment 1,,NON,Yes,677,0,8,0,182,0,487
+Kershaw,Elgin No. 2,Statewide Constitutional Amendment 1,,NON,Yes,445,0,11,0,153,0,281
+Kershaw,Elgin No. 3,Statewide Constitutional Amendment 1,,NON,Yes,419,0,8,0,146,0,265
+Kershaw,Elgin No. 4,Statewide Constitutional Amendment 1,,NON,Yes,464,0,8,0,119,0,337
+Kershaw,Elgin No. 5,Statewide Constitutional Amendment 1,,NON,Yes,381,0,9,0,76,0,296
+Kershaw,Elgin No. 6,Statewide Constitutional Amendment 1,,NON,Yes,283,0,6,0,58,0,219
+Kershaw,Liberty Hill,Statewide Constitutional Amendment 1,,NON,Yes,225,0,4,0,62,0,159
+Kershaw,Lugoff No. 1,Statewide Constitutional Amendment 1,,NON,Yes,341,0,11,0,139,0,191
+Kershaw,Lugoff No. 2,Statewide Constitutional Amendment 1,,NON,Yes,457,0,19,0,168,0,270
+Kershaw,Lugoff No. 3,Statewide Constitutional Amendment 1,,NON,Yes,463,0,9,0,165,0,289
+Kershaw,Lugoff No. 4,Statewide Constitutional Amendment 1,,NON,Yes,436,0,9,0,155,0,272
+Kershaw,Malvern Hill,Statewide Constitutional Amendment 1,,NON,Yes,327,0,5,0,111,0,211
+Kershaw,Rabon's X Roads,Statewide Constitutional Amendment 1,,NON,Yes,626,0,11,0,184,0,431
+Kershaw,Riverdale,Statewide Constitutional Amendment 1,,NON,Yes,130,0,7,0,46,0,77
+Kershaw,Salt Pond,Statewide Constitutional Amendment 1,,NON,Yes,351,0,11,0,137,0,203
+Kershaw,Shaylor's Hill,Statewide Constitutional Amendment 1,,NON,Yes,299,0,12,0,130,0,157
+Kershaw,Springdale,Statewide Constitutional Amendment 1,,NON,Yes,609,0,16,0,310,0,283
+Kershaw,Westville,Statewide Constitutional Amendment 1,,NON,Yes,398,0,2,0,133,0,263
+Kershaw,Whites Gardens,Statewide Constitutional Amendment 1,,NON,Yes,449,0,12,0,181,0,256
+Kershaw,Failsafe,Statewide Constitutional Amendment 1,,NON,Yes,0,0,0,0,0,0,0
+Kershaw,Provisional,Statewide Constitutional Amendment 1,,NON,Yes,8,0,0,0,0,8,0
+Kershaw,Failsafe Provisional,Statewide Constitutional Amendment 1,,NON,Yes,0,0,0,0,0,0,0
+Kershaw,Airport,Statewide Constitutional Amendment 1,,NON,No,207,0,2,0,89,0,116
+Kershaw,Antioch,Statewide Constitutional Amendment 1,,NON,No,173,0,2,0,56,0,115
+Kershaw,Bethune,Statewide Constitutional Amendment 1,,NON,No,189,0,3,0,31,0,155
+Kershaw,Buffalo,Statewide Constitutional Amendment 1,,NON,No,269,0,1,0,36,0,232
+Kershaw,Camden No. 1,Statewide Constitutional Amendment 1,,NON,No,314,0,6,0,178,0,130
+Kershaw,Camden No. 2 & 3,Statewide Constitutional Amendment 1,,NON,No,61,0,0,0,36,0,25
+Kershaw,Hobkirk's Hill,Statewide Constitutional Amendment 1,,NON,No,337,0,5,0,182,0,150
+Kershaw,Camden No. 5,Statewide Constitutional Amendment 1,,NON,No,202,0,2,0,86,0,114
+Kershaw,Camden No. 5-A,Statewide Constitutional Amendment 1,,NON,No,93,0,2,0,33,0,58
+Kershaw,Camden No. 6,Statewide Constitutional Amendment 1,,NON,No,172,0,5,0,81,0,86
+Kershaw,Cassatt,Statewide Constitutional Amendment 1,,NON,No,252,0,0,0,65,0,187
+Kershaw,Charlotte Thompson,Statewide Constitutional Amendment 1,,NON,No,339,0,3,0,173,0,163
+Kershaw,Doby's Mill,Statewide Constitutional Amendment 1,,NON,No,331,0,7,0,76,0,248
+Kershaw,Elgin No. 1,Statewide Constitutional Amendment 1,,NON,No,510,0,16,0,134,0,360
+Kershaw,Elgin No. 2,Statewide Constitutional Amendment 1,,NON,No,383,0,3,0,116,0,264
+Kershaw,Elgin No. 3,Statewide Constitutional Amendment 1,,NON,No,276,0,1,0,104,0,171
+Kershaw,Elgin No. 4,Statewide Constitutional Amendment 1,,NON,No,402,0,4,0,101,0,297
+Kershaw,Elgin No. 5,Statewide Constitutional Amendment 1,,NON,No,276,0,12,0,58,0,206
+Kershaw,Elgin No. 6,Statewide Constitutional Amendment 1,,NON,No,223,0,2,0,50,0,171
+Kershaw,Liberty Hill,Statewide Constitutional Amendment 1,,NON,No,108,0,0,0,28,0,80
+Kershaw,Lugoff No. 1,Statewide Constitutional Amendment 1,,NON,No,203,0,5,0,84,0,114
+Kershaw,Lugoff No. 2,Statewide Constitutional Amendment 1,,NON,No,367,0,3,0,136,0,228
+Kershaw,Lugoff No. 3,Statewide Constitutional Amendment 1,,NON,No,317,0,8,0,93,0,216
+Kershaw,Lugoff No. 4,Statewide Constitutional Amendment 1,,NON,No,282,0,4,0,109,0,169
+Kershaw,Malvern Hill,Statewide Constitutional Amendment 1,,NON,No,273,0,2,0,109,0,162
+Kershaw,Rabon's X Roads,Statewide Constitutional Amendment 1,,NON,No,486,0,9,0,127,0,350
+Kershaw,Riverdale,Statewide Constitutional Amendment 1,,NON,No,132,0,3,0,53,0,76
+Kershaw,Salt Pond,Statewide Constitutional Amendment 1,,NON,No,261,0,4,0,78,0,179
+Kershaw,Shaylor's Hill,Statewide Constitutional Amendment 1,,NON,No,209,0,0,0,96,0,113
+Kershaw,Springdale,Statewide Constitutional Amendment 1,,NON,No,453,0,17,0,201,0,235
+Kershaw,Westville,Statewide Constitutional Amendment 1,,NON,No,333,0,3,0,90,0,240
+Kershaw,Whites Gardens,Statewide Constitutional Amendment 1,,NON,No,276,0,5,0,110,0,161
+Kershaw,Failsafe,Statewide Constitutional Amendment 1,,NON,No,0,0,0,0,0,0,0
+Kershaw,Provisional,Statewide Constitutional Amendment 1,,NON,No,2,0,0,0,0,2,0
+Kershaw,Failsafe Provisional,Statewide Constitutional Amendment 1,,NON,No,2,0,0,2,0,0,0
+Kershaw,Airport,Statewide Constitutional Amendment 2,,NON,Yes,302,0,4,0,129,0,169
+Kershaw,Antioch,Statewide Constitutional Amendment 2,,NON,Yes,185,0,1,0,52,0,132
+Kershaw,Bethune,Statewide Constitutional Amendment 2,,NON,Yes,315,0,2,0,52,0,261
+Kershaw,Buffalo,Statewide Constitutional Amendment 2,,NON,Yes,362,0,6,0,55,0,301
+Kershaw,Camden No. 1,Statewide Constitutional Amendment 2,,NON,Yes,383,0,6,0,202,0,175
+Kershaw,Camden No. 2 & 3,Statewide Constitutional Amendment 2,,NON,Yes,118,0,1,0,66,0,51
+Kershaw,Hobkirk's Hill,Statewide Constitutional Amendment 2,,NON,Yes,620,0,13,0,319,0,288
+Kershaw,Camden No. 5,Statewide Constitutional Amendment 2,,NON,Yes,336,0,11,0,173,0,152
+Kershaw,Camden No. 5-A,Statewide Constitutional Amendment 2,,NON,Yes,132,0,3,0,50,0,79
+Kershaw,Camden No. 6,Statewide Constitutional Amendment 2,,NON,Yes,225,0,12,0,98,0,115
+Kershaw,Cassatt,Statewide Constitutional Amendment 2,,NON,Yes,308,0,1,0,82,0,225
+Kershaw,Charlotte Thompson,Statewide Constitutional Amendment 2,,NON,Yes,459,0,10,0,263,0,186
+Kershaw,Doby's Mill,Statewide Constitutional Amendment 2,,NON,Yes,441,0,11,0,110,0,320
+Kershaw,Elgin No. 1,Statewide Constitutional Amendment 2,,NON,Yes,689,0,8,0,189,0,492
+Kershaw,Elgin No. 2,Statewide Constitutional Amendment 2,,NON,Yes,455,0,9,0,151,0,295
+Kershaw,Elgin No. 3,Statewide Constitutional Amendment 2,,NON,Yes,409,0,9,0,141,0,259
+Kershaw,Elgin No. 4,Statewide Constitutional Amendment 2,,NON,Yes,485,0,8,0,124,0,353
+Kershaw,Elgin No. 5,Statewide Constitutional Amendment 2,,NON,Yes,379,0,8,0,78,0,293
+Kershaw,Elgin No. 6,Statewide Constitutional Amendment 2,,NON,Yes,298,0,5,0,61,0,232
+Kershaw,Liberty Hill,Statewide Constitutional Amendment 2,,NON,Yes,216,0,4,0,63,0,149
+Kershaw,Lugoff No. 1,Statewide Constitutional Amendment 2,,NON,Yes,324,0,12,0,134,0,178
+Kershaw,Lugoff No. 2,Statewide Constitutional Amendment 2,,NON,Yes,466,0,18,0,173,0,275
+Kershaw,Lugoff No. 3,Statewide Constitutional Amendment 2,,NON,Yes,467,0,9,0,171,0,287
+Kershaw,Lugoff No. 4,Statewide Constitutional Amendment 2,,NON,Yes,428,0,9,0,152,0,267
+Kershaw,Malvern Hill,Statewide Constitutional Amendment 2,,NON,Yes,324,0,4,0,108,0,212
+Kershaw,Rabon's X Roads,Statewide Constitutional Amendment 2,,NON,Yes,601,0,9,0,176,0,416
+Kershaw,Riverdale,Statewide Constitutional Amendment 2,,NON,Yes,131,0,7,0,44,0,80
+Kershaw,Salt Pond,Statewide Constitutional Amendment 2,,NON,Yes,335,0,7,0,123,0,205
+Kershaw,Shaylor's Hill,Statewide Constitutional Amendment 2,,NON,Yes,283,0,9,0,125,0,149
+Kershaw,Springdale,Statewide Constitutional Amendment 2,,NON,Yes,615,0,16,0,309,0,290
+Kershaw,Westville,Statewide Constitutional Amendment 2,,NON,Yes,400,0,4,0,128,0,268
+Kershaw,Whites Gardens,Statewide Constitutional Amendment 2,,NON,Yes,450,0,12,0,187,0,251
+Kershaw,Failsafe,Statewide Constitutional Amendment 2,,NON,Yes,0,0,0,0,0,0,0
+Kershaw,Provisional,Statewide Constitutional Amendment 2,,NON,Yes,8,0,0,0,0,8,0
+Kershaw,Failsafe Provisional,Statewide Constitutional Amendment 2,,NON,Yes,0,0,0,0,0,0,0
+Kershaw,Airport,Statewide Constitutional Amendment 2,,NON,No,210,0,1,0,96,0,113
+Kershaw,Antioch,Statewide Constitutional Amendment 2,,NON,No,169,0,3,0,57,0,109
+Kershaw,Bethune,Statewide Constitutional Amendment 2,,NON,No,207,0,3,0,35,0,169
+Kershaw,Buffalo,Statewide Constitutional Amendment 2,,NON,No,270,0,1,0,33,0,236
+Kershaw,Camden No. 1,Statewide Constitutional Amendment 2,,NON,No,274,0,5,0,156,0,113
+Kershaw,Camden No. 2 & 3,Statewide Constitutional Amendment 2,,NON,No,53,0,0,0,31,0,22
+Kershaw,Hobkirk's Hill,Statewide Constitutional Amendment 2,,NON,No,331,0,2,0,183,0,146
+Kershaw,Camden No. 5,Statewide Constitutional Amendment 2,,NON,No,199,0,4,0,77,0,118
+Kershaw,Camden No. 5-A,Statewide Constitutional Amendment 2,,NON,No,93,0,1,0,36,0,56
+Kershaw,Camden No. 6,Statewide Constitutional Amendment 2,,NON,No,170,0,5,0,80,0,85
+Kershaw,Cassatt,Statewide Constitutional Amendment 2,,NON,No,265,0,1,0,75,0,189
+Kershaw,Charlotte Thompson,Statewide Constitutional Amendment 2,,NON,No,327,0,1,0,173,0,153
+Kershaw,Doby's Mill,Statewide Constitutional Amendment 2,,NON,No,336,0,6,0,77,0,253
+Kershaw,Elgin No. 1,Statewide Constitutional Amendment 2,,NON,No,498,0,16,0,130,0,352
+Kershaw,Elgin No. 2,Statewide Constitutional Amendment 2,,NON,No,359,0,6,0,107,0,246
+Kershaw,Elgin No. 3,Statewide Constitutional Amendment 2,,NON,No,286,0,0,0,109,0,177
+Kershaw,Elgin No. 4,Statewide Constitutional Amendment 2,,NON,No,375,0,4,0,92,0,279
+Kershaw,Elgin No. 5,Statewide Constitutional Amendment 2,,NON,No,272,0,13,0,54,0,205
+Kershaw,Elgin No. 6,Statewide Constitutional Amendment 2,,NON,No,210,0,2,0,47,0,161
+Kershaw,Liberty Hill,Statewide Constitutional Amendment 2,,NON,No,114,0,0,0,28,0,86
+Kershaw,Lugoff No. 1,Statewide Constitutional Amendment 2,,NON,No,215,0,5,0,86,0,124
+Kershaw,Lugoff No. 2,Statewide Constitutional Amendment 2,,NON,No,357,0,5,0,133,0,219
+Kershaw,Lugoff No. 3,Statewide Constitutional Amendment 2,,NON,No,313,0,8,0,86,0,219
+Kershaw,Lugoff No. 4,Statewide Constitutional Amendment 2,,NON,No,295,0,4,0,117,0,174
+Kershaw,Malvern Hill,Statewide Constitutional Amendment 2,,NON,No,269,0,3,0,105,0,161
+Kershaw,Rabon's X Roads,Statewide Constitutional Amendment 2,,NON,No,508,0,10,0,131,0,367
+Kershaw,Riverdale,Statewide Constitutional Amendment 2,,NON,No,127,0,3,0,54,0,70
+Kershaw,Salt Pond,Statewide Constitutional Amendment 2,,NON,No,268,0,6,0,89,0,173
+Kershaw,Shaylor's Hill,Statewide Constitutional Amendment 2,,NON,No,218,0,2,0,94,0,122
+Kershaw,Springdale,Statewide Constitutional Amendment 2,,NON,No,443,0,15,0,199,0,229
+Kershaw,Westville,Statewide Constitutional Amendment 2,,NON,No,328,0,1,0,93,0,234
+Kershaw,Whites Gardens,Statewide Constitutional Amendment 2,,NON,No,272,0,5,0,102,0,165
+Kershaw,Failsafe,Statewide Constitutional Amendment 2,,NON,No,0,0,0,0,0,0,0
+Kershaw,Provisional,Statewide Constitutional Amendment 2,,NON,No,2,0,0,0,0,2,0
+Kershaw,Failsafe Provisional,Statewide Constitutional Amendment 2,,NON,No,2,0,0,2,0,0,0
+Kershaw,Airport,City Council Camden,,NON,Hamilton Boykin,5,0,0,0,2,0,3
+Kershaw,Camden No. 1,City Council Camden,,NON,Hamilton Boykin,321,0,9,0,168,0,144
+Kershaw,Camden No. 2 & 3,City Council Camden,,NON,Hamilton Boykin,118,0,1,0,65,0,52
+Kershaw,Hobkirk's Hill,City Council Camden,,NON,Hamilton Boykin,700,0,11,0,376,0,313
+Kershaw,Camden No. 5,City Council Camden,,NON,Hamilton Boykin,281,0,6,0,126,0,149
+Kershaw,Camden No. 5-A,City Council Camden,,NON,Hamilton Boykin,111,0,1,0,38,0,72
+Kershaw,Camden No. 6,City Council Camden,,NON,Hamilton Boykin,113,0,13,0,52,0,48
+Kershaw,Riverdale,City Council Camden,,NON,Hamilton Boykin,18,0,1,0,4,0,13
+Kershaw,Springdale,City Council Camden,,NON,Hamilton Boykin,86,0,1,0,33,0,52
+Kershaw,Failsafe,City Council Camden,,NON,Hamilton Boykin,0,0,0,0,0,0,0
+Kershaw,Provisional,City Council Camden,,NON,Hamilton Boykin,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,City Council Camden,,NON,Hamilton Boykin,0,0,0,0,0,0,0
+Kershaw,Airport,City Council Camden,,NON,Jeffery R Graham,9,0,0,0,4,0,5
+Kershaw,Camden No. 1,City Council Camden,,NON,Jeffery R Graham,318,0,4,0,184,0,130
+Kershaw,Camden No. 2 & 3,City Council Camden,,NON,Jeffery R Graham,85,0,0,0,46,0,39
+Kershaw,Hobkirk's Hill,City Council Camden,,NON,Jeffery R Graham,479,0,5,0,239,0,235
+Kershaw,Camden No. 5,City Council Camden,,NON,Jeffery R Graham,232,0,6,0,115,0,111
+Kershaw,Camden No. 5-A,City Council Camden,,NON,Jeffery R Graham,122,0,1,0,50,0,71
+Kershaw,Camden No. 6,City Council Camden,,NON,Jeffery R Graham,68,0,6,0,35,0,27
+Kershaw,Riverdale,City Council Camden,,NON,Jeffery R Graham,12,0,1,0,7,0,4
+Kershaw,Springdale,City Council Camden,,NON,Jeffery R Graham,70,0,1,0,30,0,39
+Kershaw,Failsafe,City Council Camden,,NON,Jeffery R Graham,0,0,0,0,0,0,0
+Kershaw,Provisional,City Council Camden,,NON,Jeffery R Graham,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,City Council Camden,,NON,Jeffery R Graham,0,0,0,0,0,0,0
+Kershaw,Airport,City Council Camden,,NON,Write-In,1,0,0,0,0,0,1
+Kershaw,Camden No. 1,City Council Camden,,NON,Write-In,93,0,1,0,46,0,46
+Kershaw,Camden No. 2 & 3,City Council Camden,,NON,Write-In,53,0,0,0,30,0,23
+Kershaw,Hobkirk's Hill,City Council Camden,,NON,Write-In,227,0,4,0,110,0,113
+Kershaw,Camden No. 5,City Council Camden,,NON,Write-In,162,0,2,0,73,0,87
+Kershaw,Camden No. 5-A,City Council Camden,,NON,Write-In,29,0,2,0,13,0,14
+Kershaw,Camden No. 6,City Council Camden,,NON,Write-In,47,0,3,0,20,0,24
+Kershaw,Riverdale,City Council Camden,,NON,Write-In,6,0,0,0,1,0,5
+Kershaw,Springdale,City Council Camden,,NON,Write-In,39,0,0,0,11,0,28
+Kershaw,Failsafe,City Council Camden,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Provisional,City Council Camden,,NON,Write-In,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,City Council Camden,,NON,Write-In,0,0,0,0,0,0,0

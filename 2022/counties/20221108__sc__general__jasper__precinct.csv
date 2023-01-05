@@ -1,0 +1,1423 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Jasper,COOSAWHATCHIE,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,0,0,4
+Jasper,GILLISONVILLE,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,0,0,5
+Jasper,GRAHAMVILLE 1,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,1,0,3
+Jasper,GRAHAMVILLE 2,STRAIGHT PARTY 1,,UNC,United Citizens,23,0,1,0,10,0,12
+Jasper,GRAYS,STRAIGHT PARTY 1,,UNC,United Citizens,2,0,0,0,0,0,2
+Jasper,HARDEEVILLE 1,STRAIGHT PARTY 1,,UNC,United Citizens,2,0,0,0,1,0,1
+Jasper,HARDEEVILLE 2,STRAIGHT PARTY 1,,UNC,United Citizens,8,0,0,0,1,0,7
+Jasper,LEVY,STRAIGHT PARTY 1,,UNC,United Citizens,12,0,0,0,1,0,11
+Jasper,OKATIE,STRAIGHT PARTY 1,,UNC,United Citizens,1,0,0,0,0,0,1
+Jasper,PINELAND,STRAIGHT PARTY 1,,UNC,United Citizens,6,0,0,0,2,0,4
+Jasper,RIDGELAND 1,STRAIGHT PARTY 1,,UNC,United Citizens,1,0,0,0,1,0,0
+Jasper,RIDGELAND 2,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,1,0,4
+Jasper,TILLMAN,STRAIGHT PARTY 1,,UNC,United Citizens,11,0,0,0,5,0,6
+Jasper,RIDGELAND 3,STRAIGHT PARTY 1,,UNC,United Citizens,5,0,0,0,4,0,1
+Jasper,SUN CITY,STRAIGHT PARTY 1,,UNC,United Citizens,7,0,0,0,2,0,5
+Jasper,HARDEEVILLE 3,STRAIGHT PARTY 1,,UNC,United Citizens,4,0,0,0,2,0,2
+Jasper,OKATIE 2,STRAIGHT PARTY 1,,UNC,United Citizens,3,0,0,0,2,0,1
+Jasper,Failsafe,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Jasper,Provisional,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,STRAIGHT PARTY 1,,UNC,United Citizens,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,STRAIGHT PARTY 1,,GRN,Green,2,0,0,0,0,0,2
+Jasper,GRAHAMVILLE 1,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 2,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Jasper,GRAYS,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,1,0,0
+Jasper,HARDEEVILLE 2,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Jasper,LEVY,STRAIGHT PARTY 1,,GRN,Green,2,0,0,0,1,0,1
+Jasper,OKATIE,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Jasper,PINELAND,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,1,0,0
+Jasper,RIDGELAND 1,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Jasper,RIDGELAND 2,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Jasper,TILLMAN,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Jasper,RIDGELAND 3,STRAIGHT PARTY 1,,GRN,Green,1,0,0,0,0,0,1
+Jasper,SUN CITY,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 3,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Jasper,OKATIE 2,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Jasper,Failsafe,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Jasper,Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,STRAIGHT PARTY 1,,GRN,Green,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,STRAIGHT PARTY 1,,REP,Republican,37,0,2,0,5,0,30
+Jasper,GILLISONVILLE,STRAIGHT PARTY 1,,REP,Republican,83,0,0,0,19,0,64
+Jasper,GRAHAMVILLE 1,STRAIGHT PARTY 1,,REP,Republican,217,0,1,0,58,0,158
+Jasper,GRAHAMVILLE 2,STRAIGHT PARTY 1,,REP,Republican,184,0,1,0,44,0,139
+Jasper,GRAYS,STRAIGHT PARTY 1,,REP,Republican,174,0,2,0,28,0,144
+Jasper,HARDEEVILLE 1,STRAIGHT PARTY 1,,REP,Republican,72,0,0,0,18,0,54
+Jasper,HARDEEVILLE 2,STRAIGHT PARTY 1,,REP,Republican,84,0,0,0,36,0,48
+Jasper,LEVY,STRAIGHT PARTY 1,,REP,Republican,187,0,3,0,61,0,123
+Jasper,OKATIE,STRAIGHT PARTY 1,,REP,Republican,122,0,2,0,36,0,84
+Jasper,PINELAND,STRAIGHT PARTY 1,,REP,Republican,21,0,0,0,8,0,13
+Jasper,RIDGELAND 1,STRAIGHT PARTY 1,,REP,Republican,161,0,0,0,59,0,102
+Jasper,RIDGELAND 2,STRAIGHT PARTY 1,,REP,Republican,113,0,0,0,46,0,67
+Jasper,TILLMAN,STRAIGHT PARTY 1,,REP,Republican,66,0,3,0,25,0,38
+Jasper,RIDGELAND 3,STRAIGHT PARTY 1,,REP,Republican,127,0,0,0,29,0,98
+Jasper,SUN CITY,STRAIGHT PARTY 1,,REP,Republican,872,0,62,0,416,0,394
+Jasper,HARDEEVILLE 3,STRAIGHT PARTY 1,,REP,Republican,574,0,14,0,270,0,290
+Jasper,OKATIE 2,STRAIGHT PARTY 1,,REP,Republican,170,0,7,0,82,0,81
+Jasper,Failsafe,STRAIGHT PARTY 1,,REP,Republican,0,0,0,0,0,0,0
+Jasper,Provisional,STRAIGHT PARTY 1,,REP,Republican,2,0,0,0,0,2,0
+Jasper,Failsafe Provisional,STRAIGHT PARTY 1,,REP,Republican,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,GRAYS,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,LEVY,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,OKATIE,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,PINELAND,STRAIGHT PARTY 1,,ALN,Alliance,1,0,0,0,0,0,1
+Jasper,RIDGELAND 1,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,RIDGELAND 2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,TILLMAN,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,RIDGELAND 3,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,SUN CITY,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 3,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,OKATIE 2,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,Failsafe,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,STRAIGHT PARTY 1,,ALN,Alliance,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,1,0,1
+Jasper,GRAHAMVILLE 1,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Jasper,GRAHAMVILLE 2,STRAIGHT PARTY 1,,LIB,Libertarian,3,0,0,0,0,0,3
+Jasper,GRAYS,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Jasper,HARDEEVILLE 2,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Jasper,LEVY,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,1,0,1
+Jasper,OKATIE,STRAIGHT PARTY 1,,LIB,Libertarian,2,0,0,0,2,0,0
+Jasper,PINELAND,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Jasper,RIDGELAND 1,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Jasper,RIDGELAND 2,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Jasper,TILLMAN,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Jasper,RIDGELAND 3,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Jasper,SUN CITY,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Jasper,HARDEEVILLE 3,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Jasper,OKATIE 2,STRAIGHT PARTY 1,,LIB,Libertarian,1,0,0,0,0,0,1
+Jasper,Failsafe,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Jasper,Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,STRAIGHT PARTY 1,,LIB,Libertarian,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,STRAIGHT PARTY 1,,DEM,Democratic,99,0,4,0,27,0,68
+Jasper,GILLISONVILLE,STRAIGHT PARTY 1,,DEM,Democratic,92,0,3,0,47,0,42
+Jasper,GRAHAMVILLE 1,STRAIGHT PARTY 1,,DEM,Democratic,140,0,4,0,79,0,57
+Jasper,GRAHAMVILLE 2,STRAIGHT PARTY 1,,DEM,Democratic,405,0,3,0,210,0,192
+Jasper,GRAYS,STRAIGHT PARTY 1,,DEM,Democratic,66,0,0,0,26,0,40
+Jasper,HARDEEVILLE 1,STRAIGHT PARTY 1,,DEM,Democratic,136,0,4,0,72,0,60
+Jasper,HARDEEVILLE 2,STRAIGHT PARTY 1,,DEM,Democratic,110,0,3,0,34,0,73
+Jasper,LEVY,STRAIGHT PARTY 1,,DEM,Democratic,284,0,7,0,111,0,166
+Jasper,OKATIE,STRAIGHT PARTY 1,,DEM,Democratic,77,0,1,0,33,0,43
+Jasper,PINELAND,STRAIGHT PARTY 1,,DEM,Democratic,165,0,3,0,63,0,99
+Jasper,RIDGELAND 1,STRAIGHT PARTY 1,,DEM,Democratic,86,0,6,0,38,0,42
+Jasper,RIDGELAND 2,STRAIGHT PARTY 1,,DEM,Democratic,122,0,16,0,43,0,63
+Jasper,TILLMAN,STRAIGHT PARTY 1,,DEM,Democratic,102,0,4,0,38,0,60
+Jasper,RIDGELAND 3,STRAIGHT PARTY 1,,DEM,Democratic,91,0,9,0,52,0,30
+Jasper,SUN CITY,STRAIGHT PARTY 1,,DEM,Democratic,324,0,18,0,195,0,111
+Jasper,HARDEEVILLE 3,STRAIGHT PARTY 1,,DEM,Democratic,188,0,11,0,116,0,61
+Jasper,OKATIE 2,STRAIGHT PARTY 1,,DEM,Democratic,58,0,3,0,26,0,29
+Jasper,Failsafe,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Jasper,Provisional,STRAIGHT PARTY 1,,DEM,Democratic,1,0,0,0,0,1,0
+Jasper,Failsafe Provisional,STRAIGHT PARTY 1,,DEM,Democratic,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,76,0,3,0,18,0,55
+Jasper,GILLISONVILLE,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,168,0,3,0,37,0,128
+Jasper,GRAHAMVILLE 1,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,395,0,3,0,105,0,287
+Jasper,GRAHAMVILLE 2,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,390,0,6,0,93,0,291
+Jasper,GRAYS,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,319,0,2,0,50,0,267
+Jasper,HARDEEVILLE 1,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,157,0,4,0,40,0,113
+Jasper,HARDEEVILLE 2,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,148,0,0,0,58,0,90
+Jasper,LEVY,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,331,0,6,0,106,0,219
+Jasper,OKATIE,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,193,0,6,0,56,0,131
+Jasper,PINELAND,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,49,0,0,0,13,0,36
+Jasper,RIDGELAND 1,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,335,0,7,0,120,0,208
+Jasper,RIDGELAND 2,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,227,0,2,0,82,0,143
+Jasper,TILLMAN,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,137,0,3,0,42,0,92
+Jasper,RIDGELAND 3,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,283,0,0,0,87,0,196
+Jasper,SUN CITY,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,1646,0,118,0,848,0,680
+Jasper,HARDEEVILLE 3,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,1116,0,28,0,553,0,535
+Jasper,OKATIE 2,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,283,0,14,0,133,0,136
+Jasper,Failsafe,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,0,0,0,0,0,0,0
+Jasper,Provisional,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,6,0,0,0,0,6,0
+Jasper,Failsafe Provisional,Governor and Lieutenant Governor,,REP,REP Henry McMaster/Pamela Evette,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,3,0,1,0,0,0,2
+Jasper,GILLISONVILLE,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,4,0,0,0,1,0,3
+Jasper,GRAHAMVILLE 1,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,5,0,0,0,1,0,4
+Jasper,GRAHAMVILLE 2,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,19,0,0,0,2,0,17
+Jasper,GRAYS,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,3,0,0,0,0,0,3
+Jasper,HARDEEVILLE 1,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,3,0,0,0,0,0,3
+Jasper,HARDEEVILLE 2,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,2,0,0,0,1,0,1
+Jasper,LEVY,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,10,0,1,0,2,0,7
+Jasper,OKATIE,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,8,0,0,0,3,0,5
+Jasper,PINELAND,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,3,0,0,0,0,0,3
+Jasper,RIDGELAND 1,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,9,0,0,0,3,0,6
+Jasper,RIDGELAND 2,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,9,0,0,0,2,0,7
+Jasper,TILLMAN,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,9,0,1,0,3,0,5
+Jasper,RIDGELAND 3,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,6,0,0,0,1,0,5
+Jasper,SUN CITY,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,10,0,2,0,4,0,4
+Jasper,HARDEEVILLE 3,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,10,0,0,0,5,0,5
+Jasper,OKATIE 2,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,6,0,0,0,3,0,3
+Jasper,Failsafe,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,0,0,0,0,0,0,0
+Jasper,Provisional,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Governor and Lieutenant Governor,,LIB,LIB Bruce Reeves/Jessica Ethridge,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,135,0,3,0,38,0,94
+Jasper,GILLISONVILLE,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,152,0,3,0,73,0,76
+Jasper,GRAHAMVILLE 1,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,247,0,6,0,120,0,121
+Jasper,GRAHAMVILLE 2,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,629,0,10,0,296,0,323
+Jasper,GRAYS,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,92,0,0,0,29,0,63
+Jasper,HARDEEVILLE 1,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,223,0,8,0,106,0,109
+Jasper,HARDEEVILLE 2,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,195,0,7,0,66,0,122
+Jasper,LEVY,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,462,0,12,0,177,0,273
+Jasper,OKATIE,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,128,0,1,0,49,0,78
+Jasper,PINELAND,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,253,0,7,0,88,0,158
+Jasper,RIDGELAND 1,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,134,0,8,0,55,0,71
+Jasper,RIDGELAND 2,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,203,0,17,0,78,0,108
+Jasper,TILLMAN,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,165,0,6,0,60,0,99
+Jasper,RIDGELAND 3,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,148,0,11,0,77,0,60
+Jasper,SUN CITY,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,927,0,96,0,556,0,275
+Jasper,HARDEEVILLE 3,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,506,0,32,0,285,0,189
+Jasper,OKATIE 2,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,146,0,14,0,71,0,61
+Jasper,Failsafe,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,0,0,0,0,0,0,0
+Jasper,Provisional,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,4,0,0,0,0,4,0
+Jasper,Failsafe Provisional,Governor and Lieutenant Governor,,DEM,DEM Joe Cunningham/Tally Parham Casey,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 1,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 2,Governor and Lieutenant Governor,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,GRAYS,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 2,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,LEVY,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,OKATIE,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,PINELAND,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 1,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 2,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,TILLMAN,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 3,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,SUN CITY,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 3,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,OKATIE 2,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Governor and Lieutenant Governor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Secretary of State,,REP,REP Mark Hammond,82,0,3,0,20,0,59
+Jasper,GILLISONVILLE,Secretary of State,,REP,REP Mark Hammond,175,0,3,0,38,0,134
+Jasper,GRAHAMVILLE 1,Secretary of State,,REP,REP Mark Hammond,424,0,3,0,113,0,308
+Jasper,GRAHAMVILLE 2,Secretary of State,,REP,REP Mark Hammond,421,0,6,0,100,0,315
+Jasper,GRAYS,Secretary of State,,REP,REP Mark Hammond,330,0,2,0,49,0,279
+Jasper,HARDEEVILLE 1,Secretary of State,,REP,REP Mark Hammond,171,0,4,0,42,0,125
+Jasper,HARDEEVILLE 2,Secretary of State,,REP,REP Mark Hammond,160,0,0,0,62,0,98
+Jasper,LEVY,Secretary of State,,REP,REP Mark Hammond,354,0,6,0,109,0,239
+Jasper,OKATIE,Secretary of State,,REP,REP Mark Hammond,199,0,6,0,57,0,136
+Jasper,PINELAND,Secretary of State,,REP,REP Mark Hammond,54,0,0,0,14,0,40
+Jasper,RIDGELAND 1,Secretary of State,,REP,REP Mark Hammond,351,0,8,0,124,0,219
+Jasper,RIDGELAND 2,Secretary of State,,REP,REP Mark Hammond,241,0,2,0,86,0,153
+Jasper,TILLMAN,Secretary of State,,REP,REP Mark Hammond,142,0,3,0,44,0,95
+Jasper,RIDGELAND 3,Secretary of State,,REP,REP Mark Hammond,300,0,0,0,92,0,208
+Jasper,SUN CITY,Secretary of State,,REP,REP Mark Hammond,1691,0,126,0,865,0,700
+Jasper,HARDEEVILLE 3,Secretary of State,,REP,REP Mark Hammond,1160,0,32,0,571,0,557
+Jasper,OKATIE 2,Secretary of State,,REP,REP Mark Hammond,296,0,15,0,144,0,137
+Jasper,Failsafe,Secretary of State,,REP,REP Mark Hammond,0,0,0,0,0,0,0
+Jasper,Provisional,Secretary of State,,REP,REP Mark Hammond,6,0,0,0,0,6,0
+Jasper,Failsafe Provisional,Secretary of State,,REP,REP Mark Hammond,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,130,0,4,0,35,0,91
+Jasper,GILLISONVILLE,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,151,0,3,0,73,0,75
+Jasper,GRAHAMVILLE 1,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,224,0,6,0,110,0,108
+Jasper,GRAHAMVILLE 2,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,612,0,10,0,288,0,314
+Jasper,GRAYS,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,88,0,0,0,29,0,59
+Jasper,HARDEEVILLE 1,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,211,0,7,0,104,0,100
+Jasper,HARDEEVILLE 2,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,180,0,7,0,60,0,113
+Jasper,LEVY,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,448,0,13,0,176,0,259
+Jasper,OKATIE,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,130,0,1,0,50,0,79
+Jasper,PINELAND,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,245,0,7,0,86,0,152
+Jasper,RIDGELAND 1,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,121,0,6,0,51,0,64
+Jasper,RIDGELAND 2,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,194,0,17,0,75,0,102
+Jasper,TILLMAN,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,167,0,7,0,61,0,99
+Jasper,RIDGELAND 3,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,135,0,11,0,73,0,51
+Jasper,SUN CITY,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,887,0,90,0,542,0,255
+Jasper,HARDEEVILLE 3,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,461,0,28,0,266,0,167
+Jasper,OKATIE 2,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,136,0,13,0,62,0,61
+Jasper,Failsafe,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,0,0,0,0,0,0,0
+Jasper,Provisional,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,4,0,0,0,0,4,0
+Jasper,Failsafe Provisional,Secretary of State,,DEM,DEM Rosemounda Peggy Butler,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 1,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 2,Secretary of State,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,GRAYS,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,Secretary of State,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,HARDEEVILLE 2,Secretary of State,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,LEVY,Secretary of State,,NON,Write-In,2,0,0,0,0,0,2
+Jasper,OKATIE,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,PINELAND,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 1,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 2,Secretary of State,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,TILLMAN,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 3,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,SUN CITY,Secretary of State,,NON,Write-In,2,0,0,0,0,0,2
+Jasper,HARDEEVILLE 3,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,OKATIE 2,Secretary of State,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,Failsafe,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Secretary of State,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,State Treasurer,,REP,REP Curtis Loftis,87,0,3,0,21,0,63
+Jasper,GILLISONVILLE,State Treasurer,,REP,REP Curtis Loftis,182,0,3,0,39,0,140
+Jasper,GRAHAMVILLE 1,State Treasurer,,REP,REP Curtis Loftis,437,0,3,0,117,0,317
+Jasper,GRAHAMVILLE 2,State Treasurer,,REP,REP Curtis Loftis,447,0,9,0,108,0,330
+Jasper,GRAYS,State Treasurer,,REP,REP Curtis Loftis,330,0,2,0,49,0,279
+Jasper,HARDEEVILLE 1,State Treasurer,,REP,REP Curtis Loftis,184,0,3,0,46,0,135
+Jasper,HARDEEVILLE 2,State Treasurer,,REP,REP Curtis Loftis,169,0,0,0,66,0,103
+Jasper,LEVY,State Treasurer,,REP,REP Curtis Loftis,368,0,6,0,117,0,245
+Jasper,OKATIE,State Treasurer,,REP,REP Curtis Loftis,209,0,6,0,61,0,142
+Jasper,PINELAND,State Treasurer,,REP,REP Curtis Loftis,67,0,0,0,19,0,48
+Jasper,RIDGELAND 1,State Treasurer,,REP,REP Curtis Loftis,356,0,8,0,122,0,226
+Jasper,RIDGELAND 2,State Treasurer,,REP,REP Curtis Loftis,254,0,3,0,90,0,161
+Jasper,TILLMAN,State Treasurer,,REP,REP Curtis Loftis,149,0,4,0,47,0,98
+Jasper,RIDGELAND 3,State Treasurer,,REP,REP Curtis Loftis,292,0,0,0,89,0,203
+Jasper,SUN CITY,State Treasurer,,REP,REP Curtis Loftis,1769,0,129,0,907,0,733
+Jasper,HARDEEVILLE 3,State Treasurer,,REP,REP Curtis Loftis,1210,0,31,0,594,0,585
+Jasper,OKATIE 2,State Treasurer,,REP,REP Curtis Loftis,305,0,17,0,147,0,141
+Jasper,Failsafe,State Treasurer,,REP,REP Curtis Loftis,0,0,0,0,0,0,0
+Jasper,Provisional,State Treasurer,,REP,REP Curtis Loftis,6,0,0,0,0,6,0
+Jasper,Failsafe Provisional,State Treasurer,,REP,REP Curtis Loftis,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,State Treasurer,,ALN,ALN Sarah E Work,27,0,0,0,6,0,21
+Jasper,GILLISONVILLE,State Treasurer,,ALN,ALN Sarah E Work,58,0,0,0,25,0,33
+Jasper,GRAHAMVILLE 1,State Treasurer,,ALN,ALN Sarah E Work,74,0,1,0,27,0,46
+Jasper,GRAHAMVILLE 2,State Treasurer,,ALN,ALN Sarah E Work,194,0,3,0,78,0,113
+Jasper,GRAYS,State Treasurer,,ALN,ALN Sarah E Work,38,0,0,0,13,0,25
+Jasper,HARDEEVILLE 1,State Treasurer,,ALN,ALN Sarah E Work,77,0,3,0,33,0,41
+Jasper,HARDEEVILLE 2,State Treasurer,,ALN,ALN Sarah E Work,74,0,2,0,24,0,48
+Jasper,LEVY,State Treasurer,,ALN,ALN Sarah E Work,166,0,6,0,67,0,93
+Jasper,OKATIE,State Treasurer,,ALN,ALN Sarah E Work,61,0,1,0,22,0,38
+Jasper,PINELAND,State Treasurer,,ALN,ALN Sarah E Work,80,0,3,0,21,0,56
+Jasper,RIDGELAND 1,State Treasurer,,ALN,ALN Sarah E Work,54,0,3,0,25,0,26
+Jasper,RIDGELAND 2,State Treasurer,,ALN,ALN Sarah E Work,76,0,2,0,30,0,44
+Jasper,TILLMAN,State Treasurer,,ALN,ALN Sarah E Work,69,0,1,0,16,0,52
+Jasper,RIDGELAND 3,State Treasurer,,ALN,ALN Sarah E Work,50,0,3,0,24,0,23
+Jasper,SUN CITY,State Treasurer,,ALN,ALN Sarah E Work,478,0,53,0,299,0,126
+Jasper,HARDEEVILLE 3,State Treasurer,,ALN,ALN Sarah E Work,264,0,17,0,157,0,90
+Jasper,OKATIE 2,State Treasurer,,ALN,ALN Sarah E Work,72,0,1,0,37,0,34
+Jasper,Failsafe,State Treasurer,,ALN,ALN Sarah E Work,0,0,0,0,0,0,0
+Jasper,Provisional,State Treasurer,,ALN,ALN Sarah E Work,3,0,0,0,0,3,0
+Jasper,Failsafe Provisional,State Treasurer,,ALN,ALN Sarah E Work,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,State Treasurer,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,GILLISONVILLE,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 1,State Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,GRAHAMVILLE 2,State Treasurer,,NON,Write-In,10,0,0,0,6,0,4
+Jasper,GRAYS,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,State Treasurer,,NON,Write-In,2,0,0,0,2,0,0
+Jasper,HARDEEVILLE 2,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,LEVY,State Treasurer,,NON,Write-In,4,0,0,0,3,0,1
+Jasper,OKATIE,State Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,PINELAND,State Treasurer,,NON,Write-In,2,0,0,0,0,0,2
+Jasper,RIDGELAND 1,State Treasurer,,NON,Write-In,1,0,1,0,0,0,0
+Jasper,RIDGELAND 2,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,TILLMAN,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 3,State Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,SUN CITY,State Treasurer,,NON,Write-In,7,0,1,0,4,0,2
+Jasper,HARDEEVILLE 3,State Treasurer,,NON,Write-In,3,0,0,0,3,0,0
+Jasper,OKATIE 2,State Treasurer,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,Failsafe,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Attorney General,,REP,REP Alan Wilson,99,0,3,0,23,0,73
+Jasper,GILLISONVILLE,Attorney General,,REP,REP Alan Wilson,210,0,3,0,45,0,162
+Jasper,GRAHAMVILLE 1,Attorney General,,REP,REP Alan Wilson,461,0,4,0,117,0,340
+Jasper,GRAHAMVILLE 2,Attorney General,,REP,REP Alan Wilson,524,0,7,0,132,0,385
+Jasper,GRAYS,Attorney General,,REP,REP Alan Wilson,347,0,2,0,55,0,290
+Jasper,HARDEEVILLE 1,Attorney General,,REP,REP Alan Wilson,212,0,3,0,57,0,152
+Jasper,HARDEEVILLE 2,Attorney General,,REP,REP Alan Wilson,194,0,0,0,70,0,124
+Jasper,LEVY,Attorney General,,REP,REP Alan Wilson,427,0,8,0,134,0,285
+Jasper,OKATIE,Attorney General,,REP,REP Alan Wilson,239,0,6,0,69,0,164
+Jasper,PINELAND,Attorney General,,REP,REP Alan Wilson,97,0,0,0,28,0,69
+Jasper,RIDGELAND 1,Attorney General,,REP,REP Alan Wilson,375,0,10,0,129,0,236
+Jasper,RIDGELAND 2,Attorney General,,REP,REP Alan Wilson,283,0,3,0,101,0,179
+Jasper,TILLMAN,Attorney General,,REP,REP Alan Wilson,191,0,4,0,57,0,130
+Jasper,RIDGELAND 3,Attorney General,,REP,REP Alan Wilson,319,0,1,0,102,0,216
+Jasper,SUN CITY,Attorney General,,REP,REP Alan Wilson,1911,0,137,0,1012,0,762
+Jasper,HARDEEVILLE 3,Attorney General,,REP,REP Alan Wilson,1311,0,31,0,655,0,625
+Jasper,OKATIE 2,Attorney General,,REP,REP Alan Wilson,337,0,17,0,157,0,163
+Jasper,Failsafe,Attorney General,,REP,REP Alan Wilson,0,0,0,0,0,0,0
+Jasper,Provisional,Attorney General,,REP,REP Alan Wilson,7,0,0,0,0,7,0
+Jasper,Failsafe Provisional,Attorney General,,REP,REP Alan Wilson,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Attorney General,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,GILLISONVILLE,Attorney General,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,GRAHAMVILLE 1,Attorney General,,NON,Write-In,5,0,0,0,2,0,3
+Jasper,GRAHAMVILLE 2,Attorney General,,NON,Write-In,21,0,2,0,13,0,6
+Jasper,GRAYS,Attorney General,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,Attorney General,,NON,Write-In,6,0,0,0,5,0,1
+Jasper,HARDEEVILLE 2,Attorney General,,NON,Write-In,8,0,0,0,4,0,4
+Jasper,LEVY,Attorney General,,NON,Write-In,11,0,1,0,3,0,7
+Jasper,OKATIE,Attorney General,,NON,Write-In,3,0,0,0,1,0,2
+Jasper,PINELAND,Attorney General,,NON,Write-In,7,0,1,0,0,0,6
+Jasper,RIDGELAND 1,Attorney General,,NON,Write-In,5,0,0,0,4,0,1
+Jasper,RIDGELAND 2,Attorney General,,NON,Write-In,3,0,0,0,0,0,3
+Jasper,TILLMAN,Attorney General,,NON,Write-In,3,0,0,0,2,0,1
+Jasper,RIDGELAND 3,Attorney General,,NON,Write-In,2,0,0,0,1,0,1
+Jasper,SUN CITY,Attorney General,,NON,Write-In,19,0,2,0,9,0,8
+Jasper,HARDEEVILLE 3,Attorney General,,NON,Write-In,22,0,2,0,15,0,5
+Jasper,OKATIE 2,Attorney General,,NON,Write-In,4,0,0,0,3,0,1
+Jasper,Failsafe,Attorney General,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,Attorney General,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Attorney General,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Comptroller General,,REP,REP Richard Eckstrom,100,0,3,0,24,0,73
+Jasper,GILLISONVILLE,Comptroller General,,REP,REP Richard Eckstrom,204,0,3,0,43,0,158
+Jasper,GRAHAMVILLE 1,Comptroller General,,REP,REP Richard Eckstrom,457,0,4,0,118,0,335
+Jasper,GRAHAMVILLE 2,Comptroller General,,REP,REP Richard Eckstrom,520,0,7,0,131,0,382
+Jasper,GRAYS,Comptroller General,,REP,REP Richard Eckstrom,343,0,2,0,53,0,288
+Jasper,HARDEEVILLE 1,Comptroller General,,REP,REP Richard Eckstrom,213,0,4,0,58,0,151
+Jasper,HARDEEVILLE 2,Comptroller General,,REP,REP Richard Eckstrom,192,0,0,0,70,0,122
+Jasper,LEVY,Comptroller General,,REP,REP Richard Eckstrom,424,0,8,0,132,0,284
+Jasper,OKATIE,Comptroller General,,REP,REP Richard Eckstrom,238,0,6,0,70,0,162
+Jasper,PINELAND,Comptroller General,,REP,REP Richard Eckstrom,98,0,0,0,27,0,71
+Jasper,RIDGELAND 1,Comptroller General,,REP,REP Richard Eckstrom,378,0,9,0,133,0,236
+Jasper,RIDGELAND 2,Comptroller General,,REP,REP Richard Eckstrom,282,0,2,0,101,0,179
+Jasper,TILLMAN,Comptroller General,,REP,REP Richard Eckstrom,186,0,4,0,54,0,128
+Jasper,RIDGELAND 3,Comptroller General,,REP,REP Richard Eckstrom,318,0,1,0,99,0,218
+Jasper,SUN CITY,Comptroller General,,REP,REP Richard Eckstrom,1902,0,132,0,1007,0,763
+Jasper,HARDEEVILLE 3,Comptroller General,,REP,REP Richard Eckstrom,1303,0,31,0,652,0,620
+Jasper,OKATIE 2,Comptroller General,,REP,REP Richard Eckstrom,337,0,17,0,158,0,162
+Jasper,Failsafe,Comptroller General,,REP,REP Richard Eckstrom,0,0,0,0,0,0,0
+Jasper,Provisional,Comptroller General,,REP,REP Richard Eckstrom,6,0,0,0,0,6,0
+Jasper,Failsafe Provisional,Comptroller General,,REP,REP Richard Eckstrom,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Comptroller General,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,Comptroller General,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,GRAHAMVILLE 1,Comptroller General,,NON,Write-In,5,0,0,0,2,0,3
+Jasper,GRAHAMVILLE 2,Comptroller General,,NON,Write-In,18,0,2,0,11,0,5
+Jasper,GRAYS,Comptroller General,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,Comptroller General,,NON,Write-In,5,0,0,0,4,0,1
+Jasper,HARDEEVILLE 2,Comptroller General,,NON,Write-In,6,0,0,0,3,0,3
+Jasper,LEVY,Comptroller General,,NON,Write-In,6,0,1,0,1,0,4
+Jasper,OKATIE,Comptroller General,,NON,Write-In,3,0,0,0,1,0,2
+Jasper,PINELAND,Comptroller General,,NON,Write-In,6,0,1,0,0,0,5
+Jasper,RIDGELAND 1,Comptroller General,,NON,Write-In,5,0,1,0,3,0,1
+Jasper,RIDGELAND 2,Comptroller General,,NON,Write-In,3,0,0,0,0,0,3
+Jasper,TILLMAN,Comptroller General,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,RIDGELAND 3,Comptroller General,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,SUN CITY,Comptroller General,,NON,Write-In,9,0,2,0,6,0,1
+Jasper,HARDEEVILLE 3,Comptroller General,,NON,Write-In,22,0,2,0,15,0,5
+Jasper,OKATIE 2,Comptroller General,,NON,Write-In,3,0,0,0,2,0,1
+Jasper,Failsafe,Comptroller General,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,Comptroller General,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Comptroller General,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,State Superintendent of Education,,GRN,GRN Patricia M Mickel,3,0,0,0,1,0,2
+Jasper,GILLISONVILLE,State Superintendent of Education,,GRN,GRN Patricia M Mickel,6,0,0,0,2,0,4
+Jasper,GRAHAMVILLE 1,State Superintendent of Education,,GRN,GRN Patricia M Mickel,9,0,0,0,0,0,9
+Jasper,GRAHAMVILLE 2,State Superintendent of Education,,GRN,GRN Patricia M Mickel,21,0,0,0,7,0,14
+Jasper,GRAYS,State Superintendent of Education,,GRN,GRN Patricia M Mickel,4,0,0,0,1,0,3
+Jasper,HARDEEVILLE 1,State Superintendent of Education,,GRN,GRN Patricia M Mickel,13,0,0,0,7,0,6
+Jasper,HARDEEVILLE 2,State Superintendent of Education,,GRN,GRN Patricia M Mickel,8,0,0,0,2,0,6
+Jasper,LEVY,State Superintendent of Education,,GRN,GRN Patricia M Mickel,26,0,0,0,9,0,17
+Jasper,OKATIE,State Superintendent of Education,,GRN,GRN Patricia M Mickel,7,0,0,0,1,0,6
+Jasper,PINELAND,State Superintendent of Education,,GRN,GRN Patricia M Mickel,12,0,0,0,3,0,9
+Jasper,RIDGELAND 1,State Superintendent of Education,,GRN,GRN Patricia M Mickel,7,0,0,0,2,0,5
+Jasper,RIDGELAND 2,State Superintendent of Education,,GRN,GRN Patricia M Mickel,13,0,0,0,2,0,11
+Jasper,TILLMAN,State Superintendent of Education,,GRN,GRN Patricia M Mickel,11,0,1,0,1,0,9
+Jasper,RIDGELAND 3,State Superintendent of Education,,GRN,GRN Patricia M Mickel,6,0,0,0,0,0,6
+Jasper,SUN CITY,State Superintendent of Education,,GRN,GRN Patricia M Mickel,26,0,3,0,15,0,8
+Jasper,HARDEEVILLE 3,State Superintendent of Education,,GRN,GRN Patricia M Mickel,23,0,0,0,12,0,11
+Jasper,OKATIE 2,State Superintendent of Education,,GRN,GRN Patricia M Mickel,7,0,0,0,3,0,4
+Jasper,Failsafe,State Superintendent of Education,,GRN,GRN Patricia M Mickel,0,0,0,0,0,0,0
+Jasper,Provisional,State Superintendent of Education,,GRN,GRN Patricia M Mickel,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State Superintendent of Education,,GRN,GRN Patricia M Mickel,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,State Superintendent of Education,,REP,REP Ellen Weaver,76,0,3,0,18,0,55
+Jasper,GILLISONVILLE,State Superintendent of Education,,REP,REP Ellen Weaver,169,0,3,0,38,0,128
+Jasper,GRAHAMVILLE 1,State Superintendent of Education,,REP,REP Ellen Weaver,397,0,3,0,107,0,287
+Jasper,GRAHAMVILLE 2,State Superintendent of Education,,REP,REP Ellen Weaver,383,0,6,0,87,0,290
+Jasper,GRAYS,State Superintendent of Education,,REP,REP Ellen Weaver,312,0,2,0,49,0,261
+Jasper,HARDEEVILLE 1,State Superintendent of Education,,REP,REP Ellen Weaver,155,0,4,0,37,0,114
+Jasper,HARDEEVILLE 2,State Superintendent of Education,,REP,REP Ellen Weaver,146,0,0,0,57,0,89
+Jasper,LEVY,State Superintendent of Education,,REP,REP Ellen Weaver,327,0,5,0,104,0,218
+Jasper,OKATIE,State Superintendent of Education,,REP,REP Ellen Weaver,191,0,5,0,54,0,132
+Jasper,PINELAND,State Superintendent of Education,,REP,REP Ellen Weaver,41,0,0,0,11,0,30
+Jasper,RIDGELAND 1,State Superintendent of Education,,REP,REP Ellen Weaver,337,0,8,0,119,0,210
+Jasper,RIDGELAND 2,State Superintendent of Education,,REP,REP Ellen Weaver,224,0,2,0,85,0,137
+Jasper,TILLMAN,State Superintendent of Education,,REP,REP Ellen Weaver,131,0,4,0,43,0,84
+Jasper,RIDGELAND 3,State Superintendent of Education,,REP,REP Ellen Weaver,276,0,0,0,83,0,193
+Jasper,SUN CITY,State Superintendent of Education,,REP,REP Ellen Weaver,1617,0,119,0,833,0,665
+Jasper,HARDEEVILLE 3,State Superintendent of Education,,REP,REP Ellen Weaver,1100,0,26,0,541,0,533
+Jasper,OKATIE 2,State Superintendent of Education,,REP,REP Ellen Weaver,279,0,14,0,133,0,132
+Jasper,Failsafe,State Superintendent of Education,,REP,REP Ellen Weaver,0,0,0,0,0,0,0
+Jasper,Provisional,State Superintendent of Education,,REP,REP Ellen Weaver,5,0,0,0,0,5,0
+Jasper,Failsafe Provisional,State Superintendent of Education,,REP,REP Ellen Weaver,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,State Superintendent of Education,,ALN,ALN Lisa Ellis,4,0,0,0,1,0,3
+Jasper,GILLISONVILLE,State Superintendent of Education,,ALN,ALN Lisa Ellis,6,0,0,0,0,0,6
+Jasper,GRAHAMVILLE 1,State Superintendent of Education,,ALN,ALN Lisa Ellis,13,0,0,0,1,0,12
+Jasper,GRAHAMVILLE 2,State Superintendent of Education,,ALN,ALN Lisa Ellis,22,0,0,0,8,0,14
+Jasper,GRAYS,State Superintendent of Education,,ALN,ALN Lisa Ellis,5,0,0,0,0,0,5
+Jasper,HARDEEVILLE 1,State Superintendent of Education,,ALN,ALN Lisa Ellis,3,0,1,0,1,0,1
+Jasper,HARDEEVILLE 2,State Superintendent of Education,,ALN,ALN Lisa Ellis,8,0,0,0,3,0,5
+Jasper,LEVY,State Superintendent of Education,,ALN,ALN Lisa Ellis,12,0,0,0,4,0,8
+Jasper,OKATIE,State Superintendent of Education,,ALN,ALN Lisa Ellis,2,0,0,0,2,0,0
+Jasper,PINELAND,State Superintendent of Education,,ALN,ALN Lisa Ellis,7,0,0,0,3,0,4
+Jasper,RIDGELAND 1,State Superintendent of Education,,ALN,ALN Lisa Ellis,3,0,0,0,0,0,3
+Jasper,RIDGELAND 2,State Superintendent of Education,,ALN,ALN Lisa Ellis,12,0,0,0,4,0,8
+Jasper,TILLMAN,State Superintendent of Education,,ALN,ALN Lisa Ellis,10,0,0,0,3,0,7
+Jasper,RIDGELAND 3,State Superintendent of Education,,ALN,ALN Lisa Ellis,8,0,0,0,2,0,6
+Jasper,SUN CITY,State Superintendent of Education,,ALN,ALN Lisa Ellis,38,0,5,0,24,0,9
+Jasper,HARDEEVILLE 3,State Superintendent of Education,,ALN,ALN Lisa Ellis,18,0,2,0,8,0,8
+Jasper,OKATIE 2,State Superintendent of Education,,ALN,ALN Lisa Ellis,10,0,0,0,3,0,7
+Jasper,Failsafe,State Superintendent of Education,,ALN,ALN Lisa Ellis,0,0,0,0,0,0,0
+Jasper,Provisional,State Superintendent of Education,,ALN,ALN Lisa Ellis,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State Superintendent of Education,,ALN,ALN Lisa Ellis,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,State Superintendent of Education,,DEM,DEM Lisa Ellis,128,0,4,0,35,0,89
+Jasper,GILLISONVILLE,State Superintendent of Education,,DEM,DEM Lisa Ellis,149,0,3,0,71,0,75
+Jasper,GRAHAMVILLE 1,State Superintendent of Education,,DEM,DEM Lisa Ellis,226,0,6,0,114,0,106
+Jasper,GRAHAMVILLE 2,State Superintendent of Education,,DEM,DEM Lisa Ellis,600,0,9,0,282,0,309
+Jasper,GRAYS,State Superintendent of Education,,DEM,DEM Lisa Ellis,91,0,0,0,28,0,63
+Jasper,HARDEEVILLE 1,State Superintendent of Education,,DEM,DEM Lisa Ellis,215,0,7,0,102,0,106
+Jasper,HARDEEVILLE 2,State Superintendent of Education,,DEM,DEM Lisa Ellis,176,0,7,0,58,0,111
+Jasper,LEVY,State Superintendent of Education,,DEM,DEM Lisa Ellis,428,0,14,0,163,0,251
+Jasper,OKATIE,State Superintendent of Education,,DEM,DEM Lisa Ellis,130,0,2,0,50,0,78
+Jasper,PINELAND,State Superintendent of Education,,DEM,DEM Lisa Ellis,238,0,7,0,84,0,147
+Jasper,RIDGELAND 1,State Superintendent of Education,,DEM,DEM Lisa Ellis,126,0,7,0,52,0,67
+Jasper,RIDGELAND 2,State Superintendent of Education,,DEM,DEM Lisa Ellis,193,0,17,0,72,0,104
+Jasper,TILLMAN,State Superintendent of Education,,DEM,DEM Lisa Ellis,154,0,5,0,54,0,95
+Jasper,RIDGELAND 3,State Superintendent of Education,,DEM,DEM Lisa Ellis,136,0,11,0,75,0,50
+Jasper,SUN CITY,State Superintendent of Education,,DEM,DEM Lisa Ellis,858,0,86,0,515,0,257
+Jasper,HARDEEVILLE 3,State Superintendent of Education,,DEM,DEM Lisa Ellis,463,0,29,0,272,0,162
+Jasper,OKATIE 2,State Superintendent of Education,,DEM,DEM Lisa Ellis,133,0,14,0,65,0,54
+Jasper,Failsafe,State Superintendent of Education,,DEM,DEM Lisa Ellis,0,0,0,0,0,0,0
+Jasper,Provisional,State Superintendent of Education,,DEM,DEM Lisa Ellis,5,0,0,0,0,5,0
+Jasper,Failsafe Provisional,State Superintendent of Education,,DEM,DEM Lisa Ellis,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,State Superintendent of Education,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,GILLISONVILLE,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 1,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 2,State Superintendent of Education,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,GRAYS,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 2,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,LEVY,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,OKATIE,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,PINELAND,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 1,State Superintendent of Education,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,RIDGELAND 2,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,TILLMAN,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 3,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,SUN CITY,State Superintendent of Education,,NON,Write-In,8,0,0,0,6,0,2
+Jasper,HARDEEVILLE 3,State Superintendent of Education,,NON,Write-In,3,0,0,0,2,0,1
+Jasper,OKATIE 2,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State Superintendent of Education,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Commissioner of Agriculture,,UNC,UNC Chris Nelums,10,0,0,0,1,0,9
+Jasper,GILLISONVILLE,Commissioner of Agriculture,,UNC,UNC Chris Nelums,25,0,0,0,6,0,19
+Jasper,GRAHAMVILLE 1,Commissioner of Agriculture,,UNC,UNC Chris Nelums,29,0,1,0,9,0,19
+Jasper,GRAHAMVILLE 2,Commissioner of Agriculture,,UNC,UNC Chris Nelums,97,0,3,0,37,0,57
+Jasper,GRAYS,Commissioner of Agriculture,,UNC,UNC Chris Nelums,14,0,0,0,5,0,9
+Jasper,HARDEEVILLE 1,Commissioner of Agriculture,,UNC,UNC Chris Nelums,26,0,0,0,13,0,13
+Jasper,HARDEEVILLE 2,Commissioner of Agriculture,,UNC,UNC Chris Nelums,37,0,2,0,10,0,25
+Jasper,LEVY,Commissioner of Agriculture,,UNC,UNC Chris Nelums,64,0,2,0,19,0,43
+Jasper,OKATIE,Commissioner of Agriculture,,UNC,UNC Chris Nelums,14,0,0,0,6,0,8
+Jasper,PINELAND,Commissioner of Agriculture,,UNC,UNC Chris Nelums,42,0,0,0,13,0,29
+Jasper,RIDGELAND 1,Commissioner of Agriculture,,UNC,UNC Chris Nelums,18,0,2,0,6,0,10
+Jasper,RIDGELAND 2,Commissioner of Agriculture,,UNC,UNC Chris Nelums,36,0,2,0,14,0,20
+Jasper,TILLMAN,Commissioner of Agriculture,,UNC,UNC Chris Nelums,39,0,0,0,14,0,25
+Jasper,RIDGELAND 3,Commissioner of Agriculture,,UNC,UNC Chris Nelums,20,0,1,0,10,0,9
+Jasper,SUN CITY,Commissioner of Agriculture,,UNC,UNC Chris Nelums,99,0,9,0,62,0,28
+Jasper,HARDEEVILLE 3,Commissioner of Agriculture,,UNC,UNC Chris Nelums,41,0,3,0,20,0,18
+Jasper,OKATIE 2,Commissioner of Agriculture,,UNC,UNC Chris Nelums,19,0,1,0,9,0,9
+Jasper,Failsafe,Commissioner of Agriculture,,UNC,UNC Chris Nelums,0,0,0,0,0,0,0
+Jasper,Provisional,Commissioner of Agriculture,,UNC,UNC Chris Nelums,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Commissioner of Agriculture,,UNC,UNC Chris Nelums,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Commissioner of Agriculture,,GRN,GRN David Edmond,17,0,0,0,2,0,15
+Jasper,GILLISONVILLE,Commissioner of Agriculture,,GRN,GRN David Edmond,38,0,0,0,15,0,23
+Jasper,GRAHAMVILLE 1,Commissioner of Agriculture,,GRN,GRN David Edmond,48,0,0,0,19,0,29
+Jasper,GRAHAMVILLE 2,Commissioner of Agriculture,,GRN,GRN David Edmond,116,0,2,0,42,0,72
+Jasper,GRAYS,Commissioner of Agriculture,,GRN,GRN David Edmond,20,0,0,0,8,0,12
+Jasper,HARDEEVILLE 1,Commissioner of Agriculture,,GRN,GRN David Edmond,67,0,3,0,21,0,43
+Jasper,HARDEEVILLE 2,Commissioner of Agriculture,,GRN,GRN David Edmond,43,0,1,0,11,0,31
+Jasper,LEVY,Commissioner of Agriculture,,GRN,GRN David Edmond,96,0,3,0,38,0,55
+Jasper,OKATIE,Commissioner of Agriculture,,GRN,GRN David Edmond,47,0,0,0,18,0,29
+Jasper,PINELAND,Commissioner of Agriculture,,GRN,GRN David Edmond,39,0,2,0,10,0,27
+Jasper,RIDGELAND 1,Commissioner of Agriculture,,GRN,GRN David Edmond,36,0,1,0,14,0,21
+Jasper,RIDGELAND 2,Commissioner of Agriculture,,GRN,GRN David Edmond,45,0,3,0,12,0,30
+Jasper,TILLMAN,Commissioner of Agriculture,,GRN,GRN David Edmond,41,0,0,0,9,0,32
+Jasper,RIDGELAND 3,Commissioner of Agriculture,,GRN,GRN David Edmond,30,0,2,0,15,0,13
+Jasper,SUN CITY,Commissioner of Agriculture,,GRN,GRN David Edmond,411,0,46,0,246,0,119
+Jasper,HARDEEVILLE 3,Commissioner of Agriculture,,GRN,GRN David Edmond,224,0,18,0,133,0,73
+Jasper,OKATIE 2,Commissioner of Agriculture,,GRN,GRN David Edmond,60,0,5,0,34,0,21
+Jasper,Failsafe,Commissioner of Agriculture,,GRN,GRN David Edmond,0,0,0,0,0,0,0
+Jasper,Provisional,Commissioner of Agriculture,,GRN,GRN David Edmond,3,0,0,0,0,3,0
+Jasper,Failsafe Provisional,Commissioner of Agriculture,,GRN,GRN David Edmond,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Commissioner of Agriculture,,REP,REP Hugh Weathers,83,0,3,0,23,0,57
+Jasper,GILLISONVILLE,Commissioner of Agriculture,,REP,REP Hugh Weathers,173,0,3,0,40,0,130
+Jasper,GRAHAMVILLE 1,Commissioner of Agriculture,,REP,REP Hugh Weathers,430,0,3,0,116,0,311
+Jasper,GRAHAMVILLE 2,Commissioner of Agriculture,,REP,REP Hugh Weathers,414,0,7,0,99,0,308
+Jasper,GRAYS,Commissioner of Agriculture,,REP,REP Hugh Weathers,318,0,2,0,49,0,267
+Jasper,HARDEEVILLE 1,Commissioner of Agriculture,,REP,REP Hugh Weathers,160,0,2,0,41,0,117
+Jasper,HARDEEVILLE 2,Commissioner of Agriculture,,REP,REP Hugh Weathers,156,0,0,0,64,0,92
+Jasper,LEVY,Commissioner of Agriculture,,REP,REP Hugh Weathers,355,0,6,0,115,0,234
+Jasper,OKATIE,Commissioner of Agriculture,,REP,REP Hugh Weathers,204,0,6,0,57,0,141
+Jasper,PINELAND,Commissioner of Agriculture,,REP,REP Hugh Weathers,52,0,0,0,15,0,37
+Jasper,RIDGELAND 1,Commissioner of Agriculture,,REP,REP Hugh Weathers,351,0,8,0,124,0,219
+Jasper,RIDGELAND 2,Commissioner of Agriculture,,REP,REP Hugh Weathers,248,0,2,0,89,0,157
+Jasper,TILLMAN,Commissioner of Agriculture,,REP,REP Hugh Weathers,138,0,5,0,41,0,92
+Jasper,RIDGELAND 3,Commissioner of Agriculture,,REP,REP Hugh Weathers,288,0,0,0,89,0,199
+Jasper,SUN CITY,Commissioner of Agriculture,,REP,REP Hugh Weathers,1683,0,121,0,874,0,688
+Jasper,HARDEEVILLE 3,Commissioner of Agriculture,,REP,REP Hugh Weathers,1180,0,29,0,583,0,568
+Jasper,OKATIE 2,Commissioner of Agriculture,,REP,REP Hugh Weathers,299,0,16,0,137,0,146
+Jasper,Failsafe,Commissioner of Agriculture,,REP,REP Hugh Weathers,0,0,0,0,0,0,0
+Jasper,Provisional,Commissioner of Agriculture,,REP,REP Hugh Weathers,6,0,0,0,0,6,0
+Jasper,Failsafe Provisional,Commissioner of Agriculture,,REP,REP Hugh Weathers,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,GRAHAMVILLE 1,Commissioner of Agriculture,,NON,Write-In,3,0,0,0,1,0,2
+Jasper,GRAHAMVILLE 2,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,GRAYS,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,Commissioner of Agriculture,,NON,Write-In,2,0,0,0,2,0,0
+Jasper,HARDEEVILLE 2,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,LEVY,Commissioner of Agriculture,,NON,Write-In,2,0,1,0,1,0,0
+Jasper,OKATIE,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,PINELAND,Commissioner of Agriculture,,NON,Write-In,2,0,0,0,0,0,2
+Jasper,RIDGELAND 1,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 2,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,TILLMAN,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 3,Commissioner of Agriculture,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,SUN CITY,Commissioner of Agriculture,,NON,Write-In,5,0,1,0,1,0,3
+Jasper,HARDEEVILLE 3,Commissioner of Agriculture,,NON,Write-In,2,0,0,0,2,0,0
+Jasper,OKATIE 2,Commissioner of Agriculture,,NON,Write-In,3,0,0,0,2,0,1
+Jasper,Failsafe,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Commissioner of Agriculture,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,U.S. Senate,,REP,REP Tim Scott,83,0,3,0,20,0,60
+Jasper,GILLISONVILLE,U.S. Senate,,REP,REP Tim Scott,175,0,3,0,39,0,133
+Jasper,GRAHAMVILLE 1,U.S. Senate,,REP,REP Tim Scott,412,0,3,0,109,0,300
+Jasper,GRAHAMVILLE 2,U.S. Senate,,REP,REP Tim Scott,420,0,7,0,99,0,314
+Jasper,GRAYS,U.S. Senate,,REP,REP Tim Scott,326,0,2,0,50,0,274
+Jasper,HARDEEVILLE 1,U.S. Senate,,REP,REP Tim Scott,168,0,4,0,44,0,120
+Jasper,HARDEEVILLE 2,U.S. Senate,,REP,REP Tim Scott,156,0,0,0,61,0,95
+Jasper,LEVY,U.S. Senate,,REP,REP Tim Scott,352,0,6,0,108,0,238
+Jasper,OKATIE,U.S. Senate,,REP,REP Tim Scott,203,0,6,0,58,0,139
+Jasper,PINELAND,U.S. Senate,,REP,REP Tim Scott,52,0,0,0,13,0,39
+Jasper,RIDGELAND 1,U.S. Senate,,REP,REP Tim Scott,348,0,8,0,124,0,216
+Jasper,RIDGELAND 2,U.S. Senate,,REP,REP Tim Scott,242,0,2,0,86,0,154
+Jasper,TILLMAN,U.S. Senate,,REP,REP Tim Scott,145,0,5,0,45,0,95
+Jasper,RIDGELAND 3,U.S. Senate,,REP,REP Tim Scott,297,0,0,0,90,0,207
+Jasper,SUN CITY,U.S. Senate,,REP,REP Tim Scott,1702,0,128,0,882,0,692
+Jasper,HARDEEVILLE 3,U.S. Senate,,REP,REP Tim Scott,1165,0,29,0,578,0,558
+Jasper,OKATIE 2,U.S. Senate,,REP,REP Tim Scott,302,0,14,0,145,0,143
+Jasper,Failsafe,U.S. Senate,,REP,REP Tim Scott,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. Senate,,REP,REP Tim Scott,6,0,0,0,0,6,0
+Jasper,Failsafe Provisional,U.S. Senate,,REP,REP Tim Scott,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,U.S. Senate,,DEM,DEM Krystle Matthews,130,0,4,0,36,0,90
+Jasper,GILLISONVILLE,U.S. Senate,,DEM,DEM Krystle Matthews,153,0,3,0,71,0,79
+Jasper,GRAHAMVILLE 1,U.S. Senate,,DEM,DEM Krystle Matthews,232,0,6,0,115,0,111
+Jasper,GRAHAMVILLE 2,U.S. Senate,,DEM,DEM Krystle Matthews,611,0,9,0,286,0,316
+Jasper,GRAYS,U.S. Senate,,DEM,DEM Krystle Matthews,85,0,0,0,28,0,57
+Jasper,HARDEEVILLE 1,U.S. Senate,,DEM,DEM Krystle Matthews,217,0,8,0,102,0,107
+Jasper,HARDEEVILLE 2,U.S. Senate,,DEM,DEM Krystle Matthews,186,0,7,0,62,0,117
+Jasper,LEVY,U.S. Senate,,DEM,DEM Krystle Matthews,452,0,13,0,175,0,264
+Jasper,OKATIE,U.S. Senate,,DEM,DEM Krystle Matthews,127,0,1,0,50,0,76
+Jasper,PINELAND,U.S. Senate,,DEM,DEM Krystle Matthews,243,0,7,0,83,0,153
+Jasper,RIDGELAND 1,U.S. Senate,,DEM,DEM Krystle Matthews,126,0,7,0,51,0,68
+Jasper,RIDGELAND 2,U.S. Senate,,DEM,DEM Krystle Matthews,200,0,17,0,75,0,108
+Jasper,TILLMAN,U.S. Senate,,DEM,DEM Krystle Matthews,161,0,5,0,57,0,99
+Jasper,RIDGELAND 3,U.S. Senate,,DEM,DEM Krystle Matthews,139,0,11,0,72,0,56
+Jasper,SUN CITY,U.S. Senate,,DEM,DEM Krystle Matthews,874,0,86,0,525,0,263
+Jasper,HARDEEVILLE 3,U.S. Senate,,DEM,DEM Krystle Matthews,463,0,30,0,267,0,166
+Jasper,OKATIE 2,U.S. Senate,,DEM,DEM Krystle Matthews,129,0,13,0,62,0,54
+Jasper,Failsafe,U.S. Senate,,DEM,DEM Krystle Matthews,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. Senate,,DEM,DEM Krystle Matthews,4,0,0,0,0,4,0
+Jasper,Failsafe Provisional,U.S. Senate,,DEM,DEM Krystle Matthews,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 1,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 2,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAYS,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 2,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,LEVY,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,OKATIE,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,PINELAND,U.S. Senate,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,RIDGELAND 1,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 2,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,TILLMAN,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 3,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,SUN CITY,U.S. Senate,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,HARDEEVILLE 3,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,OKATIE 2,U.S. Senate,,NON,Write-In,2,0,0,0,0,0,2
+Jasper,Failsafe,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. Senate,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,U.S. House,6,REP,REP Duke Buckner,77,0,3,0,16,0,58
+Jasper,GILLISONVILLE,U.S. House,6,REP,REP Duke Buckner,170,0,3,0,39,0,128
+Jasper,GRAHAMVILLE 1,U.S. House,6,REP,REP Duke Buckner,407,0,3,0,107,0,297
+Jasper,GRAHAMVILLE 2,U.S. House,6,REP,REP Duke Buckner,398,0,6,0,97,0,295
+Jasper,GRAYS,U.S. House,6,REP,REP Duke Buckner,315,0,2,0,50,0,263
+Jasper,HARDEEVILLE 1,U.S. House,6,REP,REP Duke Buckner,162,0,4,0,42,0,116
+Jasper,HARDEEVILLE 2,U.S. House,6,REP,REP Duke Buckner,152,0,0,0,60,0,92
+Jasper,LEVY,U.S. House,6,REP,REP Duke Buckner,347,0,6,0,111,0,230
+Jasper,OKATIE,U.S. House,6,REP,REP Duke Buckner,199,0,6,0,55,0,138
+Jasper,PINELAND,U.S. House,6,REP,REP Duke Buckner,49,0,0,0,13,0,36
+Jasper,RIDGELAND 1,U.S. House,6,REP,REP Duke Buckner,344,0,8,0,123,0,213
+Jasper,RIDGELAND 2,U.S. House,6,REP,REP Duke Buckner,235,0,2,0,86,0,147
+Jasper,TILLMAN,U.S. House,6,REP,REP Duke Buckner,138,0,5,0,45,0,88
+Jasper,RIDGELAND 3,U.S. House,6,REP,REP Duke Buckner,285,0,0,0,80,0,205
+Jasper,HARDEEVILLE 3,U.S. House,6,REP,REP Duke Buckner,1135,0,29,0,555,0,551
+Jasper,Failsafe,U.S. House,6,REP,REP Duke Buckner,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,6,REP,REP Duke Buckner,1,0,0,0,0,1,0
+Jasper,Failsafe Provisional,U.S. House,6,REP,REP Duke Buckner,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,U.S. House,6,DEM,DEM James E Jim Clyburn,136,0,4,0,38,0,94
+Jasper,GILLISONVILLE,U.S. House,6,DEM,DEM James E Jim Clyburn,159,0,3,0,73,0,83
+Jasper,GRAHAMVILLE 1,U.S. House,6,DEM,DEM James E Jim Clyburn,237,0,6,0,115,0,116
+Jasper,GRAHAMVILLE 2,U.S. House,6,DEM,DEM James E Jim Clyburn,630,0,9,0,291,0,330
+Jasper,GRAYS,U.S. House,6,DEM,DEM James E Jim Clyburn,95,0,0,0,29,0,66
+Jasper,HARDEEVILLE 1,U.S. House,6,DEM,DEM James E Jim Clyburn,225,0,8,0,105,0,112
+Jasper,HARDEEVILLE 2,U.S. House,6,DEM,DEM James E Jim Clyburn,190,0,7,0,64,0,119
+Jasper,LEVY,U.S. House,6,DEM,DEM James E Jim Clyburn,458,0,12,0,176,0,270
+Jasper,OKATIE,U.S. House,6,DEM,DEM James E Jim Clyburn,132,0,1,0,53,0,78
+Jasper,PINELAND,U.S. House,6,DEM,DEM James E Jim Clyburn,250,0,7,0,86,0,157
+Jasper,RIDGELAND 1,U.S. House,6,DEM,DEM James E Jim Clyburn,128,0,7,0,52,0,69
+Jasper,RIDGELAND 2,U.S. House,6,DEM,DEM James E Jim Clyburn,207,0,17,0,76,0,114
+Jasper,TILLMAN,U.S. House,6,DEM,DEM James E Jim Clyburn,170,0,5,0,60,0,105
+Jasper,RIDGELAND 3,U.S. House,6,DEM,DEM James E Jim Clyburn,145,0,11,0,81,0,53
+Jasper,HARDEEVILLE 3,U.S. House,6,DEM,DEM James E Jim Clyburn,493,0,30,0,288,0,175
+Jasper,Failsafe,U.S. House,6,DEM,DEM James E Jim Clyburn,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,6,DEM,DEM James E Jim Clyburn,2,0,0,0,0,2,0
+Jasper,Failsafe Provisional,U.S. House,6,DEM,DEM James E Jim Clyburn,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 1,U.S. House,6,NON,Write-In,1,0,0,0,0,0,1
+Jasper,GRAHAMVILLE 2,U.S. House,6,NON,Write-In,3,0,0,0,0,0,3
+Jasper,GRAYS,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 2,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Jasper,LEVY,U.S. House,6,NON,Write-In,1,0,1,0,0,0,0
+Jasper,OKATIE,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Jasper,PINELAND,U.S. House,6,NON,Write-In,1,0,0,0,0,0,1
+Jasper,RIDGELAND 1,U.S. House,6,NON,Write-In,2,0,0,0,1,0,1
+Jasper,RIDGELAND 2,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Jasper,TILLMAN,U.S. House,6,NON,Write-In,1,0,0,0,0,0,1
+Jasper,RIDGELAND 3,U.S. House,6,NON,Write-In,1,0,0,0,0,0,1
+Jasper,HARDEEVILLE 3,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,6,NON,Write-In,0,0,0,0,0,0,0
+Jasper,SUN CITY,U.S. House,1,REP,REP Nancy Mace,1612,0,121,0,818,0,673
+Jasper,OKATIE 2,U.S. House,1,REP,REP Nancy Mace,278,0,14,0,132,0,132
+Jasper,Failsafe,U.S. House,1,REP,REP Nancy Mace,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,REP,REP Nancy Mace,5,0,0,0,0,5,0
+Jasper,Failsafe Provisional,U.S. House,1,REP,REP Nancy Mace,0,0,0,0,0,0,0
+Jasper,SUN CITY,U.S. House,1,ALN,ALN Joseph Oddo,11,0,0,0,7,0,4
+Jasper,OKATIE 2,U.S. House,1,ALN,ALN Joseph Oddo,4,0,0,0,0,0,4
+Jasper,Failsafe,U.S. House,1,ALN,ALN Joseph Oddo,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,ALN,ALN Joseph Oddo,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,ALN,ALN Joseph Oddo,0,0,0,0,0,0,0
+Jasper,SUN CITY,U.S. House,1,DEM,DEM Annie Andrews,944,0,91,0,578,0,275
+Jasper,OKATIE 2,U.S. House,1,DEM,DEM Annie Andrews,145,0,14,0,73,0,58
+Jasper,Failsafe,U.S. House,1,DEM,DEM Annie Andrews,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,DEM,DEM Annie Andrews,2,0,0,0,0,2,0
+Jasper,Failsafe Provisional,U.S. House,1,DEM,DEM Annie Andrews,0,0,0,0,0,0,0
+Jasper,SUN CITY,U.S. House,1,NON,Write-In,4,0,0,0,0,0,4
+Jasper,OKATIE 2,U.S. House,1,NON,Write-In,3,0,0,0,0,0,3
+Jasper,Failsafe,U.S. House,1,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,NON,Write-In,0,0,0,0,0,0,0
+Jasper,SUN CITY,State House,120,REP,REP Weston Newton,1886,0,134,0,1001,0,751
+Jasper,OKATIE 2,State House,120,REP,REP Weston Newton,332,0,17,0,158,0,157
+Jasper,Failsafe,State House,120,REP,REP Weston Newton,0,0,0,0,0,0,0
+Jasper,Provisional,State House,120,REP,REP Weston Newton,6,0,0,0,0,6,0
+Jasper,Failsafe Provisional,State House,120,REP,REP Weston Newton,0,0,0,0,0,0,0
+Jasper,SUN CITY,State House,120,NON,Write-In,24,0,2,0,17,0,5
+Jasper,OKATIE 2,State House,120,NON,Write-In,6,0,0,0,3,0,3
+Jasper,Failsafe,State House,120,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,State House,120,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State House,120,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,State House,122,REP,REP Bill Hager,82,0,3,0,19,0,60
+Jasper,GILLISONVILLE,State House,122,REP,REP Bill Hager,174,0,3,0,39,0,132
+Jasper,GRAHAMVILLE 1,State House,122,REP,REP Bill Hager,414,0,3,0,108,0,303
+Jasper,GRAHAMVILLE 2,State House,122,REP,REP Bill Hager,409,0,6,0,96,0,307
+Jasper,GRAYS,State House,122,REP,REP Bill Hager,327,0,2,0,50,0,275
+Jasper,HARDEEVILLE 1,State House,122,REP,REP Bill Hager,167,0,4,0,43,0,120
+Jasper,HARDEEVILLE 2,State House,122,REP,REP Bill Hager,153,0,0,0,60,0,93
+Jasper,OKATIE,State House,122,REP,REP Bill Hager,203,0,5,0,59,0,139
+Jasper,PINELAND,State House,122,REP,REP Bill Hager,44,0,0,0,12,0,32
+Jasper,RIDGELAND 1,State House,122,REP,REP Bill Hager,344,0,8,0,124,0,212
+Jasper,RIDGELAND 2,State House,122,REP,REP Bill Hager,233,0,2,0,83,0,148
+Jasper,TILLMAN,State House,122,REP,REP Bill Hager,136,0,3,0,43,0,90
+Jasper,RIDGELAND 3,State House,122,REP,REP Bill Hager,292,0,0,0,87,0,205
+Jasper,HARDEEVILLE 3,State House,122,REP,REP Bill Hager,1146,0,27,0,565,0,554
+Jasper,Failsafe,State House,122,REP,REP Bill Hager,0,0,0,0,0,0,0
+Jasper,Provisional,State House,122,REP,REP Bill Hager,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State House,122,REP,REP Bill Hager,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,State House,122,DEM,DEM Shedron Hook Williams,133,0,4,0,37,0,92
+Jasper,GILLISONVILLE,State House,122,DEM,DEM Shedron Hook Williams,154,0,3,0,74,0,77
+Jasper,GRAHAMVILLE 1,State House,122,DEM,DEM Shedron Hook Williams,229,0,6,0,114,0,109
+Jasper,GRAHAMVILLE 2,State House,122,DEM,DEM Shedron Hook Williams,626,0,10,0,293,0,323
+Jasper,GRAYS,State House,122,DEM,DEM Shedron Hook Williams,89,0,0,0,29,0,60
+Jasper,HARDEEVILLE 1,State House,122,DEM,DEM Shedron Hook Williams,218,0,7,0,104,0,107
+Jasper,HARDEEVILLE 2,State House,122,DEM,DEM Shedron Hook Williams,187,0,7,0,62,0,118
+Jasper,OKATIE,State House,122,DEM,DEM Shedron Hook Williams,127,0,2,0,49,0,76
+Jasper,PINELAND,State House,122,DEM,DEM Shedron Hook Williams,253,0,7,0,85,0,161
+Jasper,RIDGELAND 1,State House,122,DEM,DEM Shedron Hook Williams,130,0,7,0,51,0,72
+Jasper,RIDGELAND 2,State House,122,DEM,DEM Shedron Hook Williams,206,0,17,0,77,0,112
+Jasper,TILLMAN,State House,122,DEM,DEM Shedron Hook Williams,171,0,6,0,62,0,103
+Jasper,RIDGELAND 3,State House,122,DEM,DEM Shedron Hook Williams,139,0,11,0,74,0,54
+Jasper,HARDEEVILLE 3,State House,122,DEM,DEM Shedron Hook Williams,467,0,31,0,275,0,161
+Jasper,Failsafe,State House,122,DEM,DEM Shedron Hook Williams,0,0,0,0,0,0,0
+Jasper,Provisional,State House,122,DEM,DEM Shedron Hook Williams,1,0,0,0,0,1,0
+Jasper,Failsafe Provisional,State House,122,DEM,DEM Shedron Hook Williams,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 1,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 2,State House,122,NON,Write-In,1,0,0,0,0,0,1
+Jasper,GRAYS,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 2,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,OKATIE,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,PINELAND,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 1,State House,122,NON,Write-In,1,0,0,0,1,0,0
+Jasper,RIDGELAND 2,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,TILLMAN,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 3,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 3,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State House,122,NON,Write-In,0,0,0,0,0,0,0
+Jasper,LEVY,State House,123,REP,REP Jeff Bradley,409,0,8,0,125,0,276
+Jasper,Failsafe,State House,123,REP,REP Jeff Bradley,0,0,0,0,0,0,0
+Jasper,Provisional,State House,123,REP,REP Jeff Bradley,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State House,123,REP,REP Jeff Bradley,0,0,0,0,0,0,0
+Jasper,LEVY,State House,123,NON,Write-In,12,0,1,0,4,0,7
+Jasper,Failsafe,State House,123,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,State House,123,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State House,123,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,179,0,5,0,51,0,123
+Jasper,GILLISONVILLE,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,237,0,5,0,87,0,145
+Jasper,GRAHAMVILLE 1,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,433,0,8,0,167,0,258
+Jasper,GRAHAMVILLE 2,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,826,0,14,0,348,0,464
+Jasper,GRAYS,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,254,0,0,0,55,0,199
+Jasper,HARDEEVILLE 1,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,307,0,10,0,127,0,170
+Jasper,HARDEEVILLE 2,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,257,0,7,0,91,0,159
+Jasper,LEVY,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,574,0,15,0,217,0,342
+Jasper,OKATIE,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,185,0,2,0,65,0,118
+Jasper,PINELAND,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,273,0,7,0,90,0,176
+Jasper,RIDGELAND 1,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,324,0,11,0,128,0,185
+Jasper,RIDGELAND 2,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,323,0,19,0,115,0,189
+Jasper,TILLMAN,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,237,0,5,0,82,0,150
+Jasper,RIDGELAND 3,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,322,0,11,0,137,0,174
+Jasper,SUN CITY,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,1250,0,100,0,745,0,405
+Jasper,HARDEEVILLE 3,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,755,0,35,0,429,0,291
+Jasper,OKATIE 2,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,193,0,15,0,97,0,81
+Jasper,Failsafe,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,0,0,0,0,0,0,0
+Jasper,Provisional,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,4,0,0,0,0,4,0
+Jasper,Failsafe Provisional,Probate Judge,,DEM,DEM Buster Albert L Kleckley Jr,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Probate Judge,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,Probate Judge,,NON,Write-In,6,0,0,0,4,0,2
+Jasper,GRAHAMVILLE 1,Probate Judge,,NON,Write-In,10,0,0,0,3,0,7
+Jasper,GRAHAMVILLE 2,Probate Judge,,NON,Write-In,6,0,0,0,2,0,4
+Jasper,GRAYS,Probate Judge,,NON,Write-In,2,0,0,0,0,0,2
+Jasper,HARDEEVILLE 1,Probate Judge,,NON,Write-In,3,0,0,0,0,0,3
+Jasper,HARDEEVILLE 2,Probate Judge,,NON,Write-In,4,0,0,0,1,0,3
+Jasper,LEVY,Probate Judge,,NON,Write-In,8,0,0,0,1,0,7
+Jasper,OKATIE,Probate Judge,,NON,Write-In,6,0,0,0,2,0,4
+Jasper,PINELAND,Probate Judge,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,RIDGELAND 1,Probate Judge,,NON,Write-In,7,0,0,0,0,0,7
+Jasper,RIDGELAND 2,Probate Judge,,NON,Write-In,6,0,0,0,2,0,4
+Jasper,TILLMAN,Probate Judge,,NON,Write-In,4,0,0,0,1,0,3
+Jasper,RIDGELAND 3,Probate Judge,,NON,Write-In,2,0,0,0,1,0,1
+Jasper,SUN CITY,Probate Judge,,NON,Write-In,21,0,0,0,10,0,11
+Jasper,HARDEEVILLE 3,Probate Judge,,NON,Write-In,22,0,0,0,11,0,11
+Jasper,OKATIE 2,Probate Judge,,NON,Write-In,4,0,0,0,2,0,2
+Jasper,Failsafe,Probate Judge,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,Probate Judge,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Probate Judge,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Auditor,,REP,REP Megan Carroll Horton,80,0,3,0,20,0,57
+Jasper,GILLISONVILLE,Auditor,,REP,REP Megan Carroll Horton,177,0,3,0,42,0,132
+Jasper,GRAHAMVILLE 1,Auditor,,REP,REP Megan Carroll Horton,419,0,3,0,112,0,304
+Jasper,GRAHAMVILLE 2,Auditor,,REP,REP Megan Carroll Horton,405,0,6,0,98,0,301
+Jasper,GRAYS,Auditor,,REP,REP Megan Carroll Horton,321,0,2,0,49,0,270
+Jasper,HARDEEVILLE 1,Auditor,,REP,REP Megan Carroll Horton,171,0,5,0,45,0,121
+Jasper,HARDEEVILLE 2,Auditor,,REP,REP Megan Carroll Horton,157,0,0,0,59,0,98
+Jasper,LEVY,Auditor,,REP,REP Megan Carroll Horton,352,0,8,0,107,0,237
+Jasper,OKATIE,Auditor,,REP,REP Megan Carroll Horton,200,0,5,0,58,0,137
+Jasper,PINELAND,Auditor,,REP,REP Megan Carroll Horton,48,0,0,0,13,0,35
+Jasper,RIDGELAND 1,Auditor,,REP,REP Megan Carroll Horton,346,0,8,0,120,0,218
+Jasper,RIDGELAND 2,Auditor,,REP,REP Megan Carroll Horton,244,0,2,0,91,0,151
+Jasper,TILLMAN,Auditor,,REP,REP Megan Carroll Horton,138,0,4,0,44,0,90
+Jasper,RIDGELAND 3,Auditor,,REP,REP Megan Carroll Horton,290,0,0,0,89,0,201
+Jasper,SUN CITY,Auditor,,REP,REP Megan Carroll Horton,1657,0,117,0,857,0,683
+Jasper,HARDEEVILLE 3,Auditor,,REP,REP Megan Carroll Horton,1139,0,27,0,564,0,548
+Jasper,OKATIE 2,Auditor,,REP,REP Megan Carroll Horton,287,0,14,0,135,0,138
+Jasper,Failsafe,Auditor,,REP,REP Megan Carroll Horton,0,0,0,0,0,0,0
+Jasper,Provisional,Auditor,,REP,REP Megan Carroll Horton,6,0,0,0,0,6,0
+Jasper,Failsafe Provisional,Auditor,,REP,REP Megan Carroll Horton,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Auditor,,DEM,DEM Monica Brooks-Wilson,134,0,4,0,36,0,94
+Jasper,GILLISONVILLE,Auditor,,DEM,DEM Monica Brooks-Wilson,151,0,3,0,71,0,77
+Jasper,GRAHAMVILLE 1,Auditor,,DEM,DEM Monica Brooks-Wilson,226,0,6,0,111,0,109
+Jasper,GRAHAMVILLE 2,Auditor,,DEM,DEM Monica Brooks-Wilson,629,0,10,0,291,0,328
+Jasper,GRAYS,Auditor,,DEM,DEM Monica Brooks-Wilson,90,0,0,0,29,0,61
+Jasper,HARDEEVILLE 1,Auditor,,DEM,DEM Monica Brooks-Wilson,214,0,6,0,104,0,104
+Jasper,HARDEEVILLE 2,Auditor,,DEM,DEM Monica Brooks-Wilson,186,0,7,0,63,0,116
+Jasper,LEVY,Auditor,,DEM,DEM Monica Brooks-Wilson,445,0,11,0,175,0,259
+Jasper,OKATIE,Auditor,,DEM,DEM Monica Brooks-Wilson,132,0,2,0,51,0,79
+Jasper,PINELAND,Auditor,,DEM,DEM Monica Brooks-Wilson,256,0,7,0,87,0,162
+Jasper,RIDGELAND 1,Auditor,,DEM,DEM Monica Brooks-Wilson,128,0,7,0,54,0,67
+Jasper,RIDGELAND 2,Auditor,,DEM,DEM Monica Brooks-Wilson,202,0,17,0,73,0,112
+Jasper,TILLMAN,Auditor,,DEM,DEM Monica Brooks-Wilson,169,0,6,0,61,0,102
+Jasper,RIDGELAND 3,Auditor,,DEM,DEM Monica Brooks-Wilson,142,0,11,0,73,0,58
+Jasper,SUN CITY,Auditor,,DEM,DEM Monica Brooks-Wilson,880,0,90,0,535,0,255
+Jasper,HARDEEVILLE 3,Auditor,,DEM,DEM Monica Brooks-Wilson,471,0,34,0,275,0,162
+Jasper,OKATIE 2,Auditor,,DEM,DEM Monica Brooks-Wilson,137,0,13,0,67,0,57
+Jasper,Failsafe,Auditor,,DEM,DEM Monica Brooks-Wilson,0,0,0,0,0,0,0
+Jasper,Provisional,Auditor,,DEM,DEM Monica Brooks-Wilson,4,0,0,0,0,4,0
+Jasper,Failsafe Provisional,Auditor,,DEM,DEM Monica Brooks-Wilson,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 1,Auditor,,NON,Write-In,2,0,0,0,1,0,1
+Jasper,GRAHAMVILLE 2,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAYS,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 2,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,LEVY,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,OKATIE,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,PINELAND,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 1,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 2,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,TILLMAN,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 3,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,SUN CITY,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 3,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,OKATIE 2,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Auditor,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,County Treasurer,,REP,REP Michael Skinner,74,0,3,0,17,0,54
+Jasper,GILLISONVILLE,County Treasurer,,REP,REP Michael Skinner,158,0,3,0,37,0,118
+Jasper,GRAHAMVILLE 1,County Treasurer,,REP,REP Michael Skinner,377,0,3,0,94,0,280
+Jasper,GRAHAMVILLE 2,County Treasurer,,REP,REP Michael Skinner,364,0,1,0,87,0,276
+Jasper,GRAYS,County Treasurer,,REP,REP Michael Skinner,296,0,2,0,45,0,249
+Jasper,HARDEEVILLE 1,County Treasurer,,REP,REP Michael Skinner,153,0,4,0,40,0,109
+Jasper,HARDEEVILLE 2,County Treasurer,,REP,REP Michael Skinner,139,0,0,0,53,0,86
+Jasper,LEVY,County Treasurer,,REP,REP Michael Skinner,310,0,6,0,104,0,200
+Jasper,OKATIE,County Treasurer,,REP,REP Michael Skinner,193,0,6,0,55,0,132
+Jasper,PINELAND,County Treasurer,,REP,REP Michael Skinner,40,0,2,0,12,0,26
+Jasper,RIDGELAND 1,County Treasurer,,REP,REP Michael Skinner,312,0,4,0,106,0,202
+Jasper,RIDGELAND 2,County Treasurer,,REP,REP Michael Skinner,208,0,2,0,71,0,135
+Jasper,TILLMAN,County Treasurer,,REP,REP Michael Skinner,132,0,4,0,43,0,85
+Jasper,RIDGELAND 3,County Treasurer,,REP,REP Michael Skinner,252,0,0,0,67,0,185
+Jasper,SUN CITY,County Treasurer,,REP,REP Michael Skinner,1561,0,104,0,804,0,653
+Jasper,HARDEEVILLE 3,County Treasurer,,REP,REP Michael Skinner,1120,0,27,0,555,0,538
+Jasper,OKATIE 2,County Treasurer,,REP,REP Michael Skinner,283,0,14,0,130,0,139
+Jasper,Failsafe,County Treasurer,,REP,REP Michael Skinner,0,0,0,0,0,0,0
+Jasper,Provisional,County Treasurer,,REP,REP Michael Skinner,5,0,0,0,0,5,0
+Jasper,Failsafe Provisional,County Treasurer,,REP,REP Michael Skinner,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,County Treasurer,,DEM,DEM Verna L Garvin,140,0,4,0,39,0,97
+Jasper,GILLISONVILLE,County Treasurer,,DEM,DEM Verna L Garvin,171,0,3,0,75,0,93
+Jasper,GRAHAMVILLE 1,County Treasurer,,DEM,DEM Verna L Garvin,272,0,6,0,130,0,136
+Jasper,GRAHAMVILLE 2,County Treasurer,,DEM,DEM Verna L Garvin,678,0,15,0,305,0,358
+Jasper,GRAYS,County Treasurer,,DEM,DEM Verna L Garvin,114,0,0,0,33,0,81
+Jasper,HARDEEVILLE 1,County Treasurer,,DEM,DEM Verna L Garvin,233,0,8,0,107,0,118
+Jasper,HARDEEVILLE 2,County Treasurer,,DEM,DEM Verna L Garvin,203,0,7,0,69,0,127
+Jasper,LEVY,County Treasurer,,DEM,DEM Verna L Garvin,491,0,13,0,179,0,299
+Jasper,OKATIE,County Treasurer,,DEM,DEM Verna L Garvin,139,0,1,0,54,0,84
+Jasper,PINELAND,County Treasurer,,DEM,DEM Verna L Garvin,263,0,5,0,89,0,169
+Jasper,RIDGELAND 1,County Treasurer,,DEM,DEM Verna L Garvin,163,0,11,0,70,0,82
+Jasper,RIDGELAND 2,County Treasurer,,DEM,DEM Verna L Garvin,239,0,17,0,95,0,127
+Jasper,TILLMAN,County Treasurer,,DEM,DEM Verna L Garvin,178,0,6,0,61,0,111
+Jasper,RIDGELAND 3,County Treasurer,,DEM,DEM Verna L Garvin,185,0,11,0,96,0,78
+Jasper,SUN CITY,County Treasurer,,DEM,DEM Verna L Garvin,993,0,109,0,593,0,291
+Jasper,HARDEEVILLE 3,County Treasurer,,DEM,DEM Verna L Garvin,501,0,33,0,286,0,182
+Jasper,OKATIE 2,County Treasurer,,DEM,DEM Verna L Garvin,146,0,14,0,75,0,57
+Jasper,Failsafe,County Treasurer,,DEM,DEM Verna L Garvin,0,0,0,0,0,0,0
+Jasper,Provisional,County Treasurer,,DEM,DEM Verna L Garvin,5,0,0,0,0,5,0
+Jasper,Failsafe Provisional,County Treasurer,,DEM,DEM Verna L Garvin,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 1,County Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,GRAHAMVILLE 2,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAYS,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,County Treasurer,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,HARDEEVILLE 2,County Treasurer,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,LEVY,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,OKATIE,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,PINELAND,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 1,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 2,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,TILLMAN,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 3,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,SUN CITY,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 3,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,OKATIE 2,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,County Treasurer,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,86,0,3,0,21,0,62
+Jasper,GILLISONVILLE,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,182,0,3,0,41,0,138
+Jasper,GRAHAMVILLE 1,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,432,0,4,0,116,0,312
+Jasper,GRAHAMVILLE 2,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,449,0,9,0,114,0,326
+Jasper,GRAYS,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,330,0,2,0,49,0,279
+Jasper,HARDEEVILLE 1,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,185,0,5,0,50,0,130
+Jasper,HARDEEVILLE 2,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,153,0,0,0,61,0,92
+Jasper,LEVY,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,370,0,8,0,128,0,234
+Jasper,OKATIE,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,196,0,6,0,55,0,135
+Jasper,PINELAND,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,58,0,0,0,20,0,38
+Jasper,RIDGELAND 1,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,355,0,8,0,123,0,224
+Jasper,RIDGELAND 2,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,259,0,2,0,98,0,159
+Jasper,TILLMAN,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,143,0,5,0,44,0,94
+Jasper,RIDGELAND 3,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,307,0,0,0,94,0,213
+Jasper,SUN CITY,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,1505,0,112,0,749,0,644
+Jasper,HARDEEVILLE 3,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,1116,0,25,0,550,0,541
+Jasper,OKATIE 2,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,306,0,20,0,143,0,143
+Jasper,Failsafe,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,0,0,0,0,0,0,0
+Jasper,Provisional,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,5,0,0,0,0,5,0
+Jasper,Failsafe Provisional,County Council Coosawhatchie Township,,REP,REP Martin Sauls IV,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,129,0,4,0,34,0,91
+Jasper,GILLISONVILLE,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,143,0,3,0,71,0,69
+Jasper,GRAHAMVILLE 1,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,210,0,5,0,107,0,98
+Jasper,GRAHAMVILLE 2,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,590,0,5,0,276,0,309
+Jasper,GRAYS,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,82,0,0,0,29,0,53
+Jasper,HARDEEVILLE 1,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,197,0,6,0,96,0,95
+Jasper,HARDEEVILLE 2,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,184,0,7,0,59,0,118
+Jasper,LEVY,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,431,0,11,0,155,0,265
+Jasper,OKATIE,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,135,0,1,0,54,0,80
+Jasper,PINELAND,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,243,0,7,0,80,0,156
+Jasper,RIDGELAND 1,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,115,0,7,0,49,0,59
+Jasper,RIDGELAND 2,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,188,0,17,0,67,0,104
+Jasper,TILLMAN,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,162,0,5,0,60,0,97
+Jasper,RIDGELAND 3,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,128,0,11,0,70,0,47
+Jasper,SUN CITY,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,966,0,86,0,597,0,283
+Jasper,HARDEEVILLE 3,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,452,0,32,0,267,0,153
+Jasper,OKATIE 2,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,112,0,6,0,58,0,48
+Jasper,Failsafe,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,0,0,0,0,0,0,0
+Jasper,Provisional,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,5,0,0,0,0,5,0
+Jasper,Failsafe Provisional,County Council Coosawhatchie Township,,DEM,DEM Samuel Gregory,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,County Council Coosawhatchie Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,County Council Coosawhatchie Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 1,County Council Coosawhatchie Township,,NON,Write-In,3,0,0,0,0,0,3
+Jasper,GRAHAMVILLE 2,County Council Coosawhatchie Township,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,GRAYS,County Council Coosawhatchie Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,County Council Coosawhatchie Township,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,HARDEEVILLE 2,County Council Coosawhatchie Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,LEVY,County Council Coosawhatchie Township,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,OKATIE,County Council Coosawhatchie Township,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,PINELAND,County Council Coosawhatchie Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 1,County Council Coosawhatchie Township,,NON,Write-In,4,0,0,0,2,0,2
+Jasper,RIDGELAND 2,County Council Coosawhatchie Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,TILLMAN,County Council Coosawhatchie Township,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,RIDGELAND 3,County Council Coosawhatchie Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,SUN CITY,County Council Coosawhatchie Township,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,HARDEEVILLE 3,County Council Coosawhatchie Township,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,OKATIE 2,County Council Coosawhatchie Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe,County Council Coosawhatchie Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,County Council Coosawhatchie Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,County Council Coosawhatchie Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,County Council Robertville Township,,REP,REP Coy Garbade,81,0,3,0,17,0,61
+Jasper,GILLISONVILLE,County Council Robertville Township,,REP,REP Coy Garbade,174,0,3,0,39,0,132
+Jasper,GRAHAMVILLE 1,County Council Robertville Township,,REP,REP Coy Garbade,415,0,4,0,111,0,300
+Jasper,GRAHAMVILLE 2,County Council Robertville Township,,REP,REP Coy Garbade,402,0,7,0,96,0,299
+Jasper,GRAYS,County Council Robertville Township,,REP,REP Coy Garbade,323,0,2,0,47,0,274
+Jasper,HARDEEVILLE 1,County Council Robertville Township,,REP,REP Coy Garbade,168,0,4,0,45,0,119
+Jasper,HARDEEVILLE 2,County Council Robertville Township,,REP,REP Coy Garbade,155,0,0,0,62,0,93
+Jasper,LEVY,County Council Robertville Township,,REP,REP Coy Garbade,352,0,8,0,111,0,233
+Jasper,OKATIE,County Council Robertville Township,,REP,REP Coy Garbade,191,0,4,0,56,0,131
+Jasper,PINELAND,County Council Robertville Township,,REP,REP Coy Garbade,48,0,2,0,13,0,33
+Jasper,RIDGELAND 1,County Council Robertville Township,,REP,REP Coy Garbade,350,0,8,0,121,0,221
+Jasper,RIDGELAND 2,County Council Robertville Township,,REP,REP Coy Garbade,247,0,2,0,91,0,154
+Jasper,TILLMAN,County Council Robertville Township,,REP,REP Coy Garbade,141,0,4,0,42,0,95
+Jasper,RIDGELAND 3,County Council Robertville Township,,REP,REP Coy Garbade,295,0,0,0,89,0,206
+Jasper,SUN CITY,County Council Robertville Township,,REP,REP Coy Garbade,1621,0,109,0,837,0,675
+Jasper,HARDEEVILLE 3,County Council Robertville Township,,REP,REP Coy Garbade,1101,0,25,0,542,0,534
+Jasper,OKATIE 2,County Council Robertville Township,,REP,REP Coy Garbade,282,0,14,0,130,0,138
+Jasper,Failsafe,County Council Robertville Township,,REP,REP Coy Garbade,0,0,0,0,0,0,0
+Jasper,Provisional,County Council Robertville Township,,REP,REP Coy Garbade,7,0,0,0,0,7,0
+Jasper,Failsafe Provisional,County Council Robertville Township,,REP,REP Coy Garbade,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,County Council Robertville Township,,DEM,DEM Curtis Brantley,134,0,4,0,38,0,92
+Jasper,GILLISONVILLE,County Council Robertville Township,,DEM,DEM Curtis Brantley,155,0,3,0,75,0,77
+Jasper,GRAHAMVILLE 1,County Council Robertville Township,,DEM,DEM Curtis Brantley,233,0,5,0,113,0,115
+Jasper,GRAHAMVILLE 2,County Council Robertville Township,,DEM,DEM Curtis Brantley,626,0,9,0,288,0,329
+Jasper,GRAYS,County Council Robertville Township,,DEM,DEM Curtis Brantley,87,0,0,0,30,0,57
+Jasper,HARDEEVILLE 1,County Council Robertville Township,,DEM,DEM Curtis Brantley,211,0,6,0,100,0,105
+Jasper,HARDEEVILLE 2,County Council Robertville Township,,DEM,DEM Curtis Brantley,184,0,7,0,59,0,118
+Jasper,LEVY,County Council Robertville Township,,DEM,DEM Curtis Brantley,451,0,11,0,172,0,268
+Jasper,OKATIE,County Council Robertville Township,,DEM,DEM Curtis Brantley,139,0,2,0,53,0,84
+Jasper,PINELAND,County Council Robertville Township,,DEM,DEM Curtis Brantley,253,0,5,0,87,0,161
+Jasper,RIDGELAND 1,County Council Robertville Township,,DEM,DEM Curtis Brantley,122,0,7,0,51,0,64
+Jasper,RIDGELAND 2,County Council Robertville Township,,DEM,DEM Curtis Brantley,197,0,17,0,72,0,108
+Jasper,TILLMAN,County Council Robertville Township,,DEM,DEM Curtis Brantley,168,0,6,0,63,0,99
+Jasper,RIDGELAND 3,County Council Robertville Township,,DEM,DEM Curtis Brantley,139,0,11,0,73,0,55
+Jasper,SUN CITY,County Council Robertville Township,,DEM,DEM Curtis Brantley,841,0,82,0,504,0,255
+Jasper,HARDEEVILLE 3,County Council Robertville Township,,DEM,DEM Curtis Brantley,454,0,32,0,267,0,155
+Jasper,OKATIE 2,County Council Robertville Township,,DEM,DEM Curtis Brantley,134,0,10,0,70,0,54
+Jasper,Failsafe,County Council Robertville Township,,DEM,DEM Curtis Brantley,0,0,0,0,0,0,0
+Jasper,Provisional,County Council Robertville Township,,DEM,DEM Curtis Brantley,3,0,0,0,0,3,0
+Jasper,Failsafe Provisional,County Council Robertville Township,,DEM,DEM Curtis Brantley,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 1,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 2,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAYS,County Council Robertville Township,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,HARDEEVILLE 1,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 2,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,LEVY,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,OKATIE,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,PINELAND,County Council Robertville Township,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,RIDGELAND 1,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 2,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,TILLMAN,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 3,County Council Robertville Township,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,SUN CITY,County Council Robertville Township,,NON,Write-In,2,0,0,0,1,0,1
+Jasper,HARDEEVILLE 3,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,OKATIE 2,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,County Council Robertville Township,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Soil and Water District Commission,,NON,Mike Davis,64,0,2,0,17,0,45
+Jasper,GILLISONVILLE,Soil and Water District Commission,,NON,Mike Davis,142,0,4,0,39,0,99
+Jasper,GRAHAMVILLE 1,Soil and Water District Commission,,NON,Mike Davis,293,0,5,0,87,0,201
+Jasper,GRAHAMVILLE 2,Soil and Water District Commission,,NON,Mike Davis,388,0,9,0,124,0,255
+Jasper,GRAYS,Soil and Water District Commission,,NON,Mike Davis,181,0,0,0,35,0,146
+Jasper,HARDEEVILLE 1,Soil and Water District Commission,,NON,Mike Davis,153,0,6,0,48,0,99
+Jasper,HARDEEVILLE 2,Soil and Water District Commission,,NON,Mike Davis,125,0,2,0,46,0,77
+Jasper,LEVY,Soil and Water District Commission,,NON,Mike Davis,287,0,9,0,99,0,179
+Jasper,OKATIE,Soil and Water District Commission,,NON,Mike Davis,133,0,2,0,46,0,85
+Jasper,PINELAND,Soil and Water District Commission,,NON,Mike Davis,81,0,2,0,17,0,62
+Jasper,RIDGELAND 1,Soil and Water District Commission,,NON,Mike Davis,251,0,9,0,96,0,146
+Jasper,RIDGELAND 2,Soil and Water District Commission,,NON,Mike Davis,201,0,10,0,67,0,124
+Jasper,TILLMAN,Soil and Water District Commission,,NON,Mike Davis,128,0,0,0,40,0,88
+Jasper,RIDGELAND 3,Soil and Water District Commission,,NON,Mike Davis,210,0,5,0,74,0,131
+Jasper,SUN CITY,Soil and Water District Commission,,NON,Mike Davis,1105,0,69,0,656,0,380
+Jasper,HARDEEVILLE 3,Soil and Water District Commission,,NON,Mike Davis,776,0,28,0,421,0,327
+Jasper,OKATIE 2,Soil and Water District Commission,,NON,Mike Davis,158,0,11,0,80,0,67
+Jasper,Failsafe,Soil and Water District Commission,,NON,Mike Davis,0,0,0,0,0,0,0
+Jasper,Provisional,Soil and Water District Commission,,NON,Mike Davis,1,0,0,0,0,1,0
+Jasper,Failsafe Provisional,Soil and Water District Commission,,NON,Mike Davis,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Soil and Water District Commission,,NON,Stan Wells,52,0,1,0,16,0,35
+Jasper,GILLISONVILLE,Soil and Water District Commission,,NON,Stan Wells,104,0,3,0,38,0,63
+Jasper,GRAHAMVILLE 1,Soil and Water District Commission,,NON,Stan Wells,182,0,2,0,65,0,115
+Jasper,GRAHAMVILLE 2,Soil and Water District Commission,,NON,Stan Wells,243,0,5,0,85,0,153
+Jasper,GRAYS,Soil and Water District Commission,,NON,Stan Wells,115,0,0,0,17,0,98
+Jasper,HARDEEVILLE 1,Soil and Water District Commission,,NON,Stan Wells,98,0,3,0,31,0,64
+Jasper,HARDEEVILLE 2,Soil and Water District Commission,,NON,Stan Wells,92,0,0,0,34,0,58
+Jasper,LEVY,Soil and Water District Commission,,NON,Stan Wells,183,0,3,0,63,0,117
+Jasper,OKATIE,Soil and Water District Commission,,NON,Stan Wells,92,0,1,0,27,0,64
+Jasper,PINELAND,Soil and Water District Commission,,NON,Stan Wells,54,0,1,0,16,0,37
+Jasper,RIDGELAND 1,Soil and Water District Commission,,NON,Stan Wells,177,0,9,0,71,0,97
+Jasper,RIDGELAND 2,Soil and Water District Commission,,NON,Stan Wells,127,0,7,0,45,0,75
+Jasper,TILLMAN,Soil and Water District Commission,,NON,Stan Wells,106,0,3,0,38,0,65
+Jasper,RIDGELAND 3,Soil and Water District Commission,,NON,Stan Wells,143,0,3,0,53,0,87
+Jasper,SUN CITY,Soil and Water District Commission,,NON,Stan Wells,904,0,61,0,534,0,309
+Jasper,HARDEEVILLE 3,Soil and Water District Commission,,NON,Stan Wells,625,0,23,0,336,0,266
+Jasper,OKATIE 2,Soil and Water District Commission,,NON,Stan Wells,133,0,11,0,62,0,60
+Jasper,Failsafe,Soil and Water District Commission,,NON,Stan Wells,0,0,0,0,0,0,0
+Jasper,Provisional,Soil and Water District Commission,,NON,Stan Wells,1,0,0,0,0,1,0
+Jasper,Failsafe Provisional,Soil and Water District Commission,,NON,Stan Wells,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,Soil and Water District Commission,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,GRAHAMVILLE 1,Soil and Water District Commission,,NON,Write-In,5,0,0,0,1,0,4
+Jasper,GRAHAMVILLE 2,Soil and Water District Commission,,NON,Write-In,2,0,0,0,1,0,1
+Jasper,GRAYS,Soil and Water District Commission,,NON,Write-In,1,0,0,0,0,0,1
+Jasper,HARDEEVILLE 1,Soil and Water District Commission,,NON,Write-In,5,0,0,0,2,0,3
+Jasper,HARDEEVILLE 2,Soil and Water District Commission,,NON,Write-In,3,0,0,0,2,0,1
+Jasper,LEVY,Soil and Water District Commission,,NON,Write-In,2,0,1,0,1,0,0
+Jasper,OKATIE,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,PINELAND,Soil and Water District Commission,,NON,Write-In,4,0,0,0,1,0,3
+Jasper,RIDGELAND 1,Soil and Water District Commission,,NON,Write-In,4,0,0,0,1,0,3
+Jasper,RIDGELAND 2,Soil and Water District Commission,,NON,Write-In,4,0,0,0,1,0,3
+Jasper,TILLMAN,Soil and Water District Commission,,NON,Write-In,2,0,0,0,0,0,2
+Jasper,RIDGELAND 3,Soil and Water District Commission,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,SUN CITY,Soil and Water District Commission,,NON,Write-In,6,0,0,0,1,0,5
+Jasper,HARDEEVILLE 3,Soil and Water District Commission,,NON,Write-In,8,0,1,0,4,0,3
+Jasper,OKATIE 2,Soil and Water District Commission,,NON,Write-In,4,0,0,0,2,0,2
+Jasper,Failsafe,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,School Board District 2,,NON,Kamaloni Chisholm,11,0,0,0,8,0,3
+Jasper,HARDEEVILLE 2,School Board District 2,,NON,Kamaloni Chisholm,29,0,0,0,8,0,21
+Jasper,LEVY,School Board District 2,,NON,Kamaloni Chisholm,13,0,0,0,5,0,8
+Jasper,HARDEEVILLE 3,School Board District 2,,NON,Kamaloni Chisholm,57,0,5,0,27,0,25
+Jasper,OKATIE 2,School Board District 2,,NON,Kamaloni Chisholm,19,0,1,0,10,0,8
+Jasper,Failsafe,School Board District 2,,NON,Kamaloni Chisholm,0,0,0,0,0,0,0
+Jasper,Provisional,School Board District 2,,NON,Kamaloni Chisholm,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,School Board District 2,,NON,Kamaloni Chisholm,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,School Board District 2,,NON,Joyce Gerald,17,0,0,0,7,0,10
+Jasper,HARDEEVILLE 2,School Board District 2,,NON,Joyce Gerald,44,0,0,0,13,0,31
+Jasper,LEVY,School Board District 2,,NON,Joyce Gerald,23,0,0,0,13,0,10
+Jasper,HARDEEVILLE 3,School Board District 2,,NON,Joyce Gerald,160,0,7,0,75,0,78
+Jasper,OKATIE 2,School Board District 2,,NON,Joyce Gerald,63,0,1,0,36,0,26
+Jasper,Failsafe,School Board District 2,,NON,Joyce Gerald,0,0,0,0,0,0,0
+Jasper,Provisional,School Board District 2,,NON,Joyce Gerald,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,School Board District 2,,NON,Joyce Gerald,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,School Board District 2,,NON,Mack McCaffrey,19,0,0,0,3,0,16
+Jasper,HARDEEVILLE 2,School Board District 2,,NON,Mack McCaffrey,41,0,0,0,18,0,23
+Jasper,LEVY,School Board District 2,,NON,Mack McCaffrey,6,0,1,0,2,0,3
+Jasper,HARDEEVILLE 3,School Board District 2,,NON,Mack McCaffrey,212,0,7,0,103,0,102
+Jasper,OKATIE 2,School Board District 2,,NON,Mack McCaffrey,49,0,5,0,21,0,23
+Jasper,Failsafe,School Board District 2,,NON,Mack McCaffrey,0,0,0,0,0,0,0
+Jasper,Provisional,School Board District 2,,NON,Mack McCaffrey,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,School Board District 2,,NON,Mack McCaffrey,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 2,School Board District 2,,NON,Write-In,3,0,0,0,2,0,1
+Jasper,LEVY,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 3,School Board District 2,,NON,Write-In,9,0,0,0,9,0,0
+Jasper,OKATIE 2,School Board District 2,,NON,Write-In,1,0,0,0,1,0,0
+Jasper,Failsafe,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,School Board District 4,,NON,Carolyn Bolden,55,0,2,0,16,0,37
+Jasper,GRAYS,School Board District 4,,NON,Carolyn Bolden,100,0,0,0,18,0,82
+Jasper,PINELAND,School Board District 4,,NON,Carolyn Bolden,15,0,0,0,4,0,11
+Jasper,RIDGELAND 1,School Board District 4,,NON,Carolyn Bolden,39,0,1,0,14,0,24
+Jasper,RIDGELAND 3,School Board District 4,,NON,Carolyn Bolden,62,0,0,0,26,0,36
+Jasper,Failsafe,School Board District 4,,NON,Carolyn Bolden,0,0,0,0,0,0,0
+Jasper,Provisional,School Board District 4,,NON,Carolyn Bolden,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,School Board District 4,,NON,Carolyn Bolden,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,School Board District 4,,NON,Lawrence Helms,20,0,0,0,11,0,9
+Jasper,GRAYS,School Board District 4,,NON,Lawrence Helms,72,0,0,0,11,0,61
+Jasper,PINELAND,School Board District 4,,NON,Lawrence Helms,5,0,0,0,1,0,4
+Jasper,RIDGELAND 1,School Board District 4,,NON,Lawrence Helms,16,0,0,0,6,0,10
+Jasper,RIDGELAND 3,School Board District 4,,NON,Lawrence Helms,20,0,0,0,6,0,14
+Jasper,Failsafe,School Board District 4,,NON,Lawrence Helms,0,0,0,0,0,0,0
+Jasper,Provisional,School Board District 4,,NON,Lawrence Helms,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,School Board District 4,,NON,Lawrence Helms,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,School Board District 4,,NON,Joyce R Travis,39,0,2,0,14,0,23
+Jasper,GRAYS,School Board District 4,,NON,Joyce R Travis,76,0,0,0,17,0,59
+Jasper,PINELAND,School Board District 4,,NON,Joyce R Travis,26,0,2,0,12,0,12
+Jasper,RIDGELAND 1,School Board District 4,,NON,Joyce R Travis,23,0,0,0,7,0,16
+Jasper,RIDGELAND 3,School Board District 4,,NON,Joyce R Travis,30,0,0,0,14,0,16
+Jasper,Failsafe,School Board District 4,,NON,Joyce R Travis,0,0,0,0,0,0,0
+Jasper,Provisional,School Board District 4,,NON,Joyce R Travis,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,School Board District 4,,NON,Joyce R Travis,0,0,0,0,0,0,0
+Jasper,GILLISONVILLE,School Board District 4,,NON,Write-In,2,0,0,0,2,0,0
+Jasper,GRAYS,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,PINELAND,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,RIDGELAND 1,School Board District 4,,NON,Write-In,4,0,0,0,1,0,3
+Jasper,RIDGELAND 3,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,GRAHAMVILLE 1,School Board District 6,,NON,Write-In,29,0,0,0,8,0,21
+Jasper,GRAHAMVILLE 2,School Board District 6,,NON,Write-In,14,0,0,0,4,0,10
+Jasper,HARDEEVILLE 2,School Board District 6,,NON,Write-In,4,0,0,0,3,0,1
+Jasper,RIDGELAND 1,School Board District 6,,NON,Write-In,9,0,3,0,2,0,4
+Jasper,RIDGELAND 2,School Board District 6,,NON,Write-In,10,0,1,0,5,0,4
+Jasper,TILLMAN,School Board District 6,,NON,Write-In,2,0,0,0,0,0,2
+Jasper,RIDGELAND 3,School Board District 6,,NON,Write-In,2,0,0,0,0,0,2
+Jasper,SUN CITY,School Board District 6,,NON,Write-In,393,0,29,0,290,0,74
+Jasper,OKATIE 2,School Board District 6,,NON,Write-In,11,0,0,0,8,0,3
+Jasper,Failsafe,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,School Board District 6,,NON,Write-In,1,0,0,0,0,1,0
+Jasper,Failsafe Provisional,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,School Board District 8,,NON,E Tedd Moyd,143,0,7,0,52,0,84
+Jasper,HARDEEVILLE 2,School Board District 8,,NON,E Tedd Moyd,45,0,1,0,18,0,26
+Jasper,HARDEEVILLE 3,School Board District 8,,NON,E Tedd Moyd,117,0,9,0,67,0,41
+Jasper,Failsafe,School Board District 8,,NON,E Tedd Moyd,0,0,0,0,0,0,0
+Jasper,Provisional,School Board District 8,,NON,E Tedd Moyd,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,School Board District 8,,NON,E Tedd Moyd,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,School Board District 8,,NON,Chinwe Robinson,78,0,4,0,27,0,47
+Jasper,HARDEEVILLE 2,School Board District 8,,NON,Chinwe Robinson,36,0,2,0,16,0,18
+Jasper,HARDEEVILLE 3,School Board District 8,,NON,Chinwe Robinson,43,0,7,0,28,0,8
+Jasper,Failsafe,School Board District 8,,NON,Chinwe Robinson,0,0,0,0,0,0,0
+Jasper,Provisional,School Board District 8,,NON,Chinwe Robinson,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,School Board District 8,,NON,Chinwe Robinson,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,School Board District 8,,NON,Write-In,2,0,0,0,0,0,2
+Jasper,HARDEEVILLE 2,School Board District 8,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 3,School Board District 8,,NON,Write-In,23,0,2,0,18,0,3
+Jasper,Failsafe,School Board District 8,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,School Board District 8,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,School Board District 8,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Statewide Constitutional Amendment 1,,NON,Yes,98,0,1,0,21,0,76
+Jasper,GILLISONVILLE,Statewide Constitutional Amendment 1,,NON,Yes,120,0,1,0,37,0,82
+Jasper,GRAHAMVILLE 1,Statewide Constitutional Amendment 1,,NON,Yes,262,0,5,0,99,0,158
+Jasper,GRAHAMVILLE 2,Statewide Constitutional Amendment 1,,NON,Yes,458,0,2,0,168,0,288
+Jasper,GRAYS,Statewide Constitutional Amendment 1,,NON,Yes,131,0,1,0,25,0,105
+Jasper,HARDEEVILLE 1,Statewide Constitutional Amendment 1,,NON,Yes,195,0,5,0,81,0,109
+Jasper,HARDEEVILLE 2,Statewide Constitutional Amendment 1,,NON,Yes,133,0,1,0,46,0,86
+Jasper,LEVY,Statewide Constitutional Amendment 1,,NON,Yes,346,0,7,0,131,0,208
+Jasper,OKATIE,Statewide Constitutional Amendment 1,,NON,Yes,163,0,7,0,47,0,109
+Jasper,PINELAND,Statewide Constitutional Amendment 1,,NON,Yes,139,0,0,0,39,0,100
+Jasper,RIDGELAND 1,Statewide Constitutional Amendment 1,,NON,Yes,156,0,5,0,55,0,96
+Jasper,RIDGELAND 2,Statewide Constitutional Amendment 1,,NON,Yes,173,0,5,0,69,0,99
+Jasper,TILLMAN,Statewide Constitutional Amendment 1,,NON,Yes,125,0,2,0,37,0,86
+Jasper,RIDGELAND 3,Statewide Constitutional Amendment 1,,NON,Yes,148,0,7,0,55,0,86
+Jasper,SUN CITY,Statewide Constitutional Amendment 1,,NON,Yes,1601,0,136,0,927,0,538
+Jasper,HARDEEVILLE 3,Statewide Constitutional Amendment 1,,NON,Yes,783,0,33,0,405,0,345
+Jasper,OKATIE 2,Statewide Constitutional Amendment 1,,NON,Yes,269,0,23,0,133,0,113
+Jasper,Failsafe,Statewide Constitutional Amendment 1,,NON,Yes,0,0,0,0,0,0,0
+Jasper,Provisional,Statewide Constitutional Amendment 1,,NON,Yes,3,0,0,0,0,3,0
+Jasper,Failsafe Provisional,Statewide Constitutional Amendment 1,,NON,Yes,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Statewide Constitutional Amendment 1,,NON,No,98,0,6,0,28,0,64
+Jasper,GILLISONVILLE,Statewide Constitutional Amendment 1,,NON,No,185,0,5,0,62,0,118
+Jasper,GRAHAMVILLE 1,Statewide Constitutional Amendment 1,,NON,No,375,0,4,0,121,0,250
+Jasper,GRAHAMVILLE 2,Statewide Constitutional Amendment 1,,NON,No,504,0,13,0,178,0,313
+Jasper,GRAYS,Statewide Constitutional Amendment 1,,NON,No,260,0,1,0,49,0,210
+Jasper,HARDEEVILLE 1,Statewide Constitutional Amendment 1,,NON,No,171,0,5,0,60,0,106
+Jasper,HARDEEVILLE 2,Statewide Constitutional Amendment 1,,NON,No,182,0,3,0,64,0,115
+Jasper,LEVY,Statewide Constitutional Amendment 1,,NON,No,326,0,8,0,120,0,198
+Jasper,OKATIE,Statewide Constitutional Amendment 1,,NON,No,158,0,0,0,54,0,104
+Jasper,PINELAND,Statewide Constitutional Amendment 1,,NON,No,140,0,4,0,51,0,85
+Jasper,RIDGELAND 1,Statewide Constitutional Amendment 1,,NON,No,297,0,8,0,114,0,175
+Jasper,RIDGELAND 2,Statewide Constitutional Amendment 1,,NON,No,247,0,9,0,89,0,149
+Jasper,TILLMAN,Statewide Constitutional Amendment 1,,NON,No,166,0,2,0,60,0,104
+Jasper,RIDGELAND 3,Statewide Constitutional Amendment 1,,NON,No,268,0,3,0,100,0,165
+Jasper,SUN CITY,Statewide Constitutional Amendment 1,,NON,No,892,0,57,0,456,0,379
+Jasper,HARDEEVILLE 3,Statewide Constitutional Amendment 1,,NON,No,795,0,22,0,418,0,355
+Jasper,OKATIE 2,Statewide Constitutional Amendment 1,,NON,No,147,0,3,0,66,0,78
+Jasper,Failsafe,Statewide Constitutional Amendment 1,,NON,No,0,0,0,0,0,0,0
+Jasper,Provisional,Statewide Constitutional Amendment 1,,NON,No,4,0,0,0,0,4,0
+Jasper,Failsafe Provisional,Statewide Constitutional Amendment 1,,NON,No,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Statewide Constitutional Amendment 2,,NON,Yes,94,0,1,0,23,0,70
+Jasper,GILLISONVILLE,Statewide Constitutional Amendment 2,,NON,Yes,115,0,1,0,34,0,80
+Jasper,GRAHAMVILLE 1,Statewide Constitutional Amendment 2,,NON,Yes,255,0,3,0,88,0,164
+Jasper,GRAHAMVILLE 2,Statewide Constitutional Amendment 2,,NON,Yes,472,0,2,0,178,0,292
+Jasper,GRAYS,Statewide Constitutional Amendment 2,,NON,Yes,129,0,0,0,27,0,102
+Jasper,HARDEEVILLE 1,Statewide Constitutional Amendment 2,,NON,Yes,187,0,4,0,76,0,107
+Jasper,HARDEEVILLE 2,Statewide Constitutional Amendment 2,,NON,Yes,142,0,1,0,48,0,93
+Jasper,LEVY,Statewide Constitutional Amendment 2,,NON,Yes,389,0,7,0,140,0,242
+Jasper,OKATIE,Statewide Constitutional Amendment 2,,NON,Yes,158,0,7,0,49,0,102
+Jasper,PINELAND,Statewide Constitutional Amendment 2,,NON,Yes,136,0,0,0,38,0,98
+Jasper,RIDGELAND 1,Statewide Constitutional Amendment 2,,NON,Yes,149,0,6,0,54,0,89
+Jasper,RIDGELAND 2,Statewide Constitutional Amendment 2,,NON,Yes,179,0,6,0,71,0,102
+Jasper,TILLMAN,Statewide Constitutional Amendment 2,,NON,Yes,131,0,1,0,36,0,94
+Jasper,RIDGELAND 3,Statewide Constitutional Amendment 2,,NON,Yes,153,0,7,0,60,0,86
+Jasper,SUN CITY,Statewide Constitutional Amendment 2,,NON,Yes,1578,0,134,0,912,0,532
+Jasper,HARDEEVILLE 3,Statewide Constitutional Amendment 2,,NON,Yes,780,0,30,0,412,0,338
+Jasper,OKATIE 2,Statewide Constitutional Amendment 2,,NON,Yes,252,0,20,0,120,0,112
+Jasper,Failsafe,Statewide Constitutional Amendment 2,,NON,Yes,0,0,0,0,0,0,0
+Jasper,Provisional,Statewide Constitutional Amendment 2,,NON,Yes,3,0,0,0,0,3,0
+Jasper,Failsafe Provisional,Statewide Constitutional Amendment 2,,NON,Yes,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Statewide Constitutional Amendment 2,,NON,No,95,0,6,0,24,0,65
+Jasper,GILLISONVILLE,Statewide Constitutional Amendment 2,,NON,No,183,0,4,0,62,0,117
+Jasper,GRAHAMVILLE 1,Statewide Constitutional Amendment 2,,NON,No,373,0,6,0,126,0,241
+Jasper,GRAHAMVILLE 2,Statewide Constitutional Amendment 2,,NON,No,479,0,12,0,163,0,304
+Jasper,GRAYS,Statewide Constitutional Amendment 2,,NON,No,262,0,2,0,47,0,213
+Jasper,HARDEEVILLE 1,Statewide Constitutional Amendment 2,,NON,No,172,0,6,0,62,0,104
+Jasper,HARDEEVILLE 2,Statewide Constitutional Amendment 2,,NON,No,172,0,3,0,63,0,106
+Jasper,LEVY,Statewide Constitutional Amendment 2,,NON,No,337,0,6,0,121,0,210
+Jasper,OKATIE,Statewide Constitutional Amendment 2,,NON,No,158,0,0,0,47,0,111
+Jasper,PINELAND,Statewide Constitutional Amendment 2,,NON,No,139,0,5,0,52,0,82
+Jasper,RIDGELAND 1,Statewide Constitutional Amendment 2,,NON,No,300,0,9,0,112,0,179
+Jasper,RIDGELAND 2,Statewide Constitutional Amendment 2,,NON,No,239,0,9,0,86,0,144
+Jasper,TILLMAN,Statewide Constitutional Amendment 2,,NON,No,157,0,4,0,57,0,96
+Jasper,RIDGELAND 3,Statewide Constitutional Amendment 2,,NON,No,261,0,3,0,95,0,163
+Jasper,SUN CITY,Statewide Constitutional Amendment 2,,NON,No,915,0,65,0,468,0,382
+Jasper,HARDEEVILLE 3,Statewide Constitutional Amendment 2,,NON,No,784,0,25,0,406,0,353
+Jasper,OKATIE 2,Statewide Constitutional Amendment 2,,NON,No,159,0,6,0,76,0,77
+Jasper,Failsafe,Statewide Constitutional Amendment 2,,NON,No,0,0,0,0,0,0,0
+Jasper,Provisional,Statewide Constitutional Amendment 2,,NON,No,4,0,0,0,0,4,0
+Jasper,Failsafe Provisional,Statewide Constitutional Amendment 2,,NON,No,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",95,0,1,0,23,0,71
+Jasper,GILLISONVILLE,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",112,0,1,0,38,0,73
+Jasper,GRAHAMVILLE 1,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",226,0,7,0,78,0,141
+Jasper,GRAHAMVILLE 2,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",499,0,5,0,183,0,311
+Jasper,GRAYS,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",101,0,1,0,27,0,73
+Jasper,HARDEEVILLE 1,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",196,0,5,0,85,0,106
+Jasper,HARDEEVILLE 2,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",162,0,3,0,45,0,114
+Jasper,LEVY,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",424,0,7,0,144,0,273
+Jasper,OKATIE,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",165,0,5,0,46,0,114
+Jasper,PINELAND,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",135,0,2,0,39,0,94
+Jasper,RIDGELAND 1,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",129,0,3,0,42,0,84
+Jasper,RIDGELAND 2,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",185,0,7,0,65,0,113
+Jasper,TILLMAN,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",125,0,2,0,32,0,91
+Jasper,RIDGELAND 3,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",131,0,7,0,51,0,73
+Jasper,SUN CITY,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",1339,0,103,0,790,0,446
+Jasper,HARDEEVILLE 3,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",560,0,17,0,281,0,262
+Jasper,OKATIE 2,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",242,0,17,0,117,0,108
+Jasper,Failsafe,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",0,0,0,0,0,0,0
+Jasper,Provisional,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",6,0,0,0,0,6,0
+Jasper,Failsafe Provisional,Jasper County Education Capital Improvements Referendum,,NON,"Yes, In Favor to the Question",0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",103,0,6,0,27,0,70
+Jasper,GILLISONVILLE,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",194,0,5,0,61,0,128
+Jasper,GRAHAMVILLE 1,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",400,0,2,0,134,0,264
+Jasper,GRAHAMVILLE 2,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",472,0,11,0,162,0,299
+Jasper,GRAYS,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",286,0,1,0,46,0,239
+Jasper,HARDEEVILLE 1,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",169,0,7,0,54,0,108
+Jasper,HARDEEVILLE 2,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",164,0,1,0,71,0,92
+Jasper,LEVY,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",320,0,10,0,116,0,194
+Jasper,OKATIE,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",162,0,2,0,59,0,101
+Jasper,PINELAND,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",144,0,5,0,49,0,90
+Jasper,RIDGELAND 1,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",324,0,11,0,129,0,184
+Jasper,RIDGELAND 2,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",232,0,9,0,91,0,132
+Jasper,TILLMAN,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",171,0,5,0,68,0,98
+Jasper,RIDGELAND 3,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",287,0,3,0,104,0,180
+Jasper,SUN CITY,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",1170,0,97,0,593,0,480
+Jasper,HARDEEVILLE 3,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",1017,0,38,0,541,0,438
+Jasper,OKATIE 2,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",176,0,8,0,83,0,85
+Jasper,Failsafe,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",0,0,0,0,0,0,0
+Jasper,Provisional,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",2,0,0,0,0,2,0
+Jasper,Failsafe Provisional,Jasper County Education Capital Improvements Referendum,,NON,"No, Opposed to the Question",0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",92,0,1,0,20,0,71
+Jasper,GILLISONVILLE,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",111,0,1,0,40,0,70
+Jasper,GRAHAMVILLE 1,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",225,0,7,0,78,0,140
+Jasper,GRAHAMVILLE 2,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",501,0,5,0,184,0,312
+Jasper,GRAYS,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",100,0,0,0,28,0,72
+Jasper,HARDEEVILLE 1,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",203,0,7,0,81,0,115
+Jasper,HARDEEVILLE 2,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",161,0,2,0,41,0,118
+Jasper,LEVY,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",443,0,8,0,149,0,286
+Jasper,OKATIE,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",168,0,5,0,49,0,114
+Jasper,PINELAND,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",140,0,2,0,40,0,98
+Jasper,RIDGELAND 1,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",131,0,3,0,43,0,85
+Jasper,RIDGELAND 2,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",182,0,8,0,63,0,111
+Jasper,TILLMAN,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",124,0,2,0,31,0,91
+Jasper,RIDGELAND 3,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",131,0,7,0,54,0,70
+Jasper,SUN CITY,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",1399,0,112,0,835,0,452
+Jasper,HARDEEVILLE 3,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",645,0,27,0,325,0,293
+Jasper,OKATIE 2,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",267,0,16,0,133,0,118
+Jasper,Failsafe,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",0,0,0,0,0,0,0
+Jasper,Provisional,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",6,0,0,0,0,6,0
+Jasper,Failsafe Provisional,School District General Obligation Bond Referendum,,NON,"Yes, In Favor to the Question",0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",104,0,6,0,29,0,69
+Jasper,GILLISONVILLE,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",194,0,5,0,58,0,131
+Jasper,GRAHAMVILLE 1,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",395,0,2,0,130,0,263
+Jasper,GRAHAMVILLE 2,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",455,0,11,0,155,0,289
+Jasper,GRAYS,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",286,0,2,0,44,0,240
+Jasper,HARDEEVILLE 1,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",160,0,5,0,58,0,97
+Jasper,HARDEEVILLE 2,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",161,0,2,0,73,0,86
+Jasper,LEVY,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",303,0,9,0,111,0,183
+Jasper,OKATIE,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",156,0,2,0,53,0,101
+Jasper,PINELAND,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",137,0,5,0,48,0,84
+Jasper,RIDGELAND 1,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",321,0,10,0,128,0,183
+Jasper,RIDGELAND 2,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",231,0,8,0,89,0,134
+Jasper,TILLMAN,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",168,0,5,0,65,0,98
+Jasper,RIDGELAND 3,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",285,0,3,0,103,0,179
+Jasper,SUN CITY,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",1099,0,94,0,542,0,463
+Jasper,HARDEEVILLE 3,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",922,0,29,0,491,0,402
+Jasper,OKATIE 2,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",147,0,8,0,65,0,74
+Jasper,Failsafe,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",0,0,0,0,0,0,0
+Jasper,Provisional,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",1,0,0,0,0,1,0
+Jasper,Failsafe Provisional,School District General Obligation Bond Referendum,,NON,"No, Opposed to the Question",0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,City Council Hardeeville,,NON,Valarie Guzman,160,0,4,0,58,0,98
+Jasper,HARDEEVILLE 2,City Council Hardeeville,,NON,Valarie Guzman,23,0,0,0,9,0,14
+Jasper,OKATIE,City Council Hardeeville,,NON,Valarie Guzman,69,0,2,0,31,0,36
+Jasper,SUN CITY,City Council Hardeeville,,NON,Valarie Guzman,970,0,60,0,574,0,336
+Jasper,HARDEEVILLE 3,City Council Hardeeville,,NON,Valarie Guzman,792,0,26,0,391,0,375
+Jasper,OKATIE 2,City Council Hardeeville,,NON,Valarie Guzman,124,0,9,0,67,0,48
+Jasper,Failsafe,City Council Hardeeville,,NON,Valarie Guzman,0,0,0,0,0,0,0
+Jasper,Provisional,City Council Hardeeville,,NON,Valarie Guzman,3,0,0,0,0,3,0
+Jasper,Failsafe Provisional,City Council Hardeeville,,NON,Valarie Guzman,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,City Council Hardeeville,,NON,Steve Meersman,84,0,4,0,30,0,50
+Jasper,HARDEEVILLE 2,City Council Hardeeville,,NON,Steve Meersman,7,0,0,0,2,0,5
+Jasper,OKATIE,City Council Hardeeville,,NON,Steve Meersman,36,0,2,0,13,0,21
+Jasper,SUN CITY,City Council Hardeeville,,NON,Steve Meersman,560,0,47,0,301,0,212
+Jasper,HARDEEVILLE 3,City Council Hardeeville,,NON,Steve Meersman,1019,0,38,0,570,0,411
+Jasper,OKATIE 2,City Council Hardeeville,,NON,Steve Meersman,77,0,5,0,50,0,22
+Jasper,Failsafe,City Council Hardeeville,,NON,Steve Meersman,0,0,0,0,0,0,0
+Jasper,Provisional,City Council Hardeeville,,NON,Steve Meersman,1,0,0,0,0,1,0
+Jasper,Failsafe Provisional,City Council Hardeeville,,NON,Steve Meersman,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,City Council Hardeeville,,NON,Andy Robinson,89,0,4,0,27,0,58
+Jasper,HARDEEVILLE 2,City Council Hardeeville,,NON,Andy Robinson,12,0,0,0,4,0,8
+Jasper,OKATIE,City Council Hardeeville,,NON,Andy Robinson,24,0,0,0,6,0,18
+Jasper,SUN CITY,City Council Hardeeville,,NON,Andy Robinson,886,0,85,0,501,0,300
+Jasper,HARDEEVILLE 3,City Council Hardeeville,,NON,Andy Robinson,211,0,5,0,112,0,94
+Jasper,OKATIE 2,City Council Hardeeville,,NON,Andy Robinson,48,0,0,0,22,0,26
+Jasper,Failsafe,City Council Hardeeville,,NON,Andy Robinson,0,0,0,0,0,0,0
+Jasper,Provisional,City Council Hardeeville,,NON,Andy Robinson,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,City Council Hardeeville,,NON,Andy Robinson,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,City Council Hardeeville,,NON,Stephen Schutz,86,0,3,0,28,0,55
+Jasper,HARDEEVILLE 2,City Council Hardeeville,,NON,Stephen Schutz,12,0,0,0,5,0,7
+Jasper,OKATIE,City Council Hardeeville,,NON,Stephen Schutz,95,0,0,0,46,0,49
+Jasper,SUN CITY,City Council Hardeeville,,NON,Stephen Schutz,648,0,46,0,387,0,215
+Jasper,HARDEEVILLE 3,City Council Hardeeville,,NON,Stephen Schutz,349,0,14,0,175,0,160
+Jasper,OKATIE 2,City Council Hardeeville,,NON,Stephen Schutz,58,0,5,0,28,0,25
+Jasper,Failsafe,City Council Hardeeville,,NON,Stephen Schutz,0,0,0,0,0,0,0
+Jasper,Provisional,City Council Hardeeville,,NON,Stephen Schutz,2,0,0,0,0,2,0
+Jasper,Failsafe Provisional,City Council Hardeeville,,NON,Stephen Schutz,0,0,0,0,0,0,0
+Jasper,HARDEEVILLE 1,City Council Hardeeville,,NON,Write-In,11,0,0,0,8,0,3
+Jasper,HARDEEVILLE 2,City Council Hardeeville,,NON,Write-In,3,0,0,0,1,0,2
+Jasper,OKATIE,City Council Hardeeville,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,SUN CITY,City Council Hardeeville,,NON,Write-In,44,0,1,0,21,0,22
+Jasper,HARDEEVILLE 3,City Council Hardeeville,,NON,Write-In,10,0,0,0,9,0,1
+Jasper,OKATIE 2,City Council Hardeeville,,NON,Write-In,4,0,0,0,2,0,2
+Jasper,Failsafe,City Council Hardeeville,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Provisional,City Council Hardeeville,,NON,Write-In,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,City Council Hardeeville,,NON,Write-In,0,0,0,0,0,0,0
