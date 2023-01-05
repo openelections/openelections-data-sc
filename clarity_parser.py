@@ -43,7 +43,7 @@ def statewide_results(url):
         else:
             results.append({ 'county': county, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
-    with open("20201103__sc__general__county.csv", "wt") as csvfile:
+    with open("20221108__sc__general__county.csv", "wt") as csvfile:
         w = csv.writer(csvfile)
         w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
         for row in results:
@@ -56,7 +56,7 @@ def download_county_files(url, filename):
     subs = j.get_subjurisdictions()
     for sub in subs:
         try:
-            r = requests.get(sub.report_url('xml'), stream=True)
+            r = requests.get(sub.report_url('xml'), stream=True, headers={"User-Agent": "Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefoxversion"})
             z = zipfile.ZipFile(BytesIO(r.content))
             z.extractall()
             precinct_results(sub.name.replace(' ','_').lower(),filename)
@@ -67,13 +67,13 @@ def download_county_files(url, filename):
 
 def download_county_files_new(state, json_url, filename):
     no_xml = []
-    r = requests.get(json_url)
+    r = requests.get(json_url, headers={"User-Agent": "Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefoxversion"})
     counties = r.json()['settings']['electiondetails']['participatingcounties']
     for c in counties:
         name, first_id, second_id, date, fill = c.split('|')
         url = 'https://results.enr.clarityelections.com//' + state + '/' + name + '/' + first_id + '/' + second_id + '/reports/detailxml.zip'
         try:
-            r = requests.get(url, stream=True)
+            r = requests.get(url, stream=True, headers={"User-Agent": "Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefoxversion"})
             z = zipfile.ZipFile(BytesIO(r.content))
             z.extractall()
             precinct_results(name.replace(' ','_').lower(),filename)
