@@ -1,0 +1,421 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Sumter,MAYESVILLE,U.S. House,6,REP,Duke Buckner,9,0,0,0,1,0,8
+Sumter,SALEM,U.S. House,6,REP,Duke Buckner,5,0,0,0,0,0,5
+Sumter,ST.JOHN,U.S. House,6,REP,Duke Buckner,7,0,0,0,1,0,6
+Sumter,MAYEWOOD,U.S. House,6,REP,Duke Buckner,32,0,2,0,1,0,29
+Sumter,TURKEY CREEK,U.S. House,6,REP,Duke Buckner,17,0,0,0,3,0,14
+Sumter,SWAN LAKE,U.S. House,6,REP,Duke Buckner,52,0,0,0,11,0,41
+Sumter,MORRIS COLLEGE,U.S. House,6,REP,Duke Buckner,4,0,0,0,1,0,3
+Sumter,HAMPTON PARK,U.S. House,6,REP,Duke Buckner,23,0,0,0,4,0,19
+Sumter,CROSSWELL,U.S. House,6,REP,Duke Buckner,7,0,0,0,4,0,3
+Sumter,LORING,U.S. House,6,REP,Duke Buckner,4,0,0,0,0,0,4
+Sumter,LEMIRA,U.S. House,6,REP,Duke Buckner,5,0,0,0,0,0,5
+Sumter,MAGNOLIA-HARMONY,U.S. House,6,REP,Duke Buckner,1,0,0,0,0,0,1
+Sumter,STONE HILL,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. House,6,REP,Duke Buckner,1,0,0,0,0,0,1
+Sumter,WILDER,U.S. House,6,REP,Duke Buckner,1,0,0,0,1,0,0
+Sumter,POCOTALIGO 1,U.S. House,6,REP,Duke Buckner,34,0,0,0,11,0,23
+Sumter,SAVAGE-GLOVER,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Sumter,BATES,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,0,2
+Sumter,BIRNIE,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,0,2
+Sumter,POCOTALIGO 2,U.S. House,6,REP,Duke Buckner,6,0,0,0,2,0,4
+Sumter,Failsafe,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Sumter,MAYESVILLE,U.S. House,6,REP,Justin Scott,14,0,0,0,1,0,13
+Sumter,SALEM,U.S. House,6,REP,Justin Scott,9,0,0,0,0,0,9
+Sumter,ST.JOHN,U.S. House,6,REP,Justin Scott,13,0,0,0,3,0,10
+Sumter,MAYEWOOD,U.S. House,6,REP,Justin Scott,25,0,1,0,6,0,18
+Sumter,TURKEY CREEK,U.S. House,6,REP,Justin Scott,20,0,1,0,1,0,18
+Sumter,SWAN LAKE,U.S. House,6,REP,Justin Scott,35,0,4,0,4,0,27
+Sumter,MORRIS COLLEGE,U.S. House,6,REP,Justin Scott,4,0,0,0,2,0,2
+Sumter,HAMPTON PARK,U.S. House,6,REP,Justin Scott,24,0,0,0,3,0,21
+Sumter,CROSSWELL,U.S. House,6,REP,Justin Scott,8,0,1,0,0,0,7
+Sumter,LORING,U.S. House,6,REP,Justin Scott,4,0,0,0,1,0,3
+Sumter,LEMIRA,U.S. House,6,REP,Justin Scott,5,0,0,0,0,0,5
+Sumter,MAGNOLIA-HARMONY,U.S. House,6,REP,Justin Scott,1,0,0,0,0,0,1
+Sumter,STONE HILL,U.S. House,6,REP,Justin Scott,1,0,1,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. House,6,REP,Justin Scott,2,0,0,0,0,0,2
+Sumter,WILDER,U.S. House,6,REP,Justin Scott,1,0,0,0,1,0,0
+Sumter,POCOTALIGO 1,U.S. House,6,REP,Justin Scott,39,0,1,0,11,0,27
+Sumter,SAVAGE-GLOVER,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Sumter,BATES,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Sumter,BIRNIE,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. House,6,REP,Justin Scott,5,0,0,0,2,0,3
+Sumter,POCOTALIGO 2,U.S. House,6,REP,Justin Scott,12,0,0,0,3,0,9
+Sumter,Failsafe,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Sumter,REMBERT,State Senate,35,REP,Lindsay Agostini,6,0,0,0,0,0,6
+Sumter,HORATIO,State Senate,35,REP,Lindsay Agostini,7,0,0,0,0,0,7
+Sumter,HILLCREST,State Senate,35,REP,Lindsay Agostini,9,0,0,0,2,0,7
+Sumter,OAKLAND PLANTATION 1,State Senate,35,REP,Lindsay Agostini,26,0,0,0,0,0,26
+Sumter,DALZELL 1,State Senate,35,REP,Lindsay Agostini,28,0,0,0,8,0,20
+Sumter,DALZELL 2,State Senate,35,REP,Lindsay Agostini,13,0,0,0,1,0,12
+Sumter,OAKLAND PLANTATION 2,State Senate,35,REP,Lindsay Agostini,17,0,2,0,6,0,9
+Sumter,FOLSOM PARK,State Senate,35,REP,Lindsay Agostini,6,0,2,0,2,0,2
+Sumter,GREEN SWAMP,State Senate,35,REP,Lindsay Agostini,46,0,0,0,8,0,38
+Sumter,PALMETTO PARK,State Senate,35,REP,Lindsay Agostini,23,0,0,0,6,0,17
+Sumter,BUNRS-DOWNS,State Senate,35,REP,Lindsay Agostini,14,0,0,0,0,0,14
+Sumter,SWAN LAKE,State Senate,35,REP,Lindsay Agostini,24,0,2,0,4,0,18
+Sumter,SOUTH LIBERTY,State Senate,35,REP,Lindsay Agostini,2,0,0,0,2,0,0
+Sumter,CAUSEWAY BRANCH 1,State Senate,35,REP,Lindsay Agostini,2,0,0,0,2,0,0
+Sumter,DELAINE,State Senate,35,REP,Lindsay Agostini,14,0,0,0,4,0,10
+Sumter,CHERRYVALE,State Senate,35,REP,Lindsay Agostini,8,0,0,0,0,0,8
+Sumter,MANCHESTER FOREST,State Senate,35,REP,Lindsay Agostini,28,0,0,0,2,0,26
+Sumter,PINEWOOD,State Senate,35,REP,Lindsay Agostini,15,0,0,0,1,0,14
+Sumter,EBENEZER 1,State Senate,35,REP,Lindsay Agostini,19,0,0,0,4,0,15
+Sumter,ST. PAUL,State Senate,35,REP,Lindsay Agostini,30,0,0,0,4,0,26
+Sumter,SHAW,State Senate,35,REP,Lindsay Agostini,0,0,0,0,0,0,0
+Sumter,THOMAS SUMTER,State Senate,35,REP,Lindsay Agostini,16,0,0,0,2,0,14
+Sumter,EBENEZER 2,State Senate,35,REP,Lindsay Agostini,16,0,0,0,6,0,10
+Sumter,Failsafe,State Senate,35,REP,Lindsay Agostini,0,0,0,0,0,0,0
+Sumter,Provisional,State Senate,35,REP,Lindsay Agostini,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State Senate,35,REP,Lindsay Agostini,0,0,0,0,0,0,0
+Sumter,REMBERT,State Senate,35,REP,Christina Allard,10,0,0,0,4,0,6
+Sumter,HORATIO,State Senate,35,REP,Christina Allard,2,0,0,0,0,0,2
+Sumter,HILLCREST,State Senate,35,REP,Christina Allard,6,0,0,0,2,0,4
+Sumter,OAKLAND PLANTATION 1,State Senate,35,REP,Christina Allard,21,0,1,0,6,0,14
+Sumter,DALZELL 1,State Senate,35,REP,Christina Allard,11,0,0,0,1,0,10
+Sumter,DALZELL 2,State Senate,35,REP,Christina Allard,7,0,0,0,2,0,5
+Sumter,OAKLAND PLANTATION 2,State Senate,35,REP,Christina Allard,3,0,0,0,1,0,2
+Sumter,FOLSOM PARK,State Senate,35,REP,Christina Allard,1,0,0,0,0,0,1
+Sumter,GREEN SWAMP,State Senate,35,REP,Christina Allard,23,0,2,0,8,0,13
+Sumter,PALMETTO PARK,State Senate,35,REP,Christina Allard,8,0,0,0,1,0,7
+Sumter,BUNRS-DOWNS,State Senate,35,REP,Christina Allard,6,0,0,0,0,0,6
+Sumter,SWAN LAKE,State Senate,35,REP,Christina Allard,15,0,0,0,1,0,14
+Sumter,SOUTH LIBERTY,State Senate,35,REP,Christina Allard,1,0,0,0,0,0,1
+Sumter,CAUSEWAY BRANCH 1,State Senate,35,REP,Christina Allard,0,0,0,0,0,0,0
+Sumter,DELAINE,State Senate,35,REP,Christina Allard,8,0,0,0,5,0,3
+Sumter,CHERRYVALE,State Senate,35,REP,Christina Allard,1,0,0,0,0,0,1
+Sumter,MANCHESTER FOREST,State Senate,35,REP,Christina Allard,10,0,1,0,0,0,9
+Sumter,PINEWOOD,State Senate,35,REP,Christina Allard,10,0,3,0,1,0,6
+Sumter,EBENEZER 1,State Senate,35,REP,Christina Allard,12,0,0,0,3,0,9
+Sumter,ST. PAUL,State Senate,35,REP,Christina Allard,6,0,1,0,3,0,2
+Sumter,SHAW,State Senate,35,REP,Christina Allard,0,0,0,0,0,0,0
+Sumter,THOMAS SUMTER,State Senate,35,REP,Christina Allard,1,0,0,0,1,0,0
+Sumter,EBENEZER 2,State Senate,35,REP,Christina Allard,12,0,0,0,3,0,9
+Sumter,Failsafe,State Senate,35,REP,Christina Allard,0,0,0,0,0,0,0
+Sumter,Provisional,State Senate,35,REP,Christina Allard,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State Senate,35,REP,Christina Allard,0,0,0,0,0,0,0
+Sumter,REMBERT,State Senate,35,REP,Jerry Chivers,5,0,0,0,0,0,5
+Sumter,HORATIO,State Senate,35,REP,Jerry Chivers,2,0,0,0,0,0,2
+Sumter,HILLCREST,State Senate,35,REP,Jerry Chivers,1,0,0,0,0,0,1
+Sumter,OAKLAND PLANTATION 1,State Senate,35,REP,Jerry Chivers,3,0,0,0,1,0,2
+Sumter,DALZELL 1,State Senate,35,REP,Jerry Chivers,3,0,0,0,3,0,0
+Sumter,DALZELL 2,State Senate,35,REP,Jerry Chivers,1,0,0,0,0,0,1
+Sumter,OAKLAND PLANTATION 2,State Senate,35,REP,Jerry Chivers,1,0,0,0,0,0,1
+Sumter,FOLSOM PARK,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,State Senate,35,REP,Jerry Chivers,6,0,0,0,1,0,5
+Sumter,PALMETTO PARK,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Sumter,BUNRS-DOWNS,State Senate,35,REP,Jerry Chivers,1,0,0,0,0,0,1
+Sumter,SWAN LAKE,State Senate,35,REP,Jerry Chivers,9,0,0,0,2,0,7
+Sumter,SOUTH LIBERTY,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Sumter,CAUSEWAY BRANCH 1,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Sumter,DELAINE,State Senate,35,REP,Jerry Chivers,1,0,0,0,0,0,1
+Sumter,CHERRYVALE,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Sumter,MANCHESTER FOREST,State Senate,35,REP,Jerry Chivers,3,0,0,0,0,0,3
+Sumter,PINEWOOD,State Senate,35,REP,Jerry Chivers,2,0,0,0,0,0,2
+Sumter,EBENEZER 1,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Sumter,ST. PAUL,State Senate,35,REP,Jerry Chivers,3,0,0,0,0,0,3
+Sumter,SHAW,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Sumter,THOMAS SUMTER,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Sumter,EBENEZER 2,State Senate,35,REP,Jerry Chivers,9,0,0,0,2,0,7
+Sumter,Failsafe,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Sumter,Provisional,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Sumter,REMBERT,State Senate,35,REP,Mike Jones,19,0,0,0,3,0,16
+Sumter,HORATIO,State Senate,35,REP,Mike Jones,10,0,0,0,0,0,10
+Sumter,HILLCREST,State Senate,35,REP,Mike Jones,10,0,0,0,1,0,9
+Sumter,OAKLAND PLANTATION 1,State Senate,35,REP,Mike Jones,39,0,1,0,4,0,34
+Sumter,DALZELL 1,State Senate,35,REP,Mike Jones,41,0,0,0,14,0,27
+Sumter,DALZELL 2,State Senate,35,REP,Mike Jones,8,0,0,0,2,0,6
+Sumter,OAKLAND PLANTATION 2,State Senate,35,REP,Mike Jones,17,0,0,0,3,0,14
+Sumter,FOLSOM PARK,State Senate,35,REP,Mike Jones,3,0,0,0,2,0,1
+Sumter,GREEN SWAMP,State Senate,35,REP,Mike Jones,56,0,6,0,18,0,32
+Sumter,PALMETTO PARK,State Senate,35,REP,Mike Jones,17,0,1,0,4,0,12
+Sumter,BUNRS-DOWNS,State Senate,35,REP,Mike Jones,39,0,0,0,9,0,30
+Sumter,SWAN LAKE,State Senate,35,REP,Mike Jones,49,0,2,0,10,0,37
+Sumter,SOUTH LIBERTY,State Senate,35,REP,Mike Jones,5,0,0,0,0,0,5
+Sumter,CAUSEWAY BRANCH 1,State Senate,35,REP,Mike Jones,1,0,0,0,1,0,0
+Sumter,DELAINE,State Senate,35,REP,Mike Jones,21,0,2,0,8,0,11
+Sumter,CHERRYVALE,State Senate,35,REP,Mike Jones,3,0,0,0,1,0,2
+Sumter,MANCHESTER FOREST,State Senate,35,REP,Mike Jones,50,0,0,0,3,0,47
+Sumter,PINEWOOD,State Senate,35,REP,Mike Jones,18,0,0,0,3,0,15
+Sumter,EBENEZER 1,State Senate,35,REP,Mike Jones,15,0,0,0,4,0,11
+Sumter,ST. PAUL,State Senate,35,REP,Mike Jones,19,0,0,0,4,0,15
+Sumter,SHAW,State Senate,35,REP,Mike Jones,0,0,0,0,0,0,0
+Sumter,THOMAS SUMTER,State Senate,35,REP,Mike Jones,12,0,0,0,0,0,12
+Sumter,EBENEZER 2,State Senate,35,REP,Mike Jones,24,0,1,0,5,0,18
+Sumter,Failsafe,State Senate,35,REP,Mike Jones,0,0,0,0,0,0,0
+Sumter,Provisional,State Senate,35,REP,Mike Jones,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State Senate,35,REP,Mike Jones,0,0,0,0,0,0,0
+Sumter,REMBERT,State Senate,35,DEM,Austin B Floyd Jr,181,0,32,0,53,0,96
+Sumter,HORATIO,State Senate,35,DEM,Austin B Floyd Jr,34,0,0,0,11,0,23
+Sumter,HILLCREST,State Senate,35,DEM,Austin B Floyd Jr,48,0,1,0,14,0,33
+Sumter,OAKLAND PLANTATION 1,State Senate,35,DEM,Austin B Floyd Jr,44,0,2,0,17,0,25
+Sumter,DALZELL 1,State Senate,35,DEM,Austin B Floyd Jr,41,0,6,0,14,0,21
+Sumter,DALZELL 2,State Senate,35,DEM,Austin B Floyd Jr,29,0,1,0,6,0,22
+Sumter,OAKLAND PLANTATION 2,State Senate,35,DEM,Austin B Floyd Jr,25,0,3,0,8,0,14
+Sumter,FOLSOM PARK,State Senate,35,DEM,Austin B Floyd Jr,42,0,3,0,21,0,18
+Sumter,GREEN SWAMP,State Senate,35,DEM,Austin B Floyd Jr,87,0,6,0,44,0,37
+Sumter,PALMETTO PARK,State Senate,35,DEM,Austin B Floyd Jr,36,0,1,0,10,0,25
+Sumter,BUNRS-DOWNS,State Senate,35,DEM,Austin B Floyd Jr,23,0,3,0,11,0,9
+Sumter,SWAN LAKE,State Senate,35,DEM,Austin B Floyd Jr,19,0,0,0,10,0,9
+Sumter,SOUTH LIBERTY,State Senate,35,DEM,Austin B Floyd Jr,26,0,2,0,10,0,14
+Sumter,CAUSEWAY BRANCH 1,State Senate,35,DEM,Austin B Floyd Jr,3,0,0,0,2,0,1
+Sumter,DELAINE,State Senate,35,DEM,Austin B Floyd Jr,108,0,10,0,41,0,57
+Sumter,CHERRYVALE,State Senate,35,DEM,Austin B Floyd Jr,13,0,0,0,3,0,10
+Sumter,MANCHESTER FOREST,State Senate,35,DEM,Austin B Floyd Jr,44,0,2,0,11,0,31
+Sumter,PINEWOOD,State Senate,35,DEM,Austin B Floyd Jr,29,0,2,0,7,0,20
+Sumter,EBENEZER 1,State Senate,35,DEM,Austin B Floyd Jr,51,0,2,0,14,0,35
+Sumter,ST. PAUL,State Senate,35,DEM,Austin B Floyd Jr,65,0,7,0,30,0,28
+Sumter,SHAW,State Senate,35,DEM,Austin B Floyd Jr,1,0,0,0,0,0,1
+Sumter,THOMAS SUMTER,State Senate,35,DEM,Austin B Floyd Jr,73,0,11,0,28,0,34
+Sumter,EBENEZER 2,State Senate,35,DEM,Austin B Floyd Jr,57,0,2,0,24,0,31
+Sumter,Failsafe,State Senate,35,DEM,Austin B Floyd Jr,0,0,0,0,0,0,0
+Sumter,Provisional,State Senate,35,DEM,Austin B Floyd Jr,2,0,0,0,0,2,0
+Sumter,Failsafe Provisional,State Senate,35,DEM,Austin B Floyd Jr,0,0,0,0,0,0,0
+Sumter,REMBERT,State Senate,35,DEM,Jeffrey R Graham,92,0,1,0,27,0,64
+Sumter,HORATIO,State Senate,35,DEM,Jeffrey R Graham,30,0,0,0,8,0,22
+Sumter,HILLCREST,State Senate,35,DEM,Jeffrey R Graham,30,0,0,0,12,0,18
+Sumter,OAKLAND PLANTATION 1,State Senate,35,DEM,Jeffrey R Graham,41,0,0,0,15,0,26
+Sumter,DALZELL 1,State Senate,35,DEM,Jeffrey R Graham,40,0,0,0,9,0,31
+Sumter,DALZELL 2,State Senate,35,DEM,Jeffrey R Graham,24,0,0,0,4,0,20
+Sumter,OAKLAND PLANTATION 2,State Senate,35,DEM,Jeffrey R Graham,24,0,0,0,8,0,16
+Sumter,FOLSOM PARK,State Senate,35,DEM,Jeffrey R Graham,36,0,0,0,12,0,24
+Sumter,GREEN SWAMP,State Senate,35,DEM,Jeffrey R Graham,69,0,2,0,25,0,42
+Sumter,PALMETTO PARK,State Senate,35,DEM,Jeffrey R Graham,28,0,2,0,13,0,13
+Sumter,BUNRS-DOWNS,State Senate,35,DEM,Jeffrey R Graham,28,0,3,0,11,0,14
+Sumter,SWAN LAKE,State Senate,35,DEM,Jeffrey R Graham,29,0,0,0,9,0,20
+Sumter,SOUTH LIBERTY,State Senate,35,DEM,Jeffrey R Graham,26,0,2,0,10,0,14
+Sumter,CAUSEWAY BRANCH 1,State Senate,35,DEM,Jeffrey R Graham,0,0,0,0,0,0,0
+Sumter,DELAINE,State Senate,35,DEM,Jeffrey R Graham,55,0,0,0,27,0,28
+Sumter,CHERRYVALE,State Senate,35,DEM,Jeffrey R Graham,10,0,1,0,2,0,7
+Sumter,MANCHESTER FOREST,State Senate,35,DEM,Jeffrey R Graham,45,0,0,0,15,0,30
+Sumter,PINEWOOD,State Senate,35,DEM,Jeffrey R Graham,61,0,4,0,14,0,43
+Sumter,EBENEZER 1,State Senate,35,DEM,Jeffrey R Graham,32,0,2,0,9,0,21
+Sumter,ST. PAUL,State Senate,35,DEM,Jeffrey R Graham,59,0,8,0,16,0,35
+Sumter,SHAW,State Senate,35,DEM,Jeffrey R Graham,0,0,0,0,0,0,0
+Sumter,THOMAS SUMTER,State Senate,35,DEM,Jeffrey R Graham,34,0,4,0,16,0,14
+Sumter,EBENEZER 2,State Senate,35,DEM,Jeffrey R Graham,39,0,0,0,12,0,27
+Sumter,Failsafe,State Senate,35,DEM,Jeffrey R Graham,0,0,0,0,0,0,0
+Sumter,Provisional,State Senate,35,DEM,Jeffrey R Graham,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State Senate,35,DEM,Jeffrey R Graham,0,0,0,0,0,0,0
+Sumter,REMBERT,State Senate,35,DEM,Lucy Mahon,29,0,1,0,8,0,20
+Sumter,HORATIO,State Senate,35,DEM,Lucy Mahon,6,0,0,0,3,0,3
+Sumter,HILLCREST,State Senate,35,DEM,Lucy Mahon,9,0,0,0,5,0,4
+Sumter,OAKLAND PLANTATION 1,State Senate,35,DEM,Lucy Mahon,9,0,0,0,0,0,9
+Sumter,DALZELL 1,State Senate,35,DEM,Lucy Mahon,17,0,0,0,7,0,10
+Sumter,DALZELL 2,State Senate,35,DEM,Lucy Mahon,3,0,0,0,1,0,2
+Sumter,OAKLAND PLANTATION 2,State Senate,35,DEM,Lucy Mahon,23,0,1,0,2,0,20
+Sumter,FOLSOM PARK,State Senate,35,DEM,Lucy Mahon,12,0,0,0,3,0,9
+Sumter,GREEN SWAMP,State Senate,35,DEM,Lucy Mahon,27,0,0,0,9,0,18
+Sumter,PALMETTO PARK,State Senate,35,DEM,Lucy Mahon,13,0,1,0,1,0,11
+Sumter,BUNRS-DOWNS,State Senate,35,DEM,Lucy Mahon,11,0,0,0,8,0,3
+Sumter,SWAN LAKE,State Senate,35,DEM,Lucy Mahon,50,0,3,0,21,0,26
+Sumter,SOUTH LIBERTY,State Senate,35,DEM,Lucy Mahon,8,0,1,0,5,0,2
+Sumter,CAUSEWAY BRANCH 1,State Senate,35,DEM,Lucy Mahon,1,0,0,0,0,0,1
+Sumter,DELAINE,State Senate,35,DEM,Lucy Mahon,25,0,0,0,7,0,18
+Sumter,CHERRYVALE,State Senate,35,DEM,Lucy Mahon,8,0,1,0,0,0,7
+Sumter,MANCHESTER FOREST,State Senate,35,DEM,Lucy Mahon,18,0,0,0,3,0,15
+Sumter,PINEWOOD,State Senate,35,DEM,Lucy Mahon,28,0,1,0,6,0,21
+Sumter,EBENEZER 1,State Senate,35,DEM,Lucy Mahon,19,0,0,0,7,0,12
+Sumter,ST. PAUL,State Senate,35,DEM,Lucy Mahon,24,0,4,0,16,0,4
+Sumter,SHAW,State Senate,35,DEM,Lucy Mahon,2,0,1,0,0,0,1
+Sumter,THOMAS SUMTER,State Senate,35,DEM,Lucy Mahon,8,0,0,0,4,0,4
+Sumter,EBENEZER 2,State Senate,35,DEM,Lucy Mahon,14,0,0,0,5,0,9
+Sumter,Failsafe,State Senate,35,DEM,Lucy Mahon,0,0,0,0,0,0,0
+Sumter,Provisional,State Senate,35,DEM,Lucy Mahon,2,0,0,0,0,2,0
+Sumter,Failsafe Provisional,State Senate,35,DEM,Lucy Mahon,0,0,0,0,0,0,0
+Sumter,OSWEGO,State Senate,36,REP,Leon Winn,13,0,0,0,2,0,11
+Sumter,MCCRAYS MILL 1,State Senate,36,REP,Leon Winn,11,0,0,0,3,0,8
+Sumter,MAYEWOOD,State Senate,36,REP,Leon Winn,13,0,2,0,1,0,10
+Sumter,TURKEY CREEK,State Senate,36,REP,Leon Winn,8,0,0,0,0,0,8
+Sumter,MULBERRY,State Senate,36,REP,Leon Winn,2,0,0,0,0,0,2
+Sumter,SALTERSTOWN,State Senate,36,REP,Leon Winn,3,0,0,0,0,0,3
+Sumter,SECOND MILL,State Senate,36,REP,Leon Winn,10,0,0,0,2,0,8
+Sumter,MORRIS COLLEGE,State Senate,36,REP,Leon Winn,1,0,0,0,0,0,1
+Sumter,HAMPTON PARK,State Senate,36,REP,Leon Winn,12,0,0,0,4,0,8
+Sumter,CROSSWELL,State Senate,36,REP,Leon Winn,1,0,0,0,1,0,0
+Sumter,LORING,State Senate,36,REP,Leon Winn,3,0,0,0,0,0,3
+Sumter,LEMIRA,State Senate,36,REP,Leon Winn,5,0,0,0,0,0,5
+Sumter,MAGNOLIA-HARMONY,State Senate,36,REP,Leon Winn,1,0,0,0,0,0,1
+Sumter,STONE HILL,State Senate,36,REP,Leon Winn,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,State Senate,36,REP,Leon Winn,3,0,0,0,0,0,3
+Sumter,WILDER,State Senate,36,REP,Leon Winn,0,0,0,0,0,0,0
+Sumter,POCOTALIGO 1,State Senate,36,REP,Leon Winn,34,0,0,0,11,0,23
+Sumter,SAVAGE-GLOVER,State Senate,36,REP,Leon Winn,0,0,0,0,0,0,0
+Sumter,BATES,State Senate,36,REP,Leon Winn,1,0,0,0,0,0,1
+Sumter,BIRNIE,State Senate,36,REP,Leon Winn,1,0,0,0,0,0,1
+Sumter,MILLWOOD,State Senate,36,REP,Leon Winn,7,0,0,0,1,0,6
+Sumter,CAUSEWAY BRANCH 1,State Senate,36,REP,Leon Winn,9,0,0,0,0,0,9
+Sumter,MCCRAYS MILL 2,State Senate,36,REP,Leon Winn,29,0,0,0,8,0,21
+Sumter,SUMTER HIGH 1,State Senate,36,REP,Leon Winn,6,0,0,0,0,0,6
+Sumter,SUNSET,State Senate,36,REP,Leon Winn,17,0,0,0,3,0,14
+Sumter,POCOTALIGO 2,State Senate,36,REP,Leon Winn,10,0,0,0,5,0,5
+Sumter,PRIVATEER,State Senate,36,REP,Leon Winn,19,0,1,0,3,0,15
+Sumter,WILSON HALL,State Senate,36,REP,Leon Winn,14,0,0,0,2,0,12
+Sumter,FURMAN,State Senate,36,REP,Leon Winn,15,0,1,0,2,0,12
+Sumter,SPECTRUM,State Senate,36,REP,Leon Winn,3,0,0,0,0,0,3
+Sumter,SUMTER HIGH 2,State Senate,36,REP,Leon Winn,5,0,0,0,2,0,3
+Sumter,GREEN SWAMP 2,State Senate,36,REP,Leon Winn,13,0,0,0,3,0,10
+Sumter,CAUSEWAY BRANCH 2,State Senate,36,REP,Leon Winn,12,0,2,0,1,0,9
+Sumter,Failsafe,State Senate,36,REP,Leon Winn,0,0,0,0,0,0,0
+Sumter,Provisional,State Senate,36,REP,Leon Winn,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State Senate,36,REP,Leon Winn,0,0,0,0,0,0,0
+Sumter,OSWEGO,State Senate,36,REP,Jeff Zell,43,0,1,0,7,0,35
+Sumter,MCCRAYS MILL 1,State Senate,36,REP,Jeff Zell,55,0,1,0,12,0,42
+Sumter,MAYEWOOD,State Senate,36,REP,Jeff Zell,43,0,1,0,6,0,36
+Sumter,TURKEY CREEK,State Senate,36,REP,Jeff Zell,32,0,1,0,4,0,27
+Sumter,MULBERRY,State Senate,36,REP,Jeff Zell,8,0,0,0,1,0,7
+Sumter,SALTERSTOWN,State Senate,36,REP,Jeff Zell,25,0,0,0,4,0,21
+Sumter,SECOND MILL,State Senate,36,REP,Jeff Zell,125,0,3,0,24,0,98
+Sumter,MORRIS COLLEGE,State Senate,36,REP,Jeff Zell,6,0,0,0,2,0,4
+Sumter,HAMPTON PARK,State Senate,36,REP,Jeff Zell,36,0,0,0,3,0,33
+Sumter,CROSSWELL,State Senate,36,REP,Jeff Zell,13,0,1,0,3,0,9
+Sumter,LORING,State Senate,36,REP,Jeff Zell,5,0,0,0,1,0,4
+Sumter,LEMIRA,State Senate,36,REP,Jeff Zell,6,0,0,0,0,0,6
+Sumter,MAGNOLIA-HARMONY,State Senate,36,REP,Jeff Zell,2,0,0,0,0,0,2
+Sumter,STONE HILL,State Senate,36,REP,Jeff Zell,1,0,1,0,0,0,0
+Sumter,SOUTH RED BAY,State Senate,36,REP,Jeff Zell,0,0,0,0,0,0,0
+Sumter,WILDER,State Senate,36,REP,Jeff Zell,2,0,0,0,2,0,0
+Sumter,POCOTALIGO 1,State Senate,36,REP,Jeff Zell,43,0,1,0,12,0,30
+Sumter,SAVAGE-GLOVER,State Senate,36,REP,Jeff Zell,0,0,0,0,0,0,0
+Sumter,BATES,State Senate,36,REP,Jeff Zell,1,0,0,0,0,0,1
+Sumter,BIRNIE,State Senate,36,REP,Jeff Zell,0,0,0,0,0,0,0
+Sumter,MILLWOOD,State Senate,36,REP,Jeff Zell,18,0,2,0,1,0,15
+Sumter,CAUSEWAY BRANCH 1,State Senate,36,REP,Jeff Zell,89,0,1,0,36,0,52
+Sumter,MCCRAYS MILL 2,State Senate,36,REP,Jeff Zell,78,0,6,0,21,0,51
+Sumter,SUMTER HIGH 1,State Senate,36,REP,Jeff Zell,18,0,1,0,3,0,14
+Sumter,SUNSET,State Senate,36,REP,Jeff Zell,52,0,2,0,7,0,43
+Sumter,POCOTALIGO 2,State Senate,36,REP,Jeff Zell,13,0,0,0,2,0,11
+Sumter,PRIVATEER,State Senate,36,REP,Jeff Zell,63,0,0,0,17,0,46
+Sumter,WILSON HALL,State Senate,36,REP,Jeff Zell,179,0,4,0,35,0,140
+Sumter,FURMAN,State Senate,36,REP,Jeff Zell,39,0,5,0,7,0,27
+Sumter,SPECTRUM,State Senate,36,REP,Jeff Zell,16,0,2,0,3,0,11
+Sumter,SUMTER HIGH 2,State Senate,36,REP,Jeff Zell,45,0,0,0,12,0,33
+Sumter,GREEN SWAMP 2,State Senate,36,REP,Jeff Zell,86,0,2,0,19,0,65
+Sumter,CAUSEWAY BRANCH 2,State Senate,36,REP,Jeff Zell,46,0,1,0,10,0,35
+Sumter,Failsafe,State Senate,36,REP,Jeff Zell,0,0,0,0,0,0,0
+Sumter,Provisional,State Senate,36,REP,Jeff Zell,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State Senate,36,REP,Jeff Zell,0,0,0,0,0,0,0
+Sumter,OSWEGO,State Senate,36,DEM,Eleazer Leazer Carter,19,0,6,0,5,0,8
+Sumter,MCCRAYS MILL 1,State Senate,36,DEM,Eleazer Leazer Carter,26,0,0,0,8,0,18
+Sumter,MAYEWOOD,State Senate,36,DEM,Eleazer Leazer Carter,17,0,0,0,6,0,11
+Sumter,TURKEY CREEK,State Senate,36,DEM,Eleazer Leazer Carter,13,0,0,0,5,0,8
+Sumter,MULBERRY,State Senate,36,DEM,Eleazer Leazer Carter,9,0,0,0,4,0,5
+Sumter,SALTERSTOWN,State Senate,36,DEM,Eleazer Leazer Carter,11,0,0,0,2,0,9
+Sumter,SECOND MILL,State Senate,36,DEM,Eleazer Leazer Carter,7,0,0,0,3,0,4
+Sumter,MORRIS COLLEGE,State Senate,36,DEM,Eleazer Leazer Carter,13,0,0,0,5,0,8
+Sumter,HAMPTON PARK,State Senate,36,DEM,Eleazer Leazer Carter,8,0,0,0,6,0,2
+Sumter,CROSSWELL,State Senate,36,DEM,Eleazer Leazer Carter,19,0,0,0,7,0,12
+Sumter,LORING,State Senate,36,DEM,Eleazer Leazer Carter,6,0,0,0,1,0,5
+Sumter,LEMIRA,State Senate,36,DEM,Eleazer Leazer Carter,16,0,1,0,3,0,12
+Sumter,MAGNOLIA-HARMONY,State Senate,36,DEM,Eleazer Leazer Carter,14,0,0,0,4,0,10
+Sumter,STONE HILL,State Senate,36,DEM,Eleazer Leazer Carter,9,0,0,0,0,0,9
+Sumter,SOUTH RED BAY,State Senate,36,DEM,Eleazer Leazer Carter,7,0,0,0,1,0,6
+Sumter,WILDER,State Senate,36,DEM,Eleazer Leazer Carter,16,0,0,0,5,0,11
+Sumter,POCOTALIGO 1,State Senate,36,DEM,Eleazer Leazer Carter,36,0,0,0,13,0,23
+Sumter,SAVAGE-GLOVER,State Senate,36,DEM,Eleazer Leazer Carter,6,0,0,0,2,0,4
+Sumter,BATES,State Senate,36,DEM,Eleazer Leazer Carter,15,0,0,0,4,0,11
+Sumter,BIRNIE,State Senate,36,DEM,Eleazer Leazer Carter,20,0,0,0,2,0,18
+Sumter,MILLWOOD,State Senate,36,DEM,Eleazer Leazer Carter,5,0,0,0,2,0,3
+Sumter,CAUSEWAY BRANCH 1,State Senate,36,DEM,Eleazer Leazer Carter,15,0,1,0,6,0,8
+Sumter,MCCRAYS MILL 2,State Senate,36,DEM,Eleazer Leazer Carter,25,0,0,0,6,0,19
+Sumter,SUMTER HIGH 1,State Senate,36,DEM,Eleazer Leazer Carter,3,0,0,0,2,0,1
+Sumter,SUNSET,State Senate,36,DEM,Eleazer Leazer Carter,17,0,0,0,9,0,8
+Sumter,POCOTALIGO 2,State Senate,36,DEM,Eleazer Leazer Carter,21,0,2,0,8,0,11
+Sumter,PRIVATEER,State Senate,36,DEM,Eleazer Leazer Carter,19,0,0,0,7,0,12
+Sumter,WILSON HALL,State Senate,36,DEM,Eleazer Leazer Carter,10,0,0,0,7,0,3
+Sumter,FURMAN,State Senate,36,DEM,Eleazer Leazer Carter,16,0,1,0,5,0,10
+Sumter,SPECTRUM,State Senate,36,DEM,Eleazer Leazer Carter,20,0,0,0,8,0,12
+Sumter,SUMTER HIGH 2,State Senate,36,DEM,Eleazer Leazer Carter,19,0,0,0,9,0,10
+Sumter,GREEN SWAMP 2,State Senate,36,DEM,Eleazer Leazer Carter,4,0,0,0,2,0,2
+Sumter,CAUSEWAY BRANCH 2,State Senate,36,DEM,Eleazer Leazer Carter,11,0,0,0,5,0,6
+Sumter,Failsafe,State Senate,36,DEM,Eleazer Leazer Carter,0,0,0,0,0,0,0
+Sumter,Provisional,State Senate,36,DEM,Eleazer Leazer Carter,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State Senate,36,DEM,Eleazer Leazer Carter,0,0,0,0,0,0,0
+Sumter,OSWEGO,State Senate,36,DEM,Kevin L Johnson,62,0,2,0,20,0,40
+Sumter,MCCRAYS MILL 1,State Senate,36,DEM,Kevin L Johnson,78,0,1,0,32,0,45
+Sumter,MAYEWOOD,State Senate,36,DEM,Kevin L Johnson,74,0,9,0,21,0,44
+Sumter,TURKEY CREEK,State Senate,36,DEM,Kevin L Johnson,56,0,3,0,22,0,31
+Sumter,MULBERRY,State Senate,36,DEM,Kevin L Johnson,54,0,6,0,23,0,25
+Sumter,SALTERSTOWN,State Senate,36,DEM,Kevin L Johnson,36,0,4,0,6,0,26
+Sumter,SECOND MILL,State Senate,36,DEM,Kevin L Johnson,42,0,0,0,12,0,30
+Sumter,MORRIS COLLEGE,State Senate,36,DEM,Kevin L Johnson,61,0,1,0,27,0,33
+Sumter,HAMPTON PARK,State Senate,36,DEM,Kevin L Johnson,41,0,0,0,16,0,25
+Sumter,CROSSWELL,State Senate,36,DEM,Kevin L Johnson,71,0,6,0,27,0,38
+Sumter,LORING,State Senate,36,DEM,Kevin L Johnson,29,0,0,0,12,0,17
+Sumter,LEMIRA,State Senate,36,DEM,Kevin L Johnson,86,0,20,0,35,0,31
+Sumter,MAGNOLIA-HARMONY,State Senate,36,DEM,Kevin L Johnson,38,0,2,0,14,0,22
+Sumter,STONE HILL,State Senate,36,DEM,Kevin L Johnson,44,0,10,0,10,0,24
+Sumter,SOUTH RED BAY,State Senate,36,DEM,Kevin L Johnson,72,0,7,0,29,0,36
+Sumter,WILDER,State Senate,36,DEM,Kevin L Johnson,82,0,7,0,26,0,49
+Sumter,POCOTALIGO 1,State Senate,36,DEM,Kevin L Johnson,90,0,1,0,42,0,47
+Sumter,SAVAGE-GLOVER,State Senate,36,DEM,Kevin L Johnson,38,0,4,0,13,0,21
+Sumter,BATES,State Senate,36,DEM,Kevin L Johnson,67,0,4,0,21,0,42
+Sumter,BIRNIE,State Senate,36,DEM,Kevin L Johnson,90,0,4,0,34,0,52
+Sumter,MILLWOOD,State Senate,36,DEM,Kevin L Johnson,51,0,1,0,17,0,33
+Sumter,CAUSEWAY BRANCH 1,State Senate,36,DEM,Kevin L Johnson,100,0,4,0,48,0,48
+Sumter,MCCRAYS MILL 2,State Senate,36,DEM,Kevin L Johnson,108,0,10,0,37,0,61
+Sumter,SUMTER HIGH 1,State Senate,36,DEM,Kevin L Johnson,34,0,1,0,18,0,15
+Sumter,SUNSET,State Senate,36,DEM,Kevin L Johnson,126,0,1,0,62,0,63
+Sumter,POCOTALIGO 2,State Senate,36,DEM,Kevin L Johnson,26,0,5,0,9,0,12
+Sumter,PRIVATEER,State Senate,36,DEM,Kevin L Johnson,49,0,0,0,17,0,32
+Sumter,WILSON HALL,State Senate,36,DEM,Kevin L Johnson,64,0,0,0,33,0,31
+Sumter,FURMAN,State Senate,36,DEM,Kevin L Johnson,29,0,3,0,14,0,12
+Sumter,SPECTRUM,State Senate,36,DEM,Kevin L Johnson,101,0,9,0,44,0,48
+Sumter,SUMTER HIGH 2,State Senate,36,DEM,Kevin L Johnson,89,0,4,0,39,0,46
+Sumter,GREEN SWAMP 2,State Senate,36,DEM,Kevin L Johnson,41,0,1,0,16,0,24
+Sumter,CAUSEWAY BRANCH 2,State Senate,36,DEM,Kevin L Johnson,72,0,2,0,27,0,43
+Sumter,Failsafe,State Senate,36,DEM,Kevin L Johnson,0,0,0,0,0,0,0
+Sumter,Provisional,State Senate,36,DEM,Kevin L Johnson,2,0,0,0,0,2,0
+Sumter,Failsafe Provisional,State Senate,36,DEM,Kevin L Johnson,0,0,0,0,0,0,0
+Sumter,HORATIO,State House,64,DEM,Quadri Bell,52,0,0,0,14,0,38
+Sumter,DELAINE,State House,64,DEM,Quadri Bell,123,0,9,0,42,0,72
+Sumter,CHERRYVALE,State House,64,DEM,Quadri Bell,22,0,1,0,3,0,18
+Sumter,MANCHESTER FOREST,State House,64,DEM,Quadri Bell,75,0,2,0,18,0,55
+Sumter,PINEWOOD,State House,64,DEM,Quadri Bell,92,0,7,0,19,0,66
+Sumter,ST. PAUL,State House,64,DEM,Quadri Bell,19,0,2,0,2,0,15
+Sumter,Failsafe,State House,64,DEM,Quadri Bell,0,0,0,0,0,0,0
+Sumter,Provisional,State House,64,DEM,Quadri Bell,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State House,64,DEM,Quadri Bell,0,0,0,0,0,0,0
+Sumter,HORATIO,State House,64,DEM,Arthur Moyd,15,0,0,0,6,0,9
+Sumter,DELAINE,State House,64,DEM,Arthur Moyd,49,0,1,0,24,0,24
+Sumter,CHERRYVALE,State House,64,DEM,Arthur Moyd,9,0,1,0,1,0,7
+Sumter,MANCHESTER FOREST,State House,64,DEM,Arthur Moyd,19,0,0,0,5,0,14
+Sumter,PINEWOOD,State House,64,DEM,Arthur Moyd,17,0,0,0,5,0,12
+Sumter,ST. PAUL,State House,64,DEM,Arthur Moyd,5,0,0,0,2,0,3
+Sumter,Failsafe,State House,64,DEM,Arthur Moyd,0,0,0,0,0,0,0
+Sumter,Provisional,State House,64,DEM,Arthur Moyd,2,0,0,0,0,2,0
+Sumter,Failsafe Provisional,State House,64,DEM,Arthur Moyd,0,0,0,0,0,0,0
+Sumter,MAYEWOOD,County Council District 7,,DEM,Tasha Gardner-Greene,32,0,0,0,15,0,17
+Sumter,TURKEY CREEK,County Council District 7,,DEM,Tasha Gardner-Greene,37,0,2,0,12,0,23
+Sumter,SALTERSTOWN,County Council District 7,,DEM,Tasha Gardner-Greene,22,0,2,0,2,0,18
+Sumter,FOLSOM PARK,County Council District 7,,DEM,Tasha Gardner-Greene,3,0,0,0,1,0,2
+Sumter,MORRIS COLLEGE,County Council District 7,,DEM,Tasha Gardner-Greene,46,0,0,0,17,0,29
+Sumter,CROSSWELL,County Council District 7,,DEM,Tasha Gardner-Greene,39,0,1,0,11,0,27
+Sumter,LORING,County Council District 7,,DEM,Tasha Gardner-Greene,23,0,0,0,9,0,14
+Sumter,LEMIRA,County Council District 7,,DEM,Tasha Gardner-Greene,48,0,3,0,22,0,23
+Sumter,MAGNOLIA-HARMONY,County Council District 7,,DEM,Tasha Gardner-Greene,15,0,0,0,7,0,8
+Sumter,POCOTALIGO 1,County Council District 7,,DEM,Tasha Gardner-Greene,24,0,0,0,9,0,15
+Sumter,POCOTALIGO 2,County Council District 7,,DEM,Tasha Gardner-Greene,9,0,0,0,7,0,2
+Sumter,Failsafe,County Council District 7,,DEM,Tasha Gardner-Greene,0,0,0,0,0,0,0
+Sumter,Provisional,County Council District 7,,DEM,Tasha Gardner-Greene,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,County Council District 7,,DEM,Tasha Gardner-Greene,0,0,0,0,0,0,0
+Sumter,MAYEWOOD,County Council District 7,,DEM,Gloria J Lee,58,0,9,0,12,0,37
+Sumter,TURKEY CREEK,County Council District 7,,DEM,Gloria J Lee,34,0,1,0,16,0,17
+Sumter,SALTERSTOWN,County Council District 7,,DEM,Gloria J Lee,27,0,2,0,8,0,17
+Sumter,FOLSOM PARK,County Council District 7,,DEM,Gloria J Lee,0,0,0,0,0,0,0
+Sumter,MORRIS COLLEGE,County Council District 7,,DEM,Gloria J Lee,19,0,1,0,12,0,6
+Sumter,CROSSWELL,County Council District 7,,DEM,Gloria J Lee,44,0,5,0,19,0,20
+Sumter,LORING,County Council District 7,,DEM,Gloria J Lee,9,0,0,0,4,0,5
+Sumter,LEMIRA,County Council District 7,,DEM,Gloria J Lee,51,0,18,0,16,0,17
+Sumter,MAGNOLIA-HARMONY,County Council District 7,,DEM,Gloria J Lee,26,0,0,0,6,0,20
+Sumter,POCOTALIGO 1,County Council District 7,,DEM,Gloria J Lee,15,0,0,0,4,0,11
+Sumter,POCOTALIGO 2,County Council District 7,,DEM,Gloria J Lee,6,0,1,0,3,0,2
+Sumter,Failsafe,County Council District 7,,DEM,Gloria J Lee,0,0,0,0,0,0,0
+Sumter,Provisional,County Council District 7,,DEM,Gloria J Lee,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,County Council District 7,,DEM,Gloria J Lee,0,0,0,0,0,0,0

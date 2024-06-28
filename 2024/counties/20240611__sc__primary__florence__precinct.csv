@@ -1,0 +1,307 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Florence,High Hill,U.S. House,6,REP,Duke Buckner,15,0,0,0,7,0,8
+Florence,Lake City No. 1,U.S. House,6,REP,Duke Buckner,12,0,0,0,4,0,8
+Florence,Lake City No. 2,U.S. House,6,REP,Duke Buckner,18,0,1,0,5,0,12
+Florence,Lake City No. 3,U.S. House,6,REP,Duke Buckner,16,0,0,0,8,0,8
+Florence,Lake City No. 4,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,0,2
+Florence,Leo,U.S. House,6,REP,Duke Buckner,6,0,0,0,1,0,5
+Florence,Scranton,U.S. House,6,REP,Duke Buckner,1,0,0,0,0,0,1
+Florence,Failsafe,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Florence,Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Florence,Failsafe Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Florence,High Hill,U.S. House,6,REP,Justin Scott,13,0,0,0,1,0,12
+Florence,Lake City No. 1,U.S. House,6,REP,Justin Scott,4,0,0,0,1,0,3
+Florence,Lake City No. 2,U.S. House,6,REP,Justin Scott,19,0,0,0,8,0,11
+Florence,Lake City No. 3,U.S. House,6,REP,Justin Scott,3,0,0,0,3,0,0
+Florence,Lake City No. 4,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Florence,Leo,U.S. House,6,REP,Justin Scott,5,0,0,0,0,0,5
+Florence,Scranton,U.S. House,6,REP,Justin Scott,5,0,0,0,1,0,4
+Florence,Failsafe,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Florence,Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Florence,Failsafe Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Florence,Back Swamp,U.S. House,7,DEM,Mal Hyman,6,0,0,0,0,0,6
+Florence,Brookgreen,U.S. House,7,DEM,Mal Hyman,37,0,1,0,5,0,31
+Florence,Cartersville,U.S. House,7,DEM,Mal Hyman,36,0,2,0,15,0,19
+Florence,Claussen,U.S. House,7,DEM,Mal Hyman,51,0,3,0,10,0,38
+Florence,Coles Crossroads,U.S. House,7,DEM,Mal Hyman,103,0,1,0,23,0,79
+Florence,Cowards No. 1,U.S. House,7,DEM,Mal Hyman,17,0,0,0,1,0,16
+Florence,Cowards No. 2,U.S. House,7,DEM,Mal Hyman,4,0,0,0,2,0,2
+Florence,Delmae No. 1,U.S. House,7,DEM,Mal Hyman,40,0,2,0,12,0,26
+Florence,Delmae No. 2,U.S. House,7,DEM,Mal Hyman,26,0,0,0,6,0,20
+Florence,Ebenezer No. 1,U.S. House,7,DEM,Mal Hyman,51,0,3,0,3,0,45
+Florence,Ebenezer No. 2,U.S. House,7,DEM,Mal Hyman,58,0,0,0,17,0,41
+Florence,Ebenezer No. 3,U.S. House,7,DEM,Mal Hyman,43,0,1,0,8,0,34
+Florence,Effingham,U.S. House,7,DEM,Mal Hyman,4,0,0,0,1,0,3
+Florence,Elim-Glenwood,U.S. House,7,DEM,Mal Hyman,22,0,0,0,4,0,18
+Florence,Evergreen,U.S. House,7,DEM,Mal Hyman,16,0,0,0,0,0,16
+Florence,Florence Ward 1,U.S. House,7,DEM,Mal Hyman,86,0,1,0,26,0,59
+Florence,Florence Ward 2,U.S. House,7,DEM,Mal Hyman,47,0,2,0,10,0,35
+Florence,Florence Ward 3,U.S. House,7,DEM,Mal Hyman,79,0,3,0,18,0,58
+Florence,Florence Ward 4,U.S. House,7,DEM,Mal Hyman,33,0,3,0,3,0,27
+Florence,Florence Ward 5,U.S. House,7,DEM,Mal Hyman,24,0,1,0,2,0,21
+Florence,Florence Ward 6,U.S. House,7,DEM,Mal Hyman,52,0,2,0,1,0,49
+Florence,Florence Ward 7,U.S. House,7,DEM,Mal Hyman,88,0,2,0,16,0,70
+Florence,Florence Ward 8,U.S. House,7,DEM,Mal Hyman,104,0,0,0,21,0,83
+Florence,Florence Ward 9,U.S. House,7,DEM,Mal Hyman,118,0,14,0,36,0,68
+Florence,Florence Ward 10,U.S. House,7,DEM,Mal Hyman,42,0,1,0,8,0,33
+Florence,Florence Ward 11,U.S. House,7,DEM,Mal Hyman,44,0,1,0,4,0,39
+Florence,Florence Ward 12,U.S. House,7,DEM,Mal Hyman,98,0,0,0,26,0,72
+Florence,Florence Ward 14,U.S. House,7,DEM,Mal Hyman,102,0,0,0,36,0,66
+Florence,Florence Ward 15,U.S. House,7,DEM,Mal Hyman,6,0,0,0,1,0,5
+Florence,Friendfield,U.S. House,7,DEM,Mal Hyman,3,0,0,0,2,0,1
+Florence,Gilbert,U.S. House,7,DEM,Mal Hyman,52,0,0,0,14,0,38
+Florence,Greenwood,U.S. House,7,DEM,Mal Hyman,66,0,0,0,17,0,49
+Florence,Hannah,U.S. House,7,DEM,Mal Hyman,5,0,0,0,3,0,2
+Florence,Johnsonville,U.S. House,7,DEM,Mal Hyman,18,0,0,0,5,0,13
+Florence,Kingsburg-Stone,U.S. House,7,DEM,Mal Hyman,41,0,0,0,16,0,25
+Florence,Mars Bluff No. 1,U.S. House,7,DEM,Mal Hyman,37,0,0,0,9,0,28
+Florence,Mars Bluff No. 2,U.S. House,7,DEM,Mal Hyman,28,0,0,0,6,0,22
+Florence,McAllister Mill,U.S. House,7,DEM,Mal Hyman,8,0,0,0,1,0,7
+Florence,Mill Branch,U.S. House,7,DEM,Mal Hyman,46,0,0,0,6,0,40
+Florence,Oak Grove-Sardis,U.S. House,7,DEM,Mal Hyman,25,0,2,0,6,0,17
+Florence,Olanta,U.S. House,7,DEM,Mal Hyman,13,0,0,0,4,0,9
+Florence,Pamplico No. 1,U.S. House,7,DEM,Mal Hyman,16,0,1,0,5,0,10
+Florence,Pamplico No. 2,U.S. House,7,DEM,Mal Hyman,25,0,0,0,9,0,16
+Florence,Prospect,U.S. House,7,DEM,Mal Hyman,0,0,0,0,0,0,0
+Florence,Quinby,U.S. House,7,DEM,Mal Hyman,55,0,0,0,13,0,42
+Florence,Salem,U.S. House,7,DEM,Mal Hyman,1,0,0,0,0,0,1
+Florence,Savannah Grove,U.S. House,7,DEM,Mal Hyman,135,0,0,0,35,0,100
+Florence,Scranton,U.S. House,7,DEM,Mal Hyman,12,0,0,0,1,0,11
+Florence,South Florence 1,U.S. House,7,DEM,Mal Hyman,95,0,1,0,38,0,56
+Florence,South Florence 2,U.S. House,7,DEM,Mal Hyman,44,0,0,0,16,0,28
+Florence,Spaulding,U.S. House,7,DEM,Mal Hyman,100,0,3,0,31,0,66
+Florence,Tans Bay,U.S. House,7,DEM,Mal Hyman,34,0,0,0,6,0,28
+Florence,Timmonsville 1,U.S. House,7,DEM,Mal Hyman,59,0,5,0,32,0,22
+Florence,Timmonsville 2,U.S. House,7,DEM,Mal Hyman,35,0,2,0,8,0,25
+Florence,Vox,U.S. House,7,DEM,Mal Hyman,0,0,0,0,0,0,0
+Florence,West Florence 1,U.S. House,7,DEM,Mal Hyman,65,0,4,0,17,0,44
+Florence,West Florence 2,U.S. House,7,DEM,Mal Hyman,45,0,1,0,4,0,40
+Florence,Failsafe,U.S. House,7,DEM,Mal Hyman,0,0,0,0,0,0,0
+Florence,Provisional,U.S. House,7,DEM,Mal Hyman,2,0,0,0,0,2,0
+Florence,Failsafe Provisional,U.S. House,7,DEM,Mal Hyman,0,0,0,0,0,0,0
+Florence,Back Swamp,U.S. House,7,DEM,Daryl W Scott,3,0,0,0,0,0,3
+Florence,Brookgreen,U.S. House,7,DEM,Daryl W Scott,42,0,0,0,5,0,37
+Florence,Cartersville,U.S. House,7,DEM,Daryl W Scott,15,0,0,0,7,0,8
+Florence,Claussen,U.S. House,7,DEM,Daryl W Scott,34,0,2,0,4,0,28
+Florence,Coles Crossroads,U.S. House,7,DEM,Daryl W Scott,129,0,2,0,37,0,90
+Florence,Cowards No. 1,U.S. House,7,DEM,Daryl W Scott,18,0,0,0,5,0,13
+Florence,Cowards No. 2,U.S. House,7,DEM,Daryl W Scott,12,0,0,0,1,0,11
+Florence,Delmae No. 1,U.S. House,7,DEM,Daryl W Scott,39,0,3,0,8,0,28
+Florence,Delmae No. 2,U.S. House,7,DEM,Daryl W Scott,34,0,2,0,10,0,22
+Florence,Ebenezer No. 1,U.S. House,7,DEM,Daryl W Scott,39,0,0,0,2,0,37
+Florence,Ebenezer No. 2,U.S. House,7,DEM,Daryl W Scott,98,0,0,0,16,0,82
+Florence,Ebenezer No. 3,U.S. House,7,DEM,Daryl W Scott,55,0,2,0,11,0,42
+Florence,Effingham,U.S. House,7,DEM,Daryl W Scott,5,0,0,0,1,0,4
+Florence,Elim-Glenwood,U.S. House,7,DEM,Daryl W Scott,23,0,0,0,2,0,21
+Florence,Evergreen,U.S. House,7,DEM,Daryl W Scott,11,0,0,0,1,0,10
+Florence,Florence Ward 1,U.S. House,7,DEM,Daryl W Scott,76,0,4,0,12,0,60
+Florence,Florence Ward 2,U.S. House,7,DEM,Daryl W Scott,73,0,1,0,14,0,58
+Florence,Florence Ward 3,U.S. House,7,DEM,Daryl W Scott,78,0,4,0,13,0,61
+Florence,Florence Ward 4,U.S. House,7,DEM,Daryl W Scott,23,0,0,0,3,0,20
+Florence,Florence Ward 5,U.S. House,7,DEM,Daryl W Scott,40,0,2,0,10,0,28
+Florence,Florence Ward 6,U.S. House,7,DEM,Daryl W Scott,28,0,0,0,0,0,28
+Florence,Florence Ward 7,U.S. House,7,DEM,Daryl W Scott,62,0,1,0,10,0,51
+Florence,Florence Ward 8,U.S. House,7,DEM,Daryl W Scott,72,0,0,0,7,0,65
+Florence,Florence Ward 9,U.S. House,7,DEM,Daryl W Scott,108,0,6,0,28,0,74
+Florence,Florence Ward 10,U.S. House,7,DEM,Daryl W Scott,35,0,0,0,7,0,28
+Florence,Florence Ward 11,U.S. House,7,DEM,Daryl W Scott,30,0,0,0,3,0,27
+Florence,Florence Ward 12,U.S. House,7,DEM,Daryl W Scott,76,0,0,0,17,0,59
+Florence,Florence Ward 14,U.S. House,7,DEM,Daryl W Scott,71,0,1,0,11,0,59
+Florence,Florence Ward 15,U.S. House,7,DEM,Daryl W Scott,7,0,0,0,3,0,4
+Florence,Friendfield,U.S. House,7,DEM,Daryl W Scott,2,0,0,0,0,0,2
+Florence,Gilbert,U.S. House,7,DEM,Daryl W Scott,67,0,2,0,17,0,48
+Florence,Greenwood,U.S. House,7,DEM,Daryl W Scott,46,0,1,0,13,0,32
+Florence,Hannah,U.S. House,7,DEM,Daryl W Scott,1,0,0,0,1,0,0
+Florence,Johnsonville,U.S. House,7,DEM,Daryl W Scott,19,0,1,0,5,0,13
+Florence,Kingsburg-Stone,U.S. House,7,DEM,Daryl W Scott,17,0,0,0,5,0,12
+Florence,Mars Bluff No. 1,U.S. House,7,DEM,Daryl W Scott,31,0,0,0,11,0,20
+Florence,Mars Bluff No. 2,U.S. House,7,DEM,Daryl W Scott,29,0,0,0,5,0,24
+Florence,McAllister Mill,U.S. House,7,DEM,Daryl W Scott,12,0,0,0,2,0,10
+Florence,Mill Branch,U.S. House,7,DEM,Daryl W Scott,7,0,0,0,2,0,5
+Florence,Oak Grove-Sardis,U.S. House,7,DEM,Daryl W Scott,15,0,0,0,0,0,15
+Florence,Olanta,U.S. House,7,DEM,Daryl W Scott,27,0,0,0,8,0,19
+Florence,Pamplico No. 1,U.S. House,7,DEM,Daryl W Scott,4,0,0,0,2,0,2
+Florence,Pamplico No. 2,U.S. House,7,DEM,Daryl W Scott,9,0,0,0,2,0,7
+Florence,Prospect,U.S. House,7,DEM,Daryl W Scott,0,0,0,0,0,0,0
+Florence,Quinby,U.S. House,7,DEM,Daryl W Scott,37,0,1,0,6,0,30
+Florence,Salem,U.S. House,7,DEM,Daryl W Scott,2,0,0,0,0,0,2
+Florence,Savannah Grove,U.S. House,7,DEM,Daryl W Scott,135,0,2,0,30,0,103
+Florence,Scranton,U.S. House,7,DEM,Daryl W Scott,11,0,0,0,3,0,8
+Florence,South Florence 1,U.S. House,7,DEM,Daryl W Scott,99,0,1,0,36,0,62
+Florence,South Florence 2,U.S. House,7,DEM,Daryl W Scott,50,0,0,0,10,0,40
+Florence,Spaulding,U.S. House,7,DEM,Daryl W Scott,92,0,0,0,30,0,62
+Florence,Tans Bay,U.S. House,7,DEM,Daryl W Scott,62,0,2,0,19,0,41
+Florence,Timmonsville 1,U.S. House,7,DEM,Daryl W Scott,43,0,0,0,15,0,28
+Florence,Timmonsville 2,U.S. House,7,DEM,Daryl W Scott,37,0,1,0,11,0,25
+Florence,Vox,U.S. House,7,DEM,Daryl W Scott,3,0,0,0,1,0,2
+Florence,West Florence 1,U.S. House,7,DEM,Daryl W Scott,67,0,0,0,10,0,57
+Florence,West Florence 2,U.S. House,7,DEM,Daryl W Scott,41,0,2,0,4,0,35
+Florence,Failsafe,U.S. House,7,DEM,Daryl W Scott,0,0,0,0,0,0,0
+Florence,Provisional,U.S. House,7,DEM,Daryl W Scott,2,0,0,0,0,2,0
+Florence,Failsafe Provisional,U.S. House,7,DEM,Daryl W Scott,1,0,0,1,0,0,0
+Florence,Lake City No. 1,State Senate,32,DEM,Ronnie A Sabb,73,0,2,0,23,0,48
+Florence,Lake City No. 2,State Senate,32,DEM,Ronnie A Sabb,33,0,0,0,11,0,22
+Florence,Lake City No. 3,State Senate,32,DEM,Ronnie A Sabb,58,0,1,0,21,0,36
+Florence,Lake City No. 4,State Senate,32,DEM,Ronnie A Sabb,113,0,0,0,37,0,76
+Florence,Failsafe,State Senate,32,DEM,Ronnie A Sabb,0,0,0,0,0,0,0
+Florence,Provisional,State Senate,32,DEM,Ronnie A Sabb,0,0,0,0,0,0,0
+Florence,Failsafe Provisional,State Senate,32,DEM,Ronnie A Sabb,0,0,0,0,0,0,0
+Florence,Lake City No. 1,State Senate,32,DEM,Prinscillia D Sumpter,12,0,0,0,6,0,6
+Florence,Lake City No. 2,State Senate,32,DEM,Prinscillia D Sumpter,5,0,0,0,0,0,5
+Florence,Lake City No. 3,State Senate,32,DEM,Prinscillia D Sumpter,4,0,1,0,2,0,1
+Florence,Lake City No. 4,State Senate,32,DEM,Prinscillia D Sumpter,7,0,0,0,4,0,3
+Florence,Failsafe,State Senate,32,DEM,Prinscillia D Sumpter,0,0,0,0,0,0,0
+Florence,Provisional,State Senate,32,DEM,Prinscillia D Sumpter,0,0,0,0,0,0,0
+Florence,Failsafe Provisional,State Senate,32,DEM,Prinscillia D Sumpter,0,0,0,0,0,0,0
+Florence,Cowards No. 1,County Council District 2,,REP,Zannie Ray Poston,1,0,0,0,0,0,1
+Florence,Effingham,County Council District 2,,REP,Zannie Ray Poston,0,0,0,0,0,0,0
+Florence,Evergreen,County Council District 2,,REP,Zannie Ray Poston,3,0,0,0,0,0,3
+Florence,Friendfield,County Council District 2,,REP,Zannie Ray Poston,2,0,0,0,1,0,1
+Florence,Hannah,County Council District 2,,REP,Zannie Ray Poston,21,0,0,0,4,0,17
+Florence,High Hill,County Council District 2,,REP,Zannie Ray Poston,5,0,0,0,2,0,3
+Florence,Johnsonville,County Council District 2,,REP,Zannie Ray Poston,39,0,0,0,16,0,23
+Florence,Kingsburg-Stone,County Council District 2,,REP,Zannie Ray Poston,23,0,2,0,5,0,16
+Florence,Mill Branch,County Council District 2,,REP,Zannie Ray Poston,6,0,0,0,2,0,4
+Florence,Pamplico No. 1,County Council District 2,,REP,Zannie Ray Poston,10,0,0,0,7,0,3
+Florence,Pamplico No. 2,County Council District 2,,REP,Zannie Ray Poston,7,0,0,0,1,0,6
+Florence,Prospect,County Council District 2,,REP,Zannie Ray Poston,13,0,0,0,0,0,13
+Florence,Vox,County Council District 2,,REP,Zannie Ray Poston,20,0,0,0,2,0,18
+Florence,Failsafe,County Council District 2,,REP,Zannie Ray Poston,0,0,0,0,0,0,0
+Florence,Provisional,County Council District 2,,REP,Zannie Ray Poston,0,0,0,0,0,0,0
+Florence,Failsafe Provisional,County Council District 2,,REP,Zannie Ray Poston,0,0,0,0,0,0,0
+Florence,Cowards No. 1,County Council District 2,,REP,Andy Rodgers,19,0,0,0,1,0,18
+Florence,Effingham,County Council District 2,,REP,Andy Rodgers,11,0,1,0,2,0,8
+Florence,Evergreen,County Council District 2,,REP,Andy Rodgers,17,0,0,0,3,0,14
+Florence,Friendfield,County Council District 2,,REP,Andy Rodgers,93,0,0,0,3,0,90
+Florence,Hannah,County Council District 2,,REP,Andy Rodgers,60,0,1,0,9,0,50
+Florence,High Hill,County Council District 2,,REP,Andy Rodgers,24,0,0,0,6,0,18
+Florence,Johnsonville,County Council District 2,,REP,Andy Rodgers,32,0,2,0,6,0,24
+Florence,Kingsburg-Stone,County Council District 2,,REP,Andy Rodgers,25,0,1,0,2,0,22
+Florence,Mill Branch,County Council District 2,,REP,Andy Rodgers,15,0,1,0,1,0,13
+Florence,Pamplico No. 1,County Council District 2,,REP,Andy Rodgers,102,0,2,0,31,0,69
+Florence,Pamplico No. 2,County Council District 2,,REP,Andy Rodgers,15,0,0,0,6,0,9
+Florence,Prospect,County Council District 2,,REP,Andy Rodgers,25,0,0,0,2,0,23
+Florence,Vox,County Council District 2,,REP,Andy Rodgers,9,0,0,0,0,0,9
+Florence,Failsafe,County Council District 2,,REP,Andy Rodgers,0,0,0,0,0,0,0
+Florence,Provisional,County Council District 2,,REP,Andy Rodgers,0,0,0,0,0,0,0
+Florence,Failsafe Provisional,County Council District 2,,REP,Andy Rodgers,0,0,0,0,0,0,0
+Florence,Cartersville,County Council District 4,,DEM,Mitchell Kirby,39,0,2,0,18,0,19
+Florence,Ebenezer No. 2,County Council District 4,,DEM,Mitchell Kirby,27,0,0,0,12,0,15
+Florence,Ebenezer No. 3,County Council District 4,,DEM,Mitchell Kirby,11,0,1,0,4,0,6
+Florence,Elim-Glenwood,County Council District 4,,DEM,Mitchell Kirby,23,0,0,0,4,0,19
+Florence,Oak Grove-Sardis,County Council District 4,,DEM,Mitchell Kirby,16,0,2,0,4,0,10
+Florence,Savannah Grove,County Council District 4,,DEM,Mitchell Kirby,107,0,0,0,28,0,79
+Florence,Tans Bay,County Council District 4,,DEM,Mitchell Kirby,35,0,0,0,9,0,26
+Florence,Timmonsville 1,County Council District 4,,DEM,Mitchell Kirby,92,0,5,0,48,0,39
+Florence,Timmonsville 2,County Council District 4,,DEM,Mitchell Kirby,44,0,0,0,18,0,26
+Florence,Failsafe,County Council District 4,,DEM,Mitchell Kirby,0,0,0,0,0,0,0
+Florence,Provisional,County Council District 4,,DEM,Mitchell Kirby,1,0,0,0,0,1,0
+Florence,Failsafe Provisional,County Council District 4,,DEM,Mitchell Kirby,0,0,0,0,0,0,0
+Florence,Cartersville,County Council District 4,,DEM,Kenneth McAllister,24,0,0,0,10,0,14
+Florence,Ebenezer No. 2,County Council District 4,,DEM,Kenneth McAllister,26,0,0,0,8,0,18
+Florence,Ebenezer No. 3,County Council District 4,,DEM,Kenneth McAllister,23,0,1,0,0,0,22
+Florence,Elim-Glenwood,County Council District 4,,DEM,Kenneth McAllister,34,0,0,0,6,0,28
+Florence,Oak Grove-Sardis,County Council District 4,,DEM,Kenneth McAllister,26,0,0,0,2,0,24
+Florence,Savannah Grove,County Council District 4,,DEM,Kenneth McAllister,63,0,1,0,16,0,46
+Florence,Tans Bay,County Council District 4,,DEM,Kenneth McAllister,9,0,0,0,1,0,8
+Florence,Timmonsville 1,County Council District 4,,DEM,Kenneth McAllister,43,0,0,0,16,0,27
+Florence,Timmonsville 2,County Council District 4,,DEM,Kenneth McAllister,38,0,3,0,6,0,29
+Florence,Failsafe,County Council District 4,,DEM,Kenneth McAllister,0,0,0,0,0,0,0
+Florence,Provisional,County Council District 4,,DEM,Kenneth McAllister,1,0,0,0,0,1,0
+Florence,Failsafe Provisional,County Council District 4,,DEM,Kenneth McAllister,0,0,0,0,0,0,0
+Florence,Claussen,Mayor Florence,,DEM,Lethonia Peaches Barnes,10,0,0,0,3,0,7
+Florence,Coles Crossroads,Mayor Florence,,DEM,Lethonia Peaches Barnes,125,0,1,0,31,0,93
+Florence,Delmae No. 1,Mayor Florence,,DEM,Lethonia Peaches Barnes,11,0,3,0,0,0,8
+Florence,Delmae No. 2,Mayor Florence,,DEM,Lethonia Peaches Barnes,4,0,0,0,0,0,4
+Florence,Ebenezer No. 1,Mayor Florence,,DEM,Lethonia Peaches Barnes,2,0,0,0,0,0,2
+Florence,Ebenezer No. 2,Mayor Florence,,DEM,Lethonia Peaches Barnes,16,0,0,0,4,0,12
+Florence,Ebenezer No. 3,Mayor Florence,,DEM,Lethonia Peaches Barnes,63,0,2,0,10,0,51
+Florence,Florence Ward 1,Mayor Florence,,DEM,Lethonia Peaches Barnes,120,0,4,0,25,0,91
+Florence,Florence Ward 2,Mayor Florence,,DEM,Lethonia Peaches Barnes,63,0,0,0,14,0,49
+Florence,Florence Ward 3,Mayor Florence,,DEM,Lethonia Peaches Barnes,79,0,4,0,15,0,60
+Florence,Florence Ward 4,Mayor Florence,,DEM,Lethonia Peaches Barnes,42,0,0,0,7,0,35
+Florence,Florence Ward 5,Mayor Florence,,DEM,Lethonia Peaches Barnes,49,0,3,0,13,0,33
+Florence,Florence Ward 6,Mayor Florence,,DEM,Lethonia Peaches Barnes,78,0,2,0,1,0,75
+Florence,Florence Ward 7,Mayor Florence,,DEM,Lethonia Peaches Barnes,147,0,2,0,22,0,123
+Florence,Florence Ward 8,Mayor Florence,,DEM,Lethonia Peaches Barnes,182,0,0,0,21,0,161
+Florence,Florence Ward 9,Mayor Florence,,DEM,Lethonia Peaches Barnes,163,0,14,0,39,0,110
+Florence,Florence Ward 10,Mayor Florence,,DEM,Lethonia Peaches Barnes,43,0,1,0,10,0,32
+Florence,Florence Ward 11,Mayor Florence,,DEM,Lethonia Peaches Barnes,56,0,1,0,0,0,55
+Florence,Florence Ward 12,Mayor Florence,,DEM,Lethonia Peaches Barnes,127,0,0,0,26,0,101
+Florence,Florence Ward 14,Mayor Florence,,DEM,Lethonia Peaches Barnes,146,0,2,0,33,0,111
+Florence,Florence Ward 15,Mayor Florence,,DEM,Lethonia Peaches Barnes,2,0,0,0,1,0,1
+Florence,Greenwood,Mayor Florence,,DEM,Lethonia Peaches Barnes,22,0,0,0,10,0,12
+Florence,Savannah Grove,Mayor Florence,,DEM,Lethonia Peaches Barnes,75,0,0,0,13,0,62
+Florence,South Florence 1,Mayor Florence,,DEM,Lethonia Peaches Barnes,133,0,1,0,45,0,87
+Florence,South Florence 2,Mayor Florence,,DEM,Lethonia Peaches Barnes,17,0,0,0,6,0,11
+Florence,Spaulding,Mayor Florence,,DEM,Lethonia Peaches Barnes,78,0,0,0,30,0,48
+Florence,Tans Bay,Mayor Florence,,DEM,Lethonia Peaches Barnes,19,0,0,0,5,0,14
+Florence,West Florence 1,Mayor Florence,,DEM,Lethonia Peaches Barnes,23,0,2,0,3,0,18
+Florence,West Florence 2,Mayor Florence,,DEM,Lethonia Peaches Barnes,53,0,0,0,6,0,47
+Florence,Failsafe,Mayor Florence,,DEM,Lethonia Peaches Barnes,0,0,0,0,0,0,0
+Florence,Provisional,Mayor Florence,,DEM,Lethonia Peaches Barnes,0,0,0,0,0,0,0
+Florence,Failsafe Provisional,Mayor Florence,,DEM,Lethonia Peaches Barnes,1,0,0,1,0,0,0
+Florence,Claussen,Mayor Florence,,DEM,Teresa Myers-Ervin,6,0,2,0,2,0,2
+Florence,Coles Crossroads,Mayor Florence,,DEM,Teresa Myers-Ervin,103,0,1,0,27,0,75
+Florence,Delmae No. 1,Mayor Florence,,DEM,Teresa Myers-Ervin,8,0,0,0,4,0,4
+Florence,Delmae No. 2,Mayor Florence,,DEM,Teresa Myers-Ervin,4,0,0,0,0,0,4
+Florence,Ebenezer No. 1,Mayor Florence,,DEM,Teresa Myers-Ervin,1,0,1,0,0,0,0
+Florence,Ebenezer No. 2,Mayor Florence,,DEM,Teresa Myers-Ervin,40,0,0,0,5,0,35
+Florence,Ebenezer No. 3,Mayor Florence,,DEM,Teresa Myers-Ervin,26,0,0,0,7,0,19
+Florence,Florence Ward 1,Mayor Florence,,DEM,Teresa Myers-Ervin,80,0,2,0,25,0,53
+Florence,Florence Ward 2,Mayor Florence,,DEM,Teresa Myers-Ervin,47,0,1,0,11,0,35
+Florence,Florence Ward 3,Mayor Florence,,DEM,Teresa Myers-Ervin,80,0,1,0,18,0,61
+Florence,Florence Ward 4,Mayor Florence,,DEM,Teresa Myers-Ervin,22,0,1,0,1,0,20
+Florence,Florence Ward 5,Mayor Florence,,DEM,Teresa Myers-Ervin,21,0,0,0,2,0,19
+Florence,Florence Ward 6,Mayor Florence,,DEM,Teresa Myers-Ervin,16,0,0,0,0,0,16
+Florence,Florence Ward 7,Mayor Florence,,DEM,Teresa Myers-Ervin,39,0,1,0,6,0,32
+Florence,Florence Ward 8,Mayor Florence,,DEM,Teresa Myers-Ervin,50,0,0,0,14,0,36
+Florence,Florence Ward 9,Mayor Florence,,DEM,Teresa Myers-Ervin,103,0,10,0,30,0,63
+Florence,Florence Ward 10,Mayor Florence,,DEM,Teresa Myers-Ervin,45,0,0,0,6,0,39
+Florence,Florence Ward 11,Mayor Florence,,DEM,Teresa Myers-Ervin,33,0,1,0,6,0,26
+Florence,Florence Ward 12,Mayor Florence,,DEM,Teresa Myers-Ervin,56,0,1,0,11,0,44
+Florence,Florence Ward 14,Mayor Florence,,DEM,Teresa Myers-Ervin,65,0,0,0,22,0,43
+Florence,Florence Ward 15,Mayor Florence,,DEM,Teresa Myers-Ervin,3,0,0,0,2,0,1
+Florence,Greenwood,Mayor Florence,,DEM,Teresa Myers-Ervin,29,0,0,0,11,0,18
+Florence,Savannah Grove,Mayor Florence,,DEM,Teresa Myers-Ervin,53,0,1,0,17,0,35
+Florence,South Florence 1,Mayor Florence,,DEM,Teresa Myers-Ervin,74,0,0,0,35,0,39
+Florence,South Florence 2,Mayor Florence,,DEM,Teresa Myers-Ervin,32,0,0,0,7,0,25
+Florence,Spaulding,Mayor Florence,,DEM,Teresa Myers-Ervin,95,0,2,0,32,0,61
+Florence,Tans Bay,Mayor Florence,,DEM,Teresa Myers-Ervin,23,0,2,0,6,0,15
+Florence,West Florence 1,Mayor Florence,,DEM,Teresa Myers-Ervin,22,0,1,0,9,0,12
+Florence,West Florence 2,Mayor Florence,,DEM,Teresa Myers-Ervin,9,0,1,0,0,0,8
+Florence,Failsafe,Mayor Florence,,DEM,Teresa Myers-Ervin,0,0,0,0,0,0,0
+Florence,Provisional,Mayor Florence,,DEM,Teresa Myers-Ervin,2,0,0,0,0,2,0
+Florence,Failsafe Provisional,Mayor Florence,,DEM,Teresa Myers-Ervin,0,0,0,0,0,0,0
+Florence,Claussen,Mayor Florence,,DEM,William H Williams,1,0,0,0,1,0,0
+Florence,Coles Crossroads,Mayor Florence,,DEM,William H Williams,7,0,1,0,1,0,5
+Florence,Delmae No. 1,Mayor Florence,,DEM,William H Williams,2,0,0,0,1,0,1
+Florence,Delmae No. 2,Mayor Florence,,DEM,William H Williams,1,0,0,0,0,0,1
+Florence,Ebenezer No. 1,Mayor Florence,,DEM,William H Williams,0,0,0,0,0,0,0
+Florence,Ebenezer No. 2,Mayor Florence,,DEM,William H Williams,1,0,0,0,0,0,1
+Florence,Ebenezer No. 3,Mayor Florence,,DEM,William H Williams,0,0,0,0,0,0,0
+Florence,Florence Ward 1,Mayor Florence,,DEM,William H Williams,1,0,0,0,0,0,1
+Florence,Florence Ward 2,Mayor Florence,,DEM,William H Williams,2,0,0,0,1,0,1
+Florence,Florence Ward 3,Mayor Florence,,DEM,William H Williams,1,0,0,0,0,0,1
+Florence,Florence Ward 4,Mayor Florence,,DEM,William H Williams,3,0,2,0,1,0,0
+Florence,Florence Ward 5,Mayor Florence,,DEM,William H Williams,2,0,0,0,1,0,1
+Florence,Florence Ward 6,Mayor Florence,,DEM,William H Williams,2,0,0,0,1,0,1
+Florence,Florence Ward 7,Mayor Florence,,DEM,William H Williams,5,0,0,0,3,0,2
+Florence,Florence Ward 8,Mayor Florence,,DEM,William H Williams,9,0,0,0,3,0,6
+Florence,Florence Ward 9,Mayor Florence,,DEM,William H Williams,1,0,0,0,1,0,0
+Florence,Florence Ward 10,Mayor Florence,,DEM,William H Williams,2,0,0,0,0,0,2
+Florence,Florence Ward 11,Mayor Florence,,DEM,William H Williams,3,0,0,0,1,0,2
+Florence,Florence Ward 12,Mayor Florence,,DEM,William H Williams,9,0,0,0,3,0,6
+Florence,Florence Ward 14,Mayor Florence,,DEM,William H Williams,8,0,0,0,2,0,6
+Florence,Florence Ward 15,Mayor Florence,,DEM,William H Williams,0,0,0,0,0,0,0
+Florence,Greenwood,Mayor Florence,,DEM,William H Williams,3,0,0,0,0,0,3
+Florence,Savannah Grove,Mayor Florence,,DEM,William H Williams,0,0,0,0,0,0,0
+Florence,South Florence 1,Mayor Florence,,DEM,William H Williams,6,0,0,0,2,0,4
+Florence,South Florence 2,Mayor Florence,,DEM,William H Williams,0,0,0,0,0,0,0
+Florence,Spaulding,Mayor Florence,,DEM,William H Williams,1,0,0,0,0,0,1
+Florence,Tans Bay,Mayor Florence,,DEM,William H Williams,0,0,0,0,0,0,0
+Florence,West Florence 1,Mayor Florence,,DEM,William H Williams,1,0,0,0,0,0,1
+Florence,West Florence 2,Mayor Florence,,DEM,William H Williams,0,0,0,0,0,0,0
+Florence,Failsafe,Mayor Florence,,DEM,William H Williams,0,0,0,0,0,0,0
+Florence,Provisional,Mayor Florence,,DEM,William H Williams,0,0,0,0,0,0,0
+Florence,Failsafe Provisional,Mayor Florence,,DEM,William H Williams,0,0,0,0,0,0,0

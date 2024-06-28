@@ -1,0 +1,884 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Berkeley,ALVIN,U.S. House,1,DEM,Mac Deford,12,0,0,0,0,0,12
+Berkeley,BETHERA,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Berkeley,BONNEAU,U.S. House,1,DEM,Mac Deford,10,0,0,0,5,0,5
+Berkeley,BONNEAU BEACH,U.S. House,1,DEM,Mac Deford,8,0,0,0,4,0,4
+Berkeley,CENTRAL,U.S. House,1,DEM,Mac Deford,41,0,2,0,15,0,24
+Berkeley,CAINHOY,U.S. House,1,DEM,Mac Deford,19,0,1,0,3,0,15
+Berkeley,CARNES CROSS ROADS 1,U.S. House,1,DEM,Mac Deford,8,0,0,0,0,0,8
+Berkeley,CARNES CROSS ROADS 2,U.S. House,1,DEM,Mac Deford,20,0,1,0,2,0,17
+Berkeley,CORDESVILLE,U.S. House,1,DEM,Mac Deford,24,0,2,0,1,0,21
+Berkeley,CROSS,U.S. House,1,DEM,Mac Deford,18,0,5,0,5,0,8
+Berkeley,DANIEL ISLAND 1,U.S. House,1,DEM,Mac Deford,74,0,4,0,35,0,35
+Berkeley,DANIEL ISLAND 2,U.S. House,1,DEM,Mac Deford,38,0,3,0,16,0,19
+Berkeley,DEVON FOREST 1,U.S. House,1,DEM,Mac Deford,16,0,3,0,6,0,7
+Berkeley,DEVON FOREST 2,U.S. House,1,DEM,Mac Deford,11,0,3,0,6,0,2
+Berkeley,EADYTOWN,U.S. House,1,DEM,Mac Deford,8,0,0,0,2,0,6
+Berkeley,HANAHAN 1,U.S. House,1,DEM,Mac Deford,32,0,2,0,7,0,23
+Berkeley,HANAHAN 2,U.S. House,1,DEM,Mac Deford,8,0,0,0,5,0,3
+Berkeley,HANAHAN 3,U.S. House,1,DEM,Mac Deford,2,0,0,0,0,0,2
+Berkeley,HANAHAN 4,U.S. House,1,DEM,Mac Deford,13,0,2,0,6,0,5
+Berkeley,HILTON CROSS RD,U.S. House,1,DEM,Mac Deford,33,0,3,0,2,0,28
+Berkeley,HUGER,U.S. House,1,DEM,Mac Deford,29,0,2,0,6,0,21
+Berkeley,JAMESTOWN,U.S. House,1,DEM,Mac Deford,14,0,0,0,5,0,9
+Berkeley,LEBANON,U.S. House,1,DEM,Mac Deford,6,0,0,0,2,0,4
+Berkeley,MACEDONIA,U.S. House,1,DEM,Mac Deford,10,0,1,0,7,0,2
+Berkeley,MCBETH,U.S. House,1,DEM,Mac Deford,4,0,0,0,2,0,2
+Berkeley,MONCKS CORNER 1,U.S. House,1,DEM,Mac Deford,14,0,1,0,8,0,5
+Berkeley,MONCKS CORNER 2,U.S. House,1,DEM,Mac Deford,16,0,2,0,9,0,5
+Berkeley,MONCKS CORNER 3,U.S. House,1,DEM,Mac Deford,26,0,0,0,11,0,15
+Berkeley,MONCKS CORNER 4,U.S. House,1,DEM,Mac Deford,13,0,0,0,6,0,7
+Berkeley,PIMLICO,U.S. House,1,DEM,Mac Deford,7,0,0,0,1,0,6
+Berkeley,PINOPOLIS,U.S. House,1,DEM,Mac Deford,11,0,1,0,2,0,8
+Berkeley,RUSSELLVILLE,U.S. House,1,DEM,Mac Deford,44,0,2,0,15,0,27
+Berkeley,SANGAREE 1,U.S. House,1,DEM,Mac Deford,14,0,0,0,5,0,9
+Berkeley,SANGAREE 2,U.S. House,1,DEM,Mac Deford,18,0,0,0,0,0,18
+Berkeley,SANGAREE 3,U.S. House,1,DEM,Mac Deford,12,0,1,0,3,0,8
+Berkeley,SHULERVILLE,U.S. House,1,DEM,Mac Deford,8,0,0,0,0,0,8
+Berkeley,ST. STEPHEN 1,U.S. House,1,DEM,Mac Deford,36,0,3,0,19,0,14
+Berkeley,ST. STEPHEN 2,U.S. House,1,DEM,Mac Deford,20,0,0,0,15,0,5
+Berkeley,STRATFORD 1,U.S. House,1,DEM,Mac Deford,10,0,1,0,2,0,7
+Berkeley,STRATFORD 2,U.S. House,1,DEM,Mac Deford,21,0,6,0,9,0,6
+Berkeley,STRATFORD 3,U.S. House,1,DEM,Mac Deford,11,0,2,0,2,0,7
+Berkeley,STRATFORD 4,U.S. House,1,DEM,Mac Deford,13,0,6,0,1,0,6
+Berkeley,WASSAMASSAW 1,U.S. House,1,DEM,Mac Deford,23,0,3,0,10,0,10
+Berkeley,WASSAMASSAW 2,U.S. House,1,DEM,Mac Deford,21,0,0,0,5,0,16
+Berkeley,WESTVIEW 1,U.S. House,1,DEM,Mac Deford,7,0,0,0,4,0,3
+Berkeley,WESTVIEW 2,U.S. House,1,DEM,Mac Deford,18,0,1,0,4,0,13
+Berkeley,WESTVIEW 3,U.S. House,1,DEM,Mac Deford,17,0,3,0,2,0,12
+Berkeley,BEVERLY HILLS,U.S. House,1,DEM,Mac Deford,4,0,0,0,1,0,3
+Berkeley,HOWE HALL 1,U.S. House,1,DEM,Mac Deford,19,0,2,0,6,0,11
+Berkeley,HOWE HALL 2,U.S. House,1,DEM,Mac Deford,6,0,0,0,3,0,3
+Berkeley,LIBERTY HALL,U.S. House,1,DEM,Mac Deford,16,0,2,0,2,0,12
+Berkeley,MEDWAY,U.S. House,1,DEM,Mac Deford,37,0,2,0,11,0,24
+Berkeley,WHITESVILLE 1,U.S. House,1,DEM,Mac Deford,16,0,1,0,7,0,8
+Berkeley,WHITESVILLE 2,U.S. House,1,DEM,Mac Deford,11,0,0,0,6,0,5
+Berkeley,DANIEL ISLAND 3,U.S. House,1,DEM,Mac Deford,68,0,0,0,33,0,35
+Berkeley,DANIEL ISLAND 4,U.S. House,1,DEM,Mac Deford,80,0,7,0,40,0,33
+Berkeley,THE VILLAGE,U.S. House,1,DEM,Mac Deford,44,0,2,0,15,0,27
+Berkeley,YELLOW HOUSE,U.S. House,1,DEM,Mac Deford,39,0,5,0,9,0,25
+Berkeley,CANE BAY,U.S. House,1,DEM,Mac Deford,36,0,0,0,7,0,29
+Berkeley,DISCOVERY,U.S. House,1,DEM,Mac Deford,11,0,1,0,0,0,10
+Berkeley,FOX BANK,U.S. House,1,DEM,Mac Deford,22,0,0,0,4,0,18
+Berkeley,HANAHAN 5,U.S. House,1,DEM,Mac Deford,6,0,0,0,2,0,4
+Berkeley,MOULTRIE,U.S. House,1,DEM,Mac Deford,64,0,14,0,15,0,35
+Berkeley,OLD 52,U.S. House,1,DEM,Mac Deford,6,0,1,0,2,0,3
+Berkeley,ROYLE,U.S. House,1,DEM,Mac Deford,4,0,0,0,0,0,4
+Berkeley,SEVENTY EIGHT,U.S. House,1,DEM,Mac Deford,18,0,1,0,7,0,10
+Berkeley,STONE LAKE,U.S. House,1,DEM,Mac Deford,15,0,0,0,8,0,7
+Berkeley,STRATFORD 5,U.S. House,1,DEM,Mac Deford,6,0,0,0,1,0,5
+Berkeley,WESTVIEW 4,U.S. House,1,DEM,Mac Deford,14,0,1,0,5,0,8
+Berkeley,FOSTER CREEK 1,U.S. House,1,DEM,Mac Deford,20,0,1,0,4,0,15
+Berkeley,FOSTER CREEK 2,U.S. House,1,DEM,Mac Deford,31,0,2,0,13,0,16
+Berkeley,FOSTER CREEK 3,U.S. House,1,DEM,Mac Deford,28,0,0,0,10,0,18
+Berkeley,HARBOUR LAKE,U.S. House,1,DEM,Mac Deford,16,0,1,0,3,0,12
+Berkeley,ST. JAMES,U.S. House,1,DEM,Mac Deford,14,0,2,0,2,0,10
+Berkeley,SEDGEFIELD 1,U.S. House,1,DEM,Mac Deford,9,0,0,0,3,0,6
+Berkeley,SEDGEFIELD 2,U.S. House,1,DEM,Mac Deford,5,0,0,0,2,0,3
+Berkeley,TRAMWAY,U.S. House,1,DEM,Mac Deford,10,0,1,0,2,0,7
+Berkeley,WEATHERSTONE,U.S. House,1,DEM,Mac Deford,23,0,0,0,1,0,22
+Berkeley,CYPRESS,U.S. House,1,DEM,Mac Deford,7,0,0,0,5,0,2
+Berkeley,NORTH CREEK,U.S. House,1,DEM,Mac Deford,24,0,3,0,7,0,14
+Berkeley,BOULDER BLUFF,U.S. House,1,DEM,Mac Deford,21,0,3,0,4,0,14
+Berkeley,BUSHY PARK,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Berkeley,CANE BAY EAST,U.S. House,1,DEM,Mac Deford,63,0,15,0,21,0,27
+Berkeley,CANE BAY NORTH,U.S. House,1,DEM,Mac Deford,47,0,6,0,17,0,24
+Berkeley,CANE BAY SOUTH,U.S. House,1,DEM,Mac Deford,13,0,3,0,4,0,6
+Berkeley,COBBLESTONE,U.S. House,1,DEM,Mac Deford,16,0,0,0,6,0,10
+Berkeley,FIFTY-TWO,U.S. House,1,DEM,Mac Deford,14,0,0,0,5,0,9
+Berkeley,HORSESHOE,U.S. House,1,DEM,Mac Deford,5,0,0,0,1,0,4
+Berkeley,LIVE OAK,U.S. House,1,DEM,Mac Deford,11,0,1,0,4,0,6
+Berkeley,MACEDONIA 2,U.S. House,1,DEM,Mac Deford,1,0,0,0,0,0,1
+Berkeley,NEXTON,U.S. House,1,DEM,Mac Deford,74,0,9,0,18,0,47
+Berkeley,SEDGEFIELD 3,U.S. House,1,DEM,Mac Deford,8,0,0,0,3,0,5
+Berkeley,WILDCAT TRAIL,U.S. House,1,DEM,Mac Deford,18,0,3,0,3,0,12
+Berkeley,YEAMAN'S CLUB,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Berkeley,Failsafe,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Berkeley,Provisional,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Berkeley,ALVIN,U.S. House,1,DEM,Michael B Moore,73,0,2,0,11,0,60
+Berkeley,BETHERA,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Berkeley,BONNEAU,U.S. House,1,DEM,Michael B Moore,37,0,0,0,22,0,15
+Berkeley,BONNEAU BEACH,U.S. House,1,DEM,Michael B Moore,13,0,0,0,5,0,8
+Berkeley,CENTRAL,U.S. House,1,DEM,Michael B Moore,74,0,1,0,36,0,37
+Berkeley,CAINHOY,U.S. House,1,DEM,Michael B Moore,102,0,12,0,13,0,77
+Berkeley,CARNES CROSS ROADS 1,U.S. House,1,DEM,Michael B Moore,6,0,0,0,0,0,6
+Berkeley,CARNES CROSS ROADS 2,U.S. House,1,DEM,Michael B Moore,15,0,2,0,5,0,8
+Berkeley,CORDESVILLE,U.S. House,1,DEM,Michael B Moore,24,0,5,0,7,0,12
+Berkeley,CROSS,U.S. House,1,DEM,Michael B Moore,27,0,3,0,7,0,17
+Berkeley,DANIEL ISLAND 1,U.S. House,1,DEM,Michael B Moore,26,0,1,0,6,0,19
+Berkeley,DANIEL ISLAND 2,U.S. House,1,DEM,Michael B Moore,21,0,2,0,8,0,11
+Berkeley,DEVON FOREST 1,U.S. House,1,DEM,Michael B Moore,34,0,2,0,6,0,26
+Berkeley,DEVON FOREST 2,U.S. House,1,DEM,Michael B Moore,20,0,0,0,9,0,11
+Berkeley,EADYTOWN,U.S. House,1,DEM,Michael B Moore,33,0,4,0,5,0,24
+Berkeley,HANAHAN 1,U.S. House,1,DEM,Michael B Moore,38,0,4,0,19,0,15
+Berkeley,HANAHAN 2,U.S. House,1,DEM,Michael B Moore,20,0,3,0,7,0,10
+Berkeley,HANAHAN 3,U.S. House,1,DEM,Michael B Moore,10,0,0,0,5,0,5
+Berkeley,HANAHAN 4,U.S. House,1,DEM,Michael B Moore,19,0,4,0,8,0,7
+Berkeley,HILTON CROSS RD,U.S. House,1,DEM,Michael B Moore,72,0,0,0,12,0,60
+Berkeley,HUGER,U.S. House,1,DEM,Michael B Moore,55,0,6,0,9,0,40
+Berkeley,JAMESTOWN,U.S. House,1,DEM,Michael B Moore,26,0,0,0,6,0,20
+Berkeley,LEBANON,U.S. House,1,DEM,Michael B Moore,14,0,0,0,1,0,13
+Berkeley,MACEDONIA,U.S. House,1,DEM,Michael B Moore,3,0,1,0,2,0,0
+Berkeley,MCBETH,U.S. House,1,DEM,Michael B Moore,27,0,3,0,10,0,14
+Berkeley,MONCKS CORNER 1,U.S. House,1,DEM,Michael B Moore,42,0,4,0,20,0,18
+Berkeley,MONCKS CORNER 2,U.S. House,1,DEM,Michael B Moore,59,0,9,0,15,0,35
+Berkeley,MONCKS CORNER 3,U.S. House,1,DEM,Michael B Moore,75,0,2,0,33,0,40
+Berkeley,MONCKS CORNER 4,U.S. House,1,DEM,Michael B Moore,18,0,0,0,6,0,12
+Berkeley,PIMLICO,U.S. House,1,DEM,Michael B Moore,18,0,1,0,6,0,11
+Berkeley,PINOPOLIS,U.S. House,1,DEM,Michael B Moore,17,0,0,0,10,0,7
+Berkeley,RUSSELLVILLE,U.S. House,1,DEM,Michael B Moore,145,0,13,0,47,0,85
+Berkeley,SANGAREE 1,U.S. House,1,DEM,Michael B Moore,22,0,2,0,4,0,16
+Berkeley,SANGAREE 2,U.S. House,1,DEM,Michael B Moore,21,0,2,0,9,0,10
+Berkeley,SANGAREE 3,U.S. House,1,DEM,Michael B Moore,26,0,0,0,5,0,21
+Berkeley,SHULERVILLE,U.S. House,1,DEM,Michael B Moore,25,0,0,0,9,0,16
+Berkeley,ST. STEPHEN 1,U.S. House,1,DEM,Michael B Moore,110,0,8,0,51,0,51
+Berkeley,ST. STEPHEN 2,U.S. House,1,DEM,Michael B Moore,74,0,0,0,31,0,43
+Berkeley,STRATFORD 1,U.S. House,1,DEM,Michael B Moore,6,0,1,0,3,0,2
+Berkeley,STRATFORD 2,U.S. House,1,DEM,Michael B Moore,36,0,6,0,11,0,19
+Berkeley,STRATFORD 3,U.S. House,1,DEM,Michael B Moore,42,0,11,0,9,0,22
+Berkeley,STRATFORD 4,U.S. House,1,DEM,Michael B Moore,24,0,3,0,3,0,18
+Berkeley,WASSAMASSAW 1,U.S. House,1,DEM,Michael B Moore,50,0,5,0,20,0,25
+Berkeley,WASSAMASSAW 2,U.S. House,1,DEM,Michael B Moore,52,0,6,0,10,0,36
+Berkeley,WESTVIEW 1,U.S. House,1,DEM,Michael B Moore,30,0,5,0,14,0,11
+Berkeley,WESTVIEW 2,U.S. House,1,DEM,Michael B Moore,25,0,3,0,8,0,14
+Berkeley,WESTVIEW 3,U.S. House,1,DEM,Michael B Moore,36,0,4,0,7,0,25
+Berkeley,BEVERLY HILLS,U.S. House,1,DEM,Michael B Moore,37,0,4,0,16,0,17
+Berkeley,HOWE HALL 1,U.S. House,1,DEM,Michael B Moore,61,0,3,0,24,0,34
+Berkeley,HOWE HALL 2,U.S. House,1,DEM,Michael B Moore,28,0,2,0,6,0,20
+Berkeley,LIBERTY HALL,U.S. House,1,DEM,Michael B Moore,57,0,2,0,17,0,38
+Berkeley,MEDWAY,U.S. House,1,DEM,Michael B Moore,77,0,10,0,12,0,55
+Berkeley,WHITESVILLE 1,U.S. House,1,DEM,Michael B Moore,37,0,1,0,13,0,23
+Berkeley,WHITESVILLE 2,U.S. House,1,DEM,Michael B Moore,27,0,3,0,11,0,13
+Berkeley,DANIEL ISLAND 3,U.S. House,1,DEM,Michael B Moore,33,0,2,0,16,0,15
+Berkeley,DANIEL ISLAND 4,U.S. House,1,DEM,Michael B Moore,42,0,2,0,25,0,15
+Berkeley,THE VILLAGE,U.S. House,1,DEM,Michael B Moore,22,0,2,0,5,0,15
+Berkeley,YELLOW HOUSE,U.S. House,1,DEM,Michael B Moore,37,0,3,0,8,0,26
+Berkeley,CANE BAY,U.S. House,1,DEM,Michael B Moore,43,0,6,0,10,0,27
+Berkeley,DISCOVERY,U.S. House,1,DEM,Michael B Moore,27,0,1,0,5,0,21
+Berkeley,FOX BANK,U.S. House,1,DEM,Michael B Moore,56,0,1,0,18,0,37
+Berkeley,HANAHAN 5,U.S. House,1,DEM,Michael B Moore,8,0,0,0,4,0,4
+Berkeley,MOULTRIE,U.S. House,1,DEM,Michael B Moore,102,0,14,0,26,0,62
+Berkeley,OLD 52,U.S. House,1,DEM,Michael B Moore,18,0,0,0,9,0,9
+Berkeley,ROYLE,U.S. House,1,DEM,Michael B Moore,21,0,2,0,4,0,15
+Berkeley,SEVENTY EIGHT,U.S. House,1,DEM,Michael B Moore,12,0,0,0,3,0,9
+Berkeley,STONE LAKE,U.S. House,1,DEM,Michael B Moore,31,0,1,0,14,0,16
+Berkeley,STRATFORD 5,U.S. House,1,DEM,Michael B Moore,27,0,2,0,8,0,17
+Berkeley,WESTVIEW 4,U.S. House,1,DEM,Michael B Moore,27,0,1,0,5,0,21
+Berkeley,FOSTER CREEK 1,U.S. House,1,DEM,Michael B Moore,25,0,4,0,13,0,8
+Berkeley,FOSTER CREEK 2,U.S. House,1,DEM,Michael B Moore,43,0,4,0,17,0,22
+Berkeley,FOSTER CREEK 3,U.S. House,1,DEM,Michael B Moore,31,0,3,0,7,0,21
+Berkeley,HARBOUR LAKE,U.S. House,1,DEM,Michael B Moore,31,0,0,0,15,0,16
+Berkeley,ST. JAMES,U.S. House,1,DEM,Michael B Moore,23,0,2,0,6,0,15
+Berkeley,SEDGEFIELD 1,U.S. House,1,DEM,Michael B Moore,41,0,3,0,10,0,28
+Berkeley,SEDGEFIELD 2,U.S. House,1,DEM,Michael B Moore,11,0,1,0,3,0,7
+Berkeley,TRAMWAY,U.S. House,1,DEM,Michael B Moore,27,0,2,0,10,0,15
+Berkeley,WEATHERSTONE,U.S. House,1,DEM,Michael B Moore,25,0,0,0,1,0,24
+Berkeley,CYPRESS,U.S. House,1,DEM,Michael B Moore,39,0,2,0,13,0,24
+Berkeley,NORTH CREEK,U.S. House,1,DEM,Michael B Moore,27,0,6,0,4,0,17
+Berkeley,BOULDER BLUFF,U.S. House,1,DEM,Michael B Moore,46,0,2,0,13,0,31
+Berkeley,BUSHY PARK,U.S. House,1,DEM,Michael B Moore,2,0,0,0,1,0,1
+Berkeley,CANE BAY EAST,U.S. House,1,DEM,Michael B Moore,35,0,12,0,11,0,12
+Berkeley,CANE BAY NORTH,U.S. House,1,DEM,Michael B Moore,57,0,8,0,23,0,26
+Berkeley,CANE BAY SOUTH,U.S. House,1,DEM,Michael B Moore,24,0,0,0,7,0,17
+Berkeley,COBBLESTONE,U.S. House,1,DEM,Michael B Moore,23,0,5,0,9,0,9
+Berkeley,FIFTY-TWO,U.S. House,1,DEM,Michael B Moore,45,0,1,0,16,0,28
+Berkeley,HORSESHOE,U.S. House,1,DEM,Michael B Moore,17,0,0,0,3,0,14
+Berkeley,LIVE OAK,U.S. House,1,DEM,Michael B Moore,1,0,0,0,1,0,0
+Berkeley,MACEDONIA 2,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Berkeley,NEXTON,U.S. House,1,DEM,Michael B Moore,33,0,1,0,11,0,21
+Berkeley,SEDGEFIELD 3,U.S. House,1,DEM,Michael B Moore,19,0,3,0,0,0,16
+Berkeley,WILDCAT TRAIL,U.S. House,1,DEM,Michael B Moore,18,0,3,0,4,0,11
+Berkeley,YEAMAN'S CLUB,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Berkeley,Failsafe,U.S. House,1,DEM,Michael B Moore,1,1,0,0,0,0,0
+Berkeley,Provisional,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,U.S. House,1,DEM,Michael B Moore,3,0,0,3,0,0,0
+Berkeley,ALVIN,U.S. House,1,REP,Nancy Mace,32,0,5,0,10,0,17
+Berkeley,BETHERA,U.S. House,1,REP,Nancy Mace,40,0,3,0,1,0,36
+Berkeley,BONNEAU,U.S. House,1,REP,Nancy Mace,71,0,2,0,17,0,52
+Berkeley,BONNEAU BEACH,U.S. House,1,REP,Nancy Mace,143,0,3,0,24,0,116
+Berkeley,CENTRAL,U.S. House,1,REP,Nancy Mace,78,0,5,0,27,0,46
+Berkeley,CAINHOY,U.S. House,1,REP,Nancy Mace,21,0,0,0,9,0,12
+Berkeley,CARNES CROSS ROADS 1,U.S. House,1,REP,Nancy Mace,81,0,12,0,17,0,52
+Berkeley,CARNES CROSS ROADS 2,U.S. House,1,REP,Nancy Mace,93,0,4,0,15,0,74
+Berkeley,CORDESVILLE,U.S. House,1,REP,Nancy Mace,61,0,1,0,13,0,47
+Berkeley,CROSS,U.S. House,1,REP,Nancy Mace,85,0,5,0,10,0,70
+Berkeley,DANIEL ISLAND 1,U.S. House,1,REP,Nancy Mace,229,0,13,0,81,0,135
+Berkeley,DANIEL ISLAND 2,U.S. House,1,REP,Nancy Mace,105,0,5,0,55,0,45
+Berkeley,DEVON FOREST 1,U.S. House,1,REP,Nancy Mace,49,0,1,0,14,0,34
+Berkeley,DEVON FOREST 2,U.S. House,1,REP,Nancy Mace,39,0,3,0,12,0,24
+Berkeley,EADYTOWN,U.S. House,1,REP,Nancy Mace,14,0,0,0,2,0,12
+Berkeley,HANAHAN 1,U.S. House,1,REP,Nancy Mace,196,0,15,0,76,0,105
+Berkeley,HANAHAN 2,U.S. House,1,REP,Nancy Mace,76,0,3,0,46,0,27
+Berkeley,HANAHAN 3,U.S. House,1,REP,Nancy Mace,106,0,11,0,49,0,46
+Berkeley,HANAHAN 4,U.S. House,1,REP,Nancy Mace,51,0,2,0,26,0,23
+Berkeley,HILTON CROSS RD,U.S. House,1,REP,Nancy Mace,46,0,5,0,7,0,34
+Berkeley,HUGER,U.S. House,1,REP,Nancy Mace,69,0,5,0,11,0,53
+Berkeley,JAMESTOWN,U.S. House,1,REP,Nancy Mace,28,0,0,0,2,0,26
+Berkeley,LEBANON,U.S. House,1,REP,Nancy Mace,67,0,3,0,6,0,58
+Berkeley,MACEDONIA,U.S. House,1,REP,Nancy Mace,115,0,2,0,20,0,93
+Berkeley,MCBETH,U.S. House,1,REP,Nancy Mace,65,0,4,0,19,0,42
+Berkeley,MONCKS CORNER 1,U.S. House,1,REP,Nancy Mace,97,0,6,0,26,0,65
+Berkeley,MONCKS CORNER 2,U.S. House,1,REP,Nancy Mace,66,0,3,0,26,0,37
+Berkeley,MONCKS CORNER 3,U.S. House,1,REP,Nancy Mace,58,0,1,0,23,0,34
+Berkeley,MONCKS CORNER 4,U.S. House,1,REP,Nancy Mace,175,0,5,0,47,0,123
+Berkeley,PIMLICO,U.S. House,1,REP,Nancy Mace,113,0,2,0,20,0,91
+Berkeley,PINOPOLIS,U.S. House,1,REP,Nancy Mace,192,0,11,0,63,0,118
+Berkeley,RUSSELLVILLE,U.S. House,1,REP,Nancy Mace,21,0,0,0,15,0,6
+Berkeley,SANGAREE 1,U.S. House,1,REP,Nancy Mace,44,0,3,0,10,0,31
+Berkeley,SANGAREE 2,U.S. House,1,REP,Nancy Mace,60,0,10,0,12,0,38
+Berkeley,SANGAREE 3,U.S. House,1,REP,Nancy Mace,47,0,1,0,7,0,39
+Berkeley,SHULERVILLE,U.S. House,1,REP,Nancy Mace,28,0,0,0,3,0,25
+Berkeley,ST. STEPHEN 1,U.S. House,1,REP,Nancy Mace,28,0,1,0,10,0,17
+Berkeley,ST. STEPHEN 2,U.S. House,1,REP,Nancy Mace,45,0,2,0,14,0,29
+Berkeley,STRATFORD 1,U.S. House,1,REP,Nancy Mace,14,0,3,0,3,0,8
+Berkeley,STRATFORD 2,U.S. House,1,REP,Nancy Mace,175,0,9,0,43,0,123
+Berkeley,STRATFORD 3,U.S. House,1,REP,Nancy Mace,87,0,10,0,26,0,51
+Berkeley,STRATFORD 4,U.S. House,1,REP,Nancy Mace,78,0,13,0,20,0,45
+Berkeley,WASSAMASSAW 1,U.S. House,1,REP,Nancy Mace,29,0,0,0,8,0,21
+Berkeley,WASSAMASSAW 2,U.S. House,1,REP,Nancy Mace,148,0,6,0,21,0,121
+Berkeley,WESTVIEW 1,U.S. House,1,REP,Nancy Mace,129,0,8,0,27,0,94
+Berkeley,WESTVIEW 2,U.S. House,1,REP,Nancy Mace,85,0,5,0,18,0,62
+Berkeley,WESTVIEW 3,U.S. House,1,REP,Nancy Mace,103,0,12,0,20,0,71
+Berkeley,BEVERLY HILLS,U.S. House,1,REP,Nancy Mace,28,0,3,0,6,0,19
+Berkeley,HOWE HALL 1,U.S. House,1,REP,Nancy Mace,47,0,5,0,10,0,32
+Berkeley,HOWE HALL 2,U.S. House,1,REP,Nancy Mace,38,0,4,0,8,0,26
+Berkeley,LIBERTY HALL,U.S. House,1,REP,Nancy Mace,48,0,3,0,10,0,35
+Berkeley,MEDWAY,U.S. House,1,REP,Nancy Mace,99,0,1,0,32,0,66
+Berkeley,WHITESVILLE 1,U.S. House,1,REP,Nancy Mace,41,0,1,0,9,0,31
+Berkeley,WHITESVILLE 2,U.S. House,1,REP,Nancy Mace,25,0,0,0,2,0,23
+Berkeley,DANIEL ISLAND 3,U.S. House,1,REP,Nancy Mace,170,0,7,0,99,0,64
+Berkeley,DANIEL ISLAND 4,U.S. House,1,REP,Nancy Mace,272,0,10,0,151,0,111
+Berkeley,THE VILLAGE,U.S. House,1,REP,Nancy Mace,150,0,14,0,22,0,114
+Berkeley,YELLOW HOUSE,U.S. House,1,REP,Nancy Mace,131,0,9,0,36,0,86
+Berkeley,CANE BAY,U.S. House,1,REP,Nancy Mace,100,0,2,0,27,0,71
+Berkeley,DISCOVERY,U.S. House,1,REP,Nancy Mace,51,0,7,0,7,0,37
+Berkeley,FOX BANK,U.S. House,1,REP,Nancy Mace,120,0,10,0,24,0,86
+Berkeley,HANAHAN 5,U.S. House,1,REP,Nancy Mace,121,0,10,0,49,0,62
+Berkeley,MOULTRIE,U.S. House,1,REP,Nancy Mace,21,0,2,0,2,0,17
+Berkeley,OLD 52,U.S. House,1,REP,Nancy Mace,48,0,1,0,15,0,32
+Berkeley,ROYLE,U.S. House,1,REP,Nancy Mace,49,0,4,0,12,0,33
+Berkeley,SEVENTY EIGHT,U.S. House,1,REP,Nancy Mace,42,0,2,0,5,0,35
+Berkeley,STONE LAKE,U.S. House,1,REP,Nancy Mace,66,0,6,0,17,0,43
+Berkeley,STRATFORD 5,U.S. House,1,REP,Nancy Mace,34,0,6,0,2,0,26
+Berkeley,WESTVIEW 4,U.S. House,1,REP,Nancy Mace,98,0,2,0,23,0,73
+Berkeley,FOSTER CREEK 1,U.S. House,1,REP,Nancy Mace,77,0,5,0,24,0,48
+Berkeley,FOSTER CREEK 2,U.S. House,1,REP,Nancy Mace,137,0,4,0,56,0,77
+Berkeley,FOSTER CREEK 3,U.S. House,1,REP,Nancy Mace,79,0,8,0,15,0,56
+Berkeley,HARBOUR LAKE,U.S. House,1,REP,Nancy Mace,28,0,1,0,11,0,16
+Berkeley,ST. JAMES,U.S. House,1,REP,Nancy Mace,66,0,4,0,20,0,42
+Berkeley,SEDGEFIELD 1,U.S. House,1,REP,Nancy Mace,54,0,2,0,13,0,39
+Berkeley,SEDGEFIELD 2,U.S. House,1,REP,Nancy Mace,8,0,2,0,2,0,4
+Berkeley,TRAMWAY,U.S. House,1,REP,Nancy Mace,49,0,5,0,6,0,38
+Berkeley,WEATHERSTONE,U.S. House,1,REP,Nancy Mace,64,0,3,0,3,0,58
+Berkeley,CYPRESS,U.S. House,1,REP,Nancy Mace,49,0,3,0,13,0,33
+Berkeley,NORTH CREEK,U.S. House,1,REP,Nancy Mace,40,0,3,0,14,0,23
+Berkeley,BOULDER BLUFF,U.S. House,1,REP,Nancy Mace,61,0,8,0,5,0,48
+Berkeley,BUSHY PARK,U.S. House,1,REP,Nancy Mace,5,0,0,0,1,0,4
+Berkeley,CANE BAY EAST,U.S. House,1,REP,Nancy Mace,198,0,25,0,65,0,108
+Berkeley,CANE BAY NORTH,U.S. House,1,REP,Nancy Mace,147,0,15,0,53,0,79
+Berkeley,CANE BAY SOUTH,U.S. House,1,REP,Nancy Mace,50,0,1,0,9,0,40
+Berkeley,COBBLESTONE,U.S. House,1,REP,Nancy Mace,39,0,5,0,14,0,20
+Berkeley,FIFTY-TWO,U.S. House,1,REP,Nancy Mace,60,0,0,0,22,0,38
+Berkeley,HORSESHOE,U.S. House,1,REP,Nancy Mace,35,0,6,0,9,0,20
+Berkeley,LIVE OAK,U.S. House,1,REP,Nancy Mace,88,0,3,0,17,0,68
+Berkeley,MACEDONIA 2,U.S. House,1,REP,Nancy Mace,15,0,2,0,3,0,10
+Berkeley,NEXTON,U.S. House,1,REP,Nancy Mace,170,0,8,0,21,0,141
+Berkeley,SEDGEFIELD 3,U.S. House,1,REP,Nancy Mace,41,0,1,0,17,0,23
+Berkeley,WILDCAT TRAIL,U.S. House,1,REP,Nancy Mace,53,0,2,0,13,0,38
+Berkeley,YEAMAN'S CLUB,U.S. House,1,REP,Nancy Mace,9,0,4,0,3,0,2
+Berkeley,Failsafe,U.S. House,1,REP,Nancy Mace,1,1,0,0,0,0,0
+Berkeley,Provisional,U.S. House,1,REP,Nancy Mace,1,0,0,0,0,1,0
+Berkeley,Failsafe Provisional,U.S. House,1,REP,Nancy Mace,2,0,0,2,0,0,0
+Berkeley,ALVIN,U.S. House,1,REP,Catherine Templeton,7,0,0,0,0,0,7
+Berkeley,BETHERA,U.S. House,1,REP,Catherine Templeton,8,0,0,0,0,0,8
+Berkeley,BONNEAU,U.S. House,1,REP,Catherine Templeton,22,0,2,0,4,0,16
+Berkeley,BONNEAU BEACH,U.S. House,1,REP,Catherine Templeton,54,0,0,0,12,0,42
+Berkeley,CENTRAL,U.S. House,1,REP,Catherine Templeton,41,0,7,0,11,0,23
+Berkeley,CAINHOY,U.S. House,1,REP,Catherine Templeton,17,0,5,0,3,0,9
+Berkeley,CARNES CROSS ROADS 1,U.S. House,1,REP,Catherine Templeton,30,0,3,0,6,0,21
+Berkeley,CARNES CROSS ROADS 2,U.S. House,1,REP,Catherine Templeton,52,0,6,0,8,0,38
+Berkeley,CORDESVILLE,U.S. House,1,REP,Catherine Templeton,22,0,0,0,5,0,17
+Berkeley,CROSS,U.S. House,1,REP,Catherine Templeton,24,0,5,0,2,0,17
+Berkeley,DANIEL ISLAND 1,U.S. House,1,REP,Catherine Templeton,177,0,18,0,58,0,101
+Berkeley,DANIEL ISLAND 2,U.S. House,1,REP,Catherine Templeton,73,0,6,0,26,0,41
+Berkeley,DEVON FOREST 1,U.S. House,1,REP,Catherine Templeton,23,0,4,0,2,0,17
+Berkeley,DEVON FOREST 2,U.S. House,1,REP,Catherine Templeton,13,0,2,0,3,0,8
+Berkeley,EADYTOWN,U.S. House,1,REP,Catherine Templeton,2,0,0,0,0,0,2
+Berkeley,HANAHAN 1,U.S. House,1,REP,Catherine Templeton,65,0,14,0,21,0,30
+Berkeley,HANAHAN 2,U.S. House,1,REP,Catherine Templeton,20,0,2,0,9,0,9
+Berkeley,HANAHAN 3,U.S. House,1,REP,Catherine Templeton,27,0,1,0,15,0,11
+Berkeley,HANAHAN 4,U.S. House,1,REP,Catherine Templeton,21,0,1,0,9,0,11
+Berkeley,HILTON CROSS RD,U.S. House,1,REP,Catherine Templeton,24,0,0,0,4,0,20
+Berkeley,HUGER,U.S. House,1,REP,Catherine Templeton,19,0,3,0,3,0,13
+Berkeley,JAMESTOWN,U.S. House,1,REP,Catherine Templeton,5,0,0,0,0,0,5
+Berkeley,LEBANON,U.S. House,1,REP,Catherine Templeton,32,0,1,0,2,0,29
+Berkeley,MACEDONIA,U.S. House,1,REP,Catherine Templeton,39,0,7,0,6,0,26
+Berkeley,MCBETH,U.S. House,1,REP,Catherine Templeton,19,0,2,0,4,0,13
+Berkeley,MONCKS CORNER 1,U.S. House,1,REP,Catherine Templeton,40,0,5,0,14,0,21
+Berkeley,MONCKS CORNER 2,U.S. House,1,REP,Catherine Templeton,23,0,2,0,13,0,8
+Berkeley,MONCKS CORNER 3,U.S. House,1,REP,Catherine Templeton,30,0,1,0,8,0,21
+Berkeley,MONCKS CORNER 4,U.S. House,1,REP,Catherine Templeton,55,0,3,0,18,0,34
+Berkeley,PIMLICO,U.S. House,1,REP,Catherine Templeton,53,0,4,0,9,0,40
+Berkeley,PINOPOLIS,U.S. House,1,REP,Catherine Templeton,86,0,3,0,25,0,58
+Berkeley,RUSSELLVILLE,U.S. House,1,REP,Catherine Templeton,11,0,1,0,4,0,6
+Berkeley,SANGAREE 1,U.S. House,1,REP,Catherine Templeton,12,0,0,0,4,0,8
+Berkeley,SANGAREE 2,U.S. House,1,REP,Catherine Templeton,14,0,1,0,4,0,9
+Berkeley,SANGAREE 3,U.S. House,1,REP,Catherine Templeton,9,0,1,0,0,0,8
+Berkeley,SHULERVILLE,U.S. House,1,REP,Catherine Templeton,11,0,0,0,0,0,11
+Berkeley,ST. STEPHEN 1,U.S. House,1,REP,Catherine Templeton,9,0,0,0,4,0,5
+Berkeley,ST. STEPHEN 2,U.S. House,1,REP,Catherine Templeton,13,0,1,0,6,0,6
+Berkeley,STRATFORD 1,U.S. House,1,REP,Catherine Templeton,10,0,0,0,2,0,8
+Berkeley,STRATFORD 2,U.S. House,1,REP,Catherine Templeton,61,0,2,0,8,0,51
+Berkeley,STRATFORD 3,U.S. House,1,REP,Catherine Templeton,12,0,5,0,2,0,5
+Berkeley,STRATFORD 4,U.S. House,1,REP,Catherine Templeton,32,0,4,0,11,0,17
+Berkeley,WASSAMASSAW 1,U.S. House,1,REP,Catherine Templeton,12,0,0,0,5,0,7
+Berkeley,WASSAMASSAW 2,U.S. House,1,REP,Catherine Templeton,44,0,4,0,9,0,31
+Berkeley,WESTVIEW 1,U.S. House,1,REP,Catherine Templeton,44,0,3,0,7,0,34
+Berkeley,WESTVIEW 2,U.S. House,1,REP,Catherine Templeton,44,0,5,0,8,0,31
+Berkeley,WESTVIEW 3,U.S. House,1,REP,Catherine Templeton,39,0,6,0,10,0,23
+Berkeley,BEVERLY HILLS,U.S. House,1,REP,Catherine Templeton,12,0,3,0,1,0,8
+Berkeley,HOWE HALL 1,U.S. House,1,REP,Catherine Templeton,21,0,4,0,2,0,15
+Berkeley,HOWE HALL 2,U.S. House,1,REP,Catherine Templeton,9,0,2,0,3,0,4
+Berkeley,LIBERTY HALL,U.S. House,1,REP,Catherine Templeton,29,0,3,0,4,0,22
+Berkeley,MEDWAY,U.S. House,1,REP,Catherine Templeton,33,0,0,0,5,0,28
+Berkeley,WHITESVILLE 1,U.S. House,1,REP,Catherine Templeton,10,0,3,0,1,0,6
+Berkeley,WHITESVILLE 2,U.S. House,1,REP,Catherine Templeton,7,0,0,0,0,0,7
+Berkeley,DANIEL ISLAND 3,U.S. House,1,REP,Catherine Templeton,87,0,6,0,45,0,36
+Berkeley,DANIEL ISLAND 4,U.S. House,1,REP,Catherine Templeton,138,0,12,0,61,0,65
+Berkeley,THE VILLAGE,U.S. House,1,REP,Catherine Templeton,65,0,6,0,11,0,48
+Berkeley,YELLOW HOUSE,U.S. House,1,REP,Catherine Templeton,54,0,5,0,22,0,27
+Berkeley,CANE BAY,U.S. House,1,REP,Catherine Templeton,36,0,0,0,6,0,30
+Berkeley,DISCOVERY,U.S. House,1,REP,Catherine Templeton,21,0,4,0,0,0,17
+Berkeley,FOX BANK,U.S. House,1,REP,Catherine Templeton,40,0,1,0,10,0,29
+Berkeley,HANAHAN 5,U.S. House,1,REP,Catherine Templeton,72,0,5,0,36,0,31
+Berkeley,MOULTRIE,U.S. House,1,REP,Catherine Templeton,6,0,0,0,1,0,5
+Berkeley,OLD 52,U.S. House,1,REP,Catherine Templeton,29,0,1,0,9,0,19
+Berkeley,ROYLE,U.S. House,1,REP,Catherine Templeton,18,0,0,0,7,0,11
+Berkeley,SEVENTY EIGHT,U.S. House,1,REP,Catherine Templeton,15,0,0,0,2,0,13
+Berkeley,STONE LAKE,U.S. House,1,REP,Catherine Templeton,20,0,2,0,8,0,10
+Berkeley,STRATFORD 5,U.S. House,1,REP,Catherine Templeton,9,0,1,0,3,0,5
+Berkeley,WESTVIEW 4,U.S. House,1,REP,Catherine Templeton,42,0,0,0,10,0,32
+Berkeley,FOSTER CREEK 1,U.S. House,1,REP,Catherine Templeton,18,0,2,0,4,0,12
+Berkeley,FOSTER CREEK 2,U.S. House,1,REP,Catherine Templeton,65,0,0,0,19,0,46
+Berkeley,FOSTER CREEK 3,U.S. House,1,REP,Catherine Templeton,43,0,3,0,14,0,26
+Berkeley,HARBOUR LAKE,U.S. House,1,REP,Catherine Templeton,12,0,2,0,4,0,6
+Berkeley,ST. JAMES,U.S. House,1,REP,Catherine Templeton,22,0,1,0,5,0,16
+Berkeley,SEDGEFIELD 1,U.S. House,1,REP,Catherine Templeton,23,0,0,0,5,0,18
+Berkeley,SEDGEFIELD 2,U.S. House,1,REP,Catherine Templeton,4,0,1,0,1,0,2
+Berkeley,TRAMWAY,U.S. House,1,REP,Catherine Templeton,26,0,3,0,3,0,20
+Berkeley,WEATHERSTONE,U.S. House,1,REP,Catherine Templeton,14,0,0,0,0,0,14
+Berkeley,CYPRESS,U.S. House,1,REP,Catherine Templeton,31,0,4,0,8,0,19
+Berkeley,NORTH CREEK,U.S. House,1,REP,Catherine Templeton,26,0,5,0,8,0,13
+Berkeley,BOULDER BLUFF,U.S. House,1,REP,Catherine Templeton,33,0,2,0,9,0,22
+Berkeley,BUSHY PARK,U.S. House,1,REP,Catherine Templeton,3,0,0,0,0,0,3
+Berkeley,CANE BAY EAST,U.S. House,1,REP,Catherine Templeton,90,0,17,0,37,0,36
+Berkeley,CANE BAY NORTH,U.S. House,1,REP,Catherine Templeton,66,0,2,0,23,0,41
+Berkeley,CANE BAY SOUTH,U.S. House,1,REP,Catherine Templeton,13,0,0,0,7,0,6
+Berkeley,COBBLESTONE,U.S. House,1,REP,Catherine Templeton,15,0,3,0,4,0,8
+Berkeley,FIFTY-TWO,U.S. House,1,REP,Catherine Templeton,15,0,0,0,4,0,11
+Berkeley,HORSESHOE,U.S. House,1,REP,Catherine Templeton,14,0,0,0,6,0,8
+Berkeley,LIVE OAK,U.S. House,1,REP,Catherine Templeton,29,0,3,0,1,0,25
+Berkeley,MACEDONIA 2,U.S. House,1,REP,Catherine Templeton,5,0,1,0,1,0,3
+Berkeley,NEXTON,U.S. House,1,REP,Catherine Templeton,99,0,11,0,13,0,75
+Berkeley,SEDGEFIELD 3,U.S. House,1,REP,Catherine Templeton,9,0,1,0,2,0,6
+Berkeley,WILDCAT TRAIL,U.S. House,1,REP,Catherine Templeton,14,0,3,0,0,0,11
+Berkeley,YEAMAN'S CLUB,U.S. House,1,REP,Catherine Templeton,5,0,2,0,0,0,3
+Berkeley,Failsafe,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Berkeley,Provisional,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Berkeley,ALVIN,U.S. House,1,REP,Bill Young,4,0,0,0,0,0,4
+Berkeley,BETHERA,U.S. House,1,REP,Bill Young,3,0,0,0,0,0,3
+Berkeley,BONNEAU,U.S. House,1,REP,Bill Young,17,0,2,0,2,0,13
+Berkeley,BONNEAU BEACH,U.S. House,1,REP,Bill Young,35,0,0,0,4,0,31
+Berkeley,CENTRAL,U.S. House,1,REP,Bill Young,24,0,2,0,3,0,19
+Berkeley,CAINHOY,U.S. House,1,REP,Bill Young,5,0,1,0,2,0,2
+Berkeley,CARNES CROSS ROADS 1,U.S. House,1,REP,Bill Young,15,0,2,0,1,0,12
+Berkeley,CARNES CROSS ROADS 2,U.S. House,1,REP,Bill Young,42,0,1,0,8,0,33
+Berkeley,CORDESVILLE,U.S. House,1,REP,Bill Young,13,0,0,0,2,0,11
+Berkeley,CROSS,U.S. House,1,REP,Bill Young,11,0,1,0,1,0,9
+Berkeley,DANIEL ISLAND 1,U.S. House,1,REP,Bill Young,46,0,2,0,20,0,24
+Berkeley,DANIEL ISLAND 2,U.S. House,1,REP,Bill Young,39,0,2,0,22,0,15
+Berkeley,DEVON FOREST 1,U.S. House,1,REP,Bill Young,9,0,0,0,1,0,8
+Berkeley,DEVON FOREST 2,U.S. House,1,REP,Bill Young,10,0,0,0,0,0,10
+Berkeley,EADYTOWN,U.S. House,1,REP,Bill Young,3,0,0,0,1,0,2
+Berkeley,HANAHAN 1,U.S. House,1,REP,Bill Young,40,0,2,0,18,0,20
+Berkeley,HANAHAN 2,U.S. House,1,REP,Bill Young,13,0,0,0,10,0,3
+Berkeley,HANAHAN 3,U.S. House,1,REP,Bill Young,21,0,3,0,7,0,11
+Berkeley,HANAHAN 4,U.S. House,1,REP,Bill Young,16,0,0,0,7,0,9
+Berkeley,HILTON CROSS RD,U.S. House,1,REP,Bill Young,14,0,1,0,3,0,10
+Berkeley,HUGER,U.S. House,1,REP,Bill Young,13,0,0,0,0,0,13
+Berkeley,JAMESTOWN,U.S. House,1,REP,Bill Young,6,0,0,0,1,0,5
+Berkeley,LEBANON,U.S. House,1,REP,Bill Young,14,0,0,0,0,0,14
+Berkeley,MACEDONIA,U.S. House,1,REP,Bill Young,16,0,0,0,6,0,10
+Berkeley,MCBETH,U.S. House,1,REP,Bill Young,17,0,2,0,7,0,8
+Berkeley,MONCKS CORNER 1,U.S. House,1,REP,Bill Young,23,0,2,0,4,0,17
+Berkeley,MONCKS CORNER 2,U.S. House,1,REP,Bill Young,7,0,0,0,0,0,7
+Berkeley,MONCKS CORNER 3,U.S. House,1,REP,Bill Young,11,0,1,0,3,0,7
+Berkeley,MONCKS CORNER 4,U.S. House,1,REP,Bill Young,27,0,2,0,7,0,18
+Berkeley,PIMLICO,U.S. House,1,REP,Bill Young,36,0,0,0,3,0,33
+Berkeley,PINOPOLIS,U.S. House,1,REP,Bill Young,43,0,1,0,15,0,27
+Berkeley,RUSSELLVILLE,U.S. House,1,REP,Bill Young,5,0,0,0,0,0,5
+Berkeley,SANGAREE 1,U.S. House,1,REP,Bill Young,6,0,0,0,1,0,5
+Berkeley,SANGAREE 2,U.S. House,1,REP,Bill Young,14,0,1,0,3,0,10
+Berkeley,SANGAREE 3,U.S. House,1,REP,Bill Young,8,0,0,0,1,0,7
+Berkeley,SHULERVILLE,U.S. House,1,REP,Bill Young,3,0,0,0,0,0,3
+Berkeley,ST. STEPHEN 1,U.S. House,1,REP,Bill Young,7,0,0,0,1,0,6
+Berkeley,ST. STEPHEN 2,U.S. House,1,REP,Bill Young,19,0,2,0,9,0,8
+Berkeley,STRATFORD 1,U.S. House,1,REP,Bill Young,4,0,0,0,0,0,4
+Berkeley,STRATFORD 2,U.S. House,1,REP,Bill Young,20,0,0,0,3,0,17
+Berkeley,STRATFORD 3,U.S. House,1,REP,Bill Young,14,0,0,0,7,0,7
+Berkeley,STRATFORD 4,U.S. House,1,REP,Bill Young,7,0,0,0,0,0,7
+Berkeley,WASSAMASSAW 1,U.S. House,1,REP,Bill Young,14,0,0,0,8,0,6
+Berkeley,WASSAMASSAW 2,U.S. House,1,REP,Bill Young,33,0,0,0,7,0,26
+Berkeley,WESTVIEW 1,U.S. House,1,REP,Bill Young,18,0,5,0,4,0,9
+Berkeley,WESTVIEW 2,U.S. House,1,REP,Bill Young,18,0,0,0,5,0,13
+Berkeley,WESTVIEW 3,U.S. House,1,REP,Bill Young,28,0,3,0,8,0,17
+Berkeley,BEVERLY HILLS,U.S. House,1,REP,Bill Young,4,0,0,0,0,0,4
+Berkeley,HOWE HALL 1,U.S. House,1,REP,Bill Young,10,0,2,0,3,0,5
+Berkeley,HOWE HALL 2,U.S. House,1,REP,Bill Young,9,0,1,0,2,0,6
+Berkeley,LIBERTY HALL,U.S. House,1,REP,Bill Young,19,0,0,0,5,0,14
+Berkeley,MEDWAY,U.S. House,1,REP,Bill Young,18,0,0,0,3,0,15
+Berkeley,WHITESVILLE 1,U.S. House,1,REP,Bill Young,18,0,3,0,5,0,10
+Berkeley,WHITESVILLE 2,U.S. House,1,REP,Bill Young,7,0,0,0,2,0,5
+Berkeley,DANIEL ISLAND 3,U.S. House,1,REP,Bill Young,35,0,0,0,18,0,17
+Berkeley,DANIEL ISLAND 4,U.S. House,1,REP,Bill Young,39,0,5,0,19,0,15
+Berkeley,THE VILLAGE,U.S. House,1,REP,Bill Young,34,0,1,0,11,0,22
+Berkeley,YELLOW HOUSE,U.S. House,1,REP,Bill Young,19,0,1,0,2,0,16
+Berkeley,CANE BAY,U.S. House,1,REP,Bill Young,17,0,0,0,4,0,13
+Berkeley,DISCOVERY,U.S. House,1,REP,Bill Young,8,0,0,0,0,0,8
+Berkeley,FOX BANK,U.S. House,1,REP,Bill Young,21,0,1,0,2,0,18
+Berkeley,HANAHAN 5,U.S. House,1,REP,Bill Young,29,0,2,0,13,0,14
+Berkeley,MOULTRIE,U.S. House,1,REP,Bill Young,5,0,0,0,2,0,3
+Berkeley,OLD 52,U.S. House,1,REP,Bill Young,13,0,0,0,1,0,12
+Berkeley,ROYLE,U.S. House,1,REP,Bill Young,13,0,1,0,2,0,10
+Berkeley,SEVENTY EIGHT,U.S. House,1,REP,Bill Young,9,0,0,0,3,0,6
+Berkeley,STONE LAKE,U.S. House,1,REP,Bill Young,26,0,1,0,6,0,19
+Berkeley,STRATFORD 5,U.S. House,1,REP,Bill Young,14,0,3,0,2,0,9
+Berkeley,WESTVIEW 4,U.S. House,1,REP,Bill Young,23,0,0,0,3,0,20
+Berkeley,FOSTER CREEK 1,U.S. House,1,REP,Bill Young,11,0,0,0,3,0,8
+Berkeley,FOSTER CREEK 2,U.S. House,1,REP,Bill Young,31,0,1,0,12,0,18
+Berkeley,FOSTER CREEK 3,U.S. House,1,REP,Bill Young,17,0,0,0,6,0,11
+Berkeley,HARBOUR LAKE,U.S. House,1,REP,Bill Young,6,0,0,0,1,0,5
+Berkeley,ST. JAMES,U.S. House,1,REP,Bill Young,17,0,0,0,2,0,15
+Berkeley,SEDGEFIELD 1,U.S. House,1,REP,Bill Young,4,0,0,0,0,0,4
+Berkeley,SEDGEFIELD 2,U.S. House,1,REP,Bill Young,4,0,0,0,1,0,3
+Berkeley,TRAMWAY,U.S. House,1,REP,Bill Young,9,0,0,0,3,0,6
+Berkeley,WEATHERSTONE,U.S. House,1,REP,Bill Young,21,0,0,0,3,0,18
+Berkeley,CYPRESS,U.S. House,1,REP,Bill Young,8,0,3,0,1,0,4
+Berkeley,NORTH CREEK,U.S. House,1,REP,Bill Young,17,0,3,0,4,0,10
+Berkeley,BOULDER BLUFF,U.S. House,1,REP,Bill Young,7,0,0,0,2,0,5
+Berkeley,BUSHY PARK,U.S. House,1,REP,Bill Young,1,0,0,0,1,0,0
+Berkeley,CANE BAY EAST,U.S. House,1,REP,Bill Young,41,0,11,0,15,0,15
+Berkeley,CANE BAY NORTH,U.S. House,1,REP,Bill Young,54,0,8,0,16,0,30
+Berkeley,CANE BAY SOUTH,U.S. House,1,REP,Bill Young,18,0,0,0,6,0,12
+Berkeley,COBBLESTONE,U.S. House,1,REP,Bill Young,12,0,1,0,0,0,11
+Berkeley,FIFTY-TWO,U.S. House,1,REP,Bill Young,8,0,0,0,1,0,7
+Berkeley,HORSESHOE,U.S. House,1,REP,Bill Young,6,0,0,0,2,0,4
+Berkeley,LIVE OAK,U.S. House,1,REP,Bill Young,31,0,6,0,5,0,20
+Berkeley,MACEDONIA 2,U.S. House,1,REP,Bill Young,2,0,1,0,1,0,0
+Berkeley,NEXTON,U.S. House,1,REP,Bill Young,43,0,5,0,8,0,30
+Berkeley,SEDGEFIELD 3,U.S. House,1,REP,Bill Young,3,0,0,0,1,0,2
+Berkeley,WILDCAT TRAIL,U.S. House,1,REP,Bill Young,9,0,0,0,4,0,5
+Berkeley,YEAMAN'S CLUB,U.S. House,1,REP,Bill Young,2,0,1,0,0,0,1
+Berkeley,Failsafe,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Berkeley,Provisional,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Berkeley,ALVIN,State Senate,32,DEM,Ronnie A Sabb,78,0,3,0,8,0,67
+Berkeley,EADYTOWN,State Senate,32,DEM,Ronnie A Sabb,32,0,2,0,10,0,20
+Berkeley,RUSSELLVILLE,State Senate,32,DEM,Ronnie A Sabb,126,0,11,0,47,0,68
+Berkeley,SHULERVILLE,State Senate,32,DEM,Ronnie A Sabb,27,0,0,0,9,0,18
+Berkeley,ST. STEPHEN 1,State Senate,32,DEM,Ronnie A Sabb,102,0,9,0,55,0,38
+Berkeley,ST. STEPHEN 2,State Senate,32,DEM,Ronnie A Sabb,62,0,0,0,32,0,30
+Berkeley,MOULTRIE,State Senate,32,DEM,Ronnie A Sabb,80,0,16,0,25,0,39
+Berkeley,Failsafe,State Senate,32,DEM,Ronnie A Sabb,0,0,0,0,0,0,0
+Berkeley,Provisional,State Senate,32,DEM,Ronnie A Sabb,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,State Senate,32,DEM,Ronnie A Sabb,0,0,0,0,0,0,0
+Berkeley,ALVIN,State Senate,32,DEM,Prinscillia D Sumpter,15,0,0,0,3,0,12
+Berkeley,EADYTOWN,State Senate,32,DEM,Prinscillia D Sumpter,16,0,2,0,3,0,11
+Berkeley,RUSSELLVILLE,State Senate,32,DEM,Prinscillia D Sumpter,72,0,4,0,20,0,48
+Berkeley,SHULERVILLE,State Senate,32,DEM,Prinscillia D Sumpter,8,0,0,0,0,0,8
+Berkeley,ST. STEPHEN 1,State Senate,32,DEM,Prinscillia D Sumpter,60,0,3,0,25,0,32
+Berkeley,ST. STEPHEN 2,State Senate,32,DEM,Prinscillia D Sumpter,38,0,0,0,20,0,18
+Berkeley,MOULTRIE,State Senate,32,DEM,Prinscillia D Sumpter,78,0,12,0,15,0,51
+Berkeley,Failsafe,State Senate,32,DEM,Prinscillia D Sumpter,0,0,0,0,0,0,0
+Berkeley,Provisional,State Senate,32,DEM,Prinscillia D Sumpter,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,State Senate,32,DEM,Prinscillia D Sumpter,0,0,0,0,0,0,0
+Berkeley,DANIEL ISLAND 1,State Senate,44,REP,Brian Adams,248,0,18,0,88,0,142
+Berkeley,DANIEL ISLAND 2,State Senate,44,REP,Brian Adams,117,0,4,0,60,0,53
+Berkeley,HANAHAN 1,State Senate,44,REP,Brian Adams,277,0,29,0,105,0,143
+Berkeley,HANAHAN 2,State Senate,44,REP,Brian Adams,101,0,4,0,61,0,36
+Berkeley,HANAHAN 3,State Senate,44,REP,Brian Adams,130,0,13,0,64,0,53
+Berkeley,HANAHAN 4,State Senate,44,REP,Brian Adams,75,0,2,0,35,0,38
+Berkeley,SANGAREE 1,State Senate,44,REP,Brian Adams,56,0,3,0,15,0,38
+Berkeley,SANGAREE 2,State Senate,44,REP,Brian Adams,85,0,10,0,18,0,57
+Berkeley,SANGAREE 3,State Senate,44,REP,Brian Adams,61,0,2,0,6,0,53
+Berkeley,STRATFORD 2,State Senate,44,REP,Brian Adams,237,0,11,0,54,0,172
+Berkeley,STRATFORD 3,State Senate,44,REP,Brian Adams,98,0,11,0,31,0,56
+Berkeley,STRATFORD 4,State Senate,44,REP,Brian Adams,111,0,15,0,31,0,65
+Berkeley,WESTVIEW 1,State Senate,44,REP,Brian Adams,176,0,13,0,38,0,125
+Berkeley,WESTVIEW 2,State Senate,44,REP,Brian Adams,136,0,10,0,28,0,98
+Berkeley,WESTVIEW 3,State Senate,44,REP,Brian Adams,155,0,18,0,38,0,99
+Berkeley,HOWE HALL 2,State Senate,44,REP,Brian Adams,50,0,5,0,12,0,33
+Berkeley,DANIEL ISLAND 3,State Senate,44,REP,Brian Adams,157,0,4,0,88,0,65
+Berkeley,DANIEL ISLAND 4,State Senate,44,REP,Brian Adams,282,0,22,0,154,0,106
+Berkeley,DISCOVERY,State Senate,44,REP,Brian Adams,70,0,6,0,7,0,57
+Berkeley,HANAHAN 5,State Senate,44,REP,Brian Adams,187,0,13,0,80,0,94
+Berkeley,ROYLE,State Senate,44,REP,Brian Adams,71,0,5,0,15,0,51
+Berkeley,STONE LAKE,State Senate,44,REP,Brian Adams,99,0,9,0,28,0,62
+Berkeley,WESTVIEW 4,State Senate,44,REP,Brian Adams,148,0,2,0,33,0,113
+Berkeley,FOSTER CREEK 1,State Senate,44,REP,Brian Adams,98,0,7,0,28,0,63
+Berkeley,FOSTER CREEK 2,State Senate,44,REP,Brian Adams,194,0,5,0,76,0,113
+Berkeley,FOSTER CREEK 3,State Senate,44,REP,Brian Adams,118,0,9,0,31,0,78
+Berkeley,HARBOUR LAKE,State Senate,44,REP,Brian Adams,44,0,3,0,14,0,27
+Berkeley,ST. JAMES,State Senate,44,REP,Brian Adams,87,0,5,0,28,0,54
+Berkeley,SEDGEFIELD 1,State Senate,44,REP,Brian Adams,71,0,2,0,18,0,51
+Berkeley,YEAMAN'S CLUB,State Senate,44,REP,Brian Adams,12,0,6,0,3,0,3
+Berkeley,Failsafe,State Senate,44,REP,Brian Adams,0,0,0,0,0,0,0
+Berkeley,Provisional,State Senate,44,REP,Brian Adams,1,0,0,0,0,1,0
+Berkeley,Failsafe Provisional,State Senate,44,REP,Brian Adams,0,0,0,0,0,0,0
+Berkeley,DANIEL ISLAND 1,State Senate,44,REP,Shawn Pinkston,171,0,12,0,62,0,97
+Berkeley,DANIEL ISLAND 2,State Senate,44,REP,Shawn Pinkston,94,0,8,0,42,0,44
+Berkeley,HANAHAN 1,State Senate,44,REP,Shawn Pinkston,20,0,2,0,8,0,10
+Berkeley,HANAHAN 2,State Senate,44,REP,Shawn Pinkston,5,0,0,0,4,0,1
+Berkeley,HANAHAN 3,State Senate,44,REP,Shawn Pinkston,24,0,2,0,9,0,13
+Berkeley,HANAHAN 4,State Senate,44,REP,Shawn Pinkston,12,0,1,0,7,0,4
+Berkeley,SANGAREE 1,State Senate,44,REP,Shawn Pinkston,5,0,0,0,0,0,5
+Berkeley,SANGAREE 2,State Senate,44,REP,Shawn Pinkston,2,0,0,0,1,0,1
+Berkeley,SANGAREE 3,State Senate,44,REP,Shawn Pinkston,4,0,0,0,2,0,2
+Berkeley,STRATFORD 2,State Senate,44,REP,Shawn Pinkston,17,0,0,0,1,0,16
+Berkeley,STRATFORD 3,State Senate,44,REP,Shawn Pinkston,11,0,4,0,3,0,4
+Berkeley,STRATFORD 4,State Senate,44,REP,Shawn Pinkston,7,0,2,0,1,0,4
+Berkeley,WESTVIEW 1,State Senate,44,REP,Shawn Pinkston,13,0,3,0,0,0,10
+Berkeley,WESTVIEW 2,State Senate,44,REP,Shawn Pinkston,10,0,0,0,3,0,7
+Berkeley,WESTVIEW 3,State Senate,44,REP,Shawn Pinkston,14,0,3,0,0,0,11
+Berkeley,HOWE HALL 2,State Senate,44,REP,Shawn Pinkston,4,0,2,0,1,0,1
+Berkeley,DANIEL ISLAND 3,State Senate,44,REP,Shawn Pinkston,117,0,5,0,65,0,47
+Berkeley,DANIEL ISLAND 4,State Senate,44,REP,Shawn Pinkston,140,0,7,0,69,0,64
+Berkeley,DISCOVERY,State Senate,44,REP,Shawn Pinkston,6,0,3,0,0,0,3
+Berkeley,HANAHAN 5,State Senate,44,REP,Shawn Pinkston,25,0,1,0,16,0,8
+Berkeley,ROYLE,State Senate,44,REP,Shawn Pinkston,7,0,0,0,4,0,3
+Berkeley,STONE LAKE,State Senate,44,REP,Shawn Pinkston,12,0,0,0,3,0,9
+Berkeley,WESTVIEW 4,State Senate,44,REP,Shawn Pinkston,14,0,0,0,3,0,11
+Berkeley,FOSTER CREEK 1,State Senate,44,REP,Shawn Pinkston,6,0,0,0,2,0,4
+Berkeley,FOSTER CREEK 2,State Senate,44,REP,Shawn Pinkston,34,0,0,0,9,0,25
+Berkeley,FOSTER CREEK 3,State Senate,44,REP,Shawn Pinkston,17,0,3,0,2,0,12
+Berkeley,HARBOUR LAKE,State Senate,44,REP,Shawn Pinkston,3,0,0,0,2,0,1
+Berkeley,ST. JAMES,State Senate,44,REP,Shawn Pinkston,15,0,0,0,0,0,15
+Berkeley,SEDGEFIELD 1,State Senate,44,REP,Shawn Pinkston,9,0,0,0,0,0,9
+Berkeley,YEAMAN'S CLUB,State Senate,44,REP,Shawn Pinkston,2,0,1,0,0,0,1
+Berkeley,Failsafe,State Senate,44,REP,Shawn Pinkston,0,0,0,0,0,0,0
+Berkeley,Provisional,State Senate,44,REP,Shawn Pinkston,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,State Senate,44,REP,Shawn Pinkston,0,0,0,0,0,0,0
+Berkeley,HOWE HALL 1,State House,15,DEM,Damian Daly,11,0,2,0,2,0,7
+Berkeley,HOWE HALL 2,State House,15,DEM,Damian Daly,4,0,0,0,1,0,3
+Berkeley,LIBERTY HALL,State House,15,DEM,Damian Daly,3,0,1,0,1,0,1
+Berkeley,FOSTER CREEK 1,State House,15,DEM,Damian Daly,5,0,0,0,0,0,5
+Berkeley,HARBOUR LAKE,State House,15,DEM,Damian Daly,6,0,0,0,0,0,6
+Berkeley,ST. JAMES,State House,15,DEM,Damian Daly,4,0,0,0,2,0,2
+Berkeley,SEDGEFIELD 1,State House,15,DEM,Damian Daly,3,0,0,0,0,0,3
+Berkeley,SEDGEFIELD 3,State House,15,DEM,Damian Daly,5,0,0,0,2,0,3
+Berkeley,Failsafe,State House,15,DEM,Damian Daly,0,0,0,0,0,0,0
+Berkeley,Provisional,State House,15,DEM,Damian Daly,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,State House,15,DEM,Damian Daly,0,0,0,0,0,0,0
+Berkeley,HOWE HALL 1,State House,15,DEM,JA Moore,67,0,3,0,26,0,38
+Berkeley,HOWE HALL 2,State House,15,DEM,JA Moore,31,0,2,0,6,0,23
+Berkeley,LIBERTY HALL,State House,15,DEM,JA Moore,42,0,1,0,14,0,27
+Berkeley,FOSTER CREEK 1,State House,15,DEM,JA Moore,8,0,0,0,2,0,6
+Berkeley,HARBOUR LAKE,State House,15,DEM,JA Moore,40,0,1,0,17,0,22
+Berkeley,ST. JAMES,State House,15,DEM,JA Moore,21,0,0,0,5,0,16
+Berkeley,SEDGEFIELD 1,State House,15,DEM,JA Moore,51,0,3,0,13,0,35
+Berkeley,SEDGEFIELD 3,State House,15,DEM,JA Moore,22,0,3,0,2,0,17
+Berkeley,Failsafe,State House,15,DEM,JA Moore,0,0,0,0,0,0,0
+Berkeley,Provisional,State House,15,DEM,JA Moore,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,State House,15,DEM,JA Moore,0,0,0,0,0,0,0
+Berkeley,BONNEAU,State House,102,DEM,Collin Holloway,2,0,0,0,0,0,2
+Berkeley,CROSS,State House,102,DEM,Collin Holloway,0,0,0,0,0,0,0
+Berkeley,EADYTOWN,State House,102,DEM,Collin Holloway,3,0,2,0,1,0,0
+Berkeley,HILTON CROSS RD,State House,102,DEM,Collin Holloway,6,0,0,0,0,0,6
+Berkeley,LEBANON,State House,102,DEM,Collin Holloway,7,0,0,0,1,0,6
+Berkeley,RUSSELLVILLE,State House,102,DEM,Collin Holloway,13,0,1,0,3,0,9
+Berkeley,ST. STEPHEN 1,State House,102,DEM,Collin Holloway,16,0,1,0,4,0,11
+Berkeley,ST. STEPHEN 2,State House,102,DEM,Collin Holloway,5,0,0,0,1,0,4
+Berkeley,WASSAMASSAW 1,State House,102,DEM,Collin Holloway,8,0,0,0,3,0,5
+Berkeley,WASSAMASSAW 2,State House,102,DEM,Collin Holloway,14,0,0,0,1,0,13
+Berkeley,CANE BAY,State House,102,DEM,Collin Holloway,24,0,0,0,3,0,21
+Berkeley,MOULTRIE,State House,102,DEM,Collin Holloway,3,0,0,0,0,0,3
+Berkeley,WEATHERSTONE,State House,102,DEM,Collin Holloway,15,0,0,0,0,0,15
+Berkeley,WILDCAT TRAIL,State House,102,DEM,Collin Holloway,10,0,0,0,2,0,8
+Berkeley,Failsafe,State House,102,DEM,Collin Holloway,0,0,0,0,0,0,0
+Berkeley,Provisional,State House,102,DEM,Collin Holloway,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,State House,102,DEM,Collin Holloway,0,0,0,0,0,0,0
+Berkeley,BONNEAU,State House,102,DEM,Joe Jefferson,55,0,0,0,33,0,22
+Berkeley,CROSS,State House,102,DEM,Joe Jefferson,50,0,8,0,11,0,31
+Berkeley,EADYTOWN,State House,102,DEM,Joe Jefferson,57,0,2,0,16,0,39
+Berkeley,HILTON CROSS RD,State House,102,DEM,Joe Jefferson,106,0,4,0,16,0,86
+Berkeley,LEBANON,State House,102,DEM,Joe Jefferson,13,0,0,0,2,0,11
+Berkeley,RUSSELLVILLE,State House,102,DEM,Joe Jefferson,196,0,14,0,74,0,108
+Berkeley,ST. STEPHEN 1,State House,102,DEM,Joe Jefferson,153,0,11,0,82,0,60
+Berkeley,ST. STEPHEN 2,State House,102,DEM,Joe Jefferson,46,0,0,0,31,0,15
+Berkeley,WASSAMASSAW 1,State House,102,DEM,Joe Jefferson,66,0,8,0,26,0,32
+Berkeley,WASSAMASSAW 2,State House,102,DEM,Joe Jefferson,60,0,6,0,14,0,40
+Berkeley,CANE BAY,State House,102,DEM,Joe Jefferson,52,0,6,0,14,0,32
+Berkeley,MOULTRIE,State House,102,DEM,Joe Jefferson,179,0,32,0,45,0,102
+Berkeley,WEATHERSTONE,State House,102,DEM,Joe Jefferson,22,0,0,0,1,0,21
+Berkeley,WILDCAT TRAIL,State House,102,DEM,Joe Jefferson,27,0,6,0,6,0,15
+Berkeley,Failsafe,State House,102,DEM,Joe Jefferson,0,0,0,0,0,0,0
+Berkeley,Provisional,State House,102,DEM,Joe Jefferson,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,State House,102,DEM,Joe Jefferson,0,0,0,0,0,0,0
+Berkeley,BONNEAU,State House,102,REP,Ralph Elsey,15,0,0,0,0,0,15
+Berkeley,CROSS,State House,102,REP,Ralph Elsey,33,0,5,0,5,0,23
+Berkeley,EADYTOWN,State House,102,REP,Ralph Elsey,4,0,0,0,1,0,3
+Berkeley,HILTON CROSS RD,State House,102,REP,Ralph Elsey,69,0,3,0,10,0,56
+Berkeley,LEBANON,State House,102,REP,Ralph Elsey,68,0,3,0,6,0,59
+Berkeley,RUSSELLVILLE,State House,102,REP,Ralph Elsey,19,0,1,0,9,0,9
+Berkeley,ST. STEPHEN 1,State House,102,REP,Ralph Elsey,27,0,1,0,9,0,17
+Berkeley,ST. STEPHEN 2,State House,102,REP,Ralph Elsey,26,0,0,0,11,0,15
+Berkeley,WASSAMASSAW 1,State House,102,REP,Ralph Elsey,43,0,0,0,15,0,28
+Berkeley,WASSAMASSAW 2,State House,102,REP,Ralph Elsey,117,0,5,0,15,0,97
+Berkeley,CANE BAY,State House,102,REP,Ralph Elsey,55,0,0,0,13,0,42
+Berkeley,MOULTRIE,State House,102,REP,Ralph Elsey,14,0,0,0,2,0,12
+Berkeley,WEATHERSTONE,State House,102,REP,Ralph Elsey,51,0,1,0,3,0,47
+Berkeley,WILDCAT TRAIL,State House,102,REP,Ralph Elsey,22,0,3,0,10,0,9
+Berkeley,Failsafe,State House,102,REP,Ralph Elsey,0,0,0,0,0,0,0
+Berkeley,Provisional,State House,102,REP,Ralph Elsey,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,State House,102,REP,Ralph Elsey,0,0,0,0,0,0,0
+Berkeley,BONNEAU,State House,102,REP,Harriet Holman,10,0,0,0,4,0,6
+Berkeley,CROSS,State House,102,REP,Harriet Holman,52,0,2,0,5,0,45
+Berkeley,EADYTOWN,State House,102,REP,Harriet Holman,15,0,0,0,2,0,13
+Berkeley,HILTON CROSS RD,State House,102,REP,Harriet Holman,15,0,3,0,4,0,8
+Berkeley,LEBANON,State House,102,REP,Harriet Holman,43,0,1,0,2,0,40
+Berkeley,RUSSELLVILLE,State House,102,REP,Harriet Holman,17,0,0,0,10,0,7
+Berkeley,ST. STEPHEN 1,State House,102,REP,Harriet Holman,12,0,0,0,4,0,8
+Berkeley,ST. STEPHEN 2,State House,102,REP,Harriet Holman,10,0,1,0,5,0,4
+Berkeley,WASSAMASSAW 1,State House,102,REP,Harriet Holman,12,0,0,0,5,0,7
+Berkeley,WASSAMASSAW 2,State House,102,REP,Harriet Holman,105,0,5,0,22,0,78
+Berkeley,CANE BAY,State House,102,REP,Harriet Holman,93,0,2,0,22,0,69
+Berkeley,MOULTRIE,State House,102,REP,Harriet Holman,20,0,2,0,3,0,15
+Berkeley,WEATHERSTONE,State House,102,REP,Harriet Holman,36,0,1,0,2,0,33
+Berkeley,WILDCAT TRAIL,State House,102,REP,Harriet Holman,53,0,2,0,6,0,45
+Berkeley,Failsafe,State House,102,REP,Harriet Holman,0,0,0,0,0,0,0
+Berkeley,Provisional,State House,102,REP,Harriet Holman,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,State House,102,REP,Harriet Holman,0,0,0,0,0,0,0
+Berkeley,ALVIN,Auditor,,REP,Wilson Baggett,30,0,3,0,10,0,17
+Berkeley,BETHERA,Auditor,,REP,Wilson Baggett,27,0,2,0,0,0,25
+Berkeley,BONNEAU,Auditor,,REP,Wilson Baggett,61,0,2,0,11,0,48
+Berkeley,BONNEAU BEACH,Auditor,,REP,Wilson Baggett,137,0,1,0,24,0,112
+Berkeley,CENTRAL,Auditor,,REP,Wilson Baggett,84,0,7,0,27,0,50
+Berkeley,CAINHOY,Auditor,,REP,Wilson Baggett,32,0,5,0,11,0,16
+Berkeley,CARNES CROSS ROADS 1,Auditor,,REP,Wilson Baggett,76,0,5,0,16,0,55
+Berkeley,CARNES CROSS ROADS 2,Auditor,,REP,Wilson Baggett,89,0,4,0,16,0,69
+Berkeley,CORDESVILLE,Auditor,,REP,Wilson Baggett,42,0,1,0,8,0,33
+Berkeley,CROSS,Auditor,,REP,Wilson Baggett,69,0,7,0,4,0,58
+Berkeley,DANIEL ISLAND 1,Auditor,,REP,Wilson Baggett,274,0,17,0,88,0,169
+Berkeley,DANIEL ISLAND 2,Auditor,,REP,Wilson Baggett,128,0,3,0,57,0,68
+Berkeley,DEVON FOREST 1,Auditor,,REP,Wilson Baggett,48,0,3,0,11,0,34
+Berkeley,DEVON FOREST 2,Auditor,,REP,Wilson Baggett,30,0,0,0,11,0,19
+Berkeley,EADYTOWN,Auditor,,REP,Wilson Baggett,17,0,0,0,3,0,14
+Berkeley,HANAHAN 1,Auditor,,REP,Wilson Baggett,194,0,21,0,71,0,102
+Berkeley,HANAHAN 2,Auditor,,REP,Wilson Baggett,78,0,2,0,54,0,22
+Berkeley,HANAHAN 3,Auditor,,REP,Wilson Baggett,92,0,8,0,46,0,38
+Berkeley,HANAHAN 4,Auditor,,REP,Wilson Baggett,59,0,3,0,30,0,26
+Berkeley,HILTON CROSS RD,Auditor,,REP,Wilson Baggett,58,0,6,0,9,0,43
+Berkeley,HUGER,Auditor,,REP,Wilson Baggett,58,0,0,0,6,0,52
+Berkeley,JAMESTOWN,Auditor,,REP,Wilson Baggett,16,0,0,0,1,0,15
+Berkeley,LEBANON,Auditor,,REP,Wilson Baggett,85,0,3,0,5,0,77
+Berkeley,MACEDONIA,Auditor,,REP,Wilson Baggett,98,0,5,0,18,0,75
+Berkeley,MCBETH,Auditor,,REP,Wilson Baggett,52,0,2,0,14,0,36
+Berkeley,MONCKS CORNER 1,Auditor,,REP,Wilson Baggett,106,0,10,0,27,0,69
+Berkeley,MONCKS CORNER 2,Auditor,,REP,Wilson Baggett,54,0,3,0,21,0,30
+Berkeley,MONCKS CORNER 3,Auditor,,REP,Wilson Baggett,64,0,2,0,22,0,40
+Berkeley,MONCKS CORNER 4,Auditor,,REP,Wilson Baggett,176,0,8,0,44,0,124
+Berkeley,PIMLICO,Auditor,,REP,Wilson Baggett,96,0,4,0,17,0,75
+Berkeley,PINOPOLIS,Auditor,,REP,Wilson Baggett,176,0,10,0,58,0,108
+Berkeley,RUSSELLVILLE,Auditor,,REP,Wilson Baggett,23,0,1,0,11,0,11
+Berkeley,SANGAREE 1,Auditor,,REP,Wilson Baggett,35,0,0,0,8,0,27
+Berkeley,SANGAREE 2,Auditor,,REP,Wilson Baggett,51,0,9,0,10,0,32
+Berkeley,SANGAREE 3,Auditor,,REP,Wilson Baggett,26,0,1,0,4,0,21
+Berkeley,SHULERVILLE,Auditor,,REP,Wilson Baggett,18,0,0,0,2,0,16
+Berkeley,ST. STEPHEN 1,Auditor,,REP,Wilson Baggett,34,0,1,0,13,0,20
+Berkeley,ST. STEPHEN 2,Auditor,,REP,Wilson Baggett,58,0,3,0,23,0,32
+Berkeley,STRATFORD 1,Auditor,,REP,Wilson Baggett,21,0,3,0,3,0,15
+Berkeley,STRATFORD 2,Auditor,,REP,Wilson Baggett,167,0,5,0,41,0,121
+Berkeley,STRATFORD 3,Auditor,,REP,Wilson Baggett,61,0,6,0,20,0,35
+Berkeley,STRATFORD 4,Auditor,,REP,Wilson Baggett,55,0,5,0,13,0,37
+Berkeley,WASSAMASSAW 1,Auditor,,REP,Wilson Baggett,26,0,0,0,7,0,19
+Berkeley,WASSAMASSAW 2,Auditor,,REP,Wilson Baggett,166,0,9,0,22,0,135
+Berkeley,WESTVIEW 1,Auditor,,REP,Wilson Baggett,110,0,5,0,21,0,84
+Berkeley,WESTVIEW 2,Auditor,,REP,Wilson Baggett,97,0,8,0,23,0,66
+Berkeley,WESTVIEW 3,Auditor,,REP,Wilson Baggett,116,0,13,0,29,0,74
+Berkeley,BEVERLY HILLS,Auditor,,REP,Wilson Baggett,27,0,4,0,2,0,21
+Berkeley,HOWE HALL 1,Auditor,,REP,Wilson Baggett,51,0,7,0,13,0,31
+Berkeley,HOWE HALL 2,Auditor,,REP,Wilson Baggett,36,0,2,0,10,0,24
+Berkeley,LIBERTY HALL,Auditor,,REP,Wilson Baggett,71,0,2,0,15,0,54
+Berkeley,MEDWAY,Auditor,,REP,Wilson Baggett,85,0,1,0,24,0,60
+Berkeley,WHITESVILLE 1,Auditor,,REP,Wilson Baggett,32,0,1,0,10,0,21
+Berkeley,WHITESVILLE 2,Auditor,,REP,Wilson Baggett,15,0,0,0,1,0,14
+Berkeley,DANIEL ISLAND 3,Auditor,,REP,Wilson Baggett,156,0,7,0,92,0,57
+Berkeley,DANIEL ISLAND 4,Auditor,,REP,Wilson Baggett,254,0,9,0,131,0,114
+Berkeley,THE VILLAGE,Auditor,,REP,Wilson Baggett,134,0,10,0,15,0,109
+Berkeley,YELLOW HOUSE,Auditor,,REP,Wilson Baggett,108,0,5,0,28,0,75
+Berkeley,CANE BAY,Auditor,,REP,Wilson Baggett,86,0,1,0,21,0,64
+Berkeley,DISCOVERY,Auditor,,REP,Wilson Baggett,44,0,5,0,2,0,37
+Berkeley,FOX BANK,Auditor,,REP,Wilson Baggett,83,0,6,0,15,0,62
+Berkeley,HANAHAN 5,Auditor,,REP,Wilson Baggett,128,0,7,0,61,0,60
+Berkeley,MOULTRIE,Auditor,,REP,Wilson Baggett,23,0,0,0,5,0,18
+Berkeley,OLD 52,Auditor,,REP,Wilson Baggett,50,0,1,0,10,0,39
+Berkeley,ROYLE,Auditor,,REP,Wilson Baggett,48,0,2,0,13,0,33
+Berkeley,SEVENTY EIGHT,Auditor,,REP,Wilson Baggett,31,0,2,0,3,0,26
+Berkeley,STONE LAKE,Auditor,,REP,Wilson Baggett,60,0,4,0,18,0,38
+Berkeley,STRATFORD 5,Auditor,,REP,Wilson Baggett,28,0,4,0,3,0,21
+Berkeley,WESTVIEW 4,Auditor,,REP,Wilson Baggett,99,0,2,0,20,0,77
+Berkeley,FOSTER CREEK 1,Auditor,,REP,Wilson Baggett,65,0,6,0,23,0,36
+Berkeley,FOSTER CREEK 2,Auditor,,REP,Wilson Baggett,92,0,0,0,34,0,58
+Berkeley,FOSTER CREEK 3,Auditor,,REP,Wilson Baggett,65,0,5,0,15,0,45
+Berkeley,HARBOUR LAKE,Auditor,,REP,Wilson Baggett,29,0,0,0,7,0,22
+Berkeley,ST. JAMES,Auditor,,REP,Wilson Baggett,57,0,4,0,18,0,35
+Berkeley,SEDGEFIELD 1,Auditor,,REP,Wilson Baggett,50,0,2,0,15,0,33
+Berkeley,SEDGEFIELD 2,Auditor,,REP,Wilson Baggett,5,0,0,0,0,0,5
+Berkeley,TRAMWAY,Auditor,,REP,Wilson Baggett,52,0,1,0,9,0,42
+Berkeley,WEATHERSTONE,Auditor,,REP,Wilson Baggett,68,0,1,0,6,0,61
+Berkeley,CYPRESS,Auditor,,REP,Wilson Baggett,57,0,6,0,18,0,33
+Berkeley,NORTH CREEK,Auditor,,REP,Wilson Baggett,38,0,3,0,16,0,19
+Berkeley,BOULDER BLUFF,Auditor,,REP,Wilson Baggett,65,0,4,0,10,0,51
+Berkeley,BUSHY PARK,Auditor,,REP,Wilson Baggett,4,0,0,0,1,0,3
+Berkeley,CANE BAY EAST,Auditor,,REP,Wilson Baggett,207,0,28,0,76,0,103
+Berkeley,CANE BAY NORTH,Auditor,,REP,Wilson Baggett,131,0,10,0,47,0,74
+Berkeley,CANE BAY SOUTH,Auditor,,REP,Wilson Baggett,57,0,1,0,19,0,37
+Berkeley,COBBLESTONE,Auditor,,REP,Wilson Baggett,36,0,2,0,12,0,22
+Berkeley,FIFTY-TWO,Auditor,,REP,Wilson Baggett,40,0,0,0,12,0,28
+Berkeley,HORSESHOE,Auditor,,REP,Wilson Baggett,26,0,2,0,6,0,18
+Berkeley,LIVE OAK,Auditor,,REP,Wilson Baggett,89,0,7,0,10,0,72
+Berkeley,MACEDONIA 2,Auditor,,REP,Wilson Baggett,12,0,2,0,2,0,8
+Berkeley,NEXTON,Auditor,,REP,Wilson Baggett,147,0,14,0,11,0,122
+Berkeley,SEDGEFIELD 3,Auditor,,REP,Wilson Baggett,31,0,1,0,12,0,18
+Berkeley,WILDCAT TRAIL,Auditor,,REP,Wilson Baggett,44,0,2,0,9,0,33
+Berkeley,YEAMAN'S CLUB,Auditor,,REP,Wilson Baggett,9,0,5,0,2,0,2
+Berkeley,Failsafe,Auditor,,REP,Wilson Baggett,0,0,0,0,0,0,0
+Berkeley,Provisional,Auditor,,REP,Wilson Baggett,1,0,0,0,0,1,0
+Berkeley,Failsafe Provisional,Auditor,,REP,Wilson Baggett,2,0,0,2,0,0,0
+Berkeley,ALVIN,Auditor,,REP,Molly Owens John,12,0,2,0,0,0,10
+Berkeley,BETHERA,Auditor,,REP,Molly Owens John,20,0,0,0,1,0,19
+Berkeley,BONNEAU,Auditor,,REP,Molly Owens John,47,0,4,0,12,0,31
+Berkeley,BONNEAU BEACH,Auditor,,REP,Molly Owens John,87,0,0,0,17,0,70
+Berkeley,CENTRAL,Auditor,,REP,Molly Owens John,53,0,7,0,12,0,34
+Berkeley,CAINHOY,Auditor,,REP,Molly Owens John,10,0,2,0,2,0,6
+Berkeley,CARNES CROSS ROADS 1,Auditor,,REP,Molly Owens John,44,0,12,0,6,0,26
+Berkeley,CARNES CROSS ROADS 2,Auditor,,REP,Molly Owens John,82,0,6,0,14,0,62
+Berkeley,CORDESVILLE,Auditor,,REP,Molly Owens John,52,0,0,0,11,0,41
+Berkeley,CROSS,Auditor,,REP,Molly Owens John,47,0,4,0,8,0,35
+Berkeley,DANIEL ISLAND 1,Auditor,,REP,Molly Owens John,122,0,12,0,52,0,58
+Berkeley,DANIEL ISLAND 2,Auditor,,REP,Molly Owens John,70,0,8,0,39,0,23
+Berkeley,DEVON FOREST 1,Auditor,,REP,Molly Owens John,30,0,2,0,4,0,24
+Berkeley,DEVON FOREST 2,Auditor,,REP,Molly Owens John,31,0,4,0,4,0,23
+Berkeley,EADYTOWN,Auditor,,REP,Molly Owens John,2,0,0,0,0,0,2
+Berkeley,HANAHAN 1,Auditor,,REP,Molly Owens John,98,0,9,0,39,0,50
+Berkeley,HANAHAN 2,Auditor,,REP,Molly Owens John,24,0,1,0,12,0,11
+Berkeley,HANAHAN 3,Auditor,,REP,Molly Owens John,53,0,5,0,22,0,26
+Berkeley,HANAHAN 4,Auditor,,REP,Molly Owens John,28,0,0,0,12,0,16
+Berkeley,HILTON CROSS RD,Auditor,,REP,Molly Owens John,23,0,0,0,3,0,20
+Berkeley,HUGER,Auditor,,REP,Molly Owens John,36,0,6,0,7,0,23
+Berkeley,JAMESTOWN,Auditor,,REP,Molly Owens John,22,0,0,0,2,0,20
+Berkeley,LEBANON,Auditor,,REP,Molly Owens John,23,0,1,0,0,0,22
+Berkeley,MACEDONIA,Auditor,,REP,Molly Owens John,65,0,2,0,13,0,50
+Berkeley,MCBETH,Auditor,,REP,Molly Owens John,43,0,2,0,15,0,26
+Berkeley,MONCKS CORNER 1,Auditor,,REP,Molly Owens John,52,0,2,0,16,0,34
+Berkeley,MONCKS CORNER 2,Auditor,,REP,Molly Owens John,40,0,2,0,18,0,20
+Berkeley,MONCKS CORNER 3,Auditor,,REP,Molly Owens John,36,0,1,0,11,0,24
+Berkeley,MONCKS CORNER 4,Auditor,,REP,Molly Owens John,77,0,2,0,28,0,47
+Berkeley,PIMLICO,Auditor,,REP,Molly Owens John,97,0,2,0,13,0,82
+Berkeley,PINOPOLIS,Auditor,,REP,Molly Owens John,142,0,5,0,44,0,93
+Berkeley,RUSSELLVILLE,Auditor,,REP,Molly Owens John,13,0,0,0,8,0,5
+Berkeley,SANGAREE 1,Auditor,,REP,Molly Owens John,25,0,3,0,6,0,16
+Berkeley,SANGAREE 2,Auditor,,REP,Molly Owens John,39,0,3,0,9,0,27
+Berkeley,SANGAREE 3,Auditor,,REP,Molly Owens John,35,0,1,0,3,0,31
+Berkeley,SHULERVILLE,Auditor,,REP,Molly Owens John,18,0,0,0,1,0,17
+Berkeley,ST. STEPHEN 1,Auditor,,REP,Molly Owens John,8,0,0,0,1,0,7
+Berkeley,ST. STEPHEN 2,Auditor,,REP,Molly Owens John,19,0,2,0,6,0,11
+Berkeley,STRATFORD 1,Auditor,,REP,Molly Owens John,5,0,0,0,1,0,4
+Berkeley,STRATFORD 2,Auditor,,REP,Molly Owens John,77,0,6,0,13,0,58
+Berkeley,STRATFORD 3,Auditor,,REP,Molly Owens John,43,0,8,0,13,0,22
+Berkeley,STRATFORD 4,Auditor,,REP,Molly Owens John,61,0,12,0,18,0,31
+Berkeley,WASSAMASSAW 1,Auditor,,REP,Molly Owens John,28,0,0,0,13,0,15
+Berkeley,WASSAMASSAW 2,Auditor,,REP,Molly Owens John,56,0,1,0,15,0,40
+Berkeley,WESTVIEW 1,Auditor,,REP,Molly Owens John,70,0,11,0,16,0,43
+Berkeley,WESTVIEW 2,Auditor,,REP,Molly Owens John,45,0,2,0,8,0,35
+Berkeley,WESTVIEW 3,Auditor,,REP,Molly Owens John,47,0,7,0,8,0,32
+Berkeley,BEVERLY HILLS,Auditor,,REP,Molly Owens John,14,0,1,0,4,0,9
+Berkeley,HOWE HALL 1,Auditor,,REP,Molly Owens John,24,0,2,0,2,0,20
+Berkeley,HOWE HALL 2,Auditor,,REP,Molly Owens John,16,0,5,0,3,0,8
+Berkeley,LIBERTY HALL,Auditor,,REP,Molly Owens John,24,0,4,0,4,0,16
+Berkeley,MEDWAY,Auditor,,REP,Molly Owens John,59,0,0,0,15,0,44
+Berkeley,WHITESVILLE 1,Auditor,,REP,Molly Owens John,28,0,5,0,3,0,20
+Berkeley,WHITESVILLE 2,Auditor,,REP,Molly Owens John,20,0,0,0,1,0,19
+Berkeley,DANIEL ISLAND 3,Auditor,,REP,Molly Owens John,95,0,1,0,51,0,43
+Berkeley,DANIEL ISLAND 4,Auditor,,REP,Molly Owens John,161,0,18,0,86,0,57
+Berkeley,THE VILLAGE,Auditor,,REP,Molly Owens John,88,0,8,0,21,0,59
+Berkeley,YELLOW HOUSE,Auditor,,REP,Molly Owens John,77,0,10,0,26,0,41
+Berkeley,CANE BAY,Auditor,,REP,Molly Owens John,61,0,1,0,14,0,46
+Berkeley,DISCOVERY,Auditor,,REP,Molly Owens John,32,0,4,0,5,0,23
+Berkeley,FOX BANK,Auditor,,REP,Molly Owens John,87,0,3,0,19,0,65
+Berkeley,HANAHAN 5,Auditor,,REP,Molly Owens John,79,0,7,0,31,0,41
+Berkeley,MOULTRIE,Auditor,,REP,Molly Owens John,12,0,2,0,0,0,10
+Berkeley,OLD 52,Auditor,,REP,Molly Owens John,36,0,1,0,14,0,21
+Berkeley,ROYLE,Auditor,,REP,Molly Owens John,29,0,3,0,7,0,19
+Berkeley,SEVENTY EIGHT,Auditor,,REP,Molly Owens John,32,0,0,0,7,0,25
+Berkeley,STONE LAKE,Auditor,,REP,Molly Owens John,48,0,5,0,11,0,32
+Berkeley,STRATFORD 5,Auditor,,REP,Molly Owens John,26,0,6,0,4,0,16
+Berkeley,WESTVIEW 4,Auditor,,REP,Molly Owens John,52,0,0,0,11,0,41
+Berkeley,FOSTER CREEK 1,Auditor,,REP,Molly Owens John,34,0,1,0,6,0,27
+Berkeley,FOSTER CREEK 2,Auditor,,REP,Molly Owens John,127,0,5,0,49,0,73
+Berkeley,FOSTER CREEK 3,Auditor,,REP,Molly Owens John,63,0,6,0,17,0,40
+Berkeley,HARBOUR LAKE,Auditor,,REP,Molly Owens John,17,0,2,0,9,0,6
+Berkeley,ST. JAMES,Auditor,,REP,Molly Owens John,38,0,0,0,7,0,31
+Berkeley,SEDGEFIELD 1,Auditor,,REP,Molly Owens John,28,0,0,0,2,0,26
+Berkeley,SEDGEFIELD 2,Auditor,,REP,Molly Owens John,9,0,2,0,4,0,3
+Berkeley,TRAMWAY,Auditor,,REP,Molly Owens John,29,0,7,0,3,0,19
+Berkeley,WEATHERSTONE,Auditor,,REP,Molly Owens John,23,0,1,0,0,0,22
+Berkeley,CYPRESS,Auditor,,REP,Molly Owens John,28,0,4,0,4,0,20
+Berkeley,NORTH CREEK,Auditor,,REP,Molly Owens John,40,0,6,0,9,0,25
+Berkeley,BOULDER BLUFF,Auditor,,REP,Molly Owens John,31,0,5,0,6,0,20
+Berkeley,BUSHY PARK,Auditor,,REP,Molly Owens John,4,0,0,0,0,0,4
+Berkeley,CANE BAY EAST,Auditor,,REP,Molly Owens John,87,0,12,0,35,0,40
+Berkeley,CANE BAY NORTH,Auditor,,REP,Molly Owens John,116,0,11,0,38,0,67
+Berkeley,CANE BAY SOUTH,Auditor,,REP,Molly Owens John,22,0,0,0,2,0,20
+Berkeley,COBBLESTONE,Auditor,,REP,Molly Owens John,25,0,6,0,4,0,15
+Berkeley,FIFTY-TWO,Auditor,,REP,Molly Owens John,41,0,0,0,15,0,26
+Berkeley,HORSESHOE,Auditor,,REP,Molly Owens John,22,0,4,0,7,0,11
+Berkeley,LIVE OAK,Auditor,,REP,Molly Owens John,48,0,3,0,11,0,34
+Berkeley,MACEDONIA 2,Auditor,,REP,Molly Owens John,10,0,2,0,3,0,5
+Berkeley,NEXTON,Auditor,,REP,Molly Owens John,144,0,7,0,27,0,110
+Berkeley,SEDGEFIELD 3,Auditor,,REP,Molly Owens John,17,0,1,0,7,0,9
+Berkeley,WILDCAT TRAIL,Auditor,,REP,Molly Owens John,30,0,3,0,7,0,20
+Berkeley,YEAMAN'S CLUB,Auditor,,REP,Molly Owens John,4,0,2,0,1,0,1
+Berkeley,Failsafe,Auditor,,REP,Molly Owens John,0,0,0,0,0,0,0
+Berkeley,Provisional,Auditor,,REP,Molly Owens John,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,Auditor,,REP,Molly Owens John,0,0,0,0,0,0,0
+Berkeley,CAINHOY,County Council District 2,,REP,Jarrod Brooks,0,0,0,0,0,0,0
+Berkeley,DANIEL ISLAND 1,County Council District 2,,REP,Jarrod Brooks,375,0,21,0,140,0,214
+Berkeley,DANIEL ISLAND 2,County Council District 2,,REP,Jarrod Brooks,188,0,9,0,94,0,85
+Berkeley,DANIEL ISLAND 3,County Council District 2,,REP,Jarrod Brooks,243,0,8,0,143,0,92
+Berkeley,DANIEL ISLAND 4,County Council District 2,,REP,Jarrod Brooks,356,0,21,0,194,0,141
+Berkeley,THE VILLAGE,County Council District 2,,REP,Jarrod Brooks,150,0,14,0,25,0,111
+Berkeley,YELLOW HOUSE,County Council District 2,,REP,Jarrod Brooks,125,0,6,0,45,0,74
+Berkeley,FOSTER CREEK 2,County Council District 2,,REP,Jarrod Brooks,98,0,3,0,37,0,58
+Berkeley,FOSTER CREEK 3,County Council District 2,,REP,Jarrod Brooks,61,0,5,0,19,0,37
+Berkeley,SEDGEFIELD 2,County Council District 2,,REP,Jarrod Brooks,0,0,0,0,0,0,0
+Berkeley,YEAMAN'S CLUB,County Council District 2,,REP,Jarrod Brooks,3,0,2,0,0,0,1
+Berkeley,Failsafe,County Council District 2,,REP,Jarrod Brooks,0,0,0,0,0,0,0
+Berkeley,Provisional,County Council District 2,,REP,Jarrod Brooks,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,County Council District 2,,REP,Jarrod Brooks,0,0,0,0,0,0,0
+Berkeley,CAINHOY,County Council District 2,,REP,Timothy Sedgwick,1,0,0,0,1,0,0
+Berkeley,DANIEL ISLAND 1,County Council District 2,,REP,Timothy Sedgwick,46,0,4,0,13,0,29
+Berkeley,DANIEL ISLAND 2,County Council District 2,,REP,Timothy Sedgwick,27,0,3,0,8,0,16
+Berkeley,DANIEL ISLAND 3,County Council District 2,,REP,Timothy Sedgwick,32,0,0,0,16,0,16
+Berkeley,DANIEL ISLAND 4,County Council District 2,,REP,Timothy Sedgwick,65,0,4,0,32,0,29
+Berkeley,THE VILLAGE,County Council District 2,,REP,Timothy Sedgwick,82,0,3,0,15,0,64
+Berkeley,YELLOW HOUSE,County Council District 2,,REP,Timothy Sedgwick,67,0,8,0,10,0,49
+Berkeley,FOSTER CREEK 2,County Council District 2,,REP,Timothy Sedgwick,128,0,1,0,49,0,78
+Berkeley,FOSTER CREEK 3,County Council District 2,,REP,Timothy Sedgwick,70,0,4,0,16,0,50
+Berkeley,SEDGEFIELD 2,County Council District 2,,REP,Timothy Sedgwick,0,0,0,0,0,0,0
+Berkeley,YEAMAN'S CLUB,County Council District 2,,REP,Timothy Sedgwick,1,0,0,0,0,0,1
+Berkeley,Failsafe,County Council District 2,,REP,Timothy Sedgwick,0,0,0,0,0,0,0
+Berkeley,Provisional,County Council District 2,,REP,Timothy Sedgwick,0,0,0,0,0,0,0
+Berkeley,Failsafe Provisional,County Council District 2,,REP,Timothy Sedgwick,0,0,0,0,0,0,0

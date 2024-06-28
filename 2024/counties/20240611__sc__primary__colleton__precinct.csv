@@ -1,0 +1,440 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Colleton,GREEN POND,U.S. House,1,DEM,Mac Deford,29,0,0,0,14,0,15
+Colleton,EDISTO BEACH,U.S. House,1,DEM,Mac Deford,24,0,1,0,3,0,20
+Colleton,Failsafe,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Colleton,Provisional,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Colleton,GREEN POND,U.S. House,1,DEM,Michael B Moore,108,0,2,0,49,0,57
+Colleton,EDISTO BEACH,U.S. House,1,DEM,Michael B Moore,13,0,1,0,0,0,12
+Colleton,Failsafe,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Colleton,Provisional,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Colleton,BELLS,U.S. House,6,REP,Duke Buckner,15,0,0,0,3,0,12
+Colleton,CANADYS,U.S. House,6,REP,Duke Buckner,21,0,0,0,4,0,17
+Colleton,COTTAGEVILLE,U.S. House,6,REP,Duke Buckner,77,0,0,0,16,0,61
+Colleton,EDISTO,U.S. House,6,REP,Duke Buckner,3,0,0,0,1,0,2
+Colleton,HENDERSONVILLE,U.S. House,6,REP,Duke Buckner,39,0,0,0,13,0,26
+Colleton,HORSE PEN,U.S. House,6,REP,Duke Buckner,40,0,0,0,20,0,20
+Colleton,HUDSON MILL,U.S. House,6,REP,Duke Buckner,41,0,0,0,9,0,32
+Colleton,JACKSONBORO,U.S. House,6,REP,Duke Buckner,5,0,0,0,2,0,3
+Colleton,MAPLE CANE,U.S. House,6,REP,Duke Buckner,54,0,1,0,7,0,46
+Colleton,MASHAWVILLE,U.S. House,6,REP,Duke Buckner,28,0,0,0,10,0,18
+Colleton,PEEPLES,U.S. House,6,REP,Duke Buckner,58,0,1,0,25,0,32
+Colleton,PETITS,U.S. House,6,REP,Duke Buckner,10,0,0,0,2,0,8
+Colleton,PENIEL,U.S. House,6,REP,Duke Buckner,44,0,0,0,20,0,24
+Colleton,RITTER,U.S. House,6,REP,Duke Buckner,13,0,2,0,1,0,10
+Colleton,ROUND O,U.S. House,6,REP,Duke Buckner,52,0,0,0,9,0,43
+Colleton,RICE PATCH,U.S. House,6,REP,Duke Buckner,40,0,0,0,9,0,31
+Colleton,RUFFIN,U.S. House,6,REP,Duke Buckner,11,0,0,0,3,0,8
+Colleton,SIDNEYS,U.S. House,6,REP,Duke Buckner,43,0,5,0,10,0,28
+Colleton,STOKES,U.S. House,6,REP,Duke Buckner,61,0,1,0,16,0,44
+Colleton,SNIDERS,U.S. House,6,REP,Duke Buckner,38,0,0,0,19,0,19
+Colleton,WALTERBORO NO. 1,U.S. House,6,REP,Duke Buckner,44,0,1,0,15,0,28
+Colleton,WALTERBORO NO. 2,U.S. House,6,REP,Duke Buckner,22,0,1,0,10,0,11
+Colleton,WALTERBORO NO. 3,U.S. House,6,REP,Duke Buckner,20,0,0,0,8,0,12
+Colleton,WALTERBORO NO. 4,U.S. House,6,REP,Duke Buckner,117,0,0,0,47,0,70
+Colleton,WILLIAMS,U.S. House,6,REP,Duke Buckner,12,0,0,0,0,0,12
+Colleton,WOLF CREEK,U.S. House,6,REP,Duke Buckner,55,0,0,0,24,0,31
+Colleton,WALTERBORO NO. 5,U.S. House,6,REP,Duke Buckner,152,0,2,0,87,0,63
+Colleton,ASHTON-LODGE,U.S. House,6,REP,Duke Buckner,55,0,0,0,5,0,50
+Colleton,BEREA-SMOAKS,U.S. House,6,REP,Duke Buckner,27,0,3,0,3,0,21
+Colleton,WALTERBORO NO. 6,U.S. House,6,REP,Duke Buckner,23,0,0,0,7,0,16
+Colleton,Failsafe,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Colleton,Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Colleton,BELLS,U.S. House,6,REP,Justin Scott,19,0,0,0,7,0,12
+Colleton,CANADYS,U.S. House,6,REP,Justin Scott,22,0,0,0,6,0,16
+Colleton,COTTAGEVILLE,U.S. House,6,REP,Justin Scott,29,0,0,0,2,0,27
+Colleton,EDISTO,U.S. House,6,REP,Justin Scott,7,0,0,0,2,0,5
+Colleton,HENDERSONVILLE,U.S. House,6,REP,Justin Scott,22,0,0,0,4,0,18
+Colleton,HORSE PEN,U.S. House,6,REP,Justin Scott,24,0,0,0,10,0,14
+Colleton,HUDSON MILL,U.S. House,6,REP,Justin Scott,18,0,0,0,3,0,15
+Colleton,JACKSONBORO,U.S. House,6,REP,Justin Scott,3,0,0,0,2,0,1
+Colleton,MAPLE CANE,U.S. House,6,REP,Justin Scott,39,0,1,0,4,0,34
+Colleton,MASHAWVILLE,U.S. House,6,REP,Justin Scott,20,0,0,0,3,0,17
+Colleton,PEEPLES,U.S. House,6,REP,Justin Scott,40,0,0,0,26,0,14
+Colleton,PETITS,U.S. House,6,REP,Justin Scott,12,0,0,0,2,0,10
+Colleton,PENIEL,U.S. House,6,REP,Justin Scott,27,0,0,0,11,0,16
+Colleton,RITTER,U.S. House,6,REP,Justin Scott,19,0,0,0,10,0,9
+Colleton,ROUND O,U.S. House,6,REP,Justin Scott,36,0,0,0,6,0,30
+Colleton,RICE PATCH,U.S. House,6,REP,Justin Scott,38,0,0,0,8,0,30
+Colleton,RUFFIN,U.S. House,6,REP,Justin Scott,7,0,0,0,1,0,6
+Colleton,SIDNEYS,U.S. House,6,REP,Justin Scott,14,0,1,0,0,0,13
+Colleton,STOKES,U.S. House,6,REP,Justin Scott,48,0,1,0,17,0,30
+Colleton,SNIDERS,U.S. House,6,REP,Justin Scott,34,0,0,0,7,0,27
+Colleton,WALTERBORO NO. 1,U.S. House,6,REP,Justin Scott,52,0,0,0,18,0,34
+Colleton,WALTERBORO NO. 2,U.S. House,6,REP,Justin Scott,16,0,0,0,4,0,12
+Colleton,WALTERBORO NO. 3,U.S. House,6,REP,Justin Scott,13,0,0,0,5,0,8
+Colleton,WALTERBORO NO. 4,U.S. House,6,REP,Justin Scott,49,0,2,0,19,0,28
+Colleton,WILLIAMS,U.S. House,6,REP,Justin Scott,13,0,0,0,3,0,10
+Colleton,WOLF CREEK,U.S. House,6,REP,Justin Scott,53,0,0,0,14,0,39
+Colleton,WALTERBORO NO. 5,U.S. House,6,REP,Justin Scott,133,0,0,0,69,0,64
+Colleton,ASHTON-LODGE,U.S. House,6,REP,Justin Scott,47,0,0,0,3,0,44
+Colleton,BEREA-SMOAKS,U.S. House,6,REP,Justin Scott,19,0,0,0,3,0,16
+Colleton,WALTERBORO NO. 6,U.S. House,6,REP,Justin Scott,20,0,0,0,4,0,16
+Colleton,Failsafe,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Colleton,Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Colleton,GREEN POND,U.S. House,1,REP,Nancy Mace,19,0,1,0,2,0,16
+Colleton,EDISTO BEACH,U.S. House,1,REP,Nancy Mace,155,0,3,0,7,0,145
+Colleton,Failsafe,U.S. House,1,REP,Nancy Mace,0,0,0,0,0,0,0
+Colleton,Provisional,U.S. House,1,REP,Nancy Mace,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,U.S. House,1,REP,Nancy Mace,0,0,0,0,0,0,0
+Colleton,GREEN POND,U.S. House,1,REP,Catherine Templeton,7,0,2,0,1,0,4
+Colleton,EDISTO BEACH,U.S. House,1,REP,Catherine Templeton,45,0,3,0,4,0,38
+Colleton,Failsafe,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Colleton,Provisional,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Colleton,GREEN POND,U.S. House,1,REP,Bill Young,5,0,0,0,1,0,4
+Colleton,EDISTO BEACH,U.S. House,1,REP,Bill Young,15,0,1,0,0,0,14
+Colleton,Failsafe,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Colleton,Provisional,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Colleton,BELLS,State Senate,40,DEM,Kendrick Brown,6,0,0,0,1,0,5
+Colleton,EDISTO,State Senate,40,DEM,Kendrick Brown,12,0,0,0,6,0,6
+Colleton,RUFFIN,State Senate,40,DEM,Kendrick Brown,24,0,0,0,4,0,20
+Colleton,WILLIAMS,State Senate,40,DEM,Kendrick Brown,6,0,0,0,1,0,5
+Colleton,ASHTON-LODGE,State Senate,40,DEM,Kendrick Brown,9,0,0,0,2,0,7
+Colleton,BEREA-SMOAKS,State Senate,40,DEM,Kendrick Brown,65,0,3,0,14,0,48
+Colleton,Failsafe,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Colleton,Provisional,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Colleton,BELLS,State Senate,40,DEM,Brad Hutto,5,0,0,0,3,0,2
+Colleton,EDISTO,State Senate,40,DEM,Brad Hutto,12,0,1,0,3,0,8
+Colleton,RUFFIN,State Senate,40,DEM,Brad Hutto,7,0,0,0,3,0,4
+Colleton,WILLIAMS,State Senate,40,DEM,Brad Hutto,3,0,0,0,0,0,3
+Colleton,ASHTON-LODGE,State Senate,40,DEM,Brad Hutto,6,0,0,0,2,0,4
+Colleton,BEREA-SMOAKS,State Senate,40,DEM,Brad Hutto,22,0,0,0,4,0,18
+Colleton,Failsafe,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Colleton,Provisional,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Colleton,CANADYS,State Senate,41,REP,Matt Leber,33,0,0,0,8,0,25
+Colleton,COTTAGEVILLE,State Senate,41,REP,Matt Leber,74,0,0,0,14,0,60
+Colleton,HORSE PEN,State Senate,41,REP,Matt Leber,48,0,0,0,21,0,27
+Colleton,HUDSON MILL,State Senate,41,REP,Matt Leber,42,0,2,0,7,0,33
+Colleton,MAPLE CANE,State Senate,41,REP,Matt Leber,66,0,1,0,8,0,57
+Colleton,PEEPLES,State Senate,41,REP,Matt Leber,64,0,1,0,33,0,30
+Colleton,ROUND O,State Senate,41,REP,Matt Leber,58,0,0,0,10,0,48
+Colleton,SIDNEYS,State Senate,41,REP,Matt Leber,40,0,3,0,9,0,28
+Colleton,STOKES,State Senate,41,REP,Matt Leber,70,0,0,0,20,0,50
+Colleton,WOLF CREEK,State Senate,41,REP,Matt Leber,54,0,0,0,17,0,37
+Colleton,WALTERBORO NO. 5,State Senate,41,REP,Matt Leber,143,0,2,0,73,0,68
+Colleton,Failsafe,State Senate,41,REP,Matt Leber,0,0,0,0,0,0,0
+Colleton,Provisional,State Senate,41,REP,Matt Leber,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,State Senate,41,REP,Matt Leber,0,0,0,0,0,0,0
+Colleton,CANADYS,State Senate,41,REP,Sandy Senn,13,0,0,0,2,0,11
+Colleton,COTTAGEVILLE,State Senate,41,REP,Sandy Senn,32,0,0,0,4,0,28
+Colleton,HORSE PEN,State Senate,41,REP,Sandy Senn,13,0,0,0,6,0,7
+Colleton,HUDSON MILL,State Senate,41,REP,Sandy Senn,20,0,0,0,5,0,15
+Colleton,MAPLE CANE,State Senate,41,REP,Sandy Senn,28,0,1,0,4,0,23
+Colleton,PEEPLES,State Senate,41,REP,Sandy Senn,33,0,0,0,18,0,15
+Colleton,ROUND O,State Senate,41,REP,Sandy Senn,31,0,0,0,5,0,26
+Colleton,SIDNEYS,State Senate,41,REP,Sandy Senn,15,0,3,0,1,0,11
+Colleton,STOKES,State Senate,41,REP,Sandy Senn,41,0,2,0,14,0,25
+Colleton,WOLF CREEK,State Senate,41,REP,Sandy Senn,53,0,0,0,21,0,32
+Colleton,WALTERBORO NO. 5,State Senate,41,REP,Sandy Senn,147,0,0,0,85,0,62
+Colleton,Failsafe,State Senate,41,REP,Sandy Senn,0,0,0,0,0,0,0
+Colleton,Provisional,State Senate,41,REP,Sandy Senn,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,State Senate,41,REP,Sandy Senn,0,0,0,0,0,0,0
+Colleton,PETITS,State House,122,DEM,Johnny Lee Jackson Jr,19,0,0,0,5,0,14
+Colleton,RICE PATCH,State House,122,DEM,Johnny Lee Jackson Jr,20,0,0,0,8,0,12
+Colleton,ASHTON-LODGE,State House,122,DEM,Johnny Lee Jackson Jr,5,0,0,0,1,0,4
+Colleton,Failsafe,State House,122,DEM,Johnny Lee Jackson Jr,0,0,0,0,0,0,0
+Colleton,Provisional,State House,122,DEM,Johnny Lee Jackson Jr,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,State House,122,DEM,Johnny Lee Jackson Jr,0,0,0,0,0,0,0
+Colleton,PETITS,State House,122,DEM,Audrey Hopkins Williams,21,0,0,0,9,0,12
+Colleton,RICE PATCH,State House,122,DEM,Audrey Hopkins Williams,16,0,0,0,6,0,10
+Colleton,ASHTON-LODGE,State House,122,DEM,Audrey Hopkins Williams,11,0,0,0,3,0,8
+Colleton,Failsafe,State House,122,DEM,Audrey Hopkins Williams,0,0,0,0,0,0,0
+Colleton,Provisional,State House,122,DEM,Audrey Hopkins Williams,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,State House,122,DEM,Audrey Hopkins Williams,0,0,0,0,0,0,0
+Colleton,EDISTO BEACH,State House,116,DEM,Charles Glover Sr,5,0,0,0,0,0,5
+Colleton,Failsafe,State House,116,DEM,Charles Glover Sr,0,0,0,0,0,0,0
+Colleton,Provisional,State House,116,DEM,Charles Glover Sr,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,State House,116,DEM,Charles Glover Sr,0,0,0,0,0,0,0
+Colleton,EDISTO BEACH,State House,116,DEM,Charlie Murray,30,0,2,0,3,0,25
+Colleton,Failsafe,State House,116,DEM,Charlie Murray,0,0,0,0,0,0,0
+Colleton,Provisional,State House,116,DEM,Charlie Murray,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,State House,116,DEM,Charlie Murray,0,0,0,0,0,0,0
+Colleton,BELLS,Clerk of Court,,DEM,Sherry Akins-Robinson,11,0,0,0,4,0,7
+Colleton,CANADYS,Clerk of Court,,DEM,Sherry Akins-Robinson,20,0,1,0,11,0,8
+Colleton,COTTAGEVILLE,Clerk of Court,,DEM,Sherry Akins-Robinson,26,0,0,0,13,0,13
+Colleton,EDISTO,Clerk of Court,,DEM,Sherry Akins-Robinson,7,0,0,0,3,0,4
+Colleton,GREEN POND,Clerk of Court,,DEM,Sherry Akins-Robinson,76,0,2,0,30,0,44
+Colleton,HENDERSONVILLE,Clerk of Court,,DEM,Sherry Akins-Robinson,87,0,4,0,16,0,67
+Colleton,HORSE PEN,Clerk of Court,,DEM,Sherry Akins-Robinson,12,0,0,0,4,0,8
+Colleton,HUDSON MILL,Clerk of Court,,DEM,Sherry Akins-Robinson,12,0,0,0,1,0,11
+Colleton,JACKSONBORO,Clerk of Court,,DEM,Sherry Akins-Robinson,6,0,0,0,0,0,6
+Colleton,MAPLE CANE,Clerk of Court,,DEM,Sherry Akins-Robinson,4,0,0,0,2,0,2
+Colleton,MASHAWVILLE,Clerk of Court,,DEM,Sherry Akins-Robinson,44,0,2,0,18,0,24
+Colleton,PEEPLES,Clerk of Court,,DEM,Sherry Akins-Robinson,34,0,1,0,17,0,16
+Colleton,PETITS,Clerk of Court,,DEM,Sherry Akins-Robinson,43,0,0,0,16,0,27
+Colleton,PENIEL,Clerk of Court,,DEM,Sherry Akins-Robinson,23,0,0,0,2,0,21
+Colleton,RITTER,Clerk of Court,,DEM,Sherry Akins-Robinson,38,0,0,0,13,0,25
+Colleton,ROUND O,Clerk of Court,,DEM,Sherry Akins-Robinson,21,0,1,0,10,0,10
+Colleton,RICE PATCH,Clerk of Court,,DEM,Sherry Akins-Robinson,15,0,0,0,8,0,7
+Colleton,RUFFIN,Clerk of Court,,DEM,Sherry Akins-Robinson,10,0,0,0,2,0,8
+Colleton,SIDNEYS,Clerk of Court,,DEM,Sherry Akins-Robinson,13,0,0,0,6,0,7
+Colleton,STOKES,Clerk of Court,,DEM,Sherry Akins-Robinson,10,0,0,0,3,0,7
+Colleton,SNIDERS,Clerk of Court,,DEM,Sherry Akins-Robinson,18,0,0,0,7,0,11
+Colleton,WALTERBORO NO. 1,Clerk of Court,,DEM,Sherry Akins-Robinson,82,0,0,0,52,0,30
+Colleton,WALTERBORO NO. 2,Clerk of Court,,DEM,Sherry Akins-Robinson,38,0,0,0,24,0,14
+Colleton,WALTERBORO NO. 3,Clerk of Court,,DEM,Sherry Akins-Robinson,71,0,2,0,34,0,35
+Colleton,WALTERBORO NO. 4,Clerk of Court,,DEM,Sherry Akins-Robinson,30,0,0,0,17,0,13
+Colleton,WILLIAMS,Clerk of Court,,DEM,Sherry Akins-Robinson,4,0,0,0,1,0,3
+Colleton,WOLF CREEK,Clerk of Court,,DEM,Sherry Akins-Robinson,3,0,0,0,2,0,1
+Colleton,EDISTO BEACH,Clerk of Court,,DEM,Sherry Akins-Robinson,16,0,0,0,2,0,14
+Colleton,WALTERBORO NO. 5,Clerk of Court,,DEM,Sherry Akins-Robinson,20,0,0,0,10,0,10
+Colleton,ASHTON-LODGE,Clerk of Court,,DEM,Sherry Akins-Robinson,15,0,0,0,4,0,11
+Colleton,BEREA-SMOAKS,Clerk of Court,,DEM,Sherry Akins-Robinson,26,0,1,0,7,0,18
+Colleton,WALTERBORO NO. 6,Clerk of Court,,DEM,Sherry Akins-Robinson,45,0,0,0,12,0,33
+Colleton,Failsafe,Clerk of Court,,DEM,Sherry Akins-Robinson,0,0,0,0,0,0,0
+Colleton,Provisional,Clerk of Court,,DEM,Sherry Akins-Robinson,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,Clerk of Court,,DEM,Sherry Akins-Robinson,0,0,0,0,0,0,0
+Colleton,BELLS,Clerk of Court,,DEM,Lesley A Jamison,1,0,0,0,0,0,1
+Colleton,CANADYS,Clerk of Court,,DEM,Lesley A Jamison,13,0,1,0,4,0,8
+Colleton,COTTAGEVILLE,Clerk of Court,,DEM,Lesley A Jamison,20,0,2,0,13,0,5
+Colleton,EDISTO,Clerk of Court,,DEM,Lesley A Jamison,3,0,0,0,2,0,1
+Colleton,GREEN POND,Clerk of Court,,DEM,Lesley A Jamison,11,0,0,0,4,0,7
+Colleton,HENDERSONVILLE,Clerk of Court,,DEM,Lesley A Jamison,8,0,0,0,2,0,6
+Colleton,HORSE PEN,Clerk of Court,,DEM,Lesley A Jamison,1,0,0,0,1,0,0
+Colleton,HUDSON MILL,Clerk of Court,,DEM,Lesley A Jamison,5,0,1,0,1,0,3
+Colleton,JACKSONBORO,Clerk of Court,,DEM,Lesley A Jamison,1,0,0,0,0,0,1
+Colleton,MAPLE CANE,Clerk of Court,,DEM,Lesley A Jamison,5,0,0,0,2,0,3
+Colleton,MASHAWVILLE,Clerk of Court,,DEM,Lesley A Jamison,8,0,0,0,2,0,6
+Colleton,PEEPLES,Clerk of Court,,DEM,Lesley A Jamison,1,0,0,0,1,0,0
+Colleton,PETITS,Clerk of Court,,DEM,Lesley A Jamison,1,0,0,0,0,0,1
+Colleton,PENIEL,Clerk of Court,,DEM,Lesley A Jamison,4,0,0,0,1,0,3
+Colleton,RITTER,Clerk of Court,,DEM,Lesley A Jamison,15,0,0,0,7,0,8
+Colleton,ROUND O,Clerk of Court,,DEM,Lesley A Jamison,1,0,0,0,0,0,1
+Colleton,RICE PATCH,Clerk of Court,,DEM,Lesley A Jamison,17,0,0,0,3,0,14
+Colleton,RUFFIN,Clerk of Court,,DEM,Lesley A Jamison,10,0,0,0,2,0,8
+Colleton,SIDNEYS,Clerk of Court,,DEM,Lesley A Jamison,1,0,0,0,0,0,1
+Colleton,STOKES,Clerk of Court,,DEM,Lesley A Jamison,2,0,0,0,0,0,2
+Colleton,SNIDERS,Clerk of Court,,DEM,Lesley A Jamison,22,0,1,0,7,0,14
+Colleton,WALTERBORO NO. 1,Clerk of Court,,DEM,Lesley A Jamison,15,0,0,0,9,0,6
+Colleton,WALTERBORO NO. 2,Clerk of Court,,DEM,Lesley A Jamison,9,0,0,0,2,0,7
+Colleton,WALTERBORO NO. 3,Clerk of Court,,DEM,Lesley A Jamison,17,0,0,0,9,0,8
+Colleton,WALTERBORO NO. 4,Clerk of Court,,DEM,Lesley A Jamison,1,0,0,0,0,0,1
+Colleton,WILLIAMS,Clerk of Court,,DEM,Lesley A Jamison,2,0,0,0,0,0,2
+Colleton,WOLF CREEK,Clerk of Court,,DEM,Lesley A Jamison,1,0,0,0,0,0,1
+Colleton,EDISTO BEACH,Clerk of Court,,DEM,Lesley A Jamison,7,0,0,0,0,0,7
+Colleton,WALTERBORO NO. 5,Clerk of Court,,DEM,Lesley A Jamison,4,0,0,0,3,0,1
+Colleton,ASHTON-LODGE,Clerk of Court,,DEM,Lesley A Jamison,2,0,0,0,0,0,2
+Colleton,BEREA-SMOAKS,Clerk of Court,,DEM,Lesley A Jamison,33,0,1,0,3,0,29
+Colleton,WALTERBORO NO. 6,Clerk of Court,,DEM,Lesley A Jamison,7,0,0,0,1,0,6
+Colleton,Failsafe,Clerk of Court,,DEM,Lesley A Jamison,0,0,0,0,0,0,0
+Colleton,Provisional,Clerk of Court,,DEM,Lesley A Jamison,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,Clerk of Court,,DEM,Lesley A Jamison,0,0,0,0,0,0,0
+Colleton,BELLS,Clerk of Court,,DEM,Wanda Taylor,1,0,0,0,0,0,1
+Colleton,CANADYS,Clerk of Court,,DEM,Wanda Taylor,15,0,0,0,6,0,9
+Colleton,COTTAGEVILLE,Clerk of Court,,DEM,Wanda Taylor,33,0,2,0,13,0,18
+Colleton,EDISTO,Clerk of Court,,DEM,Wanda Taylor,14,0,1,0,4,0,9
+Colleton,GREEN POND,Clerk of Court,,DEM,Wanda Taylor,57,0,0,0,31,0,26
+Colleton,HENDERSONVILLE,Clerk of Court,,DEM,Wanda Taylor,23,0,0,0,6,0,17
+Colleton,HORSE PEN,Clerk of Court,,DEM,Wanda Taylor,17,0,0,0,6,0,11
+Colleton,HUDSON MILL,Clerk of Court,,DEM,Wanda Taylor,8,0,0,0,0,0,8
+Colleton,JACKSONBORO,Clerk of Court,,DEM,Wanda Taylor,9,0,0,0,1,0,8
+Colleton,MAPLE CANE,Clerk of Court,,DEM,Wanda Taylor,14,0,1,0,4,0,9
+Colleton,MASHAWVILLE,Clerk of Court,,DEM,Wanda Taylor,43,0,0,0,20,0,23
+Colleton,PEEPLES,Clerk of Court,,DEM,Wanda Taylor,27,0,0,0,12,0,15
+Colleton,PETITS,Clerk of Court,,DEM,Wanda Taylor,0,0,0,0,0,0,0
+Colleton,PENIEL,Clerk of Court,,DEM,Wanda Taylor,26,0,0,0,12,0,14
+Colleton,RITTER,Clerk of Court,,DEM,Wanda Taylor,23,0,0,0,6,0,17
+Colleton,ROUND O,Clerk of Court,,DEM,Wanda Taylor,15,0,1,0,6,0,8
+Colleton,RICE PATCH,Clerk of Court,,DEM,Wanda Taylor,5,0,0,0,3,0,2
+Colleton,RUFFIN,Clerk of Court,,DEM,Wanda Taylor,11,0,0,0,3,0,8
+Colleton,SIDNEYS,Clerk of Court,,DEM,Wanda Taylor,4,0,0,0,0,0,4
+Colleton,STOKES,Clerk of Court,,DEM,Wanda Taylor,5,0,0,0,3,0,2
+Colleton,SNIDERS,Clerk of Court,,DEM,Wanda Taylor,9,0,0,0,1,0,8
+Colleton,WALTERBORO NO. 1,Clerk of Court,,DEM,Wanda Taylor,57,0,1,0,24,0,32
+Colleton,WALTERBORO NO. 2,Clerk of Court,,DEM,Wanda Taylor,47,0,7,0,15,0,25
+Colleton,WALTERBORO NO. 3,Clerk of Court,,DEM,Wanda Taylor,134,0,5,0,62,0,67
+Colleton,WALTERBORO NO. 4,Clerk of Court,,DEM,Wanda Taylor,30,0,0,0,10,0,20
+Colleton,WILLIAMS,Clerk of Court,,DEM,Wanda Taylor,3,0,0,0,0,0,3
+Colleton,WOLF CREEK,Clerk of Court,,DEM,Wanda Taylor,2,0,0,0,0,0,2
+Colleton,EDISTO BEACH,Clerk of Court,,DEM,Wanda Taylor,12,0,2,0,3,0,7
+Colleton,WALTERBORO NO. 5,Clerk of Court,,DEM,Wanda Taylor,33,0,0,0,19,0,14
+Colleton,ASHTON-LODGE,Clerk of Court,,DEM,Wanda Taylor,1,0,0,0,0,0,1
+Colleton,BEREA-SMOAKS,Clerk of Court,,DEM,Wanda Taylor,33,0,1,0,9,0,23
+Colleton,WALTERBORO NO. 6,Clerk of Court,,DEM,Wanda Taylor,41,0,3,0,7,0,31
+Colleton,Failsafe,Clerk of Court,,DEM,Wanda Taylor,0,0,0,0,0,0,0
+Colleton,Provisional,Clerk of Court,,DEM,Wanda Taylor,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,Clerk of Court,,DEM,Wanda Taylor,0,0,0,0,0,0,0
+Colleton,CANADYS,County Council District 23,,DEM,Hiram EM Davis,18,0,0,0,12,0,6
+Colleton,COTTAGEVILLE,County Council District 23,,DEM,Hiram EM Davis,30,0,3,0,17,0,10
+Colleton,EDISTO,County Council District 23,,DEM,Hiram EM Davis,8,0,0,0,5,0,3
+Colleton,GREEN POND,County Council District 23,,DEM,Hiram EM Davis,36,0,0,0,14,0,22
+Colleton,HENDERSONVILLE,County Council District 23,,DEM,Hiram EM Davis,31,0,2,0,4,0,25
+Colleton,HORSE PEN,County Council District 23,,DEM,Hiram EM Davis,1,0,0,0,0,0,1
+Colleton,JACKSONBORO,County Council District 23,,DEM,Hiram EM Davis,4,0,0,0,0,0,4
+Colleton,MAPLE CANE,County Council District 23,,DEM,Hiram EM Davis,5,0,0,0,1,0,4
+Colleton,MASHAWVILLE,County Council District 23,,DEM,Hiram EM Davis,27,0,0,0,10,0,17
+Colleton,PETITS,County Council District 23,,DEM,Hiram EM Davis,11,0,0,0,5,0,6
+Colleton,RITTER,County Council District 23,,DEM,Hiram EM Davis,21,0,0,0,7,0,14
+Colleton,ROUND O,County Council District 23,,DEM,Hiram EM Davis,11,0,1,0,6,0,4
+Colleton,SIDNEYS,County Council District 23,,DEM,Hiram EM Davis,7,0,0,0,2,0,5
+Colleton,WALTERBORO NO. 1,County Council District 23,,DEM,Hiram EM Davis,47,0,0,0,34,0,13
+Colleton,WALTERBORO NO. 2,County Council District 23,,DEM,Hiram EM Davis,19,0,0,0,11,0,8
+Colleton,WALTERBORO NO. 3,County Council District 23,,DEM,Hiram EM Davis,50,0,0,0,25,0,25
+Colleton,WALTERBORO NO. 4,County Council District 23,,DEM,Hiram EM Davis,0,0,0,0,0,0,0
+Colleton,EDISTO BEACH,County Council District 23,,DEM,Hiram EM Davis,12,0,0,0,1,0,11
+Colleton,BEREA-SMOAKS,County Council District 23,,DEM,Hiram EM Davis,36,0,1,0,5,0,30
+Colleton,WALTERBORO NO. 6,County Council District 23,,DEM,Hiram EM Davis,29,0,0,0,8,0,21
+Colleton,Failsafe,County Council District 23,,DEM,Hiram EM Davis,0,0,0,0,0,0,0
+Colleton,Provisional,County Council District 23,,DEM,Hiram EM Davis,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,County Council District 23,,DEM,Hiram EM Davis,0,0,0,0,0,0,0
+Colleton,CANADYS,County Council District 23,,DEM,Latosia Simmons,10,0,1,0,2,0,7
+Colleton,COTTAGEVILLE,County Council District 23,,DEM,Latosia Simmons,6,0,0,0,2,0,4
+Colleton,EDISTO,County Council District 23,,DEM,Latosia Simmons,3,0,1,0,1,0,1
+Colleton,GREEN POND,County Council District 23,,DEM,Latosia Simmons,22,0,0,0,11,0,11
+Colleton,HENDERSONVILLE,County Council District 23,,DEM,Latosia Simmons,32,0,0,0,7,0,25
+Colleton,HORSE PEN,County Council District 23,,DEM,Latosia Simmons,1,0,0,0,1,0,0
+Colleton,JACKSONBORO,County Council District 23,,DEM,Latosia Simmons,3,0,0,0,0,0,3
+Colleton,MAPLE CANE,County Council District 23,,DEM,Latosia Simmons,1,0,0,0,1,0,0
+Colleton,MASHAWVILLE,County Council District 23,,DEM,Latosia Simmons,7,0,0,0,0,0,7
+Colleton,PETITS,County Council District 23,,DEM,Latosia Simmons,7,0,0,0,2,0,5
+Colleton,RITTER,County Council District 23,,DEM,Latosia Simmons,17,0,0,0,8,0,9
+Colleton,ROUND O,County Council District 23,,DEM,Latosia Simmons,8,0,0,0,2,0,6
+Colleton,SIDNEYS,County Council District 23,,DEM,Latosia Simmons,2,0,0,0,1,0,1
+Colleton,WALTERBORO NO. 1,County Council District 23,,DEM,Latosia Simmons,6,0,0,0,2,0,4
+Colleton,WALTERBORO NO. 2,County Council District 23,,DEM,Latosia Simmons,10,0,0,0,3,0,7
+Colleton,WALTERBORO NO. 3,County Council District 23,,DEM,Latosia Simmons,15,0,0,0,7,0,8
+Colleton,WALTERBORO NO. 4,County Council District 23,,DEM,Latosia Simmons,1,0,0,0,1,0,0
+Colleton,EDISTO BEACH,County Council District 23,,DEM,Latosia Simmons,5,0,0,0,0,0,5
+Colleton,BEREA-SMOAKS,County Council District 23,,DEM,Latosia Simmons,7,0,0,0,1,0,6
+Colleton,WALTERBORO NO. 6,County Council District 23,,DEM,Latosia Simmons,8,0,0,0,1,0,7
+Colleton,Failsafe,County Council District 23,,DEM,Latosia Simmons,0,0,0,0,0,0,0
+Colleton,Provisional,County Council District 23,,DEM,Latosia Simmons,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,County Council District 23,,DEM,Latosia Simmons,0,0,0,0,0,0,0
+Colleton,CANADYS,County Council District 23,,DEM,Phillip M Taylor Sr,20,0,1,0,7,0,12
+Colleton,COTTAGEVILLE,County Council District 23,,DEM,Phillip M Taylor Sr,43,0,1,0,20,0,22
+Colleton,EDISTO,County Council District 23,,DEM,Phillip M Taylor Sr,13,0,0,0,3,0,10
+Colleton,GREEN POND,County Council District 23,,DEM,Phillip M Taylor Sr,85,0,2,0,39,0,44
+Colleton,HENDERSONVILLE,County Council District 23,,DEM,Phillip M Taylor Sr,51,0,2,0,13,0,36
+Colleton,HORSE PEN,County Council District 23,,DEM,Phillip M Taylor Sr,12,0,0,0,2,0,10
+Colleton,JACKSONBORO,County Council District 23,,DEM,Phillip M Taylor Sr,9,0,0,0,1,0,8
+Colleton,MAPLE CANE,County Council District 23,,DEM,Phillip M Taylor Sr,16,0,1,0,6,0,9
+Colleton,MASHAWVILLE,County Council District 23,,DEM,Phillip M Taylor Sr,54,0,1,0,27,0,26
+Colleton,PETITS,County Council District 23,,DEM,Phillip M Taylor Sr,14,0,0,0,5,0,9
+Colleton,RITTER,County Council District 23,,DEM,Phillip M Taylor Sr,36,0,0,0,10,0,26
+Colleton,ROUND O,County Council District 23,,DEM,Phillip M Taylor Sr,16,0,1,0,7,0,8
+Colleton,SIDNEYS,County Council District 23,,DEM,Phillip M Taylor Sr,8,0,0,0,3,0,5
+Colleton,WALTERBORO NO. 1,County Council District 23,,DEM,Phillip M Taylor Sr,69,0,1,0,35,0,33
+Colleton,WALTERBORO NO. 2,County Council District 23,,DEM,Phillip M Taylor Sr,51,0,7,0,18,0,26
+Colleton,WALTERBORO NO. 3,County Council District 23,,DEM,Phillip M Taylor Sr,156,0,7,0,71,0,78
+Colleton,WALTERBORO NO. 4,County Council District 23,,DEM,Phillip M Taylor Sr,1,0,0,0,1,0,0
+Colleton,EDISTO BEACH,County Council District 23,,DEM,Phillip M Taylor Sr,21,0,2,0,4,0,15
+Colleton,BEREA-SMOAKS,County Council District 23,,DEM,Phillip M Taylor Sr,27,0,0,0,10,0,17
+Colleton,WALTERBORO NO. 6,County Council District 23,,DEM,Phillip M Taylor Sr,34,0,1,0,7,0,26
+Colleton,Failsafe,County Council District 23,,DEM,Phillip M Taylor Sr,0,0,0,0,0,0,0
+Colleton,Provisional,County Council District 23,,DEM,Phillip M Taylor Sr,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,County Council District 23,,DEM,Phillip M Taylor Sr,0,0,0,0,0,0,0
+Colleton,BELLS,County Council District 45,,REP,William Scott Catterton,2,0,0,0,0,0,2
+Colleton,EDISTO,County Council District 45,,REP,William Scott Catterton,0,0,0,0,0,0,0
+Colleton,HENDERSONVILLE,County Council District 45,,REP,William Scott Catterton,6,0,0,0,1,0,5
+Colleton,HORSE PEN,County Council District 45,,REP,William Scott Catterton,11,0,0,0,3,0,8
+Colleton,HUDSON MILL,County Council District 45,,REP,William Scott Catterton,7,0,0,0,3,0,4
+Colleton,MASHAWVILLE,County Council District 45,,REP,William Scott Catterton,0,0,0,0,0,0,0
+Colleton,PEEPLES,County Council District 45,,REP,William Scott Catterton,10,0,0,0,4,0,6
+Colleton,PETITS,County Council District 45,,REP,William Scott Catterton,2,0,0,0,0,0,2
+Colleton,PENIEL,County Council District 45,,REP,William Scott Catterton,6,0,0,0,1,0,5
+Colleton,RITTER,County Council District 45,,REP,William Scott Catterton,2,0,0,0,0,0,2
+Colleton,ROUND O,County Council District 45,,REP,William Scott Catterton,3,0,0,0,2,0,1
+Colleton,RICE PATCH,County Council District 45,,REP,William Scott Catterton,5,0,0,0,1,0,4
+Colleton,RUFFIN,County Council District 45,,REP,William Scott Catterton,7,0,0,0,0,0,7
+Colleton,STOKES,County Council District 45,,REP,William Scott Catterton,29,0,0,0,8,0,21
+Colleton,SNIDERS,County Council District 45,,REP,William Scott Catterton,11,0,0,0,1,0,10
+Colleton,WALTERBORO NO. 1,County Council District 45,,REP,William Scott Catterton,21,0,0,0,6,0,15
+Colleton,WALTERBORO NO. 2,County Council District 45,,REP,William Scott Catterton,3,0,0,0,2,0,1
+Colleton,WALTERBORO NO. 4,County Council District 45,,REP,William Scott Catterton,32,0,0,0,9,0,23
+Colleton,WILLIAMS,County Council District 45,,REP,William Scott Catterton,3,0,0,0,0,0,3
+Colleton,WOLF CREEK,County Council District 45,,REP,William Scott Catterton,5,0,0,0,2,0,3
+Colleton,WALTERBORO NO. 5,County Council District 45,,REP,William Scott Catterton,56,0,0,0,24,0,32
+Colleton,ASHTON-LODGE,County Council District 45,,REP,William Scott Catterton,9,0,0,0,0,0,9
+Colleton,BEREA-SMOAKS,County Council District 45,,REP,William Scott Catterton,6,0,0,0,2,0,4
+Colleton,WALTERBORO NO. 6,County Council District 45,,REP,William Scott Catterton,6,0,0,0,4,0,2
+Colleton,Failsafe,County Council District 45,,REP,William Scott Catterton,0,0,0,0,0,0,0
+Colleton,Provisional,County Council District 45,,REP,William Scott Catterton,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,County Council District 45,,REP,William Scott Catterton,0,0,0,0,0,0,0
+Colleton,BELLS,County Council District 45,,REP,Johnny Frank,17,0,1,0,11,0,5
+Colleton,EDISTO,County Council District 45,,REP,Johnny Frank,1,0,0,0,1,0,0
+Colleton,HENDERSONVILLE,County Council District 45,,REP,Johnny Frank,27,0,0,0,9,0,18
+Colleton,HORSE PEN,County Council District 45,,REP,Johnny Frank,40,0,0,0,24,0,16
+Colleton,HUDSON MILL,County Council District 45,,REP,Johnny Frank,26,0,0,0,5,0,21
+Colleton,MASHAWVILLE,County Council District 45,,REP,Johnny Frank,3,0,0,0,0,0,3
+Colleton,PEEPLES,County Council District 45,,REP,Johnny Frank,53,0,0,0,36,0,17
+Colleton,PETITS,County Council District 45,,REP,Johnny Frank,10,0,0,0,3,0,7
+Colleton,PENIEL,County Council District 45,,REP,Johnny Frank,40,0,0,0,15,0,25
+Colleton,RITTER,County Council District 45,,REP,Johnny Frank,7,0,0,0,1,0,6
+Colleton,ROUND O,County Council District 45,,REP,Johnny Frank,22,0,0,0,8,0,14
+Colleton,RICE PATCH,County Council District 45,,REP,Johnny Frank,24,0,0,0,10,0,14
+Colleton,RUFFIN,County Council District 45,,REP,Johnny Frank,6,0,0,0,3,0,3
+Colleton,STOKES,County Council District 45,,REP,Johnny Frank,32,0,0,0,10,0,22
+Colleton,SNIDERS,County Council District 45,,REP,Johnny Frank,30,0,0,0,10,0,20
+Colleton,WALTERBORO NO. 1,County Council District 45,,REP,Johnny Frank,56,0,1,0,22,0,33
+Colleton,WALTERBORO NO. 2,County Council District 45,,REP,Johnny Frank,16,0,0,0,7,0,9
+Colleton,WALTERBORO NO. 4,County Council District 45,,REP,Johnny Frank,84,0,2,0,43,0,39
+Colleton,WILLIAMS,County Council District 45,,REP,Johnny Frank,6,0,0,0,1,0,5
+Colleton,WOLF CREEK,County Council District 45,,REP,Johnny Frank,61,0,0,0,22,0,39
+Colleton,WALTERBORO NO. 5,County Council District 45,,REP,Johnny Frank,161,0,2,0,101,0,58
+Colleton,ASHTON-LODGE,County Council District 45,,REP,Johnny Frank,7,0,0,0,0,0,7
+Colleton,BEREA-SMOAKS,County Council District 45,,REP,Johnny Frank,8,0,0,0,0,0,8
+Colleton,WALTERBORO NO. 6,County Council District 45,,REP,Johnny Frank,7,0,0,0,1,0,6
+Colleton,Failsafe,County Council District 45,,REP,Johnny Frank,0,0,0,0,0,0,0
+Colleton,Provisional,County Council District 45,,REP,Johnny Frank,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,County Council District 45,,REP,Johnny Frank,0,0,0,0,0,0,0
+Colleton,BELLS,County Council District 45,,REP,Wesley McDonald,5,0,0,0,0,0,5
+Colleton,EDISTO,County Council District 45,,REP,Wesley McDonald,0,0,0,0,0,0,0
+Colleton,HENDERSONVILLE,County Council District 45,,REP,Wesley McDonald,4,0,0,0,3,0,1
+Colleton,HORSE PEN,County Council District 45,,REP,Wesley McDonald,7,0,0,0,3,0,4
+Colleton,HUDSON MILL,County Council District 45,,REP,Wesley McDonald,15,0,2,0,3,0,10
+Colleton,MASHAWVILLE,County Council District 45,,REP,Wesley McDonald,0,0,0,0,0,0,0
+Colleton,PEEPLES,County Council District 45,,REP,Wesley McDonald,23,0,0,0,8,0,15
+Colleton,PETITS,County Council District 45,,REP,Wesley McDonald,2,0,0,0,1,0,1
+Colleton,PENIEL,County Council District 45,,REP,Wesley McDonald,17,0,0,0,10,0,7
+Colleton,RITTER,County Council District 45,,REP,Wesley McDonald,0,0,0,0,0,0,0
+Colleton,ROUND O,County Council District 45,,REP,Wesley McDonald,5,0,0,0,1,0,4
+Colleton,RICE PATCH,County Council District 45,,REP,Wesley McDonald,8,0,0,0,2,0,6
+Colleton,RUFFIN,County Council District 45,,REP,Wesley McDonald,2,0,0,0,1,0,1
+Colleton,STOKES,County Council District 45,,REP,Wesley McDonald,35,0,2,0,15,0,18
+Colleton,SNIDERS,County Council District 45,,REP,Wesley McDonald,8,0,0,0,3,0,5
+Colleton,WALTERBORO NO. 1,County Council District 45,,REP,Wesley McDonald,4,0,0,0,2,0,2
+Colleton,WALTERBORO NO. 2,County Council District 45,,REP,Wesley McDonald,5,0,1,0,1,0,3
+Colleton,WALTERBORO NO. 4,County Council District 45,,REP,Wesley McDonald,24,0,0,0,8,0,16
+Colleton,WILLIAMS,County Council District 45,,REP,Wesley McDonald,4,0,0,0,0,0,4
+Colleton,WOLF CREEK,County Council District 45,,REP,Wesley McDonald,25,0,0,0,8,0,17
+Colleton,WALTERBORO NO. 5,County Council District 45,,REP,Wesley McDonald,31,0,0,0,18,0,13
+Colleton,ASHTON-LODGE,County Council District 45,,REP,Wesley McDonald,1,0,0,0,0,0,1
+Colleton,BEREA-SMOAKS,County Council District 45,,REP,Wesley McDonald,9,0,2,0,3,0,4
+Colleton,WALTERBORO NO. 6,County Council District 45,,REP,Wesley McDonald,5,0,0,0,1,0,4
+Colleton,Failsafe,County Council District 45,,REP,Wesley McDonald,0,0,0,0,0,0,0
+Colleton,Provisional,County Council District 45,,REP,Wesley McDonald,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,County Council District 45,,REP,Wesley McDonald,0,0,0,0,0,0,0
+Colleton,BELLS,County Council District 45,,REP,Mark Williams,15,0,0,0,3,0,12
+Colleton,EDISTO,County Council District 45,,REP,Mark Williams,0,0,0,0,0,0,0
+Colleton,HENDERSONVILLE,County Council District 45,,REP,Mark Williams,6,0,0,0,1,0,5
+Colleton,HORSE PEN,County Council District 45,,REP,Mark Williams,7,0,0,0,1,0,6
+Colleton,HUDSON MILL,County Council District 45,,REP,Mark Williams,16,0,0,0,2,0,14
+Colleton,MASHAWVILLE,County Council District 45,,REP,Mark Williams,0,0,0,0,0,0,0
+Colleton,PEEPLES,County Council District 45,,REP,Mark Williams,11,0,1,0,3,0,7
+Colleton,PETITS,County Council District 45,,REP,Mark Williams,6,0,0,0,0,0,6
+Colleton,PENIEL,County Council District 45,,REP,Mark Williams,11,0,0,0,6,0,5
+Colleton,RITTER,County Council District 45,,REP,Mark Williams,2,0,0,0,0,0,2
+Colleton,ROUND O,County Council District 45,,REP,Mark Williams,1,0,0,0,0,0,1
+Colleton,RICE PATCH,County Council District 45,,REP,Mark Williams,48,0,0,0,4,0,44
+Colleton,RUFFIN,County Council District 45,,REP,Mark Williams,3,0,0,0,0,0,3
+Colleton,STOKES,County Council District 45,,REP,Mark Williams,16,0,0,0,1,0,15
+Colleton,SNIDERS,County Council District 45,,REP,Mark Williams,26,0,0,0,13,0,13
+Colleton,WALTERBORO NO. 1,County Council District 45,,REP,Mark Williams,11,0,0,0,0,0,11
+Colleton,WALTERBORO NO. 2,County Council District 45,,REP,Mark Williams,2,0,0,0,0,0,2
+Colleton,WALTERBORO NO. 4,County Council District 45,,REP,Mark Williams,27,0,0,0,6,0,21
+Colleton,WILLIAMS,County Council District 45,,REP,Mark Williams,13,0,0,0,2,0,11
+Colleton,WOLF CREEK,County Council District 45,,REP,Mark Williams,22,0,0,0,7,0,15
+Colleton,WALTERBORO NO. 5,County Council District 45,,REP,Mark Williams,47,0,0,0,19,0,28
+Colleton,ASHTON-LODGE,County Council District 45,,REP,Mark Williams,96,0,0,0,9,0,87
+Colleton,BEREA-SMOAKS,County Council District 45,,REP,Mark Williams,16,0,0,0,1,0,15
+Colleton,WALTERBORO NO. 6,County Council District 45,,REP,Mark Williams,6,0,0,0,1,0,5
+Colleton,Failsafe,County Council District 45,,REP,Mark Williams,0,0,0,0,0,0,0
+Colleton,Provisional,County Council District 45,,REP,Mark Williams,0,0,0,0,0,0,0
+Colleton,Failsafe Provisional,County Council District 45,,REP,Mark Williams,0,0,0,0,0,0,0

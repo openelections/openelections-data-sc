@@ -1,0 +1,2380 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Greenville,DUNKLIN,U.S. House,3,DEM,Bryon L Best,8,0,0,0,1,0,7
+Greenville,FORK SHOALS,U.S. House,3,DEM,Bryon L Best,5,0,0,0,2,0,3
+Greenville,FOUNTAIN INN 1,U.S. House,3,DEM,Bryon L Best,45,0,1,0,8,0,36
+Greenville,FOUNTAIN INN 2,U.S. House,3,DEM,Bryon L Best,9,0,0,0,2,0,7
+Greenville,NEELY FARMS,U.S. House,3,DEM,Bryon L Best,30,0,1,0,9,0,20
+Greenville,PIEDMONT,U.S. House,3,DEM,Bryon L Best,36,0,1,0,6,0,29
+Greenville,PINEVIEW,U.S. House,3,DEM,Bryon L Best,7,0,0,0,0,0,7
+Greenville,RAINTREE,U.S. House,3,DEM,Bryon L Best,31,0,2,0,11,0,18
+Greenville,REEDY FORK,U.S. House,3,DEM,Bryon L Best,105,0,2,0,30,0,73
+Greenville,SYCAMORE,U.S. House,3,DEM,Bryon L Best,15,0,3,0,0,0,12
+Greenville,WALNUT SPRINGS,U.S. House,3,DEM,Bryon L Best,40,0,4,0,10,0,26
+Greenville,WOODMONT,U.S. House,3,DEM,Bryon L Best,131,0,6,0,54,0,71
+Greenville,BAKER CREEK,U.S. House,3,DEM,Bryon L Best,13,0,0,0,6,0,7
+Greenville,LONG CREEK,U.S. House,3,DEM,Bryon L Best,30,0,0,0,5,0,25
+Greenville,VERDMONT,U.S. House,3,DEM,Bryon L Best,17,0,2,0,3,0,12
+Greenville,WARE PLACE,U.S. House,3,DEM,Bryon L Best,22,0,1,0,6,0,15
+Greenville,Failsafe,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Greenville,Provisional,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Greenville,DUNKLIN,U.S. House,3,DEM,Frances Guldner,7,0,0,0,1,0,6
+Greenville,FORK SHOALS,U.S. House,3,DEM,Frances Guldner,9,0,0,0,4,0,5
+Greenville,FOUNTAIN INN 1,U.S. House,3,DEM,Frances Guldner,32,0,0,0,6,0,26
+Greenville,FOUNTAIN INN 2,U.S. House,3,DEM,Frances Guldner,8,0,0,0,1,0,7
+Greenville,NEELY FARMS,U.S. House,3,DEM,Frances Guldner,38,0,1,0,12,0,25
+Greenville,PIEDMONT,U.S. House,3,DEM,Frances Guldner,23,0,0,0,9,0,14
+Greenville,PINEVIEW,U.S. House,3,DEM,Frances Guldner,3,0,0,0,0,0,3
+Greenville,RAINTREE,U.S. House,3,DEM,Frances Guldner,18,0,1,0,2,0,15
+Greenville,REEDY FORK,U.S. House,3,DEM,Frances Guldner,75,0,3,0,18,0,54
+Greenville,SYCAMORE,U.S. House,3,DEM,Frances Guldner,19,0,2,0,7,0,10
+Greenville,WALNUT SPRINGS,U.S. House,3,DEM,Frances Guldner,30,0,5,0,9,0,16
+Greenville,WOODMONT,U.S. House,3,DEM,Frances Guldner,75,0,6,0,27,0,42
+Greenville,BAKER CREEK,U.S. House,3,DEM,Frances Guldner,7,0,0,0,2,0,5
+Greenville,LONG CREEK,U.S. House,3,DEM,Frances Guldner,20,0,2,0,4,0,14
+Greenville,VERDMONT,U.S. House,3,DEM,Frances Guldner,27,0,2,0,10,0,15
+Greenville,WARE PLACE,U.S. House,3,DEM,Frances Guldner,13,0,0,0,3,0,10
+Greenville,Failsafe,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Greenville,Provisional,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Greenville,DUNKLIN,U.S. House,3,REP,Sheri Biggs,89,0,7,0,13,0,69
+Greenville,FORK SHOALS,U.S. House,3,REP,Sheri Biggs,75,0,2,0,10,0,63
+Greenville,FOUNTAIN INN 1,U.S. House,3,REP,Sheri Biggs,66,0,4,0,15,0,47
+Greenville,FOUNTAIN INN 2,U.S. House,3,REP,Sheri Biggs,24,0,0,0,1,0,23
+Greenville,NEELY FARMS,U.S. House,3,REP,Sheri Biggs,82,0,0,0,9,0,73
+Greenville,PIEDMONT,U.S. House,3,REP,Sheri Biggs,77,0,6,0,12,0,59
+Greenville,PINEVIEW,U.S. House,3,REP,Sheri Biggs,27,0,0,0,6,0,21
+Greenville,RAINTREE,U.S. House,3,REP,Sheri Biggs,56,0,2,0,14,0,40
+Greenville,REEDY FORK,U.S. House,3,REP,Sheri Biggs,65,0,1,0,17,0,47
+Greenville,SYCAMORE,U.S. House,3,REP,Sheri Biggs,73,0,0,0,16,0,57
+Greenville,WALNUT SPRINGS,U.S. House,3,REP,Sheri Biggs,129,0,2,0,32,0,95
+Greenville,WOODMONT,U.S. House,3,REP,Sheri Biggs,67,0,6,0,19,0,42
+Greenville,BAKER CREEK,U.S. House,3,REP,Sheri Biggs,46,0,2,0,6,0,38
+Greenville,LONG CREEK,U.S. House,3,REP,Sheri Biggs,84,0,2,0,26,0,56
+Greenville,VERDMONT,U.S. House,3,REP,Sheri Biggs,47,0,5,0,10,0,32
+Greenville,WARE PLACE,U.S. House,3,REP,Sheri Biggs,80,0,7,0,16,0,57
+Greenville,Failsafe,U.S. House,3,REP,Sheri Biggs,0,0,0,0,0,0,0
+Greenville,Provisional,U.S. House,3,REP,Sheri Biggs,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,U.S. House,3,REP,Sheri Biggs,0,0,0,0,0,0,0
+Greenville,DUNKLIN,U.S. House,3,REP,Kevin Bishop,20,0,2,0,2,0,16
+Greenville,FORK SHOALS,U.S. House,3,REP,Kevin Bishop,32,0,0,0,2,0,30
+Greenville,FOUNTAIN INN 1,U.S. House,3,REP,Kevin Bishop,25,0,0,0,5,0,20
+Greenville,FOUNTAIN INN 2,U.S. House,3,REP,Kevin Bishop,14,0,0,0,1,0,13
+Greenville,NEELY FARMS,U.S. House,3,REP,Kevin Bishop,53,0,2,0,10,0,41
+Greenville,PIEDMONT,U.S. House,3,REP,Kevin Bishop,26,0,2,0,4,0,20
+Greenville,PINEVIEW,U.S. House,3,REP,Kevin Bishop,13,0,0,0,0,0,13
+Greenville,RAINTREE,U.S. House,3,REP,Kevin Bishop,28,0,2,0,8,0,18
+Greenville,REEDY FORK,U.S. House,3,REP,Kevin Bishop,27,0,0,0,4,0,23
+Greenville,SYCAMORE,U.S. House,3,REP,Kevin Bishop,58,0,4,0,15,0,39
+Greenville,WALNUT SPRINGS,U.S. House,3,REP,Kevin Bishop,96,0,2,0,24,0,70
+Greenville,WOODMONT,U.S. House,3,REP,Kevin Bishop,26,0,2,0,7,0,17
+Greenville,BAKER CREEK,U.S. House,3,REP,Kevin Bishop,18,0,0,0,0,0,18
+Greenville,LONG CREEK,U.S. House,3,REP,Kevin Bishop,27,0,1,0,3,0,23
+Greenville,VERDMONT,U.S. House,3,REP,Kevin Bishop,36,0,0,0,7,0,29
+Greenville,WARE PLACE,U.S. House,3,REP,Kevin Bishop,24,0,0,0,3,0,21
+Greenville,Failsafe,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Greenville,Provisional,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Greenville,DUNKLIN,U.S. House,3,REP,Mark Burns,195,0,3,0,12,0,180
+Greenville,FORK SHOALS,U.S. House,3,REP,Mark Burns,154,0,2,0,9,0,143
+Greenville,FOUNTAIN INN 1,U.S. House,3,REP,Mark Burns,141,0,2,0,17,0,122
+Greenville,FOUNTAIN INN 2,U.S. House,3,REP,Mark Burns,68,0,0,0,5,0,63
+Greenville,NEELY FARMS,U.S. House,3,REP,Mark Burns,124,0,0,0,26,0,98
+Greenville,PIEDMONT,U.S. House,3,REP,Mark Burns,129,0,4,0,8,0,117
+Greenville,PINEVIEW,U.S. House,3,REP,Mark Burns,68,0,0,0,4,0,64
+Greenville,RAINTREE,U.S. House,3,REP,Mark Burns,127,0,5,0,25,0,97
+Greenville,REEDY FORK,U.S. House,3,REP,Mark Burns,100,0,1,0,15,0,84
+Greenville,SYCAMORE,U.S. House,3,REP,Mark Burns,157,0,9,0,32,0,116
+Greenville,WALNUT SPRINGS,U.S. House,3,REP,Mark Burns,220,0,3,0,44,0,173
+Greenville,WOODMONT,U.S. House,3,REP,Mark Burns,91,0,3,0,13,0,75
+Greenville,BAKER CREEK,U.S. House,3,REP,Mark Burns,97,0,1,0,9,0,87
+Greenville,LONG CREEK,U.S. House,3,REP,Mark Burns,93,0,3,0,23,0,67
+Greenville,VERDMONT,U.S. House,3,REP,Mark Burns,73,0,3,0,14,0,56
+Greenville,WARE PLACE,U.S. House,3,REP,Mark Burns,148,0,1,0,16,0,131
+Greenville,Failsafe,U.S. House,3,REP,Mark Burns,1,1,0,0,0,0,0
+Greenville,Provisional,U.S. House,3,REP,Mark Burns,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,U.S. House,3,REP,Mark Burns,2,0,0,2,0,0,0
+Greenville,DUNKLIN,U.S. House,3,REP,Franky Franco,24,0,3,0,1,0,20
+Greenville,FORK SHOALS,U.S. House,3,REP,Franky Franco,23,0,0,0,2,0,21
+Greenville,FOUNTAIN INN 1,U.S. House,3,REP,Franky Franco,39,0,0,0,5,0,34
+Greenville,FOUNTAIN INN 2,U.S. House,3,REP,Franky Franco,8,0,0,0,1,0,7
+Greenville,NEELY FARMS,U.S. House,3,REP,Franky Franco,52,0,0,0,18,0,34
+Greenville,PIEDMONT,U.S. House,3,REP,Franky Franco,7,0,2,0,0,0,5
+Greenville,PINEVIEW,U.S. House,3,REP,Franky Franco,14,0,1,0,1,0,12
+Greenville,RAINTREE,U.S. House,3,REP,Franky Franco,43,0,3,0,8,0,32
+Greenville,REEDY FORK,U.S. House,3,REP,Franky Franco,19,0,0,0,4,0,15
+Greenville,SYCAMORE,U.S. House,3,REP,Franky Franco,29,0,0,0,10,0,19
+Greenville,WALNUT SPRINGS,U.S. House,3,REP,Franky Franco,33,0,1,0,5,0,27
+Greenville,WOODMONT,U.S. House,3,REP,Franky Franco,12,0,0,0,5,0,7
+Greenville,BAKER CREEK,U.S. House,3,REP,Franky Franco,21,0,1,0,3,0,17
+Greenville,LONG CREEK,U.S. House,3,REP,Franky Franco,50,0,0,0,10,0,40
+Greenville,VERDMONT,U.S. House,3,REP,Franky Franco,89,0,0,0,23,0,66
+Greenville,WARE PLACE,U.S. House,3,REP,Franky Franco,20,0,0,0,2,0,18
+Greenville,Failsafe,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Greenville,Provisional,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Greenville,DUNKLIN,U.S. House,3,REP,Phil Healy,9,0,0,0,0,0,9
+Greenville,FORK SHOALS,U.S. House,3,REP,Phil Healy,5,0,1,0,0,0,4
+Greenville,FOUNTAIN INN 1,U.S. House,3,REP,Phil Healy,8,0,0,0,0,0,8
+Greenville,FOUNTAIN INN 2,U.S. House,3,REP,Phil Healy,7,0,0,0,1,0,6
+Greenville,NEELY FARMS,U.S. House,3,REP,Phil Healy,23,0,0,0,2,0,21
+Greenville,PIEDMONT,U.S. House,3,REP,Phil Healy,6,0,1,0,0,0,5
+Greenville,PINEVIEW,U.S. House,3,REP,Phil Healy,13,0,0,0,1,0,12
+Greenville,RAINTREE,U.S. House,3,REP,Phil Healy,22,0,0,0,4,0,18
+Greenville,REEDY FORK,U.S. House,3,REP,Phil Healy,21,0,1,0,3,0,17
+Greenville,SYCAMORE,U.S. House,3,REP,Phil Healy,29,0,1,0,9,0,19
+Greenville,WALNUT SPRINGS,U.S. House,3,REP,Phil Healy,37,0,0,0,7,0,30
+Greenville,WOODMONT,U.S. House,3,REP,Phil Healy,9,0,0,0,3,0,6
+Greenville,BAKER CREEK,U.S. House,3,REP,Phil Healy,6,0,0,0,0,0,6
+Greenville,LONG CREEK,U.S. House,3,REP,Phil Healy,12,0,2,0,2,0,8
+Greenville,VERDMONT,U.S. House,3,REP,Phil Healy,19,0,0,0,1,0,18
+Greenville,WARE PLACE,U.S. House,3,REP,Phil Healy,7,0,0,0,1,0,6
+Greenville,Failsafe,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenville,Provisional,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenville,DUNKLIN,U.S. House,3,REP,Stewart O Jones,75,0,0,0,6,0,69
+Greenville,FORK SHOALS,U.S. House,3,REP,Stewart O Jones,81,0,0,0,17,0,64
+Greenville,FOUNTAIN INN 1,U.S. House,3,REP,Stewart O Jones,96,0,2,0,7,0,87
+Greenville,FOUNTAIN INN 2,U.S. House,3,REP,Stewart O Jones,37,0,0,0,1,0,36
+Greenville,NEELY FARMS,U.S. House,3,REP,Stewart O Jones,72,0,0,0,15,0,57
+Greenville,PIEDMONT,U.S. House,3,REP,Stewart O Jones,51,0,1,0,9,0,41
+Greenville,PINEVIEW,U.S. House,3,REP,Stewart O Jones,30,0,0,0,2,0,28
+Greenville,RAINTREE,U.S. House,3,REP,Stewart O Jones,73,0,1,0,14,0,58
+Greenville,REEDY FORK,U.S. House,3,REP,Stewart O Jones,30,0,0,0,4,0,26
+Greenville,SYCAMORE,U.S. House,3,REP,Stewart O Jones,76,0,0,0,21,0,55
+Greenville,WALNUT SPRINGS,U.S. House,3,REP,Stewart O Jones,158,0,0,0,37,0,121
+Greenville,WOODMONT,U.S. House,3,REP,Stewart O Jones,37,0,1,0,4,0,32
+Greenville,BAKER CREEK,U.S. House,3,REP,Stewart O Jones,31,0,0,0,6,0,25
+Greenville,LONG CREEK,U.S. House,3,REP,Stewart O Jones,35,0,0,0,10,0,25
+Greenville,VERDMONT,U.S. House,3,REP,Stewart O Jones,44,0,0,0,16,0,28
+Greenville,WARE PLACE,U.S. House,3,REP,Stewart O Jones,81,0,0,0,20,0,61
+Greenville,Failsafe,U.S. House,3,REP,Stewart O Jones,0,0,0,0,0,0,0
+Greenville,Provisional,U.S. House,3,REP,Stewart O Jones,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,U.S. House,3,REP,Stewart O Jones,0,0,0,0,0,0,0
+Greenville,DUNKLIN,U.S. House,3,REP,Elspeth Snow Murday,5,0,1,0,2,0,2
+Greenville,FORK SHOALS,U.S. House,3,REP,Elspeth Snow Murday,3,0,0,0,1,0,2
+Greenville,FOUNTAIN INN 1,U.S. House,3,REP,Elspeth Snow Murday,10,0,0,0,3,0,7
+Greenville,FOUNTAIN INN 2,U.S. House,3,REP,Elspeth Snow Murday,4,0,0,0,0,0,4
+Greenville,NEELY FARMS,U.S. House,3,REP,Elspeth Snow Murday,13,0,2,0,0,0,11
+Greenville,PIEDMONT,U.S. House,3,REP,Elspeth Snow Murday,9,0,0,0,0,0,9
+Greenville,PINEVIEW,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Greenville,RAINTREE,U.S. House,3,REP,Elspeth Snow Murday,9,0,0,0,5,0,4
+Greenville,REEDY FORK,U.S. House,3,REP,Elspeth Snow Murday,9,0,0,0,3,0,6
+Greenville,SYCAMORE,U.S. House,3,REP,Elspeth Snow Murday,20,0,0,0,8,0,12
+Greenville,WALNUT SPRINGS,U.S. House,3,REP,Elspeth Snow Murday,23,0,1,0,5,0,17
+Greenville,WOODMONT,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenville,BAKER CREEK,U.S. House,3,REP,Elspeth Snow Murday,6,0,0,0,0,0,6
+Greenville,LONG CREEK,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,0,0,2
+Greenville,VERDMONT,U.S. House,3,REP,Elspeth Snow Murday,12,0,1,0,3,0,8
+Greenville,WARE PLACE,U.S. House,3,REP,Elspeth Snow Murday,8,0,0,0,4,0,4
+Greenville,Failsafe,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenville,Provisional,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenville,GREENVILLE 1,U.S. House,4,REP,Adam Morgan,272,0,2,0,48,0,222
+Greenville,GREENVILLE 3,U.S. House,4,REP,Adam Morgan,224,0,0,0,54,0,170
+Greenville,GREENVILLE 4,U.S. House,4,REP,Adam Morgan,97,0,1,0,15,0,81
+Greenville,GREENVILLE 5,U.S. House,4,REP,Adam Morgan,132,0,3,0,22,0,107
+Greenville,GREENVILLE 6,U.S. House,4,REP,Adam Morgan,7,0,0,0,3,0,4
+Greenville,GREENVILLE 7,U.S. House,4,REP,Adam Morgan,33,0,0,0,6,0,27
+Greenville,GREENVILLE 8,U.S. House,4,REP,Adam Morgan,70,0,6,0,12,0,52
+Greenville,GREENVILLE 10,U.S. House,4,REP,Adam Morgan,111,0,1,0,32,0,78
+Greenville,GREENVILLE 14,U.S. House,4,REP,Adam Morgan,14,0,1,0,3,0,10
+Greenville,GREENVILLE 16,U.S. House,4,REP,Adam Morgan,174,0,6,0,32,0,136
+Greenville,GREENVILLE 17,U.S. House,4,REP,Adam Morgan,162,0,1,0,51,0,110
+Greenville,GREENVILLE 18,U.S. House,4,REP,Adam Morgan,149,0,0,0,42,0,107
+Greenville,GREENVILLE 19,U.S. House,4,REP,Adam Morgan,37,0,0,0,9,0,28
+Greenville,GREENVILLE 20,U.S. House,4,REP,Adam Morgan,102,0,2,0,24,0,76
+Greenville,GREENVILLE 21,U.S. House,4,REP,Adam Morgan,67,0,2,0,14,0,51
+Greenville,GREENVILLE 22,U.S. House,4,REP,Adam Morgan,219,0,1,0,38,0,180
+Greenville,GREENVILLE 23,U.S. House,4,REP,Adam Morgan,243,0,1,0,81,0,161
+Greenville,GREENVILLE 24,U.S. House,4,REP,Adam Morgan,234,0,25,0,74,0,135
+Greenville,GREENVILLE 25,U.S. House,4,REP,Adam Morgan,75,0,1,0,17,0,57
+Greenville,GREENVILLE 26,U.S. House,4,REP,Adam Morgan,71,0,1,0,9,0,61
+Greenville,GREENVILLE 27,U.S. House,4,REP,Adam Morgan,251,0,6,0,44,0,201
+Greenville,GREENVILLE 28,U.S. House,4,REP,Adam Morgan,93,0,2,0,13,0,78
+Greenville,GREENVILLE 29,U.S. House,4,REP,Adam Morgan,21,0,1,0,4,0,16
+Greenville,AIKEN,U.S. House,4,REP,Adam Morgan,27,0,0,0,2,0,25
+Greenville,ALTAMONT FOREST,U.S. House,4,REP,Adam Morgan,207,0,1,0,62,0,144
+Greenville,ASHETON LAKES,U.S. House,4,REP,Adam Morgan,249,0,3,0,43,0,203
+Greenville,AVON,U.S. House,4,REP,Adam Morgan,260,0,8,0,33,0,219
+Greenville,BELLE MEADE,U.S. House,4,REP,Adam Morgan,6,0,0,0,1,0,5
+Greenville,BELLS CROSSING,U.S. House,4,REP,Adam Morgan,217,0,4,0,46,0,167
+Greenville,BELMONT,U.S. House,4,REP,Adam Morgan,21,0,0,0,3,0,18
+Greenville,BEREA,U.S. House,4,REP,Adam Morgan,78,0,3,0,16,0,59
+Greenville,BOILING SPRINGS,U.S. House,4,REP,Adam Morgan,269,0,9,0,42,0,218
+Greenville,BOTANY WOODS,U.S. House,4,REP,Adam Morgan,218,0,1,0,60,0,157
+Greenville,BROOKGLENN,U.S. House,4,REP,Adam Morgan,137,0,2,0,18,0,117
+Greenville,CANEBRAKE,U.S. House,4,REP,Adam Morgan,368,0,7,0,76,0,285
+Greenville,CAROLINA,U.S. House,4,REP,Adam Morgan,3,0,0,0,0,0,3
+Greenville,CHESTNUT HILLS,U.S. House,4,REP,Adam Morgan,56,0,0,0,8,0,48
+Greenville,CIRCLE CREEK,U.S. House,4,REP,Adam Morgan,241,0,6,0,47,0,188
+Greenville,CLEAR CREEK,U.S. House,4,REP,Adam Morgan,255,0,2,0,48,0,205
+Greenville,CONESTEE,U.S. House,4,REP,Adam Morgan,106,0,1,0,20,0,85
+Greenville,DARBY RIDGE,U.S. House,4,REP,Adam Morgan,399,0,1,0,121,0,277
+Greenville,DEL NORTE,U.S. House,4,REP,Adam Morgan,220,0,4,0,36,0,180
+Greenville,DEVENGER,U.S. House,4,REP,Adam Morgan,257,0,7,0,39,0,211
+Greenville,DONALDSON,U.S. House,4,REP,Adam Morgan,26,0,0,0,8,0,18
+Greenville,DOVE TREE,U.S. House,4,REP,Adam Morgan,208,0,5,0,30,0,173
+Greenville,EASTSIDE,U.S. House,4,REP,Adam Morgan,316,0,12,0,67,0,237
+Greenville,EBENEZER,U.S. House,4,REP,Adam Morgan,244,0,1,0,79,0,164
+Greenville,EDWARDS FOREST,U.S. House,4,REP,Adam Morgan,324,0,6,0,64,0,254
+Greenville,ENOREE,U.S. House,4,REP,Adam Morgan,238,0,8,0,64,0,166
+Greenville,FEASTER,U.S. House,4,REP,Adam Morgan,88,0,5,0,26,0,57
+Greenville,FURMAN,U.S. House,4,REP,Adam Morgan,312,0,15,0,96,0,201
+Greenville,GOWENSVILLE,U.S. House,4,REP,Adam Morgan,174,0,1,0,11,0,162
+Greenville,GROVE,U.S. House,4,REP,Adam Morgan,68,0,2,0,29,0,37
+Greenville,JENNINGS MILL,U.S. House,4,REP,Adam Morgan,153,0,0,0,33,0,120
+Greenville,LAKEVIEW,U.S. House,4,REP,Adam Morgan,120,0,0,0,12,0,108
+Greenville,LAUREL RIDGE,U.S. House,4,REP,Adam Morgan,345,0,12,0,75,0,258
+Greenville,LEAWOOD,U.S. House,4,REP,Adam Morgan,217,0,8,0,42,0,167
+Greenville,MAPLE CREEK,U.S. House,4,REP,Adam Morgan,166,0,3,0,32,0,131
+Greenville,MARIDELL,U.S. House,4,REP,Adam Morgan,174,0,2,0,36,0,136
+Greenville,MAULDIN 1,U.S. House,4,REP,Adam Morgan,104,0,5,0,29,0,70
+Greenville,MAULDIN 2,U.S. House,4,REP,Adam Morgan,213,0,6,0,58,0,149
+Greenville,MAULDIN 3,U.S. House,4,REP,Adam Morgan,68,0,1,0,26,0,41
+Greenville,MAULDIN 4,U.S. House,4,REP,Adam Morgan,176,0,3,0,60,0,113
+Greenville,MAULDIN 5,U.S. House,4,REP,Adam Morgan,117,0,4,0,38,0,75
+Greenville,MAULDIN 6,U.S. House,4,REP,Adam Morgan,124,0,0,0,40,0,84
+Greenville,MAULDIN 7,U.S. House,4,REP,Adam Morgan,99,0,0,0,22,0,77
+Greenville,MISSION,U.S. House,4,REP,Adam Morgan,252,0,7,0,56,0,189
+Greenville,MONAVIEW,U.S. House,4,REP,Adam Morgan,56,0,0,0,9,0,47
+Greenville,MOUNTAIN CREEK,U.S. House,4,REP,Adam Morgan,407,0,6,0,85,0,316
+Greenville,MOUNTAIN VIEW,U.S. House,4,REP,Adam Morgan,241,0,2,0,65,0,174
+Greenville,NORTHWOOD,U.S. House,4,REP,Adam Morgan,261,0,2,0,44,0,215
+Greenville,OAKVIEW,U.S. House,4,REP,Adam Morgan,310,0,4,0,57,0,249
+Greenville,PALMETTO,U.S. House,4,REP,Adam Morgan,167,0,9,0,28,0,130
+Greenville,PARIS MOUNTAIN,U.S. House,4,REP,Adam Morgan,208,0,3,0,47,0,158
+Greenville,PEBBLE CREEK,U.S. House,4,REP,Adam Morgan,347,0,6,0,73,0,268
+Greenville,PELHAM FALLS,U.S. House,4,REP,Adam Morgan,141,0,0,0,19,0,122
+Greenville,POINSETT,U.S. House,4,REP,Adam Morgan,271,0,6,0,63,0,202
+Greenville,RIVERWALK,U.S. House,4,REP,Adam Morgan,296,0,10,0,75,0,211
+Greenville,ROCK HILL,U.S. House,4,REP,Adam Morgan,218,0,7,0,40,0,171
+Greenville,ROCKY CREEK,U.S. House,4,REP,Adam Morgan,128,0,11,0,36,0,81
+Greenville,ROLLING GREEN,U.S. House,4,REP,Adam Morgan,237,0,6,0,53,0,178
+Greenville,ROYAL OAKS,U.S. House,4,REP,Adam Morgan,10,0,2,0,1,0,7
+Greenville,SALUDA,U.S. House,4,REP,Adam Morgan,106,0,1,0,14,0,91
+Greenville,SANDY FLAT,U.S. House,4,REP,Adam Morgan,489,0,5,0,148,0,336
+Greenville,SEVIER,U.S. House,4,REP,Adam Morgan,380,0,4,0,64,0,312
+Greenville,SILVERLEAF,U.S. House,4,REP,Adam Morgan,318,0,1,0,54,0,263
+Greenville,SIMPSONVILLE 1,U.S. House,4,REP,Adam Morgan,184,0,4,0,37,0,143
+Greenville,SIMPSONVILLE 2,U.S. House,4,REP,Adam Morgan,82,0,2,0,17,0,63
+Greenville,SIMPSONVILLE 3,U.S. House,4,REP,Adam Morgan,231,0,7,0,63,0,161
+Greenville,SIMPSONVILLE 4,U.S. House,4,REP,Adam Morgan,90,0,2,0,37,0,51
+Greenville,SIMPSONVILLE 5,U.S. House,4,REP,Adam Morgan,89,0,0,0,16,0,73
+Greenville,SIMPSONVILLE 6,U.S. House,4,REP,Adam Morgan,139,0,5,0,48,0,86
+Greenville,SKYLAND,U.S. House,4,REP,Adam Morgan,267,0,4,0,37,0,226
+Greenville,SLATER MARIETTA,U.S. House,4,REP,Adam Morgan,215,0,0,0,38,0,177
+Greenville,SOUTHSIDE,U.S. House,4,REP,Adam Morgan,146,0,6,0,66,0,74
+Greenville,SPRING FOREST,U.S. House,4,REP,Adam Morgan,174,0,3,0,30,0,141
+Greenville,STONE VALLEY,U.S. House,4,REP,Adam Morgan,255,0,8,0,61,0,186
+Greenville,STONEHAVEN,U.S. House,4,REP,Adam Morgan,162,0,2,0,39,0,121
+Greenville,SUBER MILL,U.S. House,4,REP,Adam Morgan,297,0,3,0,59,0,235
+Greenville,SUGAR CREEK,U.S. House,4,REP,Adam Morgan,328,0,4,0,56,0,268
+Greenville,SULPHUR SPRINGS,U.S. House,4,REP,Adam Morgan,177,0,1,0,44,0,132
+Greenville,SYCAMORE,U.S. House,4,REP,Adam Morgan,19,0,2,0,5,0,12
+Greenville,TANGLEWOOD,U.S. House,4,REP,Adam Morgan,86,0,0,0,9,0,77
+Greenville,TAYLORS,U.S. House,4,REP,Adam Morgan,178,0,8,0,32,0,138
+Greenville,THORNBLADE,U.S. House,4,REP,Adam Morgan,277,0,6,0,51,0,220
+Greenville,TIGERVILLE,U.S. House,4,REP,Adam Morgan,338,0,8,0,73,0,257
+Greenville,TIMBERLAKE,U.S. House,4,REP,Adam Morgan,366,0,4,0,80,0,282
+Greenville,TRADE,U.S. House,4,REP,Adam Morgan,144,0,3,0,42,0,99
+Greenville,TUBBS MOUNTAIN,U.S. House,4,REP,Adam Morgan,254,0,8,0,69,0,177
+Greenville,WADE HAMPTON,U.S. House,4,REP,Adam Morgan,296,0,7,0,33,0,256
+Greenville,WELCOME,U.S. House,4,REP,Adam Morgan,41,0,0,0,8,0,33
+Greenville,WELLINGTON,U.S. House,4,REP,Adam Morgan,214,0,3,0,49,0,162
+Greenville,WESTCLIFFE,U.S. House,4,REP,Adam Morgan,89,0,2,0,15,0,72
+Greenville,WESTSIDE,U.S. House,4,REP,Adam Morgan,94,0,9,0,13,0,72
+Greenville,WOODRUFF LAKES,U.S. House,4,REP,Adam Morgan,241,0,15,0,43,0,183
+Greenville,MT. PLEASANT,U.S. House,4,REP,Adam Morgan,25,0,2,0,4,0,19
+Greenville,BRIDGE FORK,U.S. House,4,REP,Adam Morgan,130,0,0,0,27,0,103
+Greenville,CASTLE ROCK,U.S. House,4,REP,Adam Morgan,302,0,2,0,54,0,246
+Greenville,FOX CHASE,U.S. House,4,REP,Adam Morgan,300,0,2,0,75,0,223
+Greenville,FROHAWK,U.S. House,4,REP,Adam Morgan,262,0,2,0,62,0,198
+Greenville,GRANITE CREEK,U.S. House,4,REP,Adam Morgan,236,0,3,0,60,0,173
+Greenville,GRAZE BRANCH,U.S. House,4,REP,Adam Morgan,153,0,2,0,28,0,123
+Greenville,GREENBRIAR,U.S. House,4,REP,Adam Morgan,81,0,3,0,27,0,51
+Greenville,HILLCREST,U.S. House,4,REP,Adam Morgan,149,0,0,0,37,0,112
+Greenville,HOLLY TREE,U.S. House,4,REP,Adam Morgan,120,0,3,0,26,0,91
+Greenville,KILGORE FARMS,U.S. House,4,REP,Adam Morgan,148,0,2,0,24,0,122
+Greenville,LOCUST HILL,U.S. House,4,REP,Adam Morgan,217,0,3,0,40,0,174
+Greenville,MOORE CREEK,U.S. House,4,REP,Adam Morgan,244,0,5,0,66,0,173
+Greenville,ONEAL,U.S. House,4,REP,Adam Morgan,420,0,14,0,64,0,342
+Greenville,RANCH CREEK,U.S. House,4,REP,Adam Morgan,137,0,0,0,41,0,96
+Greenville,RIVERSIDE,U.S. House,4,REP,Adam Morgan,180,0,1,0,27,0,152
+Greenville,SPARROWS POINT,U.S. House,4,REP,Adam Morgan,129,0,2,0,38,0,89
+Greenville,STANDING SPRINGS,U.S. House,4,REP,Adam Morgan,139,0,5,0,39,0,95
+Greenville,TRAVELERS REST 1,U.S. House,4,REP,Adam Morgan,233,0,10,0,70,0,153
+Greenville,TRAVELERS REST 2,U.S. House,4,REP,Adam Morgan,134,0,2,0,36,0,96
+Greenville,TYGER RIVER,U.S. House,4,REP,Adam Morgan,88,0,1,0,23,0,64
+Greenville,Failsafe,U.S. House,4,REP,Adam Morgan,5,5,0,0,0,0,0
+Greenville,Provisional,U.S. House,4,REP,Adam Morgan,10,0,0,0,0,10,0
+Greenville,Failsafe Provisional,U.S. House,4,REP,Adam Morgan,15,0,0,15,0,0,0
+Greenville,GREENVILLE 1,U.S. House,4,REP,William Timmons,176,0,5,0,29,0,142
+Greenville,GREENVILLE 3,U.S. House,4,REP,William Timmons,282,0,3,0,59,0,220
+Greenville,GREENVILLE 4,U.S. House,4,REP,William Timmons,97,0,1,0,20,0,76
+Greenville,GREENVILLE 5,U.S. House,4,REP,William Timmons,178,0,3,0,34,0,141
+Greenville,GREENVILLE 6,U.S. House,4,REP,William Timmons,7,0,0,0,0,0,7
+Greenville,GREENVILLE 7,U.S. House,4,REP,William Timmons,27,0,1,0,8,0,18
+Greenville,GREENVILLE 8,U.S. House,4,REP,William Timmons,115,0,3,0,33,0,79
+Greenville,GREENVILLE 10,U.S. House,4,REP,William Timmons,136,0,2,0,37,0,97
+Greenville,GREENVILLE 14,U.S. House,4,REP,William Timmons,13,0,0,0,2,0,11
+Greenville,GREENVILLE 16,U.S. House,4,REP,William Timmons,161,0,5,0,38,0,118
+Greenville,GREENVILLE 17,U.S. House,4,REP,William Timmons,206,0,4,0,66,0,136
+Greenville,GREENVILLE 18,U.S. House,4,REP,William Timmons,131,0,5,0,28,0,98
+Greenville,GREENVILLE 19,U.S. House,4,REP,William Timmons,34,0,4,0,12,0,18
+Greenville,GREENVILLE 20,U.S. House,4,REP,William Timmons,103,0,3,0,31,0,69
+Greenville,GREENVILLE 21,U.S. House,4,REP,William Timmons,112,0,2,0,36,0,74
+Greenville,GREENVILLE 22,U.S. House,4,REP,William Timmons,188,0,1,0,46,0,141
+Greenville,GREENVILLE 23,U.S. House,4,REP,William Timmons,242,0,3,0,78,0,161
+Greenville,GREENVILLE 24,U.S. House,4,REP,William Timmons,243,0,19,0,84,0,140
+Greenville,GREENVILLE 25,U.S. House,4,REP,William Timmons,87,0,3,0,8,0,76
+Greenville,GREENVILLE 26,U.S. House,4,REP,William Timmons,51,0,1,0,7,0,43
+Greenville,GREENVILLE 27,U.S. House,4,REP,William Timmons,64,0,0,0,5,0,59
+Greenville,GREENVILLE 28,U.S. House,4,REP,William Timmons,33,0,0,0,12,0,21
+Greenville,GREENVILLE 29,U.S. House,4,REP,William Timmons,31,0,1,0,10,0,20
+Greenville,AIKEN,U.S. House,4,REP,William Timmons,20,0,0,0,1,0,19
+Greenville,ALTAMONT FOREST,U.S. House,4,REP,William Timmons,149,0,5,0,38,0,106
+Greenville,ASHETON LAKES,U.S. House,4,REP,William Timmons,262,0,8,0,41,0,213
+Greenville,AVON,U.S. House,4,REP,William Timmons,122,0,4,0,13,0,105
+Greenville,BELLE MEADE,U.S. House,4,REP,William Timmons,10,0,0,0,1,0,9
+Greenville,BELLS CROSSING,U.S. House,4,REP,William Timmons,205,0,6,0,47,0,152
+Greenville,BELMONT,U.S. House,4,REP,William Timmons,29,0,2,0,2,0,25
+Greenville,BEREA,U.S. House,4,REP,William Timmons,75,0,0,0,21,0,54
+Greenville,BOILING SPRINGS,U.S. House,4,REP,William Timmons,189,0,5,0,37,0,147
+Greenville,BOTANY WOODS,U.S. House,4,REP,William Timmons,140,0,2,0,25,0,113
+Greenville,BROOKGLENN,U.S. House,4,REP,William Timmons,72,0,1,0,7,0,64
+Greenville,CANEBRAKE,U.S. House,4,REP,William Timmons,273,0,0,0,46,0,227
+Greenville,CAROLINA,U.S. House,4,REP,William Timmons,27,0,3,0,3,0,21
+Greenville,CHESTNUT HILLS,U.S. House,4,REP,William Timmons,84,0,4,0,11,0,69
+Greenville,CIRCLE CREEK,U.S. House,4,REP,William Timmons,232,0,8,0,45,0,179
+Greenville,CLEAR CREEK,U.S. House,4,REP,William Timmons,199,0,0,0,33,0,166
+Greenville,CONESTEE,U.S. House,4,REP,William Timmons,106,0,0,0,31,0,75
+Greenville,DARBY RIDGE,U.S. House,4,REP,William Timmons,258,0,4,0,68,0,186
+Greenville,DEL NORTE,U.S. House,4,REP,William Timmons,157,0,1,0,43,0,113
+Greenville,DEVENGER,U.S. House,4,REP,William Timmons,212,0,8,0,37,0,167
+Greenville,DONALDSON,U.S. House,4,REP,William Timmons,50,0,0,0,15,0,35
+Greenville,DOVE TREE,U.S. House,4,REP,William Timmons,153,0,0,0,20,0,133
+Greenville,EASTSIDE,U.S. House,4,REP,William Timmons,164,0,7,0,27,0,130
+Greenville,EBENEZER,U.S. House,4,REP,William Timmons,254,0,8,0,66,0,180
+Greenville,EDWARDS FOREST,U.S. House,4,REP,William Timmons,159,0,4,0,33,0,122
+Greenville,ENOREE,U.S. House,4,REP,William Timmons,291,0,12,0,70,0,209
+Greenville,FEASTER,U.S. House,4,REP,William Timmons,83,0,0,0,8,0,75
+Greenville,FURMAN,U.S. House,4,REP,William Timmons,276,0,8,0,117,0,151
+Greenville,GOWENSVILLE,U.S. House,4,REP,William Timmons,262,0,3,0,11,0,248
+Greenville,GROVE,U.S. House,4,REP,William Timmons,85,0,2,0,31,0,52
+Greenville,JENNINGS MILL,U.S. House,4,REP,William Timmons,252,0,6,0,58,0,188
+Greenville,LAKEVIEW,U.S. House,4,REP,William Timmons,116,0,3,0,18,0,95
+Greenville,LAUREL RIDGE,U.S. House,4,REP,William Timmons,228,0,7,0,39,0,182
+Greenville,LEAWOOD,U.S. House,4,REP,William Timmons,166,0,5,0,35,0,126
+Greenville,MAPLE CREEK,U.S. House,4,REP,William Timmons,174,0,2,0,30,0,142
+Greenville,MARIDELL,U.S. House,4,REP,William Timmons,185,0,4,0,30,0,151
+Greenville,MAULDIN 1,U.S. House,4,REP,William Timmons,109,0,0,0,19,0,90
+Greenville,MAULDIN 2,U.S. House,4,REP,William Timmons,256,0,11,0,65,0,180
+Greenville,MAULDIN 3,U.S. House,4,REP,William Timmons,104,0,2,0,30,0,72
+Greenville,MAULDIN 4,U.S. House,4,REP,William Timmons,208,0,4,0,63,0,141
+Greenville,MAULDIN 5,U.S. House,4,REP,William Timmons,121,0,2,0,66,0,53
+Greenville,MAULDIN 6,U.S. House,4,REP,William Timmons,148,0,6,0,54,0,88
+Greenville,MAULDIN 7,U.S. House,4,REP,William Timmons,86,0,4,0,24,0,58
+Greenville,MISSION,U.S. House,4,REP,William Timmons,304,0,6,0,69,0,229
+Greenville,MONAVIEW,U.S. House,4,REP,William Timmons,70,0,2,0,7,0,61
+Greenville,MOUNTAIN CREEK,U.S. House,4,REP,William Timmons,263,0,13,0,67,0,183
+Greenville,MOUNTAIN VIEW,U.S. House,4,REP,William Timmons,212,0,5,0,55,0,152
+Greenville,NORTHWOOD,U.S. House,4,REP,William Timmons,179,0,10,0,25,0,144
+Greenville,OAKVIEW,U.S. House,4,REP,William Timmons,252,0,6,0,53,0,193
+Greenville,PALMETTO,U.S. House,4,REP,William Timmons,129,0,2,0,19,0,108
+Greenville,PARIS MOUNTAIN,U.S. House,4,REP,William Timmons,156,0,1,0,30,0,125
+Greenville,PEBBLE CREEK,U.S. House,4,REP,William Timmons,203,0,1,0,44,0,158
+Greenville,PELHAM FALLS,U.S. House,4,REP,William Timmons,84,0,0,0,7,0,77
+Greenville,POINSETT,U.S. House,4,REP,William Timmons,242,0,8,0,68,0,166
+Greenville,RIVERWALK,U.S. House,4,REP,William Timmons,269,0,1,0,60,0,208
+Greenville,ROCK HILL,U.S. House,4,REP,William Timmons,155,0,7,0,28,0,120
+Greenville,ROCKY CREEK,U.S. House,4,REP,William Timmons,126,0,1,0,49,0,76
+Greenville,ROLLING GREEN,U.S. House,4,REP,William Timmons,251,0,10,0,32,0,209
+Greenville,ROYAL OAKS,U.S. House,4,REP,William Timmons,19,0,0,0,3,0,16
+Greenville,SALUDA,U.S. House,4,REP,William Timmons,118,0,1,0,20,0,97
+Greenville,SANDY FLAT,U.S. House,4,REP,William Timmons,360,0,9,0,95,0,256
+Greenville,SEVIER,U.S. House,4,REP,William Timmons,202,0,9,0,36,0,157
+Greenville,SILVERLEAF,U.S. House,4,REP,William Timmons,178,0,3,0,18,0,157
+Greenville,SIMPSONVILLE 1,U.S. House,4,REP,William Timmons,161,0,8,0,40,0,113
+Greenville,SIMPSONVILLE 2,U.S. House,4,REP,William Timmons,138,0,2,0,21,0,115
+Greenville,SIMPSONVILLE 3,U.S. House,4,REP,William Timmons,210,0,14,0,43,0,153
+Greenville,SIMPSONVILLE 4,U.S. House,4,REP,William Timmons,83,0,4,0,40,0,39
+Greenville,SIMPSONVILLE 5,U.S. House,4,REP,William Timmons,85,0,5,0,10,0,70
+Greenville,SIMPSONVILLE 6,U.S. House,4,REP,William Timmons,185,0,6,0,36,0,143
+Greenville,SKYLAND,U.S. House,4,REP,William Timmons,297,0,0,0,48,0,249
+Greenville,SLATER MARIETTA,U.S. House,4,REP,William Timmons,331,0,5,0,51,0,275
+Greenville,SOUTHSIDE,U.S. House,4,REP,William Timmons,126,0,3,0,45,0,78
+Greenville,SPRING FOREST,U.S. House,4,REP,William Timmons,142,0,2,0,26,0,114
+Greenville,STONE VALLEY,U.S. House,4,REP,William Timmons,126,0,3,0,30,0,93
+Greenville,STONEHAVEN,U.S. House,4,REP,William Timmons,138,0,4,0,29,0,105
+Greenville,SUBER MILL,U.S. House,4,REP,William Timmons,286,0,6,0,61,0,219
+Greenville,SUGAR CREEK,U.S. House,4,REP,William Timmons,271,0,3,0,27,0,241
+Greenville,SULPHUR SPRINGS,U.S. House,4,REP,William Timmons,226,0,5,0,46,0,175
+Greenville,SYCAMORE,U.S. House,4,REP,William Timmons,34,0,1,0,10,0,23
+Greenville,TANGLEWOOD,U.S. House,4,REP,William Timmons,104,0,2,0,10,0,92
+Greenville,TAYLORS,U.S. House,4,REP,William Timmons,130,0,0,0,14,0,116
+Greenville,THORNBLADE,U.S. House,4,REP,William Timmons,273,0,5,0,63,0,205
+Greenville,TIGERVILLE,U.S. House,4,REP,William Timmons,338,0,12,0,59,0,267
+Greenville,TIMBERLAKE,U.S. House,4,REP,William Timmons,239,0,5,0,49,0,185
+Greenville,TRADE,U.S. House,4,REP,William Timmons,158,0,3,0,54,0,101
+Greenville,TUBBS MOUNTAIN,U.S. House,4,REP,William Timmons,294,0,5,0,91,0,198
+Greenville,WADE HAMPTON,U.S. House,4,REP,William Timmons,123,0,1,0,31,0,91
+Greenville,WELCOME,U.S. House,4,REP,William Timmons,75,0,6,0,9,0,60
+Greenville,WELLINGTON,U.S. House,4,REP,William Timmons,147,0,1,0,23,0,123
+Greenville,WESTCLIFFE,U.S. House,4,REP,William Timmons,131,0,3,0,20,0,108
+Greenville,WESTSIDE,U.S. House,4,REP,William Timmons,127,0,3,0,7,0,117
+Greenville,WOODRUFF LAKES,U.S. House,4,REP,William Timmons,177,0,7,0,45,0,125
+Greenville,MT. PLEASANT,U.S. House,4,REP,William Timmons,29,0,0,0,7,0,22
+Greenville,BRIDGE FORK,U.S. House,4,REP,William Timmons,182,0,3,0,59,0,120
+Greenville,CASTLE ROCK,U.S. House,4,REP,William Timmons,287,0,7,0,44,0,236
+Greenville,FOX CHASE,U.S. House,4,REP,William Timmons,306,0,10,0,55,0,241
+Greenville,FROHAWK,U.S. House,4,REP,William Timmons,175,0,3,0,46,0,126
+Greenville,GRANITE CREEK,U.S. House,4,REP,William Timmons,225,0,2,0,45,0,178
+Greenville,GRAZE BRANCH,U.S. House,4,REP,William Timmons,166,0,7,0,29,0,130
+Greenville,GREENBRIAR,U.S. House,4,REP,William Timmons,136,0,1,0,25,0,110
+Greenville,HILLCREST,U.S. House,4,REP,William Timmons,177,0,5,0,36,0,136
+Greenville,HOLLY TREE,U.S. House,4,REP,William Timmons,135,0,0,0,20,0,115
+Greenville,KILGORE FARMS,U.S. House,4,REP,William Timmons,208,0,6,0,29,0,173
+Greenville,LOCUST HILL,U.S. House,4,REP,William Timmons,206,0,7,0,41,0,158
+Greenville,MOORE CREEK,U.S. House,4,REP,William Timmons,274,0,7,0,88,0,179
+Greenville,ONEAL,U.S. House,4,REP,William Timmons,385,0,0,0,60,0,325
+Greenville,RANCH CREEK,U.S. House,4,REP,William Timmons,125,0,6,0,32,0,87
+Greenville,RIVERSIDE,U.S. House,4,REP,William Timmons,144,0,1,0,16,0,127
+Greenville,SPARROWS POINT,U.S. House,4,REP,William Timmons,169,0,10,0,40,0,119
+Greenville,STANDING SPRINGS,U.S. House,4,REP,William Timmons,113,0,5,0,34,0,74
+Greenville,TRAVELERS REST 1,U.S. House,4,REP,William Timmons,267,0,4,0,86,0,177
+Greenville,TRAVELERS REST 2,U.S. House,4,REP,William Timmons,195,0,3,0,58,0,134
+Greenville,TYGER RIVER,U.S. House,4,REP,William Timmons,89,0,2,0,24,0,63
+Greenville,Failsafe,U.S. House,4,REP,William Timmons,3,3,0,0,0,0,0
+Greenville,Provisional,U.S. House,4,REP,William Timmons,16,0,0,0,0,16,0
+Greenville,Failsafe Provisional,U.S. House,4,REP,William Timmons,4,0,0,4,0,0,0
+Greenville,GREENVILLE 1,State Senate,6,REP,Ben Carper,148,0,1,0,22,0,125
+Greenville,GREENVILLE 3,State Senate,6,REP,Ben Carper,85,0,0,0,19,0,66
+Greenville,GREENVILLE 25,State Senate,6,REP,Ben Carper,37,0,1,0,7,0,29
+Greenville,GREENVILLE 27,State Senate,6,REP,Ben Carper,159,0,4,0,25,0,130
+Greenville,ALTAMONT FOREST,State Senate,6,REP,Ben Carper,120,0,3,0,27,0,90
+Greenville,AVON,State Senate,6,REP,Ben Carper,145,0,3,0,14,0,128
+Greenville,BOILING SPRINGS,State Senate,6,REP,Ben Carper,123,0,6,0,15,0,102
+Greenville,BOTANY WOODS,State Senate,6,REP,Ben Carper,104,0,1,0,31,0,72
+Greenville,BROOKGLENN,State Senate,6,REP,Ben Carper,83,0,0,0,10,0,73
+Greenville,DEL NORTE,State Senate,6,REP,Ben Carper,128,0,3,0,21,0,104
+Greenville,DEVENGER,State Senate,6,REP,Ben Carper,114,0,0,0,18,0,96
+Greenville,EASTSIDE,State Senate,6,REP,Ben Carper,150,0,8,0,24,0,118
+Greenville,EBENEZER,State Senate,6,REP,Ben Carper,149,0,1,0,36,0,112
+Greenville,ENOREE,State Senate,6,REP,Ben Carper,139,0,5,0,37,0,97
+Greenville,FURMAN,State Senate,6,REP,Ben Carper,159,0,6,0,49,0,104
+Greenville,LAKEVIEW,State Senate,6,REP,Ben Carper,26,0,0,0,2,0,24
+Greenville,LEAWOOD,State Senate,6,REP,Ben Carper,128,0,5,0,21,0,102
+Greenville,MOUNTAIN CREEK,State Senate,6,REP,Ben Carper,190,0,5,0,38,0,147
+Greenville,NORTHWOOD,State Senate,6,REP,Ben Carper,177,0,2,0,32,0,143
+Greenville,PALMETTO,State Senate,6,REP,Ben Carper,95,0,1,0,19,0,75
+Greenville,PARIS MOUNTAIN,State Senate,6,REP,Ben Carper,134,0,2,0,28,0,104
+Greenville,PEBBLE CREEK,State Senate,6,REP,Ben Carper,182,0,4,0,37,0,141
+Greenville,POINSETT,State Senate,6,REP,Ben Carper,163,0,6,0,45,0,112
+Greenville,ROCK HILL,State Senate,6,REP,Ben Carper,98,0,2,0,20,0,76
+Greenville,SEVIER,State Senate,6,REP,Ben Carper,231,0,5,0,35,0,191
+Greenville,SILVERLEAF,State Senate,6,REP,Ben Carper,158,0,0,0,16,0,142
+Greenville,SPRING FOREST,State Senate,6,REP,Ben Carper,82,0,2,0,12,0,68
+Greenville,SUGAR CREEK,State Senate,6,REP,Ben Carper,120,0,2,0,18,0,100
+Greenville,SULPHUR SPRINGS,State Senate,6,REP,Ben Carper,122,0,1,0,21,0,100
+Greenville,TIMBERLAKE,State Senate,6,REP,Ben Carper,182,0,4,0,44,0,134
+Greenville,WADE HAMPTON,State Senate,6,REP,Ben Carper,190,0,5,0,21,0,164
+Greenville,WELLINGTON,State Senate,6,REP,Ben Carper,83,0,2,0,17,0,64
+Greenville,RIVERSIDE,State Senate,6,REP,Ben Carper,70,0,1,0,8,0,61
+Greenville,TRAVELERS REST 1,State Senate,6,REP,Ben Carper,126,0,4,0,40,0,82
+Greenville,TRAVELERS REST 2,State Senate,6,REP,Ben Carper,67,0,0,0,18,0,49
+Greenville,Failsafe,State Senate,6,REP,Ben Carper,0,0,0,0,0,0,0
+Greenville,Provisional,State Senate,6,REP,Ben Carper,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State Senate,6,REP,Ben Carper,0,0,0,0,0,0,0
+Greenville,GREENVILLE 1,State Senate,6,REP,Jason Elliott,241,0,5,0,48,0,188
+Greenville,GREENVILLE 3,State Senate,6,REP,Jason Elliott,377,0,2,0,85,0,290
+Greenville,GREENVILLE 25,State Senate,6,REP,Jason Elliott,74,0,1,0,17,0,56
+Greenville,GREENVILLE 27,State Senate,6,REP,Jason Elliott,84,0,0,0,12,0,72
+Greenville,ALTAMONT FOREST,State Senate,6,REP,Jason Elliott,149,0,2,0,52,0,95
+Greenville,AVON,State Senate,6,REP,Jason Elliott,145,0,1,0,21,0,123
+Greenville,BOILING SPRINGS,State Senate,6,REP,Jason Elliott,222,0,6,0,46,0,170
+Greenville,BOTANY WOODS,State Senate,6,REP,Jason Elliott,195,0,1,0,41,0,153
+Greenville,BROOKGLENN,State Senate,6,REP,Jason Elliott,77,0,3,0,9,0,65
+Greenville,DEL NORTE,State Senate,6,REP,Jason Elliott,154,0,1,0,38,0,115
+Greenville,DEVENGER,State Senate,6,REP,Jason Elliott,276,0,12,0,49,0,215
+Greenville,EASTSIDE,State Senate,6,REP,Jason Elliott,214,0,9,0,51,0,154
+Greenville,EBENEZER,State Senate,6,REP,Jason Elliott,261,0,7,0,85,0,169
+Greenville,ENOREE,State Senate,6,REP,Jason Elliott,284,0,11,0,68,0,205
+Greenville,FURMAN,State Senate,6,REP,Jason Elliott,258,0,12,0,104,0,142
+Greenville,LAKEVIEW,State Senate,6,REP,Jason Elliott,36,0,2,0,1,0,33
+Greenville,LEAWOOD,State Senate,6,REP,Jason Elliott,143,0,3,0,39,0,101
+Greenville,MOUNTAIN CREEK,State Senate,6,REP,Jason Elliott,297,0,10,0,83,0,204
+Greenville,NORTHWOOD,State Senate,6,REP,Jason Elliott,149,0,6,0,18,0,125
+Greenville,PALMETTO,State Senate,6,REP,Jason Elliott,143,0,3,0,24,0,116
+Greenville,PARIS MOUNTAIN,State Senate,6,REP,Jason Elliott,134,0,0,0,32,0,102
+Greenville,PEBBLE CREEK,State Senate,6,REP,Jason Elliott,240,0,1,0,48,0,191
+Greenville,POINSETT,State Senate,6,REP,Jason Elliott,216,0,6,0,61,0,149
+Greenville,ROCK HILL,State Senate,6,REP,Jason Elliott,190,0,10,0,36,0,144
+Greenville,SEVIER,State Senate,6,REP,Jason Elliott,232,0,5,0,47,0,180
+Greenville,SILVERLEAF,State Senate,6,REP,Jason Elliott,198,0,2,0,34,0,162
+Greenville,SPRING FOREST,State Senate,6,REP,Jason Elliott,168,0,3,0,36,0,129
+Greenville,SUGAR CREEK,State Senate,6,REP,Jason Elliott,348,0,3,0,45,0,300
+Greenville,SULPHUR SPRINGS,State Senate,6,REP,Jason Elliott,205,0,2,0,55,0,148
+Greenville,TIMBERLAKE,State Senate,6,REP,Jason Elliott,271,0,1,0,61,0,209
+Greenville,WADE HAMPTON,State Senate,6,REP,Jason Elliott,129,0,1,0,26,0,102
+Greenville,WELLINGTON,State Senate,6,REP,Jason Elliott,209,0,1,0,47,0,161
+Greenville,RIVERSIDE,State Senate,6,REP,Jason Elliott,161,0,1,0,23,0,137
+Greenville,TRAVELERS REST 1,State Senate,6,REP,Jason Elliott,237,0,4,0,88,0,145
+Greenville,TRAVELERS REST 2,State Senate,6,REP,Jason Elliott,166,0,4,0,55,0,107
+Greenville,Failsafe,State Senate,6,REP,Jason Elliott,1,1,0,0,0,0,0
+Greenville,Provisional,State Senate,6,REP,Jason Elliott,3,0,0,0,0,3,0
+Greenville,Failsafe Provisional,State Senate,6,REP,Jason Elliott,0,0,0,0,0,0,0
+Greenville,GREENVILLE 1,State Senate,6,REP,Dan Nickles,60,0,1,0,11,0,48
+Greenville,GREENVILLE 3,State Senate,6,REP,Dan Nickles,57,0,2,0,13,0,42
+Greenville,GREENVILLE 25,State Senate,6,REP,Dan Nickles,49,0,2,0,2,0,45
+Greenville,GREENVILLE 27,State Senate,6,REP,Dan Nickles,61,0,1,0,10,0,50
+Greenville,ALTAMONT FOREST,State Senate,6,REP,Dan Nickles,82,0,1,0,22,0,59
+Greenville,AVON,State Senate,6,REP,Dan Nickles,85,0,6,0,11,0,68
+Greenville,BOILING SPRINGS,State Senate,6,REP,Dan Nickles,90,0,1,0,16,0,73
+Greenville,BOTANY WOODS,State Senate,6,REP,Dan Nickles,58,0,0,0,14,0,44
+Greenville,BROOKGLENN,State Senate,6,REP,Dan Nickles,37,0,0,0,4,0,33
+Greenville,DEL NORTE,State Senate,6,REP,Dan Nickles,80,0,0,0,16,0,64
+Greenville,DEVENGER,State Senate,6,REP,Dan Nickles,70,0,3,0,8,0,59
+Greenville,EASTSIDE,State Senate,6,REP,Dan Nickles,90,0,0,0,15,0,75
+Greenville,EBENEZER,State Senate,6,REP,Dan Nickles,71,0,1,0,20,0,50
+Greenville,ENOREE,State Senate,6,REP,Dan Nickles,89,0,3,0,24,0,62
+Greenville,FURMAN,State Senate,6,REP,Dan Nickles,123,0,2,0,40,0,81
+Greenville,LAKEVIEW,State Senate,6,REP,Dan Nickles,8,0,0,0,1,0,7
+Greenville,LEAWOOD,State Senate,6,REP,Dan Nickles,103,0,5,0,17,0,81
+Greenville,MOUNTAIN CREEK,State Senate,6,REP,Dan Nickles,140,0,2,0,25,0,113
+Greenville,NORTHWOOD,State Senate,6,REP,Dan Nickles,98,0,3,0,16,0,79
+Greenville,PALMETTO,State Senate,6,REP,Dan Nickles,44,0,4,0,3,0,37
+Greenville,PARIS MOUNTAIN,State Senate,6,REP,Dan Nickles,85,0,2,0,15,0,68
+Greenville,PEBBLE CREEK,State Senate,6,REP,Dan Nickles,108,0,2,0,33,0,73
+Greenville,POINSETT,State Senate,6,REP,Dan Nickles,112,0,2,0,22,0,88
+Greenville,ROCK HILL,State Senate,6,REP,Dan Nickles,72,0,2,0,7,0,63
+Greenville,SEVIER,State Senate,6,REP,Dan Nickles,109,0,2,0,19,0,88
+Greenville,SILVERLEAF,State Senate,6,REP,Dan Nickles,115,0,1,0,17,0,97
+Greenville,SPRING FOREST,State Senate,6,REP,Dan Nickles,52,0,0,0,6,0,46
+Greenville,SUGAR CREEK,State Senate,6,REP,Dan Nickles,111,0,2,0,18,0,91
+Greenville,SULPHUR SPRINGS,State Senate,6,REP,Dan Nickles,61,0,2,0,11,0,48
+Greenville,TIMBERLAKE,State Senate,6,REP,Dan Nickles,136,0,3,0,25,0,108
+Greenville,WADE HAMPTON,State Senate,6,REP,Dan Nickles,86,0,2,0,12,0,72
+Greenville,WELLINGTON,State Senate,6,REP,Dan Nickles,62,0,0,0,6,0,56
+Greenville,RIVERSIDE,State Senate,6,REP,Dan Nickles,78,0,0,0,8,0,70
+Greenville,TRAVELERS REST 1,State Senate,6,REP,Dan Nickles,127,0,6,0,24,0,97
+Greenville,TRAVELERS REST 2,State Senate,6,REP,Dan Nickles,74,0,1,0,14,0,59
+Greenville,Failsafe,State Senate,6,REP,Dan Nickles,0,0,0,0,0,0,0
+Greenville,Provisional,State Senate,6,REP,Dan Nickles,3,0,0,0,0,3,0
+Greenville,Failsafe Provisional,State Senate,6,REP,Dan Nickles,0,0,0,0,0,0,0
+Greenville,GREENVILLE 4,State Senate,7,DEM,Karl B Allen,50,0,0,0,11,0,39
+Greenville,GREENVILLE 5,State Senate,7,DEM,Karl B Allen,66,0,1,0,7,0,58
+Greenville,GREENVILLE 6,State Senate,7,DEM,Karl B Allen,19,0,1,0,3,0,15
+Greenville,GREENVILLE 7,State Senate,7,DEM,Karl B Allen,64,0,3,0,11,0,50
+Greenville,GREENVILLE 8,State Senate,7,DEM,Karl B Allen,117,0,1,0,40,0,76
+Greenville,GREENVILLE 10,State Senate,7,DEM,Karl B Allen,83,0,0,0,31,0,52
+Greenville,GREENVILLE 14,State Senate,7,DEM,Karl B Allen,154,0,9,0,41,0,104
+Greenville,GREENVILLE 19,State Senate,7,DEM,Karl B Allen,165,0,5,0,83,0,77
+Greenville,GREENVILLE 26,State Senate,7,DEM,Karl B Allen,65,0,0,0,19,0,46
+Greenville,GREENVILLE 28,State Senate,7,DEM,Karl B Allen,10,0,0,0,5,0,5
+Greenville,GREENVILLE 29,State Senate,7,DEM,Karl B Allen,95,0,4,0,17,0,74
+Greenville,AIKEN,State Senate,7,DEM,Karl B Allen,31,0,0,0,9,0,22
+Greenville,BELLE MEADE,State Senate,7,DEM,Karl B Allen,148,0,1,0,53,0,94
+Greenville,BELMONT,State Senate,7,DEM,Karl B Allen,73,0,0,0,18,0,55
+Greenville,CAROLINA,State Senate,7,DEM,Karl B Allen,106,0,3,0,34,0,69
+Greenville,CHESTNUT HILLS,State Senate,7,DEM,Karl B Allen,31,0,1,0,9,0,21
+Greenville,CONESTEE,State Senate,7,DEM,Karl B Allen,55,0,2,0,21,0,32
+Greenville,DONALDSON,State Senate,7,DEM,Karl B Allen,76,0,2,0,15,0,59
+Greenville,GROVE,State Senate,7,DEM,Karl B Allen,51,0,2,0,15,0,34
+Greenville,LAKEVIEW,State Senate,7,DEM,Karl B Allen,28,0,0,0,8,0,20
+Greenville,LEAWOOD,State Senate,7,DEM,Karl B Allen,4,0,0,0,0,0,4
+Greenville,MAULDIN 1,State Senate,7,DEM,Karl B Allen,52,0,1,0,13,0,38
+Greenville,MAULDIN 3,State Senate,7,DEM,Karl B Allen,106,0,5,0,33,0,68
+Greenville,MONAVIEW,State Senate,7,DEM,Karl B Allen,7,0,0,0,0,0,7
+Greenville,REEDY FORK,State Senate,7,DEM,Karl B Allen,139,0,4,0,41,0,94
+Greenville,ROYAL OAKS,State Senate,7,DEM,Karl B Allen,114,0,2,0,43,0,69
+Greenville,SOUTHSIDE,State Senate,7,DEM,Karl B Allen,135,0,22,0,57,0,56
+Greenville,TANGLEWOOD,State Senate,7,DEM,Karl B Allen,73,0,0,0,24,0,49
+Greenville,WELCOME,State Senate,7,DEM,Karl B Allen,33,0,0,0,9,0,24
+Greenville,WESTCLIFFE,State Senate,7,DEM,Karl B Allen,12,0,0,0,3,0,9
+Greenville,WESTSIDE,State Senate,7,DEM,Karl B Allen,2,0,0,0,0,0,2
+Greenville,WOODMONT,State Senate,7,DEM,Karl B Allen,162,0,9,0,74,0,79
+Greenville,MT. PLEASANT,State Senate,7,DEM,Karl B Allen,102,0,1,0,54,0,47
+Greenville,GREENBRIAR,State Senate,7,DEM,Karl B Allen,51,0,0,0,6,0,45
+Greenville,RANCH CREEK,State Senate,7,DEM,Karl B Allen,93,0,2,0,33,0,58
+Greenville,Failsafe,State Senate,7,DEM,Karl B Allen,2,2,0,0,0,0,0
+Greenville,Provisional,State Senate,7,DEM,Karl B Allen,2,0,0,0,0,2,0
+Greenville,Failsafe Provisional,State Senate,7,DEM,Karl B Allen,0,0,0,0,0,0,0
+Greenville,GREENVILLE 4,State Senate,7,DEM,Michelle Goodwin-Calwile,26,0,0,0,9,0,17
+Greenville,GREENVILLE 5,State Senate,7,DEM,Michelle Goodwin-Calwile,45,0,3,0,3,0,39
+Greenville,GREENVILLE 6,State Senate,7,DEM,Michelle Goodwin-Calwile,4,0,0,0,1,0,3
+Greenville,GREENVILLE 7,State Senate,7,DEM,Michelle Goodwin-Calwile,30,0,0,0,8,0,22
+Greenville,GREENVILLE 8,State Senate,7,DEM,Michelle Goodwin-Calwile,68,0,3,0,19,0,46
+Greenville,GREENVILLE 10,State Senate,7,DEM,Michelle Goodwin-Calwile,43,0,2,0,13,0,28
+Greenville,GREENVILLE 14,State Senate,7,DEM,Michelle Goodwin-Calwile,26,0,1,0,9,0,16
+Greenville,GREENVILLE 19,State Senate,7,DEM,Michelle Goodwin-Calwile,63,0,5,0,24,0,34
+Greenville,GREENVILLE 26,State Senate,7,DEM,Michelle Goodwin-Calwile,27,0,1,0,8,0,18
+Greenville,GREENVILLE 28,State Senate,7,DEM,Michelle Goodwin-Calwile,15,0,0,0,3,0,12
+Greenville,GREENVILLE 29,State Senate,7,DEM,Michelle Goodwin-Calwile,39,0,2,0,9,0,28
+Greenville,AIKEN,State Senate,7,DEM,Michelle Goodwin-Calwile,11,0,0,0,4,0,7
+Greenville,BELLE MEADE,State Senate,7,DEM,Michelle Goodwin-Calwile,95,0,1,0,29,0,65
+Greenville,BELMONT,State Senate,7,DEM,Michelle Goodwin-Calwile,29,0,0,0,9,0,20
+Greenville,CAROLINA,State Senate,7,DEM,Michelle Goodwin-Calwile,43,0,7,0,18,0,18
+Greenville,CHESTNUT HILLS,State Senate,7,DEM,Michelle Goodwin-Calwile,20,0,0,0,7,0,13
+Greenville,CONESTEE,State Senate,7,DEM,Michelle Goodwin-Calwile,28,0,0,0,3,0,25
+Greenville,DONALDSON,State Senate,7,DEM,Michelle Goodwin-Calwile,42,0,0,0,9,0,33
+Greenville,GROVE,State Senate,7,DEM,Michelle Goodwin-Calwile,35,0,0,0,9,0,26
+Greenville,LAKEVIEW,State Senate,7,DEM,Michelle Goodwin-Calwile,19,0,0,0,5,0,14
+Greenville,LEAWOOD,State Senate,7,DEM,Michelle Goodwin-Calwile,0,0,0,0,0,0,0
+Greenville,MAULDIN 1,State Senate,7,DEM,Michelle Goodwin-Calwile,27,0,0,0,3,0,24
+Greenville,MAULDIN 3,State Senate,7,DEM,Michelle Goodwin-Calwile,39,0,2,0,7,0,30
+Greenville,MONAVIEW,State Senate,7,DEM,Michelle Goodwin-Calwile,1,0,0,0,0,0,1
+Greenville,REEDY FORK,State Senate,7,DEM,Michelle Goodwin-Calwile,66,0,1,0,18,0,47
+Greenville,ROYAL OAKS,State Senate,7,DEM,Michelle Goodwin-Calwile,57,0,0,0,19,0,38
+Greenville,SOUTHSIDE,State Senate,7,DEM,Michelle Goodwin-Calwile,46,0,0,0,21,0,25
+Greenville,TANGLEWOOD,State Senate,7,DEM,Michelle Goodwin-Calwile,25,0,0,0,10,0,15
+Greenville,WELCOME,State Senate,7,DEM,Michelle Goodwin-Calwile,24,0,1,0,9,0,14
+Greenville,WESTCLIFFE,State Senate,7,DEM,Michelle Goodwin-Calwile,5,0,0,0,2,0,3
+Greenville,WESTSIDE,State Senate,7,DEM,Michelle Goodwin-Calwile,0,0,0,0,0,0,0
+Greenville,WOODMONT,State Senate,7,DEM,Michelle Goodwin-Calwile,77,0,4,0,28,0,45
+Greenville,MT. PLEASANT,State Senate,7,DEM,Michelle Goodwin-Calwile,72,0,0,0,41,0,31
+Greenville,GREENBRIAR,State Senate,7,DEM,Michelle Goodwin-Calwile,19,0,0,0,3,0,16
+Greenville,RANCH CREEK,State Senate,7,DEM,Michelle Goodwin-Calwile,43,0,4,0,10,0,29
+Greenville,Failsafe,State Senate,7,DEM,Michelle Goodwin-Calwile,1,1,0,0,0,0,0
+Greenville,Provisional,State Senate,7,DEM,Michelle Goodwin-Calwile,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,State Senate,7,DEM,Michelle Goodwin-Calwile,0,0,0,0,0,0,0
+Greenville,CANEBRAKE,State Senate,12,REP,Hope Blackley,131,0,2,0,31,0,98
+Greenville,CIRCLE CREEK,State Senate,12,REP,Hope Blackley,60,0,2,0,13,0,45
+Greenville,OAKVIEW,State Senate,12,REP,Hope Blackley,87,0,2,0,20,0,65
+Greenville,PELHAM FALLS,State Senate,12,REP,Hope Blackley,43,0,0,0,1,0,42
+Greenville,ROLLING GREEN,State Senate,12,REP,Hope Blackley,75,0,2,0,8,0,65
+Greenville,THORNBLADE,State Senate,12,REP,Hope Blackley,106,0,2,0,25,0,79
+Greenville,GRANITE CREEK,State Senate,12,REP,Hope Blackley,86,0,0,0,13,0,73
+Greenville,Failsafe,State Senate,12,REP,Hope Blackley,0,0,0,0,0,0,0
+Greenville,Provisional,State Senate,12,REP,Hope Blackley,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State Senate,12,REP,Hope Blackley,0,0,0,0,0,0,0
+Greenville,CANEBRAKE,State Senate,12,REP,Lee Bright,204,0,3,0,43,0,158
+Greenville,CIRCLE CREEK,State Senate,12,REP,Lee Bright,224,0,6,0,31,0,187
+Greenville,OAKVIEW,State Senate,12,REP,Lee Bright,258,0,4,0,44,0,210
+Greenville,PELHAM FALLS,State Senate,12,REP,Lee Bright,99,0,0,0,18,0,81
+Greenville,ROLLING GREEN,State Senate,12,REP,Lee Bright,169,0,2,0,30,0,137
+Greenville,THORNBLADE,State Senate,12,REP,Lee Bright,206,0,3,0,41,0,162
+Greenville,GRANITE CREEK,State Senate,12,REP,Lee Bright,156,0,2,0,24,0,130
+Greenville,Failsafe,State Senate,12,REP,Lee Bright,0,0,0,0,0,0,0
+Greenville,Provisional,State Senate,12,REP,Lee Bright,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,State Senate,12,REP,Lee Bright,0,0,0,0,0,0,0
+Greenville,CANEBRAKE,State Senate,12,REP,Skip Davenport,220,0,2,0,30,0,188
+Greenville,CIRCLE CREEK,State Senate,12,REP,Skip Davenport,97,0,4,0,25,0,68
+Greenville,OAKVIEW,State Senate,12,REP,Skip Davenport,135,0,2,0,33,0,100
+Greenville,PELHAM FALLS,State Senate,12,REP,Skip Davenport,52,0,0,0,6,0,46
+Greenville,ROLLING GREEN,State Senate,12,REP,Skip Davenport,161,0,6,0,33,0,122
+Greenville,THORNBLADE,State Senate,12,REP,Skip Davenport,161,0,5,0,27,0,129
+Greenville,GRANITE CREEK,State Senate,12,REP,Skip Davenport,144,0,2,0,42,0,100
+Greenville,Failsafe,State Senate,12,REP,Skip Davenport,0,0,0,0,0,0,0
+Greenville,Provisional,State Senate,12,REP,Skip Davenport,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State Senate,12,REP,Skip Davenport,0,0,0,0,0,0,0
+Greenville,CANEBRAKE,State Senate,12,REP,Roger Allen Nutt,78,0,0,0,21,0,57
+Greenville,CIRCLE CREEK,State Senate,12,REP,Roger Allen Nutt,85,0,3,0,22,0,60
+Greenville,OAKVIEW,State Senate,12,REP,Roger Allen Nutt,79,0,2,0,14,0,63
+Greenville,PELHAM FALLS,State Senate,12,REP,Roger Allen Nutt,33,0,0,0,1,0,32
+Greenville,ROLLING GREEN,State Senate,12,REP,Roger Allen Nutt,72,0,5,0,13,0,54
+Greenville,THORNBLADE,State Senate,12,REP,Roger Allen Nutt,68,0,2,0,18,0,48
+Greenville,GRANITE CREEK,State Senate,12,REP,Roger Allen Nutt,69,0,1,0,23,0,45
+Greenville,Failsafe,State Senate,12,REP,Roger Allen Nutt,0,0,0,0,0,0,0
+Greenville,Provisional,State Senate,12,REP,Roger Allen Nutt,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,State Senate,12,REP,Roger Allen Nutt,0,0,0,0,0,0,0
+Greenville,WESTCLIFFE,State House,5,REP,Neal Collins,115,0,3,0,20,0,92
+Greenville,WESTSIDE,State House,5,REP,Neal Collins,77,0,4,0,6,0,67
+Greenville,Failsafe,State House,5,REP,Neal Collins,0,0,0,0,0,0,0
+Greenville,Provisional,State House,5,REP,Neal Collins,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,5,REP,Neal Collins,0,0,0,0,0,0,0
+Greenville,WESTCLIFFE,State House,5,REP,Brandy Tarleton,75,0,0,0,12,0,63
+Greenville,WESTSIDE,State House,5,REP,Brandy Tarleton,81,0,6,0,7,0,68
+Greenville,Failsafe,State House,5,REP,Brandy Tarleton,0,0,0,0,0,0,0
+Greenville,Provisional,State House,5,REP,Brandy Tarleton,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,5,REP,Brandy Tarleton,0,0,0,0,0,0,0
+Greenville,DUNKLIN,State House,7,REP,Lee Gilreath,43,0,4,0,0,0,39
+Greenville,Failsafe,State House,7,REP,Lee Gilreath,0,0,0,0,0,0,0
+Greenville,Provisional,State House,7,REP,Lee Gilreath,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,7,REP,Lee Gilreath,0,0,0,0,0,0,0
+Greenville,DUNKLIN,State House,7,REP,Jay West,52,0,0,0,3,0,49
+Greenville,Failsafe,State House,7,REP,Jay West,0,0,0,0,0,0,0
+Greenville,Provisional,State House,7,REP,Jay West,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,7,REP,Jay West,0,0,0,0,0,0,0
+Greenville,AIKEN,State House,10,REP,Pam Anthony,1,0,0,0,0,0,1
+Greenville,GROVE,State House,10,REP,Pam Anthony,28,0,0,0,16,0,12
+Greenville,PIEDMONT,State House,10,REP,Pam Anthony,46,0,1,0,4,0,41
+Greenville,TANGLEWOOD,State House,10,REP,Pam Anthony,41,0,0,0,1,0,40
+Greenville,WELCOME,State House,10,REP,Pam Anthony,31,0,0,0,3,0,28
+Greenville,WESTCLIFFE,State House,10,REP,Pam Anthony,2,0,1,0,1,0,0
+Greenville,Failsafe,State House,10,REP,Pam Anthony,0,0,0,0,0,0,0
+Greenville,Provisional,State House,10,REP,Pam Anthony,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,10,REP,Pam Anthony,0,0,0,0,0,0,0
+Greenville,AIKEN,State House,10,REP,Thomas Beach,5,0,0,0,3,0,2
+Greenville,GROVE,State House,10,REP,Thomas Beach,56,0,0,0,24,0,32
+Greenville,PIEDMONT,State House,10,REP,Thomas Beach,131,0,5,0,16,0,110
+Greenville,TANGLEWOOD,State House,10,REP,Thomas Beach,88,0,2,0,11,0,75
+Greenville,WELCOME,State House,10,REP,Thomas Beach,63,0,2,0,10,0,51
+Greenville,WESTCLIFFE,State House,10,REP,Thomas Beach,12,0,0,0,0,0,12
+Greenville,Failsafe,State House,10,REP,Thomas Beach,0,0,0,0,0,0,0
+Greenville,Provisional,State House,10,REP,Thomas Beach,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,10,REP,Thomas Beach,0,0,0,0,0,0,0
+Greenville,ALTAMONT FOREST,State House,17,REP,Tom Bates,134,0,1,0,46,0,87
+Greenville,CLEAR CREEK,State House,17,REP,Tom Bates,66,0,0,0,13,0,53
+Greenville,DARBY RIDGE,State House,17,REP,Tom Bates,67,0,2,0,18,0,47
+Greenville,EBENEZER,State House,17,REP,Tom Bates,164,0,4,0,65,0,95
+Greenville,GOWENSVILLE,State House,17,REP,Tom Bates,59,0,0,0,3,0,56
+Greenville,JENNINGS MILL,State House,17,REP,Tom Bates,159,0,1,0,48,0,110
+Greenville,MARIDELL,State House,17,REP,Tom Bates,97,0,0,0,26,0,71
+Greenville,MOUNTAIN VIEW,State House,17,REP,Tom Bates,102,0,0,0,28,0,74
+Greenville,PARIS MOUNTAIN,State House,17,REP,Tom Bates,1,0,0,0,1,0,0
+Greenville,SANDY FLAT,State House,17,REP,Tom Bates,234,0,5,0,79,0,150
+Greenville,SLATER MARIETTA,State House,17,REP,Tom Bates,144,0,1,0,33,0,110
+Greenville,TIGERVILLE,State House,17,REP,Tom Bates,217,0,9,0,56,0,152
+Greenville,TUBBS MOUNTAIN,State House,17,REP,Tom Bates,140,0,4,0,42,0,94
+Greenville,TRAVELERS REST 1,State House,17,REP,Tom Bates,103,0,11,0,27,0,65
+Greenville,TRAVELERS REST 2,State House,17,REP,Tom Bates,106,0,1,0,39,0,66
+Greenville,Failsafe,State House,17,REP,Tom Bates,0,0,0,0,0,0,0
+Greenville,Provisional,State House,17,REP,Tom Bates,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,State House,17,REP,Tom Bates,0,0,0,0,0,0,0
+Greenville,ALTAMONT FOREST,State House,17,REP,Mike Burns,222,0,5,0,56,0,161
+Greenville,CLEAR CREEK,State House,17,REP,Mike Burns,165,0,2,0,22,0,141
+Greenville,DARBY RIDGE,State House,17,REP,Mike Burns,220,0,1,0,59,0,160
+Greenville,EBENEZER,State House,17,REP,Mike Burns,318,0,4,0,81,0,233
+Greenville,GOWENSVILLE,State House,17,REP,Mike Burns,147,0,3,0,6,0,138
+Greenville,JENNINGS MILL,State House,17,REP,Mike Burns,243,0,5,0,43,0,195
+Greenville,MARIDELL,State House,17,REP,Mike Burns,260,0,6,0,39,0,215
+Greenville,MOUNTAIN VIEW,State House,17,REP,Mike Burns,356,0,7,0,95,0,254
+Greenville,PARIS MOUNTAIN,State House,17,REP,Mike Burns,0,0,0,0,0,0,0
+Greenville,SANDY FLAT,State House,17,REP,Mike Burns,606,0,9,0,166,0,431
+Greenville,SLATER MARIETTA,State House,17,REP,Mike Burns,397,0,4,0,55,0,338
+Greenville,TIGERVILLE,State House,17,REP,Mike Burns,451,0,12,0,78,0,361
+Greenville,TUBBS MOUNTAIN,State House,17,REP,Mike Burns,398,0,8,0,115,0,275
+Greenville,TRAVELERS REST 1,State House,17,REP,Mike Burns,166,0,1,0,47,0,118
+Greenville,TRAVELERS REST 2,State House,17,REP,Mike Burns,215,0,4,0,55,0,156
+Greenville,Failsafe,State House,17,REP,Mike Burns,0,0,0,0,0,0,0
+Greenville,Provisional,State House,17,REP,Mike Burns,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,17,REP,Mike Burns,1,0,0,1,0,0,0
+Greenville,CLEAR CREEK,State House,18,REP,Tramaine Booker,67,0,0,0,18,0,49
+Greenville,GOWENSVILLE,State House,18,REP,Tramaine Booker,83,0,1,0,2,0,80
+Greenville,LAUREL RIDGE,State House,18,REP,Tramaine Booker,198,0,7,0,46,0,145
+Greenville,MAPLE CREEK,State House,18,REP,Tramaine Booker,56,0,0,0,9,0,47
+Greenville,SKYLAND,State House,18,REP,Tramaine Booker,182,0,2,0,33,0,147
+Greenville,STONE VALLEY,State House,18,REP,Tramaine Booker,63,0,0,0,10,0,53
+Greenville,SUBER MILL,State House,18,REP,Tramaine Booker,256,0,2,0,59,0,195
+Greenville,TAYLORS,State House,18,REP,Tramaine Booker,59,0,2,0,5,0,52
+Greenville,TRADE,State House,18,REP,Tramaine Booker,177,0,2,0,63,0,112
+Greenville,CASTLE ROCK,State House,18,REP,Tramaine Booker,225,0,6,0,39,0,180
+Greenville,FOX CHASE,State House,18,REP,Tramaine Booker,258,0,5,0,62,0,191
+Greenville,FROHAWK,State House,18,REP,Tramaine Booker,185,0,2,0,56,0,127
+Greenville,LOCUST HILL,State House,18,REP,Tramaine Booker,151,0,4,0,28,0,119
+Greenville,ONEAL,State House,18,REP,Tramaine Booker,325,0,4,0,55,0,266
+Greenville,TYGER RIVER,State House,18,REP,Tramaine Booker,88,0,2,0,24,0,62
+Greenville,Failsafe,State House,18,REP,Tramaine Booker,0,0,0,0,0,0,0
+Greenville,Provisional,State House,18,REP,Tramaine Booker,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,State House,18,REP,Tramaine Booker,0,0,0,0,0,0,0
+Greenville,CLEAR CREEK,State House,18,REP,Alan Morgan,143,0,0,0,28,0,115
+Greenville,GOWENSVILLE,State House,18,REP,Alan Morgan,140,0,0,0,11,0,129
+Greenville,LAUREL RIDGE,State House,18,REP,Alan Morgan,367,0,11,0,68,0,288
+Greenville,MAPLE CREEK,State House,18,REP,Alan Morgan,45,0,1,0,12,0,32
+Greenville,SKYLAND,State House,18,REP,Alan Morgan,378,0,2,0,51,0,325
+Greenville,STONE VALLEY,State House,18,REP,Alan Morgan,159,0,7,0,40,0,112
+Greenville,SUBER MILL,State House,18,REP,Alan Morgan,289,0,7,0,52,0,230
+Greenville,TAYLORS,State House,18,REP,Alan Morgan,79,0,0,0,11,0,68
+Greenville,TRADE,State House,18,REP,Alan Morgan,132,0,4,0,37,0,91
+Greenville,CASTLE ROCK,State House,18,REP,Alan Morgan,357,0,3,0,54,0,300
+Greenville,FOX CHASE,State House,18,REP,Alan Morgan,341,0,5,0,66,0,270
+Greenville,FROHAWK,State House,18,REP,Alan Morgan,255,0,3,0,51,0,201
+Greenville,LOCUST HILL,State House,18,REP,Alan Morgan,251,0,4,0,49,0,198
+Greenville,ONEAL,State House,18,REP,Alan Morgan,470,0,10,0,71,0,389
+Greenville,TYGER RIVER,State House,18,REP,Alan Morgan,86,0,1,0,22,0,63
+Greenville,Failsafe,State House,18,REP,Alan Morgan,2,2,0,0,0,0,0
+Greenville,Provisional,State House,18,REP,Alan Morgan,3,0,0,0,0,3,0
+Greenville,Failsafe Provisional,State House,18,REP,Alan Morgan,0,0,0,0,0,0,0
+Greenville,AIKEN,State House,19,REP,Patrick Haddon,17,0,0,0,0,0,17
+Greenville,BEREA,State House,19,REP,Patrick Haddon,115,0,2,0,28,0,85
+Greenville,EBENEZER,State House,19,REP,Patrick Haddon,12,0,1,0,1,0,10
+Greenville,ENOREE,State House,19,REP,Patrick Haddon,413,0,16,0,106,0,291
+Greenville,FURMAN,State House,19,REP,Patrick Haddon,448,0,16,0,158,0,274
+Greenville,LAKEVIEW,State House,19,REP,Patrick Haddon,167,0,3,0,27,0,137
+Greenville,LEAWOOD,State House,19,REP,Patrick Haddon,287,0,11,0,59,0,217
+Greenville,MONAVIEW,State House,19,REP,Patrick Haddon,88,0,2,0,13,0,73
+Greenville,PARIS MOUNTAIN,State House,19,REP,Patrick Haddon,84,0,1,0,19,0,64
+Greenville,POINSETT,State House,19,REP,Patrick Haddon,408,0,12,0,104,0,292
+Greenville,SALUDA,State House,19,REP,Patrick Haddon,180,0,2,0,26,0,152
+Greenville,SULPHUR SPRINGS,State House,19,REP,Patrick Haddon,333,0,7,0,70,0,256
+Greenville,WESTSIDE,State House,19,REP,Patrick Haddon,30,0,0,0,1,0,29
+Greenville,TRAVELERS REST 1,State House,19,REP,Patrick Haddon,157,0,1,0,57,0,99
+Greenville,Failsafe,State House,19,REP,Patrick Haddon,0,0,0,0,0,0,0
+Greenville,Provisional,State House,19,REP,Patrick Haddon,4,0,0,0,0,4,0
+Greenville,Failsafe Provisional,State House,19,REP,Patrick Haddon,0,0,0,0,0,0,0
+Greenville,AIKEN,State House,19,REP,Nate Marcionette,4,0,0,0,0,0,4
+Greenville,BEREA,State House,19,REP,Nate Marcionette,30,0,1,0,7,0,22
+Greenville,EBENEZER,State House,19,REP,Nate Marcionette,2,0,0,0,1,0,1
+Greenville,ENOREE,State House,19,REP,Nate Marcionette,92,0,2,0,20,0,70
+Greenville,FURMAN,State House,19,REP,Nate Marcionette,81,0,5,0,32,0,44
+Greenville,LAKEVIEW,State House,19,REP,Nate Marcionette,46,0,0,0,2,0,44
+Greenville,LEAWOOD,State House,19,REP,Nate Marcionette,47,0,1,0,9,0,37
+Greenville,MONAVIEW,State House,19,REP,Nate Marcionette,20,0,0,0,2,0,18
+Greenville,PARIS MOUNTAIN,State House,19,REP,Nate Marcionette,31,0,0,0,6,0,25
+Greenville,POINSETT,State House,19,REP,Nate Marcionette,79,0,2,0,21,0,56
+Greenville,SALUDA,State House,19,REP,Nate Marcionette,35,0,0,0,5,0,30
+Greenville,SULPHUR SPRINGS,State House,19,REP,Nate Marcionette,52,0,0,0,12,0,40
+Greenville,WESTSIDE,State House,19,REP,Nate Marcionette,3,0,0,0,1,0,2
+Greenville,TRAVELERS REST 1,State House,19,REP,Nate Marcionette,55,0,1,0,14,0,40
+Greenville,Failsafe,State House,19,REP,Nate Marcionette,0,0,0,0,0,0,0
+Greenville,Provisional,State House,19,REP,Nate Marcionette,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,19,REP,Nate Marcionette,0,0,0,0,0,0,0
+Greenville,GREENVILLE 1,State House,20,REP,Sarah Curran,33,0,2,0,8,0,23
+Greenville,GREENVILLE 27,State House,20,REP,Sarah Curran,2,0,0,0,1,0,1
+Greenville,AVON,State House,20,REP,Sarah Curran,149,0,5,0,23,0,121
+Greenville,BOILING SPRINGS,State House,20,REP,Sarah Curran,87,0,4,0,20,0,63
+Greenville,BOTANY WOODS,State House,20,REP,Sarah Curran,8,0,0,0,4,0,4
+Greenville,BROOKGLENN,State House,20,REP,Sarah Curran,65,0,3,0,12,0,50
+Greenville,DARBY RIDGE,State House,20,REP,Sarah Curran,140,0,1,0,53,0,86
+Greenville,DEL NORTE,State House,20,REP,Sarah Curran,156,0,0,0,40,0,116
+Greenville,EASTSIDE,State House,20,REP,Sarah Curran,229,0,12,0,46,0,171
+Greenville,EDWARDS FOREST,State House,20,REP,Sarah Curran,188,0,5,0,44,0,139
+Greenville,MOUNTAIN CREEK,State House,20,REP,Sarah Curran,295,0,14,0,75,0,206
+Greenville,NORTHWOOD,State House,20,REP,Sarah Curran,192,0,5,0,31,0,156
+Greenville,PARIS MOUNTAIN,State House,20,REP,Sarah Curran,103,0,0,0,27,0,76
+Greenville,PEBBLE CREEK,State House,20,REP,Sarah Curran,230,0,3,0,55,0,172
+Greenville,SEVIER,State House,20,REP,Sarah Curran,225,0,6,0,43,0,176
+Greenville,SILVERLEAF,State House,20,REP,Sarah Curran,60,0,0,0,4,0,56
+Greenville,STONE VALLEY,State House,20,REP,Sarah Curran,63,0,0,0,18,0,45
+Greenville,TAYLORS,State House,20,REP,Sarah Curran,97,0,4,0,19,0,74
+Greenville,WADE HAMPTON,State House,20,REP,Sarah Curran,136,0,1,0,26,0,109
+Greenville,Failsafe,State House,20,REP,Sarah Curran,0,0,0,0,0,0,0
+Greenville,Provisional,State House,20,REP,Sarah Curran,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,State House,20,REP,Sarah Curran,0,0,0,0,0,0,0
+Greenville,GREENVILLE 1,State House,20,REP,Stephen Frank,60,0,2,0,6,0,52
+Greenville,GREENVILLE 27,State House,20,REP,Stephen Frank,4,0,2,0,0,0,2
+Greenville,AVON,State House,20,REP,Stephen Frank,228,0,7,0,21,0,200
+Greenville,BOILING SPRINGS,State House,20,REP,Stephen Frank,59,0,0,0,7,0,52
+Greenville,BOTANY WOODS,State House,20,REP,Stephen Frank,13,0,0,0,4,0,9
+Greenville,BROOKGLENN,State House,20,REP,Stephen Frank,134,0,0,0,11,0,123
+Greenville,DARBY RIDGE,State House,20,REP,Stephen Frank,207,0,1,0,54,0,152
+Greenville,DEL NORTE,State House,20,REP,Stephen Frank,204,0,3,0,35,0,166
+Greenville,EASTSIDE,State House,20,REP,Stephen Frank,233,0,6,0,41,0,186
+Greenville,EDWARDS FOREST,State House,20,REP,Stephen Frank,280,0,3,0,52,0,225
+Greenville,MOUNTAIN CREEK,State House,20,REP,Stephen Frank,349,0,4,0,71,0,274
+Greenville,NORTHWOOD,State House,20,REP,Stephen Frank,236,0,5,0,36,0,195
+Greenville,PARIS MOUNTAIN,State House,20,REP,Stephen Frank,125,0,3,0,20,0,102
+Greenville,PEBBLE CREEK,State House,20,REP,Stephen Frank,315,0,4,0,61,0,250
+Greenville,SEVIER,State House,20,REP,Stephen Frank,350,0,6,0,59,0,285
+Greenville,SILVERLEAF,State House,20,REP,Stephen Frank,46,0,0,0,7,0,39
+Greenville,STONE VALLEY,State House,20,REP,Stephen Frank,97,0,4,0,23,0,70
+Greenville,TAYLORS,State House,20,REP,Stephen Frank,73,0,2,0,9,0,62
+Greenville,WADE HAMPTON,State House,20,REP,Stephen Frank,271,0,6,0,33,0,232
+Greenville,Failsafe,State House,20,REP,Stephen Frank,0,0,0,0,0,0,0
+Greenville,Provisional,State House,20,REP,Stephen Frank,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,20,REP,Stephen Frank,0,0,0,0,0,0,0
+Greenville,GREENVILLE 1,State House,22,REP,Stan Tzouvelekas,148,0,0,0,26,0,122
+Greenville,GREENVILLE 3,State House,22,REP,Stan Tzouvelekas,211,0,3,0,41,0,167
+Greenville,GREENVILLE 4,State House,22,REP,Stan Tzouvelekas,43,0,0,0,6,0,37
+Greenville,GREENVILLE 5,State House,22,REP,Stan Tzouvelekas,61,0,2,0,11,0,48
+Greenville,GREENVILLE 24,State House,22,REP,Stan Tzouvelekas,8,0,3,0,0,0,5
+Greenville,GREENVILLE 25,State House,22,REP,Stan Tzouvelekas,10,0,0,0,1,0,9
+Greenville,GREENVILLE 27,State House,22,REP,Stan Tzouvelekas,185,0,4,0,33,0,148
+Greenville,GREENVILLE 28,State House,22,REP,Stan Tzouvelekas,59,0,2,0,7,0,50
+Greenville,BOILING SPRINGS,State House,22,REP,Stan Tzouvelekas,140,0,6,0,18,0,116
+Greenville,BOTANY WOODS,State House,22,REP,Stan Tzouvelekas,177,0,2,0,41,0,134
+Greenville,DEVENGER,State House,22,REP,Stan Tzouvelekas,213,0,5,0,29,0,179
+Greenville,DOVE TREE,State House,22,REP,Stan Tzouvelekas,158,0,2,0,18,0,138
+Greenville,FEASTER,State House,22,REP,Stan Tzouvelekas,75,0,3,0,14,0,58
+Greenville,MISSION,State House,22,REP,Stan Tzouvelekas,243,0,10,0,47,0,186
+Greenville,ROCK HILL,State House,22,REP,Stan Tzouvelekas,175,0,8,0,37,0,130
+Greenville,ROLLING GREEN,State House,22,REP,Stan Tzouvelekas,194,0,10,0,29,0,155
+Greenville,SPRING FOREST,State House,22,REP,Stan Tzouvelekas,151,0,3,0,25,0,123
+Greenville,TIMBERLAKE,State House,22,REP,Stan Tzouvelekas,349,0,2,0,84,0,263
+Greenville,WELLINGTON,State House,22,REP,Stan Tzouvelekas,165,0,1,0,30,0,134
+Greenville,Failsafe,State House,22,REP,Stan Tzouvelekas,0,0,0,0,0,0,0
+Greenville,Provisional,State House,22,REP,Stan Tzouvelekas,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,22,REP,Stan Tzouvelekas,0,0,0,0,0,0,0
+Greenville,GREENVILLE 1,State House,22,REP,Paul Wickensimer,210,0,3,0,40,0,167
+Greenville,GREENVILLE 3,State House,22,REP,Paul Wickensimer,318,0,1,0,77,0,240
+Greenville,GREENVILLE 4,State House,22,REP,Paul Wickensimer,107,0,2,0,24,0,81
+Greenville,GREENVILLE 5,State House,22,REP,Paul Wickensimer,115,0,1,0,22,0,92
+Greenville,GREENVILLE 24,State House,22,REP,Paul Wickensimer,23,0,2,0,6,0,15
+Greenville,GREENVILLE 25,State House,22,REP,Paul Wickensimer,15,0,0,0,6,0,9
+Greenville,GREENVILLE 27,State House,22,REP,Paul Wickensimer,115,0,0,0,14,0,101
+Greenville,GREENVILLE 28,State House,22,REP,Paul Wickensimer,49,0,0,0,15,0,34
+Greenville,BOILING SPRINGS,State House,22,REP,Paul Wickensimer,163,0,3,0,31,0,129
+Greenville,BOTANY WOODS,State House,22,REP,Paul Wickensimer,163,0,1,0,40,0,122
+Greenville,DEVENGER,State House,22,REP,Paul Wickensimer,266,0,10,0,54,0,202
+Greenville,DOVE TREE,State House,22,REP,Paul Wickensimer,212,0,3,0,34,0,175
+Greenville,FEASTER,State House,22,REP,Paul Wickensimer,94,0,2,0,20,0,72
+Greenville,MISSION,State House,22,REP,Paul Wickensimer,322,0,2,0,86,0,234
+Greenville,ROCK HILL,State House,22,REP,Paul Wickensimer,196,0,6,0,29,0,161
+Greenville,ROLLING GREEN,State House,22,REP,Paul Wickensimer,275,0,6,0,56,0,213
+Greenville,SPRING FOREST,State House,22,REP,Paul Wickensimer,163,0,3,0,34,0,126
+Greenville,TIMBERLAKE,State House,22,REP,Paul Wickensimer,262,0,7,0,47,0,208
+Greenville,WELLINGTON,State House,22,REP,Paul Wickensimer,196,0,3,0,43,0,150
+Greenville,Failsafe,State House,22,REP,Paul Wickensimer,2,2,0,0,0,0,0
+Greenville,Provisional,State House,22,REP,Paul Wickensimer,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,State House,22,REP,Paul Wickensimer,0,0,0,0,0,0,0
+Greenville,GREENVILLE 8,State House,24,REP,Bruce Bannister,4,0,2,0,0,0,2
+Greenville,GREENVILLE 10,State House,24,REP,Bruce Bannister,117,0,2,0,38,0,77
+Greenville,GREENVILLE 16,State House,24,REP,Bruce Bannister,280,0,10,0,54,0,216
+Greenville,GREENVILLE 17,State House,24,REP,Bruce Bannister,306,0,5,0,100,0,201
+Greenville,GREENVILLE 18,State House,24,REP,Bruce Bannister,252,0,5,0,59,0,188
+Greenville,GREENVILLE 19,State House,24,REP,Bruce Bannister,20,0,2,0,9,0,9
+Greenville,GREENVILLE 20,State House,24,REP,Bruce Bannister,162,0,4,0,42,0,116
+Greenville,GREENVILLE 21,State House,24,REP,Bruce Bannister,115,0,2,0,24,0,89
+Greenville,GREENVILLE 22,State House,24,REP,Bruce Bannister,332,0,3,0,70,0,259
+Greenville,GREENVILLE 23,State House,24,REP,Bruce Bannister,436,0,3,0,146,0,287
+Greenville,GREENVILLE 24,State House,24,REP,Bruce Bannister,327,0,28,0,114,0,185
+Greenville,CHESTNUT HILLS,State House,24,REP,Bruce Bannister,75,0,2,0,15,0,58
+Greenville,MAULDIN 1,State House,24,REP,Bruce Bannister,158,0,4,0,37,0,117
+Greenville,MAULDIN 2,State House,24,REP,Bruce Bannister,315,0,10,0,79,0,226
+Greenville,MAULDIN 4,State House,24,REP,Bruce Bannister,44,0,1,0,8,0,35
+Greenville,MAULDIN 5,State House,24,REP,Bruce Bannister,143,0,2,0,74,0,67
+Greenville,MAULDIN 6,State House,24,REP,Bruce Bannister,47,0,0,0,23,0,24
+Greenville,ROCKY CREEK,State House,24,REP,Bruce Bannister,183,0,9,0,61,0,113
+Greenville,SOUTHSIDE,State House,24,REP,Bruce Bannister,160,0,5,0,56,0,99
+Greenville,Failsafe,State House,24,REP,Bruce Bannister,2,2,0,0,0,0,0
+Greenville,Provisional,State House,24,REP,Bruce Bannister,2,0,0,0,0,2,0
+Greenville,Failsafe Provisional,State House,24,REP,Bruce Bannister,0,0,0,0,0,0,0
+Greenville,GREENVILLE 8,State House,24,REP,Bill Coleman,0,0,0,0,0,0,0
+Greenville,GREENVILLE 10,State House,24,REP,Bill Coleman,17,0,0,0,4,0,13
+Greenville,GREENVILLE 16,State House,24,REP,Bill Coleman,44,0,0,0,14,0,30
+Greenville,GREENVILLE 17,State House,24,REP,Bill Coleman,40,0,0,0,16,0,24
+Greenville,GREENVILLE 18,State House,24,REP,Bill Coleman,23,0,0,0,8,0,15
+Greenville,GREENVILLE 19,State House,24,REP,Bill Coleman,0,0,0,0,0,0,0
+Greenville,GREENVILLE 20,State House,24,REP,Bill Coleman,24,0,1,0,2,0,21
+Greenville,GREENVILLE 21,State House,24,REP,Bill Coleman,28,0,0,0,10,0,18
+Greenville,GREENVILLE 22,State House,24,REP,Bill Coleman,70,0,0,0,13,0,57
+Greenville,GREENVILLE 23,State House,24,REP,Bill Coleman,51,0,1,0,15,0,35
+Greenville,GREENVILLE 24,State House,24,REP,Bill Coleman,76,0,6,0,25,0,45
+Greenville,CHESTNUT HILLS,State House,24,REP,Bill Coleman,14,0,0,0,1,0,13
+Greenville,MAULDIN 1,State House,24,REP,Bill Coleman,34,0,1,0,5,0,28
+Greenville,MAULDIN 2,State House,24,REP,Bill Coleman,135,0,6,0,39,0,90
+Greenville,MAULDIN 4,State House,24,REP,Bill Coleman,22,0,1,0,6,0,15
+Greenville,MAULDIN 5,State House,24,REP,Bill Coleman,55,0,3,0,18,0,34
+Greenville,MAULDIN 6,State House,24,REP,Bill Coleman,23,0,0,0,8,0,15
+Greenville,ROCKY CREEK,State House,24,REP,Bill Coleman,54,0,3,0,14,0,37
+Greenville,SOUTHSIDE,State House,24,REP,Bill Coleman,22,0,1,0,11,0,10
+Greenville,Failsafe,State House,24,REP,Bill Coleman,1,1,0,0,0,0,0
+Greenville,Provisional,State House,24,REP,Bill Coleman,3,0,0,0,0,3,0
+Greenville,Failsafe Provisional,State House,24,REP,Bill Coleman,0,0,0,0,0,0,0
+Greenville,GREENVILLE 19,State House,25,DEM,Wendell Jones,151,0,8,0,72,0,71
+Greenville,GREENVILLE 20,State House,25,DEM,Wendell Jones,3,0,0,0,1,0,2
+Greenville,GREENVILLE 29,State House,25,DEM,Wendell Jones,105,0,6,0,23,0,76
+Greenville,BELLE MEADE,State House,25,DEM,Wendell Jones,166,0,1,0,60,0,105
+Greenville,BELMONT,State House,25,DEM,Wendell Jones,76,0,0,0,19,0,57
+Greenville,CAROLINA,State House,25,DEM,Wendell Jones,109,0,9,0,34,0,66
+Greenville,CHESTNUT HILLS,State House,25,DEM,Wendell Jones,0,0,0,0,0,0,0
+Greenville,CONESTEE,State House,25,DEM,Wendell Jones,13,0,2,0,4,0,7
+Greenville,DONALDSON,State House,25,DEM,Wendell Jones,88,0,2,0,21,0,65
+Greenville,GROVE,State House,25,DEM,Wendell Jones,57,0,1,0,16,0,40
+Greenville,MAULDIN 1,State House,25,DEM,Wendell Jones,4,0,0,0,1,0,3
+Greenville,PIEDMONT,State House,25,DEM,Wendell Jones,53,0,1,0,20,0,32
+Greenville,REEDY FORK,State House,25,DEM,Wendell Jones,129,0,2,0,37,0,90
+Greenville,ROYAL OAKS,State House,25,DEM,Wendell Jones,116,0,2,0,47,0,67
+Greenville,SOUTHSIDE,State House,25,DEM,Wendell Jones,130,0,20,0,61,0,49
+Greenville,TANGLEWOOD,State House,25,DEM,Wendell Jones,54,0,0,0,19,0,35
+Greenville,WOODMONT,State House,25,DEM,Wendell Jones,179,0,12,0,75,0,92
+Greenville,MT. PLEASANT,State House,25,DEM,Wendell Jones,111,0,0,0,60,0,51
+Greenville,Failsafe,State House,25,DEM,Wendell Jones,0,0,0,0,0,0,0
+Greenville,Provisional,State House,25,DEM,Wendell Jones,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,25,DEM,Wendell Jones,0,0,0,0,0,0,0
+Greenville,GREENVILLE 19,State House,25,DEM,Bruce Wilson,65,0,2,0,29,0,34
+Greenville,GREENVILLE 20,State House,25,DEM,Bruce Wilson,2,0,0,0,1,0,1
+Greenville,GREENVILLE 29,State House,25,DEM,Bruce Wilson,26,0,0,0,3,0,23
+Greenville,BELLE MEADE,State House,25,DEM,Bruce Wilson,72,0,1,0,22,0,49
+Greenville,BELMONT,State House,25,DEM,Bruce Wilson,21,0,0,0,5,0,16
+Greenville,CAROLINA,State House,25,DEM,Bruce Wilson,29,0,1,0,14,0,14
+Greenville,CHESTNUT HILLS,State House,25,DEM,Bruce Wilson,0,0,0,0,0,0,0
+Greenville,CONESTEE,State House,25,DEM,Bruce Wilson,3,0,0,0,2,0,1
+Greenville,DONALDSON,State House,25,DEM,Bruce Wilson,29,0,0,0,4,0,25
+Greenville,GROVE,State House,25,DEM,Bruce Wilson,17,0,0,0,5,0,12
+Greenville,MAULDIN 1,State House,25,DEM,Bruce Wilson,0,0,0,0,0,0,0
+Greenville,PIEDMONT,State House,25,DEM,Bruce Wilson,11,0,0,0,5,0,6
+Greenville,REEDY FORK,State House,25,DEM,Bruce Wilson,42,0,3,0,9,0,30
+Greenville,ROYAL OAKS,State House,25,DEM,Bruce Wilson,53,0,0,0,15,0,38
+Greenville,SOUTHSIDE,State House,25,DEM,Bruce Wilson,33,0,0,0,10,0,23
+Greenville,TANGLEWOOD,State House,25,DEM,Bruce Wilson,17,0,0,0,6,0,11
+Greenville,WOODMONT,State House,25,DEM,Bruce Wilson,44,0,0,0,21,0,23
+Greenville,MT. PLEASANT,State House,25,DEM,Bruce Wilson,60,0,1,0,34,0,25
+Greenville,Failsafe,State House,25,DEM,Bruce Wilson,1,1,0,0,0,0,0
+Greenville,Provisional,State House,25,DEM,Bruce Wilson,2,0,0,0,0,2,0
+Greenville,Failsafe Provisional,State House,25,DEM,Bruce Wilson,0,0,0,0,0,0,0
+Greenville,CONESTEE,State House,28,REP,Chris Huff,77,0,1,0,17,0,59
+Greenville,DONALDSON,State House,28,REP,Chris Huff,3,0,0,0,1,0,2
+Greenville,DUNKLIN,State House,28,REP,Chris Huff,155,0,1,0,17,0,137
+Greenville,FORK SHOALS,State House,28,REP,Chris Huff,121,0,0,0,13,0,108
+Greenville,NEELY FARMS,State House,28,REP,Chris Huff,139,0,1,0,31,0,107
+Greenville,RAINTREE,State House,28,REP,Chris Huff,63,0,4,0,4,0,55
+Greenville,REEDY FORK,State House,28,REP,Chris Huff,47,0,2,0,6,0,39
+Greenville,WOODMONT,State House,28,REP,Chris Huff,6,0,0,0,0,0,6
+Greenville,BAKER CREEK,State House,28,REP,Chris Huff,105,0,2,0,6,0,97
+Greenville,LONG CREEK,State House,28,REP,Chris Huff,108,0,1,0,22,0,85
+Greenville,MOORE CREEK,State House,28,REP,Chris Huff,169,0,3,0,45,0,121
+Greenville,RANCH CREEK,State House,28,REP,Chris Huff,103,0,1,0,26,0,76
+Greenville,STANDING SPRINGS,State House,28,REP,Chris Huff,115,0,4,0,36,0,75
+Greenville,VERDMONT,State House,28,REP,Chris Huff,89,0,2,0,22,0,65
+Greenville,WARE PLACE,State House,28,REP,Chris Huff,192,0,3,0,33,0,156
+Greenville,Failsafe,State House,28,REP,Chris Huff,1,1,0,0,0,0,0
+Greenville,Provisional,State House,28,REP,Chris Huff,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,28,REP,Chris Huff,0,0,0,0,0,0,0
+Greenville,CONESTEE,State House,28,REP,Allen Kellett,32,0,0,0,4,0,28
+Greenville,DONALDSON,State House,28,REP,Allen Kellett,2,0,0,0,0,0,2
+Greenville,DUNKLIN,State House,28,REP,Allen Kellett,69,0,0,0,10,0,59
+Greenville,FORK SHOALS,State House,28,REP,Allen Kellett,74,0,3,0,3,0,68
+Greenville,NEELY FARMS,State House,28,REP,Allen Kellett,62,0,0,0,14,0,48
+Greenville,RAINTREE,State House,28,REP,Allen Kellett,40,0,0,0,12,0,28
+Greenville,REEDY FORK,State House,28,REP,Allen Kellett,42,0,1,0,11,0,30
+Greenville,WOODMONT,State House,28,REP,Allen Kellett,9,0,0,0,0,0,9
+Greenville,BAKER CREEK,State House,28,REP,Allen Kellett,53,0,1,0,6,0,46
+Greenville,LONG CREEK,State House,28,REP,Allen Kellett,69,0,4,0,18,0,47
+Greenville,MOORE CREEK,State House,28,REP,Allen Kellett,94,0,3,0,20,0,71
+Greenville,RANCH CREEK,State House,28,REP,Allen Kellett,39,0,0,0,9,0,30
+Greenville,STANDING SPRINGS,State House,28,REP,Allen Kellett,35,0,0,0,15,0,20
+Greenville,VERDMONT,State House,28,REP,Allen Kellett,61,0,4,0,5,0,52
+Greenville,WARE PLACE,State House,28,REP,Allen Kellett,60,0,2,0,14,0,44
+Greenville,Failsafe,State House,28,REP,Allen Kellett,0,0,0,0,0,0,0
+Greenville,Provisional,State House,28,REP,Allen Kellett,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,State House,28,REP,Allen Kellett,0,0,0,0,0,0,0
+Greenville,CONESTEE,State House,28,REP,Troy Prosser,14,0,0,0,1,0,13
+Greenville,DONALDSON,State House,28,REP,Troy Prosser,0,0,0,0,0,0,0
+Greenville,DUNKLIN,State House,28,REP,Troy Prosser,37,0,2,0,1,0,34
+Greenville,FORK SHOALS,State House,28,REP,Troy Prosser,79,0,2,0,7,0,70
+Greenville,NEELY FARMS,State House,28,REP,Troy Prosser,52,0,0,0,5,0,47
+Greenville,RAINTREE,State House,28,REP,Troy Prosser,21,0,0,0,7,0,14
+Greenville,REEDY FORK,State House,28,REP,Troy Prosser,14,0,0,0,4,0,10
+Greenville,WOODMONT,State House,28,REP,Troy Prosser,2,0,0,0,0,0,2
+Greenville,BAKER CREEK,State House,28,REP,Troy Prosser,10,0,1,0,2,0,7
+Greenville,LONG CREEK,State House,28,REP,Troy Prosser,16,0,0,0,1,0,15
+Greenville,MOORE CREEK,State House,28,REP,Troy Prosser,25,0,0,0,6,0,19
+Greenville,RANCH CREEK,State House,28,REP,Troy Prosser,23,0,2,0,6,0,15
+Greenville,STANDING SPRINGS,State House,28,REP,Troy Prosser,9,0,1,0,2,0,6
+Greenville,VERDMONT,State House,28,REP,Troy Prosser,61,0,0,0,9,0,52
+Greenville,WARE PLACE,State House,28,REP,Troy Prosser,17,0,3,0,2,0,12
+Greenville,Failsafe,State House,28,REP,Troy Prosser,0,0,0,0,0,0,0
+Greenville,Provisional,State House,28,REP,Troy Prosser,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,28,REP,Troy Prosser,0,0,0,0,0,0,0
+Greenville,CONESTEE,State House,28,REP,Daniel Rumfelt,20,0,0,0,10,0,10
+Greenville,DONALDSON,State House,28,REP,Daniel Rumfelt,1,0,0,0,0,0,1
+Greenville,DUNKLIN,State House,28,REP,Daniel Rumfelt,53,0,6,0,5,0,42
+Greenville,FORK SHOALS,State House,28,REP,Daniel Rumfelt,72,0,0,0,12,0,60
+Greenville,NEELY FARMS,State House,28,REP,Daniel Rumfelt,72,0,2,0,15,0,55
+Greenville,RAINTREE,State House,28,REP,Daniel Rumfelt,25,0,4,0,3,0,18
+Greenville,REEDY FORK,State House,28,REP,Daniel Rumfelt,23,0,0,0,4,0,19
+Greenville,WOODMONT,State House,28,REP,Daniel Rumfelt,2,0,0,0,0,0,2
+Greenville,BAKER CREEK,State House,28,REP,Daniel Rumfelt,39,0,0,0,6,0,33
+Greenville,LONG CREEK,State House,28,REP,Daniel Rumfelt,45,0,3,0,12,0,30
+Greenville,MOORE CREEK,State House,28,REP,Daniel Rumfelt,45,0,2,0,19,0,24
+Greenville,RANCH CREEK,State House,28,REP,Daniel Rumfelt,25,0,0,0,10,0,15
+Greenville,STANDING SPRINGS,State House,28,REP,Daniel Rumfelt,28,0,0,0,10,0,18
+Greenville,VERDMONT,State House,28,REP,Daniel Rumfelt,32,0,1,0,7,0,24
+Greenville,WARE PLACE,State House,28,REP,Daniel Rumfelt,65,0,0,0,7,0,58
+Greenville,Failsafe,State House,28,REP,Daniel Rumfelt,0,0,0,0,0,0,0
+Greenville,Provisional,State House,28,REP,Daniel Rumfelt,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,28,REP,Daniel Rumfelt,0,0,0,0,0,0,0
+Greenville,CONESTEE,State House,28,REP,Kerri J Smith,49,0,0,0,14,0,35
+Greenville,DONALDSON,State House,28,REP,Kerri J Smith,0,0,0,0,0,0,0
+Greenville,DUNKLIN,State House,28,REP,Kerri J Smith,19,0,2,0,1,0,16
+Greenville,FORK SHOALS,State House,28,REP,Kerri J Smith,31,0,0,0,7,0,24
+Greenville,NEELY FARMS,State House,28,REP,Kerri J Smith,104,0,1,0,19,0,84
+Greenville,RAINTREE,State House,28,REP,Kerri J Smith,48,0,2,0,20,0,26
+Greenville,REEDY FORK,State House,28,REP,Kerri J Smith,16,0,0,0,7,0,9
+Greenville,WOODMONT,State House,28,REP,Kerri J Smith,1,0,0,0,0,0,1
+Greenville,BAKER CREEK,State House,28,REP,Kerri J Smith,21,0,0,0,4,0,17
+Greenville,LONG CREEK,State House,28,REP,Kerri J Smith,67,0,0,0,20,0,47
+Greenville,MOORE CREEK,State House,28,REP,Kerri J Smith,135,0,3,0,38,0,94
+Greenville,RANCH CREEK,State House,28,REP,Kerri J Smith,72,0,3,0,23,0,46
+Greenville,STANDING SPRINGS,State House,28,REP,Kerri J Smith,63,0,5,0,10,0,48
+Greenville,VERDMONT,State House,28,REP,Kerri J Smith,78,0,2,0,31,0,45
+Greenville,WARE PLACE,State House,28,REP,Kerri J Smith,45,0,0,0,6,0,39
+Greenville,Failsafe,State House,28,REP,Kerri J Smith,0,0,0,0,0,0,0
+Greenville,Provisional,State House,28,REP,Kerri J Smith,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,28,REP,Kerri J Smith,0,0,0,0,0,0,0
+Greenville,BELLS CROSSING,State House,35,REP,Bill Chumley,51,0,3,0,8,0,40
+Greenville,CIRCLE CREEK,State House,35,REP,Bill Chumley,116,0,3,0,21,0,92
+Greenville,RIVERWALK,State House,35,REP,Bill Chumley,210,0,6,0,53,0,151
+Greenville,WOODRUFF LAKES,State House,35,REP,Bill Chumley,245,0,14,0,48,0,183
+Greenville,HOLLY TREE,State House,35,REP,Bill Chumley,89,0,2,0,10,0,77
+Greenville,KILGORE FARMS,State House,35,REP,Bill Chumley,192,0,2,0,29,0,161
+Greenville,SPARROWS POINT,State House,35,REP,Bill Chumley,137,0,5,0,38,0,94
+Greenville,Failsafe,State House,35,REP,Bill Chumley,0,0,0,0,0,0,0
+Greenville,Provisional,State House,35,REP,Bill Chumley,2,0,0,0,0,2,0
+Greenville,Failsafe Provisional,State House,35,REP,Bill Chumley,0,0,0,0,0,0,0
+Greenville,BELLS CROSSING,State House,35,REP,Kevin Dunn,65,0,2,0,22,0,41
+Greenville,CIRCLE CREEK,State House,35,REP,Kevin Dunn,100,0,3,0,22,0,75
+Greenville,RIVERWALK,State House,35,REP,Kevin Dunn,361,0,5,0,89,0,267
+Greenville,WOODRUFF LAKES,State House,35,REP,Kevin Dunn,163,0,7,0,38,0,118
+Greenville,HOLLY TREE,State House,35,REP,Kevin Dunn,119,0,1,0,25,0,93
+Greenville,KILGORE FARMS,State House,35,REP,Kevin Dunn,147,0,2,0,21,0,124
+Greenville,SPARROWS POINT,State House,35,REP,Kevin Dunn,158,0,5,0,37,0,116
+Greenville,Failsafe,State House,35,REP,Kevin Dunn,1,1,0,0,0,0,0
+Greenville,Provisional,State House,35,REP,Kevin Dunn,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,State House,35,REP,Kevin Dunn,0,0,0,0,0,0,0
+Greenville,GREENVILLE 1,Sheriff,,REP,Mike Fortner,79,0,0,0,11,0,68
+Greenville,GREENVILLE 3,Sheriff,,REP,Mike Fortner,105,0,0,0,24,0,81
+Greenville,GREENVILLE 4,Sheriff,,REP,Mike Fortner,51,0,0,0,9,0,42
+Greenville,GREENVILLE 5,Sheriff,,REP,Mike Fortner,82,0,1,0,9,0,72
+Greenville,GREENVILLE 6,Sheriff,,REP,Mike Fortner,3,0,0,0,0,0,3
+Greenville,GREENVILLE 7,Sheriff,,REP,Mike Fortner,19,0,0,0,5,0,14
+Greenville,GREENVILLE 8,Sheriff,,REP,Mike Fortner,40,0,1,0,8,0,31
+Greenville,GREENVILLE 10,Sheriff,,REP,Mike Fortner,34,0,0,0,13,0,21
+Greenville,GREENVILLE 14,Sheriff,,REP,Mike Fortner,7,0,0,0,3,0,4
+Greenville,GREENVILLE 16,Sheriff,,REP,Mike Fortner,55,0,0,0,14,0,41
+Greenville,GREENVILLE 17,Sheriff,,REP,Mike Fortner,62,0,1,0,22,0,39
+Greenville,GREENVILLE 18,Sheriff,,REP,Mike Fortner,37,0,0,0,7,0,30
+Greenville,GREENVILLE 19,Sheriff,,REP,Mike Fortner,12,0,0,0,3,0,9
+Greenville,GREENVILLE 20,Sheriff,,REP,Mike Fortner,34,0,0,0,8,0,26
+Greenville,GREENVILLE 21,Sheriff,,REP,Mike Fortner,41,0,0,0,14,0,27
+Greenville,GREENVILLE 22,Sheriff,,REP,Mike Fortner,64,0,0,0,11,0,53
+Greenville,GREENVILLE 23,Sheriff,,REP,Mike Fortner,65,0,2,0,22,0,41
+Greenville,GREENVILLE 24,Sheriff,,REP,Mike Fortner,110,0,12,0,29,0,69
+Greenville,GREENVILLE 25,Sheriff,,REP,Mike Fortner,33,0,1,0,6,0,26
+Greenville,GREENVILLE 26,Sheriff,,REP,Mike Fortner,22,0,1,0,4,0,17
+Greenville,GREENVILLE 27,Sheriff,,REP,Mike Fortner,48,0,1,0,7,0,40
+Greenville,GREENVILLE 28,Sheriff,,REP,Mike Fortner,22,0,0,0,7,0,15
+Greenville,GREENVILLE 29,Sheriff,,REP,Mike Fortner,12,0,0,0,4,0,8
+Greenville,AIKEN,Sheriff,,REP,Mike Fortner,9,0,0,0,0,0,9
+Greenville,ALTAMONT FOREST,Sheriff,,REP,Mike Fortner,55,0,1,0,18,0,36
+Greenville,ASHETON LAKES,Sheriff,,REP,Mike Fortner,120,0,3,0,18,0,99
+Greenville,AVON,Sheriff,,REP,Mike Fortner,52,0,1,0,8,0,43
+Greenville,BELLE MEADE,Sheriff,,REP,Mike Fortner,7,0,0,0,0,0,7
+Greenville,BELLS CROSSING,Sheriff,,REP,Mike Fortner,98,0,4,0,27,0,67
+Greenville,BELMONT,Sheriff,,REP,Mike Fortner,6,0,0,0,0,0,6
+Greenville,BEREA,Sheriff,,REP,Mike Fortner,21,0,0,0,8,0,13
+Greenville,BOILING SPRINGS,Sheriff,,REP,Mike Fortner,67,0,0,0,4,0,63
+Greenville,BOTANY WOODS,Sheriff,,REP,Mike Fortner,52,0,1,0,15,0,36
+Greenville,BROOKGLENN,Sheriff,,REP,Mike Fortner,26,0,2,0,2,0,22
+Greenville,CANEBRAKE,Sheriff,,REP,Mike Fortner,65,0,1,0,10,0,54
+Greenville,CAROLINA,Sheriff,,REP,Mike Fortner,5,0,2,0,1,0,2
+Greenville,CHESTNUT HILLS,Sheriff,,REP,Mike Fortner,22,0,0,0,2,0,20
+Greenville,CIRCLE CREEK,Sheriff,,REP,Mike Fortner,69,0,2,0,9,0,58
+Greenville,CLEAR CREEK,Sheriff,,REP,Mike Fortner,62,0,0,0,9,0,53
+Greenville,CONESTEE,Sheriff,,REP,Mike Fortner,42,0,0,0,12,0,30
+Greenville,DARBY RIDGE,Sheriff,,REP,Mike Fortner,100,0,2,0,23,0,75
+Greenville,DEL NORTE,Sheriff,,REP,Mike Fortner,53,0,0,0,4,0,49
+Greenville,DEVENGER,Sheriff,,REP,Mike Fortner,56,0,0,0,12,0,44
+Greenville,DONALDSON,Sheriff,,REP,Mike Fortner,21,0,0,0,6,0,15
+Greenville,DOVE TREE,Sheriff,,REP,Mike Fortner,63,0,2,0,2,0,59
+Greenville,DUNKLIN,Sheriff,,REP,Mike Fortner,64,0,1,0,11,0,52
+Greenville,EASTSIDE,Sheriff,,REP,Mike Fortner,80,0,4,0,9,0,67
+Greenville,EBENEZER,Sheriff,,REP,Mike Fortner,64,0,2,0,23,0,39
+Greenville,EDWARDS FOREST,Sheriff,,REP,Mike Fortner,54,0,0,0,6,0,48
+Greenville,ENOREE,Sheriff,,REP,Mike Fortner,74,0,5,0,13,0,56
+Greenville,FEASTER,Sheriff,,REP,Mike Fortner,31,0,0,0,7,0,24
+Greenville,FORK SHOALS,Sheriff,,REP,Mike Fortner,57,0,0,0,9,0,48
+Greenville,FOUNTAIN INN 1,Sheriff,,REP,Mike Fortner,77,0,1,0,8,0,68
+Greenville,FOUNTAIN INN 2,Sheriff,,REP,Mike Fortner,36,0,0,0,1,0,35
+Greenville,FURMAN,Sheriff,,REP,Mike Fortner,95,0,1,0,25,0,69
+Greenville,GOWENSVILLE,Sheriff,,REP,Mike Fortner,60,0,3,0,2,0,55
+Greenville,GROVE,Sheriff,,REP,Mike Fortner,43,0,0,0,20,0,23
+Greenville,JENNINGS MILL,Sheriff,,REP,Mike Fortner,74,0,1,0,21,0,52
+Greenville,LAKEVIEW,Sheriff,,REP,Mike Fortner,44,0,1,0,3,0,40
+Greenville,LAUREL RIDGE,Sheriff,,REP,Mike Fortner,81,0,1,0,14,0,66
+Greenville,LEAWOOD,Sheriff,,REP,Mike Fortner,90,0,5,0,17,0,68
+Greenville,MAPLE CREEK,Sheriff,,REP,Mike Fortner,45,0,0,0,14,0,31
+Greenville,MARIDELL,Sheriff,,REP,Mike Fortner,42,0,3,0,9,0,30
+Greenville,MAULDIN 1,Sheriff,,REP,Mike Fortner,41,0,0,0,7,0,34
+Greenville,MAULDIN 2,Sheriff,,REP,Mike Fortner,109,0,3,0,30,0,76
+Greenville,MAULDIN 3,Sheriff,,REP,Mike Fortner,35,0,0,0,15,0,20
+Greenville,MAULDIN 4,Sheriff,,REP,Mike Fortner,72,0,3,0,16,0,53
+Greenville,MAULDIN 5,Sheriff,,REP,Mike Fortner,55,0,1,0,25,0,29
+Greenville,MAULDIN 6,Sheriff,,REP,Mike Fortner,51,0,2,0,19,0,30
+Greenville,MAULDIN 7,Sheriff,,REP,Mike Fortner,28,0,1,0,3,0,24
+Greenville,MISSION,Sheriff,,REP,Mike Fortner,76,0,6,0,16,0,54
+Greenville,MONAVIEW,Sheriff,,REP,Mike Fortner,26,0,1,0,1,0,24
+Greenville,MOUNTAIN CREEK,Sheriff,,REP,Mike Fortner,103,0,6,0,26,0,71
+Greenville,MOUNTAIN VIEW,Sheriff,,REP,Mike Fortner,52,0,0,0,13,0,39
+Greenville,NEELY FARMS,Sheriff,,REP,Mike Fortner,107,0,0,0,14,0,93
+Greenville,NORTHWOOD,Sheriff,,REP,Mike Fortner,77,0,3,0,15,0,59
+Greenville,OAKVIEW,Sheriff,,REP,Mike Fortner,98,0,5,0,19,0,74
+Greenville,PALMETTO,Sheriff,,REP,Mike Fortner,43,0,0,0,6,0,37
+Greenville,PARIS MOUNTAIN,Sheriff,,REP,Mike Fortner,50,0,0,0,11,0,39
+Greenville,PEBBLE CREEK,Sheriff,,REP,Mike Fortner,76,0,0,0,12,0,64
+Greenville,PELHAM FALLS,Sheriff,,REP,Mike Fortner,30,0,0,0,3,0,27
+Greenville,PIEDMONT,Sheriff,,REP,Mike Fortner,58,0,2,0,12,0,44
+Greenville,PINEVIEW,Sheriff,,REP,Mike Fortner,27,0,0,0,7,0,20
+Greenville,POINSETT,Sheriff,,REP,Mike Fortner,70,0,0,0,23,0,47
+Greenville,RAINTREE,Sheriff,,REP,Mike Fortner,71,0,2,0,13,0,56
+Greenville,REEDY FORK,Sheriff,,REP,Mike Fortner,66,0,0,0,13,0,53
+Greenville,RIVERWALK,Sheriff,,REP,Mike Fortner,105,0,5,0,20,0,80
+Greenville,ROCK HILL,Sheriff,,REP,Mike Fortner,74,0,1,0,8,0,65
+Greenville,ROCKY CREEK,Sheriff,,REP,Mike Fortner,57,0,1,0,21,0,35
+Greenville,ROLLING GREEN,Sheriff,,REP,Mike Fortner,95,0,3,0,18,0,74
+Greenville,ROYAL OAKS,Sheriff,,REP,Mike Fortner,7,0,0,0,4,0,3
+Greenville,SALUDA,Sheriff,,REP,Mike Fortner,36,0,0,0,7,0,29
+Greenville,SANDY FLAT,Sheriff,,REP,Mike Fortner,146,0,6,0,41,0,99
+Greenville,SEVIER,Sheriff,,REP,Mike Fortner,91,0,1,0,16,0,74
+Greenville,SILVERLEAF,Sheriff,,REP,Mike Fortner,62,0,0,0,9,0,53
+Greenville,SIMPSONVILLE 1,Sheriff,,REP,Mike Fortner,51,0,0,0,11,0,40
+Greenville,SIMPSONVILLE 2,Sheriff,,REP,Mike Fortner,48,0,1,0,8,0,39
+Greenville,SIMPSONVILLE 3,Sheriff,,REP,Mike Fortner,62,0,2,0,16,0,44
+Greenville,SIMPSONVILLE 4,Sheriff,,REP,Mike Fortner,33,0,0,0,13,0,20
+Greenville,SIMPSONVILLE 5,Sheriff,,REP,Mike Fortner,52,0,3,0,4,0,45
+Greenville,SIMPSONVILLE 6,Sheriff,,REP,Mike Fortner,70,0,5,0,18,0,47
+Greenville,SKYLAND,Sheriff,,REP,Mike Fortner,80,0,0,0,15,0,65
+Greenville,SLATER MARIETTA,Sheriff,,REP,Mike Fortner,81,0,0,0,18,0,63
+Greenville,SOUTHSIDE,Sheriff,,REP,Mike Fortner,42,0,0,0,18,0,24
+Greenville,SPRING FOREST,Sheriff,,REP,Mike Fortner,56,0,0,0,10,0,46
+Greenville,STONE VALLEY,Sheriff,,REP,Mike Fortner,53,0,0,0,9,0,44
+Greenville,STONEHAVEN,Sheriff,,REP,Mike Fortner,61,0,1,0,16,0,44
+Greenville,SUBER MILL,Sheriff,,REP,Mike Fortner,125,0,0,0,28,0,97
+Greenville,SUGAR CREEK,Sheriff,,REP,Mike Fortner,44,0,2,0,9,0,33
+Greenville,SULPHUR SPRINGS,Sheriff,,REP,Mike Fortner,68,0,3,0,17,0,48
+Greenville,SYCAMORE,Sheriff,,REP,Mike Fortner,134,0,2,0,35,0,97
+Greenville,TANGLEWOOD,Sheriff,,REP,Mike Fortner,35,0,0,0,1,0,34
+Greenville,TAYLORS,Sheriff,,REP,Mike Fortner,59,0,0,0,7,0,52
+Greenville,THORNBLADE,Sheriff,,REP,Mike Fortner,87,0,1,0,7,0,79
+Greenville,TIGERVILLE,Sheriff,,REP,Mike Fortner,123,0,5,0,23,0,95
+Greenville,TIMBERLAKE,Sheriff,,REP,Mike Fortner,117,0,4,0,17,0,96
+Greenville,TRADE,Sheriff,,REP,Mike Fortner,61,0,0,0,21,0,40
+Greenville,TUBBS MOUNTAIN,Sheriff,,REP,Mike Fortner,87,0,2,0,24,0,61
+Greenville,WADE HAMPTON,Sheriff,,REP,Mike Fortner,63,0,1,0,7,0,55
+Greenville,WALNUT SPRINGS,Sheriff,,REP,Mike Fortner,178,0,1,0,32,0,145
+Greenville,WELCOME,Sheriff,,REP,Mike Fortner,17,0,0,0,4,0,13
+Greenville,WELLINGTON,Sheriff,,REP,Mike Fortner,51,0,1,0,11,0,39
+Greenville,WESTCLIFFE,Sheriff,,REP,Mike Fortner,32,0,0,0,3,0,29
+Greenville,WESTSIDE,Sheriff,,REP,Mike Fortner,46,0,1,0,4,0,41
+Greenville,WOODMONT,Sheriff,,REP,Mike Fortner,37,0,1,0,6,0,30
+Greenville,WOODRUFF LAKES,Sheriff,,REP,Mike Fortner,67,0,1,0,12,0,54
+Greenville,MT. PLEASANT,Sheriff,,REP,Mike Fortner,11,0,0,0,3,0,8
+Greenville,BAKER CREEK,Sheriff,,REP,Mike Fortner,45,0,0,0,5,0,40
+Greenville,BRIDGE FORK,Sheriff,,REP,Mike Fortner,76,0,0,0,23,0,53
+Greenville,CASTLE ROCK,Sheriff,,REP,Mike Fortner,70,0,2,0,11,0,57
+Greenville,FOX CHASE,Sheriff,,REP,Mike Fortner,69,0,1,0,10,0,58
+Greenville,FROHAWK,Sheriff,,REP,Mike Fortner,38,0,1,0,11,0,26
+Greenville,GRANITE CREEK,Sheriff,,REP,Mike Fortner,99,0,0,0,22,0,77
+Greenville,GRAZE BRANCH,Sheriff,,REP,Mike Fortner,75,0,2,0,14,0,59
+Greenville,GREENBRIAR,Sheriff,,REP,Mike Fortner,52,0,2,0,12,0,38
+Greenville,HILLCREST,Sheriff,,REP,Mike Fortner,71,0,1,0,15,0,55
+Greenville,HOLLY TREE,Sheriff,,REP,Mike Fortner,44,0,0,0,7,0,37
+Greenville,KILGORE FARMS,Sheriff,,REP,Mike Fortner,91,0,2,0,12,0,77
+Greenville,LOCUST HILL,Sheriff,,REP,Mike Fortner,47,0,1,0,6,0,40
+Greenville,LONG CREEK,Sheriff,,REP,Mike Fortner,74,0,4,0,14,0,56
+Greenville,MOORE CREEK,Sheriff,,REP,Mike Fortner,122,0,2,0,41,0,79
+Greenville,ONEAL,Sheriff,,REP,Mike Fortner,121,0,2,0,23,0,96
+Greenville,RANCH CREEK,Sheriff,,REP,Mike Fortner,57,0,2,0,20,0,35
+Greenville,RIVERSIDE,Sheriff,,REP,Mike Fortner,60,0,1,0,8,0,51
+Greenville,SPARROWS POINT,Sheriff,,REP,Mike Fortner,63,0,4,0,11,0,48
+Greenville,STANDING SPRINGS,Sheriff,,REP,Mike Fortner,40,0,0,0,11,0,29
+Greenville,TRAVELERS REST 1,Sheriff,,REP,Mike Fortner,89,0,5,0,27,0,57
+Greenville,TRAVELERS REST 2,Sheriff,,REP,Mike Fortner,53,0,0,0,20,0,33
+Greenville,TYGER RIVER,Sheriff,,REP,Mike Fortner,25,0,0,0,5,0,20
+Greenville,VERDMONT,Sheriff,,REP,Mike Fortner,78,0,3,0,17,0,58
+Greenville,WARE PLACE,Sheriff,,REP,Mike Fortner,48,0,2,0,8,0,38
+Greenville,Failsafe,Sheriff,,REP,Mike Fortner,1,1,0,0,0,0,0
+Greenville,Provisional,Sheriff,,REP,Mike Fortner,6,0,0,0,0,6,0
+Greenville,Failsafe Provisional,Sheriff,,REP,Mike Fortner,3,0,0,3,0,0,0
+Greenville,GREENVILLE 1,Sheriff,,REP,Hobart Lewis,363,0,7,0,68,0,288
+Greenville,GREENVILLE 3,Sheriff,,REP,Hobart Lewis,387,0,4,0,88,0,295
+Greenville,GREENVILLE 4,Sheriff,,REP,Hobart Lewis,144,0,2,0,26,0,116
+Greenville,GREENVILLE 5,Sheriff,,REP,Hobart Lewis,228,0,5,0,50,0,173
+Greenville,GREENVILLE 6,Sheriff,,REP,Hobart Lewis,11,0,0,0,3,0,8
+Greenville,GREENVILLE 7,Sheriff,,REP,Hobart Lewis,40,0,1,0,10,0,29
+Greenville,GREENVILLE 8,Sheriff,,REP,Hobart Lewis,135,0,8,0,35,0,92
+Greenville,GREENVILLE 10,Sheriff,,REP,Hobart Lewis,208,0,3,0,53,0,152
+Greenville,GREENVILLE 14,Sheriff,,REP,Hobart Lewis,19,0,1,0,1,0,17
+Greenville,GREENVILLE 16,Sheriff,,REP,Hobart Lewis,275,0,11,0,55,0,209
+Greenville,GREENVILLE 17,Sheriff,,REP,Hobart Lewis,303,0,4,0,95,0,204
+Greenville,GREENVILLE 18,Sheriff,,REP,Hobart Lewis,235,0,5,0,62,0,168
+Greenville,GREENVILLE 19,Sheriff,,REP,Hobart Lewis,55,0,4,0,18,0,33
+Greenville,GREENVILLE 20,Sheriff,,REP,Hobart Lewis,175,0,5,0,53,0,117
+Greenville,GREENVILLE 21,Sheriff,,REP,Hobart Lewis,139,0,4,0,38,0,97
+Greenville,GREENVILLE 22,Sheriff,,REP,Hobart Lewis,335,0,3,0,72,0,260
+Greenville,GREENVILLE 23,Sheriff,,REP,Hobart Lewis,408,0,2,0,135,0,271
+Greenville,GREENVILLE 24,Sheriff,,REP,Hobart Lewis,353,0,30,0,120,0,203
+Greenville,GREENVILLE 25,Sheriff,,REP,Hobart Lewis,126,0,3,0,21,0,102
+Greenville,GREENVILLE 26,Sheriff,,REP,Hobart Lewis,95,0,1,0,11,0,83
+Greenville,GREENVILLE 27,Sheriff,,REP,Hobart Lewis,262,0,5,0,41,0,216
+Greenville,GREENVILLE 28,Sheriff,,REP,Hobart Lewis,101,0,2,0,19,0,80
+Greenville,GREENVILLE 29,Sheriff,,REP,Hobart Lewis,37,0,2,0,9,0,26
+Greenville,AIKEN,Sheriff,,REP,Hobart Lewis,38,0,0,0,3,0,35
+Greenville,ALTAMONT FOREST,Sheriff,,REP,Hobart Lewis,305,0,5,0,84,0,216
+Greenville,ASHETON LAKES,Sheriff,,REP,Hobart Lewis,392,0,9,0,68,0,315
+Greenville,AVON,Sheriff,,REP,Hobart Lewis,334,0,9,0,40,0,285
+Greenville,BELLE MEADE,Sheriff,,REP,Hobart Lewis,9,0,0,0,2,0,7
+Greenville,BELLS CROSSING,Sheriff,,REP,Hobart Lewis,318,0,6,0,63,0,249
+Greenville,BELMONT,Sheriff,,REP,Hobart Lewis,42,0,2,0,5,0,35
+Greenville,BEREA,Sheriff,,REP,Hobart Lewis,130,0,3,0,29,0,98
+Greenville,BOILING SPRINGS,Sheriff,,REP,Hobart Lewis,386,0,15,0,75,0,296
+Greenville,BOTANY WOODS,Sheriff,,REP,Hobart Lewis,306,0,2,0,71,0,233
+Greenville,BROOKGLENN,Sheriff,,REP,Hobart Lewis,185,0,1,0,23,0,161
+Greenville,CANEBRAKE,Sheriff,,REP,Hobart Lewis,576,0,6,0,114,0,456
+Greenville,CAROLINA,Sheriff,,REP,Hobart Lewis,24,0,1,0,2,0,21
+Greenville,CHESTNUT HILLS,Sheriff,,REP,Hobart Lewis,118,0,4,0,17,0,97
+Greenville,CIRCLE CREEK,Sheriff,,REP,Hobart Lewis,396,0,13,0,83,0,300
+Greenville,CLEAR CREEK,Sheriff,,REP,Hobart Lewis,390,0,2,0,72,0,316
+Greenville,CONESTEE,Sheriff,,REP,Hobart Lewis,173,0,1,0,39,0,133
+Greenville,DARBY RIDGE,Sheriff,,REP,Hobart Lewis,555,0,3,0,166,0,386
+Greenville,DEL NORTE,Sheriff,,REP,Hobart Lewis,323,0,5,0,75,0,243
+Greenville,DEVENGER,Sheriff,,REP,Hobart Lewis,410,0,15,0,65,0,330
+Greenville,DONALDSON,Sheriff,,REP,Hobart Lewis,56,0,0,0,19,0,37
+Greenville,DOVE TREE,Sheriff,,REP,Hobart Lewis,298,0,3,0,48,0,247
+Greenville,DUNKLIN,Sheriff,,REP,Hobart Lewis,367,0,15,0,26,0,326
+Greenville,EASTSIDE,Sheriff,,REP,Hobart Lewis,397,0,14,0,82,0,301
+Greenville,EBENEZER,Sheriff,,REP,Hobart Lewis,434,0,7,0,123,0,304
+Greenville,EDWARDS FOREST,Sheriff,,REP,Hobart Lewis,422,0,10,0,90,0,322
+Greenville,ENOREE,Sheriff,,REP,Hobart Lewis,450,0,15,0,120,0,315
+Greenville,FEASTER,Sheriff,,REP,Hobart Lewis,137,0,5,0,26,0,106
+Greenville,FORK SHOALS,Sheriff,,REP,Hobart Lewis,318,0,5,0,34,0,279
+Greenville,FOUNTAIN INN 1,Sheriff,,REP,Hobart Lewis,306,0,7,0,43,0,256
+Greenville,FOUNTAIN INN 2,Sheriff,,REP,Hobart Lewis,130,0,0,0,9,0,121
+Greenville,FURMAN,Sheriff,,REP,Hobart Lewis,466,0,20,0,172,0,274
+Greenville,GOWENSVILLE,Sheriff,,REP,Hobart Lewis,375,0,1,0,21,0,353
+Greenville,GROVE,Sheriff,,REP,Hobart Lewis,115,0,4,0,44,0,67
+Greenville,JENNINGS MILL,Sheriff,,REP,Hobart Lewis,321,0,5,0,68,0,248
+Greenville,LAKEVIEW,Sheriff,,REP,Hobart Lewis,190,0,2,0,29,0,159
+Greenville,LAUREL RIDGE,Sheriff,,REP,Hobart Lewis,488,0,18,0,100,0,370
+Greenville,LEAWOOD,Sheriff,,REP,Hobart Lewis,297,0,8,0,61,0,228
+Greenville,MAPLE CREEK,Sheriff,,REP,Hobart Lewis,296,0,5,0,48,0,243
+Greenville,MARIDELL,Sheriff,,REP,Hobart Lewis,315,0,3,0,56,0,256
+Greenville,MAULDIN 1,Sheriff,,REP,Hobart Lewis,173,0,5,0,42,0,126
+Greenville,MAULDIN 2,Sheriff,,REP,Hobart Lewis,354,0,13,0,91,0,250
+Greenville,MAULDIN 3,Sheriff,,REP,Hobart Lewis,139,0,3,0,42,0,94
+Greenville,MAULDIN 4,Sheriff,,REP,Hobart Lewis,310,0,4,0,108,0,198
+Greenville,MAULDIN 5,Sheriff,,REP,Hobart Lewis,179,0,5,0,76,0,98
+Greenville,MAULDIN 6,Sheriff,,REP,Hobart Lewis,221,0,4,0,74,0,143
+Greenville,MAULDIN 7,Sheriff,,REP,Hobart Lewis,153,0,3,0,42,0,108
+Greenville,MISSION,Sheriff,,REP,Hobart Lewis,485,0,7,0,109,0,369
+Greenville,MONAVIEW,Sheriff,,REP,Hobart Lewis,98,0,1,0,15,0,82
+Greenville,MOUNTAIN CREEK,Sheriff,,REP,Hobart Lewis,559,0,13,0,125,0,421
+Greenville,MOUNTAIN VIEW,Sheriff,,REP,Hobart Lewis,406,0,7,0,110,0,289
+Greenville,NEELY FARMS,Sheriff,,REP,Hobart Lewis,322,0,4,0,68,0,250
+Greenville,NORTHWOOD,Sheriff,,REP,Hobart Lewis,368,0,9,0,55,0,304
+Greenville,OAKVIEW,Sheriff,,REP,Hobart Lewis,451,0,5,0,91,0,355
+Greenville,PALMETTO,Sheriff,,REP,Hobart Lewis,255,0,9,0,41,0,205
+Greenville,PARIS MOUNTAIN,Sheriff,,REP,Hobart Lewis,311,0,4,0,64,0,243
+Greenville,PEBBLE CREEK,Sheriff,,REP,Hobart Lewis,477,0,7,0,106,0,364
+Greenville,PELHAM FALLS,Sheriff,,REP,Hobart Lewis,194,0,0,0,23,0,171
+Greenville,PIEDMONT,Sheriff,,REP,Hobart Lewis,247,0,14,0,21,0,212
+Greenville,PINEVIEW,Sheriff,,REP,Hobart Lewis,141,0,1,0,7,0,133
+Greenville,POINSETT,Sheriff,,REP,Hobart Lewis,438,0,14,0,109,0,315
+Greenville,RAINTREE,Sheriff,,REP,Hobart Lewis,286,0,12,0,64,0,210
+Greenville,REEDY FORK,Sheriff,,REP,Hobart Lewis,206,0,4,0,37,0,165
+Greenville,RIVERWALK,Sheriff,,REP,Hobart Lewis,444,0,6,0,112,0,326
+Greenville,ROCK HILL,Sheriff,,REP,Hobart Lewis,286,0,13,0,57,0,216
+Greenville,ROCKY CREEK,Sheriff,,REP,Hobart Lewis,188,0,10,0,61,0,117
+Greenville,ROLLING GREEN,Sheriff,,REP,Hobart Lewis,372,0,13,0,67,0,292
+Greenville,ROYAL OAKS,Sheriff,,REP,Hobart Lewis,22,0,2,0,0,0,20
+Greenville,SALUDA,Sheriff,,REP,Hobart Lewis,188,0,2,0,26,0,160
+Greenville,SANDY FLAT,Sheriff,,REP,Hobart Lewis,707,0,8,0,207,0,492
+Greenville,SEVIER,Sheriff,,REP,Hobart Lewis,498,0,12,0,85,0,401
+Greenville,SILVERLEAF,Sheriff,,REP,Hobart Lewis,435,0,3,0,64,0,368
+Greenville,SIMPSONVILLE 1,Sheriff,,REP,Hobart Lewis,293,0,11,0,67,0,215
+Greenville,SIMPSONVILLE 2,Sheriff,,REP,Hobart Lewis,171,0,3,0,29,0,139
+Greenville,SIMPSONVILLE 3,Sheriff,,REP,Hobart Lewis,376,0,19,0,91,0,266
+Greenville,SIMPSONVILLE 4,Sheriff,,REP,Hobart Lewis,136,0,6,0,62,0,68
+Greenville,SIMPSONVILLE 5,Sheriff,,REP,Hobart Lewis,117,0,2,0,21,0,94
+Greenville,SIMPSONVILLE 6,Sheriff,,REP,Hobart Lewis,246,0,7,0,63,0,176
+Greenville,SKYLAND,Sheriff,,REP,Hobart Lewis,486,0,4,0,71,0,411
+Greenville,SLATER MARIETTA,Sheriff,,REP,Hobart Lewis,462,0,5,0,71,0,386
+Greenville,SOUTHSIDE,Sheriff,,REP,Hobart Lewis,219,0,9,0,89,0,121
+Greenville,SPRING FOREST,Sheriff,,REP,Hobart Lewis,255,0,5,0,47,0,203
+Greenville,STONE VALLEY,Sheriff,,REP,Hobart Lewis,326,0,11,0,81,0,234
+Greenville,STONEHAVEN,Sheriff,,REP,Hobart Lewis,234,0,5,0,53,0,176
+Greenville,SUBER MILL,Sheriff,,REP,Hobart Lewis,462,0,9,0,95,0,358
+Greenville,SUGAR CREEK,Sheriff,,REP,Hobart Lewis,559,0,6,0,77,0,476
+Greenville,SULPHUR SPRINGS,Sheriff,,REP,Hobart Lewis,328,0,4,0,73,0,251
+Greenville,SYCAMORE,Sheriff,,REP,Hobart Lewis,378,0,16,0,96,0,266
+Greenville,TANGLEWOOD,Sheriff,,REP,Hobart Lewis,154,0,2,0,18,0,134
+Greenville,TAYLORS,Sheriff,,REP,Hobart Lewis,253,0,8,0,39,0,206
+Greenville,THORNBLADE,Sheriff,,REP,Hobart Lewis,469,0,11,0,111,0,347
+Greenville,TIGERVILLE,Sheriff,,REP,Hobart Lewis,555,0,15,0,113,0,427
+Greenville,TIMBERLAKE,Sheriff,,REP,Hobart Lewis,469,0,5,0,111,0,353
+Greenville,TRADE,Sheriff,,REP,Hobart Lewis,245,0,6,0,77,0,162
+Greenville,TUBBS MOUNTAIN,Sheriff,,REP,Hobart Lewis,452,0,10,0,135,0,307
+Greenville,WADE HAMPTON,Sheriff,,REP,Hobart Lewis,350,0,7,0,59,0,284
+Greenville,WALNUT SPRINGS,Sheriff,,REP,Hobart Lewis,526,0,8,0,118,0,400
+Greenville,WELCOME,Sheriff,,REP,Hobart Lewis,100,0,6,0,15,0,79
+Greenville,WELLINGTON,Sheriff,,REP,Hobart Lewis,303,0,3,0,60,0,240
+Greenville,WESTCLIFFE,Sheriff,,REP,Hobart Lewis,184,0,5,0,32,0,147
+Greenville,WESTSIDE,Sheriff,,REP,Hobart Lewis,174,0,11,0,16,0,147
+Greenville,WOODMONT,Sheriff,,REP,Hobart Lewis,206,0,11,0,46,0,149
+Greenville,WOODRUFF LAKES,Sheriff,,REP,Hobart Lewis,349,0,20,0,75,0,254
+Greenville,MT. PLEASANT,Sheriff,,REP,Hobart Lewis,44,0,2,0,8,0,34
+Greenville,BAKER CREEK,Sheriff,,REP,Hobart Lewis,181,0,4,0,19,0,158
+Greenville,BRIDGE FORK,Sheriff,,REP,Hobart Lewis,234,0,3,0,63,0,168
+Greenville,CASTLE ROCK,Sheriff,,REP,Hobart Lewis,521,0,7,0,86,0,428
+Greenville,FOX CHASE,Sheriff,,REP,Hobart Lewis,535,0,11,0,118,0,406
+Greenville,FROHAWK,Sheriff,,REP,Hobart Lewis,406,0,4,0,98,0,304
+Greenville,GRANITE CREEK,Sheriff,,REP,Hobart Lewis,350,0,5,0,80,0,265
+Greenville,GRAZE BRANCH,Sheriff,,REP,Hobart Lewis,239,0,7,0,43,0,189
+Greenville,GREENBRIAR,Sheriff,,REP,Hobart Lewis,162,0,2,0,41,0,119
+Greenville,HILLCREST,Sheriff,,REP,Hobart Lewis,258,0,4,0,61,0,193
+Greenville,HOLLY TREE,Sheriff,,REP,Hobart Lewis,210,0,3,0,41,0,166
+Greenville,KILGORE FARMS,Sheriff,,REP,Hobart Lewis,260,0,6,0,38,0,216
+Greenville,LOCUST HILL,Sheriff,,REP,Hobart Lewis,371,0,9,0,74,0,288
+Greenville,LONG CREEK,Sheriff,,REP,Hobart Lewis,227,0,4,0,55,0,168
+Greenville,MOORE CREEK,Sheriff,,REP,Hobart Lewis,388,0,10,0,113,0,265
+Greenville,ONEAL,Sheriff,,REP,Hobart Lewis,676,0,10,0,102,0,564
+Greenville,RANCH CREEK,Sheriff,,REP,Hobart Lewis,202,0,4,0,55,0,143
+Greenville,RIVERSIDE,Sheriff,,REP,Hobart Lewis,263,0,1,0,34,0,228
+Greenville,SPARROWS POINT,Sheriff,,REP,Hobart Lewis,230,0,8,0,67,0,155
+Greenville,STANDING SPRINGS,Sheriff,,REP,Hobart Lewis,209,0,10,0,64,0,135
+Greenville,TRAVELERS REST 1,Sheriff,,REP,Hobart Lewis,409,0,9,0,132,0,268
+Greenville,TRAVELERS REST 2,Sheriff,,REP,Hobart Lewis,273,0,5,0,75,0,193
+Greenville,TYGER RIVER,Sheriff,,REP,Hobart Lewis,153,0,3,0,41,0,109
+Greenville,VERDMONT,Sheriff,,REP,Hobart Lewis,244,0,6,0,57,0,181
+Greenville,WARE PLACE,Sheriff,,REP,Hobart Lewis,332,0,5,0,55,0,272
+Greenville,Failsafe,Sheriff,,REP,Hobart Lewis,8,8,0,0,0,0,0
+Greenville,Provisional,Sheriff,,REP,Hobart Lewis,20,0,0,0,0,20,0
+Greenville,Failsafe Provisional,Sheriff,,REP,Hobart Lewis,18,0,0,18,0,0,0
+Greenville,GREENVILLE 1,Clerk of Court,,REP,Mary Brice Garrett,219,0,5,0,34,0,180
+Greenville,GREENVILLE 3,Clerk of Court,,REP,Mary Brice Garrett,278,0,2,0,58,0,218
+Greenville,GREENVILLE 4,Clerk of Court,,REP,Mary Brice Garrett,113,0,2,0,24,0,87
+Greenville,GREENVILLE 5,Clerk of Court,,REP,Mary Brice Garrett,158,0,2,0,23,0,133
+Greenville,GREENVILLE 6,Clerk of Court,,REP,Mary Brice Garrett,7,0,0,0,0,0,7
+Greenville,GREENVILLE 7,Clerk of Court,,REP,Mary Brice Garrett,34,0,1,0,11,0,22
+Greenville,GREENVILLE 8,Clerk of Court,,REP,Mary Brice Garrett,85,0,8,0,21,0,56
+Greenville,GREENVILLE 10,Clerk of Court,,REP,Mary Brice Garrett,148,0,1,0,40,0,107
+Greenville,GREENVILLE 14,Clerk of Court,,REP,Mary Brice Garrett,10,0,0,0,3,0,7
+Greenville,GREENVILLE 16,Clerk of Court,,REP,Mary Brice Garrett,151,0,2,0,31,0,118
+Greenville,GREENVILLE 17,Clerk of Court,,REP,Mary Brice Garrett,146,0,2,0,46,0,98
+Greenville,GREENVILLE 18,Clerk of Court,,REP,Mary Brice Garrett,138,0,4,0,33,0,101
+Greenville,GREENVILLE 19,Clerk of Court,,REP,Mary Brice Garrett,26,0,2,0,8,0,16
+Greenville,GREENVILLE 20,Clerk of Court,,REP,Mary Brice Garrett,108,0,2,0,29,0,77
+Greenville,GREENVILLE 21,Clerk of Court,,REP,Mary Brice Garrett,100,0,2,0,33,0,65
+Greenville,GREENVILLE 22,Clerk of Court,,REP,Mary Brice Garrett,192,0,1,0,43,0,148
+Greenville,GREENVILLE 23,Clerk of Court,,REP,Mary Brice Garrett,260,0,2,0,94,0,164
+Greenville,GREENVILLE 24,Clerk of Court,,REP,Mary Brice Garrett,236,0,19,0,75,0,142
+Greenville,GREENVILLE 25,Clerk of Court,,REP,Mary Brice Garrett,81,0,3,0,15,0,63
+Greenville,GREENVILLE 26,Clerk of Court,,REP,Mary Brice Garrett,45,0,1,0,9,0,35
+Greenville,GREENVILLE 27,Clerk of Court,,REP,Mary Brice Garrett,105,0,0,0,23,0,82
+Greenville,GREENVILLE 28,Clerk of Court,,REP,Mary Brice Garrett,54,0,0,0,12,0,42
+Greenville,GREENVILLE 29,Clerk of Court,,REP,Mary Brice Garrett,22,0,1,0,3,0,18
+Greenville,AIKEN,Clerk of Court,,REP,Mary Brice Garrett,23,0,0,0,2,0,21
+Greenville,ALTAMONT FOREST,Clerk of Court,,REP,Mary Brice Garrett,170,0,3,0,56,0,111
+Greenville,ASHETON LAKES,Clerk of Court,,REP,Mary Brice Garrett,221,0,8,0,40,0,173
+Greenville,AVON,Clerk of Court,,REP,Mary Brice Garrett,164,0,5,0,27,0,132
+Greenville,BELLE MEADE,Clerk of Court,,REP,Mary Brice Garrett,13,0,0,0,2,0,11
+Greenville,BELLS CROSSING,Clerk of Court,,REP,Mary Brice Garrett,200,0,2,0,42,0,156
+Greenville,BELMONT,Clerk of Court,,REP,Mary Brice Garrett,21,0,0,0,4,0,17
+Greenville,BEREA,Clerk of Court,,REP,Mary Brice Garrett,77,0,0,0,15,0,62
+Greenville,BOILING SPRINGS,Clerk of Court,,REP,Mary Brice Garrett,198,0,7,0,39,0,152
+Greenville,BOTANY WOODS,Clerk of Court,,REP,Mary Brice Garrett,138,0,0,0,35,0,103
+Greenville,BROOKGLENN,Clerk of Court,,REP,Mary Brice Garrett,84,0,2,0,12,0,70
+Greenville,CANEBRAKE,Clerk of Court,,REP,Mary Brice Garrett,280,0,7,0,59,0,214
+Greenville,CAROLINA,Clerk of Court,,REP,Mary Brice Garrett,15,0,1,0,2,0,12
+Greenville,CHESTNUT HILLS,Clerk of Court,,REP,Mary Brice Garrett,70,0,0,0,10,0,60
+Greenville,CIRCLE CREEK,Clerk of Court,,REP,Mary Brice Garrett,215,0,6,0,50,0,159
+Greenville,CLEAR CREEK,Clerk of Court,,REP,Mary Brice Garrett,176,0,1,0,36,0,139
+Greenville,CONESTEE,Clerk of Court,,REP,Mary Brice Garrett,112,0,0,0,33,0,79
+Greenville,DARBY RIDGE,Clerk of Court,,REP,Mary Brice Garrett,276,0,4,0,81,0,191
+Greenville,DEL NORTE,Clerk of Court,,REP,Mary Brice Garrett,152,0,0,0,35,0,117
+Greenville,DEVENGER,Clerk of Court,,REP,Mary Brice Garrett,223,0,8,0,37,0,178
+Greenville,DONALDSON,Clerk of Court,,REP,Mary Brice Garrett,42,0,0,0,14,0,28
+Greenville,DOVE TREE,Clerk of Court,,REP,Mary Brice Garrett,181,0,1,0,17,0,163
+Greenville,DUNKLIN,Clerk of Court,,REP,Mary Brice Garrett,209,0,4,0,21,0,184
+Greenville,EASTSIDE,Clerk of Court,,REP,Mary Brice Garrett,214,0,15,0,33,0,166
+Greenville,EBENEZER,Clerk of Court,,REP,Mary Brice Garrett,231,0,6,0,65,0,160
+Greenville,EDWARDS FOREST,Clerk of Court,,REP,Mary Brice Garrett,198,0,5,0,49,0,144
+Greenville,ENOREE,Clerk of Court,,REP,Mary Brice Garrett,248,0,7,0,72,0,169
+Greenville,FEASTER,Clerk of Court,,REP,Mary Brice Garrett,75,0,2,0,12,0,61
+Greenville,FORK SHOALS,Clerk of Court,,REP,Mary Brice Garrett,200,0,4,0,26,0,170
+Greenville,FOUNTAIN INN 1,Clerk of Court,,REP,Mary Brice Garrett,193,0,4,0,34,0,155
+Greenville,FOUNTAIN INN 2,Clerk of Court,,REP,Mary Brice Garrett,67,0,0,0,4,0,63
+Greenville,FURMAN,Clerk of Court,,REP,Mary Brice Garrett,292,0,11,0,108,0,173
+Greenville,GOWENSVILLE,Clerk of Court,,REP,Mary Brice Garrett,200,0,2,0,8,0,190
+Greenville,GROVE,Clerk of Court,,REP,Mary Brice Garrett,72,0,3,0,30,0,39
+Greenville,JENNINGS MILL,Clerk of Court,,REP,Mary Brice Garrett,198,0,3,0,56,0,139
+Greenville,LAKEVIEW,Clerk of Court,,REP,Mary Brice Garrett,124,0,2,0,19,0,103
+Greenville,LAUREL RIDGE,Clerk of Court,,REP,Mary Brice Garrett,270,0,8,0,59,0,203
+Greenville,LEAWOOD,Clerk of Court,,REP,Mary Brice Garrett,167,0,7,0,36,0,124
+Greenville,MAPLE CREEK,Clerk of Court,,REP,Mary Brice Garrett,159,0,1,0,28,0,130
+Greenville,MARIDELL,Clerk of Court,,REP,Mary Brice Garrett,148,0,0,0,34,0,114
+Greenville,MAULDIN 1,Clerk of Court,,REP,Mary Brice Garrett,108,0,2,0,25,0,81
+Greenville,MAULDIN 2,Clerk of Court,,REP,Mary Brice Garrett,215,0,12,0,53,0,150
+Greenville,MAULDIN 3,Clerk of Court,,REP,Mary Brice Garrett,92,0,3,0,26,0,63
+Greenville,MAULDIN 4,Clerk of Court,,REP,Mary Brice Garrett,188,0,4,0,66,0,118
+Greenville,MAULDIN 5,Clerk of Court,,REP,Mary Brice Garrett,120,0,3,0,54,0,63
+Greenville,MAULDIN 6,Clerk of Court,,REP,Mary Brice Garrett,141,0,4,0,48,0,89
+Greenville,MAULDIN 7,Clerk of Court,,REP,Mary Brice Garrett,92,0,4,0,27,0,61
+Greenville,MISSION,Clerk of Court,,REP,Mary Brice Garrett,296,0,4,0,73,0,219
+Greenville,MONAVIEW,Clerk of Court,,REP,Mary Brice Garrett,61,0,2,0,12,0,47
+Greenville,MOUNTAIN CREEK,Clerk of Court,,REP,Mary Brice Garrett,287,0,12,0,68,0,207
+Greenville,MOUNTAIN VIEW,Clerk of Court,,REP,Mary Brice Garrett,182,0,4,0,49,0,129
+Greenville,NEELY FARMS,Clerk of Court,,REP,Mary Brice Garrett,188,0,3,0,34,0,151
+Greenville,NORTHWOOD,Clerk of Court,,REP,Mary Brice Garrett,214,0,6,0,41,0,167
+Greenville,OAKVIEW,Clerk of Court,,REP,Mary Brice Garrett,229,0,6,0,46,0,177
+Greenville,PALMETTO,Clerk of Court,,REP,Mary Brice Garrett,111,0,5,0,14,0,92
+Greenville,PARIS MOUNTAIN,Clerk of Court,,REP,Mary Brice Garrett,172,0,3,0,39,0,130
+Greenville,PEBBLE CREEK,Clerk of Court,,REP,Mary Brice Garrett,238,0,1,0,49,0,188
+Greenville,PELHAM FALLS,Clerk of Court,,REP,Mary Brice Garrett,78,0,0,0,7,0,71
+Greenville,PIEDMONT,Clerk of Court,,REP,Mary Brice Garrett,166,0,9,0,17,0,140
+Greenville,PINEVIEW,Clerk of Court,,REP,Mary Brice Garrett,82,0,0,0,5,0,77
+Greenville,POINSETT,Clerk of Court,,REP,Mary Brice Garrett,254,0,7,0,74,0,173
+Greenville,RAINTREE,Clerk of Court,,REP,Mary Brice Garrett,160,0,8,0,45,0,107
+Greenville,REEDY FORK,Clerk of Court,,REP,Mary Brice Garrett,146,0,3,0,29,0,114
+Greenville,RIVERWALK,Clerk of Court,,REP,Mary Brice Garrett,258,0,4,0,54,0,200
+Greenville,ROCK HILL,Clerk of Court,,REP,Mary Brice Garrett,171,0,9,0,30,0,132
+Greenville,ROCKY CREEK,Clerk of Court,,REP,Mary Brice Garrett,115,0,3,0,46,0,66
+Greenville,ROLLING GREEN,Clerk of Court,,REP,Mary Brice Garrett,199,0,5,0,42,0,152
+Greenville,ROYAL OAKS,Clerk of Court,,REP,Mary Brice Garrett,12,0,0,0,3,0,9
+Greenville,SALUDA,Clerk of Court,,REP,Mary Brice Garrett,119,0,1,0,14,0,104
+Greenville,SANDY FLAT,Clerk of Court,,REP,Mary Brice Garrett,375,0,7,0,129,0,239
+Greenville,SEVIER,Clerk of Court,,REP,Mary Brice Garrett,254,0,7,0,42,0,205
+Greenville,SILVERLEAF,Clerk of Court,,REP,Mary Brice Garrett,232,0,3,0,36,0,193
+Greenville,SIMPSONVILLE 1,Clerk of Court,,REP,Mary Brice Garrett,156,0,7,0,37,0,112
+Greenville,SIMPSONVILLE 2,Clerk of Court,,REP,Mary Brice Garrett,83,0,3,0,11,0,69
+Greenville,SIMPSONVILLE 3,Clerk of Court,,REP,Mary Brice Garrett,224,0,8,0,55,0,161
+Greenville,SIMPSONVILLE 4,Clerk of Court,,REP,Mary Brice Garrett,85,0,5,0,40,0,40
+Greenville,SIMPSONVILLE 5,Clerk of Court,,REP,Mary Brice Garrett,82,0,3,0,13,0,66
+Greenville,SIMPSONVILLE 6,Clerk of Court,,REP,Mary Brice Garrett,162,0,6,0,39,0,117
+Greenville,SKYLAND,Clerk of Court,,REP,Mary Brice Garrett,255,0,2,0,41,0,212
+Greenville,SLATER MARIETTA,Clerk of Court,,REP,Mary Brice Garrett,285,0,1,0,58,0,226
+Greenville,SOUTHSIDE,Clerk of Court,,REP,Mary Brice Garrett,129,0,8,0,53,0,68
+Greenville,SPRING FOREST,Clerk of Court,,REP,Mary Brice Garrett,132,0,2,0,21,0,109
+Greenville,STONE VALLEY,Clerk of Court,,REP,Mary Brice Garrett,160,0,4,0,42,0,114
+Greenville,STONEHAVEN,Clerk of Court,,REP,Mary Brice Garrett,123,0,2,0,28,0,93
+Greenville,SUBER MILL,Clerk of Court,,REP,Mary Brice Garrett,264,0,4,0,61,0,199
+Greenville,SUGAR CREEK,Clerk of Court,,REP,Mary Brice Garrett,276,0,4,0,27,0,245
+Greenville,SULPHUR SPRINGS,Clerk of Court,,REP,Mary Brice Garrett,212,0,5,0,45,0,162
+Greenville,SYCAMORE,Clerk of Court,,REP,Mary Brice Garrett,226,0,10,0,63,0,153
+Greenville,TANGLEWOOD,Clerk of Court,,REP,Mary Brice Garrett,99,0,2,0,11,0,86
+Greenville,TAYLORS,Clerk of Court,,REP,Mary Brice Garrett,148,0,6,0,21,0,121
+Greenville,THORNBLADE,Clerk of Court,,REP,Mary Brice Garrett,243,0,5,0,63,0,175
+Greenville,TIGERVILLE,Clerk of Court,,REP,Mary Brice Garrett,255,0,8,0,63,0,184
+Greenville,TIMBERLAKE,Clerk of Court,,REP,Mary Brice Garrett,257,0,3,0,57,0,197
+Greenville,TRADE,Clerk of Court,,REP,Mary Brice Garrett,121,0,1,0,36,0,84
+Greenville,TUBBS MOUNTAIN,Clerk of Court,,REP,Mary Brice Garrett,221,0,1,0,84,0,136
+Greenville,WADE HAMPTON,Clerk of Court,,REP,Mary Brice Garrett,172,0,1,0,29,0,142
+Greenville,WALNUT SPRINGS,Clerk of Court,,REP,Mary Brice Garrett,310,0,7,0,70,0,233
+Greenville,WELCOME,Clerk of Court,,REP,Mary Brice Garrett,47,0,2,0,6,0,39
+Greenville,WELLINGTON,Clerk of Court,,REP,Mary Brice Garrett,165,0,3,0,41,0,121
+Greenville,WESTCLIFFE,Clerk of Court,,REP,Mary Brice Garrett,99,0,2,0,18,0,79
+Greenville,WESTSIDE,Clerk of Court,,REP,Mary Brice Garrett,114,0,5,0,11,0,98
+Greenville,WOODMONT,Clerk of Court,,REP,Mary Brice Garrett,108,0,7,0,24,0,77
+Greenville,WOODRUFF LAKES,Clerk of Court,,REP,Mary Brice Garrett,173,0,8,0,41,0,124
+Greenville,MT. PLEASANT,Clerk of Court,,REP,Mary Brice Garrett,27,0,2,0,7,0,18
+Greenville,BAKER CREEK,Clerk of Court,,REP,Mary Brice Garrett,120,0,2,0,14,0,104
+Greenville,BRIDGE FORK,Clerk of Court,,REP,Mary Brice Garrett,143,0,2,0,39,0,102
+Greenville,CASTLE ROCK,Clerk of Court,,REP,Mary Brice Garrett,253,0,5,0,45,0,203
+Greenville,FOX CHASE,Clerk of Court,,REP,Mary Brice Garrett,288,0,6,0,66,0,216
+Greenville,FROHAWK,Clerk of Court,,REP,Mary Brice Garrett,184,0,3,0,42,0,139
+Greenville,GRANITE CREEK,Clerk of Court,,REP,Mary Brice Garrett,210,0,2,0,47,0,161
+Greenville,GRAZE BRANCH,Clerk of Court,,REP,Mary Brice Garrett,124,0,5,0,23,0,96
+Greenville,GREENBRIAR,Clerk of Court,,REP,Mary Brice Garrett,86,0,3,0,22,0,61
+Greenville,HILLCREST,Clerk of Court,,REP,Mary Brice Garrett,156,0,3,0,32,0,121
+Greenville,HOLLY TREE,Clerk of Court,,REP,Mary Brice Garrett,128,0,2,0,27,0,99
+Greenville,KILGORE FARMS,Clerk of Court,,REP,Mary Brice Garrett,144,0,2,0,14,0,128
+Greenville,LOCUST HILL,Clerk of Court,,REP,Mary Brice Garrett,175,0,8,0,39,0,128
+Greenville,LONG CREEK,Clerk of Court,,REP,Mary Brice Garrett,145,0,4,0,37,0,104
+Greenville,MOORE CREEK,Clerk of Court,,REP,Mary Brice Garrett,248,0,5,0,87,0,156
+Greenville,ONEAL,Clerk of Court,,REP,Mary Brice Garrett,379,0,4,0,64,0,311
+Greenville,RANCH CREEK,Clerk of Court,,REP,Mary Brice Garrett,110,0,2,0,39,0,69
+Greenville,RIVERSIDE,Clerk of Court,,REP,Mary Brice Garrett,147,0,1,0,23,0,123
+Greenville,SPARROWS POINT,Clerk of Court,,REP,Mary Brice Garrett,131,0,5,0,36,0,90
+Greenville,STANDING SPRINGS,Clerk of Court,,REP,Mary Brice Garrett,123,0,3,0,48,0,72
+Greenville,TRAVELERS REST 1,Clerk of Court,,REP,Mary Brice Garrett,256,0,7,0,93,0,156
+Greenville,TRAVELERS REST 2,Clerk of Court,,REP,Mary Brice Garrett,160,0,2,0,48,0,110
+Greenville,TYGER RIVER,Clerk of Court,,REP,Mary Brice Garrett,88,0,3,0,27,0,58
+Greenville,VERDMONT,Clerk of Court,,REP,Mary Brice Garrett,154,0,5,0,36,0,113
+Greenville,WARE PLACE,Clerk of Court,,REP,Mary Brice Garrett,206,0,6,0,34,0,166
+Greenville,Failsafe,Clerk of Court,,REP,Mary Brice Garrett,4,4,0,0,0,0,0
+Greenville,Provisional,Clerk of Court,,REP,Mary Brice Garrett,13,0,0,0,0,13,0
+Greenville,Failsafe Provisional,Clerk of Court,,REP,Mary Brice Garrett,6,0,0,6,0,0,0
+Greenville,GREENVILLE 1,Clerk of Court,,REP,Jay Gresham,205,0,2,0,41,0,162
+Greenville,GREENVILLE 3,Clerk of Court,,REP,Jay Gresham,198,0,2,0,51,0,145
+Greenville,GREENVILLE 4,Clerk of Court,,REP,Jay Gresham,78,0,0,0,12,0,66
+Greenville,GREENVILLE 5,Clerk of Court,,REP,Jay Gresham,141,0,3,0,33,0,105
+Greenville,GREENVILLE 6,Clerk of Court,,REP,Jay Gresham,6,0,0,0,2,0,4
+Greenville,GREENVILLE 7,Clerk of Court,,REP,Jay Gresham,22,0,0,0,2,0,20
+Greenville,GREENVILLE 8,Clerk of Court,,REP,Jay Gresham,83,0,1,0,19,0,63
+Greenville,GREENVILLE 10,Clerk of Court,,REP,Jay Gresham,93,0,1,0,25,0,67
+Greenville,GREENVILLE 14,Clerk of Court,,REP,Jay Gresham,15,0,1,0,2,0,12
+Greenville,GREENVILLE 16,Clerk of Court,,REP,Jay Gresham,170,0,8,0,39,0,123
+Greenville,GREENVILLE 17,Clerk of Court,,REP,Jay Gresham,204,0,3,0,69,0,132
+Greenville,GREENVILLE 18,Clerk of Court,,REP,Jay Gresham,127,0,1,0,35,0,91
+Greenville,GREENVILLE 19,Clerk of Court,,REP,Jay Gresham,37,0,0,0,11,0,26
+Greenville,GREENVILLE 20,Clerk of Court,,REP,Jay Gresham,89,0,2,0,25,0,62
+Greenville,GREENVILLE 21,Clerk of Court,,REP,Jay Gresham,76,0,2,0,17,0,57
+Greenville,GREENVILLE 22,Clerk of Court,,REP,Jay Gresham,191,0,1,0,40,0,150
+Greenville,GREENVILLE 23,Clerk of Court,,REP,Jay Gresham,201,0,1,0,61,0,139
+Greenville,GREENVILLE 24,Clerk of Court,,REP,Jay Gresham,200,0,17,0,67,0,116
+Greenville,GREENVILLE 25,Clerk of Court,,REP,Jay Gresham,73,0,1,0,12,0,60
+Greenville,GREENVILLE 26,Clerk of Court,,REP,Jay Gresham,65,0,0,0,5,0,60
+Greenville,GREENVILLE 27,Clerk of Court,,REP,Jay Gresham,192,0,5,0,24,0,163
+Greenville,GREENVILLE 28,Clerk of Court,,REP,Jay Gresham,62,0,1,0,11,0,50
+Greenville,GREENVILLE 29,Clerk of Court,,REP,Jay Gresham,28,0,1,0,10,0,17
+Greenville,AIKEN,Clerk of Court,,REP,Jay Gresham,21,0,0,0,0,0,21
+Greenville,ALTAMONT FOREST,Clerk of Court,,REP,Jay Gresham,165,0,3,0,37,0,125
+Greenville,ASHETON LAKES,Clerk of Court,,REP,Jay Gresham,263,0,3,0,42,0,218
+Greenville,AVON,Clerk of Court,,REP,Jay Gresham,202,0,5,0,14,0,183
+Greenville,BELLE MEADE,Clerk of Court,,REP,Jay Gresham,3,0,0,0,0,0,3
+Greenville,BELLS CROSSING,Clerk of Court,,REP,Jay Gresham,197,0,6,0,46,0,145
+Greenville,BELMONT,Clerk of Court,,REP,Jay Gresham,23,0,1,0,1,0,21
+Greenville,BEREA,Clerk of Court,,REP,Jay Gresham,66,0,3,0,19,0,44
+Greenville,BOILING SPRINGS,Clerk of Court,,REP,Jay Gresham,224,0,7,0,35,0,182
+Greenville,BOTANY WOODS,Clerk of Court,,REP,Jay Gresham,206,0,2,0,51,0,153
+Greenville,BROOKGLENN,Clerk of Court,,REP,Jay Gresham,111,0,1,0,12,0,98
+Greenville,CANEBRAKE,Clerk of Court,,REP,Jay Gresham,323,0,0,0,63,0,260
+Greenville,CAROLINA,Clerk of Court,,REP,Jay Gresham,12,0,2,0,1,0,9
+Greenville,CHESTNUT HILLS,Clerk of Court,,REP,Jay Gresham,66,0,2,0,9,0,55
+Greenville,CIRCLE CREEK,Clerk of Court,,REP,Jay Gresham,224,0,9,0,37,0,178
+Greenville,CLEAR CREEK,Clerk of Court,,REP,Jay Gresham,255,0,1,0,42,0,212
+Greenville,CONESTEE,Clerk of Court,,REP,Jay Gresham,96,0,1,0,18,0,77
+Greenville,DARBY RIDGE,Clerk of Court,,REP,Jay Gresham,341,0,1,0,99,0,241
+Greenville,DEL NORTE,Clerk of Court,,REP,Jay Gresham,202,0,3,0,36,0,163
+Greenville,DEVENGER,Clerk of Court,,REP,Jay Gresham,226,0,7,0,39,0,180
+Greenville,DONALDSON,Clerk of Court,,REP,Jay Gresham,31,0,0,0,10,0,21
+Greenville,DOVE TREE,Clerk of Court,,REP,Jay Gresham,170,0,3,0,30,0,137
+Greenville,DUNKLIN,Clerk of Court,,REP,Jay Gresham,206,0,8,0,16,0,182
+Greenville,EASTSIDE,Clerk of Court,,REP,Jay Gresham,237,0,3,0,52,0,182
+Greenville,EBENEZER,Clerk of Court,,REP,Jay Gresham,249,0,2,0,75,0,172
+Greenville,EDWARDS FOREST,Clerk of Court,,REP,Jay Gresham,246,0,2,0,44,0,200
+Greenville,ENOREE,Clerk of Court,,REP,Jay Gresham,252,0,11,0,57,0,184
+Greenville,FEASTER,Clerk of Court,,REP,Jay Gresham,88,0,3,0,21,0,64
+Greenville,FORK SHOALS,Clerk of Court,,REP,Jay Gresham,154,0,0,0,15,0,139
+Greenville,FOUNTAIN INN 1,Clerk of Court,,REP,Jay Gresham,183,0,4,0,16,0,163
+Greenville,FOUNTAIN INN 2,Clerk of Court,,REP,Jay Gresham,90,0,0,0,6,0,84
+Greenville,FURMAN,Clerk of Court,,REP,Jay Gresham,229,0,9,0,73,0,147
+Greenville,GOWENSVILLE,Clerk of Court,,REP,Jay Gresham,217,0,2,0,13,0,202
+Greenville,GROVE,Clerk of Court,,REP,Jay Gresham,75,0,1,0,30,0,44
+Greenville,JENNINGS MILL,Clerk of Court,,REP,Jay Gresham,170,0,1,0,30,0,139
+Greenville,LAKEVIEW,Clerk of Court,,REP,Jay Gresham,104,0,1,0,10,0,93
+Greenville,LAUREL RIDGE,Clerk of Court,,REP,Jay Gresham,268,0,6,0,51,0,211
+Greenville,LEAWOOD,Clerk of Court,,REP,Jay Gresham,194,0,6,0,38,0,150
+Greenville,MAPLE CREEK,Clerk of Court,,REP,Jay Gresham,165,0,4,0,30,0,131
+Greenville,MARIDELL,Clerk of Court,,REP,Jay Gresham,190,0,6,0,27,0,157
+Greenville,MAULDIN 1,Clerk of Court,,REP,Jay Gresham,94,0,2,0,18,0,74
+Greenville,MAULDIN 2,Clerk of Court,,REP,Jay Gresham,234,0,4,0,66,0,164
+Greenville,MAULDIN 3,Clerk of Court,,REP,Jay Gresham,77,0,0,0,29,0,48
+Greenville,MAULDIN 4,Clerk of Court,,REP,Jay Gresham,168,0,2,0,48,0,118
+Greenville,MAULDIN 5,Clerk of Court,,REP,Jay Gresham,103,0,3,0,44,0,56
+Greenville,MAULDIN 6,Clerk of Court,,REP,Jay Gresham,118,0,2,0,43,0,73
+Greenville,MAULDIN 7,Clerk of Court,,REP,Jay Gresham,82,0,0,0,17,0,65
+Greenville,MISSION,Clerk of Court,,REP,Jay Gresham,238,0,8,0,56,0,174
+Greenville,MONAVIEW,Clerk of Court,,REP,Jay Gresham,58,0,0,0,4,0,54
+Greenville,MOUNTAIN CREEK,Clerk of Court,,REP,Jay Gresham,332,0,4,0,75,0,253
+Greenville,MOUNTAIN VIEW,Clerk of Court,,REP,Jay Gresham,252,0,3,0,64,0,185
+Greenville,NEELY FARMS,Clerk of Court,,REP,Jay Gresham,209,0,0,0,43,0,166
+Greenville,NORTHWOOD,Clerk of Court,,REP,Jay Gresham,202,0,3,0,23,0,176
+Greenville,OAKVIEW,Clerk of Court,,REP,Jay Gresham,281,0,4,0,59,0,218
+Greenville,PALMETTO,Clerk of Court,,REP,Jay Gresham,163,0,3,0,32,0,128
+Greenville,PARIS MOUNTAIN,Clerk of Court,,REP,Jay Gresham,165,0,1,0,33,0,131
+Greenville,PEBBLE CREEK,Clerk of Court,,REP,Jay Gresham,266,0,6,0,60,0,200
+Greenville,PELHAM FALLS,Clerk of Court,,REP,Jay Gresham,138,0,0,0,19,0,119
+Greenville,PIEDMONT,Clerk of Court,,REP,Jay Gresham,130,0,6,0,14,0,110
+Greenville,PINEVIEW,Clerk of Court,,REP,Jay Gresham,82,0,1,0,9,0,72
+Greenville,POINSETT,Clerk of Court,,REP,Jay Gresham,228,0,7,0,54,0,167
+Greenville,RAINTREE,Clerk of Court,,REP,Jay Gresham,180,0,4,0,30,0,146
+Greenville,REEDY FORK,Clerk of Court,,REP,Jay Gresham,114,0,1,0,21,0,92
+Greenville,RIVERWALK,Clerk of Court,,REP,Jay Gresham,250,0,5,0,68,0,177
+Greenville,ROCK HILL,Clerk of Court,,REP,Jay Gresham,174,0,5,0,31,0,138
+Greenville,ROCKY CREEK,Clerk of Court,,REP,Jay Gresham,113,0,7,0,30,0,76
+Greenville,ROLLING GREEN,Clerk of Court,,REP,Jay Gresham,235,0,9,0,36,0,190
+Greenville,ROYAL OAKS,Clerk of Court,,REP,Jay Gresham,17,0,2,0,1,0,14
+Greenville,SALUDA,Clerk of Court,,REP,Jay Gresham,91,0,1,0,18,0,72
+Greenville,SANDY FLAT,Clerk of Court,,REP,Jay Gresham,421,0,5,0,103,0,313
+Greenville,SEVIER,Clerk of Court,,REP,Jay Gresham,303,0,6,0,54,0,243
+Greenville,SILVERLEAF,Clerk of Court,,REP,Jay Gresham,235,0,0,0,32,0,203
+Greenville,SIMPSONVILLE 1,Clerk of Court,,REP,Jay Gresham,170,0,5,0,36,0,129
+Greenville,SIMPSONVILLE 2,Clerk of Court,,REP,Jay Gresham,134,0,1,0,26,0,107
+Greenville,SIMPSONVILLE 3,Clerk of Court,,REP,Jay Gresham,197,0,13,0,47,0,137
+Greenville,SIMPSONVILLE 4,Clerk of Court,,REP,Jay Gresham,79,0,1,0,32,0,46
+Greenville,SIMPSONVILLE 5,Clerk of Court,,REP,Jay Gresham,81,0,2,0,11,0,68
+Greenville,SIMPSONVILLE 6,Clerk of Court,,REP,Jay Gresham,144,0,2,0,41,0,101
+Greenville,SKYLAND,Clerk of Court,,REP,Jay Gresham,278,0,2,0,39,0,237
+Greenville,SLATER MARIETTA,Clerk of Court,,REP,Jay Gresham,235,0,3,0,31,0,201
+Greenville,SOUTHSIDE,Clerk of Court,,REP,Jay Gresham,117,0,1,0,42,0,74
+Greenville,SPRING FOREST,Clerk of Court,,REP,Jay Gresham,168,0,3,0,32,0,133
+Greenville,STONE VALLEY,Clerk of Court,,REP,Jay Gresham,204,0,4,0,44,0,156
+Greenville,STONEHAVEN,Clerk of Court,,REP,Jay Gresham,157,0,4,0,38,0,115
+Greenville,SUBER MILL,Clerk of Court,,REP,Jay Gresham,288,0,5,0,52,0,231
+Greenville,SUGAR CREEK,Clerk of Court,,REP,Jay Gresham,283,0,3,0,51,0,229
+Greenville,SULPHUR SPRINGS,Clerk of Court,,REP,Jay Gresham,165,0,2,0,37,0,126
+Greenville,SYCAMORE,Clerk of Court,,REP,Jay Gresham,253,0,8,0,63,0,182
+Greenville,TANGLEWOOD,Clerk of Court,,REP,Jay Gresham,87,0,0,0,8,0,79
+Greenville,TAYLORS,Clerk of Court,,REP,Jay Gresham,147,0,2,0,23,0,122
+Greenville,THORNBLADE,Clerk of Court,,REP,Jay Gresham,269,0,7,0,47,0,215
+Greenville,TIGERVILLE,Clerk of Court,,REP,Jay Gresham,379,0,11,0,68,0,300
+Greenville,TIMBERLAKE,Clerk of Court,,REP,Jay Gresham,318,0,6,0,71,0,241
+Greenville,TRADE,Clerk of Court,,REP,Jay Gresham,165,0,5,0,52,0,108
+Greenville,TUBBS MOUNTAIN,Clerk of Court,,REP,Jay Gresham,295,0,9,0,66,0,220
+Greenville,WADE HAMPTON,Clerk of Court,,REP,Jay Gresham,222,0,6,0,30,0,186
+Greenville,WALNUT SPRINGS,Clerk of Court,,REP,Jay Gresham,349,0,1,0,69,0,279
+Greenville,WELCOME,Clerk of Court,,REP,Jay Gresham,69,0,4,0,13,0,52
+Greenville,WELLINGTON,Clerk of Court,,REP,Jay Gresham,167,0,0,0,27,0,140
+Greenville,WESTCLIFFE,Clerk of Court,,REP,Jay Gresham,106,0,3,0,14,0,89
+Greenville,WESTSIDE,Clerk of Court,,REP,Jay Gresham,93,0,5,0,9,0,79
+Greenville,WOODMONT,Clerk of Court,,REP,Jay Gresham,127,0,4,0,24,0,99
+Greenville,WOODRUFF LAKES,Clerk of Court,,REP,Jay Gresham,219,0,11,0,44,0,164
+Greenville,MT. PLEASANT,Clerk of Court,,REP,Jay Gresham,27,0,0,0,4,0,23
+Greenville,BAKER CREEK,Clerk of Court,,REP,Jay Gresham,101,0,2,0,10,0,89
+Greenville,BRIDGE FORK,Clerk of Court,,REP,Jay Gresham,152,0,1,0,42,0,109
+Greenville,CASTLE ROCK,Clerk of Court,,REP,Jay Gresham,295,0,3,0,44,0,248
+Greenville,FOX CHASE,Clerk of Court,,REP,Jay Gresham,278,0,1,0,56,0,221
+Greenville,FROHAWK,Clerk of Court,,REP,Jay Gresham,232,0,1,0,63,0,168
+Greenville,GRANITE CREEK,Clerk of Court,,REP,Jay Gresham,210,0,2,0,48,0,160
+Greenville,GRAZE BRANCH,Clerk of Court,,REP,Jay Gresham,172,0,4,0,31,0,137
+Greenville,GREENBRIAR,Clerk of Court,,REP,Jay Gresham,117,0,1,0,26,0,90
+Greenville,HILLCREST,Clerk of Court,,REP,Jay Gresham,153,0,2,0,39,0,112
+Greenville,HOLLY TREE,Clerk of Court,,REP,Jay Gresham,118,0,1,0,19,0,98
+Greenville,KILGORE FARMS,Clerk of Court,,REP,Jay Gresham,172,0,2,0,31,0,139
+Greenville,LOCUST HILL,Clerk of Court,,REP,Jay Gresham,205,0,1,0,31,0,173
+Greenville,LONG CREEK,Clerk of Court,,REP,Jay Gresham,136,0,2,0,30,0,104
+Greenville,MOORE CREEK,Clerk of Court,,REP,Jay Gresham,238,0,5,0,62,0,171
+Greenville,ONEAL,Clerk of Court,,REP,Jay Gresham,367,0,5,0,50,0,312
+Greenville,RANCH CREEK,Clerk of Court,,REP,Jay Gresham,134,0,4,0,34,0,96
+Greenville,RIVERSIDE,Clerk of Court,,REP,Jay Gresham,161,0,1,0,14,0,146
+Greenville,SPARROWS POINT,Clerk of Court,,REP,Jay Gresham,147,0,5,0,37,0,105
+Greenville,STANDING SPRINGS,Clerk of Court,,REP,Jay Gresham,112,0,6,0,24,0,82
+Greenville,TRAVELERS REST 1,Clerk of Court,,REP,Jay Gresham,219,0,7,0,56,0,156
+Greenville,TRAVELERS REST 2,Clerk of Court,,REP,Jay Gresham,140,0,3,0,40,0,97
+Greenville,TYGER RIVER,Clerk of Court,,REP,Jay Gresham,71,0,0,0,13,0,58
+Greenville,VERDMONT,Clerk of Court,,REP,Jay Gresham,142,0,4,0,32,0,106
+Greenville,WARE PLACE,Clerk of Court,,REP,Jay Gresham,152,0,1,0,28,0,123
+Greenville,Failsafe,Clerk of Court,,REP,Jay Gresham,5,5,0,0,0,0,0
+Greenville,Provisional,Clerk of Court,,REP,Jay Gresham,12,0,0,0,0,12,0
+Greenville,Failsafe Provisional,Clerk of Court,,REP,Jay Gresham,14,0,0,14,0,0,0
+Greenville,GREENVILLE 1,Coroner,,REP,Dale Arterburn,141,0,3,0,21,0,117
+Greenville,GREENVILLE 3,Coroner,,REP,Dale Arterburn,110,0,0,0,24,0,86
+Greenville,GREENVILLE 4,Coroner,,REP,Dale Arterburn,44,0,0,0,12,0,32
+Greenville,GREENVILLE 5,Coroner,,REP,Dale Arterburn,84,0,1,0,17,0,66
+Greenville,GREENVILLE 6,Coroner,,REP,Dale Arterburn,7,0,0,0,2,0,5
+Greenville,GREENVILLE 7,Coroner,,REP,Dale Arterburn,19,0,1,0,5,0,13
+Greenville,GREENVILLE 8,Coroner,,REP,Dale Arterburn,40,0,4,0,4,0,32
+Greenville,GREENVILLE 10,Coroner,,REP,Dale Arterburn,55,0,0,0,13,0,42
+Greenville,GREENVILLE 14,Coroner,,REP,Dale Arterburn,11,0,1,0,2,0,8
+Greenville,GREENVILLE 16,Coroner,,REP,Dale Arterburn,63,0,7,0,8,0,48
+Greenville,GREENVILLE 17,Coroner,,REP,Dale Arterburn,68,0,1,0,25,0,42
+Greenville,GREENVILLE 18,Coroner,,REP,Dale Arterburn,58,0,2,0,8,0,48
+Greenville,GREENVILLE 19,Coroner,,REP,Dale Arterburn,17,0,1,0,5,0,11
+Greenville,GREENVILLE 20,Coroner,,REP,Dale Arterburn,37,0,3,0,12,0,22
+Greenville,GREENVILLE 21,Coroner,,REP,Dale Arterburn,38,0,0,0,14,0,24
+Greenville,GREENVILLE 22,Coroner,,REP,Dale Arterburn,72,0,0,0,10,0,62
+Greenville,GREENVILLE 23,Coroner,,REP,Dale Arterburn,86,0,1,0,32,0,53
+Greenville,GREENVILLE 24,Coroner,,REP,Dale Arterburn,112,0,8,0,45,0,59
+Greenville,GREENVILLE 25,Coroner,,REP,Dale Arterburn,39,0,1,0,7,0,31
+Greenville,GREENVILLE 26,Coroner,,REP,Dale Arterburn,49,0,1,0,4,0,44
+Greenville,GREENVILLE 27,Coroner,,REP,Dale Arterburn,147,0,2,0,29,0,116
+Greenville,GREENVILLE 28,Coroner,,REP,Dale Arterburn,55,0,2,0,8,0,45
+Greenville,GREENVILLE 29,Coroner,,REP,Dale Arterburn,19,0,0,0,4,0,15
+Greenville,AIKEN,Coroner,,REP,Dale Arterburn,9,0,0,0,0,0,9
+Greenville,ALTAMONT FOREST,Coroner,,REP,Dale Arterburn,102,0,3,0,24,0,75
+Greenville,ASHETON LAKES,Coroner,,REP,Dale Arterburn,140,0,4,0,17,0,119
+Greenville,AVON,Coroner,,REP,Dale Arterburn,159,0,4,0,15,0,140
+Greenville,BELLE MEADE,Coroner,,REP,Dale Arterburn,6,0,0,0,0,0,6
+Greenville,BELLS CROSSING,Coroner,,REP,Dale Arterburn,127,0,0,0,31,0,96
+Greenville,BELMONT,Coroner,,REP,Dale Arterburn,7,0,0,0,1,0,6
+Greenville,BEREA,Coroner,,REP,Dale Arterburn,33,0,1,0,6,0,26
+Greenville,BOILING SPRINGS,Coroner,,REP,Dale Arterburn,143,0,7,0,19,0,117
+Greenville,BOTANY WOODS,Coroner,,REP,Dale Arterburn,151,0,1,0,50,0,100
+Greenville,BROOKGLENN,Coroner,,REP,Dale Arterburn,63,0,0,0,7,0,56
+Greenville,CANEBRAKE,Coroner,,REP,Dale Arterburn,273,0,1,0,64,0,208
+Greenville,CAROLINA,Coroner,,REP,Dale Arterburn,6,0,0,0,0,0,6
+Greenville,CHESTNUT HILLS,Coroner,,REP,Dale Arterburn,24,0,0,0,2,0,22
+Greenville,CIRCLE CREEK,Coroner,,REP,Dale Arterburn,151,0,3,0,30,0,118
+Greenville,CLEAR CREEK,Coroner,,REP,Dale Arterburn,177,0,0,0,33,0,144
+Greenville,CONESTEE,Coroner,,REP,Dale Arterburn,54,0,1,0,10,0,43
+Greenville,DARBY RIDGE,Coroner,,REP,Dale Arterburn,217,0,1,0,57,0,159
+Greenville,DEL NORTE,Coroner,,REP,Dale Arterburn,138,0,2,0,22,0,114
+Greenville,DEVENGER,Coroner,,REP,Dale Arterburn,156,0,4,0,23,0,129
+Greenville,DONALDSON,Coroner,,REP,Dale Arterburn,20,0,0,0,9,0,11
+Greenville,DOVE TREE,Coroner,,REP,Dale Arterburn,92,0,1,0,11,0,80
+Greenville,DUNKLIN,Coroner,,REP,Dale Arterburn,96,0,3,0,7,0,86
+Greenville,EASTSIDE,Coroner,,REP,Dale Arterburn,167,0,6,0,30,0,131
+Greenville,EBENEZER,Coroner,,REP,Dale Arterburn,117,0,2,0,26,0,89
+Greenville,EDWARDS FOREST,Coroner,,REP,Dale Arterburn,171,0,2,0,29,0,140
+Greenville,ENOREE,Coroner,,REP,Dale Arterburn,153,0,10,0,27,0,116
+Greenville,FEASTER,Coroner,,REP,Dale Arterburn,43,0,3,0,6,0,34
+Greenville,FORK SHOALS,Coroner,,REP,Dale Arterburn,92,0,2,0,11,0,79
+Greenville,FOUNTAIN INN 1,Coroner,,REP,Dale Arterburn,110,0,4,0,16,0,90
+Greenville,FOUNTAIN INN 2,Coroner,,REP,Dale Arterburn,41,0,0,0,3,0,38
+Greenville,FURMAN,Coroner,,REP,Dale Arterburn,120,0,5,0,35,0,80
+Greenville,GOWENSVILLE,Coroner,,REP,Dale Arterburn,150,0,0,0,7,0,143
+Greenville,GROVE,Coroner,,REP,Dale Arterburn,55,0,2,0,22,0,31
+Greenville,JENNINGS MILL,Coroner,,REP,Dale Arterburn,96,0,3,0,21,0,72
+Greenville,LAKEVIEW,Coroner,,REP,Dale Arterburn,66,0,0,0,6,0,60
+Greenville,LAUREL RIDGE,Coroner,,REP,Dale Arterburn,213,0,5,0,41,0,167
+Greenville,LEAWOOD,Coroner,,REP,Dale Arterburn,114,0,0,0,20,0,94
+Greenville,MAPLE CREEK,Coroner,,REP,Dale Arterburn,161,0,2,0,27,0,132
+Greenville,MARIDELL,Coroner,,REP,Dale Arterburn,89,0,0,0,13,0,76
+Greenville,MAULDIN 1,Coroner,,REP,Dale Arterburn,67,0,1,0,13,0,53
+Greenville,MAULDIN 2,Coroner,,REP,Dale Arterburn,132,0,5,0,30,0,97
+Greenville,MAULDIN 3,Coroner,,REP,Dale Arterburn,35,0,0,0,14,0,21
+Greenville,MAULDIN 4,Coroner,,REP,Dale Arterburn,85,0,1,0,30,0,54
+Greenville,MAULDIN 5,Coroner,,REP,Dale Arterburn,89,0,3,0,34,0,52
+Greenville,MAULDIN 6,Coroner,,REP,Dale Arterburn,61,0,3,0,25,0,33
+Greenville,MAULDIN 7,Coroner,,REP,Dale Arterburn,52,0,1,0,8,0,43
+Greenville,MISSION,Coroner,,REP,Dale Arterburn,146,0,3,0,44,0,99
+Greenville,MONAVIEW,Coroner,,REP,Dale Arterburn,23,0,1,0,1,0,21
+Greenville,MOUNTAIN CREEK,Coroner,,REP,Dale Arterburn,195,0,6,0,32,0,157
+Greenville,MOUNTAIN VIEW,Coroner,,REP,Dale Arterburn,174,0,3,0,40,0,131
+Greenville,NEELY FARMS,Coroner,,REP,Dale Arterburn,104,0,0,0,22,0,82
+Greenville,NORTHWOOD,Coroner,,REP,Dale Arterburn,161,0,0,0,25,0,136
+Greenville,OAKVIEW,Coroner,,REP,Dale Arterburn,144,0,3,0,23,0,118
+Greenville,PALMETTO,Coroner,,REP,Dale Arterburn,97,0,5,0,22,0,70
+Greenville,PARIS MOUNTAIN,Coroner,,REP,Dale Arterburn,112,0,0,0,17,0,95
+Greenville,PEBBLE CREEK,Coroner,,REP,Dale Arterburn,189,0,4,0,45,0,140
+Greenville,PELHAM FALLS,Coroner,,REP,Dale Arterburn,90,0,0,0,12,0,78
+Greenville,PIEDMONT,Coroner,,REP,Dale Arterburn,73,0,5,0,11,0,57
+Greenville,PINEVIEW,Coroner,,REP,Dale Arterburn,38,0,1,0,5,0,32
+Greenville,POINSETT,Coroner,,REP,Dale Arterburn,146,0,3,0,34,0,109
+Greenville,RAINTREE,Coroner,,REP,Dale Arterburn,100,0,2,0,21,0,77
+Greenville,REEDY FORK,Coroner,,REP,Dale Arterburn,67,0,0,0,14,0,53
+Greenville,RIVERWALK,Coroner,,REP,Dale Arterburn,132,0,4,0,33,0,95
+Greenville,ROCK HILL,Coroner,,REP,Dale Arterburn,98,0,3,0,21,0,74
+Greenville,ROCKY CREEK,Coroner,,REP,Dale Arterburn,78,0,7,0,15,0,56
+Greenville,ROLLING GREEN,Coroner,,REP,Dale Arterburn,145,0,5,0,28,0,112
+Greenville,ROYAL OAKS,Coroner,,REP,Dale Arterburn,8,0,0,0,2,0,6
+Greenville,SALUDA,Coroner,,REP,Dale Arterburn,45,0,0,0,2,0,43
+Greenville,SANDY FLAT,Coroner,,REP,Dale Arterburn,307,0,6,0,74,0,227
+Greenville,SEVIER,Coroner,,REP,Dale Arterburn,204,0,4,0,33,0,167
+Greenville,SILVERLEAF,Coroner,,REP,Dale Arterburn,195,0,0,0,33,0,162
+Greenville,SIMPSONVILLE 1,Coroner,,REP,Dale Arterburn,75,0,0,0,11,0,64
+Greenville,SIMPSONVILLE 2,Coroner,,REP,Dale Arterburn,45,0,0,0,5,0,40
+Greenville,SIMPSONVILLE 3,Coroner,,REP,Dale Arterburn,103,0,9,0,17,0,77
+Greenville,SIMPSONVILLE 4,Coroner,,REP,Dale Arterburn,48,0,2,0,20,0,26
+Greenville,SIMPSONVILLE 5,Coroner,,REP,Dale Arterburn,49,0,1,0,8,0,40
+Greenville,SIMPSONVILLE 6,Coroner,,REP,Dale Arterburn,83,0,2,0,18,0,63
+Greenville,SKYLAND,Coroner,,REP,Dale Arterburn,238,0,3,0,36,0,199
+Greenville,SLATER MARIETTA,Coroner,,REP,Dale Arterburn,98,0,2,0,18,0,78
+Greenville,SOUTHSIDE,Coroner,,REP,Dale Arterburn,46,0,2,0,18,0,26
+Greenville,SPRING FOREST,Coroner,,REP,Dale Arterburn,98,0,3,0,18,0,77
+Greenville,STONE VALLEY,Coroner,,REP,Dale Arterburn,162,0,4,0,30,0,128
+Greenville,STONEHAVEN,Coroner,,REP,Dale Arterburn,74,0,3,0,21,0,50
+Greenville,SUBER MILL,Coroner,,REP,Dale Arterburn,263,0,2,0,58,0,203
+Greenville,SUGAR CREEK,Coroner,,REP,Dale Arterburn,236,0,4,0,36,0,196
+Greenville,SULPHUR SPRINGS,Coroner,,REP,Dale Arterburn,81,0,2,0,16,0,63
+Greenville,SYCAMORE,Coroner,,REP,Dale Arterburn,125,0,3,0,24,0,98
+Greenville,TANGLEWOOD,Coroner,,REP,Dale Arterburn,40,0,0,0,2,0,38
+Greenville,TAYLORS,Coroner,,REP,Dale Arterburn,120,0,5,0,18,0,97
+Greenville,THORNBLADE,Coroner,,REP,Dale Arterburn,173,0,6,0,33,0,134
+Greenville,TIGERVILLE,Coroner,,REP,Dale Arterburn,174,0,3,0,37,0,134
+Greenville,TIMBERLAKE,Coroner,,REP,Dale Arterburn,199,0,2,0,45,0,152
+Greenville,TRADE,Coroner,,REP,Dale Arterburn,187,0,5,0,58,0,124
+Greenville,TUBBS MOUNTAIN,Coroner,,REP,Dale Arterburn,145,0,4,0,37,0,104
+Greenville,WADE HAMPTON,Coroner,,REP,Dale Arterburn,180,0,6,0,24,0,150
+Greenville,WALNUT SPRINGS,Coroner,,REP,Dale Arterburn,167,0,2,0,30,0,135
+Greenville,WELCOME,Coroner,,REP,Dale Arterburn,21,0,0,0,5,0,16
+Greenville,WELLINGTON,Coroner,,REP,Dale Arterburn,88,0,0,0,16,0,72
+Greenville,WESTCLIFFE,Coroner,,REP,Dale Arterburn,47,0,1,0,11,0,35
+Greenville,WESTSIDE,Coroner,,REP,Dale Arterburn,42,0,4,0,4,0,34
+Greenville,WOODMONT,Coroner,,REP,Dale Arterburn,69,0,2,0,17,0,50
+Greenville,WOODRUFF LAKES,Coroner,,REP,Dale Arterburn,129,0,7,0,24,0,98
+Greenville,MT. PLEASANT,Coroner,,REP,Dale Arterburn,15,0,1,0,2,0,12
+Greenville,BAKER CREEK,Coroner,,REP,Dale Arterburn,64,0,0,0,10,0,54
+Greenville,BRIDGE FORK,Coroner,,REP,Dale Arterburn,67,0,0,0,17,0,50
+Greenville,CASTLE ROCK,Coroner,,REP,Dale Arterburn,280,0,3,0,52,0,225
+Greenville,FOX CHASE,Coroner,,REP,Dale Arterburn,302,0,3,0,69,0,230
+Greenville,FROHAWK,Coroner,,REP,Dale Arterburn,270,0,2,0,65,0,203
+Greenville,GRANITE CREEK,Coroner,,REP,Dale Arterburn,159,0,2,0,33,0,124
+Greenville,GRAZE BRANCH,Coroner,,REP,Dale Arterburn,73,0,5,0,16,0,52
+Greenville,GREENBRIAR,Coroner,,REP,Dale Arterburn,63,0,2,0,16,0,45
+Greenville,HILLCREST,Coroner,,REP,Dale Arterburn,75,0,2,0,19,0,54
+Greenville,HOLLY TREE,Coroner,,REP,Dale Arterburn,73,0,2,0,16,0,55
+Greenville,KILGORE FARMS,Coroner,,REP,Dale Arterburn,92,0,1,0,10,0,81
+Greenville,LOCUST HILL,Coroner,,REP,Dale Arterburn,183,0,4,0,29,0,150
+Greenville,LONG CREEK,Coroner,,REP,Dale Arterburn,70,0,3,0,12,0,55
+Greenville,MOORE CREEK,Coroner,,REP,Dale Arterburn,129,0,3,0,46,0,80
+Greenville,ONEAL,Coroner,,REP,Dale Arterburn,346,0,4,0,62,0,280
+Greenville,RANCH CREEK,Coroner,,REP,Dale Arterburn,69,0,3,0,22,0,44
+Greenville,RIVERSIDE,Coroner,,REP,Dale Arterburn,127,0,1,0,13,0,113
+Greenville,SPARROWS POINT,Coroner,,REP,Dale Arterburn,91,0,4,0,22,0,65
+Greenville,STANDING SPRINGS,Coroner,,REP,Dale Arterburn,76,0,3,0,22,0,51
+Greenville,TRAVELERS REST 1,Coroner,,REP,Dale Arterburn,114,0,3,0,33,0,78
+Greenville,TRAVELERS REST 2,Coroner,,REP,Dale Arterburn,88,0,2,0,26,0,60
+Greenville,TYGER RIVER,Coroner,,REP,Dale Arterburn,81,0,1,0,21,0,59
+Greenville,VERDMONT,Coroner,,REP,Dale Arterburn,71,0,2,0,20,0,49
+Greenville,WARE PLACE,Coroner,,REP,Dale Arterburn,90,0,3,0,17,0,70
+Greenville,Failsafe,Coroner,,REP,Dale Arterburn,4,4,0,0,0,0,0
+Greenville,Provisional,Coroner,,REP,Dale Arterburn,7,0,0,0,0,7,0
+Greenville,Failsafe Provisional,Coroner,,REP,Dale Arterburn,7,0,0,7,0,0,0
+Greenville,GREENVILLE 1,Coroner,,REP,Mike Ellis,267,0,4,0,45,0,218
+Greenville,GREENVILLE 3,Coroner,,REP,Mike Ellis,333,0,4,0,73,0,256
+Greenville,GREENVILLE 4,Coroner,,REP,Mike Ellis,139,0,2,0,24,0,113
+Greenville,GREENVILLE 5,Coroner,,REP,Mike Ellis,197,0,4,0,37,0,156
+Greenville,GREENVILLE 6,Coroner,,REP,Mike Ellis,7,0,0,0,1,0,6
+Greenville,GREENVILLE 7,Coroner,,REP,Mike Ellis,37,0,0,0,9,0,28
+Greenville,GREENVILLE 8,Coroner,,REP,Mike Ellis,123,0,3,0,35,0,85
+Greenville,GREENVILLE 10,Coroner,,REP,Mike Ellis,177,0,2,0,52,0,123
+Greenville,GREENVILLE 14,Coroner,,REP,Mike Ellis,14,0,0,0,3,0,11
+Greenville,GREENVILLE 16,Coroner,,REP,Mike Ellis,236,0,2,0,53,0,181
+Greenville,GREENVILLE 17,Coroner,,REP,Mike Ellis,255,0,1,0,82,0,172
+Greenville,GREENVILLE 18,Coroner,,REP,Mike Ellis,200,0,1,0,58,0,141
+Greenville,GREENVILLE 19,Coroner,,REP,Mike Ellis,42,0,1,0,13,0,28
+Greenville,GREENVILLE 20,Coroner,,REP,Mike Ellis,156,0,2,0,39,0,115
+Greenville,GREENVILLE 21,Coroner,,REP,Mike Ellis,128,0,2,0,33,0,93
+Greenville,GREENVILLE 22,Coroner,,REP,Mike Ellis,307,0,2,0,70,0,235
+Greenville,GREENVILLE 23,Coroner,,REP,Mike Ellis,352,0,0,0,115,0,237
+Greenville,GREENVILLE 24,Coroner,,REP,Mike Ellis,303,0,21,0,92,0,190
+Greenville,GREENVILLE 25,Coroner,,REP,Mike Ellis,106,0,1,0,19,0,86
+Greenville,GREENVILLE 26,Coroner,,REP,Mike Ellis,61,0,1,0,9,0,51
+Greenville,GREENVILLE 27,Coroner,,REP,Mike Ellis,137,0,2,0,17,0,118
+Greenville,GREENVILLE 28,Coroner,,REP,Mike Ellis,63,0,0,0,16,0,47
+Greenville,GREENVILLE 29,Coroner,,REP,Mike Ellis,31,0,2,0,10,0,19
+Greenville,AIKEN,Coroner,,REP,Mike Ellis,35,0,0,0,1,0,34
+Greenville,ALTAMONT FOREST,Coroner,,REP,Mike Ellis,230,0,3,0,68,0,159
+Greenville,ASHETON LAKES,Coroner,,REP,Mike Ellis,349,0,6,0,68,0,275
+Greenville,AVON,Coroner,,REP,Mike Ellis,214,0,6,0,27,0,181
+Greenville,BELLE MEADE,Coroner,,REP,Mike Ellis,10,0,0,0,2,0,8
+Greenville,BELLS CROSSING,Coroner,,REP,Mike Ellis,272,0,9,0,58,0,205
+Greenville,BELMONT,Coroner,,REP,Mike Ellis,40,0,2,0,4,0,34
+Greenville,BEREA,Coroner,,REP,Mike Ellis,111,0,2,0,29,0,80
+Greenville,BOILING SPRINGS,Coroner,,REP,Mike Ellis,287,0,7,0,57,0,223
+Greenville,BOTANY WOODS,Coroner,,REP,Mike Ellis,186,0,0,0,33,0,153
+Greenville,BROOKGLENN,Coroner,,REP,Mike Ellis,130,0,3,0,17,0,110
+Greenville,CANEBRAKE,Coroner,,REP,Mike Ellis,330,0,6,0,57,0,267
+Greenville,CAROLINA,Coroner,,REP,Mike Ellis,22,0,3,0,3,0,16
+Greenville,CHESTNUT HILLS,Coroner,,REP,Mike Ellis,114,0,4,0,17,0,93
+Greenville,CIRCLE CREEK,Coroner,,REP,Mike Ellis,288,0,12,0,58,0,218
+Greenville,CLEAR CREEK,Coroner,,REP,Mike Ellis,254,0,2,0,45,0,207
+Greenville,CONESTEE,Coroner,,REP,Mike Ellis,153,0,0,0,41,0,112
+Greenville,DARBY RIDGE,Coroner,,REP,Mike Ellis,392,0,3,0,122,0,267
+Greenville,DEL NORTE,Coroner,,REP,Mike Ellis,210,0,2,0,51,0,157
+Greenville,DEVENGER,Coroner,,REP,Mike Ellis,285,0,9,0,53,0,223
+Greenville,DONALDSON,Coroner,,REP,Mike Ellis,52,0,0,0,13,0,39
+Greenville,DOVE TREE,Coroner,,REP,Mike Ellis,242,0,3,0,33,0,206
+Greenville,DUNKLIN,Coroner,,REP,Mike Ellis,319,0,10,0,30,0,279
+Greenville,EASTSIDE,Coroner,,REP,Mike Ellis,284,0,11,0,56,0,217
+Greenville,EBENEZER,Coroner,,REP,Mike Ellis,365,0,7,0,115,0,243
+Greenville,EDWARDS FOREST,Coroner,,REP,Mike Ellis,275,0,6,0,66,0,203
+Greenville,ENOREE,Coroner,,REP,Mike Ellis,357,0,9,0,100,0,248
+Greenville,FEASTER,Coroner,,REP,Mike Ellis,116,0,2,0,26,0,88
+Greenville,FORK SHOALS,Coroner,,REP,Mike Ellis,265,0,3,0,28,0,234
+Greenville,FOUNTAIN INN 1,Coroner,,REP,Mike Ellis,261,0,4,0,36,0,221
+Greenville,FOUNTAIN INN 2,Coroner,,REP,Mike Ellis,118,0,0,0,7,0,111
+Greenville,FURMAN,Coroner,,REP,Mike Ellis,407,0,15,0,144,0,248
+Greenville,GOWENSVILLE,Coroner,,REP,Mike Ellis,263,0,3,0,14,0,246
+Greenville,GROVE,Coroner,,REP,Mike Ellis,96,0,2,0,41,0,53
+Greenville,JENNINGS MILL,Coroner,,REP,Mike Ellis,270,0,1,0,62,0,207
+Greenville,LAKEVIEW,Coroner,,REP,Mike Ellis,158,0,3,0,21,0,134
+Greenville,LAUREL RIDGE,Coroner,,REP,Mike Ellis,316,0,9,0,70,0,237
+Greenville,LEAWOOD,Coroner,,REP,Mike Ellis,253,0,12,0,55,0,186
+Greenville,MAPLE CREEK,Coroner,,REP,Mike Ellis,166,0,3,0,30,0,133
+Greenville,MARIDELL,Coroner,,REP,Mike Ellis,245,0,6,0,47,0,192
+Greenville,MAULDIN 1,Coroner,,REP,Mike Ellis,133,0,2,0,30,0,101
+Greenville,MAULDIN 2,Coroner,,REP,Mike Ellis,310,0,9,0,84,0,217
+Greenville,MAULDIN 3,Coroner,,REP,Mike Ellis,135,0,2,0,42,0,91
+Greenville,MAULDIN 4,Coroner,,REP,Mike Ellis,276,0,6,0,85,0,185
+Greenville,MAULDIN 5,Coroner,,REP,Mike Ellis,134,0,3,0,60,0,71
+Greenville,MAULDIN 6,Coroner,,REP,Mike Ellis,198,0,2,0,66,0,130
+Greenville,MAULDIN 7,Coroner,,REP,Mike Ellis,123,0,3,0,34,0,86
+Greenville,MISSION,Coroner,,REP,Mike Ellis,371,0,9,0,78,0,284
+Greenville,MONAVIEW,Coroner,,REP,Mike Ellis,95,0,1,0,14,0,80
+Greenville,MOUNTAIN CREEK,Coroner,,REP,Mike Ellis,426,0,11,0,111,0,304
+Greenville,MOUNTAIN VIEW,Coroner,,REP,Mike Ellis,252,0,4,0,74,0,174
+Greenville,NEELY FARMS,Coroner,,REP,Mike Ellis,302,0,4,0,55,0,243
+Greenville,NORTHWOOD,Coroner,,REP,Mike Ellis,259,0,11,0,38,0,210
+Greenville,OAKVIEW,Coroner,,REP,Mike Ellis,354,0,7,0,79,0,268
+Greenville,PALMETTO,Coroner,,REP,Mike Ellis,175,0,3,0,23,0,149
+Greenville,PARIS MOUNTAIN,Coroner,,REP,Mike Ellis,230,0,4,0,56,0,170
+Greenville,PEBBLE CREEK,Coroner,,REP,Mike Ellis,319,0,3,0,69,0,247
+Greenville,PELHAM FALLS,Coroner,,REP,Mike Ellis,123,0,0,0,13,0,110
+Greenville,PIEDMONT,Coroner,,REP,Mike Ellis,228,0,10,0,19,0,199
+Greenville,PINEVIEW,Coroner,,REP,Mike Ellis,121,0,0,0,9,0,112
+Greenville,POINSETT,Coroner,,REP,Mike Ellis,346,0,11,0,95,0,240
+Greenville,RAINTREE,Coroner,,REP,Mike Ellis,230,0,9,0,50,0,171
+Greenville,REEDY FORK,Coroner,,REP,Mike Ellis,199,0,4,0,38,0,157
+Greenville,RIVERWALK,Coroner,,REP,Mike Ellis,371,0,5,0,93,0,273
+Greenville,ROCK HILL,Coroner,,REP,Mike Ellis,242,0,10,0,39,0,193
+Greenville,ROCKY CREEK,Coroner,,REP,Mike Ellis,146,0,1,0,57,0,88
+Greenville,ROLLING GREEN,Coroner,,REP,Mike Ellis,292,0,9,0,51,0,232
+Greenville,ROYAL OAKS,Coroner,,REP,Mike Ellis,21,0,2,0,2,0,17
+Greenville,SALUDA,Coroner,,REP,Mike Ellis,171,0,1,0,31,0,139
+Greenville,SANDY FLAT,Coroner,,REP,Mike Ellis,504,0,5,0,161,0,338
+Greenville,SEVIER,Coroner,,REP,Mike Ellis,352,0,9,0,64,0,279
+Greenville,SILVERLEAF,Coroner,,REP,Mike Ellis,274,0,3,0,38,0,233
+Greenville,SIMPSONVILLE 1,Coroner,,REP,Mike Ellis,247,0,11,0,63,0,173
+Greenville,SIMPSONVILLE 2,Coroner,,REP,Mike Ellis,170,0,4,0,32,0,134
+Greenville,SIMPSONVILLE 3,Coroner,,REP,Mike Ellis,318,0,11,0,86,0,221
+Greenville,SIMPSONVILLE 4,Coroner,,REP,Mike Ellis,116,0,4,0,53,0,59
+Greenville,SIMPSONVILLE 5,Coroner,,REP,Mike Ellis,116,0,4,0,16,0,96
+Greenville,SIMPSONVILLE 6,Coroner,,REP,Mike Ellis,219,0,6,0,61,0,152
+Greenville,SKYLAND,Coroner,,REP,Mike Ellis,293,0,1,0,44,0,248
+Greenville,SLATER MARIETTA,Coroner,,REP,Mike Ellis,429,0,2,0,70,0,357
+Greenville,SOUTHSIDE,Coroner,,REP,Mike Ellis,200,0,6,0,80,0,114
+Greenville,SPRING FOREST,Coroner,,REP,Mike Ellis,189,0,2,0,31,0,156
+Greenville,STONE VALLEY,Coroner,,REP,Mike Ellis,203,0,6,0,56,0,141
+Greenville,STONEHAVEN,Coroner,,REP,Mike Ellis,207,0,3,0,44,0,160
+Greenville,SUBER MILL,Coroner,,REP,Mike Ellis,299,0,5,0,57,0,237
+Greenville,SUGAR CREEK,Coroner,,REP,Mike Ellis,329,0,4,0,44,0,281
+Greenville,SULPHUR SPRINGS,Coroner,,REP,Mike Ellis,297,0,5,0,68,0,224
+Greenville,SYCAMORE,Coroner,,REP,Mike Ellis,343,0,15,0,98,0,230
+Greenville,TANGLEWOOD,Coroner,,REP,Mike Ellis,144,0,2,0,17,0,125
+Greenville,TAYLORS,Coroner,,REP,Mike Ellis,174,0,3,0,27,0,144
+Greenville,THORNBLADE,Coroner,,REP,Mike Ellis,346,0,6,0,76,0,264
+Greenville,TIGERVILLE,Coroner,,REP,Mike Ellis,453,0,10,0,88,0,355
+Greenville,TIMBERLAKE,Coroner,,REP,Mike Ellis,365,0,7,0,76,0,282
+Greenville,TRADE,Coroner,,REP,Mike Ellis,105,0,0,0,34,0,71
+Greenville,TUBBS MOUNTAIN,Coroner,,REP,Mike Ellis,367,0,6,0,113,0,248
+Greenville,WADE HAMPTON,Coroner,,REP,Mike Ellis,208,0,1,0,35,0,172
+Greenville,WALNUT SPRINGS,Coroner,,REP,Mike Ellis,493,0,6,0,108,0,379
+Greenville,WELCOME,Coroner,,REP,Mike Ellis,95,0,6,0,14,0,75
+Greenville,WELLINGTON,Coroner,,REP,Mike Ellis,238,0,3,0,53,0,182
+Greenville,WESTCLIFFE,Coroner,,REP,Mike Ellis,156,0,4,0,21,0,131
+Greenville,WESTSIDE,Coroner,,REP,Mike Ellis,159,0,4,0,16,0,139
+Greenville,WOODMONT,Coroner,,REP,Mike Ellis,167,0,9,0,34,0,124
+Greenville,WOODRUFF LAKES,Coroner,,REP,Mike Ellis,264,0,12,0,60,0,192
+Greenville,MT. PLEASANT,Coroner,,REP,Mike Ellis,39,0,1,0,9,0,29
+Greenville,BAKER CREEK,Coroner,,REP,Mike Ellis,163,0,4,0,14,0,145
+Greenville,BRIDGE FORK,Coroner,,REP,Mike Ellis,225,0,3,0,63,0,159
+Greenville,CASTLE ROCK,Coroner,,REP,Mike Ellis,282,0,5,0,41,0,236
+Greenville,FOX CHASE,Coroner,,REP,Mike Ellis,274,0,3,0,54,0,217
+Greenville,FROHAWK,Coroner,,REP,Mike Ellis,146,0,3,0,36,0,107
+Greenville,GRANITE CREEK,Coroner,,REP,Mike Ellis,261,0,2,0,61,0,198
+Greenville,GRAZE BRANCH,Coroner,,REP,Mike Ellis,216,0,4,0,36,0,176
+Greenville,GREENBRIAR,Coroner,,REP,Mike Ellis,142,0,2,0,33,0,107
+Greenville,HILLCREST,Coroner,,REP,Mike Ellis,236,0,3,0,52,0,181
+Greenville,HOLLY TREE,Coroner,,REP,Mike Ellis,174,0,1,0,29,0,144
+Greenville,KILGORE FARMS,Coroner,,REP,Mike Ellis,219,0,3,0,36,0,180
+Greenville,LOCUST HILL,Coroner,,REP,Mike Ellis,198,0,5,0,44,0,149
+Greenville,LONG CREEK,Coroner,,REP,Mike Ellis,212,0,5,0,55,0,152
+Greenville,MOORE CREEK,Coroner,,REP,Mike Ellis,357,0,6,0,102,0,249
+Greenville,ONEAL,Coroner,,REP,Mike Ellis,412,0,7,0,57,0,348
+Greenville,RANCH CREEK,Coroner,,REP,Mike Ellis,180,0,3,0,48,0,129
+Greenville,RIVERSIDE,Coroner,,REP,Mike Ellis,178,0,1,0,25,0,152
+Greenville,SPARROWS POINT,Coroner,,REP,Mike Ellis,179,0,6,0,49,0,124
+Greenville,STANDING SPRINGS,Coroner,,REP,Mike Ellis,165,0,7,0,50,0,108
+Greenville,TRAVELERS REST 1,Coroner,,REP,Mike Ellis,361,0,11,0,113,0,237
+Greenville,TRAVELERS REST 2,Coroner,,REP,Mike Ellis,220,0,3,0,66,0,151
+Greenville,TYGER RIVER,Coroner,,REP,Mike Ellis,81,0,1,0,23,0,57
+Greenville,VERDMONT,Coroner,,REP,Mike Ellis,223,0,7,0,53,0,163
+Greenville,WARE PLACE,Coroner,,REP,Mike Ellis,271,0,3,0,45,0,223
+Greenville,Failsafe,Coroner,,REP,Mike Ellis,4,4,0,0,0,0,0
+Greenville,Provisional,Coroner,,REP,Mike Ellis,20,0,0,0,0,20,0
+Greenville,Failsafe Provisional,Coroner,,REP,Mike Ellis,11,0,0,11,0,0,0
+Greenville,LAUREL RIDGE,County Council District 18,,REP,Mike Barnes,220,0,5,0,54,0,161
+Greenville,MAPLE CREEK,County Council District 18,,REP,Mike Barnes,157,0,5,0,29,0,123
+Greenville,SILVERLEAF,County Council District 18,,REP,Mike Barnes,41,0,0,0,4,0,37
+Greenville,STONE VALLEY,County Council District 18,,REP,Mike Barnes,89,0,5,0,19,0,65
+Greenville,SUBER MILL,County Council District 18,,REP,Mike Barnes,236,0,7,0,65,0,164
+Greenville,TAYLORS,County Council District 18,,REP,Mike Barnes,141,0,2,0,23,0,116
+Greenville,TRADE,County Council District 18,,REP,Mike Barnes,120,0,6,0,40,0,74
+Greenville,CASTLE ROCK,County Council District 18,,REP,Mike Barnes,230,0,7,0,47,0,176
+Greenville,FOX CHASE,County Council District 18,,REP,Mike Barnes,204,0,5,0,42,0,157
+Greenville,FROHAWK,County Council District 18,,REP,Mike Barnes,157,0,2,0,49,0,106
+Greenville,GRANITE CREEK,County Council District 18,,REP,Mike Barnes,117,0,2,0,20,0,95
+Greenville,LOCUST HILL,County Council District 18,,REP,Mike Barnes,198,0,5,0,37,0,156
+Greenville,ONEAL,County Council District 18,,REP,Mike Barnes,127,0,0,0,21,0,106
+Greenville,RIVERSIDE,County Council District 18,,REP,Mike Barnes,73,0,0,0,7,0,66
+Greenville,TYGER RIVER,County Council District 18,,REP,Mike Barnes,87,0,2,0,23,0,62
+Greenville,Failsafe,County Council District 18,,REP,Mike Barnes,0,0,0,0,0,0,0
+Greenville,Provisional,County Council District 18,,REP,Mike Barnes,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,County Council District 18,,REP,Mike Barnes,0,0,0,0,0,0,0
+Greenville,LAUREL RIDGE,County Council District 18,,REP,Kelly Cason Long,344,0,12,0,60,0,272
+Greenville,MAPLE CREEK,County Council District 18,,REP,Kelly Cason Long,175,0,0,0,31,0,144
+Greenville,SILVERLEAF,County Council District 18,,REP,Kelly Cason Long,64,0,0,0,7,0,57
+Greenville,STONE VALLEY,County Council District 18,,REP,Kelly Cason Long,129,0,2,0,29,0,98
+Greenville,SUBER MILL,County Council District 18,,REP,Kelly Cason Long,333,0,2,0,53,0,278
+Greenville,TAYLORS,County Council District 18,,REP,Kelly Cason Long,159,0,6,0,21,0,132
+Greenville,TRADE,County Council District 18,,REP,Kelly Cason Long,187,0,0,0,56,0,131
+Greenville,CASTLE ROCK,County Council District 18,,REP,Kelly Cason Long,358,0,2,0,51,0,305
+Greenville,FOX CHASE,County Council District 18,,REP,Kelly Cason Long,409,0,7,0,88,0,314
+Greenville,FROHAWK,County Council District 18,,REP,Kelly Cason Long,287,0,3,0,60,0,224
+Greenville,GRANITE CREEK,County Council District 18,,REP,Kelly Cason Long,151,0,2,0,40,0,109
+Greenville,LOCUST HILL,County Council District 18,,REP,Kelly Cason Long,217,0,5,0,41,0,171
+Greenville,ONEAL,County Council District 18,,REP,Kelly Cason Long,180,0,2,0,27,0,151
+Greenville,RIVERSIDE,County Council District 18,,REP,Kelly Cason Long,136,0,0,0,17,0,119
+Greenville,TYGER RIVER,County Council District 18,,REP,Kelly Cason Long,88,0,0,0,24,0,64
+Greenville,Failsafe,County Council District 18,,REP,Kelly Cason Long,1,1,0,0,0,0,0
+Greenville,Provisional,County Council District 18,,REP,Kelly Cason Long,3,0,0,0,0,3,0
+Greenville,Failsafe Provisional,County Council District 18,,REP,Kelly Cason Long,0,0,0,0,0,0,0
+Greenville,ALTAMONT FOREST,County Council District 20,,REP,Ken Matesevac,65,0,3,0,21,0,41
+Greenville,AVON,County Council District 20,,REP,Ken Matesevac,80,0,2,0,12,0,66
+Greenville,BOTANY WOODS,County Council District 20,,REP,Ken Matesevac,3,0,0,0,0,0,3
+Greenville,BROOKGLENN,County Council District 20,,REP,Ken Matesevac,49,0,2,0,8,0,39
+Greenville,CLEAR CREEK,County Council District 20,,REP,Ken Matesevac,115,0,1,0,22,0,92
+Greenville,DARBY RIDGE,County Council District 20,,REP,Ken Matesevac,142,0,2,0,40,0,100
+Greenville,EASTSIDE,County Council District 20,,REP,Ken Matesevac,73,0,2,0,19,0,52
+Greenville,EDWARDS FOREST,County Council District 20,,REP,Ken Matesevac,152,0,2,0,33,0,117
+Greenville,LEAWOOD,County Council District 20,,REP,Ken Matesevac,36,0,0,0,4,0,32
+Greenville,MOUNTAIN CREEK,County Council District 20,,REP,Ken Matesevac,158,0,6,0,30,0,122
+Greenville,NORTHWOOD,County Council District 20,,REP,Ken Matesevac,96,0,1,0,15,0,80
+Greenville,PARIS MOUNTAIN,County Council District 20,,REP,Ken Matesevac,71,0,3,0,12,0,56
+Greenville,PEBBLE CREEK,County Council District 20,,REP,Ken Matesevac,121,0,0,0,28,0,93
+Greenville,SANDY FLAT,County Council District 20,,REP,Ken Matesevac,61,0,4,0,13,0,44
+Greenville,SEVIER,County Council District 20,,REP,Ken Matesevac,140,0,3,0,26,0,111
+Greenville,STONE VALLEY,County Council District 20,,REP,Ken Matesevac,40,0,0,0,10,0,30
+Greenville,TUBBS MOUNTAIN,County Council District 20,,REP,Ken Matesevac,11,0,0,0,1,0,10
+Greenville,WADE HAMPTON,County Council District 20,,REP,Ken Matesevac,133,0,2,0,16,0,115
+Greenville,ONEAL,County Council District 20,,REP,Ken Matesevac,32,0,0,0,5,0,27
+Greenville,Failsafe,County Council District 20,,REP,Ken Matesevac,0,0,0,0,0,0,0
+Greenville,Provisional,County Council District 20,,REP,Ken Matesevac,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,County Council District 20,,REP,Ken Matesevac,0,0,0,0,0,0,0
+Greenville,ALTAMONT FOREST,County Council District 20,,REP,Alex Reynolds,89,0,1,0,24,0,64
+Greenville,AVON,County Council District 20,,REP,Alex Reynolds,148,0,4,0,23,0,121
+Greenville,BOTANY WOODS,County Council District 20,,REP,Alex Reynolds,9,0,0,0,4,0,5
+Greenville,BROOKGLENN,County Council District 20,,REP,Alex Reynolds,69,0,0,0,9,0,60
+Greenville,CLEAR CREEK,County Council District 20,,REP,Alex Reynolds,155,0,0,0,37,0,118
+Greenville,DARBY RIDGE,County Council District 20,,REP,Alex Reynolds,197,0,1,0,48,0,148
+Greenville,EASTSIDE,County Council District 20,,REP,Alex Reynolds,233,0,13,0,46,0,174
+Greenville,EDWARDS FOREST,County Council District 20,,REP,Alex Reynolds,157,0,1,0,31,0,125
+Greenville,LEAWOOD,County Council District 20,,REP,Alex Reynolds,59,0,1,0,11,0,47
+Greenville,MOUNTAIN CREEK,County Council District 20,,REP,Alex Reynolds,243,0,6,0,56,0,181
+Greenville,NORTHWOOD,County Council District 20,,REP,Alex Reynolds,174,0,5,0,28,0,141
+Greenville,PARIS MOUNTAIN,County Council District 20,,REP,Alex Reynolds,99,0,0,0,20,0,79
+Greenville,PEBBLE CREEK,County Council District 20,,REP,Alex Reynolds,225,0,0,0,50,0,175
+Greenville,SANDY FLAT,County Council District 20,,REP,Alex Reynolds,92,0,0,0,35,0,57
+Greenville,SEVIER,County Council District 20,,REP,Alex Reynolds,185,0,7,0,32,0,146
+Greenville,STONE VALLEY,County Council District 20,,REP,Alex Reynolds,58,0,0,0,17,0,41
+Greenville,TUBBS MOUNTAIN,County Council District 20,,REP,Alex Reynolds,29,0,0,0,11,0,18
+Greenville,WADE HAMPTON,County Council District 20,,REP,Alex Reynolds,98,0,2,0,19,0,77
+Greenville,ONEAL,County Council District 20,,REP,Alex Reynolds,81,0,1,0,18,0,62
+Greenville,Failsafe,County Council District 20,,REP,Alex Reynolds,0,0,0,0,0,0,0
+Greenville,Provisional,County Council District 20,,REP,Alex Reynolds,2,0,0,0,0,2,0
+Greenville,Failsafe Provisional,County Council District 20,,REP,Alex Reynolds,0,0,0,0,0,0,0
+Greenville,ALTAMONT FOREST,County Council District 20,,REP,Steve Shaw,155,0,2,0,47,0,106
+Greenville,AVON,County Council District 20,,REP,Steve Shaw,155,0,5,0,15,0,135
+Greenville,BOTANY WOODS,County Council District 20,,REP,Steve Shaw,9,0,0,0,4,0,5
+Greenville,BROOKGLENN,County Council District 20,,REP,Steve Shaw,84,0,1,0,7,0,76
+Greenville,CLEAR CREEK,County Council District 20,,REP,Steve Shaw,173,0,1,0,21,0,151
+Greenville,DARBY RIDGE,County Council District 20,,REP,Steve Shaw,313,0,2,0,101,0,210
+Greenville,EASTSIDE,County Council District 20,,REP,Steve Shaw,173,0,4,0,31,0,138
+Greenville,EDWARDS FOREST,County Council District 20,,REP,Steve Shaw,166,0,6,0,32,0,128
+Greenville,LEAWOOD,County Council District 20,,REP,Steve Shaw,98,0,4,0,19,0,75
+Greenville,MOUNTAIN CREEK,County Council District 20,,REP,Steve Shaw,261,0,6,0,66,0,189
+Greenville,NORTHWOOD,County Council District 20,,REP,Steve Shaw,170,0,3,0,26,0,141
+Greenville,PARIS MOUNTAIN,County Council District 20,,REP,Steve Shaw,189,0,1,0,44,0,144
+Greenville,PEBBLE CREEK,County Council District 20,,REP,Steve Shaw,213,0,7,0,41,0,165
+Greenville,SANDY FLAT,County Council District 20,,REP,Steve Shaw,127,0,2,0,30,0,95
+Greenville,SEVIER,County Council District 20,,REP,Steve Shaw,262,0,3,0,45,0,214
+Greenville,STONE VALLEY,County Council District 20,,REP,Steve Shaw,60,0,4,0,13,0,43
+Greenville,TUBBS MOUNTAIN,County Council District 20,,REP,Steve Shaw,77,0,0,0,29,0,48
+Greenville,WADE HAMPTON,County Council District 20,,REP,Steve Shaw,178,0,4,0,24,0,150
+Greenville,ONEAL,County Council District 20,,REP,Steve Shaw,61,0,0,0,14,0,47
+Greenville,Failsafe,County Council District 20,,REP,Steve Shaw,0,0,0,0,0,0,0
+Greenville,Provisional,County Council District 20,,REP,Steve Shaw,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,County Council District 20,,REP,Steve Shaw,0,0,0,0,0,0,0
+Greenville,ASHETON LAKES,County Council District 21,,REP,Chris Harrison,197,0,5,0,42,0,150
+Greenville,CANEBRAKE,County Council District 21,,REP,Chris Harrison,290,0,4,0,57,0,229
+Greenville,CIRCLE CREEK,County Council District 21,,REP,Chris Harrison,146,0,5,0,34,0,107
+Greenville,FEASTER,County Council District 21,,REP,Chris Harrison,55,0,0,0,12,0,43
+Greenville,OAKVIEW,County Council District 21,,REP,Chris Harrison,227,0,5,0,51,0,171
+Greenville,PALMETTO,County Council District 21,,REP,Chris Harrison,36,0,2,0,5,0,29
+Greenville,PELHAM FALLS,County Council District 21,,REP,Chris Harrison,81,0,0,0,8,0,73
+Greenville,ROCKY CREEK,County Council District 21,,REP,Chris Harrison,98,0,3,0,38,0,57
+Greenville,ROLLING GREEN,County Council District 21,,REP,Chris Harrison,225,0,8,0,40,0,177
+Greenville,SILVERLEAF,County Council District 21,,REP,Chris Harrison,156,0,2,0,27,0,127
+Greenville,SUGAR CREEK,County Council District 21,,REP,Chris Harrison,320,0,3,0,37,0,280
+Greenville,THORNBLADE,County Council District 21,,REP,Chris Harrison,297,0,4,0,53,0,240
+Greenville,WALNUT SPRINGS,County Council District 21,,REP,Chris Harrison,19,0,1,0,3,0,15
+Greenville,GRANITE CREEK,County Council District 21,,REP,Chris Harrison,78,0,0,0,18,0,60
+Greenville,KILGORE FARMS,County Council District 21,,REP,Chris Harrison,50,0,0,0,4,0,46
+Greenville,RIVERSIDE,County Council District 21,,REP,Chris Harrison,50,0,1,0,8,0,41
+Greenville,SPARROWS POINT,County Council District 21,,REP,Chris Harrison,44,0,0,0,13,0,31
+Greenville,Failsafe,County Council District 21,,REP,Chris Harrison,1,1,0,0,0,0,0
+Greenville,Provisional,County Council District 21,,REP,Chris Harrison,2,0,0,0,0,2,0
+Greenville,Failsafe Provisional,County Council District 21,,REP,Chris Harrison,0,0,0,0,0,0,0
+Greenville,ASHETON LAKES,County Council District 21,,REP,Curt McGahhey,305,0,5,0,43,0,257
+Greenville,CANEBRAKE,County Council District 21,,REP,Curt McGahhey,338,0,3,0,66,0,269
+Greenville,CIRCLE CREEK,County Council District 21,,REP,Curt McGahhey,325,0,10,0,56,0,259
+Greenville,FEASTER,County Council District 21,,REP,Curt McGahhey,115,0,5,0,22,0,88
+Greenville,OAKVIEW,County Council District 21,,REP,Curt McGahhey,325,0,5,0,57,0,263
+Greenville,PALMETTO,County Council District 21,,REP,Curt McGahhey,27,0,1,0,8,0,18
+Greenville,PELHAM FALLS,County Council District 21,,REP,Curt McGahhey,148,0,0,0,18,0,130
+Greenville,ROCKY CREEK,County Council District 21,,REP,Curt McGahhey,145,0,6,0,43,0,96
+Greenville,ROLLING GREEN,County Council District 21,,REP,Curt McGahhey,242,0,7,0,43,0,192
+Greenville,SILVERLEAF,County Council District 21,,REP,Curt McGahhey,224,0,1,0,33,0,190
+Greenville,SUGAR CREEK,County Council District 21,,REP,Curt McGahhey,279,0,4,0,45,0,230
+Greenville,THORNBLADE,County Council District 21,,REP,Curt McGahhey,251,0,8,0,62,0,181
+Greenville,WALNUT SPRINGS,County Council District 21,,REP,Curt McGahhey,18,0,0,0,1,0,17
+Greenville,GRANITE CREEK,County Council District 21,,REP,Curt McGahhey,94,0,1,0,21,0,72
+Greenville,KILGORE FARMS,County Council District 21,,REP,Curt McGahhey,56,0,0,0,9,0,47
+Greenville,RIVERSIDE,County Council District 21,,REP,Curt McGahhey,45,0,1,0,4,0,40
+Greenville,SPARROWS POINT,County Council District 21,,REP,Curt McGahhey,65,0,3,0,18,0,44
+Greenville,Failsafe,County Council District 21,,REP,Curt McGahhey,1,1,0,0,0,0,0
+Greenville,Provisional,County Council District 21,,REP,Curt McGahhey,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,County Council District 21,,REP,Curt McGahhey,0,0,0,0,0,0,0
+Greenville,GREENVILLE 1,County Council District 22,,REP,Frank Farmer,206,0,6,0,33,0,167
+Greenville,GREENVILLE 3,County Council District 22,,REP,Frank Farmer,217,0,2,0,48,0,167
+Greenville,GREENVILLE 4,County Council District 22,,REP,Frank Farmer,45,0,1,0,8,0,36
+Greenville,GREENVILLE 5,County Council District 22,,REP,Frank Farmer,63,0,5,0,13,0,45
+Greenville,GREENVILLE 25,County Council District 22,,REP,Frank Farmer,26,0,0,0,6,0,20
+Greenville,GREENVILLE 26,County Council District 22,,REP,Frank Farmer,1,0,0,0,0,0,1
+Greenville,GREENVILLE 27,County Council District 22,,REP,Frank Farmer,194,0,3,0,29,0,162
+Greenville,GREENVILLE 28,County Council District 22,,REP,Frank Farmer,49,0,2,0,4,0,43
+Greenville,BOILING SPRINGS,County Council District 22,,REP,Frank Farmer,233,0,9,0,46,0,178
+Greenville,BOTANY WOODS,County Council District 22,,REP,Frank Farmer,195,0,1,0,52,0,142
+Greenville,DEL NORTE,County Council District 22,,REP,Frank Farmer,217,0,4,0,39,0,174
+Greenville,DEVENGER,County Council District 22,,REP,Frank Farmer,217,0,8,0,36,0,173
+Greenville,DOVE TREE,County Council District 22,,REP,Frank Farmer,183,0,2,0,24,0,157
+Greenville,MISSION,County Council District 22,,REP,Frank Farmer,242,0,9,0,50,0,183
+Greenville,PALMETTO,County Council District 22,,REP,Frank Farmer,145,0,4,0,23,0,118
+Greenville,ROCK HILL,County Council District 22,,REP,Frank Farmer,181,0,6,0,38,0,137
+Greenville,SPRING FOREST,County Council District 22,,REP,Frank Farmer,145,0,4,0,28,0,113
+Greenville,TIMBERLAKE,County Council District 22,,REP,Frank Farmer,331,0,2,0,80,0,249
+Greenville,WELLINGTON,County Council District 22,,REP,Frank Farmer,180,0,2,0,39,0,139
+Greenville,Failsafe,County Council District 22,,REP,Frank Farmer,0,0,0,0,0,0,0
+Greenville,Provisional,County Council District 22,,REP,Frank Farmer,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,County Council District 22,,REP,Frank Farmer,0,0,0,0,0,0,0
+Greenville,GREENVILLE 1,County Council District 22,,REP,Ethan L Jedziniak,48,0,0,0,8,0,40
+Greenville,GREENVILLE 3,County Council District 22,,REP,Ethan L Jedziniak,43,0,1,0,12,0,30
+Greenville,GREENVILLE 4,County Council District 22,,REP,Ethan L Jedziniak,18,0,0,0,2,0,16
+Greenville,GREENVILLE 5,County Council District 22,,REP,Ethan L Jedziniak,28,0,0,0,3,0,25
+Greenville,GREENVILLE 25,County Council District 22,,REP,Ethan L Jedziniak,1,0,0,0,0,0,1
+Greenville,GREENVILLE 26,County Council District 22,,REP,Ethan L Jedziniak,0,0,0,0,0,0,0
+Greenville,GREENVILLE 27,County Council District 22,,REP,Ethan L Jedziniak,27,0,1,0,7,0,19
+Greenville,GREENVILLE 28,County Council District 22,,REP,Ethan L Jedziniak,7,0,0,0,2,0,5
+Greenville,BOILING SPRINGS,County Council District 22,,REP,Ethan L Jedziniak,22,0,1,0,2,0,19
+Greenville,BOTANY WOODS,County Council District 22,,REP,Ethan L Jedziniak,17,0,0,0,0,0,17
+Greenville,DEL NORTE,County Council District 22,,REP,Ethan L Jedziniak,14,0,0,0,2,0,12
+Greenville,DEVENGER,County Council District 22,,REP,Ethan L Jedziniak,16,0,0,0,0,0,16
+Greenville,DOVE TREE,County Council District 22,,REP,Ethan L Jedziniak,19,0,1,0,3,0,15
+Greenville,MISSION,County Council District 22,,REP,Ethan L Jedziniak,40,0,0,0,7,0,33
+Greenville,PALMETTO,County Council District 22,,REP,Ethan L Jedziniak,12,0,0,0,0,0,12
+Greenville,ROCK HILL,County Council District 22,,REP,Ethan L Jedziniak,15,0,2,0,0,0,13
+Greenville,SPRING FOREST,County Council District 22,,REP,Ethan L Jedziniak,23,0,1,0,3,0,19
+Greenville,TIMBERLAKE,County Council District 22,,REP,Ethan L Jedziniak,23,0,3,0,1,0,19
+Greenville,WELLINGTON,County Council District 22,,REP,Ethan L Jedziniak,17,0,0,0,1,0,16
+Greenville,Failsafe,County Council District 22,,REP,Ethan L Jedziniak,0,0,0,0,0,0,0
+Greenville,Provisional,County Council District 22,,REP,Ethan L Jedziniak,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,County Council District 22,,REP,Ethan L Jedziniak,0,0,0,0,0,0,0
+Greenville,GREENVILLE 1,County Council District 22,,REP,Jay Rogers,109,0,1,0,25,0,83
+Greenville,GREENVILLE 3,County Council District 22,,REP,Jay Rogers,173,0,0,0,44,0,129
+Greenville,GREENVILLE 4,County Council District 22,,REP,Jay Rogers,65,0,0,0,17,0,48
+Greenville,GREENVILLE 5,County Council District 22,,REP,Jay Rogers,82,0,0,0,19,0,63
+Greenville,GREENVILLE 25,County Council District 22,,REP,Jay Rogers,8,0,0,0,1,0,7
+Greenville,GREENVILLE 26,County Council District 22,,REP,Jay Rogers,2,0,0,0,0,0,2
+Greenville,GREENVILLE 27,County Council District 22,,REP,Jay Rogers,56,0,1,0,10,0,45
+Greenville,GREENVILLE 28,County Council District 22,,REP,Jay Rogers,15,0,0,0,6,0,9
+Greenville,BOILING SPRINGS,County Council District 22,,REP,Jay Rogers,122,0,1,0,15,0,106
+Greenville,BOTANY WOODS,County Council District 22,,REP,Jay Rogers,87,0,1,0,19,0,67
+Greenville,DEL NORTE,County Council District 22,,REP,Jay Rogers,95,0,0,0,28,0,67
+Greenville,DEVENGER,County Council District 22,,REP,Jay Rogers,153,0,5,0,24,0,124
+Greenville,DOVE TREE,County Council District 22,,REP,Jay Rogers,103,0,1,0,17,0,85
+Greenville,MISSION,County Council District 22,,REP,Jay Rogers,209,0,2,0,53,0,154
+Greenville,PALMETTO,County Council District 22,,REP,Jay Rogers,42,0,0,0,9,0,33
+Greenville,ROCK HILL,County Council District 22,,REP,Jay Rogers,124,0,4,0,25,0,95
+Greenville,SPRING FOREST,County Council District 22,,REP,Jay Rogers,87,0,0,0,15,0,72
+Greenville,TIMBERLAKE,County Council District 22,,REP,Jay Rogers,123,0,2,0,21,0,100
+Greenville,WELLINGTON,County Council District 22,,REP,Jay Rogers,103,0,1,0,17,0,85
+Greenville,Failsafe,County Council District 22,,REP,Jay Rogers,0,0,0,0,0,0,0
+Greenville,Provisional,County Council District 22,,REP,Jay Rogers,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,County Council District 22,,REP,Jay Rogers,0,0,0,0,0,0,0
+Greenville,GREENVILLE 1,County Council District 22,,REP,Nia Thomas,84,0,0,0,11,0,73
+Greenville,GREENVILLE 3,County Council District 22,,REP,Nia Thomas,98,0,1,0,18,0,79
+Greenville,GREENVILLE 4,County Council District 22,,REP,Nia Thomas,39,0,0,0,8,0,31
+Greenville,GREENVILLE 5,County Council District 22,,REP,Nia Thomas,55,0,0,0,12,0,43
+Greenville,GREENVILLE 25,County Council District 22,,REP,Nia Thomas,3,0,0,0,0,0,3
+Greenville,GREENVILLE 26,County Council District 22,,REP,Nia Thomas,1,0,0,0,0,0,1
+Greenville,GREENVILLE 27,County Council District 22,,REP,Nia Thomas,26,0,0,0,2,0,24
+Greenville,GREENVILLE 28,County Council District 22,,REP,Nia Thomas,9,0,0,0,1,0,8
+Greenville,BOILING SPRINGS,County Council District 22,,REP,Nia Thomas,70,0,2,0,16,0,52
+Greenville,BOTANY WOODS,County Council District 22,,REP,Nia Thomas,31,0,1,0,7,0,23
+Greenville,DEL NORTE,County Council District 22,,REP,Nia Thomas,39,0,0,0,7,0,32
+Greenville,DEVENGER,County Council District 22,,REP,Nia Thomas,81,0,2,0,21,0,58
+Greenville,DOVE TREE,County Council District 22,,REP,Nia Thomas,58,0,0,0,7,0,51
+Greenville,MISSION,County Council District 22,,REP,Nia Thomas,65,0,1,0,19,0,45
+Greenville,PALMETTO,County Council District 22,,REP,Nia Thomas,25,0,1,0,2,0,22
+Greenville,ROCK HILL,County Council District 22,,REP,Nia Thomas,44,0,2,0,1,0,41
+Greenville,SPRING FOREST,County Council District 22,,REP,Nia Thomas,56,0,0,0,9,0,47
+Greenville,TIMBERLAKE,County Council District 22,,REP,Nia Thomas,116,0,1,0,26,0,89
+Greenville,WELLINGTON,County Council District 22,,REP,Nia Thomas,52,0,0,0,14,0,38
+Greenville,Failsafe,County Council District 22,,REP,Nia Thomas,1,1,0,0,0,0,0
+Greenville,Provisional,County Council District 22,,REP,Nia Thomas,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,County Council District 22,,REP,Nia Thomas,0,0,0,0,0,0,0
+Greenville,GREENVILLE 19,County Council District 25,,DEM,Ennis M Fant,105,0,7,0,59,0,39
+Greenville,GREENVILLE 20,County Council District 25,,DEM,Ennis M Fant,2,0,0,0,1,0,1
+Greenville,GREENVILLE 29,County Council District 25,,DEM,Ennis M Fant,54,0,5,0,7,0,42
+Greenville,BELLE MEADE,County Council District 25,,DEM,Ennis M Fant,100,0,1,0,47,0,52
+Greenville,BELMONT,County Council District 25,,DEM,Ennis M Fant,54,0,0,0,17,0,37
+Greenville,CAROLINA,County Council District 25,,DEM,Ennis M Fant,85,0,7,0,30,0,48
+Greenville,CHESTNUT HILLS,County Council District 25,,DEM,Ennis M Fant,13,0,0,0,4,0,9
+Greenville,CONESTEE,County Council District 25,,DEM,Ennis M Fant,2,0,2,0,0,0,0
+Greenville,DONALDSON,County Council District 25,,DEM,Ennis M Fant,43,0,0,0,5,0,38
+Greenville,GROVE,County Council District 25,,DEM,Ennis M Fant,31,0,0,0,8,0,23
+Greenville,MAULDIN 1,County Council District 25,,DEM,Ennis M Fant,5,0,0,0,1,0,4
+Greenville,PIEDMONT,County Council District 25,,DEM,Ennis M Fant,0,0,0,0,0,0,0
+Greenville,REEDY FORK,County Council District 25,,DEM,Ennis M Fant,65,0,2,0,23,0,40
+Greenville,ROYAL OAKS,County Council District 25,,DEM,Ennis M Fant,93,0,1,0,38,0,54
+Greenville,SOUTHSIDE,County Council District 25,,DEM,Ennis M Fant,93,0,14,0,44,0,35
+Greenville,TANGLEWOOD,County Council District 25,,DEM,Ennis M Fant,46,0,0,0,21,0,25
+Greenville,WELCOME,County Council District 25,,DEM,Ennis M Fant,17,0,0,0,7,0,10
+Greenville,WOODMONT,County Council District 25,,DEM,Ennis M Fant,110,0,5,0,53,0,52
+Greenville,MT. PLEASANT,County Council District 25,,DEM,Ennis M Fant,58,0,1,0,34,0,23
+Greenville,Failsafe,County Council District 25,,DEM,Ennis M Fant,0,0,0,0,0,0,0
+Greenville,Provisional,County Council District 25,,DEM,Ennis M Fant,2,0,0,0,0,2,0
+Greenville,Failsafe Provisional,County Council District 25,,DEM,Ennis M Fant,0,0,0,0,0,0,0
+Greenville,GREENVILLE 19,County Council District 25,,DEM,Patrick L Prince,5,0,1,0,1,0,3
+Greenville,GREENVILLE 20,County Council District 25,,DEM,Patrick L Prince,0,0,0,0,0,0,0
+Greenville,GREENVILLE 29,County Council District 25,,DEM,Patrick L Prince,18,0,0,0,5,0,13
+Greenville,BELLE MEADE,County Council District 25,,DEM,Patrick L Prince,12,0,0,0,4,0,8
+Greenville,BELMONT,County Council District 25,,DEM,Patrick L Prince,3,0,0,0,1,0,2
+Greenville,CAROLINA,County Council District 25,,DEM,Patrick L Prince,4,0,0,0,1,0,3
+Greenville,CHESTNUT HILLS,County Council District 25,,DEM,Patrick L Prince,1,0,0,0,0,0,1
+Greenville,CONESTEE,County Council District 25,,DEM,Patrick L Prince,0,0,0,0,0,0,0
+Greenville,DONALDSON,County Council District 25,,DEM,Patrick L Prince,1,0,0,0,1,0,0
+Greenville,GROVE,County Council District 25,,DEM,Patrick L Prince,0,0,0,0,0,0,0
+Greenville,MAULDIN 1,County Council District 25,,DEM,Patrick L Prince,0,0,0,0,0,0,0
+Greenville,PIEDMONT,County Council District 25,,DEM,Patrick L Prince,0,0,0,0,0,0,0
+Greenville,REEDY FORK,County Council District 25,,DEM,Patrick L Prince,1,0,0,0,0,0,1
+Greenville,ROYAL OAKS,County Council District 25,,DEM,Patrick L Prince,9,0,0,0,3,0,6
+Greenville,SOUTHSIDE,County Council District 25,,DEM,Patrick L Prince,5,0,2,0,1,0,2
+Greenville,TANGLEWOOD,County Council District 25,,DEM,Patrick L Prince,0,0,0,0,0,0,0
+Greenville,WELCOME,County Council District 25,,DEM,Patrick L Prince,0,0,0,0,0,0,0
+Greenville,WOODMONT,County Council District 25,,DEM,Patrick L Prince,4,0,0,0,2,0,2
+Greenville,MT. PLEASANT,County Council District 25,,DEM,Patrick L Prince,3,0,0,0,3,0,0
+Greenville,Failsafe,County Council District 25,,DEM,Patrick L Prince,0,0,0,0,0,0,0
+Greenville,Provisional,County Council District 25,,DEM,Patrick L Prince,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,County Council District 25,,DEM,Patrick L Prince,0,0,0,0,0,0,0
+Greenville,GREENVILLE 19,County Council District 25,,DEM,Derrick L Quarles,57,0,1,0,20,0,36
+Greenville,GREENVILLE 20,County Council District 25,,DEM,Derrick L Quarles,1,0,0,0,0,0,1
+Greenville,GREENVILLE 29,County Council District 25,,DEM,Derrick L Quarles,36,0,0,0,6,0,30
+Greenville,BELLE MEADE,County Council District 25,,DEM,Derrick L Quarles,84,0,1,0,20,0,63
+Greenville,BELMONT,County Council District 25,,DEM,Derrick L Quarles,32,0,0,0,7,0,25
+Greenville,CAROLINA,County Council District 25,,DEM,Derrick L Quarles,35,0,1,0,10,0,24
+Greenville,CHESTNUT HILLS,County Council District 25,,DEM,Derrick L Quarles,7,0,0,0,1,0,6
+Greenville,CONESTEE,County Council District 25,,DEM,Derrick L Quarles,1,0,0,0,0,0,1
+Greenville,DONALDSON,County Council District 25,,DEM,Derrick L Quarles,59,0,2,0,14,0,43
+Greenville,GROVE,County Council District 25,,DEM,Derrick L Quarles,27,0,1,0,5,0,21
+Greenville,MAULDIN 1,County Council District 25,,DEM,Derrick L Quarles,5,0,0,0,0,0,5
+Greenville,PIEDMONT,County Council District 25,,DEM,Derrick L Quarles,0,0,0,0,0,0,0
+Greenville,REEDY FORK,County Council District 25,,DEM,Derrick L Quarles,72,0,1,0,13,0,58
+Greenville,ROYAL OAKS,County Council District 25,,DEM,Derrick L Quarles,60,0,1,0,20,0,39
+Greenville,SOUTHSIDE,County Council District 25,,DEM,Derrick L Quarles,44,0,3,0,18,0,23
+Greenville,TANGLEWOOD,County Council District 25,,DEM,Derrick L Quarles,27,0,0,0,3,0,24
+Greenville,WELCOME,County Council District 25,,DEM,Derrick L Quarles,4,0,0,0,1,0,3
+Greenville,WOODMONT,County Council District 25,,DEM,Derrick L Quarles,98,0,6,0,40,0,52
+Greenville,MT. PLEASANT,County Council District 25,,DEM,Derrick L Quarles,63,0,0,0,33,0,30
+Greenville,Failsafe,County Council District 25,,DEM,Derrick L Quarles,1,1,0,0,0,0,0
+Greenville,Provisional,County Council District 25,,DEM,Derrick L Quarles,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,County Council District 25,,DEM,Derrick L Quarles,0,0,0,0,0,0,0
+Greenville,GREENVILLE 19,County Council District 25,,DEM,Lisa Bailey Sweeney,38,0,1,0,20,0,17
+Greenville,GREENVILLE 20,County Council District 25,,DEM,Lisa Bailey Sweeney,2,0,0,0,1,0,1
+Greenville,GREENVILLE 29,County Council District 25,,DEM,Lisa Bailey Sweeney,24,0,1,0,8,0,15
+Greenville,BELLE MEADE,County Council District 25,,DEM,Lisa Bailey Sweeney,47,0,0,0,13,0,34
+Greenville,BELMONT,County Council District 25,,DEM,Lisa Bailey Sweeney,14,0,0,0,2,0,12
+Greenville,CAROLINA,County Council District 25,,DEM,Lisa Bailey Sweeney,23,0,2,0,10,0,11
+Greenville,CHESTNUT HILLS,County Council District 25,,DEM,Lisa Bailey Sweeney,3,0,0,0,0,0,3
+Greenville,CONESTEE,County Council District 25,,DEM,Lisa Bailey Sweeney,1,0,0,0,0,0,1
+Greenville,DONALDSON,County Council District 25,,DEM,Lisa Bailey Sweeney,17,0,0,0,5,0,12
+Greenville,GROVE,County Council District 25,,DEM,Lisa Bailey Sweeney,12,0,0,0,7,0,5
+Greenville,MAULDIN 1,County Council District 25,,DEM,Lisa Bailey Sweeney,0,0,0,0,0,0,0
+Greenville,PIEDMONT,County Council District 25,,DEM,Lisa Bailey Sweeney,0,0,0,0,0,0,0
+Greenville,REEDY FORK,County Council District 25,,DEM,Lisa Bailey Sweeney,31,0,2,0,12,0,17
+Greenville,ROYAL OAKS,County Council District 25,,DEM,Lisa Bailey Sweeney,14,0,0,0,5,0,9
+Greenville,SOUTHSIDE,County Council District 25,,DEM,Lisa Bailey Sweeney,24,0,1,0,9,0,14
+Greenville,TANGLEWOOD,County Council District 25,,DEM,Lisa Bailey Sweeney,18,0,0,0,8,0,10
+Greenville,WELCOME,County Council District 25,,DEM,Lisa Bailey Sweeney,0,0,0,0,0,0,0
+Greenville,WOODMONT,County Council District 25,,DEM,Lisa Bailey Sweeney,32,0,3,0,8,0,21
+Greenville,MT. PLEASANT,County Council District 25,,DEM,Lisa Bailey Sweeney,49,0,0,0,25,0,24
+Greenville,Failsafe,County Council District 25,,DEM,Lisa Bailey Sweeney,0,0,0,0,0,0,0
+Greenville,Provisional,County Council District 25,,DEM,Lisa Bailey Sweeney,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,County Council District 25,,DEM,Lisa Bailey Sweeney,0,0,0,0,0,0,0
+Greenville,BELLS CROSSING,County Council District 27,,REP,Garey Collins,307,0,5,0,72,0,230
+Greenville,FOUNTAIN INN 1,County Council District 27,,REP,Garey Collins,261,0,6,0,41,0,214
+Greenville,FOUNTAIN INN 2,County Council District 27,,REP,Garey Collins,82,0,0,0,1,0,81
+Greenville,RIVERWALK,County Council District 27,,REP,Garey Collins,216,0,4,0,48,0,164
+Greenville,SIMPSONVILLE 1,County Council District 27,,REP,Garey Collins,194,0,5,0,51,0,138
+Greenville,SIMPSONVILLE 3,County Council District 27,,REP,Garey Collins,264,0,11,0,70,0,183
+Greenville,SIMPSONVILLE 5,County Council District 27,,REP,Garey Collins,112,0,2,0,18,0,92
+Greenville,SYCAMORE,County Council District 27,,REP,Garey Collins,364,0,6,0,90,0,268
+Greenville,WALNUT SPRINGS,County Council District 27,,REP,Garey Collins,507,0,6,0,114,0,387
+Greenville,GRAZE BRANCH,County Council District 27,,REP,Garey Collins,222,0,4,0,42,0,176
+Greenville,HILLCREST,County Council District 27,,REP,Garey Collins,200,0,2,0,47,0,151
+Greenville,KILGORE FARMS,County Council District 27,,REP,Garey Collins,142,0,3,0,19,0,120
+Greenville,SPARROWS POINT,County Council District 27,,REP,Garey Collins,140,0,7,0,34,0,99
+Greenville,Failsafe,County Council District 27,,REP,Garey Collins,0,0,0,0,0,0,0
+Greenville,Provisional,County Council District 27,,REP,Garey Collins,0,0,0,0,0,0,0
+Greenville,Failsafe Provisional,County Council District 27,,REP,Garey Collins,0,0,0,0,0,0,0
+Greenville,BELLS CROSSING,County Council District 27,,REP,Butch Kirven,113,0,4,0,21,0,88
+Greenville,FOUNTAIN INN 1,County Council District 27,,REP,Butch Kirven,127,0,2,0,11,0,114
+Greenville,FOUNTAIN INN 2,County Council District 27,,REP,Butch Kirven,38,0,0,0,4,0,34
+Greenville,RIVERWALK,County Council District 27,,REP,Butch Kirven,82,0,1,0,20,0,61
+Greenville,SIMPSONVILLE 1,County Council District 27,,REP,Butch Kirven,79,0,3,0,14,0,62
+Greenville,SIMPSONVILLE 3,County Council District 27,,REP,Butch Kirven,147,0,9,0,36,0,102
+Greenville,SIMPSONVILLE 5,County Council District 27,,REP,Butch Kirven,59,0,3,0,8,0,48
+Greenville,SYCAMORE,County Council District 27,,REP,Butch Kirven,149,0,12,0,42,0,95
+Greenville,WALNUT SPRINGS,County Council District 27,,REP,Butch Kirven,173,0,2,0,38,0,133
+Greenville,GRAZE BRANCH,County Council District 27,,REP,Butch Kirven,87,0,3,0,15,0,69
+Greenville,HILLCREST,County Council District 27,,REP,Butch Kirven,132,0,3,0,29,0,100
+Greenville,KILGORE FARMS,County Council District 27,,REP,Butch Kirven,87,0,1,0,17,0,69
+Greenville,SPARROWS POINT,County Council District 27,,REP,Butch Kirven,44,0,0,0,12,0,32
+Greenville,Failsafe,County Council District 27,,REP,Butch Kirven,0,0,0,0,0,0,0
+Greenville,Provisional,County Council District 27,,REP,Butch Kirven,1,0,0,0,0,1,0
+Greenville,Failsafe Provisional,County Council District 27,,REP,Butch Kirven,0,0,0,0,0,0,0

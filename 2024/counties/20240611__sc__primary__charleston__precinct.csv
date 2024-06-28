@@ -1,0 +1,1773 @@
+county,precinct,office,district,party,candidate,votes,failsafe,provisional,absentee_by_mail,failsafe_provisional,early_voting,election_day
+Charleston,Awendaw,U.S. House,1,DEM,Mac Deford,19,0,0,0,0,4,15
+Charleston,Christ Church,U.S. House,1,DEM,Mac Deford,13,0,0,0,0,5,8
+Charleston,Isle Of Palms 1A,U.S. House,1,DEM,Mac Deford,11,0,0,0,0,2,9
+Charleston,Isle of Palms 1B,U.S. House,1,DEM,Mac Deford,28,0,0,1,0,6,21
+Charleston,Isle of Palms 1C,U.S. House,1,DEM,Mac Deford,37,0,0,2,0,9,26
+Charleston,Sullivans Island,U.S. House,1,DEM,Mac Deford,31,0,0,1,0,2,28
+Charleston,McClellanville,U.S. House,1,DEM,Mac Deford,33,0,0,4,0,2,27
+Charleston,Edisto Island,U.S. House,1,DEM,Mac Deford,32,0,0,3,0,2,27
+Charleston,Wadmalaw Island 1,U.S. House,1,DEM,Mac Deford,18,0,0,1,0,5,12
+Charleston,Wadmalaw Island 2,U.S. House,1,DEM,Mac Deford,28,0,0,3,0,2,23
+Charleston,Kiawah Island,U.S. House,1,DEM,Mac Deford,99,0,0,13,0,17,69
+Charleston,Town of Seabrook,U.S. House,1,DEM,Mac Deford,92,0,0,2,0,7,83
+Charleston,Folly Beach 1,U.S. House,1,DEM,Mac Deford,35,0,0,1,0,1,33
+Charleston,Folly Beach 2,U.S. House,1,DEM,Mac Deford,39,0,0,5,0,2,32
+Charleston,Mt. Pleasant 1,U.S. House,1,DEM,Mac Deford,30,0,0,0,0,4,26
+Charleston,Mt. Pleasant 2,U.S. House,1,DEM,Mac Deford,22,0,0,0,0,4,18
+Charleston,Mt. Pleasant 3,U.S. House,1,DEM,Mac Deford,43,0,0,2,0,3,38
+Charleston,Mt. Pleasant 4,U.S. House,1,DEM,Mac Deford,24,0,0,2,0,3,19
+Charleston,Mt. Pleasant 5,U.S. House,1,DEM,Mac Deford,21,0,0,2,0,4,15
+Charleston,Mt. Pleasant 6,U.S. House,1,DEM,Mac Deford,27,0,0,1,0,3,23
+Charleston,Mt. Pleasant 7,U.S. House,1,DEM,Mac Deford,22,0,0,2,0,4,16
+Charleston,Mt. Pleasant 8,U.S. House,1,DEM,Mac Deford,17,0,0,0,0,5,12
+Charleston,Mt. Pleasant 9,U.S. House,1,DEM,Mac Deford,17,0,0,0,0,5,12
+Charleston,Mt. Pleasant 10,U.S. House,1,DEM,Mac Deford,20,0,0,1,0,6,13
+Charleston,Mt. Pleasant 11,U.S. House,1,DEM,Mac Deford,33,0,0,0,0,6,27
+Charleston,Mt. Pleasant 12,U.S. House,1,DEM,Mac Deford,85,0,0,9,0,18,58
+Charleston,Mt. Pleasant 13,U.S. House,1,DEM,Mac Deford,11,0,0,0,0,1,10
+Charleston,Mt. Pleasant 14,U.S. House,1,DEM,Mac Deford,17,0,0,0,0,4,13
+Charleston,Mt. Pleasant 15,U.S. House,1,DEM,Mac Deford,66,0,0,2,0,6,58
+Charleston,Mt. Pleasant 16,U.S. House,1,DEM,Mac Deford,20,0,0,0,0,0,20
+Charleston,Mt. Pleasant 17,U.S. House,1,DEM,Mac Deford,49,0,0,3,0,7,39
+Charleston,Mt. Pleasant 18,U.S. House,1,DEM,Mac Deford,18,0,0,0,0,4,14
+Charleston,Mt. Pleasant 19,U.S. House,1,DEM,Mac Deford,29,0,0,1,0,9,19
+Charleston,Mt. Pleasant 20,U.S. House,1,DEM,Mac Deford,44,0,0,2,0,8,34
+Charleston,Mt. Pleasant 21,U.S. House,1,DEM,Mac Deford,53,0,0,6,0,20,27
+Charleston,Mt. Pleasant 22,U.S. House,1,DEM,Mac Deford,42,0,0,2,0,16,24
+Charleston,Mt. Pleasant 23,U.S. House,1,DEM,Mac Deford,33,0,0,2,0,15,16
+Charleston,Mt. Pleasant 24,U.S. House,1,DEM,Mac Deford,15,0,0,0,0,8,7
+Charleston,Mt. Pleasant 25,U.S. House,1,DEM,Mac Deford,22,0,0,1,0,5,16
+Charleston,Mt. Pleasant 26,U.S. House,1,DEM,Mac Deford,17,0,0,1,0,4,12
+Charleston,Mt. Pleasant 27,U.S. House,1,DEM,Mac Deford,46,0,0,0,0,8,38
+Charleston,Mt. Pleasant 28,U.S. House,1,DEM,Mac Deford,20,0,0,1,0,4,15
+Charleston,Mt. Pleasant 29,U.S. House,1,DEM,Mac Deford,5,0,0,1,0,1,3
+Charleston,Mt. Pleasant 30,U.S. House,1,DEM,Mac Deford,59,0,0,1,0,13,45
+Charleston,Mt. Pleasant 31,U.S. House,1,DEM,Mac Deford,31,0,0,2,0,12,17
+Charleston,Mt. Pleasant 32,U.S. House,1,DEM,Mac Deford,39,0,0,2,0,15,22
+Charleston,Mt. Pleasant 33,U.S. House,1,DEM,Mac Deford,88,0,0,1,0,40,47
+Charleston,Mt. Pleasant 34,U.S. House,1,DEM,Mac Deford,28,0,0,5,0,12,11
+Charleston,Mt. Pleasant 35,U.S. House,1,DEM,Mac Deford,111,0,0,9,0,47,55
+Charleston,Mt. Pleasant 36,U.S. House,1,DEM,Mac Deford,27,0,0,0,0,7,20
+Charleston,Mt. Pleasant 37,U.S. House,1,DEM,Mac Deford,65,0,0,4,0,25,36
+Charleston,Mt. Pleasant 38,U.S. House,1,DEM,Mac Deford,36,0,0,3,0,18,15
+Charleston,Mt. Pleasant 39,U.S. House,1,DEM,Mac Deford,79,0,0,6,0,41,32
+Charleston,James Island 1A,U.S. House,1,DEM,Mac Deford,34,0,0,4,0,2,28
+Charleston,James Island 1B,U.S. House,1,DEM,Mac Deford,25,0,0,0,0,8,17
+Charleston,James Island 3,U.S. House,1,DEM,Mac Deford,20,0,0,1,0,2,17
+Charleston,James Island 5A,U.S. House,1,DEM,Mac Deford,20,0,0,0,0,4,16
+Charleston,James Island 5B,U.S. House,1,DEM,Mac Deford,17,0,0,0,0,2,15
+Charleston,James Island 6,U.S. House,1,DEM,Mac Deford,32,0,0,0,0,2,30
+Charleston,James Island 7,U.S. House,1,DEM,Mac Deford,47,0,0,2,0,15,30
+Charleston,James Island 8A,U.S. House,1,DEM,Mac Deford,75,0,0,11,0,26,38
+Charleston,James Island 8B,U.S. House,1,DEM,Mac Deford,26,0,0,1,0,7,18
+Charleston,James Island 9,U.S. House,1,DEM,Mac Deford,28,0,0,0,0,2,26
+Charleston,James Island 10,U.S. House,1,DEM,Mac Deford,26,0,0,0,0,4,22
+Charleston,James Island 11,U.S. House,1,DEM,Mac Deford,34,0,0,8,0,2,24
+Charleston,James Island 12,U.S. House,1,DEM,Mac Deford,24,0,0,5,0,0,19
+Charleston,James Island 13,U.S. House,1,DEM,Mac Deford,28,0,0,3,0,4,21
+Charleston,James Island 14,U.S. House,1,DEM,Mac Deford,17,0,0,1,0,3,13
+Charleston,James Island 15,U.S. House,1,DEM,Mac Deford,25,0,0,2,0,4,19
+Charleston,James Island 17,U.S. House,1,DEM,Mac Deford,19,0,0,4,0,5,10
+Charleston,James Island 19,U.S. House,1,DEM,Mac Deford,27,0,0,2,0,3,22
+Charleston,James Island 20,U.S. House,1,DEM,Mac Deford,28,0,0,3,0,3,22
+Charleston,James Island 22,U.S. House,1,DEM,Mac Deford,26,0,0,1,0,1,24
+Charleston,Johns Island 1A,U.S. House,1,DEM,Mac Deford,29,0,0,3,0,8,18
+Charleston,Johns Island 1B,U.S. House,1,DEM,Mac Deford,55,0,0,3,0,14,38
+Charleston,Johns Island 2,U.S. House,1,DEM,Mac Deford,75,0,0,4,0,19,52
+Charleston,Johns Island 3A,U.S. House,1,DEM,Mac Deford,61,0,0,6,0,12,43
+Charleston,Johns Island 3B,U.S. House,1,DEM,Mac Deford,37,0,0,0,0,5,32
+Charleston,Johns Island 4,U.S. House,1,DEM,Mac Deford,15,0,0,1,0,2,12
+Charleston,Failsafe,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Charleston,Provisional,U.S. House,1,DEM,Mac Deford,2,0,2,0,0,0,0
+Charleston,Failsafe Provisional,U.S. House,1,DEM,Mac Deford,3,0,0,0,3,0,0
+Charleston,Awendaw,U.S. House,1,DEM,Michael B Moore,71,0,0,2,0,8,61
+Charleston,Christ Church,U.S. House,1,DEM,Michael B Moore,39,0,0,2,0,5,32
+Charleston,Isle Of Palms 1A,U.S. House,1,DEM,Michael B Moore,13,0,0,1,0,1,11
+Charleston,Isle of Palms 1B,U.S. House,1,DEM,Michael B Moore,21,0,0,0,0,1,20
+Charleston,Isle of Palms 1C,U.S. House,1,DEM,Michael B Moore,15,0,0,1,0,3,11
+Charleston,Sullivans Island,U.S. House,1,DEM,Michael B Moore,38,0,0,3,0,5,30
+Charleston,McClellanville,U.S. House,1,DEM,Michael B Moore,132,0,0,7,0,7,118
+Charleston,Edisto Island,U.S. House,1,DEM,Michael B Moore,135,0,0,51,0,16,68
+Charleston,Wadmalaw Island 1,U.S. House,1,DEM,Michael B Moore,64,0,0,0,0,18,46
+Charleston,Wadmalaw Island 2,U.S. House,1,DEM,Michael B Moore,137,0,0,5,0,33,99
+Charleston,Kiawah Island,U.S. House,1,DEM,Michael B Moore,33,0,0,8,0,2,23
+Charleston,Town of Seabrook,U.S. House,1,DEM,Michael B Moore,72,0,0,1,0,10,61
+Charleston,Folly Beach 1,U.S. House,1,DEM,Michael B Moore,13,0,0,2,0,0,11
+Charleston,Folly Beach 2,U.S. House,1,DEM,Michael B Moore,33,0,0,8,0,1,24
+Charleston,Mt. Pleasant 1,U.S. House,1,DEM,Michael B Moore,29,0,0,2,0,1,26
+Charleston,Mt. Pleasant 2,U.S. House,1,DEM,Michael B Moore,11,0,0,0,0,1,10
+Charleston,Mt. Pleasant 3,U.S. House,1,DEM,Michael B Moore,74,0,0,6,0,11,57
+Charleston,Mt. Pleasant 4,U.S. House,1,DEM,Michael B Moore,24,0,0,1,0,6,17
+Charleston,Mt. Pleasant 5,U.S. House,1,DEM,Michael B Moore,13,0,0,0,0,1,12
+Charleston,Mt. Pleasant 6,U.S. House,1,DEM,Michael B Moore,28,0,0,1,0,7,20
+Charleston,Mt. Pleasant 7,U.S. House,1,DEM,Michael B Moore,10,0,0,0,0,4,6
+Charleston,Mt. Pleasant 8,U.S. House,1,DEM,Michael B Moore,19,0,0,0,0,3,16
+Charleston,Mt. Pleasant 9,U.S. House,1,DEM,Michael B Moore,19,0,0,4,0,2,13
+Charleston,Mt. Pleasant 10,U.S. House,1,DEM,Michael B Moore,16,0,0,0,0,9,7
+Charleston,Mt. Pleasant 11,U.S. House,1,DEM,Michael B Moore,17,0,0,3,0,2,12
+Charleston,Mt. Pleasant 12,U.S. House,1,DEM,Michael B Moore,32,0,0,5,0,7,20
+Charleston,Mt. Pleasant 13,U.S. House,1,DEM,Michael B Moore,18,0,0,1,0,1,16
+Charleston,Mt. Pleasant 14,U.S. House,1,DEM,Michael B Moore,12,0,0,3,0,4,5
+Charleston,Mt. Pleasant 15,U.S. House,1,DEM,Michael B Moore,44,0,0,0,0,11,33
+Charleston,Mt. Pleasant 16,U.S. House,1,DEM,Michael B Moore,21,0,0,0,0,4,17
+Charleston,Mt. Pleasant 17,U.S. House,1,DEM,Michael B Moore,43,0,0,2,0,10,31
+Charleston,Mt. Pleasant 18,U.S. House,1,DEM,Michael B Moore,36,0,0,4,0,3,29
+Charleston,Mt. Pleasant 19,U.S. House,1,DEM,Michael B Moore,18,0,0,3,0,6,9
+Charleston,Mt. Pleasant 20,U.S. House,1,DEM,Michael B Moore,36,0,0,2,0,10,24
+Charleston,Mt. Pleasant 21,U.S. House,1,DEM,Michael B Moore,29,0,0,7,0,12,10
+Charleston,Mt. Pleasant 22,U.S. House,1,DEM,Michael B Moore,25,0,0,1,0,18,6
+Charleston,Mt. Pleasant 23,U.S. House,1,DEM,Michael B Moore,43,0,0,3,0,10,30
+Charleston,Mt. Pleasant 24,U.S. House,1,DEM,Michael B Moore,8,0,0,2,0,2,4
+Charleston,Mt. Pleasant 25,U.S. House,1,DEM,Michael B Moore,14,0,0,1,0,6,7
+Charleston,Mt. Pleasant 26,U.S. House,1,DEM,Michael B Moore,73,0,0,1,0,7,65
+Charleston,Mt. Pleasant 27,U.S. House,1,DEM,Michael B Moore,27,0,0,2,0,9,16
+Charleston,Mt. Pleasant 28,U.S. House,1,DEM,Michael B Moore,12,0,0,0,0,5,7
+Charleston,Mt. Pleasant 29,U.S. House,1,DEM,Michael B Moore,9,0,0,0,0,7,2
+Charleston,Mt. Pleasant 30,U.S. House,1,DEM,Michael B Moore,44,0,0,2,0,5,37
+Charleston,Mt. Pleasant 31,U.S. House,1,DEM,Michael B Moore,31,0,0,9,0,14,8
+Charleston,Mt. Pleasant 32,U.S. House,1,DEM,Michael B Moore,17,0,0,1,0,4,12
+Charleston,Mt. Pleasant 33,U.S. House,1,DEM,Michael B Moore,43,0,0,4,0,19,20
+Charleston,Mt. Pleasant 34,U.S. House,1,DEM,Michael B Moore,28,0,0,2,0,11,15
+Charleston,Mt. Pleasant 35,U.S. House,1,DEM,Michael B Moore,51,0,0,6,0,21,24
+Charleston,Mt. Pleasant 36,U.S. House,1,DEM,Michael B Moore,32,0,0,5,0,9,18
+Charleston,Mt. Pleasant 37,U.S. House,1,DEM,Michael B Moore,84,0,0,7,0,39,38
+Charleston,Mt. Pleasant 38,U.S. House,1,DEM,Michael B Moore,24,0,0,2,0,15,7
+Charleston,Mt. Pleasant 39,U.S. House,1,DEM,Michael B Moore,79,0,0,1,0,44,34
+Charleston,James Island 1A,U.S. House,1,DEM,Michael B Moore,80,0,0,14,0,4,62
+Charleston,James Island 1B,U.S. House,1,DEM,Michael B Moore,130,0,0,10,0,23,97
+Charleston,James Island 3,U.S. House,1,DEM,Michael B Moore,111,0,0,8,0,16,87
+Charleston,James Island 5A,U.S. House,1,DEM,Michael B Moore,22,0,0,1,0,1,20
+Charleston,James Island 5B,U.S. House,1,DEM,Michael B Moore,4,0,0,1,0,2,1
+Charleston,James Island 6,U.S. House,1,DEM,Michael B Moore,61,0,0,2,0,13,46
+Charleston,James Island 7,U.S. House,1,DEM,Michael B Moore,48,0,0,9,0,10,29
+Charleston,James Island 8A,U.S. House,1,DEM,Michael B Moore,55,0,0,10,0,11,34
+Charleston,James Island 8B,U.S. House,1,DEM,Michael B Moore,41,0,0,6,0,3,32
+Charleston,James Island 9,U.S. House,1,DEM,Michael B Moore,35,0,0,1,0,8,26
+Charleston,James Island 10,U.S. House,1,DEM,Michael B Moore,31,0,0,4,0,10,17
+Charleston,James Island 11,U.S. House,1,DEM,Michael B Moore,40,0,0,3,0,7,30
+Charleston,James Island 12,U.S. House,1,DEM,Michael B Moore,31,0,0,2,0,3,26
+Charleston,James Island 13,U.S. House,1,DEM,Michael B Moore,31,0,0,2,0,9,20
+Charleston,James Island 14,U.S. House,1,DEM,Michael B Moore,17,0,0,2,0,2,13
+Charleston,James Island 15,U.S. House,1,DEM,Michael B Moore,36,0,0,1,0,4,31
+Charleston,James Island 17,U.S. House,1,DEM,Michael B Moore,33,0,0,5,0,3,25
+Charleston,James Island 19,U.S. House,1,DEM,Michael B Moore,20,0,0,1,0,4,15
+Charleston,James Island 20,U.S. House,1,DEM,Michael B Moore,51,0,0,4,0,8,39
+Charleston,James Island 22,U.S. House,1,DEM,Michael B Moore,31,0,0,4,0,7,20
+Charleston,Johns Island 1A,U.S. House,1,DEM,Michael B Moore,83,0,0,4,0,26,53
+Charleston,Johns Island 1B,U.S. House,1,DEM,Michael B Moore,125,0,0,25,0,40,60
+Charleston,Johns Island 2,U.S. House,1,DEM,Michael B Moore,94,0,0,7,0,17,70
+Charleston,Johns Island 3A,U.S. House,1,DEM,Michael B Moore,94,0,0,8,0,22,64
+Charleston,Johns Island 3B,U.S. House,1,DEM,Michael B Moore,82,0,0,23,0,17,42
+Charleston,Johns Island 4,U.S. House,1,DEM,Michael B Moore,69,0,0,10,0,21,38
+Charleston,Failsafe,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Charleston,Provisional,U.S. House,1,DEM,Michael B Moore,4,0,4,0,0,0,0
+Charleston,Failsafe Provisional,U.S. House,1,DEM,Michael B Moore,1,0,0,0,1,0,0
+Charleston,Awendaw,U.S. House,1,REP,Nancy Mace,86,0,0,3,0,21,62
+Charleston,Christ Church,U.S. House,1,REP,Nancy Mace,70,0,0,6,0,13,51
+Charleston,Isle Of Palms 1A,U.S. House,1,REP,Nancy Mace,84,0,0,7,0,7,70
+Charleston,Isle of Palms 1B,U.S. House,1,REP,Nancy Mace,92,0,0,1,0,13,78
+Charleston,Isle of Palms 1C,U.S. House,1,REP,Nancy Mace,149,0,0,11,0,26,112
+Charleston,Sullivans Island,U.S. House,1,REP,Nancy Mace,132,0,0,4,0,7,121
+Charleston,McClellanville,U.S. House,1,REP,Nancy Mace,67,0,0,2,0,5,60
+Charleston,Edisto Island,U.S. House,1,REP,Nancy Mace,129,0,0,9,0,12,108
+Charleston,Wadmalaw Island 1,U.S. House,1,REP,Nancy Mace,40,0,0,3,0,7,30
+Charleston,Wadmalaw Island 2,U.S. House,1,REP,Nancy Mace,70,0,0,3,0,3,64
+Charleston,Kiawah Island,U.S. House,1,REP,Nancy Mace,177,0,0,13,0,9,155
+Charleston,Town of Seabrook,U.S. House,1,REP,Nancy Mace,209,0,0,9,0,3,197
+Charleston,Folly Beach 1,U.S. House,1,REP,Nancy Mace,60,0,0,3,0,4,53
+Charleston,Folly Beach 2,U.S. House,1,REP,Nancy Mace,82,0,0,4,0,8,70
+Charleston,Mt. Pleasant 1,U.S. House,1,REP,Nancy Mace,123,0,0,0,0,17,106
+Charleston,Mt. Pleasant 2,U.S. House,1,REP,Nancy Mace,54,0,0,6,0,7,41
+Charleston,Mt. Pleasant 3,U.S. House,1,REP,Nancy Mace,127,0,0,4,0,24,99
+Charleston,Mt. Pleasant 4,U.S. House,1,REP,Nancy Mace,82,0,0,5,0,11,66
+Charleston,Mt. Pleasant 5,U.S. House,1,REP,Nancy Mace,87,0,0,0,0,15,72
+Charleston,Mt. Pleasant 6,U.S. House,1,REP,Nancy Mace,88,0,0,4,0,10,74
+Charleston,Mt. Pleasant 7,U.S. House,1,REP,Nancy Mace,64,0,0,5,0,8,51
+Charleston,Mt. Pleasant 8,U.S. House,1,REP,Nancy Mace,43,0,0,0,0,1,42
+Charleston,Mt. Pleasant 9,U.S. House,1,REP,Nancy Mace,71,0,0,5,0,10,56
+Charleston,Mt. Pleasant 10,U.S. House,1,REP,Nancy Mace,72,0,0,0,0,10,62
+Charleston,Mt. Pleasant 11,U.S. House,1,REP,Nancy Mace,71,0,0,5,0,13,53
+Charleston,Mt. Pleasant 12,U.S. House,1,REP,Nancy Mace,121,0,0,9,0,33,79
+Charleston,Mt. Pleasant 13,U.S. House,1,REP,Nancy Mace,50,0,0,2,0,11,37
+Charleston,Mt. Pleasant 14,U.S. House,1,REP,Nancy Mace,60,0,0,9,0,12,39
+Charleston,Mt. Pleasant 15,U.S. House,1,REP,Nancy Mace,198,0,0,11,0,41,146
+Charleston,Mt. Pleasant 16,U.S. House,1,REP,Nancy Mace,103,0,0,3,0,17,83
+Charleston,Mt. Pleasant 17,U.S. House,1,REP,Nancy Mace,170,0,0,12,0,41,117
+Charleston,Mt. Pleasant 18,U.S. House,1,REP,Nancy Mace,123,0,0,0,0,15,108
+Charleston,Mt. Pleasant 19,U.S. House,1,REP,Nancy Mace,87,0,0,4,0,16,67
+Charleston,Mt. Pleasant 20,U.S. House,1,REP,Nancy Mace,115,0,0,6,0,38,71
+Charleston,Mt. Pleasant 21,U.S. House,1,REP,Nancy Mace,114,0,0,8,0,35,71
+Charleston,Mt. Pleasant 22,U.S. House,1,REP,Nancy Mace,88,0,0,3,0,21,64
+Charleston,Mt. Pleasant 23,U.S. House,1,REP,Nancy Mace,82,0,0,0,0,31,51
+Charleston,Mt. Pleasant 24,U.S. House,1,REP,Nancy Mace,52,0,0,2,0,23,27
+Charleston,Mt. Pleasant 25,U.S. House,1,REP,Nancy Mace,95,0,0,2,0,26,67
+Charleston,Mt. Pleasant 26,U.S. House,1,REP,Nancy Mace,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 27,U.S. House,1,REP,Nancy Mace,182,0,0,2,0,29,151
+Charleston,Mt. Pleasant 28,U.S. House,1,REP,Nancy Mace,66,0,0,0,0,8,58
+Charleston,Mt. Pleasant 29,U.S. House,1,REP,Nancy Mace,23,0,0,0,0,9,14
+Charleston,Mt. Pleasant 30,U.S. House,1,REP,Nancy Mace,200,0,0,9,0,15,176
+Charleston,Mt. Pleasant 31,U.S. House,1,REP,Nancy Mace,93,0,0,5,0,32,56
+Charleston,Mt. Pleasant 32,U.S. House,1,REP,Nancy Mace,178,0,0,5,0,67,106
+Charleston,Mt. Pleasant 33,U.S. House,1,REP,Nancy Mace,320,0,0,17,0,115,188
+Charleston,Mt. Pleasant 34,U.S. House,1,REP,Nancy Mace,133,0,0,11,0,59,63
+Charleston,Mt. Pleasant 35,U.S. House,1,REP,Nancy Mace,301,0,0,15,0,82,204
+Charleston,Mt. Pleasant 36,U.S. House,1,REP,Nancy Mace,91,0,0,0,0,24,67
+Charleston,Mt. Pleasant 37,U.S. House,1,REP,Nancy Mace,207,0,0,5,0,73,129
+Charleston,Mt. Pleasant 38,U.S. House,1,REP,Nancy Mace,129,0,0,4,0,49,76
+Charleston,Mt. Pleasant 39,U.S. House,1,REP,Nancy Mace,388,0,0,11,0,180,197
+Charleston,James Island 1A,U.S. House,1,REP,Nancy Mace,116,0,0,5,0,13,98
+Charleston,James Island 1B,U.S. House,1,REP,Nancy Mace,24,0,0,5,0,2,17
+Charleston,James Island 3,U.S. House,1,REP,Nancy Mace,6,0,0,0,0,0,6
+Charleston,James Island 5A,U.S. House,1,REP,Nancy Mace,104,0,0,5,0,23,76
+Charleston,James Island 5B,U.S. House,1,REP,Nancy Mace,68,0,0,5,0,4,59
+Charleston,James Island 6,U.S. House,1,REP,Nancy Mace,89,0,0,3,0,9,77
+Charleston,James Island 7,U.S. House,1,REP,Nancy Mace,97,0,0,2,0,14,81
+Charleston,James Island 8A,U.S. House,1,REP,Nancy Mace,80,0,0,20,0,9,51
+Charleston,James Island 8B,U.S. House,1,REP,Nancy Mace,75,0,0,6,0,13,56
+Charleston,James Island 9,U.S. House,1,REP,Nancy Mace,64,0,0,2,0,8,54
+Charleston,James Island 10,U.S. House,1,REP,Nancy Mace,67,0,0,5,0,16,46
+Charleston,James Island 11,U.S. House,1,REP,Nancy Mace,123,0,0,13,0,15,95
+Charleston,James Island 12,U.S. House,1,REP,Nancy Mace,94,0,0,14,0,15,65
+Charleston,James Island 13,U.S. House,1,REP,Nancy Mace,114,0,0,13,0,17,84
+Charleston,James Island 14,U.S. House,1,REP,Nancy Mace,62,0,0,3,0,5,54
+Charleston,James Island 15,U.S. House,1,REP,Nancy Mace,75,0,0,2,0,6,67
+Charleston,James Island 17,U.S. House,1,REP,Nancy Mace,61,0,0,5,0,3,53
+Charleston,James Island 19,U.S. House,1,REP,Nancy Mace,54,0,0,0,0,9,45
+Charleston,James Island 20,U.S. House,1,REP,Nancy Mace,51,0,0,2,0,6,43
+Charleston,James Island 22,U.S. House,1,REP,Nancy Mace,82,0,0,6,0,10,66
+Charleston,Johns Island 1A,U.S. House,1,REP,Nancy Mace,174,0,0,6,0,54,114
+Charleston,Johns Island 1B,U.S. House,1,REP,Nancy Mace,181,0,0,2,0,30,149
+Charleston,Johns Island 2,U.S. House,1,REP,Nancy Mace,285,0,0,5,0,52,228
+Charleston,Johns Island 3A,U.S. House,1,REP,Nancy Mace,367,0,0,10,0,60,297
+Charleston,Johns Island 3B,U.S. House,1,REP,Nancy Mace,105,0,0,8,0,15,82
+Charleston,Johns Island 4,U.S. House,1,REP,Nancy Mace,68,0,0,3,0,5,60
+Charleston,Failsafe,U.S. House,1,REP,Nancy Mace,0,0,0,0,0,0,0
+Charleston,Provisional,U.S. House,1,REP,Nancy Mace,10,0,10,0,0,0,0
+Charleston,Failsafe Provisional,U.S. House,1,REP,Nancy Mace,4,0,0,0,4,0,0
+Charleston,Awendaw,U.S. House,1,REP,Catherine Templeton,36,0,0,2,0,9,25
+Charleston,Christ Church,U.S. House,1,REP,Catherine Templeton,22,0,0,2,0,2,18
+Charleston,Isle Of Palms 1A,U.S. House,1,REP,Catherine Templeton,48,0,0,1,0,4,43
+Charleston,Isle of Palms 1B,U.S. House,1,REP,Catherine Templeton,65,0,0,7,0,5,53
+Charleston,Isle of Palms 1C,U.S. House,1,REP,Catherine Templeton,104,0,0,8,0,18,78
+Charleston,Sullivans Island,U.S. House,1,REP,Catherine Templeton,103,0,0,3,0,12,88
+Charleston,McClellanville,U.S. House,1,REP,Catherine Templeton,24,0,0,0,0,5,19
+Charleston,Edisto Island,U.S. House,1,REP,Catherine Templeton,35,0,0,2,0,4,29
+Charleston,Wadmalaw Island 1,U.S. House,1,REP,Catherine Templeton,32,0,0,4,0,2,26
+Charleston,Wadmalaw Island 2,U.S. House,1,REP,Catherine Templeton,32,0,0,2,0,7,23
+Charleston,Kiawah Island,U.S. House,1,REP,Catherine Templeton,118,0,0,13,0,12,93
+Charleston,Town of Seabrook,U.S. House,1,REP,Catherine Templeton,132,0,0,6,0,8,118
+Charleston,Folly Beach 1,U.S. House,1,REP,Catherine Templeton,28,0,0,1,0,2,25
+Charleston,Folly Beach 2,U.S. House,1,REP,Catherine Templeton,38,0,0,2,0,4,32
+Charleston,Mt. Pleasant 1,U.S. House,1,REP,Catherine Templeton,80,0,0,3,0,9,68
+Charleston,Mt. Pleasant 2,U.S. House,1,REP,Catherine Templeton,28,0,0,3,0,5,20
+Charleston,Mt. Pleasant 3,U.S. House,1,REP,Catherine Templeton,73,0,0,4,0,10,59
+Charleston,Mt. Pleasant 4,U.S. House,1,REP,Catherine Templeton,50,0,0,2,0,5,43
+Charleston,Mt. Pleasant 5,U.S. House,1,REP,Catherine Templeton,41,0,0,1,0,2,38
+Charleston,Mt. Pleasant 6,U.S. House,1,REP,Catherine Templeton,42,0,0,1,0,2,39
+Charleston,Mt. Pleasant 7,U.S. House,1,REP,Catherine Templeton,15,0,0,0,0,3,12
+Charleston,Mt. Pleasant 8,U.S. House,1,REP,Catherine Templeton,28,0,0,0,0,5,23
+Charleston,Mt. Pleasant 9,U.S. House,1,REP,Catherine Templeton,34,0,0,2,0,4,28
+Charleston,Mt. Pleasant 10,U.S. House,1,REP,Catherine Templeton,39,0,0,0,0,8,31
+Charleston,Mt. Pleasant 11,U.S. House,1,REP,Catherine Templeton,30,0,0,3,0,5,22
+Charleston,Mt. Pleasant 12,U.S. House,1,REP,Catherine Templeton,58,0,0,6,0,8,44
+Charleston,Mt. Pleasant 13,U.S. House,1,REP,Catherine Templeton,23,0,0,2,0,2,19
+Charleston,Mt. Pleasant 14,U.S. House,1,REP,Catherine Templeton,22,0,0,1,0,3,18
+Charleston,Mt. Pleasant 15,U.S. House,1,REP,Catherine Templeton,170,0,0,15,0,26,129
+Charleston,Mt. Pleasant 16,U.S. House,1,REP,Catherine Templeton,89,0,0,0,0,19,70
+Charleston,Mt. Pleasant 17,U.S. House,1,REP,Catherine Templeton,81,0,0,6,0,21,54
+Charleston,Mt. Pleasant 18,U.S. House,1,REP,Catherine Templeton,53,0,0,0,0,12,41
+Charleston,Mt. Pleasant 19,U.S. House,1,REP,Catherine Templeton,40,0,0,2,0,10,28
+Charleston,Mt. Pleasant 20,U.S. House,1,REP,Catherine Templeton,54,0,0,3,0,22,29
+Charleston,Mt. Pleasant 21,U.S. House,1,REP,Catherine Templeton,65,0,0,14,0,13,38
+Charleston,Mt. Pleasant 22,U.S. House,1,REP,Catherine Templeton,29,0,0,1,0,7,21
+Charleston,Mt. Pleasant 23,U.S. House,1,REP,Catherine Templeton,35,0,0,2,0,11,22
+Charleston,Mt. Pleasant 24,U.S. House,1,REP,Catherine Templeton,19,0,0,2,0,7,10
+Charleston,Mt. Pleasant 25,U.S. House,1,REP,Catherine Templeton,38,0,0,0,0,9,29
+Charleston,Mt. Pleasant 26,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 27,U.S. House,1,REP,Catherine Templeton,108,0,0,0,0,26,82
+Charleston,Mt. Pleasant 28,U.S. House,1,REP,Catherine Templeton,38,0,0,2,0,7,29
+Charleston,Mt. Pleasant 29,U.S. House,1,REP,Catherine Templeton,30,0,0,1,0,6,23
+Charleston,Mt. Pleasant 30,U.S. House,1,REP,Catherine Templeton,114,0,0,0,0,15,99
+Charleston,Mt. Pleasant 31,U.S. House,1,REP,Catherine Templeton,36,0,0,2,0,14,20
+Charleston,Mt. Pleasant 32,U.S. House,1,REP,Catherine Templeton,49,0,0,4,0,11,34
+Charleston,Mt. Pleasant 33,U.S. House,1,REP,Catherine Templeton,147,0,0,9,0,57,81
+Charleston,Mt. Pleasant 34,U.S. House,1,REP,Catherine Templeton,41,0,0,1,0,20,20
+Charleston,Mt. Pleasant 35,U.S. House,1,REP,Catherine Templeton,136,0,0,9,0,44,83
+Charleston,Mt. Pleasant 36,U.S. House,1,REP,Catherine Templeton,31,0,0,1,0,10,20
+Charleston,Mt. Pleasant 37,U.S. House,1,REP,Catherine Templeton,87,0,0,2,0,27,58
+Charleston,Mt. Pleasant 38,U.S. House,1,REP,Catherine Templeton,69,0,0,1,0,28,40
+Charleston,Mt. Pleasant 39,U.S. House,1,REP,Catherine Templeton,171,0,0,6,0,67,98
+Charleston,James Island 1A,U.S. House,1,REP,Catherine Templeton,28,0,0,1,0,1,26
+Charleston,James Island 1B,U.S. House,1,REP,Catherine Templeton,10,0,0,2,0,1,7
+Charleston,James Island 3,U.S. House,1,REP,Catherine Templeton,3,0,0,0,0,1,2
+Charleston,James Island 5A,U.S. House,1,REP,Catherine Templeton,31,0,0,2,0,7,22
+Charleston,James Island 5B,U.S. House,1,REP,Catherine Templeton,19,0,0,0,0,2,17
+Charleston,James Island 6,U.S. House,1,REP,Catherine Templeton,31,0,0,3,0,3,25
+Charleston,James Island 7,U.S. House,1,REP,Catherine Templeton,43,0,0,3,0,13,27
+Charleston,James Island 8A,U.S. House,1,REP,Catherine Templeton,53,0,0,21,0,5,27
+Charleston,James Island 8B,U.S. House,1,REP,Catherine Templeton,26,0,0,0,0,0,26
+Charleston,James Island 9,U.S. House,1,REP,Catherine Templeton,27,0,0,2,0,1,24
+Charleston,James Island 10,U.S. House,1,REP,Catherine Templeton,24,0,0,0,0,3,21
+Charleston,James Island 11,U.S. House,1,REP,Catherine Templeton,35,0,0,5,0,5,25
+Charleston,James Island 12,U.S. House,1,REP,Catherine Templeton,40,0,0,2,0,4,34
+Charleston,James Island 13,U.S. House,1,REP,Catherine Templeton,65,0,0,3,0,13,49
+Charleston,James Island 14,U.S. House,1,REP,Catherine Templeton,25,0,0,6,0,4,15
+Charleston,James Island 15,U.S. House,1,REP,Catherine Templeton,37,0,0,0,0,2,35
+Charleston,James Island 17,U.S. House,1,REP,Catherine Templeton,72,0,0,1,0,15,56
+Charleston,James Island 19,U.S. House,1,REP,Catherine Templeton,30,0,0,3,0,3,24
+Charleston,James Island 20,U.S. House,1,REP,Catherine Templeton,21,0,0,1,0,6,14
+Charleston,James Island 22,U.S. House,1,REP,Catherine Templeton,41,0,0,5,0,2,34
+Charleston,Johns Island 1A,U.S. House,1,REP,Catherine Templeton,85,0,0,4,0,28,53
+Charleston,Johns Island 1B,U.S. House,1,REP,Catherine Templeton,49,0,0,0,0,11,38
+Charleston,Johns Island 2,U.S. House,1,REP,Catherine Templeton,138,0,0,1,0,22,115
+Charleston,Johns Island 3A,U.S. House,1,REP,Catherine Templeton,162,0,0,5,0,29,128
+Charleston,Johns Island 3B,U.S. House,1,REP,Catherine Templeton,68,0,0,7,0,15,46
+Charleston,Johns Island 4,U.S. House,1,REP,Catherine Templeton,27,0,0,4,0,4,19
+Charleston,Failsafe,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Charleston,Provisional,U.S. House,1,REP,Catherine Templeton,2,0,2,0,0,0,0
+Charleston,Failsafe Provisional,U.S. House,1,REP,Catherine Templeton,4,0,0,0,4,0,0
+Charleston,Awendaw,U.S. House,1,REP,Bill Young,29,0,0,0,0,4,25
+Charleston,Christ Church,U.S. House,1,REP,Bill Young,16,0,0,1,0,3,12
+Charleston,Isle Of Palms 1A,U.S. House,1,REP,Bill Young,23,0,0,2,0,5,16
+Charleston,Isle of Palms 1B,U.S. House,1,REP,Bill Young,22,0,0,1,0,4,17
+Charleston,Isle of Palms 1C,U.S. House,1,REP,Bill Young,35,0,0,5,0,11,19
+Charleston,Sullivans Island,U.S. House,1,REP,Bill Young,34,0,0,0,0,5,29
+Charleston,McClellanville,U.S. House,1,REP,Bill Young,19,0,0,0,0,3,16
+Charleston,Edisto Island,U.S. House,1,REP,Bill Young,21,0,0,0,0,3,18
+Charleston,Wadmalaw Island 1,U.S. House,1,REP,Bill Young,8,0,0,1,0,1,6
+Charleston,Wadmalaw Island 2,U.S. House,1,REP,Bill Young,17,0,0,3,0,2,12
+Charleston,Kiawah Island,U.S. House,1,REP,Bill Young,38,0,0,9,0,3,26
+Charleston,Town of Seabrook,U.S. House,1,REP,Bill Young,42,0,0,1,0,8,33
+Charleston,Folly Beach 1,U.S. House,1,REP,Bill Young,15,0,0,1,0,0,14
+Charleston,Folly Beach 2,U.S. House,1,REP,Bill Young,23,0,0,1,0,1,21
+Charleston,Mt. Pleasant 1,U.S. House,1,REP,Bill Young,22,0,0,2,0,2,18
+Charleston,Mt. Pleasant 2,U.S. House,1,REP,Bill Young,12,0,0,1,0,2,9
+Charleston,Mt. Pleasant 3,U.S. House,1,REP,Bill Young,48,0,0,9,0,7,32
+Charleston,Mt. Pleasant 4,U.S. House,1,REP,Bill Young,13,0,0,0,0,3,10
+Charleston,Mt. Pleasant 5,U.S. House,1,REP,Bill Young,19,0,0,2,0,2,15
+Charleston,Mt. Pleasant 6,U.S. House,1,REP,Bill Young,24,0,0,1,0,3,20
+Charleston,Mt. Pleasant 7,U.S. House,1,REP,Bill Young,9,0,0,1,0,2,6
+Charleston,Mt. Pleasant 8,U.S. House,1,REP,Bill Young,10,0,0,0,0,3,7
+Charleston,Mt. Pleasant 9,U.S. House,1,REP,Bill Young,22,0,0,1,0,3,18
+Charleston,Mt. Pleasant 10,U.S. House,1,REP,Bill Young,22,0,0,2,0,6,14
+Charleston,Mt. Pleasant 11,U.S. House,1,REP,Bill Young,15,0,0,0,0,4,11
+Charleston,Mt. Pleasant 12,U.S. House,1,REP,Bill Young,25,0,0,0,0,2,23
+Charleston,Mt. Pleasant 13,U.S. House,1,REP,Bill Young,12,0,0,4,0,1,7
+Charleston,Mt. Pleasant 14,U.S. House,1,REP,Bill Young,16,0,0,2,0,3,11
+Charleston,Mt. Pleasant 15,U.S. House,1,REP,Bill Young,45,0,0,2,0,6,37
+Charleston,Mt. Pleasant 16,U.S. House,1,REP,Bill Young,26,0,0,0,0,1,25
+Charleston,Mt. Pleasant 17,U.S. House,1,REP,Bill Young,45,0,0,1,0,13,31
+Charleston,Mt. Pleasant 18,U.S. House,1,REP,Bill Young,25,0,0,2,0,5,18
+Charleston,Mt. Pleasant 19,U.S. House,1,REP,Bill Young,33,0,0,2,0,5,26
+Charleston,Mt. Pleasant 20,U.S. House,1,REP,Bill Young,31,0,0,7,0,8,16
+Charleston,Mt. Pleasant 21,U.S. House,1,REP,Bill Young,37,0,0,3,0,14,20
+Charleston,Mt. Pleasant 22,U.S. House,1,REP,Bill Young,19,0,0,2,0,4,13
+Charleston,Mt. Pleasant 23,U.S. House,1,REP,Bill Young,27,0,0,2,0,4,21
+Charleston,Mt. Pleasant 24,U.S. House,1,REP,Bill Young,16,0,0,0,0,1,15
+Charleston,Mt. Pleasant 25,U.S. House,1,REP,Bill Young,18,0,0,1,0,4,13
+Charleston,Mt. Pleasant 26,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 27,U.S. House,1,REP,Bill Young,42,0,0,3,0,4,35
+Charleston,Mt. Pleasant 28,U.S. House,1,REP,Bill Young,15,0,0,0,0,1,14
+Charleston,Mt. Pleasant 29,U.S. House,1,REP,Bill Young,9,0,0,1,0,3,5
+Charleston,Mt. Pleasant 30,U.S. House,1,REP,Bill Young,35,0,0,0,0,9,26
+Charleston,Mt. Pleasant 31,U.S. House,1,REP,Bill Young,28,0,0,0,0,2,26
+Charleston,Mt. Pleasant 32,U.S. House,1,REP,Bill Young,48,0,0,0,0,18,30
+Charleston,Mt. Pleasant 33,U.S. House,1,REP,Bill Young,100,0,0,1,0,37,62
+Charleston,Mt. Pleasant 34,U.S. House,1,REP,Bill Young,39,0,0,0,0,13,26
+Charleston,Mt. Pleasant 35,U.S. House,1,REP,Bill Young,85,0,0,4,0,25,56
+Charleston,Mt. Pleasant 36,U.S. House,1,REP,Bill Young,21,0,0,0,0,9,12
+Charleston,Mt. Pleasant 37,U.S. House,1,REP,Bill Young,45,0,0,1,0,8,36
+Charleston,Mt. Pleasant 38,U.S. House,1,REP,Bill Young,30,0,0,0,0,10,20
+Charleston,Mt. Pleasant 39,U.S. House,1,REP,Bill Young,80,0,0,2,0,35,43
+Charleston,James Island 1A,U.S. House,1,REP,Bill Young,12,0,0,0,0,1,11
+Charleston,James Island 1B,U.S. House,1,REP,Bill Young,2,0,0,0,0,0,2
+Charleston,James Island 3,U.S. House,1,REP,Bill Young,1,0,0,0,0,0,1
+Charleston,James Island 5A,U.S. House,1,REP,Bill Young,17,0,0,1,0,2,14
+Charleston,James Island 5B,U.S. House,1,REP,Bill Young,16,0,0,2,0,4,10
+Charleston,James Island 6,U.S. House,1,REP,Bill Young,15,0,0,0,0,1,14
+Charleston,James Island 7,U.S. House,1,REP,Bill Young,25,0,0,2,0,3,20
+Charleston,James Island 8A,U.S. House,1,REP,Bill Young,11,0,0,4,0,0,7
+Charleston,James Island 8B,U.S. House,1,REP,Bill Young,19,0,0,0,0,2,17
+Charleston,James Island 9,U.S. House,1,REP,Bill Young,12,0,0,0,0,0,12
+Charleston,James Island 10,U.S. House,1,REP,Bill Young,14,0,0,1,0,5,8
+Charleston,James Island 11,U.S. House,1,REP,Bill Young,29,0,0,6,0,0,23
+Charleston,James Island 12,U.S. House,1,REP,Bill Young,27,0,0,1,0,4,22
+Charleston,James Island 13,U.S. House,1,REP,Bill Young,22,0,0,0,0,0,22
+Charleston,James Island 14,U.S. House,1,REP,Bill Young,13,0,0,2,0,0,11
+Charleston,James Island 15,U.S. House,1,REP,Bill Young,19,0,0,0,0,0,19
+Charleston,James Island 17,U.S. House,1,REP,Bill Young,21,0,0,5,0,4,12
+Charleston,James Island 19,U.S. House,1,REP,Bill Young,15,0,0,3,0,1,11
+Charleston,James Island 20,U.S. House,1,REP,Bill Young,7,0,0,1,0,1,5
+Charleston,James Island 22,U.S. House,1,REP,Bill Young,31,0,0,0,0,11,20
+Charleston,Johns Island 1A,U.S. House,1,REP,Bill Young,38,0,0,2,0,14,22
+Charleston,Johns Island 1B,U.S. House,1,REP,Bill Young,38,0,0,3,0,7,28
+Charleston,Johns Island 2,U.S. House,1,REP,Bill Young,66,0,0,3,0,21,42
+Charleston,Johns Island 3A,U.S. House,1,REP,Bill Young,75,0,0,1,0,11,63
+Charleston,Johns Island 3B,U.S. House,1,REP,Bill Young,31,0,0,7,0,3,21
+Charleston,Johns Island 4,U.S. House,1,REP,Bill Young,14,0,0,0,0,2,12
+Charleston,Failsafe,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Charleston,Provisional,U.S. House,1,REP,Bill Young,3,0,3,0,0,0,0
+Charleston,Failsafe Provisional,U.S. House,1,REP,Bill Young,1,0,0,0,1,0,0
+Charleston,Deer Park 1A,U.S. House,6,REP,Duke Buckner,13,0,0,0,0,3,10
+Charleston,Deer Park 1B,U.S. House,6,REP,Duke Buckner,79,0,0,20,0,11,48
+Charleston,Deer Park 2A,U.S. House,6,REP,Duke Buckner,46,0,0,4,0,10,32
+Charleston,Deer Park 2B,U.S. House,6,REP,Duke Buckner,28,0,0,0,0,9,19
+Charleston,Deer Park 2C,U.S. House,6,REP,Duke Buckner,48,0,0,1,0,14,33
+Charleston,Deer Park 3,U.S. House,6,REP,Duke Buckner,19,0,0,2,0,2,15
+Charleston,Lincolnville,U.S. House,6,REP,Duke Buckner,25,0,0,5,0,1,19
+Charleston,Ladson,U.S. House,6,REP,Duke Buckner,26,0,0,7,0,2,17
+Charleston,Charleston 1,U.S. House,6,REP,Duke Buckner,92,0,0,2,0,17,73
+Charleston,Charleston 2,U.S. House,6,REP,Duke Buckner,104,0,0,6,0,5,93
+Charleston,Charleston 3,U.S. House,6,REP,Duke Buckner,63,0,0,3,0,7,53
+Charleston,Charleston 4,U.S. House,6,REP,Duke Buckner,51,0,0,2,0,4,45
+Charleston,Charleston 5,U.S. House,6,REP,Duke Buckner,54,0,0,2,0,6,46
+Charleston,Charleston 6,U.S. House,6,REP,Duke Buckner,33,0,0,3,0,0,30
+Charleston,Charleston 7,U.S. House,6,REP,Duke Buckner,45,0,0,0,0,5,40
+Charleston,Charleston 8,U.S. House,6,REP,Duke Buckner,3,0,0,0,0,1,2
+Charleston,Charleston 9,U.S. House,6,REP,Duke Buckner,11,0,0,1,0,1,9
+Charleston,Charleston 10,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Charleston,Charleston 11,U.S. House,6,REP,Duke Buckner,32,0,0,2,0,5,25
+Charleston,Charleston 12,U.S. House,6,REP,Duke Buckner,13,0,0,1,0,1,11
+Charleston,Charleston 13,U.S. House,6,REP,Duke Buckner,6,0,0,0,0,1,5
+Charleston,Charleston 14,U.S. House,6,REP,Duke Buckner,6,0,0,0,0,2,4
+Charleston,Charleston 15,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,0,2
+Charleston,Charleston 16,U.S. House,6,REP,Duke Buckner,11,0,0,0,0,0,11
+Charleston,Charleston 17,U.S. House,6,REP,Duke Buckner,13,0,0,1,0,4,8
+Charleston,Charleston 18,U.S. House,6,REP,Duke Buckner,3,0,0,0,0,0,3
+Charleston,Charleston 19,U.S. House,6,REP,Duke Buckner,6,0,0,0,0,0,6
+Charleston,Charleston 20,U.S. House,6,REP,Duke Buckner,11,0,0,0,0,0,11
+Charleston,Charleston 21,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,1,1
+Charleston,St. Pauls 1,U.S. House,6,REP,Duke Buckner,23,0,0,2,0,1,20
+Charleston,St. Pauls 2A,U.S. House,6,REP,Duke Buckner,29,0,0,6,0,2,21
+Charleston,St. Pauls 2B,U.S. House,6,REP,Duke Buckner,67,0,0,3,0,11,53
+Charleston,St. Pauls 3,U.S. House,6,REP,Duke Buckner,240,0,0,8,0,59,173
+Charleston,St. Pauls 4,U.S. House,6,REP,Duke Buckner,34,0,0,3,0,5,26
+Charleston,St. Pauls 5,U.S. House,6,REP,Duke Buckner,56,0,0,4,0,10,42
+Charleston,St. Pauls 6,U.S. House,6,REP,Duke Buckner,177,0,0,11,0,58,108
+Charleston,St. Andrews 1,U.S. House,6,REP,Duke Buckner,15,0,0,5,0,1,9
+Charleston,St. Andrews 2,U.S. House,6,REP,Duke Buckner,18,0,0,3,0,3,12
+Charleston,St. Andrews 3,U.S. House,6,REP,Duke Buckner,17,0,0,4,0,1,12
+Charleston,St. Andrews 4,U.S. House,6,REP,Duke Buckner,88,0,0,4,0,13,71
+Charleston,St. Andrews 5,U.S. House,6,REP,Duke Buckner,82,0,0,3,0,11,68
+Charleston,St. Andrews 6,U.S. House,6,REP,Duke Buckner,65,0,0,1,0,5,59
+Charleston,St. Andrews 7,U.S. House,6,REP,Duke Buckner,63,0,0,0,0,11,52
+Charleston,St. Andrews 8,U.S. House,6,REP,Duke Buckner,9,0,0,0,0,1,8
+Charleston,St. Andrews 9,U.S. House,6,REP,Duke Buckner,7,0,0,0,0,4,3
+Charleston,St. Andrews 10,U.S. House,6,REP,Duke Buckner,34,0,0,1,0,9,24
+Charleston,St. Andrews 11,U.S. House,6,REP,Duke Buckner,45,0,0,1,0,13,31
+Charleston,St. Andrews 12,U.S. House,6,REP,Duke Buckner,46,0,0,6,0,10,30
+Charleston,St. Andrews 13,U.S. House,6,REP,Duke Buckner,56,0,0,0,0,8,48
+Charleston,St. Andrews 14,U.S. House,6,REP,Duke Buckner,37,0,0,2,0,9,26
+Charleston,St. Andrews 15,U.S. House,6,REP,Duke Buckner,6,0,0,0,0,3,3
+Charleston,St. Andrews 16,U.S. House,6,REP,Duke Buckner,30,0,0,3,0,5,22
+Charleston,St. Andrews 17,U.S. House,6,REP,Duke Buckner,71,0,0,3,0,23,45
+Charleston,St. Andrews 18,U.S. House,6,REP,Duke Buckner,15,0,0,1,0,2,12
+Charleston,St. Andrews 19,U.S. House,6,REP,Duke Buckner,3,0,0,0,0,0,3
+Charleston,St. Andrews 20,U.S. House,6,REP,Duke Buckner,57,0,0,3,0,15,39
+Charleston,St. Andrews 21,U.S. House,6,REP,Duke Buckner,28,0,0,2,0,9,17
+Charleston,St. Andrews 22,U.S. House,6,REP,Duke Buckner,64,0,0,6,0,9,49
+Charleston,St. Andrews 23,U.S. House,6,REP,Duke Buckner,17,0,0,1,0,3,13
+Charleston,St. Andrews 24,U.S. House,6,REP,Duke Buckner,31,0,0,3,0,8,20
+Charleston,St. Andrews 25,U.S. House,6,REP,Duke Buckner,19,0,0,0,0,9,10
+Charleston,St. Andrews 26,U.S. House,6,REP,Duke Buckner,48,0,0,3,0,23,22
+Charleston,St. Andrews 27,U.S. House,6,REP,Duke Buckner,113,0,0,10,0,26,77
+Charleston,St. Andrews 28,U.S. House,6,REP,Duke Buckner,115,0,0,5,0,37,73
+Charleston,St. Andrews 29,U.S. House,6,REP,Duke Buckner,93,0,0,8,0,21,64
+Charleston,St. Andrews 30,U.S. House,6,REP,Duke Buckner,70,0,0,12,0,24,34
+Charleston,St. Andrews 31,U.S. House,6,REP,Duke Buckner,36,0,0,2,0,8,26
+Charleston,St. Andrews 32,U.S. House,6,REP,Duke Buckner,60,0,0,10,0,10,40
+Charleston,St. Andrews 33,U.S. House,6,REP,Duke Buckner,61,0,0,0,0,27,34
+Charleston,St. Andrews 34,U.S. House,6,REP,Duke Buckner,221,0,0,6,0,53,162
+Charleston,St. Andrews 35,U.S. House,6,REP,Duke Buckner,125,0,0,6,0,29,90
+Charleston,St. Andrews 36,U.S. House,6,REP,Duke Buckner,101,0,0,7,0,15,79
+Charleston,St. Andrews 37,U.S. House,6,REP,Duke Buckner,208,0,0,8,0,50,150
+Charleston,North Charleston 1,U.S. House,6,REP,Duke Buckner,1,0,0,0,0,0,1
+Charleston,North Charleston 2,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Charleston,North Charleston 3,U.S. House,6,REP,Duke Buckner,51,0,0,0,0,9,42
+Charleston,North Charleston 4,U.S. House,6,REP,Duke Buckner,1,0,0,0,0,1,0
+Charleston,North Charleston 5,U.S. House,6,REP,Duke Buckner,5,0,0,0,0,1,4
+Charleston,North Charleston 6,U.S. House,6,REP,Duke Buckner,1,0,0,0,0,0,1
+Charleston,North Charleston 7,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Charleston,North Charleston 8,U.S. House,6,REP,Duke Buckner,14,0,0,1,0,5,8
+Charleston,North Charleston 9,U.S. House,6,REP,Duke Buckner,28,0,0,2,0,6,20
+Charleston,North Charleston 10,U.S. House,6,REP,Duke Buckner,5,0,0,0,0,1,4
+Charleston,North Charleston 11,U.S. House,6,REP,Duke Buckner,22,0,0,2,0,4,16
+Charleston,North Charleston 12,U.S. House,6,REP,Duke Buckner,27,0,0,2,0,3,22
+Charleston,North Charleston 13,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,0,2
+Charleston,North Charleston 14,U.S. House,6,REP,Duke Buckner,13,0,0,0,0,6,7
+Charleston,North Charleston 15,U.S. House,6,REP,Duke Buckner,4,0,0,0,0,0,4
+Charleston,North Charleston 16,U.S. House,6,REP,Duke Buckner,12,0,0,2,0,7,3
+Charleston,North Charleston 17,U.S. House,6,REP,Duke Buckner,1,0,0,0,0,0,1
+Charleston,North Charleston 18,U.S. House,6,REP,Duke Buckner,12,0,0,2,0,2,8
+Charleston,North Charleston 19,U.S. House,6,REP,Duke Buckner,4,0,0,0,0,1,3
+Charleston,North Charleston 20,U.S. House,6,REP,Duke Buckner,36,0,0,3,0,9,24
+Charleston,North Charleston 21,U.S. House,6,REP,Duke Buckner,11,0,0,0,0,3,8
+Charleston,North Charleston 22,U.S. House,6,REP,Duke Buckner,6,0,0,0,0,2,4
+Charleston,North Charleston 23,U.S. House,6,REP,Duke Buckner,34,0,0,9,0,6,19
+Charleston,North Charleston 24,U.S. House,6,REP,Duke Buckner,12,0,0,0,0,4,8
+Charleston,North Charleston 25,U.S. House,6,REP,Duke Buckner,1,0,0,0,0,1,0
+Charleston,North Charleston 26,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,0,2
+Charleston,North Charleston 27,U.S. House,6,REP,Duke Buckner,13,0,0,0,0,0,13
+Charleston,North Charleston 28,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,2,0
+Charleston,North Charleston 29,U.S. House,6,REP,Duke Buckner,9,0,0,0,0,0,9
+Charleston,North Charleston 30,U.S. House,6,REP,Duke Buckner,18,0,0,2,0,4,12
+Charleston,Failsafe,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Charleston,Provisional,U.S. House,6,REP,Duke Buckner,4,0,4,0,0,0,0
+Charleston,Failsafe Provisional,U.S. House,6,REP,Duke Buckner,1,0,0,0,1,0,0
+Charleston,Deer Park 1A,U.S. House,6,REP,Justin Scott,9,0,0,0,0,3,6
+Charleston,Deer Park 1B,U.S. House,6,REP,Justin Scott,41,0,0,9,0,4,28
+Charleston,Deer Park 2A,U.S. House,6,REP,Justin Scott,34,0,0,3,0,5,26
+Charleston,Deer Park 2B,U.S. House,6,REP,Justin Scott,13,0,0,0,0,1,12
+Charleston,Deer Park 2C,U.S. House,6,REP,Justin Scott,17,0,0,0,0,1,16
+Charleston,Deer Park 3,U.S. House,6,REP,Justin Scott,20,0,0,5,0,4,11
+Charleston,Lincolnville,U.S. House,6,REP,Justin Scott,54,0,0,8,0,2,44
+Charleston,Ladson,U.S. House,6,REP,Justin Scott,26,0,0,2,0,7,17
+Charleston,Charleston 1,U.S. House,6,REP,Justin Scott,22,0,0,0,0,0,22
+Charleston,Charleston 2,U.S. House,6,REP,Justin Scott,24,0,0,2,0,3,19
+Charleston,Charleston 3,U.S. House,6,REP,Justin Scott,24,0,0,0,0,3,21
+Charleston,Charleston 4,U.S. House,6,REP,Justin Scott,29,0,0,1,0,3,25
+Charleston,Charleston 5,U.S. House,6,REP,Justin Scott,16,0,0,1,0,1,14
+Charleston,Charleston 6,U.S. House,6,REP,Justin Scott,30,0,0,3,0,3,24
+Charleston,Charleston 7,U.S. House,6,REP,Justin Scott,26,0,0,1,0,2,23
+Charleston,Charleston 8,U.S. House,6,REP,Justin Scott,2,0,0,0,0,0,2
+Charleston,Charleston 9,U.S. House,6,REP,Justin Scott,10,0,0,0,0,1,9
+Charleston,Charleston 10,U.S. House,6,REP,Justin Scott,1,0,0,0,0,0,1
+Charleston,Charleston 11,U.S. House,6,REP,Justin Scott,11,0,0,0,0,1,10
+Charleston,Charleston 12,U.S. House,6,REP,Justin Scott,9,0,0,0,0,3,6
+Charleston,Charleston 13,U.S. House,6,REP,Justin Scott,3,0,0,0,0,1,2
+Charleston,Charleston 14,U.S. House,6,REP,Justin Scott,3,0,0,0,0,0,3
+Charleston,Charleston 15,U.S. House,6,REP,Justin Scott,5,0,0,0,0,1,4
+Charleston,Charleston 16,U.S. House,6,REP,Justin Scott,5,0,0,0,0,0,5
+Charleston,Charleston 17,U.S. House,6,REP,Justin Scott,5,0,0,0,0,1,4
+Charleston,Charleston 18,U.S. House,6,REP,Justin Scott,3,0,0,0,0,0,3
+Charleston,Charleston 19,U.S. House,6,REP,Justin Scott,1,0,0,0,0,0,1
+Charleston,Charleston 20,U.S. House,6,REP,Justin Scott,7,0,0,0,0,2,5
+Charleston,Charleston 21,U.S. House,6,REP,Justin Scott,3,0,0,0,0,0,3
+Charleston,St. Pauls 1,U.S. House,6,REP,Justin Scott,10,0,0,1,0,2,7
+Charleston,St. Pauls 2A,U.S. House,6,REP,Justin Scott,10,0,0,0,0,2,8
+Charleston,St. Pauls 2B,U.S. House,6,REP,Justin Scott,13,0,0,0,0,3,10
+Charleston,St. Pauls 3,U.S. House,6,REP,Justin Scott,85,0,0,6,0,13,66
+Charleston,St. Pauls 4,U.S. House,6,REP,Justin Scott,16,0,0,0,0,0,16
+Charleston,St. Pauls 5,U.S. House,6,REP,Justin Scott,28,0,0,2,0,4,22
+Charleston,St. Pauls 6,U.S. House,6,REP,Justin Scott,86,0,0,3,0,25,58
+Charleston,St. Andrews 1,U.S. House,6,REP,Justin Scott,14,0,0,2,0,1,11
+Charleston,St. Andrews 2,U.S. House,6,REP,Justin Scott,3,0,0,0,0,1,2
+Charleston,St. Andrews 3,U.S. House,6,REP,Justin Scott,6,0,0,1,0,1,4
+Charleston,St. Andrews 4,U.S. House,6,REP,Justin Scott,40,0,0,1,0,10,29
+Charleston,St. Andrews 5,U.S. House,6,REP,Justin Scott,38,0,0,2,0,2,34
+Charleston,St. Andrews 6,U.S. House,6,REP,Justin Scott,33,0,0,2,0,5,26
+Charleston,St. Andrews 7,U.S. House,6,REP,Justin Scott,60,0,0,4,0,7,49
+Charleston,St. Andrews 8,U.S. House,6,REP,Justin Scott,9,0,0,0,0,0,9
+Charleston,St. Andrews 9,U.S. House,6,REP,Justin Scott,4,0,0,0,0,0,4
+Charleston,St. Andrews 10,U.S. House,6,REP,Justin Scott,16,0,0,0,0,4,12
+Charleston,St. Andrews 11,U.S. House,6,REP,Justin Scott,36,0,0,2,0,12,22
+Charleston,St. Andrews 12,U.S. House,6,REP,Justin Scott,35,0,0,3,0,7,25
+Charleston,St. Andrews 13,U.S. House,6,REP,Justin Scott,51,0,0,2,0,8,41
+Charleston,St. Andrews 14,U.S. House,6,REP,Justin Scott,31,0,0,6,0,8,17
+Charleston,St. Andrews 15,U.S. House,6,REP,Justin Scott,1,0,0,0,0,0,1
+Charleston,St. Andrews 16,U.S. House,6,REP,Justin Scott,22,0,0,0,0,3,19
+Charleston,St. Andrews 17,U.S. House,6,REP,Justin Scott,61,0,0,2,0,18,41
+Charleston,St. Andrews 18,U.S. House,6,REP,Justin Scott,8,0,0,0,0,1,7
+Charleston,St. Andrews 19,U.S. House,6,REP,Justin Scott,2,0,0,0,0,0,2
+Charleston,St. Andrews 20,U.S. House,6,REP,Justin Scott,37,0,0,3,0,12,22
+Charleston,St. Andrews 21,U.S. House,6,REP,Justin Scott,14,0,0,0,0,3,11
+Charleston,St. Andrews 22,U.S. House,6,REP,Justin Scott,49,0,0,1,0,14,34
+Charleston,St. Andrews 23,U.S. House,6,REP,Justin Scott,13,0,0,1,0,3,9
+Charleston,St. Andrews 24,U.S. House,6,REP,Justin Scott,19,0,0,0,0,1,18
+Charleston,St. Andrews 25,U.S. House,6,REP,Justin Scott,25,0,0,5,0,7,13
+Charleston,St. Andrews 26,U.S. House,6,REP,Justin Scott,41,0,0,4,0,16,21
+Charleston,St. Andrews 27,U.S. House,6,REP,Justin Scott,71,0,0,1,0,24,46
+Charleston,St. Andrews 28,U.S. House,6,REP,Justin Scott,85,0,0,1,0,20,64
+Charleston,St. Andrews 29,U.S. House,6,REP,Justin Scott,48,0,0,3,0,11,34
+Charleston,St. Andrews 30,U.S. House,6,REP,Justin Scott,32,0,0,2,0,10,20
+Charleston,St. Andrews 31,U.S. House,6,REP,Justin Scott,15,0,0,1,0,5,9
+Charleston,St. Andrews 32,U.S. House,6,REP,Justin Scott,58,0,0,4,0,6,48
+Charleston,St. Andrews 33,U.S. House,6,REP,Justin Scott,45,0,0,6,0,14,25
+Charleston,St. Andrews 34,U.S. House,6,REP,Justin Scott,119,0,0,1,0,22,96
+Charleston,St. Andrews 35,U.S. House,6,REP,Justin Scott,95,0,0,0,0,21,74
+Charleston,St. Andrews 36,U.S. House,6,REP,Justin Scott,83,0,0,2,0,13,68
+Charleston,St. Andrews 37,U.S. House,6,REP,Justin Scott,188,0,0,7,0,40,141
+Charleston,North Charleston 1,U.S. House,6,REP,Justin Scott,1,0,0,0,0,0,1
+Charleston,North Charleston 2,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Charleston,North Charleston 3,U.S. House,6,REP,Justin Scott,43,0,0,2,0,4,37
+Charleston,North Charleston 4,U.S. House,6,REP,Justin Scott,5,0,0,1,0,0,4
+Charleston,North Charleston 5,U.S. House,6,REP,Justin Scott,3,0,0,0,0,0,3
+Charleston,North Charleston 6,U.S. House,6,REP,Justin Scott,3,0,0,0,0,1,2
+Charleston,North Charleston 7,U.S. House,6,REP,Justin Scott,4,0,0,0,0,0,4
+Charleston,North Charleston 8,U.S. House,6,REP,Justin Scott,4,0,0,0,0,3,1
+Charleston,North Charleston 9,U.S. House,6,REP,Justin Scott,20,0,0,1,0,6,13
+Charleston,North Charleston 10,U.S. House,6,REP,Justin Scott,6,0,0,0,0,2,4
+Charleston,North Charleston 11,U.S. House,6,REP,Justin Scott,15,0,0,1,0,1,13
+Charleston,North Charleston 12,U.S. House,6,REP,Justin Scott,14,0,0,1,0,2,11
+Charleston,North Charleston 13,U.S. House,6,REP,Justin Scott,4,0,0,0,0,0,4
+Charleston,North Charleston 14,U.S. House,6,REP,Justin Scott,7,0,0,1,0,0,6
+Charleston,North Charleston 15,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Charleston,North Charleston 16,U.S. House,6,REP,Justin Scott,6,0,0,0,0,2,4
+Charleston,North Charleston 17,U.S. House,6,REP,Justin Scott,4,0,0,0,0,0,4
+Charleston,North Charleston 18,U.S. House,6,REP,Justin Scott,6,0,0,0,0,2,4
+Charleston,North Charleston 19,U.S. House,6,REP,Justin Scott,6,0,0,0,0,0,6
+Charleston,North Charleston 20,U.S. House,6,REP,Justin Scott,19,0,0,0,0,8,11
+Charleston,North Charleston 21,U.S. House,6,REP,Justin Scott,18,0,0,1,0,3,14
+Charleston,North Charleston 22,U.S. House,6,REP,Justin Scott,13,0,0,4,0,0,9
+Charleston,North Charleston 23,U.S. House,6,REP,Justin Scott,34,0,0,2,0,6,26
+Charleston,North Charleston 24,U.S. House,6,REP,Justin Scott,14,0,0,1,0,2,11
+Charleston,North Charleston 25,U.S. House,6,REP,Justin Scott,2,0,0,0,0,1,1
+Charleston,North Charleston 26,U.S. House,6,REP,Justin Scott,1,0,0,0,0,1,0
+Charleston,North Charleston 27,U.S. House,6,REP,Justin Scott,5,0,0,0,0,1,4
+Charleston,North Charleston 28,U.S. House,6,REP,Justin Scott,2,0,0,0,0,0,2
+Charleston,North Charleston 29,U.S. House,6,REP,Justin Scott,14,0,0,1,0,1,12
+Charleston,North Charleston 30,U.S. House,6,REP,Justin Scott,10,0,0,0,0,0,10
+Charleston,Failsafe,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Charleston,Provisional,U.S. House,6,REP,Justin Scott,1,0,1,0,0,0,0
+Charleston,Failsafe Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Charleston,Awendaw,State Senate,32,DEM,Ronnie A Sabb,42,0,0,0,0,4,38
+Charleston,Christ Church,State Senate,32,DEM,Ronnie A Sabb,24,0,0,0,0,6,18
+Charleston,McClellanville,State Senate,32,DEM,Ronnie A Sabb,107,0,0,7,0,2,98
+Charleston,Failsafe,State Senate,32,DEM,Ronnie A Sabb,0,0,0,0,0,0,0
+Charleston,Provisional,State Senate,32,DEM,Ronnie A Sabb,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State Senate,32,DEM,Ronnie A Sabb,0,0,0,0,0,0,0
+Charleston,Awendaw,State Senate,32,DEM,Prinscillia D Sumpter,35,0,0,2,0,5,28
+Charleston,Christ Church,State Senate,32,DEM,Prinscillia D Sumpter,23,0,0,2,0,3,18
+Charleston,McClellanville,State Senate,32,DEM,Prinscillia D Sumpter,46,0,0,4,0,4,38
+Charleston,Failsafe,State Senate,32,DEM,Prinscillia D Sumpter,0,0,0,0,0,0,0
+Charleston,Provisional,State Senate,32,DEM,Prinscillia D Sumpter,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State Senate,32,DEM,Prinscillia D Sumpter,0,0,0,0,0,0,0
+Charleston,Johns Island 1A,State Senate,41,REP,Matt Leber,143,0,0,3,0,50,90
+Charleston,Johns Island 1B,State Senate,41,REP,Matt Leber,147,0,0,2,0,24,121
+Charleston,Johns Island 2,State Senate,41,REP,Matt Leber,192,0,0,3,0,41,148
+Charleston,Johns Island 3A,State Senate,41,REP,Matt Leber,258,0,0,3,0,41,214
+Charleston,St. Pauls 3,State Senate,41,REP,Matt Leber,197,0,0,8,0,53,136
+Charleston,St. Pauls 5,State Senate,41,REP,Matt Leber,63,0,0,5,0,12,46
+Charleston,St. Pauls 6,State Senate,41,REP,Matt Leber,180,0,0,12,0,61,107
+Charleston,St. Andrews 22,State Senate,41,REP,Matt Leber,54,0,0,1,0,14,39
+Charleston,St. Andrews 28,State Senate,41,REP,Matt Leber,125,0,0,3,0,42,80
+Charleston,St. Andrews 32,State Senate,41,REP,Matt Leber,61,0,0,4,0,12,45
+Charleston,St. Andrews 33,State Senate,41,REP,Matt Leber,64,0,0,4,0,24,36
+Charleston,St. Andrews 34,State Senate,41,REP,Matt Leber,141,0,0,5,0,27,109
+Charleston,St. Andrews 35,State Senate,41,REP,Matt Leber,116,0,0,4,0,25,87
+Charleston,St. Andrews 36,State Senate,41,REP,Matt Leber,90,0,0,4,0,10,76
+Charleston,St. Andrews 37,State Senate,41,REP,Matt Leber,202,0,0,5,0,51,146
+Charleston,Failsafe,State Senate,41,REP,Matt Leber,0,0,0,0,0,0,0
+Charleston,Provisional,State Senate,41,REP,Matt Leber,2,0,2,0,0,0,0
+Charleston,Failsafe Provisional,State Senate,41,REP,Matt Leber,0,0,0,0,0,0,0
+Charleston,Johns Island 1A,State Senate,41,REP,Sandy Senn,156,0,0,9,0,48,99
+Charleston,Johns Island 1B,State Senate,41,REP,Sandy Senn,115,0,0,3,0,23,89
+Charleston,Johns Island 2,State Senate,41,REP,Sandy Senn,294,0,0,6,0,58,230
+Charleston,Johns Island 3A,State Senate,41,REP,Sandy Senn,340,0,0,13,0,61,266
+Charleston,St. Pauls 3,State Senate,41,REP,Sandy Senn,168,0,0,8,0,27,133
+Charleston,St. Pauls 5,State Senate,41,REP,Sandy Senn,25,0,0,1,0,3,21
+Charleston,St. Pauls 6,State Senate,41,REP,Sandy Senn,108,0,0,4,0,30,74
+Charleston,St. Andrews 22,State Senate,41,REP,Sandy Senn,76,0,0,6,0,14,56
+Charleston,St. Andrews 28,State Senate,41,REP,Sandy Senn,101,0,0,3,0,23,75
+Charleston,St. Andrews 32,State Senate,41,REP,Sandy Senn,72,0,0,11,0,8,53
+Charleston,St. Andrews 33,State Senate,41,REP,Sandy Senn,57,0,0,2,0,25,30
+Charleston,St. Andrews 34,State Senate,41,REP,Sandy Senn,244,0,0,2,0,54,188
+Charleston,St. Andrews 35,State Senate,41,REP,Sandy Senn,138,0,0,3,0,30,105
+Charleston,St. Andrews 36,State Senate,41,REP,Sandy Senn,118,0,0,5,0,17,96
+Charleston,St. Andrews 37,State Senate,41,REP,Sandy Senn,263,0,0,12,0,54,197
+Charleston,Failsafe,State Senate,41,REP,Sandy Senn,0,0,0,0,0,0,0
+Charleston,Provisional,State Senate,41,REP,Sandy Senn,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State Senate,41,REP,Sandy Senn,0,0,0,0,0,0,0
+Charleston,Deer Park 1A,State Senate,42,DEM,Kim Greene,18,0,0,0,0,1,17
+Charleston,Deer Park 1B,State Senate,42,DEM,Kim Greene,15,0,0,4,0,1,10
+Charleston,Deer Park 2A,State Senate,42,DEM,Kim Greene,16,0,0,1,0,2,13
+Charleston,Deer Park 2B,State Senate,42,DEM,Kim Greene,12,0,0,2,0,3,7
+Charleston,Deer Park 2C,State Senate,42,DEM,Kim Greene,9,0,0,1,0,0,8
+Charleston,Deer Park 3,State Senate,42,DEM,Kim Greene,10,0,0,0,0,1,9
+Charleston,Charleston 15,State Senate,42,DEM,Kim Greene,8,0,0,1,0,0,7
+Charleston,Charleston 16,State Senate,42,DEM,Kim Greene,20,0,0,2,0,4,14
+Charleston,Charleston 17,State Senate,42,DEM,Kim Greene,29,0,0,3,0,3,23
+Charleston,Charleston 18,State Senate,42,DEM,Kim Greene,25,0,0,2,0,4,19
+Charleston,Charleston 19,State Senate,42,DEM,Kim Greene,37,0,0,1,0,6,30
+Charleston,Charleston 20,State Senate,42,DEM,Kim Greene,21,0,0,4,0,0,17
+Charleston,Charleston 21,State Senate,42,DEM,Kim Greene,11,0,0,0,0,3,8
+Charleston,North Charleston 1,State Senate,42,DEM,Kim Greene,6,0,0,0,0,2,4
+Charleston,North Charleston 2,State Senate,42,DEM,Kim Greene,4,0,0,0,0,0,4
+Charleston,North Charleston 3,State Senate,42,DEM,Kim Greene,13,0,0,1,0,0,12
+Charleston,North Charleston 4,State Senate,42,DEM,Kim Greene,9,0,0,0,0,1,8
+Charleston,North Charleston 5,State Senate,42,DEM,Kim Greene,10,0,0,2,0,0,8
+Charleston,North Charleston 6,State Senate,42,DEM,Kim Greene,20,0,0,1,0,2,17
+Charleston,North Charleston 7,State Senate,42,DEM,Kim Greene,10,0,0,0,0,1,9
+Charleston,North Charleston 8,State Senate,42,DEM,Kim Greene,6,0,0,1,0,2,3
+Charleston,North Charleston 10,State Senate,42,DEM,Kim Greene,10,0,0,0,0,2,8
+Charleston,North Charleston 11,State Senate,42,DEM,Kim Greene,5,0,0,0,0,1,4
+Charleston,North Charleston 12,State Senate,42,DEM,Kim Greene,7,0,0,0,0,3,4
+Charleston,North Charleston 13,State Senate,42,DEM,Kim Greene,1,0,0,0,0,1,0
+Charleston,North Charleston 14,State Senate,42,DEM,Kim Greene,7,0,0,0,0,0,7
+Charleston,North Charleston 15,State Senate,42,DEM,Kim Greene,7,0,0,0,0,3,4
+Charleston,North Charleston 16,State Senate,42,DEM,Kim Greene,3,0,0,0,0,0,3
+Charleston,North Charleston 17,State Senate,42,DEM,Kim Greene,11,0,0,0,0,3,8
+Charleston,North Charleston 18,State Senate,42,DEM,Kim Greene,10,0,0,0,0,1,9
+Charleston,North Charleston 19,State Senate,42,DEM,Kim Greene,9,0,0,0,0,2,7
+Charleston,North Charleston 20,State Senate,42,DEM,Kim Greene,4,0,0,0,0,1,3
+Charleston,North Charleston 21,State Senate,42,DEM,Kim Greene,9,0,0,0,0,0,9
+Charleston,North Charleston 22,State Senate,42,DEM,Kim Greene,8,0,0,1,0,3,4
+Charleston,North Charleston 23,State Senate,42,DEM,Kim Greene,14,0,0,0,0,5,9
+Charleston,North Charleston 24,State Senate,42,DEM,Kim Greene,14,0,0,3,0,2,9
+Charleston,North Charleston 25,State Senate,42,DEM,Kim Greene,8,0,0,0,0,1,7
+Charleston,North Charleston 26,State Senate,42,DEM,Kim Greene,3,0,0,0,0,2,1
+Charleston,North Charleston 27,State Senate,42,DEM,Kim Greene,12,0,0,2,0,0,10
+Charleston,North Charleston 28,State Senate,42,DEM,Kim Greene,2,0,0,0,0,0,2
+Charleston,North Charleston 29,State Senate,42,DEM,Kim Greene,9,0,0,0,0,2,7
+Charleston,North Charleston 30,State Senate,42,DEM,Kim Greene,27,0,0,0,0,8,19
+Charleston,Failsafe,State Senate,42,DEM,Kim Greene,0,0,0,0,0,0,0
+Charleston,Provisional,State Senate,42,DEM,Kim Greene,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State Senate,42,DEM,Kim Greene,0,0,0,0,0,0,0
+Charleston,Deer Park 1A,State Senate,42,DEM,Deon Tedder,29,0,0,2,0,9,18
+Charleston,Deer Park 1B,State Senate,42,DEM,Deon Tedder,65,0,0,7,0,15,43
+Charleston,Deer Park 2A,State Senate,42,DEM,Deon Tedder,87,0,0,2,0,27,58
+Charleston,Deer Park 2B,State Senate,42,DEM,Deon Tedder,71,0,0,3,0,19,49
+Charleston,Deer Park 2C,State Senate,42,DEM,Deon Tedder,61,0,0,10,0,8,43
+Charleston,Deer Park 3,State Senate,42,DEM,Deon Tedder,94,0,0,2,0,27,65
+Charleston,Charleston 15,State Senate,42,DEM,Deon Tedder,30,0,0,1,0,4,25
+Charleston,Charleston 16,State Senate,42,DEM,Deon Tedder,81,0,0,11,0,9,61
+Charleston,Charleston 17,State Senate,42,DEM,Deon Tedder,105,0,0,3,0,22,80
+Charleston,Charleston 18,State Senate,42,DEM,Deon Tedder,81,0,0,1,0,12,68
+Charleston,Charleston 19,State Senate,42,DEM,Deon Tedder,62,0,0,3,0,10,49
+Charleston,Charleston 20,State Senate,42,DEM,Deon Tedder,118,0,0,7,0,18,93
+Charleston,Charleston 21,State Senate,42,DEM,Deon Tedder,51,0,0,3,0,4,44
+Charleston,North Charleston 1,State Senate,42,DEM,Deon Tedder,57,0,0,2,0,5,50
+Charleston,North Charleston 2,State Senate,42,DEM,Deon Tedder,30,0,0,2,0,11,17
+Charleston,North Charleston 3,State Senate,42,DEM,Deon Tedder,41,0,0,2,0,13,26
+Charleston,North Charleston 4,State Senate,42,DEM,Deon Tedder,79,0,0,3,0,22,54
+Charleston,North Charleston 5,State Senate,42,DEM,Deon Tedder,81,0,0,9,0,24,48
+Charleston,North Charleston 6,State Senate,42,DEM,Deon Tedder,70,0,0,5,0,10,55
+Charleston,North Charleston 7,State Senate,42,DEM,Deon Tedder,36,0,0,3,0,9,24
+Charleston,North Charleston 8,State Senate,42,DEM,Deon Tedder,29,0,0,1,0,4,24
+Charleston,North Charleston 10,State Senate,42,DEM,Deon Tedder,35,0,0,0,0,10,25
+Charleston,North Charleston 11,State Senate,42,DEM,Deon Tedder,38,0,0,1,0,5,32
+Charleston,North Charleston 12,State Senate,42,DEM,Deon Tedder,32,0,0,1,0,9,22
+Charleston,North Charleston 13,State Senate,42,DEM,Deon Tedder,46,0,0,1,0,9,36
+Charleston,North Charleston 14,State Senate,42,DEM,Deon Tedder,32,0,0,1,0,10,21
+Charleston,North Charleston 15,State Senate,42,DEM,Deon Tedder,46,0,0,0,0,12,34
+Charleston,North Charleston 16,State Senate,42,DEM,Deon Tedder,42,0,0,2,0,15,25
+Charleston,North Charleston 17,State Senate,42,DEM,Deon Tedder,46,0,0,2,0,11,33
+Charleston,North Charleston 18,State Senate,42,DEM,Deon Tedder,62,0,0,1,0,19,42
+Charleston,North Charleston 19,State Senate,42,DEM,Deon Tedder,73,0,0,3,0,27,43
+Charleston,North Charleston 20,State Senate,42,DEM,Deon Tedder,49,0,0,3,0,14,32
+Charleston,North Charleston 21,State Senate,42,DEM,Deon Tedder,58,0,0,1,0,14,43
+Charleston,North Charleston 22,State Senate,42,DEM,Deon Tedder,33,0,0,3,0,6,24
+Charleston,North Charleston 23,State Senate,42,DEM,Deon Tedder,87,0,0,7,0,26,54
+Charleston,North Charleston 24,State Senate,42,DEM,Deon Tedder,135,0,0,10,0,42,83
+Charleston,North Charleston 25,State Senate,42,DEM,Deon Tedder,39,0,0,2,0,4,33
+Charleston,North Charleston 26,State Senate,42,DEM,Deon Tedder,9,0,0,1,0,0,8
+Charleston,North Charleston 27,State Senate,42,DEM,Deon Tedder,26,0,0,1,0,8,17
+Charleston,North Charleston 28,State Senate,42,DEM,Deon Tedder,9,0,0,1,0,2,6
+Charleston,North Charleston 29,State Senate,42,DEM,Deon Tedder,19,0,0,0,0,3,16
+Charleston,North Charleston 30,State Senate,42,DEM,Deon Tedder,107,0,0,3,0,24,80
+Charleston,Failsafe,State Senate,42,DEM,Deon Tedder,1,1,0,0,0,0,0
+Charleston,Provisional,State Senate,42,DEM,Deon Tedder,1,0,1,0,0,0,0
+Charleston,Failsafe Provisional,State Senate,42,DEM,Deon Tedder,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 12,State Senate,44,REP,Brian Adams,133,0,0,7,0,35,91
+Charleston,Mt. Pleasant 13,State Senate,44,REP,Brian Adams,55,0,0,2,0,8,45
+Charleston,Mt. Pleasant 15,State Senate,44,REP,Brian Adams,261,0,0,18,0,49,194
+Charleston,Mt. Pleasant 17,State Senate,44,REP,Brian Adams,193,0,0,12,0,47,134
+Charleston,Mt. Pleasant 18,State Senate,44,REP,Brian Adams,158,0,0,0,0,26,132
+Charleston,Mt. Pleasant 19,State Senate,44,REP,Brian Adams,113,0,0,6,0,23,84
+Charleston,Mt. Pleasant 20,State Senate,44,REP,Brian Adams,144,0,0,12,0,49,83
+Charleston,Mt. Pleasant 23,State Senate,44,REP,Brian Adams,101,0,0,2,0,36,63
+Charleston,Mt. Pleasant 24,State Senate,44,REP,Brian Adams,52,0,0,2,0,22,28
+Charleston,Mt. Pleasant 25,State Senate,44,REP,Brian Adams,107,0,0,2,0,30,75
+Charleston,Mt. Pleasant 26,State Senate,44,REP,Brian Adams,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 36,State Senate,44,REP,Brian Adams,87,0,0,0,0,28,59
+Charleston,North Charleston 9,State Senate,44,REP,Brian Adams,45,0,0,3,0,9,33
+Charleston,Failsafe,State Senate,44,REP,Brian Adams,0,0,0,0,0,0,0
+Charleston,Provisional,State Senate,44,REP,Brian Adams,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State Senate,44,REP,Brian Adams,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 12,State Senate,44,REP,Shawn Pinkston,41,0,0,3,0,7,31
+Charleston,Mt. Pleasant 13,State Senate,44,REP,Shawn Pinkston,17,0,0,5,0,3,9
+Charleston,Mt. Pleasant 15,State Senate,44,REP,Shawn Pinkston,93,0,0,6,0,16,71
+Charleston,Mt. Pleasant 17,State Senate,44,REP,Shawn Pinkston,81,0,0,5,0,22,54
+Charleston,Mt. Pleasant 18,State Senate,44,REP,Shawn Pinkston,22,0,0,2,0,5,15
+Charleston,Mt. Pleasant 19,State Senate,44,REP,Shawn Pinkston,30,0,0,2,0,3,25
+Charleston,Mt. Pleasant 20,State Senate,44,REP,Shawn Pinkston,30,0,0,2,0,9,19
+Charleston,Mt. Pleasant 23,State Senate,44,REP,Shawn Pinkston,35,0,0,2,0,10,23
+Charleston,Mt. Pleasant 24,State Senate,44,REP,Shawn Pinkston,26,0,0,1,0,8,17
+Charleston,Mt. Pleasant 25,State Senate,44,REP,Shawn Pinkston,29,0,0,1,0,5,23
+Charleston,Mt. Pleasant 26,State Senate,44,REP,Shawn Pinkston,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 36,State Senate,44,REP,Shawn Pinkston,51,0,0,1,0,13,37
+Charleston,North Charleston 9,State Senate,44,REP,Shawn Pinkston,8,0,0,0,0,4,4
+Charleston,Failsafe,State Senate,44,REP,Shawn Pinkston,0,0,0,0,0,0,0
+Charleston,Provisional,State Senate,44,REP,Shawn Pinkston,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State Senate,44,REP,Shawn Pinkston,0,0,0,0,0,0,0
+Charleston,Deer Park 1A,State House,15,DEM,Damian Daly,7,0,0,0,0,1,6
+Charleston,Deer Park 1B,State House,15,DEM,Damian Daly,11,0,0,4,0,0,7
+Charleston,Deer Park 2A,State House,15,DEM,Damian Daly,10,0,0,0,0,2,8
+Charleston,Deer Park 2B,State House,15,DEM,Damian Daly,14,0,0,1,0,9,4
+Charleston,Deer Park 2C,State House,15,DEM,Damian Daly,8,0,0,0,0,1,7
+Charleston,Deer Park 3,State House,15,DEM,Damian Daly,9,0,0,0,0,2,7
+Charleston,North Charleston 29,State House,15,DEM,Damian Daly,2,0,0,0,0,1,1
+Charleston,Failsafe,State House,15,DEM,Damian Daly,0,0,0,0,0,0,0
+Charleston,Provisional,State House,15,DEM,Damian Daly,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State House,15,DEM,Damian Daly,0,0,0,0,0,0,0
+Charleston,Deer Park 1A,State House,15,DEM,JA Moore,36,0,0,2,0,8,26
+Charleston,Deer Park 1B,State House,15,DEM,JA Moore,32,0,0,5,0,7,20
+Charleston,Deer Park 2A,State House,15,DEM,JA Moore,83,0,0,3,0,27,53
+Charleston,Deer Park 2B,State House,15,DEM,JA Moore,65,0,0,4,0,11,50
+Charleston,Deer Park 2C,State House,15,DEM,JA Moore,58,0,0,11,0,5,42
+Charleston,Deer Park 3,State House,15,DEM,JA Moore,95,0,0,2,0,25,68
+Charleston,North Charleston 29,State House,15,DEM,JA Moore,28,0,0,0,0,4,24
+Charleston,Failsafe,State House,15,DEM,JA Moore,0,0,0,0,0,0,0
+Charleston,Provisional,State House,15,DEM,JA Moore,1,0,1,0,0,0,0
+Charleston,Failsafe Provisional,State House,15,DEM,JA Moore,0,0,0,0,0,0,0
+Charleston,North Charleston 2,State House,109,DEM,Jessica Bright - *WITHDREW*,1,0,0,0,0,1,0
+Charleston,North Charleston 3,State House,109,DEM,Jessica Bright - *WITHDREW*,9,0,0,1,0,2,6
+Charleston,North Charleston 4,State House,109,DEM,Jessica Bright - *WITHDREW*,5,0,0,0,0,1,4
+Charleston,North Charleston 5,State House,109,DEM,Jessica Bright - *WITHDREW*,2,0,0,0,0,0,2
+Charleston,North Charleston 18,State House,109,DEM,Jessica Bright - *WITHDREW*,4,0,0,0,0,2,2
+Charleston,North Charleston 19,State House,109,DEM,Jessica Bright - *WITHDREW*,2,0,0,0,0,0,2
+Charleston,North Charleston 20,State House,109,DEM,Jessica Bright - *WITHDREW*,0,0,0,0,0,0,0
+Charleston,North Charleston 21,State House,109,DEM,Jessica Bright - *WITHDREW*,5,0,0,1,0,0,4
+Charleston,North Charleston 22,State House,109,DEM,Jessica Bright - *WITHDREW*,10,0,0,2,0,1,7
+Charleston,North Charleston 23,State House,109,DEM,Jessica Bright - *WITHDREW*,4,0,0,0,0,1,3
+Charleston,North Charleston 24,State House,109,DEM,Jessica Bright - *WITHDREW*,6,0,0,1,0,0,5
+Charleston,Failsafe,State House,109,DEM,Jessica Bright - *WITHDREW*,0,0,0,0,0,0,0
+Charleston,Provisional,State House,109,DEM,Jessica Bright - *WITHDREW*,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State House,109,DEM,Jessica Bright - *WITHDREW*,0,0,0,0,0,0,0
+Charleston,North Charleston 2,State House,109,DEM,Tiffany Spann-Wilder,16,0,0,1,0,7,8
+Charleston,North Charleston 3,State House,109,DEM,Tiffany Spann-Wilder,42,0,0,2,0,10,30
+Charleston,North Charleston 4,State House,109,DEM,Tiffany Spann-Wilder,77,0,0,3,0,19,55
+Charleston,North Charleston 5,State House,109,DEM,Tiffany Spann-Wilder,81,0,0,12,0,20,49
+Charleston,North Charleston 18,State House,109,DEM,Tiffany Spann-Wilder,64,0,0,1,0,18,45
+Charleston,North Charleston 19,State House,109,DEM,Tiffany Spann-Wilder,73,0,0,3,0,25,45
+Charleston,North Charleston 20,State House,109,DEM,Tiffany Spann-Wilder,52,0,0,3,0,15,34
+Charleston,North Charleston 21,State House,109,DEM,Tiffany Spann-Wilder,59,0,0,0,0,12,47
+Charleston,North Charleston 22,State House,109,DEM,Tiffany Spann-Wilder,27,0,0,2,0,8,17
+Charleston,North Charleston 23,State House,109,DEM,Tiffany Spann-Wilder,88,0,0,7,0,25,56
+Charleston,North Charleston 24,State House,109,DEM,Tiffany Spann-Wilder,124,0,0,10,0,40,74
+Charleston,Failsafe,State House,109,DEM,Tiffany Spann-Wilder,0,0,0,0,0,0,0
+Charleston,Provisional,State House,109,DEM,Tiffany Spann-Wilder,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State House,109,DEM,Tiffany Spann-Wilder,0,0,0,0,0,0,0
+Charleston,Charleston 8,State House,111,DEM,Regina Duggins,5,0,0,2,0,0,3
+Charleston,Charleston 9,State House,111,DEM,Regina Duggins,5,0,0,0,0,1,4
+Charleston,Charleston 10,State House,111,DEM,Regina Duggins,0,0,0,0,0,0,0
+Charleston,Charleston 11,State House,111,DEM,Regina Duggins,1,0,0,0,0,0,1
+Charleston,Charleston 12,State House,111,DEM,Regina Duggins,7,0,0,1,0,1,5
+Charleston,Charleston 13,State House,111,DEM,Regina Duggins,6,0,0,0,0,3,3
+Charleston,Charleston 14,State House,111,DEM,Regina Duggins,0,0,0,0,0,0,0
+Charleston,Charleston 15,State House,111,DEM,Regina Duggins,7,0,0,0,0,0,7
+Charleston,Charleston 16,State House,111,DEM,Regina Duggins,10,0,0,1,0,1,8
+Charleston,Charleston 17,State House,111,DEM,Regina Duggins,8,0,0,0,0,1,7
+Charleston,Charleston 18,State House,111,DEM,Regina Duggins,3,0,0,0,0,1,2
+Charleston,Charleston 19,State House,111,DEM,Regina Duggins,5,0,0,0,0,2,3
+Charleston,Charleston 20,State House,111,DEM,Regina Duggins,12,0,0,1,0,2,9
+Charleston,Charleston 21,State House,111,DEM,Regina Duggins,2,0,0,0,0,1,1
+Charleston,St. Andrews 3,State House,111,DEM,Regina Duggins,7,0,0,0,0,1,6
+Charleston,St. Andrews 8,State House,111,DEM,Regina Duggins,1,0,0,0,0,1,0
+Charleston,St. Andrews 9,State House,111,DEM,Regina Duggins,5,0,0,1,0,0,4
+Charleston,St. Andrews 10,State House,111,DEM,Regina Duggins,4,0,0,0,0,0,4
+Charleston,St. Andrews 15,State House,111,DEM,Regina Duggins,4,0,0,0,0,0,4
+Charleston,St. Andrews 18,State House,111,DEM,Regina Duggins,2,0,0,0,0,0,2
+Charleston,St. Andrews 19,State House,111,DEM,Regina Duggins,2,0,0,0,0,0,2
+Charleston,St. Andrews 20,State House,111,DEM,Regina Duggins,4,0,0,0,0,1,3
+Charleston,North Charleston 1,State House,111,DEM,Regina Duggins,2,0,0,0,0,0,2
+Charleston,North Charleston 2,State House,111,DEM,Regina Duggins,1,0,0,0,0,0,1
+Charleston,North Charleston 6,State House,111,DEM,Regina Duggins,3,0,0,0,0,1,2
+Charleston,Failsafe,State House,111,DEM,Regina Duggins,0,0,0,0,0,0,0
+Charleston,Provisional,State House,111,DEM,Regina Duggins,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State House,111,DEM,Regina Duggins,0,0,0,0,0,0,0
+Charleston,Charleston 8,State House,111,DEM,Wendell G Gilliard,51,0,0,1,0,10,40
+Charleston,Charleston 9,State House,111,DEM,Wendell G Gilliard,23,0,0,0,0,1,22
+Charleston,Charleston 10,State House,111,DEM,Wendell G Gilliard,10,0,0,2,0,2,6
+Charleston,Charleston 11,State House,111,DEM,Wendell G Gilliard,27,0,0,1,0,5,21
+Charleston,Charleston 12,State House,111,DEM,Wendell G Gilliard,56,0,0,5,0,9,42
+Charleston,Charleston 13,State House,111,DEM,Wendell G Gilliard,63,0,0,2,0,10,51
+Charleston,Charleston 14,State House,111,DEM,Wendell G Gilliard,25,0,0,1,0,4,20
+Charleston,Charleston 15,State House,111,DEM,Wendell G Gilliard,30,0,0,2,0,3,25
+Charleston,Charleston 16,State House,111,DEM,Wendell G Gilliard,64,0,0,10,0,12,42
+Charleston,Charleston 17,State House,111,DEM,Wendell G Gilliard,93,0,0,6,0,16,71
+Charleston,Charleston 18,State House,111,DEM,Wendell G Gilliard,83,0,0,3,0,16,64
+Charleston,Charleston 19,State House,111,DEM,Wendell G Gilliard,85,0,0,4,0,14,67
+Charleston,Charleston 20,State House,111,DEM,Wendell G Gilliard,77,0,0,10,0,4,63
+Charleston,Charleston 21,State House,111,DEM,Wendell G Gilliard,52,0,0,3,0,6,43
+Charleston,St. Andrews 3,State House,111,DEM,Wendell G Gilliard,123,0,0,4,0,26,93
+Charleston,St. Andrews 8,State House,111,DEM,Wendell G Gilliard,90,0,0,9,0,26,55
+Charleston,St. Andrews 9,State House,111,DEM,Wendell G Gilliard,99,0,0,3,0,25,71
+Charleston,St. Andrews 10,State House,111,DEM,Wendell G Gilliard,77,0,0,1,0,22,54
+Charleston,St. Andrews 15,State House,111,DEM,Wendell G Gilliard,77,0,0,9,0,29,39
+Charleston,St. Andrews 18,State House,111,DEM,Wendell G Gilliard,81,0,0,9,0,13,59
+Charleston,St. Andrews 19,State House,111,DEM,Wendell G Gilliard,38,0,0,4,0,9,25
+Charleston,St. Andrews 20,State House,111,DEM,Wendell G Gilliard,25,0,0,1,0,6,18
+Charleston,North Charleston 1,State House,111,DEM,Wendell G Gilliard,54,0,0,2,0,8,44
+Charleston,North Charleston 2,State House,111,DEM,Wendell G Gilliard,14,0,0,1,0,3,10
+Charleston,North Charleston 6,State House,111,DEM,Wendell G Gilliard,79,0,0,6,0,10,63
+Charleston,Failsafe,State House,111,DEM,Wendell G Gilliard,0,0,0,0,0,0,0
+Charleston,Provisional,State House,111,DEM,Wendell G Gilliard,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State House,111,DEM,Wendell G Gilliard,0,0,0,0,0,0,0
+Charleston,Charleston 8,State House,111,DEM,Dwayne M Green,10,0,0,0,0,1,9
+Charleston,Charleston 9,State House,111,DEM,Dwayne M Green,6,0,0,0,0,1,5
+Charleston,Charleston 10,State House,111,DEM,Dwayne M Green,7,0,0,1,0,1,5
+Charleston,Charleston 11,State House,111,DEM,Dwayne M Green,11,0,0,0,0,0,11
+Charleston,Charleston 12,State House,111,DEM,Dwayne M Green,15,0,0,1,0,1,13
+Charleston,Charleston 13,State House,111,DEM,Dwayne M Green,29,0,0,0,0,9,20
+Charleston,Charleston 14,State House,111,DEM,Dwayne M Green,11,0,0,0,0,3,8
+Charleston,Charleston 15,State House,111,DEM,Dwayne M Green,6,0,0,0,0,1,5
+Charleston,Charleston 16,State House,111,DEM,Dwayne M Green,24,0,0,2,0,0,22
+Charleston,Charleston 17,State House,111,DEM,Dwayne M Green,35,0,0,1,0,7,27
+Charleston,Charleston 18,State House,111,DEM,Dwayne M Green,23,0,0,0,0,2,21
+Charleston,Charleston 19,State House,111,DEM,Dwayne M Green,13,0,0,0,0,0,13
+Charleston,Charleston 20,State House,111,DEM,Dwayne M Green,49,0,0,0,0,13,36
+Charleston,Charleston 21,State House,111,DEM,Dwayne M Green,10,0,0,0,0,0,10
+Charleston,St. Andrews 3,State House,111,DEM,Dwayne M Green,19,0,0,2,0,7,10
+Charleston,St. Andrews 8,State House,111,DEM,Dwayne M Green,5,0,0,0,0,0,5
+Charleston,St. Andrews 9,State House,111,DEM,Dwayne M Green,13,0,0,0,0,0,13
+Charleston,St. Andrews 10,State House,111,DEM,Dwayne M Green,7,0,0,0,0,2,5
+Charleston,St. Andrews 15,State House,111,DEM,Dwayne M Green,7,0,0,0,0,1,6
+Charleston,St. Andrews 18,State House,111,DEM,Dwayne M Green,8,0,0,1,0,1,6
+Charleston,St. Andrews 19,State House,111,DEM,Dwayne M Green,5,0,0,0,0,4,1
+Charleston,St. Andrews 20,State House,111,DEM,Dwayne M Green,5,0,0,2,0,0,3
+Charleston,North Charleston 1,State House,111,DEM,Dwayne M Green,5,0,0,0,0,0,5
+Charleston,North Charleston 2,State House,111,DEM,Dwayne M Green,0,0,0,0,0,0,0
+Charleston,North Charleston 6,State House,111,DEM,Dwayne M Green,8,0,0,0,0,0,8
+Charleston,Failsafe,State House,111,DEM,Dwayne M Green,0,0,0,0,0,0,0
+Charleston,Provisional,State House,111,DEM,Dwayne M Green,1,0,1,0,0,0,0
+Charleston,Failsafe Provisional,State House,111,DEM,Dwayne M Green,0,0,0,0,0,0,0
+Charleston,Awendaw,State House,112,REP,Joe Bustos,121,0,0,5,0,30,86
+Charleston,Isle Of Palms 1A,State House,112,REP,Joe Bustos,130,0,0,8,0,13,109
+Charleston,Isle of Palms 1B,State House,112,REP,Joe Bustos,140,0,0,9,0,20,111
+Charleston,Isle of Palms 1C,State House,112,REP,Joe Bustos,238,0,0,21,0,49,168
+Charleston,Sullivans Island,State House,112,REP,Joe Bustos,204,0,0,7,0,17,180
+Charleston,Mt. Pleasant 7,State House,112,REP,Joe Bustos,77,0,0,6,0,10,61
+Charleston,Mt. Pleasant 8,State House,112,REP,Joe Bustos,57,0,0,0,0,7,50
+Charleston,Mt. Pleasant 9,State House,112,REP,Joe Bustos,85,0,0,8,0,13,64
+Charleston,Mt. Pleasant 10,State House,112,REP,Joe Bustos,102,0,0,2,0,21,79
+Charleston,Mt. Pleasant 11,State House,112,REP,Joe Bustos,83,0,0,5,0,18,60
+Charleston,Mt. Pleasant 12,State House,112,REP,Joe Bustos,134,0,0,12,0,35,87
+Charleston,Mt. Pleasant 20,State House,112,REP,Joe Bustos,141,0,0,15,0,47,79
+Charleston,Mt. Pleasant 21,State House,112,REP,Joe Bustos,169,0,0,24,0,41,104
+Charleston,Mt. Pleasant 22,State House,112,REP,Joe Bustos,95,0,0,5,0,24,66
+Charleston,Mt. Pleasant 23,State House,112,REP,Joe Bustos,106,0,0,4,0,37,65
+Charleston,Mt. Pleasant 35,State House,112,REP,Joe Bustos,6,0,0,2,0,1,3
+Charleston,Mt. Pleasant 36,State House,112,REP,Joe Bustos,41,0,0,1,0,9,31
+Charleston,Mt. Pleasant 37,State House,112,REP,Joe Bustos,240,0,0,7,0,85,148
+Charleston,Mt. Pleasant 38,State House,112,REP,Joe Bustos,170,0,0,3,0,68,99
+Charleston,Mt. Pleasant 39,State House,112,REP,Joe Bustos,420,0,0,11,0,203,206
+Charleston,Failsafe,State House,112,REP,Joe Bustos,0,0,0,0,0,0,0
+Charleston,Provisional,State House,112,REP,Joe Bustos,4,0,4,0,0,0,0
+Charleston,Failsafe Provisional,State House,112,REP,Joe Bustos,0,0,0,0,0,0,0
+Charleston,Awendaw,State House,112,REP,Nadine Deif,24,0,0,0,0,3,21
+Charleston,Isle Of Palms 1A,State House,112,REP,Nadine Deif,21,0,0,2,0,3,16
+Charleston,Isle of Palms 1B,State House,112,REP,Nadine Deif,41,0,0,0,0,2,39
+Charleston,Isle of Palms 1C,State House,112,REP,Nadine Deif,39,0,0,3,0,3,33
+Charleston,Sullivans Island,State House,112,REP,Nadine Deif,58,0,0,0,0,6,52
+Charleston,Mt. Pleasant 7,State House,112,REP,Nadine Deif,10,0,0,0,0,4,6
+Charleston,Mt. Pleasant 8,State House,112,REP,Nadine Deif,22,0,0,0,0,3,19
+Charleston,Mt. Pleasant 9,State House,112,REP,Nadine Deif,44,0,0,1,0,5,38
+Charleston,Mt. Pleasant 10,State House,112,REP,Nadine Deif,28,0,0,0,0,2,26
+Charleston,Mt. Pleasant 11,State House,112,REP,Nadine Deif,30,0,0,3,0,4,23
+Charleston,Mt. Pleasant 12,State House,112,REP,Nadine Deif,54,0,0,3,0,6,45
+Charleston,Mt. Pleasant 20,State House,112,REP,Nadine Deif,50,0,0,1,0,18,31
+Charleston,Mt. Pleasant 21,State House,112,REP,Nadine Deif,32,0,0,2,0,14,16
+Charleston,Mt. Pleasant 22,State House,112,REP,Nadine Deif,37,0,0,1,0,7,29
+Charleston,Mt. Pleasant 23,State House,112,REP,Nadine Deif,32,0,0,0,0,10,22
+Charleston,Mt. Pleasant 35,State House,112,REP,Nadine Deif,1,0,0,0,0,0,1
+Charleston,Mt. Pleasant 36,State House,112,REP,Nadine Deif,10,0,0,0,0,2,8
+Charleston,Mt. Pleasant 37,State House,112,REP,Nadine Deif,84,0,0,1,0,20,63
+Charleston,Mt. Pleasant 38,State House,112,REP,Nadine Deif,48,0,0,2,0,17,29
+Charleston,Mt. Pleasant 39,State House,112,REP,Nadine Deif,183,0,0,6,0,65,112
+Charleston,Failsafe,State House,112,REP,Nadine Deif,0,0,0,0,0,0,0
+Charleston,Provisional,State House,112,REP,Nadine Deif,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State House,112,REP,Nadine Deif,0,0,0,0,0,0,0
+Charleston,St. Andrews 20,State House,114,REP,Jody Bohman,6,0,0,1,0,1,4
+Charleston,St. Andrews 22,State House,114,REP,Jody Bohman,41,0,0,1,0,6,34
+Charleston,St. Andrews 23,State House,114,REP,Jody Bohman,15,0,0,1,0,2,12
+Charleston,St. Andrews 31,State House,114,REP,Jody Bohman,15,0,0,1,0,5,9
+Charleston,St. Andrews 32,State House,114,REP,Jody Bohman,38,0,0,0,0,4,34
+Charleston,St. Andrews 33,State House,114,REP,Jody Bohman,32,0,0,0,0,16,16
+Charleston,St. Andrews 34,State House,114,REP,Jody Bohman,105,0,0,3,0,24,78
+Charleston,St. Andrews 35,State House,114,REP,Jody Bohman,78,0,0,4,0,18,56
+Charleston,St. Andrews 36,State House,114,REP,Jody Bohman,68,0,0,2,0,13,53
+Charleston,St. Andrews 37,State House,114,REP,Jody Bohman,148,0,0,4,0,30,114
+Charleston,Failsafe,State House,114,REP,Jody Bohman,0,0,0,0,0,0,0
+Charleston,Provisional,State House,114,REP,Jody Bohman,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State House,114,REP,Jody Bohman,0,0,0,0,0,0,0
+Charleston,St. Andrews 20,State House,114,REP,Gary Brewer,30,0,0,0,0,10,20
+Charleston,St. Andrews 22,State House,114,REP,Gary Brewer,77,0,0,6,0,19,52
+Charleston,St. Andrews 23,State House,114,REP,Gary Brewer,16,0,0,1,0,4,11
+Charleston,St. Andrews 31,State House,114,REP,Gary Brewer,40,0,0,2,0,9,29
+Charleston,St. Andrews 32,State House,114,REP,Gary Brewer,91,0,0,14,0,15,62
+Charleston,St. Andrews 33,State House,114,REP,Gary Brewer,84,0,0,6,0,32,46
+Charleston,St. Andrews 34,State House,114,REP,Gary Brewer,274,0,0,4,0,60,210
+Charleston,St. Andrews 35,State House,114,REP,Gary Brewer,163,0,0,3,0,35,125
+Charleston,St. Andrews 36,State House,114,REP,Gary Brewer,132,0,0,7,0,16,109
+Charleston,St. Andrews 37,State House,114,REP,Gary Brewer,294,0,0,11,0,73,210
+Charleston,Failsafe,State House,114,REP,Gary Brewer,0,0,0,0,0,0,0
+Charleston,Provisional,State House,114,REP,Gary Brewer,1,0,1,0,0,0,0
+Charleston,Failsafe Provisional,State House,114,REP,Gary Brewer,0,0,0,0,0,0,0
+Charleston,Edisto Island,State House,116,DEM,Charles Glover Sr,10,0,0,3,0,1,6
+Charleston,Wadmalaw Island 1,State House,116,DEM,Charles Glover Sr,8,0,0,1,0,3,4
+Charleston,Wadmalaw Island 2,State House,116,DEM,Charles Glover Sr,10,0,0,1,0,1,8
+Charleston,Johns Island 1A,State House,116,DEM,Charles Glover Sr,18,0,0,0,0,8,10
+Charleston,Johns Island 1B,State House,116,DEM,Charles Glover Sr,24,0,0,6,0,7,11
+Charleston,St. Pauls 1,State House,116,DEM,Charles Glover Sr,11,0,0,0,0,0,11
+Charleston,St. Pauls 2A,State House,116,DEM,Charles Glover Sr,2,0,0,0,0,0,2
+Charleston,St. Pauls 2B,State House,116,DEM,Charles Glover Sr,5,0,0,0,0,0,5
+Charleston,St. Pauls 3,State House,116,DEM,Charles Glover Sr,9,0,0,0,0,2,7
+Charleston,St. Pauls 4,State House,116,DEM,Charles Glover Sr,18,0,0,3,0,3,12
+Charleston,St. Pauls 5,State House,116,DEM,Charles Glover Sr,9,0,0,2,0,1,6
+Charleston,St. Pauls 6,State House,116,DEM,Charles Glover Sr,15,0,0,1,0,6,8
+Charleston,St. Andrews 27,State House,116,DEM,Charles Glover Sr,28,0,0,4,0,5,19
+Charleston,St. Andrews 28,State House,116,DEM,Charles Glover Sr,11,0,0,2,0,2,7
+Charleston,St. Andrews 29,State House,116,DEM,Charles Glover Sr,13,0,0,0,0,3,10
+Charleston,Failsafe,State House,116,DEM,Charles Glover Sr,0,0,0,0,0,0,0
+Charleston,Provisional,State House,116,DEM,Charles Glover Sr,0,0,0,0,0,0,0
+Charleston,Failsafe Provisional,State House,116,DEM,Charles Glover Sr,0,0,0,0,0,0,0
+Charleston,Edisto Island,State House,116,DEM,Charlie Murray,168,0,0,54,0,18,96
+Charleston,Wadmalaw Island 1,State House,116,DEM,Charlie Murray,75,0,0,0,0,21,54
+Charleston,Wadmalaw Island 2,State House,116,DEM,Charlie Murray,165,0,0,7,0,32,126
+Charleston,Johns Island 1A,State House,116,DEM,Charlie Murray,96,0,0,8,0,27,61
+Charleston,Johns Island 1B,State House,116,DEM,Charlie Murray,162,0,0,26,0,54,82
+Charleston,St. Pauls 1,State House,116,DEM,Charlie Murray,105,0,0,1,0,8,96
+Charleston,St. Pauls 2A,State House,116,DEM,Charlie Murray,36,0,0,5,0,6,25
+Charleston,St. Pauls 2B,State House,116,DEM,Charlie Murray,139,0,0,14,0,18,107
+Charleston,St. Pauls 3,State House,116,DEM,Charlie Murray,43,0,0,7,0,12,24
+Charleston,St. Pauls 4,State House,116,DEM,Charlie Murray,195,0,0,28,0,37,130
+Charleston,St. Pauls 5,State House,116,DEM,Charlie Murray,58,0,0,11,0,6,41
+Charleston,St. Pauls 6,State House,116,DEM,Charlie Murray,102,0,0,7,0,50,45
+Charleston,St. Andrews 27,State House,116,DEM,Charlie Murray,146,0,0,13,0,51,82
+Charleston,St. Andrews 28,State House,116,DEM,Charlie Murray,106,0,0,18,0,30,58
+Charleston,St. Andrews 29,State House,116,DEM,Charlie Murray,61,0,0,6,0,15,40
+Charleston,Failsafe,State House,116,DEM,Charlie Murray,1,1,0,0,0,0,0
+Charleston,Provisional,State House,116,DEM,Charlie Murray,5,0,5,0,0,0,0
+Charleston,Failsafe Provisional,State House,116,DEM,Charlie Murray,0,0,0,0,0,0,0
+Charleston,Awendaw,Sheriff,,REP,Rocky Burke,7,0,0,0,0,1,6
+Charleston,Christ Church,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,Isle Of Palms 1A,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Isle of Palms 1B,Sheriff,,REP,Rocky Burke,8,0,0,1,0,1,6
+Charleston,Isle of Palms 1C,Sheriff,,REP,Rocky Burke,13,0,0,1,0,3,9
+Charleston,Sullivans Island,Sheriff,,REP,Rocky Burke,4,0,0,0,0,2,2
+Charleston,McClellanville,Sheriff,,REP,Rocky Burke,6,0,0,0,0,0,6
+Charleston,Deer Park 1A,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,Deer Park 1B,Sheriff,,REP,Rocky Burke,14,0,0,2,0,0,12
+Charleston,Deer Park 2A,Sheriff,,REP,Rocky Burke,6,0,0,2,0,1,3
+Charleston,Deer Park 2B,Sheriff,,REP,Rocky Burke,2,0,0,0,0,0,2
+Charleston,Deer Park 2C,Sheriff,,REP,Rocky Burke,5,0,0,0,0,0,5
+Charleston,Deer Park 3,Sheriff,,REP,Rocky Burke,4,0,0,0,0,0,4
+Charleston,Lincolnville,Sheriff,,REP,Rocky Burke,9,0,0,1,0,0,8
+Charleston,Ladson,Sheriff,,REP,Rocky Burke,7,0,0,2,0,1,4
+Charleston,Edisto Island,Sheriff,,REP,Rocky Burke,7,0,0,0,0,0,7
+Charleston,Wadmalaw Island 1,Sheriff,,REP,Rocky Burke,3,0,0,0,0,1,2
+Charleston,Wadmalaw Island 2,Sheriff,,REP,Rocky Burke,4,0,0,0,0,0,4
+Charleston,Kiawah Island,Sheriff,,REP,Rocky Burke,9,0,0,1,0,1,7
+Charleston,Town of Seabrook,Sheriff,,REP,Rocky Burke,12,0,0,0,0,3,9
+Charleston,Folly Beach 1,Sheriff,,REP,Rocky Burke,43,0,0,1,0,3,39
+Charleston,Folly Beach 2,Sheriff,,REP,Rocky Burke,62,0,0,4,0,7,51
+Charleston,Charleston 1,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,Charleston 2,Sheriff,,REP,Rocky Burke,2,0,0,0,0,1,1
+Charleston,Charleston 3,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,Charleston 4,Sheriff,,REP,Rocky Burke,3,0,0,0,0,0,3
+Charleston,Charleston 5,Sheriff,,REP,Rocky Burke,4,0,0,0,0,0,4
+Charleston,Charleston 6,Sheriff,,REP,Rocky Burke,4,0,0,0,0,1,3
+Charleston,Charleston 7,Sheriff,,REP,Rocky Burke,1,0,0,1,0,0,0
+Charleston,Charleston 8,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Charleston 9,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Charleston 10,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,Charleston 11,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,Charleston 12,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,Charleston 13,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Charleston 14,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Charleston 15,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,Charleston 16,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Charleston 17,Sheriff,,REP,Rocky Burke,3,0,0,0,0,0,3
+Charleston,Charleston 18,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Charleston 19,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,Charleston 20,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Charleston 21,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 1,Sheriff,,REP,Rocky Burke,6,0,0,0,0,2,4
+Charleston,Mt. Pleasant 2,Sheriff,,REP,Rocky Burke,2,0,0,0,0,0,2
+Charleston,Mt. Pleasant 3,Sheriff,,REP,Rocky Burke,10,0,0,0,0,1,9
+Charleston,Mt. Pleasant 4,Sheriff,,REP,Rocky Burke,9,0,0,2,0,0,7
+Charleston,Mt. Pleasant 5,Sheriff,,REP,Rocky Burke,4,0,0,0,0,1,3
+Charleston,Mt. Pleasant 6,Sheriff,,REP,Rocky Burke,9,0,0,1,0,1,7
+Charleston,Mt. Pleasant 7,Sheriff,,REP,Rocky Burke,2,0,0,0,0,0,2
+Charleston,Mt. Pleasant 8,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,Mt. Pleasant 9,Sheriff,,REP,Rocky Burke,2,0,0,0,0,1,1
+Charleston,Mt. Pleasant 10,Sheriff,,REP,Rocky Burke,4,0,0,0,0,0,4
+Charleston,Mt. Pleasant 11,Sheriff,,REP,Rocky Burke,4,0,0,0,0,3,1
+Charleston,Mt. Pleasant 12,Sheriff,,REP,Rocky Burke,10,0,0,0,0,4,6
+Charleston,Mt. Pleasant 13,Sheriff,,REP,Rocky Burke,6,0,0,1,0,1,4
+Charleston,Mt. Pleasant 14,Sheriff,,REP,Rocky Burke,3,0,0,0,0,2,1
+Charleston,Mt. Pleasant 15,Sheriff,,REP,Rocky Burke,9,0,0,0,0,1,8
+Charleston,Mt. Pleasant 16,Sheriff,,REP,Rocky Burke,7,0,0,0,0,1,6
+Charleston,Mt. Pleasant 17,Sheriff,,REP,Rocky Burke,9,0,0,1,0,0,8
+Charleston,Mt. Pleasant 18,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 19,Sheriff,,REP,Rocky Burke,7,0,0,1,0,1,5
+Charleston,Mt. Pleasant 20,Sheriff,,REP,Rocky Burke,7,0,0,3,0,0,4
+Charleston,Mt. Pleasant 21,Sheriff,,REP,Rocky Burke,5,0,0,1,0,1,3
+Charleston,Mt. Pleasant 22,Sheriff,,REP,Rocky Burke,8,0,0,1,0,0,7
+Charleston,Mt. Pleasant 23,Sheriff,,REP,Rocky Burke,6,0,0,0,0,1,5
+Charleston,Mt. Pleasant 24,Sheriff,,REP,Rocky Burke,2,0,0,0,0,0,2
+Charleston,Mt. Pleasant 25,Sheriff,,REP,Rocky Burke,5,0,0,1,0,0,4
+Charleston,Mt. Pleasant 26,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 27,Sheriff,,REP,Rocky Burke,7,0,0,0,0,1,6
+Charleston,Mt. Pleasant 28,Sheriff,,REP,Rocky Burke,2,0,0,0,0,0,2
+Charleston,Mt. Pleasant 29,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 30,Sheriff,,REP,Rocky Burke,15,0,0,0,0,1,14
+Charleston,Mt. Pleasant 31,Sheriff,,REP,Rocky Burke,9,0,0,1,0,5,3
+Charleston,Mt. Pleasant 32,Sheriff,,REP,Rocky Burke,16,0,0,1,0,7,8
+Charleston,Mt. Pleasant 33,Sheriff,,REP,Rocky Burke,28,0,0,1,0,10,17
+Charleston,Mt. Pleasant 34,Sheriff,,REP,Rocky Burke,7,0,0,0,0,5,2
+Charleston,Mt. Pleasant 35,Sheriff,,REP,Rocky Burke,22,0,0,3,0,9,10
+Charleston,Mt. Pleasant 36,Sheriff,,REP,Rocky Burke,7,0,0,0,0,3,4
+Charleston,Mt. Pleasant 37,Sheriff,,REP,Rocky Burke,13,0,0,2,0,5,6
+Charleston,Mt. Pleasant 38,Sheriff,,REP,Rocky Burke,12,0,0,0,0,4,8
+Charleston,Mt. Pleasant 39,Sheriff,,REP,Rocky Burke,35,0,0,0,0,18,17
+Charleston,James Island 1A,Sheriff,,REP,Rocky Burke,34,0,0,1,0,1,32
+Charleston,James Island 1B,Sheriff,,REP,Rocky Burke,4,0,0,0,0,0,4
+Charleston,James Island 3,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,James Island 5A,Sheriff,,REP,Rocky Burke,4,0,0,0,0,0,4
+Charleston,James Island 5B,Sheriff,,REP,Rocky Burke,13,0,0,1,0,2,10
+Charleston,James Island 6,Sheriff,,REP,Rocky Burke,11,0,0,0,0,2,9
+Charleston,James Island 7,Sheriff,,REP,Rocky Burke,10,0,0,0,0,1,9
+Charleston,James Island 8A,Sheriff,,REP,Rocky Burke,15,0,0,9,0,0,6
+Charleston,James Island 8B,Sheriff,,REP,Rocky Burke,11,0,0,1,0,1,9
+Charleston,James Island 9,Sheriff,,REP,Rocky Burke,18,0,0,0,0,3,15
+Charleston,James Island 10,Sheriff,,REP,Rocky Burke,11,0,0,2,0,2,7
+Charleston,James Island 11,Sheriff,,REP,Rocky Burke,13,0,0,2,0,2,9
+Charleston,James Island 12,Sheriff,,REP,Rocky Burke,9,0,0,0,0,0,9
+Charleston,James Island 13,Sheriff,,REP,Rocky Burke,11,0,0,0,0,3,8
+Charleston,James Island 14,Sheriff,,REP,Rocky Burke,11,0,0,0,0,0,11
+Charleston,James Island 15,Sheriff,,REP,Rocky Burke,18,0,0,0,0,0,18
+Charleston,James Island 17,Sheriff,,REP,Rocky Burke,2,0,0,0,0,0,2
+Charleston,James Island 19,Sheriff,,REP,Rocky Burke,5,0,0,1,0,0,4
+Charleston,James Island 20,Sheriff,,REP,Rocky Burke,11,0,0,1,0,1,9
+Charleston,James Island 22,Sheriff,,REP,Rocky Burke,7,0,0,2,0,0,5
+Charleston,Johns Island 1A,Sheriff,,REP,Rocky Burke,19,0,0,0,0,6,13
+Charleston,Johns Island 1B,Sheriff,,REP,Rocky Burke,25,0,0,0,0,2,23
+Charleston,Johns Island 2,Sheriff,,REP,Rocky Burke,37,0,0,1,0,9,27
+Charleston,Johns Island 3A,Sheriff,,REP,Rocky Burke,37,0,0,1,0,6,30
+Charleston,Johns Island 3B,Sheriff,,REP,Rocky Burke,8,0,0,2,0,1,5
+Charleston,Johns Island 4,Sheriff,,REP,Rocky Burke,4,0,0,2,0,0,2
+Charleston,St. Pauls 1,Sheriff,,REP,Rocky Burke,3,0,0,1,0,0,2
+Charleston,St. Pauls 2A,Sheriff,,REP,Rocky Burke,7,0,0,0,0,2,5
+Charleston,St. Pauls 2B,Sheriff,,REP,Rocky Burke,3,0,0,0,0,0,3
+Charleston,St. Pauls 3,Sheriff,,REP,Rocky Burke,14,0,0,0,0,3,11
+Charleston,St. Pauls 4,Sheriff,,REP,Rocky Burke,2,0,0,0,0,0,2
+Charleston,St. Pauls 5,Sheriff,,REP,Rocky Burke,5,0,0,0,0,1,4
+Charleston,St. Pauls 6,Sheriff,,REP,Rocky Burke,17,0,0,1,0,6,10
+Charleston,St. Andrews 1,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,St. Andrews 2,Sheriff,,REP,Rocky Burke,2,0,0,0,0,1,1
+Charleston,St. Andrews 3,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,St. Andrews 4,Sheriff,,REP,Rocky Burke,11,0,0,0,0,3,8
+Charleston,St. Andrews 5,Sheriff,,REP,Rocky Burke,4,0,0,0,0,2,2
+Charleston,St. Andrews 6,Sheriff,,REP,Rocky Burke,2,0,0,0,0,0,2
+Charleston,St. Andrews 7,Sheriff,,REP,Rocky Burke,6,0,0,1,0,1,4
+Charleston,St. Andrews 8,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,St. Andrews 9,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,St. Andrews 10,Sheriff,,REP,Rocky Burke,4,0,0,0,0,0,4
+Charleston,St. Andrews 11,Sheriff,,REP,Rocky Burke,9,0,0,0,0,3,6
+Charleston,St. Andrews 12,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,St. Andrews 13,Sheriff,,REP,Rocky Burke,5,0,0,0,0,0,5
+Charleston,St. Andrews 14,Sheriff,,REP,Rocky Burke,3,0,0,0,0,2,1
+Charleston,St. Andrews 15,Sheriff,,REP,Rocky Burke,1,0,0,0,0,1,0
+Charleston,St. Andrews 16,Sheriff,,REP,Rocky Burke,7,0,0,0,0,1,6
+Charleston,St. Andrews 17,Sheriff,,REP,Rocky Burke,9,0,0,1,0,0,8
+Charleston,St. Andrews 18,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,St. Andrews 19,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,St. Andrews 20,Sheriff,,REP,Rocky Burke,6,0,0,1,0,0,5
+Charleston,St. Andrews 21,Sheriff,,REP,Rocky Burke,3,0,0,2,0,0,1
+Charleston,St. Andrews 22,Sheriff,,REP,Rocky Burke,5,0,0,0,0,2,3
+Charleston,St. Andrews 23,Sheriff,,REP,Rocky Burke,2,0,0,0,0,0,2
+Charleston,St. Andrews 24,Sheriff,,REP,Rocky Burke,7,0,0,0,0,2,5
+Charleston,St. Andrews 25,Sheriff,,REP,Rocky Burke,2,0,0,0,0,0,2
+Charleston,St. Andrews 26,Sheriff,,REP,Rocky Burke,4,0,0,1,0,2,1
+Charleston,St. Andrews 27,Sheriff,,REP,Rocky Burke,13,0,0,0,0,3,10
+Charleston,St. Andrews 28,Sheriff,,REP,Rocky Burke,12,0,0,0,0,5,7
+Charleston,St. Andrews 29,Sheriff,,REP,Rocky Burke,7,0,0,0,0,1,6
+Charleston,St. Andrews 30,Sheriff,,REP,Rocky Burke,5,0,0,0,0,2,3
+Charleston,St. Andrews 31,Sheriff,,REP,Rocky Burke,3,0,0,0,0,0,3
+Charleston,St. Andrews 32,Sheriff,,REP,Rocky Burke,9,0,0,1,0,1,7
+Charleston,St. Andrews 33,Sheriff,,REP,Rocky Burke,5,0,0,0,0,2,3
+Charleston,St. Andrews 34,Sheriff,,REP,Rocky Burke,23,0,0,2,0,2,19
+Charleston,St. Andrews 35,Sheriff,,REP,Rocky Burke,21,0,0,0,0,3,18
+Charleston,St. Andrews 36,Sheriff,,REP,Rocky Burke,15,0,0,0,0,3,12
+Charleston,St. Andrews 37,Sheriff,,REP,Rocky Burke,20,0,0,0,0,5,15
+Charleston,North Charleston 1,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,North Charleston 2,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,North Charleston 3,Sheriff,,REP,Rocky Burke,4,0,0,0,0,0,4
+Charleston,North Charleston 4,Sheriff,,REP,Rocky Burke,2,0,0,1,0,0,1
+Charleston,North Charleston 5,Sheriff,,REP,Rocky Burke,2,0,0,0,0,0,2
+Charleston,North Charleston 6,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,North Charleston 7,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,North Charleston 8,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,North Charleston 9,Sheriff,,REP,Rocky Burke,4,0,0,0,0,2,2
+Charleston,North Charleston 10,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,North Charleston 11,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,North Charleston 12,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,North Charleston 13,Sheriff,,REP,Rocky Burke,2,0,0,0,0,0,2
+Charleston,North Charleston 14,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,North Charleston 15,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,North Charleston 16,Sheriff,,REP,Rocky Burke,2,0,0,0,0,1,1
+Charleston,North Charleston 17,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,North Charleston 18,Sheriff,,REP,Rocky Burke,3,0,0,1,0,0,2
+Charleston,North Charleston 19,Sheriff,,REP,Rocky Burke,2,0,0,0,0,0,2
+Charleston,North Charleston 20,Sheriff,,REP,Rocky Burke,1,0,0,0,0,1,0
+Charleston,North Charleston 21,Sheriff,,REP,Rocky Burke,2,0,0,0,0,1,1
+Charleston,North Charleston 22,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,North Charleston 23,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,North Charleston 24,Sheriff,,REP,Rocky Burke,2,0,0,0,0,1,1
+Charleston,North Charleston 25,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,North Charleston 26,Sheriff,,REP,Rocky Burke,1,0,0,0,0,1,0
+Charleston,North Charleston 27,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,North Charleston 28,Sheriff,,REP,Rocky Burke,1,0,0,0,0,0,1
+Charleston,North Charleston 29,Sheriff,,REP,Rocky Burke,6,0,0,0,0,0,6
+Charleston,North Charleston 30,Sheriff,,REP,Rocky Burke,10,0,0,0,0,0,10
+Charleston,Failsafe,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Provisional,Sheriff,,REP,Rocky Burke,2,0,2,0,0,0,0
+Charleston,Failsafe Provisional,Sheriff,,REP,Rocky Burke,0,0,0,0,0,0,0
+Charleston,Awendaw,Sheriff,,REP,Rick Keys,14,0,0,1,0,3,10
+Charleston,Christ Church,Sheriff,,REP,Rick Keys,9,0,0,0,0,2,7
+Charleston,Isle Of Palms 1A,Sheriff,,REP,Rick Keys,4,0,0,0,0,1,3
+Charleston,Isle of Palms 1B,Sheriff,,REP,Rick Keys,7,0,0,1,0,0,6
+Charleston,Isle of Palms 1C,Sheriff,,REP,Rick Keys,15,0,0,0,0,4,11
+Charleston,Sullivans Island,Sheriff,,REP,Rick Keys,7,0,0,0,0,2,5
+Charleston,McClellanville,Sheriff,,REP,Rick Keys,12,0,0,0,0,5,7
+Charleston,Deer Park 1A,Sheriff,,REP,Rick Keys,8,0,0,0,0,2,6
+Charleston,Deer Park 1B,Sheriff,,REP,Rick Keys,30,0,0,9,0,4,17
+Charleston,Deer Park 2A,Sheriff,,REP,Rick Keys,45,0,0,0,0,12,33
+Charleston,Deer Park 2B,Sheriff,,REP,Rick Keys,19,0,0,0,0,7,12
+Charleston,Deer Park 2C,Sheriff,,REP,Rick Keys,55,0,0,1,0,9,45
+Charleston,Deer Park 3,Sheriff,,REP,Rick Keys,12,0,0,0,0,2,10
+Charleston,Lincolnville,Sheriff,,REP,Rick Keys,16,0,0,3,0,0,13
+Charleston,Ladson,Sheriff,,REP,Rick Keys,7,0,0,1,0,2,4
+Charleston,Edisto Island,Sheriff,,REP,Rick Keys,14,0,0,1,0,1,12
+Charleston,Wadmalaw Island 1,Sheriff,,REP,Rick Keys,6,0,0,2,0,1,3
+Charleston,Wadmalaw Island 2,Sheriff,,REP,Rick Keys,12,0,0,0,0,1,11
+Charleston,Kiawah Island,Sheriff,,REP,Rick Keys,29,0,0,4,0,2,23
+Charleston,Town of Seabrook,Sheriff,,REP,Rick Keys,34,0,0,3,0,2,29
+Charleston,Folly Beach 1,Sheriff,,REP,Rick Keys,6,0,0,0,0,1,5
+Charleston,Folly Beach 2,Sheriff,,REP,Rick Keys,11,0,0,0,0,0,11
+Charleston,Charleston 1,Sheriff,,REP,Rick Keys,3,0,0,0,0,1,2
+Charleston,Charleston 2,Sheriff,,REP,Rick Keys,5,0,0,0,0,0,5
+Charleston,Charleston 3,Sheriff,,REP,Rick Keys,2,0,0,1,0,0,1
+Charleston,Charleston 4,Sheriff,,REP,Rick Keys,1,0,0,0,0,0,1
+Charleston,Charleston 5,Sheriff,,REP,Rick Keys,1,0,0,1,0,0,0
+Charleston,Charleston 6,Sheriff,,REP,Rick Keys,2,0,0,0,0,0,2
+Charleston,Charleston 7,Sheriff,,REP,Rick Keys,6,0,0,0,0,0,6
+Charleston,Charleston 8,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,Charleston 9,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,Charleston 10,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,Charleston 11,Sheriff,,REP,Rick Keys,3,0,0,0,0,0,3
+Charleston,Charleston 12,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,Charleston 13,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,Charleston 14,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,Charleston 15,Sheriff,,REP,Rick Keys,2,0,0,0,0,0,2
+Charleston,Charleston 16,Sheriff,,REP,Rick Keys,4,0,0,0,0,0,4
+Charleston,Charleston 17,Sheriff,,REP,Rick Keys,2,0,0,0,0,1,1
+Charleston,Charleston 18,Sheriff,,REP,Rick Keys,1,0,0,0,0,0,1
+Charleston,Charleston 19,Sheriff,,REP,Rick Keys,2,0,0,0,0,0,2
+Charleston,Charleston 20,Sheriff,,REP,Rick Keys,1,0,0,0,0,0,1
+Charleston,Charleston 21,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 1,Sheriff,,REP,Rick Keys,2,0,0,0,0,0,2
+Charleston,Mt. Pleasant 2,Sheriff,,REP,Rick Keys,5,0,0,3,0,2,0
+Charleston,Mt. Pleasant 3,Sheriff,,REP,Rick Keys,7,0,0,0,0,1,6
+Charleston,Mt. Pleasant 4,Sheriff,,REP,Rick Keys,2,0,0,0,0,1,1
+Charleston,Mt. Pleasant 5,Sheriff,,REP,Rick Keys,1,0,0,0,0,0,1
+Charleston,Mt. Pleasant 6,Sheriff,,REP,Rick Keys,10,0,0,0,0,1,9
+Charleston,Mt. Pleasant 7,Sheriff,,REP,Rick Keys,2,0,0,0,0,0,2
+Charleston,Mt. Pleasant 8,Sheriff,,REP,Rick Keys,1,0,0,0,0,0,1
+Charleston,Mt. Pleasant 9,Sheriff,,REP,Rick Keys,1,0,0,0,0,0,1
+Charleston,Mt. Pleasant 10,Sheriff,,REP,Rick Keys,6,0,0,0,0,1,5
+Charleston,Mt. Pleasant 11,Sheriff,,REP,Rick Keys,5,0,0,1,0,0,4
+Charleston,Mt. Pleasant 12,Sheriff,,REP,Rick Keys,10,0,0,1,0,0,9
+Charleston,Mt. Pleasant 13,Sheriff,,REP,Rick Keys,3,0,0,0,0,1,2
+Charleston,Mt. Pleasant 14,Sheriff,,REP,Rick Keys,2,0,0,0,0,1,1
+Charleston,Mt. Pleasant 15,Sheriff,,REP,Rick Keys,17,0,0,0,0,1,16
+Charleston,Mt. Pleasant 16,Sheriff,,REP,Rick Keys,3,0,0,0,0,2,1
+Charleston,Mt. Pleasant 17,Sheriff,,REP,Rick Keys,10,0,0,1,0,2,7
+Charleston,Mt. Pleasant 18,Sheriff,,REP,Rick Keys,8,0,0,0,0,1,7
+Charleston,Mt. Pleasant 19,Sheriff,,REP,Rick Keys,8,0,0,0,0,3,5
+Charleston,Mt. Pleasant 20,Sheriff,,REP,Rick Keys,7,0,0,0,0,4,3
+Charleston,Mt. Pleasant 21,Sheriff,,REP,Rick Keys,10,0,0,1,0,2,7
+Charleston,Mt. Pleasant 22,Sheriff,,REP,Rick Keys,9,0,0,0,0,3,6
+Charleston,Mt. Pleasant 23,Sheriff,,REP,Rick Keys,12,0,0,0,0,5,7
+Charleston,Mt. Pleasant 24,Sheriff,,REP,Rick Keys,6,0,0,0,0,3,3
+Charleston,Mt. Pleasant 25,Sheriff,,REP,Rick Keys,9,0,0,0,0,1,8
+Charleston,Mt. Pleasant 26,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 27,Sheriff,,REP,Rick Keys,18,0,0,1,0,2,15
+Charleston,Mt. Pleasant 28,Sheriff,,REP,Rick Keys,8,0,0,0,0,1,7
+Charleston,Mt. Pleasant 29,Sheriff,,REP,Rick Keys,1,0,0,0,0,0,1
+Charleston,Mt. Pleasant 30,Sheriff,,REP,Rick Keys,16,0,0,0,0,1,15
+Charleston,Mt. Pleasant 31,Sheriff,,REP,Rick Keys,16,0,0,1,0,7,8
+Charleston,Mt. Pleasant 32,Sheriff,,REP,Rick Keys,11,0,0,4,0,5,2
+Charleston,Mt. Pleasant 33,Sheriff,,REP,Rick Keys,31,0,0,3,0,15,13
+Charleston,Mt. Pleasant 34,Sheriff,,REP,Rick Keys,8,0,0,0,0,3,5
+Charleston,Mt. Pleasant 35,Sheriff,,REP,Rick Keys,23,0,0,0,0,9,14
+Charleston,Mt. Pleasant 36,Sheriff,,REP,Rick Keys,7,0,0,0,0,2,5
+Charleston,Mt. Pleasant 37,Sheriff,,REP,Rick Keys,17,0,0,0,0,11,6
+Charleston,Mt. Pleasant 38,Sheriff,,REP,Rick Keys,16,0,0,0,0,5,11
+Charleston,Mt. Pleasant 39,Sheriff,,REP,Rick Keys,30,0,0,0,0,16,14
+Charleston,James Island 1A,Sheriff,,REP,Rick Keys,4,0,0,1,0,1,2
+Charleston,James Island 1B,Sheriff,,REP,Rick Keys,2,0,0,0,0,0,2
+Charleston,James Island 3,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,James Island 5A,Sheriff,,REP,Rick Keys,2,0,0,0,0,1,1
+Charleston,James Island 5B,Sheriff,,REP,Rick Keys,6,0,0,0,0,1,5
+Charleston,James Island 6,Sheriff,,REP,Rick Keys,15,0,0,0,0,4,11
+Charleston,James Island 7,Sheriff,,REP,Rick Keys,15,0,0,0,0,8,7
+Charleston,James Island 8A,Sheriff,,REP,Rick Keys,4,0,0,1,0,0,3
+Charleston,James Island 8B,Sheriff,,REP,Rick Keys,2,0,0,0,0,0,2
+Charleston,James Island 9,Sheriff,,REP,Rick Keys,6,0,0,0,0,2,4
+Charleston,James Island 10,Sheriff,,REP,Rick Keys,8,0,0,4,0,0,4
+Charleston,James Island 11,Sheriff,,REP,Rick Keys,12,0,0,4,0,2,6
+Charleston,James Island 12,Sheriff,,REP,Rick Keys,3,0,0,1,0,0,2
+Charleston,James Island 13,Sheriff,,REP,Rick Keys,7,0,0,2,0,0,5
+Charleston,James Island 14,Sheriff,,REP,Rick Keys,8,0,0,0,0,2,6
+Charleston,James Island 15,Sheriff,,REP,Rick Keys,3,0,0,0,0,1,2
+Charleston,James Island 17,Sheriff,,REP,Rick Keys,7,0,0,1,0,1,5
+Charleston,James Island 19,Sheriff,,REP,Rick Keys,4,0,0,1,0,0,3
+Charleston,James Island 20,Sheriff,,REP,Rick Keys,2,0,0,1,0,0,1
+Charleston,James Island 22,Sheriff,,REP,Rick Keys,6,0,0,1,0,1,4
+Charleston,Johns Island 1A,Sheriff,,REP,Rick Keys,33,0,0,2,0,13,18
+Charleston,Johns Island 1B,Sheriff,,REP,Rick Keys,22,0,0,0,0,3,19
+Charleston,Johns Island 2,Sheriff,,REP,Rick Keys,36,0,0,1,0,11,24
+Charleston,Johns Island 3A,Sheriff,,REP,Rick Keys,28,0,0,1,0,2,25
+Charleston,Johns Island 3B,Sheriff,,REP,Rick Keys,19,0,0,1,0,4,14
+Charleston,Johns Island 4,Sheriff,,REP,Rick Keys,5,0,0,0,0,1,4
+Charleston,St. Pauls 1,Sheriff,,REP,Rick Keys,6,0,0,0,0,0,6
+Charleston,St. Pauls 2A,Sheriff,,REP,Rick Keys,13,0,0,1,0,0,12
+Charleston,St. Pauls 2B,Sheriff,,REP,Rick Keys,9,0,0,0,0,2,7
+Charleston,St. Pauls 3,Sheriff,,REP,Rick Keys,32,0,0,1,0,4,27
+Charleston,St. Pauls 4,Sheriff,,REP,Rick Keys,5,0,0,0,0,0,5
+Charleston,St. Pauls 5,Sheriff,,REP,Rick Keys,16,0,0,0,0,2,14
+Charleston,St. Pauls 6,Sheriff,,REP,Rick Keys,31,0,0,0,0,6,25
+Charleston,St. Andrews 1,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,St. Andrews 2,Sheriff,,REP,Rick Keys,2,0,0,0,0,0,2
+Charleston,St. Andrews 3,Sheriff,,REP,Rick Keys,1,0,0,0,0,0,1
+Charleston,St. Andrews 4,Sheriff,,REP,Rick Keys,6,0,0,0,0,2,4
+Charleston,St. Andrews 5,Sheriff,,REP,Rick Keys,12,0,0,1,0,1,10
+Charleston,St. Andrews 6,Sheriff,,REP,Rick Keys,5,0,0,0,0,0,5
+Charleston,St. Andrews 7,Sheriff,,REP,Rick Keys,10,0,0,0,0,1,9
+Charleston,St. Andrews 8,Sheriff,,REP,Rick Keys,4,0,0,0,0,1,3
+Charleston,St. Andrews 9,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,St. Andrews 10,Sheriff,,REP,Rick Keys,1,0,0,0,0,1,0
+Charleston,St. Andrews 11,Sheriff,,REP,Rick Keys,11,0,0,0,0,1,10
+Charleston,St. Andrews 12,Sheriff,,REP,Rick Keys,9,0,0,0,0,1,8
+Charleston,St. Andrews 13,Sheriff,,REP,Rick Keys,11,0,0,0,0,4,7
+Charleston,St. Andrews 14,Sheriff,,REP,Rick Keys,7,0,0,0,0,1,6
+Charleston,St. Andrews 15,Sheriff,,REP,Rick Keys,1,0,0,0,0,0,1
+Charleston,St. Andrews 16,Sheriff,,REP,Rick Keys,10,0,0,1,0,2,7
+Charleston,St. Andrews 17,Sheriff,,REP,Rick Keys,12,0,0,0,0,4,8
+Charleston,St. Andrews 18,Sheriff,,REP,Rick Keys,6,0,0,0,0,1,5
+Charleston,St. Andrews 19,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,St. Andrews 20,Sheriff,,REP,Rick Keys,8,0,0,1,0,2,5
+Charleston,St. Andrews 21,Sheriff,,REP,Rick Keys,4,0,0,0,0,0,4
+Charleston,St. Andrews 22,Sheriff,,REP,Rick Keys,17,0,0,2,0,4,11
+Charleston,St. Andrews 23,Sheriff,,REP,Rick Keys,3,0,0,0,0,0,3
+Charleston,St. Andrews 24,Sheriff,,REP,Rick Keys,4,0,0,0,0,1,3
+Charleston,St. Andrews 25,Sheriff,,REP,Rick Keys,2,0,0,0,0,0,2
+Charleston,St. Andrews 26,Sheriff,,REP,Rick Keys,12,0,0,1,0,7,4
+Charleston,St. Andrews 27,Sheriff,,REP,Rick Keys,22,0,0,0,0,8,14
+Charleston,St. Andrews 28,Sheriff,,REP,Rick Keys,17,0,0,0,0,3,14
+Charleston,St. Andrews 29,Sheriff,,REP,Rick Keys,17,0,0,5,0,3,9
+Charleston,St. Andrews 30,Sheriff,,REP,Rick Keys,9,0,0,2,0,1,6
+Charleston,St. Andrews 31,Sheriff,,REP,Rick Keys,7,0,0,2,0,0,5
+Charleston,St. Andrews 32,Sheriff,,REP,Rick Keys,19,0,0,0,0,3,16
+Charleston,St. Andrews 33,Sheriff,,REP,Rick Keys,9,0,0,0,0,6,3
+Charleston,St. Andrews 34,Sheriff,,REP,Rick Keys,41,0,0,0,0,13,28
+Charleston,St. Andrews 35,Sheriff,,REP,Rick Keys,18,0,0,0,0,0,18
+Charleston,St. Andrews 36,Sheriff,,REP,Rick Keys,22,0,0,0,0,3,19
+Charleston,St. Andrews 37,Sheriff,,REP,Rick Keys,45,0,0,2,0,5,38
+Charleston,North Charleston 1,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,North Charleston 2,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,North Charleston 3,Sheriff,,REP,Rick Keys,17,0,0,0,0,3,14
+Charleston,North Charleston 4,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,North Charleston 5,Sheriff,,REP,Rick Keys,2,0,0,0,0,0,2
+Charleston,North Charleston 6,Sheriff,,REP,Rick Keys,1,0,0,0,0,0,1
+Charleston,North Charleston 7,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,North Charleston 8,Sheriff,,REP,Rick Keys,5,0,0,0,0,2,3
+Charleston,North Charleston 9,Sheriff,,REP,Rick Keys,12,0,0,0,0,5,7
+Charleston,North Charleston 10,Sheriff,,REP,Rick Keys,2,0,0,0,0,0,2
+Charleston,North Charleston 11,Sheriff,,REP,Rick Keys,21,0,0,0,0,5,16
+Charleston,North Charleston 12,Sheriff,,REP,Rick Keys,18,0,0,3,0,2,13
+Charleston,North Charleston 13,Sheriff,,REP,Rick Keys,6,0,0,0,0,0,6
+Charleston,North Charleston 14,Sheriff,,REP,Rick Keys,7,0,0,0,0,2,5
+Charleston,North Charleston 15,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,North Charleston 16,Sheriff,,REP,Rick Keys,4,0,0,0,0,3,1
+Charleston,North Charleston 17,Sheriff,,REP,Rick Keys,3,0,0,0,0,1,2
+Charleston,North Charleston 18,Sheriff,,REP,Rick Keys,7,0,0,1,0,2,4
+Charleston,North Charleston 19,Sheriff,,REP,Rick Keys,3,0,0,0,0,1,2
+Charleston,North Charleston 20,Sheriff,,REP,Rick Keys,25,0,0,2,0,10,13
+Charleston,North Charleston 21,Sheriff,,REP,Rick Keys,6,0,0,1,0,2,3
+Charleston,North Charleston 22,Sheriff,,REP,Rick Keys,3,0,0,1,0,1,1
+Charleston,North Charleston 23,Sheriff,,REP,Rick Keys,22,0,0,1,0,7,14
+Charleston,North Charleston 24,Sheriff,,REP,Rick Keys,3,0,0,0,0,2,1
+Charleston,North Charleston 25,Sheriff,,REP,Rick Keys,2,0,0,0,0,2,0
+Charleston,North Charleston 26,Sheriff,,REP,Rick Keys,1,0,0,0,0,0,1
+Charleston,North Charleston 27,Sheriff,,REP,Rick Keys,1,0,0,0,0,1,0
+Charleston,North Charleston 28,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,North Charleston 29,Sheriff,,REP,Rick Keys,4,0,0,0,0,2,2
+Charleston,North Charleston 30,Sheriff,,REP,Rick Keys,2,0,0,0,0,0,2
+Charleston,Failsafe,Sheriff,,REP,Rick Keys,0,0,0,0,0,0,0
+Charleston,Provisional,Sheriff,,REP,Rick Keys,3,0,3,0,0,0,0
+Charleston,Failsafe Provisional,Sheriff,,REP,Rick Keys,1,0,0,0,1,0,0
+Charleston,Awendaw,Sheriff,,REP,Greg Kitchens,58,0,0,1,0,10,47
+Charleston,Christ Church,Sheriff,,REP,Greg Kitchens,43,0,0,1,0,4,38
+Charleston,Isle Of Palms 1A,Sheriff,,REP,Greg Kitchens,45,0,0,6,0,5,34
+Charleston,Isle of Palms 1B,Sheriff,,REP,Greg Kitchens,45,0,0,2,0,4,39
+Charleston,Isle of Palms 1C,Sheriff,,REP,Greg Kitchens,89,0,0,8,0,11,70
+Charleston,Sullivans Island,Sheriff,,REP,Greg Kitchens,147,0,0,5,0,13,129
+Charleston,McClellanville,Sheriff,,REP,Greg Kitchens,50,0,0,1,0,5,44
+Charleston,Deer Park 1A,Sheriff,,REP,Greg Kitchens,7,0,0,0,0,3,4
+Charleston,Deer Park 1B,Sheriff,,REP,Greg Kitchens,41,0,0,8,0,5,28
+Charleston,Deer Park 2A,Sheriff,,REP,Greg Kitchens,20,0,0,3,0,2,15
+Charleston,Deer Park 2B,Sheriff,,REP,Greg Kitchens,15,0,0,0,0,2,13
+Charleston,Deer Park 2C,Sheriff,,REP,Greg Kitchens,6,0,0,0,0,2,4
+Charleston,Deer Park 3,Sheriff,,REP,Greg Kitchens,16,0,0,4,0,3,9
+Charleston,Lincolnville,Sheriff,,REP,Greg Kitchens,31,0,0,6,0,1,24
+Charleston,Ladson,Sheriff,,REP,Greg Kitchens,21,0,0,1,0,5,15
+Charleston,Edisto Island,Sheriff,,REP,Greg Kitchens,104,0,0,5,0,12,87
+Charleston,Wadmalaw Island 1,Sheriff,,REP,Greg Kitchens,48,0,0,3,0,5,40
+Charleston,Wadmalaw Island 2,Sheriff,,REP,Greg Kitchens,60,0,0,5,0,5,50
+Charleston,Kiawah Island,Sheriff,,REP,Greg Kitchens,187,0,0,13,0,14,160
+Charleston,Town of Seabrook,Sheriff,,REP,Greg Kitchens,212,0,0,7,0,13,192
+Charleston,Folly Beach 1,Sheriff,,REP,Greg Kitchens,25,0,0,2,0,0,23
+Charleston,Folly Beach 2,Sheriff,,REP,Greg Kitchens,43,0,0,0,0,5,38
+Charleston,Charleston 1,Sheriff,,REP,Greg Kitchens,103,0,0,0,0,13,90
+Charleston,Charleston 2,Sheriff,,REP,Greg Kitchens,106,0,0,10,0,4,92
+Charleston,Charleston 3,Sheriff,,REP,Greg Kitchens,74,0,0,1,0,10,63
+Charleston,Charleston 4,Sheriff,,REP,Greg Kitchens,83,0,0,3,0,11,69
+Charleston,Charleston 5,Sheriff,,REP,Greg Kitchens,60,0,0,2,0,7,51
+Charleston,Charleston 6,Sheriff,,REP,Greg Kitchens,53,0,0,5,0,3,45
+Charleston,Charleston 7,Sheriff,,REP,Greg Kitchens,54,0,0,0,0,7,47
+Charleston,Charleston 8,Sheriff,,REP,Greg Kitchens,3,0,0,0,0,0,3
+Charleston,Charleston 9,Sheriff,,REP,Greg Kitchens,16,0,0,1,0,2,13
+Charleston,Charleston 10,Sheriff,,REP,Greg Kitchens,1,0,0,0,0,0,1
+Charleston,Charleston 11,Sheriff,,REP,Greg Kitchens,33,0,0,0,0,6,27
+Charleston,Charleston 12,Sheriff,,REP,Greg Kitchens,11,0,0,0,0,1,10
+Charleston,Charleston 13,Sheriff,,REP,Greg Kitchens,5,0,0,0,0,1,4
+Charleston,Charleston 14,Sheriff,,REP,Greg Kitchens,6,0,0,0,0,0,6
+Charleston,Charleston 15,Sheriff,,REP,Greg Kitchens,3,0,0,0,0,1,2
+Charleston,Charleston 16,Sheriff,,REP,Greg Kitchens,3,0,0,0,0,0,3
+Charleston,Charleston 17,Sheriff,,REP,Greg Kitchens,10,0,0,0,0,3,7
+Charleston,Charleston 18,Sheriff,,REP,Greg Kitchens,4,0,0,0,0,0,4
+Charleston,Charleston 19,Sheriff,,REP,Greg Kitchens,6,0,0,0,0,0,6
+Charleston,Charleston 20,Sheriff,,REP,Greg Kitchens,12,0,0,0,0,0,12
+Charleston,Charleston 21,Sheriff,,REP,Greg Kitchens,4,0,0,0,0,0,4
+Charleston,Mt. Pleasant 1,Sheriff,,REP,Greg Kitchens,87,0,0,2,0,10,75
+Charleston,Mt. Pleasant 2,Sheriff,,REP,Greg Kitchens,37,0,0,4,0,6,27
+Charleston,Mt. Pleasant 3,Sheriff,,REP,Greg Kitchens,84,0,0,11,0,11,62
+Charleston,Mt. Pleasant 4,Sheriff,,REP,Greg Kitchens,58,0,0,0,0,5,53
+Charleston,Mt. Pleasant 5,Sheriff,,REP,Greg Kitchens,47,0,0,1,0,6,40
+Charleston,Mt. Pleasant 6,Sheriff,,REP,Greg Kitchens,40,0,0,1,0,3,36
+Charleston,Mt. Pleasant 7,Sheriff,,REP,Greg Kitchens,27,0,0,1,0,1,25
+Charleston,Mt. Pleasant 8,Sheriff,,REP,Greg Kitchens,24,0,0,0,0,5,19
+Charleston,Mt. Pleasant 9,Sheriff,,REP,Greg Kitchens,44,0,0,1,0,4,39
+Charleston,Mt. Pleasant 10,Sheriff,,REP,Greg Kitchens,44,0,0,0,0,8,36
+Charleston,Mt. Pleasant 11,Sheriff,,REP,Greg Kitchens,22,0,0,0,0,4,18
+Charleston,Mt. Pleasant 12,Sheriff,,REP,Greg Kitchens,57,0,0,2,0,14,41
+Charleston,Mt. Pleasant 13,Sheriff,,REP,Greg Kitchens,15,0,0,0,0,1,14
+Charleston,Mt. Pleasant 14,Sheriff,,REP,Greg Kitchens,34,0,0,4,0,9,21
+Charleston,Mt. Pleasant 15,Sheriff,,REP,Greg Kitchens,166,0,0,8,0,31,127
+Charleston,Mt. Pleasant 16,Sheriff,,REP,Greg Kitchens,70,0,0,0,0,11,59
+Charleston,Mt. Pleasant 17,Sheriff,,REP,Greg Kitchens,86,0,0,5,0,19,62
+Charleston,Mt. Pleasant 18,Sheriff,,REP,Greg Kitchens,60,0,0,0,0,10,50
+Charleston,Mt. Pleasant 19,Sheriff,,REP,Greg Kitchens,57,0,0,1,0,11,45
+Charleston,Mt. Pleasant 20,Sheriff,,REP,Greg Kitchens,44,0,0,4,0,10,30
+Charleston,Mt. Pleasant 21,Sheriff,,REP,Greg Kitchens,73,0,0,5,0,15,53
+Charleston,Mt. Pleasant 22,Sheriff,,REP,Greg Kitchens,45,0,0,1,0,10,34
+Charleston,Mt. Pleasant 23,Sheriff,,REP,Greg Kitchens,43,0,0,2,0,19,22
+Charleston,Mt. Pleasant 24,Sheriff,,REP,Greg Kitchens,23,0,0,0,0,11,12
+Charleston,Mt. Pleasant 25,Sheriff,,REP,Greg Kitchens,37,0,0,0,0,11,26
+Charleston,Mt. Pleasant 26,Sheriff,,REP,Greg Kitchens,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 27,Sheriff,,REP,Greg Kitchens,100,0,0,0,0,15,85
+Charleston,Mt. Pleasant 28,Sheriff,,REP,Greg Kitchens,27,0,0,1,0,4,22
+Charleston,Mt. Pleasant 29,Sheriff,,REP,Greg Kitchens,20,0,0,1,0,3,16
+Charleston,Mt. Pleasant 30,Sheriff,,REP,Greg Kitchens,118,0,0,0,0,14,104
+Charleston,Mt. Pleasant 31,Sheriff,,REP,Greg Kitchens,51,0,0,0,0,8,43
+Charleston,Mt. Pleasant 32,Sheriff,,REP,Greg Kitchens,74,0,0,1,0,18,55
+Charleston,Mt. Pleasant 33,Sheriff,,REP,Greg Kitchens,139,0,0,10,0,36,93
+Charleston,Mt. Pleasant 34,Sheriff,,REP,Greg Kitchens,63,0,0,2,0,21,40
+Charleston,Mt. Pleasant 35,Sheriff,,REP,Greg Kitchens,145,0,0,8,0,27,110
+Charleston,Mt. Pleasant 36,Sheriff,,REP,Greg Kitchens,37,0,0,0,0,14,23
+Charleston,Mt. Pleasant 37,Sheriff,,REP,Greg Kitchens,83,0,0,2,0,24,57
+Charleston,Mt. Pleasant 38,Sheriff,,REP,Greg Kitchens,72,0,0,3,0,25,44
+Charleston,Mt. Pleasant 39,Sheriff,,REP,Greg Kitchens,227,0,0,11,0,88,128
+Charleston,James Island 1A,Sheriff,,REP,Greg Kitchens,72,0,0,3,0,7,62
+Charleston,James Island 1B,Sheriff,,REP,Greg Kitchens,15,0,0,1,0,1,13
+Charleston,James Island 3,Sheriff,,REP,Greg Kitchens,3,0,0,0,0,0,3
+Charleston,James Island 5A,Sheriff,,REP,Greg Kitchens,100,0,0,8,0,20,72
+Charleston,James Island 5B,Sheriff,,REP,Greg Kitchens,55,0,0,2,0,5,48
+Charleston,James Island 6,Sheriff,,REP,Greg Kitchens,71,0,0,6,0,4,61
+Charleston,James Island 7,Sheriff,,REP,Greg Kitchens,87,0,0,5,0,10,72
+Charleston,James Island 8A,Sheriff,,REP,Greg Kitchens,71,0,0,22,0,6,43
+Charleston,James Island 8B,Sheriff,,REP,Greg Kitchens,67,0,0,4,0,10,53
+Charleston,James Island 9,Sheriff,,REP,Greg Kitchens,42,0,0,3,0,1,38
+Charleston,James Island 10,Sheriff,,REP,Greg Kitchens,55,0,0,0,0,15,40
+Charleston,James Island 11,Sheriff,,REP,Greg Kitchens,108,0,0,10,0,11,87
+Charleston,James Island 12,Sheriff,,REP,Greg Kitchens,87,0,0,4,0,18,65
+Charleston,James Island 13,Sheriff,,REP,Greg Kitchens,113,0,0,7,0,19,87
+Charleston,James Island 14,Sheriff,,REP,Greg Kitchens,43,0,0,4,0,2,37
+Charleston,James Island 15,Sheriff,,REP,Greg Kitchens,54,0,0,1,0,4,49
+Charleston,James Island 17,Sheriff,,REP,Greg Kitchens,108,0,0,9,0,14,85
+Charleston,James Island 19,Sheriff,,REP,Greg Kitchens,59,0,0,1,0,10,48
+Charleston,James Island 20,Sheriff,,REP,Greg Kitchens,39,0,0,1,0,8,30
+Charleston,James Island 22,Sheriff,,REP,Greg Kitchens,69,0,0,4,0,12,53
+Charleston,Johns Island 1A,Sheriff,,REP,Greg Kitchens,159,0,0,6,0,47,106
+Charleston,Johns Island 1B,Sheriff,,REP,Greg Kitchens,125,0,0,1,0,16,108
+Charleston,Johns Island 2,Sheriff,,REP,Greg Kitchens,258,0,0,6,0,46,206
+Charleston,Johns Island 3A,Sheriff,,REP,Greg Kitchens,326,0,0,2,0,51,273
+Charleston,Johns Island 3B,Sheriff,,REP,Greg Kitchens,112,0,0,6,0,18,88
+Charleston,Johns Island 4,Sheriff,,REP,Greg Kitchens,60,0,0,3,0,5,52
+Charleston,St. Pauls 1,Sheriff,,REP,Greg Kitchens,14,0,0,2,0,1,11
+Charleston,St. Pauls 2A,Sheriff,,REP,Greg Kitchens,13,0,0,4,0,1,8
+Charleston,St. Pauls 2B,Sheriff,,REP,Greg Kitchens,49,0,0,2,0,9,38
+Charleston,St. Pauls 3,Sheriff,,REP,Greg Kitchens,157,0,0,6,0,37,114
+Charleston,St. Pauls 4,Sheriff,,REP,Greg Kitchens,29,0,0,2,0,0,27
+Charleston,St. Pauls 5,Sheriff,,REP,Greg Kitchens,28,0,0,2,0,1,25
+Charleston,St. Pauls 6,Sheriff,,REP,Greg Kitchens,126,0,0,6,0,46,74
+Charleston,St. Andrews 1,Sheriff,,REP,Greg Kitchens,15,0,0,1,0,1,13
+Charleston,St. Andrews 2,Sheriff,,REP,Greg Kitchens,15,0,0,3,0,1,11
+Charleston,St. Andrews 3,Sheriff,,REP,Greg Kitchens,16,0,0,3,0,2,11
+Charleston,St. Andrews 4,Sheriff,,REP,Greg Kitchens,93,0,0,5,0,16,72
+Charleston,St. Andrews 5,Sheriff,,REP,Greg Kitchens,85,0,0,2,0,10,73
+Charleston,St. Andrews 6,Sheriff,,REP,Greg Kitchens,71,0,0,1,0,10,60
+Charleston,St. Andrews 7,Sheriff,,REP,Greg Kitchens,78,0,0,2,0,13,63
+Charleston,St. Andrews 8,Sheriff,,REP,Greg Kitchens,12,0,0,0,0,0,12
+Charleston,St. Andrews 9,Sheriff,,REP,Greg Kitchens,7,0,0,0,0,2,5
+Charleston,St. Andrews 10,Sheriff,,REP,Greg Kitchens,25,0,0,1,0,5,19
+Charleston,St. Andrews 11,Sheriff,,REP,Greg Kitchens,43,0,0,1,0,14,28
+Charleston,St. Andrews 12,Sheriff,,REP,Greg Kitchens,38,0,0,3,0,8,27
+Charleston,St. Andrews 13,Sheriff,,REP,Greg Kitchens,55,0,0,2,0,9,44
+Charleston,St. Andrews 14,Sheriff,,REP,Greg Kitchens,36,0,0,6,0,5,25
+Charleston,St. Andrews 15,Sheriff,,REP,Greg Kitchens,3,0,0,0,0,2,1
+Charleston,St. Andrews 16,Sheriff,,REP,Greg Kitchens,27,0,0,0,0,4,23
+Charleston,St. Andrews 17,Sheriff,,REP,Greg Kitchens,57,0,0,0,0,19,38
+Charleston,St. Andrews 18,Sheriff,,REP,Greg Kitchens,9,0,0,0,0,1,8
+Charleston,St. Andrews 19,Sheriff,,REP,Greg Kitchens,5,0,0,0,0,0,5
+Charleston,St. Andrews 20,Sheriff,,REP,Greg Kitchens,53,0,0,5,0,20,28
+Charleston,St. Andrews 21,Sheriff,,REP,Greg Kitchens,23,0,0,0,0,11,12
+Charleston,St. Andrews 22,Sheriff,,REP,Greg Kitchens,62,0,0,3,0,12,47
+Charleston,St. Andrews 23,Sheriff,,REP,Greg Kitchens,15,0,0,0,0,2,13
+Charleston,St. Andrews 24,Sheriff,,REP,Greg Kitchens,24,0,0,1,0,4,19
+Charleston,St. Andrews 25,Sheriff,,REP,Greg Kitchens,22,0,0,1,0,8,13
+Charleston,St. Andrews 26,Sheriff,,REP,Greg Kitchens,44,0,0,3,0,14,27
+Charleston,St. Andrews 27,Sheriff,,REP,Greg Kitchens,103,0,0,6,0,25,72
+Charleston,St. Andrews 28,Sheriff,,REP,Greg Kitchens,114,0,0,4,0,30,80
+Charleston,St. Andrews 29,Sheriff,,REP,Greg Kitchens,63,0,0,3,0,17,43
+Charleston,St. Andrews 30,Sheriff,,REP,Greg Kitchens,53,0,0,3,0,17,33
+Charleston,St. Andrews 31,Sheriff,,REP,Greg Kitchens,28,0,0,0,0,6,22
+Charleston,St. Andrews 32,Sheriff,,REP,Greg Kitchens,59,0,0,4,0,10,45
+Charleston,St. Andrews 33,Sheriff,,REP,Greg Kitchens,51,0,0,2,0,18,31
+Charleston,St. Andrews 34,Sheriff,,REP,Greg Kitchens,187,0,0,3,0,25,159
+Charleston,St. Andrews 35,Sheriff,,REP,Greg Kitchens,133,0,0,9,0,32,92
+Charleston,St. Andrews 36,Sheriff,,REP,Greg Kitchens,115,0,0,5,0,14,96
+Charleston,St. Andrews 37,Sheriff,,REP,Greg Kitchens,208,0,0,7,0,35,166
+Charleston,North Charleston 1,Sheriff,,REP,Greg Kitchens,1,0,0,0,0,0,1
+Charleston,North Charleston 2,Sheriff,,REP,Greg Kitchens,1,0,0,0,0,0,1
+Charleston,North Charleston 3,Sheriff,,REP,Greg Kitchens,43,0,0,2,0,2,39
+Charleston,North Charleston 4,Sheriff,,REP,Greg Kitchens,3,0,0,0,0,1,2
+Charleston,North Charleston 5,Sheriff,,REP,Greg Kitchens,4,0,0,0,0,1,3
+Charleston,North Charleston 6,Sheriff,,REP,Greg Kitchens,1,0,0,0,0,0,1
+Charleston,North Charleston 7,Sheriff,,REP,Greg Kitchens,1,0,0,0,0,0,1
+Charleston,North Charleston 8,Sheriff,,REP,Greg Kitchens,8,0,0,1,0,3,4
+Charleston,North Charleston 9,Sheriff,,REP,Greg Kitchens,19,0,0,3,0,2,14
+Charleston,North Charleston 10,Sheriff,,REP,Greg Kitchens,7,0,0,0,0,1,6
+Charleston,North Charleston 11,Sheriff,,REP,Greg Kitchens,8,0,0,0,0,0,8
+Charleston,North Charleston 12,Sheriff,,REP,Greg Kitchens,12,0,0,0,0,4,8
+Charleston,North Charleston 13,Sheriff,,REP,Greg Kitchens,1,0,0,0,0,0,1
+Charleston,North Charleston 14,Sheriff,,REP,Greg Kitchens,7,0,0,0,0,3,4
+Charleston,North Charleston 15,Sheriff,,REP,Greg Kitchens,3,0,0,0,0,0,3
+Charleston,North Charleston 16,Sheriff,,REP,Greg Kitchens,7,0,0,2,0,3,2
+Charleston,North Charleston 17,Sheriff,,REP,Greg Kitchens,2,0,0,0,0,0,2
+Charleston,North Charleston 18,Sheriff,,REP,Greg Kitchens,7,0,0,0,0,1,6
+Charleston,North Charleston 19,Sheriff,,REP,Greg Kitchens,4,0,0,0,0,0,4
+Charleston,North Charleston 20,Sheriff,,REP,Greg Kitchens,20,0,0,1,0,6,13
+Charleston,North Charleston 21,Sheriff,,REP,Greg Kitchens,12,0,0,0,0,4,8
+Charleston,North Charleston 22,Sheriff,,REP,Greg Kitchens,11,0,0,2,0,0,9
+Charleston,North Charleston 23,Sheriff,,REP,Greg Kitchens,27,0,0,7,0,5,15
+Charleston,North Charleston 24,Sheriff,,REP,Greg Kitchens,13,0,0,1,0,1,11
+Charleston,North Charleston 25,Sheriff,,REP,Greg Kitchens,0,0,0,0,0,0,0
+Charleston,North Charleston 26,Sheriff,,REP,Greg Kitchens,0,0,0,0,0,0,0
+Charleston,North Charleston 27,Sheriff,,REP,Greg Kitchens,8,0,0,0,0,0,8
+Charleston,North Charleston 28,Sheriff,,REP,Greg Kitchens,3,0,0,0,0,2,1
+Charleston,North Charleston 29,Sheriff,,REP,Greg Kitchens,10,0,0,0,0,1,9
+Charleston,North Charleston 30,Sheriff,,REP,Greg Kitchens,12,0,0,2,0,3,7
+Charleston,Failsafe,Sheriff,,REP,Greg Kitchens,0,0,0,0,0,0,0
+Charleston,Provisional,Sheriff,,REP,Greg Kitchens,10,0,10,0,0,0,0
+Charleston,Failsafe Provisional,Sheriff,,REP,Greg Kitchens,5,0,0,0,5,0,0
+Charleston,Awendaw,Sheriff,,REP,Carl Ritchie,67,0,0,3,0,17,47
+Charleston,Christ Church,Sheriff,,REP,Carl Ritchie,49,0,0,6,0,10,33
+Charleston,Isle Of Palms 1A,Sheriff,,REP,Carl Ritchie,97,0,0,4,0,10,83
+Charleston,Isle of Palms 1B,Sheriff,,REP,Carl Ritchie,102,0,0,5,0,15,82
+Charleston,Isle of Palms 1C,Sheriff,,REP,Carl Ritchie,131,0,0,12,0,27,92
+Charleston,Sullivans Island,Sheriff,,REP,Carl Ritchie,94,0,0,2,0,4,88
+Charleston,McClellanville,Sheriff,,REP,Carl Ritchie,39,0,0,1,0,3,35
+Charleston,Deer Park 1A,Sheriff,,REP,Carl Ritchie,6,0,0,0,0,1,5
+Charleston,Deer Park 1B,Sheriff,,REP,Carl Ritchie,36,0,0,10,0,5,21
+Charleston,Deer Park 2A,Sheriff,,REP,Carl Ritchie,18,0,0,3,0,3,12
+Charleston,Deer Park 2B,Sheriff,,REP,Carl Ritchie,7,0,0,0,0,1,6
+Charleston,Deer Park 2C,Sheriff,,REP,Carl Ritchie,13,0,0,0,0,7,6
+Charleston,Deer Park 3,Sheriff,,REP,Carl Ritchie,11,0,0,3,0,2,6
+Charleston,Lincolnville,Sheriff,,REP,Carl Ritchie,26,0,0,3,0,2,21
+Charleston,Ladson,Sheriff,,REP,Carl Ritchie,18,0,0,5,0,2,11
+Charleston,Edisto Island,Sheriff,,REP,Carl Ritchie,49,0,0,3,0,4,42
+Charleston,Wadmalaw Island 1,Sheriff,,REP,Carl Ritchie,20,0,0,3,0,3,14
+Charleston,Wadmalaw Island 2,Sheriff,,REP,Carl Ritchie,36,0,0,3,0,6,27
+Charleston,Kiawah Island,Sheriff,,REP,Carl Ritchie,75,0,0,10,0,3,62
+Charleston,Town of Seabrook,Sheriff,,REP,Carl Ritchie,103,0,0,5,0,1,97
+Charleston,Folly Beach 1,Sheriff,,REP,Carl Ritchie,22,0,0,1,0,2,19
+Charleston,Folly Beach 2,Sheriff,,REP,Carl Ritchie,23,0,0,1,0,1,21
+Charleston,Charleston 1,Sheriff,,REP,Carl Ritchie,27,0,0,2,0,4,21
+Charleston,Charleston 2,Sheriff,,REP,Carl Ritchie,29,0,0,0,0,3,26
+Charleston,Charleston 3,Sheriff,,REP,Carl Ritchie,21,0,0,1,0,0,20
+Charleston,Charleston 4,Sheriff,,REP,Carl Ritchie,24,0,0,0,0,2,22
+Charleston,Charleston 5,Sheriff,,REP,Carl Ritchie,17,0,0,0,0,1,16
+Charleston,Charleston 6,Sheriff,,REP,Carl Ritchie,15,0,0,1,0,1,13
+Charleston,Charleston 7,Sheriff,,REP,Carl Ritchie,21,0,0,0,0,0,21
+Charleston,Charleston 8,Sheriff,,REP,Carl Ritchie,2,0,0,0,0,1,1
+Charleston,Charleston 9,Sheriff,,REP,Carl Ritchie,8,0,0,0,0,0,8
+Charleston,Charleston 10,Sheriff,,REP,Carl Ritchie,0,0,0,0,0,0,0
+Charleston,Charleston 11,Sheriff,,REP,Carl Ritchie,9,0,0,2,0,0,7
+Charleston,Charleston 12,Sheriff,,REP,Carl Ritchie,11,0,0,1,0,3,7
+Charleston,Charleston 13,Sheriff,,REP,Carl Ritchie,4,0,0,0,0,1,3
+Charleston,Charleston 14,Sheriff,,REP,Carl Ritchie,3,0,0,0,0,2,1
+Charleston,Charleston 15,Sheriff,,REP,Carl Ritchie,1,0,0,0,0,0,1
+Charleston,Charleston 16,Sheriff,,REP,Carl Ritchie,10,0,0,0,0,0,10
+Charleston,Charleston 17,Sheriff,,REP,Carl Ritchie,5,0,0,1,0,1,3
+Charleston,Charleston 18,Sheriff,,REP,Carl Ritchie,1,0,0,0,0,0,1
+Charleston,Charleston 19,Sheriff,,REP,Carl Ritchie,0,0,0,0,0,0,0
+Charleston,Charleston 20,Sheriff,,REP,Carl Ritchie,8,0,0,0,0,2,6
+Charleston,Charleston 21,Sheriff,,REP,Carl Ritchie,1,0,0,0,0,1,0
+Charleston,Mt. Pleasant 1,Sheriff,,REP,Carl Ritchie,124,0,0,2,0,16,106
+Charleston,Mt. Pleasant 2,Sheriff,,REP,Carl Ritchie,44,0,0,2,0,4,38
+Charleston,Mt. Pleasant 3,Sheriff,,REP,Carl Ritchie,122,0,0,5,0,24,93
+Charleston,Mt. Pleasant 4,Sheriff,,REP,Carl Ritchie,72,0,0,4,0,12,56
+Charleston,Mt. Pleasant 5,Sheriff,,REP,Carl Ritchie,87,0,0,2,0,11,74
+Charleston,Mt. Pleasant 6,Sheriff,,REP,Carl Ritchie,87,0,0,3,0,8,76
+Charleston,Mt. Pleasant 7,Sheriff,,REP,Carl Ritchie,52,0,0,5,0,11,36
+Charleston,Mt. Pleasant 8,Sheriff,,REP,Carl Ritchie,53,0,0,0,0,5,48
+Charleston,Mt. Pleasant 9,Sheriff,,REP,Carl Ritchie,75,0,0,6,0,12,57
+Charleston,Mt. Pleasant 10,Sheriff,,REP,Carl Ritchie,71,0,0,2,0,13,56
+Charleston,Mt. Pleasant 11,Sheriff,,REP,Carl Ritchie,79,0,0,7,0,14,58
+Charleston,Mt. Pleasant 12,Sheriff,,REP,Carl Ritchie,115,0,0,10,0,24,81
+Charleston,Mt. Pleasant 13,Sheriff,,REP,Carl Ritchie,54,0,0,6,0,10,38
+Charleston,Mt. Pleasant 14,Sheriff,,REP,Carl Ritchie,49,0,0,6,0,3,40
+Charleston,Mt. Pleasant 15,Sheriff,,REP,Carl Ritchie,194,0,0,18,0,33,143
+Charleston,Mt. Pleasant 16,Sheriff,,REP,Carl Ritchie,132,0,0,2,0,22,108
+Charleston,Mt. Pleasant 17,Sheriff,,REP,Carl Ritchie,175,0,0,10,0,49,116
+Charleston,Mt. Pleasant 18,Sheriff,,REP,Carl Ritchie,125,0,0,2,0,19,104
+Charleston,Mt. Pleasant 19,Sheriff,,REP,Carl Ritchie,79,0,0,6,0,13,60
+Charleston,Mt. Pleasant 20,Sheriff,,REP,Carl Ritchie,126,0,0,7,0,46,73
+Charleston,Mt. Pleasant 21,Sheriff,,REP,Carl Ritchie,115,0,0,15,0,40,60
+Charleston,Mt. Pleasant 22,Sheriff,,REP,Carl Ritchie,63,0,0,4,0,15,44
+Charleston,Mt. Pleasant 23,Sheriff,,REP,Carl Ritchie,79,0,0,2,0,22,55
+Charleston,Mt. Pleasant 24,Sheriff,,REP,Carl Ritchie,53,0,0,3,0,16,34
+Charleston,Mt. Pleasant 25,Sheriff,,REP,Carl Ritchie,95,0,0,2,0,27,66
+Charleston,Mt. Pleasant 26,Sheriff,,REP,Carl Ritchie,0,0,0,0,0,0,0
+Charleston,Mt. Pleasant 27,Sheriff,,REP,Carl Ritchie,171,0,0,3,0,32,136
+Charleston,Mt. Pleasant 28,Sheriff,,REP,Carl Ritchie,75,0,0,1,0,11,63
+Charleston,Mt. Pleasant 29,Sheriff,,REP,Carl Ritchie,40,0,0,1,0,15,24
+Charleston,Mt. Pleasant 30,Sheriff,,REP,Carl Ritchie,186,0,0,9,0,21,156
+Charleston,Mt. Pleasant 31,Sheriff,,REP,Carl Ritchie,72,0,0,5,0,23,44
+Charleston,Mt. Pleasant 32,Sheriff,,REP,Carl Ritchie,158,0,0,2,0,61,95
+Charleston,Mt. Pleasant 33,Sheriff,,REP,Carl Ritchie,348,0,0,13,0,134,201
+Charleston,Mt. Pleasant 34,Sheriff,,REP,Carl Ritchie,129,0,0,9,0,61,59
+Charleston,Mt. Pleasant 35,Sheriff,,REP,Carl Ritchie,305,0,0,11,0,102,192
+Charleston,Mt. Pleasant 36,Sheriff,,REP,Carl Ritchie,87,0,0,1,0,21,65
+Charleston,Mt. Pleasant 37,Sheriff,,REP,Carl Ritchie,208,0,0,3,0,60,145
+Charleston,Mt. Pleasant 38,Sheriff,,REP,Carl Ritchie,118,0,0,2,0,51,65
+Charleston,Mt. Pleasant 39,Sheriff,,REP,Carl Ritchie,313,0,0,7,0,144,162
+Charleston,James Island 1A,Sheriff,,REP,Carl Ritchie,41,0,0,1,0,5,35
+Charleston,James Island 1B,Sheriff,,REP,Carl Ritchie,11,0,0,4,0,1,6
+Charleston,James Island 3,Sheriff,,REP,Carl Ritchie,6,0,0,0,0,1,5
+Charleston,James Island 5A,Sheriff,,REP,Carl Ritchie,39,0,0,0,0,11,28
+Charleston,James Island 5B,Sheriff,,REP,Carl Ritchie,26,0,0,4,0,2,20
+Charleston,James Island 6,Sheriff,,REP,Carl Ritchie,30,0,0,0,0,2,28
+Charleston,James Island 7,Sheriff,,REP,Carl Ritchie,46,0,0,2,0,11,33
+Charleston,James Island 8A,Sheriff,,REP,Carl Ritchie,38,0,0,9,0,5,24
+Charleston,James Island 8B,Sheriff,,REP,Carl Ritchie,36,0,0,1,0,4,31
+Charleston,James Island 9,Sheriff,,REP,Carl Ritchie,33,0,0,0,0,2,31
+Charleston,James Island 10,Sheriff,,REP,Carl Ritchie,24,0,0,1,0,6,17
+Charleston,James Island 11,Sheriff,,REP,Carl Ritchie,50,0,0,8,0,5,37
+Charleston,James Island 12,Sheriff,,REP,Carl Ritchie,49,0,0,10,0,4,35
+Charleston,James Island 13,Sheriff,,REP,Carl Ritchie,50,0,0,3,0,7,40
+Charleston,James Island 14,Sheriff,,REP,Carl Ritchie,27,0,0,5,0,2,20
+Charleston,James Island 15,Sheriff,,REP,Carl Ritchie,51,0,0,0,0,3,48
+Charleston,James Island 17,Sheriff,,REP,Carl Ritchie,31,0,0,1,0,6,24
+Charleston,James Island 19,Sheriff,,REP,Carl Ritchie,27,0,0,1,0,3,23
+Charleston,James Island 20,Sheriff,,REP,Carl Ritchie,24,0,0,0,0,4,20
+Charleston,James Island 22,Sheriff,,REP,Carl Ritchie,57,0,0,4,0,7,46
+Charleston,Johns Island 1A,Sheriff,,REP,Carl Ritchie,79,0,0,4,0,30,45
+Charleston,Johns Island 1B,Sheriff,,REP,Carl Ritchie,78,0,0,2,0,19,57
+Charleston,Johns Island 2,Sheriff,,REP,Carl Ritchie,124,0,0,0,0,27,97
+Charleston,Johns Island 3A,Sheriff,,REP,Carl Ritchie,171,0,0,12,0,37,122
+Charleston,Johns Island 3B,Sheriff,,REP,Carl Ritchie,59,0,0,11,0,9,39
+Charleston,Johns Island 4,Sheriff,,REP,Carl Ritchie,32,0,0,3,0,5,24
+Charleston,St. Pauls 1,Sheriff,,REP,Carl Ritchie,12,0,0,0,0,2,10
+Charleston,St. Pauls 2A,Sheriff,,REP,Carl Ritchie,7,0,0,1,0,1,5
+Charleston,St. Pauls 2B,Sheriff,,REP,Carl Ritchie,26,0,0,1,0,4,21
+Charleston,St. Pauls 3,Sheriff,,REP,Carl Ritchie,134,0,0,7,0,33,94
+Charleston,St. Pauls 4,Sheriff,,REP,Carl Ritchie,17,0,0,1,0,6,10
+Charleston,St. Pauls 5,Sheriff,,REP,Carl Ritchie,37,0,0,4,0,10,23
+Charleston,St. Pauls 6,Sheriff,,REP,Carl Ritchie,108,0,0,9,0,33,66
+Charleston,St. Andrews 1,Sheriff,,REP,Carl Ritchie,16,0,0,6,0,1,9
+Charleston,St. Andrews 2,Sheriff,,REP,Carl Ritchie,7,0,0,0,0,2,5
+Charleston,St. Andrews 3,Sheriff,,REP,Carl Ritchie,5,0,0,2,0,0,3
+Charleston,St. Andrews 4,Sheriff,,REP,Carl Ritchie,33,0,0,2,0,4,27
+Charleston,St. Andrews 5,Sheriff,,REP,Carl Ritchie,43,0,0,5,0,3,35
+Charleston,St. Andrews 6,Sheriff,,REP,Carl Ritchie,30,0,0,2,0,1,27
+Charleston,St. Andrews 7,Sheriff,,REP,Carl Ritchie,35,0,0,2,0,4,29
+Charleston,St. Andrews 8,Sheriff,,REP,Carl Ritchie,1,0,0,0,0,0,1
+Charleston,St. Andrews 9,Sheriff,,REP,Carl Ritchie,3,0,0,0,0,2,1
+Charleston,St. Andrews 10,Sheriff,,REP,Carl Ritchie,22,0,0,0,0,7,15
+Charleston,St. Andrews 11,Sheriff,,REP,Carl Ritchie,34,0,0,4,0,9,21
+Charleston,St. Andrews 12,Sheriff,,REP,Carl Ritchie,45,0,0,6,0,10,29
+Charleston,St. Andrews 13,Sheriff,,REP,Carl Ritchie,44,0,0,0,0,5,39
+Charleston,St. Andrews 14,Sheriff,,REP,Carl Ritchie,27,0,0,3,0,10,14
+Charleston,St. Andrews 15,Sheriff,,REP,Carl Ritchie,2,0,0,0,0,0,2
+Charleston,St. Andrews 16,Sheriff,,REP,Carl Ritchie,16,0,0,1,0,1,14
+Charleston,St. Andrews 17,Sheriff,,REP,Carl Ritchie,67,0,0,4,0,21,42
+Charleston,St. Andrews 18,Sheriff,,REP,Carl Ritchie,10,0,0,1,0,1,8
+Charleston,St. Andrews 19,Sheriff,,REP,Carl Ritchie,0,0,0,0,0,0,0
+Charleston,St. Andrews 20,Sheriff,,REP,Carl Ritchie,41,0,0,1,0,8,32
+Charleston,St. Andrews 21,Sheriff,,REP,Carl Ritchie,13,0,0,0,0,1,12
+Charleston,St. Andrews 22,Sheriff,,REP,Carl Ritchie,38,0,0,2,0,7,29
+Charleston,St. Andrews 23,Sheriff,,REP,Carl Ritchie,11,0,0,2,0,4,5
+Charleston,St. Andrews 24,Sheriff,,REP,Carl Ritchie,19,0,0,2,0,3,14
+Charleston,St. Andrews 25,Sheriff,,REP,Carl Ritchie,17,0,0,4,0,6,7
+Charleston,St. Andrews 26,Sheriff,,REP,Carl Ritchie,33,0,0,2,0,20,11
+Charleston,St. Andrews 27,Sheriff,,REP,Carl Ritchie,56,0,0,5,0,15,36
+Charleston,St. Andrews 28,Sheriff,,REP,Carl Ritchie,70,0,0,2,0,24,44
+Charleston,St. Andrews 29,Sheriff,,REP,Carl Ritchie,63,0,0,5,0,14,44
+Charleston,St. Andrews 30,Sheriff,,REP,Carl Ritchie,46,0,0,9,0,16,21
+Charleston,St. Andrews 31,Sheriff,,REP,Carl Ritchie,17,0,0,1,0,8,8
+Charleston,St. Andrews 32,Sheriff,,REP,Carl Ritchie,38,0,0,9,0,6,23
+Charleston,St. Andrews 33,Sheriff,,REP,Carl Ritchie,52,0,0,3,0,21,28
+Charleston,St. Andrews 34,Sheriff,,REP,Carl Ritchie,114,0,0,2,0,38,74
+Charleston,St. Andrews 35,Sheriff,,REP,Carl Ritchie,59,0,0,0,0,17,42
+Charleston,St. Andrews 36,Sheriff,,REP,Carl Ritchie,46,0,0,4,0,7,35
+Charleston,St. Andrews 37,Sheriff,,REP,Carl Ritchie,166,0,0,6,0,56,104
+Charleston,North Charleston 1,Sheriff,,REP,Carl Ritchie,0,0,0,0,0,0,0
+Charleston,North Charleston 2,Sheriff,,REP,Carl Ritchie,0,0,0,0,0,0,0
+Charleston,North Charleston 3,Sheriff,,REP,Carl Ritchie,37,0,0,0,0,10,27
+Charleston,North Charleston 4,Sheriff,,REP,Carl Ritchie,1,0,0,0,0,0,1
+Charleston,North Charleston 5,Sheriff,,REP,Carl Ritchie,0,0,0,0,0,0,0
+Charleston,North Charleston 6,Sheriff,,REP,Carl Ritchie,2,0,0,0,0,1,1
+Charleston,North Charleston 7,Sheriff,,REP,Carl Ritchie,2,0,0,0,0,0,2
+Charleston,North Charleston 8,Sheriff,,REP,Carl Ritchie,5,0,0,0,0,2,3
+Charleston,North Charleston 9,Sheriff,,REP,Carl Ritchie,19,0,0,0,0,6,13
+Charleston,North Charleston 10,Sheriff,,REP,Carl Ritchie,2,0,0,0,0,2,0
+Charleston,North Charleston 11,Sheriff,,REP,Carl Ritchie,13,0,0,3,0,1,9
+Charleston,North Charleston 12,Sheriff,,REP,Carl Ritchie,14,0,0,0,0,1,13
+Charleston,North Charleston 13,Sheriff,,REP,Carl Ritchie,1,0,0,0,0,0,1
+Charleston,North Charleston 14,Sheriff,,REP,Carl Ritchie,6,0,0,1,0,1,4
+Charleston,North Charleston 15,Sheriff,,REP,Carl Ritchie,0,0,0,0,0,0,0
+Charleston,North Charleston 16,Sheriff,,REP,Carl Ritchie,5,0,0,0,0,2,3
+Charleston,North Charleston 17,Sheriff,,REP,Carl Ritchie,1,0,0,0,0,0,1
+Charleston,North Charleston 18,Sheriff,,REP,Carl Ritchie,6,0,0,0,0,1,5
+Charleston,North Charleston 19,Sheriff,,REP,Carl Ritchie,1,0,0,0,0,0,1
+Charleston,North Charleston 20,Sheriff,,REP,Carl Ritchie,14,0,0,0,0,3,11
+Charleston,North Charleston 21,Sheriff,,REP,Carl Ritchie,11,0,0,0,0,1,10
+Charleston,North Charleston 22,Sheriff,,REP,Carl Ritchie,5,0,0,1,0,1,3
+Charleston,North Charleston 23,Sheriff,,REP,Carl Ritchie,22,0,0,3,0,1,18
+Charleston,North Charleston 24,Sheriff,,REP,Carl Ritchie,10,0,0,0,0,3,7
+Charleston,North Charleston 25,Sheriff,,REP,Carl Ritchie,0,0,0,0,0,0,0
+Charleston,North Charleston 26,Sheriff,,REP,Carl Ritchie,2,0,0,0,0,0,2
+Charleston,North Charleston 27,Sheriff,,REP,Carl Ritchie,9,0,0,0,0,1,8
+Charleston,North Charleston 28,Sheriff,,REP,Carl Ritchie,2,0,0,0,0,1,1
+Charleston,North Charleston 29,Sheriff,,REP,Carl Ritchie,6,0,0,1,0,0,5
+Charleston,North Charleston 30,Sheriff,,REP,Carl Ritchie,4,0,0,0,0,1,3
+Charleston,Failsafe,Sheriff,,REP,Carl Ritchie,0,0,0,0,0,0,0
+Charleston,Provisional,Sheriff,,REP,Carl Ritchie,6,0,6,0,0,0,0
+Charleston,Failsafe Provisional,Sheriff,,REP,Carl Ritchie,4,0,0,0,4,0,0

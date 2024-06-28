@@ -1,0 +1,949 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+York,Catawba,State Senate,17,REP,Tibi Czentye,62,0,2,0,20,0,40
+York,Highland Park,State Senate,17,REP,Tibi Czentye,14,0,0,0,2,0,12
+York,Independence,State Senate,17,REP,Tibi Czentye,26,0,2,0,6,0,18
+York,Mt. Holly,State Senate,17,REP,Tibi Czentye,58,0,1,0,20,0,37
+York,Ogden,State Senate,17,REP,Tibi Czentye,30,0,0,0,8,0,22
+York,Rock Hill No. 2,State Senate,17,REP,Tibi Czentye,8,0,0,0,2,0,6
+York,Rock Hill No. 3,State Senate,17,REP,Tibi Czentye,19,0,0,0,7,0,12
+York,Rock Hill No. 4,State Senate,17,REP,Tibi Czentye,28,0,2,0,7,0,19
+York,Rock Hill No. 6,State Senate,17,REP,Tibi Czentye,13,0,1,0,0,0,12
+York,Rock Hill No. 8,State Senate,17,REP,Tibi Czentye,10,0,0,0,3,0,7
+York,Edgewood,State Senate,17,REP,Tibi Czentye,29,0,0,0,4,0,25
+York,Lesslie,State Senate,17,REP,Tibi Czentye,33,0,1,0,6,0,26
+York,Anderson Road,State Senate,17,REP,Tibi Czentye,17,0,0,0,6,0,11
+York,Fairgrounds,State Senate,17,REP,Tibi Czentye,10,0,0,0,0,0,10
+York,Ferry Branch,State Senate,17,REP,Tibi Czentye,27,0,3,0,4,0,20
+York,Friendship,State Senate,17,REP,Tibi Czentye,17,0,0,0,4,0,13
+York,Hopewell,State Senate,17,REP,Tibi Czentye,18,0,1,0,3,0,14
+York,Manchester,State Senate,17,REP,Tibi Czentye,27,0,0,0,8,0,19
+York,Neelys Creek,State Senate,17,REP,Tibi Czentye,28,0,0,0,2,0,26
+York,Six Mile,State Senate,17,REP,Tibi Czentye,30,0,0,0,7,0,23
+York,Springdale,State Senate,17,REP,Tibi Czentye,17,0,0,0,7,0,10
+York,Failsafe,State Senate,17,REP,Tibi Czentye,0,0,0,0,0,0,0
+York,Provisional,State Senate,17,REP,Tibi Czentye,1,0,0,0,0,1,0
+York,Filsafe Provisional,State Senate,17,REP,Tibi Czentye,0,0,0,0,0,0,0
+York,Catawba,State Senate,17,REP,Tripp McCoy,73,0,0,0,15,0,58
+York,Highland Park,State Senate,17,REP,Tripp McCoy,25,0,1,0,4,0,20
+York,Independence,State Senate,17,REP,Tripp McCoy,31,0,2,0,8,0,21
+York,Mt. Holly,State Senate,17,REP,Tripp McCoy,57,0,3,0,15,0,39
+York,Ogden,State Senate,17,REP,Tripp McCoy,66,0,0,0,14,0,52
+York,Rock Hill No. 2,State Senate,17,REP,Tripp McCoy,26,0,0,0,6,0,20
+York,Rock Hill No. 3,State Senate,17,REP,Tripp McCoy,38,0,0,0,6,0,32
+York,Rock Hill No. 4,State Senate,17,REP,Tripp McCoy,65,0,2,0,11,0,52
+York,Rock Hill No. 6,State Senate,17,REP,Tripp McCoy,16,0,2,0,1,0,13
+York,Rock Hill No. 8,State Senate,17,REP,Tripp McCoy,16,0,0,0,2,0,14
+York,Edgewood,State Senate,17,REP,Tripp McCoy,65,0,2,0,7,0,56
+York,Lesslie,State Senate,17,REP,Tripp McCoy,66,0,2,0,20,0,44
+York,Anderson Road,State Senate,17,REP,Tripp McCoy,17,0,0,0,3,0,14
+York,Fairgrounds,State Senate,17,REP,Tripp McCoy,22,0,1,0,0,0,21
+York,Ferry Branch,State Senate,17,REP,Tripp McCoy,55,0,3,0,4,0,48
+York,Friendship,State Senate,17,REP,Tripp McCoy,36,0,3,0,5,0,28
+York,Hopewell,State Senate,17,REP,Tripp McCoy,45,0,3,0,13,0,29
+York,Manchester,State Senate,17,REP,Tripp McCoy,31,0,0,0,10,0,21
+York,Neelys Creek,State Senate,17,REP,Tripp McCoy,47,0,1,0,7,0,39
+York,Six Mile,State Senate,17,REP,Tripp McCoy,65,0,1,0,8,0,56
+York,Springdale,State Senate,17,REP,Tripp McCoy,38,0,2,0,7,0,29
+York,Failsafe,State Senate,17,REP,Tripp McCoy,1,1,0,0,0,0,0
+York,Provisional,State Senate,17,REP,Tripp McCoy,2,0,0,0,0,2,0
+York,Filsafe Provisional,State Senate,17,REP,Tripp McCoy,1,0,0,1,0,0,0
+York,Catawba,State Senate,17,REP,Everett Stubbs,222,0,2,0,79,0,141
+York,Highland Park,State Senate,17,REP,Everett Stubbs,31,0,4,0,5,0,22
+York,Independence,State Senate,17,REP,Everett Stubbs,109,0,2,0,36,0,71
+York,Mt. Holly,State Senate,17,REP,Everett Stubbs,259,0,6,0,76,0,177
+York,Ogden,State Senate,17,REP,Everett Stubbs,159,0,2,0,21,0,136
+York,Rock Hill No. 2,State Senate,17,REP,Everett Stubbs,13,0,0,0,4,0,9
+York,Rock Hill No. 3,State Senate,17,REP,Everett Stubbs,31,0,2,0,8,0,21
+York,Rock Hill No. 4,State Senate,17,REP,Everett Stubbs,74,0,2,0,16,0,56
+York,Rock Hill No. 6,State Senate,17,REP,Everett Stubbs,25,0,0,0,2,0,23
+York,Rock Hill No. 8,State Senate,17,REP,Everett Stubbs,11,0,0,0,2,0,9
+York,Edgewood,State Senate,17,REP,Everett Stubbs,60,0,0,0,7,0,53
+York,Lesslie,State Senate,17,REP,Everett Stubbs,153,0,2,0,46,0,105
+York,Anderson Road,State Senate,17,REP,Everett Stubbs,33,0,2,0,7,0,24
+York,Fairgrounds,State Senate,17,REP,Everett Stubbs,16,0,0,0,3,0,13
+York,Ferry Branch,State Senate,17,REP,Everett Stubbs,82,0,1,0,12,0,69
+York,Friendship,State Senate,17,REP,Everett Stubbs,60,0,2,0,12,0,46
+York,Hopewell,State Senate,17,REP,Everett Stubbs,57,0,1,0,15,0,41
+York,Manchester,State Senate,17,REP,Everett Stubbs,73,0,4,0,23,0,46
+York,Neelys Creek,State Senate,17,REP,Everett Stubbs,100,0,0,0,23,0,77
+York,Six Mile,State Senate,17,REP,Everett Stubbs,115,0,0,0,30,0,85
+York,Springdale,State Senate,17,REP,Everett Stubbs,33,0,2,0,10,0,21
+York,Failsafe,State Senate,17,REP,Everett Stubbs,0,0,0,0,0,0,0
+York,Provisional,State Senate,17,REP,Everett Stubbs,1,0,0,0,0,1,0
+York,Filsafe Provisional,State Senate,17,REP,Everett Stubbs,2,0,0,2,0,0,0
+York,Fort Mill No. 1,State House,26,REP,Elizabeth Enns,135,0,3,0,24,0,108
+York,Fort Mill No. 3,State House,26,REP,Elizabeth Enns,97,0,1,0,29,0,67
+York,Fort Mill No. 4,State House,26,REP,Elizabeth Enns,60,0,0,0,16,0,44
+York,Fort Mill No. 5,State House,26,REP,Elizabeth Enns,345,0,14,0,124,0,207
+York,Fort Mill No. 2,State House,26,REP,Elizabeth Enns,234,0,1,0,53,0,180
+York,Dobys Bridge,State House,26,REP,Elizabeth Enns,190,0,8,0,29,0,153
+York,Riverview,State House,26,REP,Elizabeth Enns,43,0,3,0,7,0,33
+York,Carolina,State House,26,REP,Elizabeth Enns,99,0,4,0,33,0,62
+York,Nation Ford,State House,26,REP,Elizabeth Enns,325,0,6,0,70,0,249
+York,Springfield,State House,26,REP,Elizabeth Enns,138,0,1,0,27,0,110
+York,Stateline,State House,26,REP,Elizabeth Enns,111,0,0,0,27,0,84
+York,Failsafe,State House,26,REP,Elizabeth Enns,0,0,0,0,0,0,0
+York,Provisional,State House,26,REP,Elizabeth Enns,0,0,0,0,0,0,0
+York,Filsafe Provisional,State House,26,REP,Elizabeth Enns,0,0,0,0,0,0,0
+York,Fort Mill No. 1,State House,26,REP,David Martin,311,0,5,0,82,0,224
+York,Fort Mill No. 3,State House,26,REP,David Martin,163,0,1,0,42,0,120
+York,Fort Mill No. 4,State House,26,REP,David Martin,126,0,3,0,27,0,96
+York,Fort Mill No. 5,State House,26,REP,David Martin,155,0,13,0,48,0,94
+York,Fort Mill No. 2,State House,26,REP,David Martin,489,0,4,0,160,0,325
+York,Dobys Bridge,State House,26,REP,David Martin,276,0,2,0,73,0,201
+York,Riverview,State House,26,REP,David Martin,126,0,1,0,27,0,98
+York,Carolina,State House,26,REP,David Martin,94,0,2,0,22,0,70
+York,Nation Ford,State House,26,REP,David Martin,123,0,0,0,25,0,98
+York,Springfield,State House,26,REP,David Martin,174,0,5,0,48,0,121
+York,Stateline,State House,26,REP,David Martin,79,0,1,0,10,0,68
+York,Failsafe,State House,26,REP,David Martin,0,0,0,0,0,0,0
+York,Provisional,State House,26,REP,David Martin,1,0,0,0,0,1,0
+York,Filsafe Provisional,State House,26,REP,David Martin,0,0,0,0,0,0,0
+York,Catawba,State House,43,REP,Elias Irizarry,133,0,0,0,37,0,96
+York,Independence,State House,43,REP,Elias Irizarry,63,0,2,0,16,0,45
+York,Mt. Holly,State House,43,REP,Elias Irizarry,47,0,0,0,16,0,31
+York,Lesslie,State House,43,REP,Elias Irizarry,84,0,0,0,24,0,60
+York,Anderson Road,State House,43,REP,Elias Irizarry,7,0,0,0,1,0,6
+York,Ferry Branch,State House,43,REP,Elias Irizarry,67,0,0,0,4,0,63
+York,Friendship,State House,43,REP,Elias Irizarry,24,0,0,0,1,0,23
+York,Hopewell,State House,43,REP,Elias Irizarry,19,0,0,0,5,0,14
+York,Manchester,State House,43,REP,Elias Irizarry,48,0,0,0,11,0,37
+York,Neelys Creek,State House,43,REP,Elias Irizarry,68,0,0,0,12,0,56
+York,Six Mile,State House,43,REP,Elias Irizarry,79,0,0,0,12,0,67
+York,Springdale,State House,43,REP,Elias Irizarry,32,0,2,0,9,0,21
+York,Failsafe,State House,43,REP,Elias Irizarry,0,0,0,0,0,0,0
+York,Provisional,State House,43,REP,Elias Irizarry,1,0,0,0,0,1,0
+York,Filsafe Provisional,State House,43,REP,Elias Irizarry,0,0,0,0,0,0,0
+York,Catawba,State House,43,REP,Randy Ligon,227,0,4,0,80,0,143
+York,Independence,State House,43,REP,Randy Ligon,103,0,4,0,35,0,64
+York,Mt. Holly,State House,43,REP,Randy Ligon,181,0,5,0,46,0,130
+York,Lesslie,State House,43,REP,Randy Ligon,169,0,5,0,49,0,115
+York,Anderson Road,State House,43,REP,Randy Ligon,27,0,0,0,9,0,18
+York,Ferry Branch,State House,43,REP,Randy Ligon,99,0,7,0,17,0,75
+York,Friendship,State House,43,REP,Randy Ligon,74,0,3,0,21,0,50
+York,Hopewell,State House,43,REP,Randy Ligon,28,0,0,0,8,0,20
+York,Manchester,State House,43,REP,Randy Ligon,79,0,4,0,28,0,47
+York,Neelys Creek,State House,43,REP,Randy Ligon,106,0,1,0,20,0,85
+York,Six Mile,State House,43,REP,Randy Ligon,134,0,1,0,34,0,99
+York,Springdale,State House,43,REP,Randy Ligon,59,0,2,0,16,0,41
+York,Failsafe,State House,43,REP,Randy Ligon,0,0,0,0,0,0,0
+York,Provisional,State House,43,REP,Randy Ligon,1,0,0,0,0,1,0
+York,Filsafe Provisional,State House,43,REP,Randy Ligon,0,0,0,0,0,0,0
+York,Windjammer,State House,66,REP,Michele Branning,156,0,2,0,43,0,111
+York,Shoreline,State House,66,REP,Michele Branning,160,0,3,0,38,0,119
+York,Fort Mill No. 6,State House,66,REP,Michele Branning,117,0,2,0,23,0,92
+York,Orchard Park,State House,66,REP,Michele Branning,217,0,1,0,94,0,122
+York,Steele Creek,State House,66,REP,Michele Branning,265,0,2,0,85,0,178
+York,Pleasant Road,State House,66,REP,Michele Branning,140,0,5,0,51,0,84
+York,Gold Hill,State House,66,REP,Michele Branning,170,0,2,0,73,0,95
+York,Waterstone,State House,66,REP,Michele Branning,67,0,0,0,16,0,51
+York,Palmetto,State House,66,REP,Michele Branning,117,0,6,0,41,0,70
+York,Tega Cay,State House,66,REP,Michele Branning,88,0,3,0,22,0,63
+York,Stateline,State House,66,REP,Michele Branning,0,0,0,0,0,0,0
+York,Baxter,State House,66,REP,Michele Branning,140,0,2,0,53,0,85
+York,Kanawha,State House,66,REP,Michele Branning,199,0,4,0,63,0,132
+York,Crescent,State House,66,REP,Michele Branning,154,0,2,0,74,0,78
+York,Failsafe,State House,66,REP,Michele Branning,0,0,0,0,0,0,0
+York,Provisional,State House,66,REP,Michele Branning,4,0,0,0,0,4,0
+York,Filsafe Provisional,State House,66,REP,Michele Branning,2,0,0,2,0,0,0
+York,Windjammer,State House,66,REP,Jackie Terribile,202,0,3,0,40,0,159
+York,Shoreline,State House,66,REP,Jackie Terribile,230,0,0,0,34,0,196
+York,Fort Mill No. 6,State House,66,REP,Jackie Terribile,105,0,0,0,31,0,74
+York,Orchard Park,State House,66,REP,Jackie Terribile,238,0,2,0,99,0,137
+York,Steele Creek,State House,66,REP,Jackie Terribile,173,0,4,0,42,0,127
+York,Pleasant Road,State House,66,REP,Jackie Terribile,155,0,2,0,45,0,108
+York,Gold Hill,State House,66,REP,Jackie Terribile,201,0,2,0,50,0,149
+York,Waterstone,State House,66,REP,Jackie Terribile,106,0,3,0,21,0,82
+York,Palmetto,State House,66,REP,Jackie Terribile,141,0,2,0,30,0,109
+York,Tega Cay,State House,66,REP,Jackie Terribile,129,0,1,0,23,0,105
+York,Stateline,State House,66,REP,Jackie Terribile,1,0,0,0,0,0,1
+York,Baxter,State House,66,REP,Jackie Terribile,119,0,0,0,37,0,82
+York,Kanawha,State House,66,REP,Jackie Terribile,183,0,0,0,60,0,123
+York,Crescent,State House,66,REP,Jackie Terribile,161,0,3,0,63,0,95
+York,Failsafe,State House,66,REP,Jackie Terribile,0,0,0,0,0,0,0
+York,Provisional,State House,66,REP,Jackie Terribile,3,0,0,0,0,3,0
+York,Filsafe Provisional,State House,66,REP,Jackie Terribile,0,0,0,0,0,0,0
+York,Bethany,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,175,0,2,0,34,0,139
+York,Bethel,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,141,0,8,0,17,0,116
+York,River Hills,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,286,0,8,0,36,0,242
+York,Bethel School,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,200,0,3,0,53,0,144
+York,Bowling Green,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,141,0,0,0,28,0,113
+York,Bullocks Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,46,0,2,0,12,0,32
+York,Cannon Mill,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,129,0,3,0,40,0,86
+York,Catawba,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,269,0,3,0,97,0,169
+York,Clover,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,224,0,1,0,66,0,157
+York,Hampton Mill,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,155,0,1,0,16,0,138
+York,Cotton Belt,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,188,0,0,0,71,0,117
+York,Delphia,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,179,0,4,0,36,0,139
+York,Ebenezer,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,129,0,3,0,33,0,93
+York,Filbert,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,210,0,3,0,63,0,144
+York,Fort Mill No. 1,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,316,0,8,0,77,0,231
+York,Windjammer,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,266,0,5,0,64,0,197
+York,Fort Mill No. 3,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,186,0,2,0,48,0,136
+York,Hickory Grove,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,118,0,5,0,20,0,93
+York,Highland Park,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,51,0,3,0,7,0,41
+York,Lakeshore,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,239,0,4,0,22,0,213
+York,Independence,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,125,0,4,0,41,0,80
+York,McConnells,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,161,0,1,0,47,0,113
+York,Mt. Holly,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,282,0,7,0,86,0,189
+York,Newport,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,198,0,6,0,43,0,149
+York,Mt. Gallant,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,169,0,5,0,31,0,133
+York,Northside,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,55,0,1,0,4,0,50
+York,Oakridge,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,233,0,8,0,48,0,177
+York,Ogden,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,189,0,2,0,31,0,156
+York,Oakwood,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,137,0,5,0,27,0,105
+York,Airport,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,145,0,2,0,20,0,123
+York,Rock Hill No. 2,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,28,0,0,0,5,0,23
+York,Rock Hill No. 3,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,61,0,2,0,11,0,48
+York,Rock Hill No. 4,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,135,0,6,0,32,0,97
+York,Rock Hill No. 5,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,130,0,1,0,30,0,99
+York,Rock Hill No. 6,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,35,0,3,0,3,0,29
+York,Rock Hill No. 7,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,122,0,12,0,20,0,90
+York,Rock Hill No. 8,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,19,0,0,0,1,0,18
+York,Sharon,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,153,0,3,0,34,0,116
+York,Smyrna,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,65,0,2,0,11,0,52
+York,Tirzah,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,272,0,7,0,70,0,195
+York,York No. 1,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,138,0,3,0,48,0,87
+York,York No. 2,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,206,0,3,0,66,0,137
+York,India Hook,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,144,0,1,0,24,0,119
+York,Edgewood,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,102,0,2,0,14,0,86
+York,Fewell Park,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,137,0,11,0,27,0,99
+York,Fort Mill No. 4,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,132,0,2,0,40,0,90
+York,Lesslie,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,196,0,5,0,54,0,137
+York,Rosewood,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,118,0,6,0,16,0,96
+York,Northwestern,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,273,0,19,0,52,0,202
+York,Shoreline,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,266,0,1,0,55,0,210
+York,Ebinport,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,209,0,10,0,40,0,159
+York,University,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,70,0,1,0,15,0,54
+York,Fort Mill No. 5,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,374,0,23,0,136,0,215
+York,Fort Mill No. 6,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,164,0,2,0,47,0,115
+York,Allison Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,236,0,3,0,40,0,193
+York,Anderson Road,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,43,0,0,0,12,0,31
+York,New Home,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,230,0,6,0,40,0,184
+York,Fort Mill No. 2,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,449,0,5,0,140,0,304
+York,Dobys Bridge,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,361,0,8,0,82,0,271
+York,Riverview,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,130,0,1,0,27,0,102
+York,Orchard Park,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,326,0,1,0,147,0,178
+York,Lakewood,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,100,0,3,0,21,0,76
+York,Laurel Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,235,0,12,0,54,0,169
+York,Steele Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,384,0,2,0,118,0,264
+York,Pleasant Road,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,222,0,7,0,78,0,137
+York,Gold Hill,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,286,0,4,0,98,0,184
+York,Waterstone,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,118,0,3,0,27,0,88
+York,Palmetto,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,184,0,6,0,58,0,120
+York,Tega Cay,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,166,0,1,0,33,0,132
+York,Adnah,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,104,0,2,0,13,0,89
+York,Harvest,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,85,0,3,0,12,0,70
+York,Old Pointe,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,107,0,3,0,16,0,88
+York,Tools Fork,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,164,0,3,0,25,0,136
+York,Carolina,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,152,0,5,0,47,0,100
+York,Fairgrounds,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,34,0,0,0,2,0,32
+York,Ferry Branch,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,126,0,3,0,14,0,109
+York,Friendship,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,89,0,4,0,15,0,70
+York,Hollis Lakes,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,146,0,9,0,33,0,104
+York,Hopewell,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,89,0,4,0,21,0,64
+York,Manchester,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,114,0,4,0,37,0,73
+York,Mill Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,138,0,3,0,15,0,120
+York,Nation Ford,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,365,0,6,0,85,0,274
+York,Neelys Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,132,0,1,0,28,0,103
+York,Pole Branch,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,227,0,1,0,30,0,196
+York,Six Mile,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,158,0,1,0,36,0,121
+York,Springdale,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,69,0,4,0,19,0,46
+York,Springfield,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,241,0,3,0,61,0,177
+York,Stateline,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,139,0,1,0,32,0,106
+York,Wylie,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,215,0,2,0,29,0,184
+York,Roosevelt,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,175,0,0,0,29,0,146
+York,Larne,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,118,0,0,0,23,0,95
+York,Rock Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,186,0,2,0,48,0,136
+York,River's Edge,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,346,0,5,0,79,0,262
+York,Baxter,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,211,0,1,0,77,0,133
+York,Kanawha,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,284,0,4,0,91,0,189
+York,Celanese,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,106,0,9,0,21,0,76
+York,Hands Mill,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,179,0,10,0,40,0,129
+York,Crescent,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,215,0,3,0,103,0,109
+York,Field Day,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,190,0,1,0,34,0,155
+York,Mountain View,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,112,0,6,0,21,0,85
+York,Failsafe,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,2,2,0,0,0,0,0
+York,Provisional,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,18,0,0,0,0,18,0
+York,Filsafe Provisional,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Kevin Brackett,17,0,0,17,0,0,0
+York,Bethany,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,104,0,2,0,16,0,86
+York,Bethel,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,69,0,3,0,5,0,61
+York,River Hills,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,120,0,2,0,12,0,106
+York,Bethel School,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,89,0,0,0,11,0,78
+York,Bowling Green,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,57,0,2,0,5,0,50
+York,Bullocks Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,24,0,0,0,3,0,21
+York,Cannon Mill,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,68,0,0,0,20,0,48
+York,Catawba,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,88,0,1,0,20,0,67
+York,Clover,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,93,0,1,0,20,0,72
+York,Hampton Mill,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,67,0,1,0,10,0,56
+York,Cotton Belt,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,140,0,3,0,49,0,88
+York,Delphia,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,121,0,0,0,22,0,99
+York,Ebenezer,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,41,0,1,0,6,0,34
+York,Filbert,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,123,0,0,0,32,0,91
+York,Fort Mill No. 1,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,99,0,0,0,25,0,74
+York,Windjammer,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,62,0,0,0,13,0,49
+York,Fort Mill No. 3,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,55,0,0,0,17,0,38
+York,Hickory Grove,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,95,0,4,0,12,0,79
+York,Highland Park,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,25,0,2,0,4,0,19
+York,Lakeshore,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,130,0,4,0,16,0,110
+York,Independence,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,40,0,2,0,11,0,27
+York,McConnells,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,72,0,0,0,7,0,65
+York,Mt. Holly,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,91,0,2,0,22,0,67
+York,Newport,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,72,0,3,0,17,0,52
+York,Mt. Gallant,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,52,0,3,0,13,0,36
+York,Northside,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,33,0,1,0,6,0,26
+York,Oakridge,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,114,0,1,0,25,0,88
+York,Ogden,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,73,0,0,0,12,0,61
+York,Oakwood,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,56,0,0,0,9,0,47
+York,Airport,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,43,0,0,0,1,0,42
+York,Rock Hill No. 2,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,24,0,0,0,8,0,16
+York,Rock Hill No. 3,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,39,0,0,0,12,0,27
+York,Rock Hill No. 4,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,53,0,2,0,7,0,44
+York,Rock Hill No. 5,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,38,0,3,0,6,0,29
+York,Rock Hill No. 6,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,24,0,0,0,0,0,24
+York,Rock Hill No. 7,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,34,0,4,0,4,0,26
+York,Rock Hill No. 8,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,23,0,0,0,7,0,16
+York,Sharon,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,109,0,0,0,16,0,93
+York,Smyrna,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,39,0,0,0,6,0,33
+York,Tirzah,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,130,0,4,0,31,0,95
+York,York No. 1,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,73,0,0,0,16,0,57
+York,York No. 2,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,149,0,1,0,45,0,103
+York,India Hook,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,30,0,0,0,3,0,27
+York,Edgewood,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,75,0,0,0,7,0,68
+York,Fewell Park,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,35,0,0,0,6,0,29
+York,Fort Mill No. 4,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,37,0,1,0,1,0,35
+York,Lesslie,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,50,0,0,0,17,0,33
+York,Rosewood,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,41,0,2,0,4,0,35
+York,Northwestern,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,66,0,2,0,18,0,46
+York,Shoreline,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,80,0,2,0,11,0,67
+York,Ebinport,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,77,0,0,0,13,0,64
+York,University,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,20,0,0,0,3,0,17
+York,Fort Mill No. 5,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,93,0,2,0,27,0,64
+York,Fort Mill No. 6,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,46,0,0,0,6,0,40
+York,Allison Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,104,0,2,0,14,0,88
+York,Anderson Road,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,23,0,2,0,2,0,19
+York,New Home,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,135,0,4,0,27,0,104
+York,Fort Mill No. 2,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,188,0,0,0,47,0,141
+York,Dobys Bridge,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,82,0,2,0,15,0,65
+York,Riverview,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,29,0,3,0,7,0,19
+York,Orchard Park,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,70,0,0,0,28,0,42
+York,Lakewood,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,50,0,2,0,8,0,40
+York,Laurel Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,95,0,3,0,23,0,69
+York,Steele Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,56,0,4,0,10,0,42
+York,Pleasant Road,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,58,0,0,0,14,0,44
+York,Gold Hill,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,63,0,0,0,19,0,44
+York,Waterstone,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,46,0,0,0,7,0,39
+York,Palmetto,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,58,0,0,0,13,0,45
+York,Tega Cay,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,39,0,3,0,9,0,27
+York,Adnah,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,47,0,1,0,8,0,38
+York,Harvest,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,29,0,0,0,2,0,27
+York,Old Pointe,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,44,0,0,0,7,0,37
+York,Tools Fork,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,73,0,3,0,19,0,51
+York,Carolina,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,35,0,1,0,5,0,29
+York,Fairgrounds,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,23,0,1,0,1,0,21
+York,Ferry Branch,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,38,0,4,0,7,0,27
+York,Friendship,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,26,0,1,0,6,0,19
+York,Hollis Lakes,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,42,0,1,0,7,0,34
+York,Hopewell,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,30,0,1,0,8,0,21
+York,Manchester,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,27,0,0,0,9,0,18
+York,Mill Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,51,0,1,0,9,0,41
+York,Nation Ford,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,66,0,0,0,9,0,57
+York,Neelys Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,43,0,0,0,5,0,38
+York,Pole Branch,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,86,0,0,0,14,0,72
+York,Six Mile,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,48,0,0,0,9,0,39
+York,Springdale,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,20,0,0,0,5,0,15
+York,Springfield,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,46,0,2,0,11,0,33
+York,Stateline,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,39,0,0,0,4,0,35
+York,Wylie,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,97,0,0,0,16,0,81
+York,Roosevelt,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,73,0,1,0,3,0,69
+York,Larne,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,54,0,1,0,5,0,48
+York,Rock Creek,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,68,0,0,0,15,0,53
+York,River's Edge,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,175,0,2,0,34,0,139
+York,Baxter,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,38,0,2,0,9,0,27
+York,Kanawha,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,72,0,0,0,21,0,51
+York,Celanese,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,30,0,0,0,4,0,26
+York,Hands Mill,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,59,0,1,0,9,0,49
+York,Crescent,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,69,0,2,0,23,0,44
+York,Field Day,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,87,0,0,0,19,0,68
+York,Mountain View,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,42,0,1,0,5,0,36
+York,Failsafe,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,2,2,0,0,0,0,0
+York,Provisional,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,9,0,0,0,0,9,0
+York,Filsafe Provisional,"Solicitor, Circuit 16", Circuit 16 - REP,REP,Tyler Bratton,4,0,0,4,0,0,0
+York,Bethany,Sheriff,,REP,Michael Belk,57,0,1,0,11,0,45
+York,Bethel,Sheriff,,REP,Michael Belk,62,0,4,0,8,0,50
+York,River Hills,Sheriff,,REP,Michael Belk,122,0,4,0,16,0,102
+York,Bethel School,Sheriff,,REP,Michael Belk,50,0,1,0,9,0,40
+York,Bowling Green,Sheriff,,REP,Michael Belk,41,0,2,0,7,0,32
+York,Bullocks Creek,Sheriff,,REP,Michael Belk,8,0,0,0,0,0,8
+York,Cannon Mill,Sheriff,,REP,Michael Belk,44,0,2,0,10,0,32
+York,Catawba,Sheriff,,REP,Michael Belk,82,0,0,0,30,0,52
+York,Clover,Sheriff,,REP,Michael Belk,72,0,0,0,27,0,45
+York,Hampton Mill,Sheriff,,REP,Michael Belk,38,0,0,0,9,0,29
+York,Cotton Belt,Sheriff,,REP,Michael Belk,47,0,0,0,17,0,30
+York,Delphia,Sheriff,,REP,Michael Belk,32,0,0,0,8,0,24
+York,Ebenezer,Sheriff,,REP,Michael Belk,68,0,2,0,15,0,51
+York,Filbert,Sheriff,,REP,Michael Belk,50,0,0,0,9,0,41
+York,Fort Mill No. 1,Sheriff,,REP,Michael Belk,144,0,4,0,38,0,102
+York,Windjammer,Sheriff,,REP,Michael Belk,109,0,2,0,21,0,86
+York,Fort Mill No. 3,Sheriff,,REP,Michael Belk,83,0,1,0,19,0,63
+York,Hickory Grove,Sheriff,,REP,Michael Belk,11,0,1,0,3,0,7
+York,Highland Park,Sheriff,,REP,Michael Belk,20,0,3,0,1,0,16
+York,Lakeshore,Sheriff,,REP,Michael Belk,86,0,1,0,9,0,76
+York,Independence,Sheriff,,REP,Michael Belk,27,0,2,0,12,0,13
+York,McConnells,Sheriff,,REP,Michael Belk,38,0,1,0,12,0,25
+York,Mt. Holly,Sheriff,,REP,Michael Belk,79,0,0,0,27,0,52
+York,Newport,Sheriff,,REP,Michael Belk,64,0,1,0,17,0,46
+York,Mt. Gallant,Sheriff,,REP,Michael Belk,67,0,2,0,15,0,50
+York,Northside,Sheriff,,REP,Michael Belk,28,0,1,0,5,0,22
+York,Oakridge,Sheriff,,REP,Michael Belk,77,0,0,0,16,0,61
+York,Ogden,Sheriff,,REP,Michael Belk,59,0,0,0,12,0,47
+York,Oakwood,Sheriff,,REP,Michael Belk,72,0,1,0,17,0,54
+York,Airport,Sheriff,,REP,Michael Belk,77,0,0,0,9,0,68
+York,Rock Hill No. 2,Sheriff,,REP,Michael Belk,19,0,0,0,7,0,12
+York,Rock Hill No. 3,Sheriff,,REP,Michael Belk,40,0,0,0,10,0,30
+York,Rock Hill No. 4,Sheriff,,REP,Michael Belk,70,0,6,0,19,0,45
+York,Rock Hill No. 5,Sheriff,,REP,Michael Belk,72,0,0,0,23,0,49
+York,Rock Hill No. 6,Sheriff,,REP,Michael Belk,13,0,0,0,0,0,13
+York,Rock Hill No. 7,Sheriff,,REP,Michael Belk,58,0,5,0,10,0,43
+York,Rock Hill No. 8,Sheriff,,REP,Michael Belk,16,0,0,0,2,0,14
+York,Sharon,Sheriff,,REP,Michael Belk,43,0,2,0,7,0,34
+York,Smyrna,Sheriff,,REP,Michael Belk,6,0,0,0,3,0,3
+York,Tirzah,Sheriff,,REP,Michael Belk,66,0,4,0,16,0,46
+York,York No. 1,Sheriff,,REP,Michael Belk,46,0,1,0,10,0,35
+York,York No. 2,Sheriff,,REP,Michael Belk,61,0,0,0,18,0,43
+York,India Hook,Sheriff,,REP,Michael Belk,68,0,0,0,14,0,54
+York,Edgewood,Sheriff,,REP,Michael Belk,72,0,2,0,5,0,65
+York,Fewell Park,Sheriff,,REP,Michael Belk,50,0,3,0,5,0,42
+York,Fort Mill No. 4,Sheriff,,REP,Michael Belk,78,0,2,0,18,0,58
+York,Lesslie,Sheriff,,REP,Michael Belk,44,0,2,0,10,0,32
+York,Rosewood,Sheriff,,REP,Michael Belk,54,0,3,0,9,0,42
+York,Northwestern,Sheriff,,REP,Michael Belk,144,0,7,0,25,0,112
+York,Shoreline,Sheriff,,REP,Michael Belk,86,0,0,0,21,0,65
+York,Ebinport,Sheriff,,REP,Michael Belk,109,0,2,0,23,0,84
+York,University,Sheriff,,REP,Michael Belk,16,0,0,0,3,0,13
+York,Fort Mill No. 5,Sheriff,,REP,Michael Belk,131,0,8,0,35,0,88
+York,Fort Mill No. 6,Sheriff,,REP,Michael Belk,51,0,0,0,12,0,39
+York,Allison Creek,Sheriff,,REP,Michael Belk,76,0,2,0,12,0,62
+York,Anderson Road,Sheriff,,REP,Michael Belk,28,0,1,0,7,0,20
+York,New Home,Sheriff,,REP,Michael Belk,66,0,1,0,13,0,52
+York,Fort Mill No. 2,Sheriff,,REP,Michael Belk,204,0,1,0,82,0,121
+York,Dobys Bridge,Sheriff,,REP,Michael Belk,147,0,4,0,29,0,114
+York,Riverview,Sheriff,,REP,Michael Belk,69,0,4,0,16,0,49
+York,Orchard Park,Sheriff,,REP,Michael Belk,138,0,0,0,60,0,78
+York,Lakewood,Sheriff,,REP,Michael Belk,37,0,0,0,4,0,33
+York,Laurel Creek,Sheriff,,REP,Michael Belk,127,0,4,0,26,0,97
+York,Steele Creek,Sheriff,,REP,Michael Belk,144,0,2,0,61,0,81
+York,Pleasant Road,Sheriff,,REP,Michael Belk,89,0,2,0,25,0,62
+York,Gold Hill,Sheriff,,REP,Michael Belk,114,0,0,0,53,0,61
+York,Waterstone,Sheriff,,REP,Michael Belk,51,0,0,0,16,0,35
+York,Palmetto,Sheriff,,REP,Michael Belk,71,0,2,0,22,0,47
+York,Tega Cay,Sheriff,,REP,Michael Belk,59,0,1,0,20,0,38
+York,Adnah,Sheriff,,REP,Michael Belk,37,0,2,0,6,0,29
+York,Harvest,Sheriff,,REP,Michael Belk,41,0,0,0,4,0,37
+York,Old Pointe,Sheriff,,REP,Michael Belk,39,0,0,0,8,0,31
+York,Tools Fork,Sheriff,,REP,Michael Belk,63,0,5,0,15,0,43
+York,Carolina,Sheriff,,REP,Michael Belk,56,0,1,0,15,0,40
+York,Fairgrounds,Sheriff,,REP,Michael Belk,17,0,0,0,1,0,16
+York,Ferry Branch,Sheriff,,REP,Michael Belk,40,0,3,0,5,0,32
+York,Friendship,Sheriff,,REP,Michael Belk,36,0,3,0,6,0,27
+York,Hollis Lakes,Sheriff,,REP,Michael Belk,76,0,0,0,17,0,59
+York,Hopewell,Sheriff,,REP,Michael Belk,36,0,4,0,13,0,19
+York,Manchester,Sheriff,,REP,Michael Belk,59,0,2,0,20,0,37
+York,Mill Creek,Sheriff,,REP,Michael Belk,57,0,1,0,7,0,49
+York,Nation Ford,Sheriff,,REP,Michael Belk,101,0,1,0,18,0,82
+York,Neelys Creek,Sheriff,,REP,Michael Belk,45,0,1,0,15,0,29
+York,Pole Branch,Sheriff,,REP,Michael Belk,89,0,0,0,12,0,77
+York,Six Mile,Sheriff,,REP,Michael Belk,54,0,0,0,13,0,41
+York,Springdale,Sheriff,,REP,Michael Belk,16,0,0,0,4,0,12
+York,Springfield,Sheriff,,REP,Michael Belk,64,0,0,0,17,0,47
+York,Stateline,Sheriff,,REP,Michael Belk,42,0,0,0,11,0,31
+York,Wylie,Sheriff,,REP,Michael Belk,73,0,2,0,9,0,62
+York,Roosevelt,Sheriff,,REP,Michael Belk,40,0,0,0,6,0,34
+York,Larne,Sheriff,,REP,Michael Belk,33,0,0,0,7,0,26
+York,Rock Creek,Sheriff,,REP,Michael Belk,52,0,0,0,14,0,38
+York,River's Edge,Sheriff,,REP,Michael Belk,135,0,0,0,37,0,98
+York,Baxter,Sheriff,,REP,Michael Belk,104,0,0,0,42,0,62
+York,Kanawha,Sheriff,,REP,Michael Belk,138,0,2,0,47,0,89
+York,Celanese,Sheriff,,REP,Michael Belk,52,0,3,0,10,0,39
+York,Hands Mill,Sheriff,,REP,Michael Belk,75,0,5,0,23,0,47
+York,Crescent,Sheriff,,REP,Michael Belk,81,0,1,0,38,0,42
+York,Field Day,Sheriff,,REP,Michael Belk,92,0,1,0,26,0,65
+York,Mountain View,Sheriff,,REP,Michael Belk,46,0,0,0,7,0,39
+York,Failsafe,Sheriff,,REP,Michael Belk,0,0,0,0,0,0,0
+York,Provisional,Sheriff,,REP,Michael Belk,4,0,0,0,0,4,0
+York,Filsafe Provisional,Sheriff,,REP,Michael Belk,6,0,0,6,0,0,0
+York,Bethany,Sheriff,,REP,Chris Blevins,66,0,1,0,13,0,52
+York,Bethel,Sheriff,,REP,Chris Blevins,44,0,4,0,5,0,35
+York,River Hills,Sheriff,,REP,Chris Blevins,90,0,2,0,9,0,79
+York,Bethel School,Sheriff,,REP,Chris Blevins,76,0,2,0,16,0,58
+York,Bowling Green,Sheriff,,REP,Chris Blevins,67,0,0,0,13,0,54
+York,Bullocks Creek,Sheriff,,REP,Chris Blevins,17,0,1,0,2,0,14
+York,Cannon Mill,Sheriff,,REP,Chris Blevins,57,0,0,0,14,0,43
+York,Catawba,Sheriff,,REP,Chris Blevins,44,0,0,0,9,0,35
+York,Clover,Sheriff,,REP,Chris Blevins,86,0,1,0,21,0,64
+York,Hampton Mill,Sheriff,,REP,Chris Blevins,68,0,0,0,8,0,60
+York,Cotton Belt,Sheriff,,REP,Chris Blevins,77,0,1,0,29,0,47
+York,Delphia,Sheriff,,REP,Chris Blevins,73,0,0,0,17,0,56
+York,Ebenezer,Sheriff,,REP,Chris Blevins,12,0,0,0,3,0,9
+York,Filbert,Sheriff,,REP,Chris Blevins,101,0,2,0,24,0,75
+York,Fort Mill No. 1,Sheriff,,REP,Chris Blevins,67,0,0,0,11,0,56
+York,Windjammer,Sheriff,,REP,Chris Blevins,37,0,2,0,10,0,25
+York,Fort Mill No. 3,Sheriff,,REP,Chris Blevins,29,0,0,0,6,0,23
+York,Hickory Grove,Sheriff,,REP,Chris Blevins,85,0,1,0,16,0,68
+York,Highland Park,Sheriff,,REP,Chris Blevins,14,0,1,0,2,0,11
+York,Lakeshore,Sheriff,,REP,Chris Blevins,75,0,1,0,11,0,63
+York,Independence,Sheriff,,REP,Chris Blevins,22,0,0,0,3,0,19
+York,McConnells,Sheriff,,REP,Chris Blevins,50,0,0,0,13,0,37
+York,Mt. Holly,Sheriff,,REP,Chris Blevins,45,0,3,0,15,0,27
+York,Newport,Sheriff,,REP,Chris Blevins,30,0,1,0,2,0,27
+York,Mt. Gallant,Sheriff,,REP,Chris Blevins,15,0,2,0,2,0,11
+York,Northside,Sheriff,,REP,Chris Blevins,14,0,0,0,2,0,12
+York,Oakridge,Sheriff,,REP,Chris Blevins,69,0,0,0,20,0,49
+York,Ogden,Sheriff,,REP,Chris Blevins,25,0,0,0,1,0,24
+York,Oakwood,Sheriff,,REP,Chris Blevins,9,0,0,0,3,0,6
+York,Airport,Sheriff,,REP,Chris Blevins,23,0,0,0,1,0,22
+York,Rock Hill No. 2,Sheriff,,REP,Chris Blevins,5,0,0,0,2,0,3
+York,Rock Hill No. 3,Sheriff,,REP,Chris Blevins,10,0,0,0,2,0,8
+York,Rock Hill No. 4,Sheriff,,REP,Chris Blevins,32,0,0,0,3,0,29
+York,Rock Hill No. 5,Sheriff,,REP,Chris Blevins,11,0,0,0,1,0,10
+York,Rock Hill No. 6,Sheriff,,REP,Chris Blevins,9,0,0,0,2,0,7
+York,Rock Hill No. 7,Sheriff,,REP,Chris Blevins,25,0,0,0,7,0,18
+York,Rock Hill No. 8,Sheriff,,REP,Chris Blevins,5,0,0,0,2,0,3
+York,Sharon,Sheriff,,REP,Chris Blevins,74,0,1,0,10,0,63
+York,Smyrna,Sheriff,,REP,Chris Blevins,49,0,0,0,14,0,35
+York,Tirzah,Sheriff,,REP,Chris Blevins,69,0,0,0,14,0,55
+York,York No. 1,Sheriff,,REP,Chris Blevins,58,0,0,0,18,0,40
+York,York No. 2,Sheriff,,REP,Chris Blevins,77,0,0,0,29,0,48
+York,India Hook,Sheriff,,REP,Chris Blevins,13,0,0,0,1,0,12
+York,Edgewood,Sheriff,,REP,Chris Blevins,25,0,0,0,2,0,23
+York,Fewell Park,Sheriff,,REP,Chris Blevins,12,0,2,0,4,0,6
+York,Fort Mill No. 4,Sheriff,,REP,Chris Blevins,24,0,0,0,1,0,23
+York,Lesslie,Sheriff,,REP,Chris Blevins,32,0,1,0,7,0,24
+York,Rosewood,Sheriff,,REP,Chris Blevins,16,0,1,0,1,0,14
+York,Northwestern,Sheriff,,REP,Chris Blevins,13,0,2,0,3,0,8
+York,Shoreline,Sheriff,,REP,Chris Blevins,57,0,1,0,9,0,47
+York,Ebinport,Sheriff,,REP,Chris Blevins,21,0,0,0,4,0,17
+York,University,Sheriff,,REP,Chris Blevins,8,0,1,0,4,0,3
+York,Fort Mill No. 5,Sheriff,,REP,Chris Blevins,65,0,3,0,15,0,47
+York,Fort Mill No. 6,Sheriff,,REP,Chris Blevins,41,0,0,0,5,0,36
+York,Allison Creek,Sheriff,,REP,Chris Blevins,44,0,0,0,11,0,33
+York,Anderson Road,Sheriff,,REP,Chris Blevins,6,0,0,0,0,0,6
+York,New Home,Sheriff,,REP,Chris Blevins,74,0,3,0,11,0,60
+York,Fort Mill No. 2,Sheriff,,REP,Chris Blevins,151,0,0,0,25,0,126
+York,Dobys Bridge,Sheriff,,REP,Chris Blevins,91,0,0,0,20,0,71
+York,Riverview,Sheriff,,REP,Chris Blevins,34,0,0,0,7,0,27
+York,Orchard Park,Sheriff,,REP,Chris Blevins,52,0,1,0,19,0,32
+York,Lakewood,Sheriff,,REP,Chris Blevins,18,0,0,0,5,0,13
+York,Laurel Creek,Sheriff,,REP,Chris Blevins,23,0,1,0,3,0,19
+York,Steele Creek,Sheriff,,REP,Chris Blevins,73,0,1,0,15,0,57
+York,Pleasant Road,Sheriff,,REP,Chris Blevins,44,0,0,0,16,0,28
+York,Gold Hill,Sheriff,,REP,Chris Blevins,58,0,0,0,20,0,38
+York,Waterstone,Sheriff,,REP,Chris Blevins,31,0,2,0,4,0,25
+York,Palmetto,Sheriff,,REP,Chris Blevins,39,0,0,0,10,0,29
+York,Tega Cay,Sheriff,,REP,Chris Blevins,15,0,0,0,0,0,15
+York,Adnah,Sheriff,,REP,Chris Blevins,31,0,0,0,6,0,25
+York,Harvest,Sheriff,,REP,Chris Blevins,13,0,0,0,1,0,12
+York,Old Pointe,Sheriff,,REP,Chris Blevins,25,0,2,0,6,0,17
+York,Tools Fork,Sheriff,,REP,Chris Blevins,37,0,0,0,11,0,26
+York,Carolina,Sheriff,,REP,Chris Blevins,29,0,1,0,6,0,22
+York,Fairgrounds,Sheriff,,REP,Chris Blevins,15,0,0,0,1,0,14
+York,Ferry Branch,Sheriff,,REP,Chris Blevins,38,0,0,0,9,0,29
+York,Friendship,Sheriff,,REP,Chris Blevins,9,0,0,0,0,0,9
+York,Hollis Lakes,Sheriff,,REP,Chris Blevins,28,0,5,0,6,0,17
+York,Hopewell,Sheriff,,REP,Chris Blevins,15,0,0,0,5,0,10
+York,Manchester,Sheriff,,REP,Chris Blevins,16,0,0,0,6,0,10
+York,Mill Creek,Sheriff,,REP,Chris Blevins,27,0,2,0,2,0,23
+York,Nation Ford,Sheriff,,REP,Chris Blevins,50,0,0,0,8,0,42
+York,Neelys Creek,Sheriff,,REP,Chris Blevins,23,0,0,0,4,0,19
+York,Pole Branch,Sheriff,,REP,Chris Blevins,81,0,0,0,10,0,71
+York,Six Mile,Sheriff,,REP,Chris Blevins,38,0,0,0,6,0,32
+York,Springdale,Sheriff,,REP,Chris Blevins,11,0,0,0,3,0,8
+York,Springfield,Sheriff,,REP,Chris Blevins,34,0,1,0,8,0,25
+York,Stateline,Sheriff,,REP,Chris Blevins,30,0,0,0,3,0,27
+York,Wylie,Sheriff,,REP,Chris Blevins,74,0,0,0,10,0,64
+York,Roosevelt,Sheriff,,REP,Chris Blevins,45,0,0,0,6,0,39
+York,Larne,Sheriff,,REP,Chris Blevins,62,0,0,0,11,0,51
+York,Rock Creek,Sheriff,,REP,Chris Blevins,74,0,1,0,20,0,53
+York,River's Edge,Sheriff,,REP,Chris Blevins,110,0,0,0,17,0,93
+York,Baxter,Sheriff,,REP,Chris Blevins,28,0,0,0,7,0,21
+York,Kanawha,Sheriff,,REP,Chris Blevins,59,0,0,0,13,0,46
+York,Celanese,Sheriff,,REP,Chris Blevins,13,0,0,0,2,0,11
+York,Hands Mill,Sheriff,,REP,Chris Blevins,26,0,1,0,3,0,22
+York,Crescent,Sheriff,,REP,Chris Blevins,50,0,0,0,24,0,26
+York,Field Day,Sheriff,,REP,Chris Blevins,63,0,0,0,15,0,48
+York,Mountain View,Sheriff,,REP,Chris Blevins,27,0,2,0,5,0,20
+York,Failsafe,Sheriff,,REP,Chris Blevins,2,2,0,0,0,0,0
+York,Provisional,Sheriff,,REP,Chris Blevins,4,0,0,0,0,4,0
+York,Filsafe Provisional,Sheriff,,REP,Chris Blevins,5,0,0,5,0,0,0
+York,Bethany,Sheriff,,REP,Tony Breeden,30,0,0,0,1,0,29
+York,Bethel,Sheriff,,REP,Tony Breeden,37,0,1,0,2,0,34
+York,River Hills,Sheriff,,REP,Tony Breeden,80,0,1,0,5,0,74
+York,Bethel School,Sheriff,,REP,Tony Breeden,59,0,0,0,14,0,45
+York,Bowling Green,Sheriff,,REP,Tony Breeden,31,0,0,0,2,0,29
+York,Bullocks Creek,Sheriff,,REP,Tony Breeden,23,0,0,0,9,0,14
+York,Cannon Mill,Sheriff,,REP,Tony Breeden,42,0,0,0,18,0,24
+York,Catawba,Sheriff,,REP,Tony Breeden,148,0,3,0,52,0,93
+York,Clover,Sheriff,,REP,Tony Breeden,61,0,0,0,11,0,50
+York,Hampton Mill,Sheriff,,REP,Tony Breeden,36,0,0,0,2,0,34
+York,Cotton Belt,Sheriff,,REP,Tony Breeden,60,0,1,0,30,0,29
+York,Delphia,Sheriff,,REP,Tony Breeden,69,0,1,0,14,0,54
+York,Ebenezer,Sheriff,,REP,Tony Breeden,48,0,0,0,11,0,37
+York,Filbert,Sheriff,,REP,Tony Breeden,48,0,0,0,18,0,30
+York,Fort Mill No. 1,Sheriff,,REP,Tony Breeden,89,0,1,0,19,0,69
+York,Windjammer,Sheriff,,REP,Tony Breeden,105,0,0,0,22,0,83
+York,Fort Mill No. 3,Sheriff,,REP,Tony Breeden,58,0,0,0,18,0,40
+York,Hickory Grove,Sheriff,,REP,Tony Breeden,28,0,1,0,3,0,24
+York,Highland Park,Sheriff,,REP,Tony Breeden,18,0,1,0,3,0,14
+York,Lakeshore,Sheriff,,REP,Tony Breeden,70,0,3,0,8,0,59
+York,Independence,Sheriff,,REP,Tony Breeden,73,0,0,0,23,0,50
+York,McConnells,Sheriff,,REP,Tony Breeden,51,0,0,0,7,0,44
+York,Mt. Holly,Sheriff,,REP,Tony Breeden,161,0,3,0,42,0,116
+York,Newport,Sheriff,,REP,Tony Breeden,100,0,1,0,22,0,77
+York,Mt. Gallant,Sheriff,,REP,Tony Breeden,64,0,2,0,14,0,48
+York,Northside,Sheriff,,REP,Tony Breeden,23,0,1,0,3,0,19
+York,Oakridge,Sheriff,,REP,Tony Breeden,81,0,1,0,17,0,63
+York,Ogden,Sheriff,,REP,Tony Breeden,105,0,2,0,20,0,83
+York,Oakwood,Sheriff,,REP,Tony Breeden,58,0,0,0,9,0,49
+York,Airport,Sheriff,,REP,Tony Breeden,42,0,0,0,9,0,33
+York,Rock Hill No. 2,Sheriff,,REP,Tony Breeden,4,0,0,0,0,0,4
+York,Rock Hill No. 3,Sheriff,,REP,Tony Breeden,13,0,1,0,3,0,9
+York,Rock Hill No. 4,Sheriff,,REP,Tony Breeden,37,0,1,0,7,0,29
+York,Rock Hill No. 5,Sheriff,,REP,Tony Breeden,42,0,3,0,5,0,34
+York,Rock Hill No. 6,Sheriff,,REP,Tony Breeden,12,0,2,0,0,0,10
+York,Rock Hill No. 7,Sheriff,,REP,Tony Breeden,33,0,2,0,4,0,27
+York,Rock Hill No. 8,Sheriff,,REP,Tony Breeden,4,0,0,0,1,0,3
+York,Sharon,Sheriff,,REP,Tony Breeden,58,0,0,0,12,0,46
+York,Smyrna,Sheriff,,REP,Tony Breeden,11,0,0,0,1,0,10
+York,Tirzah,Sheriff,,REP,Tony Breeden,105,0,0,0,27,0,78
+York,York No. 1,Sheriff,,REP,Tony Breeden,33,0,0,0,15,0,18
+York,York No. 2,Sheriff,,REP,Tony Breeden,86,0,3,0,28,0,55
+York,India Hook,Sheriff,,REP,Tony Breeden,54,0,0,0,10,0,44
+York,Edgewood,Sheriff,,REP,Tony Breeden,37,0,0,0,7,0,30
+York,Fewell Park,Sheriff,,REP,Tony Breeden,68,0,4,0,15,0,49
+York,Fort Mill No. 4,Sheriff,,REP,Tony Breeden,23,0,0,0,3,0,20
+York,Lesslie,Sheriff,,REP,Tony Breeden,109,0,2,0,35,0,72
+York,Rosewood,Sheriff,,REP,Tony Breeden,38,0,1,0,3,0,34
+York,Northwestern,Sheriff,,REP,Tony Breeden,96,0,2,0,25,0,69
+York,Shoreline,Sheriff,,REP,Tony Breeden,127,0,0,0,19,0,108
+York,Ebinport,Sheriff,,REP,Tony Breeden,87,0,4,0,13,0,70
+York,University,Sheriff,,REP,Tony Breeden,36,0,0,0,7,0,29
+York,Fort Mill No. 5,Sheriff,,REP,Tony Breeden,184,0,9,0,87,0,88
+York,Fort Mill No. 6,Sheriff,,REP,Tony Breeden,59,0,0,0,23,0,36
+York,Allison Creek,Sheriff,,REP,Tony Breeden,115,0,0,0,22,0,93
+York,Anderson Road,Sheriff,,REP,Tony Breeden,14,0,0,0,4,0,10
+York,New Home,Sheriff,,REP,Tony Breeden,85,0,3,0,9,0,73
+York,Fort Mill No. 2,Sheriff,,REP,Tony Breeden,140,0,1,0,27,0,112
+York,Dobys Bridge,Sheriff,,REP,Tony Breeden,112,0,4,0,29,0,79
+York,Riverview,Sheriff,,REP,Tony Breeden,26,0,0,0,3,0,23
+York,Orchard Park,Sheriff,,REP,Tony Breeden,136,0,0,0,63,0,73
+York,Lakewood,Sheriff,,REP,Tony Breeden,48,0,2,0,6,0,40
+York,Laurel Creek,Sheriff,,REP,Tony Breeden,133,0,7,0,32,0,94
+York,Steele Creek,Sheriff,,REP,Tony Breeden,108,0,2,0,23,0,83
+York,Pleasant Road,Sheriff,,REP,Tony Breeden,73,0,4,0,24,0,45
+York,Gold Hill,Sheriff,,REP,Tony Breeden,85,0,2,0,21,0,62
+York,Waterstone,Sheriff,,REP,Tony Breeden,41,0,0,0,6,0,35
+York,Palmetto,Sheriff,,REP,Tony Breeden,73,0,0,0,17,0,56
+York,Tega Cay,Sheriff,,REP,Tony Breeden,75,0,1,0,15,0,59
+York,Adnah,Sheriff,,REP,Tony Breeden,46,0,1,0,3,0,42
+York,Harvest,Sheriff,,REP,Tony Breeden,18,0,1,0,5,0,12
+York,Old Pointe,Sheriff,,REP,Tony Breeden,36,0,0,0,3,0,33
+York,Tools Fork,Sheriff,,REP,Tony Breeden,71,0,0,0,11,0,60
+York,Carolina,Sheriff,,REP,Tony Breeden,62,0,4,0,23,0,35
+York,Fairgrounds,Sheriff,,REP,Tony Breeden,8,0,0,0,0,0,8
+York,Ferry Branch,Sheriff,,REP,Tony Breeden,57,0,1,0,6,0,50
+York,Friendship,Sheriff,,REP,Tony Breeden,53,0,1,0,12,0,40
+York,Hollis Lakes,Sheriff,,REP,Tony Breeden,47,0,3,0,10,0,34
+York,Hopewell,Sheriff,,REP,Tony Breeden,36,0,0,0,7,0,29
+York,Manchester,Sheriff,,REP,Tony Breeden,36,0,2,0,16,0,18
+York,Mill Creek,Sheriff,,REP,Tony Breeden,40,0,0,0,5,0,35
+York,Nation Ford,Sheriff,,REP,Tony Breeden,211,0,5,0,52,0,154
+York,Neelys Creek,Sheriff,,REP,Tony Breeden,68,0,0,0,12,0,56
+York,Pole Branch,Sheriff,,REP,Tony Breeden,61,0,1,0,7,0,53
+York,Six Mile,Sheriff,,REP,Tony Breeden,73,0,1,0,19,0,53
+York,Springdale,Sheriff,,REP,Tony Breeden,40,0,4,0,14,0,22
+York,Springfield,Sheriff,,REP,Tony Breeden,118,0,1,0,21,0,96
+York,Stateline,Sheriff,,REP,Tony Breeden,66,0,1,0,16,0,49
+York,Wylie,Sheriff,,REP,Tony Breeden,62,0,0,0,9,0,53
+York,Roosevelt,Sheriff,,REP,Tony Breeden,42,0,1,0,3,0,38
+York,Larne,Sheriff,,REP,Tony Breeden,21,0,0,0,0,0,21
+York,Rock Creek,Sheriff,,REP,Tony Breeden,42,0,1,0,7,0,34
+York,River's Edge,Sheriff,,REP,Tony Breeden,111,0,0,0,21,0,90
+York,Baxter,Sheriff,,REP,Tony Breeden,58,0,0,0,12,0,46
+York,Kanawha,Sheriff,,REP,Tony Breeden,96,0,0,0,33,0,63
+York,Celanese,Sheriff,,REP,Tony Breeden,29,0,2,0,9,0,18
+York,Hands Mill,Sheriff,,REP,Tony Breeden,61,0,1,0,9,0,51
+York,Crescent,Sheriff,,REP,Tony Breeden,79,0,2,0,30,0,47
+York,Field Day,Sheriff,,REP,Tony Breeden,56,0,0,0,6,0,50
+York,Mountain View,Sheriff,,REP,Tony Breeden,26,0,0,0,2,0,24
+York,Failsafe,Sheriff,,REP,Tony Breeden,1,1,0,0,0,0,0
+York,Provisional,Sheriff,,REP,Tony Breeden,9,0,0,0,0,9,0
+York,Filsafe Provisional,Sheriff,,REP,Tony Breeden,6,0,0,6,0,0,0
+York,Bethany,Sheriff,,REP,Heath Clevenger,75,0,2,0,13,0,60
+York,Bethel,Sheriff,,REP,Heath Clevenger,45,0,1,0,5,0,39
+York,River Hills,Sheriff,,REP,Heath Clevenger,55,0,1,0,8,0,46
+York,Bethel School,Sheriff,,REP,Heath Clevenger,64,0,0,0,11,0,53
+York,Bowling Green,Sheriff,,REP,Heath Clevenger,41,0,0,0,8,0,33
+York,Bullocks Creek,Sheriff,,REP,Heath Clevenger,5,0,0,0,0,0,5
+York,Cannon Mill,Sheriff,,REP,Heath Clevenger,10,0,0,0,2,0,8
+York,Catawba,Sheriff,,REP,Heath Clevenger,42,0,0,0,16,0,26
+York,Clover,Sheriff,,REP,Heath Clevenger,63,0,1,0,16,0,46
+York,Hampton Mill,Sheriff,,REP,Heath Clevenger,49,0,2,0,6,0,41
+York,Cotton Belt,Sheriff,,REP,Heath Clevenger,75,0,1,0,29,0,45
+York,Delphia,Sheriff,,REP,Heath Clevenger,67,0,2,0,5,0,60
+York,Ebenezer,Sheriff,,REP,Heath Clevenger,26,0,1,0,9,0,16
+York,Filbert,Sheriff,,REP,Heath Clevenger,58,0,0,0,22,0,36
+York,Fort Mill No. 1,Sheriff,,REP,Heath Clevenger,47,0,0,0,17,0,30
+York,Windjammer,Sheriff,,REP,Heath Clevenger,16,0,1,0,5,0,10
+York,Fort Mill No. 3,Sheriff,,REP,Heath Clevenger,23,0,0,0,2,0,21
+York,Hickory Grove,Sheriff,,REP,Heath Clevenger,43,0,1,0,4,0,38
+York,Highland Park,Sheriff,,REP,Heath Clevenger,8,0,0,0,0,0,8
+York,Lakeshore,Sheriff,,REP,Heath Clevenger,61,0,0,0,5,0,56
+York,Independence,Sheriff,,REP,Heath Clevenger,25,0,4,0,5,0,16
+York,McConnells,Sheriff,,REP,Heath Clevenger,58,0,0,0,11,0,47
+York,Mt. Holly,Sheriff,,REP,Heath Clevenger,45,0,1,0,13,0,31
+York,Newport,Sheriff,,REP,Heath Clevenger,46,0,3,0,12,0,31
+York,Mt. Gallant,Sheriff,,REP,Heath Clevenger,28,0,2,0,2,0,24
+York,Northside,Sheriff,,REP,Heath Clevenger,6,0,0,0,0,0,6
+York,Oakridge,Sheriff,,REP,Heath Clevenger,81,0,0,0,13,0,68
+York,Ogden,Sheriff,,REP,Heath Clevenger,47,0,0,0,9,0,38
+York,Oakwood,Sheriff,,REP,Heath Clevenger,29,0,1,0,0,0,28
+York,Airport,Sheriff,,REP,Heath Clevenger,24,0,0,0,0,0,24
+York,Rock Hill No. 2,Sheriff,,REP,Heath Clevenger,3,0,0,0,0,0,3
+York,Rock Hill No. 3,Sheriff,,REP,Heath Clevenger,3,0,0,0,0,0,3
+York,Rock Hill No. 4,Sheriff,,REP,Heath Clevenger,16,0,0,0,3,0,13
+York,Rock Hill No. 5,Sheriff,,REP,Heath Clevenger,14,0,0,0,3,0,11
+York,Rock Hill No. 6,Sheriff,,REP,Heath Clevenger,6,0,0,0,0,0,6
+York,Rock Hill No. 7,Sheriff,,REP,Heath Clevenger,15,0,2,0,1,0,12
+York,Rock Hill No. 8,Sheriff,,REP,Heath Clevenger,2,0,0,0,0,0,2
+York,Sharon,Sheriff,,REP,Heath Clevenger,45,0,0,0,11,0,34
+York,Smyrna,Sheriff,,REP,Heath Clevenger,24,0,0,0,2,0,22
+York,Tirzah,Sheriff,,REP,Heath Clevenger,66,0,0,0,23,0,43
+York,York No. 1,Sheriff,,REP,Heath Clevenger,29,0,0,0,12,0,17
+York,York No. 2,Sheriff,,REP,Heath Clevenger,43,0,0,0,14,0,29
+York,India Hook,Sheriff,,REP,Heath Clevenger,23,0,0,0,2,0,21
+York,Edgewood,Sheriff,,REP,Heath Clevenger,8,0,0,0,1,0,7
+York,Fewell Park,Sheriff,,REP,Heath Clevenger,14,0,1,0,3,0,10
+York,Fort Mill No. 4,Sheriff,,REP,Heath Clevenger,14,0,0,0,4,0,10
+York,Lesslie,Sheriff,,REP,Heath Clevenger,27,0,0,0,4,0,23
+York,Rosewood,Sheriff,,REP,Heath Clevenger,28,0,1,0,3,0,24
+York,Northwestern,Sheriff,,REP,Heath Clevenger,42,0,3,0,14,0,25
+York,Shoreline,Sheriff,,REP,Heath Clevenger,22,0,0,0,2,0,20
+York,Ebinport,Sheriff,,REP,Heath Clevenger,24,0,0,0,3,0,21
+York,University,Sheriff,,REP,Heath Clevenger,15,0,0,0,1,0,14
+York,Fort Mill No. 5,Sheriff,,REP,Heath Clevenger,45,0,5,0,15,0,25
+York,Fort Mill No. 6,Sheriff,,REP,Heath Clevenger,18,0,0,0,6,0,12
+York,Allison Creek,Sheriff,,REP,Heath Clevenger,46,0,0,0,4,0,42
+York,Anderson Road,Sheriff,,REP,Heath Clevenger,8,0,0,0,2,0,6
+York,New Home,Sheriff,,REP,Heath Clevenger,77,0,1,0,22,0,54
+York,Fort Mill No. 2,Sheriff,,REP,Heath Clevenger,60,0,2,0,18,0,40
+York,Dobys Bridge,Sheriff,,REP,Heath Clevenger,38,0,0,0,8,0,30
+York,Riverview,Sheriff,,REP,Heath Clevenger,10,0,0,0,0,0,10
+York,Orchard Park,Sheriff,,REP,Heath Clevenger,20,0,0,0,7,0,13
+York,Lakewood,Sheriff,,REP,Heath Clevenger,19,0,0,0,5,0,14
+York,Laurel Creek,Sheriff,,REP,Heath Clevenger,31,0,0,0,5,0,26
+York,Steele Creek,Sheriff,,REP,Heath Clevenger,41,0,1,0,7,0,33
+York,Pleasant Road,Sheriff,,REP,Heath Clevenger,26,0,0,0,9,0,17
+York,Gold Hill,Sheriff,,REP,Heath Clevenger,31,0,0,0,10,0,21
+York,Waterstone,Sheriff,,REP,Heath Clevenger,10,0,0,0,2,0,8
+York,Palmetto,Sheriff,,REP,Heath Clevenger,12,0,0,0,1,0,11
+York,Tega Cay,Sheriff,,REP,Heath Clevenger,10,0,0,0,2,0,8
+York,Adnah,Sheriff,,REP,Heath Clevenger,15,0,0,0,0,0,15
+York,Harvest,Sheriff,,REP,Heath Clevenger,20,0,1,0,4,0,15
+York,Old Pointe,Sheriff,,REP,Heath Clevenger,28,0,0,0,3,0,25
+York,Tools Fork,Sheriff,,REP,Heath Clevenger,30,0,1,0,3,0,26
+York,Carolina,Sheriff,,REP,Heath Clevenger,17,0,0,0,2,0,15
+York,Fairgrounds,Sheriff,,REP,Heath Clevenger,3,0,0,0,0,0,3
+York,Ferry Branch,Sheriff,,REP,Heath Clevenger,9,0,1,0,2,0,6
+York,Friendship,Sheriff,,REP,Heath Clevenger,8,0,0,0,2,0,6
+York,Hollis Lakes,Sheriff,,REP,Heath Clevenger,18,0,0,0,3,0,15
+York,Hopewell,Sheriff,,REP,Heath Clevenger,12,0,0,0,1,0,11
+York,Manchester,Sheriff,,REP,Heath Clevenger,11,0,0,0,0,0,11
+York,Mill Creek,Sheriff,,REP,Heath Clevenger,27,0,0,0,4,0,23
+York,Nation Ford,Sheriff,,REP,Heath Clevenger,17,0,0,0,7,0,10
+York,Neelys Creek,Sheriff,,REP,Heath Clevenger,15,0,0,0,2,0,13
+York,Pole Branch,Sheriff,,REP,Heath Clevenger,48,0,0,0,8,0,40
+York,Six Mile,Sheriff,,REP,Heath Clevenger,15,0,0,0,1,0,14
+York,Springdale,Sheriff,,REP,Heath Clevenger,10,0,0,0,0,0,10
+York,Springfield,Sheriff,,REP,Heath Clevenger,20,0,2,0,4,0,14
+York,Stateline,Sheriff,,REP,Heath Clevenger,12,0,0,0,3,0,9
+York,Wylie,Sheriff,,REP,Heath Clevenger,56,0,0,0,7,0,49
+York,Roosevelt,Sheriff,,REP,Heath Clevenger,59,0,0,0,13,0,46
+York,Larne,Sheriff,,REP,Heath Clevenger,30,0,0,0,10,0,20
+York,Rock Creek,Sheriff,,REP,Heath Clevenger,55,0,0,0,11,0,44
+York,River's Edge,Sheriff,,REP,Heath Clevenger,78,0,3,0,14,0,61
+York,Baxter,Sheriff,,REP,Heath Clevenger,23,0,1,0,9,0,13
+York,Kanawha,Sheriff,,REP,Heath Clevenger,18,0,0,0,6,0,12
+York,Celanese,Sheriff,,REP,Heath Clevenger,16,0,0,0,1,0,15
+York,Hands Mill,Sheriff,,REP,Heath Clevenger,30,0,0,0,9,0,21
+York,Crescent,Sheriff,,REP,Heath Clevenger,33,0,2,0,12,0,19
+York,Field Day,Sheriff,,REP,Heath Clevenger,34,0,0,0,6,0,28
+York,Mountain View,Sheriff,,REP,Heath Clevenger,24,0,1,0,7,0,16
+York,Failsafe,Sheriff,,REP,Heath Clevenger,0,0,0,0,0,0,0
+York,Provisional,Sheriff,,REP,Heath Clevenger,5,0,0,0,0,5,0
+York,Filsafe Provisional,Sheriff,,REP,Heath Clevenger,1,0,0,1,0,0,0
+York,Bethany,Sheriff,,REP,Beth Bryant Tolson,53,0,0,0,12,0,41
+York,Bethel,Sheriff,,REP,Beth Bryant Tolson,31,0,1,0,3,0,27
+York,River Hills,Sheriff,,REP,Beth Bryant Tolson,83,0,2,0,10,0,71
+York,Bethel School,Sheriff,,REP,Beth Bryant Tolson,52,0,0,0,17,0,35
+York,Bowling Green,Sheriff,,REP,Beth Bryant Tolson,21,0,0,0,4,0,17
+York,Bullocks Creek,Sheriff,,REP,Beth Bryant Tolson,20,0,1,0,5,0,14
+York,Cannon Mill,Sheriff,,REP,Beth Bryant Tolson,53,0,1,0,17,0,35
+York,Catawba,Sheriff,,REP,Beth Bryant Tolson,54,0,1,0,15,0,38
+York,Clover,Sheriff,,REP,Beth Bryant Tolson,55,0,0,0,13,0,42
+York,Hampton Mill,Sheriff,,REP,Beth Bryant Tolson,36,0,0,0,4,0,32
+York,Cotton Belt,Sheriff,,REP,Beth Bryant Tolson,73,0,0,0,16,0,57
+York,Delphia,Sheriff,,REP,Beth Bryant Tolson,67,0,1,0,15,0,51
+York,Ebenezer,Sheriff,,REP,Beth Bryant Tolson,21,0,1,0,2,0,18
+York,Filbert,Sheriff,,REP,Beth Bryant Tolson,87,0,1,0,27,0,59
+York,Fort Mill No. 1,Sheriff,,REP,Beth Bryant Tolson,81,0,3,0,19,0,59
+York,Windjammer,Sheriff,,REP,Beth Bryant Tolson,71,0,0,0,19,0,52
+York,Fort Mill No. 3,Sheriff,,REP,Beth Bryant Tolson,62,0,1,0,21,0,40
+York,Hickory Grove,Sheriff,,REP,Beth Bryant Tolson,50,0,5,0,7,0,38
+York,Highland Park,Sheriff,,REP,Beth Bryant Tolson,18,0,0,0,5,0,13
+York,Lakeshore,Sheriff,,REP,Beth Bryant Tolson,96,0,3,0,7,0,86
+York,Independence,Sheriff,,REP,Beth Bryant Tolson,21,0,0,0,9,0,12
+York,McConnells,Sheriff,,REP,Beth Bryant Tolson,42,0,0,0,12,0,30
+York,Mt. Holly,Sheriff,,REP,Beth Bryant Tolson,51,0,2,0,16,0,33
+York,Newport,Sheriff,,REP,Beth Bryant Tolson,39,0,3,0,8,0,28
+York,Mt. Gallant,Sheriff,,REP,Beth Bryant Tolson,53,0,0,0,12,0,41
+York,Northside,Sheriff,,REP,Beth Bryant Tolson,20,0,0,0,0,0,20
+York,Oakridge,Sheriff,,REP,Beth Bryant Tolson,49,0,8,0,10,0,31
+York,Ogden,Sheriff,,REP,Beth Bryant Tolson,35,0,0,0,2,0,33
+York,Oakwood,Sheriff,,REP,Beth Bryant Tolson,27,0,3,0,7,0,17
+York,Airport,Sheriff,,REP,Beth Bryant Tolson,26,0,2,0,2,0,22
+York,Rock Hill No. 2,Sheriff,,REP,Beth Bryant Tolson,21,0,0,0,4,0,17
+York,Rock Hill No. 3,Sheriff,,REP,Beth Bryant Tolson,34,0,1,0,8,0,25
+York,Rock Hill No. 4,Sheriff,,REP,Beth Bryant Tolson,36,0,2,0,7,0,27
+York,Rock Hill No. 5,Sheriff,,REP,Beth Bryant Tolson,25,0,1,0,4,0,20
+York,Rock Hill No. 6,Sheriff,,REP,Beth Bryant Tolson,19,0,1,0,1,0,17
+York,Rock Hill No. 7,Sheriff,,REP,Beth Bryant Tolson,26,0,4,0,3,0,19
+York,Rock Hill No. 8,Sheriff,,REP,Beth Bryant Tolson,15,0,0,0,3,0,12
+York,Sharon,Sheriff,,REP,Beth Bryant Tolson,54,0,0,0,12,0,42
+York,Smyrna,Sheriff,,REP,Beth Bryant Tolson,17,0,0,0,0,0,17
+York,Tirzah,Sheriff,,REP,Beth Bryant Tolson,107,0,6,0,23,0,78
+York,York No. 1,Sheriff,,REP,Beth Bryant Tolson,51,0,2,0,13,0,36
+York,York No. 2,Sheriff,,REP,Beth Bryant Tolson,95,0,1,0,26,0,68
+York,India Hook,Sheriff,,REP,Beth Bryant Tolson,22,0,1,0,1,0,20
+York,Edgewood,Sheriff,,REP,Beth Bryant Tolson,37,0,0,0,6,0,31
+York,Fewell Park,Sheriff,,REP,Beth Bryant Tolson,26,0,1,0,6,0,19
+York,Fort Mill No. 4,Sheriff,,REP,Beth Bryant Tolson,37,0,1,0,16,0,20
+York,Lesslie,Sheriff,,REP,Beth Bryant Tolson,41,0,0,0,16,0,25
+York,Rosewood,Sheriff,,REP,Beth Bryant Tolson,27,0,2,0,5,0,20
+York,Northwestern,Sheriff,,REP,Beth Bryant Tolson,46,0,7,0,5,0,34
+York,Shoreline,Sheriff,,REP,Beth Bryant Tolson,78,0,1,0,19,0,58
+York,Ebinport,Sheriff,,REP,Beth Bryant Tolson,49,0,4,0,10,0,35
+York,University,Sheriff,,REP,Beth Bryant Tolson,16,0,0,0,3,0,13
+York,Fort Mill No. 5,Sheriff,,REP,Beth Bryant Tolson,59,0,1,0,16,0,42
+York,Fort Mill No. 6,Sheriff,,REP,Beth Bryant Tolson,39,0,2,0,8,0,29
+York,Allison Creek,Sheriff,,REP,Beth Bryant Tolson,71,0,3,0,10,0,58
+York,Anderson Road,Sheriff,,REP,Beth Bryant Tolson,11,0,1,0,2,0,8
+York,New Home,Sheriff,,REP,Beth Bryant Tolson,73,0,2,0,17,0,54
+York,Fort Mill No. 2,Sheriff,,REP,Beth Bryant Tolson,119,0,1,0,46,0,72
+York,Dobys Bridge,Sheriff,,REP,Beth Bryant Tolson,62,0,2,0,12,0,48
+York,Riverview,Sheriff,,REP,Beth Bryant Tolson,26,0,0,0,5,0,21
+York,Orchard Park,Sheriff,,REP,Beth Bryant Tolson,69,0,0,0,36,0,33
+York,Lakewood,Sheriff,,REP,Beth Bryant Tolson,27,0,1,0,9,0,17
+York,Laurel Creek,Sheriff,,REP,Beth Bryant Tolson,31,0,3,0,12,0,16
+York,Steele Creek,Sheriff,,REP,Beth Bryant Tolson,68,0,0,0,22,0,46
+York,Pleasant Road,Sheriff,,REP,Beth Bryant Tolson,61,0,1,0,21,0,39
+York,Gold Hill,Sheriff,,REP,Beth Bryant Tolson,66,0,2,0,17,0,47
+York,Waterstone,Sheriff,,REP,Beth Bryant Tolson,33,0,1,0,6,0,26
+York,Palmetto,Sheriff,,REP,Beth Bryant Tolson,53,0,4,0,20,0,29
+York,Tega Cay,Sheriff,,REP,Beth Bryant Tolson,52,0,2,0,6,0,44
+York,Adnah,Sheriff,,REP,Beth Bryant Tolson,26,0,0,0,5,0,21
+York,Harvest,Sheriff,,REP,Beth Bryant Tolson,27,0,2,0,0,0,25
+York,Old Pointe,Sheriff,,REP,Beth Bryant Tolson,28,0,1,0,4,0,23
+York,Tools Fork,Sheriff,,REP,Beth Bryant Tolson,41,0,0,0,7,0,34
+York,Carolina,Sheriff,,REP,Beth Bryant Tolson,31,0,0,0,9,0,22
+York,Fairgrounds,Sheriff,,REP,Beth Bryant Tolson,14,0,1,0,0,0,13
+York,Ferry Branch,Sheriff,,REP,Beth Bryant Tolson,32,0,2,0,2,0,28
+York,Friendship,Sheriff,,REP,Beth Bryant Tolson,11,0,1,0,1,0,9
+York,Hollis Lakes,Sheriff,,REP,Beth Bryant Tolson,24,0,2,0,4,0,18
+York,Hopewell,Sheriff,,REP,Beth Bryant Tolson,25,0,1,0,3,0,21
+York,Manchester,Sheriff,,REP,Beth Bryant Tolson,22,0,0,0,4,0,18
+York,Mill Creek,Sheriff,,REP,Beth Bryant Tolson,41,0,1,0,6,0,34
+York,Nation Ford,Sheriff,,REP,Beth Bryant Tolson,56,0,0,0,8,0,48
+York,Neelys Creek,Sheriff,,REP,Beth Bryant Tolson,30,0,0,0,3,0,27
+York,Pole Branch,Sheriff,,REP,Beth Bryant Tolson,55,0,0,0,9,0,46
+York,Six Mile,Sheriff,,REP,Beth Bryant Tolson,38,0,0,0,8,0,30
+York,Springdale,Sheriff,,REP,Beth Bryant Tolson,16,0,0,0,4,0,12
+York,Springfield,Sheriff,,REP,Beth Bryant Tolson,59,0,2,0,16,0,41
+York,Stateline,Sheriff,,REP,Beth Bryant Tolson,34,0,0,0,4,0,30
+York,Wylie,Sheriff,,REP,Beth Bryant Tolson,59,0,0,0,11,0,48
+York,Roosevelt,Sheriff,,REP,Beth Bryant Tolson,67,0,0,0,4,0,63
+York,Larne,Sheriff,,REP,Beth Bryant Tolson,31,0,1,0,2,0,28
+York,Rock Creek,Sheriff,,REP,Beth Bryant Tolson,39,0,0,0,13,0,26
+York,River's Edge,Sheriff,,REP,Beth Bryant Tolson,118,0,4,0,30,0,84
+York,Baxter,Sheriff,,REP,Beth Bryant Tolson,44,0,2,0,18,0,24
+York,Kanawha,Sheriff,,REP,Beth Bryant Tolson,57,0,0,0,18,0,39
+York,Celanese,Sheriff,,REP,Beth Bryant Tolson,27,0,4,0,5,0,18
+York,Hands Mill,Sheriff,,REP,Beth Bryant Tolson,48,0,4,0,5,0,39
+York,Crescent,Sheriff,,REP,Beth Bryant Tolson,57,0,1,0,24,0,32
+York,Field Day,Sheriff,,REP,Beth Bryant Tolson,55,0,0,0,7,0,48
+York,Mountain View,Sheriff,,REP,Beth Bryant Tolson,45,0,4,0,8,0,33
+York,Failsafe,Sheriff,,REP,Beth Bryant Tolson,1,1,0,0,0,0,0
+York,Provisional,Sheriff,,REP,Beth Bryant Tolson,6,0,0,0,0,6,0
+York,Filsafe Provisional,Sheriff,,REP,Beth Bryant Tolson,3,0,0,3,0,0,0
+York,Bethel,County Council District 2,,REP,Jason Amentler,12,0,0,0,0,0,12
+York,River Hills,County Council District 2,,REP,Jason Amentler,26,0,0,0,2,0,24
+York,Bethel School,County Council District 2,,REP,Jason Amentler,19,0,0,0,0,0,19
+York,Bowling Green,County Council District 2,,REP,Jason Amentler,4,0,0,0,0,0,4
+York,Clover,County Council District 2,,REP,Jason Amentler,29,0,0,0,8,0,21
+York,Hampton Mill,County Council District 2,,REP,Jason Amentler,16,0,0,0,1,0,15
+York,Lakeshore,County Council District 2,,REP,Jason Amentler,23,0,2,0,1,0,20
+York,Allison Creek,County Council District 2,,REP,Jason Amentler,17,0,0,0,1,0,16
+York,New Home,County Council District 2,,REP,Jason Amentler,20,0,1,0,4,0,15
+York,Mill Creek,County Council District 2,,REP,Jason Amentler,13,0,0,0,3,0,10
+York,Pole Branch,County Council District 2,,REP,Jason Amentler,11,0,0,0,3,0,8
+York,Wylie,County Council District 2,,REP,Jason Amentler,20,0,0,0,3,0,17
+York,Roosevelt,County Council District 2,,REP,Jason Amentler,19,0,0,0,0,0,19
+York,Larne,County Council District 2,,REP,Jason Amentler,25,0,0,0,2,0,23
+York,Rock Creek,County Council District 2,,REP,Jason Amentler,22,0,0,0,6,0,16
+York,River's Edge,County Council District 2,,REP,Jason Amentler,24,0,0,0,4,0,20
+York,Field Day,County Council District 2,,REP,Jason Amentler,15,0,0,0,5,0,10
+York,Mountain View,County Council District 2,,REP,Jason Amentler,9,0,0,0,2,0,7
+York,Failsafe,County Council District 2,,REP,Jason Amentler,0,0,0,0,0,0,0
+York,Provisional,County Council District 2,,REP,Jason Amentler,0,0,0,0,0,0,0
+York,Filsafe Provisional,County Council District 2,,REP,Jason Amentler,0,0,0,0,0,0,0
+York,Bethel,County Council District 2,,REP,Andy Litten,117,0,8,0,12,0,97
+York,River Hills,County Council District 2,,REP,Andy Litten,243,0,6,0,27,0,210
+York,Bethel School,County Council District 2,,REP,Andy Litten,217,0,3,0,47,0,167
+York,Bowling Green,County Council District 2,,REP,Andy Litten,120,0,0,0,23,0,97
+York,Clover,County Council District 2,,REP,Andy Litten,262,0,2,0,73,0,187
+York,Hampton Mill,County Council District 2,,REP,Andy Litten,89,0,0,0,9,0,80
+York,Lakeshore,County Council District 2,,REP,Andy Litten,276,0,5,0,28,0,243
+York,Allison Creek,County Council District 2,,REP,Andy Litten,233,0,4,0,41,0,188
+York,New Home,County Council District 2,,REP,Andy Litten,163,0,1,0,25,0,137
+York,Mill Creek,County Council District 2,,REP,Andy Litten,144,0,3,0,13,0,128
+York,Pole Branch,County Council District 2,,REP,Andy Litten,261,0,2,0,33,0,226
+York,Wylie,County Council District 2,,REP,Andy Litten,229,0,0,0,31,0,198
+York,Roosevelt,County Council District 2,,REP,Andy Litten,173,0,1,0,20,0,152
+York,Larne,County Council District 2,,REP,Andy Litten,130,0,1,0,25,0,104
+York,Rock Creek,County Council District 2,,REP,Andy Litten,191,0,1,0,47,0,143
+York,River's Edge,County Council District 2,,REP,Andy Litten,390,0,7,0,74,0,309
+York,Field Day,County Council District 2,,REP,Andy Litten,215,0,0,0,50,0,165
+York,Mountain View,County Council District 2,,REP,Andy Litten,109,0,4,0,17,0,88
+York,Failsafe,County Council District 2,,REP,Andy Litten,2,2,0,0,0,0,0
+York,Provisional,County Council District 2,,REP,Andy Litten,6,0,0,0,0,6,0
+York,Filsafe Provisional,County Council District 2,,REP,Andy Litten,0,0,0,0,0,0,0
+York,Bethel,County Council District 2,,REP,Allison Love,101,0,3,0,16,0,82
+York,River Hills,County Council District 2,,REP,Allison Love,189,0,4,0,21,0,164
+York,Bethel School,County Council District 2,,REP,Allison Love,68,0,0,0,20,0,48
+York,Bowling Green,County Council District 2,,REP,Allison Love,27,0,0,0,4,0,23
+York,Clover,County Council District 2,,REP,Allison Love,34,0,0,0,7,0,27
+York,Hampton Mill,County Council District 2,,REP,Allison Love,14,0,1,0,1,0,12
+York,Lakeshore,County Council District 2,,REP,Allison Love,102,0,2,0,11,0,89
+York,Allison Creek,County Council District 2,,REP,Allison Love,107,0,2,0,17,0,88
+York,New Home,County Council District 2,,REP,Allison Love,59,0,7,0,8,0,44
+York,Mill Creek,County Council District 2,,REP,Allison Love,39,0,1,0,8,0,30
+York,Pole Branch,County Council District 2,,REP,Allison Love,87,0,0,0,12,0,75
+York,Wylie,County Council District 2,,REP,Allison Love,82,0,2,0,11,0,69
+York,Roosevelt,County Council District 2,,REP,Allison Love,63,0,0,0,12,0,51
+York,Larne,County Council District 2,,REP,Allison Love,24,0,0,0,2,0,22
+York,Rock Creek,County Council District 2,,REP,Allison Love,50,0,1,0,12,0,37
+York,River's Edge,County Council District 2,,REP,Allison Love,153,0,0,0,41,0,112
+York,Field Day,County Council District 2,,REP,Allison Love,87,0,1,0,7,0,79
+York,Mountain View,County Council District 2,,REP,Allison Love,54,0,3,0,10,0,41
+York,Failsafe,County Council District 2,,REP,Allison Love,0,0,0,0,0,0,0
+York,Provisional,County Council District 2,,REP,Allison Love,1,0,0,0,0,1,0
+York,Filsafe Provisional,County Council District 2,,REP,Allison Love,0,0,0,0,0,0,0

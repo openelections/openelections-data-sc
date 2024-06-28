@@ -1,0 +1,913 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Orangeburg,SUBURBAN 7,U.S. House,2,DEM,David Robinson II,1,0,0,0,1,0,0
+Orangeburg,COPE,U.S. House,2,DEM,David Robinson II,48,0,1,0,10,0,37
+Orangeburg,CORDOVA 1,U.S. House,2,DEM,David Robinson II,109,0,5,0,21,0,83
+Orangeburg,EDISTO,U.S. House,2,DEM,David Robinson II,72,0,3,0,20,0,49
+Orangeburg,LIMESTONE 1,U.S. House,2,DEM,David Robinson II,251,0,8,0,101,0,142
+Orangeburg,NEESES-LIVINGSTON,U.S. House,2,DEM,David Robinson II,43,0,3,0,15,0,25
+Orangeburg,NORTH 2,U.S. House,2,DEM,David Robinson II,113,0,3,0,41,0,69
+Orangeburg,NORTH 1,U.S. House,2,DEM,David Robinson II,113,0,17,0,39,0,57
+Orangeburg,NORWAY,U.S. House,2,DEM,David Robinson II,125,0,14,0,17,0,94
+Orangeburg,PINE HILL,U.S. House,2,DEM,David Robinson II,105,0,5,0,19,0,81
+Orangeburg,SPRINGFIELD,U.S. House,2,DEM,David Robinson II,149,0,80,0,5,0,64
+Orangeburg,BOLENTOWN,U.S. House,2,DEM,David Robinson II,109,0,2,0,23,0,84
+Orangeburg,CORDOVA 2,U.S. House,2,DEM,David Robinson II,130,0,5,0,45,0,80
+Orangeburg,LIMESTONE 2,U.S. House,2,DEM,David Robinson II,260,0,7,0,100,0,153
+Orangeburg,Failsafe,U.S. House,2,DEM,David Robinson II,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. House,2,DEM,David Robinson II,1,0,0,0,0,1,0
+Orangeburg,Failsafe Proviisional,U.S. House,2,DEM,David Robinson II,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 7,U.S. House,2,DEM,Daniel J Shrief,0,0,0,0,0,0,0
+Orangeburg,COPE,U.S. House,2,DEM,Daniel J Shrief,14,0,0,0,2,0,12
+Orangeburg,CORDOVA 1,U.S. House,2,DEM,Daniel J Shrief,28,0,0,0,9,0,19
+Orangeburg,EDISTO,U.S. House,2,DEM,Daniel J Shrief,14,0,0,0,3,0,11
+Orangeburg,LIMESTONE 1,U.S. House,2,DEM,Daniel J Shrief,40,0,1,0,13,0,26
+Orangeburg,NEESES-LIVINGSTON,U.S. House,2,DEM,Daniel J Shrief,22,0,4,0,7,0,11
+Orangeburg,NORTH 2,U.S. House,2,DEM,Daniel J Shrief,27,0,1,0,10,0,16
+Orangeburg,NORTH 1,U.S. House,2,DEM,Daniel J Shrief,26,0,3,0,7,0,16
+Orangeburg,NORWAY,U.S. House,2,DEM,Daniel J Shrief,32,0,7,0,8,0,17
+Orangeburg,PINE HILL,U.S. House,2,DEM,Daniel J Shrief,23,0,2,0,1,0,20
+Orangeburg,SPRINGFIELD,U.S. House,2,DEM,Daniel J Shrief,44,0,25,0,3,0,16
+Orangeburg,BOLENTOWN,U.S. House,2,DEM,Daniel J Shrief,25,0,0,0,7,0,18
+Orangeburg,CORDOVA 2,U.S. House,2,DEM,Daniel J Shrief,27,0,0,0,5,0,22
+Orangeburg,LIMESTONE 2,U.S. House,2,DEM,Daniel J Shrief,47,0,2,0,17,0,28
+Orangeburg,Failsafe,U.S. House,2,DEM,Daniel J Shrief,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. House,2,DEM,Daniel J Shrief,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,U.S. House,2,DEM,Daniel J Shrief,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 7,U.S. House,2,REP,Hamp Redmond,0,0,0,0,0,0,0
+Orangeburg,COPE,U.S. House,2,REP,Hamp Redmond,4,0,0,0,0,0,4
+Orangeburg,CORDOVA 1,U.S. House,2,REP,Hamp Redmond,12,0,2,0,0,0,10
+Orangeburg,EDISTO,U.S. House,2,REP,Hamp Redmond,9,0,0,0,1,0,8
+Orangeburg,LIMESTONE 1,U.S. House,2,REP,Hamp Redmond,2,0,0,0,2,0,0
+Orangeburg,NEESES-LIVINGSTON,U.S. House,2,REP,Hamp Redmond,19,0,0,0,3,0,16
+Orangeburg,NORTH 2,U.S. House,2,REP,Hamp Redmond,16,0,1,0,0,0,15
+Orangeburg,NORTH 1,U.S. House,2,REP,Hamp Redmond,10,0,1,0,0,0,9
+Orangeburg,NORWAY,U.S. House,2,REP,Hamp Redmond,3,0,0,0,0,0,3
+Orangeburg,PINE HILL,U.S. House,2,REP,Hamp Redmond,3,0,1,0,0,0,2
+Orangeburg,SPRINGFIELD,U.S. House,2,REP,Hamp Redmond,20,0,1,0,0,0,19
+Orangeburg,BOLENTOWN,U.S. House,2,REP,Hamp Redmond,5,0,0,0,0,0,5
+Orangeburg,CORDOVA 2,U.S. House,2,REP,Hamp Redmond,5,0,0,0,0,0,5
+Orangeburg,LIMESTONE 2,U.S. House,2,REP,Hamp Redmond,11,0,1,0,0,0,10
+Orangeburg,Failsafe,U.S. House,2,REP,Hamp Redmond,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. House,2,REP,Hamp Redmond,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,U.S. House,2,REP,Hamp Redmond,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 7,U.S. House,2,REP,Joe Wilson,2,0,2,0,0,0,0
+Orangeburg,COPE,U.S. House,2,REP,Joe Wilson,21,0,1,0,0,0,20
+Orangeburg,CORDOVA 1,U.S. House,2,REP,Joe Wilson,23,0,2,0,6,0,15
+Orangeburg,EDISTO,U.S. House,2,REP,Joe Wilson,44,0,1,0,5,0,38
+Orangeburg,LIMESTONE 1,U.S. House,2,REP,Joe Wilson,20,0,2,0,11,0,7
+Orangeburg,NEESES-LIVINGSTON,U.S. House,2,REP,Joe Wilson,53,0,3,0,6,0,44
+Orangeburg,NORTH 2,U.S. House,2,REP,Joe Wilson,46,0,3,0,5,0,38
+Orangeburg,NORTH 1,U.S. House,2,REP,Joe Wilson,25,0,0,0,2,0,23
+Orangeburg,NORWAY,U.S. House,2,REP,Joe Wilson,41,0,2,0,8,0,31
+Orangeburg,PINE HILL,U.S. House,2,REP,Joe Wilson,16,0,2,0,3,0,11
+Orangeburg,SPRINGFIELD,U.S. House,2,REP,Joe Wilson,21,0,1,0,1,0,19
+Orangeburg,BOLENTOWN,U.S. House,2,REP,Joe Wilson,33,0,1,0,0,0,32
+Orangeburg,CORDOVA 2,U.S. House,2,REP,Joe Wilson,26,0,2,0,4,0,20
+Orangeburg,LIMESTONE 2,U.S. House,2,REP,Joe Wilson,24,0,2,0,7,0,15
+Orangeburg,Failsafe,U.S. House,2,REP,Joe Wilson,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. House,2,REP,Joe Wilson,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,U.S. House,2,REP,Joe Wilson,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,U.S. House,6,REP,Duke Buckner,6,0,0,0,0,0,6
+Orangeburg,ORANGEBURG WD 2,U.S. House,6,REP,Duke Buckner,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 3,U.S. House,6,REP,Duke Buckner,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 4,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,U.S. House,6,REP,Duke Buckner,4,0,0,0,1,0,3
+Orangeburg,ORANGEBURG WD 6,U.S. House,6,REP,Duke Buckner,4,0,0,0,0,0,4
+Orangeburg,ORNAGEBURG WD 7,U.S. House,6,REP,Duke Buckner,16,0,0,0,4,0,12
+Orangeburg,ORANGEBURG WD 8,U.S. House,6,REP,Duke Buckner,8,0,0,0,2,0,6
+Orangeburg,ORANGEBURG WD 9,U.S. House,6,REP,Duke Buckner,1,0,0,0,1,0,0
+Orangeburg,ORANGEBURG WD 10,U.S. House,6,REP,Duke Buckner,12,0,5,0,2,0,5
+Orangeburg,SUBURBAN 1,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,U.S. House,6,REP,Duke Buckner,2,0,1,0,1,0,0
+Orangeburg,SUBURBAN 4,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,0,2
+Orangeburg,SUBURBAN 5,U.S. House,6,REP,Duke Buckner,7,0,0,0,0,0,7
+Orangeburg,SUBURBAN 6,U.S. House,6,REP,Duke Buckner,8,0,0,0,2,0,6
+Orangeburg,SUBURBAN 7,U.S. House,6,REP,Duke Buckner,19,0,1,0,1,0,17
+Orangeburg,SUBURBAN 8,U.S. House,6,REP,Duke Buckner,11,0,1,0,2,0,8
+Orangeburg,SUBURBAN 9,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,0,2
+Orangeburg,BETHEL,U.S. House,6,REP,Duke Buckner,9,0,0,0,0,0,9
+Orangeburg,BOWMAN 1,U.S. House,6,REP,Duke Buckner,13,0,0,0,0,0,13
+Orangeburg,BOWMAN 2,U.S. House,6,REP,Duke Buckner,8,0,0,0,0,0,8
+Orangeburg,BRANCHVILLE 1,U.S. House,6,REP,Duke Buckner,15,0,0,0,0,0,15
+Orangeburg,BRANCHVILLE 2,U.S. House,6,REP,Duke Buckner,11,0,0,0,0,0,11
+Orangeburg,BROOKDALE,U.S. House,6,REP,Duke Buckner,4,0,0,0,2,0,2
+Orangeburg,ELLOREE 1,U.S. House,6,REP,Duke Buckner,29,0,0,0,1,0,28
+Orangeburg,EUTAWVILLE 1,U.S. House,6,REP,Duke Buckner,26,0,1,0,1,0,24
+Orangeburg,EUTAWVILLE 2,U.S. House,6,REP,Duke Buckner,15,0,1,0,3,0,11
+Orangeburg,FOUR HOLES,U.S. House,6,REP,Duke Buckner,14,0,2,0,0,0,12
+Orangeburg,HOLLY HILL 2,U.S. House,6,REP,Duke Buckner,6,0,1,0,0,0,5
+Orangeburg,HOLLY HILL 1,U.S. House,6,REP,Duke Buckner,8,0,0,0,0,0,8
+Orangeburg,JAMISON,U.S. House,6,REP,Duke Buckner,9,0,2,0,1,0,6
+Orangeburg,NIX,U.S. House,6,REP,Duke Buckner,1,0,0,0,0,0,1
+Orangeburg,PROVIDENCE,U.S. House,6,REP,Duke Buckner,14,0,0,0,2,0,12
+Orangeburg,ROWESVILLE,U.S. House,6,REP,Duke Buckner,14,0,0,0,1,0,13
+Orangeburg,SANTEE 1,U.S. House,6,REP,Duke Buckner,41,0,4,0,2,0,35
+Orangeburg,VANCE,U.S. House,6,REP,Duke Buckner,16,0,0,0,4,0,12
+Orangeburg,WHITTAKER,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Orangeburg,ELLOREE 2,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,0,2
+Orangeburg,SANTEE 2,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,0,2
+Orangeburg,Failsafe,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,U.S. House,6,REP,Justin Scott,13,0,0,0,2,0,11
+Orangeburg,ORANGEBURG WD 2,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 6,U.S. House,6,REP,Justin Scott,2,0,0,0,0,0,2
+Orangeburg,ORNAGEBURG WD 7,U.S. House,6,REP,Justin Scott,11,0,2,0,1,0,8
+Orangeburg,ORANGEBURG WD 8,U.S. House,6,REP,Justin Scott,10,0,2,0,2,0,6
+Orangeburg,ORANGEBURG WD 9,U.S. House,6,REP,Justin Scott,6,0,1,0,1,0,4
+Orangeburg,ORANGEBURG WD 10,U.S. House,6,REP,Justin Scott,13,0,0,0,5,0,8
+Orangeburg,SUBURBAN 1,U.S. House,6,REP,Justin Scott,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 2,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,U.S. House,6,REP,Justin Scott,3,0,0,0,0,0,3
+Orangeburg,SUBURBAN 4,U.S. House,6,REP,Justin Scott,8,0,2,0,1,0,5
+Orangeburg,SUBURBAN 5,U.S. House,6,REP,Justin Scott,2,0,0,0,1,0,1
+Orangeburg,SUBURBAN 6,U.S. House,6,REP,Justin Scott,4,0,0,0,3,0,1
+Orangeburg,SUBURBAN 7,U.S. House,6,REP,Justin Scott,18,0,0,0,9,0,9
+Orangeburg,SUBURBAN 8,U.S. House,6,REP,Justin Scott,6,0,0,0,2,0,4
+Orangeburg,SUBURBAN 9,U.S. House,6,REP,Justin Scott,8,0,3,0,0,0,5
+Orangeburg,BETHEL,U.S. House,6,REP,Justin Scott,3,0,0,0,1,0,2
+Orangeburg,BOWMAN 1,U.S. House,6,REP,Justin Scott,13,0,0,0,1,0,12
+Orangeburg,BOWMAN 2,U.S. House,6,REP,Justin Scott,5,0,0,0,0,0,5
+Orangeburg,BRANCHVILLE 1,U.S. House,6,REP,Justin Scott,10,0,0,0,0,0,10
+Orangeburg,BRANCHVILLE 2,U.S. House,6,REP,Justin Scott,6,0,0,0,1,0,5
+Orangeburg,BROOKDALE,U.S. House,6,REP,Justin Scott,5,0,0,0,2,0,3
+Orangeburg,ELLOREE 1,U.S. House,6,REP,Justin Scott,25,0,0,0,1,0,24
+Orangeburg,EUTAWVILLE 1,U.S. House,6,REP,Justin Scott,27,0,0,0,1,0,26
+Orangeburg,EUTAWVILLE 2,U.S. House,6,REP,Justin Scott,8,0,0,0,1,0,7
+Orangeburg,FOUR HOLES,U.S. House,6,REP,Justin Scott,17,0,2,0,1,0,14
+Orangeburg,HOLLY HILL 2,U.S. House,6,REP,Justin Scott,7,0,2,0,1,0,4
+Orangeburg,HOLLY HILL 1,U.S. House,6,REP,Justin Scott,5,0,0,0,0,0,5
+Orangeburg,JAMISON,U.S. House,6,REP,Justin Scott,11,0,0,0,4,0,7
+Orangeburg,NIX,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Orangeburg,PROVIDENCE,U.S. House,6,REP,Justin Scott,9,0,1,0,0,0,8
+Orangeburg,ROWESVILLE,U.S. House,6,REP,Justin Scott,6,0,0,0,0,0,6
+Orangeburg,SANTEE 1,U.S. House,6,REP,Justin Scott,35,0,5,0,1,0,29
+Orangeburg,VANCE,U.S. House,6,REP,Justin Scott,24,0,1,0,7,0,16
+Orangeburg,WHITTAKER,U.S. House,6,REP,Justin Scott,4,0,0,0,4,0,0
+Orangeburg,ELLOREE 2,U.S. House,6,REP,Justin Scott,5,0,0,0,0,0,5
+Orangeburg,SANTEE 2,U.S. House,6,REP,Justin Scott,3,0,0,0,1,0,2
+Orangeburg,Failsafe,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,State Senate,40,DEM,Kendrick Brown,30,0,1,0,7,0,22
+Orangeburg,ORANGEBURG WD 5,State Senate,40,DEM,Kendrick Brown,25,0,0,0,7,0,18
+Orangeburg,ORANGEBURG WD 6,State Senate,40,DEM,Kendrick Brown,35,0,1,0,11,0,23
+Orangeburg,ORNAGEBURG WD 7,State Senate,40,DEM,Kendrick Brown,45,0,3,0,11,0,31
+Orangeburg,ORANGEBURG WD 8,State Senate,40,DEM,Kendrick Brown,31,0,0,0,9,0,22
+Orangeburg,ORANGEBURG WD 9,State Senate,40,DEM,Kendrick Brown,28,0,1,0,9,0,18
+Orangeburg,ORANGEBURG WD 10,State Senate,40,DEM,Kendrick Brown,37,0,0,0,14,0,23
+Orangeburg,SUBURBAN 5,State Senate,40,DEM,Kendrick Brown,47,0,2,0,12,0,33
+Orangeburg,SUBURBAN 6,State Senate,40,DEM,Kendrick Brown,20,0,1,0,4,0,15
+Orangeburg,SUBURBAN 7,State Senate,40,DEM,Kendrick Brown,104,0,1,0,35,0,68
+Orangeburg,SUBURBAN 8,State Senate,40,DEM,Kendrick Brown,35,0,2,0,14,0,19
+Orangeburg,SUBURBAN 9,State Senate,40,DEM,Kendrick Brown,49,0,1,0,10,0,38
+Orangeburg,COPE,State Senate,40,DEM,Kendrick Brown,14,0,0,0,3,0,11
+Orangeburg,CORDOVA 1,State Senate,40,DEM,Kendrick Brown,44,0,0,0,7,0,37
+Orangeburg,EDISTO,State Senate,40,DEM,Kendrick Brown,34,0,1,0,6,0,27
+Orangeburg,JAMISON,State Senate,40,DEM,Kendrick Brown,74,0,3,0,22,0,49
+Orangeburg,LIMESTONE 1,State Senate,40,DEM,Kendrick Brown,74,0,0,0,23,0,51
+Orangeburg,NEESES-LIVINGSTON,State Senate,40,DEM,Kendrick Brown,11,0,0,0,3,0,8
+Orangeburg,NORTH 2,State Senate,40,DEM,Kendrick Brown,48,0,0,0,14,0,34
+Orangeburg,NORTH 1,State Senate,40,DEM,Kendrick Brown,25,0,0,0,11,0,14
+Orangeburg,NORWAY,State Senate,40,DEM,Kendrick Brown,28,0,0,0,4,0,24
+Orangeburg,PINE HILL,State Senate,40,DEM,Kendrick Brown,35,0,0,0,3,0,32
+Orangeburg,SPRINGFIELD,State Senate,40,DEM,Kendrick Brown,27,0,5,0,2,0,20
+Orangeburg,BOLENTOWN,State Senate,40,DEM,Kendrick Brown,40,0,0,0,5,0,35
+Orangeburg,CORDOVA 2,State Senate,40,DEM,Kendrick Brown,34,0,0,0,10,0,24
+Orangeburg,LIMESTONE 2,State Senate,40,DEM,Kendrick Brown,81,0,2,0,28,0,51
+Orangeburg,Failsafe,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Orangeburg,Provisional,State Senate,40,DEM,Kendrick Brown,3,0,0,0,0,3,0
+Orangeburg,Failsafe Proviisional,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,State Senate,40,DEM,Brad Hutto,75,0,1,0,27,0,47
+Orangeburg,ORANGEBURG WD 5,State Senate,40,DEM,Brad Hutto,52,0,10,0,21,0,21
+Orangeburg,ORANGEBURG WD 6,State Senate,40,DEM,Brad Hutto,72,0,0,0,27,0,45
+Orangeburg,ORNAGEBURG WD 7,State Senate,40,DEM,Brad Hutto,149,0,6,0,47,0,96
+Orangeburg,ORANGEBURG WD 8,State Senate,40,DEM,Brad Hutto,94,0,5,0,39,0,50
+Orangeburg,ORANGEBURG WD 9,State Senate,40,DEM,Brad Hutto,85,0,5,0,32,0,48
+Orangeburg,ORANGEBURG WD 10,State Senate,40,DEM,Brad Hutto,155,0,5,0,62,0,88
+Orangeburg,SUBURBAN 5,State Senate,40,DEM,Brad Hutto,172,0,10,0,73,0,89
+Orangeburg,SUBURBAN 6,State Senate,40,DEM,Brad Hutto,62,0,2,0,22,0,38
+Orangeburg,SUBURBAN 7,State Senate,40,DEM,Brad Hutto,283,0,11,0,128,0,144
+Orangeburg,SUBURBAN 8,State Senate,40,DEM,Brad Hutto,152,0,4,0,63,0,85
+Orangeburg,SUBURBAN 9,State Senate,40,DEM,Brad Hutto,240,0,16,0,98,0,126
+Orangeburg,COPE,State Senate,40,DEM,Brad Hutto,51,0,1,0,9,0,41
+Orangeburg,CORDOVA 1,State Senate,40,DEM,Brad Hutto,106,0,5,0,30,0,71
+Orangeburg,EDISTO,State Senate,40,DEM,Brad Hutto,56,0,2,0,17,0,37
+Orangeburg,JAMISON,State Senate,40,DEM,Brad Hutto,314,0,17,0,154,0,143
+Orangeburg,LIMESTONE 1,State Senate,40,DEM,Brad Hutto,242,0,13,0,101,0,128
+Orangeburg,NEESES-LIVINGSTON,State Senate,40,DEM,Brad Hutto,57,0,7,0,19,0,31
+Orangeburg,NORTH 2,State Senate,40,DEM,Brad Hutto,106,0,6,0,42,0,58
+Orangeburg,NORTH 1,State Senate,40,DEM,Brad Hutto,125,0,21,0,41,0,63
+Orangeburg,NORWAY,State Senate,40,DEM,Brad Hutto,134,0,21,0,21,0,92
+Orangeburg,PINE HILL,State Senate,40,DEM,Brad Hutto,101,0,7,0,21,0,73
+Orangeburg,SPRINGFIELD,State Senate,40,DEM,Brad Hutto,172,0,103,0,6,0,63
+Orangeburg,BOLENTOWN,State Senate,40,DEM,Brad Hutto,97,0,2,0,26,0,69
+Orangeburg,CORDOVA 2,State Senate,40,DEM,Brad Hutto,127,0,5,0,42,0,80
+Orangeburg,LIMESTONE 2,State Senate,40,DEM,Brad Hutto,245,0,9,0,96,0,140
+Orangeburg,Failsafe,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Orangeburg,Provisional,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Orangeburg,ELLOREE 1,State Senate,36,REP,Leon Winn,13,0,0,0,0,0,13
+Orangeburg,EUTAWVILLE 1,State Senate,36,REP,Leon Winn,17,0,0,0,2,0,15
+Orangeburg,EUTAWVILLE 2,State Senate,36,REP,Leon Winn,6,0,0,0,1,0,5
+Orangeburg,PROVIDENCE,State Senate,36,REP,Leon Winn,4,0,0,0,0,0,4
+Orangeburg,SANTEE 1,State Senate,36,REP,Leon Winn,18,0,0,0,2,0,16
+Orangeburg,VANCE,State Senate,36,REP,Leon Winn,12,0,1,0,4,0,7
+Orangeburg,ELLOREE 2,State Senate,36,REP,Leon Winn,1,0,0,0,0,0,1
+Orangeburg,SANTEE 2,State Senate,36,REP,Leon Winn,3,0,0,0,0,0,3
+Orangeburg,Failsafe,State Senate,36,REP,Leon Winn,0,0,0,0,0,0,0
+Orangeburg,Provisional,State Senate,36,REP,Leon Winn,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,State Senate,36,REP,Leon Winn,0,0,0,0,0,0,0
+Orangeburg,ELLOREE 1,State Senate,36,REP,Jeff Zell,41,0,0,0,2,0,39
+Orangeburg,EUTAWVILLE 1,State Senate,36,REP,Jeff Zell,36,0,1,0,0,0,35
+Orangeburg,EUTAWVILLE 2,State Senate,36,REP,Jeff Zell,16,0,1,0,2,0,13
+Orangeburg,PROVIDENCE,State Senate,36,REP,Jeff Zell,20,0,1,0,2,0,17
+Orangeburg,SANTEE 1,State Senate,36,REP,Jeff Zell,58,0,9,0,1,0,48
+Orangeburg,VANCE,State Senate,36,REP,Jeff Zell,27,0,0,0,7,0,20
+Orangeburg,ELLOREE 2,State Senate,36,REP,Jeff Zell,6,0,0,0,0,0,6
+Orangeburg,SANTEE 2,State Senate,36,REP,Jeff Zell,2,0,0,0,1,0,1
+Orangeburg,Failsafe,State Senate,36,REP,Jeff Zell,0,0,0,0,0,0,0
+Orangeburg,Provisional,State Senate,36,REP,Jeff Zell,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,State Senate,36,REP,Jeff Zell,0,0,0,0,0,0,0
+Orangeburg,ELLOREE 1,State Senate,36,DEM,Eleazer Leazer Carter,41,0,4,0,7,0,30
+Orangeburg,EUTAWVILLE 1,State Senate,36,DEM,Eleazer Leazer Carter,29,0,2,0,10,0,17
+Orangeburg,EUTAWVILLE 2,State Senate,36,DEM,Eleazer Leazer Carter,56,0,4,0,24,0,28
+Orangeburg,PROVIDENCE,State Senate,36,DEM,Eleazer Leazer Carter,63,0,16,0,20,0,27
+Orangeburg,SANTEE 1,State Senate,36,DEM,Eleazer Leazer Carter,45,0,3,0,21,0,21
+Orangeburg,VANCE,State Senate,36,DEM,Eleazer Leazer Carter,81,0,22,0,28,0,31
+Orangeburg,ELLOREE 2,State Senate,36,DEM,Eleazer Leazer Carter,47,0,1,0,7,0,39
+Orangeburg,SANTEE 2,State Senate,36,DEM,Eleazer Leazer Carter,81,0,22,0,11,0,48
+Orangeburg,Failsafe,State Senate,36,DEM,Eleazer Leazer Carter,0,0,0,0,0,0,0
+Orangeburg,Provisional,State Senate,36,DEM,Eleazer Leazer Carter,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,State Senate,36,DEM,Eleazer Leazer Carter,0,0,0,0,0,0,0
+Orangeburg,ELLOREE 1,State Senate,36,DEM,Kevin L Johnson,105,0,19,0,20,0,66
+Orangeburg,EUTAWVILLE 1,State Senate,36,DEM,Kevin L Johnson,108,0,9,0,40,0,59
+Orangeburg,EUTAWVILLE 2,State Senate,36,DEM,Kevin L Johnson,291,0,34,0,108,0,149
+Orangeburg,PROVIDENCE,State Senate,36,DEM,Kevin L Johnson,168,0,23,0,25,0,120
+Orangeburg,SANTEE 1,State Senate,36,DEM,Kevin L Johnson,130,0,11,0,40,0,79
+Orangeburg,VANCE,State Senate,36,DEM,Kevin L Johnson,232,0,22,0,99,0,111
+Orangeburg,ELLOREE 2,State Senate,36,DEM,Kevin L Johnson,109,0,24,0,23,0,62
+Orangeburg,SANTEE 2,State Senate,36,DEM,Kevin L Johnson,234,0,36,0,56,0,142
+Orangeburg,Failsafe,State Senate,36,DEM,Kevin L Johnson,0,0,0,0,0,0,0
+Orangeburg,Provisional,State Senate,36,DEM,Kevin L Johnson,2,0,0,0,0,2,0
+Orangeburg,Failsafe Proviisional,State Senate,36,DEM,Kevin L Johnson,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,State House,93,DEM,Johnny Felder,13,0,0,0,4,0,9
+Orangeburg,BROOKDALE,State House,93,DEM,Johnny Felder,33,0,3,0,11,0,19
+Orangeburg,ELLOREE 1,State House,93,DEM,Johnny Felder,49,0,3,0,7,0,39
+Orangeburg,FOUR HOLES,State House,93,DEM,Johnny Felder,17,0,0,0,4,0,13
+Orangeburg,JAMISON,State House,93,DEM,Johnny Felder,80,0,4,0,36,0,40
+Orangeburg,NORTH 2,State House,93,DEM,Johnny Felder,38,0,1,0,10,0,27
+Orangeburg,NORTH 1,State House,93,DEM,Johnny Felder,27,0,0,0,16,0,11
+Orangeburg,SANTEE 1,State House,93,DEM,Johnny Felder,51,0,2,0,15,0,34
+Orangeburg,WHITTAKER,State House,93,DEM,Johnny Felder,26,0,0,0,6,0,20
+Orangeburg,ELLOREE 2,State House,93,DEM,Johnny Felder,32,0,0,0,7,0,25
+Orangeburg,LIMESTONE 2,State House,93,DEM,Johnny Felder,46,0,0,0,18,0,28
+Orangeburg,SANTEE 2,State House,93,DEM,Johnny Felder,98,0,1,0,23,0,74
+Orangeburg,Failsafe,State House,93,DEM,Johnny Felder,0,0,0,0,0,0,0
+Orangeburg,Provisional,State House,93,DEM,Johnny Felder,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,State House,93,DEM,Johnny Felder,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,State House,93,DEM,Phillip J Ford,25,0,4,0,7,0,14
+Orangeburg,BROOKDALE,State House,93,DEM,Phillip J Ford,17,0,0,0,4,0,13
+Orangeburg,ELLOREE 1,State House,93,DEM,Phillip J Ford,14,0,1,0,2,0,11
+Orangeburg,FOUR HOLES,State House,93,DEM,Phillip J Ford,16,0,4,0,3,0,9
+Orangeburg,JAMISON,State House,93,DEM,Phillip J Ford,46,0,0,0,23,0,23
+Orangeburg,NORTH 2,State House,93,DEM,Phillip J Ford,26,0,1,0,8,0,17
+Orangeburg,NORTH 1,State House,93,DEM,Phillip J Ford,13,0,0,0,4,0,9
+Orangeburg,SANTEE 1,State House,93,DEM,Phillip J Ford,16,0,1,0,7,0,8
+Orangeburg,WHITTAKER,State House,93,DEM,Phillip J Ford,23,0,0,0,13,0,10
+Orangeburg,ELLOREE 2,State House,93,DEM,Phillip J Ford,19,0,1,0,0,0,18
+Orangeburg,LIMESTONE 2,State House,93,DEM,Phillip J Ford,17,0,1,0,3,0,13
+Orangeburg,SANTEE 2,State House,93,DEM,Phillip J Ford,36,0,4,0,9,0,23
+Orangeburg,Failsafe,State House,93,DEM,Phillip J Ford,0,0,0,0,0,0,0
+Orangeburg,Provisional,State House,93,DEM,Phillip J Ford,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,State House,93,DEM,Phillip J Ford,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,State House,93,DEM,Jerry Govan,88,0,8,0,33,0,47
+Orangeburg,BROOKDALE,State House,93,DEM,Jerry Govan,182,0,9,0,90,0,83
+Orangeburg,ELLOREE 1,State House,93,DEM,Jerry Govan,86,0,19,0,19,0,48
+Orangeburg,FOUR HOLES,State House,93,DEM,Jerry Govan,34,0,2,0,5,0,27
+Orangeburg,JAMISON,State House,93,DEM,Jerry Govan,258,0,16,0,119,0,123
+Orangeburg,NORTH 2,State House,93,DEM,Jerry Govan,51,0,4,0,24,0,23
+Orangeburg,NORTH 1,State House,93,DEM,Jerry Govan,22,0,5,0,7,0,10
+Orangeburg,SANTEE 1,State House,93,DEM,Jerry Govan,93,0,11,0,32,0,50
+Orangeburg,WHITTAKER,State House,93,DEM,Jerry Govan,184,0,11,0,74,0,99
+Orangeburg,ELLOREE 2,State House,93,DEM,Jerry Govan,105,0,24,0,25,0,56
+Orangeburg,LIMESTONE 2,State House,93,DEM,Jerry Govan,71,0,2,0,30,0,39
+Orangeburg,SANTEE 2,State House,93,DEM,Jerry Govan,179,0,51,0,40,0,88
+Orangeburg,Failsafe,State House,93,DEM,Jerry Govan,0,0,0,0,0,0,0
+Orangeburg,Provisional,State House,93,DEM,Jerry Govan,3,0,0,0,0,3,0
+Orangeburg,Failsafe Proviisional,State House,93,DEM,Jerry Govan,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,State House,93,DEM,Chris Roland,0,0,0,0,0,0,0
+Orangeburg,BROOKDALE,State House,93,DEM,Chris Roland,5,0,0,0,0,0,5
+Orangeburg,ELLOREE 1,State House,93,DEM,Chris Roland,6,0,1,0,1,0,4
+Orangeburg,FOUR HOLES,State House,93,DEM,Chris Roland,15,0,0,0,1,0,14
+Orangeburg,JAMISON,State House,93,DEM,Chris Roland,13,0,0,0,2,0,11
+Orangeburg,NORTH 2,State House,93,DEM,Chris Roland,12,0,0,0,2,0,10
+Orangeburg,NORTH 1,State House,93,DEM,Chris Roland,4,0,0,0,1,0,3
+Orangeburg,SANTEE 1,State House,93,DEM,Chris Roland,14,0,0,0,5,0,9
+Orangeburg,WHITTAKER,State House,93,DEM,Chris Roland,9,0,0,0,4,0,5
+Orangeburg,ELLOREE 2,State House,93,DEM,Chris Roland,3,0,0,0,0,0,3
+Orangeburg,LIMESTONE 2,State House,93,DEM,Chris Roland,10,0,0,0,3,0,7
+Orangeburg,SANTEE 2,State House,93,DEM,Chris Roland,16,0,3,0,0,0,13
+Orangeburg,Failsafe,State House,93,DEM,Chris Roland,0,0,0,0,0,0,0
+Orangeburg,Provisional,State House,93,DEM,Chris Roland,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,State House,93,DEM,Chris Roland,0,0,0,0,0,0,0
+Orangeburg,LIMESTONE 1,State House,91,REP,Demaris Johnson,1,0,0,0,1,0,0
+Orangeburg,NEESES-LIVINGSTON,State House,91,REP,Demaris Johnson,16,0,0,0,0,0,16
+Orangeburg,NORTH 2,State House,91,REP,Demaris Johnson,1,0,0,0,0,0,1
+Orangeburg,NORTH 1,State House,91,REP,Demaris Johnson,7,0,0,0,0,0,7
+Orangeburg,NORWAY,State House,91,REP,Demaris Johnson,14,0,0,0,3,0,11
+Orangeburg,PINE HILL,State House,91,REP,Demaris Johnson,3,0,0,0,0,0,3
+Orangeburg,SPRINGFIELD,State House,91,REP,Demaris Johnson,16,0,0,0,1,0,15
+Orangeburg,BOLENTOWN,State House,91,REP,Demaris Johnson,11,0,0,0,0,0,11
+Orangeburg,LIMESTONE 2,State House,91,REP,Demaris Johnson,10,0,2,0,1,0,7
+Orangeburg,Failsafe,State House,91,REP,Demaris Johnson,0,0,0,0,0,0,0
+Orangeburg,Provisional,State House,91,REP,Demaris Johnson,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,State House,91,REP,Demaris Johnson,0,0,0,0,0,0,0
+Orangeburg,LIMESTONE 1,State House,91,REP,Ben Kinlaw,0,0,0,0,0,0,0
+Orangeburg,NEESES-LIVINGSTON,State House,91,REP,Ben Kinlaw,50,0,3,0,9,0,38
+Orangeburg,NORTH 2,State House,91,REP,Ben Kinlaw,8,0,0,0,1,0,7
+Orangeburg,NORTH 1,State House,91,REP,Ben Kinlaw,18,0,0,0,1,0,17
+Orangeburg,NORWAY,State House,91,REP,Ben Kinlaw,28,0,2,0,5,0,21
+Orangeburg,PINE HILL,State House,91,REP,Ben Kinlaw,15,0,3,0,3,0,9
+Orangeburg,SPRINGFIELD,State House,91,REP,Ben Kinlaw,24,0,2,0,0,0,22
+Orangeburg,BOLENTOWN,State House,91,REP,Ben Kinlaw,24,0,1,0,0,0,23
+Orangeburg,LIMESTONE 2,State House,91,REP,Ben Kinlaw,5,0,1,0,2,0,2
+Orangeburg,Failsafe,State House,91,REP,Ben Kinlaw,0,0,0,0,0,0,0
+Orangeburg,Provisional,State House,91,REP,Ben Kinlaw,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,State House,91,REP,Ben Kinlaw,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,29,0,0,0,5,0,24
+Orangeburg,ORANGEBURG WD 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,19,0,1,0,5,0,13
+Orangeburg,ORANGEBURG WD 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,31,0,1,0,4,0,26
+Orangeburg,ORANGEBURG WD 4,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,12,0,0,0,3,0,9
+Orangeburg,ORANGEBURG WD 5,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,18,0,0,0,6,0,12
+Orangeburg,ORANGEBURG WD 6,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,26,0,0,0,8,0,18
+Orangeburg,ORNAGEBURG WD 7,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,41,0,0,0,9,0,32
+Orangeburg,ORANGEBURG WD 8,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,27,0,0,0,10,0,17
+Orangeburg,ORANGEBURG WD 9,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,33,0,0,0,15,0,18
+Orangeburg,ORANGEBURG WD 10,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,32,0,0,0,11,0,21
+Orangeburg,SUBURBAN 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,15,0,0,0,5,0,10
+Orangeburg,SUBURBAN 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,25,0,1,0,9,0,15
+Orangeburg,SUBURBAN 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,59,0,3,0,22,0,34
+Orangeburg,SUBURBAN 4,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,9,0,0,0,0,0,9
+Orangeburg,SUBURBAN 5,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,53,0,2,0,12,0,39
+Orangeburg,SUBURBAN 6,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,15,0,0,0,2,0,13
+Orangeburg,SUBURBAN 7,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,94,0,1,0,33,0,60
+Orangeburg,SUBURBAN 8,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,45,0,0,0,12,0,33
+Orangeburg,SUBURBAN 9,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,53,0,2,0,13,0,38
+Orangeburg,BETHEL,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,28,0,0,0,4,0,24
+Orangeburg,BOWMAN 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,38,0,6,0,3,0,29
+Orangeburg,BOWMAN 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,18,0,2,0,1,0,15
+Orangeburg,BRANCHVILLE 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,15,0,1,0,2,0,12
+Orangeburg,BRANCHVILLE 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,11,0,1,0,0,0,10
+Orangeburg,BROOKDALE,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,102,0,3,0,39,0,60
+Orangeburg,COPE,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,15,0,0,0,3,0,12
+Orangeburg,CORDOVA 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,40,0,1,0,6,0,33
+Orangeburg,EDISTO,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,24,0,1,0,8,0,15
+Orangeburg,ELLOREE 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,31,0,8,0,5,0,18
+Orangeburg,EUTAWVILLE 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,27,0,0,0,3,0,24
+Orangeburg,EUTAWVILLE 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,62,0,2,0,13,0,47
+Orangeburg,FOUR HOLES,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,17,0,0,0,3,0,14
+Orangeburg,HOLLY HILL 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,32,0,8,0,5,0,19
+Orangeburg,HOLLY HILL 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,52,0,3,0,4,0,45
+Orangeburg,JAMISON,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,77,0,3,0,23,0,51
+Orangeburg,LIMESTONE 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,74,0,0,0,22,0,52
+Orangeburg,NEESES-LIVINGSTON,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,14,0,1,0,6,0,7
+Orangeburg,NIX,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,47,0,0,0,12,0,35
+Orangeburg,NORTH 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,42,0,0,0,9,0,33
+Orangeburg,NORTH 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,24,0,0,0,16,0,8
+Orangeburg,NORWAY,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,32,0,2,0,4,0,26
+Orangeburg,PINE HILL,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,36,0,2,0,3,0,31
+Orangeburg,PROVIDENCE,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,42,0,6,0,7,0,29
+Orangeburg,ROWESVILLE,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,12,0,0,0,0,0,12
+Orangeburg,SANTEE 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,27,0,3,0,2,0,22
+Orangeburg,SPRINGFIELD,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,19,0,4,0,1,0,14
+Orangeburg,VANCE,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,50,0,0,0,15,0,35
+Orangeburg,WHITTAKER,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,43,0,3,0,12,0,28
+Orangeburg,BOLENTOWN,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,20,0,0,0,5,0,15
+Orangeburg,CORDOVA 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,32,0,0,0,7,0,25
+Orangeburg,ELLOREE 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,18,0,4,0,2,0,12
+Orangeburg,LIMESTONE 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,73,0,2,0,27,0,44
+Orangeburg,SANTEE 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,46,0,7,0,4,0,35
+Orangeburg,Failsafe,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,0,0,0,0,0,0,0
+Orangeburg,Provisional,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,2,0,0,0,0,2,0
+Orangeburg,Failsafe Proviisional,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,72,0,2,0,26,0,44
+Orangeburg,ORANGEBURG WD 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,40,0,0,0,20,0,20
+Orangeburg,ORANGEBURG WD 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,100,0,2,0,25,0,73
+Orangeburg,ORANGEBURG WD 4,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,32,0,10,0,7,0,15
+Orangeburg,ORANGEBURG WD 5,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,59,0,10,0,20,0,29
+Orangeburg,ORANGEBURG WD 6,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,78,0,1,0,29,0,48
+Orangeburg,ORNAGEBURG WD 7,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,148,0,9,0,46,0,93
+Orangeburg,ORANGEBURG WD 8,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,98,0,5,0,37,0,56
+Orangeburg,ORANGEBURG WD 9,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,76,0,6,0,25,0,45
+Orangeburg,ORANGEBURG WD 10,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,158,0,5,0,64,0,89
+Orangeburg,SUBURBAN 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,85,0,3,0,24,0,58
+Orangeburg,SUBURBAN 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,100,0,11,0,35,0,54
+Orangeburg,SUBURBAN 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,215,0,13,0,76,0,126
+Orangeburg,SUBURBAN 4,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,15,0,0,0,2,0,13
+Orangeburg,SUBURBAN 5,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,159,0,10,0,68,0,81
+Orangeburg,SUBURBAN 6,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,67,0,3,0,23,0,41
+Orangeburg,SUBURBAN 7,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,297,0,13,0,131,0,153
+Orangeburg,SUBURBAN 8,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,139,0,6,0,62,0,71
+Orangeburg,SUBURBAN 9,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,232,0,15,0,94,0,123
+Orangeburg,BETHEL,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,73,0,10,0,25,0,38
+Orangeburg,BOWMAN 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,232,0,85,0,24,0,123
+Orangeburg,BOWMAN 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,110,0,32,0,12,0,66
+Orangeburg,BRANCHVILLE 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,81,0,7,0,13,0,61
+Orangeburg,BRANCHVILLE 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,41,0,5,0,1,0,35
+Orangeburg,BROOKDALE,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,344,0,21,0,165,0,158
+Orangeburg,COPE,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,49,0,1,0,9,0,39
+Orangeburg,CORDOVA 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,104,0,4,0,29,0,71
+Orangeburg,EDISTO,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,65,0,2,0,14,0,49
+Orangeburg,ELLOREE 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,120,0,17,0,24,0,79
+Orangeburg,EUTAWVILLE 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,115,0,11,0,49,0,55
+Orangeburg,EUTAWVILLE 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,283,0,36,0,117,0,130
+Orangeburg,FOUR HOLES,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,60,0,6,0,9,0,45
+Orangeburg,HOLLY HILL 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,426,0,222,0,51,0,153
+Orangeburg,HOLLY HILL 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,291,0,72,0,59,0,160
+Orangeburg,JAMISON,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,314,0,17,0,155,0,142
+Orangeburg,LIMESTONE 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,239,0,12,0,100,0,127
+Orangeburg,NEESES-LIVINGSTON,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,53,0,6,0,16,0,31
+Orangeburg,NIX,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,173,0,15,0,53,0,105
+Orangeburg,NORTH 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,110,0,6,0,45,0,59
+Orangeburg,NORTH 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,126,0,21,0,37,0,68
+Orangeburg,NORWAY,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,128,0,19,0,21,0,88
+Orangeburg,PINE HILL,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,98,0,5,0,20,0,73
+Orangeburg,PROVIDENCE,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,198,0,34,0,41,0,123
+Orangeburg,ROWESVILLE,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,49,0,0,0,10,0,39
+Orangeburg,SANTEE 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,146,0,9,0,59,0,78
+Orangeburg,SPRINGFIELD,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,181,0,104,0,7,0,70
+Orangeburg,VANCE,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,270,0,44,0,114,0,112
+Orangeburg,WHITTAKER,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,187,0,8,0,79,0,100
+Orangeburg,BOLENTOWN,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,115,0,2,0,25,0,88
+Orangeburg,CORDOVA 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,126,0,5,0,45,0,76
+Orangeburg,ELLOREE 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,134,0,21,0,27,0,86
+Orangeburg,LIMESTONE 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,246,0,9,0,94,0,143
+Orangeburg,SANTEE 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,265,0,48,0,65,0,152
+Orangeburg,Failsafe,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,0,0,0,0,0,0,0
+Orangeburg,Provisional,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,11,0,0,0,0,11,0
+Orangeburg,Failsafe Proviisional,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,Sheriff,,DEM,Bubba Johnson,34,0,1,0,9,0,24
+Orangeburg,ORANGEBURG WD 2,Sheriff,,DEM,Bubba Johnson,17,0,0,0,4,0,13
+Orangeburg,ORANGEBURG WD 3,Sheriff,,DEM,Bubba Johnson,55,0,0,0,8,0,47
+Orangeburg,ORANGEBURG WD 4,Sheriff,,DEM,Bubba Johnson,13,0,2,0,2,0,9
+Orangeburg,ORANGEBURG WD 5,Sheriff,,DEM,Bubba Johnson,25,0,4,0,4,0,17
+Orangeburg,ORANGEBURG WD 6,Sheriff,,DEM,Bubba Johnson,33,0,1,0,14,0,18
+Orangeburg,ORNAGEBURG WD 7,Sheriff,,DEM,Bubba Johnson,45,0,0,0,7,0,38
+Orangeburg,ORANGEBURG WD 8,Sheriff,,DEM,Bubba Johnson,17,0,0,0,5,0,12
+Orangeburg,ORANGEBURG WD 9,Sheriff,,DEM,Bubba Johnson,29,0,1,0,14,0,14
+Orangeburg,ORANGEBURG WD 10,Sheriff,,DEM,Bubba Johnson,42,0,2,0,15,0,25
+Orangeburg,SUBURBAN 1,Sheriff,,DEM,Bubba Johnson,31,0,0,0,5,0,26
+Orangeburg,SUBURBAN 2,Sheriff,,DEM,Bubba Johnson,36,0,2,0,10,0,24
+Orangeburg,SUBURBAN 3,Sheriff,,DEM,Bubba Johnson,81,0,7,0,28,0,46
+Orangeburg,SUBURBAN 4,Sheriff,,DEM,Bubba Johnson,4,0,0,0,0,0,4
+Orangeburg,SUBURBAN 5,Sheriff,,DEM,Bubba Johnson,60,0,2,0,21,0,37
+Orangeburg,SUBURBAN 6,Sheriff,,DEM,Bubba Johnson,25,0,1,0,5,0,19
+Orangeburg,SUBURBAN 7,Sheriff,,DEM,Bubba Johnson,81,0,3,0,30,0,48
+Orangeburg,SUBURBAN 8,Sheriff,,DEM,Bubba Johnson,32,0,0,0,11,0,21
+Orangeburg,SUBURBAN 9,Sheriff,,DEM,Bubba Johnson,69,0,1,0,19,0,49
+Orangeburg,BETHEL,Sheriff,,DEM,Bubba Johnson,21,0,3,0,5,0,13
+Orangeburg,BOWMAN 1,Sheriff,,DEM,Bubba Johnson,43,0,6,0,7,0,30
+Orangeburg,BOWMAN 2,Sheriff,,DEM,Bubba Johnson,20,0,0,0,2,0,18
+Orangeburg,BRANCHVILLE 1,Sheriff,,DEM,Bubba Johnson,22,0,0,0,4,0,18
+Orangeburg,BRANCHVILLE 2,Sheriff,,DEM,Bubba Johnson,12,0,0,0,0,0,12
+Orangeburg,BROOKDALE,Sheriff,,DEM,Bubba Johnson,108,0,0,0,41,0,67
+Orangeburg,COPE,Sheriff,,DEM,Bubba Johnson,25,0,1,0,5,0,19
+Orangeburg,CORDOVA 1,Sheriff,,DEM,Bubba Johnson,50,0,2,0,12,0,36
+Orangeburg,EDISTO,Sheriff,,DEM,Bubba Johnson,34,0,0,0,11,0,23
+Orangeburg,ELLOREE 1,Sheriff,,DEM,Bubba Johnson,35,0,2,0,3,0,30
+Orangeburg,EUTAWVILLE 1,Sheriff,,DEM,Bubba Johnson,34,0,0,0,7,0,27
+Orangeburg,EUTAWVILLE 2,Sheriff,,DEM,Bubba Johnson,47,0,6,0,13,0,28
+Orangeburg,FOUR HOLES,Sheriff,,DEM,Bubba Johnson,21,0,3,0,3,0,15
+Orangeburg,HOLLY HILL 2,Sheriff,,DEM,Bubba Johnson,36,0,8,0,10,0,18
+Orangeburg,HOLLY HILL 1,Sheriff,,DEM,Bubba Johnson,52,0,3,0,6,0,43
+Orangeburg,JAMISON,Sheriff,,DEM,Bubba Johnson,108,0,1,0,38,0,69
+Orangeburg,LIMESTONE 1,Sheriff,,DEM,Bubba Johnson,60,0,1,0,22,0,37
+Orangeburg,NEESES-LIVINGSTON,Sheriff,,DEM,Bubba Johnson,24,0,3,0,11,0,10
+Orangeburg,NIX,Sheriff,,DEM,Bubba Johnson,67,0,1,0,13,0,53
+Orangeburg,NORTH 2,Sheriff,,DEM,Bubba Johnson,37,0,3,0,6,0,28
+Orangeburg,NORTH 1,Sheriff,,DEM,Bubba Johnson,25,0,0,0,13,0,12
+Orangeburg,NORWAY,Sheriff,,DEM,Bubba Johnson,25,0,1,0,3,0,21
+Orangeburg,PINE HILL,Sheriff,,DEM,Bubba Johnson,43,0,2,0,6,0,35
+Orangeburg,PROVIDENCE,Sheriff,,DEM,Bubba Johnson,33,0,4,0,6,0,23
+Orangeburg,ROWESVILLE,Sheriff,,DEM,Bubba Johnson,21,0,0,0,3,0,18
+Orangeburg,SANTEE 1,Sheriff,,DEM,Bubba Johnson,35,0,1,0,8,0,26
+Orangeburg,SPRINGFIELD,Sheriff,,DEM,Bubba Johnson,43,0,20,0,2,0,21
+Orangeburg,VANCE,Sheriff,,DEM,Bubba Johnson,41,0,0,0,23,0,18
+Orangeburg,WHITTAKER,Sheriff,,DEM,Bubba Johnson,67,0,0,0,21,0,46
+Orangeburg,BOLENTOWN,Sheriff,,DEM,Bubba Johnson,44,0,0,0,7,0,37
+Orangeburg,CORDOVA 2,Sheriff,,DEM,Bubba Johnson,35,0,0,0,11,0,24
+Orangeburg,ELLOREE 2,Sheriff,,DEM,Bubba Johnson,32,0,3,0,1,0,28
+Orangeburg,LIMESTONE 2,Sheriff,,DEM,Bubba Johnson,76,0,2,0,21,0,53
+Orangeburg,SANTEE 2,Sheriff,,DEM,Bubba Johnson,54,0,4,0,6,0,44
+Orangeburg,Failsafe,Sheriff,,DEM,Bubba Johnson,0,0,0,0,0,0,0
+Orangeburg,Provisional,Sheriff,,DEM,Bubba Johnson,4,0,0,0,0,4,0
+Orangeburg,Failsafe Proviisional,Sheriff,,DEM,Bubba Johnson,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,Sheriff,,DEM,Leroy Ravenell,72,0,1,0,25,0,46
+Orangeburg,ORANGEBURG WD 2,Sheriff,,DEM,Leroy Ravenell,41,0,1,0,20,0,20
+Orangeburg,ORANGEBURG WD 3,Sheriff,,DEM,Leroy Ravenell,78,0,3,0,21,0,54
+Orangeburg,ORANGEBURG WD 4,Sheriff,,DEM,Leroy Ravenell,32,0,8,0,8,0,16
+Orangeburg,ORANGEBURG WD 5,Sheriff,,DEM,Leroy Ravenell,55,0,6,0,24,0,25
+Orangeburg,ORANGEBURG WD 6,Sheriff,,DEM,Leroy Ravenell,74,0,0,0,24,0,50
+Orangeburg,ORNAGEBURG WD 7,Sheriff,,DEM,Leroy Ravenell,153,0,10,0,52,0,91
+Orangeburg,ORANGEBURG WD 8,Sheriff,,DEM,Leroy Ravenell,110,0,5,0,44,0,61
+Orangeburg,ORANGEBURG WD 9,Sheriff,,DEM,Leroy Ravenell,84,0,5,0,28,0,51
+Orangeburg,ORANGEBURG WD 10,Sheriff,,DEM,Leroy Ravenell,152,0,3,0,62,0,87
+Orangeburg,SUBURBAN 1,Sheriff,,DEM,Leroy Ravenell,75,0,3,0,24,0,48
+Orangeburg,SUBURBAN 2,Sheriff,,DEM,Leroy Ravenell,93,0,10,0,36,0,47
+Orangeburg,SUBURBAN 3,Sheriff,,DEM,Leroy Ravenell,202,0,9,0,76,0,117
+Orangeburg,SUBURBAN 4,Sheriff,,DEM,Leroy Ravenell,21,0,0,0,2,0,19
+Orangeburg,SUBURBAN 5,Sheriff,,DEM,Leroy Ravenell,160,0,10,0,64,0,86
+Orangeburg,SUBURBAN 6,Sheriff,,DEM,Leroy Ravenell,60,0,2,0,21,0,37
+Orangeburg,SUBURBAN 7,Sheriff,,DEM,Leroy Ravenell,318,0,11,0,139,0,168
+Orangeburg,SUBURBAN 8,Sheriff,,DEM,Leroy Ravenell,157,0,6,0,68,0,83
+Orangeburg,SUBURBAN 9,Sheriff,,DEM,Leroy Ravenell,222,0,16,0,90,0,116
+Orangeburg,BETHEL,Sheriff,,DEM,Leroy Ravenell,82,0,7,0,24,0,51
+Orangeburg,BOWMAN 1,Sheriff,,DEM,Leroy Ravenell,232,0,84,0,21,0,127
+Orangeburg,BOWMAN 2,Sheriff,,DEM,Leroy Ravenell,114,0,34,0,11,0,69
+Orangeburg,BRANCHVILLE 1,Sheriff,,DEM,Leroy Ravenell,74,0,8,0,11,0,55
+Orangeburg,BRANCHVILLE 2,Sheriff,,DEM,Leroy Ravenell,42,0,6,0,1,0,35
+Orangeburg,BROOKDALE,Sheriff,,DEM,Leroy Ravenell,350,0,25,0,166,0,159
+Orangeburg,COPE,Sheriff,,DEM,Leroy Ravenell,40,0,0,0,7,0,33
+Orangeburg,CORDOVA 1,Sheriff,,DEM,Leroy Ravenell,102,0,3,0,26,0,73
+Orangeburg,EDISTO,Sheriff,,DEM,Leroy Ravenell,59,0,3,0,13,0,43
+Orangeburg,ELLOREE 1,Sheriff,,DEM,Leroy Ravenell,119,0,23,0,26,0,70
+Orangeburg,EUTAWVILLE 1,Sheriff,,DEM,Leroy Ravenell,110,0,11,0,45,0,54
+Orangeburg,EUTAWVILLE 2,Sheriff,,DEM,Leroy Ravenell,303,0,32,0,120,0,151
+Orangeburg,FOUR HOLES,Sheriff,,DEM,Leroy Ravenell,60,0,3,0,10,0,47
+Orangeburg,HOLLY HILL 2,Sheriff,,DEM,Leroy Ravenell,425,0,223,0,46,0,156
+Orangeburg,HOLLY HILL 1,Sheriff,,DEM,Leroy Ravenell,294,0,72,0,59,0,163
+Orangeburg,JAMISON,Sheriff,,DEM,Leroy Ravenell,292,0,19,0,141,0,132
+Orangeburg,LIMESTONE 1,Sheriff,,DEM,Leroy Ravenell,259,0,12,0,102,0,145
+Orangeburg,NEESES-LIVINGSTON,Sheriff,,DEM,Leroy Ravenell,46,0,4,0,12,0,30
+Orangeburg,NIX,Sheriff,,DEM,Leroy Ravenell,161,0,14,0,54,0,93
+Orangeburg,NORTH 2,Sheriff,,DEM,Leroy Ravenell,119,0,3,0,50,0,66
+Orangeburg,NORTH 1,Sheriff,,DEM,Leroy Ravenell,130,0,21,0,42,0,67
+Orangeburg,NORWAY,Sheriff,,DEM,Leroy Ravenell,145,0,20,0,24,0,101
+Orangeburg,PINE HILL,Sheriff,,DEM,Leroy Ravenell,94,0,5,0,17,0,72
+Orangeburg,PROVIDENCE,Sheriff,,DEM,Leroy Ravenell,214,0,38,0,42,0,134
+Orangeburg,ROWESVILLE,Sheriff,,DEM,Leroy Ravenell,43,0,0,0,7,0,36
+Orangeburg,SANTEE 1,Sheriff,,DEM,Leroy Ravenell,143,0,12,0,53,0,78
+Orangeburg,SPRINGFIELD,Sheriff,,DEM,Leroy Ravenell,158,0,88,0,6,0,64
+Orangeburg,VANCE,Sheriff,,DEM,Leroy Ravenell,284,0,44,0,109,0,131
+Orangeburg,WHITTAKER,Sheriff,,DEM,Leroy Ravenell,175,0,11,0,75,0,89
+Orangeburg,BOLENTOWN,Sheriff,,DEM,Leroy Ravenell,94,0,2,0,24,0,68
+Orangeburg,CORDOVA 2,Sheriff,,DEM,Leroy Ravenell,122,0,5,0,40,0,77
+Orangeburg,ELLOREE 2,Sheriff,,DEM,Leroy Ravenell,129,0,22,0,31,0,76
+Orangeburg,LIMESTONE 2,Sheriff,,DEM,Leroy Ravenell,253,0,9,0,102,0,142
+Orangeburg,SANTEE 2,Sheriff,,DEM,Leroy Ravenell,279,0,55,0,66,0,158
+Orangeburg,Failsafe,Sheriff,,DEM,Leroy Ravenell,0,0,0,0,0,0,0
+Orangeburg,Provisional,Sheriff,,DEM,Leroy Ravenell,10,0,0,0,0,10,0
+Orangeburg,Failsafe Proviisional,Sheriff,,DEM,Leroy Ravenell,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,Clerk of Court,,DEM,Laeisha Bennett,45,0,0,0,13,0,32
+Orangeburg,ORANGEBURG WD 2,Clerk of Court,,DEM,Laeisha Bennett,22,0,0,0,6,0,16
+Orangeburg,ORANGEBURG WD 3,Clerk of Court,,DEM,Laeisha Bennett,35,0,1,0,9,0,25
+Orangeburg,ORANGEBURG WD 4,Clerk of Court,,DEM,Laeisha Bennett,11,0,4,0,2,0,5
+Orangeburg,ORANGEBURG WD 5,Clerk of Court,,DEM,Laeisha Bennett,32,0,7,0,5,0,20
+Orangeburg,ORANGEBURG WD 6,Clerk of Court,,DEM,Laeisha Bennett,32,0,1,0,15,0,16
+Orangeburg,ORNAGEBURG WD 7,Clerk of Court,,DEM,Laeisha Bennett,64,0,1,0,21,0,42
+Orangeburg,ORANGEBURG WD 8,Clerk of Court,,DEM,Laeisha Bennett,36,0,0,0,13,0,23
+Orangeburg,ORANGEBURG WD 9,Clerk of Court,,DEM,Laeisha Bennett,33,0,1,0,11,0,21
+Orangeburg,ORANGEBURG WD 10,Clerk of Court,,DEM,Laeisha Bennett,46,0,0,0,16,0,30
+Orangeburg,SUBURBAN 1,Clerk of Court,,DEM,Laeisha Bennett,30,0,0,0,12,0,18
+Orangeburg,SUBURBAN 2,Clerk of Court,,DEM,Laeisha Bennett,32,0,5,0,10,0,17
+Orangeburg,SUBURBAN 3,Clerk of Court,,DEM,Laeisha Bennett,69,0,5,0,24,0,40
+Orangeburg,SUBURBAN 4,Clerk of Court,,DEM,Laeisha Bennett,7,0,0,0,0,0,7
+Orangeburg,SUBURBAN 5,Clerk of Court,,DEM,Laeisha Bennett,64,0,2,0,20,0,42
+Orangeburg,SUBURBAN 6,Clerk of Court,,DEM,Laeisha Bennett,20,0,0,0,6,0,14
+Orangeburg,SUBURBAN 7,Clerk of Court,,DEM,Laeisha Bennett,118,0,4,0,43,0,71
+Orangeburg,SUBURBAN 8,Clerk of Court,,DEM,Laeisha Bennett,47,0,1,0,19,0,27
+Orangeburg,SUBURBAN 9,Clerk of Court,,DEM,Laeisha Bennett,88,0,2,0,26,0,60
+Orangeburg,BETHEL,Clerk of Court,,DEM,Laeisha Bennett,19,0,0,0,5,0,14
+Orangeburg,BOWMAN 1,Clerk of Court,,DEM,Laeisha Bennett,48,0,3,0,5,0,40
+Orangeburg,BOWMAN 2,Clerk of Court,,DEM,Laeisha Bennett,22,0,0,0,6,0,16
+Orangeburg,BRANCHVILLE 1,Clerk of Court,,DEM,Laeisha Bennett,17,0,0,0,4,0,13
+Orangeburg,BRANCHVILLE 2,Clerk of Court,,DEM,Laeisha Bennett,12,0,1,0,0,0,11
+Orangeburg,BROOKDALE,Clerk of Court,,DEM,Laeisha Bennett,117,0,5,0,48,0,64
+Orangeburg,COPE,Clerk of Court,,DEM,Laeisha Bennett,27,0,0,0,6,0,21
+Orangeburg,CORDOVA 1,Clerk of Court,,DEM,Laeisha Bennett,48,0,2,0,10,0,36
+Orangeburg,EDISTO,Clerk of Court,,DEM,Laeisha Bennett,30,0,0,0,5,0,25
+Orangeburg,ELLOREE 1,Clerk of Court,,DEM,Laeisha Bennett,37,0,4,0,3,0,30
+Orangeburg,EUTAWVILLE 1,Clerk of Court,,DEM,Laeisha Bennett,37,0,0,0,11,0,26
+Orangeburg,EUTAWVILLE 2,Clerk of Court,,DEM,Laeisha Bennett,76,0,4,0,18,0,54
+Orangeburg,FOUR HOLES,Clerk of Court,,DEM,Laeisha Bennett,26,0,3,0,5,0,18
+Orangeburg,HOLLY HILL 2,Clerk of Court,,DEM,Laeisha Bennett,119,0,25,0,29,0,65
+Orangeburg,HOLLY HILL 1,Clerk of Court,,DEM,Laeisha Bennett,95,0,9,0,11,0,75
+Orangeburg,JAMISON,Clerk of Court,,DEM,Laeisha Bennett,120,0,5,0,54,0,61
+Orangeburg,LIMESTONE 1,Clerk of Court,,DEM,Laeisha Bennett,94,0,0,0,35,0,59
+Orangeburg,NEESES-LIVINGSTON,Clerk of Court,,DEM,Laeisha Bennett,26,0,1,0,13,0,12
+Orangeburg,NIX,Clerk of Court,,DEM,Laeisha Bennett,64,0,3,0,18,0,43
+Orangeburg,NORTH 2,Clerk of Court,,DEM,Laeisha Bennett,60,0,0,0,23,0,37
+Orangeburg,NORTH 1,Clerk of Court,,DEM,Laeisha Bennett,50,0,1,0,24,0,25
+Orangeburg,NORWAY,Clerk of Court,,DEM,Laeisha Bennett,39,0,0,0,5,0,34
+Orangeburg,PINE HILL,Clerk of Court,,DEM,Laeisha Bennett,56,0,1,0,4,0,51
+Orangeburg,PROVIDENCE,Clerk of Court,,DEM,Laeisha Bennett,83,0,6,0,17,0,60
+Orangeburg,ROWESVILLE,Clerk of Court,,DEM,Laeisha Bennett,13,0,0,0,1,0,12
+Orangeburg,SANTEE 1,Clerk of Court,,DEM,Laeisha Bennett,35,0,1,0,9,0,25
+Orangeburg,SPRINGFIELD,Clerk of Court,,DEM,Laeisha Bennett,36,0,11,0,2,0,23
+Orangeburg,VANCE,Clerk of Court,,DEM,Laeisha Bennett,62,0,2,0,36,0,24
+Orangeburg,WHITTAKER,Clerk of Court,,DEM,Laeisha Bennett,58,0,3,0,28,0,27
+Orangeburg,BOLENTOWN,Clerk of Court,,DEM,Laeisha Bennett,46,0,0,0,7,0,39
+Orangeburg,CORDOVA 2,Clerk of Court,,DEM,Laeisha Bennett,40,0,1,0,12,0,27
+Orangeburg,ELLOREE 2,Clerk of Court,,DEM,Laeisha Bennett,31,0,0,0,2,0,29
+Orangeburg,LIMESTONE 2,Clerk of Court,,DEM,Laeisha Bennett,97,0,1,0,45,0,51
+Orangeburg,SANTEE 2,Clerk of Court,,DEM,Laeisha Bennett,81,0,5,0,17,0,59
+Orangeburg,Failsafe,Clerk of Court,,DEM,Laeisha Bennett,0,0,0,0,0,0,0
+Orangeburg,Provisional,Clerk of Court,,DEM,Laeisha Bennett,5,0,0,0,0,5,0
+Orangeburg,Failsafe Proviisional,Clerk of Court,,DEM,Laeisha Bennett,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,Clerk of Court,,DEM,Winnifa Brown Clark,55,0,2,0,17,0,36
+Orangeburg,ORANGEBURG WD 2,Clerk of Court,,DEM,Winnifa Brown Clark,35,0,1,0,17,0,17
+Orangeburg,ORANGEBURG WD 3,Clerk of Court,,DEM,Winnifa Brown Clark,98,0,2,0,20,0,76
+Orangeburg,ORANGEBURG WD 4,Clerk of Court,,DEM,Winnifa Brown Clark,33,0,6,0,8,0,19
+Orangeburg,ORANGEBURG WD 5,Clerk of Court,,DEM,Winnifa Brown Clark,46,0,3,0,22,0,21
+Orangeburg,ORANGEBURG WD 6,Clerk of Court,,DEM,Winnifa Brown Clark,73,0,0,0,22,0,51
+Orangeburg,ORNAGEBURG WD 7,Clerk of Court,,DEM,Winnifa Brown Clark,128,0,8,0,38,0,82
+Orangeburg,ORANGEBURG WD 8,Clerk of Court,,DEM,Winnifa Brown Clark,87,0,5,0,34,0,48
+Orangeburg,ORANGEBURG WD 9,Clerk of Court,,DEM,Winnifa Brown Clark,78,0,5,0,29,0,44
+Orangeburg,ORANGEBURG WD 10,Clerk of Court,,DEM,Winnifa Brown Clark,144,0,5,0,58,0,81
+Orangeburg,SUBURBAN 1,Clerk of Court,,DEM,Winnifa Brown Clark,72,0,3,0,18,0,51
+Orangeburg,SUBURBAN 2,Clerk of Court,,DEM,Winnifa Brown Clark,93,0,7,0,34,0,52
+Orangeburg,SUBURBAN 3,Clerk of Court,,DEM,Winnifa Brown Clark,209,0,11,0,78,0,120
+Orangeburg,SUBURBAN 4,Clerk of Court,,DEM,Winnifa Brown Clark,19,0,0,0,2,0,17
+Orangeburg,SUBURBAN 5,Clerk of Court,,DEM,Winnifa Brown Clark,156,0,10,0,65,0,81
+Orangeburg,SUBURBAN 6,Clerk of Court,,DEM,Winnifa Brown Clark,61,0,3,0,20,0,38
+Orangeburg,SUBURBAN 7,Clerk of Court,,DEM,Winnifa Brown Clark,263,0,10,0,116,0,137
+Orangeburg,SUBURBAN 8,Clerk of Court,,DEM,Winnifa Brown Clark,135,0,5,0,56,0,74
+Orangeburg,SUBURBAN 9,Clerk of Court,,DEM,Winnifa Brown Clark,197,0,15,0,81,0,101
+Orangeburg,BETHEL,Clerk of Court,,DEM,Winnifa Brown Clark,82,0,10,0,22,0,50
+Orangeburg,BOWMAN 1,Clerk of Court,,DEM,Winnifa Brown Clark,225,0,88,0,22,0,115
+Orangeburg,BOWMAN 2,Clerk of Court,,DEM,Winnifa Brown Clark,106,0,34,0,7,0,65
+Orangeburg,BRANCHVILLE 1,Clerk of Court,,DEM,Winnifa Brown Clark,77,0,8,0,11,0,58
+Orangeburg,BRANCHVILLE 2,Clerk of Court,,DEM,Winnifa Brown Clark,40,0,5,0,1,0,34
+Orangeburg,BROOKDALE,Clerk of Court,,DEM,Winnifa Brown Clark,334,0,20,0,155,0,159
+Orangeburg,COPE,Clerk of Court,,DEM,Winnifa Brown Clark,36,0,1,0,6,0,29
+Orangeburg,CORDOVA 1,Clerk of Court,,DEM,Winnifa Brown Clark,99,0,3,0,27,0,69
+Orangeburg,EDISTO,Clerk of Court,,DEM,Winnifa Brown Clark,59,0,3,0,19,0,37
+Orangeburg,ELLOREE 1,Clerk of Court,,DEM,Winnifa Brown Clark,116,0,21,0,26,0,69
+Orangeburg,EUTAWVILLE 1,Clerk of Court,,DEM,Winnifa Brown Clark,105,0,11,0,41,0,53
+Orangeburg,EUTAWVILLE 2,Clerk of Court,,DEM,Winnifa Brown Clark,272,0,34,0,114,0,124
+Orangeburg,FOUR HOLES,Clerk of Court,,DEM,Winnifa Brown Clark,50,0,3,0,7,0,40
+Orangeburg,HOLLY HILL 2,Clerk of Court,,DEM,Winnifa Brown Clark,341,0,206,0,27,0,108
+Orangeburg,HOLLY HILL 1,Clerk of Court,,DEM,Winnifa Brown Clark,251,0,66,0,54,0,131
+Orangeburg,JAMISON,Clerk of Court,,DEM,Winnifa Brown Clark,266,0,15,0,123,0,128
+Orangeburg,LIMESTONE 1,Clerk of Court,,DEM,Winnifa Brown Clark,215,0,10,0,87,0,118
+Orangeburg,NEESES-LIVINGSTON,Clerk of Court,,DEM,Winnifa Brown Clark,43,0,6,0,10,0,27
+Orangeburg,NIX,Clerk of Court,,DEM,Winnifa Brown Clark,160,0,12,0,48,0,100
+Orangeburg,NORTH 2,Clerk of Court,,DEM,Winnifa Brown Clark,87,0,6,0,29,0,52
+Orangeburg,NORTH 1,Clerk of Court,,DEM,Winnifa Brown Clark,100,0,20,0,29,0,51
+Orangeburg,NORWAY,Clerk of Court,,DEM,Winnifa Brown Clark,125,0,21,0,22,0,82
+Orangeburg,PINE HILL,Clerk of Court,,DEM,Winnifa Brown Clark,80,0,6,0,19,0,55
+Orangeburg,PROVIDENCE,Clerk of Court,,DEM,Winnifa Brown Clark,165,0,36,0,31,0,98
+Orangeburg,ROWESVILLE,Clerk of Court,,DEM,Winnifa Brown Clark,50,0,0,0,9,0,41
+Orangeburg,SANTEE 1,Clerk of Court,,DEM,Winnifa Brown Clark,141,0,13,0,52,0,76
+Orangeburg,SPRINGFIELD,Clerk of Court,,DEM,Winnifa Brown Clark,163,0,97,0,6,0,60
+Orangeburg,VANCE,Clerk of Court,,DEM,Winnifa Brown Clark,261,0,42,0,95,0,124
+Orangeburg,WHITTAKER,Clerk of Court,,DEM,Winnifa Brown Clark,175,0,8,0,66,0,101
+Orangeburg,BOLENTOWN,Clerk of Court,,DEM,Winnifa Brown Clark,91,0,2,0,24,0,65
+Orangeburg,CORDOVA 2,Clerk of Court,,DEM,Winnifa Brown Clark,120,0,4,0,39,0,77
+Orangeburg,ELLOREE 2,Clerk of Court,,DEM,Winnifa Brown Clark,128,0,25,0,30,0,73
+Orangeburg,LIMESTONE 2,Clerk of Court,,DEM,Winnifa Brown Clark,221,0,10,0,77,0,134
+Orangeburg,SANTEE 2,Clerk of Court,,DEM,Winnifa Brown Clark,249,0,54,0,55,0,140
+Orangeburg,Failsafe,Clerk of Court,,DEM,Winnifa Brown Clark,0,0,0,0,0,0,0
+Orangeburg,Provisional,Clerk of Court,,DEM,Winnifa Brown Clark,9,0,0,0,0,9,0
+Orangeburg,Failsafe Proviisional,Clerk of Court,,DEM,Winnifa Brown Clark,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,Coroner,,DEM,Sean Fogle,43,0,2,0,10,0,31
+Orangeburg,ORANGEBURG WD 2,Coroner,,DEM,Sean Fogle,17,0,1,0,8,0,8
+Orangeburg,ORANGEBURG WD 3,Coroner,,DEM,Sean Fogle,27,0,1,0,8,0,18
+Orangeburg,ORANGEBURG WD 4,Coroner,,DEM,Sean Fogle,12,0,3,0,2,0,7
+Orangeburg,ORANGEBURG WD 5,Coroner,,DEM,Sean Fogle,33,0,7,0,12,0,14
+Orangeburg,ORANGEBURG WD 6,Coroner,,DEM,Sean Fogle,36,0,0,0,13,0,23
+Orangeburg,ORNAGEBURG WD 7,Coroner,,DEM,Sean Fogle,75,0,7,0,27,0,41
+Orangeburg,ORANGEBURG WD 8,Coroner,,DEM,Sean Fogle,62,0,3,0,16,0,43
+Orangeburg,ORANGEBURG WD 9,Coroner,,DEM,Sean Fogle,37,0,4,0,15,0,18
+Orangeburg,ORANGEBURG WD 10,Coroner,,DEM,Sean Fogle,77,0,3,0,28,0,46
+Orangeburg,SUBURBAN 1,Coroner,,DEM,Sean Fogle,30,0,3,0,10,0,17
+Orangeburg,SUBURBAN 2,Coroner,,DEM,Sean Fogle,50,0,8,0,22,0,20
+Orangeburg,SUBURBAN 3,Coroner,,DEM,Sean Fogle,90,0,7,0,25,0,58
+Orangeburg,SUBURBAN 4,Coroner,,DEM,Sean Fogle,6,0,0,0,1,0,5
+Orangeburg,SUBURBAN 5,Coroner,,DEM,Sean Fogle,86,0,9,0,37,0,40
+Orangeburg,SUBURBAN 6,Coroner,,DEM,Sean Fogle,35,0,0,0,12,0,23
+Orangeburg,SUBURBAN 7,Coroner,,DEM,Sean Fogle,164,0,7,0,60,0,97
+Orangeburg,SUBURBAN 8,Coroner,,DEM,Sean Fogle,86,0,3,0,36,0,47
+Orangeburg,SUBURBAN 9,Coroner,,DEM,Sean Fogle,108,0,9,0,36,0,63
+Orangeburg,BETHEL,Coroner,,DEM,Sean Fogle,47,0,6,0,10,0,31
+Orangeburg,BOWMAN 1,Coroner,,DEM,Sean Fogle,120,0,54,0,9,0,57
+Orangeburg,BOWMAN 2,Coroner,,DEM,Sean Fogle,71,0,21,0,8,0,42
+Orangeburg,BRANCHVILLE 1,Coroner,,DEM,Sean Fogle,45,0,6,0,6,0,33
+Orangeburg,BRANCHVILLE 2,Coroner,,DEM,Sean Fogle,24,0,4,0,0,0,20
+Orangeburg,BROOKDALE,Coroner,,DEM,Sean Fogle,157,0,13,0,85,0,59
+Orangeburg,COPE,Coroner,,DEM,Sean Fogle,30,0,0,0,6,0,24
+Orangeburg,CORDOVA 1,Coroner,,DEM,Sean Fogle,45,0,3,0,6,0,36
+Orangeburg,EDISTO,Coroner,,DEM,Sean Fogle,25,0,2,0,8,0,15
+Orangeburg,ELLOREE 1,Coroner,,DEM,Sean Fogle,88,0,15,0,15,0,58
+Orangeburg,EUTAWVILLE 1,Coroner,,DEM,Sean Fogle,97,0,10,0,38,0,49
+Orangeburg,EUTAWVILLE 2,Coroner,,DEM,Sean Fogle,210,0,16,0,87,0,107
+Orangeburg,FOUR HOLES,Coroner,,DEM,Sean Fogle,51,0,6,0,6,0,39
+Orangeburg,HOLLY HILL 2,Coroner,,DEM,Sean Fogle,173,0,38,0,33,0,102
+Orangeburg,HOLLY HILL 1,Coroner,,DEM,Sean Fogle,210,0,38,0,45,0,127
+Orangeburg,JAMISON,Coroner,,DEM,Sean Fogle,159,0,7,0,77,0,75
+Orangeburg,LIMESTONE 1,Coroner,,DEM,Sean Fogle,127,0,8,0,48,0,71
+Orangeburg,NEESES-LIVINGSTON,Coroner,,DEM,Sean Fogle,31,0,5,0,7,0,19
+Orangeburg,NIX,Coroner,,DEM,Sean Fogle,68,0,6,0,23,0,39
+Orangeburg,NORTH 2,Coroner,,DEM,Sean Fogle,67,0,3,0,30,0,34
+Orangeburg,NORTH 1,Coroner,,DEM,Sean Fogle,55,0,4,0,24,0,27
+Orangeburg,NORWAY,Coroner,,DEM,Sean Fogle,91,0,12,0,13,0,66
+Orangeburg,PINE HILL,Coroner,,DEM,Sean Fogle,49,0,1,0,10,0,38
+Orangeburg,PROVIDENCE,Coroner,,DEM,Sean Fogle,186,0,37,0,37,0,112
+Orangeburg,ROWESVILLE,Coroner,,DEM,Sean Fogle,23,0,0,0,7,0,16
+Orangeburg,SANTEE 1,Coroner,,DEM,Sean Fogle,98,0,4,0,34,0,60
+Orangeburg,SPRINGFIELD,Coroner,,DEM,Sean Fogle,50,0,13,0,1,0,36
+Orangeburg,VANCE,Coroner,,DEM,Sean Fogle,216,0,24,0,97,0,95
+Orangeburg,WHITTAKER,Coroner,,DEM,Sean Fogle,94,0,6,0,35,0,53
+Orangeburg,BOLENTOWN,Coroner,,DEM,Sean Fogle,46,0,2,0,9,0,35
+Orangeburg,CORDOVA 2,Coroner,,DEM,Sean Fogle,63,0,1,0,21,0,41
+Orangeburg,ELLOREE 2,Coroner,,DEM,Sean Fogle,85,0,17,0,18,0,50
+Orangeburg,LIMESTONE 2,Coroner,,DEM,Sean Fogle,112,0,5,0,37,0,70
+Orangeburg,SANTEE 2,Coroner,,DEM,Sean Fogle,251,0,48,0,54,0,149
+Orangeburg,Failsafe,Coroner,,DEM,Sean Fogle,0,0,0,0,0,0,0
+Orangeburg,Provisional,Coroner,,DEM,Sean Fogle,7,0,0,0,0,7,0
+Orangeburg,Failsafe Proviisional,Coroner,,DEM,Sean Fogle,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,Coroner,,DEM,Valencia Golden,18,0,0,0,5,0,13
+Orangeburg,ORANGEBURG WD 2,Coroner,,DEM,Valencia Golden,9,0,0,0,4,0,5
+Orangeburg,ORANGEBURG WD 3,Coroner,,DEM,Valencia Golden,29,0,1,0,6,0,22
+Orangeburg,ORANGEBURG WD 4,Coroner,,DEM,Valencia Golden,7,0,0,0,4,0,3
+Orangeburg,ORANGEBURG WD 5,Coroner,,DEM,Valencia Golden,14,0,2,0,5,0,7
+Orangeburg,ORANGEBURG WD 6,Coroner,,DEM,Valencia Golden,17,0,0,0,6,0,11
+Orangeburg,ORNAGEBURG WD 7,Coroner,,DEM,Valencia Golden,43,0,2,0,10,0,31
+Orangeburg,ORANGEBURG WD 8,Coroner,,DEM,Valencia Golden,14,0,0,0,9,0,5
+Orangeburg,ORANGEBURG WD 9,Coroner,,DEM,Valencia Golden,24,0,0,0,10,0,14
+Orangeburg,ORANGEBURG WD 10,Coroner,,DEM,Valencia Golden,38,0,0,0,16,0,22
+Orangeburg,SUBURBAN 1,Coroner,,DEM,Valencia Golden,18,0,0,0,4,0,14
+Orangeburg,SUBURBAN 2,Coroner,,DEM,Valencia Golden,15,0,1,0,6,0,8
+Orangeburg,SUBURBAN 3,Coroner,,DEM,Valencia Golden,47,0,4,0,15,0,28
+Orangeburg,SUBURBAN 4,Coroner,,DEM,Valencia Golden,3,0,0,0,0,0,3
+Orangeburg,SUBURBAN 5,Coroner,,DEM,Valencia Golden,40,0,1,0,15,0,24
+Orangeburg,SUBURBAN 6,Coroner,,DEM,Valencia Golden,11,0,0,0,2,0,9
+Orangeburg,SUBURBAN 7,Coroner,,DEM,Valencia Golden,75,0,1,0,32,0,42
+Orangeburg,SUBURBAN 8,Coroner,,DEM,Valencia Golden,26,0,1,0,10,0,15
+Orangeburg,SUBURBAN 9,Coroner,,DEM,Valencia Golden,58,0,3,0,26,0,29
+Orangeburg,BETHEL,Coroner,,DEM,Valencia Golden,7,0,0,0,4,0,3
+Orangeburg,BOWMAN 1,Coroner,,DEM,Valencia Golden,26,0,4,0,4,0,18
+Orangeburg,BOWMAN 2,Coroner,,DEM,Valencia Golden,13,0,2,0,1,0,10
+Orangeburg,BRANCHVILLE 1,Coroner,,DEM,Valencia Golden,22,0,0,0,4,0,18
+Orangeburg,BRANCHVILLE 2,Coroner,,DEM,Valencia Golden,20,0,2,0,1,0,17
+Orangeburg,BROOKDALE,Coroner,,DEM,Valencia Golden,73,0,4,0,22,0,47
+Orangeburg,COPE,Coroner,,DEM,Valencia Golden,13,0,0,0,1,0,12
+Orangeburg,CORDOVA 1,Coroner,,DEM,Valencia Golden,55,0,1,0,15,0,39
+Orangeburg,EDISTO,Coroner,,DEM,Valencia Golden,49,0,0,0,10,0,39
+Orangeburg,ELLOREE 1,Coroner,,DEM,Valencia Golden,30,0,1,0,4,0,25
+Orangeburg,EUTAWVILLE 1,Coroner,,DEM,Valencia Golden,20,0,1,0,4,0,15
+Orangeburg,EUTAWVILLE 2,Coroner,,DEM,Valencia Golden,61,0,9,0,17,0,35
+Orangeburg,FOUR HOLES,Coroner,,DEM,Valencia Golden,12,0,0,0,5,0,7
+Orangeburg,HOLLY HILL 2,Coroner,,DEM,Valencia Golden,260,0,189,0,18,0,53
+Orangeburg,HOLLY HILL 1,Coroner,,DEM,Valencia Golden,104,0,37,0,14,0,53
+Orangeburg,JAMISON,Coroner,,DEM,Valencia Golden,65,0,3,0,29,0,33
+Orangeburg,LIMESTONE 1,Coroner,,DEM,Valencia Golden,67,0,2,0,28,0,37
+Orangeburg,NEESES-LIVINGSTON,Coroner,,DEM,Valencia Golden,27,0,2,0,13,0,12
+Orangeburg,NIX,Coroner,,DEM,Valencia Golden,43,0,0,0,11,0,32
+Orangeburg,NORTH 2,Coroner,,DEM,Valencia Golden,63,0,3,0,20,0,40
+Orangeburg,NORTH 1,Coroner,,DEM,Valencia Golden,51,0,0,0,21,0,30
+Orangeburg,NORWAY,Coroner,,DEM,Valencia Golden,40,0,1,0,7,0,32
+Orangeburg,PINE HILL,Coroner,,DEM,Valencia Golden,41,0,2,0,8,0,31
+Orangeburg,PROVIDENCE,Coroner,,DEM,Valencia Golden,28,0,4,0,4,0,20
+Orangeburg,ROWESVILLE,Coroner,,DEM,Valencia Golden,10,0,0,0,1,0,9
+Orangeburg,SANTEE 1,Coroner,,DEM,Valencia Golden,48,0,6,0,16,0,26
+Orangeburg,SPRINGFIELD,Coroner,,DEM,Valencia Golden,30,0,1,0,2,0,27
+Orangeburg,VANCE,Coroner,,DEM,Valencia Golden,63,0,20,0,10,0,33
+Orangeburg,WHITTAKER,Coroner,,DEM,Valencia Golden,44,0,1,0,15,0,28
+Orangeburg,BOLENTOWN,Coroner,,DEM,Valencia Golden,42,0,0,0,8,0,34
+Orangeburg,CORDOVA 2,Coroner,,DEM,Valencia Golden,27,0,0,0,11,0,16
+Orangeburg,ELLOREE 2,Coroner,,DEM,Valencia Golden,33,0,1,0,5,0,27
+Orangeburg,LIMESTONE 2,Coroner,,DEM,Valencia Golden,77,0,4,0,34,0,39
+Orangeburg,SANTEE 2,Coroner,,DEM,Valencia Golden,40,0,8,0,7,0,25
+Orangeburg,Failsafe,Coroner,,DEM,Valencia Golden,0,0,0,0,0,0,0
+Orangeburg,Provisional,Coroner,,DEM,Valencia Golden,2,0,0,0,0,2,0
+Orangeburg,Failsafe Proviisional,Coroner,,DEM,Valencia Golden,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,Coroner,,DEM,Montez P V Haynes,41,0,0,0,16,0,25
+Orangeburg,ORANGEBURG WD 2,Coroner,,DEM,Montez P V Haynes,32,0,0,0,11,0,21
+Orangeburg,ORANGEBURG WD 3,Coroner,,DEM,Montez P V Haynes,76,0,1,0,15,0,60
+Orangeburg,ORANGEBURG WD 4,Coroner,,DEM,Montez P V Haynes,26,0,7,0,4,0,15
+Orangeburg,ORANGEBURG WD 5,Coroner,,DEM,Montez P V Haynes,30,0,1,0,10,0,19
+Orangeburg,ORANGEBURG WD 6,Coroner,,DEM,Montez P V Haynes,53,0,1,0,19,0,33
+Orangeburg,ORNAGEBURG WD 7,Coroner,,DEM,Montez P V Haynes,74,0,0,0,21,0,53
+Orangeburg,ORANGEBURG WD 8,Coroner,,DEM,Montez P V Haynes,49,0,2,0,23,0,24
+Orangeburg,ORANGEBURG WD 9,Coroner,,DEM,Montez P V Haynes,49,0,1,0,15,0,33
+Orangeburg,ORANGEBURG WD 10,Coroner,,DEM,Montez P V Haynes,77,0,2,0,32,0,43
+Orangeburg,SUBURBAN 1,Coroner,,DEM,Montez P V Haynes,59,0,0,0,16,0,43
+Orangeburg,SUBURBAN 2,Coroner,,DEM,Montez P V Haynes,59,0,3,0,15,0,41
+Orangeburg,SUBURBAN 3,Coroner,,DEM,Montez P V Haynes,143,0,5,0,62,0,76
+Orangeburg,SUBURBAN 4,Coroner,,DEM,Montez P V Haynes,16,0,0,0,1,0,15
+Orangeburg,SUBURBAN 5,Coroner,,DEM,Montez P V Haynes,93,0,2,0,33,0,58
+Orangeburg,SUBURBAN 6,Coroner,,DEM,Montez P V Haynes,36,0,3,0,12,0,21
+Orangeburg,SUBURBAN 7,Coroner,,DEM,Montez P V Haynes,151,0,6,0,74,0,71
+Orangeburg,SUBURBAN 8,Coroner,,DEM,Montez P V Haynes,74,0,1,0,32,0,41
+Orangeburg,SUBURBAN 9,Coroner,,DEM,Montez P V Haynes,120,0,5,0,45,0,70
+Orangeburg,BETHEL,Coroner,,DEM,Montez P V Haynes,49,0,4,0,15,0,30
+Orangeburg,BOWMAN 1,Coroner,,DEM,Montez P V Haynes,132,0,33,0,15,0,84
+Orangeburg,BOWMAN 2,Coroner,,DEM,Montez P V Haynes,48,0,9,0,4,0,35
+Orangeburg,BRANCHVILLE 1,Coroner,,DEM,Montez P V Haynes,30,0,2,0,5,0,23
+Orangeburg,BRANCHVILLE 2,Coroner,,DEM,Montez P V Haynes,9,0,0,0,0,0,9
+Orangeburg,BROOKDALE,Coroner,,DEM,Montez P V Haynes,222,0,8,0,96,0,118
+Orangeburg,COPE,Coroner,,DEM,Montez P V Haynes,20,0,1,0,5,0,14
+Orangeburg,CORDOVA 1,Coroner,,DEM,Montez P V Haynes,49,0,1,0,16,0,32
+Orangeburg,EDISTO,Coroner,,DEM,Montez P V Haynes,19,0,1,0,6,0,12
+Orangeburg,ELLOREE 1,Coroner,,DEM,Montez P V Haynes,34,0,8,0,10,0,16
+Orangeburg,EUTAWVILLE 1,Coroner,,DEM,Montez P V Haynes,24,0,0,0,10,0,14
+Orangeburg,EUTAWVILLE 2,Coroner,,DEM,Montez P V Haynes,75,0,13,0,27,0,35
+Orangeburg,FOUR HOLES,Coroner,,DEM,Montez P V Haynes,15,0,0,0,1,0,14
+Orangeburg,HOLLY HILL 2,Coroner,,DEM,Montez P V Haynes,26,0,4,0,5,0,17
+Orangeburg,HOLLY HILL 1,Coroner,,DEM,Montez P V Haynes,33,0,0,0,6,0,27
+Orangeburg,JAMISON,Coroner,,DEM,Montez P V Haynes,169,0,10,0,73,0,86
+Orangeburg,LIMESTONE 1,Coroner,,DEM,Montez P V Haynes,120,0,2,0,48,0,70
+Orangeburg,NEESES-LIVINGSTON,Coroner,,DEM,Montez P V Haynes,10,0,0,0,2,0,8
+Orangeburg,NIX,Coroner,,DEM,Montez P V Haynes,116,0,9,0,33,0,74
+Orangeburg,NORTH 2,Coroner,,DEM,Montez P V Haynes,25,0,0,0,5,0,20
+Orangeburg,NORTH 1,Coroner,,DEM,Montez P V Haynes,46,0,17,0,8,0,21
+Orangeburg,NORWAY,Coroner,,DEM,Montez P V Haynes,34,0,8,0,7,0,19
+Orangeburg,PINE HILL,Coroner,,DEM,Montez P V Haynes,46,0,4,0,5,0,37
+Orangeburg,PROVIDENCE,Coroner,,DEM,Montez P V Haynes,33,0,1,0,7,0,25
+Orangeburg,ROWESVILLE,Coroner,,DEM,Montez P V Haynes,31,0,0,0,2,0,29
+Orangeburg,SANTEE 1,Coroner,,DEM,Montez P V Haynes,30,0,3,0,10,0,17
+Orangeburg,SPRINGFIELD,Coroner,,DEM,Montez P V Haynes,119,0,93,0,5,0,21
+Orangeburg,VANCE,Coroner,,DEM,Montez P V Haynes,42,0,0,0,24,0,18
+Orangeburg,WHITTAKER,Coroner,,DEM,Montez P V Haynes,103,0,4,0,46,0,53
+Orangeburg,BOLENTOWN,Coroner,,DEM,Montez P V Haynes,50,0,0,0,14,0,36
+Orangeburg,CORDOVA 2,Coroner,,DEM,Montez P V Haynes,70,0,4,0,19,0,47
+Orangeburg,ELLOREE 2,Coroner,,DEM,Montez P V Haynes,37,0,7,0,7,0,23
+Orangeburg,LIMESTONE 2,Coroner,,DEM,Montez P V Haynes,137,0,2,0,52,0,83
+Orangeburg,SANTEE 2,Coroner,,DEM,Montez P V Haynes,39,0,3,0,11,0,25
+Orangeburg,Failsafe,Coroner,,DEM,Montez P V Haynes,0,0,0,0,0,0,0
+Orangeburg,Provisional,Coroner,,DEM,Montez P V Haynes,5,0,0,0,0,5,0
+Orangeburg,Failsafe Proviisional,Coroner,,DEM,Montez P V Haynes,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,County Council District 2,,DEM,Johnny Murdaugh Jr,101,0,6,0,40,0,55
+Orangeburg,BETHEL,County Council District 2,,DEM,Johnny Murdaugh Jr,41,0,10,0,14,0,17
+Orangeburg,BOWMAN 1,County Council District 2,,DEM,Johnny Murdaugh Jr,75,0,36,0,10,0,29
+Orangeburg,BOWMAN 2,County Council District 2,,DEM,Johnny Murdaugh Jr,36,0,17,0,2,0,17
+Orangeburg,ELLOREE 1,County Council District 2,,DEM,Johnny Murdaugh Jr,19,0,0,0,3,0,16
+Orangeburg,FOUR HOLES,County Council District 2,,DEM,Johnny Murdaugh Jr,6,0,0,0,0,0,6
+Orangeburg,PROVIDENCE,County Council District 2,,DEM,Johnny Murdaugh Jr,40,0,8,0,6,0,26
+Orangeburg,SANTEE 1,County Council District 2,,DEM,Johnny Murdaugh Jr,30,0,5,0,8,0,17
+Orangeburg,WHITTAKER,County Council District 2,,DEM,Johnny Murdaugh Jr,71,0,2,0,23,0,46
+Orangeburg,ELLOREE 2,County Council District 2,,DEM,Johnny Murdaugh Jr,20,0,1,0,5,0,14
+Orangeburg,SANTEE 2,County Council District 2,,DEM,Johnny Murdaugh Jr,58,0,8,0,10,0,40
+Orangeburg,Failsafe,County Council District 2,,DEM,Johnny Murdaugh Jr,0,0,0,0,0,0,0
+Orangeburg,Provisional,County Council District 2,,DEM,Johnny Murdaugh Jr,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,County Council District 2,,DEM,Johnny Murdaugh Jr,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,County Council District 2,,DEM,Roshika Oliver,41,0,1,0,9,0,31
+Orangeburg,BETHEL,County Council District 2,,DEM,Roshika Oliver,15,0,0,0,0,0,15
+Orangeburg,BOWMAN 1,County Council District 2,,DEM,Roshika Oliver,32,0,4,0,1,0,27
+Orangeburg,BOWMAN 2,County Council District 2,,DEM,Roshika Oliver,13,0,1,0,1,0,11
+Orangeburg,ELLOREE 1,County Council District 2,,DEM,Roshika Oliver,21,0,0,0,5,0,16
+Orangeburg,FOUR HOLES,County Council District 2,,DEM,Roshika Oliver,0,0,0,0,0,0,0
+Orangeburg,PROVIDENCE,County Council District 2,,DEM,Roshika Oliver,25,0,2,0,2,0,21
+Orangeburg,SANTEE 1,County Council District 2,,DEM,Roshika Oliver,22,0,2,0,5,0,15
+Orangeburg,WHITTAKER,County Council District 2,,DEM,Roshika Oliver,23,0,0,0,8,0,15
+Orangeburg,ELLOREE 2,County Council District 2,,DEM,Roshika Oliver,24,0,2,0,2,0,20
+Orangeburg,SANTEE 2,County Council District 2,,DEM,Roshika Oliver,50,0,6,0,2,0,42
+Orangeburg,Failsafe,County Council District 2,,DEM,Roshika Oliver,0,0,0,0,0,0,0
+Orangeburg,Provisional,County Council District 2,,DEM,Roshika Oliver,1,0,0,0,0,1,0
+Orangeburg,Failsafe Proviisional,County Council District 2,,DEM,Roshika Oliver,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,County Council District 2,,DEM,Johnny Ravenell,81,0,2,0,32,0,47
+Orangeburg,BETHEL,County Council District 2,,DEM,Johnny Ravenell,42,0,0,0,14,0,28
+Orangeburg,BOWMAN 1,County Council District 2,,DEM,Johnny Ravenell,164,0,48,0,17,0,99
+Orangeburg,BOWMAN 2,County Council District 2,,DEM,Johnny Ravenell,73,0,11,0,9,0,53
+Orangeburg,ELLOREE 1,County Council District 2,,DEM,Johnny Ravenell,114,0,26,0,21,0,67
+Orangeburg,FOUR HOLES,County Council District 2,,DEM,Johnny Ravenell,2,0,0,0,1,0,1
+Orangeburg,PROVIDENCE,County Council District 2,,DEM,Johnny Ravenell,122,0,26,0,25,0,71
+Orangeburg,SANTEE 1,County Council District 2,,DEM,Johnny Ravenell,96,0,7,0,34,0,55
+Orangeburg,WHITTAKER,County Council District 2,,DEM,Johnny Ravenell,45,0,1,0,22,0,22
+Orangeburg,ELLOREE 2,County Council District 2,,DEM,Johnny Ravenell,114,0,21,0,24,0,69
+Orangeburg,SANTEE 2,County Council District 2,,DEM,Johnny Ravenell,174,0,36,0,44,0,94
+Orangeburg,Failsafe,County Council District 2,,DEM,Johnny Ravenell,0,0,0,0,0,0,0
+Orangeburg,Provisional,County Council District 2,,DEM,Johnny Ravenell,1,0,0,0,0,1,0
+Orangeburg,Failsafe Proviisional,County Council District 2,,DEM,Johnny Ravenell,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,County Council District 5,,DEM,Janie Cooper,2,0,2,0,0,0,0
+Orangeburg,ORANGEBURG WD 9,County Council District 5,,DEM,Janie Cooper,30,0,2,0,10,0,18
+Orangeburg,SUBURBAN 1,County Council District 5,,DEM,Janie Cooper,81,0,3,0,24,0,54
+Orangeburg,SUBURBAN 7,County Council District 5,,DEM,Janie Cooper,115,0,7,0,52,0,56
+Orangeburg,SUBURBAN 8,County Council District 5,,DEM,Janie Cooper,63,0,3,0,27,0,33
+Orangeburg,SUBURBAN 9,County Council District 5,,DEM,Janie Cooper,170,0,5,0,69,0,96
+Orangeburg,BROOKDALE,County Council District 5,,DEM,Janie Cooper,96,0,9,0,40,0,47
+Orangeburg,LIMESTONE 1,County Council District 5,,DEM,Janie Cooper,149,0,4,0,61,0,84
+Orangeburg,NIX,County Council District 5,,DEM,Janie Cooper,144,0,9,0,44,0,91
+Orangeburg,LIMESTONE 2,County Council District 5,,DEM,Janie Cooper,143,0,3,0,60,0,80
+Orangeburg,Failsafe,County Council District 5,,DEM,Janie Cooper,0,0,0,0,0,0,0
+Orangeburg,Provisional,County Council District 5,,DEM,Janie Cooper,2,0,0,0,0,2,0
+Orangeburg,Failsafe Proviisional,County Council District 5,,DEM,Janie Cooper,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,County Council District 5,,DEM,Howard Jackson,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 9,County Council District 5,,DEM,Howard Jackson,22,0,0,0,8,0,14
+Orangeburg,SUBURBAN 1,County Council District 5,,DEM,Howard Jackson,22,0,0,0,5,0,17
+Orangeburg,SUBURBAN 7,County Council District 5,,DEM,Howard Jackson,86,0,1,0,49,0,36
+Orangeburg,SUBURBAN 8,County Council District 5,,DEM,Howard Jackson,47,0,1,0,18,0,28
+Orangeburg,SUBURBAN 9,County Council District 5,,DEM,Howard Jackson,118,0,11,0,39,0,68
+Orangeburg,BROOKDALE,County Council District 5,,DEM,Howard Jackson,61,0,3,0,31,0,27
+Orangeburg,LIMESTONE 1,County Council District 5,,DEM,Howard Jackson,81,0,2,0,24,0,55
+Orangeburg,NIX,County Council District 5,,DEM,Howard Jackson,79,0,6,0,22,0,51
+Orangeburg,LIMESTONE 2,County Council District 5,,DEM,Howard Jackson,72,0,4,0,27,0,41
+Orangeburg,Failsafe,County Council District 5,,DEM,Howard Jackson,0,0,0,0,0,0,0
+Orangeburg,Provisional,County Council District 5,,DEM,Howard Jackson,0,0,0,0,0,0,0
+Orangeburg,Failsafe Proviisional,County Council District 5,,DEM,Howard Jackson,0,0,0,0,0,0,0

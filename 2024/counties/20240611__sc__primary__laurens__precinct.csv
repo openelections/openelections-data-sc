@@ -1,0 +1,535 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Laurens,LAURENS 1,U.S. House,3,DEM,Bryon L Best,21,0,1,0,1,0,19
+Laurens,LAURENS 2,U.S. House,3,DEM,Bryon L Best,15,0,1,0,5,0,9
+Laurens,LAURENS 3,U.S. House,3,DEM,Bryon L Best,16,0,0,0,0,0,16
+Laurens,LAURENS 4,U.S. House,3,DEM,Bryon L Best,39,0,2,0,8,0,29
+Laurens,LAURENS 5,U.S. House,3,DEM,Bryon L Best,35,0,6,0,11,0,18
+Laurens,LAURENS 6,U.S. House,3,DEM,Bryon L Best,26,0,3,0,9,0,14
+Laurens,BAILEY,U.S. House,3,DEM,Bryon L Best,12,0,0,0,3,0,9
+Laurens,TRINITY RIDGE,U.S. House,3,DEM,Bryon L Best,37,0,2,0,6,0,29
+Laurens,WATTSVILLE,U.S. House,3,DEM,Bryon L Best,10,0,0,0,4,0,6
+Laurens,BARKSDALE-NARINE,U.S. House,3,DEM,Bryon L Best,12,0,0,0,4,0,8
+Laurens,MADDENS,U.S. House,3,DEM,Bryon L Best,19,0,1,0,6,0,12
+Laurens,CLINTON 1,U.S. House,3,DEM,Bryon L Best,16,0,0,0,6,0,10
+Laurens,CLINTON 2,U.S. House,3,DEM,Bryon L Best,11,0,3,0,1,0,7
+Laurens,JOANNA,U.S. House,3,DEM,Bryon L Best,20,0,0,0,2,0,18
+Laurens,LYDIA MILL,U.S. House,3,DEM,Bryon L Best,21,0,2,0,1,0,18
+Laurens,MOUNTVILLE,U.S. House,3,DEM,Bryon L Best,9,0,0,0,0,0,9
+Laurens,CLINTON 3,U.S. House,3,DEM,Bryon L Best,14,0,0,0,2,0,12
+Laurens,JONES,U.S. House,3,DEM,Bryon L Best,25,0,0,0,2,0,23
+Laurens,OWINGS,U.S. House,3,DEM,Bryon L Best,2,0,1,0,0,0,1
+Laurens,GRAY COURT,U.S. House,3,DEM,Bryon L Best,25,0,0,0,0,0,25
+Laurens,GREENPOND,U.S. House,3,DEM,Bryon L Best,11,0,2,0,1,0,8
+Laurens,COOKS,U.S. House,3,DEM,Bryon L Best,9,0,1,0,1,0,7
+Laurens,YOUNGS,U.S. House,3,DEM,Bryon L Best,4,0,0,0,0,0,4
+Laurens,ORA-LANFORD,U.S. House,3,DEM,Bryon L Best,20,0,0,0,7,0,13
+Laurens,LONG BRANCH,U.S. House,3,DEM,Bryon L Best,6,0,0,0,3,0,3
+Laurens,CROSS HILL,U.S. House,3,DEM,Bryon L Best,17,0,0,0,1,0,16
+Laurens,WATERLOO,U.S. House,3,DEM,Bryon L Best,19,0,0,0,8,0,11
+Laurens,MARTINS-POPLAR SPRINGS,U.S. House,3,DEM,Bryon L Best,6,0,0,0,0,0,6
+Laurens,EKOM,U.S. House,3,DEM,Bryon L Best,5,0,0,0,2,0,3
+Laurens,MOUNT OLIVE,U.S. House,3,DEM,Bryon L Best,2,0,0,0,2,0,0
+Laurens,HICKORY TAVERN,U.S. House,3,DEM,Bryon L Best,5,0,0,0,0,0,5
+Laurens,CLINTON MILL,U.S. House,3,DEM,Bryon L Best,26,0,2,0,5,0,19
+Laurens,BREWERTON-PRINCETON,U.S. House,3,DEM,Bryon L Best,1,0,0,0,0,0,1
+Laurens,Failsafe,U.S. House,3,DEM,Bryon L Best,2,2,0,0,0,0,0
+Laurens,Provisional,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Laurens,LAURENS 1,U.S. House,3,DEM,Frances Guldner,13,0,0,0,2,0,11
+Laurens,LAURENS 2,U.S. House,3,DEM,Frances Guldner,4,0,0,0,1,0,3
+Laurens,LAURENS 3,U.S. House,3,DEM,Frances Guldner,8,0,0,0,2,0,6
+Laurens,LAURENS 4,U.S. House,3,DEM,Frances Guldner,19,0,0,0,3,0,16
+Laurens,LAURENS 5,U.S. House,3,DEM,Frances Guldner,18,0,4,0,6,0,8
+Laurens,LAURENS 6,U.S. House,3,DEM,Frances Guldner,11,0,1,0,2,0,8
+Laurens,BAILEY,U.S. House,3,DEM,Frances Guldner,10,0,2,0,2,0,6
+Laurens,TRINITY RIDGE,U.S. House,3,DEM,Frances Guldner,27,0,1,0,10,0,16
+Laurens,WATTSVILLE,U.S. House,3,DEM,Frances Guldner,6,0,4,0,2,0,0
+Laurens,BARKSDALE-NARINE,U.S. House,3,DEM,Frances Guldner,6,0,0,0,1,0,5
+Laurens,MADDENS,U.S. House,3,DEM,Frances Guldner,9,0,1,0,3,0,5
+Laurens,CLINTON 1,U.S. House,3,DEM,Frances Guldner,15,0,0,0,4,0,11
+Laurens,CLINTON 2,U.S. House,3,DEM,Frances Guldner,5,0,0,0,0,0,5
+Laurens,JOANNA,U.S. House,3,DEM,Frances Guldner,9,0,0,0,1,0,8
+Laurens,LYDIA MILL,U.S. House,3,DEM,Frances Guldner,10,0,1,0,1,0,8
+Laurens,MOUNTVILLE,U.S. House,3,DEM,Frances Guldner,9,0,0,0,0,0,9
+Laurens,CLINTON 3,U.S. House,3,DEM,Frances Guldner,12,0,0,0,1,0,11
+Laurens,JONES,U.S. House,3,DEM,Frances Guldner,16,0,0,0,5,0,11
+Laurens,OWINGS,U.S. House,3,DEM,Frances Guldner,5,0,1,0,0,0,4
+Laurens,GRAY COURT,U.S. House,3,DEM,Frances Guldner,12,0,0,0,1,0,11
+Laurens,GREENPOND,U.S. House,3,DEM,Frances Guldner,10,0,0,0,2,0,8
+Laurens,COOKS,U.S. House,3,DEM,Frances Guldner,4,0,1,0,1,0,2
+Laurens,YOUNGS,U.S. House,3,DEM,Frances Guldner,10,0,0,0,2,0,8
+Laurens,ORA-LANFORD,U.S. House,3,DEM,Frances Guldner,6,0,0,0,1,0,5
+Laurens,LONG BRANCH,U.S. House,3,DEM,Frances Guldner,5,0,0,0,1,0,4
+Laurens,CROSS HILL,U.S. House,3,DEM,Frances Guldner,10,0,2,0,0,0,8
+Laurens,WATERLOO,U.S. House,3,DEM,Frances Guldner,16,0,2,0,6,0,8
+Laurens,MARTINS-POPLAR SPRINGS,U.S. House,3,DEM,Frances Guldner,3,0,0,0,0,0,3
+Laurens,EKOM,U.S. House,3,DEM,Frances Guldner,1,0,0,0,0,0,1
+Laurens,MOUNT OLIVE,U.S. House,3,DEM,Frances Guldner,2,0,0,0,0,0,2
+Laurens,HICKORY TAVERN,U.S. House,3,DEM,Frances Guldner,7,0,0,0,0,0,7
+Laurens,CLINTON MILL,U.S. House,3,DEM,Frances Guldner,16,0,1,0,3,0,12
+Laurens,BREWERTON-PRINCETON,U.S. House,3,DEM,Frances Guldner,3,0,0,0,0,0,3
+Laurens,Failsafe,U.S. House,3,DEM,Frances Guldner,2,2,0,0,0,0,0
+Laurens,Provisional,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Laurens,LAURENS 1,U.S. House,3,REP,Sheri Biggs,14,0,0,0,4,0,10
+Laurens,LAURENS 2,U.S. House,3,REP,Sheri Biggs,5,0,0,0,0,0,5
+Laurens,LAURENS 3,U.S. House,3,REP,Sheri Biggs,10,0,0,0,4,0,6
+Laurens,LAURENS 4,U.S. House,3,REP,Sheri Biggs,7,0,0,0,1,0,6
+Laurens,LAURENS 5,U.S. House,3,REP,Sheri Biggs,63,0,2,0,16,0,45
+Laurens,LAURENS 6,U.S. House,3,REP,Sheri Biggs,57,0,2,0,11,0,44
+Laurens,BAILEY,U.S. House,3,REP,Sheri Biggs,39,0,0,0,6,0,33
+Laurens,TRINITY RIDGE,U.S. House,3,REP,Sheri Biggs,42,0,0,0,9,0,33
+Laurens,WATTSVILLE,U.S. House,3,REP,Sheri Biggs,32,0,3,0,2,0,27
+Laurens,BARKSDALE-NARINE,U.S. House,3,REP,Sheri Biggs,27,0,0,0,6,0,21
+Laurens,MADDENS,U.S. House,3,REP,Sheri Biggs,41,0,0,0,6,0,35
+Laurens,CLINTON 1,U.S. House,3,REP,Sheri Biggs,44,0,0,0,11,0,33
+Laurens,CLINTON 2,U.S. House,3,REP,Sheri Biggs,52,0,0,0,10,0,42
+Laurens,JOANNA,U.S. House,3,REP,Sheri Biggs,84,0,0,0,10,0,74
+Laurens,LYDIA MILL,U.S. House,3,REP,Sheri Biggs,38,0,0,0,13,0,25
+Laurens,MOUNTVILLE,U.S. House,3,REP,Sheri Biggs,30,0,0,0,2,0,28
+Laurens,CLINTON 3,U.S. House,3,REP,Sheri Biggs,74,0,0,0,10,0,64
+Laurens,JONES,U.S. House,3,REP,Sheri Biggs,28,0,0,0,1,0,27
+Laurens,OWINGS,U.S. House,3,REP,Sheri Biggs,20,0,0,0,2,0,18
+Laurens,GRAY COURT,U.S. House,3,REP,Sheri Biggs,25,0,0,0,4,0,21
+Laurens,GREENPOND,U.S. House,3,REP,Sheri Biggs,45,0,0,0,7,0,38
+Laurens,COOKS,U.S. House,3,REP,Sheri Biggs,26,0,0,0,3,0,23
+Laurens,YOUNGS,U.S. House,3,REP,Sheri Biggs,23,0,0,0,2,0,21
+Laurens,ORA-LANFORD,U.S. House,3,REP,Sheri Biggs,33,0,0,0,4,0,29
+Laurens,LONG BRANCH,U.S. House,3,REP,Sheri Biggs,45,0,0,0,12,0,33
+Laurens,CROSS HILL,U.S. House,3,REP,Sheri Biggs,87,0,1,0,16,0,70
+Laurens,WATERLOO,U.S. House,3,REP,Sheri Biggs,76,0,0,0,12,0,64
+Laurens,MARTINS-POPLAR SPRINGS,U.S. House,3,REP,Sheri Biggs,48,0,0,0,5,0,43
+Laurens,EKOM,U.S. House,3,REP,Sheri Biggs,18,0,0,0,3,0,15
+Laurens,MOUNT OLIVE,U.S. House,3,REP,Sheri Biggs,59,0,0,0,7,0,52
+Laurens,HICKORY TAVERN,U.S. House,3,REP,Sheri Biggs,96,0,2,0,17,0,77
+Laurens,CLINTON MILL,U.S. House,3,REP,Sheri Biggs,23,0,0,0,5,0,18
+Laurens,BREWERTON-PRINCETON,U.S. House,3,REP,Sheri Biggs,40,0,0,0,3,0,37
+Laurens,Failsafe,U.S. House,3,REP,Sheri Biggs,0,0,0,0,0,0,0
+Laurens,Provisional,U.S. House,3,REP,Sheri Biggs,1,0,0,0,0,1,0
+Laurens,Failsafe Provisional,U.S. House,3,REP,Sheri Biggs,1,0,0,1,0,0,0
+Laurens,LAURENS 1,U.S. House,3,REP,Kevin Bishop,2,0,0,0,0,0,2
+Laurens,LAURENS 2,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Laurens,LAURENS 3,U.S. House,3,REP,Kevin Bishop,3,0,0,0,1,0,2
+Laurens,LAURENS 4,U.S. House,3,REP,Kevin Bishop,2,0,0,0,0,0,2
+Laurens,LAURENS 5,U.S. House,3,REP,Kevin Bishop,22,0,3,0,5,0,14
+Laurens,LAURENS 6,U.S. House,3,REP,Kevin Bishop,16,0,1,0,7,0,8
+Laurens,BAILEY,U.S. House,3,REP,Kevin Bishop,11,0,0,0,1,0,10
+Laurens,TRINITY RIDGE,U.S. House,3,REP,Kevin Bishop,7,0,0,0,6,0,1
+Laurens,WATTSVILLE,U.S. House,3,REP,Kevin Bishop,21,0,0,0,4,0,17
+Laurens,BARKSDALE-NARINE,U.S. House,3,REP,Kevin Bishop,12,0,0,0,2,0,10
+Laurens,MADDENS,U.S. House,3,REP,Kevin Bishop,9,0,0,0,4,0,5
+Laurens,CLINTON 1,U.S. House,3,REP,Kevin Bishop,24,0,0,0,4,0,20
+Laurens,CLINTON 2,U.S. House,3,REP,Kevin Bishop,51,0,1,0,13,0,37
+Laurens,JOANNA,U.S. House,3,REP,Kevin Bishop,34,0,0,0,3,0,31
+Laurens,LYDIA MILL,U.S. House,3,REP,Kevin Bishop,13,0,0,0,2,0,11
+Laurens,MOUNTVILLE,U.S. House,3,REP,Kevin Bishop,9,0,0,0,0,0,9
+Laurens,CLINTON 3,U.S. House,3,REP,Kevin Bishop,33,0,0,0,7,0,26
+Laurens,JONES,U.S. House,3,REP,Kevin Bishop,10,0,0,0,1,0,9
+Laurens,OWINGS,U.S. House,3,REP,Kevin Bishop,11,0,0,0,0,0,11
+Laurens,GRAY COURT,U.S. House,3,REP,Kevin Bishop,11,0,0,0,0,0,11
+Laurens,GREENPOND,U.S. House,3,REP,Kevin Bishop,21,0,0,0,0,0,21
+Laurens,COOKS,U.S. House,3,REP,Kevin Bishop,11,0,0,0,0,0,11
+Laurens,YOUNGS,U.S. House,3,REP,Kevin Bishop,14,0,0,0,2,0,12
+Laurens,ORA-LANFORD,U.S. House,3,REP,Kevin Bishop,12,0,0,0,2,0,10
+Laurens,LONG BRANCH,U.S. House,3,REP,Kevin Bishop,14,0,0,0,7,0,7
+Laurens,CROSS HILL,U.S. House,3,REP,Kevin Bishop,21,0,1,0,0,0,20
+Laurens,WATERLOO,U.S. House,3,REP,Kevin Bishop,23,0,0,0,3,0,20
+Laurens,MARTINS-POPLAR SPRINGS,U.S. House,3,REP,Kevin Bishop,8,0,0,0,0,0,8
+Laurens,EKOM,U.S. House,3,REP,Kevin Bishop,3,0,0,0,0,0,3
+Laurens,MOUNT OLIVE,U.S. House,3,REP,Kevin Bishop,10,0,0,0,0,0,10
+Laurens,HICKORY TAVERN,U.S. House,3,REP,Kevin Bishop,20,0,1,0,2,0,17
+Laurens,CLINTON MILL,U.S. House,3,REP,Kevin Bishop,7,0,0,0,2,0,5
+Laurens,BREWERTON-PRINCETON,U.S. House,3,REP,Kevin Bishop,6,0,0,0,0,0,6
+Laurens,Failsafe,U.S. House,3,REP,Kevin Bishop,1,1,0,0,0,0,0
+Laurens,Provisional,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,U.S. House,3,REP,Kevin Bishop,2,0,0,2,0,0,0
+Laurens,LAURENS 1,U.S. House,3,REP,Mark Burns,15,0,0,0,4,0,11
+Laurens,LAURENS 2,U.S. House,3,REP,Mark Burns,3,0,0,0,0,0,3
+Laurens,LAURENS 3,U.S. House,3,REP,Mark Burns,22,0,0,0,7,0,15
+Laurens,LAURENS 4,U.S. House,3,REP,Mark Burns,7,0,0,0,2,0,5
+Laurens,LAURENS 5,U.S. House,3,REP,Mark Burns,57,0,1,0,16,0,40
+Laurens,LAURENS 6,U.S. House,3,REP,Mark Burns,36,0,2,0,10,0,24
+Laurens,BAILEY,U.S. House,3,REP,Mark Burns,43,0,0,0,3,0,40
+Laurens,TRINITY RIDGE,U.S. House,3,REP,Mark Burns,41,0,0,0,10,0,31
+Laurens,WATTSVILLE,U.S. House,3,REP,Mark Burns,53,0,0,0,9,0,44
+Laurens,BARKSDALE-NARINE,U.S. House,3,REP,Mark Burns,40,0,0,0,3,0,37
+Laurens,MADDENS,U.S. House,3,REP,Mark Burns,41,0,0,0,6,0,35
+Laurens,CLINTON 1,U.S. House,3,REP,Mark Burns,34,0,0,0,5,0,29
+Laurens,CLINTON 2,U.S. House,3,REP,Mark Burns,29,0,2,0,5,0,22
+Laurens,JOANNA,U.S. House,3,REP,Mark Burns,94,0,2,0,10,0,82
+Laurens,LYDIA MILL,U.S. House,3,REP,Mark Burns,29,0,0,0,8,0,21
+Laurens,MOUNTVILLE,U.S. House,3,REP,Mark Burns,25,0,0,0,2,0,23
+Laurens,CLINTON 3,U.S. House,3,REP,Mark Burns,73,0,0,0,10,0,63
+Laurens,JONES,U.S. House,3,REP,Mark Burns,116,0,1,0,6,0,109
+Laurens,OWINGS,U.S. House,3,REP,Mark Burns,37,0,1,0,5,0,31
+Laurens,GRAY COURT,U.S. House,3,REP,Mark Burns,56,0,0,0,5,0,51
+Laurens,GREENPOND,U.S. House,3,REP,Mark Burns,76,0,0,0,14,0,62
+Laurens,COOKS,U.S. House,3,REP,Mark Burns,71,0,1,0,7,0,63
+Laurens,YOUNGS,U.S. House,3,REP,Mark Burns,90,0,0,0,7,0,83
+Laurens,ORA-LANFORD,U.S. House,3,REP,Mark Burns,41,0,0,0,3,0,38
+Laurens,LONG BRANCH,U.S. House,3,REP,Mark Burns,57,0,0,0,9,0,48
+Laurens,CROSS HILL,U.S. House,3,REP,Mark Burns,84,0,2,0,2,0,80
+Laurens,WATERLOO,U.S. House,3,REP,Mark Burns,118,0,0,0,10,0,108
+Laurens,MARTINS-POPLAR SPRINGS,U.S. House,3,REP,Mark Burns,29,0,0,0,4,0,25
+Laurens,EKOM,U.S. House,3,REP,Mark Burns,28,0,0,0,8,0,20
+Laurens,MOUNT OLIVE,U.S. House,3,REP,Mark Burns,53,0,1,0,5,0,47
+Laurens,HICKORY TAVERN,U.S. House,3,REP,Mark Burns,106,0,1,0,11,0,94
+Laurens,CLINTON MILL,U.S. House,3,REP,Mark Burns,31,0,0,0,3,0,28
+Laurens,BREWERTON-PRINCETON,U.S. House,3,REP,Mark Burns,56,0,0,0,2,0,54
+Laurens,Failsafe,U.S. House,3,REP,Mark Burns,1,1,0,0,0,0,0
+Laurens,Provisional,U.S. House,3,REP,Mark Burns,2,0,0,0,0,2,0
+Laurens,Failsafe Provisional,U.S. House,3,REP,Mark Burns,3,0,0,3,0,0,0
+Laurens,LAURENS 1,U.S. House,3,REP,Franky Franco,6,0,0,0,3,0,3
+Laurens,LAURENS 2,U.S. House,3,REP,Franky Franco,1,0,0,0,0,0,1
+Laurens,LAURENS 3,U.S. House,3,REP,Franky Franco,1,0,0,0,0,0,1
+Laurens,LAURENS 4,U.S. House,3,REP,Franky Franco,1,0,0,0,0,0,1
+Laurens,LAURENS 5,U.S. House,3,REP,Franky Franco,13,0,3,0,4,0,6
+Laurens,LAURENS 6,U.S. House,3,REP,Franky Franco,4,0,0,0,1,0,3
+Laurens,BAILEY,U.S. House,3,REP,Franky Franco,10,0,1,0,2,0,7
+Laurens,TRINITY RIDGE,U.S. House,3,REP,Franky Franco,2,0,0,0,0,0,2
+Laurens,WATTSVILLE,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,U.S. House,3,REP,Franky Franco,3,0,0,0,1,0,2
+Laurens,MADDENS,U.S. House,3,REP,Franky Franco,4,0,0,0,1,0,3
+Laurens,CLINTON 1,U.S. House,3,REP,Franky Franco,10,0,0,0,5,0,5
+Laurens,CLINTON 2,U.S. House,3,REP,Franky Franco,20,0,0,0,1,0,19
+Laurens,JOANNA,U.S. House,3,REP,Franky Franco,3,0,0,0,0,0,3
+Laurens,LYDIA MILL,U.S. House,3,REP,Franky Franco,1,0,0,0,0,0,1
+Laurens,MOUNTVILLE,U.S. House,3,REP,Franky Franco,1,0,0,0,0,0,1
+Laurens,CLINTON 3,U.S. House,3,REP,Franky Franco,10,0,0,0,1,0,9
+Laurens,JONES,U.S. House,3,REP,Franky Franco,5,0,0,0,0,0,5
+Laurens,OWINGS,U.S. House,3,REP,Franky Franco,2,0,0,0,0,0,2
+Laurens,GRAY COURT,U.S. House,3,REP,Franky Franco,2,0,0,0,1,0,1
+Laurens,GREENPOND,U.S. House,3,REP,Franky Franco,25,0,0,0,2,0,23
+Laurens,COOKS,U.S. House,3,REP,Franky Franco,11,0,0,0,3,0,8
+Laurens,YOUNGS,U.S. House,3,REP,Franky Franco,5,0,0,0,0,0,5
+Laurens,ORA-LANFORD,U.S. House,3,REP,Franky Franco,4,0,0,0,0,0,4
+Laurens,LONG BRANCH,U.S. House,3,REP,Franky Franco,7,0,0,0,1,0,6
+Laurens,CROSS HILL,U.S. House,3,REP,Franky Franco,2,0,0,0,0,0,2
+Laurens,WATERLOO,U.S. House,3,REP,Franky Franco,5,0,0,0,0,0,5
+Laurens,MARTINS-POPLAR SPRINGS,U.S. House,3,REP,Franky Franco,3,0,0,0,0,0,3
+Laurens,EKOM,U.S. House,3,REP,Franky Franco,5,0,0,0,0,0,5
+Laurens,MOUNT OLIVE,U.S. House,3,REP,Franky Franco,9,0,1,0,2,0,6
+Laurens,HICKORY TAVERN,U.S. House,3,REP,Franky Franco,19,0,0,0,3,0,16
+Laurens,CLINTON MILL,U.S. House,3,REP,Franky Franco,3,0,0,0,0,0,3
+Laurens,BREWERTON-PRINCETON,U.S. House,3,REP,Franky Franco,13,0,0,0,0,0,13
+Laurens,Failsafe,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Laurens,Provisional,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Laurens,LAURENS 1,U.S. House,3,REP,Phil Healy,2,0,0,0,0,0,2
+Laurens,LAURENS 2,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Laurens,LAURENS 3,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Laurens,LAURENS 4,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Laurens,LAURENS 5,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Laurens,LAURENS 6,U.S. House,3,REP,Phil Healy,4,0,0,0,1,0,3
+Laurens,BAILEY,U.S. House,3,REP,Phil Healy,2,0,0,0,0,0,2
+Laurens,TRINITY RIDGE,U.S. House,3,REP,Phil Healy,4,0,0,0,0,0,4
+Laurens,WATTSVILLE,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,U.S. House,3,REP,Phil Healy,3,0,0,0,0,0,3
+Laurens,MADDENS,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Laurens,CLINTON 1,U.S. House,3,REP,Phil Healy,3,0,0,0,0,0,3
+Laurens,CLINTON 2,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Laurens,JOANNA,U.S. House,3,REP,Phil Healy,7,0,0,0,0,0,7
+Laurens,LYDIA MILL,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Laurens,MOUNTVILLE,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Laurens,CLINTON 3,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Laurens,JONES,U.S. House,3,REP,Phil Healy,2,0,0,0,1,0,1
+Laurens,OWINGS,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Laurens,GRAY COURT,U.S. House,3,REP,Phil Healy,1,0,0,0,1,0,0
+Laurens,GREENPOND,U.S. House,3,REP,Phil Healy,6,0,0,0,3,0,3
+Laurens,COOKS,U.S. House,3,REP,Phil Healy,8,0,0,0,0,0,8
+Laurens,YOUNGS,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Laurens,ORA-LANFORD,U.S. House,3,REP,Phil Healy,4,0,0,0,1,0,3
+Laurens,LONG BRANCH,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Laurens,CROSS HILL,U.S. House,3,REP,Phil Healy,7,0,0,0,2,0,5
+Laurens,WATERLOO,U.S. House,3,REP,Phil Healy,3,0,0,0,0,0,3
+Laurens,MARTINS-POPLAR SPRINGS,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Laurens,EKOM,U.S. House,3,REP,Phil Healy,2,0,0,0,1,0,1
+Laurens,MOUNT OLIVE,U.S. House,3,REP,Phil Healy,6,0,0,0,0,0,6
+Laurens,HICKORY TAVERN,U.S. House,3,REP,Phil Healy,7,0,0,0,0,0,7
+Laurens,CLINTON MILL,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Laurens,BREWERTON-PRINCETON,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Laurens,Failsafe,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Laurens,Provisional,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Laurens,LAURENS 1,U.S. House,3,REP,Stewart O Jones,40,0,0,0,18,0,22
+Laurens,LAURENS 2,U.S. House,3,REP,Stewart O Jones,13,0,0,0,8,0,5
+Laurens,LAURENS 3,U.S. House,3,REP,Stewart O Jones,49,0,0,0,7,0,42
+Laurens,LAURENS 4,U.S. House,3,REP,Stewart O Jones,20,0,0,0,3,0,17
+Laurens,LAURENS 5,U.S. House,3,REP,Stewart O Jones,198,0,5,0,58,0,135
+Laurens,LAURENS 6,U.S. House,3,REP,Stewart O Jones,197,0,3,0,74,0,120
+Laurens,BAILEY,U.S. House,3,REP,Stewart O Jones,139,0,0,0,33,0,106
+Laurens,TRINITY RIDGE,U.S. House,3,REP,Stewart O Jones,252,0,1,0,64,0,187
+Laurens,WATTSVILLE,U.S. House,3,REP,Stewart O Jones,170,0,0,0,33,0,137
+Laurens,BARKSDALE-NARINE,U.S. House,3,REP,Stewart O Jones,121,0,1,0,26,0,94
+Laurens,MADDENS,U.S. House,3,REP,Stewart O Jones,186,0,0,0,37,0,149
+Laurens,CLINTON 1,U.S. House,3,REP,Stewart O Jones,107,0,0,0,19,0,88
+Laurens,CLINTON 2,U.S. House,3,REP,Stewart O Jones,134,0,0,0,37,0,97
+Laurens,JOANNA,U.S. House,3,REP,Stewart O Jones,174,0,1,0,21,0,152
+Laurens,LYDIA MILL,U.S. House,3,REP,Stewart O Jones,59,0,1,0,6,0,52
+Laurens,MOUNTVILLE,U.S. House,3,REP,Stewart O Jones,84,0,0,0,9,0,75
+Laurens,CLINTON 3,U.S. House,3,REP,Stewart O Jones,209,0,0,0,26,0,183
+Laurens,JONES,U.S. House,3,REP,Stewart O Jones,78,0,1,0,5,0,72
+Laurens,OWINGS,U.S. House,3,REP,Stewart O Jones,59,0,1,0,4,0,54
+Laurens,GRAY COURT,U.S. House,3,REP,Stewart O Jones,101,0,0,0,12,0,89
+Laurens,GREENPOND,U.S. House,3,REP,Stewart O Jones,153,0,1,0,15,0,137
+Laurens,COOKS,U.S. House,3,REP,Stewart O Jones,51,0,2,0,2,0,47
+Laurens,YOUNGS,U.S. House,3,REP,Stewart O Jones,73,0,0,0,6,0,67
+Laurens,ORA-LANFORD,U.S. House,3,REP,Stewart O Jones,109,0,1,0,12,0,96
+Laurens,LONG BRANCH,U.S. House,3,REP,Stewart O Jones,215,0,4,0,57,0,154
+Laurens,CROSS HILL,U.S. House,3,REP,Stewart O Jones,108,0,0,0,14,0,94
+Laurens,WATERLOO,U.S. House,3,REP,Stewart O Jones,102,0,2,0,19,0,81
+Laurens,MARTINS-POPLAR SPRINGS,U.S. House,3,REP,Stewart O Jones,61,0,1,0,4,0,56
+Laurens,EKOM,U.S. House,3,REP,Stewart O Jones,91,0,2,0,18,0,71
+Laurens,MOUNT OLIVE,U.S. House,3,REP,Stewart O Jones,81,0,1,0,8,0,72
+Laurens,HICKORY TAVERN,U.S. House,3,REP,Stewart O Jones,382,0,1,0,70,0,311
+Laurens,CLINTON MILL,U.S. House,3,REP,Stewart O Jones,46,0,0,0,10,0,36
+Laurens,BREWERTON-PRINCETON,U.S. House,3,REP,Stewart O Jones,52,0,1,0,8,0,43
+Laurens,Failsafe,U.S. House,3,REP,Stewart O Jones,1,1,0,0,0,0,0
+Laurens,Provisional,U.S. House,3,REP,Stewart O Jones,2,0,0,0,0,2,0
+Laurens,Failsafe Provisional,U.S. House,3,REP,Stewart O Jones,4,0,0,4,0,0,0
+Laurens,LAURENS 1,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,1,0,0
+Laurens,LAURENS 2,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Laurens,LAURENS 3,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Laurens,LAURENS 4,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Laurens,LAURENS 5,U.S. House,3,REP,Elspeth Snow Murday,4,0,1,0,1,0,2
+Laurens,LAURENS 6,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Laurens,BAILEY,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,1,0,1
+Laurens,TRINITY RIDGE,U.S. House,3,REP,Elspeth Snow Murday,4,0,0,0,2,0,2
+Laurens,WATTSVILLE,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,1,0,1
+Laurens,MADDENS,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Laurens,CLINTON 1,U.S. House,3,REP,Elspeth Snow Murday,6,0,0,0,1,0,5
+Laurens,CLINTON 2,U.S. House,3,REP,Elspeth Snow Murday,18,0,0,0,0,0,18
+Laurens,JOANNA,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,0,0,2
+Laurens,LYDIA MILL,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Laurens,MOUNTVILLE,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Laurens,CLINTON 3,U.S. House,3,REP,Elspeth Snow Murday,11,0,0,0,0,0,11
+Laurens,JONES,U.S. House,3,REP,Elspeth Snow Murday,4,0,2,0,0,0,2
+Laurens,OWINGS,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Laurens,GRAY COURT,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Laurens,GREENPOND,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Laurens,COOKS,U.S. House,3,REP,Elspeth Snow Murday,4,0,0,0,1,0,3
+Laurens,YOUNGS,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Laurens,ORA-LANFORD,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Laurens,LONG BRANCH,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Laurens,CROSS HILL,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,1,0,1
+Laurens,WATERLOO,U.S. House,3,REP,Elspeth Snow Murday,3,0,0,0,1,0,2
+Laurens,MARTINS-POPLAR SPRINGS,U.S. House,3,REP,Elspeth Snow Murday,3,0,0,0,1,0,2
+Laurens,EKOM,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Laurens,MOUNT OLIVE,U.S. House,3,REP,Elspeth Snow Murday,3,0,0,0,0,0,3
+Laurens,HICKORY TAVERN,U.S. House,3,REP,Elspeth Snow Murday,4,0,0,0,0,0,4
+Laurens,CLINTON MILL,U.S. House,3,REP,Elspeth Snow Murday,3,0,0,0,0,0,3
+Laurens,BREWERTON-PRINCETON,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,2,0,0
+Laurens,Failsafe,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Laurens,Provisional,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Laurens,LAURENS 1,Sheriff,,REP,Don Reynolds,63,0,0,0,26,0,37
+Laurens,LAURENS 2,Sheriff,,REP,Don Reynolds,13,0,0,0,6,0,7
+Laurens,LAURENS 3,Sheriff,,REP,Don Reynolds,66,0,0,0,16,0,50
+Laurens,LAURENS 4,Sheriff,,REP,Don Reynolds,26,0,0,0,3,0,23
+Laurens,LAURENS 5,Sheriff,,REP,Don Reynolds,290,0,13,0,91,0,186
+Laurens,LAURENS 6,Sheriff,,REP,Don Reynolds,259,0,6,0,92,0,161
+Laurens,BAILEY,Sheriff,,REP,Don Reynolds,182,0,1,0,37,0,144
+Laurens,TRINITY RIDGE,Sheriff,,REP,Don Reynolds,281,0,0,0,84,0,197
+Laurens,WATTSVILLE,Sheriff,,REP,Don Reynolds,172,0,0,0,28,0,144
+Laurens,BARKSDALE-NARINE,Sheriff,,REP,Don Reynolds,164,0,1,0,29,0,134
+Laurens,MADDENS,Sheriff,,REP,Don Reynolds,220,0,0,0,49,0,171
+Laurens,CLINTON 1,Sheriff,,REP,Don Reynolds,132,0,0,0,30,0,102
+Laurens,CLINTON 2,Sheriff,,REP,Don Reynolds,247,0,3,0,59,0,185
+Laurens,JOANNA,Sheriff,,REP,Don Reynolds,246,0,3,0,34,0,209
+Laurens,LYDIA MILL,Sheriff,,REP,Don Reynolds,62,0,1,0,10,0,51
+Laurens,MOUNTVILLE,Sheriff,,REP,Don Reynolds,116,0,0,0,13,0,103
+Laurens,CLINTON 3,Sheriff,,REP,Don Reynolds,302,0,0,0,44,0,258
+Laurens,JONES,Sheriff,,REP,Don Reynolds,175,0,0,0,12,0,163
+Laurens,OWINGS,Sheriff,,REP,Don Reynolds,104,0,2,0,11,0,91
+Laurens,GRAY COURT,Sheriff,,REP,Don Reynolds,154,0,0,0,22,0,132
+Laurens,GREENPOND,Sheriff,,REP,Don Reynolds,276,0,1,0,30,0,245
+Laurens,COOKS,Sheriff,,REP,Don Reynolds,149,0,2,0,12,0,135
+Laurens,YOUNGS,Sheriff,,REP,Don Reynolds,167,0,0,0,16,0,151
+Laurens,ORA-LANFORD,Sheriff,,REP,Don Reynolds,155,0,0,0,16,0,139
+Laurens,LONG BRANCH,Sheriff,,REP,Don Reynolds,245,0,4,0,68,0,173
+Laurens,CROSS HILL,Sheriff,,REP,Don Reynolds,211,0,2,0,28,0,181
+Laurens,WATERLOO,Sheriff,,REP,Don Reynolds,219,0,2,0,34,0,183
+Laurens,MARTINS-POPLAR SPRINGS,Sheriff,,REP,Don Reynolds,105,0,1,0,10,0,94
+Laurens,EKOM,Sheriff,,REP,Don Reynolds,104,0,1,0,24,0,79
+Laurens,MOUNT OLIVE,Sheriff,,REP,Don Reynolds,119,0,1,0,14,0,104
+Laurens,HICKORY TAVERN,Sheriff,,REP,Don Reynolds,512,0,4,0,90,0,418
+Laurens,CLINTON MILL,Sheriff,,REP,Don Reynolds,54,0,0,0,6,0,48
+Laurens,BREWERTON-PRINCETON,Sheriff,,REP,Don Reynolds,127,0,0,0,11,0,116
+Laurens,Failsafe,Sheriff,,REP,Don Reynolds,1,1,0,0,0,0,0
+Laurens,Provisional,Sheriff,,REP,Don Reynolds,2,0,0,0,0,2,0
+Laurens,Failsafe Provisional,Sheriff,,REP,Don Reynolds,6,0,0,6,0,0,0
+Laurens,LAURENS 1,Sheriff,,REP,Chris Wilkes,20,0,0,0,4,0,16
+Laurens,LAURENS 2,Sheriff,,REP,Chris Wilkes,8,0,0,0,2,0,6
+Laurens,LAURENS 3,Sheriff,,REP,Chris Wilkes,23,0,0,0,5,0,18
+Laurens,LAURENS 4,Sheriff,,REP,Chris Wilkes,15,0,0,0,3,0,12
+Laurens,LAURENS 5,Sheriff,,REP,Chris Wilkes,72,0,2,0,11,0,59
+Laurens,LAURENS 6,Sheriff,,REP,Chris Wilkes,58,0,2,0,14,0,42
+Laurens,BAILEY,Sheriff,,REP,Chris Wilkes,70,0,0,0,11,0,59
+Laurens,TRINITY RIDGE,Sheriff,,REP,Chris Wilkes,71,0,1,0,7,0,63
+Laurens,WATTSVILLE,Sheriff,,REP,Chris Wilkes,104,0,3,0,22,0,79
+Laurens,BARKSDALE-NARINE,Sheriff,,REP,Chris Wilkes,46,0,0,0,10,0,36
+Laurens,MADDENS,Sheriff,,REP,Chris Wilkes,66,0,0,0,7,0,59
+Laurens,CLINTON 1,Sheriff,,REP,Chris Wilkes,103,0,0,0,15,0,88
+Laurens,CLINTON 2,Sheriff,,REP,Chris Wilkes,64,0,0,0,8,0,56
+Laurens,JOANNA,Sheriff,,REP,Chris Wilkes,155,0,0,0,11,0,144
+Laurens,LYDIA MILL,Sheriff,,REP,Chris Wilkes,80,0,0,0,18,0,62
+Laurens,MOUNTVILLE,Sheriff,,REP,Chris Wilkes,35,0,0,0,0,0,35
+Laurens,CLINTON 3,Sheriff,,REP,Chris Wilkes,115,0,0,0,14,0,101
+Laurens,JONES,Sheriff,,REP,Chris Wilkes,65,0,4,0,2,0,59
+Laurens,OWINGS,Sheriff,,REP,Chris Wilkes,26,0,0,0,0,0,26
+Laurens,GRAY COURT,Sheriff,,REP,Chris Wilkes,43,0,0,0,1,0,42
+Laurens,GREENPOND,Sheriff,,REP,Chris Wilkes,56,0,0,0,11,0,45
+Laurens,COOKS,Sheriff,,REP,Chris Wilkes,32,0,1,0,4,0,27
+Laurens,YOUNGS,Sheriff,,REP,Chris Wilkes,44,0,0,0,1,0,43
+Laurens,ORA-LANFORD,Sheriff,,REP,Chris Wilkes,52,0,1,0,6,0,45
+Laurens,LONG BRANCH,Sheriff,,REP,Chris Wilkes,100,0,2,0,22,0,76
+Laurens,CROSS HILL,Sheriff,,REP,Chris Wilkes,104,0,2,0,8,0,94
+Laurens,WATERLOO,Sheriff,,REP,Chris Wilkes,116,0,0,0,11,0,105
+Laurens,MARTINS-POPLAR SPRINGS,Sheriff,,REP,Chris Wilkes,46,0,0,0,4,0,42
+Laurens,EKOM,Sheriff,,REP,Chris Wilkes,46,0,1,0,8,0,37
+Laurens,MOUNT OLIVE,Sheriff,,REP,Chris Wilkes,106,0,2,0,9,0,95
+Laurens,HICKORY TAVERN,Sheriff,,REP,Chris Wilkes,117,0,1,0,14,0,102
+Laurens,CLINTON MILL,Sheriff,,REP,Chris Wilkes,72,0,0,0,18,0,54
+Laurens,BREWERTON-PRINCETON,Sheriff,,REP,Chris Wilkes,44,0,1,0,4,0,39
+Laurens,Failsafe,Sheriff,,REP,Chris Wilkes,2,2,0,0,0,0,0
+Laurens,Provisional,Sheriff,,REP,Chris Wilkes,4,0,0,0,0,4,0
+Laurens,Failsafe Provisional,Sheriff,,REP,Chris Wilkes,4,0,0,4,0,0,0
+Laurens,LAURENS 1,Coroner,,REP,Patti Canupp,57,0,0,0,20,0,37
+Laurens,LAURENS 2,Coroner,,REP,Patti Canupp,17,0,0,0,8,0,9
+Laurens,LAURENS 3,Coroner,,REP,Patti Canupp,55,0,0,0,13,0,42
+Laurens,LAURENS 4,Coroner,,REP,Patti Canupp,24,0,0,0,3,0,21
+Laurens,LAURENS 5,Coroner,,REP,Patti Canupp,237,0,6,0,67,0,164
+Laurens,LAURENS 6,Coroner,,REP,Patti Canupp,226,0,6,0,75,0,145
+Laurens,BAILEY,Coroner,,REP,Patti Canupp,158,0,0,0,33,0,125
+Laurens,TRINITY RIDGE,Coroner,,REP,Patti Canupp,246,0,0,0,60,0,186
+Laurens,WATTSVILLE,Coroner,,REP,Patti Canupp,193,0,3,0,34,0,156
+Laurens,BARKSDALE-NARINE,Coroner,,REP,Patti Canupp,149,0,1,0,27,0,121
+Laurens,MADDENS,Coroner,,REP,Patti Canupp,217,0,0,0,39,0,178
+Laurens,CLINTON 1,Coroner,,REP,Patti Canupp,128,0,0,0,20,0,108
+Laurens,CLINTON 2,Coroner,,REP,Patti Canupp,136,0,3,0,28,0,105
+Laurens,JOANNA,Coroner,,REP,Patti Canupp,267,0,3,0,22,0,242
+Laurens,LYDIA MILL,Coroner,,REP,Patti Canupp,85,0,1,0,19,0,65
+Laurens,MOUNTVILLE,Coroner,,REP,Patti Canupp,91,0,0,0,10,0,81
+Laurens,CLINTON 3,Coroner,,REP,Patti Canupp,210,0,0,0,33,0,177
+Laurens,JONES,Coroner,,REP,Patti Canupp,113,0,2,0,8,0,103
+Laurens,OWINGS,Coroner,,REP,Patti Canupp,80,0,1,0,9,0,70
+Laurens,GRAY COURT,Coroner,,REP,Patti Canupp,118,0,0,0,17,0,101
+Laurens,GREENPOND,Coroner,,REP,Patti Canupp,171,0,1,0,22,0,148
+Laurens,COOKS,Coroner,,REP,Patti Canupp,103,0,2,0,12,0,89
+Laurens,YOUNGS,Coroner,,REP,Patti Canupp,116,0,0,0,11,0,105
+Laurens,ORA-LANFORD,Coroner,,REP,Patti Canupp,141,0,0,0,17,0,124
+Laurens,LONG BRANCH,Coroner,,REP,Patti Canupp,223,0,4,0,53,0,166
+Laurens,CROSS HILL,Coroner,,REP,Patti Canupp,178,0,2,0,18,0,158
+Laurens,WATERLOO,Coroner,,REP,Patti Canupp,183,0,0,0,27,0,156
+Laurens,MARTINS-POPLAR SPRINGS,Coroner,,REP,Patti Canupp,76,0,1,0,10,0,65
+Laurens,EKOM,Coroner,,REP,Patti Canupp,92,0,0,0,26,0,66
+Laurens,MOUNT OLIVE,Coroner,,REP,Patti Canupp,141,0,2,0,13,0,126
+Laurens,HICKORY TAVERN,Coroner,,REP,Patti Canupp,386,0,3,0,70,0,313
+Laurens,CLINTON MILL,Coroner,,REP,Patti Canupp,71,0,0,0,13,0,58
+Laurens,BREWERTON-PRINCETON,Coroner,,REP,Patti Canupp,94,0,0,0,9,0,85
+Laurens,Failsafe,Coroner,,REP,Patti Canupp,3,3,0,0,0,0,0
+Laurens,Provisional,Coroner,,REP,Patti Canupp,3,0,0,0,0,3,0
+Laurens,Failsafe Provisional,Coroner,,REP,Patti Canupp,5,0,0,5,0,0,0
+Laurens,LAURENS 1,Coroner,,REP,Bill Seawright,25,0,0,0,10,0,15
+Laurens,LAURENS 2,Coroner,,REP,Bill Seawright,4,0,0,0,0,0,4
+Laurens,LAURENS 3,Coroner,,REP,Bill Seawright,31,0,0,0,5,0,26
+Laurens,LAURENS 4,Coroner,,REP,Bill Seawright,16,0,0,0,3,0,13
+Laurens,LAURENS 5,Coroner,,REP,Bill Seawright,122,0,8,0,34,0,80
+Laurens,LAURENS 6,Coroner,,REP,Bill Seawright,86,0,2,0,29,0,55
+Laurens,BAILEY,Coroner,,REP,Bill Seawright,93,0,1,0,15,0,77
+Laurens,TRINITY RIDGE,Coroner,,REP,Bill Seawright,106,0,1,0,31,0,74
+Laurens,WATTSVILLE,Coroner,,REP,Bill Seawright,81,0,0,0,15,0,66
+Laurens,BARKSDALE-NARINE,Coroner,,REP,Bill Seawright,59,0,0,0,12,0,47
+Laurens,MADDENS,Coroner,,REP,Bill Seawright,68,0,0,0,16,0,52
+Laurens,CLINTON 1,Coroner,,REP,Bill Seawright,104,0,0,0,24,0,80
+Laurens,CLINTON 2,Coroner,,REP,Bill Seawright,176,0,0,0,38,0,138
+Laurens,JOANNA,Coroner,,REP,Bill Seawright,131,0,0,0,23,0,108
+Laurens,LYDIA MILL,Coroner,,REP,Bill Seawright,57,0,0,0,10,0,47
+Laurens,MOUNTVILLE,Coroner,,REP,Bill Seawright,59,0,0,0,3,0,56
+Laurens,CLINTON 3,Coroner,,REP,Bill Seawright,207,0,0,0,25,0,182
+Laurens,JONES,Coroner,,REP,Bill Seawright,125,0,2,0,6,0,117
+Laurens,OWINGS,Coroner,,REP,Bill Seawright,47,0,1,0,2,0,44
+Laurens,GRAY COURT,Coroner,,REP,Bill Seawright,76,0,0,0,6,0,70
+Laurens,GREENPOND,Coroner,,REP,Bill Seawright,149,0,0,0,18,0,131
+Laurens,COOKS,Coroner,,REP,Bill Seawright,70,0,1,0,4,0,65
+Laurens,YOUNGS,Coroner,,REP,Bill Seawright,91,0,0,0,6,0,85
+Laurens,ORA-LANFORD,Coroner,,REP,Bill Seawright,64,0,1,0,5,0,58
+Laurens,LONG BRANCH,Coroner,,REP,Bill Seawright,119,0,0,0,37,0,82
+Laurens,CROSS HILL,Coroner,,REP,Bill Seawright,126,0,2,0,14,0,110
+Laurens,WATERLOO,Coroner,,REP,Bill Seawright,149,0,2,0,18,0,129
+Laurens,MARTINS-POPLAR SPRINGS,Coroner,,REP,Bill Seawright,72,0,0,0,4,0,68
+Laurens,EKOM,Coroner,,REP,Bill Seawright,56,0,2,0,6,0,48
+Laurens,MOUNT OLIVE,Coroner,,REP,Bill Seawright,79,0,1,0,9,0,69
+Laurens,HICKORY TAVERN,Coroner,,REP,Bill Seawright,230,0,2,0,32,0,196
+Laurens,CLINTON MILL,Coroner,,REP,Bill Seawright,54,0,0,0,11,0,43
+Laurens,BREWERTON-PRINCETON,Coroner,,REP,Bill Seawright,76,0,1,0,6,0,69
+Laurens,Failsafe,Coroner,,REP,Bill Seawright,0,0,0,0,0,0,0
+Laurens,Provisional,Coroner,,REP,Bill Seawright,3,0,0,0,0,3,0
+Laurens,Failsafe Provisional,Coroner,,REP,Bill Seawright,5,0,0,5,0,0,0
+Laurens,LAURENS 1,County Council District 3,,DEM,Shirley H Clark,16,0,0,0,3,0,13
+Laurens,LAURENS 2,County Council District 3,,DEM,Shirley H Clark,12,0,1,0,5,0,6
+Laurens,LAURENS 3,County Council District 3,,DEM,Shirley H Clark,9,0,0,0,0,0,9
+Laurens,LAURENS 4,County Council District 3,,DEM,Shirley H Clark,45,0,0,0,12,0,33
+Laurens,LAURENS 5,County Council District 3,,DEM,Shirley H Clark,11,0,4,0,3,0,4
+Laurens,LAURENS 6,County Council District 3,,DEM,Shirley H Clark,9,0,2,0,4,0,3
+Laurens,BAILEY,County Council District 3,,DEM,Shirley H Clark,2,0,0,0,2,0,0
+Laurens,TRINITY RIDGE,County Council District 3,,DEM,Shirley H Clark,25,0,0,0,9,0,16
+Laurens,BARKSDALE-NARINE,County Council District 3,,DEM,Shirley H Clark,5,0,0,0,3,0,2
+Laurens,MADDENS,County Council District 3,,DEM,Shirley H Clark,9,0,0,0,3,0,6
+Laurens,OWINGS,County Council District 3,,DEM,Shirley H Clark,0,0,0,0,0,0,0
+Laurens,GRAY COURT,County Council District 3,,DEM,Shirley H Clark,35,0,0,0,1,0,34
+Laurens,Failsafe,County Council District 3,,DEM,Shirley H Clark,0,0,0,0,0,0,0
+Laurens,Provisional,County Council District 3,,DEM,Shirley H Clark,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,County Council District 3,,DEM,Shirley H Clark,0,0,0,0,0,0,0
+Laurens,LAURENS 1,County Council District 3,,DEM,Lee McDaniel,21,0,1,0,1,0,19
+Laurens,LAURENS 2,County Council District 3,,DEM,Lee McDaniel,11,0,0,0,4,0,7
+Laurens,LAURENS 3,County Council District 3,,DEM,Lee McDaniel,13,0,0,0,2,0,11
+Laurens,LAURENS 4,County Council District 3,,DEM,Lee McDaniel,27,0,3,0,3,0,21
+Laurens,LAURENS 5,County Council District 3,,DEM,Lee McDaniel,17,0,6,0,0,0,11
+Laurens,LAURENS 6,County Council District 3,,DEM,Lee McDaniel,9,0,2,0,3,0,4
+Laurens,BAILEY,County Council District 3,,DEM,Lee McDaniel,1,0,0,0,1,0,0
+Laurens,TRINITY RIDGE,County Council District 3,,DEM,Lee McDaniel,25,0,3,0,5,0,17
+Laurens,BARKSDALE-NARINE,County Council District 3,,DEM,Lee McDaniel,5,0,0,0,0,0,5
+Laurens,MADDENS,County Council District 3,,DEM,Lee McDaniel,16,0,1,0,6,0,9
+Laurens,OWINGS,County Council District 3,,DEM,Lee McDaniel,2,0,0,0,0,0,2
+Laurens,GRAY COURT,County Council District 3,,DEM,Lee McDaniel,8,0,0,0,0,0,8
+Laurens,Failsafe,County Council District 3,,DEM,Lee McDaniel,0,0,0,0,0,0,0
+Laurens,Provisional,County Council District 3,,DEM,Lee McDaniel,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,County Council District 3,,DEM,Lee McDaniel,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,County Council District 2,,REP,Matthew J Brownlee,20,0,0,0,4,0,16
+Laurens,GREENPOND,County Council District 2,,REP,Matthew J Brownlee,250,0,1,0,34,0,215
+Laurens,MARTINS-POPLAR SPRINGS,County Council District 2,,REP,Matthew J Brownlee,120,0,1,0,10,0,109
+Laurens,MOUNT OLIVE,County Council District 2,,REP,Matthew J Brownlee,180,0,2,0,14,0,164
+Laurens,HICKORY TAVERN,County Council District 2,,REP,Matthew J Brownlee,583,0,3,0,94,0,486
+Laurens,BREWERTON-PRINCETON,County Council District 2,,REP,Matthew J Brownlee,128,0,1,0,9,0,118
+Laurens,Failsafe,County Council District 2,,REP,Matthew J Brownlee,0,0,0,0,0,0,0
+Laurens,Provisional,County Council District 2,,REP,Matthew J Brownlee,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,County Council District 2,,REP,Matthew J Brownlee,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,County Council District 2,,REP,Dale Stetz,0,0,0,0,0,0,0
+Laurens,GREENPOND,County Council District 2,,REP,Dale Stetz,25,0,0,0,4,0,21
+Laurens,MARTINS-POPLAR SPRINGS,County Council District 2,,REP,Dale Stetz,29,0,0,0,4,0,25
+Laurens,MOUNT OLIVE,County Council District 2,,REP,Dale Stetz,40,0,1,0,8,0,31
+Laurens,HICKORY TAVERN,County Council District 2,,REP,Dale Stetz,43,0,2,0,7,0,34
+Laurens,BREWERTON-PRINCETON,County Council District 2,,REP,Dale Stetz,39,0,0,0,5,0,34
+Laurens,Failsafe,County Council District 2,,REP,Dale Stetz,0,0,0,0,0,0,0
+Laurens,Provisional,County Council District 2,,REP,Dale Stetz,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,County Council District 2,,REP,Dale Stetz,0,0,0,0,0,0,0
+Laurens,CLINTON 1,County Council District 7,,REP,Justin Lane,94,0,0,0,4,0,90
+Laurens,CLINTON 2,County Council District 7,,REP,Justin Lane,95,0,0,0,16,0,79
+Laurens,JOANNA,County Council District 7,,REP,Justin Lane,240,0,1,0,29,0,210
+Laurens,CLINTON 3,County Council District 7,,REP,Justin Lane,212,0,0,0,31,0,181
+Laurens,LONG BRANCH,County Council District 7,,REP,Justin Lane,3,0,0,0,0,0,3
+Laurens,CLINTON MILL,County Council District 7,,REP,Justin Lane,1,0,0,0,0,0,1
+Laurens,Failsafe,County Council District 7,,REP,Justin Lane,1,1,0,0,0,0,0
+Laurens,Provisional,County Council District 7,,REP,Justin Lane,1,0,0,0,0,1,0
+Laurens,Failsafe Provisional,County Council District 7,,REP,Justin Lane,0,0,0,0,0,0,0
+Laurens,CLINTON 1,County Council District 7,,REP,David Tribble Jr,86,0,0,0,18,0,68
+Laurens,CLINTON 2,County Council District 7,,REP,David Tribble Jr,207,0,3,0,50,0,154
+Laurens,JOANNA,County Council District 7,,REP,David Tribble Jr,147,0,2,0,17,0,128
+Laurens,CLINTON 3,County Council District 7,,REP,David Tribble Jr,193,0,0,0,25,0,168
+Laurens,LONG BRANCH,County Council District 7,,REP,David Tribble Jr,10,0,0,0,2,0,8
+Laurens,CLINTON MILL,County Council District 7,,REP,David Tribble Jr,3,0,0,0,0,0,3
+Laurens,Failsafe,County Council District 7,,REP,David Tribble Jr,0,0,0,0,0,0,0
+Laurens,Provisional,County Council District 7,,REP,David Tribble Jr,1,0,0,0,0,1,0
+Laurens,Failsafe Provisional,County Council District 7,,REP,David Tribble Jr,0,0,0,0,0,0,0

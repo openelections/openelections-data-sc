@@ -1,0 +1,826 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Greenwood,Loblolly Pines,U.S. House,3,DEM,Bryon L Best,20,0,1,0,5,0,14
+Greenwood,Bee's Ferry,U.S. House,3,DEM,Bryon L Best,83,0,2,0,21,0,60
+Greenwood,Levi's Knoll,U.S. House,3,DEM,Bryon L Best,25,0,0,0,7,0,18
+Greenwood,Grandiflora Glen,U.S. House,3,DEM,Bryon L Best,50,0,0,0,15,0,35
+Greenwood,Ashley River Run,U.S. House,3,DEM,Bryon L Best,28,0,2,0,6,0,20
+Greenwood,Hope's Ferry,U.S. House,3,DEM,Bryon L Best,7,0,1,0,4,0,2
+Greenwood,Fairhope Ferry,U.S. House,3,DEM,Bryon L Best,32,0,3,0,8,0,21
+Greenwood,Pebble Stone Way,U.S. House,3,DEM,Bryon L Best,21,0,1,0,6,0,14
+Greenwood,Glendale,U.S. House,3,DEM,Bryon L Best,11,0,0,0,2,0,9
+Greenwood,Harris,U.S. House,3,DEM,Bryon L Best,19,0,0,0,3,0,16
+Greenwood,Laco,U.S. House,3,DEM,Bryon L Best,37,0,3,0,8,0,26
+Greenwood,Ninety Six,U.S. House,3,DEM,Bryon L Best,37,0,6,0,9,0,22
+Greenwood,Ninety Six Mill,U.S. House,3,DEM,Bryon L Best,3,0,2,0,0,0,1
+Greenwood,Ware Shoals,U.S. House,3,DEM,Bryon L Best,5,0,0,0,0,0,5
+Greenwood,Hodges,U.S. House,3,DEM,Bryon L Best,21,0,1,0,9,0,11
+Greenwood,Cokesbury,U.S. House,3,DEM,Bryon L Best,56,0,3,0,14,0,39
+Greenwood,Coronaca,U.S. House,3,DEM,Bryon L Best,15,0,0,0,5,0,10
+Greenwood,Greenwood High,U.S. House,3,DEM,Bryon L Best,23,0,1,0,8,0,14
+Greenwood,Georgetown,U.S. House,3,DEM,Bryon L Best,24,0,0,0,5,0,19
+Greenwood,Sandridge,U.S. House,3,DEM,Bryon L Best,9,0,0,0,2,0,7
+Greenwood,Callison,U.S. House,3,DEM,Bryon L Best,16,0,2,0,4,0,10
+Greenwood,Bradley,U.S. House,3,DEM,Bryon L Best,14,0,0,0,2,0,12
+Greenwood,Troy,U.S. House,3,DEM,Bryon L Best,3,0,1,0,0,0,2
+Greenwood,Epworth,U.S. House,3,DEM,Bryon L Best,7,0,0,0,4,0,3
+Greenwood,Verdery,U.S. House,3,DEM,Bryon L Best,48,0,5,0,7,0,36
+Greenwood,New Market,U.S. House,3,DEM,Bryon L Best,23,0,1,0,8,0,14
+Greenwood,Emerald,U.S. House,3,DEM,Bryon L Best,43,0,2,0,12,0,29
+Greenwood,Airport,U.S. House,3,DEM,Bryon L Best,18,0,0,0,4,0,14
+Greenwood,Emerald High,U.S. House,3,DEM,Bryon L Best,8,0,0,0,1,0,7
+Greenwood,Civic Center,U.S. House,3,DEM,Bryon L Best,38,0,1,0,8,0,29
+Greenwood,Riley,U.S. House,3,DEM,Bryon L Best,3,0,0,0,1,0,2
+Greenwood,Shoals Junction,U.S. House,3,DEM,Bryon L Best,5,0,0,0,0,0,5
+Greenwood,Greenwood Mill,U.S. House,3,DEM,Bryon L Best,4,0,0,0,1,0,3
+Greenwood,Stonewood,U.S. House,3,DEM,Bryon L Best,11,0,2,0,3,0,6
+Greenwood,Mimosa Crest,U.S. House,3,DEM,Bryon L Best,33,0,1,0,10,0,22
+Greenwood,Lower Lake,U.S. House,3,DEM,Bryon L Best,10,0,1,0,4,0,5
+Greenwood,Pinecrest,U.S. House,3,DEM,Bryon L Best,23,0,2,0,5,0,16
+Greenwood,Maxwellton Pike,U.S. House,3,DEM,Bryon L Best,7,0,0,0,1,0,6
+Greenwood,New Castle,U.S. House,3,DEM,Bryon L Best,25,0,1,0,8,0,16
+Greenwood,Rutherford Shoals,U.S. House,3,DEM,Bryon L Best,7,0,0,0,0,0,7
+Greenwood,Liberty,U.S. House,3,DEM,Bryon L Best,24,0,0,0,4,0,20
+Greenwood,Biltmore Pines,U.S. House,3,DEM,Bryon L Best,21,0,0,0,10,0,11
+Greenwood,Marshall Oaks,U.S. House,3,DEM,Bryon L Best,9,0,0,0,1,0,8
+Greenwood,Sparrows Grace,U.S. House,3,DEM,Bryon L Best,15,0,0,0,3,0,12
+Greenwood,Mountain Laurel,U.S. House,3,DEM,Bryon L Best,16,0,2,0,4,0,10
+Greenwood,Allie's Crossing,U.S. House,3,DEM,Bryon L Best,13,0,1,0,3,0,9
+Greenwood,Gideon's Way,U.S. House,3,DEM,Bryon L Best,44,0,0,0,13,0,31
+Greenwood,Parson's Mill,U.S. House,3,DEM,Bryon L Best,7,0,0,0,2,0,5
+Greenwood,Angel Oak's Crossing,U.S. House,3,DEM,Bryon L Best,29,0,0,0,8,0,21
+Greenwood,Graham's Glen,U.S. House,3,DEM,Bryon L Best,8,0,0,0,0,0,8
+Greenwood,Failsafe,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Greenwood,Provisional,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Greenwood,Failsafe Provisional,U.S. House,3,DEM,Bryon L Best,4,0,0,4,0,0,0
+Greenwood,Loblolly Pines,U.S. House,3,DEM,Frances Guldner,6,0,0,0,1,0,5
+Greenwood,Bee's Ferry,U.S. House,3,DEM,Frances Guldner,10,0,0,0,1,0,9
+Greenwood,Levi's Knoll,U.S. House,3,DEM,Frances Guldner,17,0,0,0,7,0,10
+Greenwood,Grandiflora Glen,U.S. House,3,DEM,Frances Guldner,10,0,1,0,2,0,7
+Greenwood,Ashley River Run,U.S. House,3,DEM,Frances Guldner,5,0,0,0,0,0,5
+Greenwood,Hope's Ferry,U.S. House,3,DEM,Frances Guldner,3,0,0,0,1,0,2
+Greenwood,Fairhope Ferry,U.S. House,3,DEM,Frances Guldner,21,0,4,0,4,0,13
+Greenwood,Pebble Stone Way,U.S. House,3,DEM,Frances Guldner,23,0,3,0,3,0,17
+Greenwood,Glendale,U.S. House,3,DEM,Frances Guldner,7,0,0,0,0,0,7
+Greenwood,Harris,U.S. House,3,DEM,Frances Guldner,14,0,1,0,4,0,9
+Greenwood,Laco,U.S. House,3,DEM,Frances Guldner,17,0,0,0,5,0,12
+Greenwood,Ninety Six,U.S. House,3,DEM,Frances Guldner,6,0,1,0,0,0,5
+Greenwood,Ninety Six Mill,U.S. House,3,DEM,Frances Guldner,1,0,0,0,0,0,1
+Greenwood,Ware Shoals,U.S. House,3,DEM,Frances Guldner,3,0,0,0,0,0,3
+Greenwood,Hodges,U.S. House,3,DEM,Frances Guldner,6,0,0,0,1,0,5
+Greenwood,Cokesbury,U.S. House,3,DEM,Frances Guldner,5,0,0,0,2,0,3
+Greenwood,Coronaca,U.S. House,3,DEM,Frances Guldner,17,0,2,0,2,0,13
+Greenwood,Greenwood High,U.S. House,3,DEM,Frances Guldner,8,0,0,0,2,0,6
+Greenwood,Georgetown,U.S. House,3,DEM,Frances Guldner,3,0,0,0,1,0,2
+Greenwood,Sandridge,U.S. House,3,DEM,Frances Guldner,2,0,0,0,2,0,0
+Greenwood,Callison,U.S. House,3,DEM,Frances Guldner,4,0,0,0,2,0,2
+Greenwood,Bradley,U.S. House,3,DEM,Frances Guldner,1,0,0,0,0,0,1
+Greenwood,Troy,U.S. House,3,DEM,Frances Guldner,1,0,0,0,0,0,1
+Greenwood,Epworth,U.S. House,3,DEM,Frances Guldner,1,0,0,0,0,0,1
+Greenwood,Verdery,U.S. House,3,DEM,Frances Guldner,16,0,3,0,5,0,8
+Greenwood,New Market,U.S. House,3,DEM,Frances Guldner,7,0,0,0,2,0,5
+Greenwood,Emerald,U.S. House,3,DEM,Frances Guldner,8,0,1,0,3,0,4
+Greenwood,Airport,U.S. House,3,DEM,Frances Guldner,20,0,0,0,6,0,14
+Greenwood,Emerald High,U.S. House,3,DEM,Frances Guldner,6,0,1,0,1,0,4
+Greenwood,Civic Center,U.S. House,3,DEM,Frances Guldner,10,0,0,0,4,0,6
+Greenwood,Riley,U.S. House,3,DEM,Frances Guldner,2,0,0,0,1,0,1
+Greenwood,Shoals Junction,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Greenwood,Greenwood Mill,U.S. House,3,DEM,Frances Guldner,3,0,0,0,1,0,2
+Greenwood,Stonewood,U.S. House,3,DEM,Frances Guldner,11,0,0,0,3,0,8
+Greenwood,Mimosa Crest,U.S. House,3,DEM,Frances Guldner,12,0,2,0,3,0,7
+Greenwood,Lower Lake,U.S. House,3,DEM,Frances Guldner,12,0,0,0,4,0,8
+Greenwood,Pinecrest,U.S. House,3,DEM,Frances Guldner,10,0,2,0,1,0,7
+Greenwood,Maxwellton Pike,U.S. House,3,DEM,Frances Guldner,2,0,0,0,0,0,2
+Greenwood,New Castle,U.S. House,3,DEM,Frances Guldner,6,0,0,0,1,0,5
+Greenwood,Rutherford Shoals,U.S. House,3,DEM,Frances Guldner,5,0,0,0,0,0,5
+Greenwood,Liberty,U.S. House,3,DEM,Frances Guldner,7,0,2,0,1,0,4
+Greenwood,Biltmore Pines,U.S. House,3,DEM,Frances Guldner,14,0,2,0,4,0,8
+Greenwood,Marshall Oaks,U.S. House,3,DEM,Frances Guldner,3,0,0,0,0,0,3
+Greenwood,Sparrows Grace,U.S. House,3,DEM,Frances Guldner,8,0,0,0,0,0,8
+Greenwood,Mountain Laurel,U.S. House,3,DEM,Frances Guldner,11,0,0,0,2,0,9
+Greenwood,Allie's Crossing,U.S. House,3,DEM,Frances Guldner,8,0,0,0,4,0,4
+Greenwood,Gideon's Way,U.S. House,3,DEM,Frances Guldner,5,0,2,0,2,0,1
+Greenwood,Parson's Mill,U.S. House,3,DEM,Frances Guldner,7,0,0,0,6,0,1
+Greenwood,Angel Oak's Crossing,U.S. House,3,DEM,Frances Guldner,14,0,1,0,8,0,5
+Greenwood,Graham's Glen,U.S. House,3,DEM,Frances Guldner,8,0,2,0,0,0,6
+Greenwood,Failsafe,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Greenwood,Provisional,U.S. House,3,DEM,Frances Guldner,4,0,0,0,0,4,0
+Greenwood,Failsafe Provisional,U.S. House,3,DEM,Frances Guldner,1,0,0,1,0,0,0
+Greenwood,Loblolly Pines,U.S. House,3,REP,Sheri Biggs,6,0,0,0,1,0,5
+Greenwood,Bee's Ferry,U.S. House,3,REP,Sheri Biggs,1,0,0,0,0,0,1
+Greenwood,Levi's Knoll,U.S. House,3,REP,Sheri Biggs,26,0,1,0,7,0,18
+Greenwood,Grandiflora Glen,U.S. House,3,REP,Sheri Biggs,32,0,5,0,10,0,17
+Greenwood,Ashley River Run,U.S. House,3,REP,Sheri Biggs,6,0,0,0,2,0,4
+Greenwood,Hope's Ferry,U.S. House,3,REP,Sheri Biggs,9,0,1,0,2,0,6
+Greenwood,Fairhope Ferry,U.S. House,3,REP,Sheri Biggs,32,0,5,0,11,0,16
+Greenwood,Pebble Stone Way,U.S. House,3,REP,Sheri Biggs,44,0,2,0,4,0,38
+Greenwood,Glendale,U.S. House,3,REP,Sheri Biggs,29,0,1,0,13,0,15
+Greenwood,Harris,U.S. House,3,REP,Sheri Biggs,43,0,1,0,14,0,28
+Greenwood,Laco,U.S. House,3,REP,Sheri Biggs,37,0,0,0,15,0,22
+Greenwood,Ninety Six,U.S. House,3,REP,Sheri Biggs,23,0,2,0,3,0,18
+Greenwood,Ninety Six Mill,U.S. House,3,REP,Sheri Biggs,34,0,1,0,4,0,29
+Greenwood,Ware Shoals,U.S. House,3,REP,Sheri Biggs,30,0,0,0,5,0,25
+Greenwood,Hodges,U.S. House,3,REP,Sheri Biggs,83,0,5,0,9,0,69
+Greenwood,Cokesbury,U.S. House,3,REP,Sheri Biggs,19,0,0,0,1,0,18
+Greenwood,Coronaca,U.S. House,3,REP,Sheri Biggs,146,0,4,0,33,0,109
+Greenwood,Greenwood High,U.S. House,3,REP,Sheri Biggs,46,0,5,0,9,0,32
+Greenwood,Georgetown,U.S. House,3,REP,Sheri Biggs,40,0,1,0,14,0,25
+Greenwood,Sandridge,U.S. House,3,REP,Sheri Biggs,34,0,0,0,5,0,29
+Greenwood,Callison,U.S. House,3,REP,Sheri Biggs,41,0,2,0,2,0,37
+Greenwood,Bradley,U.S. House,3,REP,Sheri Biggs,9,0,0,0,1,0,8
+Greenwood,Troy,U.S. House,3,REP,Sheri Biggs,5,0,0,0,0,0,5
+Greenwood,Epworth,U.S. House,3,REP,Sheri Biggs,31,0,2,0,4,0,25
+Greenwood,Verdery,U.S. House,3,REP,Sheri Biggs,25,0,0,0,5,0,20
+Greenwood,New Market,U.S. House,3,REP,Sheri Biggs,27,0,2,0,7,0,18
+Greenwood,Emerald,U.S. House,3,REP,Sheri Biggs,9,0,0,0,0,0,9
+Greenwood,Airport,U.S. House,3,REP,Sheri Biggs,46,0,2,0,15,0,29
+Greenwood,Emerald High,U.S. House,3,REP,Sheri Biggs,32,0,1,0,9,0,22
+Greenwood,Civic Center,U.S. House,3,REP,Sheri Biggs,24,0,1,0,3,0,20
+Greenwood,Riley,U.S. House,3,REP,Sheri Biggs,9,0,0,0,0,0,9
+Greenwood,Shoals Junction,U.S. House,3,REP,Sheri Biggs,23,0,0,0,0,0,23
+Greenwood,Greenwood Mill,U.S. House,3,REP,Sheri Biggs,33,0,4,0,8,0,21
+Greenwood,Stonewood,U.S. House,3,REP,Sheri Biggs,88,0,4,0,16,0,68
+Greenwood,Mimosa Crest,U.S. House,3,REP,Sheri Biggs,31,0,5,0,9,0,17
+Greenwood,Lower Lake,U.S. House,3,REP,Sheri Biggs,119,0,0,0,32,0,87
+Greenwood,Pinecrest,U.S. House,3,REP,Sheri Biggs,44,0,2,0,10,0,32
+Greenwood,Maxwellton Pike,U.S. House,3,REP,Sheri Biggs,37,0,1,0,10,0,26
+Greenwood,New Castle,U.S. House,3,REP,Sheri Biggs,53,0,4,0,12,0,37
+Greenwood,Rutherford Shoals,U.S. House,3,REP,Sheri Biggs,23,0,2,0,0,0,21
+Greenwood,Liberty,U.S. House,3,REP,Sheri Biggs,8,0,0,0,1,0,7
+Greenwood,Biltmore Pines,U.S. House,3,REP,Sheri Biggs,49,0,2,0,6,0,41
+Greenwood,Marshall Oaks,U.S. House,3,REP,Sheri Biggs,4,0,0,0,1,0,3
+Greenwood,Sparrows Grace,U.S. House,3,REP,Sheri Biggs,85,0,1,0,25,0,59
+Greenwood,Mountain Laurel,U.S. House,3,REP,Sheri Biggs,12,0,0,0,3,0,9
+Greenwood,Allie's Crossing,U.S. House,3,REP,Sheri Biggs,45,0,1,0,9,0,35
+Greenwood,Gideon's Way,U.S. House,3,REP,Sheri Biggs,16,0,4,0,0,0,12
+Greenwood,Parson's Mill,U.S. House,3,REP,Sheri Biggs,27,0,1,0,8,0,18
+Greenwood,Angel Oak's Crossing,U.S. House,3,REP,Sheri Biggs,63,0,4,0,15,0,44
+Greenwood,Graham's Glen,U.S. House,3,REP,Sheri Biggs,49,0,0,0,9,0,40
+Greenwood,Failsafe,U.S. House,3,REP,Sheri Biggs,0,0,0,0,0,0,0
+Greenwood,Provisional,U.S. House,3,REP,Sheri Biggs,2,0,0,0,0,2,0
+Greenwood,Failsafe Provisional,U.S. House,3,REP,Sheri Biggs,1,0,0,1,0,0,0
+Greenwood,Loblolly Pines,U.S. House,3,REP,Kevin Bishop,2,0,0,0,0,0,2
+Greenwood,Bee's Ferry,U.S. House,3,REP,Kevin Bishop,1,0,0,0,0,0,1
+Greenwood,Levi's Knoll,U.S. House,3,REP,Kevin Bishop,29,0,0,0,4,0,25
+Greenwood,Grandiflora Glen,U.S. House,3,REP,Kevin Bishop,13,0,1,0,2,0,10
+Greenwood,Ashley River Run,U.S. House,3,REP,Kevin Bishop,1,0,1,0,0,0,0
+Greenwood,Hope's Ferry,U.S. House,3,REP,Kevin Bishop,3,0,0,0,1,0,2
+Greenwood,Fairhope Ferry,U.S. House,3,REP,Kevin Bishop,3,0,1,0,0,0,2
+Greenwood,Pebble Stone Way,U.S. House,3,REP,Kevin Bishop,17,0,2,0,2,0,13
+Greenwood,Glendale,U.S. House,3,REP,Kevin Bishop,10,0,2,0,0,0,8
+Greenwood,Harris,U.S. House,3,REP,Kevin Bishop,14,0,1,0,4,0,9
+Greenwood,Laco,U.S. House,3,REP,Kevin Bishop,15,0,2,0,3,0,10
+Greenwood,Ninety Six,U.S. House,3,REP,Kevin Bishop,9,0,1,0,1,0,7
+Greenwood,Ninety Six Mill,U.S. House,3,REP,Kevin Bishop,18,0,2,0,0,0,16
+Greenwood,Ware Shoals,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Greenwood,Hodges,U.S. House,3,REP,Kevin Bishop,17,0,1,0,0,0,16
+Greenwood,Cokesbury,U.S. House,3,REP,Kevin Bishop,5,0,0,0,1,0,4
+Greenwood,Coronaca,U.S. House,3,REP,Kevin Bishop,20,0,0,0,7,0,13
+Greenwood,Greenwood High,U.S. House,3,REP,Kevin Bishop,18,0,0,0,9,0,9
+Greenwood,Georgetown,U.S. House,3,REP,Kevin Bishop,33,0,1,0,8,0,24
+Greenwood,Sandridge,U.S. House,3,REP,Kevin Bishop,13,0,2,0,0,0,11
+Greenwood,Callison,U.S. House,3,REP,Kevin Bishop,7,0,0,0,0,0,7
+Greenwood,Bradley,U.S. House,3,REP,Kevin Bishop,2,0,0,0,0,0,2
+Greenwood,Troy,U.S. House,3,REP,Kevin Bishop,2,0,0,0,0,0,2
+Greenwood,Epworth,U.S. House,3,REP,Kevin Bishop,9,0,0,0,4,0,5
+Greenwood,Verdery,U.S. House,3,REP,Kevin Bishop,10,0,0,0,1,0,9
+Greenwood,New Market,U.S. House,3,REP,Kevin Bishop,7,0,1,0,0,0,6
+Greenwood,Emerald,U.S. House,3,REP,Kevin Bishop,4,0,0,0,0,0,4
+Greenwood,Airport,U.S. House,3,REP,Kevin Bishop,13,0,0,0,2,0,11
+Greenwood,Emerald High,U.S. House,3,REP,Kevin Bishop,15,0,3,0,3,0,9
+Greenwood,Civic Center,U.S. House,3,REP,Kevin Bishop,15,0,0,0,1,0,14
+Greenwood,Riley,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Greenwood,Shoals Junction,U.S. House,3,REP,Kevin Bishop,2,0,0,0,0,0,2
+Greenwood,Greenwood Mill,U.S. House,3,REP,Kevin Bishop,19,0,1,0,4,0,14
+Greenwood,Stonewood,U.S. House,3,REP,Kevin Bishop,20,0,0,0,6,0,14
+Greenwood,Mimosa Crest,U.S. House,3,REP,Kevin Bishop,6,0,1,0,2,0,3
+Greenwood,Lower Lake,U.S. House,3,REP,Kevin Bishop,43,0,0,0,13,0,30
+Greenwood,Pinecrest,U.S. House,3,REP,Kevin Bishop,19,0,0,0,4,0,15
+Greenwood,Maxwellton Pike,U.S. House,3,REP,Kevin Bishop,16,0,0,0,5,0,11
+Greenwood,New Castle,U.S. House,3,REP,Kevin Bishop,21,0,0,0,7,0,14
+Greenwood,Rutherford Shoals,U.S. House,3,REP,Kevin Bishop,4,0,0,0,1,0,3
+Greenwood,Liberty,U.S. House,3,REP,Kevin Bishop,14,0,2,0,5,0,7
+Greenwood,Biltmore Pines,U.S. House,3,REP,Kevin Bishop,23,0,1,0,2,0,20
+Greenwood,Marshall Oaks,U.S. House,3,REP,Kevin Bishop,3,0,0,0,2,0,1
+Greenwood,Sparrows Grace,U.S. House,3,REP,Kevin Bishop,24,0,2,0,7,0,15
+Greenwood,Mountain Laurel,U.S. House,3,REP,Kevin Bishop,4,0,1,0,1,0,2
+Greenwood,Allie's Crossing,U.S. House,3,REP,Kevin Bishop,13,0,0,0,4,0,9
+Greenwood,Gideon's Way,U.S. House,3,REP,Kevin Bishop,3,0,0,0,0,0,3
+Greenwood,Parson's Mill,U.S. House,3,REP,Kevin Bishop,15,0,0,0,3,0,12
+Greenwood,Angel Oak's Crossing,U.S. House,3,REP,Kevin Bishop,27,0,5,0,4,0,18
+Greenwood,Graham's Glen,U.S. House,3,REP,Kevin Bishop,10,0,1,0,2,0,7
+Greenwood,Failsafe,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Greenwood,Provisional,U.S. House,3,REP,Kevin Bishop,1,0,0,0,0,1,0
+Greenwood,Failsafe Provisional,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Greenwood,Loblolly Pines,U.S. House,3,REP,Mark Burns,3,0,0,0,0,0,3
+Greenwood,Bee's Ferry,U.S. House,3,REP,Mark Burns,0,0,0,0,0,0,0
+Greenwood,Levi's Knoll,U.S. House,3,REP,Mark Burns,21,0,1,0,11,0,9
+Greenwood,Grandiflora Glen,U.S. House,3,REP,Mark Burns,24,0,0,0,9,0,15
+Greenwood,Ashley River Run,U.S. House,3,REP,Mark Burns,5,0,0,0,0,0,5
+Greenwood,Hope's Ferry,U.S. House,3,REP,Mark Burns,17,0,1,0,3,0,13
+Greenwood,Fairhope Ferry,U.S. House,3,REP,Mark Burns,14,0,3,0,1,0,10
+Greenwood,Pebble Stone Way,U.S. House,3,REP,Mark Burns,40,0,1,0,2,0,37
+Greenwood,Glendale,U.S. House,3,REP,Mark Burns,45,0,1,0,12,0,32
+Greenwood,Harris,U.S. House,3,REP,Mark Burns,31,0,0,0,13,0,18
+Greenwood,Laco,U.S. House,3,REP,Mark Burns,51,0,0,0,11,0,40
+Greenwood,Ninety Six,U.S. House,3,REP,Mark Burns,30,0,0,0,1,0,29
+Greenwood,Ninety Six Mill,U.S. House,3,REP,Mark Burns,50,0,2,0,3,0,45
+Greenwood,Ware Shoals,U.S. House,3,REP,Mark Burns,5,0,1,0,0,0,4
+Greenwood,Hodges,U.S. House,3,REP,Mark Burns,62,0,3,0,2,0,57
+Greenwood,Cokesbury,U.S. House,3,REP,Mark Burns,27,0,1,0,3,0,23
+Greenwood,Coronaca,U.S. House,3,REP,Mark Burns,63,0,0,0,7,0,56
+Greenwood,Greenwood High,U.S. House,3,REP,Mark Burns,35,0,0,0,7,0,28
+Greenwood,Georgetown,U.S. House,3,REP,Mark Burns,34,0,0,0,11,0,23
+Greenwood,Sandridge,U.S. House,3,REP,Mark Burns,30,0,1,0,2,0,27
+Greenwood,Callison,U.S. House,3,REP,Mark Burns,67,0,2,0,8,0,57
+Greenwood,Bradley,U.S. House,3,REP,Mark Burns,14,0,0,0,2,0,12
+Greenwood,Troy,U.S. House,3,REP,Mark Burns,17,0,0,0,0,0,17
+Greenwood,Epworth,U.S. House,3,REP,Mark Burns,34,0,0,0,2,0,32
+Greenwood,Verdery,U.S. House,3,REP,Mark Burns,34,0,0,0,11,0,23
+Greenwood,New Market,U.S. House,3,REP,Mark Burns,34,0,1,0,3,0,30
+Greenwood,Emerald,U.S. House,3,REP,Mark Burns,11,0,0,0,2,0,9
+Greenwood,Airport,U.S. House,3,REP,Mark Burns,39,0,3,0,10,0,26
+Greenwood,Emerald High,U.S. House,3,REP,Mark Burns,23,0,2,0,8,0,13
+Greenwood,Civic Center,U.S. House,3,REP,Mark Burns,28,0,0,0,2,0,26
+Greenwood,Riley,U.S. House,3,REP,Mark Burns,12,0,0,0,0,0,12
+Greenwood,Shoals Junction,U.S. House,3,REP,Mark Burns,20,0,0,0,0,0,20
+Greenwood,Greenwood Mill,U.S. House,3,REP,Mark Burns,28,0,0,0,8,0,20
+Greenwood,Stonewood,U.S. House,3,REP,Mark Burns,55,0,0,0,8,0,47
+Greenwood,Mimosa Crest,U.S. House,3,REP,Mark Burns,30,0,2,0,8,0,20
+Greenwood,Lower Lake,U.S. House,3,REP,Mark Burns,70,0,5,0,9,0,56
+Greenwood,Pinecrest,U.S. House,3,REP,Mark Burns,38,0,0,0,6,0,32
+Greenwood,Maxwellton Pike,U.S. House,3,REP,Mark Burns,36,0,1,0,10,0,25
+Greenwood,New Castle,U.S. House,3,REP,Mark Burns,47,0,0,0,13,0,34
+Greenwood,Rutherford Shoals,U.S. House,3,REP,Mark Burns,15,0,0,0,0,0,15
+Greenwood,Liberty,U.S. House,3,REP,Mark Burns,21,0,0,0,3,0,18
+Greenwood,Biltmore Pines,U.S. House,3,REP,Mark Burns,40,0,0,0,8,0,32
+Greenwood,Marshall Oaks,U.S. House,3,REP,Mark Burns,8,0,0,0,2,0,6
+Greenwood,Sparrows Grace,U.S. House,3,REP,Mark Burns,86,0,2,0,25,0,59
+Greenwood,Mountain Laurel,U.S. House,3,REP,Mark Burns,26,0,0,0,6,0,20
+Greenwood,Allie's Crossing,U.S. House,3,REP,Mark Burns,46,0,0,0,5,0,41
+Greenwood,Gideon's Way,U.S. House,3,REP,Mark Burns,18,0,1,0,3,0,14
+Greenwood,Parson's Mill,U.S. House,3,REP,Mark Burns,24,0,1,0,5,0,18
+Greenwood,Angel Oak's Crossing,U.S. House,3,REP,Mark Burns,65,0,3,0,19,0,43
+Greenwood,Graham's Glen,U.S. House,3,REP,Mark Burns,21,0,0,0,4,0,17
+Greenwood,Failsafe,U.S. House,3,REP,Mark Burns,0,0,0,0,0,0,0
+Greenwood,Provisional,U.S. House,3,REP,Mark Burns,2,0,0,0,0,2,0
+Greenwood,Failsafe Provisional,U.S. House,3,REP,Mark Burns,2,0,0,2,0,0,0
+Greenwood,Loblolly Pines,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Greenwood,Bee's Ferry,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Greenwood,Levi's Knoll,U.S. House,3,REP,Franky Franco,11,0,0,0,3,0,8
+Greenwood,Grandiflora Glen,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Greenwood,Ashley River Run,U.S. House,3,REP,Franky Franco,1,0,0,0,1,0,0
+Greenwood,Hope's Ferry,U.S. House,3,REP,Franky Franco,1,0,0,0,1,0,0
+Greenwood,Fairhope Ferry,U.S. House,3,REP,Franky Franco,6,0,0,0,2,0,4
+Greenwood,Pebble Stone Way,U.S. House,3,REP,Franky Franco,5,0,2,0,0,0,3
+Greenwood,Glendale,U.S. House,3,REP,Franky Franco,11,0,3,0,2,0,6
+Greenwood,Harris,U.S. House,3,REP,Franky Franco,12,0,0,0,3,0,9
+Greenwood,Laco,U.S. House,3,REP,Franky Franco,5,0,0,0,1,0,4
+Greenwood,Ninety Six,U.S. House,3,REP,Franky Franco,2,0,0,0,0,0,2
+Greenwood,Ninety Six Mill,U.S. House,3,REP,Franky Franco,3,0,0,0,1,0,2
+Greenwood,Ware Shoals,U.S. House,3,REP,Franky Franco,3,0,1,0,0,0,2
+Greenwood,Hodges,U.S. House,3,REP,Franky Franco,7,0,2,0,0,0,5
+Greenwood,Cokesbury,U.S. House,3,REP,Franky Franco,3,0,0,0,1,0,2
+Greenwood,Coronaca,U.S. House,3,REP,Franky Franco,23,0,0,0,6,0,17
+Greenwood,Greenwood High,U.S. House,3,REP,Franky Franco,7,0,0,0,5,0,2
+Greenwood,Georgetown,U.S. House,3,REP,Franky Franco,9,0,0,0,0,0,9
+Greenwood,Sandridge,U.S. House,3,REP,Franky Franco,3,0,0,0,1,0,2
+Greenwood,Callison,U.S. House,3,REP,Franky Franco,2,0,0,0,0,0,2
+Greenwood,Bradley,U.S. House,3,REP,Franky Franco,5,0,0,0,0,0,5
+Greenwood,Troy,U.S. House,3,REP,Franky Franco,1,0,0,0,0,0,1
+Greenwood,Epworth,U.S. House,3,REP,Franky Franco,8,0,0,0,0,0,8
+Greenwood,Verdery,U.S. House,3,REP,Franky Franco,5,0,0,0,2,0,3
+Greenwood,New Market,U.S. House,3,REP,Franky Franco,5,0,0,0,0,0,5
+Greenwood,Emerald,U.S. House,3,REP,Franky Franco,2,0,0,0,0,0,2
+Greenwood,Airport,U.S. House,3,REP,Franky Franco,41,0,0,0,7,0,34
+Greenwood,Emerald High,U.S. House,3,REP,Franky Franco,11,0,0,0,3,0,8
+Greenwood,Civic Center,U.S. House,3,REP,Franky Franco,3,0,0,0,0,0,3
+Greenwood,Riley,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Greenwood,Shoals Junction,U.S. House,3,REP,Franky Franco,2,0,0,0,0,0,2
+Greenwood,Greenwood Mill,U.S. House,3,REP,Franky Franco,18,0,0,0,6,0,12
+Greenwood,Stonewood,U.S. House,3,REP,Franky Franco,6,0,0,0,0,0,6
+Greenwood,Mimosa Crest,U.S. House,3,REP,Franky Franco,4,0,0,0,0,0,4
+Greenwood,Lower Lake,U.S. House,3,REP,Franky Franco,16,0,0,0,3,0,13
+Greenwood,Pinecrest,U.S. House,3,REP,Franky Franco,10,0,0,0,1,0,9
+Greenwood,Maxwellton Pike,U.S. House,3,REP,Franky Franco,12,0,0,0,2,0,10
+Greenwood,New Castle,U.S. House,3,REP,Franky Franco,22,0,0,0,3,0,19
+Greenwood,Rutherford Shoals,U.S. House,3,REP,Franky Franco,10,0,0,0,0,0,10
+Greenwood,Liberty,U.S. House,3,REP,Franky Franco,3,0,0,0,1,0,2
+Greenwood,Biltmore Pines,U.S. House,3,REP,Franky Franco,11,0,1,0,2,0,8
+Greenwood,Marshall Oaks,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Greenwood,Sparrows Grace,U.S. House,3,REP,Franky Franco,35,0,0,0,10,0,25
+Greenwood,Mountain Laurel,U.S. House,3,REP,Franky Franco,2,0,0,0,2,0,0
+Greenwood,Allie's Crossing,U.S. House,3,REP,Franky Franco,4,0,0,0,1,0,3
+Greenwood,Gideon's Way,U.S. House,3,REP,Franky Franco,1,0,0,0,0,0,1
+Greenwood,Parson's Mill,U.S. House,3,REP,Franky Franco,6,0,0,0,4,0,2
+Greenwood,Angel Oak's Crossing,U.S. House,3,REP,Franky Franco,40,0,0,0,14,0,26
+Greenwood,Graham's Glen,U.S. House,3,REP,Franky Franco,9,0,0,0,0,0,9
+Greenwood,Failsafe,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Greenwood,Provisional,U.S. House,3,REP,Franky Franco,2,0,0,0,0,2,0
+Greenwood,Failsafe Provisional,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Greenwood,Loblolly Pines,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Bee's Ferry,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Levi's Knoll,U.S. House,3,REP,Phil Healy,4,0,0,0,0,0,4
+Greenwood,Grandiflora Glen,U.S. House,3,REP,Phil Healy,2,0,0,0,0,0,2
+Greenwood,Ashley River Run,U.S. House,3,REP,Phil Healy,1,0,0,0,1,0,0
+Greenwood,Hope's Ferry,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Fairhope Ferry,U.S. House,3,REP,Phil Healy,2,0,1,0,0,0,1
+Greenwood,Pebble Stone Way,U.S. House,3,REP,Phil Healy,5,0,2,0,0,0,3
+Greenwood,Glendale,U.S. House,3,REP,Phil Healy,2,0,0,0,0,0,2
+Greenwood,Harris,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Greenwood,Laco,U.S. House,3,REP,Phil Healy,3,0,0,0,1,0,2
+Greenwood,Ninety Six,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Ninety Six Mill,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Greenwood,Ware Shoals,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Greenwood,Hodges,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Greenwood,Cokesbury,U.S. House,3,REP,Phil Healy,1,0,1,0,0,0,0
+Greenwood,Coronaca,U.S. House,3,REP,Phil Healy,5,0,2,0,1,0,2
+Greenwood,Greenwood High,U.S. House,3,REP,Phil Healy,4,0,0,0,2,0,2
+Greenwood,Georgetown,U.S. House,3,REP,Phil Healy,2,0,0,0,1,0,1
+Greenwood,Sandridge,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Callison,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Greenwood,Bradley,U.S. House,3,REP,Phil Healy,2,0,0,0,0,0,2
+Greenwood,Troy,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Epworth,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Verdery,U.S. House,3,REP,Phil Healy,3,0,0,0,0,0,3
+Greenwood,New Market,U.S. House,3,REP,Phil Healy,3,0,0,0,0,0,3
+Greenwood,Emerald,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Airport,U.S. House,3,REP,Phil Healy,6,0,0,0,1,0,5
+Greenwood,Emerald High,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Greenwood,Civic Center,U.S. House,3,REP,Phil Healy,2,0,2,0,0,0,0
+Greenwood,Riley,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Shoals Junction,U.S. House,3,REP,Phil Healy,2,0,0,0,0,0,2
+Greenwood,Greenwood Mill,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Stonewood,U.S. House,3,REP,Phil Healy,2,0,0,0,0,0,2
+Greenwood,Mimosa Crest,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Lower Lake,U.S. House,3,REP,Phil Healy,3,0,0,0,1,0,2
+Greenwood,Pinecrest,U.S. House,3,REP,Phil Healy,2,0,0,0,0,0,2
+Greenwood,Maxwellton Pike,U.S. House,3,REP,Phil Healy,2,0,0,0,0,0,2
+Greenwood,New Castle,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Greenwood,Rutherford Shoals,U.S. House,3,REP,Phil Healy,2,0,0,0,1,0,1
+Greenwood,Liberty,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Biltmore Pines,U.S. House,3,REP,Phil Healy,3,0,0,0,1,0,2
+Greenwood,Marshall Oaks,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Sparrows Grace,U.S. House,3,REP,Phil Healy,5,0,0,0,1,0,4
+Greenwood,Mountain Laurel,U.S. House,3,REP,Phil Healy,1,0,0,0,1,0,0
+Greenwood,Allie's Crossing,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Greenwood,Gideon's Way,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Parson's Mill,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Angel Oak's Crossing,U.S. House,3,REP,Phil Healy,5,0,0,0,1,0,4
+Greenwood,Graham's Glen,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Greenwood,Failsafe,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Provisional,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Failsafe Provisional,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Greenwood,Loblolly Pines,U.S. House,3,REP,Stewart O Jones,5,0,0,0,0,0,5
+Greenwood,Bee's Ferry,U.S. House,3,REP,Stewart O Jones,0,0,0,0,0,0,0
+Greenwood,Levi's Knoll,U.S. House,3,REP,Stewart O Jones,24,0,0,0,7,0,17
+Greenwood,Grandiflora Glen,U.S. House,3,REP,Stewart O Jones,15,0,2,0,5,0,8
+Greenwood,Ashley River Run,U.S. House,3,REP,Stewart O Jones,2,0,0,0,0,0,2
+Greenwood,Hope's Ferry,U.S. House,3,REP,Stewart O Jones,2,0,0,0,0,0,2
+Greenwood,Fairhope Ferry,U.S. House,3,REP,Stewart O Jones,9,0,1,0,2,0,6
+Greenwood,Pebble Stone Way,U.S. House,3,REP,Stewart O Jones,29,0,2,0,3,0,24
+Greenwood,Glendale,U.S. House,3,REP,Stewart O Jones,29,0,2,0,5,0,22
+Greenwood,Harris,U.S. House,3,REP,Stewart O Jones,14,0,0,0,4,0,10
+Greenwood,Laco,U.S. House,3,REP,Stewart O Jones,25,0,0,0,7,0,18
+Greenwood,Ninety Six,U.S. House,3,REP,Stewart O Jones,15,0,0,0,4,0,11
+Greenwood,Ninety Six Mill,U.S. House,3,REP,Stewart O Jones,10,0,0,0,2,0,8
+Greenwood,Ware Shoals,U.S. House,3,REP,Stewart O Jones,3,0,0,0,0,0,3
+Greenwood,Hodges,U.S. House,3,REP,Stewart O Jones,52,0,3,0,7,0,42
+Greenwood,Cokesbury,U.S. House,3,REP,Stewart O Jones,8,0,0,0,0,0,8
+Greenwood,Coronaca,U.S. House,3,REP,Stewart O Jones,52,0,0,0,14,0,38
+Greenwood,Greenwood High,U.S. House,3,REP,Stewart O Jones,40,0,9,0,6,0,25
+Greenwood,Georgetown,U.S. House,3,REP,Stewart O Jones,37,0,3,0,11,0,23
+Greenwood,Sandridge,U.S. House,3,REP,Stewart O Jones,13,0,0,0,0,0,13
+Greenwood,Callison,U.S. House,3,REP,Stewart O Jones,23,0,0,0,5,0,18
+Greenwood,Bradley,U.S. House,3,REP,Stewart O Jones,3,0,0,0,0,0,3
+Greenwood,Troy,U.S. House,3,REP,Stewart O Jones,3,0,0,0,0,0,3
+Greenwood,Epworth,U.S. House,3,REP,Stewart O Jones,19,0,2,0,2,0,15
+Greenwood,Verdery,U.S. House,3,REP,Stewart O Jones,20,0,2,0,4,0,14
+Greenwood,New Market,U.S. House,3,REP,Stewart O Jones,19,0,1,0,0,0,18
+Greenwood,Emerald,U.S. House,3,REP,Stewart O Jones,5,0,0,0,0,0,5
+Greenwood,Airport,U.S. House,3,REP,Stewart O Jones,43,0,2,0,8,0,33
+Greenwood,Emerald High,U.S. House,3,REP,Stewart O Jones,19,0,0,0,6,0,13
+Greenwood,Civic Center,U.S. House,3,REP,Stewart O Jones,14,0,1,0,1,0,12
+Greenwood,Riley,U.S. House,3,REP,Stewart O Jones,11,0,0,0,0,0,11
+Greenwood,Shoals Junction,U.S. House,3,REP,Stewart O Jones,9,0,0,0,0,0,9
+Greenwood,Greenwood Mill,U.S. House,3,REP,Stewart O Jones,22,0,2,0,6,0,14
+Greenwood,Stonewood,U.S. House,3,REP,Stewart O Jones,42,0,0,0,3,0,39
+Greenwood,Mimosa Crest,U.S. House,3,REP,Stewart O Jones,30,0,2,0,9,0,19
+Greenwood,Lower Lake,U.S. House,3,REP,Stewart O Jones,54,0,2,0,13,0,39
+Greenwood,Pinecrest,U.S. House,3,REP,Stewart O Jones,19,0,0,0,3,0,16
+Greenwood,Maxwellton Pike,U.S. House,3,REP,Stewart O Jones,38,0,4,0,7,0,27
+Greenwood,New Castle,U.S. House,3,REP,Stewart O Jones,26,0,7,0,0,0,19
+Greenwood,Rutherford Shoals,U.S. House,3,REP,Stewart O Jones,28,0,0,0,2,0,26
+Greenwood,Liberty,U.S. House,3,REP,Stewart O Jones,15,0,0,0,6,0,9
+Greenwood,Biltmore Pines,U.S. House,3,REP,Stewart O Jones,23,0,0,0,2,0,21
+Greenwood,Marshall Oaks,U.S. House,3,REP,Stewart O Jones,4,0,1,0,1,0,2
+Greenwood,Sparrows Grace,U.S. House,3,REP,Stewart O Jones,71,0,3,0,17,0,51
+Greenwood,Mountain Laurel,U.S. House,3,REP,Stewart O Jones,6,0,0,0,3,0,3
+Greenwood,Allie's Crossing,U.S. House,3,REP,Stewart O Jones,24,0,0,0,6,0,18
+Greenwood,Gideon's Way,U.S. House,3,REP,Stewart O Jones,5,0,0,0,0,0,5
+Greenwood,Parson's Mill,U.S. House,3,REP,Stewart O Jones,15,0,3,0,2,0,10
+Greenwood,Angel Oak's Crossing,U.S. House,3,REP,Stewart O Jones,38,0,2,0,8,0,28
+Greenwood,Graham's Glen,U.S. House,3,REP,Stewart O Jones,35,0,0,0,3,0,32
+Greenwood,Failsafe,U.S. House,3,REP,Stewart O Jones,0,0,0,0,0,0,0
+Greenwood,Provisional,U.S. House,3,REP,Stewart O Jones,1,0,0,0,0,1,0
+Greenwood,Failsafe Provisional,U.S. House,3,REP,Stewart O Jones,4,0,0,4,0,0,0
+Greenwood,Loblolly Pines,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Bee's Ferry,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Levi's Knoll,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,1,0,0
+Greenwood,Grandiflora Glen,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Ashley River Run,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Hope's Ferry,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Greenwood,Fairhope Ferry,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Pebble Stone Way,U.S. House,3,REP,Elspeth Snow Murday,2,0,1,0,0,0,1
+Greenwood,Glendale,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Harris,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Greenwood,Laco,U.S. House,3,REP,Elspeth Snow Murday,3,0,0,0,0,0,3
+Greenwood,Ninety Six,U.S. House,3,REP,Elspeth Snow Murday,3,0,0,0,2,0,1
+Greenwood,Ninety Six Mill,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,2,0,0
+Greenwood,Ware Shoals,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Hodges,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Cokesbury,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Greenwood,Coronaca,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,0,0,2
+Greenwood,Greenwood High,U.S. House,3,REP,Elspeth Snow Murday,5,0,0,0,0,0,5
+Greenwood,Georgetown,U.S. House,3,REP,Elspeth Snow Murday,4,0,2,0,1,0,1
+Greenwood,Sandridge,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Callison,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,0,0,2
+Greenwood,Bradley,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Troy,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Epworth,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Verdery,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,New Market,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Greenwood,Emerald,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Airport,U.S. House,3,REP,Elspeth Snow Murday,5,0,2,0,0,0,3
+Greenwood,Emerald High,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Civic Center,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Greenwood,Riley,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Shoals Junction,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Greenwood Mill,U.S. House,3,REP,Elspeth Snow Murday,4,0,0,0,0,0,4
+Greenwood,Stonewood,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Greenwood,Mimosa Crest,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Greenwood,Lower Lake,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,2,0,0
+Greenwood,Pinecrest,U.S. House,3,REP,Elspeth Snow Murday,5,0,0,0,1,0,4
+Greenwood,Maxwellton Pike,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,New Castle,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Rutherford Shoals,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Greenwood,Liberty,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Biltmore Pines,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,0,0,2
+Greenwood,Marshall Oaks,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Sparrows Grace,U.S. House,3,REP,Elspeth Snow Murday,4,0,0,0,1,0,3
+Greenwood,Mountain Laurel,U.S. House,3,REP,Elspeth Snow Murday,2,0,2,0,0,0,0
+Greenwood,Allie's Crossing,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Gideon's Way,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Parson's Mill,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Greenwood,Angel Oak's Crossing,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Graham's Glen,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,0,0,2
+Greenwood,Failsafe,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Provisional,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Failsafe Provisional,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Greenwood,Loblolly Pines,State Senate,10,DEM,Brandon L Best,16,0,1,0,5,0,10
+Greenwood,Bee's Ferry,State Senate,10,DEM,Brandon L Best,73,0,1,0,20,0,52
+Greenwood,Levi's Knoll,State Senate,10,DEM,Brandon L Best,20,0,0,0,5,0,15
+Greenwood,Grandiflora Glen,State Senate,10,DEM,Brandon L Best,43,0,0,0,12,0,31
+Greenwood,Ashley River Run,State Senate,10,DEM,Brandon L Best,24,0,2,0,5,0,17
+Greenwood,Hope's Ferry,State Senate,10,DEM,Brandon L Best,7,0,1,0,4,0,2
+Greenwood,Fairhope Ferry,State Senate,10,DEM,Brandon L Best,29,0,2,0,8,0,19
+Greenwood,Pebble Stone Way,State Senate,10,DEM,Brandon L Best,15,0,1,0,4,0,10
+Greenwood,Glendale,State Senate,10,DEM,Brandon L Best,4,0,0,0,0,0,4
+Greenwood,Harris,State Senate,10,DEM,Brandon L Best,16,0,0,0,2,0,14
+Greenwood,Laco,State Senate,10,DEM,Brandon L Best,29,0,1,0,6,0,22
+Greenwood,Ninety Six,State Senate,10,DEM,Brandon L Best,33,0,7,0,6,0,20
+Greenwood,Ninety Six Mill,State Senate,10,DEM,Brandon L Best,3,0,2,0,0,0,1
+Greenwood,Ware Shoals,State Senate,10,DEM,Brandon L Best,4,0,0,0,0,0,4
+Greenwood,Hodges,State Senate,10,DEM,Brandon L Best,17,0,1,0,9,0,7
+Greenwood,Cokesbury,State Senate,10,DEM,Brandon L Best,50,0,3,0,12,0,35
+Greenwood,Coronaca,State Senate,10,DEM,Brandon L Best,13,0,0,0,5,0,8
+Greenwood,Greenwood High,State Senate,10,DEM,Brandon L Best,22,0,1,0,9,0,12
+Greenwood,Georgetown,State Senate,10,DEM,Brandon L Best,23,0,0,0,4,0,19
+Greenwood,Sandridge,State Senate,10,DEM,Brandon L Best,7,0,0,0,3,0,4
+Greenwood,Callison,State Senate,10,DEM,Brandon L Best,15,0,2,0,5,0,8
+Greenwood,Bradley,State Senate,10,DEM,Brandon L Best,9,0,0,0,2,0,7
+Greenwood,Troy,State Senate,10,DEM,Brandon L Best,2,0,1,0,0,0,1
+Greenwood,Epworth,State Senate,10,DEM,Brandon L Best,6,0,0,0,4,0,2
+Greenwood,Verdery,State Senate,10,DEM,Brandon L Best,43,0,4,0,7,0,32
+Greenwood,New Market,State Senate,10,DEM,Brandon L Best,22,0,0,0,8,0,14
+Greenwood,Emerald,State Senate,10,DEM,Brandon L Best,36,0,1,0,13,0,22
+Greenwood,Airport,State Senate,10,DEM,Brandon L Best,12,0,0,0,2,0,10
+Greenwood,Emerald High,State Senate,10,DEM,Brandon L Best,5,0,0,0,0,0,5
+Greenwood,Civic Center,State Senate,10,DEM,Brandon L Best,31,0,1,0,8,0,22
+Greenwood,Riley,State Senate,10,DEM,Brandon L Best,2,0,0,0,1,0,1
+Greenwood,Shoals Junction,State Senate,10,DEM,Brandon L Best,5,0,0,0,0,0,5
+Greenwood,Greenwood Mill,State Senate,10,DEM,Brandon L Best,1,0,0,0,1,0,0
+Greenwood,Stonewood,State Senate,10,DEM,Brandon L Best,8,0,2,0,1,0,5
+Greenwood,Mimosa Crest,State Senate,10,DEM,Brandon L Best,28,0,1,0,7,0,20
+Greenwood,Lower Lake,State Senate,10,DEM,Brandon L Best,7,0,0,0,4,0,3
+Greenwood,Pinecrest,State Senate,10,DEM,Brandon L Best,19,0,0,0,5,0,14
+Greenwood,Maxwellton Pike,State Senate,10,DEM,Brandon L Best,5,0,0,0,1,0,4
+Greenwood,New Castle,State Senate,10,DEM,Brandon L Best,24,0,1,0,7,0,16
+Greenwood,Rutherford Shoals,State Senate,10,DEM,Brandon L Best,3,0,0,0,0,0,3
+Greenwood,Liberty,State Senate,10,DEM,Brandon L Best,20,0,0,0,3,0,17
+Greenwood,Biltmore Pines,State Senate,10,DEM,Brandon L Best,18,0,0,0,10,0,8
+Greenwood,Marshall Oaks,State Senate,10,DEM,Brandon L Best,8,0,0,0,1,0,7
+Greenwood,Sparrows Grace,State Senate,10,DEM,Brandon L Best,16,0,0,0,3,0,13
+Greenwood,Mountain Laurel,State Senate,10,DEM,Brandon L Best,15,0,2,0,4,0,9
+Greenwood,Allie's Crossing,State Senate,10,DEM,Brandon L Best,13,0,1,0,4,0,8
+Greenwood,Gideon's Way,State Senate,10,DEM,Brandon L Best,40,0,0,0,11,0,29
+Greenwood,Parson's Mill,State Senate,10,DEM,Brandon L Best,7,0,0,0,1,0,6
+Greenwood,Angel Oak's Crossing,State Senate,10,DEM,Brandon L Best,15,0,0,0,6,0,9
+Greenwood,Graham's Glen,State Senate,10,DEM,Brandon L Best,8,0,0,0,0,0,8
+Greenwood,Failsafe,State Senate,10,DEM,Brandon L Best,0,0,0,0,0,0,0
+Greenwood,Provisional,State Senate,10,DEM,Brandon L Best,1,0,0,0,0,1,0
+Greenwood,Failsafe Provisional,State Senate,10,DEM,Brandon L Best,3,0,0,3,0,0,0
+Greenwood,Loblolly Pines,State Senate,10,DEM,Francie Kleckley,10,0,0,0,1,0,9
+Greenwood,Bee's Ferry,State Senate,10,DEM,Francie Kleckley,21,0,1,0,1,0,19
+Greenwood,Levi's Knoll,State Senate,10,DEM,Francie Kleckley,22,0,0,0,9,0,13
+Greenwood,Grandiflora Glen,State Senate,10,DEM,Francie Kleckley,20,0,1,0,6,0,13
+Greenwood,Ashley River Run,State Senate,10,DEM,Francie Kleckley,8,0,0,0,0,0,8
+Greenwood,Hope's Ferry,State Senate,10,DEM,Francie Kleckley,4,0,0,0,1,0,3
+Greenwood,Fairhope Ferry,State Senate,10,DEM,Francie Kleckley,21,0,5,0,4,0,12
+Greenwood,Pebble Stone Way,State Senate,10,DEM,Francie Kleckley,28,0,3,0,5,0,20
+Greenwood,Glendale,State Senate,10,DEM,Francie Kleckley,14,0,0,0,2,0,12
+Greenwood,Harris,State Senate,10,DEM,Francie Kleckley,17,0,1,0,5,0,11
+Greenwood,Laco,State Senate,10,DEM,Francie Kleckley,24,0,2,0,7,0,15
+Greenwood,Ninety Six,State Senate,10,DEM,Francie Kleckley,12,0,0,0,4,0,8
+Greenwood,Ninety Six Mill,State Senate,10,DEM,Francie Kleckley,1,0,0,0,0,0,1
+Greenwood,Ware Shoals,State Senate,10,DEM,Francie Kleckley,4,0,0,0,0,0,4
+Greenwood,Hodges,State Senate,10,DEM,Francie Kleckley,10,0,0,0,1,0,9
+Greenwood,Cokesbury,State Senate,10,DEM,Francie Kleckley,11,0,0,0,5,0,6
+Greenwood,Coronaca,State Senate,10,DEM,Francie Kleckley,19,0,2,0,2,0,15
+Greenwood,Greenwood High,State Senate,10,DEM,Francie Kleckley,9,0,0,0,1,0,8
+Greenwood,Georgetown,State Senate,10,DEM,Francie Kleckley,5,0,0,0,2,0,3
+Greenwood,Sandridge,State Senate,10,DEM,Francie Kleckley,5,0,0,0,1,0,4
+Greenwood,Callison,State Senate,10,DEM,Francie Kleckley,7,0,0,0,2,0,5
+Greenwood,Bradley,State Senate,10,DEM,Francie Kleckley,5,0,0,0,0,0,5
+Greenwood,Troy,State Senate,10,DEM,Francie Kleckley,2,0,0,0,0,0,2
+Greenwood,Epworth,State Senate,10,DEM,Francie Kleckley,2,0,0,0,0,0,2
+Greenwood,Verdery,State Senate,10,DEM,Francie Kleckley,26,0,4,0,5,0,17
+Greenwood,New Market,State Senate,10,DEM,Francie Kleckley,10,0,1,0,2,0,7
+Greenwood,Emerald,State Senate,10,DEM,Francie Kleckley,16,0,2,0,3,0,11
+Greenwood,Airport,State Senate,10,DEM,Francie Kleckley,28,0,0,0,9,0,19
+Greenwood,Emerald High,State Senate,10,DEM,Francie Kleckley,9,0,1,0,2,0,6
+Greenwood,Civic Center,State Senate,10,DEM,Francie Kleckley,17,0,0,0,4,0,13
+Greenwood,Riley,State Senate,10,DEM,Francie Kleckley,2,0,0,0,1,0,1
+Greenwood,Shoals Junction,State Senate,10,DEM,Francie Kleckley,0,0,0,0,0,0,0
+Greenwood,Greenwood Mill,State Senate,10,DEM,Francie Kleckley,6,0,0,0,1,0,5
+Greenwood,Stonewood,State Senate,10,DEM,Francie Kleckley,13,0,0,0,5,0,8
+Greenwood,Mimosa Crest,State Senate,10,DEM,Francie Kleckley,19,0,2,0,7,0,10
+Greenwood,Lower Lake,State Senate,10,DEM,Francie Kleckley,16,0,1,0,4,0,11
+Greenwood,Pinecrest,State Senate,10,DEM,Francie Kleckley,15,0,4,0,1,0,10
+Greenwood,Maxwellton Pike,State Senate,10,DEM,Francie Kleckley,4,0,0,0,0,0,4
+Greenwood,New Castle,State Senate,10,DEM,Francie Kleckley,7,0,0,0,2,0,5
+Greenwood,Rutherford Shoals,State Senate,10,DEM,Francie Kleckley,9,0,0,0,0,0,9
+Greenwood,Liberty,State Senate,10,DEM,Francie Kleckley,11,0,2,0,2,0,7
+Greenwood,Biltmore Pines,State Senate,10,DEM,Francie Kleckley,18,0,2,0,4,0,12
+Greenwood,Marshall Oaks,State Senate,10,DEM,Francie Kleckley,4,0,0,0,0,0,4
+Greenwood,Sparrows Grace,State Senate,10,DEM,Francie Kleckley,6,0,0,0,0,0,6
+Greenwood,Mountain Laurel,State Senate,10,DEM,Francie Kleckley,14,0,0,0,2,0,12
+Greenwood,Allie's Crossing,State Senate,10,DEM,Francie Kleckley,8,0,0,0,3,0,5
+Greenwood,Gideon's Way,State Senate,10,DEM,Francie Kleckley,10,0,2,0,4,0,4
+Greenwood,Parson's Mill,State Senate,10,DEM,Francie Kleckley,8,0,0,0,8,0,0
+Greenwood,Angel Oak's Crossing,State Senate,10,DEM,Francie Kleckley,28,0,1,0,11,0,16
+Greenwood,Graham's Glen,State Senate,10,DEM,Francie Kleckley,8,0,2,0,0,0,6
+Greenwood,Failsafe,State Senate,10,DEM,Francie Kleckley,0,0,0,0,0,0,0
+Greenwood,Provisional,State Senate,10,DEM,Francie Kleckley,4,0,0,0,0,4,0
+Greenwood,Failsafe Provisional,State Senate,10,DEM,Francie Kleckley,1,0,0,1,0,0,0
+Greenwood,Loblolly Pines,State Senate,10,REP,Taylor Bell,4,0,0,0,0,0,4
+Greenwood,Bee's Ferry,State Senate,10,REP,Taylor Bell,0,0,0,0,0,0,0
+Greenwood,Levi's Knoll,State Senate,10,REP,Taylor Bell,8,0,0,0,2,0,6
+Greenwood,Grandiflora Glen,State Senate,10,REP,Taylor Bell,10,0,3,0,1,0,6
+Greenwood,Ashley River Run,State Senate,10,REP,Taylor Bell,1,0,0,0,0,0,1
+Greenwood,Hope's Ferry,State Senate,10,REP,Taylor Bell,3,0,0,0,1,0,2
+Greenwood,Fairhope Ferry,State Senate,10,REP,Taylor Bell,9,0,1,0,4,0,4
+Greenwood,Pebble Stone Way,State Senate,10,REP,Taylor Bell,13,0,1,0,1,0,11
+Greenwood,Glendale,State Senate,10,REP,Taylor Bell,9,0,1,0,2,0,6
+Greenwood,Harris,State Senate,10,REP,Taylor Bell,13,0,0,0,2,0,11
+Greenwood,Laco,State Senate,10,REP,Taylor Bell,8,0,0,0,2,0,6
+Greenwood,Ninety Six,State Senate,10,REP,Taylor Bell,9,0,1,0,0,0,8
+Greenwood,Ninety Six Mill,State Senate,10,REP,Taylor Bell,10,0,0,0,2,0,8
+Greenwood,Ware Shoals,State Senate,10,REP,Taylor Bell,1,0,0,0,0,0,1
+Greenwood,Hodges,State Senate,10,REP,Taylor Bell,15,0,0,0,2,0,13
+Greenwood,Cokesbury,State Senate,10,REP,Taylor Bell,4,0,0,0,0,0,4
+Greenwood,Coronaca,State Senate,10,REP,Taylor Bell,19,0,0,0,4,0,15
+Greenwood,Greenwood High,State Senate,10,REP,Taylor Bell,6,0,1,0,0,0,5
+Greenwood,Georgetown,State Senate,10,REP,Taylor Bell,4,0,0,0,1,0,3
+Greenwood,Sandridge,State Senate,10,REP,Taylor Bell,7,0,0,0,0,0,7
+Greenwood,Callison,State Senate,10,REP,Taylor Bell,15,0,0,0,1,0,14
+Greenwood,Bradley,State Senate,10,REP,Taylor Bell,2,0,0,0,0,0,2
+Greenwood,Troy,State Senate,10,REP,Taylor Bell,1,0,0,0,0,0,1
+Greenwood,Epworth,State Senate,10,REP,Taylor Bell,6,0,0,0,0,0,6
+Greenwood,Verdery,State Senate,10,REP,Taylor Bell,4,0,0,0,1,0,3
+Greenwood,New Market,State Senate,10,REP,Taylor Bell,6,0,0,0,0,0,6
+Greenwood,Emerald,State Senate,10,REP,Taylor Bell,2,0,0,0,0,0,2
+Greenwood,Airport,State Senate,10,REP,Taylor Bell,12,0,0,0,3,0,9
+Greenwood,Emerald High,State Senate,10,REP,Taylor Bell,7,0,1,0,0,0,6
+Greenwood,Civic Center,State Senate,10,REP,Taylor Bell,8,0,2,0,1,0,5
+Greenwood,Riley,State Senate,10,REP,Taylor Bell,2,0,0,0,0,0,2
+Greenwood,Shoals Junction,State Senate,10,REP,Taylor Bell,3,0,0,0,0,0,3
+Greenwood,Greenwood Mill,State Senate,10,REP,Taylor Bell,11,0,2,0,2,0,7
+Greenwood,Stonewood,State Senate,10,REP,Taylor Bell,9,0,0,0,0,0,9
+Greenwood,Mimosa Crest,State Senate,10,REP,Taylor Bell,9,0,1,0,1,0,7
+Greenwood,Lower Lake,State Senate,10,REP,Taylor Bell,67,0,0,0,10,0,57
+Greenwood,Pinecrest,State Senate,10,REP,Taylor Bell,6,0,0,0,1,0,5
+Greenwood,Maxwellton Pike,State Senate,10,REP,Taylor Bell,8,0,0,0,1,0,7
+Greenwood,New Castle,State Senate,10,REP,Taylor Bell,8,0,0,0,0,0,8
+Greenwood,Rutherford Shoals,State Senate,10,REP,Taylor Bell,7,0,0,0,1,0,6
+Greenwood,Liberty,State Senate,10,REP,Taylor Bell,2,0,0,0,0,0,2
+Greenwood,Biltmore Pines,State Senate,10,REP,Taylor Bell,15,0,0,0,3,0,12
+Greenwood,Marshall Oaks,State Senate,10,REP,Taylor Bell,0,0,0,0,0,0,0
+Greenwood,Sparrows Grace,State Senate,10,REP,Taylor Bell,33,0,0,0,8,0,25
+Greenwood,Mountain Laurel,State Senate,10,REP,Taylor Bell,7,0,0,0,1,0,6
+Greenwood,Allie's Crossing,State Senate,10,REP,Taylor Bell,5,0,0,0,0,0,5
+Greenwood,Gideon's Way,State Senate,10,REP,Taylor Bell,1,0,1,0,0,0,0
+Greenwood,Parson's Mill,State Senate,10,REP,Taylor Bell,7,0,0,0,3,0,4
+Greenwood,Angel Oak's Crossing,State Senate,10,REP,Taylor Bell,21,0,0,0,2,0,19
+Greenwood,Graham's Glen,State Senate,10,REP,Taylor Bell,6,0,0,0,1,0,5
+Greenwood,Failsafe,State Senate,10,REP,Taylor Bell,0,0,0,0,0,0,0
+Greenwood,Provisional,State Senate,10,REP,Taylor Bell,1,0,0,0,0,1,0
+Greenwood,Failsafe Provisional,State Senate,10,REP,Taylor Bell,1,0,0,1,0,0,0
+Greenwood,Loblolly Pines,State Senate,10,REP,Charles Bumgardner,1,0,0,0,0,0,1
+Greenwood,Bee's Ferry,State Senate,10,REP,Charles Bumgardner,0,0,0,0,0,0,0
+Greenwood,Levi's Knoll,State Senate,10,REP,Charles Bumgardner,22,0,0,0,3,0,19
+Greenwood,Grandiflora Glen,State Senate,10,REP,Charles Bumgardner,5,0,1,0,0,0,4
+Greenwood,Ashley River Run,State Senate,10,REP,Charles Bumgardner,0,0,0,0,0,0,0
+Greenwood,Hope's Ferry,State Senate,10,REP,Charles Bumgardner,5,0,1,0,0,0,4
+Greenwood,Fairhope Ferry,State Senate,10,REP,Charles Bumgardner,7,0,1,0,0,0,6
+Greenwood,Pebble Stone Way,State Senate,10,REP,Charles Bumgardner,40,0,6,0,1,0,33
+Greenwood,Glendale,State Senate,10,REP,Charles Bumgardner,15,0,3,0,5,0,7
+Greenwood,Harris,State Senate,10,REP,Charles Bumgardner,7,0,0,0,3,0,4
+Greenwood,Laco,State Senate,10,REP,Charles Bumgardner,11,0,0,0,5,0,6
+Greenwood,Ninety Six,State Senate,10,REP,Charles Bumgardner,13,0,1,0,2,0,10
+Greenwood,Ninety Six Mill,State Senate,10,REP,Charles Bumgardner,7,0,0,0,0,0,7
+Greenwood,Ware Shoals,State Senate,10,REP,Charles Bumgardner,7,0,1,0,0,0,6
+Greenwood,Hodges,State Senate,10,REP,Charles Bumgardner,33,0,2,0,5,0,26
+Greenwood,Cokesbury,State Senate,10,REP,Charles Bumgardner,7,0,0,0,1,0,6
+Greenwood,Coronaca,State Senate,10,REP,Charles Bumgardner,56,0,2,0,10,0,44
+Greenwood,Greenwood High,State Senate,10,REP,Charles Bumgardner,9,0,1,0,1,0,7
+Greenwood,Georgetown,State Senate,10,REP,Charles Bumgardner,31,0,0,0,7,0,24
+Greenwood,Sandridge,State Senate,10,REP,Charles Bumgardner,14,0,0,0,0,0,14
+Greenwood,Callison,State Senate,10,REP,Charles Bumgardner,12,0,2,0,1,0,9
+Greenwood,Bradley,State Senate,10,REP,Charles Bumgardner,6,0,0,0,0,0,6
+Greenwood,Troy,State Senate,10,REP,Charles Bumgardner,2,0,0,0,0,0,2
+Greenwood,Epworth,State Senate,10,REP,Charles Bumgardner,10,0,1,0,1,0,8
+Greenwood,Verdery,State Senate,10,REP,Charles Bumgardner,15,0,0,0,0,0,15
+Greenwood,New Market,State Senate,10,REP,Charles Bumgardner,5,0,0,0,1,0,4
+Greenwood,Emerald,State Senate,10,REP,Charles Bumgardner,2,0,0,0,0,0,2
+Greenwood,Airport,State Senate,10,REP,Charles Bumgardner,21,0,0,0,9,0,12
+Greenwood,Emerald High,State Senate,10,REP,Charles Bumgardner,15,0,2,0,4,0,9
+Greenwood,Civic Center,State Senate,10,REP,Charles Bumgardner,7,0,0,0,0,0,7
+Greenwood,Riley,State Senate,10,REP,Charles Bumgardner,3,0,0,0,0,0,3
+Greenwood,Shoals Junction,State Senate,10,REP,Charles Bumgardner,7,0,0,0,0,0,7
+Greenwood,Greenwood Mill,State Senate,10,REP,Charles Bumgardner,24,0,0,0,6,0,18
+Greenwood,Stonewood,State Senate,10,REP,Charles Bumgardner,26,0,0,0,2,0,24
+Greenwood,Mimosa Crest,State Senate,10,REP,Charles Bumgardner,6,0,0,0,2,0,4
+Greenwood,Lower Lake,State Senate,10,REP,Charles Bumgardner,46,0,0,0,13,0,33
+Greenwood,Pinecrest,State Senate,10,REP,Charles Bumgardner,21,0,0,0,4,0,17
+Greenwood,Maxwellton Pike,State Senate,10,REP,Charles Bumgardner,13,0,0,0,0,0,13
+Greenwood,New Castle,State Senate,10,REP,Charles Bumgardner,15,0,1,0,2,0,12
+Greenwood,Rutherford Shoals,State Senate,10,REP,Charles Bumgardner,4,0,0,0,0,0,4
+Greenwood,Liberty,State Senate,10,REP,Charles Bumgardner,5,0,0,0,1,0,4
+Greenwood,Biltmore Pines,State Senate,10,REP,Charles Bumgardner,15,0,0,0,2,0,13
+Greenwood,Marshall Oaks,State Senate,10,REP,Charles Bumgardner,2,0,1,0,1,0,0
+Greenwood,Sparrows Grace,State Senate,10,REP,Charles Bumgardner,29,0,0,0,8,0,21
+Greenwood,Mountain Laurel,State Senate,10,REP,Charles Bumgardner,3,0,0,0,1,0,2
+Greenwood,Allie's Crossing,State Senate,10,REP,Charles Bumgardner,18,0,1,0,1,0,16
+Greenwood,Gideon's Way,State Senate,10,REP,Charles Bumgardner,1,0,0,0,0,0,1
+Greenwood,Parson's Mill,State Senate,10,REP,Charles Bumgardner,9,0,0,0,1,0,8
+Greenwood,Angel Oak's Crossing,State Senate,10,REP,Charles Bumgardner,30,0,4,0,10,0,16
+Greenwood,Graham's Glen,State Senate,10,REP,Charles Bumgardner,28,0,0,0,3,0,25
+Greenwood,Failsafe,State Senate,10,REP,Charles Bumgardner,0,0,0,0,0,0,0
+Greenwood,Provisional,State Senate,10,REP,Charles Bumgardner,0,0,0,0,0,0,0
+Greenwood,Failsafe Provisional,State Senate,10,REP,Charles Bumgardner,0,0,0,0,0,0,0
+Greenwood,Loblolly Pines,State Senate,10,REP,Billy Garrett,10,0,0,0,1,0,9
+Greenwood,Bee's Ferry,State Senate,10,REP,Billy Garrett,2,0,0,0,0,0,2
+Greenwood,Levi's Knoll,State Senate,10,REP,Billy Garrett,75,0,2,0,26,0,47
+Greenwood,Grandiflora Glen,State Senate,10,REP,Billy Garrett,75,0,5,0,25,0,45
+Greenwood,Ashley River Run,State Senate,10,REP,Billy Garrett,15,0,1,0,4,0,10
+Greenwood,Hope's Ferry,State Senate,10,REP,Billy Garrett,24,0,2,0,5,0,17
+Greenwood,Fairhope Ferry,State Senate,10,REP,Billy Garrett,44,0,6,0,10,0,28
+Greenwood,Pebble Stone Way,State Senate,10,REP,Billy Garrett,84,0,6,0,8,0,70
+Greenwood,Glendale,State Senate,10,REP,Billy Garrett,82,0,5,0,21,0,56
+Greenwood,Harris,State Senate,10,REP,Billy Garrett,83,0,2,0,30,0,51
+Greenwood,Laco,State Senate,10,REP,Billy Garrett,103,0,2,0,28,0,73
+Greenwood,Ninety Six,State Senate,10,REP,Billy Garrett,61,0,1,0,10,0,50
+Greenwood,Ninety Six Mill,State Senate,10,REP,Billy Garrett,95,0,5,0,10,0,80
+Greenwood,Ware Shoals,State Senate,10,REP,Billy Garrett,33,0,1,0,5,0,27
+Greenwood,Hodges,State Senate,10,REP,Billy Garrett,166,0,13,0,11,0,142
+Greenwood,Cokesbury,State Senate,10,REP,Billy Garrett,43,0,2,0,4,0,37
+Greenwood,Coronaca,State Senate,10,REP,Billy Garrett,187,0,4,0,49,0,134
+Greenwood,Greenwood High,State Senate,10,REP,Billy Garrett,125,0,14,0,34,0,77
+Greenwood,Georgetown,State Senate,10,REP,Billy Garrett,112,0,9,0,32,0,71
+Greenwood,Sandridge,State Senate,10,REP,Billy Garrett,66,0,3,0,3,0,60
+Greenwood,Callison,State Senate,10,REP,Billy Garrett,110,0,5,0,12,0,93
+Greenwood,Bradley,State Senate,10,REP,Billy Garrett,21,0,0,0,2,0,19
+Greenwood,Troy,State Senate,10,REP,Billy Garrett,24,0,0,0,0,0,24
+Greenwood,Epworth,State Senate,10,REP,Billy Garrett,77,0,3,0,10,0,64
+Greenwood,Verdery,State Senate,10,REP,Billy Garrett,71,0,0,0,21,0,50
+Greenwood,New Market,State Senate,10,REP,Billy Garrett,78,0,5,0,8,0,65
+Greenwood,Emerald,State Senate,10,REP,Billy Garrett,27,0,0,0,2,0,25
+Greenwood,Airport,State Senate,10,REP,Billy Garrett,141,0,8,0,28,0,105
+Greenwood,Emerald High,State Senate,10,REP,Billy Garrett,80,0,5,0,25,0,50
+Greenwood,Civic Center,State Senate,10,REP,Billy Garrett,66,0,2,0,6,0,58
+Greenwood,Riley,State Senate,10,REP,Billy Garrett,27,0,0,0,0,0,27
+Greenwood,Shoals Junction,State Senate,10,REP,Billy Garrett,46,0,0,0,0,0,46
+Greenwood,Greenwood Mill,State Senate,10,REP,Billy Garrett,86,0,5,0,24,0,57
+Greenwood,Stonewood,State Senate,10,REP,Billy Garrett,153,0,4,0,27,0,122
+Greenwood,Mimosa Crest,State Senate,10,REP,Billy Garrett,84,0,9,0,22,0,53
+Greenwood,Lower Lake,State Senate,10,REP,Billy Garrett,170,0,6,0,42,0,122
+Greenwood,Pinecrest,State Senate,10,REP,Billy Garrett,91,0,2,0,20,0,69
+Greenwood,Maxwellton Pike,State Senate,10,REP,Billy Garrett,110,0,6,0,31,0,73
+Greenwood,New Castle,State Senate,10,REP,Billy Garrett,135,0,8,0,29,0,98
+Greenwood,Rutherford Shoals,State Senate,10,REP,Billy Garrett,66,0,2,0,3,0,61
+Greenwood,Liberty,State Senate,10,REP,Billy Garrett,47,0,0,0,13,0,34
+Greenwood,Biltmore Pines,State Senate,10,REP,Billy Garrett,107,0,3,0,16,0,88
+Greenwood,Marshall Oaks,State Senate,10,REP,Billy Garrett,17,0,0,0,5,0,12
+Greenwood,Sparrows Grace,State Senate,10,REP,Billy Garrett,228,0,9,0,63,0,156
+Greenwood,Mountain Laurel,State Senate,10,REP,Billy Garrett,40,0,3,0,11,0,26
+Greenwood,Allie's Crossing,State Senate,10,REP,Billy Garrett,109,0,0,0,23,0,86
+Greenwood,Gideon's Way,State Senate,10,REP,Billy Garrett,35,0,2,0,3,0,30
+Greenwood,Parson's Mill,State Senate,10,REP,Billy Garrett,69,0,5,0,18,0,46
+Greenwood,Angel Oak's Crossing,State Senate,10,REP,Billy Garrett,158,0,9,0,42,0,107
+Greenwood,Graham's Glen,State Senate,10,REP,Billy Garrett,95,0,2,0,17,0,76
+Greenwood,Failsafe,State Senate,10,REP,Billy Garrett,1,1,0,0,0,0,0
+Greenwood,Provisional,State Senate,10,REP,Billy Garrett,6,0,0,0,0,6,0
+Greenwood,Failsafe Provisional,State Senate,10,REP,Billy Garrett,4,0,0,4,0,0,0
+Greenwood,Loblolly Pines,State Senate,10,REP,Troy Simpson,1,0,0,0,0,0,1
+Greenwood,Bee's Ferry,State Senate,10,REP,Troy Simpson,0,0,0,0,0,0,0
+Greenwood,Levi's Knoll,State Senate,10,REP,Troy Simpson,14,0,0,0,4,0,10
+Greenwood,Grandiflora Glen,State Senate,10,REP,Troy Simpson,2,0,0,0,0,0,2
+Greenwood,Ashley River Run,State Senate,10,REP,Troy Simpson,0,0,0,0,0,0,0
+Greenwood,Hope's Ferry,State Senate,10,REP,Troy Simpson,2,0,0,0,1,0,1
+Greenwood,Fairhope Ferry,State Senate,10,REP,Troy Simpson,8,0,3,0,2,0,3
+Greenwood,Pebble Stone Way,State Senate,10,REP,Troy Simpson,8,0,0,0,1,0,7
+Greenwood,Glendale,State Senate,10,REP,Troy Simpson,21,0,0,0,3,0,18
+Greenwood,Harris,State Senate,10,REP,Troy Simpson,16,0,0,0,5,0,11
+Greenwood,Laco,State Senate,10,REP,Troy Simpson,16,0,0,0,3,0,13
+Greenwood,Ninety Six,State Senate,10,REP,Troy Simpson,2,0,0,0,0,0,2
+Greenwood,Ninety Six Mill,State Senate,10,REP,Troy Simpson,9,0,0,0,0,0,9
+Greenwood,Ware Shoals,State Senate,10,REP,Troy Simpson,1,0,0,0,0,0,1
+Greenwood,Hodges,State Senate,10,REP,Troy Simpson,9,0,1,0,1,0,7
+Greenwood,Cokesbury,State Senate,10,REP,Troy Simpson,11,0,0,0,1,0,10
+Greenwood,Coronaca,State Senate,10,REP,Troy Simpson,50,0,0,0,5,0,45
+Greenwood,Greenwood High,State Senate,10,REP,Troy Simpson,17,0,0,0,3,0,14
+Greenwood,Georgetown,State Senate,10,REP,Troy Simpson,19,0,0,0,6,0,13
+Greenwood,Sandridge,State Senate,10,REP,Troy Simpson,9,0,0,0,5,0,4
+Greenwood,Callison,State Senate,10,REP,Troy Simpson,12,0,0,0,2,0,10
+Greenwood,Bradley,State Senate,10,REP,Troy Simpson,6,0,0,0,1,0,5
+Greenwood,Troy,State Senate,10,REP,Troy Simpson,1,0,0,0,0,0,1
+Greenwood,Epworth,State Senate,10,REP,Troy Simpson,9,0,0,0,1,0,8
+Greenwood,Verdery,State Senate,10,REP,Troy Simpson,6,0,2,0,1,0,3
+Greenwood,New Market,State Senate,10,REP,Troy Simpson,6,0,0,0,1,0,5
+Greenwood,Emerald,State Senate,10,REP,Troy Simpson,0,0,0,0,0,0,0
+Greenwood,Airport,State Senate,10,REP,Troy Simpson,28,0,3,0,6,0,19
+Greenwood,Emerald High,State Senate,10,REP,Troy Simpson,2,0,0,0,1,0,1
+Greenwood,Civic Center,State Senate,10,REP,Troy Simpson,6,0,0,0,0,0,6
+Greenwood,Riley,State Senate,10,REP,Troy Simpson,0,0,0,0,0,0,0
+Greenwood,Shoals Junction,State Senate,10,REP,Troy Simpson,2,0,0,0,0,0,2
+Greenwood,Greenwood Mill,State Senate,10,REP,Troy Simpson,9,0,0,0,1,0,8
+Greenwood,Stonewood,State Senate,10,REP,Troy Simpson,27,0,0,0,4,0,23
+Greenwood,Mimosa Crest,State Senate,10,REP,Troy Simpson,9,0,0,0,4,0,5
+Greenwood,Lower Lake,State Senate,10,REP,Troy Simpson,27,0,1,0,8,0,18
+Greenwood,Pinecrest,State Senate,10,REP,Troy Simpson,22,0,0,0,2,0,20
+Greenwood,Maxwellton Pike,State Senate,10,REP,Troy Simpson,16,0,0,0,2,0,14
+Greenwood,New Castle,State Senate,10,REP,Troy Simpson,17,0,2,0,5,0,10
+Greenwood,Rutherford Shoals,State Senate,10,REP,Troy Simpson,7,0,0,0,0,0,7
+Greenwood,Liberty,State Senate,10,REP,Troy Simpson,8,0,2,0,2,0,4
+Greenwood,Biltmore Pines,State Senate,10,REP,Troy Simpson,17,0,0,0,2,0,15
+Greenwood,Marshall Oaks,State Senate,10,REP,Troy Simpson,1,0,0,0,0,0,1
+Greenwood,Sparrows Grace,State Senate,10,REP,Troy Simpson,30,0,0,0,8,0,22
+Greenwood,Mountain Laurel,State Senate,10,REP,Troy Simpson,4,0,0,0,3,0,1
+Greenwood,Allie's Crossing,State Senate,10,REP,Troy Simpson,5,0,0,0,1,0,4
+Greenwood,Gideon's Way,State Senate,10,REP,Troy Simpson,6,0,2,0,0,0,4
+Greenwood,Parson's Mill,State Senate,10,REP,Troy Simpson,5,0,0,0,1,0,4
+Greenwood,Angel Oak's Crossing,State Senate,10,REP,Troy Simpson,33,0,1,0,7,0,25
+Greenwood,Graham's Glen,State Senate,10,REP,Troy Simpson,7,0,0,0,1,0,6
+Greenwood,Failsafe,State Senate,10,REP,Troy Simpson,0,0,0,0,0,0,0
+Greenwood,Provisional,State Senate,10,REP,Troy Simpson,1,0,0,0,0,1,0
+Greenwood,Failsafe Provisional,State Senate,10,REP,Troy Simpson,2,0,0,2,0,0,0
+Greenwood,Levi's Knoll,County Council District 6,,REP,Robbie Templeton,0,0,0,0,0,0,0
+Greenwood,Harris,County Council District 6,,REP,Robbie Templeton,14,0,1,0,4,0,9
+Greenwood,Greenwood High,County Council District 6,,REP,Robbie Templeton,90,0,12,0,17,0,61
+Greenwood,Georgetown,County Council District 6,,REP,Robbie Templeton,122,0,9,0,40,0,73
+Greenwood,Airport,County Council District 6,,REP,Robbie Templeton,48,0,0,0,10,0,38
+Greenwood,Emerald High,County Council District 6,,REP,Robbie Templeton,4,0,1,0,3,0,0
+Greenwood,Mimosa Crest,County Council District 6,,REP,Robbie Templeton,29,0,1,0,7,0,21
+Greenwood,Pinecrest,County Council District 6,,REP,Robbie Templeton,92,0,1,0,22,0,69
+Greenwood,New Castle,County Council District 6,,REP,Robbie Templeton,9,0,4,0,2,0,3
+Greenwood,Biltmore Pines,County Council District 6,,REP,Robbie Templeton,79,0,1,0,4,0,74
+Greenwood,Sparrows Grace,County Council District 6,,REP,Robbie Templeton,184,0,9,0,54,0,121
+Greenwood,Parson's Mill,County Council District 6,,REP,Robbie Templeton,52,0,3,0,12,0,37
+Greenwood,Failsafe,County Council District 6,,REP,Robbie Templeton,0,0,0,0,0,0,0
+Greenwood,Provisional,County Council District 6,,REP,Robbie Templeton,1,0,0,0,0,1,0
+Greenwood,Failsafe Provisional,County Council District 6,,REP,Robbie Templeton,0,0,0,0,0,0,0
+Greenwood,Levi's Knoll,County Council District 6,,REP,Christie W Wright,0,0,0,0,0,0,0
+Greenwood,Harris,County Council District 6,,REP,Christie W Wright,10,0,0,0,1,0,9
+Greenwood,Greenwood High,County Council District 6,,REP,Christie W Wright,58,0,3,0,19,0,36
+Greenwood,Georgetown,County Council District 6,,REP,Christie W Wright,40,0,0,0,6,0,34
+Greenwood,Airport,County Council District 6,,REP,Christie W Wright,44,0,1,0,12,0,31
+Greenwood,Emerald High,County Council District 6,,REP,Christie W Wright,2,0,0,0,0,0,2
+Greenwood,Mimosa Crest,County Council District 6,,REP,Christie W Wright,24,0,0,0,5,0,19
+Greenwood,Pinecrest,County Council District 6,,REP,Christie W Wright,48,0,0,0,5,0,43
+Greenwood,New Castle,County Council District 6,,REP,Christie W Wright,3,0,0,0,1,0,2
+Greenwood,Biltmore Pines,County Council District 6,,REP,Christie W Wright,39,0,1,0,8,0,30
+Greenwood,Sparrows Grace,County Council District 6,,REP,Christie W Wright,86,0,0,0,21,0,65
+Greenwood,Parson's Mill,County Council District 6,,REP,Christie W Wright,29,0,2,0,8,0,19
+Greenwood,Failsafe,County Council District 6,,REP,Christie W Wright,1,1,0,0,0,0,0
+Greenwood,Provisional,County Council District 6,,REP,Christie W Wright,0,0,0,0,0,0,0
+Greenwood,Failsafe Provisional,County Council District 6,,REP,Christie W Wright,0,0,0,0,0,0,0

@@ -1,0 +1,97 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Bamberg,COLSTON,U.S. House,6,REP,Duke Buckner,1,0,0,0,0,0,1
+Bamberg,EDISTO,U.S. House,6,REP,Duke Buckner,6,0,0,0,2,0,4
+Bamberg,EHRHARDT,U.S. House,6,REP,Duke Buckner,5,0,0,0,1,0,4
+Bamberg,EAST DENMARK,U.S. House,6,REP,Duke Buckner,10,0,0,0,4,0,6
+Bamberg,GOVAN,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,0,2
+Bamberg,HIGHTOWERS MILL,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Bamberg,HUNTER'S CHAPEL,U.S. House,6,REP,Duke Buckner,7,0,0,0,0,0,7
+Bamberg,KEARSE,U.S. House,6,REP,Duke Buckner,3,0,1,0,0,0,2
+Bamberg,LITTLE SWAMP,U.S. House,6,REP,Duke Buckner,3,0,0,0,0,0,3
+Bamberg,OLAR,U.S. House,6,REP,Duke Buckner,7,0,0,0,1,0,6
+Bamberg,SOUTH BAMBERG,U.S. House,6,REP,Duke Buckner,10,0,0,0,4,0,6
+Bamberg,WEST DENMARK,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,0,2
+Bamberg,NORTH BAMBERG,U.S. House,6,REP,Duke Buckner,7,0,2,0,1,0,4
+Bamberg,Failsafe,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Bamberg,Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Bamberg,COLSTON,U.S. House,6,REP,Justin Scott,2,0,0,0,0,0,2
+Bamberg,EDISTO,U.S. House,6,REP,Justin Scott,1,0,0,0,1,0,0
+Bamberg,EHRHARDT,U.S. House,6,REP,Justin Scott,12,0,4,0,1,0,7
+Bamberg,EAST DENMARK,U.S. House,6,REP,Justin Scott,10,0,1,0,3,0,6
+Bamberg,GOVAN,U.S. House,6,REP,Justin Scott,1,0,0,0,0,0,1
+Bamberg,HIGHTOWERS MILL,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Bamberg,HUNTER'S CHAPEL,U.S. House,6,REP,Justin Scott,2,0,0,0,0,0,2
+Bamberg,KEARSE,U.S. House,6,REP,Justin Scott,1,0,0,0,0,0,1
+Bamberg,LITTLE SWAMP,U.S. House,6,REP,Justin Scott,2,0,0,0,0,0,2
+Bamberg,OLAR,U.S. House,6,REP,Justin Scott,8,0,0,0,2,0,6
+Bamberg,SOUTH BAMBERG,U.S. House,6,REP,Justin Scott,12,0,0,0,2,0,10
+Bamberg,WEST DENMARK,U.S. House,6,REP,Justin Scott,4,0,1,0,1,0,2
+Bamberg,NORTH BAMBERG,U.S. House,6,REP,Justin Scott,16,0,0,0,6,0,10
+Bamberg,Failsafe,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Bamberg,Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Bamberg,COLSTON,State Senate,40,DEM,Kendrick Brown,25,0,0,0,3,0,22
+Bamberg,EDISTO,State Senate,40,DEM,Kendrick Brown,20,0,0,0,1,0,19
+Bamberg,EHRHARDT,State Senate,40,DEM,Kendrick Brown,49,0,2,0,5,0,42
+Bamberg,EAST DENMARK,State Senate,40,DEM,Kendrick Brown,72,0,2,0,27,0,43
+Bamberg,GOVAN,State Senate,40,DEM,Kendrick Brown,11,0,0,0,1,0,10
+Bamberg,HIGHTOWERS MILL,State Senate,40,DEM,Kendrick Brown,4,0,0,0,2,0,2
+Bamberg,HUNTER'S CHAPEL,State Senate,40,DEM,Kendrick Brown,16,0,0,0,3,0,13
+Bamberg,KEARSE,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Bamberg,LITTLE SWAMP,State Senate,40,DEM,Kendrick Brown,11,0,0,0,1,0,10
+Bamberg,OLAR,State Senate,40,DEM,Kendrick Brown,11,0,0,0,0,0,11
+Bamberg,SOUTH BAMBERG,State Senate,40,DEM,Kendrick Brown,117,0,11,0,21,0,85
+Bamberg,WEST DENMARK,State Senate,40,DEM,Kendrick Brown,42,0,2,0,13,0,27
+Bamberg,NORTH BAMBERG,State Senate,40,DEM,Kendrick Brown,152,0,6,0,45,0,101
+Bamberg,Failsafe,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Bamberg,Provisional,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Bamberg,COLSTON,State Senate,40,DEM,Brad Hutto,8,0,0,0,0,0,8
+Bamberg,EDISTO,State Senate,40,DEM,Brad Hutto,15,0,1,0,3,0,11
+Bamberg,EHRHARDT,State Senate,40,DEM,Brad Hutto,55,0,10,0,10,0,35
+Bamberg,EAST DENMARK,State Senate,40,DEM,Brad Hutto,137,0,5,0,46,0,86
+Bamberg,GOVAN,State Senate,40,DEM,Brad Hutto,13,0,0,0,2,0,11
+Bamberg,HIGHTOWERS MILL,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Bamberg,HUNTER'S CHAPEL,State Senate,40,DEM,Brad Hutto,17,0,0,0,6,0,11
+Bamberg,KEARSE,State Senate,40,DEM,Brad Hutto,2,0,0,0,1,0,1
+Bamberg,LITTLE SWAMP,State Senate,40,DEM,Brad Hutto,7,0,0,0,0,0,7
+Bamberg,OLAR,State Senate,40,DEM,Brad Hutto,18,0,0,0,0,0,18
+Bamberg,SOUTH BAMBERG,State Senate,40,DEM,Brad Hutto,185,0,55,0,53,0,77
+Bamberg,WEST DENMARK,State Senate,40,DEM,Brad Hutto,62,0,2,0,11,0,49
+Bamberg,NORTH BAMBERG,State Senate,40,DEM,Brad Hutto,225,0,41,0,52,0,132
+Bamberg,Failsafe,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Bamberg,Provisional,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Bamberg,COLSTON,Coroner,,DEM,Shawn Hanks,29,0,0,0,3,0,26
+Bamberg,EDISTO,Coroner,,DEM,Shawn Hanks,23,0,1,0,2,0,20
+Bamberg,EHRHARDT,Coroner,,DEM,Shawn Hanks,80,0,9,0,9,0,62
+Bamberg,EAST DENMARK,Coroner,,DEM,Shawn Hanks,54,0,2,0,15,0,37
+Bamberg,GOVAN,Coroner,,DEM,Shawn Hanks,2,0,0,0,0,0,2
+Bamberg,HIGHTOWERS MILL,Coroner,,DEM,Shawn Hanks,0,0,0,0,0,0,0
+Bamberg,HUNTER'S CHAPEL,Coroner,,DEM,Shawn Hanks,23,0,0,0,5,0,18
+Bamberg,KEARSE,Coroner,,DEM,Shawn Hanks,2,0,0,0,1,0,1
+Bamberg,LITTLE SWAMP,Coroner,,DEM,Shawn Hanks,17,0,0,0,1,0,16
+Bamberg,OLAR,Coroner,,DEM,Shawn Hanks,7,0,0,0,0,0,7
+Bamberg,SOUTH BAMBERG,Coroner,,DEM,Shawn Hanks,179,0,47,0,44,0,88
+Bamberg,WEST DENMARK,Coroner,,DEM,Shawn Hanks,28,0,1,0,7,0,20
+Bamberg,NORTH BAMBERG,Coroner,,DEM,Shawn Hanks,283,0,40,0,64,0,179
+Bamberg,Failsafe,Coroner,,DEM,Shawn Hanks,0,0,0,0,0,0,0
+Bamberg,Provisional,Coroner,,DEM,Shawn Hanks,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Coroner,,DEM,Shawn Hanks,0,0,0,0,0,0,0
+Bamberg,COLSTON,Coroner,,DEM,Wallace R Hicks Jr,11,0,0,0,0,0,11
+Bamberg,EDISTO,Coroner,,DEM,Wallace R Hicks Jr,12,0,0,0,2,0,10
+Bamberg,EHRHARDT,Coroner,,DEM,Wallace R Hicks Jr,27,0,3,0,7,0,17
+Bamberg,EAST DENMARK,Coroner,,DEM,Wallace R Hicks Jr,164,0,5,0,63,0,96
+Bamberg,GOVAN,Coroner,,DEM,Wallace R Hicks Jr,23,0,0,0,3,0,20
+Bamberg,HIGHTOWERS MILL,Coroner,,DEM,Wallace R Hicks Jr,4,0,0,0,2,0,2
+Bamberg,HUNTER'S CHAPEL,Coroner,,DEM,Wallace R Hicks Jr,11,0,0,0,4,0,7
+Bamberg,KEARSE,Coroner,,DEM,Wallace R Hicks Jr,0,0,0,0,0,0,0
+Bamberg,LITTLE SWAMP,Coroner,,DEM,Wallace R Hicks Jr,2,0,0,0,0,0,2
+Bamberg,OLAR,Coroner,,DEM,Wallace R Hicks Jr,25,0,0,0,0,0,25
+Bamberg,SOUTH BAMBERG,Coroner,,DEM,Wallace R Hicks Jr,131,0,19,0,33,0,79
+Bamberg,WEST DENMARK,Coroner,,DEM,Wallace R Hicks Jr,79,0,3,0,17,0,59
+Bamberg,NORTH BAMBERG,Coroner,,DEM,Wallace R Hicks Jr,104,0,7,0,36,0,61
+Bamberg,Failsafe,Coroner,,DEM,Wallace R Hicks Jr,0,0,0,0,0,0,0
+Bamberg,Provisional,Coroner,,DEM,Wallace R Hicks Jr,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Coroner,,DEM,Wallace R Hicks Jr,0,0,0,0,0,0,0

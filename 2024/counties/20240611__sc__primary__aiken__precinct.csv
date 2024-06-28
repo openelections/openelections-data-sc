@@ -1,0 +1,853 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Aiken,Aiken No. 1,U.S. House,2,DEM,David Robinson II,9,0,0,0,5,0,4
+Aiken,Aiken No. 2,U.S. House,2,DEM,David Robinson II,31,0,0,0,17,0,14
+Aiken,Aiken No. 3,U.S. House,2,DEM,David Robinson II,46,0,0,0,21,0,25
+Aiken,Aiken No. 4,U.S. House,2,DEM,David Robinson II,25,0,1,0,9,0,15
+Aiken,Aiken No. 5,U.S. House,2,DEM,David Robinson II,33,0,2,0,13,0,18
+Aiken,Aiken No. 6,U.S. House,2,DEM,David Robinson II,13,0,0,0,2,0,11
+Aiken,Bath,U.S. House,2,DEM,David Robinson II,12,0,0,0,8,0,4
+Aiken,Beech Island,U.S. House,2,DEM,David Robinson II,19,0,1,0,5,0,13
+Aiken,Belvedere No. 9,U.S. House,2,DEM,David Robinson II,10,0,0,0,1,0,9
+Aiken,Carolina Heights,U.S. House,2,DEM,David Robinson II,36,0,2,0,11,0,23
+Aiken,China Springs,U.S. House,2,DEM,David Robinson II,42,0,2,0,16,0,24
+Aiken,Clearwater,U.S. House,2,DEM,David Robinson II,12,0,0,0,4,0,8
+Aiken,College Acres,U.S. House,2,DEM,David Robinson II,14,0,2,0,6,0,6
+Aiken,Eureka,U.S. House,2,DEM,David Robinson II,23,0,0,0,11,0,12
+Aiken,Gloverville,U.S. House,2,DEM,David Robinson II,9,0,3,0,1,0,5
+Aiken,Graniteville,U.S. House,2,DEM,David Robinson II,5,0,0,0,1,0,4
+Aiken,Jackson,U.S. House,2,DEM,David Robinson II,10,0,1,0,3,0,6
+Aiken,Langley,U.S. House,2,DEM,David Robinson II,3,0,0,0,2,0,1
+Aiken,Lynwood,U.S. House,2,DEM,David Robinson II,2,0,0,0,0,0,2
+Aiken,Millbrook,U.S. House,2,DEM,David Robinson II,19,0,1,0,6,0,12
+Aiken,Monetta,U.S. House,2,DEM,David Robinson II,22,0,2,0,2,0,18
+Aiken,Montmorenci No. 22,U.S. House,2,DEM,David Robinson II,28,0,2,0,20,0,6
+Aiken,New Ellenton,U.S. House,2,DEM,David Robinson II,22,0,0,0,6,0,16
+Aiken,New Holland,U.S. House,2,DEM,David Robinson II,9,0,0,0,3,0,6
+Aiken,N. Augusta No. 25,U.S. House,2,DEM,David Robinson II,22,0,1,0,16,0,5
+Aiken,N. Augusta No. 26,U.S. House,2,DEM,David Robinson II,9,0,0,0,5,0,4
+Aiken,N. Augusta No. 27,U.S. House,2,DEM,David Robinson II,18,0,0,0,8,0,10
+Aiken,N. Augusta No. 28,U.S. House,2,DEM,David Robinson II,9,0,0,0,1,0,8
+Aiken,N. Augusta No. 29,U.S. House,2,DEM,David Robinson II,15,0,0,0,8,0,7
+Aiken,Oak Grove,U.S. House,2,DEM,David Robinson II,6,0,0,0,1,0,5
+Aiken,Perry,U.S. House,2,DEM,David Robinson II,18,0,1,0,3,0,14
+Aiken,Salley,U.S. House,2,DEM,David Robinson II,26,0,2,0,10,0,14
+Aiken,Shaws Fork,U.S. House,2,DEM,David Robinson II,3,0,0,0,0,0,3
+Aiken,Shiloh,U.S. House,2,DEM,David Robinson II,25,0,0,0,11,0,14
+Aiken,Six Points No. 35,U.S. House,2,DEM,David Robinson II,33,0,2,0,13,0,18
+Aiken,Tabernacle,U.S. House,2,DEM,David Robinson II,8,0,0,0,2,0,6
+Aiken,Talatha,U.S. House,2,DEM,David Robinson II,16,0,1,0,4,0,11
+Aiken,Vaucluse,U.S. House,2,DEM,David Robinson II,34,0,3,0,14,0,17
+Aiken,Wagener,U.S. House,2,DEM,David Robinson II,38,0,0,0,14,0,24
+Aiken,Ward,U.S. House,2,DEM,David Robinson II,24,0,1,0,4,0,19
+Aiken,Warrenville,U.S. House,2,DEM,David Robinson II,22,0,2,0,5,0,15
+Aiken,White Pond,U.S. House,2,DEM,David Robinson II,26,0,0,0,9,0,17
+Aiken,Windsor No. 43,U.S. House,2,DEM,David Robinson II,15,0,1,0,7,0,7
+Aiken,Belvedere No. 44,U.S. House,2,DEM,David Robinson II,9,0,0,0,2,0,7
+Aiken,Misty Lakes,U.S. House,2,DEM,David Robinson II,33,0,2,0,8,0,23
+Aiken,Six Points No. 46,U.S. House,2,DEM,David Robinson II,66,0,0,0,24,0,42
+Aiken,Aiken No. 47,U.S. House,2,DEM,David Robinson II,7,0,0,0,1,0,6
+Aiken,Hammond No. 48,U.S. House,2,DEM,David Robinson II,23,0,0,0,7,0,16
+Aiken,Willow Springs,U.S. House,2,DEM,David Robinson II,11,0,0,0,2,0,9
+Aiken,Breezy Hill,U.S. House,2,DEM,David Robinson II,12,0,0,0,3,0,9
+Aiken,Midland Valley No. 51,U.S. House,2,DEM,David Robinson II,8,0,0,0,2,0,6
+Aiken,Levels No. 52,U.S. House,2,DEM,David Robinson II,10,0,1,0,6,0,3
+Aiken,Hollow Creek,U.S. House,2,DEM,David Robinson II,10,0,0,0,2,0,8
+Aiken,N. Augusta No. 54,U.S. House,2,DEM,David Robinson II,33,0,0,0,13,0,20
+Aiken,N. Augusta No. 55,U.S. House,2,DEM,David Robinson II,9,0,1,0,2,0,6
+Aiken,Couchton,U.S. House,2,DEM,David Robinson II,19,0,1,0,4,0,14
+Aiken,Redds Branch,U.S. House,2,DEM,David Robinson II,14,0,0,0,5,0,9
+Aiken,Fox Creek No. 58,U.S. House,2,DEM,David Robinson II,23,0,1,0,4,0,18
+Aiken,Pine Forest,U.S. House,2,DEM,David Robinson II,11,0,3,0,0,0,8
+Aiken,Gem Lakes No. 60,U.S. House,2,DEM,David Robinson II,4,0,0,0,1,0,3
+Aiken,Silver Bluff,U.S. House,2,DEM,David Robinson II,41,0,2,0,9,0,30
+Aiken,Belvedere No. 62,U.S. House,2,DEM,David Robinson II,39,0,3,0,24,0,12
+Aiken,Ascauga Lake No. 63,U.S. House,2,DEM,David Robinson II,18,0,0,0,11,0,7
+Aiken,Cedar Creek No. 64,U.S. House,2,DEM,David Robinson II,20,0,0,0,7,0,13
+Aiken,Sleepy Hollow No. 65,U.S. House,2,DEM,David Robinson II,19,0,0,0,8,0,11
+Aiken,Hitchcock No. 66,U.S. House,2,DEM,David Robinson II,9,0,0,0,1,0,8
+Aiken,N. Augusta No. 67,U.S. House,2,DEM,David Robinson II,8,0,0,0,3,0,5
+Aiken,N. Augusta No. 68,U.S. House,2,DEM,David Robinson II,9,0,0,0,4,0,5
+Aiken,Anderson Pond No. 69,U.S. House,2,DEM,David Robinson II,15,0,0,0,6,0,9
+Aiken,Sandstone No. 70,U.S. House,2,DEM,David Robinson II,9,0,0,0,5,0,4
+Aiken,Midland Valley No. 71,U.S. House,2,DEM,David Robinson II,28,0,1,0,17,0,10
+Aiken,Levels No. 72,U.S. House,2,DEM,David Robinson II,13,0,0,0,5,0,8
+Aiken,Fox Creek No. 73,U.S. House,2,DEM,David Robinson II,11,0,0,0,3,0,8
+Aiken,Belvedere No. 74,U.S. House,2,DEM,David Robinson II,2,0,0,0,1,0,1
+Aiken,South Aiken No. 75,U.S. House,2,DEM,David Robinson II,29,0,0,0,14,0,15
+Aiken,South Aiken No. 76,U.S. House,2,DEM,David Robinson II,7,0,1,0,0,0,6
+Aiken,Gem Lakes No. 77,U.S. House,2,DEM,David Robinson II,10,0,1,0,5,0,4
+Aiken,Montmorenci No. 78,U.S. House,2,DEM,David Robinson II,19,0,4,0,8,0,7
+Aiken,Sandstone No. 79,U.S. House,2,DEM,David Robinson II,15,0,0,0,11,0,4
+Aiken,N. Augusta No. 80,U.S. House,2,DEM,David Robinson II,7,0,0,0,2,0,5
+Aiken,Hammond No. 81,U.S. House,2,DEM,David Robinson II,17,0,0,0,3,0,14
+Aiken,Windsor No. 82,U.S. House,2,DEM,David Robinson II,11,0,0,0,4,0,7
+Aiken,Levels No. 83,U.S. House,2,DEM,David Robinson II,12,0,0,0,8,0,4
+Aiken,Ascauga Lake No. 84,U.S. House,2,DEM,David Robinson II,25,0,0,0,10,0,15
+Aiken,Creek No. 85,U.S. House,2,DEM,David Robinson II,12,0,0,0,2,0,10
+Aiken,Community No. 86,U.S. House,2,DEM,David Robinson II,8,0,1,0,3,0,4
+Aiken,Breezy No. 87,U.S. House,2,DEM,David Robinson II,8,0,0,0,2,0,6
+Aiken,Midlands No. 88,U.S. House,2,DEM,David Robinson II,23,0,2,0,7,0,14
+Aiken,South Creek No. 89,U.S. House,2,DEM,David Robinson II,17,0,0,0,10,0,7
+Aiken,Failsafe,U.S. House,2,DEM,David Robinson II,0,0,0,0,0,0,0
+Aiken,Provisional,U.S. House,2,DEM,David Robinson II,1,0,0,0,0,1,0
+Aiken,Failsafe Provisional,U.S. House,2,DEM,David Robinson II,0,0,0,0,0,0,0
+Aiken,Aiken No. 1,U.S. House,2,DEM,Daniel J Shrief,3,0,1,0,1,0,1
+Aiken,Aiken No. 2,U.S. House,2,DEM,Daniel J Shrief,10,0,0,0,5,0,5
+Aiken,Aiken No. 3,U.S. House,2,DEM,Daniel J Shrief,9,0,0,0,4,0,5
+Aiken,Aiken No. 4,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,0,0,2
+Aiken,Aiken No. 5,U.S. House,2,DEM,Daniel J Shrief,5,0,0,0,0,0,5
+Aiken,Aiken No. 6,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,0,0,2
+Aiken,Bath,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,0,0,1
+Aiken,Beech Island,U.S. House,2,DEM,Daniel J Shrief,7,0,0,0,1,0,6
+Aiken,Belvedere No. 9,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,0,0,2
+Aiken,Carolina Heights,U.S. House,2,DEM,Daniel J Shrief,3,0,0,0,2,0,1
+Aiken,China Springs,U.S. House,2,DEM,Daniel J Shrief,12,0,1,0,5,0,6
+Aiken,Clearwater,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,1,0,0
+Aiken,College Acres,U.S. House,2,DEM,Daniel J Shrief,6,0,0,0,3,0,3
+Aiken,Eureka,U.S. House,2,DEM,Daniel J Shrief,3,0,0,0,2,0,1
+Aiken,Gloverville,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,1,0,1
+Aiken,Graniteville,U.S. House,2,DEM,Daniel J Shrief,3,0,0,0,1,0,2
+Aiken,Jackson,U.S. House,2,DEM,Daniel J Shrief,3,0,0,0,1,0,2
+Aiken,Langley,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,0,0,2
+Aiken,Lynwood,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,0,0,1
+Aiken,Millbrook,U.S. House,2,DEM,Daniel J Shrief,4,0,0,0,1,0,3
+Aiken,Monetta,U.S. House,2,DEM,Daniel J Shrief,7,0,0,0,1,0,6
+Aiken,Montmorenci No. 22,U.S. House,2,DEM,Daniel J Shrief,7,0,0,0,2,0,5
+Aiken,New Ellenton,U.S. House,2,DEM,Daniel J Shrief,6,0,0,0,3,0,3
+Aiken,New Holland,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,1,0,0
+Aiken,N. Augusta No. 25,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,0,0,2
+Aiken,N. Augusta No. 26,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,0,0,1
+Aiken,N. Augusta No. 27,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,1,0,0
+Aiken,N. Augusta No. 28,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,0,0,1
+Aiken,N. Augusta No. 29,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,1,0,1
+Aiken,Oak Grove,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,1,0,1
+Aiken,Perry,U.S. House,2,DEM,Daniel J Shrief,3,0,0,0,0,0,3
+Aiken,Salley,U.S. House,2,DEM,Daniel J Shrief,7,0,1,0,2,0,4
+Aiken,Shaws Fork,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,0,0,1
+Aiken,Shiloh,U.S. House,2,DEM,Daniel J Shrief,5,0,0,0,1,0,4
+Aiken,Six Points No. 35,U.S. House,2,DEM,Daniel J Shrief,4,0,0,0,3,0,1
+Aiken,Tabernacle,U.S. House,2,DEM,Daniel J Shrief,6,0,0,0,1,0,5
+Aiken,Talatha,U.S. House,2,DEM,Daniel J Shrief,6,0,0,0,5,0,1
+Aiken,Vaucluse,U.S. House,2,DEM,Daniel J Shrief,11,0,2,0,4,0,5
+Aiken,Wagener,U.S. House,2,DEM,Daniel J Shrief,11,0,0,0,4,0,7
+Aiken,Ward,U.S. House,2,DEM,Daniel J Shrief,4,0,0,0,0,0,4
+Aiken,Warrenville,U.S. House,2,DEM,Daniel J Shrief,6,0,0,0,1,0,5
+Aiken,White Pond,U.S. House,2,DEM,Daniel J Shrief,6,0,2,0,1,0,3
+Aiken,Windsor No. 43,U.S. House,2,DEM,Daniel J Shrief,4,0,0,0,4,0,0
+Aiken,Belvedere No. 44,U.S. House,2,DEM,Daniel J Shrief,3,0,0,0,1,0,2
+Aiken,Misty Lakes,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,1,0,1
+Aiken,Six Points No. 46,U.S. House,2,DEM,Daniel J Shrief,9,0,0,0,2,0,7
+Aiken,Aiken No. 47,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,0,0,1
+Aiken,Hammond No. 48,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,0,0,2
+Aiken,Willow Springs,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,1,0,0
+Aiken,Breezy Hill,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,0,0,1
+Aiken,Midland Valley No. 51,U.S. House,2,DEM,Daniel J Shrief,0,0,0,0,0,0,0
+Aiken,Levels No. 52,U.S. House,2,DEM,Daniel J Shrief,5,0,0,0,1,0,4
+Aiken,Hollow Creek,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,0,0,1
+Aiken,N. Augusta No. 54,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,0,0,2
+Aiken,N. Augusta No. 55,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,1,0,0
+Aiken,Couchton,U.S. House,2,DEM,Daniel J Shrief,4,0,0,0,1,0,3
+Aiken,Redds Branch,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,0,0,1
+Aiken,Fox Creek No. 58,U.S. House,2,DEM,Daniel J Shrief,0,0,0,0,0,0,0
+Aiken,Pine Forest,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,0,0,1
+Aiken,Gem Lakes No. 60,U.S. House,2,DEM,Daniel J Shrief,3,0,2,0,0,0,1
+Aiken,Silver Bluff,U.S. House,2,DEM,Daniel J Shrief,11,0,0,0,4,0,7
+Aiken,Belvedere No. 62,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,1,0,1
+Aiken,Ascauga Lake No. 63,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,1,0,0
+Aiken,Cedar Creek No. 64,U.S. House,2,DEM,Daniel J Shrief,6,0,0,0,0,0,6
+Aiken,Sleepy Hollow No. 65,U.S. House,2,DEM,Daniel J Shrief,8,0,0,0,4,0,4
+Aiken,Hitchcock No. 66,U.S. House,2,DEM,Daniel J Shrief,3,0,0,0,0,0,3
+Aiken,N. Augusta No. 67,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,0,0,1
+Aiken,N. Augusta No. 68,U.S. House,2,DEM,Daniel J Shrief,3,0,0,0,0,0,3
+Aiken,Anderson Pond No. 69,U.S. House,2,DEM,Daniel J Shrief,6,0,2,0,2,0,2
+Aiken,Sandstone No. 70,U.S. House,2,DEM,Daniel J Shrief,0,0,0,0,0,0,0
+Aiken,Midland Valley No. 71,U.S. House,2,DEM,Daniel J Shrief,3,0,0,0,0,0,3
+Aiken,Levels No. 72,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,1,0,1
+Aiken,Fox Creek No. 73,U.S. House,2,DEM,Daniel J Shrief,3,0,0,0,0,0,3
+Aiken,Belvedere No. 74,U.S. House,2,DEM,Daniel J Shrief,0,0,0,0,0,0,0
+Aiken,South Aiken No. 75,U.S. House,2,DEM,Daniel J Shrief,5,0,0,0,2,0,3
+Aiken,South Aiken No. 76,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,2,0,0
+Aiken,Gem Lakes No. 77,U.S. House,2,DEM,Daniel J Shrief,3,0,1,0,2,0,0
+Aiken,Montmorenci No. 78,U.S. House,2,DEM,Daniel J Shrief,3,0,1,0,1,0,1
+Aiken,Sandstone No. 79,U.S. House,2,DEM,Daniel J Shrief,6,0,1,0,1,0,4
+Aiken,N. Augusta No. 80,U.S. House,2,DEM,Daniel J Shrief,3,0,0,0,1,0,2
+Aiken,Hammond No. 81,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,0,0,2
+Aiken,Windsor No. 82,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,0,0,1
+Aiken,Levels No. 83,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,1,0,1
+Aiken,Ascauga Lake No. 84,U.S. House,2,DEM,Daniel J Shrief,1,0,0,0,0,0,1
+Aiken,Creek No. 85,U.S. House,2,DEM,Daniel J Shrief,4,0,1,0,1,0,2
+Aiken,Community No. 86,U.S. House,2,DEM,Daniel J Shrief,2,0,1,0,1,0,0
+Aiken,Breezy No. 87,U.S. House,2,DEM,Daniel J Shrief,3,0,0,0,0,0,3
+Aiken,Midlands No. 88,U.S. House,2,DEM,Daniel J Shrief,2,0,0,0,1,0,1
+Aiken,South Creek No. 89,U.S. House,2,DEM,Daniel J Shrief,3,0,0,0,2,0,1
+Aiken,Failsafe,U.S. House,2,DEM,Daniel J Shrief,0,0,0,0,0,0,0
+Aiken,Provisional,U.S. House,2,DEM,Daniel J Shrief,0,0,0,0,0,0,0
+Aiken,Failsafe Provisional,U.S. House,2,DEM,Daniel J Shrief,0,0,0,0,0,0,0
+Aiken,Aiken No. 1,U.S. House,2,REP,Hamp Redmond,44,0,0,0,16,0,28
+Aiken,Aiken No. 2,U.S. House,2,REP,Hamp Redmond,2,0,0,0,1,0,1
+Aiken,Aiken No. 3,U.S. House,2,REP,Hamp Redmond,4,0,0,0,1,0,3
+Aiken,Aiken No. 4,U.S. House,2,REP,Hamp Redmond,3,0,0,0,0,0,3
+Aiken,Aiken No. 5,U.S. House,2,REP,Hamp Redmond,25,0,0,0,7,0,18
+Aiken,Aiken No. 6,U.S. House,2,REP,Hamp Redmond,55,0,1,0,18,0,36
+Aiken,Bath,U.S. House,2,REP,Hamp Redmond,10,0,0,0,1,0,9
+Aiken,Beech Island,U.S. House,2,REP,Hamp Redmond,11,0,0,0,1,0,10
+Aiken,Belvedere No. 9,U.S. House,2,REP,Hamp Redmond,7,0,0,0,0,0,7
+Aiken,Carolina Heights,U.S. House,2,REP,Hamp Redmond,12,0,0,0,6,0,6
+Aiken,China Springs,U.S. House,2,REP,Hamp Redmond,15,0,0,0,4,0,11
+Aiken,Clearwater,U.S. House,2,REP,Hamp Redmond,5,0,0,0,0,0,5
+Aiken,College Acres,U.S. House,2,REP,Hamp Redmond,27,0,0,0,4,0,23
+Aiken,Eureka,U.S. House,2,REP,Hamp Redmond,29,0,1,0,11,0,17
+Aiken,Gloverville,U.S. House,2,REP,Hamp Redmond,12,0,0,0,1,0,11
+Aiken,Graniteville,U.S. House,2,REP,Hamp Redmond,11,0,0,0,2,0,9
+Aiken,Jackson,U.S. House,2,REP,Hamp Redmond,17,0,0,0,1,0,16
+Aiken,Langley,U.S. House,2,REP,Hamp Redmond,28,0,0,0,4,0,24
+Aiken,Lynwood,U.S. House,2,REP,Hamp Redmond,8,0,0,0,1,0,7
+Aiken,Millbrook,U.S. House,2,REP,Hamp Redmond,58,0,0,0,22,0,36
+Aiken,Monetta,U.S. House,2,REP,Hamp Redmond,16,0,0,0,1,0,15
+Aiken,Montmorenci No. 22,U.S. House,2,REP,Hamp Redmond,29,0,1,0,7,0,21
+Aiken,New Ellenton,U.S. House,2,REP,Hamp Redmond,10,0,0,0,0,0,10
+Aiken,New Holland,U.S. House,2,REP,Hamp Redmond,15,0,0,0,1,0,14
+Aiken,N. Augusta No. 25,U.S. House,2,REP,Hamp Redmond,17,0,0,0,5,0,12
+Aiken,N. Augusta No. 26,U.S. House,2,REP,Hamp Redmond,4,0,0,0,3,0,1
+Aiken,N. Augusta No. 27,U.S. House,2,REP,Hamp Redmond,27,0,0,0,13,0,14
+Aiken,N. Augusta No. 28,U.S. House,2,REP,Hamp Redmond,29,0,0,0,12,0,17
+Aiken,N. Augusta No. 29,U.S. House,2,REP,Hamp Redmond,27,0,1,0,7,0,19
+Aiken,Oak Grove,U.S. House,2,REP,Hamp Redmond,33,0,0,0,0,0,33
+Aiken,Perry,U.S. House,2,REP,Hamp Redmond,21,0,0,0,1,0,20
+Aiken,Salley,U.S. House,2,REP,Hamp Redmond,9,0,0,0,2,0,7
+Aiken,Shaws Fork,U.S. House,2,REP,Hamp Redmond,12,0,1,0,0,0,11
+Aiken,Shiloh,U.S. House,2,REP,Hamp Redmond,46,0,2,0,14,0,30
+Aiken,Six Points No. 35,U.S. House,2,REP,Hamp Redmond,18,0,2,0,8,0,8
+Aiken,Tabernacle,U.S. House,2,REP,Hamp Redmond,34,0,2,0,2,0,30
+Aiken,Talatha,U.S. House,2,REP,Hamp Redmond,38,0,1,0,7,0,30
+Aiken,Vaucluse,U.S. House,2,REP,Hamp Redmond,30,0,0,0,4,0,26
+Aiken,Wagener,U.S. House,2,REP,Hamp Redmond,52,0,1,0,9,0,42
+Aiken,Ward,U.S. House,2,REP,Hamp Redmond,21,0,0,0,1,0,20
+Aiken,Warrenville,U.S. House,2,REP,Hamp Redmond,33,0,0,0,12,0,21
+Aiken,White Pond,U.S. House,2,REP,Hamp Redmond,5,0,0,0,1,0,4
+Aiken,Windsor No. 43,U.S. House,2,REP,Hamp Redmond,26,0,0,0,7,0,19
+Aiken,Belvedere No. 44,U.S. House,2,REP,Hamp Redmond,10,0,0,0,1,0,9
+Aiken,Misty Lakes,U.S. House,2,REP,Hamp Redmond,14,0,0,0,1,0,13
+Aiken,Six Points No. 46,U.S. House,2,REP,Hamp Redmond,2,0,0,0,2,0,0
+Aiken,Aiken No. 47,U.S. House,2,REP,Hamp Redmond,28,0,0,0,9,0,19
+Aiken,Hammond No. 48,U.S. House,2,REP,Hamp Redmond,19,0,0,0,2,0,17
+Aiken,Willow Springs,U.S. House,2,REP,Hamp Redmond,10,0,0,0,4,0,6
+Aiken,Breezy Hill,U.S. House,2,REP,Hamp Redmond,9,0,0,0,1,0,8
+Aiken,Midland Valley No. 51,U.S. House,2,REP,Hamp Redmond,19,0,0,0,4,0,15
+Aiken,Levels No. 52,U.S. House,2,REP,Hamp Redmond,21,0,0,0,6,0,15
+Aiken,Hollow Creek,U.S. House,2,REP,Hamp Redmond,49,0,2,0,21,0,26
+Aiken,N. Augusta No. 54,U.S. House,2,REP,Hamp Redmond,7,0,0,0,7,0,0
+Aiken,N. Augusta No. 55,U.S. House,2,REP,Hamp Redmond,38,0,0,0,6,0,32
+Aiken,Couchton,U.S. House,2,REP,Hamp Redmond,29,0,2,0,5,0,22
+Aiken,Redds Branch,U.S. House,2,REP,Hamp Redmond,17,0,1,0,2,0,14
+Aiken,Fox Creek No. 58,U.S. House,2,REP,Hamp Redmond,12,0,0,0,1,0,11
+Aiken,Pine Forest,U.S. House,2,REP,Hamp Redmond,26,0,0,0,7,0,19
+Aiken,Gem Lakes No. 60,U.S. House,2,REP,Hamp Redmond,49,0,2,0,10,0,37
+Aiken,Silver Bluff,U.S. House,2,REP,Hamp Redmond,11,0,0,0,1,0,10
+Aiken,Belvedere No. 62,U.S. House,2,REP,Hamp Redmond,3,0,0,0,1,0,2
+Aiken,Ascauga Lake No. 63,U.S. House,2,REP,Hamp Redmond,7,0,0,0,0,0,7
+Aiken,Cedar Creek No. 64,U.S. House,2,REP,Hamp Redmond,53,0,0,0,14,0,39
+Aiken,Sleepy Hollow No. 65,U.S. House,2,REP,Hamp Redmond,64,0,0,0,7,0,57
+Aiken,Hitchcock No. 66,U.S. House,2,REP,Hamp Redmond,48,0,0,0,9,0,39
+Aiken,N. Augusta No. 67,U.S. House,2,REP,Hamp Redmond,30,0,0,0,5,0,25
+Aiken,N. Augusta No. 68,U.S. House,2,REP,Hamp Redmond,12,0,1,0,4,0,7
+Aiken,Anderson Pond No. 69,U.S. House,2,REP,Hamp Redmond,90,0,3,0,40,0,47
+Aiken,Sandstone No. 70,U.S. House,2,REP,Hamp Redmond,17,0,1,0,8,0,8
+Aiken,Midland Valley No. 71,U.S. House,2,REP,Hamp Redmond,23,0,0,0,4,0,19
+Aiken,Levels No. 72,U.S. House,2,REP,Hamp Redmond,22,0,0,0,7,0,15
+Aiken,Fox Creek No. 73,U.S. House,2,REP,Hamp Redmond,15,0,0,0,3,0,12
+Aiken,Belvedere No. 74,U.S. House,2,REP,Hamp Redmond,5,0,0,0,0,0,5
+Aiken,South Aiken No. 75,U.S. House,2,REP,Hamp Redmond,29,0,0,0,8,0,21
+Aiken,South Aiken No. 76,U.S. House,2,REP,Hamp Redmond,41,0,0,0,13,0,28
+Aiken,Gem Lakes No. 77,U.S. House,2,REP,Hamp Redmond,55,0,2,0,28,0,25
+Aiken,Montmorenci No. 78,U.S. House,2,REP,Hamp Redmond,30,0,0,0,10,0,20
+Aiken,Sandstone No. 79,U.S. House,2,REP,Hamp Redmond,19,0,1,0,8,0,10
+Aiken,N. Augusta No. 80,U.S. House,2,REP,Hamp Redmond,19,0,0,0,1,0,18
+Aiken,Hammond No. 81,U.S. House,2,REP,Hamp Redmond,16,0,0,0,3,0,13
+Aiken,Windsor No. 82,U.S. House,2,REP,Hamp Redmond,17,0,1,0,1,0,15
+Aiken,Levels No. 83,U.S. House,2,REP,Hamp Redmond,15,0,0,0,4,0,11
+Aiken,Ascauga Lake No. 84,U.S. House,2,REP,Hamp Redmond,15,0,0,0,7,0,8
+Aiken,Creek No. 85,U.S. House,2,REP,Hamp Redmond,9,0,0,0,0,0,9
+Aiken,Community No. 86,U.S. House,2,REP,Hamp Redmond,19,0,1,0,2,0,16
+Aiken,Breezy No. 87,U.S. House,2,REP,Hamp Redmond,6,0,0,0,1,0,5
+Aiken,Midlands No. 88,U.S. House,2,REP,Hamp Redmond,18,0,0,0,5,0,13
+Aiken,South Creek No. 89,U.S. House,2,REP,Hamp Redmond,42,0,0,0,23,0,19
+Aiken,Failsafe,U.S. House,2,REP,Hamp Redmond,0,0,0,0,0,0,0
+Aiken,Provisional,U.S. House,2,REP,Hamp Redmond,2,0,0,0,0,2,0
+Aiken,Failsafe Provisional,U.S. House,2,REP,Hamp Redmond,0,0,0,0,0,0,0
+Aiken,Aiken No. 1,U.S. House,2,REP,Joe Wilson,175,0,5,0,68,0,102
+Aiken,Aiken No. 2,U.S. House,2,REP,Joe Wilson,33,0,5,0,14,0,14
+Aiken,Aiken No. 3,U.S. House,2,REP,Joe Wilson,8,0,0,0,2,0,6
+Aiken,Aiken No. 4,U.S. House,2,REP,Joe Wilson,9,0,0,0,3,0,6
+Aiken,Aiken No. 5,U.S. House,2,REP,Joe Wilson,70,0,0,0,26,0,44
+Aiken,Aiken No. 6,U.S. House,2,REP,Joe Wilson,125,0,2,0,41,0,82
+Aiken,Bath,U.S. House,2,REP,Joe Wilson,23,0,1,0,4,0,18
+Aiken,Beech Island,U.S. House,2,REP,Joe Wilson,40,0,1,0,5,0,34
+Aiken,Belvedere No. 9,U.S. House,2,REP,Joe Wilson,26,0,0,0,3,0,23
+Aiken,Carolina Heights,U.S. House,2,REP,Joe Wilson,46,0,1,0,15,0,30
+Aiken,China Springs,U.S. House,2,REP,Joe Wilson,33,0,1,0,13,0,19
+Aiken,Clearwater,U.S. House,2,REP,Joe Wilson,33,0,0,0,1,0,32
+Aiken,College Acres,U.S. House,2,REP,Joe Wilson,129,0,2,0,28,0,99
+Aiken,Eureka,U.S. House,2,REP,Joe Wilson,67,0,3,0,19,0,45
+Aiken,Gloverville,U.S. House,2,REP,Joe Wilson,72,0,2,0,7,0,63
+Aiken,Graniteville,U.S. House,2,REP,Joe Wilson,82,0,1,0,23,0,58
+Aiken,Jackson,U.S. House,2,REP,Joe Wilson,108,0,1,0,13,0,94
+Aiken,Langley,U.S. House,2,REP,Joe Wilson,74,0,1,0,22,0,51
+Aiken,Lynwood,U.S. House,2,REP,Joe Wilson,57,0,0,0,7,0,50
+Aiken,Millbrook,U.S. House,2,REP,Joe Wilson,212,0,6,0,89,0,117
+Aiken,Monetta,U.S. House,2,REP,Joe Wilson,52,0,0,0,8,0,44
+Aiken,Montmorenci No. 22,U.S. House,2,REP,Joe Wilson,120,0,11,0,36,0,73
+Aiken,New Ellenton,U.S. House,2,REP,Joe Wilson,56,0,2,0,7,0,47
+Aiken,New Holland,U.S. House,2,REP,Joe Wilson,46,0,1,0,14,0,31
+Aiken,N. Augusta No. 25,U.S. House,2,REP,Joe Wilson,83,0,2,0,27,0,54
+Aiken,N. Augusta No. 26,U.S. House,2,REP,Joe Wilson,32,0,2,0,10,0,20
+Aiken,N. Augusta No. 27,U.S. House,2,REP,Joe Wilson,129,0,2,0,29,0,98
+Aiken,N. Augusta No. 28,U.S. House,2,REP,Joe Wilson,83,0,5,0,24,0,54
+Aiken,N. Augusta No. 29,U.S. House,2,REP,Joe Wilson,106,0,0,0,44,0,62
+Aiken,Oak Grove,U.S. House,2,REP,Joe Wilson,59,0,3,0,8,0,48
+Aiken,Perry,U.S. House,2,REP,Joe Wilson,44,0,0,0,5,0,39
+Aiken,Salley,U.S. House,2,REP,Joe Wilson,28,0,0,0,5,0,23
+Aiken,Shaws Fork,U.S. House,2,REP,Joe Wilson,35,0,0,0,4,0,31
+Aiken,Shiloh,U.S. House,2,REP,Joe Wilson,131,0,2,0,30,0,99
+Aiken,Six Points No. 35,U.S. House,2,REP,Joe Wilson,103,0,5,0,48,0,50
+Aiken,Tabernacle,U.S. House,2,REP,Joe Wilson,25,0,0,0,3,0,22
+Aiken,Talatha,U.S. House,2,REP,Joe Wilson,117,0,8,0,27,0,82
+Aiken,Vaucluse,U.S. House,2,REP,Joe Wilson,104,0,3,0,36,0,65
+Aiken,Wagener,U.S. House,2,REP,Joe Wilson,79,0,2,0,20,0,57
+Aiken,Ward,U.S. House,2,REP,Joe Wilson,65,0,1,0,17,0,47
+Aiken,Warrenville,U.S. House,2,REP,Joe Wilson,120,0,2,0,37,0,81
+Aiken,White Pond,U.S. House,2,REP,Joe Wilson,27,0,1,0,2,0,24
+Aiken,Windsor No. 43,U.S. House,2,REP,Joe Wilson,64,0,2,0,10,0,52
+Aiken,Belvedere No. 44,U.S. House,2,REP,Joe Wilson,47,0,2,0,5,0,40
+Aiken,Misty Lakes,U.S. House,2,REP,Joe Wilson,85,0,1,0,18,0,66
+Aiken,Six Points No. 46,U.S. House,2,REP,Joe Wilson,14,0,0,0,8,0,6
+Aiken,Aiken No. 47,U.S. House,2,REP,Joe Wilson,91,0,0,0,27,0,64
+Aiken,Hammond No. 48,U.S. House,2,REP,Joe Wilson,79,0,0,0,18,0,61
+Aiken,Willow Springs,U.S. House,2,REP,Joe Wilson,68,0,6,0,11,0,51
+Aiken,Breezy Hill,U.S. House,2,REP,Joe Wilson,21,0,3,0,1,0,17
+Aiken,Midland Valley No. 51,U.S. House,2,REP,Joe Wilson,52,0,4,0,14,0,34
+Aiken,Levels No. 52,U.S. House,2,REP,Joe Wilson,60,0,2,0,19,0,39
+Aiken,Hollow Creek,U.S. House,2,REP,Joe Wilson,168,0,8,0,45,0,115
+Aiken,N. Augusta No. 54,U.S. House,2,REP,Joe Wilson,22,0,1,0,5,0,16
+Aiken,N. Augusta No. 55,U.S. House,2,REP,Joe Wilson,92,0,0,0,25,0,67
+Aiken,Couchton,U.S. House,2,REP,Joe Wilson,101,0,0,0,20,0,81
+Aiken,Redds Branch,U.S. House,2,REP,Joe Wilson,77,0,5,0,20,0,52
+Aiken,Fox Creek No. 58,U.S. House,2,REP,Joe Wilson,67,0,3,0,17,0,47
+Aiken,Pine Forest,U.S. House,2,REP,Joe Wilson,94,0,1,0,26,0,67
+Aiken,Gem Lakes No. 60,U.S. House,2,REP,Joe Wilson,139,0,4,0,54,0,81
+Aiken,Silver Bluff,U.S. House,2,REP,Joe Wilson,63,0,6,0,9,0,48
+Aiken,Belvedere No. 62,U.S. House,2,REP,Joe Wilson,37,0,0,0,6,0,31
+Aiken,Ascauga Lake No. 63,U.S. House,2,REP,Joe Wilson,45,0,0,0,14,0,31
+Aiken,Cedar Creek No. 64,U.S. House,2,REP,Joe Wilson,240,0,10,0,75,0,155
+Aiken,Sleepy Hollow No. 65,U.S. House,2,REP,Joe Wilson,182,0,3,0,39,0,140
+Aiken,Hitchcock No. 66,U.S. House,2,REP,Joe Wilson,129,0,1,0,30,0,98
+Aiken,N. Augusta No. 67,U.S. House,2,REP,Joe Wilson,88,0,2,0,15,0,71
+Aiken,N. Augusta No. 68,U.S. House,2,REP,Joe Wilson,82,0,12,0,23,0,47
+Aiken,Anderson Pond No. 69,U.S. House,2,REP,Joe Wilson,333,0,11,0,162,0,160
+Aiken,Sandstone No. 70,U.S. House,2,REP,Joe Wilson,56,0,0,0,27,0,29
+Aiken,Midland Valley No. 71,U.S. House,2,REP,Joe Wilson,128,0,4,0,36,0,88
+Aiken,Levels No. 72,U.S. House,2,REP,Joe Wilson,39,0,3,0,8,0,28
+Aiken,Fox Creek No. 73,U.S. House,2,REP,Joe Wilson,85,0,5,0,18,0,62
+Aiken,Belvedere No. 74,U.S. House,2,REP,Joe Wilson,20,0,1,0,2,0,17
+Aiken,South Aiken No. 75,U.S. House,2,REP,Joe Wilson,126,0,2,0,37,0,87
+Aiken,South Aiken No. 76,U.S. House,2,REP,Joe Wilson,72,0,2,0,25,0,45
+Aiken,Gem Lakes No. 77,U.S. House,2,REP,Joe Wilson,202,0,2,0,102,0,98
+Aiken,Montmorenci No. 78,U.S. House,2,REP,Joe Wilson,89,0,5,0,27,0,57
+Aiken,Sandstone No. 79,U.S. House,2,REP,Joe Wilson,86,0,1,0,31,0,54
+Aiken,N. Augusta No. 80,U.S. House,2,REP,Joe Wilson,60,0,5,0,22,0,33
+Aiken,Hammond No. 81,U.S. House,2,REP,Joe Wilson,44,0,1,0,5,0,38
+Aiken,Windsor No. 82,U.S. House,2,REP,Joe Wilson,63,0,6,0,6,0,51
+Aiken,Levels No. 83,U.S. House,2,REP,Joe Wilson,59,0,0,0,26,0,33
+Aiken,Ascauga Lake No. 84,U.S. House,2,REP,Joe Wilson,56,0,1,0,15,0,40
+Aiken,Creek No. 85,U.S. House,2,REP,Joe Wilson,36,0,0,0,11,0,25
+Aiken,Community No. 86,U.S. House,2,REP,Joe Wilson,47,0,3,0,16,0,28
+Aiken,Breezy No. 87,U.S. House,2,REP,Joe Wilson,63,0,1,0,13,0,49
+Aiken,Midlands No. 88,U.S. House,2,REP,Joe Wilson,81,0,5,0,24,0,52
+Aiken,South Creek No. 89,U.S. House,2,REP,Joe Wilson,164,0,6,0,51,0,107
+Aiken,Failsafe,U.S. House,2,REP,Joe Wilson,3,3,0,0,0,0,0
+Aiken,Provisional,U.S. House,2,REP,Joe Wilson,1,0,0,0,0,1,0
+Aiken,Failsafe Provisional,U.S. House,2,REP,Joe Wilson,0,0,0,0,0,0,0
+Aiken,Monetta,State Senate,40,DEM,Kendrick Brown,17,0,0,0,1,0,16
+Aiken,New Holland,State Senate,40,DEM,Kendrick Brown,3,0,0,0,1,0,2
+Aiken,Oak Grove,State Senate,40,DEM,Kendrick Brown,4,0,0,0,1,0,3
+Aiken,Perry,State Senate,40,DEM,Kendrick Brown,10,0,0,0,1,0,9
+Aiken,Salley,State Senate,40,DEM,Kendrick Brown,12,0,3,0,3,0,6
+Aiken,Tabernacle,State Senate,40,DEM,Kendrick Brown,6,0,0,0,0,0,6
+Aiken,Wagener,State Senate,40,DEM,Kendrick Brown,23,0,0,0,7,0,16
+Aiken,Ward,State Senate,40,DEM,Kendrick Brown,17,0,1,0,3,0,13
+Aiken,White Pond,State Senate,40,DEM,Kendrick Brown,16,0,0,0,2,0,14
+Aiken,Windsor No. 43,State Senate,40,DEM,Kendrick Brown,7,0,0,0,3,0,4
+Aiken,Windsor No. 82,State Senate,40,DEM,Kendrick Brown,7,0,0,0,3,0,4
+Aiken,Failsafe,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Aiken,Provisional,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Aiken,Failsafe Provisional,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Aiken,Monetta,State Senate,40,DEM,Brad Hutto,11,0,2,0,1,0,8
+Aiken,New Holland,State Senate,40,DEM,Brad Hutto,8,0,0,0,3,0,5
+Aiken,Oak Grove,State Senate,40,DEM,Brad Hutto,4,0,0,0,1,0,3
+Aiken,Perry,State Senate,40,DEM,Brad Hutto,10,0,1,0,3,0,6
+Aiken,Salley,State Senate,40,DEM,Brad Hutto,23,0,0,0,10,0,13
+Aiken,Tabernacle,State Senate,40,DEM,Brad Hutto,9,0,0,0,4,0,5
+Aiken,Wagener,State Senate,40,DEM,Brad Hutto,32,0,0,0,14,0,18
+Aiken,Ward,State Senate,40,DEM,Brad Hutto,12,0,0,0,1,0,11
+Aiken,White Pond,State Senate,40,DEM,Brad Hutto,17,0,2,0,9,0,6
+Aiken,Windsor No. 43,State Senate,40,DEM,Brad Hutto,14,0,1,0,8,0,5
+Aiken,Windsor No. 82,State Senate,40,DEM,Brad Hutto,5,0,0,0,1,0,4
+Aiken,Failsafe,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Aiken,Provisional,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Aiken,Failsafe Provisional,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Aiken,Aiken No. 2,State House,82,DEM,William Bill Clyburn,39,0,0,0,19,0,20
+Aiken,Aiken No. 3,State House,82,DEM,William Bill Clyburn,69,0,0,0,37,0,32
+Aiken,Aiken No. 4,State House,82,DEM,William Bill Clyburn,35,0,1,0,20,0,14
+Aiken,Aiken No. 5,State House,82,DEM,William Bill Clyburn,29,0,0,0,19,0,10
+Aiken,China Springs,State House,82,DEM,William Bill Clyburn,56,0,2,0,24,0,30
+Aiken,Eureka,State House,82,DEM,William Bill Clyburn,25,0,0,0,13,0,12
+Aiken,Graniteville,State House,82,DEM,William Bill Clyburn,12,0,0,0,2,0,10
+Aiken,Six Points No. 35,State House,82,DEM,William Bill Clyburn,42,0,2,0,19,0,21
+Aiken,Vaucluse,State House,82,DEM,William Bill Clyburn,40,0,5,0,21,0,14
+Aiken,Six Points No. 46,State House,82,DEM,William Bill Clyburn,89,0,0,0,36,0,53
+Aiken,Redds Branch,State House,82,DEM,William Bill Clyburn,6,0,0,0,5,0,1
+Aiken,Levels No. 72,State House,82,DEM,William Bill Clyburn,6,0,0,0,2,0,4
+Aiken,Failsafe,State House,82,DEM,William Bill Clyburn,0,0,0,0,0,0,0
+Aiken,Provisional,State House,82,DEM,William Bill Clyburn,0,0,0,0,0,0,0
+Aiken,Failsafe Provisional,State House,82,DEM,William Bill Clyburn,0,0,0,0,0,0,0
+Aiken,Aiken No. 2,State House,82,DEM,Brian Ryan B Doyle,7,0,0,0,3,0,4
+Aiken,Aiken No. 3,State House,82,DEM,Brian Ryan B Doyle,11,0,0,0,3,0,8
+Aiken,Aiken No. 4,State House,82,DEM,Brian Ryan B Doyle,6,0,0,0,1,0,5
+Aiken,Aiken No. 5,State House,82,DEM,Brian Ryan B Doyle,7,0,0,0,0,0,7
+Aiken,China Springs,State House,82,DEM,Brian Ryan B Doyle,15,0,1,0,6,0,8
+Aiken,Eureka,State House,82,DEM,Brian Ryan B Doyle,1,0,0,0,1,0,0
+Aiken,Graniteville,State House,82,DEM,Brian Ryan B Doyle,0,0,0,0,0,0,0
+Aiken,Six Points No. 35,State House,82,DEM,Brian Ryan B Doyle,3,0,0,0,1,0,2
+Aiken,Vaucluse,State House,82,DEM,Brian Ryan B Doyle,8,0,0,0,2,0,6
+Aiken,Six Points No. 46,State House,82,DEM,Brian Ryan B Doyle,11,0,0,0,4,0,7
+Aiken,Redds Branch,State House,82,DEM,Brian Ryan B Doyle,1,0,0,0,0,0,1
+Aiken,Levels No. 72,State House,82,DEM,Brian Ryan B Doyle,0,0,0,0,0,0,0
+Aiken,Failsafe,State House,82,DEM,Brian Ryan B Doyle,0,0,0,0,0,0,0
+Aiken,Provisional,State House,82,DEM,Brian Ryan B Doyle,0,0,0,0,0,0,0
+Aiken,Failsafe Provisional,State House,82,DEM,Brian Ryan B Doyle,0,0,0,0,0,0,0
+Aiken,Aiken No. 1,State House,81,REP,Charles Hartz,158,0,4,0,56,0,98
+Aiken,Aiken No. 2,State House,81,REP,Charles Hartz,16,0,1,0,10,0,5
+Aiken,Aiken No. 5,State House,81,REP,Charles Hartz,58,0,0,0,19,0,39
+Aiken,Aiken No. 6,State House,81,REP,Charles Hartz,109,0,1,0,39,0,69
+Aiken,College Acres,State House,81,REP,Charles Hartz,104,0,1,0,21,0,82
+Aiken,Millbrook,State House,81,REP,Charles Hartz,180,0,3,0,74,0,103
+Aiken,Montmorenci No. 22,State House,81,REP,Charles Hartz,83,0,3,0,25,0,55
+Aiken,Talatha,State House,81,REP,Charles Hartz,31,0,3,0,9,0,19
+Aiken,Warrenville,State House,81,REP,Charles Hartz,83,0,0,0,32,0,51
+Aiken,Aiken No. 47,State House,81,REP,Charles Hartz,74,0,0,0,25,0,49
+Aiken,Levels No. 52,State House,81,REP,Charles Hartz,51,0,2,0,17,0,32
+Aiken,Hollow Creek,State House,81,REP,Charles Hartz,167,0,5,0,51,0,111
+Aiken,Pine Forest,State House,81,REP,Charles Hartz,30,0,1,0,9,0,20
+Aiken,Gem Lakes No. 60,State House,81,REP,Charles Hartz,118,0,3,0,44,0,71
+Aiken,Silver Bluff,State House,81,REP,Charles Hartz,14,0,2,0,4,0,8
+Aiken,Sleepy Hollow No. 65,State House,81,REP,Charles Hartz,165,0,2,0,34,0,129
+Aiken,Hitchcock No. 66,State House,81,REP,Charles Hartz,115,0,0,0,31,0,84
+Aiken,Anderson Pond No. 69,State House,81,REP,Charles Hartz,343,0,7,0,169,0,167
+Aiken,Sandstone No. 70,State House,81,REP,Charles Hartz,44,0,0,0,25,0,19
+Aiken,Levels No. 72,State House,81,REP,Charles Hartz,28,0,3,0,7,0,18
+Aiken,South Aiken No. 75,State House,81,REP,Charles Hartz,88,0,0,0,18,0,70
+Aiken,South Aiken No. 76,State House,81,REP,Charles Hartz,71,0,1,0,29,0,41
+Aiken,Gem Lakes No. 77,State House,81,REP,Charles Hartz,175,0,1,0,92,0,82
+Aiken,Sandstone No. 79,State House,81,REP,Charles Hartz,77,0,1,0,30,0,46
+Aiken,Levels No. 83,State House,81,REP,Charles Hartz,49,0,0,0,23,0,26
+Aiken,South Creek No. 89,State House,81,REP,Charles Hartz,141,0,4,0,49,0,88
+Aiken,Failsafe,State House,81,REP,Charles Hartz,0,0,0,0,0,0,0
+Aiken,Provisional,State House,81,REP,Charles Hartz,0,0,0,0,0,0,0
+Aiken,Failsafe Provisional,State House,81,REP,Charles Hartz,0,0,0,0,0,0,0
+Aiken,Aiken No. 1,State House,81,REP,Betsy Lamb,20,0,0,0,6,0,14
+Aiken,Aiken No. 2,State House,81,REP,Betsy Lamb,5,0,2,0,1,0,2
+Aiken,Aiken No. 5,State House,81,REP,Betsy Lamb,8,0,0,0,3,0,5
+Aiken,Aiken No. 6,State House,81,REP,Betsy Lamb,32,0,1,0,6,0,25
+Aiken,College Acres,State House,81,REP,Betsy Lamb,32,0,1,0,6,0,25
+Aiken,Millbrook,State House,81,REP,Betsy Lamb,70,0,2,0,26,0,42
+Aiken,Montmorenci No. 22,State House,81,REP,Betsy Lamb,43,0,2,0,13,0,28
+Aiken,Talatha,State House,81,REP,Betsy Lamb,9,0,1,0,0,0,8
+Aiken,Warrenville,State House,81,REP,Betsy Lamb,31,0,0,0,6,0,25
+Aiken,Aiken No. 47,State House,81,REP,Betsy Lamb,29,0,0,0,7,0,22
+Aiken,Levels No. 52,State House,81,REP,Betsy Lamb,21,0,0,0,7,0,14
+Aiken,Hollow Creek,State House,81,REP,Betsy Lamb,17,0,3,0,2,0,12
+Aiken,Pine Forest,State House,81,REP,Betsy Lamb,9,0,0,0,3,0,6
+Aiken,Gem Lakes No. 60,State House,81,REP,Betsy Lamb,47,0,2,0,11,0,34
+Aiken,Silver Bluff,State House,81,REP,Betsy Lamb,6,0,0,0,1,0,5
+Aiken,Sleepy Hollow No. 65,State House,81,REP,Betsy Lamb,53,0,0,0,6,0,47
+Aiken,Hitchcock No. 66,State House,81,REP,Betsy Lamb,39,0,1,0,1,0,37
+Aiken,Anderson Pond No. 69,State House,81,REP,Betsy Lamb,47,0,0,0,23,0,24
+Aiken,Sandstone No. 70,State House,81,REP,Betsy Lamb,16,0,0,0,5,0,11
+Aiken,Levels No. 72,State House,81,REP,Betsy Lamb,19,0,0,0,4,0,15
+Aiken,South Aiken No. 75,State House,81,REP,Betsy Lamb,44,0,1,0,19,0,24
+Aiken,South Aiken No. 76,State House,81,REP,Betsy Lamb,24,0,1,0,5,0,18
+Aiken,Gem Lakes No. 77,State House,81,REP,Betsy Lamb,60,0,3,0,26,0,31
+Aiken,Sandstone No. 79,State House,81,REP,Betsy Lamb,8,0,0,0,4,0,4
+Aiken,Levels No. 83,State House,81,REP,Betsy Lamb,13,0,0,0,1,0,12
+Aiken,South Creek No. 89,State House,81,REP,Betsy Lamb,36,0,0,0,11,0,25
+Aiken,Failsafe,State House,81,REP,Betsy Lamb,0,0,0,0,0,0,0
+Aiken,Provisional,State House,81,REP,Betsy Lamb,0,0,0,0,0,0,0
+Aiken,Failsafe Provisional,State House,81,REP,Betsy Lamb,0,0,0,0,0,0,0
+Aiken,Aiken No. 1,State House,81,REP,John Lewis,10,0,0,0,3,0,7
+Aiken,Aiken No. 2,State House,81,REP,John Lewis,1,0,0,0,0,0,1
+Aiken,Aiken No. 5,State House,81,REP,John Lewis,1,0,0,0,0,0,1
+Aiken,Aiken No. 6,State House,81,REP,John Lewis,4,0,0,0,0,0,4
+Aiken,College Acres,State House,81,REP,John Lewis,7,0,0,0,2,0,5
+Aiken,Millbrook,State House,81,REP,John Lewis,5,0,0,0,3,0,2
+Aiken,Montmorenci No. 22,State House,81,REP,John Lewis,6,0,1,0,1,0,4
+Aiken,Talatha,State House,81,REP,John Lewis,1,0,0,0,0,0,1
+Aiken,Warrenville,State House,81,REP,John Lewis,6,0,1,0,1,0,4
+Aiken,Aiken No. 47,State House,81,REP,John Lewis,6,0,0,0,0,0,6
+Aiken,Levels No. 52,State House,81,REP,John Lewis,2,0,0,0,1,0,1
+Aiken,Hollow Creek,State House,81,REP,John Lewis,3,0,1,0,1,0,1
+Aiken,Pine Forest,State House,81,REP,John Lewis,0,0,0,0,0,0,0
+Aiken,Gem Lakes No. 60,State House,81,REP,John Lewis,3,0,0,0,1,0,2
+Aiken,Silver Bluff,State House,81,REP,John Lewis,2,0,0,0,0,0,2
+Aiken,Sleepy Hollow No. 65,State House,81,REP,John Lewis,7,0,0,0,1,0,6
+Aiken,Hitchcock No. 66,State House,81,REP,John Lewis,5,0,0,0,1,0,4
+Aiken,Anderson Pond No. 69,State House,81,REP,John Lewis,8,0,0,0,6,0,2
+Aiken,Sandstone No. 70,State House,81,REP,John Lewis,3,0,0,0,0,0,3
+Aiken,Levels No. 72,State House,81,REP,John Lewis,6,0,0,0,3,0,3
+Aiken,South Aiken No. 75,State House,81,REP,John Lewis,5,0,0,0,2,0,3
+Aiken,South Aiken No. 76,State House,81,REP,John Lewis,4,0,0,0,2,0,2
+Aiken,Gem Lakes No. 77,State House,81,REP,John Lewis,5,0,0,0,2,0,3
+Aiken,Sandstone No. 79,State House,81,REP,John Lewis,5,0,0,0,1,0,4
+Aiken,Levels No. 83,State House,81,REP,John Lewis,1,0,0,0,1,0,0
+Aiken,South Creek No. 89,State House,81,REP,John Lewis,5,0,0,0,1,0,4
+Aiken,Failsafe,State House,81,REP,John Lewis,0,0,0,0,0,0,0
+Aiken,Provisional,State House,81,REP,John Lewis,0,0,0,0,0,0,0
+Aiken,Failsafe Provisional,State House,81,REP,John Lewis,0,0,0,0,0,0,0
+Aiken,Aiken No. 1,State House,81,REP,Mack Morris,41,0,1,0,20,0,20
+Aiken,Aiken No. 2,State House,81,REP,Mack Morris,1,0,0,0,1,0,0
+Aiken,Aiken No. 5,State House,81,REP,Mack Morris,9,0,0,0,7,0,2
+Aiken,Aiken No. 6,State House,81,REP,Mack Morris,46,0,1,0,20,0,25
+Aiken,College Acres,State House,81,REP,Mack Morris,11,0,0,0,2,0,9
+Aiken,Millbrook,State House,81,REP,Mack Morris,24,0,1,0,12,0,11
+Aiken,Montmorenci No. 22,State House,81,REP,Mack Morris,20,0,4,0,5,0,11
+Aiken,Talatha,State House,81,REP,Mack Morris,6,0,0,0,3,0,3
+Aiken,Warrenville,State House,81,REP,Mack Morris,12,0,1,0,5,0,6
+Aiken,Aiken No. 47,State House,81,REP,Mack Morris,16,0,0,0,7,0,9
+Aiken,Levels No. 52,State House,81,REP,Mack Morris,8,0,0,0,0,0,8
+Aiken,Hollow Creek,State House,81,REP,Mack Morris,31,0,1,0,14,0,16
+Aiken,Pine Forest,State House,81,REP,Mack Morris,4,0,0,0,1,0,3
+Aiken,Gem Lakes No. 60,State House,81,REP,Mack Morris,16,0,0,0,5,0,11
+Aiken,Silver Bluff,State House,81,REP,Mack Morris,0,0,0,0,0,0,0
+Aiken,Sleepy Hollow No. 65,State House,81,REP,Mack Morris,13,0,1,0,4,0,8
+Aiken,Hitchcock No. 66,State House,81,REP,Mack Morris,19,0,0,0,6,0,13
+Aiken,Anderson Pond No. 69,State House,81,REP,Mack Morris,46,0,8,0,12,0,26
+Aiken,Sandstone No. 70,State House,81,REP,Mack Morris,9,0,1,0,5,0,3
+Aiken,Levels No. 72,State House,81,REP,Mack Morris,8,0,0,0,2,0,6
+Aiken,South Aiken No. 75,State House,81,REP,Mack Morris,15,0,1,0,3,0,11
+Aiken,South Aiken No. 76,State House,81,REP,Mack Morris,12,0,0,0,2,0,10
+Aiken,Gem Lakes No. 77,State House,81,REP,Mack Morris,26,0,2,0,9,0,15
+Aiken,Sandstone No. 79,State House,81,REP,Mack Morris,15,0,0,0,5,0,10
+Aiken,Levels No. 83,State House,81,REP,Mack Morris,11,0,0,0,5,0,6
+Aiken,South Creek No. 89,State House,81,REP,Mack Morris,24,0,2,0,10,0,12
+Aiken,Failsafe,State House,81,REP,Mack Morris,0,0,0,0,0,0,0
+Aiken,Provisional,State House,81,REP,Mack Morris,0,0,0,0,0,0,0
+Aiken,Failsafe Provisional,State House,81,REP,Mack Morris,0,0,0,0,0,0,0
+Aiken,Aiken No. 1,Sheriff,,REP,Stuart Prettel,35,0,0,0,13,0,22
+Aiken,Aiken No. 2,Sheriff,,REP,Stuart Prettel,2,0,0,0,1,0,1
+Aiken,Aiken No. 3,Sheriff,,REP,Stuart Prettel,3,0,0,0,0,0,3
+Aiken,Aiken No. 4,Sheriff,,REP,Stuart Prettel,4,0,0,0,0,0,4
+Aiken,Aiken No. 5,Sheriff,,REP,Stuart Prettel,8,0,0,0,2,0,6
+Aiken,Aiken No. 6,Sheriff,,REP,Stuart Prettel,25,0,2,0,8,0,15
+Aiken,Bath,Sheriff,,REP,Stuart Prettel,6,0,0,0,2,0,4
+Aiken,Beech Island,Sheriff,,REP,Stuart Prettel,8,0,0,0,2,0,6
+Aiken,Belvedere No. 9,Sheriff,,REP,Stuart Prettel,3,0,0,0,0,0,3
+Aiken,Carolina Heights,Sheriff,,REP,Stuart Prettel,5,0,0,0,3,0,2
+Aiken,China Springs,Sheriff,,REP,Stuart Prettel,5,0,0,0,2,0,3
+Aiken,Clearwater,Sheriff,,REP,Stuart Prettel,7,0,0,0,0,0,7
+Aiken,College Acres,Sheriff,,REP,Stuart Prettel,35,0,0,0,5,0,30
+Aiken,Eureka,Sheriff,,REP,Stuart Prettel,13,0,0,0,2,0,11
+Aiken,Gloverville,Sheriff,,REP,Stuart Prettel,8,0,0,0,0,0,8
+Aiken,Graniteville,Sheriff,,REP,Stuart Prettel,5,0,0,0,0,0,5
+Aiken,Jackson,Sheriff,,REP,Stuart Prettel,8,0,0,0,0,0,8
+Aiken,Langley,Sheriff,,REP,Stuart Prettel,14,0,0,0,3,0,11
+Aiken,Lynwood,Sheriff,,REP,Stuart Prettel,6,0,0,0,0,0,6
+Aiken,Millbrook,Sheriff,,REP,Stuart Prettel,59,0,0,0,21,0,38
+Aiken,Monetta,Sheriff,,REP,Stuart Prettel,0,0,0,0,0,0,0
+Aiken,Montmorenci No. 22,Sheriff,,REP,Stuart Prettel,23,0,2,0,7,0,14
+Aiken,New Ellenton,Sheriff,,REP,Stuart Prettel,9,0,0,0,1,0,8
+Aiken,New Holland,Sheriff,,REP,Stuart Prettel,9,0,0,0,3,0,6
+Aiken,N. Augusta No. 25,Sheriff,,REP,Stuart Prettel,12,0,0,0,4,0,8
+Aiken,N. Augusta No. 26,Sheriff,,REP,Stuart Prettel,4,0,0,0,1,0,3
+Aiken,N. Augusta No. 27,Sheriff,,REP,Stuart Prettel,9,0,0,0,3,0,6
+Aiken,N. Augusta No. 28,Sheriff,,REP,Stuart Prettel,15,0,2,0,4,0,9
+Aiken,N. Augusta No. 29,Sheriff,,REP,Stuart Prettel,15,0,0,0,6,0,9
+Aiken,Oak Grove,Sheriff,,REP,Stuart Prettel,17,0,0,0,1,0,16
+Aiken,Perry,Sheriff,,REP,Stuart Prettel,6,0,0,0,2,0,4
+Aiken,Salley,Sheriff,,REP,Stuart Prettel,6,0,0,0,2,0,4
+Aiken,Shaws Fork,Sheriff,,REP,Stuart Prettel,11,0,0,0,2,0,9
+Aiken,Shiloh,Sheriff,,REP,Stuart Prettel,22,0,2,0,6,0,14
+Aiken,Six Points No. 35,Sheriff,,REP,Stuart Prettel,8,0,0,0,3,0,5
+Aiken,Tabernacle,Sheriff,,REP,Stuart Prettel,7,0,0,0,1,0,6
+Aiken,Talatha,Sheriff,,REP,Stuart Prettel,33,0,0,0,4,0,29
+Aiken,Vaucluse,Sheriff,,REP,Stuart Prettel,26,0,1,0,1,0,24
+Aiken,Wagener,Sheriff,,REP,Stuart Prettel,21,0,1,0,3,0,17
+Aiken,Ward,Sheriff,,REP,Stuart Prettel,15,0,0,0,1,0,14
+Aiken,Warrenville,Sheriff,,REP,Stuart Prettel,34,0,0,0,10,0,24
+Aiken,White Pond,Sheriff,,REP,Stuart Prettel,7,0,0,0,1,0,6
+Aiken,Windsor No. 43,Sheriff,,REP,Stuart Prettel,40,0,0,0,8,0,32
+Aiken,Belvedere No. 44,Sheriff,,REP,Stuart Prettel,8,0,0,0,0,0,8
+Aiken,Misty Lakes,Sheriff,,REP,Stuart Prettel,8,0,0,0,0,0,8
+Aiken,Six Points No. 46,Sheriff,,REP,Stuart Prettel,3,0,0,0,0,0,3
+Aiken,Aiken No. 47,Sheriff,,REP,Stuart Prettel,15,0,0,0,4,0,11
+Aiken,Hammond No. 48,Sheriff,,REP,Stuart Prettel,15,0,0,0,3,0,12
+Aiken,Willow Springs,Sheriff,,REP,Stuart Prettel,7,0,0,0,1,0,6
+Aiken,Breezy Hill,Sheriff,,REP,Stuart Prettel,6,0,0,0,0,0,6
+Aiken,Midland Valley No. 51,Sheriff,,REP,Stuart Prettel,18,0,2,0,7,0,9
+Aiken,Levels No. 52,Sheriff,,REP,Stuart Prettel,13,0,0,0,3,0,10
+Aiken,Hollow Creek,Sheriff,,REP,Stuart Prettel,36,0,2,0,5,0,29
+Aiken,N. Augusta No. 54,Sheriff,,REP,Stuart Prettel,4,0,0,0,2,0,2
+Aiken,N. Augusta No. 55,Sheriff,,REP,Stuart Prettel,22,0,0,0,7,0,15
+Aiken,Couchton,Sheriff,,REP,Stuart Prettel,25,0,0,0,0,0,25
+Aiken,Redds Branch,Sheriff,,REP,Stuart Prettel,16,0,2,0,3,0,11
+Aiken,Fox Creek No. 58,Sheriff,,REP,Stuart Prettel,4,0,1,0,0,0,3
+Aiken,Pine Forest,Sheriff,,REP,Stuart Prettel,24,0,0,0,10,0,14
+Aiken,Gem Lakes No. 60,Sheriff,,REP,Stuart Prettel,38,0,1,0,11,0,26
+Aiken,Silver Bluff,Sheriff,,REP,Stuart Prettel,8,0,1,0,1,0,6
+Aiken,Belvedere No. 62,Sheriff,,REP,Stuart Prettel,1,0,0,0,1,0,0
+Aiken,Ascauga Lake No. 63,Sheriff,,REP,Stuart Prettel,8,0,0,0,3,0,5
+Aiken,Cedar Creek No. 64,Sheriff,,REP,Stuart Prettel,22,0,1,0,4,0,17
+Aiken,Sleepy Hollow No. 65,Sheriff,,REP,Stuart Prettel,39,0,0,0,6,0,33
+Aiken,Hitchcock No. 66,Sheriff,,REP,Stuart Prettel,38,0,0,0,4,0,34
+Aiken,N. Augusta No. 67,Sheriff,,REP,Stuart Prettel,11,0,0,0,2,0,9
+Aiken,N. Augusta No. 68,Sheriff,,REP,Stuart Prettel,5,0,1,0,2,0,2
+Aiken,Anderson Pond No. 69,Sheriff,,REP,Stuart Prettel,67,0,2,0,18,0,47
+Aiken,Sandstone No. 70,Sheriff,,REP,Stuart Prettel,18,0,0,0,10,0,8
+Aiken,Midland Valley No. 71,Sheriff,,REP,Stuart Prettel,34,0,0,0,10,0,24
+Aiken,Levels No. 72,Sheriff,,REP,Stuart Prettel,17,0,0,0,3,0,14
+Aiken,Fox Creek No. 73,Sheriff,,REP,Stuart Prettel,3,0,0,0,1,0,2
+Aiken,Belvedere No. 74,Sheriff,,REP,Stuart Prettel,3,0,0,0,1,0,2
+Aiken,South Aiken No. 75,Sheriff,,REP,Stuart Prettel,35,0,0,0,13,0,22
+Aiken,South Aiken No. 76,Sheriff,,REP,Stuart Prettel,29,0,0,0,4,0,25
+Aiken,Gem Lakes No. 77,Sheriff,,REP,Stuart Prettel,41,0,3,0,12,0,26
+Aiken,Montmorenci No. 78,Sheriff,,REP,Stuart Prettel,32,0,1,0,11,0,20
+Aiken,Sandstone No. 79,Sheriff,,REP,Stuart Prettel,20,0,0,0,10,0,10
+Aiken,N. Augusta No. 80,Sheriff,,REP,Stuart Prettel,6,0,0,0,3,0,3
+Aiken,Hammond No. 81,Sheriff,,REP,Stuart Prettel,3,0,0,0,0,0,3
+Aiken,Windsor No. 82,Sheriff,,REP,Stuart Prettel,19,0,0,0,1,0,18
+Aiken,Levels No. 83,Sheriff,,REP,Stuart Prettel,14,0,0,0,7,0,7
+Aiken,Ascauga Lake No. 84,Sheriff,,REP,Stuart Prettel,11,0,0,0,5,0,6
+Aiken,Creek No. 85,Sheriff,,REP,Stuart Prettel,10,0,0,0,0,0,10
+Aiken,Community No. 86,Sheriff,,REP,Stuart Prettel,6,0,1,0,1,0,4
+Aiken,Breezy No. 87,Sheriff,,REP,Stuart Prettel,2,0,0,0,0,0,2
+Aiken,Midlands No. 88,Sheriff,,REP,Stuart Prettel,7,0,0,0,3,0,4
+Aiken,South Creek No. 89,Sheriff,,REP,Stuart Prettel,32,0,3,0,9,0,20
+Aiken,Failsafe,Sheriff,,REP,Stuart Prettel,0,0,0,0,0,0,0
+Aiken,Provisional,Sheriff,,REP,Stuart Prettel,1,0,0,0,0,1,0
+Aiken,Failsafe Provisional,Sheriff,,REP,Stuart Prettel,0,0,0,0,0,0,0
+Aiken,Aiken No. 1,Sheriff,,REP,Marty Sawyer,194,0,5,0,75,0,114
+Aiken,Aiken No. 2,Sheriff,,REP,Marty Sawyer,32,0,5,0,12,0,15
+Aiken,Aiken No. 3,Sheriff,,REP,Marty Sawyer,7,0,0,0,3,0,4
+Aiken,Aiken No. 4,Sheriff,,REP,Marty Sawyer,7,0,0,0,3,0,4
+Aiken,Aiken No. 5,Sheriff,,REP,Marty Sawyer,86,0,0,0,32,0,54
+Aiken,Aiken No. 6,Sheriff,,REP,Marty Sawyer,157,0,1,0,53,0,103
+Aiken,Bath,Sheriff,,REP,Marty Sawyer,25,0,1,0,3,0,21
+Aiken,Beech Island,Sheriff,,REP,Marty Sawyer,38,0,1,0,1,0,36
+Aiken,Belvedere No. 9,Sheriff,,REP,Marty Sawyer,26,0,0,0,1,0,25
+Aiken,Carolina Heights,Sheriff,,REP,Marty Sawyer,41,0,1,0,17,0,23
+Aiken,China Springs,Sheriff,,REP,Marty Sawyer,41,0,1,0,15,0,25
+Aiken,Clearwater,Sheriff,,REP,Marty Sawyer,25,0,0,0,1,0,24
+Aiken,College Acres,Sheriff,,REP,Marty Sawyer,105,0,2,0,26,0,77
+Aiken,Eureka,Sheriff,,REP,Marty Sawyer,80,0,2,0,28,0,50
+Aiken,Gloverville,Sheriff,,REP,Marty Sawyer,70,0,2,0,8,0,60
+Aiken,Graniteville,Sheriff,,REP,Marty Sawyer,92,0,1,0,26,0,65
+Aiken,Jackson,Sheriff,,REP,Marty Sawyer,112,0,1,0,13,0,98
+Aiken,Langley,Sheriff,,REP,Marty Sawyer,78,0,1,0,19,0,58
+Aiken,Lynwood,Sheriff,,REP,Marty Sawyer,51,0,0,0,8,0,43
+Aiken,Millbrook,Sheriff,,REP,Marty Sawyer,207,0,3,0,90,0,114
+Aiken,Monetta,Sheriff,,REP,Marty Sawyer,61,0,0,0,9,0,52
+Aiken,Montmorenci No. 22,Sheriff,,REP,Marty Sawyer,120,0,6,0,32,0,82
+Aiken,New Ellenton,Sheriff,,REP,Marty Sawyer,55,0,2,0,6,0,47
+Aiken,New Holland,Sheriff,,REP,Marty Sawyer,47,0,1,0,9,0,37
+Aiken,N. Augusta No. 25,Sheriff,,REP,Marty Sawyer,72,0,0,0,23,0,49
+Aiken,N. Augusta No. 26,Sheriff,,REP,Marty Sawyer,26,0,2,0,9,0,15
+Aiken,N. Augusta No. 27,Sheriff,,REP,Marty Sawyer,127,0,2,0,32,0,93
+Aiken,N. Augusta No. 28,Sheriff,,REP,Marty Sawyer,81,0,3,0,27,0,51
+Aiken,N. Augusta No. 29,Sheriff,,REP,Marty Sawyer,110,0,1,0,40,0,69
+Aiken,Oak Grove,Sheriff,,REP,Marty Sawyer,62,0,2,0,7,0,53
+Aiken,Perry,Sheriff,,REP,Marty Sawyer,52,0,0,0,4,0,48
+Aiken,Salley,Sheriff,,REP,Marty Sawyer,31,0,0,0,5,0,26
+Aiken,Shaws Fork,Sheriff,,REP,Marty Sawyer,33,0,0,0,2,0,31
+Aiken,Shiloh,Sheriff,,REP,Marty Sawyer,140,0,0,0,38,0,102
+Aiken,Six Points No. 35,Sheriff,,REP,Marty Sawyer,107,0,7,0,50,0,50
+Aiken,Tabernacle,Sheriff,,REP,Marty Sawyer,50,0,2,0,4,0,44
+Aiken,Talatha,Sheriff,,REP,Marty Sawyer,120,0,10,0,25,0,85
+Aiken,Vaucluse,Sheriff,,REP,Marty Sawyer,97,0,1,0,36,0,60
+Aiken,Wagener,Sheriff,,REP,Marty Sawyer,97,0,2,0,23,0,72
+Aiken,Ward,Sheriff,,REP,Marty Sawyer,64,0,1,0,14,0,49
+Aiken,Warrenville,Sheriff,,REP,Marty Sawyer,109,0,2,0,37,0,70
+Aiken,White Pond,Sheriff,,REP,Marty Sawyer,22,0,1,0,2,0,19
+Aiken,Windsor No. 43,Sheriff,,REP,Marty Sawyer,42,0,2,0,8,0,32
+Aiken,Belvedere No. 44,Sheriff,,REP,Marty Sawyer,42,0,1,0,5,0,36
+Aiken,Misty Lakes,Sheriff,,REP,Marty Sawyer,79,0,1,0,17,0,61
+Aiken,Six Points No. 46,Sheriff,,REP,Marty Sawyer,13,0,0,0,9,0,4
+Aiken,Aiken No. 47,Sheriff,,REP,Marty Sawyer,107,0,0,0,36,0,71
+Aiken,Hammond No. 48,Sheriff,,REP,Marty Sawyer,58,0,0,0,13,0,45
+Aiken,Willow Springs,Sheriff,,REP,Marty Sawyer,67,0,5,0,14,0,48
+Aiken,Breezy Hill,Sheriff,,REP,Marty Sawyer,20,0,1,0,1,0,18
+Aiken,Midland Valley No. 51,Sheriff,,REP,Marty Sawyer,51,0,1,0,12,0,38
+Aiken,Levels No. 52,Sheriff,,REP,Marty Sawyer,68,0,2,0,20,0,46
+Aiken,Hollow Creek,Sheriff,,REP,Marty Sawyer,159,0,6,0,57,0,96
+Aiken,N. Augusta No. 54,Sheriff,,REP,Marty Sawyer,21,0,1,0,8,0,12
+Aiken,N. Augusta No. 55,Sheriff,,REP,Marty Sawyer,87,0,0,0,17,0,70
+Aiken,Couchton,Sheriff,,REP,Marty Sawyer,103,0,0,0,24,0,79
+Aiken,Redds Branch,Sheriff,,REP,Marty Sawyer,74,0,4,0,18,0,52
+Aiken,Fox Creek No. 58,Sheriff,,REP,Marty Sawyer,72,0,2,0,16,0,54
+Aiken,Pine Forest,Sheriff,,REP,Marty Sawyer,86,0,1,0,20,0,65
+Aiken,Gem Lakes No. 60,Sheriff,,REP,Marty Sawyer,147,0,5,0,55,0,87
+Aiken,Silver Bluff,Sheriff,,REP,Marty Sawyer,60,0,5,0,9,0,46
+Aiken,Belvedere No. 62,Sheriff,,REP,Marty Sawyer,36,0,0,0,6,0,30
+Aiken,Ascauga Lake No. 63,Sheriff,,REP,Marty Sawyer,38,0,0,0,9,0,29
+Aiken,Cedar Creek No. 64,Sheriff,,REP,Marty Sawyer,262,0,9,0,83,0,170
+Aiken,Sleepy Hollow No. 65,Sheriff,,REP,Marty Sawyer,188,0,3,0,38,0,147
+Aiken,Hitchcock No. 66,Sheriff,,REP,Marty Sawyer,139,0,1,0,35,0,103
+Aiken,N. Augusta No. 67,Sheriff,,REP,Marty Sawyer,81,0,2,0,11,0,68
+Aiken,N. Augusta No. 68,Sheriff,,REP,Marty Sawyer,73,0,8,0,23,0,42
+Aiken,Anderson Pond No. 69,Sheriff,,REP,Marty Sawyer,341,0,12,0,174,0,155
+Aiken,Sandstone No. 70,Sheriff,,REP,Marty Sawyer,53,0,1,0,23,0,29
+Aiken,Midland Valley No. 71,Sheriff,,REP,Marty Sawyer,108,0,4,0,23,0,81
+Aiken,Levels No. 72,Sheriff,,REP,Marty Sawyer,42,0,3,0,13,0,26
+Aiken,Fox Creek No. 73,Sheriff,,REP,Marty Sawyer,87,0,4,0,16,0,67
+Aiken,Belvedere No. 74,Sheriff,,REP,Marty Sawyer,18,0,1,0,1,0,16
+Aiken,South Aiken No. 75,Sheriff,,REP,Marty Sawyer,108,0,1,0,26,0,81
+Aiken,South Aiken No. 76,Sheriff,,REP,Marty Sawyer,72,0,1,0,29,0,42
+Aiken,Gem Lakes No. 77,Sheriff,,REP,Marty Sawyer,222,0,3,0,116,0,103
+Aiken,Montmorenci No. 78,Sheriff,,REP,Marty Sawyer,75,0,3,0,23,0,49
+Aiken,Sandstone No. 79,Sheriff,,REP,Marty Sawyer,70,0,1,0,21,0,48
+Aiken,N. Augusta No. 80,Sheriff,,REP,Marty Sawyer,61,0,3,0,17,0,41
+Aiken,Hammond No. 81,Sheriff,,REP,Marty Sawyer,42,0,0,0,7,0,35
+Aiken,Windsor No. 82,Sheriff,,REP,Marty Sawyer,48,0,6,0,5,0,37
+Aiken,Levels No. 83,Sheriff,,REP,Marty Sawyer,58,0,0,0,23,0,35
+Aiken,Ascauga Lake No. 84,Sheriff,,REP,Marty Sawyer,54,0,1,0,16,0,37
+Aiken,Creek No. 85,Sheriff,,REP,Marty Sawyer,29,0,0,0,7,0,22
+Aiken,Community No. 86,Sheriff,,REP,Marty Sawyer,53,0,3,0,16,0,34
+Aiken,Breezy No. 87,Sheriff,,REP,Marty Sawyer,61,0,1,0,11,0,49
+Aiken,Midlands No. 88,Sheriff,,REP,Marty Sawyer,89,0,5,0,22,0,62
+Aiken,South Creek No. 89,Sheriff,,REP,Marty Sawyer,153,0,3,0,58,0,92
+Aiken,Failsafe,Sheriff,,REP,Marty Sawyer,2,2,0,0,0,0,0
+Aiken,Provisional,Sheriff,,REP,Marty Sawyer,2,0,0,0,0,2,0
+Aiken,Failsafe Provisional,Sheriff,,REP,Marty Sawyer,0,0,0,0,0,0,0
+Aiken,Aiken No. 1,Sheriff,,REP,Ed Wilson,5,0,0,0,1,0,4
+Aiken,Aiken No. 2,Sheriff,,REP,Ed Wilson,3,0,0,0,2,0,1
+Aiken,Aiken No. 3,Sheriff,,REP,Ed Wilson,1,0,0,0,0,0,1
+Aiken,Aiken No. 4,Sheriff,,REP,Ed Wilson,1,0,0,0,0,0,1
+Aiken,Aiken No. 5,Sheriff,,REP,Ed Wilson,4,0,0,0,2,0,2
+Aiken,Aiken No. 6,Sheriff,,REP,Ed Wilson,7,0,0,0,2,0,5
+Aiken,Bath,Sheriff,,REP,Ed Wilson,3,0,0,0,0,0,3
+Aiken,Beech Island,Sheriff,,REP,Ed Wilson,8,0,0,0,3,0,5
+Aiken,Belvedere No. 9,Sheriff,,REP,Ed Wilson,4,0,0,0,2,0,2
+Aiken,Carolina Heights,Sheriff,,REP,Ed Wilson,12,0,0,0,3,0,9
+Aiken,China Springs,Sheriff,,REP,Ed Wilson,3,0,0,0,1,0,2
+Aiken,Clearwater,Sheriff,,REP,Ed Wilson,7,0,0,0,0,0,7
+Aiken,College Acres,Sheriff,,REP,Ed Wilson,16,0,0,0,0,0,16
+Aiken,Eureka,Sheriff,,REP,Ed Wilson,3,0,1,0,0,0,2
+Aiken,Gloverville,Sheriff,,REP,Ed Wilson,10,0,0,0,1,0,9
+Aiken,Graniteville,Sheriff,,REP,Ed Wilson,3,0,0,0,0,0,3
+Aiken,Jackson,Sheriff,,REP,Ed Wilson,6,0,0,0,1,0,5
+Aiken,Langley,Sheriff,,REP,Ed Wilson,9,0,0,0,3,0,6
+Aiken,Lynwood,Sheriff,,REP,Ed Wilson,8,0,0,0,0,0,8
+Aiken,Millbrook,Sheriff,,REP,Ed Wilson,11,0,3,0,3,0,5
+Aiken,Monetta,Sheriff,,REP,Ed Wilson,9,0,0,0,0,0,9
+Aiken,Montmorenci No. 22,Sheriff,,REP,Ed Wilson,11,0,2,0,5,0,4
+Aiken,New Ellenton,Sheriff,,REP,Ed Wilson,5,0,0,0,0,0,5
+Aiken,New Holland,Sheriff,,REP,Ed Wilson,5,0,0,0,2,0,3
+Aiken,N. Augusta No. 25,Sheriff,,REP,Ed Wilson,13,0,0,0,4,0,9
+Aiken,N. Augusta No. 26,Sheriff,,REP,Ed Wilson,5,0,0,0,2,0,3
+Aiken,N. Augusta No. 27,Sheriff,,REP,Ed Wilson,16,0,0,0,3,0,13
+Aiken,N. Augusta No. 28,Sheriff,,REP,Ed Wilson,13,0,0,0,4,0,9
+Aiken,N. Augusta No. 29,Sheriff,,REP,Ed Wilson,11,0,0,0,6,0,5
+Aiken,Oak Grove,Sheriff,,REP,Ed Wilson,11,0,1,0,1,0,9
+Aiken,Perry,Sheriff,,REP,Ed Wilson,7,0,0,0,0,0,7
+Aiken,Salley,Sheriff,,REP,Ed Wilson,0,0,0,0,0,0,0
+Aiken,Shaws Fork,Sheriff,,REP,Ed Wilson,4,0,1,0,0,0,3
+Aiken,Shiloh,Sheriff,,REP,Ed Wilson,20,0,2,0,1,0,17
+Aiken,Six Points No. 35,Sheriff,,REP,Ed Wilson,5,0,0,0,1,0,4
+Aiken,Tabernacle,Sheriff,,REP,Ed Wilson,2,0,0,0,0,0,2
+Aiken,Talatha,Sheriff,,REP,Ed Wilson,8,0,0,0,5,0,3
+Aiken,Vaucluse,Sheriff,,REP,Ed Wilson,13,0,1,0,5,0,7
+Aiken,Wagener,Sheriff,,REP,Ed Wilson,13,0,0,0,3,0,10
+Aiken,Ward,Sheriff,,REP,Ed Wilson,6,0,0,0,3,0,3
+Aiken,Warrenville,Sheriff,,REP,Ed Wilson,11,0,0,0,3,0,8
+Aiken,White Pond,Sheriff,,REP,Ed Wilson,3,0,0,0,0,0,3
+Aiken,Windsor No. 43,Sheriff,,REP,Ed Wilson,8,0,0,0,1,0,7
+Aiken,Belvedere No. 44,Sheriff,,REP,Ed Wilson,7,0,1,0,1,0,5
+Aiken,Misty Lakes,Sheriff,,REP,Ed Wilson,10,0,0,0,2,0,8
+Aiken,Six Points No. 46,Sheriff,,REP,Ed Wilson,0,0,0,0,0,0,0
+Aiken,Aiken No. 47,Sheriff,,REP,Ed Wilson,4,0,0,0,0,0,4
+Aiken,Hammond No. 48,Sheriff,,REP,Ed Wilson,26,0,0,0,5,0,21
+Aiken,Willow Springs,Sheriff,,REP,Ed Wilson,6,0,0,0,0,0,6
+Aiken,Breezy Hill,Sheriff,,REP,Ed Wilson,4,0,2,0,1,0,1
+Aiken,Midland Valley No. 51,Sheriff,,REP,Ed Wilson,4,0,1,0,0,0,3
+Aiken,Levels No. 52,Sheriff,,REP,Ed Wilson,2,0,0,0,2,0,0
+Aiken,Hollow Creek,Sheriff,,REP,Ed Wilson,17,0,2,0,3,0,12
+Aiken,N. Augusta No. 54,Sheriff,,REP,Ed Wilson,4,0,0,0,1,0,3
+Aiken,N. Augusta No. 55,Sheriff,,REP,Ed Wilson,17,0,0,0,5,0,12
+Aiken,Couchton,Sheriff,,REP,Ed Wilson,9,0,2,0,1,0,6
+Aiken,Redds Branch,Sheriff,,REP,Ed Wilson,7,0,0,0,1,0,6
+Aiken,Fox Creek No. 58,Sheriff,,REP,Ed Wilson,3,0,0,0,2,0,1
+Aiken,Pine Forest,Sheriff,,REP,Ed Wilson,9,0,0,0,2,0,7
+Aiken,Gem Lakes No. 60,Sheriff,,REP,Ed Wilson,9,0,0,0,1,0,8
+Aiken,Silver Bluff,Sheriff,,REP,Ed Wilson,6,0,0,0,0,0,6
+Aiken,Belvedere No. 62,Sheriff,,REP,Ed Wilson,4,0,0,0,1,0,3
+Aiken,Ascauga Lake No. 63,Sheriff,,REP,Ed Wilson,6,0,0,0,2,0,4
+Aiken,Cedar Creek No. 64,Sheriff,,REP,Ed Wilson,9,0,0,0,2,0,7
+Aiken,Sleepy Hollow No. 65,Sheriff,,REP,Ed Wilson,15,0,0,0,2,0,13
+Aiken,Hitchcock No. 66,Sheriff,,REP,Ed Wilson,7,0,0,0,3,0,4
+Aiken,N. Augusta No. 67,Sheriff,,REP,Ed Wilson,19,0,0,0,6,0,13
+Aiken,N. Augusta No. 68,Sheriff,,REP,Ed Wilson,13,0,4,0,3,0,6
+Aiken,Anderson Pond No. 69,Sheriff,,REP,Ed Wilson,27,0,0,0,14,0,13
+Aiken,Sandstone No. 70,Sheriff,,REP,Ed Wilson,2,0,0,0,1,0,1
+Aiken,Midland Valley No. 71,Sheriff,,REP,Ed Wilson,14,0,0,0,8,0,6
+Aiken,Levels No. 72,Sheriff,,REP,Ed Wilson,4,0,0,0,1,0,3
+Aiken,Fox Creek No. 73,Sheriff,,REP,Ed Wilson,10,0,1,0,4,0,5
+Aiken,Belvedere No. 74,Sheriff,,REP,Ed Wilson,4,0,0,0,0,0,4
+Aiken,South Aiken No. 75,Sheriff,,REP,Ed Wilson,10,0,0,0,6,0,4
+Aiken,South Aiken No. 76,Sheriff,,REP,Ed Wilson,11,0,0,0,5,0,6
+Aiken,Gem Lakes No. 77,Sheriff,,REP,Ed Wilson,4,0,0,0,3,0,1
+Aiken,Montmorenci No. 78,Sheriff,,REP,Ed Wilson,14,0,1,0,4,0,9
+Aiken,Sandstone No. 79,Sheriff,,REP,Ed Wilson,14,0,1,0,8,0,5
+Aiken,N. Augusta No. 80,Sheriff,,REP,Ed Wilson,10,0,2,0,3,0,5
+Aiken,Hammond No. 81,Sheriff,,REP,Ed Wilson,15,0,1,0,1,0,13
+Aiken,Windsor No. 82,Sheriff,,REP,Ed Wilson,11,0,0,0,1,0,10
+Aiken,Levels No. 83,Sheriff,,REP,Ed Wilson,1,0,0,0,0,0,1
+Aiken,Ascauga Lake No. 84,Sheriff,,REP,Ed Wilson,7,0,0,0,1,0,6
+Aiken,Creek No. 85,Sheriff,,REP,Ed Wilson,6,0,0,0,4,0,2
+Aiken,Community No. 86,Sheriff,,REP,Ed Wilson,9,0,0,0,2,0,7
+Aiken,Breezy No. 87,Sheriff,,REP,Ed Wilson,10,0,0,0,3,0,7
+Aiken,Midlands No. 88,Sheriff,,REP,Ed Wilson,5,0,0,0,4,0,1
+Aiken,South Creek No. 89,Sheriff,,REP,Ed Wilson,18,0,0,0,8,0,10
+Aiken,Failsafe,Sheriff,,REP,Ed Wilson,1,1,0,0,0,0,0
+Aiken,Provisional,Sheriff,,REP,Ed Wilson,0,0,0,0,0,0,0
+Aiken,Failsafe Provisional,Sheriff,,REP,Ed Wilson,0,0,0,0,0,0,0
+Aiken,Carolina Heights,County Council District 4,,REP,Landon Ball,50,0,0,0,18,0,32
+Aiken,Clearwater,County Council District 4,,REP,Landon Ball,3,0,0,0,0,0,3
+Aiken,N. Augusta No. 25,County Council District 4,,REP,Landon Ball,57,0,0,0,16,0,41
+Aiken,N. Augusta No. 26,County Council District 4,,REP,Landon Ball,21,0,2,0,5,0,14
+Aiken,N. Augusta No. 27,County Council District 4,,REP,Landon Ball,79,0,0,0,28,0,51
+Aiken,N. Augusta No. 28,County Council District 4,,REP,Landon Ball,47,0,5,0,12,0,30
+Aiken,N. Augusta No. 29,County Council District 4,,REP,Landon Ball,75,0,1,0,33,0,41
+Aiken,N. Augusta No. 54,County Council District 4,,REP,Landon Ball,14,0,1,0,8,0,5
+Aiken,N. Augusta No. 55,County Council District 4,,REP,Landon Ball,38,0,0,0,3,0,35
+Aiken,Belvedere No. 62,County Council District 4,,REP,Landon Ball,12,0,0,0,4,0,8
+Aiken,N. Augusta No. 67,County Council District 4,,REP,Landon Ball,61,0,1,0,11,0,49
+Aiken,N. Augusta No. 68,County Council District 4,,REP,Landon Ball,24,0,0,0,8,0,16
+Aiken,N. Augusta No. 80,County Council District 4,,REP,Landon Ball,42,0,2,0,17,0,23
+Aiken,Creek No. 85,County Council District 4,,REP,Landon Ball,22,0,0,0,2,0,20
+Aiken,Failsafe,County Council District 4,,REP,Landon Ball,0,0,0,0,0,0,0
+Aiken,Provisional,County Council District 4,,REP,Landon Ball,0,0,0,0,0,0,0
+Aiken,Failsafe Provisional,County Council District 4,,REP,Landon Ball,0,0,0,0,0,0,0
+Aiken,Carolina Heights,County Council District 4,,REP,Gene Helmich,10,0,0,0,5,0,5
+Aiken,Clearwater,County Council District 4,,REP,Gene Helmich,3,0,0,0,0,0,3
+Aiken,N. Augusta No. 25,County Council District 4,,REP,Gene Helmich,43,0,0,0,16,0,27
+Aiken,N. Augusta No. 26,County Council District 4,,REP,Gene Helmich,14,0,0,0,6,0,8
+Aiken,N. Augusta No. 27,County Council District 4,,REP,Gene Helmich,80,0,2,0,14,0,64
+Aiken,N. Augusta No. 28,County Council District 4,,REP,Gene Helmich,66,0,0,0,25,0,41
+Aiken,N. Augusta No. 29,County Council District 4,,REP,Gene Helmich,62,0,0,0,22,0,40
+Aiken,N. Augusta No. 54,County Council District 4,,REP,Gene Helmich,13,0,0,0,3,0,10
+Aiken,N. Augusta No. 55,County Council District 4,,REP,Gene Helmich,91,0,0,0,29,0,62
+Aiken,Belvedere No. 62,County Council District 4,,REP,Gene Helmich,4,0,0,0,1,0,3
+Aiken,N. Augusta No. 67,County Council District 4,,REP,Gene Helmich,57,0,1,0,10,0,46
+Aiken,N. Augusta No. 68,County Council District 4,,REP,Gene Helmich,21,0,0,0,9,0,12
+Aiken,N. Augusta No. 80,County Council District 4,,REP,Gene Helmich,35,0,3,0,6,0,26
+Aiken,Creek No. 85,County Council District 4,,REP,Gene Helmich,24,0,0,0,10,0,14
+Aiken,Failsafe,County Council District 4,,REP,Gene Helmich,0,0,0,0,0,0,0
+Aiken,Provisional,County Council District 4,,REP,Gene Helmich,0,0,0,0,0,0,0
+Aiken,Failsafe Provisional,County Council District 4,,REP,Gene Helmich,0,0,0,0,0,0,0

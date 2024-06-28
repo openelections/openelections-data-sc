@@ -1,0 +1,463 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Newberry,Newberry Ward 1,U.S. House,3,DEM,Bryon L Best,8,0,0,0,1,0,7
+Newberry,Newberry Ward 2,U.S. House,3,DEM,Bryon L Best,13,0,0,0,6,0,7
+Newberry,Newberry Ward 3,U.S. House,3,DEM,Bryon L Best,15,0,0,0,1,0,14
+Newberry,Newberry Ward 4,U.S. House,3,DEM,Bryon L Best,18,0,0,0,10,0,8
+Newberry,Newberry Ward 5,U.S. House,3,DEM,Bryon L Best,10,0,0,0,3,0,7
+Newberry,Newberry Ward 6,U.S. House,3,DEM,Bryon L Best,17,0,0,0,8,0,9
+Newberry,Beth - Eden,U.S. House,3,DEM,Bryon L Best,7,0,0,0,1,0,6
+Newberry,Bush River,U.S. House,3,DEM,Bryon L Best,1,0,0,0,1,0,0
+Newberry,Chappells,U.S. House,3,DEM,Bryon L Best,4,0,0,0,1,0,3
+Newberry,Fairview,U.S. House,3,DEM,Bryon L Best,8,0,0,0,2,0,6
+Newberry,Hartford,U.S. House,3,DEM,Bryon L Best,3,0,0,0,0,0,3
+Newberry,Helena,U.S. House,3,DEM,Bryon L Best,34,0,0,0,2,0,32
+Newberry,Kinards-Jalapa,U.S. House,3,DEM,Bryon L Best,2,0,0,0,0,0,2
+Newberry,Johnstone,U.S. House,3,DEM,Bryon L Best,2,0,0,0,1,0,1
+Newberry,Little Mountain,U.S. House,3,DEM,Bryon L Best,13,0,0,0,2,0,11
+Newberry,Maybinton,U.S. House,3,DEM,Bryon L Best,11,0,0,0,2,0,9
+Newberry,Mt. Bethel-Garmany,U.S. House,3,DEM,Bryon L Best,22,0,0,0,3,0,19
+Newberry,Consolidated Number 5,U.S. House,3,DEM,Bryon L Best,9,0,0,0,2,0,7
+Newberry,O'Neal,U.S. House,3,DEM,Bryon L Best,11,0,0,0,6,0,5
+Newberry,Oakland,U.S. House,3,DEM,Bryon L Best,13,0,0,0,1,0,12
+Newberry,Peak,U.S. House,3,DEM,Bryon L Best,3,0,0,0,0,0,3
+Newberry,Pomaria,U.S. House,3,DEM,Bryon L Best,2,0,0,0,0,0,2
+Newberry,Prosperity City,U.S. House,3,DEM,Bryon L Best,17,0,0,0,3,0,14
+Newberry,Silverstreet,U.S. House,3,DEM,Bryon L Best,13,0,0,0,2,0,11
+Newberry,Stoney Hill,U.S. House,3,DEM,Bryon L Best,3,0,0,0,1,0,2
+Newberry,St. Phillips-Jolly Street,U.S. House,3,DEM,Bryon L Best,18,0,1,0,3,0,14
+Newberry,Wheeland,U.S. House,3,DEM,Bryon L Best,6,0,0,0,3,0,3
+Newberry,Whitmire City,U.S. House,3,DEM,Bryon L Best,8,0,0,0,0,0,8
+Newberry,Whitmire Outside,U.S. House,3,DEM,Bryon L Best,8,0,0,0,0,0,8
+Newberry,Prosperity Outside,U.S. House,3,DEM,Bryon L Best,10,0,0,0,1,0,9
+Newberry,Failsafe,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Newberry,Provisional,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,U.S. House,3,DEM,Frances Guldner,4,0,0,0,1,0,3
+Newberry,Newberry Ward 2,U.S. House,3,DEM,Frances Guldner,7,0,0,0,4,0,3
+Newberry,Newberry Ward 3,U.S. House,3,DEM,Frances Guldner,10,0,0,0,2,0,8
+Newberry,Newberry Ward 4,U.S. House,3,DEM,Frances Guldner,8,0,0,0,3,0,5
+Newberry,Newberry Ward 5,U.S. House,3,DEM,Frances Guldner,9,0,0,0,2,0,7
+Newberry,Newberry Ward 6,U.S. House,3,DEM,Frances Guldner,18,0,0,0,7,0,11
+Newberry,Beth - Eden,U.S. House,3,DEM,Frances Guldner,6,0,0,0,1,0,5
+Newberry,Bush River,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Newberry,Chappells,U.S. House,3,DEM,Frances Guldner,2,0,0,0,1,0,1
+Newberry,Fairview,U.S. House,3,DEM,Frances Guldner,11,0,0,0,4,0,7
+Newberry,Hartford,U.S. House,3,DEM,Frances Guldner,8,0,0,0,4,0,4
+Newberry,Helena,U.S. House,3,DEM,Frances Guldner,5,0,0,0,0,0,5
+Newberry,Kinards-Jalapa,U.S. House,3,DEM,Frances Guldner,6,0,0,0,0,0,6
+Newberry,Johnstone,U.S. House,3,DEM,Frances Guldner,5,0,0,0,2,0,3
+Newberry,Little Mountain,U.S. House,3,DEM,Frances Guldner,5,0,0,0,1,0,4
+Newberry,Maybinton,U.S. House,3,DEM,Frances Guldner,5,0,0,0,0,0,5
+Newberry,Mt. Bethel-Garmany,U.S. House,3,DEM,Frances Guldner,4,0,0,0,1,0,3
+Newberry,Consolidated Number 5,U.S. House,3,DEM,Frances Guldner,6,0,0,0,3,0,3
+Newberry,O'Neal,U.S. House,3,DEM,Frances Guldner,6,0,0,0,4,0,2
+Newberry,Oakland,U.S. House,3,DEM,Frances Guldner,2,0,0,0,0,0,2
+Newberry,Peak,U.S. House,3,DEM,Frances Guldner,1,0,0,0,0,0,1
+Newberry,Pomaria,U.S. House,3,DEM,Frances Guldner,3,0,0,0,1,0,2
+Newberry,Prosperity City,U.S. House,3,DEM,Frances Guldner,6,0,0,0,3,0,3
+Newberry,Silverstreet,U.S. House,3,DEM,Frances Guldner,7,0,0,0,2,0,5
+Newberry,Stoney Hill,U.S. House,3,DEM,Frances Guldner,5,0,0,0,0,0,5
+Newberry,St. Phillips-Jolly Street,U.S. House,3,DEM,Frances Guldner,9,0,0,0,1,0,8
+Newberry,Wheeland,U.S. House,3,DEM,Frances Guldner,4,0,0,0,3,0,1
+Newberry,Whitmire City,U.S. House,3,DEM,Frances Guldner,5,0,0,0,0,0,5
+Newberry,Whitmire Outside,U.S. House,3,DEM,Frances Guldner,5,0,0,0,1,0,4
+Newberry,Prosperity Outside,U.S. House,3,DEM,Frances Guldner,9,0,0,0,3,0,6
+Newberry,Failsafe,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Newberry,Provisional,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,U.S. House,3,REP,Sheri Biggs,23,0,1,0,5,0,17
+Newberry,Newberry Ward 2,U.S. House,3,REP,Sheri Biggs,115,0,4,0,72,0,39
+Newberry,Newberry Ward 3,U.S. House,3,REP,Sheri Biggs,40,0,3,0,21,0,16
+Newberry,Newberry Ward 4,U.S. House,3,REP,Sheri Biggs,7,0,0,0,0,0,7
+Newberry,Newberry Ward 5,U.S. House,3,REP,Sheri Biggs,7,0,0,0,4,0,3
+Newberry,Newberry Ward 6,U.S. House,3,REP,Sheri Biggs,84,0,3,0,43,0,38
+Newberry,Beth - Eden,U.S. House,3,REP,Sheri Biggs,47,0,0,0,19,0,28
+Newberry,Bush River,U.S. House,3,REP,Sheri Biggs,28,0,0,0,7,0,21
+Newberry,Chappells,U.S. House,3,REP,Sheri Biggs,48,0,0,0,1,0,47
+Newberry,Fairview,U.S. House,3,REP,Sheri Biggs,149,0,8,0,24,0,117
+Newberry,Hartford,U.S. House,3,REP,Sheri Biggs,46,0,1,0,23,0,22
+Newberry,Helena,U.S. House,3,REP,Sheri Biggs,22,0,0,0,14,0,8
+Newberry,Kinards-Jalapa,U.S. House,3,REP,Sheri Biggs,34,0,0,0,16,0,18
+Newberry,Johnstone,U.S. House,3,REP,Sheri Biggs,46,0,0,0,14,0,32
+Newberry,Little Mountain,U.S. House,3,REP,Sheri Biggs,79,0,1,0,19,0,59
+Newberry,Maybinton,U.S. House,3,REP,Sheri Biggs,2,0,0,0,0,0,2
+Newberry,Mt. Bethel-Garmany,U.S. House,3,REP,Sheri Biggs,60,0,0,0,24,0,36
+Newberry,Consolidated Number 5,U.S. House,3,REP,Sheri Biggs,87,0,0,0,12,0,75
+Newberry,O'Neal,U.S. House,3,REP,Sheri Biggs,147,0,8,0,29,0,110
+Newberry,Oakland,U.S. House,3,REP,Sheri Biggs,17,0,2,0,7,0,8
+Newberry,Peak,U.S. House,3,REP,Sheri Biggs,5,0,0,0,2,0,3
+Newberry,Pomaria,U.S. House,3,REP,Sheri Biggs,37,0,0,0,4,0,33
+Newberry,Prosperity City,U.S. House,3,REP,Sheri Biggs,49,0,0,0,15,0,34
+Newberry,Silverstreet,U.S. House,3,REP,Sheri Biggs,62,0,2,0,12,0,48
+Newberry,Stoney Hill,U.S. House,3,REP,Sheri Biggs,93,0,0,0,22,0,71
+Newberry,St. Phillips-Jolly Street,U.S. House,3,REP,Sheri Biggs,80,0,0,0,21,0,59
+Newberry,Wheeland,U.S. House,3,REP,Sheri Biggs,47,0,0,0,7,0,40
+Newberry,Whitmire City,U.S. House,3,REP,Sheri Biggs,36,0,0,0,4,0,32
+Newberry,Whitmire Outside,U.S. House,3,REP,Sheri Biggs,38,0,1,0,4,0,33
+Newberry,Prosperity Outside,U.S. House,3,REP,Sheri Biggs,58,0,0,0,24,0,34
+Newberry,Failsafe,U.S. House,3,REP,Sheri Biggs,0,0,0,0,0,0,0
+Newberry,Provisional,U.S. House,3,REP,Sheri Biggs,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,U.S. House,3,REP,Sheri Biggs,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,U.S. House,3,REP,Kevin Bishop,11,0,2,0,1,0,8
+Newberry,Newberry Ward 2,U.S. House,3,REP,Kevin Bishop,58,0,2,0,27,0,29
+Newberry,Newberry Ward 3,U.S. House,3,REP,Kevin Bishop,43,0,0,0,19,0,24
+Newberry,Newberry Ward 4,U.S. House,3,REP,Kevin Bishop,1,0,0,0,1,0,0
+Newberry,Newberry Ward 5,U.S. House,3,REP,Kevin Bishop,1,0,0,0,0,0,1
+Newberry,Newberry Ward 6,U.S. House,3,REP,Kevin Bishop,46,0,2,0,23,0,21
+Newberry,Beth - Eden,U.S. House,3,REP,Kevin Bishop,14,0,0,0,8,0,6
+Newberry,Bush River,U.S. House,3,REP,Kevin Bishop,16,0,0,0,2,0,14
+Newberry,Chappells,U.S. House,3,REP,Kevin Bishop,7,0,0,0,0,0,7
+Newberry,Fairview,U.S. House,3,REP,Kevin Bishop,83,0,0,0,18,0,65
+Newberry,Hartford,U.S. House,3,REP,Kevin Bishop,30,0,0,0,12,0,18
+Newberry,Helena,U.S. House,3,REP,Kevin Bishop,2,0,0,0,0,0,2
+Newberry,Kinards-Jalapa,U.S. House,3,REP,Kevin Bishop,28,0,0,0,4,0,24
+Newberry,Johnstone,U.S. House,3,REP,Kevin Bishop,22,0,0,0,8,0,14
+Newberry,Little Mountain,U.S. House,3,REP,Kevin Bishop,48,0,1,0,6,0,41
+Newberry,Maybinton,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,U.S. House,3,REP,Kevin Bishop,29,0,0,0,19,0,10
+Newberry,Consolidated Number 5,U.S. House,3,REP,Kevin Bishop,42,0,0,0,6,0,36
+Newberry,O'Neal,U.S. House,3,REP,Kevin Bishop,44,0,1,0,9,0,34
+Newberry,Oakland,U.S. House,3,REP,Kevin Bishop,2,0,0,0,2,0,0
+Newberry,Peak,U.S. House,3,REP,Kevin Bishop,9,0,0,0,1,0,8
+Newberry,Pomaria,U.S. House,3,REP,Kevin Bishop,12,0,0,0,0,0,12
+Newberry,Prosperity City,U.S. House,3,REP,Kevin Bishop,23,0,0,0,5,0,18
+Newberry,Silverstreet,U.S. House,3,REP,Kevin Bishop,22,0,0,0,6,0,16
+Newberry,Stoney Hill,U.S. House,3,REP,Kevin Bishop,35,0,0,0,11,0,24
+Newberry,St. Phillips-Jolly Street,U.S. House,3,REP,Kevin Bishop,46,0,0,0,14,0,32
+Newberry,Wheeland,U.S. House,3,REP,Kevin Bishop,24,0,0,0,4,0,20
+Newberry,Whitmire City,U.S. House,3,REP,Kevin Bishop,15,0,0,0,3,0,12
+Newberry,Whitmire Outside,U.S. House,3,REP,Kevin Bishop,22,0,0,0,4,0,18
+Newberry,Prosperity Outside,U.S. House,3,REP,Kevin Bishop,21,0,0,0,6,0,15
+Newberry,Failsafe,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Newberry,Provisional,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,U.S. House,3,REP,Mark Burns,13,0,0,0,3,0,10
+Newberry,Newberry Ward 2,U.S. House,3,REP,Mark Burns,32,0,0,0,15,0,17
+Newberry,Newberry Ward 3,U.S. House,3,REP,Mark Burns,22,0,0,0,14,0,8
+Newberry,Newberry Ward 4,U.S. House,3,REP,Mark Burns,5,0,0,0,0,0,5
+Newberry,Newberry Ward 5,U.S. House,3,REP,Mark Burns,4,0,0,0,0,0,4
+Newberry,Newberry Ward 6,U.S. House,3,REP,Mark Burns,44,0,2,0,19,0,23
+Newberry,Beth - Eden,U.S. House,3,REP,Mark Burns,22,0,0,0,4,0,18
+Newberry,Bush River,U.S. House,3,REP,Mark Burns,17,0,0,0,5,0,12
+Newberry,Chappells,U.S. House,3,REP,Mark Burns,31,0,0,0,5,0,26
+Newberry,Fairview,U.S. House,3,REP,Mark Burns,81,0,1,0,16,0,64
+Newberry,Hartford,U.S. House,3,REP,Mark Burns,37,0,1,0,10,0,26
+Newberry,Helena,U.S. House,3,REP,Mark Burns,16,0,0,0,6,0,10
+Newberry,Kinards-Jalapa,U.S. House,3,REP,Mark Burns,16,0,0,0,6,0,10
+Newberry,Johnstone,U.S. House,3,REP,Mark Burns,22,0,0,0,9,0,13
+Newberry,Little Mountain,U.S. House,3,REP,Mark Burns,50,0,0,0,4,0,46
+Newberry,Maybinton,U.S. House,3,REP,Mark Burns,2,0,0,0,0,0,2
+Newberry,Mt. Bethel-Garmany,U.S. House,3,REP,Mark Burns,26,0,0,0,7,0,19
+Newberry,Consolidated Number 5,U.S. House,3,REP,Mark Burns,39,0,0,0,4,0,35
+Newberry,O'Neal,U.S. House,3,REP,Mark Burns,85,0,0,0,14,0,71
+Newberry,Oakland,U.S. House,3,REP,Mark Burns,8,0,0,0,1,0,7
+Newberry,Peak,U.S. House,3,REP,Mark Burns,5,0,0,0,1,0,4
+Newberry,Pomaria,U.S. House,3,REP,Mark Burns,23,0,0,0,4,0,19
+Newberry,Prosperity City,U.S. House,3,REP,Mark Burns,27,0,0,0,5,0,22
+Newberry,Silverstreet,U.S. House,3,REP,Mark Burns,56,0,0,0,12,0,44
+Newberry,Stoney Hill,U.S. House,3,REP,Mark Burns,45,0,0,0,11,0,34
+Newberry,St. Phillips-Jolly Street,U.S. House,3,REP,Mark Burns,34,0,0,0,5,0,29
+Newberry,Wheeland,U.S. House,3,REP,Mark Burns,17,0,0,0,0,0,17
+Newberry,Whitmire City,U.S. House,3,REP,Mark Burns,24,0,0,0,0,0,24
+Newberry,Whitmire Outside,U.S. House,3,REP,Mark Burns,21,0,0,0,1,0,20
+Newberry,Prosperity Outside,U.S. House,3,REP,Mark Burns,49,0,0,0,10,0,39
+Newberry,Failsafe,U.S. House,3,REP,Mark Burns,0,0,0,0,0,0,0
+Newberry,Provisional,U.S. House,3,REP,Mark Burns,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,U.S. House,3,REP,Mark Burns,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,U.S. House,3,REP,Franky Franco,7,0,0,0,2,0,5
+Newberry,Newberry Ward 2,U.S. House,3,REP,Franky Franco,12,0,0,0,6,0,6
+Newberry,Newberry Ward 3,U.S. House,3,REP,Franky Franco,7,0,1,0,1,0,5
+Newberry,Newberry Ward 4,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Newberry,Newberry Ward 5,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Newberry,Newberry Ward 6,U.S. House,3,REP,Franky Franco,11,0,0,0,4,0,7
+Newberry,Beth - Eden,U.S. House,3,REP,Franky Franco,6,0,0,0,2,0,4
+Newberry,Bush River,U.S. House,3,REP,Franky Franco,1,0,0,0,0,0,1
+Newberry,Chappells,U.S. House,3,REP,Franky Franco,4,0,0,0,0,0,4
+Newberry,Fairview,U.S. House,3,REP,Franky Franco,12,0,0,0,2,0,10
+Newberry,Hartford,U.S. House,3,REP,Franky Franco,7,0,0,0,2,0,5
+Newberry,Helena,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Newberry,Kinards-Jalapa,U.S. House,3,REP,Franky Franco,6,0,0,0,0,0,6
+Newberry,Johnstone,U.S. House,3,REP,Franky Franco,3,0,0,0,2,0,1
+Newberry,Little Mountain,U.S. House,3,REP,Franky Franco,5,0,0,0,0,0,5
+Newberry,Maybinton,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,U.S. House,3,REP,Franky Franco,2,0,0,0,2,0,0
+Newberry,Consolidated Number 5,U.S. House,3,REP,Franky Franco,8,0,0,0,1,0,7
+Newberry,O'Neal,U.S. House,3,REP,Franky Franco,18,0,0,0,7,0,11
+Newberry,Oakland,U.S. House,3,REP,Franky Franco,2,0,0,0,0,0,2
+Newberry,Peak,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Newberry,Pomaria,U.S. House,3,REP,Franky Franco,3,0,0,0,3,0,0
+Newberry,Prosperity City,U.S. House,3,REP,Franky Franco,4,0,0,0,0,0,4
+Newberry,Silverstreet,U.S. House,3,REP,Franky Franco,8,0,0,0,4,0,4
+Newberry,Stoney Hill,U.S. House,3,REP,Franky Franco,12,0,0,0,2,0,10
+Newberry,St. Phillips-Jolly Street,U.S. House,3,REP,Franky Franco,6,0,0,0,2,0,4
+Newberry,Wheeland,U.S. House,3,REP,Franky Franco,1,0,0,0,0,0,1
+Newberry,Whitmire City,U.S. House,3,REP,Franky Franco,1,0,0,0,0,0,1
+Newberry,Whitmire Outside,U.S. House,3,REP,Franky Franco,2,0,0,0,1,0,1
+Newberry,Prosperity Outside,U.S. House,3,REP,Franky Franco,4,0,0,0,3,0,1
+Newberry,Failsafe,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Newberry,Provisional,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,U.S. House,3,REP,Phil Healy,1,0,0,0,1,0,0
+Newberry,Newberry Ward 2,U.S. House,3,REP,Phil Healy,6,0,0,0,3,0,3
+Newberry,Newberry Ward 3,U.S. House,3,REP,Phil Healy,4,0,0,0,2,0,2
+Newberry,Newberry Ward 4,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Newberry,Newberry Ward 5,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Newberry,Newberry Ward 6,U.S. House,3,REP,Phil Healy,4,0,0,0,3,0,1
+Newberry,Beth - Eden,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Newberry,Bush River,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Newberry,Chappells,U.S. House,3,REP,Phil Healy,4,0,0,0,0,0,4
+Newberry,Fairview,U.S. House,3,REP,Phil Healy,14,0,0,0,5,0,9
+Newberry,Hartford,U.S. House,3,REP,Phil Healy,2,0,0,0,0,0,2
+Newberry,Helena,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Newberry,Kinards-Jalapa,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Newberry,Johnstone,U.S. House,3,REP,Phil Healy,3,0,0,0,0,0,3
+Newberry,Little Mountain,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Newberry,Maybinton,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,U.S. House,3,REP,Phil Healy,5,0,0,0,1,0,4
+Newberry,Consolidated Number 5,U.S. House,3,REP,Phil Healy,4,0,0,0,0,0,4
+Newberry,O'Neal,U.S. House,3,REP,Phil Healy,6,0,0,0,1,0,5
+Newberry,Oakland,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Newberry,Peak,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Newberry,Pomaria,U.S. House,3,REP,Phil Healy,3,0,0,0,0,0,3
+Newberry,Prosperity City,U.S. House,3,REP,Phil Healy,4,0,0,0,0,0,4
+Newberry,Silverstreet,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Newberry,Stoney Hill,U.S. House,3,REP,Phil Healy,7,0,0,0,1,0,6
+Newberry,St. Phillips-Jolly Street,U.S. House,3,REP,Phil Healy,4,0,0,0,0,0,4
+Newberry,Wheeland,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Newberry,Whitmire City,U.S. House,3,REP,Phil Healy,2,0,0,0,1,0,1
+Newberry,Whitmire Outside,U.S. House,3,REP,Phil Healy,2,0,0,0,0,0,2
+Newberry,Prosperity Outside,U.S. House,3,REP,Phil Healy,1,0,0,0,1,0,0
+Newberry,Failsafe,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Newberry,Provisional,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,U.S. House,3,REP,Stewart O Jones,7,0,0,0,4,0,3
+Newberry,Newberry Ward 2,U.S. House,3,REP,Stewart O Jones,34,0,0,0,18,0,16
+Newberry,Newberry Ward 3,U.S. House,3,REP,Stewart O Jones,19,0,1,0,10,0,8
+Newberry,Newberry Ward 4,U.S. House,3,REP,Stewart O Jones,7,0,0,0,5,0,2
+Newberry,Newberry Ward 5,U.S. House,3,REP,Stewart O Jones,4,0,0,0,2,0,2
+Newberry,Newberry Ward 6,U.S. House,3,REP,Stewart O Jones,52,0,0,0,19,0,33
+Newberry,Beth - Eden,U.S. House,3,REP,Stewart O Jones,10,0,0,0,2,0,8
+Newberry,Bush River,U.S. House,3,REP,Stewart O Jones,11,0,0,0,4,0,7
+Newberry,Chappells,U.S. House,3,REP,Stewart O Jones,37,0,0,0,7,0,30
+Newberry,Fairview,U.S. House,3,REP,Stewart O Jones,101,0,0,0,34,0,67
+Newberry,Hartford,U.S. House,3,REP,Stewart O Jones,47,0,0,0,23,0,24
+Newberry,Helena,U.S. House,3,REP,Stewart O Jones,7,0,0,0,7,0,0
+Newberry,Kinards-Jalapa,U.S. House,3,REP,Stewart O Jones,24,0,0,0,7,0,17
+Newberry,Johnstone,U.S. House,3,REP,Stewart O Jones,38,0,0,0,15,0,23
+Newberry,Little Mountain,U.S. House,3,REP,Stewart O Jones,54,0,0,0,14,0,40
+Newberry,Maybinton,U.S. House,3,REP,Stewart O Jones,3,0,0,0,0,0,3
+Newberry,Mt. Bethel-Garmany,U.S. House,3,REP,Stewart O Jones,35,0,2,0,8,0,25
+Newberry,Consolidated Number 5,U.S. House,3,REP,Stewart O Jones,35,0,1,0,12,0,22
+Newberry,O'Neal,U.S. House,3,REP,Stewart O Jones,83,0,3,0,21,0,59
+Newberry,Oakland,U.S. House,3,REP,Stewart O Jones,4,0,0,0,3,0,1
+Newberry,Peak,U.S. House,3,REP,Stewart O Jones,10,0,0,0,1,0,9
+Newberry,Pomaria,U.S. House,3,REP,Stewart O Jones,28,0,1,0,1,0,26
+Newberry,Prosperity City,U.S. House,3,REP,Stewart O Jones,36,0,0,0,12,0,24
+Newberry,Silverstreet,U.S. House,3,REP,Stewart O Jones,26,0,0,0,7,0,19
+Newberry,Stoney Hill,U.S. House,3,REP,Stewart O Jones,61,0,0,0,14,0,47
+Newberry,St. Phillips-Jolly Street,U.S. House,3,REP,Stewart O Jones,35,0,0,0,6,0,29
+Newberry,Wheeland,U.S. House,3,REP,Stewart O Jones,16,0,0,0,1,0,15
+Newberry,Whitmire City,U.S. House,3,REP,Stewart O Jones,27,0,0,0,6,0,21
+Newberry,Whitmire Outside,U.S. House,3,REP,Stewart O Jones,33,0,0,0,0,0,33
+Newberry,Prosperity Outside,U.S. House,3,REP,Stewart O Jones,32,0,0,0,7,0,25
+Newberry,Failsafe,U.S. House,3,REP,Stewart O Jones,0,0,0,0,0,0,0
+Newberry,Provisional,U.S. House,3,REP,Stewart O Jones,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,U.S. House,3,REP,Stewart O Jones,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,U.S. House,3,REP,Elspeth Snow Murday,5,0,0,0,0,0,5
+Newberry,Newberry Ward 2,U.S. House,3,REP,Elspeth Snow Murday,7,0,0,0,3,0,4
+Newberry,Newberry Ward 3,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,1,0,1
+Newberry,Newberry Ward 4,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Newberry,Newberry Ward 5,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Newberry,Newberry Ward 6,U.S. House,3,REP,Elspeth Snow Murday,9,0,0,0,3,0,6
+Newberry,Beth - Eden,U.S. House,3,REP,Elspeth Snow Murday,3,0,0,0,2,0,1
+Newberry,Bush River,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Newberry,Chappells,U.S. House,3,REP,Elspeth Snow Murday,2,0,2,0,0,0,0
+Newberry,Fairview,U.S. House,3,REP,Elspeth Snow Murday,13,0,0,0,3,0,10
+Newberry,Hartford,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,0,0,2
+Newberry,Helena,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,1,0,0
+Newberry,Kinards-Jalapa,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Newberry,Johnstone,U.S. House,3,REP,Elspeth Snow Murday,3,0,0,0,2,0,1
+Newberry,Little Mountain,U.S. House,3,REP,Elspeth Snow Murday,5,0,0,0,1,0,4
+Newberry,Maybinton,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,U.S. House,3,REP,Elspeth Snow Murday,5,0,0,0,2,0,3
+Newberry,Consolidated Number 5,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,1,0,0
+Newberry,O'Neal,U.S. House,3,REP,Elspeth Snow Murday,4,0,0,0,2,0,2
+Newberry,Oakland,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Newberry,Peak,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Newberry,Pomaria,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Newberry,Prosperity City,U.S. House,3,REP,Elspeth Snow Murday,3,0,0,0,2,0,1
+Newberry,Silverstreet,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,0,0,2
+Newberry,Stoney Hill,U.S. House,3,REP,Elspeth Snow Murday,8,0,0,0,1,0,7
+Newberry,St. Phillips-Jolly Street,U.S. House,3,REP,Elspeth Snow Murday,3,0,0,0,0,0,3
+Newberry,Wheeland,U.S. House,3,REP,Elspeth Snow Murday,2,0,0,0,0,0,2
+Newberry,Whitmire City,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Newberry,Whitmire Outside,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Newberry,Prosperity Outside,U.S. House,3,REP,Elspeth Snow Murday,3,0,0,0,1,0,2
+Newberry,Failsafe,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Newberry,Provisional,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,State House,40,REP,Johnathan JP Ammons,2,0,0,0,0,0,2
+Newberry,Newberry Ward 2,State House,40,REP,Johnathan JP Ammons,6,0,0,0,1,0,5
+Newberry,Newberry Ward 3,State House,40,REP,Johnathan JP Ammons,3,0,0,0,1,0,2
+Newberry,Newberry Ward 4,State House,40,REP,Johnathan JP Ammons,1,0,0,0,0,0,1
+Newberry,Newberry Ward 5,State House,40,REP,Johnathan JP Ammons,1,0,0,0,1,0,0
+Newberry,Newberry Ward 6,State House,40,REP,Johnathan JP Ammons,4,0,0,0,2,0,2
+Newberry,Beth - Eden,State House,40,REP,Johnathan JP Ammons,1,0,0,0,0,0,1
+Newberry,Bush River,State House,40,REP,Johnathan JP Ammons,1,0,0,0,0,0,1
+Newberry,Chappells,State House,40,REP,Johnathan JP Ammons,10,0,0,0,0,0,10
+Newberry,Fairview,State House,40,REP,Johnathan JP Ammons,14,0,0,0,1,0,13
+Newberry,Hartford,State House,40,REP,Johnathan JP Ammons,3,0,0,0,1,0,2
+Newberry,Helena,State House,40,REP,Johnathan JP Ammons,1,0,0,0,1,0,0
+Newberry,Kinards-Jalapa,State House,40,REP,Johnathan JP Ammons,2,0,0,0,0,0,2
+Newberry,Johnstone,State House,40,REP,Johnathan JP Ammons,4,0,0,0,3,0,1
+Newberry,Little Mountain,State House,40,REP,Johnathan JP Ammons,5,0,0,0,1,0,4
+Newberry,Maybinton,State House,40,REP,Johnathan JP Ammons,0,0,0,0,0,0,0
+Newberry,Mt. Bethel-Garmany,State House,40,REP,Johnathan JP Ammons,1,0,0,0,0,0,1
+Newberry,Consolidated Number 5,State House,40,REP,Johnathan JP Ammons,9,0,0,0,1,0,8
+Newberry,O'Neal,State House,40,REP,Johnathan JP Ammons,20,0,0,0,7,0,13
+Newberry,Oakland,State House,40,REP,Johnathan JP Ammons,1,0,0,0,0,0,1
+Newberry,Peak,State House,40,REP,Johnathan JP Ammons,3,0,0,0,2,0,1
+Newberry,Pomaria,State House,40,REP,Johnathan JP Ammons,7,0,0,0,1,0,6
+Newberry,Prosperity City,State House,40,REP,Johnathan JP Ammons,4,0,0,0,0,0,4
+Newberry,Silverstreet,State House,40,REP,Johnathan JP Ammons,3,0,0,0,0,0,3
+Newberry,Stoney Hill,State House,40,REP,Johnathan JP Ammons,6,0,0,0,1,0,5
+Newberry,St. Phillips-Jolly Street,State House,40,REP,Johnathan JP Ammons,8,0,0,0,1,0,7
+Newberry,Wheeland,State House,40,REP,Johnathan JP Ammons,4,0,0,0,0,0,4
+Newberry,Whitmire City,State House,40,REP,Johnathan JP Ammons,10,0,0,0,2,0,8
+Newberry,Whitmire Outside,State House,40,REP,Johnathan JP Ammons,6,0,0,0,0,0,6
+Newberry,Prosperity Outside,State House,40,REP,Johnathan JP Ammons,3,0,0,0,1,0,2
+Newberry,Failsafe,State House,40,REP,Johnathan JP Ammons,0,0,0,0,0,0,0
+Newberry,Provisional,State House,40,REP,Johnathan JP Ammons,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,State House,40,REP,Johnathan JP Ammons,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,State House,40,REP,Vince Northcutt,41,0,2,0,10,0,29
+Newberry,Newberry Ward 2,State House,40,REP,Vince Northcutt,175,0,3,0,96,0,76
+Newberry,Newberry Ward 3,State House,40,REP,Vince Northcutt,90,0,2,0,39,0,49
+Newberry,Newberry Ward 4,State House,40,REP,Vince Northcutt,8,0,0,0,1,0,7
+Newberry,Newberry Ward 5,State House,40,REP,Vince Northcutt,6,0,0,0,2,0,4
+Newberry,Newberry Ward 6,State House,40,REP,Vince Northcutt,172,0,5,0,96,0,71
+Newberry,Beth - Eden,State House,40,REP,Vince Northcutt,53,0,0,0,21,0,32
+Newberry,Bush River,State House,40,REP,Vince Northcutt,48,0,0,0,11,0,37
+Newberry,Chappells,State House,40,REP,Vince Northcutt,30,0,2,0,1,0,27
+Newberry,Fairview,State House,40,REP,Vince Northcutt,157,0,4,0,33,0,120
+Newberry,Hartford,State House,40,REP,Vince Northcutt,76,0,1,0,31,0,44
+Newberry,Helena,State House,40,REP,Vince Northcutt,24,0,0,0,11,0,13
+Newberry,Kinards-Jalapa,State House,40,REP,Vince Northcutt,68,0,0,0,23,0,45
+Newberry,Johnstone,State House,40,REP,Vince Northcutt,59,0,0,0,26,0,33
+Newberry,Little Mountain,State House,40,REP,Vince Northcutt,80,0,1,0,11,0,68
+Newberry,Maybinton,State House,40,REP,Vince Northcutt,5,0,0,0,0,0,5
+Newberry,Mt. Bethel-Garmany,State House,40,REP,Vince Northcutt,72,0,0,0,32,0,40
+Newberry,Consolidated Number 5,State House,40,REP,Vince Northcutt,126,0,1,0,15,0,110
+Newberry,O'Neal,State House,40,REP,Vince Northcutt,157,0,12,0,42,0,103
+Newberry,Oakland,State House,40,REP,Vince Northcutt,17,0,0,0,8,0,9
+Newberry,Peak,State House,40,REP,Vince Northcutt,14,0,0,0,2,0,12
+Newberry,Pomaria,State House,40,REP,Vince Northcutt,41,0,0,0,3,0,38
+Newberry,Prosperity City,State House,40,REP,Vince Northcutt,54,0,0,0,16,0,38
+Newberry,Silverstreet,State House,40,REP,Vince Northcutt,105,0,0,0,22,0,83
+Newberry,Stoney Hill,State House,40,REP,Vince Northcutt,84,0,0,0,20,0,64
+Newberry,St. Phillips-Jolly Street,State House,40,REP,Vince Northcutt,98,0,0,0,19,0,79
+Newberry,Wheeland,State House,40,REP,Vince Northcutt,26,0,0,0,4,0,22
+Newberry,Whitmire City,State House,40,REP,Vince Northcutt,28,0,0,0,3,0,25
+Newberry,Whitmire Outside,State House,40,REP,Vince Northcutt,34,0,0,0,5,0,29
+Newberry,Prosperity Outside,State House,40,REP,Vince Northcutt,80,0,0,0,25,0,55
+Newberry,Failsafe,State House,40,REP,Vince Northcutt,0,0,0,0,0,0,0
+Newberry,Provisional,State House,40,REP,Vince Northcutt,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,State House,40,REP,Vince Northcutt,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,State House,40,REP,Joe White,32,0,1,0,8,0,23
+Newberry,Newberry Ward 2,State House,40,REP,Joe White,110,0,3,0,66,0,41
+Newberry,Newberry Ward 3,State House,40,REP,Joe White,62,0,3,0,35,0,24
+Newberry,Newberry Ward 4,State House,40,REP,Joe White,12,0,0,0,5,0,7
+Newberry,Newberry Ward 5,State House,40,REP,Joe White,10,0,0,0,4,0,6
+Newberry,Newberry Ward 6,State House,40,REP,Joe White,101,0,2,0,34,0,65
+Newberry,Beth - Eden,State House,40,REP,Joe White,53,0,0,0,16,0,37
+Newberry,Bush River,State House,40,REP,Joe White,32,0,0,0,9,0,23
+Newberry,Chappells,State House,40,REP,Joe White,96,0,0,0,12,0,84
+Newberry,Fairview,State House,40,REP,Joe White,313,0,7,0,75,0,231
+Newberry,Hartford,State House,40,REP,Joe White,101,0,2,0,43,0,56
+Newberry,Helena,State House,40,REP,Joe White,22,0,0,0,15,0,7
+Newberry,Kinards-Jalapa,State House,40,REP,Joe White,42,0,0,0,12,0,30
+Newberry,Johnstone,State House,40,REP,Joe White,77,0,0,0,23,0,54
+Newberry,Little Mountain,State House,40,REP,Joe White,179,0,1,0,34,0,144
+Newberry,Maybinton,State House,40,REP,Joe White,3,0,0,0,0,0,3
+Newberry,Mt. Bethel-Garmany,State House,40,REP,Joe White,98,0,2,0,35,0,61
+Newberry,Consolidated Number 5,State House,40,REP,Joe White,95,0,0,0,24,0,71
+Newberry,O'Neal,State House,40,REP,Joe White,222,0,0,0,38,0,184
+Newberry,Oakland,State House,40,REP,Joe White,15,0,2,0,5,0,8
+Newberry,Peak,State House,40,REP,Joe White,16,0,0,0,2,0,14
+Newberry,Pomaria,State House,40,REP,Joe White,65,0,1,0,8,0,56
+Newberry,Prosperity City,State House,40,REP,Joe White,94,0,0,0,26,0,68
+Newberry,Silverstreet,State House,40,REP,Joe White,71,0,2,0,20,0,49
+Newberry,Stoney Hill,State House,40,REP,Joe White,183,0,0,0,41,0,142
+Newberry,St. Phillips-Jolly Street,State House,40,REP,Joe White,117,0,0,0,29,0,88
+Newberry,Wheeland,State House,40,REP,Joe White,87,0,0,0,9,0,78
+Newberry,Whitmire City,State House,40,REP,Joe White,71,0,0,0,8,0,63
+Newberry,Whitmire Outside,State House,40,REP,Joe White,81,0,1,0,7,0,73
+Newberry,Prosperity Outside,State House,40,REP,Joe White,96,0,0,0,32,0,64
+Newberry,Failsafe,State House,40,REP,Joe White,0,0,0,0,0,0,0
+Newberry,Provisional,State House,40,REP,Joe White,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,State House,40,REP,Joe White,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Coroner,,REP,Robert B Dennis III,18,0,2,0,4,0,12
+Newberry,Newberry Ward 2,Coroner,,REP,Robert B Dennis III,98,0,0,0,48,0,50
+Newberry,Newberry Ward 3,Coroner,,REP,Robert B Dennis III,45,0,3,0,26,0,16
+Newberry,Newberry Ward 4,Coroner,,REP,Robert B Dennis III,3,0,0,0,0,0,3
+Newberry,Newberry Ward 5,Coroner,,REP,Robert B Dennis III,6,0,0,0,4,0,2
+Newberry,Newberry Ward 6,Coroner,,REP,Robert B Dennis III,85,0,4,0,44,0,37
+Newberry,Beth - Eden,Coroner,,REP,Robert B Dennis III,28,0,0,0,8,0,20
+Newberry,Bush River,Coroner,,REP,Robert B Dennis III,39,0,0,0,15,0,24
+Newberry,Chappells,Coroner,,REP,Robert B Dennis III,43,0,2,0,3,0,38
+Newberry,Fairview,Coroner,,REP,Robert B Dennis III,147,0,4,0,25,0,118
+Newberry,Hartford,Coroner,,REP,Robert B Dennis III,75,0,0,0,33,0,42
+Newberry,Helena,Coroner,,REP,Robert B Dennis III,17,0,0,0,13,0,4
+Newberry,Kinards-Jalapa,Coroner,,REP,Robert B Dennis III,48,0,0,0,13,0,35
+Newberry,Johnstone,Coroner,,REP,Robert B Dennis III,72,0,0,0,24,0,48
+Newberry,Little Mountain,Coroner,,REP,Robert B Dennis III,99,0,1,0,17,0,81
+Newberry,Maybinton,Coroner,,REP,Robert B Dennis III,1,0,0,0,0,0,1
+Newberry,Mt. Bethel-Garmany,Coroner,,REP,Robert B Dennis III,61,0,0,0,26,0,35
+Newberry,Consolidated Number 5,Coroner,,REP,Robert B Dennis III,93,0,0,0,17,0,76
+Newberry,O'Neal,Coroner,,REP,Robert B Dennis III,139,0,12,0,29,0,98
+Newberry,Oakland,Coroner,,REP,Robert B Dennis III,10,0,0,0,5,0,5
+Newberry,Peak,Coroner,,REP,Robert B Dennis III,10,0,0,0,1,0,9
+Newberry,Pomaria,Coroner,,REP,Robert B Dennis III,54,0,1,0,6,0,47
+Newberry,Prosperity City,Coroner,,REP,Robert B Dennis III,42,0,0,0,12,0,30
+Newberry,Silverstreet,Coroner,,REP,Robert B Dennis III,71,0,1,0,13,0,57
+Newberry,Stoney Hill,Coroner,,REP,Robert B Dennis III,87,0,0,0,15,0,72
+Newberry,St. Phillips-Jolly Street,Coroner,,REP,Robert B Dennis III,90,0,0,0,21,0,69
+Newberry,Wheeland,Coroner,,REP,Robert B Dennis III,39,0,0,0,4,0,35
+Newberry,Whitmire City,Coroner,,REP,Robert B Dennis III,49,0,0,0,9,0,40
+Newberry,Whitmire Outside,Coroner,,REP,Robert B Dennis III,55,0,0,0,7,0,48
+Newberry,Prosperity Outside,Coroner,,REP,Robert B Dennis III,80,0,0,0,27,0,53
+Newberry,Failsafe,Coroner,,REP,Robert B Dennis III,0,0,0,0,0,0,0
+Newberry,Provisional,Coroner,,REP,Robert B Dennis III,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Coroner,,REP,Robert B Dennis III,0,0,0,0,0,0,0
+Newberry,Newberry Ward 1,Coroner,,REP,Laura Kneece,58,0,1,0,14,0,43
+Newberry,Newberry Ward 2,Coroner,,REP,Laura Kneece,192,0,6,0,114,0,72
+Newberry,Newberry Ward 3,Coroner,,REP,Laura Kneece,107,0,2,0,49,0,56
+Newberry,Newberry Ward 4,Coroner,,REP,Laura Kneece,20,0,0,0,6,0,14
+Newberry,Newberry Ward 5,Coroner,,REP,Laura Kneece,11,0,0,0,3,0,8
+Newberry,Newberry Ward 6,Coroner,,REP,Laura Kneece,190,0,3,0,85,0,102
+Newberry,Beth - Eden,Coroner,,REP,Laura Kneece,76,0,0,0,29,0,47
+Newberry,Bush River,Coroner,,REP,Laura Kneece,42,0,0,0,5,0,37
+Newberry,Chappells,Coroner,,REP,Laura Kneece,91,0,0,0,10,0,81
+Newberry,Fairview,Coroner,,REP,Laura Kneece,313,0,5,0,79,0,229
+Newberry,Hartford,Coroner,,REP,Laura Kneece,105,0,3,0,42,0,60
+Newberry,Helena,Coroner,,REP,Laura Kneece,30,0,0,0,14,0,16
+Newberry,Kinards-Jalapa,Coroner,,REP,Laura Kneece,65,0,0,0,23,0,42
+Newberry,Johnstone,Coroner,,REP,Laura Kneece,70,0,0,0,29,0,41
+Newberry,Little Mountain,Coroner,,REP,Laura Kneece,159,0,1,0,28,0,130
+Newberry,Maybinton,Coroner,,REP,Laura Kneece,6,0,0,0,0,0,6
+Newberry,Mt. Bethel-Garmany,Coroner,,REP,Laura Kneece,110,0,2,0,42,0,66
+Newberry,Consolidated Number 5,Coroner,,REP,Laura Kneece,136,0,1,0,22,0,113
+Newberry,O'Neal,Coroner,,REP,Laura Kneece,257,0,0,0,57,0,200
+Newberry,Oakland,Coroner,,REP,Laura Kneece,23,0,2,0,8,0,13
+Newberry,Peak,Coroner,,REP,Laura Kneece,22,0,0,0,5,0,17
+Newberry,Pomaria,Coroner,,REP,Laura Kneece,58,0,0,0,6,0,52
+Newberry,Prosperity City,Coroner,,REP,Laura Kneece,112,0,0,0,30,0,82
+Newberry,Silverstreet,Coroner,,REP,Laura Kneece,108,0,1,0,29,0,78
+Newberry,Stoney Hill,Coroner,,REP,Laura Kneece,185,0,0,0,47,0,138
+Newberry,St. Phillips-Jolly Street,Coroner,,REP,Laura Kneece,134,0,0,0,29,0,105
+Newberry,Wheeland,Coroner,,REP,Laura Kneece,75,0,0,0,9,0,66
+Newberry,Whitmire City,Coroner,,REP,Laura Kneece,61,0,0,0,5,0,56
+Newberry,Whitmire Outside,Coroner,,REP,Laura Kneece,64,0,1,0,2,0,61
+Newberry,Prosperity Outside,Coroner,,REP,Laura Kneece,99,0,0,0,32,0,67
+Newberry,Failsafe,Coroner,,REP,Laura Kneece,0,0,0,0,0,0,0
+Newberry,Provisional,Coroner,,REP,Laura Kneece,0,0,0,0,0,0,0
+Newberry,Failsafe Provisional,Coroner,,REP,Laura Kneece,0,0,0,0,0,0,0

@@ -1,0 +1,356 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Kershaw,Airport,State Senate,35,DEM,Austin B Floyd Jr,14,0,0,0,3,0,11
+Kershaw,Antioch,State Senate,35,DEM,Austin B Floyd Jr,12,0,0,0,7,0,5
+Kershaw,Bethune,State Senate,35,DEM,Austin B Floyd Jr,8,0,0,0,2,0,6
+Kershaw,Camden No. 1,State Senate,35,DEM,Austin B Floyd Jr,44,0,0,0,23,0,21
+Kershaw,Camden No. 2 & 3,State Senate,35,DEM,Austin B Floyd Jr,2,0,0,0,0,0,2
+Kershaw,Hobkirk'S Hill,State Senate,35,DEM,Austin B Floyd Jr,31,0,2,0,22,0,7
+Kershaw,Camden No. 6,State Senate,35,DEM,Austin B Floyd Jr,10,0,0,0,3,0,7
+Kershaw,Cassatt,State Senate,35,DEM,Austin B Floyd Jr,3,0,0,0,2,0,1
+Kershaw,Charlotte Thompson,State Senate,35,DEM,Austin B Floyd Jr,42,0,2,0,20,0,20
+Kershaw,Doby'S Mill,State Senate,35,DEM,Austin B Floyd Jr,21,0,0,0,5,0,16
+Kershaw,Elgin No. 1,State Senate,35,DEM,Austin B Floyd Jr,23,0,0,0,6,0,17
+Kershaw,Elgin No. 3,State Senate,35,DEM,Austin B Floyd Jr,27,0,1,0,8,0,18
+Kershaw,Elgin No. 5,State Senate,35,DEM,Austin B Floyd Jr,11,0,1,0,5,0,5
+Kershaw,Elgin No. 6,State Senate,35,DEM,Austin B Floyd Jr,14,0,0,0,3,0,11
+Kershaw,Malvern Hill,State Senate,35,DEM,Austin B Floyd Jr,19,0,0,0,12,0,7
+Kershaw,Riverdale,State Senate,35,DEM,Austin B Floyd Jr,25,0,0,0,12,0,13
+Kershaw,Whites Gardens,State Senate,35,DEM,Austin B Floyd Jr,19,0,0,0,7,0,12
+Kershaw,Failsafe,State Senate,35,DEM,Austin B Floyd Jr,0,0,0,0,0,0,0
+Kershaw,Provisional,State Senate,35,DEM,Austin B Floyd Jr,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State Senate,35,DEM,Austin B Floyd Jr,0,0,0,0,0,0,0
+Kershaw,Airport,State Senate,35,DEM,Jeffrey R Graham,35,0,0,0,15,0,20
+Kershaw,Antioch,State Senate,35,DEM,Jeffrey R Graham,19,0,0,0,14,0,5
+Kershaw,Bethune,State Senate,35,DEM,Jeffrey R Graham,56,0,1,0,11,0,44
+Kershaw,Camden No. 1,State Senate,35,DEM,Jeffrey R Graham,95,0,0,0,65,0,30
+Kershaw,Camden No. 2 & 3,State Senate,35,DEM,Jeffrey R Graham,28,0,0,0,19,0,9
+Kershaw,Hobkirk'S Hill,State Senate,35,DEM,Jeffrey R Graham,154,0,0,0,83,0,71
+Kershaw,Camden No. 6,State Senate,35,DEM,Jeffrey R Graham,36,0,0,0,19,0,17
+Kershaw,Cassatt,State Senate,35,DEM,Jeffrey R Graham,30,0,0,0,22,0,8
+Kershaw,Charlotte Thompson,State Senate,35,DEM,Jeffrey R Graham,89,0,4,0,55,0,30
+Kershaw,Doby'S Mill,State Senate,35,DEM,Jeffrey R Graham,38,0,0,0,20,0,18
+Kershaw,Elgin No. 1,State Senate,35,DEM,Jeffrey R Graham,53,0,1,0,15,0,37
+Kershaw,Elgin No. 3,State Senate,35,DEM,Jeffrey R Graham,41,0,1,0,11,0,29
+Kershaw,Elgin No. 5,State Senate,35,DEM,Jeffrey R Graham,20,0,1,0,5,0,14
+Kershaw,Elgin No. 6,State Senate,35,DEM,Jeffrey R Graham,29,0,0,0,9,0,20
+Kershaw,Malvern Hill,State Senate,35,DEM,Jeffrey R Graham,51,0,0,0,25,0,26
+Kershaw,Riverdale,State Senate,35,DEM,Jeffrey R Graham,59,0,3,0,24,0,32
+Kershaw,Whites Gardens,State Senate,35,DEM,Jeffrey R Graham,60,0,0,0,36,0,24
+Kershaw,Failsafe,State Senate,35,DEM,Jeffrey R Graham,0,0,0,0,0,0,0
+Kershaw,Provisional,State Senate,35,DEM,Jeffrey R Graham,2,0,0,0,0,2,0
+Kershaw,Failsafe Provisional,State Senate,35,DEM,Jeffrey R Graham,0,0,0,0,0,0,0
+Kershaw,Airport,State Senate,35,DEM,Lucy Mahon,9,0,0,0,6,0,3
+Kershaw,Antioch,State Senate,35,DEM,Lucy Mahon,2,0,0,0,0,0,2
+Kershaw,Bethune,State Senate,35,DEM,Lucy Mahon,4,0,0,0,0,0,4
+Kershaw,Camden No. 1,State Senate,35,DEM,Lucy Mahon,14,0,0,0,12,0,2
+Kershaw,Camden No. 2 & 3,State Senate,35,DEM,Lucy Mahon,8,0,0,0,2,0,6
+Kershaw,Hobkirk'S Hill,State Senate,35,DEM,Lucy Mahon,24,0,0,0,15,0,9
+Kershaw,Camden No. 6,State Senate,35,DEM,Lucy Mahon,11,0,0,0,3,0,8
+Kershaw,Cassatt,State Senate,35,DEM,Lucy Mahon,4,0,0,0,2,0,2
+Kershaw,Charlotte Thompson,State Senate,35,DEM,Lucy Mahon,13,0,0,0,6,0,7
+Kershaw,Doby'S Mill,State Senate,35,DEM,Lucy Mahon,14,0,1,0,3,0,10
+Kershaw,Elgin No. 1,State Senate,35,DEM,Lucy Mahon,39,0,1,0,6,0,32
+Kershaw,Elgin No. 3,State Senate,35,DEM,Lucy Mahon,9,0,0,0,3,0,6
+Kershaw,Elgin No. 5,State Senate,35,DEM,Lucy Mahon,7,0,0,0,4,0,3
+Kershaw,Elgin No. 6,State Senate,35,DEM,Lucy Mahon,11,0,0,0,3,0,8
+Kershaw,Malvern Hill,State Senate,35,DEM,Lucy Mahon,13,0,0,0,3,0,10
+Kershaw,Riverdale,State Senate,35,DEM,Lucy Mahon,9,0,1,0,3,0,5
+Kershaw,Whites Gardens,State Senate,35,DEM,Lucy Mahon,7,0,0,0,3,0,4
+Kershaw,Failsafe,State Senate,35,DEM,Lucy Mahon,0,0,0,0,0,0,0
+Kershaw,Provisional,State Senate,35,DEM,Lucy Mahon,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State Senate,35,DEM,Lucy Mahon,0,0,0,0,0,0,0
+Kershaw,Buffalo,State Senate,27,REP,Allen Blackmon,122,0,1,0,23,0,98
+Kershaw,Camden No. 5,State Senate,27,REP,Allen Blackmon,85,0,2,0,31,0,52
+Kershaw,Camden No. 5-A,State Senate,27,REP,Allen Blackmon,26,0,0,0,12,0,14
+Kershaw,Elgin No. 2,State Senate,27,REP,Allen Blackmon,100,0,1,0,16,0,83
+Kershaw,Elgin No. 4,State Senate,27,REP,Allen Blackmon,86,0,4,0,17,0,65
+Kershaw,Liberty Hill,State Senate,27,REP,Allen Blackmon,73,0,0,0,21,0,52
+Kershaw,Lugoff No. 1,State Senate,27,REP,Allen Blackmon,82,0,3,0,16,0,63
+Kershaw,Lugoff No. 2,State Senate,27,REP,Allen Blackmon,109,0,3,0,37,0,69
+Kershaw,Lugoff No. 3,State Senate,27,REP,Allen Blackmon,119,0,1,0,21,0,97
+Kershaw,Lugoff No. 4,State Senate,27,REP,Allen Blackmon,113,0,0,0,33,0,80
+Kershaw,Rabon'S X Roads,State Senate,27,REP,Allen Blackmon,202,0,2,0,55,0,145
+Kershaw,Salt Pond,State Senate,27,REP,Allen Blackmon,78,0,0,0,21,0,57
+Kershaw,Shaylor'S Hill,State Senate,27,REP,Allen Blackmon,124,0,2,0,45,0,77
+Kershaw,Springdale,State Senate,27,REP,Allen Blackmon,150,0,0,0,43,0,107
+Kershaw,Westville,State Senate,27,REP,Allen Blackmon,156,0,0,0,36,0,120
+Kershaw,Failsafe,State Senate,27,REP,Allen Blackmon,0,0,0,0,0,0,0
+Kershaw,Provisional,State Senate,27,REP,Allen Blackmon,1,0,0,0,0,1,0
+Kershaw,Failsafe Provisional,State Senate,27,REP,Allen Blackmon,0,0,0,0,0,0,0
+Kershaw,Buffalo,State Senate,27,REP,Penry Gustafson,17,0,0,0,4,0,13
+Kershaw,Camden No. 5,State Senate,27,REP,Penry Gustafson,49,0,1,0,15,0,33
+Kershaw,Camden No. 5-A,State Senate,27,REP,Penry Gustafson,7,0,1,0,1,0,5
+Kershaw,Elgin No. 2,State Senate,27,REP,Penry Gustafson,25,0,0,0,3,0,22
+Kershaw,Elgin No. 4,State Senate,27,REP,Penry Gustafson,22,0,0,0,1,0,21
+Kershaw,Liberty Hill,State Senate,27,REP,Penry Gustafson,12,0,1,0,2,0,9
+Kershaw,Lugoff No. 1,State Senate,27,REP,Penry Gustafson,30,0,0,0,9,0,21
+Kershaw,Lugoff No. 2,State Senate,27,REP,Penry Gustafson,40,0,3,0,13,0,24
+Kershaw,Lugoff No. 3,State Senate,27,REP,Penry Gustafson,27,0,0,0,8,0,19
+Kershaw,Lugoff No. 4,State Senate,27,REP,Penry Gustafson,31,0,5,0,7,0,19
+Kershaw,Rabon'S X Roads,State Senate,27,REP,Penry Gustafson,67,0,0,0,21,0,46
+Kershaw,Salt Pond,State Senate,27,REP,Penry Gustafson,21,0,0,0,5,0,16
+Kershaw,Shaylor'S Hill,State Senate,27,REP,Penry Gustafson,35,0,0,0,15,0,20
+Kershaw,Springdale,State Senate,27,REP,Penry Gustafson,70,0,0,0,26,0,44
+Kershaw,Westville,State Senate,27,REP,Penry Gustafson,26,0,3,0,12,0,11
+Kershaw,Failsafe,State Senate,27,REP,Penry Gustafson,0,0,0,0,0,0,0
+Kershaw,Provisional,State Senate,27,REP,Penry Gustafson,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State Senate,27,REP,Penry Gustafson,0,0,0,0,0,0,0
+Kershaw,Airport,State Senate,35,REP,Lindsay Agostini,25,0,0,0,10,0,15
+Kershaw,Antioch,State Senate,35,REP,Lindsay Agostini,6,0,0,0,1,0,5
+Kershaw,Bethune,State Senate,35,REP,Lindsay Agostini,33,0,0,0,3,0,30
+Kershaw,Camden No. 1,State Senate,35,REP,Lindsay Agostini,19,0,0,0,7,0,12
+Kershaw,Camden No. 2 & 3,State Senate,35,REP,Lindsay Agostini,9,0,0,0,5,0,4
+Kershaw,Hobkirk'S Hill,State Senate,35,REP,Lindsay Agostini,56,0,0,0,15,0,41
+Kershaw,Camden No. 6,State Senate,35,REP,Lindsay Agostini,13,0,0,0,6,0,7
+Kershaw,Cassatt,State Senate,35,REP,Lindsay Agostini,17,0,0,0,7,0,10
+Kershaw,Charlotte Thompson,State Senate,35,REP,Lindsay Agostini,20,0,0,0,15,0,5
+Kershaw,Doby'S Mill,State Senate,35,REP,Lindsay Agostini,34,0,1,0,4,0,29
+Kershaw,Elgin No. 1,State Senate,35,REP,Lindsay Agostini,43,0,5,0,6,0,32
+Kershaw,Elgin No. 3,State Senate,35,REP,Lindsay Agostini,9,0,0,0,2,0,7
+Kershaw,Elgin No. 5,State Senate,35,REP,Lindsay Agostini,36,0,1,0,6,0,29
+Kershaw,Elgin No. 6,State Senate,35,REP,Lindsay Agostini,9,0,1,0,2,0,6
+Kershaw,Malvern Hill,State Senate,35,REP,Lindsay Agostini,29,0,0,0,8,0,21
+Kershaw,Riverdale,State Senate,35,REP,Lindsay Agostini,4,0,0,0,2,0,2
+Kershaw,Whites Gardens,State Senate,35,REP,Lindsay Agostini,21,0,1,0,13,0,7
+Kershaw,Failsafe,State Senate,35,REP,Lindsay Agostini,0,0,0,0,0,0,0
+Kershaw,Provisional,State Senate,35,REP,Lindsay Agostini,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State Senate,35,REP,Lindsay Agostini,0,0,0,0,0,0,0
+Kershaw,Airport,State Senate,35,REP,Christina Allard,5,0,0,0,1,0,4
+Kershaw,Antioch,State Senate,35,REP,Christina Allard,3,0,0,0,0,0,3
+Kershaw,Bethune,State Senate,35,REP,Christina Allard,16,0,0,0,3,0,13
+Kershaw,Camden No. 1,State Senate,35,REP,Christina Allard,24,0,1,0,9,0,14
+Kershaw,Camden No. 2 & 3,State Senate,35,REP,Christina Allard,6,0,0,0,1,0,5
+Kershaw,Hobkirk'S Hill,State Senate,35,REP,Christina Allard,68,0,0,0,22,0,46
+Kershaw,Camden No. 6,State Senate,35,REP,Christina Allard,15,0,0,0,6,0,9
+Kershaw,Cassatt,State Senate,35,REP,Christina Allard,9,0,0,0,2,0,7
+Kershaw,Charlotte Thompson,State Senate,35,REP,Christina Allard,18,0,0,0,14,0,4
+Kershaw,Doby'S Mill,State Senate,35,REP,Christina Allard,23,0,0,0,3,0,20
+Kershaw,Elgin No. 1,State Senate,35,REP,Christina Allard,27,0,0,0,7,0,20
+Kershaw,Elgin No. 3,State Senate,35,REP,Christina Allard,17,0,1,0,6,0,10
+Kershaw,Elgin No. 5,State Senate,35,REP,Christina Allard,11,0,0,0,2,0,9
+Kershaw,Elgin No. 6,State Senate,35,REP,Christina Allard,11,0,3,0,0,0,8
+Kershaw,Malvern Hill,State Senate,35,REP,Christina Allard,15,0,0,0,5,0,10
+Kershaw,Riverdale,State Senate,35,REP,Christina Allard,2,0,0,0,0,0,2
+Kershaw,Whites Gardens,State Senate,35,REP,Christina Allard,24,0,3,0,5,0,16
+Kershaw,Failsafe,State Senate,35,REP,Christina Allard,0,0,0,0,0,0,0
+Kershaw,Provisional,State Senate,35,REP,Christina Allard,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State Senate,35,REP,Christina Allard,0,0,0,0,0,0,0
+Kershaw,Airport,State Senate,35,REP,Jerry Chivers,2,0,0,0,1,0,1
+Kershaw,Antioch,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Kershaw,Bethune,State Senate,35,REP,Jerry Chivers,4,0,0,0,1,0,3
+Kershaw,Camden No. 1,State Senate,35,REP,Jerry Chivers,7,0,0,0,5,0,2
+Kershaw,Camden No. 2 & 3,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Kershaw,Hobkirk'S Hill,State Senate,35,REP,Jerry Chivers,5,0,0,0,1,0,4
+Kershaw,Camden No. 6,State Senate,35,REP,Jerry Chivers,5,0,0,0,1,0,4
+Kershaw,Cassatt,State Senate,35,REP,Jerry Chivers,5,0,0,0,4,0,1
+Kershaw,Charlotte Thompson,State Senate,35,REP,Jerry Chivers,17,0,0,0,12,0,5
+Kershaw,Doby'S Mill,State Senate,35,REP,Jerry Chivers,14,0,0,0,2,0,12
+Kershaw,Elgin No. 1,State Senate,35,REP,Jerry Chivers,6,0,0,0,0,0,6
+Kershaw,Elgin No. 3,State Senate,35,REP,Jerry Chivers,2,0,0,0,0,0,2
+Kershaw,Elgin No. 5,State Senate,35,REP,Jerry Chivers,1,0,0,0,0,0,1
+Kershaw,Elgin No. 6,State Senate,35,REP,Jerry Chivers,2,0,1,0,0,0,1
+Kershaw,Malvern Hill,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Kershaw,Riverdale,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Kershaw,Whites Gardens,State Senate,35,REP,Jerry Chivers,3,0,0,0,2,0,1
+Kershaw,Failsafe,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Kershaw,Provisional,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State Senate,35,REP,Jerry Chivers,0,0,0,0,0,0,0
+Kershaw,Airport,State Senate,35,REP,Mike Jones,82,0,2,0,28,0,52
+Kershaw,Antioch,State Senate,35,REP,Mike Jones,53,0,0,0,12,0,41
+Kershaw,Bethune,State Senate,35,REP,Mike Jones,105,0,0,0,16,0,89
+Kershaw,Camden No. 1,State Senate,35,REP,Mike Jones,64,0,4,0,29,0,31
+Kershaw,Camden No. 2 & 3,State Senate,35,REP,Mike Jones,23,0,1,0,8,0,14
+Kershaw,Hobkirk'S Hill,State Senate,35,REP,Mike Jones,118,0,3,0,50,0,65
+Kershaw,Camden No. 6,State Senate,35,REP,Mike Jones,55,0,0,0,22,0,33
+Kershaw,Cassatt,State Senate,35,REP,Mike Jones,74,0,1,0,13,0,60
+Kershaw,Charlotte Thompson,State Senate,35,REP,Mike Jones,120,0,0,0,49,0,71
+Kershaw,Doby'S Mill,State Senate,35,REP,Mike Jones,37,0,2,0,10,0,25
+Kershaw,Elgin No. 1,State Senate,35,REP,Mike Jones,80,0,0,0,12,0,68
+Kershaw,Elgin No. 3,State Senate,35,REP,Mike Jones,66,0,0,0,12,0,54
+Kershaw,Elgin No. 5,State Senate,35,REP,Mike Jones,37,0,0,0,4,0,33
+Kershaw,Elgin No. 6,State Senate,35,REP,Mike Jones,28,0,1,0,7,0,20
+Kershaw,Malvern Hill,State Senate,35,REP,Mike Jones,92,0,5,0,17,0,70
+Kershaw,Riverdale,State Senate,35,REP,Mike Jones,8,0,1,0,3,0,4
+Kershaw,Whites Gardens,State Senate,35,REP,Mike Jones,100,0,2,0,33,0,65
+Kershaw,Failsafe,State Senate,35,REP,Mike Jones,0,0,0,0,0,0,0
+Kershaw,Provisional,State Senate,35,REP,Mike Jones,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State Senate,35,REP,Mike Jones,0,0,0,0,0,0,0
+Kershaw,Airport,State House,70,DEM,Eve Carlin,24,0,0,0,9,0,15
+Kershaw,Camden No. 1,State House,70,DEM,Eve Carlin,37,0,0,0,22,0,15
+Kershaw,Camden No. 2 & 3,State House,70,DEM,Eve Carlin,17,0,0,0,12,0,5
+Kershaw,Hobkirk'S Hill,State House,70,DEM,Eve Carlin,113,0,2,0,57,0,54
+Kershaw,Camden No. 5,State House,70,DEM,Eve Carlin,32,0,0,0,14,0,18
+Kershaw,Camden No. 5-A,State House,70,DEM,Eve Carlin,13,0,0,0,7,0,6
+Kershaw,Camden No. 6,State House,70,DEM,Eve Carlin,23,0,0,0,10,0,13
+Kershaw,Doby'S Mill,State House,70,DEM,Eve Carlin,1,0,0,0,0,0,1
+Kershaw,Elgin No. 2,State House,70,DEM,Eve Carlin,3,0,0,0,3,0,0
+Kershaw,Elgin No. 6,State House,70,DEM,Eve Carlin,8,0,0,0,1,0,7
+Kershaw,Lugoff No. 1,State House,70,DEM,Eve Carlin,11,0,0,0,6,0,5
+Kershaw,Lugoff No. 2,State House,70,DEM,Eve Carlin,17,0,1,0,4,0,12
+Kershaw,Lugoff No. 3,State House,70,DEM,Eve Carlin,14,0,0,0,4,0,10
+Kershaw,Lugoff No. 4,State House,70,DEM,Eve Carlin,25,0,0,0,18,0,7
+Kershaw,Riverdale,State House,70,DEM,Eve Carlin,25,0,3,0,13,0,9
+Kershaw,Salt Pond,State House,70,DEM,Eve Carlin,5,0,0,0,2,0,3
+Kershaw,Springdale,State House,70,DEM,Eve Carlin,53,0,0,0,32,0,21
+Kershaw,Failsafe,State House,70,DEM,Eve Carlin,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,70,DEM,Eve Carlin,1,0,0,0,0,1,0
+Kershaw,Failsafe Provisional,State House,70,DEM,Eve Carlin,0,0,0,0,0,0,0
+Kershaw,Airport,State House,70,DEM,Mama G Miller,22,0,0,0,10,0,12
+Kershaw,Camden No. 1,State House,70,DEM,Mama G Miller,78,0,0,0,52,0,26
+Kershaw,Camden No. 2 & 3,State House,70,DEM,Mama G Miller,5,0,0,0,4,0,1
+Kershaw,Hobkirk'S Hill,State House,70,DEM,Mama G Miller,29,0,0,0,22,0,7
+Kershaw,Camden No. 5,State House,70,DEM,Mama G Miller,15,0,0,0,5,0,10
+Kershaw,Camden No. 5-A,State House,70,DEM,Mama G Miller,10,0,1,0,4,0,5
+Kershaw,Camden No. 6,State House,70,DEM,Mama G Miller,12,0,0,0,5,0,7
+Kershaw,Doby'S Mill,State House,70,DEM,Mama G Miller,2,0,0,0,2,0,0
+Kershaw,Elgin No. 2,State House,70,DEM,Mama G Miller,8,0,0,0,7,0,1
+Kershaw,Elgin No. 6,State House,70,DEM,Mama G Miller,12,0,0,0,2,0,10
+Kershaw,Lugoff No. 1,State House,70,DEM,Mama G Miller,8,0,0,0,6,0,2
+Kershaw,Lugoff No. 2,State House,70,DEM,Mama G Miller,15,0,0,0,8,0,7
+Kershaw,Lugoff No. 3,State House,70,DEM,Mama G Miller,17,0,0,0,7,0,10
+Kershaw,Lugoff No. 4,State House,70,DEM,Mama G Miller,20,0,0,0,15,0,5
+Kershaw,Riverdale,State House,70,DEM,Mama G Miller,49,0,1,0,16,0,32
+Kershaw,Salt Pond,State House,70,DEM,Mama G Miller,4,0,0,0,1,0,3
+Kershaw,Springdale,State House,70,DEM,Mama G Miller,53,0,1,0,36,0,16
+Kershaw,Failsafe,State House,70,DEM,Mama G Miller,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,70,DEM,Mama G Miller,1,0,0,0,0,1,0
+Kershaw,Failsafe Provisional,State House,70,DEM,Mama G Miller,0,0,0,0,0,0,0
+Kershaw,Airport,State House,70,DEM,Robert Reese,12,0,0,0,5,0,7
+Kershaw,Camden No. 1,State House,70,DEM,Robert Reese,36,0,0,0,24,0,12
+Kershaw,Camden No. 2 & 3,State House,70,DEM,Robert Reese,7,0,0,0,1,0,6
+Kershaw,Hobkirk'S Hill,State House,70,DEM,Robert Reese,48,0,0,0,32,0,16
+Kershaw,Camden No. 5,State House,70,DEM,Robert Reese,12,0,0,0,9,0,3
+Kershaw,Camden No. 5-A,State House,70,DEM,Robert Reese,13,0,0,0,2,0,11
+Kershaw,Camden No. 6,State House,70,DEM,Robert Reese,19,0,0,0,8,0,11
+Kershaw,Doby'S Mill,State House,70,DEM,Robert Reese,3,0,0,0,1,0,2
+Kershaw,Elgin No. 2,State House,70,DEM,Robert Reese,5,0,2,0,0,0,3
+Kershaw,Elgin No. 6,State House,70,DEM,Robert Reese,6,0,0,0,2,0,4
+Kershaw,Lugoff No. 1,State House,70,DEM,Robert Reese,10,0,0,0,7,0,3
+Kershaw,Lugoff No. 2,State House,70,DEM,Robert Reese,20,0,0,0,10,0,10
+Kershaw,Lugoff No. 3,State House,70,DEM,Robert Reese,12,0,0,0,7,0,5
+Kershaw,Lugoff No. 4,State House,70,DEM,Robert Reese,10,0,0,0,7,0,3
+Kershaw,Riverdale,State House,70,DEM,Robert Reese,17,0,0,0,8,0,9
+Kershaw,Salt Pond,State House,70,DEM,Robert Reese,6,0,0,0,3,0,3
+Kershaw,Springdale,State House,70,DEM,Robert Reese,55,0,1,0,32,0,22
+Kershaw,Failsafe,State House,70,DEM,Robert Reese,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,70,DEM,Robert Reese,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State House,70,DEM,Robert Reese,0,0,0,0,0,0,0
+Kershaw,Liberty Hill,State House,45,REP,Vic Dabney,40,0,1,0,10,0,29
+Kershaw,Rabon'S X Roads,State House,45,REP,Vic Dabney,127,0,1,0,28,0,98
+Kershaw,Salt Pond,State House,45,REP,Vic Dabney,25,0,0,0,6,0,19
+Kershaw,Shaylor'S Hill,State House,45,REP,Vic Dabney,87,0,2,0,38,0,47
+Kershaw,Failsafe,State House,45,REP,Vic Dabney,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,45,REP,Vic Dabney,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State House,45,REP,Vic Dabney,0,0,0,0,0,0,0
+Kershaw,Liberty Hill,State House,45,REP,Brandon Newton,44,0,0,0,12,0,32
+Kershaw,Rabon'S X Roads,State House,45,REP,Brandon Newton,141,0,1,0,47,0,93
+Kershaw,Salt Pond,State House,45,REP,Brandon Newton,31,0,0,0,10,0,21
+Kershaw,Shaylor'S Hill,State House,45,REP,Brandon Newton,75,0,0,0,24,0,51
+Kershaw,Failsafe,State House,45,REP,Brandon Newton,0,0,0,0,0,0,0
+Kershaw,Provisional,State House,45,REP,Brandon Newton,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,State House,45,REP,Brandon Newton,0,0,0,0,0,0,0
+Kershaw,Airport,Clerk of Court,,REP,Tiffany N Brown,34,0,1,0,12,0,21
+Kershaw,Antioch,Clerk of Court,,REP,Tiffany N Brown,21,0,0,0,5,0,16
+Kershaw,Bethune,Clerk of Court,,REP,Tiffany N Brown,50,0,0,0,4,0,46
+Kershaw,Buffalo,Clerk of Court,,REP,Tiffany N Brown,42,0,0,0,10,0,32
+Kershaw,Camden No. 1,Clerk of Court,,REP,Tiffany N Brown,35,0,2,0,14,0,19
+Kershaw,Camden No. 2 & 3,Clerk of Court,,REP,Tiffany N Brown,11,0,1,0,5,0,5
+Kershaw,Hobkirk'S Hill,Clerk of Court,,REP,Tiffany N Brown,63,0,0,0,23,0,40
+Kershaw,Camden No. 5,Clerk of Court,,REP,Tiffany N Brown,40,0,0,0,18,0,22
+Kershaw,Camden No. 5-A,Clerk of Court,,REP,Tiffany N Brown,9,0,1,0,2,0,6
+Kershaw,Camden No. 6,Clerk of Court,,REP,Tiffany N Brown,18,0,0,0,7,0,11
+Kershaw,Cassatt,Clerk of Court,,REP,Tiffany N Brown,36,0,0,0,13,0,23
+Kershaw,Charlotte Thompson,Clerk of Court,,REP,Tiffany N Brown,59,0,0,0,39,0,20
+Kershaw,Doby'S Mill,Clerk of Court,,REP,Tiffany N Brown,33,0,0,0,7,0,26
+Kershaw,Elgin No. 1,Clerk of Court,,REP,Tiffany N Brown,51,0,0,0,12,0,39
+Kershaw,Elgin No. 2,Clerk of Court,,REP,Tiffany N Brown,31,0,0,0,7,0,24
+Kershaw,Elgin No. 3,Clerk of Court,,REP,Tiffany N Brown,22,0,0,0,7,0,15
+Kershaw,Elgin No. 4,Clerk of Court,,REP,Tiffany N Brown,45,0,0,0,7,0,38
+Kershaw,Elgin No. 5,Clerk of Court,,REP,Tiffany N Brown,31,0,1,0,5,0,25
+Kershaw,Elgin No. 6,Clerk of Court,,REP,Tiffany N Brown,14,0,2,0,4,0,8
+Kershaw,Liberty Hill,Clerk of Court,,REP,Tiffany N Brown,22,0,0,0,9,0,13
+Kershaw,Lugoff No. 1,Clerk of Court,,REP,Tiffany N Brown,42,0,0,0,11,0,31
+Kershaw,Lugoff No. 2,Clerk of Court,,REP,Tiffany N Brown,32,0,0,0,12,0,20
+Kershaw,Lugoff No. 3,Clerk of Court,,REP,Tiffany N Brown,33,0,0,0,10,0,23
+Kershaw,Lugoff No. 4,Clerk of Court,,REP,Tiffany N Brown,39,0,2,0,12,0,25
+Kershaw,Malvern Hill,Clerk of Court,,REP,Tiffany N Brown,49,0,0,0,8,0,41
+Kershaw,Rabon'S X Roads,Clerk of Court,,REP,Tiffany N Brown,59,0,0,0,15,0,44
+Kershaw,Riverdale,Clerk of Court,,REP,Tiffany N Brown,4,0,0,0,2,0,2
+Kershaw,Salt Pond,Clerk of Court,,REP,Tiffany N Brown,20,0,0,0,7,0,13
+Kershaw,Shaylor'S Hill,Clerk of Court,,REP,Tiffany N Brown,37,0,0,0,18,0,19
+Kershaw,Springdale,Clerk of Court,,REP,Tiffany N Brown,63,0,0,0,15,0,48
+Kershaw,Westville,Clerk of Court,,REP,Tiffany N Brown,54,0,1,0,11,0,42
+Kershaw,Whites Gardens,Clerk of Court,,REP,Tiffany N Brown,41,0,0,0,13,0,28
+Kershaw,Failsafe,Clerk of Court,,REP,Tiffany N Brown,0,0,0,0,0,0,0
+Kershaw,Provisional,Clerk of Court,,REP,Tiffany N Brown,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Clerk of Court,,REP,Tiffany N Brown,0,0,0,0,0,0,0
+Kershaw,Airport,Clerk of Court,,REP,Ginger M Farmer,62,0,1,0,23,0,38
+Kershaw,Antioch,Clerk of Court,,REP,Ginger M Farmer,28,0,0,0,4,0,24
+Kershaw,Bethune,Clerk of Court,,REP,Ginger M Farmer,92,0,0,0,14,0,78
+Kershaw,Buffalo,Clerk of Court,,REP,Ginger M Farmer,83,0,0,0,16,0,67
+Kershaw,Camden No. 1,Clerk of Court,,REP,Ginger M Farmer,69,0,1,0,32,0,36
+Kershaw,Camden No. 2 & 3,Clerk of Court,,REP,Ginger M Farmer,20,0,0,0,8,0,12
+Kershaw,Hobkirk'S Hill,Clerk of Court,,REP,Ginger M Farmer,139,0,3,0,47,0,89
+Kershaw,Camden No. 5,Clerk of Court,,REP,Ginger M Farmer,76,0,3,0,21,0,52
+Kershaw,Camden No. 5-A,Clerk of Court,,REP,Ginger M Farmer,21,0,0,0,10,0,11
+Kershaw,Camden No. 6,Clerk of Court,,REP,Ginger M Farmer,54,0,0,0,22,0,32
+Kershaw,Cassatt,Clerk of Court,,REP,Ginger M Farmer,57,0,1,0,9,0,47
+Kershaw,Charlotte Thompson,Clerk of Court,,REP,Ginger M Farmer,89,0,0,0,39,0,50
+Kershaw,Doby'S Mill,Clerk of Court,,REP,Ginger M Farmer,63,0,3,0,9,0,51
+Kershaw,Elgin No. 1,Clerk of Court,,REP,Ginger M Farmer,85,0,5,0,8,0,72
+Kershaw,Elgin No. 2,Clerk of Court,,REP,Ginger M Farmer,66,0,1,0,8,0,57
+Kershaw,Elgin No. 3,Clerk of Court,,REP,Ginger M Farmer,38,0,0,0,7,0,31
+Kershaw,Elgin No. 4,Clerk of Court,,REP,Ginger M Farmer,42,0,3,0,6,0,33
+Kershaw,Elgin No. 5,Clerk of Court,,REP,Ginger M Farmer,49,0,0,0,6,0,43
+Kershaw,Elgin No. 6,Clerk of Court,,REP,Ginger M Farmer,28,0,4,0,5,0,19
+Kershaw,Liberty Hill,Clerk of Court,,REP,Ginger M Farmer,51,0,1,0,7,0,43
+Kershaw,Lugoff No. 1,Clerk of Court,,REP,Ginger M Farmer,47,0,2,0,5,0,40
+Kershaw,Lugoff No. 2,Clerk of Court,,REP,Ginger M Farmer,77,0,4,0,24,0,49
+Kershaw,Lugoff No. 3,Clerk of Court,,REP,Ginger M Farmer,79,0,1,0,15,0,63
+Kershaw,Lugoff No. 4,Clerk of Court,,REP,Ginger M Farmer,73,0,1,0,18,0,54
+Kershaw,Malvern Hill,Clerk of Court,,REP,Ginger M Farmer,67,0,5,0,15,0,47
+Kershaw,Rabon'S X Roads,Clerk of Court,,REP,Ginger M Farmer,124,0,2,0,31,0,91
+Kershaw,Riverdale,Clerk of Court,,REP,Ginger M Farmer,7,0,0,0,3,0,4
+Kershaw,Salt Pond,Clerk of Court,,REP,Ginger M Farmer,57,0,0,0,15,0,42
+Kershaw,Shaylor'S Hill,Clerk of Court,,REP,Ginger M Farmer,103,0,2,0,39,0,62
+Kershaw,Springdale,Clerk of Court,,REP,Ginger M Farmer,122,0,0,0,42,0,80
+Kershaw,Westville,Clerk of Court,,REP,Ginger M Farmer,95,0,2,0,23,0,70
+Kershaw,Whites Gardens,Clerk of Court,,REP,Ginger M Farmer,72,0,5,0,27,0,40
+Kershaw,Failsafe,Clerk of Court,,REP,Ginger M Farmer,1,1,0,0,0,0,0
+Kershaw,Provisional,Clerk of Court,,REP,Ginger M Farmer,1,0,0,0,0,1,0
+Kershaw,Failsafe Provisional,Clerk of Court,,REP,Ginger M Farmer,0,0,0,0,0,0,0
+Kershaw,Airport,Clerk of Court,,REP,Ticely Murphy,9,0,0,0,1,0,8
+Kershaw,Antioch,Clerk of Court,,REP,Ticely Murphy,6,0,0,0,3,0,3
+Kershaw,Bethune,Clerk of Court,,REP,Ticely Murphy,16,0,0,0,4,0,12
+Kershaw,Buffalo,Clerk of Court,,REP,Ticely Murphy,6,0,0,0,1,0,5
+Kershaw,Camden No. 1,Clerk of Court,,REP,Ticely Murphy,11,0,2,0,5,0,4
+Kershaw,Camden No. 2 & 3,Clerk of Court,,REP,Ticely Murphy,4,0,0,0,0,0,4
+Kershaw,Hobkirk'S Hill,Clerk of Court,,REP,Ticely Murphy,22,0,0,0,9,0,13
+Kershaw,Camden No. 5,Clerk of Court,,REP,Ticely Murphy,8,0,0,0,6,0,2
+Kershaw,Camden No. 5-A,Clerk of Court,,REP,Ticely Murphy,3,0,0,0,1,0,2
+Kershaw,Camden No. 6,Clerk of Court,,REP,Ticely Murphy,11,0,0,0,4,0,7
+Kershaw,Cassatt,Clerk of Court,,REP,Ticely Murphy,11,0,0,0,4,0,7
+Kershaw,Charlotte Thompson,Clerk of Court,,REP,Ticely Murphy,23,0,0,0,9,0,14
+Kershaw,Doby'S Mill,Clerk of Court,,REP,Ticely Murphy,9,0,0,0,2,0,7
+Kershaw,Elgin No. 1,Clerk of Court,,REP,Ticely Murphy,13,0,0,0,3,0,10
+Kershaw,Elgin No. 2,Clerk of Court,,REP,Ticely Murphy,27,0,0,0,2,0,25
+Kershaw,Elgin No. 3,Clerk of Court,,REP,Ticely Murphy,26,0,0,0,5,0,21
+Kershaw,Elgin No. 4,Clerk of Court,,REP,Ticely Murphy,17,0,1,0,3,0,13
+Kershaw,Elgin No. 5,Clerk of Court,,REP,Ticely Murphy,2,0,0,0,1,0,1
+Kershaw,Elgin No. 6,Clerk of Court,,REP,Ticely Murphy,8,0,0,0,3,0,5
+Kershaw,Liberty Hill,Clerk of Court,,REP,Ticely Murphy,7,0,0,0,5,0,2
+Kershaw,Lugoff No. 1,Clerk of Court,,REP,Ticely Murphy,24,0,1,0,8,0,15
+Kershaw,Lugoff No. 2,Clerk of Court,,REP,Ticely Murphy,36,0,1,0,11,0,24
+Kershaw,Lugoff No. 3,Clerk of Court,,REP,Ticely Murphy,24,0,0,0,2,0,22
+Kershaw,Lugoff No. 4,Clerk of Court,,REP,Ticely Murphy,21,0,2,0,6,0,13
+Kershaw,Malvern Hill,Clerk of Court,,REP,Ticely Murphy,19,0,0,0,9,0,10
+Kershaw,Rabon'S X Roads,Clerk of Court,,REP,Ticely Murphy,95,0,0,0,36,0,59
+Kershaw,Riverdale,Clerk of Court,,REP,Ticely Murphy,3,0,1,0,0,0,2
+Kershaw,Salt Pond,Clerk of Court,,REP,Ticely Murphy,24,0,0,0,5,0,19
+Kershaw,Shaylor'S Hill,Clerk of Court,,REP,Ticely Murphy,15,0,0,0,1,0,14
+Kershaw,Springdale,Clerk of Court,,REP,Ticely Murphy,23,0,0,0,9,0,14
+Kershaw,Westville,Clerk of Court,,REP,Ticely Murphy,19,0,0,0,6,0,13
+Kershaw,Whites Gardens,Clerk of Court,,REP,Ticely Murphy,30,0,1,0,12,0,17
+Kershaw,Failsafe,Clerk of Court,,REP,Ticely Murphy,0,0,0,0,0,0,0
+Kershaw,Provisional,Clerk of Court,,REP,Ticely Murphy,0,0,0,0,0,0,0
+Kershaw,Failsafe Provisional,Clerk of Court,,REP,Ticely Murphy,0,0,0,0,0,0,0

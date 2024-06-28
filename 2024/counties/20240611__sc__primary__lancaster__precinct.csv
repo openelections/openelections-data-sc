@@ -1,0 +1,122 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Lancaster,Van Wyck,State Senate,17,REP,Tibi Czentye,23,0,0,0,8,0,15
+Lancaster,Osceola,State Senate,17,REP,Tibi Czentye,60,0,1,0,17,0,42
+Lancaster,Jim Wilson,State Senate,17,REP,Tibi Czentye,49,0,0,0,7,0,42
+Lancaster,Failsafe,State Senate,17,REP,Tibi Czentye,0,0,0,0,0,0,0
+Lancaster,Provisional,State Senate,17,REP,Tibi Czentye,0,0,0,0,0,0,0
+Lancaster,Van Wyck,State Senate,17,REP,Tripp McCoy,38,0,2,0,4,0,32
+Lancaster,Osceola,State Senate,17,REP,Tripp McCoy,116,0,4,0,49,0,63
+Lancaster,Jim Wilson,State Senate,17,REP,Tripp McCoy,61,0,0,0,15,0,46
+Lancaster,Failsafe,State Senate,17,REP,Tripp McCoy,0,0,0,0,0,0,0
+Lancaster,Provisional,State Senate,17,REP,Tripp McCoy,0,0,0,0,0,0,0
+Lancaster,Van Wyck,State Senate,17,REP,Everett Stubbs,68,0,0,0,13,0,55
+Lancaster,Osceola,State Senate,17,REP,Everett Stubbs,49,0,0,0,9,0,40
+Lancaster,Jim Wilson,State Senate,17,REP,Everett Stubbs,36,0,1,0,10,0,25
+Lancaster,Failsafe,State Senate,17,REP,Everett Stubbs,0,0,0,0,0,0,0
+Lancaster,Provisional,State Senate,17,REP,Everett Stubbs,0,0,0,0,0,0,0
+Lancaster,Antioch,State Senate,27,REP,Allen Blackmon,83,0,1,0,14,0,68
+Lancaster,Camp Creek,State Senate,27,REP,Allen Blackmon,48,0,0,0,7,0,41
+Lancaster,Carmel,State Senate,27,REP,Allen Blackmon,43,0,0,0,10,0,33
+Lancaster,Chesterfield Ave,State Senate,27,REP,Allen Blackmon,16,0,0,0,2,0,14
+Lancaster,Douglas,State Senate,27,REP,Allen Blackmon,155,0,3,0,36,0,116
+Lancaster,Elgin,State Senate,27,REP,Allen Blackmon,125,0,1,0,32,0,92
+Lancaster,Erwin Farm,State Senate,27,REP,Allen Blackmon,66,0,3,0,19,0,44
+Lancaster,Heath Springs,State Senate,27,REP,Allen Blackmon,148,0,2,0,70,0,76
+Lancaster,Hyde Park,State Senate,27,REP,Allen Blackmon,128,0,4,0,18,0,106
+Lancaster,Kershaw North,State Senate,27,REP,Allen Blackmon,138,0,3,0,45,0,90
+Lancaster,Kershaw South,State Senate,27,REP,Allen Blackmon,234,0,5,0,68,0,161
+Lancaster,Lancaster East,State Senate,27,REP,Allen Blackmon,72,0,1,0,32,0,39
+Lancaster,Pleasant Hill,State Senate,27,REP,Allen Blackmon,158,0,2,0,53,0,103
+Lancaster,Rich Hill,State Senate,27,REP,Allen Blackmon,118,0,2,0,35,0,81
+Lancaster,Riverside,State Senate,27,REP,Allen Blackmon,47,0,0,0,7,0,40
+Lancaster,Unity,State Senate,27,REP,Allen Blackmon,110,0,1,0,17,0,92
+Lancaster,University,State Senate,27,REP,Allen Blackmon,128,0,4,0,40,0,84
+Lancaster,College Park,State Senate,27,REP,Allen Blackmon,178,0,3,0,74,0,101
+Lancaster,Buford,State Senate,27,REP,Allen Blackmon,155,0,0,0,25,0,130
+Lancaster,Springdale,State Senate,27,REP,Allen Blackmon,66,0,0,0,19,0,47
+Lancaster,521 North,State Senate,27,REP,Allen Blackmon,99,0,3,0,33,0,63
+Lancaster,McIlwain,State Senate,27,REP,Allen Blackmon,168,0,7,0,32,0,129
+Lancaster,Flat Creek,State Senate,27,REP,Allen Blackmon,78,0,1,0,15,0,62
+Lancaster,Tradesville,State Senate,27,REP,Allen Blackmon,121,0,2,0,20,0,99
+Lancaster,Failsafe,State Senate,27,REP,Allen Blackmon,3,3,0,0,0,0,0
+Lancaster,Provisional,State Senate,27,REP,Allen Blackmon,0,0,0,0,0,0,0
+Lancaster,Antioch,State Senate,27,REP,Penry Gustafson,10,0,0,0,1,0,9
+Lancaster,Camp Creek,State Senate,27,REP,Penry Gustafson,10,0,0,0,0,0,10
+Lancaster,Carmel,State Senate,27,REP,Penry Gustafson,3,0,0,0,0,0,3
+Lancaster,Chesterfield Ave,State Senate,27,REP,Penry Gustafson,1,0,0,0,0,0,1
+Lancaster,Douglas,State Senate,27,REP,Penry Gustafson,44,0,0,0,17,0,27
+Lancaster,Elgin,State Senate,27,REP,Penry Gustafson,11,0,0,0,2,0,9
+Lancaster,Erwin Farm,State Senate,27,REP,Penry Gustafson,7,0,0,0,2,0,5
+Lancaster,Heath Springs,State Senate,27,REP,Penry Gustafson,10,0,0,0,3,0,7
+Lancaster,Hyde Park,State Senate,27,REP,Penry Gustafson,15,0,0,0,1,0,14
+Lancaster,Kershaw North,State Senate,27,REP,Penry Gustafson,6,0,0,0,3,0,3
+Lancaster,Kershaw South,State Senate,27,REP,Penry Gustafson,8,0,0,0,0,0,8
+Lancaster,Lancaster East,State Senate,27,REP,Penry Gustafson,11,0,0,0,7,0,4
+Lancaster,Pleasant Hill,State Senate,27,REP,Penry Gustafson,16,0,0,0,6,0,10
+Lancaster,Rich Hill,State Senate,27,REP,Penry Gustafson,4,0,0,0,0,0,4
+Lancaster,Riverside,State Senate,27,REP,Penry Gustafson,11,0,0,0,1,0,10
+Lancaster,Unity,State Senate,27,REP,Penry Gustafson,6,0,0,0,0,0,6
+Lancaster,University,State Senate,27,REP,Penry Gustafson,15,0,0,0,7,0,8
+Lancaster,College Park,State Senate,27,REP,Penry Gustafson,33,0,0,0,19,0,14
+Lancaster,Buford,State Senate,27,REP,Penry Gustafson,8,0,0,0,3,0,5
+Lancaster,Springdale,State Senate,27,REP,Penry Gustafson,15,0,2,0,2,0,11
+Lancaster,521 North,State Senate,27,REP,Penry Gustafson,5,0,0,0,3,0,2
+Lancaster,McIlwain,State Senate,27,REP,Penry Gustafson,13,0,2,0,2,0,9
+Lancaster,Flat Creek,State Senate,27,REP,Penry Gustafson,6,0,0,0,1,0,5
+Lancaster,Tradesville,State Senate,27,REP,Penry Gustafson,5,0,0,0,1,0,4
+Lancaster,Failsafe,State Senate,27,REP,Penry Gustafson,0,0,0,0,0,0,0
+Lancaster,Provisional,State Senate,27,REP,Penry Gustafson,0,0,0,0,0,0,0
+Lancaster,Carmel,State House,45,REP,Vic Dabney,5,0,0,0,0,0,5
+Lancaster,Chesterfield Ave,State House,45,REP,Vic Dabney,1,0,0,0,0,0,1
+Lancaster,Douglas,State House,45,REP,Vic Dabney,33,0,0,0,7,0,26
+Lancaster,Elgin,State House,45,REP,Vic Dabney,20,0,0,0,2,0,18
+Lancaster,Erwin Farm,State House,45,REP,Vic Dabney,15,0,0,0,1,0,14
+Lancaster,Heath Springs,State House,45,REP,Vic Dabney,33,0,0,0,15,0,18
+Lancaster,Lancaster East,State House,45,REP,Vic Dabney,12,0,0,0,4,0,8
+Lancaster,Pleasant Hill,State House,45,REP,Vic Dabney,31,0,2,0,7,0,22
+Lancaster,Rich Hill,State House,45,REP,Vic Dabney,2,0,0,0,0,0,2
+Lancaster,Riverside,State House,45,REP,Vic Dabney,9,0,0,0,0,0,9
+Lancaster,Unity,State House,45,REP,Vic Dabney,3,0,0,0,0,0,3
+Lancaster,Van Wyck,State House,45,REP,Vic Dabney,17,0,0,0,5,0,12
+Lancaster,University,State House,45,REP,Vic Dabney,15,0,0,0,7,0,8
+Lancaster,College Park,State House,45,REP,Vic Dabney,24,0,0,0,7,0,17
+Lancaster,Springdale,State House,45,REP,Vic Dabney,10,0,0,0,2,0,8
+Lancaster,521 North,State House,45,REP,Vic Dabney,23,0,0,0,9,0,14
+Lancaster,McIlwain,State House,45,REP,Vic Dabney,19,0,0,0,4,0,15
+Lancaster,Failsafe,State House,45,REP,Vic Dabney,1,1,0,0,0,0,0
+Lancaster,Provisional,State House,45,REP,Vic Dabney,0,0,0,0,0,0,0
+Lancaster,Carmel,State House,45,REP,Brandon Newton,41,0,0,0,10,0,31
+Lancaster,Chesterfield Ave,State House,45,REP,Brandon Newton,18,0,0,0,3,0,15
+Lancaster,Douglas,State House,45,REP,Brandon Newton,171,0,3,0,49,0,119
+Lancaster,Elgin,State House,45,REP,Brandon Newton,116,0,1,0,31,0,84
+Lancaster,Erwin Farm,State House,45,REP,Brandon Newton,65,0,3,0,22,0,40
+Lancaster,Heath Springs,State House,45,REP,Brandon Newton,117,0,2,0,52,0,63
+Lancaster,Lancaster East,State House,45,REP,Brandon Newton,74,0,1,0,36,0,37
+Lancaster,Pleasant Hill,State House,45,REP,Brandon Newton,139,0,0,0,48,0,91
+Lancaster,Rich Hill,State House,45,REP,Brandon Newton,12,0,0,0,6,0,6
+Lancaster,Riverside,State House,45,REP,Brandon Newton,50,0,0,0,8,0,42
+Lancaster,Unity,State House,45,REP,Brandon Newton,55,0,1,0,7,0,47
+Lancaster,Van Wyck,State House,45,REP,Brandon Newton,36,0,2,0,9,0,25
+Lancaster,University,State House,45,REP,Brandon Newton,130,0,4,0,43,0,83
+Lancaster,College Park,State House,45,REP,Brandon Newton,197,0,3,0,90,0,104
+Lancaster,Springdale,State House,45,REP,Brandon Newton,77,0,2,0,21,0,54
+Lancaster,521 North,State House,45,REP,Brandon Newton,84,0,3,0,28,0,53
+Lancaster,McIlwain,State House,45,REP,Brandon Newton,168,0,9,0,32,0,127
+Lancaster,Failsafe,State House,45,REP,Brandon Newton,2,2,0,0,0,0,0
+Lancaster,Provisional,State House,45,REP,Brandon Newton,0,0,0,0,0,0,0
+Lancaster,Van Wyck,County Council District 7,,REP,Brian Carnes,1,0,0,0,0,0,1
+Lancaster,Black Horse Run,County Council District 7,,REP,Brian Carnes,126,0,9,0,38,0,79
+Lancaster,Osceola,County Council District 7,,REP,Brian Carnes,169,0,3,0,59,0,107
+Lancaster,River Road,County Council District 7,,REP,Brian Carnes,54,0,9,0,16,0,29
+Lancaster,Jim Wilson,County Council District 7,,REP,Brian Carnes,120,0,1,0,29,0,90
+Lancaster,Six Mile Creek,County Council District 7,,REP,Brian Carnes,44,0,0,0,17,0,27
+Lancaster,Failsafe,County Council District 7,,REP,Brian Carnes,1,1,0,0,0,0,0
+Lancaster,Provisional,County Council District 7,,REP,Brian Carnes,1,0,0,0,0,1,0
+Lancaster,Van Wyck,County Council District 7,,REP,Jarrika Coutchure,1,0,0,0,0,0,1
+Lancaster,Black Horse Run,County Council District 7,,REP,Jarrika Coutchure,22,0,3,0,6,0,13
+Lancaster,Osceola,County Council District 7,,REP,Jarrika Coutchure,45,0,0,0,14,0,31
+Lancaster,River Road,County Council District 7,,REP,Jarrika Coutchure,9,0,2,0,5,0,2
+Lancaster,Jim Wilson,County Council District 7,,REP,Jarrika Coutchure,20,0,0,0,3,0,17
+Lancaster,Six Mile Creek,County Council District 7,,REP,Jarrika Coutchure,9,0,0,0,2,0,7
+Lancaster,Failsafe,County Council District 7,,REP,Jarrika Coutchure,0,0,0,0,0,0,0
+Lancaster,Provisional,County Council District 7,,REP,Jarrika Coutchure,0,0,0,0,0,0,0

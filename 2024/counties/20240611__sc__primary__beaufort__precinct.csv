@@ -1,0 +1,654 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Beaufort,Beaufort 1,U.S. House,1,DEM,Mac Deford,35,0,5,0,13,0,17
+Beaufort,Beaufort 2,U.S. House,1,DEM,Mac Deford,61,0,3,0,29,0,29
+Beaufort,Beaufort 3,U.S. House,1,DEM,Mac Deford,77,0,0,0,38,0,39
+Beaufort,Burton 1A,U.S. House,1,DEM,Mac Deford,16,0,0,0,7,0,9
+Beaufort,Burton 1B,U.S. House,1,DEM,Mac Deford,26,0,0,0,17,0,9
+Beaufort,Burton 1C,U.S. House,1,DEM,Mac Deford,78,0,3,0,22,0,53
+Beaufort,Burton 2A,U.S. House,1,DEM,Mac Deford,15,0,0,0,3,0,12
+Beaufort,Burton 2B,U.S. House,1,DEM,Mac Deford,21,0,1,0,11,0,9
+Beaufort,Burton 2C,U.S. House,1,DEM,Mac Deford,39,0,1,0,20,0,18
+Beaufort,Burton 3A,U.S. House,1,DEM,Mac Deford,6,0,0,0,0,0,6
+Beaufort,Burton 3B,U.S. House,1,DEM,Mac Deford,20,0,0,0,8,0,12
+Beaufort,Burton 2D,U.S. House,1,DEM,Mac Deford,29,0,0,0,14,0,15
+Beaufort,Chechessee 1,U.S. House,1,DEM,Mac Deford,18,0,0,0,7,0,11
+Beaufort,Chechessee 2,U.S. House,1,DEM,Mac Deford,23,0,0,0,3,0,20
+Beaufort,Chechessee 3,U.S. House,1,DEM,Mac Deford,9,0,0,0,5,0,4
+Beaufort,Riverbend,U.S. House,1,DEM,Mac Deford,31,0,0,0,15,0,16
+Beaufort,Ladys Island 1A,U.S. House,1,DEM,Mac Deford,20,0,0,0,7,0,13
+Beaufort,Ladys Island 1B,U.S. House,1,DEM,Mac Deford,20,0,2,0,7,0,11
+Beaufort,Ladys Island 2A,U.S. House,1,DEM,Mac Deford,30,0,4,0,13,0,13
+Beaufort,Ladys Island 2B,U.S. House,1,DEM,Mac Deford,53,0,1,0,17,0,35
+Beaufort,Ladys Island 3A,U.S. House,1,DEM,Mac Deford,57,0,0,0,28,0,29
+Beaufort,Ladys Island 3B,U.S. House,1,DEM,Mac Deford,35,0,0,0,12,0,23
+Beaufort,Ladys Island 4A,U.S. House,1,DEM,Mac Deford,42,0,0,0,18,0,24
+Beaufort,Ladys Island 4B,U.S. House,1,DEM,Mac Deford,27,0,1,0,10,0,16
+Beaufort,Ladys Island 4C,U.S. House,1,DEM,Mac Deford,31,0,0,0,11,0,20
+Beaufort,Mossy Oaks 1A,U.S. House,1,DEM,Mac Deford,37,0,0,0,15,0,22
+Beaufort,Mossy Oaks 1B,U.S. House,1,DEM,Mac Deford,46,0,2,0,26,0,18
+Beaufort,Mossy Oaks 2,U.S. House,1,DEM,Mac Deford,25,0,0,0,6,0,19
+Beaufort,Port Royal 1,U.S. House,1,DEM,Mac Deford,30,0,0,0,13,0,17
+Beaufort,Port Royal 2,U.S. House,1,DEM,Mac Deford,30,0,1,0,9,0,20
+Beaufort,Dale Lobeco,U.S. House,1,DEM,Mac Deford,21,0,1,0,6,0,14
+Beaufort,Seabrook 1,U.S. House,1,DEM,Mac Deford,8,0,0,0,6,0,2
+Beaufort,Seabrook 2,U.S. House,1,DEM,Mac Deford,16,0,0,0,3,0,13
+Beaufort,Seabrook 3,U.S. House,1,DEM,Mac Deford,19,0,0,0,5,0,14
+Beaufort,Sheldon 1,U.S. House,1,DEM,Mac Deford,21,0,1,0,7,0,13
+Beaufort,Sheldon 2,U.S. House,1,DEM,Mac Deford,17,0,1,0,3,0,13
+Beaufort,Burton 4,U.S. House,1,DEM,Mac Deford,11,0,0,0,4,0,7
+Beaufort,Burton 5A,U.S. House,1,DEM,Mac Deford,15,0,1,0,7,0,7
+Beaufort,Burton 5B,U.S. House,1,DEM,Mac Deford,13,0,0,0,9,0,4
+Beaufort,Burton 1D,U.S. House,1,DEM,Mac Deford,9,0,0,0,5,0,4
+Beaufort,St. Helena 1A,U.S. House,1,DEM,Mac Deford,57,0,0,0,27,0,30
+Beaufort,St. Helena 1B,U.S. House,1,DEM,Mac Deford,51,0,0,0,19,0,32
+Beaufort,St. Helena 1C,U.S. House,1,DEM,Mac Deford,82,0,0,0,17,0,65
+Beaufort,St. Helena 2A,U.S. House,1,DEM,Mac Deford,36,0,0,0,19,0,17
+Beaufort,St. Helena 2B,U.S. House,1,DEM,Mac Deford,38,0,1,0,17,0,20
+Beaufort,St. Helena 2C,U.S. House,1,DEM,Mac Deford,46,0,0,0,7,0,39
+Beaufort,Ladys Island 2C,U.S. House,1,DEM,Mac Deford,17,0,0,0,1,0,16
+Beaufort,Ladys Island 3C,U.S. House,1,DEM,Mac Deford,23,0,0,0,8,0,15
+Beaufort,Daufuskie,U.S. House,1,DEM,Mac Deford,12,0,0,0,1,0,11
+Beaufort,Hilton Head 1A,U.S. House,1,DEM,Mac Deford,27,0,1,0,11,0,15
+Beaufort,Hilton Head 1B,U.S. House,1,DEM,Mac Deford,31,0,1,0,16,0,14
+Beaufort,Hilton Head 2A,U.S. House,1,DEM,Mac Deford,38,0,0,0,9,0,29
+Beaufort,Hilton Head 2B,U.S. House,1,DEM,Mac Deford,24,0,0,0,9,0,15
+Beaufort,Hilton Head 2C,U.S. House,1,DEM,Mac Deford,28,0,2,0,9,0,17
+Beaufort,Hilton Head 3,U.S. House,1,DEM,Mac Deford,25,0,1,0,7,0,17
+Beaufort,Hilton Head 4A,U.S. House,1,DEM,Mac Deford,52,0,0,0,13,0,39
+Beaufort,Hilton Head 4B,U.S. House,1,DEM,Mac Deford,103,0,6,0,28,0,69
+Beaufort,Hilton Head 4C,U.S. House,1,DEM,Mac Deford,54,0,3,0,15,0,36
+Beaufort,Hilton Head 4D,U.S. House,1,DEM,Mac Deford,42,0,0,0,20,0,22
+Beaufort,Hilton Head 5A,U.S. House,1,DEM,Mac Deford,53,0,0,0,31,0,22
+Beaufort,Hilton Head 5B,U.S. House,1,DEM,Mac Deford,37,0,0,0,12,0,25
+Beaufort,Hilton Head 5C,U.S. House,1,DEM,Mac Deford,41,0,0,0,20,0,21
+Beaufort,Hilton Head 6,U.S. House,1,DEM,Mac Deford,65,0,1,0,3,0,61
+Beaufort,Hilton Head 2D,U.S. House,1,DEM,Mac Deford,14,0,0,0,5,0,9
+Beaufort,Hilton Head 7A,U.S. House,1,DEM,Mac Deford,38,0,2,0,15,0,21
+Beaufort,Hilton Head 7B,U.S. House,1,DEM,Mac Deford,29,0,4,0,12,0,13
+Beaufort,Hilton Head 2E,U.S. House,1,DEM,Mac Deford,52,0,1,0,19,0,32
+Beaufort,Hilton Head 8,U.S. House,1,DEM,Mac Deford,44,0,1,0,28,0,15
+Beaufort,Hilton Head 9A,U.S. House,1,DEM,Mac Deford,23,0,1,0,3,0,19
+Beaufort,Hilton Head 9B,U.S. House,1,DEM,Mac Deford,17,0,0,0,6,0,11
+Beaufort,Hilton Head 10,U.S. House,1,DEM,Mac Deford,19,0,0,0,6,0,13
+Beaufort,Hilton Head 11,U.S. House,1,DEM,Mac Deford,50,0,2,0,31,0,17
+Beaufort,Hilton Head 12,U.S. House,1,DEM,Mac Deford,36,0,2,0,11,0,23
+Beaufort,Hilton Head 13,U.S. House,1,DEM,Mac Deford,33,0,1,0,14,0,18
+Beaufort,Hilton Head 14,U.S. House,1,DEM,Mac Deford,27,0,0,0,16,0,11
+Beaufort,Hilton Head 15A,U.S. House,1,DEM,Mac Deford,24,0,0,0,14,0,10
+Beaufort,Hilton Head 15B,U.S. House,1,DEM,Mac Deford,41,0,1,0,17,0,23
+Beaufort,Hilton Head 7C,U.S. House,1,DEM,Mac Deford,29,0,0,0,13,0,16
+Beaufort,Hilton Head 9C,U.S. House,1,DEM,Mac Deford,20,0,0,0,5,0,15
+Beaufort,Hilton Head 9D,U.S. House,1,DEM,Mac Deford,13,0,0,0,3,0,10
+Beaufort,Spanish Wells,U.S. House,1,DEM,Mac Deford,22,0,1,0,7,0,14
+Beaufort,Belfair 1,U.S. House,1,DEM,Mac Deford,25,0,0,0,3,0,22
+Beaufort,Bluffton 1A,U.S. House,1,DEM,Mac Deford,13,0,2,0,4,0,7
+Beaufort,Bluffton 1B,U.S. House,1,DEM,Mac Deford,8,0,0,0,1,0,7
+Beaufort,Bluffton 1C,U.S. House,1,DEM,Mac Deford,15,0,0,0,8,0,7
+Beaufort,Bluffton 1D,U.S. House,1,DEM,Mac Deford,9,0,0,0,4,0,5
+Beaufort,Bluffton 2A,U.S. House,1,DEM,Mac Deford,17,0,0,0,4,0,13
+Beaufort,Bluffton 2B,U.S. House,1,DEM,Mac Deford,13,0,1,0,6,0,6
+Beaufort,Bluffton 2C,U.S. House,1,DEM,Mac Deford,18,0,0,0,8,0,10
+Beaufort,Moss Creek,U.S. House,1,DEM,Mac Deford,155,0,2,0,37,0,116
+Beaufort,Bluffton 3,U.S. House,1,DEM,Mac Deford,18,0,3,0,13,0,2
+Beaufort,Bluffton 4A,U.S. House,1,DEM,Mac Deford,22,0,1,0,12,0,9
+Beaufort,Bluffton 4B,U.S. House,1,DEM,Mac Deford,7,0,0,0,4,0,3
+Beaufort,Bluffton 4C,U.S. House,1,DEM,Mac Deford,36,0,0,0,23,0,13
+Beaufort,Bluffton 5A,U.S. House,1,DEM,Mac Deford,25,0,2,0,8,0,15
+Beaufort,Bluffton 2D,U.S. House,1,DEM,Mac Deford,14,0,0,0,3,0,11
+Beaufort,Bluffton 2E,U.S. House,1,DEM,Mac Deford,30,0,1,0,12,0,17
+Beaufort,Rose Hill 1,U.S. House,1,DEM,Mac Deford,13,0,0,0,0,0,13
+Beaufort,Bluffton 4D,U.S. House,1,DEM,Mac Deford,25,0,0,0,20,0,5
+Beaufort,Bluffton 5B,U.S. House,1,DEM,Mac Deford,18,0,0,0,6,0,12
+Beaufort,Palmetto Bluff,U.S. House,1,DEM,Mac Deford,19,0,3,0,9,0,7
+Beaufort,New River 1,U.S. House,1,DEM,Mac Deford,32,0,0,0,8,0,24
+Beaufort,Sandy Pointe,U.S. House,1,DEM,Mac Deford,9,0,0,0,4,0,5
+Beaufort,New River 2,U.S. House,1,DEM,Mac Deford,31,0,0,0,14,0,17
+Beaufort,Belfair 2,U.S. House,1,DEM,Mac Deford,38,0,3,0,20,0,15
+Beaufort,Bluffton 4E,U.S. House,1,DEM,Mac Deford,22,0,0,0,7,0,15
+Beaufort,Bluffton 5C,U.S. House,1,DEM,Mac Deford,23,0,0,0,11,0,12
+Beaufort,Bluffton 5D,U.S. House,1,DEM,Mac Deford,9,0,0,0,6,0,3
+Beaufort,Bluffton 5E,U.S. House,1,DEM,Mac Deford,12,0,3,0,5,0,4
+Beaufort,Bluffton 6A,U.S. House,1,DEM,Mac Deford,16,0,0,0,7,0,9
+Beaufort,Bluffton 6B,U.S. House,1,DEM,Mac Deford,27,0,1,0,19,0,7
+Beaufort,Bluffton 7A,U.S. House,1,DEM,Mac Deford,58,0,4,0,21,0,33
+Beaufort,Buckwalter 1,U.S. House,1,DEM,Mac Deford,24,0,0,0,12,0,12
+Beaufort,Buckwalter 2,U.S. House,1,DEM,Mac Deford,24,0,0,0,14,0,10
+Beaufort,Rose Hill 2,U.S. House,1,DEM,Mac Deford,35,0,0,0,11,0,24
+Beaufort,Pritchardville 1,U.S. House,1,DEM,Mac Deford,16,0,1,0,7,0,8
+Beaufort,Sun City 1,U.S. House,1,DEM,Mac Deford,93,0,3,0,30,0,60
+Beaufort,Sun City 2,U.S. House,1,DEM,Mac Deford,69,0,1,0,20,0,48
+Beaufort,Sun City 3,U.S. House,1,DEM,Mac Deford,67,0,3,0,32,0,32
+Beaufort,Sun City 4,U.S. House,1,DEM,Mac Deford,80,0,2,0,47,0,31
+Beaufort,Sun City 5,U.S. House,1,DEM,Mac Deford,68,0,3,0,31,0,34
+Beaufort,Sun City 6,U.S. House,1,DEM,Mac Deford,75,0,5,0,20,0,50
+Beaufort,Sun City 7,U.S. House,1,DEM,Mac Deford,83,0,6,0,27,0,50
+Beaufort,Sun City 8,U.S. House,1,DEM,Mac Deford,44,0,1,0,12,0,31
+Beaufort,Sun City 9,U.S. House,1,DEM,Mac Deford,39,0,1,0,11,0,27
+Beaufort,Sun City 10,U.S. House,1,DEM,Mac Deford,33,0,3,0,8,0,22
+Beaufort,Failsafe,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Beaufort,Provisional,U.S. House,1,DEM,Mac Deford,3,0,0,0,0,3,0
+Beaufort,Failsafe Provisional,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Beaufort,Beaufort 1,U.S. House,1,DEM,Michael B Moore,61,0,6,0,35,0,20
+Beaufort,Beaufort 2,U.S. House,1,DEM,Michael B Moore,34,0,0,0,13,0,21
+Beaufort,Beaufort 3,U.S. House,1,DEM,Michael B Moore,26,0,1,0,9,0,16
+Beaufort,Burton 1A,U.S. House,1,DEM,Michael B Moore,27,0,0,0,12,0,15
+Beaufort,Burton 1B,U.S. House,1,DEM,Michael B Moore,73,0,0,0,23,0,50
+Beaufort,Burton 1C,U.S. House,1,DEM,Michael B Moore,54,0,1,0,19,0,34
+Beaufort,Burton 2A,U.S. House,1,DEM,Michael B Moore,11,0,2,0,3,0,6
+Beaufort,Burton 2B,U.S. House,1,DEM,Michael B Moore,17,0,0,0,11,0,6
+Beaufort,Burton 2C,U.S. House,1,DEM,Michael B Moore,34,0,1,0,14,0,19
+Beaufort,Burton 3A,U.S. House,1,DEM,Michael B Moore,17,0,2,0,8,0,7
+Beaufort,Burton 3B,U.S. House,1,DEM,Michael B Moore,38,0,3,0,10,0,25
+Beaufort,Burton 2D,U.S. House,1,DEM,Michael B Moore,12,0,0,0,6,0,6
+Beaufort,Chechessee 1,U.S. House,1,DEM,Michael B Moore,5,0,0,0,0,0,5
+Beaufort,Chechessee 2,U.S. House,1,DEM,Michael B Moore,7,0,0,0,3,0,4
+Beaufort,Chechessee 3,U.S. House,1,DEM,Michael B Moore,9,0,0,0,3,0,6
+Beaufort,Riverbend,U.S. House,1,DEM,Michael B Moore,20,0,0,0,8,0,12
+Beaufort,Ladys Island 1A,U.S. House,1,DEM,Michael B Moore,32,0,0,0,12,0,20
+Beaufort,Ladys Island 1B,U.S. House,1,DEM,Michael B Moore,33,0,1,0,16,0,16
+Beaufort,Ladys Island 2A,U.S. House,1,DEM,Michael B Moore,11,0,0,0,3,0,8
+Beaufort,Ladys Island 2B,U.S. House,1,DEM,Michael B Moore,13,0,0,0,5,0,8
+Beaufort,Ladys Island 3A,U.S. House,1,DEM,Michael B Moore,36,0,4,0,15,0,17
+Beaufort,Ladys Island 3B,U.S. House,1,DEM,Michael B Moore,11,0,1,0,1,0,9
+Beaufort,Ladys Island 4A,U.S. House,1,DEM,Michael B Moore,39,0,0,0,22,0,17
+Beaufort,Ladys Island 4B,U.S. House,1,DEM,Michael B Moore,16,0,0,0,8,0,8
+Beaufort,Ladys Island 4C,U.S. House,1,DEM,Michael B Moore,24,0,1,0,10,0,13
+Beaufort,Mossy Oaks 1A,U.S. House,1,DEM,Michael B Moore,23,0,2,0,9,0,12
+Beaufort,Mossy Oaks 1B,U.S. House,1,DEM,Michael B Moore,26,0,2,0,13,0,11
+Beaufort,Mossy Oaks 2,U.S. House,1,DEM,Michael B Moore,26,0,4,0,6,0,16
+Beaufort,Port Royal 1,U.S. House,1,DEM,Michael B Moore,28,0,0,0,8,0,20
+Beaufort,Port Royal 2,U.S. House,1,DEM,Michael B Moore,22,0,0,0,7,0,15
+Beaufort,Dale Lobeco,U.S. House,1,DEM,Michael B Moore,65,0,20,0,12,0,33
+Beaufort,Seabrook 1,U.S. House,1,DEM,Michael B Moore,18,0,0,0,8,0,10
+Beaufort,Seabrook 2,U.S. House,1,DEM,Michael B Moore,33,0,0,0,4,0,29
+Beaufort,Seabrook 3,U.S. House,1,DEM,Michael B Moore,40,0,3,0,14,0,23
+Beaufort,Sheldon 1,U.S. House,1,DEM,Michael B Moore,45,0,10,0,10,0,25
+Beaufort,Sheldon 2,U.S. House,1,DEM,Michael B Moore,85,0,25,0,17,0,43
+Beaufort,Burton 4,U.S. House,1,DEM,Michael B Moore,39,0,3,0,16,0,20
+Beaufort,Burton 5A,U.S. House,1,DEM,Michael B Moore,23,0,3,0,13,0,7
+Beaufort,Burton 5B,U.S. House,1,DEM,Michael B Moore,20,0,1,0,8,0,11
+Beaufort,Burton 1D,U.S. House,1,DEM,Michael B Moore,7,0,0,0,4,0,3
+Beaufort,St. Helena 1A,U.S. House,1,DEM,Michael B Moore,103,0,3,0,44,0,56
+Beaufort,St. Helena 1B,U.S. House,1,DEM,Michael B Moore,93,0,0,0,39,0,54
+Beaufort,St. Helena 1C,U.S. House,1,DEM,Michael B Moore,23,0,4,0,4,0,15
+Beaufort,St. Helena 2A,U.S. House,1,DEM,Michael B Moore,62,0,2,0,29,0,31
+Beaufort,St. Helena 2B,U.S. House,1,DEM,Michael B Moore,94,0,0,0,27,0,67
+Beaufort,St. Helena 2C,U.S. House,1,DEM,Michael B Moore,9,0,0,0,2,0,7
+Beaufort,Ladys Island 2C,U.S. House,1,DEM,Michael B Moore,32,0,4,0,12,0,16
+Beaufort,Ladys Island 3C,U.S. House,1,DEM,Michael B Moore,19,0,0,0,9,0,10
+Beaufort,Daufuskie,U.S. House,1,DEM,Michael B Moore,22,0,1,0,0,0,21
+Beaufort,Hilton Head 1A,U.S. House,1,DEM,Michael B Moore,22,0,0,0,6,0,16
+Beaufort,Hilton Head 1B,U.S. House,1,DEM,Michael B Moore,32,0,0,0,17,0,15
+Beaufort,Hilton Head 2A,U.S. House,1,DEM,Michael B Moore,28,0,0,0,7,0,21
+Beaufort,Hilton Head 2B,U.S. House,1,DEM,Michael B Moore,21,0,1,0,10,0,10
+Beaufort,Hilton Head 2C,U.S. House,1,DEM,Michael B Moore,13,0,0,0,7,0,6
+Beaufort,Hilton Head 3,U.S. House,1,DEM,Michael B Moore,16,0,3,0,3,0,10
+Beaufort,Hilton Head 4A,U.S. House,1,DEM,Michael B Moore,19,0,0,0,8,0,11
+Beaufort,Hilton Head 4B,U.S. House,1,DEM,Michael B Moore,44,0,1,0,8,0,35
+Beaufort,Hilton Head 4C,U.S. House,1,DEM,Michael B Moore,8,0,0,0,2,0,6
+Beaufort,Hilton Head 4D,U.S. House,1,DEM,Michael B Moore,13,0,0,0,6,0,7
+Beaufort,Hilton Head 5A,U.S. House,1,DEM,Michael B Moore,17,0,0,0,14,0,3
+Beaufort,Hilton Head 5B,U.S. House,1,DEM,Michael B Moore,21,0,0,0,4,0,17
+Beaufort,Hilton Head 5C,U.S. House,1,DEM,Michael B Moore,8,0,0,0,3,0,5
+Beaufort,Hilton Head 6,U.S. House,1,DEM,Michael B Moore,30,0,0,0,6,0,24
+Beaufort,Hilton Head 2D,U.S. House,1,DEM,Michael B Moore,13,0,0,0,3,0,10
+Beaufort,Hilton Head 7A,U.S. House,1,DEM,Michael B Moore,29,0,0,0,17,0,12
+Beaufort,Hilton Head 7B,U.S. House,1,DEM,Michael B Moore,11,0,0,0,5,0,6
+Beaufort,Hilton Head 2E,U.S. House,1,DEM,Michael B Moore,22,0,0,0,8,0,14
+Beaufort,Hilton Head 8,U.S. House,1,DEM,Michael B Moore,8,0,0,0,2,0,6
+Beaufort,Hilton Head 9A,U.S. House,1,DEM,Michael B Moore,11,0,0,0,2,0,9
+Beaufort,Hilton Head 9B,U.S. House,1,DEM,Michael B Moore,5,0,0,0,2,0,3
+Beaufort,Hilton Head 10,U.S. House,1,DEM,Michael B Moore,10,0,0,0,4,0,6
+Beaufort,Hilton Head 11,U.S. House,1,DEM,Michael B Moore,12,0,0,0,9,0,3
+Beaufort,Hilton Head 12,U.S. House,1,DEM,Michael B Moore,14,0,2,0,3,0,9
+Beaufort,Hilton Head 13,U.S. House,1,DEM,Michael B Moore,14,0,0,0,9,0,5
+Beaufort,Hilton Head 14,U.S. House,1,DEM,Michael B Moore,18,0,3,0,8,0,7
+Beaufort,Hilton Head 15A,U.S. House,1,DEM,Michael B Moore,7,0,0,0,3,0,4
+Beaufort,Hilton Head 15B,U.S. House,1,DEM,Michael B Moore,17,0,3,0,5,0,9
+Beaufort,Hilton Head 7C,U.S. House,1,DEM,Michael B Moore,9,0,0,0,1,0,8
+Beaufort,Hilton Head 9C,U.S. House,1,DEM,Michael B Moore,5,0,0,0,1,0,4
+Beaufort,Hilton Head 9D,U.S. House,1,DEM,Michael B Moore,13,0,0,0,2,0,11
+Beaufort,Spanish Wells,U.S. House,1,DEM,Michael B Moore,24,0,0,0,4,0,20
+Beaufort,Belfair 1,U.S. House,1,DEM,Michael B Moore,10,0,0,0,2,0,8
+Beaufort,Bluffton 1A,U.S. House,1,DEM,Michael B Moore,6,0,0,0,3,0,3
+Beaufort,Bluffton 1B,U.S. House,1,DEM,Michael B Moore,2,0,0,0,1,0,1
+Beaufort,Bluffton 1C,U.S. House,1,DEM,Michael B Moore,7,0,0,0,5,0,2
+Beaufort,Bluffton 1D,U.S. House,1,DEM,Michael B Moore,5,0,0,0,1,0,4
+Beaufort,Bluffton 2A,U.S. House,1,DEM,Michael B Moore,7,0,0,0,2,0,5
+Beaufort,Bluffton 2B,U.S. House,1,DEM,Michael B Moore,8,0,2,0,3,0,3
+Beaufort,Bluffton 2C,U.S. House,1,DEM,Michael B Moore,6,0,1,0,4,0,1
+Beaufort,Moss Creek,U.S. House,1,DEM,Michael B Moore,15,0,0,0,1,0,14
+Beaufort,Bluffton 3,U.S. House,1,DEM,Michael B Moore,6,0,0,0,3,0,3
+Beaufort,Bluffton 4A,U.S. House,1,DEM,Michael B Moore,12,0,2,0,6,0,4
+Beaufort,Bluffton 4B,U.S. House,1,DEM,Michael B Moore,3,0,0,0,1,0,2
+Beaufort,Bluffton 4C,U.S. House,1,DEM,Michael B Moore,10,0,1,0,5,0,4
+Beaufort,Bluffton 5A,U.S. House,1,DEM,Michael B Moore,16,0,3,0,9,0,4
+Beaufort,Bluffton 2D,U.S. House,1,DEM,Michael B Moore,4,0,0,0,2,0,2
+Beaufort,Bluffton 2E,U.S. House,1,DEM,Michael B Moore,20,0,1,0,7,0,12
+Beaufort,Rose Hill 1,U.S. House,1,DEM,Michael B Moore,7,0,0,0,0,0,7
+Beaufort,Bluffton 4D,U.S. House,1,DEM,Michael B Moore,16,0,0,0,12,0,4
+Beaufort,Bluffton 5B,U.S. House,1,DEM,Michael B Moore,12,0,2,0,8,0,2
+Beaufort,Palmetto Bluff,U.S. House,1,DEM,Michael B Moore,9,0,2,0,1,0,6
+Beaufort,New River 1,U.S. House,1,DEM,Michael B Moore,18,0,0,0,3,0,15
+Beaufort,Sandy Pointe,U.S. House,1,DEM,Michael B Moore,9,0,0,0,3,0,6
+Beaufort,New River 2,U.S. House,1,DEM,Michael B Moore,12,0,0,0,8,0,4
+Beaufort,Belfair 2,U.S. House,1,DEM,Michael B Moore,14,0,2,0,8,0,4
+Beaufort,Bluffton 4E,U.S. House,1,DEM,Michael B Moore,13,0,0,0,1,0,12
+Beaufort,Bluffton 5C,U.S. House,1,DEM,Michael B Moore,12,0,2,0,3,0,7
+Beaufort,Bluffton 5D,U.S. House,1,DEM,Michael B Moore,7,0,0,0,2,0,5
+Beaufort,Bluffton 5E,U.S. House,1,DEM,Michael B Moore,8,0,0,0,3,0,5
+Beaufort,Bluffton 6A,U.S. House,1,DEM,Michael B Moore,7,0,0,0,2,0,5
+Beaufort,Bluffton 6B,U.S. House,1,DEM,Michael B Moore,16,0,0,0,7,0,9
+Beaufort,Bluffton 7A,U.S. House,1,DEM,Michael B Moore,20,0,2,0,10,0,8
+Beaufort,Buckwalter 1,U.S. House,1,DEM,Michael B Moore,5,0,1,0,2,0,2
+Beaufort,Buckwalter 2,U.S. House,1,DEM,Michael B Moore,5,0,0,0,2,0,3
+Beaufort,Rose Hill 2,U.S. House,1,DEM,Michael B Moore,18,0,0,0,5,0,13
+Beaufort,Pritchardville 1,U.S. House,1,DEM,Michael B Moore,12,0,0,0,8,0,4
+Beaufort,Sun City 1,U.S. House,1,DEM,Michael B Moore,18,0,0,0,6,0,12
+Beaufort,Sun City 2,U.S. House,1,DEM,Michael B Moore,27,0,0,0,9,0,18
+Beaufort,Sun City 3,U.S. House,1,DEM,Michael B Moore,7,0,1,0,4,0,2
+Beaufort,Sun City 4,U.S. House,1,DEM,Michael B Moore,12,0,0,0,6,0,6
+Beaufort,Sun City 5,U.S. House,1,DEM,Michael B Moore,22,0,3,0,9,0,10
+Beaufort,Sun City 6,U.S. House,1,DEM,Michael B Moore,22,0,0,0,10,0,12
+Beaufort,Sun City 7,U.S. House,1,DEM,Michael B Moore,23,0,4,0,10,0,9
+Beaufort,Sun City 8,U.S. House,1,DEM,Michael B Moore,11,0,0,0,3,0,8
+Beaufort,Sun City 9,U.S. House,1,DEM,Michael B Moore,13,0,0,0,6,0,7
+Beaufort,Sun City 10,U.S. House,1,DEM,Michael B Moore,17,0,1,0,6,0,10
+Beaufort,Failsafe,U.S. House,1,DEM,Michael B Moore,2,2,0,0,0,0,0
+Beaufort,Provisional,U.S. House,1,DEM,Michael B Moore,3,0,0,0,0,3,0
+Beaufort,Failsafe Provisional,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Beaufort,Beaufort 1,U.S. House,1,REP,Nancy Mace,27,0,0,0,10,0,17
+Beaufort,Beaufort 2,U.S. House,1,REP,Nancy Mace,66,0,4,0,21,0,41
+Beaufort,Beaufort 3,U.S. House,1,REP,Nancy Mace,81,0,2,0,23,0,56
+Beaufort,Burton 1A,U.S. House,1,REP,Nancy Mace,37,0,2,0,15,0,20
+Beaufort,Burton 1B,U.S. House,1,REP,Nancy Mace,12,0,0,0,2,0,10
+Beaufort,Burton 1C,U.S. House,1,REP,Nancy Mace,88,0,0,0,14,0,74
+Beaufort,Burton 2A,U.S. House,1,REP,Nancy Mace,27,0,1,0,11,0,15
+Beaufort,Burton 2B,U.S. House,1,REP,Nancy Mace,54,0,0,0,21,0,33
+Beaufort,Burton 2C,U.S. House,1,REP,Nancy Mace,89,0,1,0,29,0,59
+Beaufort,Burton 3A,U.S. House,1,REP,Nancy Mace,12,0,0,0,10,0,2
+Beaufort,Burton 3B,U.S. House,1,REP,Nancy Mace,31,0,1,0,8,0,22
+Beaufort,Burton 2D,U.S. House,1,REP,Nancy Mace,43,0,3,0,19,0,21
+Beaufort,Chechessee 1,U.S. House,1,REP,Nancy Mace,50,0,3,0,9,0,38
+Beaufort,Chechessee 2,U.S. House,1,REP,Nancy Mace,40,0,0,0,3,0,37
+Beaufort,Chechessee 3,U.S. House,1,REP,Nancy Mace,60,0,0,0,7,0,53
+Beaufort,Riverbend,U.S. House,1,REP,Nancy Mace,68,0,7,0,18,0,43
+Beaufort,Ladys Island 1A,U.S. House,1,REP,Nancy Mace,29,0,0,0,10,0,19
+Beaufort,Ladys Island 1B,U.S. House,1,REP,Nancy Mace,25,0,2,0,6,0,17
+Beaufort,Ladys Island 2A,U.S. House,1,REP,Nancy Mace,38,0,0,0,0,0,38
+Beaufort,Ladys Island 2B,U.S. House,1,REP,Nancy Mace,114,0,2,0,36,0,76
+Beaufort,Ladys Island 3A,U.S. House,1,REP,Nancy Mace,78,0,1,0,15,0,62
+Beaufort,Ladys Island 3B,U.S. House,1,REP,Nancy Mace,97,0,0,0,21,0,76
+Beaufort,Ladys Island 4A,U.S. House,1,REP,Nancy Mace,49,0,0,0,7,0,42
+Beaufort,Ladys Island 4B,U.S. House,1,REP,Nancy Mace,63,0,2,0,12,0,49
+Beaufort,Ladys Island 4C,U.S. House,1,REP,Nancy Mace,61,0,0,0,16,0,45
+Beaufort,Mossy Oaks 1A,U.S. House,1,REP,Nancy Mace,51,0,0,0,6,0,45
+Beaufort,Mossy Oaks 1B,U.S. House,1,REP,Nancy Mace,81,0,1,0,14,0,66
+Beaufort,Mossy Oaks 2,U.S. House,1,REP,Nancy Mace,49,0,0,0,9,0,40
+Beaufort,Port Royal 1,U.S. House,1,REP,Nancy Mace,60,0,1,0,12,0,47
+Beaufort,Port Royal 2,U.S. House,1,REP,Nancy Mace,26,0,1,0,9,0,16
+Beaufort,Dale Lobeco,U.S. House,1,REP,Nancy Mace,22,0,1,0,6,0,15
+Beaufort,Seabrook 1,U.S. House,1,REP,Nancy Mace,31,0,0,0,5,0,26
+Beaufort,Seabrook 2,U.S. House,1,REP,Nancy Mace,21,0,0,0,8,0,13
+Beaufort,Seabrook 3,U.S. House,1,REP,Nancy Mace,29,0,0,0,6,0,23
+Beaufort,Sheldon 1,U.S. House,1,REP,Nancy Mace,37,0,1,0,5,0,31
+Beaufort,Sheldon 2,U.S. House,1,REP,Nancy Mace,17,0,0,0,4,0,13
+Beaufort,Burton 4,U.S. House,1,REP,Nancy Mace,12,0,0,0,2,0,10
+Beaufort,Burton 5A,U.S. House,1,REP,Nancy Mace,41,0,0,0,11,0,30
+Beaufort,Burton 5B,U.S. House,1,REP,Nancy Mace,20,0,0,0,12,0,8
+Beaufort,Burton 1D,U.S. House,1,REP,Nancy Mace,2,0,0,0,0,0,2
+Beaufort,St. Helena 1A,U.S. House,1,REP,Nancy Mace,32,0,0,0,7,0,25
+Beaufort,St. Helena 1B,U.S. House,1,REP,Nancy Mace,23,0,0,0,7,0,16
+Beaufort,St. Helena 1C,U.S. House,1,REP,Nancy Mace,164,0,3,0,20,0,141
+Beaufort,St. Helena 2A,U.S. House,1,REP,Nancy Mace,50,0,0,0,14,0,36
+Beaufort,St. Helena 2B,U.S. House,1,REP,Nancy Mace,28,0,2,0,5,0,21
+Beaufort,St. Helena 2C,U.S. House,1,REP,Nancy Mace,85,0,3,0,7,0,75
+Beaufort,Ladys Island 2C,U.S. House,1,REP,Nancy Mace,37,0,0,0,4,0,33
+Beaufort,Ladys Island 3C,U.S. House,1,REP,Nancy Mace,58,0,0,0,7,0,51
+Beaufort,Daufuskie,U.S. House,1,REP,Nancy Mace,32,0,0,0,2,0,30
+Beaufort,Hilton Head 1A,U.S. House,1,REP,Nancy Mace,27,0,1,0,0,0,26
+Beaufort,Hilton Head 1B,U.S. House,1,REP,Nancy Mace,53,0,3,0,26,0,24
+Beaufort,Hilton Head 2A,U.S. House,1,REP,Nancy Mace,71,0,1,0,10,0,60
+Beaufort,Hilton Head 2B,U.S. House,1,REP,Nancy Mace,23,0,0,0,7,0,16
+Beaufort,Hilton Head 2C,U.S. House,1,REP,Nancy Mace,69,0,3,0,7,0,59
+Beaufort,Hilton Head 3,U.S. House,1,REP,Nancy Mace,119,0,1,0,14,0,104
+Beaufort,Hilton Head 4A,U.S. House,1,REP,Nancy Mace,75,0,1,0,11,0,63
+Beaufort,Hilton Head 4B,U.S. House,1,REP,Nancy Mace,102,0,3,0,14,0,85
+Beaufort,Hilton Head 4C,U.S. House,1,REP,Nancy Mace,72,0,4,0,12,0,56
+Beaufort,Hilton Head 4D,U.S. House,1,REP,Nancy Mace,75,0,4,0,12,0,59
+Beaufort,Hilton Head 5A,U.S. House,1,REP,Nancy Mace,65,0,0,0,8,0,57
+Beaufort,Hilton Head 5B,U.S. House,1,REP,Nancy Mace,80,0,1,0,22,0,57
+Beaufort,Hilton Head 5C,U.S. House,1,REP,Nancy Mace,84,0,0,0,21,0,63
+Beaufort,Hilton Head 6,U.S. House,1,REP,Nancy Mace,150,0,3,0,13,0,134
+Beaufort,Hilton Head 2D,U.S. House,1,REP,Nancy Mace,9,0,0,0,2,0,7
+Beaufort,Hilton Head 7A,U.S. House,1,REP,Nancy Mace,66,0,2,0,15,0,49
+Beaufort,Hilton Head 7B,U.S. House,1,REP,Nancy Mace,40,0,0,0,12,0,28
+Beaufort,Hilton Head 2E,U.S. House,1,REP,Nancy Mace,102,0,0,0,18,0,84
+Beaufort,Hilton Head 8,U.S. House,1,REP,Nancy Mace,29,0,4,0,10,0,15
+Beaufort,Hilton Head 9A,U.S. House,1,REP,Nancy Mace,45,0,4,0,7,0,34
+Beaufort,Hilton Head 9B,U.S. House,1,REP,Nancy Mace,67,0,0,0,8,0,59
+Beaufort,Hilton Head 10,U.S. House,1,REP,Nancy Mace,45,0,0,0,3,0,42
+Beaufort,Hilton Head 11,U.S. House,1,REP,Nancy Mace,81,0,4,0,35,0,42
+Beaufort,Hilton Head 12,U.S. House,1,REP,Nancy Mace,67,0,0,0,20,0,47
+Beaufort,Hilton Head 13,U.S. House,1,REP,Nancy Mace,41,0,2,0,15,0,24
+Beaufort,Hilton Head 14,U.S. House,1,REP,Nancy Mace,59,0,0,0,18,0,41
+Beaufort,Hilton Head 15A,U.S. House,1,REP,Nancy Mace,41,0,1,0,10,0,30
+Beaufort,Hilton Head 15B,U.S. House,1,REP,Nancy Mace,58,0,0,0,13,0,45
+Beaufort,Hilton Head 7C,U.S. House,1,REP,Nancy Mace,59,0,2,0,14,0,43
+Beaufort,Hilton Head 9C,U.S. House,1,REP,Nancy Mace,34,0,0,0,3,0,31
+Beaufort,Hilton Head 9D,U.S. House,1,REP,Nancy Mace,59,0,0,0,10,0,49
+Beaufort,Spanish Wells,U.S. House,1,REP,Nancy Mace,23,0,0,0,2,0,21
+Beaufort,Belfair 1,U.S. House,1,REP,Nancy Mace,100,0,4,0,1,0,95
+Beaufort,Bluffton 1A,U.S. House,1,REP,Nancy Mace,42,0,2,0,7,0,33
+Beaufort,Bluffton 1B,U.S. House,1,REP,Nancy Mace,33,0,0,0,7,0,26
+Beaufort,Bluffton 1C,U.S. House,1,REP,Nancy Mace,34,0,2,0,11,0,21
+Beaufort,Bluffton 1D,U.S. House,1,REP,Nancy Mace,11,0,0,0,3,0,8
+Beaufort,Bluffton 2A,U.S. House,1,REP,Nancy Mace,12,0,1,0,0,0,11
+Beaufort,Bluffton 2B,U.S. House,1,REP,Nancy Mace,15,0,0,0,1,0,14
+Beaufort,Bluffton 2C,U.S. House,1,REP,Nancy Mace,52,0,1,0,18,0,33
+Beaufort,Moss Creek,U.S. House,1,REP,Nancy Mace,122,0,4,0,6,0,112
+Beaufort,Bluffton 3,U.S. House,1,REP,Nancy Mace,60,0,5,0,18,0,37
+Beaufort,Bluffton 4A,U.S. House,1,REP,Nancy Mace,65,0,5,0,18,0,42
+Beaufort,Bluffton 4B,U.S. House,1,REP,Nancy Mace,27,0,0,0,9,0,18
+Beaufort,Bluffton 4C,U.S. House,1,REP,Nancy Mace,75,0,2,0,38,0,35
+Beaufort,Bluffton 5A,U.S. House,1,REP,Nancy Mace,39,0,3,0,9,0,27
+Beaufort,Bluffton 2D,U.S. House,1,REP,Nancy Mace,23,0,0,0,3,0,20
+Beaufort,Bluffton 2E,U.S. House,1,REP,Nancy Mace,18,0,0,0,3,0,15
+Beaufort,Rose Hill 1,U.S. House,1,REP,Nancy Mace,44,0,0,0,10,0,34
+Beaufort,Bluffton 4D,U.S. House,1,REP,Nancy Mace,69,0,6,0,23,0,40
+Beaufort,Bluffton 5B,U.S. House,1,REP,Nancy Mace,23,0,1,0,7,0,15
+Beaufort,Palmetto Bluff,U.S. House,1,REP,Nancy Mace,48,0,3,0,6,0,39
+Beaufort,New River 1,U.S. House,1,REP,Nancy Mace,86,0,2,0,10,0,74
+Beaufort,Sandy Pointe,U.S. House,1,REP,Nancy Mace,25,0,1,0,7,0,17
+Beaufort,New River 2,U.S. House,1,REP,Nancy Mace,32,0,3,0,7,0,22
+Beaufort,Belfair 2,U.S. House,1,REP,Nancy Mace,84,0,1,0,25,0,58
+Beaufort,Bluffton 4E,U.S. House,1,REP,Nancy Mace,29,0,1,0,10,0,18
+Beaufort,Bluffton 5C,U.S. House,1,REP,Nancy Mace,17,0,1,0,2,0,14
+Beaufort,Bluffton 5D,U.S. House,1,REP,Nancy Mace,40,0,2,0,13,0,25
+Beaufort,Bluffton 5E,U.S. House,1,REP,Nancy Mace,25,0,3,0,7,0,15
+Beaufort,Bluffton 6A,U.S. House,1,REP,Nancy Mace,41,0,4,0,4,0,33
+Beaufort,Bluffton 6B,U.S. House,1,REP,Nancy Mace,69,0,4,0,21,0,44
+Beaufort,Bluffton 7A,U.S. House,1,REP,Nancy Mace,105,0,3,0,36,0,66
+Beaufort,Buckwalter 1,U.S. House,1,REP,Nancy Mace,64,0,4,0,31,0,29
+Beaufort,Buckwalter 2,U.S. House,1,REP,Nancy Mace,42,0,0,0,12,0,30
+Beaufort,Rose Hill 2,U.S. House,1,REP,Nancy Mace,49,0,2,0,8,0,39
+Beaufort,Pritchardville 1,U.S. House,1,REP,Nancy Mace,41,0,0,0,13,0,28
+Beaufort,Sun City 1,U.S. House,1,REP,Nancy Mace,93,0,2,0,19,0,72
+Beaufort,Sun City 2,U.S. House,1,REP,Nancy Mace,60,0,0,0,11,0,49
+Beaufort,Sun City 3,U.S. House,1,REP,Nancy Mace,55,0,3,0,6,0,46
+Beaufort,Sun City 4,U.S. House,1,REP,Nancy Mace,110,0,3,0,18,0,89
+Beaufort,Sun City 5,U.S. House,1,REP,Nancy Mace,124,0,14,0,18,0,92
+Beaufort,Sun City 6,U.S. House,1,REP,Nancy Mace,97,0,3,0,25,0,69
+Beaufort,Sun City 7,U.S. House,1,REP,Nancy Mace,89,0,8,0,12,0,69
+Beaufort,Sun City 8,U.S. House,1,REP,Nancy Mace,56,0,4,0,8,0,44
+Beaufort,Sun City 9,U.S. House,1,REP,Nancy Mace,68,0,3,0,18,0,47
+Beaufort,Sun City 10,U.S. House,1,REP,Nancy Mace,38,0,4,0,8,0,26
+Beaufort,Failsafe,U.S. House,1,REP,Nancy Mace,1,1,0,0,0,0,0
+Beaufort,Provisional,U.S. House,1,REP,Nancy Mace,3,0,0,0,0,3,0
+Beaufort,Failsafe Provisional,U.S. House,1,REP,Nancy Mace,0,0,0,0,0,0,0
+Beaufort,Beaufort 1,U.S. House,1,REP,Catherine Templeton,21,0,4,0,7,0,10
+Beaufort,Beaufort 2,U.S. House,1,REP,Catherine Templeton,93,0,1,0,49,0,43
+Beaufort,Beaufort 3,U.S. House,1,REP,Catherine Templeton,67,0,0,0,15,0,52
+Beaufort,Burton 1A,U.S. House,1,REP,Catherine Templeton,21,0,0,0,7,0,14
+Beaufort,Burton 1B,U.S. House,1,REP,Catherine Templeton,12,0,0,0,2,0,10
+Beaufort,Burton 1C,U.S. House,1,REP,Catherine Templeton,120,0,0,0,41,0,79
+Beaufort,Burton 2A,U.S. House,1,REP,Catherine Templeton,18,0,1,0,6,0,11
+Beaufort,Burton 2B,U.S. House,1,REP,Catherine Templeton,30,0,0,0,13,0,17
+Beaufort,Burton 2C,U.S. House,1,REP,Catherine Templeton,58,0,1,0,17,0,40
+Beaufort,Burton 3A,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Beaufort,Burton 3B,U.S. House,1,REP,Catherine Templeton,13,0,1,0,3,0,9
+Beaufort,Burton 2D,U.S. House,1,REP,Catherine Templeton,21,0,0,0,9,0,12
+Beaufort,Chechessee 1,U.S. House,1,REP,Catherine Templeton,51,0,3,0,8,0,40
+Beaufort,Chechessee 2,U.S. House,1,REP,Catherine Templeton,33,0,0,0,8,0,25
+Beaufort,Chechessee 3,U.S. House,1,REP,Catherine Templeton,29,0,1,0,4,0,24
+Beaufort,Riverbend,U.S. House,1,REP,Catherine Templeton,56,0,1,0,17,0,38
+Beaufort,Ladys Island 1A,U.S. House,1,REP,Catherine Templeton,26,0,2,0,3,0,21
+Beaufort,Ladys Island 1B,U.S. House,1,REP,Catherine Templeton,28,0,2,0,5,0,21
+Beaufort,Ladys Island 2A,U.S. House,1,REP,Catherine Templeton,18,0,0,0,4,0,14
+Beaufort,Ladys Island 2B,U.S. House,1,REP,Catherine Templeton,68,0,2,0,16,0,50
+Beaufort,Ladys Island 3A,U.S. House,1,REP,Catherine Templeton,51,0,0,0,12,0,39
+Beaufort,Ladys Island 3B,U.S. House,1,REP,Catherine Templeton,62,0,2,0,17,0,43
+Beaufort,Ladys Island 4A,U.S. House,1,REP,Catherine Templeton,48,0,2,0,6,0,40
+Beaufort,Ladys Island 4B,U.S. House,1,REP,Catherine Templeton,44,0,2,0,14,0,28
+Beaufort,Ladys Island 4C,U.S. House,1,REP,Catherine Templeton,36,0,2,0,5,0,29
+Beaufort,Mossy Oaks 1A,U.S. House,1,REP,Catherine Templeton,32,0,1,0,7,0,24
+Beaufort,Mossy Oaks 1B,U.S. House,1,REP,Catherine Templeton,36,0,1,0,9,0,26
+Beaufort,Mossy Oaks 2,U.S. House,1,REP,Catherine Templeton,36,0,0,0,14,0,22
+Beaufort,Port Royal 1,U.S. House,1,REP,Catherine Templeton,21,0,2,0,5,0,14
+Beaufort,Port Royal 2,U.S. House,1,REP,Catherine Templeton,18,0,1,0,3,0,14
+Beaufort,Dale Lobeco,U.S. House,1,REP,Catherine Templeton,11,0,0,0,1,0,10
+Beaufort,Seabrook 1,U.S. House,1,REP,Catherine Templeton,14,0,1,0,1,0,12
+Beaufort,Seabrook 2,U.S. House,1,REP,Catherine Templeton,11,0,0,0,3,0,8
+Beaufort,Seabrook 3,U.S. House,1,REP,Catherine Templeton,20,0,0,0,5,0,15
+Beaufort,Sheldon 1,U.S. House,1,REP,Catherine Templeton,33,0,1,0,2,0,30
+Beaufort,Sheldon 2,U.S. House,1,REP,Catherine Templeton,1,0,0,0,1,0,0
+Beaufort,Burton 4,U.S. House,1,REP,Catherine Templeton,5,0,0,0,2,0,3
+Beaufort,Burton 5A,U.S. House,1,REP,Catherine Templeton,18,0,2,0,7,0,9
+Beaufort,Burton 5B,U.S. House,1,REP,Catherine Templeton,9,0,2,0,3,0,4
+Beaufort,Burton 1D,U.S. House,1,REP,Catherine Templeton,3,0,0,0,1,0,2
+Beaufort,St. Helena 1A,U.S. House,1,REP,Catherine Templeton,18,0,0,0,6,0,12
+Beaufort,St. Helena 1B,U.S. House,1,REP,Catherine Templeton,17,0,0,0,11,0,6
+Beaufort,St. Helena 1C,U.S. House,1,REP,Catherine Templeton,152,0,2,0,29,0,121
+Beaufort,St. Helena 2A,U.S. House,1,REP,Catherine Templeton,19,0,0,0,3,0,16
+Beaufort,St. Helena 2B,U.S. House,1,REP,Catherine Templeton,11,0,1,0,2,0,8
+Beaufort,St. Helena 2C,U.S. House,1,REP,Catherine Templeton,59,0,0,0,9,0,50
+Beaufort,Ladys Island 2C,U.S. House,1,REP,Catherine Templeton,50,0,0,0,11,0,39
+Beaufort,Ladys Island 3C,U.S. House,1,REP,Catherine Templeton,29,0,0,0,11,0,18
+Beaufort,Daufuskie,U.S. House,1,REP,Catherine Templeton,12,0,0,0,0,0,12
+Beaufort,Hilton Head 1A,U.S. House,1,REP,Catherine Templeton,15,0,0,0,4,0,11
+Beaufort,Hilton Head 1B,U.S. House,1,REP,Catherine Templeton,57,0,1,0,25,0,31
+Beaufort,Hilton Head 2A,U.S. House,1,REP,Catherine Templeton,41,0,2,0,11,0,28
+Beaufort,Hilton Head 2B,U.S. House,1,REP,Catherine Templeton,11,0,0,0,3,0,8
+Beaufort,Hilton Head 2C,U.S. House,1,REP,Catherine Templeton,91,0,5,0,26,0,60
+Beaufort,Hilton Head 3,U.S. House,1,REP,Catherine Templeton,77,0,1,0,10,0,66
+Beaufort,Hilton Head 4A,U.S. House,1,REP,Catherine Templeton,48,0,0,0,14,0,34
+Beaufort,Hilton Head 4B,U.S. House,1,REP,Catherine Templeton,102,0,3,0,16,0,83
+Beaufort,Hilton Head 4C,U.S. House,1,REP,Catherine Templeton,51,0,4,0,14,0,33
+Beaufort,Hilton Head 4D,U.S. House,1,REP,Catherine Templeton,38,0,0,0,12,0,26
+Beaufort,Hilton Head 5A,U.S. House,1,REP,Catherine Templeton,66,0,1,0,20,0,45
+Beaufort,Hilton Head 5B,U.S. House,1,REP,Catherine Templeton,55,0,0,0,5,0,50
+Beaufort,Hilton Head 5C,U.S. House,1,REP,Catherine Templeton,48,0,0,0,8,0,40
+Beaufort,Hilton Head 6,U.S. House,1,REP,Catherine Templeton,115,0,0,0,16,0,99
+Beaufort,Hilton Head 2D,U.S. House,1,REP,Catherine Templeton,10,0,0,0,2,0,8
+Beaufort,Hilton Head 7A,U.S. House,1,REP,Catherine Templeton,53,0,2,0,23,0,28
+Beaufort,Hilton Head 7B,U.S. House,1,REP,Catherine Templeton,34,0,6,0,10,0,18
+Beaufort,Hilton Head 2E,U.S. House,1,REP,Catherine Templeton,95,0,0,0,29,0,66
+Beaufort,Hilton Head 8,U.S. House,1,REP,Catherine Templeton,29,0,2,0,14,0,13
+Beaufort,Hilton Head 9A,U.S. House,1,REP,Catherine Templeton,28,0,0,0,1,0,27
+Beaufort,Hilton Head 9B,U.S. House,1,REP,Catherine Templeton,94,0,0,0,17,0,77
+Beaufort,Hilton Head 10,U.S. House,1,REP,Catherine Templeton,35,0,0,0,7,0,28
+Beaufort,Hilton Head 11,U.S. House,1,REP,Catherine Templeton,67,0,0,0,29,0,38
+Beaufort,Hilton Head 12,U.S. House,1,REP,Catherine Templeton,38,0,0,0,6,0,32
+Beaufort,Hilton Head 13,U.S. House,1,REP,Catherine Templeton,13,0,1,0,5,0,7
+Beaufort,Hilton Head 14,U.S. House,1,REP,Catherine Templeton,58,0,3,0,18,0,37
+Beaufort,Hilton Head 15A,U.S. House,1,REP,Catherine Templeton,38,0,2,0,11,0,25
+Beaufort,Hilton Head 15B,U.S. House,1,REP,Catherine Templeton,45,0,0,0,23,0,22
+Beaufort,Hilton Head 7C,U.S. House,1,REP,Catherine Templeton,49,0,1,0,21,0,27
+Beaufort,Hilton Head 9C,U.S. House,1,REP,Catherine Templeton,35,0,0,0,3,0,32
+Beaufort,Hilton Head 9D,U.S. House,1,REP,Catherine Templeton,80,0,0,0,21,0,59
+Beaufort,Spanish Wells,U.S. House,1,REP,Catherine Templeton,29,0,2,0,10,0,17
+Beaufort,Belfair 1,U.S. House,1,REP,Catherine Templeton,93,0,0,0,6,0,87
+Beaufort,Bluffton 1A,U.S. House,1,REP,Catherine Templeton,19,0,0,0,7,0,12
+Beaufort,Bluffton 1B,U.S. House,1,REP,Catherine Templeton,27,0,0,0,6,0,21
+Beaufort,Bluffton 1C,U.S. House,1,REP,Catherine Templeton,15,0,0,0,6,0,9
+Beaufort,Bluffton 1D,U.S. House,1,REP,Catherine Templeton,4,0,0,0,2,0,2
+Beaufort,Bluffton 2A,U.S. House,1,REP,Catherine Templeton,14,0,0,0,4,0,10
+Beaufort,Bluffton 2B,U.S. House,1,REP,Catherine Templeton,17,0,1,0,5,0,11
+Beaufort,Bluffton 2C,U.S. House,1,REP,Catherine Templeton,14,0,3,0,2,0,9
+Beaufort,Moss Creek,U.S. House,1,REP,Catherine Templeton,140,0,7,0,13,0,120
+Beaufort,Bluffton 3,U.S. House,1,REP,Catherine Templeton,54,0,2,0,20,0,32
+Beaufort,Bluffton 4A,U.S. House,1,REP,Catherine Templeton,102,0,10,0,31,0,61
+Beaufort,Bluffton 4B,U.S. House,1,REP,Catherine Templeton,21,0,4,0,6,0,11
+Beaufort,Bluffton 4C,U.S. House,1,REP,Catherine Templeton,49,0,0,0,20,0,29
+Beaufort,Bluffton 5A,U.S. House,1,REP,Catherine Templeton,12,0,2,0,1,0,9
+Beaufort,Bluffton 2D,U.S. House,1,REP,Catherine Templeton,13,0,0,0,4,0,9
+Beaufort,Bluffton 2E,U.S. House,1,REP,Catherine Templeton,15,0,0,0,4,0,11
+Beaufort,Rose Hill 1,U.S. House,1,REP,Catherine Templeton,33,0,0,0,4,0,29
+Beaufort,Bluffton 4D,U.S. House,1,REP,Catherine Templeton,56,0,1,0,23,0,32
+Beaufort,Bluffton 5B,U.S. House,1,REP,Catherine Templeton,21,0,2,0,5,0,14
+Beaufort,Palmetto Bluff,U.S. House,1,REP,Catherine Templeton,78,0,3,0,7,0,68
+Beaufort,New River 1,U.S. House,1,REP,Catherine Templeton,42,0,0,0,2,0,40
+Beaufort,Sandy Pointe,U.S. House,1,REP,Catherine Templeton,11,0,0,0,1,0,10
+Beaufort,New River 2,U.S. House,1,REP,Catherine Templeton,21,0,0,0,6,0,15
+Beaufort,Belfair 2,U.S. House,1,REP,Catherine Templeton,39,0,3,0,14,0,22
+Beaufort,Bluffton 4E,U.S. House,1,REP,Catherine Templeton,26,0,0,0,5,0,21
+Beaufort,Bluffton 5C,U.S. House,1,REP,Catherine Templeton,23,0,0,0,6,0,17
+Beaufort,Bluffton 5D,U.S. House,1,REP,Catherine Templeton,46,0,0,0,26,0,20
+Beaufort,Bluffton 5E,U.S. House,1,REP,Catherine Templeton,18,0,0,0,8,0,10
+Beaufort,Bluffton 6A,U.S. House,1,REP,Catherine Templeton,15,0,0,0,5,0,10
+Beaufort,Bluffton 6B,U.S. House,1,REP,Catherine Templeton,45,0,0,0,19,0,26
+Beaufort,Bluffton 7A,U.S. House,1,REP,Catherine Templeton,81,0,3,0,34,0,44
+Beaufort,Buckwalter 1,U.S. House,1,REP,Catherine Templeton,36,0,5,0,13,0,18
+Beaufort,Buckwalter 2,U.S. House,1,REP,Catherine Templeton,15,0,0,0,4,0,11
+Beaufort,Rose Hill 2,U.S. House,1,REP,Catherine Templeton,44,0,0,0,14,0,30
+Beaufort,Pritchardville 1,U.S. House,1,REP,Catherine Templeton,37,0,3,0,12,0,22
+Beaufort,Sun City 1,U.S. House,1,REP,Catherine Templeton,82,0,2,0,28,0,52
+Beaufort,Sun City 2,U.S. House,1,REP,Catherine Templeton,53,0,1,0,16,0,36
+Beaufort,Sun City 3,U.S. House,1,REP,Catherine Templeton,40,0,0,0,11,0,29
+Beaufort,Sun City 4,U.S. House,1,REP,Catherine Templeton,78,0,6,0,24,0,48
+Beaufort,Sun City 5,U.S. House,1,REP,Catherine Templeton,83,0,4,0,25,0,54
+Beaufort,Sun City 6,U.S. House,1,REP,Catherine Templeton,98,0,7,0,35,0,56
+Beaufort,Sun City 7,U.S. House,1,REP,Catherine Templeton,46,0,0,0,8,0,38
+Beaufort,Sun City 8,U.S. House,1,REP,Catherine Templeton,38,0,3,0,10,0,25
+Beaufort,Sun City 9,U.S. House,1,REP,Catherine Templeton,45,0,1,0,14,0,30
+Beaufort,Sun City 10,U.S. House,1,REP,Catherine Templeton,21,0,0,0,4,0,17
+Beaufort,Failsafe,U.S. House,1,REP,Catherine Templeton,1,1,0,0,0,0,0
+Beaufort,Provisional,U.S. House,1,REP,Catherine Templeton,5,0,0,0,0,5,0
+Beaufort,Failsafe Provisional,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Beaufort,Beaufort 1,U.S. House,1,REP,Bill Young,4,0,2,0,1,0,1
+Beaufort,Beaufort 2,U.S. House,1,REP,Bill Young,10,0,0,0,3,0,7
+Beaufort,Beaufort 3,U.S. House,1,REP,Bill Young,16,0,1,0,5,0,10
+Beaufort,Burton 1A,U.S. House,1,REP,Bill Young,17,0,0,0,5,0,12
+Beaufort,Burton 1B,U.S. House,1,REP,Bill Young,2,0,0,0,1,0,1
+Beaufort,Burton 1C,U.S. House,1,REP,Bill Young,38,0,0,0,14,0,24
+Beaufort,Burton 2A,U.S. House,1,REP,Bill Young,2,0,0,0,0,0,2
+Beaufort,Burton 2B,U.S. House,1,REP,Bill Young,6,0,0,0,3,0,3
+Beaufort,Burton 2C,U.S. House,1,REP,Bill Young,22,0,0,0,5,0,17
+Beaufort,Burton 3A,U.S. House,1,REP,Bill Young,7,0,0,0,2,0,5
+Beaufort,Burton 3B,U.S. House,1,REP,Bill Young,10,0,0,0,2,0,8
+Beaufort,Burton 2D,U.S. House,1,REP,Bill Young,11,0,0,0,5,0,6
+Beaufort,Chechessee 1,U.S. House,1,REP,Bill Young,7,0,2,0,3,0,2
+Beaufort,Chechessee 2,U.S. House,1,REP,Bill Young,9,0,0,0,2,0,7
+Beaufort,Chechessee 3,U.S. House,1,REP,Bill Young,11,0,0,0,1,0,10
+Beaufort,Riverbend,U.S. House,1,REP,Bill Young,23,0,3,0,4,0,16
+Beaufort,Ladys Island 1A,U.S. House,1,REP,Bill Young,7,0,2,0,1,0,4
+Beaufort,Ladys Island 1B,U.S. House,1,REP,Bill Young,7,0,0,0,2,0,5
+Beaufort,Ladys Island 2A,U.S. House,1,REP,Bill Young,12,0,0,0,4,0,8
+Beaufort,Ladys Island 2B,U.S. House,1,REP,Bill Young,19,0,0,0,7,0,12
+Beaufort,Ladys Island 3A,U.S. House,1,REP,Bill Young,17,0,0,0,3,0,14
+Beaufort,Ladys Island 3B,U.S. House,1,REP,Bill Young,17,0,0,0,1,0,16
+Beaufort,Ladys Island 4A,U.S. House,1,REP,Bill Young,10,0,0,0,1,0,9
+Beaufort,Ladys Island 4B,U.S. House,1,REP,Bill Young,5,0,0,0,2,0,3
+Beaufort,Ladys Island 4C,U.S. House,1,REP,Bill Young,12,0,0,0,0,0,12
+Beaufort,Mossy Oaks 1A,U.S. House,1,REP,Bill Young,11,0,0,0,1,0,10
+Beaufort,Mossy Oaks 1B,U.S. House,1,REP,Bill Young,17,0,0,0,1,0,16
+Beaufort,Mossy Oaks 2,U.S. House,1,REP,Bill Young,14,0,0,0,3,0,11
+Beaufort,Port Royal 1,U.S. House,1,REP,Bill Young,23,0,1,0,7,0,15
+Beaufort,Port Royal 2,U.S. House,1,REP,Bill Young,13,0,1,0,4,0,8
+Beaufort,Dale Lobeco,U.S. House,1,REP,Bill Young,9,0,0,0,0,0,9
+Beaufort,Seabrook 1,U.S. House,1,REP,Bill Young,6,0,0,0,2,0,4
+Beaufort,Seabrook 2,U.S. House,1,REP,Bill Young,5,0,0,0,3,0,2
+Beaufort,Seabrook 3,U.S. House,1,REP,Bill Young,13,0,0,0,2,0,11
+Beaufort,Sheldon 1,U.S. House,1,REP,Bill Young,6,0,0,0,0,0,6
+Beaufort,Sheldon 2,U.S. House,1,REP,Bill Young,5,0,0,0,0,0,5
+Beaufort,Burton 4,U.S. House,1,REP,Bill Young,6,0,0,0,1,0,5
+Beaufort,Burton 5A,U.S. House,1,REP,Bill Young,12,0,0,0,1,0,11
+Beaufort,Burton 5B,U.S. House,1,REP,Bill Young,10,0,1,0,3,0,6
+Beaufort,Burton 1D,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Beaufort,St. Helena 1A,U.S. House,1,REP,Bill Young,7,0,0,0,1,0,6
+Beaufort,St. Helena 1B,U.S. House,1,REP,Bill Young,8,0,0,0,6,0,2
+Beaufort,St. Helena 1C,U.S. House,1,REP,Bill Young,65,0,0,0,9,0,56
+Beaufort,St. Helena 2A,U.S. House,1,REP,Bill Young,8,0,0,0,2,0,6
+Beaufort,St. Helena 2B,U.S. House,1,REP,Bill Young,5,0,0,0,1,0,4
+Beaufort,St. Helena 2C,U.S. House,1,REP,Bill Young,15,0,0,0,4,0,11
+Beaufort,Ladys Island 2C,U.S. House,1,REP,Bill Young,15,0,1,0,2,0,12
+Beaufort,Ladys Island 3C,U.S. House,1,REP,Bill Young,6,0,0,0,1,0,5
+Beaufort,Daufuskie,U.S. House,1,REP,Bill Young,3,0,0,0,0,0,3
+Beaufort,Hilton Head 1A,U.S. House,1,REP,Bill Young,2,0,0,0,0,0,2
+Beaufort,Hilton Head 1B,U.S. House,1,REP,Bill Young,8,0,1,0,3,0,4
+Beaufort,Hilton Head 2A,U.S. House,1,REP,Bill Young,5,0,0,0,2,0,3
+Beaufort,Hilton Head 2B,U.S. House,1,REP,Bill Young,10,0,0,0,1,0,9
+Beaufort,Hilton Head 2C,U.S. House,1,REP,Bill Young,12,0,0,0,2,0,10
+Beaufort,Hilton Head 3,U.S. House,1,REP,Bill Young,16,0,0,0,2,0,14
+Beaufort,Hilton Head 4A,U.S. House,1,REP,Bill Young,7,0,0,0,0,0,7
+Beaufort,Hilton Head 4B,U.S. House,1,REP,Bill Young,29,0,5,0,4,0,20
+Beaufort,Hilton Head 4C,U.S. House,1,REP,Bill Young,12,0,0,0,3,0,9
+Beaufort,Hilton Head 4D,U.S. House,1,REP,Bill Young,19,0,1,0,5,0,13
+Beaufort,Hilton Head 5A,U.S. House,1,REP,Bill Young,24,0,1,0,3,0,20
+Beaufort,Hilton Head 5B,U.S. House,1,REP,Bill Young,14,0,0,0,7,0,7
+Beaufort,Hilton Head 5C,U.S. House,1,REP,Bill Young,16,0,0,0,2,0,14
+Beaufort,Hilton Head 6,U.S. House,1,REP,Bill Young,25,0,2,0,3,0,20
+Beaufort,Hilton Head 2D,U.S. House,1,REP,Bill Young,2,0,0,0,0,0,2
+Beaufort,Hilton Head 7A,U.S. House,1,REP,Bill Young,10,0,0,0,1,0,9
+Beaufort,Hilton Head 7B,U.S. House,1,REP,Bill Young,4,0,1,0,1,0,2
+Beaufort,Hilton Head 2E,U.S. House,1,REP,Bill Young,21,0,0,0,2,0,19
+Beaufort,Hilton Head 8,U.S. House,1,REP,Bill Young,6,0,0,0,2,0,4
+Beaufort,Hilton Head 9A,U.S. House,1,REP,Bill Young,3,0,0,0,0,0,3
+Beaufort,Hilton Head 9B,U.S. House,1,REP,Bill Young,19,0,0,0,3,0,16
+Beaufort,Hilton Head 10,U.S. House,1,REP,Bill Young,4,0,0,0,0,0,4
+Beaufort,Hilton Head 11,U.S. House,1,REP,Bill Young,9,0,0,0,4,0,5
+Beaufort,Hilton Head 12,U.S. House,1,REP,Bill Young,11,0,0,0,4,0,7
+Beaufort,Hilton Head 13,U.S. House,1,REP,Bill Young,3,0,0,0,2,0,1
+Beaufort,Hilton Head 14,U.S. House,1,REP,Bill Young,8,0,0,0,3,0,5
+Beaufort,Hilton Head 15A,U.S. House,1,REP,Bill Young,4,0,0,0,0,0,4
+Beaufort,Hilton Head 15B,U.S. House,1,REP,Bill Young,6,0,0,0,1,0,5
+Beaufort,Hilton Head 7C,U.S. House,1,REP,Bill Young,7,0,0,0,4,0,3
+Beaufort,Hilton Head 9C,U.S. House,1,REP,Bill Young,5,0,0,0,0,0,5
+Beaufort,Hilton Head 9D,U.S. House,1,REP,Bill Young,9,0,0,0,0,0,9
+Beaufort,Spanish Wells,U.S. House,1,REP,Bill Young,11,0,0,0,2,0,9
+Beaufort,Belfair 1,U.S. House,1,REP,Bill Young,37,0,0,0,5,0,32
+Beaufort,Bluffton 1A,U.S. House,1,REP,Bill Young,5,0,0,0,1,0,4
+Beaufort,Bluffton 1B,U.S. House,1,REP,Bill Young,6,0,0,0,1,0,5
+Beaufort,Bluffton 1C,U.S. House,1,REP,Bill Young,14,0,0,0,0,0,14
+Beaufort,Bluffton 1D,U.S. House,1,REP,Bill Young,5,0,0,0,2,0,3
+Beaufort,Bluffton 2A,U.S. House,1,REP,Bill Young,5,0,0,0,1,0,4
+Beaufort,Bluffton 2B,U.S. House,1,REP,Bill Young,11,0,1,0,2,0,8
+Beaufort,Bluffton 2C,U.S. House,1,REP,Bill Young,15,0,0,0,2,0,13
+Beaufort,Moss Creek,U.S. House,1,REP,Bill Young,31,0,2,0,1,0,28
+Beaufort,Bluffton 3,U.S. House,1,REP,Bill Young,16,0,0,0,7,0,9
+Beaufort,Bluffton 4A,U.S. House,1,REP,Bill Young,16,0,3,0,2,0,11
+Beaufort,Bluffton 4B,U.S. House,1,REP,Bill Young,13,0,0,0,8,0,5
+Beaufort,Bluffton 4C,U.S. House,1,REP,Bill Young,7,0,0,0,1,0,6
+Beaufort,Bluffton 5A,U.S. House,1,REP,Bill Young,9,0,1,0,3,0,5
+Beaufort,Bluffton 2D,U.S. House,1,REP,Bill Young,8,0,0,0,3,0,5
+Beaufort,Bluffton 2E,U.S. House,1,REP,Bill Young,5,0,1,0,1,0,3
+Beaufort,Rose Hill 1,U.S. House,1,REP,Bill Young,9,0,0,0,3,0,6
+Beaufort,Bluffton 4D,U.S. House,1,REP,Bill Young,15,0,0,0,4,0,11
+Beaufort,Bluffton 5B,U.S. House,1,REP,Bill Young,10,0,1,0,0,0,9
+Beaufort,Palmetto Bluff,U.S. House,1,REP,Bill Young,7,0,0,0,2,0,5
+Beaufort,New River 1,U.S. House,1,REP,Bill Young,32,0,2,0,5,0,25
+Beaufort,Sandy Pointe,U.S. House,1,REP,Bill Young,3,0,0,0,0,0,3
+Beaufort,New River 2,U.S. House,1,REP,Bill Young,8,0,0,0,1,0,7
+Beaufort,Belfair 2,U.S. House,1,REP,Bill Young,15,0,1,0,5,0,9
+Beaufort,Bluffton 4E,U.S. House,1,REP,Bill Young,11,0,0,0,2,0,9
+Beaufort,Bluffton 5C,U.S. House,1,REP,Bill Young,4,0,0,0,1,0,3
+Beaufort,Bluffton 5D,U.S. House,1,REP,Bill Young,15,0,0,0,7,0,8
+Beaufort,Bluffton 5E,U.S. House,1,REP,Bill Young,8,0,0,0,5,0,3
+Beaufort,Bluffton 6A,U.S. House,1,REP,Bill Young,12,0,0,0,5,0,7
+Beaufort,Bluffton 6B,U.S. House,1,REP,Bill Young,17,0,2,0,1,0,14
+Beaufort,Bluffton 7A,U.S. House,1,REP,Bill Young,32,0,5,0,9,0,18
+Beaufort,Buckwalter 1,U.S. House,1,REP,Bill Young,11,0,1,0,1,0,9
+Beaufort,Buckwalter 2,U.S. House,1,REP,Bill Young,11,0,2,0,1,0,8
+Beaufort,Rose Hill 2,U.S. House,1,REP,Bill Young,36,0,4,0,11,0,21
+Beaufort,Pritchardville 1,U.S. House,1,REP,Bill Young,4,0,0,0,2,0,2
+Beaufort,Sun City 1,U.S. House,1,REP,Bill Young,20,0,1,0,5,0,14
+Beaufort,Sun City 2,U.S. House,1,REP,Bill Young,17,0,1,0,3,0,13
+Beaufort,Sun City 3,U.S. House,1,REP,Bill Young,18,0,0,0,1,0,17
+Beaufort,Sun City 4,U.S. House,1,REP,Bill Young,25,0,0,0,5,0,20
+Beaufort,Sun City 5,U.S. House,1,REP,Bill Young,29,0,2,0,4,0,23
+Beaufort,Sun City 6,U.S. House,1,REP,Bill Young,23,0,0,0,5,0,18
+Beaufort,Sun City 7,U.S. House,1,REP,Bill Young,18,0,0,0,8,0,10
+Beaufort,Sun City 8,U.S. House,1,REP,Bill Young,16,0,0,0,2,0,14
+Beaufort,Sun City 9,U.S. House,1,REP,Bill Young,17,0,0,0,3,0,14
+Beaufort,Sun City 10,U.S. House,1,REP,Bill Young,13,0,1,0,0,0,12
+Beaufort,Failsafe,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Beaufort,Provisional,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Beaufort,Failsafe Provisional,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Beaufort,Sheldon 2,State House,122,DEM,Johnny Lee Jackson Jr,1,0,0,0,1,0,0
+Beaufort,Failsafe,State House,122,DEM,Johnny Lee Jackson Jr,0,0,0,0,0,0,0
+Beaufort,Provisional,State House,122,DEM,Johnny Lee Jackson Jr,0,0,0,0,0,0,0
+Beaufort,Failsafe Provisional,State House,122,DEM,Johnny Lee Jackson Jr,0,0,0,0,0,0,0
+Beaufort,Sheldon 2,State House,122,DEM,Audrey Hopkins Williams,0,0,0,0,0,0,0
+Beaufort,Failsafe,State House,122,DEM,Audrey Hopkins Williams,0,0,0,0,0,0,0
+Beaufort,Provisional,State House,122,DEM,Audrey Hopkins Williams,0,0,0,0,0,0,0
+Beaufort,Failsafe Provisional,State House,122,DEM,Audrey Hopkins Williams,0,0,0,0,0,0,0

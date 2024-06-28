@@ -1,0 +1,1251 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Dorchester,Givhans,U.S. House,1,DEM,Mac Deford,4,0,1,0,1,0,2
+Dorchester,Delemars,U.S. House,1,DEM,Mac Deford,13,0,1,0,3,0,9
+Dorchester,Coastal,U.S. House,1,DEM,Mac Deford,11,0,2,0,2,0,7
+Dorchester,Trolley,U.S. House,1,DEM,Mac Deford,7,0,0,0,2,0,5
+Dorchester,Tranquil,U.S. House,1,DEM,Mac Deford,11,0,1,0,3,0,7
+Dorchester,Beech Hill,U.S. House,1,DEM,Mac Deford,26,0,0,0,6,0,20
+Dorchester,Flowertown,U.S. House,1,DEM,Mac Deford,56,0,3,0,22,0,31
+Dorchester,Knightsville,U.S. House,1,DEM,Mac Deford,13,0,0,0,3,0,10
+Dorchester,Clemson,U.S. House,1,DEM,Mac Deford,36,0,1,0,20,0,15
+Dorchester,Germantown,U.S. House,1,DEM,Mac Deford,20,0,3,0,6,0,11
+Dorchester,Greenwave,U.S. House,1,DEM,Mac Deford,8,0,0,0,4,0,4
+Dorchester,Newington,U.S. House,1,DEM,Mac Deford,10,0,1,0,0,0,9
+Dorchester,Carolina,U.S. House,1,DEM,Mac Deford,16,0,0,0,5,0,11
+Dorchester,Dorchester,U.S. House,1,DEM,Mac Deford,23,0,2,0,11,0,10
+Dorchester,Stallsville,U.S. House,1,DEM,Mac Deford,5,0,0,0,0,0,5
+Dorchester,Spann,U.S. House,1,DEM,Mac Deford,16,0,0,0,10,0,6
+Dorchester,North Summerville,U.S. House,1,DEM,Mac Deford,6,0,0,0,0,0,6
+Dorchester,Tupperway,U.S. House,1,DEM,Mac Deford,5,0,0,0,1,0,4
+Dorchester,Irongate,U.S. House,1,DEM,Mac Deford,3,0,0,0,3,0,0
+Dorchester,Greenhurst,U.S. House,1,DEM,Mac Deford,13,0,1,0,6,0,6
+Dorchester,Ashborough East,U.S. House,1,DEM,Mac Deford,10,0,0,0,0,0,10
+Dorchester,Ashborough West,U.S. House,1,DEM,Mac Deford,2,0,0,0,1,0,1
+Dorchester,Windsor,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Dorchester,Bacons Bridge,U.S. House,1,DEM,Mac Deford,35,0,0,0,9,0,26
+Dorchester,Brandymill,U.S. House,1,DEM,Mac Deford,9,0,0,0,4,0,5
+Dorchester,Briarwood,U.S. House,1,DEM,Mac Deford,2,0,0,0,0,0,2
+Dorchester,Butternut,U.S. House,1,DEM,Mac Deford,28,0,2,0,8,0,18
+Dorchester,Central,U.S. House,1,DEM,Mac Deford,23,0,0,0,3,0,20
+Dorchester,Coosaw,U.S. House,1,DEM,Mac Deford,38,0,0,0,19,0,19
+Dorchester,Cypress,U.S. House,1,DEM,Mac Deford,21,0,0,0,9,0,12
+Dorchester,King's Grant,U.S. House,1,DEM,Mac Deford,24,0,0,0,16,0,8
+Dorchester,Lincoln,U.S. House,1,DEM,Mac Deford,3,0,0,0,2,0,1
+Dorchester,Miles/Jamison,U.S. House,1,DEM,Mac Deford,32,0,0,0,8,0,24
+Dorchester,Oakbrook,U.S. House,1,DEM,Mac Deford,31,0,0,0,9,0,22
+Dorchester,Sawmill Branch,U.S. House,1,DEM,Mac Deford,10,0,0,0,0,0,10
+Dorchester,Coastal 2,U.S. House,1,DEM,Mac Deford,24,0,2,0,12,0,10
+Dorchester,Coastal 3,U.S. House,1,DEM,Mac Deford,11,0,0,0,3,0,8
+Dorchester,Ashborough East 2,U.S. House,1,DEM,Mac Deford,10,0,0,0,4,0,6
+Dorchester,Ashborough West 2,U.S. House,1,DEM,Mac Deford,18,0,1,0,5,0,12
+Dorchester,Beech Hill 2,U.S. House,1,DEM,Mac Deford,9,0,0,0,4,0,5
+Dorchester,Brandymill 2,U.S. House,1,DEM,Mac Deford,15,0,0,0,4,0,11
+Dorchester,Briarwood 2,U.S. House,1,DEM,Mac Deford,12,0,0,0,1,0,11
+Dorchester,Briarwood 3,U.S. House,1,DEM,Mac Deford,5,0,0,0,2,0,3
+Dorchester,Central 2,U.S. House,1,DEM,Mac Deford,10,0,0,0,5,0,5
+Dorchester,Clemson 2,U.S. House,1,DEM,Mac Deford,31,0,0,0,12,0,19
+Dorchester,Clemson 3,U.S. House,1,DEM,Mac Deford,14,0,0,0,3,0,11
+Dorchester,Coosaw 2,U.S. House,1,DEM,Mac Deford,34,0,0,0,15,0,19
+Dorchester,Dorchester 2,U.S. House,1,DEM,Mac Deford,29,0,0,0,11,0,18
+Dorchester,Flowertown 2,U.S. House,1,DEM,Mac Deford,11,0,0,0,2,0,9
+Dorchester,Givhans 2,U.S. House,1,DEM,Mac Deford,10,0,0,0,6,0,4
+Dorchester,Irongate 2,U.S. House,1,DEM,Mac Deford,3,0,1,0,0,0,2
+Dorchester,Irongate 3,U.S. House,1,DEM,Mac Deford,8,0,0,0,5,0,3
+Dorchester,King's Grant 2,U.S. House,1,DEM,Mac Deford,34,0,2,0,15,0,17
+Dorchester,Newington 2,U.S. House,1,DEM,Mac Deford,8,0,0,0,5,0,3
+Dorchester,North Summerville 2,U.S. House,1,DEM,Mac Deford,33,0,0,0,9,0,24
+Dorchester,Tranquil 2,U.S. House,1,DEM,Mac Deford,17,0,0,0,3,0,14
+Dorchester,Tupperway 2,U.S. House,1,DEM,Mac Deford,8,0,0,0,2,0,6
+Dorchester,Tranquil 3,U.S. House,1,DEM,Mac Deford,12,0,0,0,3,0,9
+Dorchester,Bacons Bridge 2,U.S. House,1,DEM,Mac Deford,11,0,0,0,4,0,7
+Dorchester,Coosaw 3,U.S. House,1,DEM,Mac Deford,18,0,0,0,8,0,10
+Dorchester,Cypress 2,U.S. House,1,DEM,Mac Deford,17,0,0,0,9,0,8
+Dorchester,Flowertown 3,U.S. House,1,DEM,Mac Deford,17,0,0,0,6,0,11
+Dorchester,Oakbrook 2,U.S. House,1,DEM,Mac Deford,16,0,0,0,8,0,8
+Dorchester,Failsafe,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Dorchester,Provisional,U.S. House,1,DEM,Mac Deford,1,0,0,0,0,1,0
+Dorchester,Failsafe Provisional,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Dorchester,Givhans,U.S. House,1,DEM,Michael B Moore,13,0,1,0,1,0,11
+Dorchester,Delemars,U.S. House,1,DEM,Michael B Moore,12,0,0,0,3,0,9
+Dorchester,Coastal,U.S. House,1,DEM,Michael B Moore,24,0,0,0,4,0,20
+Dorchester,Trolley,U.S. House,1,DEM,Michael B Moore,21,0,1,0,5,0,15
+Dorchester,Tranquil,U.S. House,1,DEM,Michael B Moore,13,0,0,0,6,0,7
+Dorchester,Beech Hill,U.S. House,1,DEM,Michael B Moore,20,0,0,0,15,0,5
+Dorchester,Flowertown,U.S. House,1,DEM,Michael B Moore,52,0,4,0,17,0,31
+Dorchester,Knightsville,U.S. House,1,DEM,Michael B Moore,13,0,1,0,5,0,7
+Dorchester,Clemson,U.S. House,1,DEM,Michael B Moore,17,0,3,0,7,0,7
+Dorchester,Germantown,U.S. House,1,DEM,Michael B Moore,18,0,1,0,6,0,11
+Dorchester,Greenwave,U.S. House,1,DEM,Michael B Moore,28,0,0,0,13,0,15
+Dorchester,Newington,U.S. House,1,DEM,Michael B Moore,10,0,0,0,2,0,8
+Dorchester,Carolina,U.S. House,1,DEM,Michael B Moore,53,0,1,0,17,0,35
+Dorchester,Dorchester,U.S. House,1,DEM,Michael B Moore,17,0,1,0,7,0,9
+Dorchester,Stallsville,U.S. House,1,DEM,Michael B Moore,8,0,0,0,3,0,5
+Dorchester,Spann,U.S. House,1,DEM,Michael B Moore,11,0,0,0,4,0,7
+Dorchester,North Summerville,U.S. House,1,DEM,Michael B Moore,12,0,1,0,8,0,3
+Dorchester,Tupperway,U.S. House,1,DEM,Michael B Moore,12,0,1,0,0,0,11
+Dorchester,Irongate,U.S. House,1,DEM,Michael B Moore,5,0,2,0,3,0,0
+Dorchester,Greenhurst,U.S. House,1,DEM,Michael B Moore,21,0,0,0,9,0,12
+Dorchester,Ashborough East,U.S. House,1,DEM,Michael B Moore,19,0,0,0,5,0,14
+Dorchester,Ashborough West,U.S. House,1,DEM,Michael B Moore,5,0,2,0,1,0,2
+Dorchester,Windsor,U.S. House,1,DEM,Michael B Moore,4,0,0,0,2,0,2
+Dorchester,Bacons Bridge,U.S. House,1,DEM,Michael B Moore,25,0,0,0,10,0,15
+Dorchester,Brandymill,U.S. House,1,DEM,Michael B Moore,7,0,0,0,2,0,5
+Dorchester,Briarwood,U.S. House,1,DEM,Michael B Moore,12,0,1,0,4,0,7
+Dorchester,Butternut,U.S. House,1,DEM,Michael B Moore,29,0,1,0,11,0,17
+Dorchester,Central,U.S. House,1,DEM,Michael B Moore,9,0,1,0,1,0,7
+Dorchester,Coosaw,U.S. House,1,DEM,Michael B Moore,56,0,0,0,20,0,36
+Dorchester,Cypress,U.S. House,1,DEM,Michael B Moore,26,0,0,0,10,0,16
+Dorchester,King's Grant,U.S. House,1,DEM,Michael B Moore,68,0,2,0,27,0,39
+Dorchester,Lincoln,U.S. House,1,DEM,Michael B Moore,7,0,0,0,1,0,6
+Dorchester,Miles/Jamison,U.S. House,1,DEM,Michael B Moore,24,0,0,0,7,0,17
+Dorchester,Oakbrook,U.S. House,1,DEM,Michael B Moore,79,0,1,0,27,0,51
+Dorchester,Sawmill Branch,U.S. House,1,DEM,Michael B Moore,16,0,3,0,0,0,13
+Dorchester,Coastal 2,U.S. House,1,DEM,Michael B Moore,21,0,0,0,12,0,9
+Dorchester,Coastal 3,U.S. House,1,DEM,Michael B Moore,11,0,0,0,4,0,7
+Dorchester,Ashborough East 2,U.S. House,1,DEM,Michael B Moore,12,0,0,0,5,0,7
+Dorchester,Ashborough West 2,U.S. House,1,DEM,Michael B Moore,11,0,0,0,4,0,7
+Dorchester,Beech Hill 2,U.S. House,1,DEM,Michael B Moore,19,0,3,0,8,0,8
+Dorchester,Brandymill 2,U.S. House,1,DEM,Michael B Moore,17,0,0,0,7,0,10
+Dorchester,Briarwood 2,U.S. House,1,DEM,Michael B Moore,8,0,0,0,2,0,6
+Dorchester,Briarwood 3,U.S. House,1,DEM,Michael B Moore,3,0,0,0,1,0,2
+Dorchester,Central 2,U.S. House,1,DEM,Michael B Moore,18,0,2,0,3,0,13
+Dorchester,Clemson 2,U.S. House,1,DEM,Michael B Moore,31,0,0,0,10,0,21
+Dorchester,Clemson 3,U.S. House,1,DEM,Michael B Moore,24,0,1,0,7,0,16
+Dorchester,Coosaw 2,U.S. House,1,DEM,Michael B Moore,57,0,1,0,25,0,31
+Dorchester,Dorchester 2,U.S. House,1,DEM,Michael B Moore,8,0,0,0,4,0,4
+Dorchester,Flowertown 2,U.S. House,1,DEM,Michael B Moore,20,0,0,0,5,0,15
+Dorchester,Givhans 2,U.S. House,1,DEM,Michael B Moore,23,0,0,0,5,0,18
+Dorchester,Irongate 2,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Dorchester,Irongate 3,U.S. House,1,DEM,Michael B Moore,5,0,0,0,1,0,4
+Dorchester,King's Grant 2,U.S. House,1,DEM,Michael B Moore,76,0,0,0,26,0,50
+Dorchester,Newington 2,U.S. House,1,DEM,Michael B Moore,2,0,0,0,1,0,1
+Dorchester,North Summerville 2,U.S. House,1,DEM,Michael B Moore,43,0,0,0,8,0,35
+Dorchester,Tranquil 2,U.S. House,1,DEM,Michael B Moore,28,0,0,0,4,0,24
+Dorchester,Tupperway 2,U.S. House,1,DEM,Michael B Moore,12,0,0,0,4,0,8
+Dorchester,Tranquil 3,U.S. House,1,DEM,Michael B Moore,14,0,0,0,7,0,7
+Dorchester,Bacons Bridge 2,U.S. House,1,DEM,Michael B Moore,14,0,0,0,8,0,6
+Dorchester,Coosaw 3,U.S. House,1,DEM,Michael B Moore,20,0,0,0,8,0,12
+Dorchester,Cypress 2,U.S. House,1,DEM,Michael B Moore,13,0,0,0,5,0,8
+Dorchester,Flowertown 3,U.S. House,1,DEM,Michael B Moore,11,0,0,0,1,0,10
+Dorchester,Oakbrook 2,U.S. House,1,DEM,Michael B Moore,17,0,0,0,8,0,9
+Dorchester,Failsafe,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Dorchester,Provisional,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Dorchester,Rosinville,U.S. House,6,REP,Duke Buckner,62,0,3,0,11,0,48
+Dorchester,St. George No. 2,U.S. House,6,REP,Duke Buckner,45,0,0,0,12,0,33
+Dorchester,St. George No. 1,U.S. House,6,REP,Duke Buckner,60,0,5,0,14,0,41
+Dorchester,Grover,U.S. House,6,REP,Duke Buckner,34,0,0,0,7,0,27
+Dorchester,Reevesville,U.S. House,6,REP,Duke Buckner,43,0,0,0,6,0,37
+Dorchester,Harleyville,U.S. House,6,REP,Duke Buckner,44,0,0,0,10,0,34
+Dorchester,Four Hole,U.S. House,6,REP,Duke Buckner,51,0,0,0,9,0,42
+Dorchester,Rosses,U.S. House,6,REP,Duke Buckner,87,0,3,0,9,0,75
+Dorchester,Ridgeville,U.S. House,6,REP,Duke Buckner,91,0,0,0,15,0,76
+Dorchester,Givhans,U.S. House,6,REP,Duke Buckner,8,0,0,0,1,0,7
+Dorchester,Delemars,U.S. House,6,REP,Duke Buckner,22,0,3,0,3,0,16
+Dorchester,Saul Dam,U.S. House,6,REP,Duke Buckner,62,0,0,0,9,0,53
+Dorchester,Archdale,U.S. House,6,REP,Duke Buckner,55,0,2,0,21,0,32
+Dorchester,Indian Field,U.S. House,6,REP,Duke Buckner,17,0,0,0,3,0,14
+Dorchester,Ashley River,U.S. House,6,REP,Duke Buckner,65,0,0,0,27,0,38
+Dorchester,Windsor,U.S. House,6,REP,Duke Buckner,20,0,1,0,4,0,15
+Dorchester,Cypress,U.S. House,6,REP,Duke Buckner,4,0,0,0,0,0,4
+Dorchester,Lincoln,U.S. House,6,REP,Duke Buckner,2,0,0,0,1,0,1
+Dorchester,Patriot,U.S. House,6,REP,Duke Buckner,12,0,0,0,1,0,11
+Dorchester,Archdale 2,U.S. House,6,REP,Duke Buckner,74,0,0,0,28,0,46
+Dorchester,Beech Hill 2,U.S. House,6,REP,Duke Buckner,34,0,0,0,12,0,22
+Dorchester,Givhans 2,U.S. House,6,REP,Duke Buckner,4,0,0,0,0,0,4
+Dorchester,Indian Field 2,U.S. House,6,REP,Duke Buckner,35,0,0,0,7,0,28
+Dorchester,Ridgeville 2,U.S. House,6,REP,Duke Buckner,41,0,0,0,8,0,33
+Dorchester,Windsor 2,U.S. House,6,REP,Duke Buckner,6,0,0,0,1,0,5
+Dorchester,Failsafe,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Dorchester,Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Dorchester,Rosinville,U.S. House,6,REP,Justin Scott,36,0,0,0,9,0,27
+Dorchester,St. George No. 2,U.S. House,6,REP,Justin Scott,38,0,0,0,13,0,25
+Dorchester,St. George No. 1,U.S. House,6,REP,Justin Scott,44,0,0,0,10,0,34
+Dorchester,Grover,U.S. House,6,REP,Justin Scott,43,0,2,0,8,0,33
+Dorchester,Reevesville,U.S. House,6,REP,Justin Scott,50,0,0,0,10,0,40
+Dorchester,Harleyville,U.S. House,6,REP,Justin Scott,28,0,0,0,3,0,25
+Dorchester,Four Hole,U.S. House,6,REP,Justin Scott,53,0,0,0,6,0,47
+Dorchester,Rosses,U.S. House,6,REP,Justin Scott,40,0,0,0,4,0,36
+Dorchester,Ridgeville,U.S. House,6,REP,Justin Scott,63,0,0,0,12,0,51
+Dorchester,Givhans,U.S. House,6,REP,Justin Scott,6,0,0,0,1,0,5
+Dorchester,Delemars,U.S. House,6,REP,Justin Scott,25,0,0,0,8,0,17
+Dorchester,Saul Dam,U.S. House,6,REP,Justin Scott,43,0,1,0,19,0,23
+Dorchester,Archdale,U.S. House,6,REP,Justin Scott,10,0,1,0,5,0,4
+Dorchester,Indian Field,U.S. House,6,REP,Justin Scott,18,0,0,0,6,0,12
+Dorchester,Ashley River,U.S. House,6,REP,Justin Scott,73,0,0,0,15,0,58
+Dorchester,Windsor,U.S. House,6,REP,Justin Scott,18,0,0,0,4,0,14
+Dorchester,Cypress,U.S. House,6,REP,Justin Scott,3,0,0,0,1,0,2
+Dorchester,Lincoln,U.S. House,6,REP,Justin Scott,4,0,0,0,1,0,3
+Dorchester,Patriot,U.S. House,6,REP,Justin Scott,16,0,0,0,9,0,7
+Dorchester,Archdale 2,U.S. House,6,REP,Justin Scott,48,0,0,0,29,0,19
+Dorchester,Beech Hill 2,U.S. House,6,REP,Justin Scott,25,0,3,0,5,0,17
+Dorchester,Givhans 2,U.S. House,6,REP,Justin Scott,5,0,0,0,2,0,3
+Dorchester,Indian Field 2,U.S. House,6,REP,Justin Scott,39,0,0,0,14,0,25
+Dorchester,Ridgeville 2,U.S. House,6,REP,Justin Scott,27,0,2,0,3,0,22
+Dorchester,Windsor 2,U.S. House,6,REP,Justin Scott,4,0,1,0,0,0,3
+Dorchester,Failsafe,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Dorchester,Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Dorchester,Givhans,U.S. House,1,REP,Nancy Mace,77,0,1,0,16,0,60
+Dorchester,Delemars,U.S. House,1,REP,Nancy Mace,71,0,6,0,25,0,40
+Dorchester,Coastal,U.S. House,1,REP,Nancy Mace,19,0,2,0,6,0,11
+Dorchester,Trolley,U.S. House,1,REP,Nancy Mace,29,0,0,0,8,0,21
+Dorchester,Tranquil,U.S. House,1,REP,Nancy Mace,45,0,0,0,17,0,28
+Dorchester,Beech Hill,U.S. House,1,REP,Nancy Mace,122,0,2,0,37,0,83
+Dorchester,Flowertown,U.S. House,1,REP,Nancy Mace,319,0,10,0,141,0,168
+Dorchester,Knightsville,U.S. House,1,REP,Nancy Mace,99,0,1,0,23,0,75
+Dorchester,Clemson,U.S. House,1,REP,Nancy Mace,176,0,4,0,73,0,99
+Dorchester,Germantown,U.S. House,1,REP,Nancy Mace,107,0,5,0,38,0,64
+Dorchester,Greenwave,U.S. House,1,REP,Nancy Mace,28,0,0,0,8,0,20
+Dorchester,Newington,U.S. House,1,REP,Nancy Mace,114,0,1,0,19,0,94
+Dorchester,Carolina,U.S. House,1,REP,Nancy Mace,77,0,4,0,18,0,55
+Dorchester,Dorchester,U.S. House,1,REP,Nancy Mace,85,0,2,0,33,0,50
+Dorchester,Stallsville,U.S. House,1,REP,Nancy Mace,88,0,2,0,23,0,63
+Dorchester,Spann,U.S. House,1,REP,Nancy Mace,119,0,3,0,51,0,65
+Dorchester,North Summerville,U.S. House,1,REP,Nancy Mace,32,0,0,0,22,0,10
+Dorchester,Tupperway,U.S. House,1,REP,Nancy Mace,51,0,1,0,19,0,31
+Dorchester,Irongate,U.S. House,1,REP,Nancy Mace,46,0,0,0,15,0,31
+Dorchester,Greenhurst,U.S. House,1,REP,Nancy Mace,48,0,2,0,22,0,24
+Dorchester,Ashborough East,U.S. House,1,REP,Nancy Mace,19,0,0,0,7,0,12
+Dorchester,Ashborough West,U.S. House,1,REP,Nancy Mace,47,0,0,0,16,0,31
+Dorchester,Windsor,U.S. House,1,REP,Nancy Mace,1,0,0,0,0,0,1
+Dorchester,Bacons Bridge,U.S. House,1,REP,Nancy Mace,138,0,6,0,53,0,79
+Dorchester,Brandymill,U.S. House,1,REP,Nancy Mace,39,0,0,0,11,0,28
+Dorchester,Briarwood,U.S. House,1,REP,Nancy Mace,60,0,0,0,21,0,39
+Dorchester,Butternut,U.S. House,1,REP,Nancy Mace,150,0,0,0,53,0,97
+Dorchester,Central,U.S. House,1,REP,Nancy Mace,107,0,7,0,16,0,84
+Dorchester,Coosaw,U.S. House,1,REP,Nancy Mace,144,0,3,0,80,0,61
+Dorchester,Cypress,U.S. House,1,REP,Nancy Mace,121,0,1,0,40,0,80
+Dorchester,King's Grant,U.S. House,1,REP,Nancy Mace,121,0,3,0,29,0,89
+Dorchester,Lincoln,U.S. House,1,REP,Nancy Mace,30,0,0,0,26,0,4
+Dorchester,Miles/Jamison,U.S. House,1,REP,Nancy Mace,93,0,4,0,31,0,58
+Dorchester,Oakbrook,U.S. House,1,REP,Nancy Mace,107,0,2,0,36,0,69
+Dorchester,Sawmill Branch,U.S. House,1,REP,Nancy Mace,123,0,5,0,45,0,73
+Dorchester,Coastal 2,U.S. House,1,REP,Nancy Mace,67,0,0,0,18,0,49
+Dorchester,Coastal 3,U.S. House,1,REP,Nancy Mace,32,0,0,0,6,0,26
+Dorchester,Ashborough East 2,U.S. House,1,REP,Nancy Mace,80,0,0,0,20,0,60
+Dorchester,Ashborough West 2,U.S. House,1,REP,Nancy Mace,78,0,1,0,24,0,53
+Dorchester,Beech Hill 2,U.S. House,1,REP,Nancy Mace,105,0,5,0,49,0,51
+Dorchester,Brandymill 2,U.S. House,1,REP,Nancy Mace,60,0,1,0,12,0,47
+Dorchester,Briarwood 2,U.S. House,1,REP,Nancy Mace,44,0,1,0,16,0,27
+Dorchester,Briarwood 3,U.S. House,1,REP,Nancy Mace,45,0,0,0,21,0,24
+Dorchester,Central 2,U.S. House,1,REP,Nancy Mace,77,0,0,0,16,0,61
+Dorchester,Clemson 2,U.S. House,1,REP,Nancy Mace,88,0,0,0,31,0,57
+Dorchester,Clemson 3,U.S. House,1,REP,Nancy Mace,60,0,5,0,23,0,32
+Dorchester,Coosaw 2,U.S. House,1,REP,Nancy Mace,65,0,2,0,35,0,28
+Dorchester,Dorchester 2,U.S. House,1,REP,Nancy Mace,154,0,1,0,71,0,82
+Dorchester,Flowertown 2,U.S. House,1,REP,Nancy Mace,69,0,4,0,21,0,44
+Dorchester,Givhans 2,U.S. House,1,REP,Nancy Mace,91,0,2,0,24,0,65
+Dorchester,Irongate 2,U.S. House,1,REP,Nancy Mace,22,0,0,0,10,0,12
+Dorchester,Irongate 3,U.S. House,1,REP,Nancy Mace,52,0,0,0,19,0,33
+Dorchester,King's Grant 2,U.S. House,1,REP,Nancy Mace,156,0,2,0,72,0,82
+Dorchester,Newington 2,U.S. House,1,REP,Nancy Mace,53,0,1,0,25,0,27
+Dorchester,North Summerville 2,U.S. House,1,REP,Nancy Mace,37,0,2,0,11,0,24
+Dorchester,Tranquil 2,U.S. House,1,REP,Nancy Mace,39,0,0,0,6,0,33
+Dorchester,Tupperway 2,U.S. House,1,REP,Nancy Mace,35,0,0,0,13,0,22
+Dorchester,Tranquil 3,U.S. House,1,REP,Nancy Mace,18,0,0,0,5,0,13
+Dorchester,Bacons Bridge 2,U.S. House,1,REP,Nancy Mace,49,0,5,0,12,0,32
+Dorchester,Coosaw 3,U.S. House,1,REP,Nancy Mace,85,0,1,0,41,0,43
+Dorchester,Cypress 2,U.S. House,1,REP,Nancy Mace,60,0,2,0,18,0,40
+Dorchester,Flowertown 3,U.S. House,1,REP,Nancy Mace,58,0,0,0,23,0,35
+Dorchester,Oakbrook 2,U.S. House,1,REP,Nancy Mace,38,0,2,0,16,0,20
+Dorchester,Failsafe,U.S. House,1,REP,Nancy Mace,0,0,0,0,0,0,0
+Dorchester,Provisional,U.S. House,1,REP,Nancy Mace,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,U.S. House,1,REP,Nancy Mace,0,0,0,0,0,0,0
+Dorchester,Givhans,U.S. House,1,REP,Catherine Templeton,28,0,0,0,1,0,27
+Dorchester,Delemars,U.S. House,1,REP,Catherine Templeton,26,0,2,0,5,0,19
+Dorchester,Coastal,U.S. House,1,REP,Catherine Templeton,9,0,0,0,6,0,3
+Dorchester,Trolley,U.S. House,1,REP,Catherine Templeton,20,0,1,0,4,0,15
+Dorchester,Tranquil,U.S. House,1,REP,Catherine Templeton,19,0,2,0,9,0,8
+Dorchester,Beech Hill,U.S. House,1,REP,Catherine Templeton,66,0,1,0,22,0,43
+Dorchester,Flowertown,U.S. House,1,REP,Catherine Templeton,133,0,7,0,61,0,65
+Dorchester,Knightsville,U.S. House,1,REP,Catherine Templeton,28,0,0,0,6,0,22
+Dorchester,Clemson,U.S. House,1,REP,Catherine Templeton,66,0,0,0,24,0,42
+Dorchester,Germantown,U.S. House,1,REP,Catherine Templeton,36,0,0,0,16,0,20
+Dorchester,Greenwave,U.S. House,1,REP,Catherine Templeton,24,0,2,0,5,0,17
+Dorchester,Newington,U.S. House,1,REP,Catherine Templeton,47,0,0,0,11,0,36
+Dorchester,Carolina,U.S. House,1,REP,Catherine Templeton,31,0,2,0,8,0,21
+Dorchester,Dorchester,U.S. House,1,REP,Catherine Templeton,35,0,1,0,21,0,13
+Dorchester,Stallsville,U.S. House,1,REP,Catherine Templeton,30,0,0,0,3,0,27
+Dorchester,Spann,U.S. House,1,REP,Catherine Templeton,44,0,1,0,26,0,17
+Dorchester,North Summerville,U.S. House,1,REP,Catherine Templeton,11,0,0,0,8,0,3
+Dorchester,Tupperway,U.S. House,1,REP,Catherine Templeton,22,0,0,0,5,0,17
+Dorchester,Irongate,U.S. House,1,REP,Catherine Templeton,17,0,0,0,8,0,9
+Dorchester,Greenhurst,U.S. House,1,REP,Catherine Templeton,24,0,1,0,6,0,17
+Dorchester,Ashborough East,U.S. House,1,REP,Catherine Templeton,20,0,0,0,4,0,16
+Dorchester,Ashborough West,U.S. House,1,REP,Catherine Templeton,14,0,0,0,2,0,12
+Dorchester,Windsor,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Dorchester,Bacons Bridge,U.S. House,1,REP,Catherine Templeton,71,0,1,0,38,0,32
+Dorchester,Brandymill,U.S. House,1,REP,Catherine Templeton,17,0,1,0,3,0,13
+Dorchester,Briarwood,U.S. House,1,REP,Catherine Templeton,14,0,0,0,5,0,9
+Dorchester,Butternut,U.S. House,1,REP,Catherine Templeton,71,0,2,0,23,0,46
+Dorchester,Central,U.S. House,1,REP,Catherine Templeton,40,0,2,0,14,0,24
+Dorchester,Coosaw,U.S. House,1,REP,Catherine Templeton,85,0,0,0,46,0,39
+Dorchester,Cypress,U.S. House,1,REP,Catherine Templeton,34,0,0,0,9,0,25
+Dorchester,King's Grant,U.S. House,1,REP,Catherine Templeton,47,0,1,0,20,0,26
+Dorchester,Lincoln,U.S. House,1,REP,Catherine Templeton,15,0,3,0,10,0,2
+Dorchester,Miles/Jamison,U.S. House,1,REP,Catherine Templeton,40,0,1,0,20,0,19
+Dorchester,Oakbrook,U.S. House,1,REP,Catherine Templeton,26,0,0,0,10,0,16
+Dorchester,Sawmill Branch,U.S. House,1,REP,Catherine Templeton,46,0,5,0,14,0,27
+Dorchester,Coastal 2,U.S. House,1,REP,Catherine Templeton,26,0,0,0,13,0,13
+Dorchester,Coastal 3,U.S. House,1,REP,Catherine Templeton,11,0,0,0,4,0,7
+Dorchester,Ashborough East 2,U.S. House,1,REP,Catherine Templeton,41,0,2,0,6,0,33
+Dorchester,Ashborough West 2,U.S. House,1,REP,Catherine Templeton,44,0,0,0,15,0,29
+Dorchester,Beech Hill 2,U.S. House,1,REP,Catherine Templeton,40,0,1,0,15,0,24
+Dorchester,Brandymill 2,U.S. House,1,REP,Catherine Templeton,20,0,0,0,2,0,18
+Dorchester,Briarwood 2,U.S. House,1,REP,Catherine Templeton,19,0,3,0,6,0,10
+Dorchester,Briarwood 3,U.S. House,1,REP,Catherine Templeton,25,0,0,0,13,0,12
+Dorchester,Central 2,U.S. House,1,REP,Catherine Templeton,30,0,0,0,9,0,21
+Dorchester,Clemson 2,U.S. House,1,REP,Catherine Templeton,36,0,0,0,9,0,27
+Dorchester,Clemson 3,U.S. House,1,REP,Catherine Templeton,23,0,1,0,5,0,17
+Dorchester,Coosaw 2,U.S. House,1,REP,Catherine Templeton,43,0,1,0,23,0,19
+Dorchester,Dorchester 2,U.S. House,1,REP,Catherine Templeton,58,0,0,0,32,0,26
+Dorchester,Flowertown 2,U.S. House,1,REP,Catherine Templeton,29,0,0,0,13,0,16
+Dorchester,Givhans 2,U.S. House,1,REP,Catherine Templeton,42,0,4,0,13,0,25
+Dorchester,Irongate 2,U.S. House,1,REP,Catherine Templeton,4,0,0,0,4,0,0
+Dorchester,Irongate 3,U.S. House,1,REP,Catherine Templeton,26,0,0,0,11,0,15
+Dorchester,King's Grant 2,U.S. House,1,REP,Catherine Templeton,74,0,1,0,31,0,42
+Dorchester,Newington 2,U.S. House,1,REP,Catherine Templeton,14,0,1,0,7,0,6
+Dorchester,North Summerville 2,U.S. House,1,REP,Catherine Templeton,25,0,2,0,13,0,10
+Dorchester,Tranquil 2,U.S. House,1,REP,Catherine Templeton,11,0,0,0,1,0,10
+Dorchester,Tupperway 2,U.S. House,1,REP,Catherine Templeton,12,0,0,0,6,0,6
+Dorchester,Tranquil 3,U.S. House,1,REP,Catherine Templeton,6,0,0,0,1,0,5
+Dorchester,Bacons Bridge 2,U.S. House,1,REP,Catherine Templeton,25,0,0,0,7,0,18
+Dorchester,Coosaw 3,U.S. House,1,REP,Catherine Templeton,32,0,2,0,12,0,18
+Dorchester,Cypress 2,U.S. House,1,REP,Catherine Templeton,13,0,0,0,4,0,9
+Dorchester,Flowertown 3,U.S. House,1,REP,Catherine Templeton,21,0,0,0,7,0,14
+Dorchester,Oakbrook 2,U.S. House,1,REP,Catherine Templeton,26,0,0,0,15,0,11
+Dorchester,Failsafe,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Dorchester,Provisional,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Dorchester,Givhans,U.S. House,1,REP,Bill Young,29,0,1,0,6,0,22
+Dorchester,Delemars,U.S. House,1,REP,Bill Young,13,0,0,0,5,0,8
+Dorchester,Coastal,U.S. House,1,REP,Bill Young,7,0,0,0,3,0,4
+Dorchester,Trolley,U.S. House,1,REP,Bill Young,13,0,1,0,2,0,10
+Dorchester,Tranquil,U.S. House,1,REP,Bill Young,12,0,0,0,5,0,7
+Dorchester,Beech Hill,U.S. House,1,REP,Bill Young,29,0,1,0,11,0,17
+Dorchester,Flowertown,U.S. House,1,REP,Bill Young,58,0,2,0,29,0,27
+Dorchester,Knightsville,U.S. House,1,REP,Bill Young,25,0,0,0,6,0,19
+Dorchester,Clemson,U.S. House,1,REP,Bill Young,36,0,0,0,13,0,23
+Dorchester,Germantown,U.S. House,1,REP,Bill Young,27,0,0,0,16,0,11
+Dorchester,Greenwave,U.S. House,1,REP,Bill Young,14,0,0,0,2,0,12
+Dorchester,Newington,U.S. House,1,REP,Bill Young,31,0,1,0,11,0,19
+Dorchester,Carolina,U.S. House,1,REP,Bill Young,34,0,1,0,11,0,22
+Dorchester,Dorchester,U.S. House,1,REP,Bill Young,21,0,0,0,9,0,12
+Dorchester,Stallsville,U.S. House,1,REP,Bill Young,10,0,0,0,1,0,9
+Dorchester,Spann,U.S. House,1,REP,Bill Young,30,0,2,0,9,0,19
+Dorchester,North Summerville,U.S. House,1,REP,Bill Young,8,0,0,0,5,0,3
+Dorchester,Tupperway,U.S. House,1,REP,Bill Young,16,0,2,0,7,0,7
+Dorchester,Irongate,U.S. House,1,REP,Bill Young,18,0,0,0,10,0,8
+Dorchester,Greenhurst,U.S. House,1,REP,Bill Young,10,0,1,0,4,0,5
+Dorchester,Ashborough East,U.S. House,1,REP,Bill Young,10,0,0,0,4,0,6
+Dorchester,Ashborough West,U.S. House,1,REP,Bill Young,16,0,0,0,4,0,12
+Dorchester,Windsor,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Dorchester,Bacons Bridge,U.S. House,1,REP,Bill Young,30,0,1,0,9,0,20
+Dorchester,Brandymill,U.S. House,1,REP,Bill Young,10,0,0,0,2,0,8
+Dorchester,Briarwood,U.S. House,1,REP,Bill Young,23,0,3,0,4,0,16
+Dorchester,Butternut,U.S. House,1,REP,Bill Young,36,0,2,0,11,0,23
+Dorchester,Central,U.S. House,1,REP,Bill Young,19,0,0,0,1,0,18
+Dorchester,Coosaw,U.S. House,1,REP,Bill Young,41,0,0,0,19,0,22
+Dorchester,Cypress,U.S. House,1,REP,Bill Young,27,0,0,0,3,0,24
+Dorchester,King's Grant,U.S. House,1,REP,Bill Young,24,0,0,0,6,0,18
+Dorchester,Lincoln,U.S. House,1,REP,Bill Young,9,0,0,0,7,0,2
+Dorchester,Miles/Jamison,U.S. House,1,REP,Bill Young,28,0,0,0,5,0,23
+Dorchester,Oakbrook,U.S. House,1,REP,Bill Young,27,0,1,0,10,0,16
+Dorchester,Sawmill Branch,U.S. House,1,REP,Bill Young,27,0,1,0,6,0,20
+Dorchester,Coastal 2,U.S. House,1,REP,Bill Young,17,0,0,0,8,0,9
+Dorchester,Coastal 3,U.S. House,1,REP,Bill Young,4,0,0,0,1,0,3
+Dorchester,Ashborough East 2,U.S. House,1,REP,Bill Young,35,0,1,0,7,0,27
+Dorchester,Ashborough West 2,U.S. House,1,REP,Bill Young,36,0,0,0,8,0,28
+Dorchester,Beech Hill 2,U.S. House,1,REP,Bill Young,21,0,0,0,9,0,12
+Dorchester,Brandymill 2,U.S. House,1,REP,Bill Young,20,0,0,0,3,0,17
+Dorchester,Briarwood 2,U.S. House,1,REP,Bill Young,21,0,2,0,6,0,13
+Dorchester,Briarwood 3,U.S. House,1,REP,Bill Young,15,0,0,0,6,0,9
+Dorchester,Central 2,U.S. House,1,REP,Bill Young,22,0,0,0,2,0,20
+Dorchester,Clemson 2,U.S. House,1,REP,Bill Young,26,0,1,0,6,0,19
+Dorchester,Clemson 3,U.S. House,1,REP,Bill Young,14,0,0,0,7,0,7
+Dorchester,Coosaw 2,U.S. House,1,REP,Bill Young,18,0,0,0,9,0,9
+Dorchester,Dorchester 2,U.S. House,1,REP,Bill Young,31,0,0,0,10,0,21
+Dorchester,Flowertown 2,U.S. House,1,REP,Bill Young,21,0,0,0,5,0,16
+Dorchester,Givhans 2,U.S. House,1,REP,Bill Young,17,0,0,0,8,0,9
+Dorchester,Irongate 2,U.S. House,1,REP,Bill Young,4,0,0,0,1,0,3
+Dorchester,Irongate 3,U.S. House,1,REP,Bill Young,10,0,0,0,5,0,5
+Dorchester,King's Grant 2,U.S. House,1,REP,Bill Young,38,0,0,0,17,0,21
+Dorchester,Newington 2,U.S. House,1,REP,Bill Young,20,0,0,0,9,0,11
+Dorchester,North Summerville 2,U.S. House,1,REP,Bill Young,12,0,1,0,4,0,7
+Dorchester,Tranquil 2,U.S. House,1,REP,Bill Young,9,0,0,0,1,0,8
+Dorchester,Tupperway 2,U.S. House,1,REP,Bill Young,13,0,0,0,7,0,6
+Dorchester,Tranquil 3,U.S. House,1,REP,Bill Young,5,0,1,0,0,0,4
+Dorchester,Bacons Bridge 2,U.S. House,1,REP,Bill Young,13,0,0,0,6,0,7
+Dorchester,Coosaw 3,U.S. House,1,REP,Bill Young,24,0,1,0,12,0,11
+Dorchester,Cypress 2,U.S. House,1,REP,Bill Young,24,0,0,0,5,0,19
+Dorchester,Flowertown 3,U.S. House,1,REP,Bill Young,27,0,0,0,2,0,25
+Dorchester,Oakbrook 2,U.S. House,1,REP,Bill Young,23,0,2,0,8,0,13
+Dorchester,Failsafe,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Dorchester,Provisional,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Dorchester,Archdale,State Senate,42,DEM,Kim Greene,9,0,0,0,4,0,5
+Dorchester,Windsor,State Senate,42,DEM,Kim Greene,10,0,0,0,1,0,9
+Dorchester,Patriot,State Senate,42,DEM,Kim Greene,6,0,0,0,1,0,5
+Dorchester,Windsor 2,State Senate,42,DEM,Kim Greene,6,0,0,0,2,0,4
+Dorchester,Failsafe,State Senate,42,DEM,Kim Greene,0,0,0,0,0,0,0
+Dorchester,Provisional,State Senate,42,DEM,Kim Greene,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State Senate,42,DEM,Kim Greene,0,0,0,0,0,0,0
+Dorchester,Archdale,State Senate,42,DEM,Deon Tedder,46,0,4,0,22,0,20
+Dorchester,Windsor,State Senate,42,DEM,Deon Tedder,50,0,0,0,16,0,34
+Dorchester,Patriot,State Senate,42,DEM,Deon Tedder,67,0,0,0,30,0,37
+Dorchester,Windsor 2,State Senate,42,DEM,Deon Tedder,48,0,0,0,11,0,37
+Dorchester,Failsafe,State Senate,42,DEM,Deon Tedder,0,0,0,0,0,0,0
+Dorchester,Provisional,State Senate,42,DEM,Deon Tedder,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State Senate,42,DEM,Deon Tedder,0,0,0,0,0,0,0
+Dorchester,Ridgeville,State Senate,41,REP,Matt Leber,90,0,0,0,15,0,75
+Dorchester,Givhans,State Senate,41,REP,Matt Leber,80,0,1,0,18,0,61
+Dorchester,Delemars,State Senate,41,REP,Matt Leber,85,0,3,0,25,0,57
+Dorchester,Saul Dam,State Senate,41,REP,Matt Leber,50,0,0,0,11,0,39
+Dorchester,Ashley River,State Senate,41,REP,Matt Leber,64,0,0,0,22,0,42
+Dorchester,Coosaw,State Senate,41,REP,Matt Leber,112,0,3,0,53,0,56
+Dorchester,King's Grant,State Senate,41,REP,Matt Leber,84,0,1,0,23,0,60
+Dorchester,Lincoln,State Senate,41,REP,Matt Leber,31,0,2,0,23,0,6
+Dorchester,Oakbrook,State Senate,41,REP,Matt Leber,92,0,3,0,35,0,54
+Dorchester,Archdale 2,State Senate,41,REP,Matt Leber,56,0,0,0,24,0,32
+Dorchester,Coosaw 2,State Senate,41,REP,Matt Leber,61,0,1,0,32,0,28
+Dorchester,Givhans 2,State Senate,41,REP,Matt Leber,83,0,1,0,24,0,58
+Dorchester,King's Grant 2,State Senate,41,REP,Matt Leber,124,0,0,0,56,0,68
+Dorchester,Ridgeville 2,State Senate,41,REP,Matt Leber,39,0,2,0,5,0,32
+Dorchester,Tranquil 2,State Senate,41,REP,Matt Leber,39,0,0,0,5,0,34
+Dorchester,Coosaw 3,State Senate,41,REP,Matt Leber,73,0,2,0,33,0,38
+Dorchester,Oakbrook 2,State Senate,41,REP,Matt Leber,49,0,1,0,28,0,20
+Dorchester,Failsafe,State Senate,41,REP,Matt Leber,0,0,0,0,0,0,0
+Dorchester,Provisional,State Senate,41,REP,Matt Leber,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State Senate,41,REP,Matt Leber,0,0,0,0,0,0,0
+Dorchester,Ridgeville,State Senate,41,REP,Sandy Senn,70,0,0,0,13,0,57
+Dorchester,Givhans,State Senate,41,REP,Sandy Senn,67,0,1,0,6,0,60
+Dorchester,Delemars,State Senate,41,REP,Sandy Senn,69,0,8,0,18,0,43
+Dorchester,Saul Dam,State Senate,41,REP,Sandy Senn,59,0,1,0,18,0,40
+Dorchester,Ashley River,State Senate,41,REP,Sandy Senn,80,0,0,0,23,0,57
+Dorchester,Coosaw,State Senate,41,REP,Sandy Senn,159,0,0,0,94,0,65
+Dorchester,King's Grant,State Senate,41,REP,Sandy Senn,106,0,3,0,32,0,71
+Dorchester,Lincoln,State Senate,41,REP,Sandy Senn,32,0,1,0,25,0,6
+Dorchester,Oakbrook,State Senate,41,REP,Sandy Senn,65,0,0,0,19,0,46
+Dorchester,Archdale 2,State Senate,41,REP,Sandy Senn,73,0,0,0,36,0,37
+Dorchester,Coosaw 2,State Senate,41,REP,Sandy Senn,64,0,2,0,32,0,30
+Dorchester,Givhans 2,State Senate,41,REP,Sandy Senn,68,0,5,0,19,0,44
+Dorchester,King's Grant 2,State Senate,41,REP,Sandy Senn,137,0,3,0,63,0,71
+Dorchester,Ridgeville 2,State Senate,41,REP,Sandy Senn,30,0,0,0,7,0,23
+Dorchester,Tranquil 2,State Senate,41,REP,Sandy Senn,22,0,0,0,3,0,19
+Dorchester,Coosaw 3,State Senate,41,REP,Sandy Senn,64,0,2,0,31,0,31
+Dorchester,Oakbrook 2,State Senate,41,REP,Sandy Senn,40,0,3,0,12,0,25
+Dorchester,Failsafe,State Senate,41,REP,Sandy Senn,0,0,0,0,0,0,0
+Dorchester,Provisional,State Senate,41,REP,Sandy Senn,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State Senate,41,REP,Sandy Senn,0,0,0,0,0,0,0
+Dorchester,Harleyville,State House,102,DEM,Collin Holloway,2,0,0,0,1,0,1
+Dorchester,Four Hole,State House,102,DEM,Collin Holloway,6,0,0,0,0,0,6
+Dorchester,Ridgeville,State House,102,DEM,Collin Holloway,8,0,0,0,0,0,8
+Dorchester,Carolina,State House,102,DEM,Collin Holloway,5,0,0,0,3,0,2
+Dorchester,Cypress,State House,102,DEM,Collin Holloway,2,0,0,0,1,0,1
+Dorchester,Clemson 3,State House,102,DEM,Collin Holloway,5,0,0,0,2,0,3
+Dorchester,North Summerville 2,State House,102,DEM,Collin Holloway,21,0,0,0,3,0,18
+Dorchester,Ridgeville 2,State House,102,DEM,Collin Holloway,6,0,0,0,0,0,6
+Dorchester,Failsafe,State House,102,DEM,Collin Holloway,0,0,0,0,0,0,0
+Dorchester,Provisional,State House,102,DEM,Collin Holloway,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State House,102,DEM,Collin Holloway,0,0,0,0,0,0,0
+Dorchester,Harleyville,State House,102,DEM,Joe Jefferson,19,0,0,0,5,0,14
+Dorchester,Four Hole,State House,102,DEM,Joe Jefferson,33,0,0,0,15,0,18
+Dorchester,Ridgeville,State House,102,DEM,Joe Jefferson,22,0,0,0,4,0,18
+Dorchester,Carolina,State House,102,DEM,Joe Jefferson,54,0,1,0,15,0,38
+Dorchester,Cypress,State House,102,DEM,Joe Jefferson,16,0,0,0,6,0,10
+Dorchester,Clemson 3,State House,102,DEM,Joe Jefferson,19,0,0,0,6,0,13
+Dorchester,North Summerville 2,State House,102,DEM,Joe Jefferson,45,0,0,0,9,0,36
+Dorchester,Ridgeville 2,State House,102,DEM,Joe Jefferson,40,0,2,0,6,0,32
+Dorchester,Failsafe,State House,102,DEM,Joe Jefferson,0,0,0,0,0,0,0
+Dorchester,Provisional,State House,102,DEM,Joe Jefferson,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State House,102,DEM,Joe Jefferson,0,0,0,0,0,0,0
+Dorchester,Archdale,State House,109,DEM,Jessica Bright - *WITHDREW*,11,0,1,0,6,0,4
+Dorchester,Ashley River,State House,109,DEM,Jessica Bright - *WITHDREW*,17,0,0,0,8,0,9
+Dorchester,Windsor,State House,109,DEM,Jessica Bright - *WITHDREW*,7,0,0,0,0,0,7
+Dorchester,Lincoln,State House,109,DEM,Jessica Bright - *WITHDREW*,3,0,1,0,0,0,2
+Dorchester,Patriot,State House,109,DEM,Jessica Bright - *WITHDREW*,7,0,0,0,3,0,4
+Dorchester,Archdale 2,State House,109,DEM,Jessica Bright - *WITHDREW*,3,0,0,0,2,0,1
+Dorchester,Windsor 2,State House,109,DEM,Jessica Bright - *WITHDREW*,10,0,0,0,3,0,7
+Dorchester,Failsafe,State House,109,DEM,Jessica Bright - *WITHDREW*,0,0,0,0,0,0,0
+Dorchester,Provisional,State House,109,DEM,Jessica Bright - *WITHDREW*,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State House,109,DEM,Jessica Bright - *WITHDREW*,0,0,0,0,0,0,0
+Dorchester,Archdale,State House,109,DEM,Tiffany Spann-Wilder,44,0,3,0,20,0,21
+Dorchester,Ashley River,State House,109,DEM,Tiffany Spann-Wilder,80,0,2,0,16,0,62
+Dorchester,Windsor,State House,109,DEM,Tiffany Spann-Wilder,48,0,0,0,15,0,33
+Dorchester,Lincoln,State House,109,DEM,Tiffany Spann-Wilder,16,0,0,0,3,0,13
+Dorchester,Patriot,State House,109,DEM,Tiffany Spann-Wilder,66,0,0,0,28,0,38
+Dorchester,Archdale 2,State House,109,DEM,Tiffany Spann-Wilder,42,0,1,0,16,0,25
+Dorchester,Windsor 2,State House,109,DEM,Tiffany Spann-Wilder,43,0,0,0,9,0,34
+Dorchester,Failsafe,State House,109,DEM,Tiffany Spann-Wilder,0,0,0,0,0,0,0
+Dorchester,Provisional,State House,109,DEM,Tiffany Spann-Wilder,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State House,109,DEM,Tiffany Spann-Wilder,0,0,0,0,0,0,0
+Dorchester,Harleyville,State House,102,REP,Ralph Elsey,18,0,0,0,1,0,17
+Dorchester,Four Hole,State House,102,REP,Ralph Elsey,22,0,0,0,1,0,21
+Dorchester,Ridgeville,State House,102,REP,Ralph Elsey,59,0,0,0,7,0,52
+Dorchester,Carolina,State House,102,REP,Ralph Elsey,50,0,2,0,10,0,38
+Dorchester,Cypress,State House,102,REP,Ralph Elsey,8,0,0,0,3,0,5
+Dorchester,Clemson 3,State House,102,REP,Ralph Elsey,8,0,1,0,4,0,3
+Dorchester,North Summerville 2,State House,102,REP,Ralph Elsey,28,0,1,0,6,0,21
+Dorchester,Ridgeville 2,State House,102,REP,Ralph Elsey,26,0,0,0,2,0,24
+Dorchester,Failsafe,State House,102,REP,Ralph Elsey,0,0,0,0,0,0,0
+Dorchester,Provisional,State House,102,REP,Ralph Elsey,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State House,102,REP,Ralph Elsey,0,0,0,0,0,0,0
+Dorchester,Harleyville,State House,102,REP,Harriet Holman,68,0,0,0,15,0,53
+Dorchester,Four Hole,State House,102,REP,Harriet Holman,91,0,0,0,14,0,77
+Dorchester,Ridgeville,State House,102,REP,Harriet Holman,109,0,0,0,22,0,87
+Dorchester,Carolina,State House,102,REP,Harriet Holman,67,0,4,0,19,0,44
+Dorchester,Cypress,State House,102,REP,Harriet Holman,25,0,0,0,6,0,19
+Dorchester,Clemson 3,State House,102,REP,Harriet Holman,17,0,0,0,4,0,13
+Dorchester,North Summerville 2,State House,102,REP,Harriet Holman,41,0,1,0,21,0,19
+Dorchester,Ridgeville 2,State House,102,REP,Harriet Holman,47,0,2,0,9,0,36
+Dorchester,Failsafe,State House,102,REP,Harriet Holman,0,0,0,0,0,0,0
+Dorchester,Provisional,State House,102,REP,Harriet Holman,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State House,102,REP,Harriet Holman,0,0,0,0,0,0,0
+Dorchester,Saul Dam,State House,114,REP,Jody Bohman,37,0,1,0,11,0,25
+Dorchester,Beech Hill,State House,114,REP,Jody Bohman,83,0,0,0,25,0,58
+Dorchester,Flowertown,State House,114,REP,Jody Bohman,148,0,6,0,59,0,83
+Dorchester,Bacons Bridge,State House,114,REP,Jody Bohman,102,0,1,0,49,0,52
+Dorchester,Beech Hill 2,State House,114,REP,Jody Bohman,91,0,4,0,34,0,53
+Dorchester,Flowertown 2,State House,114,REP,Jody Bohman,53,0,2,0,17,0,34
+Dorchester,King's Grant 2,State House,114,REP,Jody Bohman,81,0,1,0,30,0,50
+Dorchester,Bacons Bridge 2,State House,114,REP,Jody Bohman,41,0,5,0,11,0,25
+Dorchester,Flowertown 3,State House,114,REP,Jody Bohman,59,0,0,0,13,0,46
+Dorchester,Failsafe,State House,114,REP,Jody Bohman,0,0,0,0,0,0,0
+Dorchester,Provisional,State House,114,REP,Jody Bohman,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State House,114,REP,Jody Bohman,0,0,0,0,0,0,0
+Dorchester,Saul Dam,State House,114,REP,Gary Brewer,72,0,0,0,18,0,54
+Dorchester,Beech Hill,State House,114,REP,Gary Brewer,128,0,4,0,43,0,81
+Dorchester,Flowertown,State House,114,REP,Gary Brewer,356,0,13,0,167,0,176
+Dorchester,Bacons Bridge,State House,114,REP,Gary Brewer,134,0,6,0,50,0,78
+Dorchester,Beech Hill 2,State House,114,REP,Gary Brewer,137,0,3,0,59,0,75
+Dorchester,Flowertown 2,State House,114,REP,Gary Brewer,65,0,2,0,23,0,40
+Dorchester,King's Grant 2,State House,114,REP,Gary Brewer,185,0,2,0,90,0,93
+Dorchester,Bacons Bridge 2,State House,114,REP,Gary Brewer,46,0,0,0,13,0,33
+Dorchester,Flowertown 3,State House,114,REP,Gary Brewer,47,0,0,0,21,0,26
+Dorchester,Failsafe,State House,114,REP,Gary Brewer,0,0,0,0,0,0,0
+Dorchester,Provisional,State House,114,REP,Gary Brewer,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State House,114,REP,Gary Brewer,0,0,0,0,0,0,0
+Dorchester,Trolley,State House,98,REP,Greg Ford,22,0,2,0,3,0,17
+Dorchester,Tranquil,State House,98,REP,Greg Ford,28,0,2,0,7,0,19
+Dorchester,Irongate,State House,98,REP,Greg Ford,37,0,0,0,15,0,22
+Dorchester,Ashborough East,State House,98,REP,Greg Ford,18,0,0,0,4,0,14
+Dorchester,Ashborough West,State House,98,REP,Greg Ford,27,0,0,0,4,0,23
+Dorchester,Windsor,State House,98,REP,Greg Ford,0,0,0,0,0,0,0
+Dorchester,Brandymill,State House,98,REP,Greg Ford,29,0,0,0,4,0,25
+Dorchester,Coosaw,State House,98,REP,Greg Ford,78,0,3,0,21,0,54
+Dorchester,King's Grant,State House,98,REP,Greg Ford,68,0,1,0,15,0,52
+Dorchester,Lincoln,State House,98,REP,Greg Ford,5,0,1,0,3,0,1
+Dorchester,Oakbrook,State House,98,REP,Greg Ford,66,0,2,0,16,0,48
+Dorchester,Coastal 2,State House,98,REP,Greg Ford,12,0,0,0,2,0,10
+Dorchester,Ashborough East 2,State House,98,REP,Greg Ford,64,0,1,0,11,0,52
+Dorchester,Ashborough West 2,State House,98,REP,Greg Ford,71,0,1,0,23,0,47
+Dorchester,Brandymill 2,State House,98,REP,Greg Ford,28,0,0,0,6,0,22
+Dorchester,Briarwood 3,State House,98,REP,Greg Ford,22,0,0,0,8,0,14
+Dorchester,Coosaw 2,State House,98,REP,Greg Ford,45,0,1,0,22,0,22
+Dorchester,Irongate 3,State House,98,REP,Greg Ford,29,0,0,0,11,0,18
+Dorchester,Tranquil 2,State House,98,REP,Greg Ford,25,0,0,0,4,0,21
+Dorchester,Tranquil 3,State House,98,REP,Greg Ford,5,0,0,0,0,0,5
+Dorchester,Coosaw 3,State House,98,REP,Greg Ford,37,0,1,0,14,0,22
+Dorchester,Oakbrook 2,State House,98,REP,Greg Ford,23,0,0,0,11,0,12
+Dorchester,Failsafe,State House,98,REP,Greg Ford,0,0,0,0,0,0,0
+Dorchester,Provisional,State House,98,REP,Greg Ford,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State House,98,REP,Greg Ford,0,0,0,0,0,0,0
+Dorchester,Trolley,State House,98,REP,Chris Murphy,41,0,0,0,11,0,30
+Dorchester,Tranquil,State House,98,REP,Chris Murphy,48,0,0,0,24,0,24
+Dorchester,Irongate,State House,98,REP,Chris Murphy,43,0,0,0,19,0,24
+Dorchester,Ashborough East,State House,98,REP,Chris Murphy,32,0,0,0,11,0,21
+Dorchester,Ashborough West,State House,98,REP,Chris Murphy,44,0,0,0,16,0,28
+Dorchester,Windsor,State House,98,REP,Chris Murphy,1,0,0,0,0,0,1
+Dorchester,Brandymill,State House,98,REP,Chris Murphy,37,0,1,0,11,0,25
+Dorchester,Coosaw,State House,98,REP,Chris Murphy,191,0,0,0,124,0,67
+Dorchester,King's Grant,State House,98,REP,Chris Murphy,117,0,3,0,39,0,75
+Dorchester,Lincoln,State House,98,REP,Chris Murphy,50,0,2,0,41,0,7
+Dorchester,Oakbrook,State House,98,REP,Chris Murphy,91,0,1,0,39,0,51
+Dorchester,Coastal 2,State House,98,REP,Chris Murphy,42,0,0,0,13,0,29
+Dorchester,Ashborough East 2,State House,98,REP,Chris Murphy,90,0,2,0,22,0,66
+Dorchester,Ashborough West 2,State House,98,REP,Chris Murphy,82,0,0,0,23,0,59
+Dorchester,Brandymill 2,State House,98,REP,Chris Murphy,67,0,1,0,10,0,56
+Dorchester,Briarwood 3,State House,98,REP,Chris Murphy,59,0,0,0,30,0,29
+Dorchester,Coosaw 2,State House,98,REP,Chris Murphy,80,0,2,0,44,0,34
+Dorchester,Irongate 3,State House,98,REP,Chris Murphy,59,0,0,0,25,0,34
+Dorchester,Tranquil 2,State House,98,REP,Chris Murphy,35,0,0,0,4,0,31
+Dorchester,Tranquil 3,State House,98,REP,Chris Murphy,24,0,1,0,6,0,17
+Dorchester,Coosaw 3,State House,98,REP,Chris Murphy,100,0,3,0,46,0,51
+Dorchester,Oakbrook 2,State House,98,REP,Chris Murphy,64,0,3,0,29,0,32
+Dorchester,Failsafe,State House,98,REP,Chris Murphy,0,0,0,0,0,0,0
+Dorchester,Provisional,State House,98,REP,Chris Murphy,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State House,98,REP,Chris Murphy,0,0,0,0,0,0,0
+Dorchester,Rosinville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,21,0,0,0,3,0,18
+Dorchester,St. George No. 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,6,0,0,0,3,0,3
+Dorchester,St. George No. 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,15,0,1,0,6,0,8
+Dorchester,Grover,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,12,0,0,0,1,0,11
+Dorchester,Reevesville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,10,0,0,0,0,0,10
+Dorchester,Harleyville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,3,0,0,0,1,0,2
+Dorchester,Four Hole,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,2,0,0,0,0,0,2
+Dorchester,Rosses,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,10,0,0,0,0,0,10
+Dorchester,Ridgeville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,6,0,0,0,0,0,6
+Dorchester,Givhans,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,3,0,0,0,0,0,3
+Dorchester,Delemars,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,16,0,0,0,4,0,12
+Dorchester,Saul Dam,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,7,0,1,0,3,0,3
+Dorchester,Coastal,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,11,0,0,0,2,0,9
+Dorchester,Trolley,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,12,0,0,0,5,0,7
+Dorchester,Tranquil,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,7,0,0,0,3,0,4
+Dorchester,Beech Hill,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,22,0,0,0,11,0,11
+Dorchester,Flowertown,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,38,0,2,0,9,0,27
+Dorchester,Knightsville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,6,0,0,0,0,0,6
+Dorchester,Clemson,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,7,0,0,0,3,0,4
+Dorchester,Germantown,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,9,0,1,0,2,0,6
+Dorchester,Greenwave,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,12,0,0,0,5,0,7
+Dorchester,Newington,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,5,0,0,0,0,0,5
+Dorchester,Carolina,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,17,0,0,0,5,0,12
+Dorchester,Dorchester,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,9,0,0,0,5,0,4
+Dorchester,Archdale,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,12,0,0,0,3,0,9
+Dorchester,Stallsville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,3,0,0,0,1,0,2
+Dorchester,Indian Field,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,9,0,0,0,5,0,4
+Dorchester,Spann,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,5,0,0,0,2,0,3
+Dorchester,North Summerville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,3,0,0,0,1,0,2
+Dorchester,Tupperway,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,4,0,1,0,0,0,3
+Dorchester,Irongate,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,2,0,0,0,2,0,0
+Dorchester,Greenhurst,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,9,0,0,0,5,0,4
+Dorchester,Ashborough East,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,7,0,0,0,0,0,7
+Dorchester,Ashborough West,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,4,0,1,0,2,0,1
+Dorchester,Ashley River,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,40,0,0,0,7,0,33
+Dorchester,Windsor,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,17,0,0,0,5,0,12
+Dorchester,Bacons Bridge,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,22,0,0,0,5,0,17
+Dorchester,Brandymill,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,5,0,0,0,0,0,5
+Dorchester,Briarwood,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,5,0,0,0,1,0,4
+Dorchester,Butternut,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,15,0,1,0,3,0,11
+Dorchester,Central,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,11,0,1,0,0,0,10
+Dorchester,Coosaw,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,29,0,0,0,10,0,19
+Dorchester,Cypress,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,8,0,0,0,1,0,7
+Dorchester,King's Grant,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,21,0,0,0,7,0,14
+Dorchester,Lincoln,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,7,0,0,0,0,0,7
+Dorchester,Miles/Jamison,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,21,0,0,0,4,0,17
+Dorchester,Oakbrook,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,41,0,0,0,11,0,30
+Dorchester,Patriot,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,20,0,0,0,5,0,15
+Dorchester,Sawmill Branch,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,9,0,0,0,0,0,9
+Dorchester,Coastal 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,20,0,0,0,12,0,8
+Dorchester,Coastal 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,9,0,0,0,3,0,6
+Dorchester,Archdale 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,15,0,0,0,5,0,10
+Dorchester,Ashborough East 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,9,0,0,0,1,0,8
+Dorchester,Ashborough West 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,5,0,1,0,1,0,3
+Dorchester,Beech Hill 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,12,0,1,0,3,0,8
+Dorchester,Brandymill 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,7,0,0,0,0,0,7
+Dorchester,Briarwood 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,11,0,0,0,1,0,10
+Dorchester,Briarwood 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,4,0,0,0,1,0,3
+Dorchester,Central 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,6,0,0,0,3,0,3
+Dorchester,Clemson 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,23,0,0,0,4,0,19
+Dorchester,Clemson 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,14,0,0,0,2,0,12
+Dorchester,Coosaw 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,33,0,0,0,12,0,21
+Dorchester,Dorchester 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,6,0,0,0,1,0,5
+Dorchester,Flowertown 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,8,0,0,0,2,0,6
+Dorchester,Givhans 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,15,0,0,0,7,0,8
+Dorchester,Indian Field 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,10,0,0,0,3,0,7
+Dorchester,Irongate 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,2,0,0,0,0,0,2
+Dorchester,Irongate 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,2,0,0,0,1,0,1
+Dorchester,King's Grant 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,39,0,0,0,10,0,29
+Dorchester,Newington 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,4,0,0,0,2,0,2
+Dorchester,North Summerville 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,18,0,0,0,3,0,15
+Dorchester,Ridgeville 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,9,0,0,0,1,0,8
+Dorchester,Tranquil 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,18,0,0,0,2,0,16
+Dorchester,Tupperway 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,7,0,0,0,1,0,6
+Dorchester,Tranquil 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,12,0,0,0,3,0,9
+Dorchester,Bacons Bridge 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,5,0,0,0,3,0,2
+Dorchester,Coosaw 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,12,0,0,0,6,0,6
+Dorchester,Cypress 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,14,0,0,0,4,0,10
+Dorchester,Flowertown 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,6,0,0,0,1,0,5
+Dorchester,Oakbrook 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,17,0,0,0,6,0,11
+Dorchester,Windsor 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,14,0,0,0,2,0,12
+Dorchester,Failsafe,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,0,0,0,0,0,0,0
+Dorchester,Provisional,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,Austin Drake Nichols,0,0,0,0,0,0,0
+Dorchester,Rosinville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,83,0,4,0,29,0,50
+Dorchester,St. George No. 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,43,0,1,0,22,0,20
+Dorchester,St. George No. 1,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,82,0,1,0,45,0,36
+Dorchester,Grover,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,50,0,1,0,10,0,39
+Dorchester,Reevesville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,57,0,0,0,15,0,42
+Dorchester,Harleyville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,19,0,0,0,5,0,14
+Dorchester,Four Hole,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,35,0,0,0,14,0,21
+Dorchester,Rosses,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,36,0,0,0,8,0,28
+Dorchester,Ridgeville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,23,0,0,0,4,0,19
+Dorchester,Givhans,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,15,0,2,0,3,0,10
+Dorchester,Delemars,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,13,0,0,0,6,0,7
+Dorchester,Saul Dam,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,4,0,0,0,3,0,1
+Dorchester,Coastal,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,21,0,2,0,4,0,15
+Dorchester,Trolley,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,16,0,1,0,2,0,13
+Dorchester,Tranquil,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,18,0,1,0,6,0,11
+Dorchester,Beech Hill,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,20,0,0,0,9,0,11
+Dorchester,Flowertown,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,68,0,5,0,29,0,34
+Dorchester,Knightsville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,19,0,1,0,7,0,11
+Dorchester,Clemson,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,44,0,4,0,23,0,17
+Dorchester,Germantown,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,27,0,3,0,9,0,15
+Dorchester,Greenwave,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,24,0,1,0,12,0,11
+Dorchester,Newington,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,13,0,1,0,2,0,10
+Dorchester,Carolina,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,50,0,1,0,17,0,32
+Dorchester,Dorchester,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,29,0,3,0,11,0,15
+Dorchester,Archdale,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,42,0,4,0,22,0,16
+Dorchester,Stallsville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,9,0,0,0,2,0,7
+Dorchester,Indian Field,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,43,0,0,0,22,0,21
+Dorchester,Spann,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,22,0,0,0,12,0,10
+Dorchester,North Summerville,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,15,0,1,0,8,0,6
+Dorchester,Tupperway,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,13,0,0,0,2,0,11
+Dorchester,Irongate,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,5,0,1,0,4,0,0
+Dorchester,Greenhurst,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,24,0,1,0,9,0,14
+Dorchester,Ashborough East,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,22,0,0,0,5,0,17
+Dorchester,Ashborough West,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,2,0,0,0,0,0,2
+Dorchester,Ashley River,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,57,0,2,0,19,0,36
+Dorchester,Windsor,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,39,0,0,0,11,0,28
+Dorchester,Bacons Bridge,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,36,0,0,0,14,0,22
+Dorchester,Brandymill,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,10,0,0,0,5,0,5
+Dorchester,Briarwood,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,7,0,0,0,3,0,4
+Dorchester,Butternut,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,42,0,2,0,16,0,24
+Dorchester,Central,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,19,0,0,0,3,0,16
+Dorchester,Coosaw,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,62,0,0,0,28,0,34
+Dorchester,Cypress,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,40,0,0,0,17,0,23
+Dorchester,King's Grant,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,68,0,2,0,34,0,32
+Dorchester,Lincoln,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,22,0,1,0,6,0,15
+Dorchester,Miles/Jamison,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,35,0,0,0,11,0,24
+Dorchester,Oakbrook,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,67,0,1,0,25,0,41
+Dorchester,Patriot,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,48,0,0,0,24,0,24
+Dorchester,Sawmill Branch,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,16,0,3,0,0,0,13
+Dorchester,Coastal 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,23,0,2,0,12,0,9
+Dorchester,Coastal 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,13,0,0,0,4,0,9
+Dorchester,Archdale 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,31,0,1,0,14,0,16
+Dorchester,Ashborough East 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,16,0,0,0,8,0,8
+Dorchester,Ashborough West 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,25,0,0,0,8,0,17
+Dorchester,Beech Hill 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,23,0,2,0,10,0,11
+Dorchester,Brandymill 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,22,0,0,0,11,0,11
+Dorchester,Briarwood 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,7,0,0,0,2,0,5
+Dorchester,Briarwood 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,3,0,0,0,1,0,2
+Dorchester,Central 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,22,0,2,0,5,0,15
+Dorchester,Clemson 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,39,0,0,0,18,0,21
+Dorchester,Clemson 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,26,0,1,0,9,0,16
+Dorchester,Coosaw 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,56,0,1,0,27,0,28
+Dorchester,Dorchester 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,29,0,0,0,13,0,16
+Dorchester,Flowertown 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,23,0,0,0,5,0,18
+Dorchester,Givhans 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,24,0,0,0,7,0,17
+Dorchester,Indian Field 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,56,0,0,0,23,0,33
+Dorchester,Irongate 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,1,0,1,0,0,0,0
+Dorchester,Irongate 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,11,0,0,0,5,0,6
+Dorchester,King's Grant 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,70,0,2,0,31,0,37
+Dorchester,Newington 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,6,0,0,0,4,0,2
+Dorchester,North Summerville 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,50,0,0,0,9,0,41
+Dorchester,Ridgeville 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,38,0,2,0,5,0,31
+Dorchester,Tranquil 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,27,0,0,0,4,0,23
+Dorchester,Tupperway 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,13,0,0,0,5,0,8
+Dorchester,Tranquil 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,14,0,0,0,7,0,7
+Dorchester,Bacons Bridge 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,19,0,0,0,9,0,10
+Dorchester,Coosaw 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,24,0,0,0,10,0,14
+Dorchester,Cypress 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,15,0,0,0,10,0,5
+Dorchester,Flowertown 3,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,20,0,0,0,6,0,14
+Dorchester,Oakbrook 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,14,0,0,0,9,0,5
+Dorchester,Windsor 2,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,38,0,0,0,10,0,28
+Dorchester,Failsafe,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,0,0,0,0,0,0,0
+Dorchester,Provisional,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,1,0,0,0,0,1,0
+Dorchester,Failsafe Provisional,"Solicitor, Circuit 1", Circuit 1 - DEM,DEM,David M Pascoe,0,0,0,0,0,0,0
+Dorchester,Rosinville,Sheriff,,DEM,Charles T Frederick III,21,0,0,0,4,0,17
+Dorchester,St. George No. 2,Sheriff,,DEM,Charles T Frederick III,6,0,0,0,6,0,0
+Dorchester,St. George No. 1,Sheriff,,DEM,Charles T Frederick III,9,0,0,0,6,0,3
+Dorchester,Grover,Sheriff,,DEM,Charles T Frederick III,6,0,0,0,1,0,5
+Dorchester,Reevesville,Sheriff,,DEM,Charles T Frederick III,11,0,0,0,4,0,7
+Dorchester,Harleyville,Sheriff,,DEM,Charles T Frederick III,7,0,0,0,3,0,4
+Dorchester,Four Hole,Sheriff,,DEM,Charles T Frederick III,17,0,0,0,5,0,12
+Dorchester,Rosses,Sheriff,,DEM,Charles T Frederick III,11,0,0,0,1,0,10
+Dorchester,Ridgeville,Sheriff,,DEM,Charles T Frederick III,16,0,0,0,1,0,15
+Dorchester,Givhans,Sheriff,,DEM,Charles T Frederick III,9,0,2,0,1,0,6
+Dorchester,Delemars,Sheriff,,DEM,Charles T Frederick III,22,0,0,0,10,0,12
+Dorchester,Saul Dam,Sheriff,,DEM,Charles T Frederick III,6,0,1,0,2,0,3
+Dorchester,Coastal,Sheriff,,DEM,Charles T Frederick III,24,0,2,0,6,0,16
+Dorchester,Trolley,Sheriff,,DEM,Charles T Frederick III,10,0,0,0,5,0,5
+Dorchester,Tranquil,Sheriff,,DEM,Charles T Frederick III,13,0,1,0,4,0,8
+Dorchester,Beech Hill,Sheriff,,DEM,Charles T Frederick III,23,0,0,0,12,0,11
+Dorchester,Flowertown,Sheriff,,DEM,Charles T Frederick III,65,0,3,0,26,0,36
+Dorchester,Knightsville,Sheriff,,DEM,Charles T Frederick III,24,0,1,0,8,0,15
+Dorchester,Clemson,Sheriff,,DEM,Charles T Frederick III,32,0,1,0,18,0,13
+Dorchester,Germantown,Sheriff,,DEM,Charles T Frederick III,26,0,3,0,10,0,13
+Dorchester,Greenwave,Sheriff,,DEM,Charles T Frederick III,24,0,0,0,15,0,9
+Dorchester,Newington,Sheriff,,DEM,Charles T Frederick III,14,0,1,0,1,0,12
+Dorchester,Carolina,Sheriff,,DEM,Charles T Frederick III,37,0,0,0,10,0,27
+Dorchester,Dorchester,Sheriff,,DEM,Charles T Frederick III,26,0,1,0,9,0,16
+Dorchester,Archdale,Sheriff,,DEM,Charles T Frederick III,33,0,4,0,12,0,17
+Dorchester,Stallsville,Sheriff,,DEM,Charles T Frederick III,5,0,0,0,0,0,5
+Dorchester,Indian Field,Sheriff,,DEM,Charles T Frederick III,5,0,0,0,1,0,4
+Dorchester,Spann,Sheriff,,DEM,Charles T Frederick III,18,0,0,0,11,0,7
+Dorchester,North Summerville,Sheriff,,DEM,Charles T Frederick III,9,0,0,0,3,0,6
+Dorchester,Tupperway,Sheriff,,DEM,Charles T Frederick III,12,0,1,0,1,0,10
+Dorchester,Irongate,Sheriff,,DEM,Charles T Frederick III,8,0,1,0,5,0,2
+Dorchester,Greenhurst,Sheriff,,DEM,Charles T Frederick III,18,0,0,0,6,0,12
+Dorchester,Ashborough East,Sheriff,,DEM,Charles T Frederick III,13,0,0,0,1,0,12
+Dorchester,Ashborough West,Sheriff,,DEM,Charles T Frederick III,3,0,1,0,0,0,2
+Dorchester,Ashley River,Sheriff,,DEM,Charles T Frederick III,57,0,2,0,10,0,45
+Dorchester,Windsor,Sheriff,,DEM,Charles T Frederick III,29,0,0,0,7,0,22
+Dorchester,Bacons Bridge,Sheriff,,DEM,Charles T Frederick III,34,0,0,0,8,0,26
+Dorchester,Brandymill,Sheriff,,DEM,Charles T Frederick III,11,0,0,0,3,0,8
+Dorchester,Briarwood,Sheriff,,DEM,Charles T Frederick III,4,0,0,0,1,0,3
+Dorchester,Butternut,Sheriff,,DEM,Charles T Frederick III,31,0,3,0,8,0,20
+Dorchester,Central,Sheriff,,DEM,Charles T Frederick III,21,0,1,0,2,0,18
+Dorchester,Coosaw,Sheriff,,DEM,Charles T Frederick III,55,0,0,0,25,0,30
+Dorchester,Cypress,Sheriff,,DEM,Charles T Frederick III,22,0,0,0,9,0,13
+Dorchester,King's Grant,Sheriff,,DEM,Charles T Frederick III,51,0,2,0,20,0,29
+Dorchester,Lincoln,Sheriff,,DEM,Charles T Frederick III,11,0,0,0,1,0,10
+Dorchester,Miles/Jamison,Sheriff,,DEM,Charles T Frederick III,36,0,0,0,9,0,27
+Dorchester,Oakbrook,Sheriff,,DEM,Charles T Frederick III,45,0,1,0,12,0,32
+Dorchester,Patriot,Sheriff,,DEM,Charles T Frederick III,35,0,0,0,12,0,23
+Dorchester,Sawmill Branch,Sheriff,,DEM,Charles T Frederick III,18,0,3,0,0,0,15
+Dorchester,Coastal 2,Sheriff,,DEM,Charles T Frederick III,30,0,2,0,15,0,13
+Dorchester,Coastal 3,Sheriff,,DEM,Charles T Frederick III,16,0,0,0,5,0,11
+Dorchester,Archdale 2,Sheriff,,DEM,Charles T Frederick III,32,0,1,0,13,0,18
+Dorchester,Ashborough East 2,Sheriff,,DEM,Charles T Frederick III,19,0,0,0,8,0,11
+Dorchester,Ashborough West 2,Sheriff,,DEM,Charles T Frederick III,19,0,1,0,8,0,10
+Dorchester,Beech Hill 2,Sheriff,,DEM,Charles T Frederick III,18,0,3,0,7,0,8
+Dorchester,Brandymill 2,Sheriff,,DEM,Charles T Frederick III,19,0,0,0,6,0,13
+Dorchester,Briarwood 2,Sheriff,,DEM,Charles T Frederick III,10,0,0,0,1,0,9
+Dorchester,Briarwood 3,Sheriff,,DEM,Charles T Frederick III,2,0,0,0,1,0,1
+Dorchester,Central 2,Sheriff,,DEM,Charles T Frederick III,17,0,0,0,5,0,12
+Dorchester,Clemson 2,Sheriff,,DEM,Charles T Frederick III,35,0,0,0,13,0,22
+Dorchester,Clemson 3,Sheriff,,DEM,Charles T Frederick III,19,0,1,0,6,0,12
+Dorchester,Coosaw 2,Sheriff,,DEM,Charles T Frederick III,50,0,1,0,20,0,29
+Dorchester,Dorchester 2,Sheriff,,DEM,Charles T Frederick III,21,0,0,0,7,0,14
+Dorchester,Flowertown 2,Sheriff,,DEM,Charles T Frederick III,23,0,0,0,5,0,18
+Dorchester,Givhans 2,Sheriff,,DEM,Charles T Frederick III,24,0,0,0,9,0,15
+Dorchester,Indian Field 2,Sheriff,,DEM,Charles T Frederick III,4,0,0,0,3,0,1
+Dorchester,Irongate 2,Sheriff,,DEM,Charles T Frederick III,2,0,1,0,0,0,1
+Dorchester,Irongate 3,Sheriff,,DEM,Charles T Frederick III,9,0,0,0,5,0,4
+Dorchester,King's Grant 2,Sheriff,,DEM,Charles T Frederick III,60,0,2,0,18,0,40
+Dorchester,Newington 2,Sheriff,,DEM,Charles T Frederick III,6,0,0,0,3,0,3
+Dorchester,North Summerville 2,Sheriff,,DEM,Charles T Frederick III,46,0,0,0,10,0,36
+Dorchester,Ridgeville 2,Sheriff,,DEM,Charles T Frederick III,36,0,1,0,5,0,30
+Dorchester,Tranquil 2,Sheriff,,DEM,Charles T Frederick III,29,0,0,0,4,0,25
+Dorchester,Tupperway 2,Sheriff,,DEM,Charles T Frederick III,13,0,0,0,4,0,9
+Dorchester,Tranquil 3,Sheriff,,DEM,Charles T Frederick III,14,0,0,0,4,0,10
+Dorchester,Bacons Bridge 2,Sheriff,,DEM,Charles T Frederick III,22,0,0,0,11,0,11
+Dorchester,Coosaw 3,Sheriff,,DEM,Charles T Frederick III,24,0,0,0,11,0,13
+Dorchester,Cypress 2,Sheriff,,DEM,Charles T Frederick III,15,0,0,0,7,0,8
+Dorchester,Flowertown 3,Sheriff,,DEM,Charles T Frederick III,17,0,0,0,3,0,14
+Dorchester,Oakbrook 2,Sheriff,,DEM,Charles T Frederick III,20,0,0,0,10,0,10
+Dorchester,Windsor 2,Sheriff,,DEM,Charles T Frederick III,27,0,0,0,3,0,24
+Dorchester,Failsafe,Sheriff,,DEM,Charles T Frederick III,0,0,0,0,0,0,0
+Dorchester,Provisional,Sheriff,,DEM,Charles T Frederick III,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,Sheriff,,DEM,Charles T Frederick III,0,0,0,0,0,0,0
+Dorchester,Rosinville,Sheriff,,DEM,Trumaine Moorer,90,0,4,0,30,0,56
+Dorchester,St. George No. 2,Sheriff,,DEM,Trumaine Moorer,46,0,1,0,22,0,23
+Dorchester,St. George No. 1,Sheriff,,DEM,Trumaine Moorer,90,0,3,0,42,0,45
+Dorchester,Grover,Sheriff,,DEM,Trumaine Moorer,64,0,1,0,12,0,51
+Dorchester,Reevesville,Sheriff,,DEM,Trumaine Moorer,60,0,0,0,13,0,47
+Dorchester,Harleyville,Sheriff,,DEM,Trumaine Moorer,14,0,0,0,3,0,11
+Dorchester,Four Hole,Sheriff,,DEM,Trumaine Moorer,22,0,0,0,9,0,13
+Dorchester,Rosses,Sheriff,,DEM,Trumaine Moorer,40,0,0,0,7,0,33
+Dorchester,Ridgeville,Sheriff,,DEM,Trumaine Moorer,12,0,0,0,3,0,9
+Dorchester,Givhans,Sheriff,,DEM,Trumaine Moorer,10,0,1,0,2,0,7
+Dorchester,Delemars,Sheriff,,DEM,Trumaine Moorer,8,0,0,0,0,0,8
+Dorchester,Saul Dam,Sheriff,,DEM,Trumaine Moorer,6,0,0,0,4,0,2
+Dorchester,Coastal,Sheriff,,DEM,Trumaine Moorer,13,0,0,0,1,0,12
+Dorchester,Trolley,Sheriff,,DEM,Trumaine Moorer,18,0,1,0,2,0,15
+Dorchester,Tranquil,Sheriff,,DEM,Trumaine Moorer,12,0,0,0,6,0,6
+Dorchester,Beech Hill,Sheriff,,DEM,Trumaine Moorer,18,0,0,0,6,0,12
+Dorchester,Flowertown,Sheriff,,DEM,Trumaine Moorer,39,0,4,0,10,0,25
+Dorchester,Knightsville,Sheriff,,DEM,Trumaine Moorer,3,0,0,0,0,0,3
+Dorchester,Clemson,Sheriff,,DEM,Trumaine Moorer,19,0,3,0,7,0,9
+Dorchester,Germantown,Sheriff,,DEM,Trumaine Moorer,8,0,1,0,0,0,7
+Dorchester,Greenwave,Sheriff,,DEM,Trumaine Moorer,11,0,0,0,2,0,9
+Dorchester,Newington,Sheriff,,DEM,Trumaine Moorer,4,0,0,0,1,0,3
+Dorchester,Carolina,Sheriff,,DEM,Trumaine Moorer,24,0,1,0,9,0,14
+Dorchester,Dorchester,Sheriff,,DEM,Trumaine Moorer,10,0,0,0,7,0,3
+Dorchester,Archdale,Sheriff,,DEM,Trumaine Moorer,20,0,0,0,12,0,8
+Dorchester,Stallsville,Sheriff,,DEM,Trumaine Moorer,7,0,0,0,3,0,4
+Dorchester,Indian Field,Sheriff,,DEM,Trumaine Moorer,61,0,0,0,28,0,33
+Dorchester,Spann,Sheriff,,DEM,Trumaine Moorer,7,0,0,0,3,0,4
+Dorchester,North Summerville,Sheriff,,DEM,Trumaine Moorer,4,0,0,0,4,0,0
+Dorchester,Tupperway,Sheriff,,DEM,Trumaine Moorer,3,0,0,0,0,0,3
+Dorchester,Irongate,Sheriff,,DEM,Trumaine Moorer,2,0,0,0,2,0,0
+Dorchester,Greenhurst,Sheriff,,DEM,Trumaine Moorer,16,0,1,0,8,0,7
+Dorchester,Ashborough East,Sheriff,,DEM,Trumaine Moorer,14,0,0,0,4,0,10
+Dorchester,Ashborough West,Sheriff,,DEM,Trumaine Moorer,4,0,1,0,2,0,1
+Dorchester,Ashley River,Sheriff,,DEM,Trumaine Moorer,36,0,0,0,13,0,23
+Dorchester,Windsor,Sheriff,,DEM,Trumaine Moorer,29,0,0,0,10,0,19
+Dorchester,Bacons Bridge,Sheriff,,DEM,Trumaine Moorer,23,0,0,0,11,0,12
+Dorchester,Brandymill,Sheriff,,DEM,Trumaine Moorer,4,0,0,0,2,0,2
+Dorchester,Briarwood,Sheriff,,DEM,Trumaine Moorer,8,0,0,0,2,0,6
+Dorchester,Butternut,Sheriff,,DEM,Trumaine Moorer,25,0,0,0,10,0,15
+Dorchester,Central,Sheriff,,DEM,Trumaine Moorer,8,0,0,0,0,0,8
+Dorchester,Coosaw,Sheriff,,DEM,Trumaine Moorer,36,0,0,0,12,0,24
+Dorchester,Cypress,Sheriff,,DEM,Trumaine Moorer,26,0,0,0,8,0,18
+Dorchester,King's Grant,Sheriff,,DEM,Trumaine Moorer,36,0,0,0,21,0,15
+Dorchester,Lincoln,Sheriff,,DEM,Trumaine Moorer,15,0,1,0,5,0,9
+Dorchester,Miles/Jamison,Sheriff,,DEM,Trumaine Moorer,19,0,0,0,6,0,13
+Dorchester,Oakbrook,Sheriff,,DEM,Trumaine Moorer,61,0,0,0,23,0,38
+Dorchester,Patriot,Sheriff,,DEM,Trumaine Moorer,35,0,0,0,17,0,18
+Dorchester,Sawmill Branch,Sheriff,,DEM,Trumaine Moorer,8,0,0,0,0,0,8
+Dorchester,Coastal 2,Sheriff,,DEM,Trumaine Moorer,13,0,0,0,9,0,4
+Dorchester,Coastal 3,Sheriff,,DEM,Trumaine Moorer,6,0,0,0,2,0,4
+Dorchester,Archdale 2,Sheriff,,DEM,Trumaine Moorer,13,0,0,0,5,0,8
+Dorchester,Ashborough East 2,Sheriff,,DEM,Trumaine Moorer,5,0,0,0,1,0,4
+Dorchester,Ashborough West 2,Sheriff,,DEM,Trumaine Moorer,10,0,0,0,1,0,9
+Dorchester,Beech Hill 2,Sheriff,,DEM,Trumaine Moorer,16,0,0,0,5,0,11
+Dorchester,Brandymill 2,Sheriff,,DEM,Trumaine Moorer,11,0,0,0,4,0,7
+Dorchester,Briarwood 2,Sheriff,,DEM,Trumaine Moorer,8,0,0,0,2,0,6
+Dorchester,Briarwood 3,Sheriff,,DEM,Trumaine Moorer,4,0,0,0,1,0,3
+Dorchester,Central 2,Sheriff,,DEM,Trumaine Moorer,12,0,2,0,3,0,7
+Dorchester,Clemson 2,Sheriff,,DEM,Trumaine Moorer,27,0,0,0,9,0,18
+Dorchester,Clemson 3,Sheriff,,DEM,Trumaine Moorer,21,0,0,0,6,0,15
+Dorchester,Coosaw 2,Sheriff,,DEM,Trumaine Moorer,39,0,0,0,19,0,20
+Dorchester,Dorchester 2,Sheriff,,DEM,Trumaine Moorer,7,0,0,0,5,0,2
+Dorchester,Flowertown 2,Sheriff,,DEM,Trumaine Moorer,8,0,0,0,2,0,6
+Dorchester,Givhans 2,Sheriff,,DEM,Trumaine Moorer,16,0,0,0,5,0,11
+Dorchester,Indian Field 2,Sheriff,,DEM,Trumaine Moorer,69,0,0,0,27,0,42
+Dorchester,Irongate 2,Sheriff,,DEM,Trumaine Moorer,1,0,0,0,0,0,1
+Dorchester,Irongate 3,Sheriff,,DEM,Trumaine Moorer,4,0,0,0,1,0,3
+Dorchester,King's Grant 2,Sheriff,,DEM,Trumaine Moorer,47,0,0,0,22,0,25
+Dorchester,Newington 2,Sheriff,,DEM,Trumaine Moorer,3,0,0,0,3,0,0
+Dorchester,North Summerville 2,Sheriff,,DEM,Trumaine Moorer,24,0,0,0,2,0,22
+Dorchester,Ridgeville 2,Sheriff,,DEM,Trumaine Moorer,11,0,0,0,1,0,10
+Dorchester,Tranquil 2,Sheriff,,DEM,Trumaine Moorer,15,0,0,0,2,0,13
+Dorchester,Tupperway 2,Sheriff,,DEM,Trumaine Moorer,8,0,0,0,3,0,5
+Dorchester,Tranquil 3,Sheriff,,DEM,Trumaine Moorer,11,0,0,0,5,0,6
+Dorchester,Bacons Bridge 2,Sheriff,,DEM,Trumaine Moorer,3,0,0,0,1,0,2
+Dorchester,Coosaw 3,Sheriff,,DEM,Trumaine Moorer,13,0,0,0,5,0,8
+Dorchester,Cypress 2,Sheriff,,DEM,Trumaine Moorer,16,0,0,0,7,0,9
+Dorchester,Flowertown 3,Sheriff,,DEM,Trumaine Moorer,11,0,0,0,4,0,7
+Dorchester,Oakbrook 2,Sheriff,,DEM,Trumaine Moorer,13,0,0,0,6,0,7
+Dorchester,Windsor 2,Sheriff,,DEM,Trumaine Moorer,25,0,0,0,9,0,16
+Dorchester,Failsafe,Sheriff,,DEM,Trumaine Moorer,0,0,0,0,0,0,0
+Dorchester,Provisional,Sheriff,,DEM,Trumaine Moorer,1,0,0,0,0,1,0
+Dorchester,Failsafe Provisional,Sheriff,,DEM,Trumaine Moorer,0,0,0,0,0,0,0
+Dorchester,Rosinville,Sheriff,,REP,Sam Richardson,91,0,2,0,17,0,72
+Dorchester,St. George No. 2,Sheriff,,REP,Sam Richardson,64,0,0,0,21,0,43
+Dorchester,St. George No. 1,Sheriff,,REP,Sam Richardson,97,0,5,0,22,0,70
+Dorchester,Grover,Sheriff,,REP,Sam Richardson,63,0,2,0,12,0,49
+Dorchester,Reevesville,Sheriff,,REP,Sam Richardson,80,0,0,0,15,0,65
+Dorchester,Harleyville,Sheriff,,REP,Sam Richardson,71,0,0,0,14,0,57
+Dorchester,Four Hole,Sheriff,,REP,Sam Richardson,88,0,0,0,10,0,78
+Dorchester,Rosses,Sheriff,,REP,Sam Richardson,110,0,3,0,11,0,96
+Dorchester,Ridgeville,Sheriff,,REP,Sam Richardson,137,0,0,0,25,0,112
+Dorchester,Givhans,Sheriff,,REP,Sam Richardson,125,0,2,0,18,0,105
+Dorchester,Delemars,Sheriff,,REP,Sam Richardson,149,0,10,0,44,0,95
+Dorchester,Saul Dam,Sheriff,,REP,Sam Richardson,91,0,1,0,22,0,68
+Dorchester,Coastal,Sheriff,,REP,Sam Richardson,13,0,0,0,5,0,8
+Dorchester,Trolley,Sheriff,,REP,Sam Richardson,41,0,2,0,7,0,32
+Dorchester,Tranquil,Sheriff,,REP,Sam Richardson,44,0,2,0,18,0,24
+Dorchester,Beech Hill,Sheriff,,REP,Sam Richardson,168,0,4,0,53,0,111
+Dorchester,Flowertown,Sheriff,,REP,Sam Richardson,404,0,14,0,184,0,206
+Dorchester,Knightsville,Sheriff,,REP,Sam Richardson,116,0,1,0,30,0,85
+Dorchester,Clemson,Sheriff,,REP,Sam Richardson,199,0,4,0,82,0,113
+Dorchester,Germantown,Sheriff,,REP,Sam Richardson,154,0,5,0,66,0,83
+Dorchester,Greenwave,Sheriff,,REP,Sam Richardson,46,0,2,0,8,0,36
+Dorchester,Newington,Sheriff,,REP,Sam Richardson,137,0,3,0,34,0,100
+Dorchester,Carolina,Sheriff,,REP,Sam Richardson,98,0,2,0,28,0,68
+Dorchester,Dorchester,Sheriff,,REP,Sam Richardson,123,0,3,0,51,0,69
+Dorchester,Archdale,Sheriff,,REP,Sam Richardson,51,0,4,0,21,0,26
+Dorchester,Stallsville,Sheriff,,REP,Sam Richardson,93,0,2,0,17,0,74
+Dorchester,Indian Field,Sheriff,,REP,Sam Richardson,34,0,0,0,10,0,24
+Dorchester,Spann,Sheriff,,REP,Sam Richardson,148,0,4,0,68,0,76
+Dorchester,North Summerville,Sheriff,,REP,Sam Richardson,36,0,0,0,24,0,12
+Dorchester,Tupperway,Sheriff,,REP,Sam Richardson,69,0,2,0,26,0,41
+Dorchester,Irongate,Sheriff,,REP,Sam Richardson,60,0,0,0,26,0,34
+Dorchester,Greenhurst,Sheriff,,REP,Sam Richardson,60,0,3,0,23,0,34
+Dorchester,Ashborough East,Sheriff,,REP,Sam Richardson,32,0,0,0,10,0,22
+Dorchester,Ashborough West,Sheriff,,REP,Sam Richardson,59,0,0,0,17,0,42
+Dorchester,Ashley River,Sheriff,,REP,Sam Richardson,99,0,0,0,31,0,68
+Dorchester,Windsor,Sheriff,,REP,Sam Richardson,26,0,0,0,7,0,19
+Dorchester,Bacons Bridge,Sheriff,,REP,Sam Richardson,164,0,5,0,67,0,92
+Dorchester,Brandymill,Sheriff,,REP,Sam Richardson,42,0,1,0,10,0,31
+Dorchester,Briarwood,Sheriff,,REP,Sam Richardson,71,0,1,0,25,0,45
+Dorchester,Butternut,Sheriff,,REP,Sam Richardson,205,0,4,0,71,0,130
+Dorchester,Central,Sheriff,,REP,Sam Richardson,136,0,7,0,26,0,103
+Dorchester,Coosaw,Sheriff,,REP,Sam Richardson,196,0,3,0,111,0,82
+Dorchester,Cypress,Sheriff,,REP,Sam Richardson,132,0,0,0,40,0,92
+Dorchester,King's Grant,Sheriff,,REP,Sam Richardson,126,0,4,0,41,0,81
+Dorchester,Lincoln,Sheriff,,REP,Sam Richardson,36,0,3,0,26,0,7
+Dorchester,Miles/Jamison,Sheriff,,REP,Sam Richardson,112,0,4,0,38,0,70
+Dorchester,Oakbrook,Sheriff,,REP,Sam Richardson,100,0,1,0,33,0,66
+Dorchester,Patriot,Sheriff,,REP,Sam Richardson,20,0,0,0,6,0,14
+Dorchester,Sawmill Branch,Sheriff,,REP,Sam Richardson,155,0,5,0,60,0,90
+Dorchester,Coastal 2,Sheriff,,REP,Sam Richardson,84,0,0,0,29,0,55
+Dorchester,Coastal 3,Sheriff,,REP,Sam Richardson,45,0,0,0,13,0,32
+Dorchester,Archdale 2,Sheriff,,REP,Sam Richardson,100,0,0,0,53,0,47
+Dorchester,Ashborough East 2,Sheriff,,REP,Sam Richardson,96,0,3,0,23,0,70
+Dorchester,Ashborough West 2,Sheriff,,REP,Sam Richardson,106,0,1,0,32,0,73
+Dorchester,Beech Hill 2,Sheriff,,REP,Sam Richardson,156,0,7,0,61,0,88
+Dorchester,Brandymill 2,Sheriff,,REP,Sam Richardson,69,0,0,0,14,0,55
+Dorchester,Briarwood 2,Sheriff,,REP,Sam Richardson,69,0,6,0,23,0,40
+Dorchester,Briarwood 3,Sheriff,,REP,Sam Richardson,55,0,0,0,26,0,29
+Dorchester,Central 2,Sheriff,,REP,Sam Richardson,98,0,0,0,21,0,77
+Dorchester,Clemson 2,Sheriff,,REP,Sam Richardson,121,0,1,0,39,0,81
+Dorchester,Clemson 3,Sheriff,,REP,Sam Richardson,74,0,3,0,30,0,41
+Dorchester,Coosaw 2,Sheriff,,REP,Sam Richardson,99,0,3,0,55,0,41
+Dorchester,Dorchester 2,Sheriff,,REP,Sam Richardson,225,0,1,0,109,0,115
+Dorchester,Flowertown 2,Sheriff,,REP,Sam Richardson,93,0,4,0,31,0,58
+Dorchester,Givhans 2,Sheriff,,REP,Sam Richardson,128,0,6,0,38,0,84
+Dorchester,Indian Field 2,Sheriff,,REP,Sam Richardson,66,0,0,0,15,0,51
+Dorchester,Irongate 2,Sheriff,,REP,Sam Richardson,23,0,0,0,13,0,10
+Dorchester,Irongate 3,Sheriff,,REP,Sam Richardson,65,0,0,0,28,0,37
+Dorchester,King's Grant 2,Sheriff,,REP,Sam Richardson,206,0,3,0,95,0,108
+Dorchester,Newington 2,Sheriff,,REP,Sam Richardson,72,0,0,0,37,0,35
+Dorchester,North Summerville 2,Sheriff,,REP,Sam Richardson,60,0,1,0,27,0,32
+Dorchester,Ridgeville 2,Sheriff,,REP,Sam Richardson,59,0,2,0,9,0,48
+Dorchester,Tranquil 2,Sheriff,,REP,Sam Richardson,38,0,0,0,7,0,31
+Dorchester,Tupperway 2,Sheriff,,REP,Sam Richardson,43,0,0,0,19,0,24
+Dorchester,Tranquil 3,Sheriff,,REP,Sam Richardson,21,0,0,0,4,0,17
+Dorchester,Bacons Bridge 2,Sheriff,,REP,Sam Richardson,64,0,0,0,17,0,47
+Dorchester,Coosaw 3,Sheriff,,REP,Sam Richardson,93,0,4,0,40,0,49
+Dorchester,Cypress 2,Sheriff,,REP,Sam Richardson,67,0,2,0,21,0,44
+Dorchester,Flowertown 3,Sheriff,,REP,Sam Richardson,66,0,0,0,25,0,41
+Dorchester,Oakbrook 2,Sheriff,,REP,Sam Richardson,54,0,2,0,31,0,21
+Dorchester,Windsor 2,Sheriff,,REP,Sam Richardson,6,0,0,0,0,0,6
+Dorchester,Failsafe,Sheriff,,REP,Sam Richardson,0,0,0,0,0,0,0
+Dorchester,Provisional,Sheriff,,REP,Sam Richardson,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,Sheriff,,REP,Sam Richardson,0,0,0,0,0,0,0
+Dorchester,Rosinville,Sheriff,,REP,Mike Turner,20,0,2,0,5,0,13
+Dorchester,St. George No. 2,Sheriff,,REP,Mike Turner,23,0,0,0,7,0,16
+Dorchester,St. George No. 1,Sheriff,,REP,Mike Turner,18,0,0,0,7,0,11
+Dorchester,Grover,Sheriff,,REP,Mike Turner,18,0,0,0,5,0,13
+Dorchester,Reevesville,Sheriff,,REP,Mike Turner,22,0,0,0,4,0,18
+Dorchester,Harleyville,Sheriff,,REP,Mike Turner,15,0,0,0,2,0,13
+Dorchester,Four Hole,Sheriff,,REP,Mike Turner,29,0,0,0,5,0,24
+Dorchester,Rosses,Sheriff,,REP,Mike Turner,27,0,0,0,2,0,25
+Dorchester,Ridgeville,Sheriff,,REP,Mike Turner,38,0,0,0,4,0,34
+Dorchester,Givhans,Sheriff,,REP,Mike Turner,37,0,0,0,8,0,29
+Dorchester,Delemars,Sheriff,,REP,Mike Turner,42,0,1,0,13,0,28
+Dorchester,Saul Dam,Sheriff,,REP,Mike Turner,27,0,1,0,7,0,19
+Dorchester,Coastal,Sheriff,,REP,Mike Turner,21,0,2,0,8,0,11
+Dorchester,Trolley,Sheriff,,REP,Mike Turner,22,0,0,0,8,0,14
+Dorchester,Tranquil,Sheriff,,REP,Mike Turner,34,0,0,0,14,0,20
+Dorchester,Beech Hill,Sheriff,,REP,Mike Turner,49,0,0,0,16,0,33
+Dorchester,Flowertown,Sheriff,,REP,Mike Turner,105,0,5,0,46,0,54
+Dorchester,Knightsville,Sheriff,,REP,Mike Turner,34,0,0,0,5,0,29
+Dorchester,Clemson,Sheriff,,REP,Mike Turner,86,0,0,0,29,0,57
+Dorchester,Germantown,Sheriff,,REP,Mike Turner,20,0,0,0,6,0,14
+Dorchester,Greenwave,Sheriff,,REP,Mike Turner,21,0,0,0,6,0,15
+Dorchester,Newington,Sheriff,,REP,Mike Turner,59,0,1,0,9,0,49
+Dorchester,Carolina,Sheriff,,REP,Mike Turner,53,0,4,0,12,0,37
+Dorchester,Dorchester,Sheriff,,REP,Mike Turner,22,0,0,0,14,0,8
+Dorchester,Archdale,Sheriff,,REP,Mike Turner,14,0,0,0,5,0,9
+Dorchester,Stallsville,Sheriff,,REP,Mike Turner,37,0,0,0,10,0,27
+Dorchester,Indian Field,Sheriff,,REP,Mike Turner,6,0,0,0,4,0,2
+Dorchester,Spann,Sheriff,,REP,Mike Turner,44,0,2,0,19,0,23
+Dorchester,North Summerville,Sheriff,,REP,Mike Turner,17,0,0,0,11,0,6
+Dorchester,Tupperway,Sheriff,,REP,Mike Turner,24,0,1,0,5,0,18
+Dorchester,Irongate,Sheriff,,REP,Mike Turner,21,0,0,0,8,0,13
+Dorchester,Greenhurst,Sheriff,,REP,Mike Turner,21,0,1,0,8,0,12
+Dorchester,Ashborough East,Sheriff,,REP,Mike Turner,18,0,0,0,4,0,14
+Dorchester,Ashborough West,Sheriff,,REP,Mike Turner,15,0,0,0,4,0,11
+Dorchester,Ashley River,Sheriff,,REP,Mike Turner,50,0,0,0,14,0,36
+Dorchester,Windsor,Sheriff,,REP,Mike Turner,14,0,1,0,1,0,12
+Dorchester,Bacons Bridge,Sheriff,,REP,Mike Turner,70,0,2,0,30,0,38
+Dorchester,Brandymill,Sheriff,,REP,Mike Turner,24,0,0,0,5,0,19
+Dorchester,Briarwood,Sheriff,,REP,Mike Turner,27,0,2,0,4,0,21
+Dorchester,Butternut,Sheriff,,REP,Mike Turner,58,0,0,0,22,0,36
+Dorchester,Central,Sheriff,,REP,Mike Turner,31,0,2,0,4,0,25
+Dorchester,Coosaw,Sheriff,,REP,Mike Turner,64,0,0,0,28,0,36
+Dorchester,Cypress,Sheriff,,REP,Mike Turner,62,0,1,0,14,0,47
+Dorchester,King's Grant,Sheriff,,REP,Mike Turner,61,0,0,0,13,0,48
+Dorchester,Lincoln,Sheriff,,REP,Mike Turner,24,0,0,0,18,0,6
+Dorchester,Miles/Jamison,Sheriff,,REP,Mike Turner,50,0,1,0,18,0,31
+Dorchester,Oakbrook,Sheriff,,REP,Mike Turner,58,0,2,0,20,0,36
+Dorchester,Patriot,Sheriff,,REP,Mike Turner,9,0,0,0,4,0,5
+Dorchester,Sawmill Branch,Sheriff,,REP,Mike Turner,44,0,6,0,7,0,31
+Dorchester,Coastal 2,Sheriff,,REP,Mike Turner,25,0,0,0,10,0,15
+Dorchester,Coastal 3,Sheriff,,REP,Mike Turner,5,0,0,0,0,0,5
+Dorchester,Archdale 2,Sheriff,,REP,Mike Turner,29,0,0,0,6,0,23
+Dorchester,Ashborough East 2,Sheriff,,REP,Mike Turner,59,0,0,0,10,0,49
+Dorchester,Ashborough West 2,Sheriff,,REP,Mike Turner,48,0,0,0,14,0,34
+Dorchester,Beech Hill 2,Sheriff,,REP,Mike Turner,76,0,0,0,34,0,42
+Dorchester,Brandymill 2,Sheriff,,REP,Mike Turner,31,0,1,0,3,0,27
+Dorchester,Briarwood 2,Sheriff,,REP,Mike Turner,19,0,0,0,7,0,12
+Dorchester,Briarwood 3,Sheriff,,REP,Mike Turner,30,0,0,0,14,0,16
+Dorchester,Central 2,Sheriff,,REP,Mike Turner,29,0,0,0,6,0,23
+Dorchester,Clemson 2,Sheriff,,REP,Mike Turner,29,0,0,0,7,0,22
+Dorchester,Clemson 3,Sheriff,,REP,Mike Turner,24,0,3,0,6,0,15
+Dorchester,Coosaw 2,Sheriff,,REP,Mike Turner,27,0,0,0,11,0,16
+Dorchester,Dorchester 2,Sheriff,,REP,Mike Turner,23,0,0,0,8,0,15
+Dorchester,Flowertown 2,Sheriff,,REP,Mike Turner,33,0,0,0,10,0,23
+Dorchester,Givhans 2,Sheriff,,REP,Mike Turner,47,0,0,0,14,0,33
+Dorchester,Indian Field 2,Sheriff,,REP,Mike Turner,14,0,0,0,7,0,7
+Dorchester,Irongate 2,Sheriff,,REP,Mike Turner,8,0,0,0,3,0,5
+Dorchester,Irongate 3,Sheriff,,REP,Mike Turner,22,0,0,0,8,0,14
+Dorchester,King's Grant 2,Sheriff,,REP,Mike Turner,65,0,0,0,24,0,41
+Dorchester,Newington 2,Sheriff,,REP,Mike Turner,16,0,1,0,4,0,11
+Dorchester,North Summerville 2,Sheriff,,REP,Mike Turner,20,0,4,0,6,0,10
+Dorchester,Ridgeville 2,Sheriff,,REP,Mike Turner,20,0,0,0,3,0,17
+Dorchester,Tranquil 2,Sheriff,,REP,Mike Turner,25,0,0,0,2,0,23
+Dorchester,Tupperway 2,Sheriff,,REP,Mike Turner,16,0,0,0,7,0,9
+Dorchester,Tranquil 3,Sheriff,,REP,Mike Turner,8,0,1,0,2,0,5
+Dorchester,Bacons Bridge 2,Sheriff,,REP,Mike Turner,30,0,5,0,11,0,14
+Dorchester,Coosaw 3,Sheriff,,REP,Mike Turner,41,0,0,0,20,0,21
+Dorchester,Cypress 2,Sheriff,,REP,Mike Turner,30,0,0,0,6,0,24
+Dorchester,Flowertown 3,Sheriff,,REP,Mike Turner,40,0,0,0,10,0,30
+Dorchester,Oakbrook 2,Sheriff,,REP,Mike Turner,33,0,2,0,9,0,22
+Dorchester,Windsor 2,Sheriff,,REP,Mike Turner,4,0,1,0,1,0,2
+Dorchester,Failsafe,Sheriff,,REP,Mike Turner,0,0,0,0,0,0,0
+Dorchester,Provisional,Sheriff,,REP,Mike Turner,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,Sheriff,,REP,Mike Turner,0,0,0,0,0,0,0
+Dorchester,Rosinville,Coroner,,REP,Paul Brouthers,98,0,4,0,21,0,73
+Dorchester,St. George No. 2,Coroner,,REP,Paul Brouthers,75,0,0,0,27,0,48
+Dorchester,St. George No. 1,Coroner,,REP,Paul Brouthers,92,0,5,0,25,0,62
+Dorchester,Grover,Coroner,,REP,Paul Brouthers,61,0,2,0,12,0,47
+Dorchester,Reevesville,Coroner,,REP,Paul Brouthers,77,0,0,0,16,0,61
+Dorchester,Harleyville,Coroner,,REP,Paul Brouthers,79,0,0,0,16,0,63
+Dorchester,Four Hole,Coroner,,REP,Paul Brouthers,93,0,0,0,13,0,80
+Dorchester,Rosses,Coroner,,REP,Paul Brouthers,101,0,3,0,10,0,88
+Dorchester,Ridgeville,Coroner,,REP,Paul Brouthers,106,0,0,0,20,0,86
+Dorchester,Givhans,Coroner,,REP,Paul Brouthers,109,0,2,0,22,0,85
+Dorchester,Delemars,Coroner,,REP,Paul Brouthers,107,0,7,0,34,0,66
+Dorchester,Saul Dam,Coroner,,REP,Paul Brouthers,70,0,1,0,20,0,49
+Dorchester,Coastal,Coroner,,REP,Paul Brouthers,28,0,2,0,11,0,15
+Dorchester,Trolley,Coroner,,REP,Paul Brouthers,39,0,2,0,11,0,26
+Dorchester,Tranquil,Coroner,,REP,Paul Brouthers,54,0,2,0,23,0,29
+Dorchester,Beech Hill,Coroner,,REP,Paul Brouthers,131,0,4,0,45,0,82
+Dorchester,Flowertown,Coroner,,REP,Paul Brouthers,307,0,9,0,149,0,149
+Dorchester,Knightsville,Coroner,,REP,Paul Brouthers,102,0,1,0,27,0,74
+Dorchester,Clemson,Coroner,,REP,Paul Brouthers,186,0,4,0,75,0,107
+Dorchester,Germantown,Coroner,,REP,Paul Brouthers,109,0,5,0,56,0,48
+Dorchester,Greenwave,Coroner,,REP,Paul Brouthers,41,0,2,0,7,0,32
+Dorchester,Newington,Coroner,,REP,Paul Brouthers,123,0,3,0,30,0,90
+Dorchester,Carolina,Coroner,,REP,Paul Brouthers,90,0,4,0,27,0,59
+Dorchester,Dorchester,Coroner,,REP,Paul Brouthers,93,0,1,0,43,0,49
+Dorchester,Archdale,Coroner,,REP,Paul Brouthers,48,0,3,0,20,0,25
+Dorchester,Stallsville,Coroner,,REP,Paul Brouthers,96,0,0,0,21,0,75
+Dorchester,Indian Field,Coroner,,REP,Paul Brouthers,30,0,0,0,7,0,23
+Dorchester,Spann,Coroner,,REP,Paul Brouthers,118,0,3,0,53,0,62
+Dorchester,North Summerville,Coroner,,REP,Paul Brouthers,39,0,0,0,28,0,11
+Dorchester,Tupperway,Coroner,,REP,Paul Brouthers,64,0,2,0,21,0,41
+Dorchester,Irongate,Coroner,,REP,Paul Brouthers,48,0,0,0,19,0,29
+Dorchester,Greenhurst,Coroner,,REP,Paul Brouthers,54,0,2,0,18,0,34
+Dorchester,Ashborough East,Coroner,,REP,Paul Brouthers,30,0,0,0,8,0,22
+Dorchester,Ashborough West,Coroner,,REP,Paul Brouthers,47,0,0,0,13,0,34
+Dorchester,Ashley River,Coroner,,REP,Paul Brouthers,102,0,0,0,29,0,73
+Dorchester,Windsor,Coroner,,REP,Paul Brouthers,30,0,0,0,6,0,24
+Dorchester,Bacons Bridge,Coroner,,REP,Paul Brouthers,169,0,5,0,67,0,97
+Dorchester,Brandymill,Coroner,,REP,Paul Brouthers,39,0,0,0,10,0,29
+Dorchester,Briarwood,Coroner,,REP,Paul Brouthers,69,0,2,0,24,0,43
+Dorchester,Butternut,Coroner,,REP,Paul Brouthers,157,0,1,0,53,0,103
+Dorchester,Central,Coroner,,REP,Paul Brouthers,99,0,7,0,20,0,72
+Dorchester,Coosaw,Coroner,,REP,Paul Brouthers,173,0,3,0,95,0,75
+Dorchester,Cypress,Coroner,,REP,Paul Brouthers,124,0,0,0,34,0,90
+Dorchester,King's Grant,Coroner,,REP,Paul Brouthers,125,0,2,0,39,0,84
+Dorchester,Lincoln,Coroner,,REP,Paul Brouthers,43,0,2,0,32,0,9
+Dorchester,Miles/Jamison,Coroner,,REP,Paul Brouthers,120,0,2,0,45,0,73
+Dorchester,Oakbrook,Coroner,,REP,Paul Brouthers,97,0,0,0,38,0,59
+Dorchester,Patriot,Coroner,,REP,Paul Brouthers,19,0,0,0,5,0,14
+Dorchester,Sawmill Branch,Coroner,,REP,Paul Brouthers,136,0,6,0,51,0,79
+Dorchester,Coastal 2,Coroner,,REP,Paul Brouthers,83,0,0,0,32,0,51
+Dorchester,Coastal 3,Coroner,,REP,Paul Brouthers,32,0,0,0,9,0,23
+Dorchester,Archdale 2,Coroner,,REP,Paul Brouthers,94,0,0,0,41,0,53
+Dorchester,Ashborough East 2,Coroner,,REP,Paul Brouthers,114,0,3,0,26,0,85
+Dorchester,Ashborough West 2,Coroner,,REP,Paul Brouthers,110,0,1,0,36,0,73
+Dorchester,Beech Hill 2,Coroner,,REP,Paul Brouthers,150,0,5,0,61,0,84
+Dorchester,Brandymill 2,Coroner,,REP,Paul Brouthers,69,0,1,0,10,0,58
+Dorchester,Briarwood 2,Coroner,,REP,Paul Brouthers,58,0,3,0,21,0,34
+Dorchester,Briarwood 3,Coroner,,REP,Paul Brouthers,54,0,0,0,27,0,27
+Dorchester,Central 2,Coroner,,REP,Paul Brouthers,73,0,0,0,16,0,57
+Dorchester,Clemson 2,Coroner,,REP,Paul Brouthers,93,0,1,0,31,0,61
+Dorchester,Clemson 3,Coroner,,REP,Paul Brouthers,52,0,5,0,15,0,32
+Dorchester,Coosaw 2,Coroner,,REP,Paul Brouthers,85,0,2,0,44,0,39
+Dorchester,Dorchester 2,Coroner,,REP,Paul Brouthers,169,0,1,0,89,0,79
+Dorchester,Flowertown 2,Coroner,,REP,Paul Brouthers,89,0,4,0,24,0,61
+Dorchester,Givhans 2,Coroner,,REP,Paul Brouthers,114,0,6,0,35,0,73
+Dorchester,Indian Field 2,Coroner,,REP,Paul Brouthers,60,0,0,0,16,0,44
+Dorchester,Irongate 2,Coroner,,REP,Paul Brouthers,23,0,0,0,11,0,12
+Dorchester,Irongate 3,Coroner,,REP,Paul Brouthers,55,0,0,0,28,0,27
+Dorchester,King's Grant 2,Coroner,,REP,Paul Brouthers,175,0,1,0,84,0,90
+Dorchester,Newington 2,Coroner,,REP,Paul Brouthers,60,0,1,0,30,0,29
+Dorchester,North Summerville 2,Coroner,,REP,Paul Brouthers,49,0,4,0,22,0,23
+Dorchester,Ridgeville 2,Coroner,,REP,Paul Brouthers,48,0,2,0,5,0,41
+Dorchester,Tranquil 2,Coroner,,REP,Paul Brouthers,42,0,0,0,5,0,37
+Dorchester,Tupperway 2,Coroner,,REP,Paul Brouthers,40,0,0,0,17,0,23
+Dorchester,Tranquil 3,Coroner,,REP,Paul Brouthers,23,0,1,0,5,0,17
+Dorchester,Bacons Bridge 2,Coroner,,REP,Paul Brouthers,57,0,1,0,20,0,36
+Dorchester,Coosaw 3,Coroner,,REP,Paul Brouthers,96,0,2,0,45,0,49
+Dorchester,Cypress 2,Coroner,,REP,Paul Brouthers,61,0,0,0,17,0,44
+Dorchester,Flowertown 3,Coroner,,REP,Paul Brouthers,73,0,0,0,29,0,44
+Dorchester,Oakbrook 2,Coroner,,REP,Paul Brouthers,58,0,4,0,31,0,23
+Dorchester,Windsor 2,Coroner,,REP,Paul Brouthers,7,0,1,0,1,0,5
+Dorchester,Failsafe,Coroner,,REP,Paul Brouthers,0,0,0,0,0,0,0
+Dorchester,Provisional,Coroner,,REP,Paul Brouthers,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,Coroner,,REP,Paul Brouthers,0,0,0,0,0,0,0
+Dorchester,Rosinville,Coroner,,REP,P J White,13,0,0,0,2,0,11
+Dorchester,St. George No. 2,Coroner,,REP,P J White,11,0,0,0,1,0,10
+Dorchester,St. George No. 1,Coroner,,REP,P J White,20,0,0,0,3,0,17
+Dorchester,Grover,Coroner,,REP,P J White,18,0,0,0,4,0,14
+Dorchester,Reevesville,Coroner,,REP,P J White,22,0,0,0,1,0,21
+Dorchester,Harleyville,Coroner,,REP,P J White,3,0,0,0,0,0,3
+Dorchester,Four Hole,Coroner,,REP,P J White,21,0,0,0,2,0,19
+Dorchester,Rosses,Coroner,,REP,P J White,33,0,0,0,3,0,30
+Dorchester,Ridgeville,Coroner,,REP,P J White,59,0,0,0,8,0,51
+Dorchester,Givhans,Coroner,,REP,P J White,39,0,0,0,3,0,36
+Dorchester,Delemars,Coroner,,REP,P J White,48,0,4,0,10,0,34
+Dorchester,Saul Dam,Coroner,,REP,P J White,34,0,0,0,9,0,25
+Dorchester,Coastal,Coroner,,REP,P J White,6,0,0,0,2,0,4
+Dorchester,Trolley,Coroner,,REP,P J White,22,0,0,0,3,0,19
+Dorchester,Tranquil,Coroner,,REP,P J White,21,0,0,0,8,0,13
+Dorchester,Beech Hill,Coroner,,REP,P J White,73,0,0,0,19,0,54
+Dorchester,Flowertown,Coroner,,REP,P J White,178,0,9,0,77,0,92
+Dorchester,Knightsville,Coroner,,REP,P J White,46,0,0,0,8,0,38
+Dorchester,Clemson,Coroner,,REP,P J White,88,0,0,0,31,0,57
+Dorchester,Germantown,Coroner,,REP,P J White,57,0,0,0,15,0,42
+Dorchester,Greenwave,Coroner,,REP,P J White,24,0,0,0,7,0,17
+Dorchester,Newington,Coroner,,REP,P J White,66,0,1,0,13,0,52
+Dorchester,Carolina,Coroner,,REP,P J White,51,0,2,0,8,0,41
+Dorchester,Dorchester,Coroner,,REP,P J White,46,0,2,0,19,0,25
+Dorchester,Archdale,Coroner,,REP,P J White,14,0,0,0,6,0,8
+Dorchester,Stallsville,Coroner,,REP,P J White,31,0,2,0,5,0,24
+Dorchester,Indian Field,Coroner,,REP,P J White,9,0,0,0,6,0,3
+Dorchester,Spann,Coroner,,REP,P J White,66,0,3,0,31,0,32
+Dorchester,North Summerville,Coroner,,REP,P J White,13,0,0,0,7,0,6
+Dorchester,Tupperway,Coroner,,REP,P J White,23,0,1,0,9,0,13
+Dorchester,Irongate,Coroner,,REP,P J White,29,0,0,0,14,0,15
+Dorchester,Greenhurst,Coroner,,REP,P J White,27,0,2,0,15,0,10
+Dorchester,Ashborough East,Coroner,,REP,P J White,17,0,0,0,6,0,11
+Dorchester,Ashborough West,Coroner,,REP,P J White,26,0,0,0,7,0,19
+Dorchester,Ashley River,Coroner,,REP,P J White,43,0,0,0,16,0,27
+Dorchester,Windsor,Coroner,,REP,P J White,10,0,1,0,2,0,7
+Dorchester,Bacons Bridge,Coroner,,REP,P J White,57,0,1,0,28,0,28
+Dorchester,Brandymill,Coroner,,REP,P J White,26,0,1,0,4,0,21
+Dorchester,Briarwood,Coroner,,REP,P J White,29,0,1,0,5,0,23
+Dorchester,Butternut,Coroner,,REP,P J White,94,0,3,0,32,0,59
+Dorchester,Central,Coroner,,REP,P J White,62,0,2,0,10,0,50
+Dorchester,Coosaw,Coroner,,REP,P J White,71,0,0,0,37,0,34
+Dorchester,Cypress,Coroner,,REP,P J White,64,0,1,0,19,0,44
+Dorchester,King's Grant,Coroner,,REP,P J White,57,0,2,0,14,0,41
+Dorchester,Lincoln,Coroner,,REP,P J White,10,0,0,0,8,0,2
+Dorchester,Miles/Jamison,Coroner,,REP,P J White,38,0,3,0,9,0,26
+Dorchester,Oakbrook,Coroner,,REP,P J White,55,0,3,0,15,0,37
+Dorchester,Patriot,Coroner,,REP,P J White,10,0,0,0,5,0,5
+Dorchester,Sawmill Branch,Coroner,,REP,P J White,57,0,4,0,16,0,37
+Dorchester,Coastal 2,Coroner,,REP,P J White,24,0,0,0,6,0,18
+Dorchester,Coastal 3,Coroner,,REP,P J White,13,0,0,0,2,0,11
+Dorchester,Archdale 2,Coroner,,REP,P J White,29,0,0,0,17,0,12
+Dorchester,Ashborough East 2,Coroner,,REP,P J White,32,0,0,0,5,0,27
+Dorchester,Ashborough West 2,Coroner,,REP,P J White,41,0,0,0,10,0,31
+Dorchester,Beech Hill 2,Coroner,,REP,P J White,72,0,2,0,30,0,40
+Dorchester,Brandymill 2,Coroner,,REP,P J White,25,0,0,0,6,0,19
+Dorchester,Briarwood 2,Coroner,,REP,P J White,23,0,2,0,8,0,13
+Dorchester,Briarwood 3,Coroner,,REP,P J White,28,0,0,0,11,0,17
+Dorchester,Central 2,Coroner,,REP,P J White,53,0,0,0,11,0,42
+Dorchester,Clemson 2,Coroner,,REP,P J White,55,0,0,0,15,0,40
+Dorchester,Clemson 3,Coroner,,REP,P J White,44,0,1,0,19,0,24
+Dorchester,Coosaw 2,Coroner,,REP,P J White,35,0,1,0,20,0,14
+Dorchester,Dorchester 2,Coroner,,REP,P J White,72,0,0,0,27,0,45
+Dorchester,Flowertown 2,Coroner,,REP,P J White,30,0,0,0,15,0,15
+Dorchester,Givhans 2,Coroner,,REP,P J White,46,0,0,0,12,0,34
+Dorchester,Indian Field 2,Coroner,,REP,P J White,20,0,0,0,6,0,14
+Dorchester,Irongate 2,Coroner,,REP,P J White,7,0,0,0,4,0,3
+Dorchester,Irongate 3,Coroner,,REP,P J White,28,0,0,0,7,0,21
+Dorchester,King's Grant 2,Coroner,,REP,P J White,72,0,2,0,26,0,44
+Dorchester,Newington 2,Coroner,,REP,P J White,27,0,0,0,11,0,16
+Dorchester,North Summerville 2,Coroner,,REP,P J White,26,0,1,0,6,0,19
+Dorchester,Ridgeville 2,Coroner,,REP,P J White,25,0,0,0,7,0,18
+Dorchester,Tranquil 2,Coroner,,REP,P J White,16,0,0,0,2,0,14
+Dorchester,Tupperway 2,Coroner,,REP,P J White,19,0,0,0,9,0,10
+Dorchester,Tranquil 3,Coroner,,REP,P J White,5,0,0,0,1,0,4
+Dorchester,Bacons Bridge 2,Coroner,,REP,P J White,27,0,2,0,7,0,18
+Dorchester,Coosaw 3,Coroner,,REP,P J White,31,0,2,0,15,0,14
+Dorchester,Cypress 2,Coroner,,REP,P J White,31,0,2,0,10,0,19
+Dorchester,Flowertown 3,Coroner,,REP,P J White,32,0,0,0,6,0,26
+Dorchester,Oakbrook 2,Coroner,,REP,P J White,24,0,0,0,9,0,15
+Dorchester,Windsor 2,Coroner,,REP,P J White,3,0,0,0,0,0,3
+Dorchester,Failsafe,Coroner,,REP,P J White,0,0,0,0,0,0,0
+Dorchester,Provisional,Coroner,,REP,P J White,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,Coroner,,REP,P J White,0,0,0,0,0,0,0

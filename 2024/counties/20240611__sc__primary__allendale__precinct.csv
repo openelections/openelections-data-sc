@@ -1,0 +1,79 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Allendale,ALLENDALE #1,U.S. House,6,REP,Duke Buckner,3,0,0,0,1,0,2
+Allendale,ALLENDALE #2,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,U.S. House,6,REP,Duke Buckner,2,0,0,0,0,0,2
+Allendale,FAIRFAX #2,U.S. House,6,REP,Duke Buckner,3,0,1,0,1,0,1
+Allendale,MARTIN,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Allendale,SYCAMORE,U.S. House,6,REP,Duke Buckner,12,0,0,0,2,0,10
+Allendale,ULMER,U.S. House,6,REP,Duke Buckner,4,0,0,0,0,0,4
+Allendale,WOODS,U.S. House,6,REP,Duke Buckner,4,0,0,0,3,0,1
+Allendale,Failsafe,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,U.S. House,6,REP,Justin Scott,8,0,0,0,2,0,6
+Allendale,ALLENDALE #2,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,U.S. House,6,REP,Justin Scott,5,0,0,0,0,0,5
+Allendale,FAIRFAX #2,U.S. House,6,REP,Justin Scott,2,0,0,0,0,0,2
+Allendale,MARTIN,U.S. House,6,REP,Justin Scott,4,0,0,0,0,0,4
+Allendale,SYCAMORE,U.S. House,6,REP,Justin Scott,18,0,0,0,3,0,15
+Allendale,ULMER,U.S. House,6,REP,Justin Scott,5,0,0,0,1,0,4
+Allendale,WOODS,U.S. House,6,REP,Justin Scott,7,0,0,0,2,0,5
+Allendale,Failsafe,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,State Senate,40,DEM,Kendrick Brown,8,0,0,0,4,0,4
+Allendale,ALLENDALE #2,State Senate,40,DEM,Kendrick Brown,6,0,0,0,1,0,5
+Allendale,FAIRFAX #1,State Senate,40,DEM,Kendrick Brown,15,0,0,0,6,0,9
+Allendale,FAIRFAX #2,State Senate,40,DEM,Kendrick Brown,39,0,1,0,12,0,26
+Allendale,MARTIN,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Allendale,SYCAMORE,State Senate,40,DEM,Kendrick Brown,1,0,0,0,1,0,0
+Allendale,ULMER,State Senate,40,DEM,Kendrick Brown,1,0,0,0,0,0,1
+Allendale,WOODS,State Senate,40,DEM,Kendrick Brown,18,0,1,0,10,0,7
+Allendale,Failsafe,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Allendale,Provisional,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Senate,40,DEM,Kendrick Brown,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,State Senate,40,DEM,Brad Hutto,42,0,1,0,17,0,24
+Allendale,ALLENDALE #2,State Senate,40,DEM,Brad Hutto,56,0,1,0,30,0,25
+Allendale,FAIRFAX #1,State Senate,40,DEM,Brad Hutto,19,0,2,0,5,0,12
+Allendale,FAIRFAX #2,State Senate,40,DEM,Brad Hutto,100,0,3,0,40,0,57
+Allendale,MARTIN,State Senate,40,DEM,Brad Hutto,31,0,0,0,4,0,27
+Allendale,SYCAMORE,State Senate,40,DEM,Brad Hutto,11,0,0,0,3,0,8
+Allendale,ULMER,State Senate,40,DEM,Brad Hutto,4,0,0,0,0,0,4
+Allendale,WOODS,State Senate,40,DEM,Brad Hutto,37,0,2,0,24,0,11
+Allendale,Failsafe,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Allendale,Provisional,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Senate,40,DEM,Brad Hutto,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,State House,91,REP,Demaris Johnson,0,0,0,0,0,0,0
+Allendale,ALLENDALE #2,State House,91,REP,Demaris Johnson,1,0,0,0,0,0,1
+Allendale,FAIRFAX #1,State House,91,REP,Demaris Johnson,3,0,0,0,0,0,3
+Allendale,FAIRFAX #2,State House,91,REP,Demaris Johnson,2,0,0,0,1,0,1
+Allendale,MARTIN,State House,91,REP,Demaris Johnson,2,0,0,0,0,0,2
+Allendale,SYCAMORE,State House,91,REP,Demaris Johnson,27,0,0,0,5,0,22
+Allendale,ULMER,State House,91,REP,Demaris Johnson,6,0,0,0,1,0,5
+Allendale,WOODS,State House,91,REP,Demaris Johnson,6,0,0,0,3,0,3
+Allendale,Failsafe,State House,91,REP,Demaris Johnson,0,0,0,0,0,0,0
+Allendale,Provisional,State House,91,REP,Demaris Johnson,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State House,91,REP,Demaris Johnson,0,0,0,0,0,0,0
+Allendale,ALLENDALE #1,State House,91,REP,Ben Kinlaw,10,0,0,0,3,0,7
+Allendale,ALLENDALE #2,State House,91,REP,Ben Kinlaw,0,0,0,0,0,0,0
+Allendale,FAIRFAX #1,State House,91,REP,Ben Kinlaw,4,0,0,0,0,0,4
+Allendale,FAIRFAX #2,State House,91,REP,Ben Kinlaw,3,0,1,0,0,0,2
+Allendale,MARTIN,State House,91,REP,Ben Kinlaw,2,0,0,0,0,0,2
+Allendale,SYCAMORE,State House,91,REP,Ben Kinlaw,4,0,0,0,1,0,3
+Allendale,ULMER,State House,91,REP,Ben Kinlaw,3,0,0,0,0,0,3
+Allendale,WOODS,State House,91,REP,Ben Kinlaw,6,0,0,0,3,0,3
+Allendale,Failsafe,State House,91,REP,Ben Kinlaw,0,0,0,0,0,0,0
+Allendale,Provisional,State House,91,REP,Ben Kinlaw,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State House,91,REP,Ben Kinlaw,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,County Council District 1,,DEM,Keith Browning,24,0,2,0,10,0,12
+Allendale,Failsafe,County Council District 1,,DEM,Keith Browning,0,0,0,0,0,0,0
+Allendale,Provisional,County Council District 1,,DEM,Keith Browning,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 1,,DEM,Keith Browning,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,County Council District 1,,DEM,John A Chaney,66,0,2,0,16,0,48
+Allendale,Failsafe,County Council District 1,,DEM,John A Chaney,0,0,0,0,0,0,0
+Allendale,Provisional,County Council District 1,,DEM,John A Chaney,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 1,,DEM,John A Chaney,0,0,0,0,0,0,0
+Allendale,FAIRFAX #2,County Council District 1,,DEM,Theresa Harvey Taylor,75,0,0,0,38,0,37
+Allendale,Failsafe,County Council District 1,,DEM,Theresa Harvey Taylor,0,0,0,0,0,0,0
+Allendale,Provisional,County Council District 1,,DEM,Theresa Harvey Taylor,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 1,,DEM,Theresa Harvey Taylor,0,0,0,0,0,0,0

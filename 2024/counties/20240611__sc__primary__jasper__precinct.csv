@@ -1,0 +1,184 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Jasper,SUN CITY,U.S. House,1,DEM,Mac Deford,283,0,17,0,71,0,195
+Jasper,OKATIE 2,U.S. House,1,DEM,Mac Deford,18,0,6,0,5,0,7
+Jasper,Failsafe,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,DEM,Mac Deford,0,0,0,0,0,0,0
+Jasper,SUN CITY,U.S. House,1,DEM,Michael B Moore,80,0,9,0,24,0,47
+Jasper,OKATIE 2,U.S. House,1,DEM,Michael B Moore,13,0,2,0,7,0,4
+Jasper,Failsafe,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,DEM,Michael B Moore,2,0,0,0,0,2,0
+Jasper,Failsafe Provisional,U.S. House,1,DEM,Michael B Moore,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,U.S. House,6,REP,Duke Buckner,11,0,0,0,2,0,9
+Jasper,GILLISONVILLE,U.S. House,6,REP,Duke Buckner,49,0,0,0,7,0,42
+Jasper,GRAHAMVILLE 1,U.S. House,6,REP,Duke Buckner,91,0,2,0,24,0,65
+Jasper,GRAHAMVILLE 2,U.S. House,6,REP,Duke Buckner,81,0,1,0,19,0,61
+Jasper,GRAYS,U.S. House,6,REP,Duke Buckner,80,0,0,0,8,0,72
+Jasper,HARDEEVILLE 1,U.S. House,6,REP,Duke Buckner,23,0,0,0,10,0,13
+Jasper,HARDEEVILLE 2,U.S. House,6,REP,Duke Buckner,33,0,0,0,20,0,13
+Jasper,LEVY,U.S. House,6,REP,Duke Buckner,33,0,1,0,9,0,23
+Jasper,OKATIE,U.S. House,6,REP,Duke Buckner,15,0,0,0,4,0,11
+Jasper,PINELAND,U.S. House,6,REP,Duke Buckner,6,0,0,0,0,0,6
+Jasper,RIDGELAND 1,U.S. House,6,REP,Duke Buckner,82,0,2,0,30,0,50
+Jasper,RIDGELAND 2,U.S. House,6,REP,Duke Buckner,45,0,0,0,18,0,27
+Jasper,TILLMAN,U.S. House,6,REP,Duke Buckner,32,0,0,0,2,0,30
+Jasper,RIDGELAND 3,U.S. House,6,REP,Duke Buckner,85,0,0,0,27,0,58
+Jasper,HARDEEVILLE 3,U.S. House,6,REP,Duke Buckner,67,0,2,0,0,0,65
+Jasper,Margaritaville,U.S. House,6,REP,Duke Buckner,205,0,2,0,45,0,158
+Jasper,Failsafe,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,6,REP,Duke Buckner,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,U.S. House,6,REP,Justin Scott,12,0,0,0,5,0,7
+Jasper,GILLISONVILLE,U.S. House,6,REP,Justin Scott,55,0,0,0,12,0,43
+Jasper,GRAHAMVILLE 1,U.S. House,6,REP,Justin Scott,84,0,0,0,16,0,68
+Jasper,GRAHAMVILLE 2,U.S. House,6,REP,Justin Scott,86,0,0,0,11,0,75
+Jasper,GRAYS,U.S. House,6,REP,Justin Scott,76,0,0,0,5,0,71
+Jasper,HARDEEVILLE 1,U.S. House,6,REP,Justin Scott,22,0,0,0,9,0,13
+Jasper,HARDEEVILLE 2,U.S. House,6,REP,Justin Scott,23,0,0,0,4,0,19
+Jasper,LEVY,U.S. House,6,REP,Justin Scott,31,0,0,0,7,0,24
+Jasper,OKATIE,U.S. House,6,REP,Justin Scott,21,0,0,0,3,0,18
+Jasper,PINELAND,U.S. House,6,REP,Justin Scott,3,0,0,0,0,0,3
+Jasper,RIDGELAND 1,U.S. House,6,REP,Justin Scott,84,0,1,0,22,0,61
+Jasper,RIDGELAND 2,U.S. House,6,REP,Justin Scott,57,0,0,0,17,0,40
+Jasper,TILLMAN,U.S. House,6,REP,Justin Scott,39,0,0,0,7,0,32
+Jasper,RIDGELAND 3,U.S. House,6,REP,Justin Scott,83,0,0,0,17,0,66
+Jasper,HARDEEVILLE 3,U.S. House,6,REP,Justin Scott,54,0,2,0,6,0,46
+Jasper,Margaritaville,U.S. House,6,REP,Justin Scott,197,0,4,0,19,0,174
+Jasper,Failsafe,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,6,REP,Justin Scott,1,0,0,0,0,1,0
+Jasper,Failsafe Provisional,U.S. House,6,REP,Justin Scott,0,0,0,0,0,0,0
+Jasper,SUN CITY,U.S. House,1,REP,Nancy Mace,420,0,26,0,56,0,338
+Jasper,OKATIE 2,U.S. House,1,REP,Nancy Mace,40,0,4,0,19,0,17
+Jasper,Failsafe,U.S. House,1,REP,Nancy Mace,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,REP,Nancy Mace,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,REP,Nancy Mace,0,0,0,0,0,0,0
+Jasper,SUN CITY,U.S. House,1,REP,Catherine Templeton,257,0,18,0,66,0,173
+Jasper,OKATIE 2,U.S. House,1,REP,Catherine Templeton,45,0,0,0,20,0,25
+Jasper,Failsafe,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,REP,Catherine Templeton,0,0,0,0,0,0,0
+Jasper,SUN CITY,U.S. House,1,REP,Bill Young,84,0,4,0,13,0,67
+Jasper,OKATIE 2,U.S. House,1,REP,Bill Young,9,0,1,0,6,0,2
+Jasper,Failsafe,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,REP,Bill Young,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,State House,122,DEM,Johnny Lee Jackson Jr,13,0,0,0,3,0,10
+Jasper,GILLISONVILLE,State House,122,DEM,Johnny Lee Jackson Jr,32,0,0,0,12,0,20
+Jasper,GRAHAMVILLE 1,State House,122,DEM,Johnny Lee Jackson Jr,54,0,1,0,22,0,31
+Jasper,GRAHAMVILLE 2,State House,122,DEM,Johnny Lee Jackson Jr,183,0,9,0,68,0,106
+Jasper,GRAYS,State House,122,DEM,Johnny Lee Jackson Jr,20,0,0,0,3,0,17
+Jasper,HARDEEVILLE 1,State House,122,DEM,Johnny Lee Jackson Jr,43,0,1,0,16,0,26
+Jasper,HARDEEVILLE 2,State House,122,DEM,Johnny Lee Jackson Jr,31,0,0,0,7,0,24
+Jasper,OKATIE,State House,122,DEM,Johnny Lee Jackson Jr,12,0,0,0,3,0,9
+Jasper,PINELAND,State House,122,DEM,Johnny Lee Jackson Jr,66,0,1,0,14,0,51
+Jasper,RIDGELAND 1,State House,122,DEM,Johnny Lee Jackson Jr,20,0,1,0,8,0,11
+Jasper,RIDGELAND 2,State House,122,DEM,Johnny Lee Jackson Jr,45,0,11,0,15,0,19
+Jasper,TILLMAN,State House,122,DEM,Johnny Lee Jackson Jr,51,0,9,0,13,0,29
+Jasper,RIDGELAND 3,State House,122,DEM,Johnny Lee Jackson Jr,46,0,10,0,21,0,15
+Jasper,HARDEEVILLE 3,State House,122,DEM,Johnny Lee Jackson Jr,9,0,3,0,1,0,5
+Jasper,Margaritaville,State House,122,DEM,Johnny Lee Jackson Jr,22,0,0,0,2,0,20
+Jasper,Failsafe,State House,122,DEM,Johnny Lee Jackson Jr,0,0,0,0,0,0,0
+Jasper,Provisional,State House,122,DEM,Johnny Lee Jackson Jr,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State House,122,DEM,Johnny Lee Jackson Jr,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,State House,122,DEM,Audrey Hopkins Williams,14,0,0,0,2,0,12
+Jasper,GILLISONVILLE,State House,122,DEM,Audrey Hopkins Williams,29,0,4,0,12,0,13
+Jasper,GRAHAMVILLE 1,State House,122,DEM,Audrey Hopkins Williams,31,0,1,0,12,0,18
+Jasper,GRAHAMVILLE 2,State House,122,DEM,Audrey Hopkins Williams,59,0,0,0,16,0,43
+Jasper,GRAYS,State House,122,DEM,Audrey Hopkins Williams,18,0,0,0,5,0,13
+Jasper,HARDEEVILLE 1,State House,122,DEM,Audrey Hopkins Williams,14,0,1,0,5,0,8
+Jasper,HARDEEVILLE 2,State House,122,DEM,Audrey Hopkins Williams,8,0,1,0,3,0,4
+Jasper,OKATIE,State House,122,DEM,Audrey Hopkins Williams,14,0,3,0,3,0,8
+Jasper,PINELAND,State House,122,DEM,Audrey Hopkins Williams,68,0,1,0,10,0,57
+Jasper,RIDGELAND 1,State House,122,DEM,Audrey Hopkins Williams,10,0,0,0,3,0,7
+Jasper,RIDGELAND 2,State House,122,DEM,Audrey Hopkins Williams,21,0,0,0,7,0,14
+Jasper,TILLMAN,State House,122,DEM,Audrey Hopkins Williams,25,0,0,0,10,0,15
+Jasper,RIDGELAND 3,State House,122,DEM,Audrey Hopkins Williams,18,0,2,0,7,0,9
+Jasper,HARDEEVILLE 3,State House,122,DEM,Audrey Hopkins Williams,21,0,2,0,7,0,12
+Jasper,Margaritaville,State House,122,DEM,Audrey Hopkins Williams,95,0,2,0,13,0,80
+Jasper,Failsafe,State House,122,DEM,Audrey Hopkins Williams,0,0,0,0,0,0,0
+Jasper,Provisional,State House,122,DEM,Audrey Hopkins Williams,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State House,122,DEM,Audrey Hopkins Williams,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Sheriff,,REP,Christopher Malphrus,8,0,0,0,1,0,7
+Jasper,GILLISONVILLE,Sheriff,,REP,Christopher Malphrus,49,0,0,0,10,0,39
+Jasper,GRAHAMVILLE 1,Sheriff,,REP,Christopher Malphrus,101,0,0,0,23,0,78
+Jasper,GRAHAMVILLE 2,Sheriff,,REP,Christopher Malphrus,85,0,0,0,14,0,71
+Jasper,GRAYS,Sheriff,,REP,Christopher Malphrus,101,0,0,0,7,0,94
+Jasper,HARDEEVILLE 1,Sheriff,,REP,Christopher Malphrus,22,0,0,0,9,0,13
+Jasper,HARDEEVILLE 2,Sheriff,,REP,Christopher Malphrus,19,0,0,0,6,0,13
+Jasper,LEVY,Sheriff,,REP,Christopher Malphrus,28,0,0,0,10,0,18
+Jasper,OKATIE,Sheriff,,REP,Christopher Malphrus,17,0,0,0,2,0,15
+Jasper,PINELAND,Sheriff,,REP,Christopher Malphrus,8,0,0,0,0,0,8
+Jasper,RIDGELAND 1,Sheriff,,REP,Christopher Malphrus,91,0,4,0,17,0,70
+Jasper,RIDGELAND 2,Sheriff,,REP,Christopher Malphrus,46,0,1,0,9,0,36
+Jasper,TILLMAN,Sheriff,,REP,Christopher Malphrus,32,0,0,0,7,0,25
+Jasper,RIDGELAND 3,Sheriff,,REP,Christopher Malphrus,89,0,0,0,26,0,63
+Jasper,SUN CITY,Sheriff,,REP,Christopher Malphrus,453,0,28,0,59,0,366
+Jasper,HARDEEVILLE 3,Sheriff,,REP,Christopher Malphrus,81,0,1,0,5,0,75
+Jasper,OKATIE 2,Sheriff,,REP,Christopher Malphrus,63,0,3,0,37,0,23
+Jasper,Margaritaville,Sheriff,,REP,Christopher Malphrus,275,0,3,0,54,0,218
+Jasper,Failsafe,Sheriff,,REP,Christopher Malphrus,0,0,0,0,0,0,0
+Jasper,Provisional,Sheriff,,REP,Christopher Malphrus,1,0,0,0,0,1,0
+Jasper,Failsafe Provisional,Sheriff,,REP,Christopher Malphrus,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,Sheriff,,REP,Christopher Warren,17,0,0,0,6,0,11
+Jasper,GILLISONVILLE,Sheriff,,REP,Christopher Warren,70,0,0,0,16,0,54
+Jasper,GRAHAMVILLE 1,Sheriff,,REP,Christopher Warren,90,0,2,0,19,0,69
+Jasper,GRAHAMVILLE 2,Sheriff,,REP,Christopher Warren,99,0,1,0,18,0,80
+Jasper,GRAYS,Sheriff,,REP,Christopher Warren,65,0,0,0,9,0,56
+Jasper,HARDEEVILLE 1,Sheriff,,REP,Christopher Warren,26,0,0,0,14,0,12
+Jasper,HARDEEVILLE 2,Sheriff,,REP,Christopher Warren,43,0,0,0,23,0,20
+Jasper,LEVY,Sheriff,,REP,Christopher Warren,45,0,1,0,10,0,34
+Jasper,OKATIE,Sheriff,,REP,Christopher Warren,21,0,0,0,5,0,16
+Jasper,PINELAND,Sheriff,,REP,Christopher Warren,1,0,0,0,0,0,1
+Jasper,RIDGELAND 1,Sheriff,,REP,Christopher Warren,99,0,2,0,42,0,55
+Jasper,RIDGELAND 2,Sheriff,,REP,Christopher Warren,62,0,0,0,26,0,36
+Jasper,TILLMAN,Sheriff,,REP,Christopher Warren,40,0,0,0,2,0,38
+Jasper,RIDGELAND 3,Sheriff,,REP,Christopher Warren,94,0,0,0,25,0,69
+Jasper,SUN CITY,Sheriff,,REP,Christopher Warren,264,0,16,0,74,0,174
+Jasper,HARDEEVILLE 3,Sheriff,,REP,Christopher Warren,41,0,3,0,1,0,37
+Jasper,OKATIE 2,Sheriff,,REP,Christopher Warren,31,0,2,0,8,0,21
+Jasper,Margaritaville,Sheriff,,REP,Christopher Warren,135,0,3,0,10,0,122
+Jasper,Failsafe,Sheriff,,REP,Christopher Warren,0,0,0,0,0,0,0
+Jasper,Provisional,Sheriff,,REP,Christopher Warren,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Sheriff,,REP,Christopher Warren,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,County Council At Large,,REP,David L Cope,8,0,0,0,3,0,5
+Jasper,GILLISONVILLE,County Council At Large,,REP,David L Cope,66,0,0,0,13,0,53
+Jasper,GRAHAMVILLE 1,County Council At Large,,REP,David L Cope,108,0,0,0,27,0,81
+Jasper,GRAHAMVILLE 2,County Council At Large,,REP,David L Cope,109,0,0,0,17,0,92
+Jasper,GRAYS,County Council At Large,,REP,David L Cope,137,0,0,0,13,0,124
+Jasper,HARDEEVILLE 1,County Council At Large,,REP,David L Cope,21,0,0,0,8,0,13
+Jasper,HARDEEVILLE 2,County Council At Large,,REP,David L Cope,15,0,0,0,5,0,10
+Jasper,LEVY,County Council At Large,,REP,David L Cope,19,0,0,0,6,0,13
+Jasper,OKATIE,County Council At Large,,REP,David L Cope,13,0,0,0,3,0,10
+Jasper,PINELAND,County Council At Large,,REP,David L Cope,3,0,0,0,0,0,3
+Jasper,RIDGELAND 1,County Council At Large,,REP,David L Cope,118,0,4,0,42,0,72
+Jasper,RIDGELAND 2,County Council At Large,,REP,David L Cope,55,0,0,0,18,0,37
+Jasper,TILLMAN,County Council At Large,,REP,David L Cope,37,0,0,0,5,0,32
+Jasper,RIDGELAND 3,County Council At Large,,REP,David L Cope,84,0,0,0,22,0,62
+Jasper,SUN CITY,County Council At Large,,REP,David L Cope,178,0,9,0,29,0,140
+Jasper,HARDEEVILLE 3,County Council At Large,,REP,David L Cope,30,0,1,0,1,0,28
+Jasper,OKATIE 2,County Council At Large,,REP,David L Cope,23,0,0,0,11,0,12
+Jasper,Margaritaville,County Council At Large,,REP,David L Cope,88,0,3,0,4,0,81
+Jasper,Failsafe,County Council At Large,,REP,David L Cope,0,0,0,0,0,0,0
+Jasper,Provisional,County Council At Large,,REP,David L Cope,1,0,0,0,0,1,0
+Jasper,Failsafe Provisional,County Council At Large,,REP,David L Cope,0,0,0,0,0,0,0
+Jasper,COOSAWHATCHIE,County Council At Large,,REP,John Kemp,16,0,0,0,4,0,12
+Jasper,GILLISONVILLE,County Council At Large,,REP,John Kemp,51,0,0,0,11,0,40
+Jasper,GRAHAMVILLE 1,County Council At Large,,REP,John Kemp,80,0,2,0,12,0,66
+Jasper,GRAHAMVILLE 2,County Council At Large,,REP,John Kemp,74,0,1,0,16,0,57
+Jasper,GRAYS,County Council At Large,,REP,John Kemp,29,0,0,0,3,0,26
+Jasper,HARDEEVILLE 1,County Council At Large,,REP,John Kemp,27,0,0,0,15,0,12
+Jasper,HARDEEVILLE 2,County Council At Large,,REP,John Kemp,47,0,0,0,24,0,23
+Jasper,LEVY,County Council At Large,,REP,John Kemp,51,0,1,0,14,0,36
+Jasper,OKATIE,County Council At Large,,REP,John Kemp,21,0,0,0,4,0,17
+Jasper,PINELAND,County Council At Large,,REP,John Kemp,6,0,0,0,0,0,6
+Jasper,RIDGELAND 1,County Council At Large,,REP,John Kemp,71,0,2,0,17,0,52
+Jasper,RIDGELAND 2,County Council At Large,,REP,John Kemp,55,0,0,0,20,0,35
+Jasper,TILLMAN,County Council At Large,,REP,John Kemp,39,0,0,0,6,0,33
+Jasper,RIDGELAND 3,County Council At Large,,REP,John Kemp,95,0,0,0,28,0,67
+Jasper,SUN CITY,County Council At Large,,REP,John Kemp,527,0,32,0,105,0,390
+Jasper,HARDEEVILLE 3,County Council At Large,,REP,John Kemp,92,0,3,0,5,0,84
+Jasper,OKATIE 2,County Council At Large,,REP,John Kemp,66,0,5,0,34,0,27
+Jasper,Margaritaville,County Council At Large,,REP,John Kemp,326,0,3,0,62,0,261
+Jasper,Failsafe,County Council At Large,,REP,John Kemp,0,0,0,0,0,0,0
+Jasper,Provisional,County Council At Large,,REP,John Kemp,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,County Council At Large,,REP,John Kemp,0,0,0,0,0,0,0

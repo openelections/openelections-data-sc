@@ -1,0 +1,575 @@
+county,precinct,office,district,party,candidate,votes,failsafe,absentee_by_mail,failsafe_provisional,early_voting,provisional,election_day
+Oconee,Newry-Corinth,U.S. House,3,DEM,Bryon L Best,3,0,0,0,2,0,1
+Oconee,Earles Grove,U.S. House,3,DEM,Bryon L Best,1,0,0,0,0,0,1
+Oconee,Ravenel,U.S. House,3,DEM,Bryon L Best,15,0,1,0,0,0,14
+Oconee,Fair Play,U.S. House,3,DEM,Bryon L Best,1,0,0,0,0,0,1
+Oconee,Friendship,U.S. House,3,DEM,Bryon L Best,8,0,0,0,2,0,6
+Oconee,Holly Springs,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Oconee,Keowee,U.S. House,3,DEM,Bryon L Best,7,0,0,0,2,0,5
+Oconee,Long Creek,U.S. House,3,DEM,Bryon L Best,1,0,0,0,1,0,0
+Oconee,Mountain Rest,U.S. House,3,DEM,Bryon L Best,4,0,0,0,1,0,3
+Oconee,Madison,U.S. House,3,DEM,Bryon L Best,1,0,0,0,1,0,0
+Oconee,Bountyland,U.S. House,3,DEM,Bryon L Best,3,0,0,0,1,0,2
+Oconee,Oakway,U.S. House,3,DEM,Bryon L Best,6,0,2,0,1,0,3
+Oconee,Return,U.S. House,3,DEM,Bryon L Best,1,0,0,0,1,0,0
+Oconee,Richland,U.S. House,3,DEM,Bryon L Best,12,0,3,0,2,0,7
+Oconee,Salem,U.S. House,3,DEM,Bryon L Best,11,0,3,0,2,0,6
+Oconee,Stamp Creek,U.S. House,3,DEM,Bryon L Best,18,0,1,0,4,0,13
+Oconee,New Hope,U.S. House,3,DEM,Bryon L Best,5,0,0,0,2,0,3
+Oconee,Shiloh,U.S. House,3,DEM,Bryon L Best,8,0,0,0,1,0,7
+Oconee,South Union,U.S. House,3,DEM,Bryon L Best,3,0,0,0,0,0,3
+Oconee,Tamassee,U.S. House,3,DEM,Bryon L Best,1,0,0,0,0,0,1
+Oconee,Tokeena-Providence,U.S. House,3,DEM,Bryon L Best,3,0,0,0,0,0,3
+Oconee,Utica,U.S. House,3,DEM,Bryon L Best,3,0,0,0,0,0,3
+Oconee,Walhalla 1,U.S. House,3,DEM,Bryon L Best,16,0,3,0,6,0,7
+Oconee,Walhalla 2,U.S. House,3,DEM,Bryon L Best,14,0,5,0,1,0,8
+Oconee,Westminster 1,U.S. House,3,DEM,Bryon L Best,8,0,1,0,5,0,2
+Oconee,Westminster 2,U.S. House,3,DEM,Bryon L Best,7,0,0,0,3,0,4
+Oconee,West Union,U.S. House,3,DEM,Bryon L Best,8,0,1,0,4,0,3
+Oconee,Seneca 1,U.S. House,3,DEM,Bryon L Best,24,0,4,0,4,0,16
+Oconee,Seneca 2,U.S. House,3,DEM,Bryon L Best,16,0,0,0,6,0,10
+Oconee,Seneca 3,U.S. House,3,DEM,Bryon L Best,5,0,0,0,3,0,2
+Oconee,Seneca 4,U.S. House,3,DEM,Bryon L Best,29,0,2,0,4,0,23
+Oconee,Failsafe,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Oconee,Provisional,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,U.S. House,3,DEM,Frances Guldner,6,0,0,0,0,0,6
+Oconee,Earles Grove,U.S. House,3,DEM,Frances Guldner,4,0,0,0,0,0,4
+Oconee,Ravenel,U.S. House,3,DEM,Frances Guldner,35,0,8,0,9,0,18
+Oconee,Fair Play,U.S. House,3,DEM,Frances Guldner,3,0,0,0,1,0,2
+Oconee,Friendship,U.S. House,3,DEM,Frances Guldner,6,0,0,0,0,0,6
+Oconee,Holly Springs,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Oconee,Keowee,U.S. House,3,DEM,Frances Guldner,12,0,0,0,7,0,5
+Oconee,Long Creek,U.S. House,3,DEM,Frances Guldner,4,0,0,0,0,0,4
+Oconee,Mountain Rest,U.S. House,3,DEM,Frances Guldner,7,0,0,0,1,0,6
+Oconee,Madison,U.S. House,3,DEM,Frances Guldner,2,0,0,0,0,0,2
+Oconee,Bountyland,U.S. House,3,DEM,Frances Guldner,10,0,4,0,2,0,4
+Oconee,Oakway,U.S. House,3,DEM,Frances Guldner,4,0,2,0,1,0,1
+Oconee,Return,U.S. House,3,DEM,Frances Guldner,2,0,0,0,0,0,2
+Oconee,Richland,U.S. House,3,DEM,Frances Guldner,8,0,2,0,2,0,4
+Oconee,Salem,U.S. House,3,DEM,Frances Guldner,7,0,0,0,3,0,4
+Oconee,Stamp Creek,U.S. House,3,DEM,Frances Guldner,28,0,3,0,5,0,20
+Oconee,New Hope,U.S. House,3,DEM,Frances Guldner,13,0,2,0,6,0,5
+Oconee,Shiloh,U.S. House,3,DEM,Frances Guldner,21,0,0,0,1,0,20
+Oconee,South Union,U.S. House,3,DEM,Frances Guldner,14,0,0,0,1,0,13
+Oconee,Tamassee,U.S. House,3,DEM,Frances Guldner,6,0,0,0,3,0,3
+Oconee,Tokeena-Providence,U.S. House,3,DEM,Frances Guldner,4,0,0,0,0,0,4
+Oconee,Utica,U.S. House,3,DEM,Frances Guldner,6,0,0,0,1,0,5
+Oconee,Walhalla 1,U.S. House,3,DEM,Frances Guldner,21,0,0,0,13,0,8
+Oconee,Walhalla 2,U.S. House,3,DEM,Frances Guldner,16,0,2,0,6,0,8
+Oconee,Westminster 1,U.S. House,3,DEM,Frances Guldner,10,0,1,0,6,0,3
+Oconee,Westminster 2,U.S. House,3,DEM,Frances Guldner,7,0,2,0,1,0,4
+Oconee,West Union,U.S. House,3,DEM,Frances Guldner,15,0,1,0,12,0,2
+Oconee,Seneca 1,U.S. House,3,DEM,Frances Guldner,28,0,5,0,7,0,16
+Oconee,Seneca 2,U.S. House,3,DEM,Frances Guldner,18,0,2,0,2,0,14
+Oconee,Seneca 3,U.S. House,3,DEM,Frances Guldner,7,0,0,0,3,0,4
+Oconee,Seneca 4,U.S. House,3,DEM,Frances Guldner,18,0,0,0,3,0,15
+Oconee,Failsafe,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Oconee,Provisional,U.S. House,3,DEM,Frances Guldner,1,0,0,0,0,1,0
+Oconee,Failsafe Provisional,U.S. House,3,DEM,Frances Guldner,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,U.S. House,3,REP,Sheri Biggs,7,0,0,0,0,0,7
+Oconee,Earles Grove,U.S. House,3,REP,Sheri Biggs,73,0,0,0,8,0,65
+Oconee,Ravenel,U.S. House,3,REP,Sheri Biggs,147,0,3,0,35,0,109
+Oconee,Fair Play,U.S. House,3,REP,Sheri Biggs,93,0,2,0,5,0,86
+Oconee,Friendship,U.S. House,3,REP,Sheri Biggs,111,0,2,0,14,0,95
+Oconee,Holly Springs,U.S. House,3,REP,Sheri Biggs,19,0,0,0,3,0,16
+Oconee,Keowee,U.S. House,3,REP,Sheri Biggs,183,0,7,0,69,0,107
+Oconee,Long Creek,U.S. House,3,REP,Sheri Biggs,23,0,2,0,2,0,19
+Oconee,Mountain Rest,U.S. House,3,REP,Sheri Biggs,90,0,0,0,16,0,74
+Oconee,Madison,U.S. House,3,REP,Sheri Biggs,27,0,0,0,3,0,24
+Oconee,Bountyland,U.S. House,3,REP,Sheri Biggs,148,0,9,0,45,0,94
+Oconee,Oakway,U.S. House,3,REP,Sheri Biggs,71,0,1,0,15,0,55
+Oconee,Return,U.S. House,3,REP,Sheri Biggs,62,0,0,0,9,0,53
+Oconee,Richland,U.S. House,3,REP,Sheri Biggs,71,0,2,0,6,0,63
+Oconee,Salem,U.S. House,3,REP,Sheri Biggs,209,0,8,0,46,0,155
+Oconee,Stamp Creek,U.S. House,3,REP,Sheri Biggs,266,0,19,0,108,0,139
+Oconee,New Hope,U.S. House,3,REP,Sheri Biggs,206,0,12,0,72,0,122
+Oconee,Shiloh,U.S. House,3,REP,Sheri Biggs,81,0,4,0,8,0,69
+Oconee,South Union,U.S. House,3,REP,Sheri Biggs,96,0,2,0,12,0,82
+Oconee,Tamassee,U.S. House,3,REP,Sheri Biggs,81,0,1,0,21,0,59
+Oconee,Tokeena-Providence,U.S. House,3,REP,Sheri Biggs,106,0,6,0,11,0,89
+Oconee,Utica,U.S. House,3,REP,Sheri Biggs,18,0,0,0,5,0,13
+Oconee,Walhalla 1,U.S. House,3,REP,Sheri Biggs,296,0,9,0,135,0,152
+Oconee,Walhalla 2,U.S. House,3,REP,Sheri Biggs,146,0,5,0,64,0,77
+Oconee,Westminster 1,U.S. House,3,REP,Sheri Biggs,170,0,12,0,44,0,114
+Oconee,Westminster 2,U.S. House,3,REP,Sheri Biggs,83,0,5,0,17,0,61
+Oconee,West Union,U.S. House,3,REP,Sheri Biggs,129,0,7,0,34,0,88
+Oconee,Seneca 1,U.S. House,3,REP,Sheri Biggs,174,0,4,0,45,0,125
+Oconee,Seneca 2,U.S. House,3,REP,Sheri Biggs,134,0,10,0,41,0,83
+Oconee,Seneca 3,U.S. House,3,REP,Sheri Biggs,118,0,5,0,37,0,76
+Oconee,Seneca 4,U.S. House,3,REP,Sheri Biggs,122,0,2,0,20,0,100
+Oconee,Failsafe,U.S. House,3,REP,Sheri Biggs,0,0,0,0,0,0,0
+Oconee,Provisional,U.S. House,3,REP,Sheri Biggs,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,U.S. House,3,REP,Sheri Biggs,2,0,0,2,0,0,0
+Oconee,Newry-Corinth,U.S. House,3,REP,Kevin Bishop,2,0,0,0,0,0,2
+Oconee,Earles Grove,U.S. House,3,REP,Kevin Bishop,15,0,0,0,0,0,15
+Oconee,Ravenel,U.S. House,3,REP,Kevin Bishop,56,0,1,0,15,0,40
+Oconee,Fair Play,U.S. House,3,REP,Kevin Bishop,32,0,0,0,5,0,27
+Oconee,Friendship,U.S. House,3,REP,Kevin Bishop,25,0,0,0,3,0,22
+Oconee,Holly Springs,U.S. House,3,REP,Kevin Bishop,13,0,0,0,0,0,13
+Oconee,Keowee,U.S. House,3,REP,Kevin Bishop,59,0,4,0,14,0,41
+Oconee,Long Creek,U.S. House,3,REP,Kevin Bishop,26,0,0,0,4,0,22
+Oconee,Mountain Rest,U.S. House,3,REP,Kevin Bishop,44,0,0,0,9,0,35
+Oconee,Madison,U.S. House,3,REP,Kevin Bishop,8,0,0,0,0,0,8
+Oconee,Bountyland,U.S. House,3,REP,Kevin Bishop,25,0,2,0,5,0,18
+Oconee,Oakway,U.S. House,3,REP,Kevin Bishop,14,0,0,0,0,0,14
+Oconee,Return,U.S. House,3,REP,Kevin Bishop,14,0,0,0,0,0,14
+Oconee,Richland,U.S. House,3,REP,Kevin Bishop,24,0,1,0,5,0,18
+Oconee,Salem,U.S. House,3,REP,Kevin Bishop,16,0,1,0,3,0,12
+Oconee,Stamp Creek,U.S. House,3,REP,Kevin Bishop,48,0,3,0,20,0,25
+Oconee,New Hope,U.S. House,3,REP,Kevin Bishop,59,0,6,0,25,0,28
+Oconee,Shiloh,U.S. House,3,REP,Kevin Bishop,21,0,2,0,3,0,16
+Oconee,South Union,U.S. House,3,REP,Kevin Bishop,35,0,1,0,3,0,31
+Oconee,Tamassee,U.S. House,3,REP,Kevin Bishop,23,0,1,0,11,0,11
+Oconee,Tokeena-Providence,U.S. House,3,REP,Kevin Bishop,19,0,0,0,2,0,17
+Oconee,Utica,U.S. House,3,REP,Kevin Bishop,1,0,0,0,0,0,1
+Oconee,Walhalla 1,U.S. House,3,REP,Kevin Bishop,81,0,4,0,33,0,44
+Oconee,Walhalla 2,U.S. House,3,REP,Kevin Bishop,60,0,2,0,19,0,39
+Oconee,Westminster 1,U.S. House,3,REP,Kevin Bishop,31,0,0,0,7,0,24
+Oconee,Westminster 2,U.S. House,3,REP,Kevin Bishop,23,0,0,0,7,0,16
+Oconee,West Union,U.S. House,3,REP,Kevin Bishop,46,0,2,0,13,0,31
+Oconee,Seneca 1,U.S. House,3,REP,Kevin Bishop,24,0,0,0,2,0,22
+Oconee,Seneca 2,U.S. House,3,REP,Kevin Bishop,28,0,1,0,10,0,17
+Oconee,Seneca 3,U.S. House,3,REP,Kevin Bishop,26,0,0,0,5,0,21
+Oconee,Seneca 4,U.S. House,3,REP,Kevin Bishop,33,0,4,0,8,0,21
+Oconee,Failsafe,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Oconee,Provisional,U.S. House,3,REP,Kevin Bishop,1,0,0,0,0,1,0
+Oconee,Failsafe Provisional,U.S. House,3,REP,Kevin Bishop,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,U.S. House,3,REP,Mark Burns,13,0,0,0,0,0,13
+Oconee,Earles Grove,U.S. House,3,REP,Mark Burns,98,0,1,0,6,0,91
+Oconee,Ravenel,U.S. House,3,REP,Mark Burns,133,0,5,0,30,0,98
+Oconee,Fair Play,U.S. House,3,REP,Mark Burns,95,0,2,0,8,0,85
+Oconee,Friendship,U.S. House,3,REP,Mark Burns,137,0,0,0,14,0,123
+Oconee,Holly Springs,U.S. House,3,REP,Mark Burns,44,0,0,0,6,0,38
+Oconee,Keowee,U.S. House,3,REP,Mark Burns,148,0,3,0,35,0,110
+Oconee,Long Creek,U.S. House,3,REP,Mark Burns,28,0,0,0,0,0,28
+Oconee,Mountain Rest,U.S. House,3,REP,Mark Burns,135,0,0,0,14,0,121
+Oconee,Madison,U.S. House,3,REP,Mark Burns,62,0,0,0,3,0,59
+Oconee,Bountyland,U.S. House,3,REP,Mark Burns,104,0,1,0,34,0,69
+Oconee,Oakway,U.S. House,3,REP,Mark Burns,153,0,1,0,29,0,123
+Oconee,Return,U.S. House,3,REP,Mark Burns,64,0,2,0,6,0,56
+Oconee,Richland,U.S. House,3,REP,Mark Burns,94,0,0,0,12,0,82
+Oconee,Salem,U.S. House,3,REP,Mark Burns,122,0,2,0,16,0,104
+Oconee,Stamp Creek,U.S. House,3,REP,Mark Burns,129,0,11,0,36,0,82
+Oconee,New Hope,U.S. House,3,REP,Mark Burns,155,0,2,0,51,0,102
+Oconee,Shiloh,U.S. House,3,REP,Mark Burns,61,0,3,0,9,0,49
+Oconee,South Union,U.S. House,3,REP,Mark Burns,131,0,2,0,18,0,111
+Oconee,Tamassee,U.S. House,3,REP,Mark Burns,100,0,6,0,28,0,66
+Oconee,Tokeena-Providence,U.S. House,3,REP,Mark Burns,102,0,1,0,11,0,90
+Oconee,Utica,U.S. House,3,REP,Mark Burns,24,0,3,0,2,0,19
+Oconee,Walhalla 1,U.S. House,3,REP,Mark Burns,262,0,4,0,111,0,147
+Oconee,Walhalla 2,U.S. House,3,REP,Mark Burns,190,0,2,0,80,0,108
+Oconee,Westminster 1,U.S. House,3,REP,Mark Burns,213,0,6,0,49,0,158
+Oconee,Westminster 2,U.S. House,3,REP,Mark Burns,122,0,6,0,27,0,89
+Oconee,West Union,U.S. House,3,REP,Mark Burns,160,0,6,0,48,0,106
+Oconee,Seneca 1,U.S. House,3,REP,Mark Burns,92,0,5,0,23,0,64
+Oconee,Seneca 2,U.S. House,3,REP,Mark Burns,99,0,0,0,30,0,69
+Oconee,Seneca 3,U.S. House,3,REP,Mark Burns,94,0,3,0,18,0,73
+Oconee,Seneca 4,U.S. House,3,REP,Mark Burns,99,0,8,0,18,0,73
+Oconee,Failsafe,U.S. House,3,REP,Mark Burns,0,0,0,0,0,0,0
+Oconee,Provisional,U.S. House,3,REP,Mark Burns,1,0,0,0,0,1,0
+Oconee,Failsafe Provisional,U.S. House,3,REP,Mark Burns,2,0,0,2,0,0,0
+Oconee,Newry-Corinth,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Oconee,Earles Grove,U.S. House,3,REP,Franky Franco,6,0,0,0,1,0,5
+Oconee,Ravenel,U.S. House,3,REP,Franky Franco,17,0,0,0,4,0,13
+Oconee,Fair Play,U.S. House,3,REP,Franky Franco,11,0,0,0,2,0,9
+Oconee,Friendship,U.S. House,3,REP,Franky Franco,9,0,2,0,3,0,4
+Oconee,Holly Springs,U.S. House,3,REP,Franky Franco,1,0,0,0,0,0,1
+Oconee,Keowee,U.S. House,3,REP,Franky Franco,13,0,0,0,7,0,6
+Oconee,Long Creek,U.S. House,3,REP,Franky Franco,6,0,0,0,1,0,5
+Oconee,Mountain Rest,U.S. House,3,REP,Franky Franco,13,0,0,0,6,0,7
+Oconee,Madison,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Oconee,Bountyland,U.S. House,3,REP,Franky Franco,30,0,0,0,15,0,15
+Oconee,Oakway,U.S. House,3,REP,Franky Franco,9,0,0,0,2,0,7
+Oconee,Return,U.S. House,3,REP,Franky Franco,6,0,0,0,2,0,4
+Oconee,Richland,U.S. House,3,REP,Franky Franco,4,0,0,0,1,0,3
+Oconee,Salem,U.S. House,3,REP,Franky Franco,9,0,2,0,2,0,5
+Oconee,Stamp Creek,U.S. House,3,REP,Franky Franco,25,0,1,0,12,0,12
+Oconee,New Hope,U.S. House,3,REP,Franky Franco,29,0,4,0,10,0,15
+Oconee,Shiloh,U.S. House,3,REP,Franky Franco,5,0,0,0,0,0,5
+Oconee,South Union,U.S. House,3,REP,Franky Franco,11,0,2,0,0,0,9
+Oconee,Tamassee,U.S. House,3,REP,Franky Franco,10,0,0,0,7,0,3
+Oconee,Tokeena-Providence,U.S. House,3,REP,Franky Franco,8,0,1,0,2,0,5
+Oconee,Utica,U.S. House,3,REP,Franky Franco,1,0,0,0,0,0,1
+Oconee,Walhalla 1,U.S. House,3,REP,Franky Franco,25,0,4,0,12,0,9
+Oconee,Walhalla 2,U.S. House,3,REP,Franky Franco,18,0,0,0,14,0,4
+Oconee,Westminster 1,U.S. House,3,REP,Franky Franco,17,0,1,0,2,0,14
+Oconee,Westminster 2,U.S. House,3,REP,Franky Franco,7,0,0,0,2,0,5
+Oconee,West Union,U.S. House,3,REP,Franky Franco,17,0,2,0,4,0,11
+Oconee,Seneca 1,U.S. House,3,REP,Franky Franco,14,0,0,0,6,0,8
+Oconee,Seneca 2,U.S. House,3,REP,Franky Franco,10,0,0,0,3,0,7
+Oconee,Seneca 3,U.S. House,3,REP,Franky Franco,4,0,0,0,1,0,3
+Oconee,Seneca 4,U.S. House,3,REP,Franky Franco,24,0,0,0,6,0,18
+Oconee,Failsafe,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Oconee,Provisional,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,U.S. House,3,REP,Franky Franco,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Oconee,Earles Grove,U.S. House,3,REP,Phil Healy,4,0,1,0,1,0,2
+Oconee,Ravenel,U.S. House,3,REP,Phil Healy,5,0,1,0,1,0,3
+Oconee,Fair Play,U.S. House,3,REP,Phil Healy,9,0,2,0,1,0,6
+Oconee,Friendship,U.S. House,3,REP,Phil Healy,3,0,0,0,2,0,1
+Oconee,Holly Springs,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Oconee,Keowee,U.S. House,3,REP,Phil Healy,2,0,0,0,0,0,2
+Oconee,Long Creek,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Oconee,Mountain Rest,U.S. House,3,REP,Phil Healy,3,0,0,0,0,0,3
+Oconee,Madison,U.S. House,3,REP,Phil Healy,5,0,0,0,0,0,5
+Oconee,Bountyland,U.S. House,3,REP,Phil Healy,9,0,0,0,2,0,7
+Oconee,Oakway,U.S. House,3,REP,Phil Healy,5,0,0,0,1,0,4
+Oconee,Return,U.S. House,3,REP,Phil Healy,3,0,0,0,1,0,2
+Oconee,Richland,U.S. House,3,REP,Phil Healy,3,0,0,0,1,0,2
+Oconee,Salem,U.S. House,3,REP,Phil Healy,5,0,0,0,1,0,4
+Oconee,Stamp Creek,U.S. House,3,REP,Phil Healy,10,0,0,0,5,0,5
+Oconee,New Hope,U.S. House,3,REP,Phil Healy,12,0,0,0,5,0,7
+Oconee,Shiloh,U.S. House,3,REP,Phil Healy,3,0,0,0,2,0,1
+Oconee,South Union,U.S. House,3,REP,Phil Healy,13,0,0,0,1,0,12
+Oconee,Tamassee,U.S. House,3,REP,Phil Healy,3,0,0,0,0,0,3
+Oconee,Tokeena-Providence,U.S. House,3,REP,Phil Healy,2,0,0,0,0,0,2
+Oconee,Utica,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Oconee,Walhalla 1,U.S. House,3,REP,Phil Healy,14,0,1,0,2,0,11
+Oconee,Walhalla 2,U.S. House,3,REP,Phil Healy,8,0,0,0,5,0,3
+Oconee,Westminster 1,U.S. House,3,REP,Phil Healy,7,0,0,0,0,0,7
+Oconee,Westminster 2,U.S. House,3,REP,Phil Healy,1,0,0,0,0,0,1
+Oconee,West Union,U.S. House,3,REP,Phil Healy,6,0,0,0,0,0,6
+Oconee,Seneca 1,U.S. House,3,REP,Phil Healy,7,0,0,0,0,0,7
+Oconee,Seneca 2,U.S. House,3,REP,Phil Healy,3,0,1,0,0,0,2
+Oconee,Seneca 3,U.S. House,3,REP,Phil Healy,2,0,1,0,0,0,1
+Oconee,Seneca 4,U.S. House,3,REP,Phil Healy,11,0,0,0,0,0,11
+Oconee,Failsafe,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Oconee,Provisional,U.S. House,3,REP,Phil Healy,1,0,0,0,0,1,0
+Oconee,Failsafe Provisional,U.S. House,3,REP,Phil Healy,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,U.S. House,3,REP,Stewart O Jones,11,0,0,0,2,0,9
+Oconee,Earles Grove,U.S. House,3,REP,Stewart O Jones,19,0,0,0,2,0,17
+Oconee,Ravenel,U.S. House,3,REP,Stewart O Jones,60,0,2,0,7,0,51
+Oconee,Fair Play,U.S. House,3,REP,Stewart O Jones,35,0,0,0,4,0,31
+Oconee,Friendship,U.S. House,3,REP,Stewart O Jones,43,0,2,0,8,0,33
+Oconee,Holly Springs,U.S. House,3,REP,Stewart O Jones,15,0,0,0,2,0,13
+Oconee,Keowee,U.S. House,3,REP,Stewart O Jones,104,0,4,0,25,0,75
+Oconee,Long Creek,U.S. House,3,REP,Stewart O Jones,10,0,0,0,2,0,8
+Oconee,Mountain Rest,U.S. House,3,REP,Stewart O Jones,57,0,4,0,10,0,43
+Oconee,Madison,U.S. House,3,REP,Stewart O Jones,29,0,0,0,4,0,25
+Oconee,Bountyland,U.S. House,3,REP,Stewart O Jones,60,0,2,0,22,0,36
+Oconee,Oakway,U.S. House,3,REP,Stewart O Jones,43,0,0,0,9,0,34
+Oconee,Return,U.S. House,3,REP,Stewart O Jones,32,0,0,0,3,0,29
+Oconee,Richland,U.S. House,3,REP,Stewart O Jones,35,0,0,0,5,0,30
+Oconee,Salem,U.S. House,3,REP,Stewart O Jones,49,0,0,0,14,0,35
+Oconee,Stamp Creek,U.S. House,3,REP,Stewart O Jones,110,0,1,0,36,0,73
+Oconee,New Hope,U.S. House,3,REP,Stewart O Jones,193,0,6,0,59,0,128
+Oconee,Shiloh,U.S. House,3,REP,Stewart O Jones,23,0,0,0,3,0,20
+Oconee,South Union,U.S. House,3,REP,Stewart O Jones,40,0,0,0,9,0,31
+Oconee,Tamassee,U.S. House,3,REP,Stewart O Jones,44,0,0,0,7,0,37
+Oconee,Tokeena-Providence,U.S. House,3,REP,Stewart O Jones,23,0,2,0,3,0,18
+Oconee,Utica,U.S. House,3,REP,Stewart O Jones,8,0,0,0,0,0,8
+Oconee,Walhalla 1,U.S. House,3,REP,Stewart O Jones,137,0,0,0,39,0,98
+Oconee,Walhalla 2,U.S. House,3,REP,Stewart O Jones,43,0,0,0,14,0,29
+Oconee,Westminster 1,U.S. House,3,REP,Stewart O Jones,53,0,0,0,11,0,42
+Oconee,Westminster 2,U.S. House,3,REP,Stewart O Jones,36,0,0,0,7,0,29
+Oconee,West Union,U.S. House,3,REP,Stewart O Jones,98,0,0,0,35,0,63
+Oconee,Seneca 1,U.S. House,3,REP,Stewart O Jones,54,0,0,0,10,0,44
+Oconee,Seneca 2,U.S. House,3,REP,Stewart O Jones,35,0,0,0,13,0,22
+Oconee,Seneca 3,U.S. House,3,REP,Stewart O Jones,35,0,1,0,7,0,27
+Oconee,Seneca 4,U.S. House,3,REP,Stewart O Jones,32,0,0,0,6,0,26
+Oconee,Failsafe,U.S. House,3,REP,Stewart O Jones,1,1,0,0,0,0,0
+Oconee,Provisional,U.S. House,3,REP,Stewart O Jones,1,0,0,0,0,1,0
+Oconee,Failsafe Provisional,U.S. House,3,REP,Stewart O Jones,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,1,0,0
+Oconee,Earles Grove,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Oconee,Ravenel,U.S. House,3,REP,Elspeth Snow Murday,30,0,2,0,5,0,23
+Oconee,Fair Play,U.S. House,3,REP,Elspeth Snow Murday,4,0,1,0,0,0,3
+Oconee,Friendship,U.S. House,3,REP,Elspeth Snow Murday,13,0,0,0,3,0,10
+Oconee,Holly Springs,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Oconee,Keowee,U.S. House,3,REP,Elspeth Snow Murday,11,0,0,0,1,0,10
+Oconee,Long Creek,U.S. House,3,REP,Elspeth Snow Murday,6,0,0,0,0,0,6
+Oconee,Mountain Rest,U.S. House,3,REP,Elspeth Snow Murday,14,0,0,0,7,0,7
+Oconee,Madison,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,1,0,0
+Oconee,Bountyland,U.S. House,3,REP,Elspeth Snow Murday,6,0,0,0,3,0,3
+Oconee,Oakway,U.S. House,3,REP,Elspeth Snow Murday,9,0,0,0,1,0,8
+Oconee,Return,U.S. House,3,REP,Elspeth Snow Murday,4,0,0,0,0,0,4
+Oconee,Richland,U.S. House,3,REP,Elspeth Snow Murday,5,0,0,0,0,0,5
+Oconee,Salem,U.S. House,3,REP,Elspeth Snow Murday,5,0,0,0,1,0,4
+Oconee,Stamp Creek,U.S. House,3,REP,Elspeth Snow Murday,28,0,2,0,10,0,16
+Oconee,New Hope,U.S. House,3,REP,Elspeth Snow Murday,33,0,2,0,15,0,16
+Oconee,Shiloh,U.S. House,3,REP,Elspeth Snow Murday,10,0,2,0,2,0,6
+Oconee,South Union,U.S. House,3,REP,Elspeth Snow Murday,6,0,0,0,1,0,5
+Oconee,Tamassee,U.S. House,3,REP,Elspeth Snow Murday,5,0,0,0,3,0,2
+Oconee,Tokeena-Providence,U.S. House,3,REP,Elspeth Snow Murday,7,0,0,0,0,0,7
+Oconee,Utica,U.S. House,3,REP,Elspeth Snow Murday,1,0,0,0,0,0,1
+Oconee,Walhalla 1,U.S. House,3,REP,Elspeth Snow Murday,25,0,3,0,14,0,8
+Oconee,Walhalla 2,U.S. House,3,REP,Elspeth Snow Murday,23,0,4,0,13,0,6
+Oconee,Westminster 1,U.S. House,3,REP,Elspeth Snow Murday,14,0,1,0,3,0,10
+Oconee,Westminster 2,U.S. House,3,REP,Elspeth Snow Murday,7,0,0,0,1,0,6
+Oconee,West Union,U.S. House,3,REP,Elspeth Snow Murday,10,0,0,0,3,0,7
+Oconee,Seneca 1,U.S. House,3,REP,Elspeth Snow Murday,17,0,1,0,3,0,13
+Oconee,Seneca 2,U.S. House,3,REP,Elspeth Snow Murday,12,0,1,0,6,0,5
+Oconee,Seneca 3,U.S. House,3,REP,Elspeth Snow Murday,10,0,2,0,1,0,7
+Oconee,Seneca 4,U.S. House,3,REP,Elspeth Snow Murday,13,0,0,0,3,0,10
+Oconee,Failsafe,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Oconee,Provisional,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,U.S. House,3,REP,Elspeth Snow Murday,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,State House,2,REP,Adam Duncan,18,0,0,0,3,0,15
+Oconee,Earles Grove,State House,2,REP,Adam Duncan,149,0,2,0,11,0,136
+Oconee,Ravenel,State House,2,REP,Adam Duncan,198,0,3,0,38,0,157
+Oconee,Fair Play,State House,2,REP,Adam Duncan,166,0,3,0,10,0,153
+Oconee,Friendship,State House,2,REP,Adam Duncan,180,0,4,0,29,0,147
+Oconee,Bountyland,State House,2,REP,Adam Duncan,157,0,3,0,55,0,99
+Oconee,Oakway,State House,2,REP,Adam Duncan,208,0,0,0,37,0,171
+Oconee,Return,State House,2,REP,Adam Duncan,121,0,0,0,13,0,108
+Oconee,New Hope,State House,2,REP,Adam Duncan,279,0,6,0,78,0,195
+Oconee,Shiloh,State House,2,REP,Adam Duncan,95,0,6,0,7,0,82
+Oconee,South Union,State House,2,REP,Adam Duncan,198,0,4,0,30,0,164
+Oconee,Tokeena-Providence,State House,2,REP,Adam Duncan,158,0,4,0,16,0,138
+Oconee,Utica,State House,2,REP,Adam Duncan,32,0,1,0,2,0,29
+Oconee,Seneca 1,State House,2,REP,Adam Duncan,167,0,2,0,33,0,132
+Oconee,Seneca 2,State House,2,REP,Adam Duncan,158,0,8,0,46,0,104
+Oconee,Seneca 3,State House,2,REP,Adam Duncan,132,0,2,0,28,0,102
+Oconee,Seneca 4,State House,2,REP,Adam Duncan,167,0,9,0,26,0,132
+Oconee,Failsafe,State House,2,REP,Adam Duncan,0,0,0,0,0,0,0
+Oconee,Provisional,State House,2,REP,Adam Duncan,3,0,0,0,0,3,0
+Oconee,Failsafe Provisional,State House,2,REP,Adam Duncan,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,State House,2,REP,Bill Sandifer,16,0,0,0,0,0,16
+Oconee,Earles Grove,State House,2,REP,Bill Sandifer,66,0,0,0,8,0,58
+Oconee,Ravenel,State House,2,REP,Bill Sandifer,256,0,9,0,63,0,184
+Oconee,Fair Play,State House,2,REP,Bill Sandifer,117,0,4,0,14,0,99
+Oconee,Friendship,State House,2,REP,Bill Sandifer,161,0,2,0,19,0,140
+Oconee,Bountyland,State House,2,REP,Bill Sandifer,220,0,11,0,67,0,142
+Oconee,Oakway,State House,2,REP,Bill Sandifer,101,0,2,0,19,0,80
+Oconee,Return,State House,2,REP,Bill Sandifer,65,0,2,0,8,0,55
+Oconee,New Hope,State House,2,REP,Bill Sandifer,415,0,24,0,165,0,226
+Oconee,Shiloh,State House,2,REP,Bill Sandifer,111,0,3,0,18,0,90
+Oconee,South Union,State House,2,REP,Bill Sandifer,138,0,3,0,14,0,121
+Oconee,Tokeena-Providence,State House,2,REP,Bill Sandifer,111,0,7,0,13,0,91
+Oconee,Utica,State House,2,REP,Bill Sandifer,25,0,2,0,6,0,17
+Oconee,Seneca 1,State House,2,REP,Bill Sandifer,223,0,8,0,54,0,161
+Oconee,Seneca 2,State House,2,REP,Bill Sandifer,166,0,5,0,59,0,102
+Oconee,Seneca 3,State House,2,REP,Bill Sandifer,162,0,10,0,41,0,111
+Oconee,Seneca 4,State House,2,REP,Bill Sandifer,171,0,5,0,34,0,132
+Oconee,Failsafe,State House,2,REP,Bill Sandifer,0,0,0,0,0,0,0
+Oconee,Provisional,State House,2,REP,Bill Sandifer,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,State House,2,REP,Bill Sandifer,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,7,0,0,0,0,0,7
+Oconee,Earles Grove,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,70,0,0,0,5,0,65
+Oconee,Ravenel,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,111,0,7,0,20,0,84
+Oconee,Fair Play,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,100,0,0,0,8,0,92
+Oconee,Friendship,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,100,0,1,0,11,0,88
+Oconee,Holly Springs,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,28,0,0,0,1,0,27
+Oconee,Keowee,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,115,0,6,0,31,0,78
+Oconee,Long Creek,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,38,0,2,0,1,0,35
+Oconee,Mountain Rest,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,118,0,0,0,26,0,92
+Oconee,Madison,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,47,0,0,0,4,0,43
+Oconee,Bountyland,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,89,0,5,0,30,0,54
+Oconee,Oakway,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,96,0,0,0,15,0,81
+Oconee,Return,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,64,0,0,0,9,0,55
+Oconee,Richland,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,71,0,2,0,4,0,65
+Oconee,Salem,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,97,0,1,0,18,0,78
+Oconee,Stamp Creek,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,111,0,5,0,34,0,72
+Oconee,New Hope,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,148,0,8,0,37,0,103
+Oconee,Shiloh,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,54,0,2,0,6,0,46
+Oconee,South Union,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,94,0,2,0,10,0,82
+Oconee,Tamassee,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,59,0,2,0,13,0,44
+Oconee,Tokeena-Providence,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,70,0,2,0,4,0,64
+Oconee,Utica,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,18,0,1,0,3,0,14
+Oconee,Walhalla 1,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,272,0,1,0,92,0,179
+Oconee,Walhalla 2,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,156,0,2,0,47,0,107
+Oconee,Westminster 1,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,134,0,4,0,35,0,95
+Oconee,Westminster 2,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,71,0,1,0,16,0,54
+Oconee,West Union,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,135,0,2,0,37,0,96
+Oconee,Seneca 1,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,104,0,1,0,24,0,79
+Oconee,Seneca 2,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,85,0,0,0,25,0,60
+Oconee,Seneca 3,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,68,0,2,0,10,0,56
+Oconee,Seneca 4,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,106,0,4,0,20,0,82
+Oconee,Failsafe,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,1,1,0,0,0,0,0
+Oconee,Provisional,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Micah Black,3,0,0,3,0,0,0
+Oconee,Newry-Corinth,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,19,0,0,0,2,0,17
+Oconee,Earles Grove,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,129,0,1,0,11,0,117
+Oconee,Ravenel,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,285,0,4,0,67,0,214
+Oconee,Fair Play,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,139,0,4,0,10,0,125
+Oconee,Friendship,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,178,0,4,0,31,0,143
+Oconee,Holly Springs,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,36,0,0,0,9,0,27
+Oconee,Keowee,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,335,0,9,0,105,0,221
+Oconee,Long Creek,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,20,0,0,0,2,0,18
+Oconee,Mountain Rest,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,158,0,1,0,28,0,129
+Oconee,Madison,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,61,0,0,0,7,0,54
+Oconee,Bountyland,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,246,0,8,0,84,0,154
+Oconee,Oakway,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,150,0,2,0,27,0,121
+Oconee,Return,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,94,0,2,0,10,0,82
+Oconee,Richland,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,133,0,0,0,23,0,110
+Oconee,Salem,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,233,0,9,0,47,0,177
+Oconee,Stamp Creek,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,452,0,26,0,168,0,258
+Oconee,New Hope,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,451,0,20,0,170,0,261
+Oconee,Shiloh,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,111,0,4,0,16,0,91
+Oconee,South Union,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,187,0,3,0,28,0,156
+Oconee,Tamassee,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,152,0,6,0,51,0,95
+Oconee,Tokeena-Providence,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,147,0,8,0,19,0,120
+Oconee,Utica,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,29,0,2,0,5,0,22
+Oconee,Walhalla 1,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,413,0,19,0,200,0,194
+Oconee,Walhalla 2,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,245,0,8,0,129,0,108
+Oconee,Westminster 1,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,259,0,12,0,60,0,187
+Oconee,Westminster 2,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,165,0,10,0,39,0,116
+Oconee,West Union,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,252,0,14,0,81,0,157
+Oconee,Seneca 1,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,234,0,6,0,54,0,174
+Oconee,Seneca 2,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,217,0,12,0,76,0,129
+Oconee,Seneca 3,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,192,0,6,0,55,0,131
+Oconee,Seneca 4,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,200,0,9,0,33,0,158
+Oconee,Failsafe,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,0,0,0,0,0,0,0
+Oconee,Provisional,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,3,0,0,0,0,3,0
+Oconee,Failsafe Provisional,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Beth Blundy,2,0,0,2,0,0,0
+Oconee,Newry-Corinth,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,7,0,0,0,0,0,7
+Oconee,Earles Grove,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,15,0,1,0,2,0,12
+Oconee,Ravenel,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,57,0,2,0,13,0,42
+Oconee,Fair Play,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,40,0,3,0,7,0,30
+Oconee,Friendship,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,57,0,1,0,4,0,52
+Oconee,Holly Springs,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,28,0,0,0,0,0,28
+Oconee,Keowee,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,73,0,3,0,16,0,54
+Oconee,Long Creek,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,46,0,0,0,8,0,38
+Oconee,Mountain Rest,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,86,0,3,0,12,0,71
+Oconee,Madison,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,27,0,0,0,0,0,27
+Oconee,Bountyland,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,42,0,1,0,12,0,29
+Oconee,Oakway,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,60,0,0,0,15,0,45
+Oconee,Return,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,24,0,0,0,1,0,23
+Oconee,Richland,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,34,0,0,0,4,0,30
+Oconee,Salem,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,75,0,4,0,17,0,54
+Oconee,Stamp Creek,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,38,0,4,0,17,0,17
+Oconee,New Hope,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,93,0,5,0,31,0,57
+Oconee,Shiloh,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,35,0,3,0,2,0,30
+Oconee,South Union,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,53,0,2,0,7,0,44
+Oconee,Tamassee,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,57,0,0,0,14,0,43
+Oconee,Tokeena-Providence,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,45,0,1,0,6,0,38
+Oconee,Utica,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,8,0,0,0,0,0,8
+Oconee,Walhalla 1,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,170,0,3,0,67,0,100
+Oconee,Walhalla 2,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,93,0,2,0,35,0,56
+Oconee,Westminster 1,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,112,0,5,0,22,0,85
+Oconee,Westminster 2,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,47,0,0,0,8,0,39
+Oconee,West Union,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,81,0,1,0,22,0,58
+Oconee,Seneca 1,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,52,0,2,0,12,0,38
+Oconee,Seneca 2,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,26,0,1,0,7,0,18
+Oconee,Seneca 3,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,35,0,3,0,4,0,28
+Oconee,Seneca 4,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,34,0,0,0,9,0,25
+Oconee,Failsafe,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,0,0,0,0,0,0,0
+Oconee,Provisional,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,2,0,0,0,0,2,0
+Oconee,Failsafe Provisional,"Solicitor, Circuit 10", Circuit 10 - REP,REP,Danny Fulmer,1,0,0,1,0,0,0
+Oconee,Newry-Corinth,County Treasurer,,REP,Gena Acree,24,0,0,0,2,0,22
+Oconee,Earles Grove,County Treasurer,,REP,Gena Acree,110,0,1,0,12,0,97
+Oconee,Ravenel,County Treasurer,,REP,Gena Acree,245,0,3,0,48,0,194
+Oconee,Fair Play,County Treasurer,,REP,Gena Acree,145,0,3,0,12,0,130
+Oconee,Friendship,County Treasurer,,REP,Gena Acree,167,0,2,0,24,0,141
+Oconee,Holly Springs,County Treasurer,,REP,Gena Acree,41,0,0,0,2,0,39
+Oconee,Keowee,County Treasurer,,REP,Gena Acree,245,0,9,0,63,0,173
+Oconee,Long Creek,County Treasurer,,REP,Gena Acree,41,0,0,0,3,0,38
+Oconee,Mountain Rest,County Treasurer,,REP,Gena Acree,199,0,4,0,35,0,160
+Oconee,Madison,County Treasurer,,REP,Gena Acree,88,0,0,0,11,0,77
+Oconee,Bountyland,County Treasurer,,REP,Gena Acree,183,0,5,0,56,0,122
+Oconee,Oakway,County Treasurer,,REP,Gena Acree,152,0,1,0,27,0,124
+Oconee,Return,County Treasurer,,REP,Gena Acree,114,0,2,0,11,0,101
+Oconee,Richland,County Treasurer,,REP,Gena Acree,118,0,3,0,11,0,104
+Oconee,Salem,County Treasurer,,REP,Gena Acree,157,0,4,0,42,0,111
+Oconee,Stamp Creek,County Treasurer,,REP,Gena Acree,316,0,16,0,116,0,184
+Oconee,New Hope,County Treasurer,,REP,Gena Acree,306,0,11,0,95,0,200
+Oconee,Shiloh,County Treasurer,,REP,Gena Acree,85,0,3,0,9,0,73
+Oconee,South Union,County Treasurer,,REP,Gena Acree,213,0,1,0,31,0,181
+Oconee,Tamassee,County Treasurer,,REP,Gena Acree,122,0,2,0,37,0,83
+Oconee,Tokeena-Providence,County Treasurer,,REP,Gena Acree,121,0,6,0,17,0,98
+Oconee,Utica,County Treasurer,,REP,Gena Acree,31,0,2,0,6,0,23
+Oconee,Walhalla 1,County Treasurer,,REP,Gena Acree,487,0,12,0,188,0,287
+Oconee,Walhalla 2,County Treasurer,,REP,Gena Acree,286,0,6,0,116,0,164
+Oconee,Westminster 1,County Treasurer,,REP,Gena Acree,269,0,9,0,58,0,202
+Oconee,Westminster 2,County Treasurer,,REP,Gena Acree,153,0,5,0,33,0,115
+Oconee,West Union,County Treasurer,,REP,Gena Acree,247,0,9,0,66,0,172
+Oconee,Seneca 1,County Treasurer,,REP,Gena Acree,213,0,6,0,47,0,160
+Oconee,Seneca 2,County Treasurer,,REP,Gena Acree,163,0,3,0,52,0,108
+Oconee,Seneca 3,County Treasurer,,REP,Gena Acree,155,0,9,0,29,0,117
+Oconee,Seneca 4,County Treasurer,,REP,Gena Acree,178,0,2,0,30,0,146
+Oconee,Failsafe,County Treasurer,,REP,Gena Acree,1,1,0,0,0,0,0
+Oconee,Provisional,County Treasurer,,REP,Gena Acree,4,0,0,0,0,4,0
+Oconee,Failsafe Provisional,County Treasurer,,REP,Gena Acree,3,0,0,3,0,0,0
+Oconee,Newry-Corinth,County Treasurer,,REP,Tonya Y Keller,9,0,0,0,0,0,9
+Oconee,Earles Grove,County Treasurer,,REP,Tonya Y Keller,95,0,1,0,5,0,89
+Oconee,Ravenel,County Treasurer,,REP,Tonya Y Keller,178,0,7,0,50,0,121
+Oconee,Fair Play,County Treasurer,,REP,Tonya Y Keller,115,0,4,0,11,0,100
+Oconee,Friendship,County Treasurer,,REP,Tonya Y Keller,158,0,4,0,21,0,133
+Oconee,Holly Springs,County Treasurer,,REP,Tonya Y Keller,50,0,0,0,8,0,42
+Oconee,Keowee,County Treasurer,,REP,Tonya Y Keller,269,0,8,0,87,0,174
+Oconee,Long Creek,County Treasurer,,REP,Tonya Y Keller,60,0,2,0,7,0,51
+Oconee,Mountain Rest,County Treasurer,,REP,Tonya Y Keller,163,0,0,0,32,0,131
+Oconee,Madison,County Treasurer,,REP,Tonya Y Keller,45,0,0,0,0,0,45
+Oconee,Bountyland,County Treasurer,,REP,Tonya Y Keller,172,0,9,0,61,0,102
+Oconee,Oakway,County Treasurer,,REP,Tonya Y Keller,143,0,1,0,28,0,114
+Oconee,Return,County Treasurer,,REP,Tonya Y Keller,68,0,0,0,10,0,58
+Oconee,Richland,County Treasurer,,REP,Tonya Y Keller,114,0,0,0,17,0,97
+Oconee,Salem,County Treasurer,,REP,Tonya Y Keller,240,0,10,0,36,0,194
+Oconee,Stamp Creek,County Treasurer,,REP,Tonya Y Keller,256,0,17,0,95,0,144
+Oconee,New Hope,County Treasurer,,REP,Tonya Y Keller,342,0,18,0,127,0,197
+Oconee,Shiloh,County Treasurer,,REP,Tonya Y Keller,107,0,6,0,13,0,88
+Oconee,South Union,County Treasurer,,REP,Tonya Y Keller,109,0,4,0,12,0,93
+Oconee,Tamassee,County Treasurer,,REP,Tonya Y Keller,148,0,6,0,42,0,100
+Oconee,Tokeena-Providence,County Treasurer,,REP,Tonya Y Keller,135,0,5,0,13,0,117
+Oconee,Utica,County Treasurer,,REP,Tonya Y Keller,22,0,1,0,2,0,19
+Oconee,Walhalla 1,County Treasurer,,REP,Tonya Y Keller,359,0,12,0,165,0,182
+Oconee,Walhalla 2,County Treasurer,,REP,Tonya Y Keller,210,0,6,0,97,0,107
+Oconee,Westminster 1,County Treasurer,,REP,Tonya Y Keller,227,0,12,0,58,0,157
+Oconee,Westminster 2,County Treasurer,,REP,Tonya Y Keller,127,0,6,0,28,0,93
+Oconee,West Union,County Treasurer,,REP,Tonya Y Keller,211,0,8,0,70,0,133
+Oconee,Seneca 1,County Treasurer,,REP,Tonya Y Keller,141,0,2,0,40,0,99
+Oconee,Seneca 2,County Treasurer,,REP,Tonya Y Keller,146,0,10,0,49,0,87
+Oconee,Seneca 3,County Treasurer,,REP,Tonya Y Keller,121,0,2,0,33,0,86
+Oconee,Seneca 4,County Treasurer,,REP,Tonya Y Keller,148,0,10,0,31,0,107
+Oconee,Failsafe,County Treasurer,,REP,Tonya Y Keller,0,0,0,0,0,0,0
+Oconee,Provisional,County Treasurer,,REP,Tonya Y Keller,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,County Treasurer,,REP,Tonya Y Keller,2,0,0,2,0,0,0
+Oconee,Mountain Rest,County Council District 2,,REP,Matthew Durham,194,0,3,0,28,0,163
+Oconee,Walhalla 1,County Council District 2,,REP,Matthew Durham,495,0,14,0,194,0,287
+Oconee,Walhalla 2,County Council District 2,,REP,Matthew Durham,300,0,6,0,138,0,156
+Oconee,West Union,County Council District 2,,REP,Matthew Durham,273,0,8,0,77,0,188
+Oconee,Failsafe,County Council District 2,,REP,Matthew Durham,0,0,0,0,0,0,0
+Oconee,Provisional,County Council District 2,,REP,Matthew Durham,2,0,0,0,0,2,0
+Oconee,Failsafe Provisional,County Council District 2,,REP,Matthew Durham,0,0,0,0,0,0,0
+Oconee,Mountain Rest,County Council District 2,,REP,India Lancaster,177,0,1,0,41,0,135
+Oconee,Walhalla 1,County Council District 2,,REP,India Lancaster,372,0,11,0,165,0,196
+Oconee,Walhalla 2,County Council District 2,,REP,India Lancaster,209,0,9,0,79,0,121
+Oconee,West Union,County Council District 2,,REP,India Lancaster,197,0,9,0,61,0,127
+Oconee,Failsafe,County Council District 2,,REP,India Lancaster,0,0,0,0,0,0,0
+Oconee,Provisional,County Council District 2,,REP,India Lancaster,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,County Council District 2,,REP,India Lancaster,0,0,0,0,0,0,0
+Oconee,Holly Springs,County Council District 4,,REP,Julian W Davis III,24,0,0,0,0,0,24
+Oconee,Long Creek,County Council District 4,,REP,Julian W Davis III,56,0,0,0,8,0,48
+Oconee,Madison,County Council District 4,,REP,Julian W Davis III,47,0,0,0,1,0,46
+Oconee,Oakway,County Council District 4,,REP,Julian W Davis III,143,0,2,0,18,0,123
+Oconee,Return,County Council District 4,,REP,Julian W Davis III,104,0,2,0,9,0,93
+Oconee,Richland,County Council District 4,,REP,Julian W Davis III,122,0,0,0,11,0,111
+Oconee,South Union,County Council District 4,,REP,Julian W Davis III,23,0,0,0,4,0,19
+Oconee,Westminster 1,County Council District 4,,REP,Julian W Davis III,258,0,11,0,57,0,190
+Oconee,Westminster 2,County Council District 4,,REP,Julian W Davis III,143,0,8,0,35,0,100
+Oconee,Failsafe,County Council District 4,,REP,Julian W Davis III,0,0,0,0,0,0,0
+Oconee,Provisional,County Council District 4,,REP,Julian W Davis III,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,County Council District 4,,REP,Julian W Davis III,0,0,0,0,0,0,0
+Oconee,Holly Springs,County Council District 4,,REP,Tommy James,68,0,0,0,11,0,57
+Oconee,Long Creek,County Council District 4,,REP,Tommy James,45,0,2,0,2,0,41
+Oconee,Madison,County Council District 4,,REP,Tommy James,86,0,0,0,10,0,76
+Oconee,Oakway,County Council District 4,,REP,Tommy James,166,0,0,0,39,0,127
+Oconee,Return,County Council District 4,,REP,Tommy James,82,0,0,0,12,0,70
+Oconee,Richland,County Council District 4,,REP,Tommy James,114,0,3,0,18,0,93
+Oconee,South Union,County Council District 4,,REP,Tommy James,24,0,2,0,2,0,20
+Oconee,Westminster 1,County Council District 4,,REP,Tommy James,239,0,10,0,58,0,171
+Oconee,Westminster 2,County Council District 4,,REP,Tommy James,134,0,3,0,25,0,106
+Oconee,Failsafe,County Council District 4,,REP,Tommy James,1,1,0,0,0,0,0
+Oconee,Provisional,County Council District 4,,REP,Tommy James,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,County Council District 4,,REP,Tommy James,0,0,0,0,0,0,0
+Oconee,Earles Grove,County Council District 5,,REP,Glenn Hart,126,0,1,0,10,0,115
+Oconee,Ravenel,County Council District 5,,REP,Glenn Hart,237,0,6,0,47,0,184
+Oconee,Fair Play,County Council District 5,,REP,Glenn Hart,138,0,2,0,14,0,122
+Oconee,Friendship,County Council District 5,,REP,Glenn Hart,201,0,0,0,27,0,174
+Oconee,Shiloh,County Council District 5,,REP,Glenn Hart,127,0,6,0,14,0,107
+Oconee,South Union,County Council District 5,,REP,Glenn Hart,170,0,4,0,28,0,138
+Oconee,Tokeena-Providence,County Council District 5,,REP,Glenn Hart,140,0,3,0,18,0,119
+Oconee,Failsafe,County Council District 5,,REP,Glenn Hart,0,0,0,0,0,0,0
+Oconee,Provisional,County Council District 5,,REP,Glenn Hart,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,County Council District 5,,REP,Glenn Hart,0,0,0,0,0,0,0
+Oconee,Earles Grove,County Council District 5,,REP,Gwen McPhail,90,0,1,0,9,0,80
+Oconee,Ravenel,County Council District 5,,REP,Gwen McPhail,209,0,5,0,53,0,151
+Oconee,Fair Play,County Council District 5,,REP,Gwen McPhail,146,0,5,0,11,0,130
+Oconee,Friendship,County Council District 5,,REP,Gwen McPhail,137,0,6,0,20,0,111
+Oconee,Shiloh,County Council District 5,,REP,Gwen McPhail,80,0,2,0,14,0,64
+Oconee,South Union,County Council District 5,,REP,Gwen McPhail,120,0,1,0,11,0,108
+Oconee,Tokeena-Providence,County Council District 5,,REP,Gwen McPhail,127,0,8,0,11,0,108
+Oconee,Failsafe,County Council District 5,,REP,Gwen McPhail,0,0,0,0,0,0,0
+Oconee,Provisional,County Council District 5,,REP,Gwen McPhail,1,0,0,0,0,1,0
+Oconee,Failsafe Provisional,County Council District 5,,REP,Gwen McPhail,0,0,0,0,0,0,0
