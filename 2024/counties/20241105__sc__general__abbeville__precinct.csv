@@ -1,0 +1,932 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee_by_mail,provisional,failsafe_provisional,failsafe
+Abbeville,Abbeville No. 1,Straight Party,,CON,Constitution,2,2,0,0,0,0,0
+Abbeville,Abbeville No. 2,Straight Party,,CON,Constitution,1,1,0,0,0,0,0
+Abbeville,Abbeville No. 3,Straight Party,,CON,Constitution,1,0,1,0,0,0,0
+Abbeville,Abbeville No. 4,Straight Party,,CON,Constitution,0,0,0,0,0,0,0
+Abbeville,Antreville,Straight Party,,CON,Constitution,0,0,0,0,0,0,0
+Abbeville,Broadmouth,Straight Party,,CON,Constitution,0,0,0,0,0,0,0
+Abbeville,Calhoun Falls,Straight Party,,CON,Constitution,1,0,1,0,0,0,0
+Abbeville,Cold Springs,Straight Party,,CON,Constitution,1,0,1,0,0,0,0
+Abbeville,Donald's,Straight Party,,CON,Constitution,0,0,0,0,0,0,0
+Abbeville,Due West,Straight Party,,CON,Constitution,0,0,0,0,0,0,0
+Abbeville,Hall's Store,Straight Party,,CON,Constitution,1,1,0,0,0,0,0
+Abbeville,Keowee,Straight Party,,CON,Constitution,0,0,0,0,0,0,0
+Abbeville,Lowndesville,Straight Party,,CON,Constitution,0,0,0,0,0,0,0
+Abbeville,Lebanon,Straight Party,,CON,Constitution,0,0,0,0,0,0,0
+Abbeville,Smithville,Straight Party,,CON,Constitution,0,0,0,0,0,0,0
+Abbeville,Failsafe,Straight Party,,CON,Constitution,0,0,0,0,0,0,0
+Abbeville,Provisional,Straight Party,,CON,Constitution,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Straight Party,,CON,Constitution,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Straight Party,,UNC,United Citizens,3,1,2,0,0,0,0
+Abbeville,Abbeville No. 2,Straight Party,,UNC,United Citizens,2,2,0,0,0,0,0
+Abbeville,Abbeville No. 3,Straight Party,,UNC,United Citizens,2,1,1,0,0,0,0
+Abbeville,Abbeville No. 4,Straight Party,,UNC,United Citizens,2,1,1,0,0,0,0
+Abbeville,Antreville,Straight Party,,UNC,United Citizens,0,0,0,0,0,0,0
+Abbeville,Broadmouth,Straight Party,,UNC,United Citizens,2,2,0,0,0,0,0
+Abbeville,Calhoun Falls,Straight Party,,UNC,United Citizens,2,0,2,0,0,0,0
+Abbeville,Cold Springs,Straight Party,,UNC,United Citizens,2,0,2,0,0,0,0
+Abbeville,Donald's,Straight Party,,UNC,United Citizens,0,0,0,0,0,0,0
+Abbeville,Due West,Straight Party,,UNC,United Citizens,2,1,1,0,0,0,0
+Abbeville,Hall's Store,Straight Party,,UNC,United Citizens,0,0,0,0,0,0,0
+Abbeville,Keowee,Straight Party,,UNC,United Citizens,2,0,2,0,0,0,0
+Abbeville,Lowndesville,Straight Party,,UNC,United Citizens,1,0,1,0,0,0,0
+Abbeville,Lebanon,Straight Party,,UNC,United Citizens,1,0,1,0,0,0,0
+Abbeville,Smithville,Straight Party,,UNC,United Citizens,2,2,0,0,0,0,0
+Abbeville,Failsafe,Straight Party,,UNC,United Citizens,0,0,0,0,0,0,0
+Abbeville,Provisional,Straight Party,,UNC,United Citizens,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Straight Party,,UNC,United Citizens,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Straight Party,,GRN,Green,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 2,Straight Party,,GRN,Green,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 3,Straight Party,,GRN,Green,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 4,Straight Party,,GRN,Green,0,0,0,0,0,0,0
+Abbeville,Antreville,Straight Party,,GRN,Green,1,0,1,0,0,0,0
+Abbeville,Broadmouth,Straight Party,,GRN,Green,0,0,0,0,0,0,0
+Abbeville,Calhoun Falls,Straight Party,,GRN,Green,0,0,0,0,0,0,0
+Abbeville,Cold Springs,Straight Party,,GRN,Green,1,0,1,0,0,0,0
+Abbeville,Donald's,Straight Party,,GRN,Green,0,0,0,0,0,0,0
+Abbeville,Due West,Straight Party,,GRN,Green,0,0,0,0,0,0,0
+Abbeville,Hall's Store,Straight Party,,GRN,Green,0,0,0,0,0,0,0
+Abbeville,Keowee,Straight Party,,GRN,Green,0,0,0,0,0,0,0
+Abbeville,Lowndesville,Straight Party,,GRN,Green,1,0,1,0,0,0,0
+Abbeville,Lebanon,Straight Party,,GRN,Green,2,0,2,0,0,0,0
+Abbeville,Smithville,Straight Party,,GRN,Green,1,1,0,0,0,0,0
+Abbeville,Failsafe,Straight Party,,GRN,Green,0,0,0,0,0,0,0
+Abbeville,Provisional,Straight Party,,GRN,Green,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Straight Party,,GRN,Green,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Straight Party,,REP,Republican,374,256,110,8,0,0,0
+Abbeville,Abbeville No. 2,Straight Party,,REP,Republican,164,113,45,6,0,0,0
+Abbeville,Abbeville No. 3,Straight Party,,REP,Republican,218,146,63,9,0,0,0
+Abbeville,Abbeville No. 4,Straight Party,,REP,Republican,181,115,66,0,0,0,0
+Abbeville,Antreville,Straight Party,,REP,Republican,439,229,205,5,0,0,0
+Abbeville,Broadmouth,Straight Party,,REP,Republican,185,50,131,4,0,0,0
+Abbeville,Calhoun Falls,Straight Party,,REP,Republican,272,142,124,6,0,0,0
+Abbeville,Cold Springs,Straight Party,,REP,Republican,299,170,127,2,0,0,0
+Abbeville,Donald's,Straight Party,,REP,Republican,176,63,112,1,0,0,0
+Abbeville,Due West,Straight Party,,REP,Republican,395,163,223,9,0,0,0
+Abbeville,Hall's Store,Straight Party,,REP,Republican,174,42,127,5,0,0,0
+Abbeville,Keowee,Straight Party,,REP,Republican,421,160,256,5,0,0,0
+Abbeville,Lowndesville,Straight Party,,REP,Republican,386,145,237,4,0,0,0
+Abbeville,Lebanon,Straight Party,,REP,Republican,204,118,82,4,0,0,0
+Abbeville,Smithville,Straight Party,,REP,Republican,277,185,87,5,0,0,0
+Abbeville,Failsafe,Straight Party,,REP,Republican,0,0,0,0,0,0,0
+Abbeville,Provisional,Straight Party,,REP,Republican,6,0,0,0,6,0,0
+Abbeville,Failsafe Provisional,Straight Party,,REP,Republican,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 2,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 3,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 4,Straight Party,,ALN,Alliance,1,1,0,0,0,0,0
+Abbeville,Antreville,Straight Party,,ALN,Alliance,2,0,2,0,0,0,0
+Abbeville,Broadmouth,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Calhoun Falls,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Cold Springs,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Donald's,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Due West,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Hall's Store,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Keowee,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Lowndesville,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Lebanon,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Smithville,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Failsafe,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Provisional,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Straight Party,,ALN,Alliance,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Straight Party,,LIB,Libertarian,1,1,0,0,0,0,0
+Abbeville,Abbeville No. 2,Straight Party,,LIB,Libertarian,2,1,1,0,0,0,0
+Abbeville,Abbeville No. 3,Straight Party,,LIB,Libertarian,1,1,0,0,0,0,0
+Abbeville,Abbeville No. 4,Straight Party,,LIB,Libertarian,0,0,0,0,0,0,0
+Abbeville,Antreville,Straight Party,,LIB,Libertarian,0,0,0,0,0,0,0
+Abbeville,Broadmouth,Straight Party,,LIB,Libertarian,1,0,1,0,0,0,0
+Abbeville,Calhoun Falls,Straight Party,,LIB,Libertarian,0,0,0,0,0,0,0
+Abbeville,Cold Springs,Straight Party,,LIB,Libertarian,0,0,0,0,0,0,0
+Abbeville,Donald's,Straight Party,,LIB,Libertarian,0,0,0,0,0,0,0
+Abbeville,Due West,Straight Party,,LIB,Libertarian,1,1,0,0,0,0,0
+Abbeville,Hall's Store,Straight Party,,LIB,Libertarian,0,0,0,0,0,0,0
+Abbeville,Keowee,Straight Party,,LIB,Libertarian,2,1,1,0,0,0,0
+Abbeville,Lowndesville,Straight Party,,LIB,Libertarian,0,0,0,0,0,0,0
+Abbeville,Lebanon,Straight Party,,LIB,Libertarian,1,1,0,0,0,0,0
+Abbeville,Smithville,Straight Party,,LIB,Libertarian,0,0,0,0,0,0,0
+Abbeville,Failsafe,Straight Party,,LIB,Libertarian,0,0,0,0,0,0,0
+Abbeville,Provisional,Straight Party,,LIB,Libertarian,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Straight Party,,LIB,Libertarian,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Straight Party,,DEM,Democratic,170,116,45,9,0,0,0
+Abbeville,Abbeville No. 2,Straight Party,,DEM,Democratic,325,210,97,18,0,0,0
+Abbeville,Abbeville No. 3,Straight Party,,DEM,Democratic,238,155,68,15,0,0,0
+Abbeville,Abbeville No. 4,Straight Party,,DEM,Democratic,122,77,43,2,0,0,0
+Abbeville,Antreville,Straight Party,,DEM,Democratic,87,57,26,4,0,0,0
+Abbeville,Broadmouth,Straight Party,,DEM,Democratic,38,15,23,0,0,0,0
+Abbeville,Calhoun Falls,Straight Party,,DEM,Democratic,381,149,216,16,0,0,0
+Abbeville,Cold Springs,Straight Party,,DEM,Democratic,75,54,18,3,0,0,0
+Abbeville,Donald's,Straight Party,,DEM,Democratic,29,8,18,3,0,0,0
+Abbeville,Due West,Straight Party,,DEM,Democratic,162,93,53,16,0,0,0
+Abbeville,Hall's Store,Straight Party,,DEM,Democratic,72,15,54,3,0,0,0
+Abbeville,Keowee,Straight Party,,DEM,Democratic,71,42,27,2,0,0,0
+Abbeville,Lowndesville,Straight Party,,DEM,Democratic,75,40,31,4,0,0,0
+Abbeville,Lebanon,Straight Party,,DEM,Democratic,89,60,27,2,0,0,0
+Abbeville,Smithville,Straight Party,,DEM,Democratic,114,82,25,7,0,0,0
+Abbeville,Failsafe,Straight Party,,DEM,Democratic,0,0,0,0,0,0,0
+Abbeville,Provisional,Straight Party,,DEM,Democratic,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Straight Party,,DEM,Democratic,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 2,Straight Party,,WRK,Workers,1,1,0,0,0,0,0
+Abbeville,Abbeville No. 3,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 4,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Antreville,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Broadmouth,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Calhoun Falls,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Cold Springs,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Donald's,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Due West,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Hall's Store,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Keowee,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Lowndesville,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Lebanon,Straight Party,,WRK,Workers,1,0,1,0,0,0,0
+Abbeville,Smithville,Straight Party,,WRK,Workers,1,1,0,0,0,0,0
+Abbeville,Failsafe,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Provisional,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Straight Party,,WRK,Workers,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,President,,CON,Randall A Terry/Stephen E Broden,2,2,0,0,0,0,0
+Abbeville,Abbeville No. 2,President,,CON,Randall A Terry/Stephen E Broden,1,1,0,0,0,0,0
+Abbeville,Abbeville No. 3,President,,CON,Randall A Terry/Stephen E Broden,4,2,2,0,0,0,0
+Abbeville,Abbeville No. 4,President,,CON,Randall A Terry/Stephen E Broden,3,2,1,0,0,0,0
+Abbeville,Antreville,President,,CON,Randall A Terry/Stephen E Broden,1,1,0,0,0,0,0
+Abbeville,Broadmouth,President,,CON,Randall A Terry/Stephen E Broden,0,0,0,0,0,0,0
+Abbeville,Calhoun Falls,President,,CON,Randall A Terry/Stephen E Broden,2,0,2,0,0,0,0
+Abbeville,Cold Springs,President,,CON,Randall A Terry/Stephen E Broden,1,0,1,0,0,0,0
+Abbeville,Donald's,President,,CON,Randall A Terry/Stephen E Broden,0,0,0,0,0,0,0
+Abbeville,Due West,President,,CON,Randall A Terry/Stephen E Broden,8,2,6,0,0,0,0
+Abbeville,Hall's Store,President,,CON,Randall A Terry/Stephen E Broden,2,1,1,0,0,0,0
+Abbeville,Keowee,President,,CON,Randall A Terry/Stephen E Broden,2,0,2,0,0,0,0
+Abbeville,Lowndesville,President,,CON,Randall A Terry/Stephen E Broden,1,0,1,0,0,0,0
+Abbeville,Lebanon,President,,CON,Randall A Terry/Stephen E Broden,2,1,1,0,0,0,0
+Abbeville,Smithville,President,,CON,Randall A Terry/Stephen E Broden,0,0,0,0,0,0,0
+Abbeville,Failsafe,President,,CON,Randall A Terry/Stephen E Broden,0,0,0,0,0,0,0
+Abbeville,Provisional,President,,CON,Randall A Terry/Stephen E Broden,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,President,,CON,Randall A Terry/Stephen E Broden,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,President,,UNC,Cornel West/Melina Abdulla,4,1,3,0,0,0,0
+Abbeville,Abbeville No. 2,President,,UNC,Cornel West/Melina Abdulla,3,2,1,0,0,0,0
+Abbeville,Abbeville No. 3,President,,UNC,Cornel West/Melina Abdulla,2,1,1,0,0,0,0
+Abbeville,Abbeville No. 4,President,,UNC,Cornel West/Melina Abdulla,2,1,1,0,0,0,0
+Abbeville,Antreville,President,,UNC,Cornel West/Melina Abdulla,1,0,1,0,0,0,0
+Abbeville,Broadmouth,President,,UNC,Cornel West/Melina Abdulla,2,2,0,0,0,0,0
+Abbeville,Calhoun Falls,President,,UNC,Cornel West/Melina Abdulla,2,0,2,0,0,0,0
+Abbeville,Cold Springs,President,,UNC,Cornel West/Melina Abdulla,2,0,2,0,0,0,0
+Abbeville,Donald's,President,,UNC,Cornel West/Melina Abdulla,0,0,0,0,0,0,0
+Abbeville,Due West,President,,UNC,Cornel West/Melina Abdulla,3,1,2,0,0,0,0
+Abbeville,Hall's Store,President,,UNC,Cornel West/Melina Abdulla,1,0,1,0,0,0,0
+Abbeville,Keowee,President,,UNC,Cornel West/Melina Abdulla,3,0,3,0,0,0,0
+Abbeville,Lowndesville,President,,UNC,Cornel West/Melina Abdulla,1,0,1,0,0,0,0
+Abbeville,Lebanon,President,,UNC,Cornel West/Melina Abdulla,1,0,1,0,0,0,0
+Abbeville,Smithville,President,,UNC,Cornel West/Melina Abdulla,4,3,1,0,0,0,0
+Abbeville,Failsafe,President,,UNC,Cornel West/Melina Abdulla,0,0,0,0,0,0,0
+Abbeville,Provisional,President,,UNC,Cornel West/Melina Abdulla,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,President,,UNC,Cornel West/Melina Abdulla,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,President,,GRN,Jill Stein/Rudolph Butch Ware,1,0,1,0,0,0,0
+Abbeville,Abbeville No. 2,President,,GRN,Jill Stein/Rudolph Butch Ware,3,2,1,0,0,0,0
+Abbeville,Abbeville No. 3,President,,GRN,Jill Stein/Rudolph Butch Ware,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 4,President,,GRN,Jill Stein/Rudolph Butch Ware,0,0,0,0,0,0,0
+Abbeville,Antreville,President,,GRN,Jill Stein/Rudolph Butch Ware,4,1,3,0,0,0,0
+Abbeville,Broadmouth,President,,GRN,Jill Stein/Rudolph Butch Ware,0,0,0,0,0,0,0
+Abbeville,Calhoun Falls,President,,GRN,Jill Stein/Rudolph Butch Ware,1,0,1,0,0,0,0
+Abbeville,Cold Springs,President,,GRN,Jill Stein/Rudolph Butch Ware,2,1,1,0,0,0,0
+Abbeville,Donald's,President,,GRN,Jill Stein/Rudolph Butch Ware,0,0,0,0,0,0,0
+Abbeville,Due West,President,,GRN,Jill Stein/Rudolph Butch Ware,6,2,4,0,0,0,0
+Abbeville,Hall's Store,President,,GRN,Jill Stein/Rudolph Butch Ware,1,1,0,0,0,0,0
+Abbeville,Keowee,President,,GRN,Jill Stein/Rudolph Butch Ware,0,0,0,0,0,0,0
+Abbeville,Lowndesville,President,,GRN,Jill Stein/Rudolph Butch Ware,3,0,3,0,0,0,0
+Abbeville,Lebanon,President,,GRN,Jill Stein/Rudolph Butch Ware,3,0,3,0,0,0,0
+Abbeville,Smithville,President,,GRN,Jill Stein/Rudolph Butch Ware,2,1,1,0,0,0,0
+Abbeville,Failsafe,President,,GRN,Jill Stein/Rudolph Butch Ware,0,0,0,0,0,0,0
+Abbeville,Provisional,President,,GRN,Jill Stein/Rudolph Butch Ware,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,President,,GRN,Jill Stein/Rudolph Butch Ware,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,President,,REP,Donald J Trump/JD Vance,923,626,271,26,0,0,0
+Abbeville,Abbeville No. 2,President,,REP,Donald J Trump/JD Vance,341,237,93,11,0,0,0
+Abbeville,Abbeville No. 3,President,,REP,Donald J Trump/JD Vance,515,355,141,19,0,0,0
+Abbeville,Abbeville No. 4,President,,REP,Donald J Trump/JD Vance,416,254,160,2,0,0,0
+Abbeville,Antreville,President,,REP,Donald J Trump/JD Vance,831,419,406,6,0,0,0
+Abbeville,Broadmouth,President,,REP,Donald J Trump/JD Vance,331,80,245,6,0,0,0
+Abbeville,Calhoun Falls,President,,REP,Donald J Trump/JD Vance,557,278,266,13,0,0,0
+Abbeville,Cold Springs,President,,REP,Donald J Trump/JD Vance,604,314,287,3,0,0,0
+Abbeville,Donald's,President,,REP,Donald J Trump/JD Vance,347,107,235,5,0,0,0
+Abbeville,Due West,President,,REP,Donald J Trump/JD Vance,811,336,456,19,0,0,0
+Abbeville,Hall's Store,President,,REP,Donald J Trump/JD Vance,320,61,253,6,0,0,0
+Abbeville,Keowee,President,,REP,Donald J Trump/JD Vance,768,267,496,5,0,0,0
+Abbeville,Lowndesville,President,,REP,Donald J Trump/JD Vance,758,298,451,9,0,0,0
+Abbeville,Lebanon,President,,REP,Donald J Trump/JD Vance,448,231,208,9,0,0,0
+Abbeville,Smithville,President,,REP,Donald J Trump/JD Vance,532,334,185,13,0,0,0
+Abbeville,Failsafe,President,,REP,Donald J Trump/JD Vance,0,0,0,0,0,0,0
+Abbeville,Provisional,President,,REP,Donald J Trump/JD Vance,7,0,0,0,7,0,0
+Abbeville,Failsafe Provisional,President,,REP,Donald J Trump/JD Vance,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,President,,LIB,Chase Oliver/Mike ter Maat,5,4,1,0,0,0,0
+Abbeville,Abbeville No. 2,President,,LIB,Chase Oliver/Mike ter Maat,3,1,2,0,0,0,0
+Abbeville,Abbeville No. 3,President,,LIB,Chase Oliver/Mike ter Maat,3,2,1,0,0,0,0
+Abbeville,Abbeville No. 4,President,,LIB,Chase Oliver/Mike ter Maat,2,1,1,0,0,0,0
+Abbeville,Antreville,President,,LIB,Chase Oliver/Mike ter Maat,5,3,2,0,0,0,0
+Abbeville,Broadmouth,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0,0,0,0
+Abbeville,Calhoun Falls,President,,LIB,Chase Oliver/Mike ter Maat,1,1,0,0,0,0,0
+Abbeville,Cold Springs,President,,LIB,Chase Oliver/Mike ter Maat,2,1,1,0,0,0,0
+Abbeville,Donald's,President,,LIB,Chase Oliver/Mike ter Maat,1,1,0,0,0,0,0
+Abbeville,Due West,President,,LIB,Chase Oliver/Mike ter Maat,2,1,1,0,0,0,0
+Abbeville,Hall's Store,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0,0,0,0
+Abbeville,Keowee,President,,LIB,Chase Oliver/Mike ter Maat,3,1,2,0,0,0,0
+Abbeville,Lowndesville,President,,LIB,Chase Oliver/Mike ter Maat,3,1,2,0,0,0,0
+Abbeville,Lebanon,President,,LIB,Chase Oliver/Mike ter Maat,4,2,2,0,0,0,0
+Abbeville,Smithville,President,,LIB,Chase Oliver/Mike ter Maat,2,2,0,0,0,0,0
+Abbeville,Failsafe,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0,0,0,0
+Abbeville,Provisional,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,President,,DEM,Kamala D Harris/Tim Walz,354,250,88,16,0,0,0
+Abbeville,Abbeville No. 2,President,,DEM,Kamala D Harris/Tim Walz,554,357,162,35,0,0,0
+Abbeville,Abbeville No. 3,President,,DEM,Kamala D Harris/Tim Walz,375,239,116,20,0,0,0
+Abbeville,Abbeville No. 4,President,,DEM,Kamala D Harris/Tim Walz,191,120,68,3,0,0,0
+Abbeville,Antreville,President,,DEM,Kamala D Harris/Tim Walz,162,99,50,13,0,0,0
+Abbeville,Broadmouth,President,,DEM,Kamala D Harris/Tim Walz,65,17,48,0,0,0,0
+Abbeville,Calhoun Falls,President,,DEM,Kamala D Harris/Tim Walz,541,224,301,16,0,0,0
+Abbeville,Cold Springs,President,,DEM,Kamala D Harris/Tim Walz,134,87,43,4,0,0,0
+Abbeville,Donald's,President,,DEM,Kamala D Harris/Tim Walz,52,17,31,4,0,0,0
+Abbeville,Due West,President,,DEM,Kamala D Harris/Tim Walz,281,147,115,19,0,0,0
+Abbeville,Hall's Store,President,,DEM,Kamala D Harris/Tim Walz,120,28,85,7,0,0,0
+Abbeville,Keowee,President,,DEM,Kamala D Harris/Tim Walz,127,65,58,4,0,0,0
+Abbeville,Lowndesville,President,,DEM,Kamala D Harris/Tim Walz,126,62,58,6,0,0,0
+Abbeville,Lebanon,President,,DEM,Kamala D Harris/Tim Walz,138,81,51,6,0,0,0
+Abbeville,Smithville,President,,DEM,Kamala D Harris/Tim Walz,179,120,47,12,0,0,0
+Abbeville,Failsafe,President,,DEM,Kamala D Harris/Tim Walz,0,0,0,0,0,0,0
+Abbeville,Provisional,President,,DEM,Kamala D Harris/Tim Walz,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,President,,DEM,Kamala D Harris/Tim Walz,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,President,,WRK,Claudia De La Cruz/Karina Garcia,3,1,2,0,0,0,0
+Abbeville,Abbeville No. 2,President,,WRK,Claudia De La Cruz/Karina Garcia,2,1,1,0,0,0,0
+Abbeville,Abbeville No. 3,President,,WRK,Claudia De La Cruz/Karina Garcia,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 4,President,,WRK,Claudia De La Cruz/Karina Garcia,1,1,0,0,0,0,0
+Abbeville,Antreville,President,,WRK,Claudia De La Cruz/Karina Garcia,0,0,0,0,0,0,0
+Abbeville,Broadmouth,President,,WRK,Claudia De La Cruz/Karina Garcia,0,0,0,0,0,0,0
+Abbeville,Calhoun Falls,President,,WRK,Claudia De La Cruz/Karina Garcia,1,1,0,0,0,0,0
+Abbeville,Cold Springs,President,,WRK,Claudia De La Cruz/Karina Garcia,0,0,0,0,0,0,0
+Abbeville,Donald's,President,,WRK,Claudia De La Cruz/Karina Garcia,0,0,0,0,0,0,0
+Abbeville,Due West,President,,WRK,Claudia De La Cruz/Karina Garcia,4,1,3,0,0,0,0
+Abbeville,Hall's Store,President,,WRK,Claudia De La Cruz/Karina Garcia,0,0,0,0,0,0,0
+Abbeville,Keowee,President,,WRK,Claudia De La Cruz/Karina Garcia,1,0,1,0,0,0,0
+Abbeville,Lowndesville,President,,WRK,Claudia De La Cruz/Karina Garcia,2,0,2,0,0,0,0
+Abbeville,Lebanon,President,,WRK,Claudia De La Cruz/Karina Garcia,1,0,1,0,0,0,0
+Abbeville,Smithville,President,,WRK,Claudia De La Cruz/Karina Garcia,1,1,0,0,0,0,0
+Abbeville,Failsafe,President,,WRK,Claudia De La Cruz/Karina Garcia,0,0,0,0,0,0,0
+Abbeville,Provisional,President,,WRK,Claudia De La Cruz/Karina Garcia,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,President,,WRK,Claudia De La Cruz/Karina Garcia,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,U.S. House,3,REP,Sheri Biggs,877,593,260,24,0,0,0
+Abbeville,Abbeville No. 2,U.S. House,3,REP,Sheri Biggs,354,245,98,11,0,0,0
+Abbeville,Abbeville No. 3,U.S. House,3,REP,Sheri Biggs,498,345,137,16,0,0,0
+Abbeville,Abbeville No. 4,U.S. House,3,REP,Sheri Biggs,400,241,157,2,0,0,0
+Abbeville,Antreville,U.S. House,3,REP,Sheri Biggs,804,415,383,6,0,0,0
+Abbeville,Broadmouth,U.S. House,3,REP,Sheri Biggs,321,77,238,6,0,0,0
+Abbeville,Calhoun Falls,U.S. House,3,REP,Sheri Biggs,542,272,257,13,0,0,0
+Abbeville,Cold Springs,U.S. House,3,REP,Sheri Biggs,603,313,286,4,0,0,0
+Abbeville,Donald's,U.S. House,3,REP,Sheri Biggs,330,108,217,5,0,0,0
+Abbeville,Due West,U.S. House,3,REP,Sheri Biggs,793,325,450,18,0,0,0
+Abbeville,Hall's Store,U.S. House,3,REP,Sheri Biggs,320,63,249,8,0,0,0
+Abbeville,Keowee,U.S. House,3,REP,Sheri Biggs,742,257,480,5,0,0,0
+Abbeville,Lowndesville,U.S. House,3,REP,Sheri Biggs,736,283,446,7,0,0,0
+Abbeville,Lebanon,U.S. House,3,REP,Sheri Biggs,428,223,200,5,0,0,0
+Abbeville,Smithville,U.S. House,3,REP,Sheri Biggs,519,322,182,15,0,0,0
+Abbeville,Failsafe,U.S. House,3,REP,Sheri Biggs,0,0,0,0,0,0,0
+Abbeville,Provisional,U.S. House,3,REP,Sheri Biggs,6,0,0,0,6,0,0
+Abbeville,Failsafe Provisional,U.S. House,3,REP,Sheri Biggs,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,U.S. House,3,ALN,ALN Mike Bedenbaugh,78,50,27,1,0,0,0
+Abbeville,Abbeville No. 2,U.S. House,3,ALN,ALN Mike Bedenbaugh,21,16,5,0,0,0,0
+Abbeville,Abbeville No. 3,U.S. House,3,ALN,ALN Mike Bedenbaugh,29,23,5,1,0,0,0
+Abbeville,Abbeville No. 4,U.S. House,3,ALN,ALN Mike Bedenbaugh,19,14,5,0,0,0,0
+Abbeville,Antreville,U.S. House,3,ALN,ALN Mike Bedenbaugh,33,12,21,0,0,0,0
+Abbeville,Broadmouth,U.S. House,3,ALN,ALN Mike Bedenbaugh,6,1,5,0,0,0,0
+Abbeville,Calhoun Falls,U.S. House,3,ALN,ALN Mike Bedenbaugh,19,10,9,0,0,0,0
+Abbeville,Cold Springs,U.S. House,3,ALN,ALN Mike Bedenbaugh,19,9,10,0,0,0,0
+Abbeville,Donald's,U.S. House,3,ALN,ALN Mike Bedenbaugh,12,3,9,0,0,0,0
+Abbeville,Due West,U.S. House,3,ALN,ALN Mike Bedenbaugh,27,11,16,0,0,0,0
+Abbeville,Hall's Store,U.S. House,3,ALN,ALN Mike Bedenbaugh,6,2,4,0,0,0,0
+Abbeville,Keowee,U.S. House,3,ALN,ALN Mike Bedenbaugh,18,5,13,0,0,0,0
+Abbeville,Lowndesville,U.S. House,3,ALN,ALN Mike Bedenbaugh,19,9,10,0,0,0,0
+Abbeville,Lebanon,U.S. House,3,ALN,ALN Mike Bedenbaugh,23,10,11,2,0,0,0
+Abbeville,Smithville,U.S. House,3,ALN,ALN Mike Bedenbaugh,10,8,2,0,0,0,0
+Abbeville,Failsafe,U.S. House,3,ALN,ALN Mike Bedenbaugh,0,0,0,0,0,0,0
+Abbeville,Provisional,U.S. House,3,ALN,ALN Mike Bedenbaugh,1,0,0,0,1,0,0
+Abbeville,Failsafe Provisional,U.S. House,3,ALN,ALN Mike Bedenbaugh,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,U.S. House,3,DEM,Bryon L Best,311,219,76,16,0,0,0
+Abbeville,Abbeville No. 2,U.S. House,3,DEM,Bryon L Best,493,310,148,35,0,0,0
+Abbeville,Abbeville No. 3,U.S. House,3,DEM,Bryon L Best,331,210,102,19,0,0,0
+Abbeville,Abbeville No. 4,U.S. House,3,DEM,Bryon L Best,182,113,66,3,0,0,0
+Abbeville,Antreville,U.S. House,3,DEM,Bryon L Best,145,87,45,13,0,0,0
+Abbeville,Broadmouth,U.S. House,3,DEM,Bryon L Best,57,17,40,0,0,0,0
+Abbeville,Calhoun Falls,U.S. House,3,DEM,Bryon L Best,492,198,278,16,0,0,0
+Abbeville,Cold Springs,U.S. House,3,DEM,Bryon L Best,113,78,32,3,0,0,0
+Abbeville,Donald's,U.S. House,3,DEM,Bryon L Best,46,11,31,4,0,0,0
+Abbeville,Due West,U.S. House,3,DEM,Bryon L Best,262,139,104,19,0,0,0
+Abbeville,Hall's Store,U.S. House,3,DEM,Bryon L Best,109,26,78,5,0,0,0
+Abbeville,Keowee,U.S. House,3,DEM,Bryon L Best,121,64,53,4,0,0,0
+Abbeville,Lowndesville,U.S. House,3,DEM,Bryon L Best,120,58,56,6,0,0,0
+Abbeville,Lebanon,U.S. House,3,DEM,Bryon L Best,130,75,49,6,0,0,0
+Abbeville,Smithville,U.S. House,3,DEM,Bryon L Best,173,119,44,10,0,0,0
+Abbeville,Failsafe,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Abbeville,Provisional,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,U.S. House,3,DEM,Bryon L Best,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,U.S. House,3,NON,Write-In,3,2,1,0,0,0,0
+Abbeville,Abbeville No. 2,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 3,U.S. House,3,NON,Write-In,1,0,1,0,0,0,0
+Abbeville,Abbeville No. 4,U.S. House,3,NON,Write-In,4,4,0,0,0,0,0
+Abbeville,Antreville,U.S. House,3,NON,Write-In,3,1,2,0,0,0,0
+Abbeville,Broadmouth,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Calhoun Falls,U.S. House,3,NON,Write-In,3,0,3,0,0,0,0
+Abbeville,Cold Springs,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Donald's,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Due West,U.S. House,3,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Hall's Store,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Keowee,U.S. House,3,NON,Write-In,1,0,1,0,0,0,0
+Abbeville,Lowndesville,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Lebanon,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Smithville,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,U.S. House,3,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,State Senate,4,REP,Mike Gambrell,1034,703,306,25,0,0,0
+Abbeville,Abbeville No. 2,State Senate,4,REP,Mike Gambrell,449,300,133,16,0,0,0
+Abbeville,Abbeville No. 3,State Senate,4,REP,Mike Gambrell,589,388,180,21,0,0,0
+Abbeville,Abbeville No. 4,State Senate,4,REP,Mike Gambrell,463,278,181,4,0,0,0
+Abbeville,Antreville,State Senate,4,REP,Mike Gambrell,860,446,408,6,0,0,0
+Abbeville,Broadmouth,State Senate,4,REP,Mike Gambrell,349,83,260,6,0,0,0
+Abbeville,Calhoun Falls,State Senate,4,REP,Mike Gambrell,608,298,295,15,0,0,0
+Abbeville,Cold Springs,State Senate,4,REP,Mike Gambrell,643,331,306,6,0,0,0
+Abbeville,Donald's,State Senate,4,REP,Mike Gambrell,355,113,235,7,0,0,0
+Abbeville,Due West,State Senate,4,REP,Mike Gambrell,877,354,502,21,0,0,0
+Abbeville,Hall's Store,State Senate,4,REP,Mike Gambrell,348,68,271,9,0,0,0
+Abbeville,Keowee,State Senate,4,REP,Mike Gambrell,790,272,512,6,0,0,0
+Abbeville,Lowndesville,State Senate,4,REP,Mike Gambrell,776,297,469,10,0,0,0
+Abbeville,Lebanon,State Senate,4,REP,Mike Gambrell,483,247,226,10,0,0,0
+Abbeville,Smithville,State Senate,4,REP,Mike Gambrell,557,349,195,13,0,0,0
+Abbeville,Failsafe,State Senate,4,REP,Mike Gambrell,0,0,0,0,0,0,0
+Abbeville,Provisional,State Senate,4,REP,Mike Gambrell,7,0,0,0,7,0,0
+Abbeville,Failsafe Provisional,State Senate,4,REP,Mike Gambrell,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,State Senate,4,NON,Write-In,13,8,4,1,0,0,0
+Abbeville,Abbeville No. 2,State Senate,4,NON,Write-In,5,3,2,0,0,0,0
+Abbeville,Abbeville No. 3,State Senate,4,NON,Write-In,3,2,1,0,0,0,0
+Abbeville,Abbeville No. 4,State Senate,4,NON,Write-In,3,3,0,0,0,0,0
+Abbeville,Antreville,State Senate,4,NON,Write-In,7,1,1,5,0,0,0
+Abbeville,Broadmouth,State Senate,4,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Calhoun Falls,State Senate,4,NON,Write-In,5,3,2,0,0,0,0
+Abbeville,Cold Springs,State Senate,4,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Donald's,State Senate,4,NON,Write-In,2,1,1,0,0,0,0
+Abbeville,Due West,State Senate,4,NON,Write-In,6,2,4,0,0,0,0
+Abbeville,Hall's Store,State Senate,4,NON,Write-In,2,1,1,0,0,0,0
+Abbeville,Keowee,State Senate,4,NON,Write-In,1,0,1,0,0,0,0
+Abbeville,Lowndesville,State Senate,4,NON,Write-In,2,1,1,0,0,0,0
+Abbeville,Lebanon,State Senate,4,NON,Write-In,4,2,2,0,0,0,0
+Abbeville,Smithville,State Senate,4,NON,Write-In,7,7,0,0,0,0,0
+Abbeville,Failsafe,State Senate,4,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,State Senate,4,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,State Senate,4,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Broadmouth,State House,7,REP,Lee Gilreath,12,4,8,0,0,0,0
+Abbeville,Keowee,State House,7,REP,Lee Gilreath,10,1,8,1,0,0,0
+Abbeville,Failsafe,State House,7,REP,Lee Gilreath,0,0,0,0,0,0,0
+Abbeville,Provisional,State House,7,REP,Lee Gilreath,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,State House,7,REP,Lee Gilreath,0,0,0,0,0,0,0
+Abbeville,Broadmouth,State House,7,LIB,Hunter Savirino,6,2,4,0,0,0,0
+Abbeville,Keowee,State House,7,LIB,Hunter Savirino,1,0,1,0,0,0,0
+Abbeville,Failsafe,State House,7,LIB,Hunter Savirino,0,0,0,0,0,0,0
+Abbeville,Provisional,State House,7,LIB,Hunter Savirino,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,State House,7,LIB,Hunter Savirino,0,0,0,0,0,0,0
+Abbeville,Broadmouth,State House,7,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Keowee,State House,7,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe,State House,7,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,State House,7,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,State House,7,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,State House,11,REP,Craig Gagnon,1041,708,308,25,0,0,0
+Abbeville,Abbeville No. 2,State House,11,REP,Craig Gagnon,466,311,138,17,0,0,0
+Abbeville,Abbeville No. 3,State House,11,REP,Craig Gagnon,600,403,175,22,0,0,0
+Abbeville,Abbeville No. 4,State House,11,REP,Craig Gagnon,465,282,180,3,0,0,0
+Abbeville,Antreville,State House,11,REP,Craig Gagnon,861,448,407,6,0,0,0
+Abbeville,Broadmouth,State House,11,REP,Craig Gagnon,330,77,247,6,0,0,0
+Abbeville,Calhoun Falls,State House,11,REP,Craig Gagnon,613,303,295,15,0,0,0
+Abbeville,Cold Springs,State House,11,REP,Craig Gagnon,645,332,307,6,0,0,0
+Abbeville,Donald's,State House,11,REP,Craig Gagnon,354,113,234,7,0,0,0
+Abbeville,Due West,State House,11,REP,Craig Gagnon,875,354,500,21,0,0,0
+Abbeville,Hall's Store,State House,11,REP,Craig Gagnon,345,67,269,9,0,0,0
+Abbeville,Keowee,State House,11,REP,Craig Gagnon,771,271,495,5,0,0,0
+Abbeville,Lowndesville,State House,11,REP,Craig Gagnon,777,299,468,10,0,0,0
+Abbeville,Lebanon,State House,11,REP,Craig Gagnon,480,244,226,10,0,0,0
+Abbeville,Smithville,State House,11,REP,Craig Gagnon,553,345,193,15,0,0,0
+Abbeville,Failsafe,State House,11,REP,Craig Gagnon,0,0,0,0,0,0,0
+Abbeville,Provisional,State House,11,REP,Craig Gagnon,6,0,0,0,6,0,0
+Abbeville,Failsafe Provisional,State House,11,REP,Craig Gagnon,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,State House,11,NON,Write-In,10,5,4,1,0,0,0
+Abbeville,Abbeville No. 2,State House,11,NON,Write-In,3,3,0,0,0,0,0
+Abbeville,Abbeville No. 3,State House,11,NON,Write-In,3,1,2,0,0,0,0
+Abbeville,Abbeville No. 4,State House,11,NON,Write-In,3,2,1,0,0,0,0
+Abbeville,Antreville,State House,11,NON,Write-In,8,1,2,5,0,0,0
+Abbeville,Broadmouth,State House,11,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Calhoun Falls,State House,11,NON,Write-In,4,4,0,0,0,0,0
+Abbeville,Cold Springs,State House,11,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Donald's,State House,11,NON,Write-In,1,0,1,0,0,0,0
+Abbeville,Due West,State House,11,NON,Write-In,4,2,2,0,0,0,0
+Abbeville,Hall's Store,State House,11,NON,Write-In,2,1,1,0,0,0,0
+Abbeville,Keowee,State House,11,NON,Write-In,2,1,1,0,0,0,0
+Abbeville,Lowndesville,State House,11,NON,Write-In,1,0,1,0,0,0,0
+Abbeville,Lebanon,State House,11,NON,Write-In,4,2,2,0,0,0,0
+Abbeville,Smithville,State House,11,NON,Write-In,6,6,0,0,0,0,0
+Abbeville,Failsafe,State House,11,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,State House,11,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,State House,11,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Solicitor, Circuit 8,REP,David Stumbo,1036,707,302,27,0,0,0
+Abbeville,Abbeville No. 2,Solicitor, Circuit 8,REP,David Stumbo,468,311,139,18,0,0,0
+Abbeville,Abbeville No. 3,Solicitor, Circuit 8,REP,David Stumbo,600,402,178,20,0,0,0
+Abbeville,Abbeville No. 4,Solicitor, Circuit 8,REP,David Stumbo,471,284,184,3,0,0,0
+Abbeville,Antreville,Solicitor, Circuit 8,REP,David Stumbo,860,440,414,6,0,0,0
+Abbeville,Broadmouth,Solicitor, Circuit 8,REP,David Stumbo,345,84,257,4,0,0,0
+Abbeville,Calhoun Falls,Solicitor, Circuit 8,REP,David Stumbo,612,301,296,15,0,0,0
+Abbeville,Cold Springs,Solicitor, Circuit 8,REP,David Stumbo,644,333,306,5,0,0,0
+Abbeville,Donald's,Solicitor, Circuit 8,REP,David Stumbo,353,113,233,7,0,0,0
+Abbeville,Due West,Solicitor, Circuit 8,REP,David Stumbo,882,357,504,21,0,0,0
+Abbeville,Hall's Store,Solicitor, Circuit 8,REP,David Stumbo,349,68,272,9,0,0,0
+Abbeville,Keowee,Solicitor, Circuit 8,REP,David Stumbo,782,267,509,6,0,0,0
+Abbeville,Lowndesville,Solicitor, Circuit 8,REP,David Stumbo,774,297,467,10,0,0,0
+Abbeville,Lebanon,Solicitor, Circuit 8,REP,David Stumbo,482,247,223,12,0,0,0
+Abbeville,Smithville,Solicitor, Circuit 8,REP,David Stumbo,563,353,196,14,0,0,0
+Abbeville,Failsafe,Solicitor, Circuit 8,REP,David Stumbo,0,0,0,0,0,0,0
+Abbeville,Provisional,Solicitor, Circuit 8,REP,David Stumbo,7,0,0,0,7,0,0
+Abbeville,Failsafe Provisional,Solicitor, Circuit 8,REP,David Stumbo,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Solicitor, Circuit 8,NON,Write-In,9,2,6,1,0,0,0
+Abbeville,Abbeville No. 2,Solicitor, Circuit 8,NON,Write-In,2,2,0,0,0,0,0
+Abbeville,Abbeville No. 3,Solicitor, Circuit 8,NON,Write-In,2,1,1,0,0,0,0
+Abbeville,Abbeville No. 4,Solicitor, Circuit 8,NON,Write-In,3,2,1,0,0,0,0
+Abbeville,Antreville,Solicitor, Circuit 8,NON,Write-In,5,1,1,3,0,0,0
+Abbeville,Broadmouth,Solicitor, Circuit 8,NON,Write-In,2,1,1,0,0,0,0
+Abbeville,Calhoun Falls,Solicitor, Circuit 8,NON,Write-In,3,2,1,0,0,0,0
+Abbeville,Cold Springs,Solicitor, Circuit 8,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Donald's,Solicitor, Circuit 8,NON,Write-In,1,0,1,0,0,0,0
+Abbeville,Due West,Solicitor, Circuit 8,NON,Write-In,4,4,0,0,0,0,0
+Abbeville,Hall's Store,Solicitor, Circuit 8,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Keowee,Solicitor, Circuit 8,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Lowndesville,Solicitor, Circuit 8,NON,Write-In,1,0,1,0,0,0,0
+Abbeville,Lebanon,Solicitor, Circuit 8,NON,Write-In,3,1,2,0,0,0,0
+Abbeville,Smithville,Solicitor, Circuit 8,NON,Write-In,4,4,0,0,0,0,0
+Abbeville,Failsafe,Solicitor, Circuit 8,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,Solicitor, Circuit 8,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Solicitor, Circuit 8,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Sheriff,,REP,Ray Watson,1056,721,306,29,0,0,0
+Abbeville,Abbeville No. 2,Sheriff,,REP,Ray Watson,487,324,143,20,0,0,0
+Abbeville,Abbeville No. 3,Sheriff,,REP,Ray Watson,620,410,187,23,0,0,0
+Abbeville,Abbeville No. 4,Sheriff,,REP,Ray Watson,475,288,184,3,0,0,0
+Abbeville,Antreville,Sheriff,,REP,Ray Watson,862,444,411,7,0,0,0
+Abbeville,Broadmouth,Sheriff,,REP,Ray Watson,348,84,260,4,0,0,0
+Abbeville,Calhoun Falls,Sheriff,,REP,Ray Watson,634,311,308,15,0,0,0
+Abbeville,Cold Springs,Sheriff,,REP,Ray Watson,644,332,307,5,0,0,0
+Abbeville,Donald's,Sheriff,,REP,Ray Watson,351,110,234,7,0,0,0
+Abbeville,Due West,Sheriff,,REP,Ray Watson,899,367,509,23,0,0,0
+Abbeville,Hall's Store,Sheriff,,REP,Ray Watson,349,70,270,9,0,0,0
+Abbeville,Keowee,Sheriff,,REP,Ray Watson,790,271,513,6,0,0,0
+Abbeville,Lowndesville,Sheriff,,REP,Ray Watson,773,296,466,11,0,0,0
+Abbeville,Lebanon,Sheriff,,REP,Ray Watson,476,242,222,12,0,0,0
+Abbeville,Smithville,Sheriff,,REP,Ray Watson,563,352,195,16,0,0,0
+Abbeville,Failsafe,Sheriff,,REP,Ray Watson,0,0,0,0,0,0,0
+Abbeville,Provisional,Sheriff,,REP,Ray Watson,7,0,0,0,7,0,0
+Abbeville,Failsafe Provisional,Sheriff,,REP,Ray Watson,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Sheriff,,NON,Write-In,11,6,4,1,0,0,0
+Abbeville,Abbeville No. 2,Sheriff,,NON,Write-In,6,4,2,0,0,0,0
+Abbeville,Abbeville No. 3,Sheriff,,NON,Write-In,4,1,2,1,0,0,0
+Abbeville,Abbeville No. 4,Sheriff,,NON,Write-In,7,4,3,0,0,0,0
+Abbeville,Antreville,Sheriff,,NON,Write-In,8,1,5,2,0,0,0
+Abbeville,Broadmouth,Sheriff,,NON,Write-In,2,1,1,0,0,0,0
+Abbeville,Calhoun Falls,Sheriff,,NON,Write-In,6,3,3,0,0,0,0
+Abbeville,Cold Springs,Sheriff,,NON,Write-In,5,3,2,0,0,0,0
+Abbeville,Donald's,Sheriff,,NON,Write-In,7,5,2,0,0,0,0
+Abbeville,Due West,Sheriff,,NON,Write-In,2,1,1,0,0,0,0
+Abbeville,Hall's Store,Sheriff,,NON,Write-In,4,1,3,0,0,0,0
+Abbeville,Keowee,Sheriff,,NON,Write-In,4,2,2,0,0,0,0
+Abbeville,Lowndesville,Sheriff,,NON,Write-In,4,0,4,0,0,0,0
+Abbeville,Lebanon,Sheriff,,NON,Write-In,12,7,4,1,0,0,0
+Abbeville,Smithville,Sheriff,,NON,Write-In,6,5,1,0,0,0,0
+Abbeville,Failsafe,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Sheriff,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Clerk of Court,,DEM,Shandal Boggs,818,549,240,29,0,0,0
+Abbeville,Abbeville No. 2,Clerk of Court,,DEM,Shandal Boggs,700,452,207,41,0,0,0
+Abbeville,Abbeville No. 3,Clerk of Court,,DEM,Shandal Boggs,581,380,175,26,0,0,0
+Abbeville,Abbeville No. 4,Clerk of Court,,DEM,Shandal Boggs,371,214,152,5,0,0,0
+Abbeville,Antreville,Clerk of Court,,DEM,Shandal Boggs,431,223,196,12,0,0,0
+Abbeville,Broadmouth,Clerk of Court,,DEM,Shandal Boggs,188,44,144,0,0,0,0
+Abbeville,Calhoun Falls,Clerk of Court,,DEM,Shandal Boggs,683,288,377,18,0,0,0
+Abbeville,Cold Springs,Clerk of Court,,DEM,Shandal Boggs,391,199,187,5,0,0,0
+Abbeville,Donald's,Clerk of Court,,DEM,Shandal Boggs,197,58,132,7,0,0,0
+Abbeville,Due West,Clerk of Court,,DEM,Shandal Boggs,630,289,315,26,0,0,0
+Abbeville,Hall's Store,Clerk of Court,,DEM,Shandal Boggs,239,46,186,7,0,0,0
+Abbeville,Keowee,Clerk of Court,,DEM,Shandal Boggs,406,135,267,4,0,0,0
+Abbeville,Lowndesville,Clerk of Court,,DEM,Shandal Boggs,400,159,233,8,0,0,0
+Abbeville,Lebanon,Clerk of Court,,DEM,Shandal Boggs,327,164,151,12,0,0,0
+Abbeville,Smithville,Clerk of Court,,DEM,Shandal Boggs,366,219,132,15,0,0,0
+Abbeville,Failsafe,Clerk of Court,,DEM,Shandal Boggs,0,0,0,0,0,0,0
+Abbeville,Provisional,Clerk of Court,,DEM,Shandal Boggs,1,0,0,0,1,0,0
+Abbeville,Failsafe Provisional,Clerk of Court,,DEM,Shandal Boggs,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Clerk of Court,,NON,Write-In,13,5,7,1,0,0,0
+Abbeville,Abbeville No. 2,Clerk of Court,,NON,Write-In,4,0,3,1,0,0,0
+Abbeville,Abbeville No. 3,Clerk of Court,,NON,Write-In,10,6,2,2,0,0,0
+Abbeville,Abbeville No. 4,Clerk of Court,,NON,Write-In,8,4,4,0,0,0,0
+Abbeville,Antreville,Clerk of Court,,NON,Write-In,19,8,11,0,0,0,0
+Abbeville,Broadmouth,Clerk of Court,,NON,Write-In,7,3,3,1,0,0,0
+Abbeville,Calhoun Falls,Clerk of Court,,NON,Write-In,17,9,7,1,0,0,0
+Abbeville,Cold Springs,Clerk of Court,,NON,Write-In,8,4,4,0,0,0,0
+Abbeville,Donald's,Clerk of Court,,NON,Write-In,8,2,6,0,0,0,0
+Abbeville,Due West,Clerk of Court,,NON,Write-In,12,4,8,0,0,0,0
+Abbeville,Hall's Store,Clerk of Court,,NON,Write-In,5,0,5,0,0,0,0
+Abbeville,Keowee,Clerk of Court,,NON,Write-In,23,7,16,0,0,0,0
+Abbeville,Lowndesville,Clerk of Court,,NON,Write-In,19,5,14,0,0,0,0
+Abbeville,Lebanon,Clerk of Court,,NON,Write-In,15,11,3,1,0,0,0
+Abbeville,Smithville,Clerk of Court,,NON,Write-In,13,2,10,1,0,0,0
+Abbeville,Failsafe,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Clerk of Court,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Coroner,,REP,Brad Evans,1061,725,306,30,0,0,0
+Abbeville,Abbeville No. 2,Coroner,,REP,Brad Evans,506,333,150,23,0,0,0
+Abbeville,Abbeville No. 3,Coroner,,REP,Brad Evans,613,404,187,22,0,0,0
+Abbeville,Abbeville No. 4,Coroner,,REP,Brad Evans,466,281,182,3,0,0,0
+Abbeville,Antreville,Coroner,,REP,Brad Evans,862,444,410,8,0,0,0
+Abbeville,Broadmouth,Coroner,,REP,Brad Evans,349,84,261,4,0,0,0
+Abbeville,Calhoun Falls,Coroner,,REP,Brad Evans,617,299,306,12,0,0,0
+Abbeville,Cold Springs,Coroner,,REP,Brad Evans,646,334,306,6,0,0,0
+Abbeville,Donald's,Coroner,,REP,Brad Evans,348,110,231,7,0,0,0
+Abbeville,Due West,Coroner,,REP,Brad Evans,884,361,501,22,0,0,0
+Abbeville,Hall's Store,Coroner,,REP,Brad Evans,352,70,273,9,0,0,0
+Abbeville,Keowee,Coroner,,REP,Brad Evans,781,269,506,6,0,0,0
+Abbeville,Lowndesville,Coroner,,REP,Brad Evans,779,297,471,11,0,0,0
+Abbeville,Lebanon,Coroner,,REP,Brad Evans,479,249,219,11,0,0,0
+Abbeville,Smithville,Coroner,,REP,Brad Evans,559,349,195,15,0,0,0
+Abbeville,Failsafe,Coroner,,REP,Brad Evans,0,0,0,0,0,0,0
+Abbeville,Provisional,Coroner,,REP,Brad Evans,7,0,0,0,7,0,0
+Abbeville,Failsafe Provisional,Coroner,,REP,Brad Evans,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Coroner,,NON,Write-In,10,4,5,1,0,0,0
+Abbeville,Abbeville No. 2,Coroner,,NON,Write-In,3,1,2,0,0,0,0
+Abbeville,Abbeville No. 3,Coroner,,NON,Write-In,9,5,4,0,0,0,0
+Abbeville,Abbeville No. 4,Coroner,,NON,Write-In,6,4,2,0,0,0,0
+Abbeville,Antreville,Coroner,,NON,Write-In,5,1,3,1,0,0,0
+Abbeville,Broadmouth,Coroner,,NON,Write-In,3,1,2,0,0,0,0
+Abbeville,Calhoun Falls,Coroner,,NON,Write-In,12,9,1,2,0,0,0
+Abbeville,Cold Springs,Coroner,,NON,Write-In,6,2,4,0,0,0,0
+Abbeville,Donald's,Coroner,,NON,Write-In,6,1,5,0,0,0,0
+Abbeville,Due West,Coroner,,NON,Write-In,9,4,5,0,0,0,0
+Abbeville,Hall's Store,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Keowee,Coroner,,NON,Write-In,6,2,4,0,0,0,0
+Abbeville,Lowndesville,Coroner,,NON,Write-In,2,0,2,0,0,0,0
+Abbeville,Lebanon,Coroner,,NON,Write-In,9,3,4,2,0,0,0
+Abbeville,Smithville,Coroner,,NON,Write-In,6,4,2,0,0,0,0
+Abbeville,Failsafe,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Coroner,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,County Council District 3,,DEM,Charles H Goodwin,433,300,122,11,0,0,0
+Abbeville,Abbeville No. 2,County Council District 3,,DEM,Charles H Goodwin,663,430,201,32,0,0,0
+Abbeville,Cold Springs,County Council District 3,,DEM,Charles H Goodwin,30,22,7,1,0,0,0
+Abbeville,Failsafe,County Council District 3,,DEM,Charles H Goodwin,0,0,0,0,0,0,0
+Abbeville,Provisional,County Council District 3,,DEM,Charles H Goodwin,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,County Council District 3,,DEM,Charles H Goodwin,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,County Council District 3,,NON,Write-In,11,6,5,0,0,0,0
+Abbeville,Abbeville No. 2,County Council District 3,,NON,Write-In,5,3,2,0,0,0,0
+Abbeville,Cold Springs,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,County Council District 3,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,County Council District 4,,REP,Billy Norris,579,378,181,20,0,0,0
+Abbeville,Abbeville No. 2,County Council District 4,,REP,Billy Norris,83,58,22,3,0,0,0
+Abbeville,Abbeville No. 3,County Council District 4,,REP,Billy Norris,420,279,128,13,0,0,0
+Abbeville,Abbeville No. 4,County Council District 4,,REP,Billy Norris,306,189,115,2,0,0,0
+Abbeville,Lebanon,County Council District 4,,REP,Billy Norris,24,13,11,0,0,0,0
+Abbeville,Failsafe,County Council District 4,,REP,Billy Norris,0,0,0,0,0,0,0
+Abbeville,Provisional,County Council District 4,,REP,Billy Norris,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,County Council District 4,,REP,Billy Norris,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,County Council District 4,,NON,Write-In,8,5,2,1,0,0,0
+Abbeville,Abbeville No. 2,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 3,County Council District 4,,NON,Write-In,5,3,2,0,0,0,0
+Abbeville,Abbeville No. 4,County Council District 4,,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Lebanon,County Council District 4,,NON,Write-In,3,3,0,0,0,0,0
+Abbeville,Failsafe,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,County Council District 4,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 2,County Council District 5,,REP,James P McCord,7,3,4,0,0,0,0
+Abbeville,Abbeville No. 3,County Council District 5,,REP,James P McCord,31,19,11,1,0,0,0
+Abbeville,Cold Springs,County Council District 5,,REP,James P McCord,617,313,298,6,0,0,0
+Abbeville,Due West,County Council District 5,,REP,James P McCord,242,111,123,8,0,0,0
+Abbeville,Keowee,County Council District 5,,REP,James P McCord,27,14,13,0,0,0,0
+Abbeville,Lebanon,County Council District 5,,REP,James P McCord,185,95,86,4,0,0,0
+Abbeville,Smithville,County Council District 5,,REP,James P McCord,559,348,196,15,0,0,0
+Abbeville,Failsafe,County Council District 5,,REP,James P McCord,0,0,0,0,0,0,0
+Abbeville,Provisional,County Council District 5,,REP,James P McCord,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,County Council District 5,,REP,James P McCord,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 2,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 3,County Council District 5,,NON,Write-In,1,0,1,0,0,0,0
+Abbeville,Cold Springs,County Council District 5,,NON,Write-In,2,1,1,0,0,0,0
+Abbeville,Due West,County Council District 5,,NON,Write-In,4,2,2,0,0,0,0
+Abbeville,Keowee,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Lebanon,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Smithville,County Council District 5,,NON,Write-In,5,5,0,0,0,0,0
+Abbeville,Failsafe,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,County Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 4,County Council District 6,,REP,Trent Taylor,69,45,24,0,0,0,0
+Abbeville,Antreville,County Council District 6,,REP,Trent Taylor,574,317,251,6,0,0,0
+Abbeville,Calhoun Falls,County Council District 6,,REP,Trent Taylor,247,107,135,5,0,0,0
+Abbeville,Lowndesville,County Council District 6,,REP,Trent Taylor,761,286,464,11,0,0,0
+Abbeville,Lebanon,County Council District 6,,REP,Trent Taylor,5,2,3,0,0,0,0
+Abbeville,Failsafe,County Council District 6,,REP,Trent Taylor,0,0,0,0,0,0,0
+Abbeville,Provisional,County Council District 6,,REP,Trent Taylor,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,County Council District 6,,REP,Trent Taylor,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 4,County Council District 6,,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Antreville,County Council District 6,,NON,Write-In,6,4,2,0,0,0,0
+Abbeville,Calhoun Falls,County Council District 6,,NON,Write-In,2,2,0,0,0,0,0
+Abbeville,Lowndesville,County Council District 6,,NON,Write-In,4,3,1,0,0,0,0
+Abbeville,Lebanon,County Council District 6,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe,County Council District 6,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,County Council District 6,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,County Council District 6,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Soil and Water District Commission,,NON,Bonnie Haddon Cann,877,587,261,29,0,0,0
+Abbeville,Abbeville No. 2,Soil and Water District Commission,,NON,Bonnie Haddon Cann,427,270,132,25,0,0,0
+Abbeville,Abbeville No. 3,Soil and Water District Commission,,NON,Bonnie Haddon Cann,512,332,167,13,0,0,0
+Abbeville,Abbeville No. 4,Soil and Water District Commission,,NON,Bonnie Haddon Cann,395,235,158,2,0,0,0
+Abbeville,Antreville,Soil and Water District Commission,,NON,Bonnie Haddon Cann,590,286,298,6,0,0,0
+Abbeville,Broadmouth,Soil and Water District Commission,,NON,Bonnie Haddon Cann,275,61,213,1,0,0,0
+Abbeville,Calhoun Falls,Soil and Water District Commission,,NON,Bonnie Haddon Cann,517,233,272,12,0,0,0
+Abbeville,Cold Springs,Soil and Water District Commission,,NON,Bonnie Haddon Cann,448,228,215,5,0,0,0
+Abbeville,Donald's,Soil and Water District Commission,,NON,Bonnie Haddon Cann,277,82,190,5,0,0,0
+Abbeville,Due West,Soil and Water District Commission,,NON,Bonnie Haddon Cann,683,282,388,13,0,0,0
+Abbeville,Hall's Store,Soil and Water District Commission,,NON,Bonnie Haddon Cann,285,51,226,8,0,0,0
+Abbeville,Keowee,Soil and Water District Commission,,NON,Bonnie Haddon Cann,592,199,391,2,0,0,0
+Abbeville,Lowndesville,Soil and Water District Commission,,NON,Bonnie Haddon Cann,517,194,316,7,0,0,0
+Abbeville,Lebanon,Soil and Water District Commission,,NON,Bonnie Haddon Cann,407,194,203,10,0,0,0
+Abbeville,Smithville,Soil and Water District Commission,,NON,Bonnie Haddon Cann,368,214,141,13,0,0,0
+Abbeville,Failsafe,Soil and Water District Commission,,NON,Bonnie Haddon Cann,0,0,0,0,0,0,0
+Abbeville,Provisional,Soil and Water District Commission,,NON,Bonnie Haddon Cann,1,0,0,0,1,0,0
+Abbeville,Failsafe Provisional,Soil and Water District Commission,,NON,Bonnie Haddon Cann,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Soil and Water District Commission,,NON,Write-In,8,4,4,0,0,0,0
+Abbeville,Abbeville No. 2,Soil and Water District Commission,,NON,Write-In,2,1,0,1,0,0,0
+Abbeville,Abbeville No. 3,Soil and Water District Commission,,NON,Write-In,7,4,1,2,0,0,0
+Abbeville,Abbeville No. 4,Soil and Water District Commission,,NON,Write-In,7,6,1,0,0,0,0
+Abbeville,Antreville,Soil and Water District Commission,,NON,Write-In,12,9,3,0,0,0,0
+Abbeville,Broadmouth,Soil and Water District Commission,,NON,Write-In,3,2,0,1,0,0,0
+Abbeville,Calhoun Falls,Soil and Water District Commission,,NON,Write-In,3,2,1,0,0,0,0
+Abbeville,Cold Springs,Soil and Water District Commission,,NON,Write-In,2,0,2,0,0,0,0
+Abbeville,Donald's,Soil and Water District Commission,,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Due West,Soil and Water District Commission,,NON,Write-In,2,0,2,0,0,0,0
+Abbeville,Hall's Store,Soil and Water District Commission,,NON,Write-In,2,0,2,0,0,0,0
+Abbeville,Keowee,Soil and Water District Commission,,NON,Write-In,7,2,5,0,0,0,0
+Abbeville,Lowndesville,Soil and Water District Commission,,NON,Write-In,5,0,5,0,0,0,0
+Abbeville,Lebanon,Soil and Water District Commission,,NON,Write-In,6,3,3,0,0,0,0
+Abbeville,Smithville,Soil and Water District Commission,,NON,Write-In,5,2,3,0,0,0,0
+Abbeville,Failsafe,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Soil and Water District Commission,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,School Board District 2,,NON,Joe Boochie Bryson,118,84,29,5,0,0,0
+Abbeville,Abbeville No. 2,School Board District 2,,NON,Joe Boochie Bryson,81,40,32,9,0,0,0
+Abbeville,Cold Springs,School Board District 2,,NON,Joe Boochie Bryson,65,34,30,1,0,0,0
+Abbeville,Due West,School Board District 2,,NON,Joe Boochie Bryson,219,98,112,9,0,0,0
+Abbeville,Smithville,School Board District 2,,NON,Joe Boochie Bryson,182,108,65,9,0,0,0
+Abbeville,Failsafe,School Board District 2,,NON,Joe Boochie Bryson,0,0,0,0,0,0,0
+Abbeville,Provisional,School Board District 2,,NON,Joe Boochie Bryson,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,School Board District 2,,NON,Joe Boochie Bryson,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,School Board District 2,,NON,Write-In,3,3,0,0,0,0,0
+Abbeville,Abbeville No. 2,School Board District 2,,NON,Write-In,4,4,0,0,0,0,0
+Abbeville,Cold Springs,School Board District 2,,NON,Write-In,2,1,1,0,0,0,0
+Abbeville,Due West,School Board District 2,,NON,Write-In,7,3,4,0,0,0,0
+Abbeville,Smithville,School Board District 2,,NON,Write-In,3,1,1,1,0,0,0
+Abbeville,Failsafe,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,School Board District 2,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Antreville,School Board District 4,,NON,Devada Kimsey,2,0,2,0,0,0,0
+Abbeville,Calhoun Falls,School Board District 4,,NON,Devada Kimsey,181,95,82,4,0,0,0
+Abbeville,Lowndesville,School Board District 4,,NON,Devada Kimsey,120,37,81,2,0,0,0
+Abbeville,Lebanon,School Board District 4,,NON,Devada Kimsey,27,15,12,0,0,0,0
+Abbeville,Failsafe,School Board District 4,,NON,Devada Kimsey,0,0,0,0,0,0,0
+Abbeville,Provisional,School Board District 4,,NON,Devada Kimsey,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,School Board District 4,,NON,Devada Kimsey,0,0,0,0,0,0,0
+Abbeville,Antreville,School Board District 4,,NON,Ralph Stephen Scott,1,1,0,0,0,0,0
+Abbeville,Calhoun Falls,School Board District 4,,NON,Ralph Stephen Scott,197,95,94,8,0,0,0
+Abbeville,Lowndesville,School Board District 4,,NON,Ralph Stephen Scott,196,54,140,2,0,0,0
+Abbeville,Lebanon,School Board District 4,,NON,Ralph Stephen Scott,46,23,21,2,0,0,0
+Abbeville,Failsafe,School Board District 4,,NON,Ralph Stephen Scott,0,0,0,0,0,0,0
+Abbeville,Provisional,School Board District 4,,NON,Ralph Stephen Scott,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,School Board District 4,,NON,Ralph Stephen Scott,0,0,0,0,0,0,0
+Abbeville,Antreville,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Calhoun Falls,School Board District 4,,NON,Write-In,3,1,2,0,0,0,0
+Abbeville,Lowndesville,School Board District 4,,NON,Write-In,3,0,3,0,0,0,0
+Abbeville,Lebanon,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,School Board District 4,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 2,School Board District 5,,NON,Marion T Johnson,168,115,44,9,0,0,0
+Abbeville,Abbeville No. 3,School Board District 5,,NON,Marion T Johnson,277,196,74,7,0,0,0
+Abbeville,Abbeville No. 4,School Board District 5,,NON,Marion T Johnson,84,50,33,1,0,0,0
+Abbeville,Lowndesville,School Board District 5,,NON,Marion T Johnson,16,9,7,0,0,0,0
+Abbeville,Lebanon,School Board District 5,,NON,Marion T Johnson,242,103,134,5,0,0,0
+Abbeville,Failsafe,School Board District 5,,NON,Marion T Johnson,0,0,0,0,0,0,0
+Abbeville,Provisional,School Board District 5,,NON,Marion T Johnson,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,School Board District 5,,NON,Marion T Johnson,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 2,School Board District 5,,NON,Write-In,3,1,1,1,0,0,0
+Abbeville,Abbeville No. 3,School Board District 5,,NON,Write-In,6,1,5,0,0,0,0
+Abbeville,Abbeville No. 4,School Board District 5,,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Lowndesville,School Board District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Lebanon,School Board District 5,,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Failsafe,School Board District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,School Board District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,School Board District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Broadmouth,School Board District 8,,NON,Keith Dunn,176,38,137,1,0,0,0
+Abbeville,Donald's,School Board District 8,,NON,Keith Dunn,196,69,123,4,0,0,0
+Abbeville,Due West,School Board District 8,,NON,Keith Dunn,110,47,59,4,0,0,0
+Abbeville,Hall's Store,School Board District 8,,NON,Keith Dunn,12,2,10,0,0,0,0
+Abbeville,Keowee,School Board District 8,,NON,Keith Dunn,143,54,88,1,0,0,0
+Abbeville,Failsafe,School Board District 8,,NON,Keith Dunn,0,0,0,0,0,0,0
+Abbeville,Provisional,School Board District 8,,NON,Keith Dunn,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,School Board District 8,,NON,Keith Dunn,0,0,0,0,0,0,0
+Abbeville,Broadmouth,School Board District 8,,NON,Jonathon Stoll,73,20,53,0,0,0,0
+Abbeville,Donald's,School Board District 8,,NON,Jonathon Stoll,112,28,81,3,0,0,0
+Abbeville,Due West,School Board District 8,,NON,Jonathon Stoll,89,46,43,0,0,0,0
+Abbeville,Hall's Store,School Board District 8,,NON,Jonathon Stoll,7,1,6,0,0,0,0
+Abbeville,Keowee,School Board District 8,,NON,Jonathon Stoll,57,9,47,1,0,0,0
+Abbeville,Failsafe,School Board District 8,,NON,Jonathon Stoll,0,0,0,0,0,0,0
+Abbeville,Provisional,School Board District 8,,NON,Jonathon Stoll,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,School Board District 8,,NON,Jonathon Stoll,0,0,0,0,0,0,0
+Abbeville,Broadmouth,School Board District 8,,NON,Write-In,2,0,1,1,0,0,0
+Abbeville,Donald's,School Board District 8,,NON,Write-In,2,1,1,0,0,0,0
+Abbeville,Due West,School Board District 8,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Hall's Store,School Board District 8,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Keowee,School Board District 8,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe,School Board District 8,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,School Board District 8,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,School Board District 8,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Amendment 1,,NON,"Yes, In Favor of the Question",1057,713,310,34,0,0,0
+Abbeville,Abbeville No. 2,Amendment 1,,NON,"Yes, In Favor of the Question",591,390,164,37,0,0,0
+Abbeville,Abbeville No. 3,Amendment 1,,NON,"Yes, In Favor of the Question",667,444,192,31,0,0,0
+Abbeville,Abbeville No. 4,Amendment 1,,NON,"Yes, In Favor of the Question",491,292,195,4,0,0,0
+Abbeville,Antreville,Amendment 1,,NON,"Yes, In Favor of the Question",845,429,401,15,0,0,0
+Abbeville,Broadmouth,Amendment 1,,NON,"Yes, In Favor of the Question",340,80,254,6,0,0,0
+Abbeville,Calhoun Falls,Amendment 1,,NON,"Yes, In Favor of the Question",763,344,405,14,0,0,0
+Abbeville,Cold Springs,Amendment 1,,NON,"Yes, In Favor of the Question",606,327,273,6,0,0,0
+Abbeville,Donald's,Amendment 1,,NON,"Yes, In Favor of the Question",341,104,230,7,0,0,0
+Abbeville,Due West,Amendment 1,,NON,"Yes, In Favor of the Question",899,379,492,28,0,0,0
+Abbeville,Hall's Store,Amendment 1,,NON,"Yes, In Favor of the Question",367,74,283,10,0,0,0
+Abbeville,Keowee,Amendment 1,,NON,"Yes, In Favor of the Question",770,262,501,7,0,0,0
+Abbeville,Lowndesville,Amendment 1,,NON,"Yes, In Favor of the Question",761,304,443,14,0,0,0
+Abbeville,Lebanon,Amendment 1,,NON,"Yes, In Favor of the Question",502,259,232,11,0,0,0
+Abbeville,Smithville,Amendment 1,,NON,"Yes, In Favor of the Question",567,348,200,19,0,0,0
+Abbeville,Failsafe,Amendment 1,,NON,"Yes, In Favor of the Question",0,0,0,0,0,0,0
+Abbeville,Provisional,Amendment 1,,NON,"Yes, In Favor of the Question",6,0,0,0,6,0,0
+Abbeville,Failsafe Provisional,Amendment 1,,NON,"Yes, In Favor of the Question",0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Amendment 1,,NON,"No, Opposed to the Question",78,55,20,3,0,0,0
+Abbeville,Abbeville No. 2,Amendment 1,,NON,"No, Opposed to the Question",76,48,20,8,0,0,0
+Abbeville,Abbeville No. 3,Amendment 1,,NON,"No, Opposed to the Question",72,44,26,2,0,0,0
+Abbeville,Abbeville No. 4,Amendment 1,,NON,"No, Opposed to the Question",46,30,15,1,0,0,0
+Abbeville,Antreville,Amendment 1,,NON,"No, Opposed to the Question",40,19,21,0,0,0,0
+Abbeville,Broadmouth,Amendment 1,,NON,"No, Opposed to the Question",23,9,14,0,0,0,0
+Abbeville,Calhoun Falls,Amendment 1,,NON,"No, Opposed to the Question",97,51,43,3,0,0,0
+Abbeville,Cold Springs,Amendment 1,,NON,"No, Opposed to the Question",42,24,17,1,0,0,0
+Abbeville,Donald's,Amendment 1,,NON,"No, Opposed to the Question",19,5,12,2,0,0,0
+Abbeville,Due West,Amendment 1,,NON,"No, Opposed to the Question",74,37,37,0,0,0,0
+Abbeville,Hall's Store,Amendment 1,,NON,"No, Opposed to the Question",24,5,17,2,0,0,0
+Abbeville,Keowee,Amendment 1,,NON,"No, Opposed to the Question",44,23,20,1,0,0,0
+Abbeville,Lowndesville,Amendment 1,,NON,"No, Opposed to the Question",35,16,19,0,0,0,0
+Abbeville,Lebanon,Amendment 1,,NON,"No, Opposed to the Question",30,13,16,1,0,0,0
+Abbeville,Smithville,Amendment 1,,NON,"No, Opposed to the Question",59,40,16,3,0,0,0
+Abbeville,Failsafe,Amendment 1,,NON,"No, Opposed to the Question",0,0,0,0,0,0,0
+Abbeville,Provisional,Amendment 1,,NON,"No, Opposed to the Question",0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Amendment 1,,NON,"No, Opposed to the Question",0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,School Board District 6,,NON,Darren Gray,237,156,71,10,0,0,0
+Abbeville,Abbeville No. 3,School Board District 6,,NON,Darren Gray,27,16,7,4,0,0,0
+Abbeville,Abbeville No. 4,School Board District 6,,NON,Darren Gray,137,88,46,3,0,0,0
+Abbeville,Cold Springs,School Board District 6,,NON,Darren Gray,125,62,62,1,0,0,0
+Abbeville,Due West,School Board District 6,,NON,Darren Gray,20,11,9,0,0,0,0
+Abbeville,Failsafe,School Board District 6,,NON,Darren Gray,0,0,0,0,0,0,0
+Abbeville,Provisional,School Board District 6,,NON,Darren Gray,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,School Board District 6,,NON,Darren Gray,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,School Board District 6,,NON,Trey Moore,334,216,106,12,0,0,0
+Abbeville,Abbeville No. 3,School Board District 6,,NON,Trey Moore,29,14,12,3,0,0,0
+Abbeville,Abbeville No. 4,School Board District 6,,NON,Trey Moore,135,80,54,1,0,0,0
+Abbeville,Cold Springs,School Board District 6,,NON,Trey Moore,175,88,85,2,0,0,0
+Abbeville,Due West,School Board District 6,,NON,Trey Moore,33,23,8,2,0,0,0
+Abbeville,Failsafe,School Board District 6,,NON,Trey Moore,0,0,0,0,0,0,0
+Abbeville,Provisional,School Board District 6,,NON,Trey Moore,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,School Board District 6,,NON,Trey Moore,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,School Board District 6,,NON,Write-In,3,1,2,0,0,0,0
+Abbeville,Abbeville No. 3,School Board District 6,,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Abbeville No. 4,School Board District 6,,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Cold Springs,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Due West,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,School Board District 6,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Mayor,,NON,Jason A Edwards,134,84,46,4,0,0,0
+Abbeville,Abbeville No. 2,Mayor,,NON,Jason A Edwards,112,75,30,7,0,0,0
+Abbeville,Abbeville No. 3,Mayor,,NON,Jason A Edwards,130,89,38,3,0,0,0
+Abbeville,Abbeville No. 4,Mayor,,NON,Jason A Edwards,23,14,9,0,0,0,0
+Abbeville,Failsafe,Mayor,,NON,Jason A Edwards,0,0,0,0,0,0,0
+Abbeville,Provisional,Mayor,,NON,Jason A Edwards,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Mayor,,NON,Jason A Edwards,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Mayor,,NON,George Trey Edwards III,357,231,120,6,0,0,0
+Abbeville,Abbeville No. 2,Mayor,,NON,George Trey Edwards III,337,198,127,12,0,0,0
+Abbeville,Abbeville No. 3,Mayor,,NON,George Trey Edwards III,288,157,121,10,0,0,0
+Abbeville,Abbeville No. 4,Mayor,,NON,George Trey Edwards III,75,42,33,0,0,0,0
+Abbeville,Failsafe,Mayor,,NON,George Trey Edwards III,0,0,0,0,0,0,0
+Abbeville,Provisional,Mayor,,NON,George Trey Edwards III,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Mayor,,NON,George Trey Edwards III,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Mayor,,NON,Spencer Sorrow,176,121,44,11,0,0,0
+Abbeville,Abbeville No. 2,Mayor,,NON,Spencer Sorrow,67,46,16,5,0,0,0
+Abbeville,Abbeville No. 3,Mayor,,NON,Spencer Sorrow,86,57,23,6,0,0,0
+Abbeville,Abbeville No. 4,Mayor,,NON,Spencer Sorrow,27,19,8,0,0,0,0
+Abbeville,Failsafe,Mayor,,NON,Spencer Sorrow,0,0,0,0,0,0,0
+Abbeville,Provisional,Mayor,,NON,Spencer Sorrow,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Mayor,,NON,Spencer Sorrow,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,Mayor,,NON,Write-In,3,2,1,0,0,0,0
+Abbeville,Abbeville No. 2,Mayor,,NON,Write-In,2,1,0,1,0,0,0
+Abbeville,Abbeville No. 3,Mayor,,NON,Write-In,4,1,3,0,0,0,0
+Abbeville,Abbeville No. 4,Mayor,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe,Mayor,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,Mayor,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Mayor,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Donald's,Mayor,,NON,William O Scoggins Jr,103,24,77,2,0,0,0
+Abbeville,Failsafe,Mayor,,NON,William O Scoggins Jr,0,0,0,0,0,0,0
+Abbeville,Provisional,Mayor,,NON,William O Scoggins Jr,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Mayor,,NON,William O Scoggins Jr,0,0,0,0,0,0,0
+Abbeville,Donald's,Mayor,,NON,Write-In,8,3,5,0,0,0,0
+Abbeville,Hall's Store,Mayor,,NON,Bryan Ross,178,32,137,9,0,0,0
+Abbeville,Failsafe,Mayor,,NON,Bryan Ross,0,0,0,0,0,0,0
+Abbeville,Provisional,Mayor,,NON,Bryan Ross,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Mayor,,NON,Bryan Ross,0,0,0,0,0,0,0
+Abbeville,Hall's Store,Mayor,,NON,Write-In,4,0,4,0,0,0,0
+Abbeville,Abbeville No. 2,City Council District 2,,NON,Ellen Earle Leverett,37,24,11,2,0,0,0
+Abbeville,Failsafe,City Council District 2,,NON,Ellen Earle Leverett,0,0,0,0,0,0,0
+Abbeville,Provisional,City Council District 2,,NON,Ellen Earle Leverett,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,City Council District 2,,NON,Ellen Earle Leverett,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 2,City Council District 2,,NON,Cassandra Sann Lomax,38,13,17,8,0,0,0
+Abbeville,Failsafe,City Council District 2,,NON,Cassandra Sann Lomax,0,0,0,0,0,0,0
+Abbeville,Provisional,City Council District 2,,NON,Cassandra Sann Lomax,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,City Council District 2,,NON,Cassandra Sann Lomax,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 2,City Council District 2,,NON,Faye Thomas,105,71,31,3,0,0,0
+Abbeville,Failsafe,City Council District 2,,NON,Faye Thomas,0,0,0,0,0,0,0
+Abbeville,Provisional,City Council District 2,,NON,Faye Thomas,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,City Council District 2,,NON,Faye Thomas,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 2,City Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe,City Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,City Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,City Council District 2,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 3,City Council District 5,,NON,James JJ Jackson,92,53,36,3,0,0,0
+Abbeville,Abbeville No. 4,City Council District 5,,NON,James JJ Jackson,56,28,28,0,0,0,0
+Abbeville,Failsafe,City Council District 5,,NON,James JJ Jackson,0,0,0,0,0,0,0
+Abbeville,Provisional,City Council District 5,,NON,James JJ Jackson,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,City Council District 5,,NON,James JJ Jackson,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 3,City Council District 5,,NON,Write-In,2,1,0,1,0,0,0
+Abbeville,Abbeville No. 4,City Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe,City Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,City Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,City Council District 5,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,City Council District 7,,NON,Benjamin Greeson,287,182,93,12,0,0,0
+Abbeville,Failsafe,City Council District 7,,NON,Benjamin Greeson,0,0,0,0,0,0,0
+Abbeville,Provisional,City Council District 7,,NON,Benjamin Greeson,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,City Council District 7,,NON,Benjamin Greeson,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,City Council District 7,,NON,Write-In,1,1,0,0,0,0,0
+Abbeville,Failsafe,City Council District 7,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,City Council District 7,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,City Council District 7,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,City Council District 8,,NON,Matthew H Gambrell,192,128,60,4,0,0,0
+Abbeville,Abbeville No. 3,City Council District 8,,NON,Matthew H Gambrell,18,8,7,3,0,0,0
+Abbeville,Abbeville No. 4,City Council District 8,,NON,Matthew H Gambrell,53,35,18,0,0,0,0
+Abbeville,Failsafe,City Council District 8,,NON,Matthew H Gambrell,0,0,0,0,0,0,0
+Abbeville,Provisional,City Council District 8,,NON,Matthew H Gambrell,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,City Council District 8,,NON,Matthew H Gambrell,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 1,City Council District 8,,NON,Write-In,2,2,0,0,0,0,0
+Abbeville,Abbeville No. 3,City Council District 8,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Abbeville No. 4,City Council District 8,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe,City Council District 8,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,City Council District 8,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,City Council District 8,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Donald's,Town Council,,NON,Jana E Burton,81,19,59,3,0,0,0
+Abbeville,Failsafe,Town Council,,NON,Jana E Burton,0,0,0,0,0,0,0
+Abbeville,Provisional,Town Council,,NON,Jana E Burton,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Town Council,,NON,Jana E Burton,0,0,0,0,0,0,0
+Abbeville,Donald's,Town Council,,NON,Tisha Hill,92,26,63,3,0,0,0
+Abbeville,Failsafe,Town Council,,NON,Tisha Hill,0,0,0,0,0,0,0
+Abbeville,Provisional,Town Council,,NON,Tisha Hill,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Town Council,,NON,Tisha Hill,0,0,0,0,0,0,0
+Abbeville,Donald's,Town Council,,NON,Susan Powell,85,20,62,3,0,0,0
+Abbeville,Failsafe,Town Council,,NON,Susan Powell,0,0,0,0,0,0,0
+Abbeville,Provisional,Town Council,,NON,Susan Powell,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Town Council,,NON,Susan Powell,0,0,0,0,0,0,0
+Abbeville,Donald's,Town Council,,NON,Ronnie D Vaughn,75,17,55,3,0,0,0
+Abbeville,Failsafe,Town Council,,NON,Ronnie D Vaughn,0,0,0,0,0,0,0
+Abbeville,Provisional,Town Council,,NON,Ronnie D Vaughn,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Town Council,,NON,Ronnie D Vaughn,0,0,0,0,0,0,0
+Abbeville,Donald's,Town Council,,NON,Write-In,4,2,2,0,0,0,0
+Abbeville,Failsafe,Town Council,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Provisional,Town Council,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Town Council,,NON,Write-In,0,0,0,0,0,0,0
+Abbeville,Hall's Store,Town Council,,NON,Valerie D Jackson,114,21,89,4,0,0,0
+Abbeville,Failsafe,Town Council,,NON,Valerie D Jackson,0,0,0,0,0,0,0
+Abbeville,Provisional,Town Council,,NON,Valerie D Jackson,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Town Council,,NON,Valerie D Jackson,0,0,0,0,0,0,0
+Abbeville,Hall's Store,Town Council,,NON,Kim Jensen,118,22,89,7,0,0,0
+Abbeville,Failsafe,Town Council,,NON,Kim Jensen,0,0,0,0,0,0,0
+Abbeville,Provisional,Town Council,,NON,Kim Jensen,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Town Council,,NON,Kim Jensen,0,0,0,0,0,0,0
+Abbeville,Hall's Store,Town Council,,NON,Eli Morse,54,8,42,4,0,0,0
+Abbeville,Failsafe,Town Council,,NON,Eli Morse,0,0,0,0,0,0,0
+Abbeville,Provisional,Town Council,,NON,Eli Morse,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Town Council,,NON,Eli Morse,0,0,0,0,0,0,0
+Abbeville,Hall's Store,Town Council,,NON,Patty F Walters,106,23,78,5,0,0,0
+Abbeville,Failsafe,Town Council,,NON,Patty F Walters,0,0,0,0,0,0,0
+Abbeville,Provisional,Town Council,,NON,Patty F Walters,0,0,0,0,0,0,0
+Abbeville,Failsafe Provisional,Town Council,,NON,Patty F Walters,0,0,0,0,0,0,0
+Abbeville,Hall's Store,Town Council,,NON,Write-In,5,0,5,0,0,0,0
