@@ -1,0 +1,76 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Dorchester,Ashborough East,State House,98,Greg Ford,REP,37,7,0,0,0,0,30
+Dorchester,Ashborough East,State House,98,Sonja Ogletree Satani,DEM,39,10,0,0,0,0,29
+Dorchester,Ashborough East,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Ashborough East 2,State House,98,Greg Ford,REP,145,35,0,0,0,1,109
+Dorchester,Ashborough East 2,State House,98,Sonja Ogletree Satani,DEM,63,16,0,0,0,1,46
+Dorchester,Ashborough East 2,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Ashborough West,State House,98,Greg Ford,REP,58,21,0,0,0,0,37
+Dorchester,Ashborough West,State House,98,Sonja Ogletree Satani,DEM,39,19,0,0,0,1,19
+Dorchester,Ashborough West,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Ashborough West 2,State House,98,Greg Ford,REP,108,31,0,0,0,0,77
+Dorchester,Ashborough West 2,State House,98,Sonja Ogletree Satani,DEM,77,34,0,0,0,0,43
+Dorchester,Ashborough West 2,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Brandymill,State House,98,Greg Ford,REP,57,10,0,0,0,1,46
+Dorchester,Brandymill,State House,98,Sonja Ogletree Satani,DEM,45,21,0,0,0,0,24
+Dorchester,Brandymill,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Brandymill 2,State House,98,Greg Ford,REP,79,14,0,0,0,0,65
+Dorchester,Brandymill 2,State House,98,Sonja Ogletree Satani,DEM,76,21,0,0,0,0,55
+Dorchester,Brandymill 2,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Briarwood 3,State House,98,Greg Ford,REP,70,10,0,0,0,1,59
+Dorchester,Briarwood 3,State House,98,Sonja Ogletree Satani,DEM,36,11,0,0,0,0,25
+Dorchester,Briarwood 3,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Coastal 2,State House,98,Greg Ford,REP,36,12,0,0,0,1,23
+Dorchester,Coastal 2,State House,98,Sonja Ogletree Satani,DEM,27,7,0,0,0,1,19
+Dorchester,Coastal 2,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Coosaw,State House,98,Greg Ford,REP,195,103,0,0,0,0,92
+Dorchester,Coosaw,State House,98,Sonja Ogletree Satani,DEM,242,105,0,0,0,3,134
+Dorchester,Coosaw,State House,98,Write-In,NON,1,1,0,0,0,0,0
+Dorchester,Coosaw 2,State House,98,Greg Ford,REP,102,57,0,0,0,1,44
+Dorchester,Coosaw 2,State House,98,Sonja Ogletree Satani,DEM,182,83,0,0,0,0,99
+Dorchester,Coosaw 2,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Coosaw 3,State House,98,Greg Ford,REP,104,53,0,0,0,0,51
+Dorchester,Coosaw 3,State House,98,Sonja Ogletree Satani,DEM,80,44,0,0,0,2,34
+Dorchester,Coosaw 3,State House,98,Write-In,NON,1,0,0,0,0,0,1
+Dorchester,Failsafe,State House,98,Greg Ford,REP,0,0,0,0,0,0,0
+Dorchester,Failsafe,State House,98,Sonja Ogletree Satani,DEM,0,0,0,0,0,0,0
+Dorchester,Failsafe,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State House,98,Greg Ford,REP,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State House,98,Sonja Ogletree Satani,DEM,0,0,0,0,0,0,0
+Dorchester,Failsafe Provisional,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Irongate,State House,98,Greg Ford,REP,84,26,0,0,0,1,57
+Dorchester,Irongate,State House,98,Sonja Ogletree Satani,DEM,50,16,0,0,0,0,34
+Dorchester,Irongate,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Irongate 3,State House,98,Greg Ford,REP,68,20,0,0,0,0,48
+Dorchester,Irongate 3,State House,98,Sonja Ogletree Satani,DEM,33,8,0,0,0,0,25
+Dorchester,Irongate 3,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,King's Grant,State House,98,Greg Ford,REP,177,73,0,0,0,1,103
+Dorchester,King's Grant,State House,98,Sonja Ogletree Satani,DEM,165,60,0,0,0,1,104
+Dorchester,King's Grant,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Lincoln,State House,98,Greg Ford,REP,36,27,0,0,0,0,9
+Dorchester,Lincoln,State House,98,Sonja Ogletree Satani,DEM,37,19,0,0,0,1,17
+Dorchester,Lincoln,State House,98,Write-In,NON,2,1,0,0,0,0,1
+Dorchester,Oakbrook,State House,98,Greg Ford,REP,148,77,0,0,0,1,70
+Dorchester,Oakbrook,State House,98,Sonja Ogletree Satani,DEM,213,90,0,0,0,4,119
+Dorchester,Oakbrook,State House,98,Write-In,NON,1,1,0,0,0,0,0
+Dorchester,Oakbrook 2,State House,98,Greg Ford,REP,69,42,0,0,0,0,27
+Dorchester,Oakbrook 2,State House,98,Sonja Ogletree Satani,DEM,97,43,0,0,0,0,54
+Dorchester,Oakbrook 2,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Provisional,State House,98,Greg Ford,REP,0,0,0,0,0,0,0
+Dorchester,Provisional,State House,98,Sonja Ogletree Satani,DEM,0,0,0,0,0,0,0
+Dorchester,Provisional,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Tranquil,State House,98,Greg Ford,REP,51,31,0,0,0,0,20
+Dorchester,Tranquil,State House,98,Sonja Ogletree Satani,DEM,32,15,0,0,0,0,17
+Dorchester,Tranquil,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Tranquil 2,State House,98,Greg Ford,REP,32,16,0,0,0,0,16
+Dorchester,Tranquil 2,State House,98,Sonja Ogletree Satani,DEM,84,28,0,0,0,0,56
+Dorchester,Tranquil 2,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Tranquil 3,State House,98,Greg Ford,REP,32,8,0,0,0,0,24
+Dorchester,Tranquil 3,State House,98,Sonja Ogletree Satani,DEM,42,22,0,0,0,0,20
+Dorchester,Tranquil 3,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Trolley,State House,98,Greg Ford,REP,39,15,0,0,0,0,24
+Dorchester,Trolley,State House,98,Sonja Ogletree Satani,DEM,44,13,0,0,0,0,31
+Dorchester,Trolley,State House,98,Write-In,NON,0,0,0,0,0,0,0
+Dorchester,Windsor,State House,98,Greg Ford,REP,1,0,0,0,0,0,1
+Dorchester,Windsor,State House,98,Sonja Ogletree Satani,DEM,4,1,0,0,0,0,3
+Dorchester,Windsor,State House,98,Write-In,NON,0,0,0,0,0,0,0
