@@ -1,0 +1,1330 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Hampton,BLACK CREEK,Attorney General,,David Stumbo,REP,110,43,0,0,0,0,67
+Hampton,BLACK CREEK,Attorney General,,Richard Hricik,DEM,44,28,0,0,0,1,15
+Hampton,BLACK CREEK,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,Attorney General,,David Stumbo,REP,312,92,0,0,0,1,219
+Hampton,BONNETT,Attorney General,,Richard Hricik,DEM,137,79,0,0,0,1,57
+Hampton,BONNETT,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,BRUNSON,Attorney General,,David Stumbo,REP,181,41,0,0,0,5,135
+Hampton,BRUNSON,Attorney General,,Richard Hricik,DEM,138,76,0,0,0,6,56
+Hampton,BRUNSON,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,Attorney General,,David Stumbo,REP,168,27,0,0,0,1,140
+Hampton,CROCKET-MILEY,Attorney General,,Richard Hricik,DEM,105,60,0,0,0,6,39
+Hampton,CROCKET-MILEY,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CUMMINGS,Attorney General,,David Stumbo,REP,209,70,0,0,0,2,137
+Hampton,CUMMINGS,Attorney General,,Richard Hricik,DEM,245,138,0,0,0,15,92
+Hampton,CUMMINGS,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,EARLY BRANCH,Attorney General,,David Stumbo,REP,81,33,0,0,0,0,48
+Hampton,EARLY BRANCH,Attorney General,,Richard Hricik,DEM,135,81,0,0,0,7,47
+Hampton,EARLY BRANCH,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,ESTILL,Attorney General,,David Stumbo,REP,223,83,0,0,0,6,134
+Hampton,ESTILL,Attorney General,,Richard Hricik,DEM,793,433,0,0,0,76,284
+Hampton,ESTILL,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,FURMAN,Attorney General,,David Stumbo,REP,70,9,0,0,0,0,61
+Hampton,FURMAN,Attorney General,,Richard Hricik,DEM,117,35,0,0,0,5,77
+Hampton,FURMAN,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,Attorney General,,David Stumbo,REP,1,0,0,0,1,0,0
+Hampton,Failsafe,Attorney General,,Richard Hricik,DEM,3,0,0,0,3,0,0
+Hampton,Failsafe,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Attorney General,,Richard Hricik,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,Attorney General,,David Stumbo,REP,19,2,0,0,0,2,15
+Hampton,GARNETT,Attorney General,,Richard Hricik,DEM,66,27,0,0,0,3,36
+Hampton,GARNETT,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GIFFORD,Attorney General,,David Stumbo,REP,13,4,0,0,0,0,9
+Hampton,GIFFORD,Attorney General,,Richard Hricik,DEM,159,50,0,0,0,8,101
+Hampton,GIFFORD,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,Attorney General,,David Stumbo,REP,274,157,0,0,0,6,111
+Hampton,HAMPTON COURTHOUSE NO.1,Attorney General,,Richard Hricik,DEM,263,177,0,0,0,16,70
+Hampton,HAMPTON COURTHOUSE NO.1,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,HAMPTON COURTHOUSE NO.2,Attorney General,,David Stumbo,REP,425,238,0,0,0,12,175
+Hampton,HAMPTON COURTHOUSE NO.2,Attorney General,,Richard Hricik,DEM,371,239,0,0,0,23,109
+Hampton,HAMPTON COURTHOUSE NO.2,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HOPEWELL,Attorney General,,David Stumbo,REP,141,19,0,0,0,3,119
+Hampton,HOPEWELL,Attorney General,,Richard Hricik,DEM,17,7,0,0,0,1,9
+Hampton,HOPEWELL,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Attorney General,,David Stumbo,REP,53,28,0,0,0,0,25
+Hampton,HORSE GALL,Attorney General,,Richard Hricik,DEM,2,0,0,0,0,0,2
+Hampton,HORSE GALL,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Provisional,Attorney General,,David Stumbo,REP,8,0,0,8,0,0,0
+Hampton,Provisional,Attorney General,,Richard Hricik,DEM,14,0,0,14,0,0,0
+Hampton,Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Attorney General,,David Stumbo,REP,22,6,0,0,0,0,16
+Hampton,RIVERS MILL,Attorney General,,Richard Hricik,DEM,22,3,0,0,0,1,18
+Hampton,RIVERS MILL,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,Attorney General,,David Stumbo,REP,26,5,0,0,0,0,21
+Hampton,SCOTIA,Attorney General,,Richard Hricik,DEM,142,79,0,0,0,4,59
+Hampton,SCOTIA,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,Attorney General,,David Stumbo,REP,347,171,0,0,0,2,174
+Hampton,VARNVILLE,Attorney General,,Richard Hricik,DEM,623,390,0,0,0,19,214
+Hampton,VARNVILLE,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,YEMASSEE,Attorney General,,David Stumbo,REP,166,82,0,0,0,0,84
+Hampton,YEMASSEE,Attorney General,,Richard Hricik,DEM,365,230,0,0,0,5,130
+Hampton,YEMASSEE,Attorney General,,Write-In,NON,3,2,0,0,0,0,1
+Hampton,BLACK CREEK,Commissioner of Agriculture,,Chris Nelums,UNC,2,1,0,0,0,0,1
+Hampton,BLACK CREEK,Commissioner of Agriculture,,Cody Simpson,REP,111,43,0,0,0,0,68
+Hampton,BLACK CREEK,Commissioner of Agriculture,,Michael Sullens,LIB,2,1,0,0,0,0,1
+Hampton,BLACK CREEK,Commissioner of Agriculture,,DeShawn Blanding,DEM,42,28,0,0,0,1,13
+Hampton,BLACK CREEK,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,Commissioner of Agriculture,,Chris Nelums,UNC,7,2,0,0,0,0,5
+Hampton,BONNETT,Commissioner of Agriculture,,Cody Simpson,REP,309,93,0,0,0,1,215
+Hampton,BONNETT,Commissioner of Agriculture,,Michael Sullens,LIB,3,2,0,0,0,0,1
+Hampton,BONNETT,Commissioner of Agriculture,,DeShawn Blanding,DEM,133,75,0,0,0,2,56
+Hampton,BONNETT,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BRUNSON,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Hampton,BRUNSON,Commissioner of Agriculture,,Cody Simpson,REP,180,40,0,0,0,5,135
+Hampton,BRUNSON,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Hampton,BRUNSON,Commissioner of Agriculture,,DeShawn Blanding,DEM,140,78,0,0,0,6,56
+Hampton,BRUNSON,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,Commissioner of Agriculture,,Chris Nelums,UNC,5,1,0,0,0,0,4
+Hampton,CROCKET-MILEY,Commissioner of Agriculture,,Cody Simpson,REP,161,26,0,0,0,1,134
+Hampton,CROCKET-MILEY,Commissioner of Agriculture,,Michael Sullens,LIB,4,0,0,0,0,0,4
+Hampton,CROCKET-MILEY,Commissioner of Agriculture,,DeShawn Blanding,DEM,103,60,0,0,0,6,37
+Hampton,CROCKET-MILEY,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CUMMINGS,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Hampton,CUMMINGS,Commissioner of Agriculture,,Cody Simpson,REP,214,71,0,0,0,3,140
+Hampton,CUMMINGS,Commissioner of Agriculture,,Michael Sullens,LIB,4,4,0,0,0,0,0
+Hampton,CUMMINGS,Commissioner of Agriculture,,DeShawn Blanding,DEM,236,134,0,0,0,14,88
+Hampton,CUMMINGS,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,EARLY BRANCH,Commissioner of Agriculture,,Chris Nelums,UNC,2,2,0,0,0,0,0
+Hampton,EARLY BRANCH,Commissioner of Agriculture,,Cody Simpson,REP,82,33,0,0,0,0,49
+Hampton,EARLY BRANCH,Commissioner of Agriculture,,Michael Sullens,LIB,4,1,0,0,0,0,3
+Hampton,EARLY BRANCH,Commissioner of Agriculture,,DeShawn Blanding,DEM,130,80,0,0,0,7,43
+Hampton,EARLY BRANCH,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,ESTILL,Commissioner of Agriculture,,Chris Nelums,UNC,18,7,0,0,0,0,11
+Hampton,ESTILL,Commissioner of Agriculture,,Cody Simpson,REP,224,84,0,0,0,6,134
+Hampton,ESTILL,Commissioner of Agriculture,,Michael Sullens,LIB,10,4,0,0,0,1,5
+Hampton,ESTILL,Commissioner of Agriculture,,DeShawn Blanding,DEM,771,425,0,0,0,76,270
+Hampton,ESTILL,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,FURMAN,Commissioner of Agriculture,,Chris Nelums,UNC,3,1,0,0,0,0,2
+Hampton,FURMAN,Commissioner of Agriculture,,Cody Simpson,REP,70,9,0,0,0,0,61
+Hampton,FURMAN,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Hampton,FURMAN,Commissioner of Agriculture,,DeShawn Blanding,DEM,113,33,0,0,0,5,75
+Hampton,FURMAN,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Hampton,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,0,1,0,0
+Hampton,Failsafe,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Hampton,Failsafe,Commissioner of Agriculture,,DeShawn Blanding,DEM,3,0,0,0,3,0,0
+Hampton,Failsafe,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,Commissioner of Agriculture,,Chris Nelums,UNC,1,1,0,0,0,0,0
+Hampton,GARNETT,Commissioner of Agriculture,,Cody Simpson,REP,18,2,0,0,0,2,14
+Hampton,GARNETT,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+Hampton,GARNETT,Commissioner of Agriculture,,DeShawn Blanding,DEM,66,27,0,0,0,3,36
+Hampton,GARNETT,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GIFFORD,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Hampton,GIFFORD,Commissioner of Agriculture,,Cody Simpson,REP,14,4,0,0,0,0,10
+Hampton,GIFFORD,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Hampton,GIFFORD,Commissioner of Agriculture,,DeShawn Blanding,DEM,159,51,0,0,0,8,100
+Hampton,GIFFORD,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,Commissioner of Agriculture,,Chris Nelums,UNC,3,2,0,0,0,0,1
+Hampton,HAMPTON COURTHOUSE NO.1,Commissioner of Agriculture,,Cody Simpson,REP,270,155,0,0,0,6,109
+Hampton,HAMPTON COURTHOUSE NO.1,Commissioner of Agriculture,,Michael Sullens,LIB,8,6,0,0,0,0,2
+Hampton,HAMPTON COURTHOUSE NO.1,Commissioner of Agriculture,,DeShawn Blanding,DEM,258,172,0,0,0,16,70
+Hampton,HAMPTON COURTHOUSE NO.1,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,Commissioner of Agriculture,,Chris Nelums,UNC,6,4,0,0,0,0,2
+Hampton,HAMPTON COURTHOUSE NO.2,Commissioner of Agriculture,,Cody Simpson,REP,427,236,0,0,0,11,180
+Hampton,HAMPTON COURTHOUSE NO.2,Commissioner of Agriculture,,Michael Sullens,LIB,7,3,0,0,0,1,3
+Hampton,HAMPTON COURTHOUSE NO.2,Commissioner of Agriculture,,DeShawn Blanding,DEM,362,239,0,0,0,23,100
+Hampton,HAMPTON COURTHOUSE NO.2,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HOPEWELL,Commissioner of Agriculture,,Chris Nelums,UNC,3,1,0,0,0,0,2
+Hampton,HOPEWELL,Commissioner of Agriculture,,Cody Simpson,REP,138,18,0,0,0,3,117
+Hampton,HOPEWELL,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+Hampton,HOPEWELL,Commissioner of Agriculture,,DeShawn Blanding,DEM,17,6,0,0,0,1,10
+Hampton,HOPEWELL,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Commissioner of Agriculture,,Cody Simpson,REP,52,27,0,0,0,0,25
+Hampton,HORSE GALL,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Commissioner of Agriculture,,DeShawn Blanding,DEM,3,1,0,0,0,0,2
+Hampton,HORSE GALL,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,1,0,0,0
+Hampton,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,6,0,0,6,0,0,0
+Hampton,Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,1,0,0,0
+Hampton,Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,14,0,0,14,0,0,0
+Hampton,Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Hampton,RIVERS MILL,Commissioner of Agriculture,,Cody Simpson,REP,21,6,0,0,0,0,15
+Hampton,RIVERS MILL,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Commissioner of Agriculture,,DeShawn Blanding,DEM,22,3,0,0,0,1,18
+Hampton,RIVERS MILL,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,Commissioner of Agriculture,,Chris Nelums,UNC,3,2,0,0,0,0,1
+Hampton,SCOTIA,Commissioner of Agriculture,,Cody Simpson,REP,22,4,0,0,0,0,18
+Hampton,SCOTIA,Commissioner of Agriculture,,Michael Sullens,LIB,3,0,0,0,0,0,3
+Hampton,SCOTIA,Commissioner of Agriculture,,DeShawn Blanding,DEM,138,77,0,0,0,4,57
+Hampton,SCOTIA,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,Commissioner of Agriculture,,Chris Nelums,UNC,10,5,0,0,0,0,5
+Hampton,VARNVILLE,Commissioner of Agriculture,,Cody Simpson,REP,332,164,0,0,0,2,166
+Hampton,VARNVILLE,Commissioner of Agriculture,,Michael Sullens,LIB,11,5,0,0,0,0,6
+Hampton,VARNVILLE,Commissioner of Agriculture,,DeShawn Blanding,DEM,613,385,0,0,0,20,208
+Hampton,VARNVILLE,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,YEMASSEE,Commissioner of Agriculture,,Chris Nelums,UNC,5,5,0,0,0,0,0
+Hampton,YEMASSEE,Commissioner of Agriculture,,Cody Simpson,REP,163,81,0,0,0,0,82
+Hampton,YEMASSEE,Commissioner of Agriculture,,Michael Sullens,LIB,8,2,0,0,0,0,6
+Hampton,YEMASSEE,Commissioner of Agriculture,,DeShawn Blanding,DEM,354,221,0,0,0,5,128
+Hampton,YEMASSEE,Commissioner of Agriculture,,Write-In,NON,2,2,0,0,0,0,0
+Hampton,BLACK CREEK,Comptroller General,,Mike Burkhold,REP,112,44,0,0,0,0,68
+Hampton,BLACK CREEK,Comptroller General,,Tiffany Boozer,DEM,44,29,0,0,0,1,14
+Hampton,BLACK CREEK,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,Comptroller General,,Mike Burkhold,REP,307,89,0,0,0,1,217
+Hampton,BONNETT,Comptroller General,,Tiffany Boozer,DEM,140,80,0,0,0,2,58
+Hampton,BONNETT,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BRUNSON,Comptroller General,,Mike Burkhold,REP,178,38,0,0,0,5,135
+Hampton,BRUNSON,Comptroller General,,Tiffany Boozer,DEM,140,79,0,0,0,6,55
+Hampton,BRUNSON,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,Comptroller General,,Mike Burkhold,REP,166,25,0,0,0,1,140
+Hampton,CROCKET-MILEY,Comptroller General,,Tiffany Boozer,DEM,106,61,0,0,0,6,39
+Hampton,CROCKET-MILEY,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CUMMINGS,Comptroller General,,Mike Burkhold,REP,210,69,0,0,0,2,139
+Hampton,CUMMINGS,Comptroller General,,Tiffany Boozer,DEM,243,139,0,0,0,15,89
+Hampton,CUMMINGS,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,EARLY BRANCH,Comptroller General,,Mike Burkhold,REP,81,33,0,0,0,0,48
+Hampton,EARLY BRANCH,Comptroller General,,Tiffany Boozer,DEM,134,82,0,0,0,7,45
+Hampton,EARLY BRANCH,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,ESTILL,Comptroller General,,Mike Burkhold,REP,225,84,0,0,0,8,133
+Hampton,ESTILL,Comptroller General,,Tiffany Boozer,DEM,783,427,0,0,0,75,281
+Hampton,ESTILL,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,FURMAN,Comptroller General,,Mike Burkhold,REP,70,9,0,0,0,0,61
+Hampton,FURMAN,Comptroller General,,Tiffany Boozer,DEM,117,35,0,0,0,5,77
+Hampton,FURMAN,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,Comptroller General,,Mike Burkhold,REP,1,0,0,0,1,0,0
+Hampton,Failsafe,Comptroller General,,Tiffany Boozer,DEM,3,0,0,0,3,0,0
+Hampton,Failsafe,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Comptroller General,,Mike Burkhold,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,Comptroller General,,Mike Burkhold,REP,18,2,0,0,0,2,14
+Hampton,GARNETT,Comptroller General,,Tiffany Boozer,DEM,65,28,0,0,0,2,35
+Hampton,GARNETT,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GIFFORD,Comptroller General,,Mike Burkhold,REP,12,3,0,0,0,0,9
+Hampton,GIFFORD,Comptroller General,,Tiffany Boozer,DEM,159,51,0,0,0,8,100
+Hampton,GIFFORD,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,Comptroller General,,Mike Burkhold,REP,271,157,0,0,0,6,108
+Hampton,HAMPTON COURTHOUSE NO.1,Comptroller General,,Tiffany Boozer,DEM,266,177,0,0,0,16,73
+Hampton,HAMPTON COURTHOUSE NO.1,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,Comptroller General,,Mike Burkhold,REP,423,234,0,0,0,12,177
+Hampton,HAMPTON COURTHOUSE NO.2,Comptroller General,,Tiffany Boozer,DEM,374,244,0,0,0,23,107
+Hampton,HAMPTON COURTHOUSE NO.2,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HOPEWELL,Comptroller General,,Mike Burkhold,REP,136,19,0,0,0,3,114
+Hampton,HOPEWELL,Comptroller General,,Tiffany Boozer,DEM,20,7,0,0,0,1,12
+Hampton,HOPEWELL,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Comptroller General,,Mike Burkhold,REP,53,28,0,0,0,0,25
+Hampton,HORSE GALL,Comptroller General,,Tiffany Boozer,DEM,2,0,0,0,0,0,2
+Hampton,HORSE GALL,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Provisional,Comptroller General,,Mike Burkhold,REP,8,0,0,8,0,0,0
+Hampton,Provisional,Comptroller General,,Tiffany Boozer,DEM,14,0,0,14,0,0,0
+Hampton,Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Comptroller General,,Mike Burkhold,REP,21,6,0,0,0,0,15
+Hampton,RIVERS MILL,Comptroller General,,Tiffany Boozer,DEM,23,3,0,0,0,1,19
+Hampton,RIVERS MILL,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,Comptroller General,,Mike Burkhold,REP,23,4,0,0,0,0,19
+Hampton,SCOTIA,Comptroller General,,Tiffany Boozer,DEM,141,80,0,0,0,4,57
+Hampton,SCOTIA,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,Comptroller General,,Mike Burkhold,REP,337,167,0,0,0,2,168
+Hampton,VARNVILLE,Comptroller General,,Tiffany Boozer,DEM,623,386,0,0,0,18,219
+Hampton,VARNVILLE,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,YEMASSEE,Comptroller General,,Mike Burkhold,REP,161,80,0,0,0,0,81
+Hampton,YEMASSEE,Comptroller General,,Tiffany Boozer,DEM,370,233,0,0,0,5,132
+Hampton,YEMASSEE,Comptroller General,,Write-In,NON,2,2,0,0,0,0,0
+Hampton,BLACK CREEK,Coroner,,Anna Fields,DEM,115,55,0,0,0,1,59
+Hampton,BLACK CREEK,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,Coroner,,Anna Fields,DEM,335,135,0,0,0,2,198
+Hampton,BONNETT,Coroner,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,BRUNSON,Coroner,,Anna Fields,DEM,252,99,0,0,0,10,143
+Hampton,BRUNSON,Coroner,,Write-In,NON,2,0,0,0,0,0,2
+Hampton,CROCKET-MILEY,Coroner,,Anna Fields,DEM,205,77,0,0,0,7,121
+Hampton,CROCKET-MILEY,Coroner,,Write-In,NON,3,0,0,0,0,0,3
+Hampton,CUMMINGS,Coroner,,Anna Fields,DEM,333,167,0,0,0,16,150
+Hampton,CUMMINGS,Coroner,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,EARLY BRANCH,Coroner,,Anna Fields,DEM,180,102,0,0,0,7,71
+Hampton,EARLY BRANCH,Coroner,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,ESTILL,Coroner,,Anna Fields,DEM,919,464,0,0,0,72,383
+Hampton,ESTILL,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,FURMAN,Coroner,,Anna Fields,DEM,169,40,0,0,0,5,124
+Hampton,FURMAN,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,Coroner,,Anna Fields,DEM,4,0,0,0,4,0,0
+Hampton,Failsafe,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Coroner,,Anna Fields,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,Coroner,,Anna Fields,DEM,75,28,0,0,0,4,43
+Hampton,GARNETT,Coroner,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,GIFFORD,Coroner,,Anna Fields,DEM,168,54,0,0,0,8,106
+Hampton,GIFFORD,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,Coroner,,Anna Fields,DEM,399,245,0,0,0,18,136
+Hampton,HAMPTON COURTHOUSE NO.1,Coroner,,Write-In,NON,9,2,0,0,0,0,7
+Hampton,HAMPTON COURTHOUSE NO.2,Coroner,,Anna Fields,DEM,600,373,0,0,0,29,198
+Hampton,HAMPTON COURTHOUSE NO.2,Coroner,,Write-In,NON,17,11,0,0,0,0,6
+Hampton,HOPEWELL,Coroner,,Anna Fields,DEM,95,18,0,0,0,1,76
+Hampton,HOPEWELL,Coroner,,Write-In,NON,2,0,0,0,0,1,1
+Hampton,HORSE GALL,Coroner,,Anna Fields,DEM,34,17,0,0,0,0,17
+Hampton,HORSE GALL,Coroner,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,Provisional,Coroner,,Anna Fields,DEM,19,0,0,19,0,0,0
+Hampton,Provisional,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Coroner,,Anna Fields,DEM,31,5,0,0,0,1,25
+Hampton,RIVERS MILL,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,Coroner,,Anna Fields,DEM,154,80,0,0,0,4,70
+Hampton,SCOTIA,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,Coroner,,Anna Fields,DEM,805,481,0,0,0,22,302
+Hampton,VARNVILLE,Coroner,,Write-In,NON,5,4,0,0,0,0,1
+Hampton,YEMASSEE,Coroner,,Anna Fields,DEM,437,268,0,0,0,5,164
+Hampton,YEMASSEE,Coroner,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,BLACK CREEK,County Council (At Large),,Clark Cregger,REP,106,39,0,0,0,0,67
+Hampton,BLACK CREEK,County Council (At Large),,David Ellis,REP,107,42,0,0,0,0,65
+Hampton,BLACK CREEK,County Council (At Large),,Joseph Williams,REP,108,40,0,0,0,0,68
+Hampton,BLACK CREEK,County Council (At Large),,Nigel Alexander,DEM,43,29,0,0,0,1,13
+Hampton,BLACK CREEK,County Council (At Large),,Rachael Prince,DEM,47,30,0,0,0,1,16
+Hampton,BLACK CREEK,County Council (At Large),,Darin Williams,DEM,43,29,0,0,0,1,13
+Hampton,BLACK CREEK,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,County Council (At Large),,Clark Cregger,REP,274,86,0,0,0,0,188
+Hampton,BONNETT,County Council (At Large),,David Ellis,REP,295,92,0,0,0,1,202
+Hampton,BONNETT,County Council (At Large),,Joseph Williams,REP,300,93,0,0,0,0,207
+Hampton,BONNETT,County Council (At Large),,Nigel Alexander,DEM,147,81,0,0,0,2,64
+Hampton,BONNETT,County Council (At Large),,Rachael Prince,DEM,159,81,0,0,0,2,76
+Hampton,BONNETT,County Council (At Large),,Darin Williams,DEM,129,74,0,0,0,1,54
+Hampton,BONNETT,County Council (At Large),,Write-In,NON,1,1,0,0,0,0,0
+Hampton,BRUNSON,County Council (At Large),,Clark Cregger,REP,173,40,0,0,0,5,128
+Hampton,BRUNSON,County Council (At Large),,David Ellis,REP,180,42,0,0,0,5,133
+Hampton,BRUNSON,County Council (At Large),,Joseph Williams,REP,179,39,0,0,0,5,135
+Hampton,BRUNSON,County Council (At Large),,Nigel Alexander,DEM,135,71,0,0,0,6,58
+Hampton,BRUNSON,County Council (At Large),,Rachael Prince,DEM,132,73,0,0,0,6,53
+Hampton,BRUNSON,County Council (At Large),,Darin Williams,DEM,132,71,0,0,0,6,55
+Hampton,BRUNSON,County Council (At Large),,Write-In,NON,1,1,0,0,0,0,0
+Hampton,CROCKET-MILEY,County Council (At Large),,Clark Cregger,REP,160,26,0,0,0,1,133
+Hampton,CROCKET-MILEY,County Council (At Large),,David Ellis,REP,166,25,0,0,0,1,140
+Hampton,CROCKET-MILEY,County Council (At Large),,Joseph Williams,REP,166,26,0,0,0,1,139
+Hampton,CROCKET-MILEY,County Council (At Large),,Nigel Alexander,DEM,111,62,0,0,0,6,43
+Hampton,CROCKET-MILEY,County Council (At Large),,Rachael Prince,DEM,101,57,0,0,0,5,39
+Hampton,CROCKET-MILEY,County Council (At Large),,Darin Williams,DEM,100,60,0,0,0,6,34
+Hampton,CROCKET-MILEY,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CUMMINGS,County Council (At Large),,Clark Cregger,REP,202,67,0,0,0,2,133
+Hampton,CUMMINGS,County Council (At Large),,David Ellis,REP,210,70,0,0,0,2,138
+Hampton,CUMMINGS,County Council (At Large),,Joseph Williams,REP,215,73,0,0,0,4,138
+Hampton,CUMMINGS,County Council (At Large),,Nigel Alexander,DEM,242,137,0,0,0,14,91
+Hampton,CUMMINGS,County Council (At Large),,Rachael Prince,DEM,230,135,0,0,0,13,82
+Hampton,CUMMINGS,County Council (At Large),,Darin Williams,DEM,228,134,0,0,0,12,82
+Hampton,CUMMINGS,County Council (At Large),,Write-In,NON,3,0,0,0,0,1,2
+Hampton,EARLY BRANCH,County Council (At Large),,Clark Cregger,REP,82,35,0,0,0,1,46
+Hampton,EARLY BRANCH,County Council (At Large),,David Ellis,REP,84,38,0,0,0,0,46
+Hampton,EARLY BRANCH,County Council (At Large),,Joseph Williams,REP,79,34,0,0,0,1,44
+Hampton,EARLY BRANCH,County Council (At Large),,Nigel Alexander,DEM,130,77,0,0,0,7,46
+Hampton,EARLY BRANCH,County Council (At Large),,Rachael Prince,DEM,126,75,0,0,0,5,46
+Hampton,EARLY BRANCH,County Council (At Large),,Darin Williams,DEM,128,76,0,0,0,5,47
+Hampton,EARLY BRANCH,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,ESTILL,County Council (At Large),,Clark Cregger,REP,216,83,0,0,0,8,125
+Hampton,ESTILL,County Council (At Large),,David Ellis,REP,224,88,0,0,0,6,130
+Hampton,ESTILL,County Council (At Large),,Joseph Williams,REP,238,91,0,0,0,10,137
+Hampton,ESTILL,County Council (At Large),,Nigel Alexander,DEM,769,424,0,0,0,74,271
+Hampton,ESTILL,County Council (At Large),,Rachael Prince,DEM,759,421,0,0,0,70,268
+Hampton,ESTILL,County Council (At Large),,Darin Williams,DEM,755,416,0,0,0,71,268
+Hampton,ESTILL,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,FURMAN,County Council (At Large),,Clark Cregger,REP,63,8,0,0,0,0,55
+Hampton,FURMAN,County Council (At Large),,David Ellis,REP,64,7,0,0,0,0,57
+Hampton,FURMAN,County Council (At Large),,Joseph Williams,REP,71,9,0,0,0,0,62
+Hampton,FURMAN,County Council (At Large),,Nigel Alexander,DEM,117,36,0,0,0,5,76
+Hampton,FURMAN,County Council (At Large),,Rachael Prince,DEM,120,37,0,0,0,4,79
+Hampton,FURMAN,County Council (At Large),,Darin Williams,DEM,114,36,0,0,0,5,73
+Hampton,FURMAN,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,County Council (At Large),,Clark Cregger,REP,1,0,0,0,1,0,0
+Hampton,Failsafe,County Council (At Large),,David Ellis,REP,1,0,0,0,1,0,0
+Hampton,Failsafe,County Council (At Large),,Joseph Williams,REP,1,0,0,0,1,0,0
+Hampton,Failsafe,County Council (At Large),,Nigel Alexander,DEM,3,0,0,0,3,0,0
+Hampton,Failsafe,County Council (At Large),,Rachael Prince,DEM,3,0,0,0,3,0,0
+Hampton,Failsafe,County Council (At Large),,Darin Williams,DEM,3,0,0,0,3,0,0
+Hampton,Failsafe,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,County Council (At Large),,Clark Cregger,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,County Council (At Large),,David Ellis,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,County Council (At Large),,Joseph Williams,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,County Council (At Large),,Nigel Alexander,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,County Council (At Large),,Rachael Prince,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,County Council (At Large),,Darin Williams,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,County Council (At Large),,Clark Cregger,REP,17,2,0,0,0,2,13
+Hampton,GARNETT,County Council (At Large),,David Ellis,REP,18,2,0,0,0,2,14
+Hampton,GARNETT,County Council (At Large),,Joseph Williams,REP,17,2,0,0,0,2,13
+Hampton,GARNETT,County Council (At Large),,Nigel Alexander,DEM,66,27,0,0,0,3,36
+Hampton,GARNETT,County Council (At Large),,Rachael Prince,DEM,66,26,0,0,0,3,37
+Hampton,GARNETT,County Council (At Large),,Darin Williams,DEM,64,25,0,0,0,3,36
+Hampton,GARNETT,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GIFFORD,County Council (At Large),,Clark Cregger,REP,14,5,0,0,0,0,9
+Hampton,GIFFORD,County Council (At Large),,David Ellis,REP,15,4,0,0,0,0,11
+Hampton,GIFFORD,County Council (At Large),,Joseph Williams,REP,15,6,0,0,0,0,9
+Hampton,GIFFORD,County Council (At Large),,Nigel Alexander,DEM,153,50,0,0,0,3,100
+Hampton,GIFFORD,County Council (At Large),,Rachael Prince,DEM,154,52,0,0,0,3,99
+Hampton,GIFFORD,County Council (At Large),,Darin Williams,DEM,159,50,0,0,0,8,101
+Hampton,GIFFORD,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,County Council (At Large),,Clark Cregger,REP,264,155,0,0,0,5,104
+Hampton,HAMPTON COURTHOUSE NO.1,County Council (At Large),,David Ellis,REP,283,165,0,0,0,5,113
+Hampton,HAMPTON COURTHOUSE NO.1,County Council (At Large),,Joseph Williams,REP,269,157,0,0,0,4,108
+Hampton,HAMPTON COURTHOUSE NO.1,County Council (At Large),,Nigel Alexander,DEM,266,174,0,0,0,16,76
+Hampton,HAMPTON COURTHOUSE NO.1,County Council (At Large),,Rachael Prince,DEM,247,164,0,0,0,16,67
+Hampton,HAMPTON COURTHOUSE NO.1,County Council (At Large),,Darin Williams,DEM,244,162,0,0,0,16,66
+Hampton,HAMPTON COURTHOUSE NO.1,County Council (At Large),,Write-In,NON,1,0,0,0,0,0,1
+Hampton,HAMPTON COURTHOUSE NO.2,County Council (At Large),,Clark Cregger,REP,432,250,0,0,0,10,172
+Hampton,HAMPTON COURTHOUSE NO.2,County Council (At Large),,David Ellis,REP,445,254,0,0,0,11,180
+Hampton,HAMPTON COURTHOUSE NO.2,County Council (At Large),,Joseph Williams,REP,435,246,0,0,0,12,177
+Hampton,HAMPTON COURTHOUSE NO.2,County Council (At Large),,Nigel Alexander,DEM,359,235,0,0,0,21,103
+Hampton,HAMPTON COURTHOUSE NO.2,County Council (At Large),,Rachael Prince,DEM,335,221,0,0,0,20,94
+Hampton,HAMPTON COURTHOUSE NO.2,County Council (At Large),,Darin Williams,DEM,337,223,0,0,0,21,93
+Hampton,HAMPTON COURTHOUSE NO.2,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HOPEWELL,County Council (At Large),,Clark Cregger,REP,137,19,0,0,0,3,115
+Hampton,HOPEWELL,County Council (At Large),,David Ellis,REP,143,19,0,0,0,3,121
+Hampton,HOPEWELL,County Council (At Large),,Joseph Williams,REP,147,21,0,0,0,3,123
+Hampton,HOPEWELL,County Council (At Large),,Nigel Alexander,DEM,20,7,0,0,0,0,13
+Hampton,HOPEWELL,County Council (At Large),,Rachael Prince,DEM,18,8,0,0,0,0,10
+Hampton,HOPEWELL,County Council (At Large),,Darin Williams,DEM,16,6,0,0,0,1,9
+Hampton,HOPEWELL,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HORSE GALL,County Council (At Large),,Clark Cregger,REP,50,27,0,0,0,0,23
+Hampton,HORSE GALL,County Council (At Large),,David Ellis,REP,52,27,0,0,0,0,25
+Hampton,HORSE GALL,County Council (At Large),,Joseph Williams,REP,52,27,0,0,0,0,25
+Hampton,HORSE GALL,County Council (At Large),,Nigel Alexander,DEM,4,1,0,0,0,0,3
+Hampton,HORSE GALL,County Council (At Large),,Rachael Prince,DEM,3,1,0,0,0,0,2
+Hampton,HORSE GALL,County Council (At Large),,Darin Williams,DEM,2,0,0,0,0,0,2
+Hampton,HORSE GALL,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Provisional,County Council (At Large),,Clark Cregger,REP,7,0,0,7,0,0,0
+Hampton,Provisional,County Council (At Large),,David Ellis,REP,7,0,0,7,0,0,0
+Hampton,Provisional,County Council (At Large),,Joseph Williams,REP,7,0,0,7,0,0,0
+Hampton,Provisional,County Council (At Large),,Nigel Alexander,DEM,11,0,0,11,0,0,0
+Hampton,Provisional,County Council (At Large),,Rachael Prince,DEM,10,0,0,10,0,0,0
+Hampton,Provisional,County Council (At Large),,Darin Williams,DEM,13,0,0,13,0,0,0
+Hampton,Provisional,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,County Council (At Large),,Clark Cregger,REP,20,6,0,0,0,0,14
+Hampton,RIVERS MILL,County Council (At Large),,David Ellis,REP,22,6,0,0,0,0,16
+Hampton,RIVERS MILL,County Council (At Large),,Joseph Williams,REP,20,5,0,0,0,0,15
+Hampton,RIVERS MILL,County Council (At Large),,Nigel Alexander,DEM,22,3,0,0,0,1,18
+Hampton,RIVERS MILL,County Council (At Large),,Rachael Prince,DEM,21,3,0,0,0,1,17
+Hampton,RIVERS MILL,County Council (At Large),,Darin Williams,DEM,21,3,0,0,0,1,17
+Hampton,RIVERS MILL,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,County Council (At Large),,Clark Cregger,REP,23,5,0,0,0,0,18
+Hampton,SCOTIA,County Council (At Large),,David Ellis,REP,23,3,0,0,0,0,20
+Hampton,SCOTIA,County Council (At Large),,Joseph Williams,REP,22,5,0,0,0,0,17
+Hampton,SCOTIA,County Council (At Large),,Nigel Alexander,DEM,140,79,0,0,0,4,57
+Hampton,SCOTIA,County Council (At Large),,Rachael Prince,DEM,146,80,0,0,0,4,62
+Hampton,SCOTIA,County Council (At Large),,Darin Williams,DEM,136,78,0,0,0,4,54
+Hampton,SCOTIA,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,County Council (At Large),,Clark Cregger,REP,348,170,0,0,0,2,176
+Hampton,VARNVILLE,County Council (At Large),,David Ellis,REP,347,174,0,0,0,2,171
+Hampton,VARNVILLE,County Council (At Large),,Joseph Williams,REP,357,177,0,0,0,2,178
+Hampton,VARNVILLE,County Council (At Large),,Nigel Alexander,DEM,615,379,0,0,0,20,216
+Hampton,VARNVILLE,County Council (At Large),,Rachael Prince,DEM,599,376,0,0,0,18,205
+Hampton,VARNVILLE,County Council (At Large),,Darin Williams,DEM,597,377,0,0,0,18,202
+Hampton,VARNVILLE,County Council (At Large),,Write-In,NON,0,0,0,0,0,0,0
+Hampton,YEMASSEE,County Council (At Large),,Clark Cregger,REP,162,79,0,0,0,0,83
+Hampton,YEMASSEE,County Council (At Large),,David Ellis,REP,161,76,0,0,0,0,85
+Hampton,YEMASSEE,County Council (At Large),,Joseph Williams,REP,158,78,0,0,0,0,80
+Hampton,YEMASSEE,County Council (At Large),,Nigel Alexander,DEM,356,226,0,0,0,3,127
+Hampton,YEMASSEE,County Council (At Large),,Rachael Prince,DEM,349,219,0,0,0,4,126
+Hampton,YEMASSEE,County Council (At Large),,Darin Williams,DEM,357,224,0,0,0,5,128
+Hampton,YEMASSEE,County Council (At Large),,Write-In,NON,2,2,0,0,0,0,0
+Hampton,BLACK CREEK,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,1,0,0,0,0,3
+Hampton,BLACK CREEK,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Hampton,BLACK CREEK,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,108,42,0,0,0,0,66
+Hampton,BLACK CREEK,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,44,30,0,0,0,1,13
+Hampton,BLACK CREEK,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,1,0,0,0,0,2
+Hampton,BONNETT,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,2,0,0,0,0,1
+Hampton,BONNETT,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,312,94,0,0,0,1,217
+Hampton,BONNETT,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,135,77,0,0,0,2,56
+Hampton,BONNETT,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,BRUNSON,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,1,0,0,0,0,1
+Hampton,BRUNSON,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Hampton,BRUNSON,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,178,39,0,0,0,5,134
+Hampton,BRUNSON,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,141,77,0,0,0,6,58
+Hampton,BRUNSON,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,0,0,0,0,0,4
+Hampton,CROCKET-MILEY,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,168,27,0,0,0,1,140
+Hampton,CROCKET-MILEY,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,102,60,0,0,0,6,36
+Hampton,CROCKET-MILEY,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CUMMINGS,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,0,0,0,0,0,2
+Hampton,CUMMINGS,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Hampton,CUMMINGS,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,211,70,0,0,0,2,139
+Hampton,CUMMINGS,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,236,137,0,0,0,15,84
+Hampton,CUMMINGS,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,EARLY BRANCH,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,2,0,0,0,0,1
+Hampton,EARLY BRANCH,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Hampton,EARLY BRANCH,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,82,33,0,0,0,1,48
+Hampton,EARLY BRANCH,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,136,82,0,0,0,6,48
+Hampton,EARLY BRANCH,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,ESTILL,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,21,4,0,0,0,4,13
+Hampton,ESTILL,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,3,0,0,0,0,0
+Hampton,ESTILL,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,226,84,0,0,0,6,136
+Hampton,ESTILL,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,777,429,0,0,0,74,274
+Hampton,ESTILL,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,FURMAN,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,1,0,0,0,0,0
+Hampton,FURMAN,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Hampton,FURMAN,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,71,9,0,0,0,0,62
+Hampton,FURMAN,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,119,35,0,0,0,5,79
+Hampton,FURMAN,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Hampton,Failsafe,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Hampton,Failsafe,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1,0,0,0,1,0,0
+Hampton,Failsafe,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,3,0,0,0,3,0,0
+Hampton,Failsafe,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,1,0,0,0,0,0
+Hampton,GARNETT,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Hampton,GARNETT,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,18,2,0,0,0,2,14
+Hampton,GARNETT,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,67,28,0,0,0,3,36
+Hampton,GARNETT,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GIFFORD,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Hampton,GIFFORD,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Hampton,GIFFORD,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,13,5,0,0,0,0,8
+Hampton,GIFFORD,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,160,51,0,0,0,8,101
+Hampton,GIFFORD,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,8,5,0,0,0,0,3
+Hampton,HAMPTON COURTHOUSE NO.1,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,270,153,0,0,0,6,111
+Hampton,HAMPTON COURTHOUSE NO.1,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,265,176,0,0,0,16,73
+Hampton,HAMPTON COURTHOUSE NO.1,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,9,7,0,0,0,0,2
+Hampton,HAMPTON COURTHOUSE NO.2,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,423,232,0,0,0,13,178
+Hampton,HAMPTON COURTHOUSE NO.2,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,371,243,0,0,0,22,106
+Hampton,HAMPTON COURTHOUSE NO.2,Governor and Lieutenant Governor,,Write-In,NON,1,1,0,0,0,0,0
+Hampton,HOPEWELL,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,1,0,0,0,0,1
+Hampton,HOPEWELL,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,1,0,0,0,0,1
+Hampton,HOPEWELL,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,138,16,0,0,0,3,119
+Hampton,HOPEWELL,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,18,8,0,0,0,1,9
+Hampton,HOPEWELL,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,52,27,0,0,0,0,25
+Hampton,HORSE GALL,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,3,1,0,0,0,0,2
+Hampton,HORSE GALL,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Hampton,Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Hampton,Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,8,0,0,8,0,0,0
+Hampton,Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,14,0,0,14,0,0,0
+Hampton,Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Hampton,RIVERS MILL,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,22,6,0,0,0,0,16
+Hampton,RIVERS MILL,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,22,3,0,0,0,1,18
+Hampton,RIVERS MILL,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,1,0,0,0,0,1
+Hampton,SCOTIA,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Hampton,SCOTIA,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,25,5,0,0,0,0,20
+Hampton,SCOTIA,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,141,79,0,0,0,4,58
+Hampton,SCOTIA,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,10,3,0,0,0,0,7
+Hampton,VARNVILLE,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Hampton,VARNVILLE,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,344,168,0,0,0,2,174
+Hampton,VARNVILLE,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,615,390,0,0,0,20,205
+Hampton,VARNVILLE,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,YEMASSEE,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,3,0,0,0,0,4
+Hampton,YEMASSEE,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Hampton,YEMASSEE,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,159,77,0,0,0,0,82
+Hampton,YEMASSEE,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,366,231,0,0,0,5,130
+Hampton,YEMASSEE,Governor and Lieutenant Governor,,Write-In,NON,2,2,0,0,0,0,0
+Hampton,BLACK CREEK,Probate Judge,,Shannon Parker,DEM,121,55,0,0,0,1,65
+Hampton,BLACK CREEK,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,Probate Judge,,Shannon Parker,DEM,345,140,0,0,0,1,204
+Hampton,BONNETT,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BRUNSON,Probate Judge,,Shannon Parker,DEM,254,98,0,0,0,10,146
+Hampton,BRUNSON,Probate Judge,,Write-In,NON,5,0,0,0,0,0,5
+Hampton,CROCKET-MILEY,Probate Judge,,Shannon Parker,DEM,211,80,0,0,0,7,124
+Hampton,CROCKET-MILEY,Probate Judge,,Write-In,NON,2,0,0,0,0,0,2
+Hampton,CUMMINGS,Probate Judge,,Shannon Parker,DEM,344,169,0,0,0,16,159
+Hampton,CUMMINGS,Probate Judge,,Write-In,NON,4,1,0,0,0,0,3
+Hampton,EARLY BRANCH,Probate Judge,,Shannon Parker,DEM,180,102,0,0,0,7,71
+Hampton,EARLY BRANCH,Probate Judge,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,ESTILL,Probate Judge,,Shannon Parker,DEM,921,468,0,0,0,71,382
+Hampton,ESTILL,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,FURMAN,Probate Judge,,Shannon Parker,DEM,167,40,0,0,0,5,122
+Hampton,FURMAN,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,Probate Judge,,Shannon Parker,DEM,4,0,0,0,4,0,0
+Hampton,Failsafe,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Probate Judge,,Shannon Parker,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,Probate Judge,,Shannon Parker,DEM,75,28,0,0,0,4,43
+Hampton,GARNETT,Probate Judge,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,GIFFORD,Probate Judge,,Shannon Parker,DEM,168,54,0,0,0,8,106
+Hampton,GIFFORD,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,Probate Judge,,Shannon Parker,DEM,420,257,0,0,0,18,145
+Hampton,HAMPTON COURTHOUSE NO.1,Probate Judge,,Write-In,NON,3,2,0,0,0,0,1
+Hampton,HAMPTON COURTHOUSE NO.2,Probate Judge,,Shannon Parker,DEM,630,390,0,0,0,30,210
+Hampton,HAMPTON COURTHOUSE NO.2,Probate Judge,,Write-In,NON,8,4,0,0,0,0,4
+Hampton,HOPEWELL,Probate Judge,,Shannon Parker,DEM,106,18,0,0,0,2,86
+Hampton,HOPEWELL,Probate Judge,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,HORSE GALL,Probate Judge,,Shannon Parker,DEM,35,18,0,0,0,0,17
+Hampton,HORSE GALL,Probate Judge,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,Provisional,Probate Judge,,Shannon Parker,DEM,19,0,0,19,0,0,0
+Hampton,Provisional,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Probate Judge,,Shannon Parker,DEM,32,5,0,0,0,1,26
+Hampton,RIVERS MILL,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,Probate Judge,,Shannon Parker,DEM,157,81,0,0,0,4,72
+Hampton,SCOTIA,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,Probate Judge,,Shannon Parker,DEM,825,488,0,0,0,22,315
+Hampton,VARNVILLE,Probate Judge,,Write-In,NON,3,1,0,0,0,0,2
+Hampton,YEMASSEE,Probate Judge,,Shannon Parker,DEM,440,273,0,0,0,5,162
+Hampton,YEMASSEE,Probate Judge,,Write-In,NON,2,1,0,0,0,0,1
+Hampton,ESTILL,School Board Trustee District 1,,Mary Green Wilson,NON,106,63,0,0,0,4,39
+Hampton,ESTILL,School Board Trustee District 1,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,FURMAN,School Board Trustee District 1,,Mary Green Wilson,NON,98,14,0,0,0,5,79
+Hampton,FURMAN,School Board Trustee District 1,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,School Board Trustee District 1,,Mary Green Wilson,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,School Board Trustee District 1,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,School Board Trustee District 1,,Mary Green Wilson,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,School Board Trustee District 1,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,School Board Trustee District 1,,Mary Green Wilson,NON,57,21,0,0,0,5,31
+Hampton,GARNETT,School Board Trustee District 1,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,Provisional,School Board Trustee District 1,,Mary Green Wilson,NON,5,0,0,5,0,0,0
+Hampton,Provisional,School Board Trustee District 1,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,School Board Trustee District 1,,Mary Green Wilson,NON,118,61,0,0,0,3,54
+Hampton,SCOTIA,School Board Trustee District 1,,Write-In,NON,1,1,0,0,0,0,0
+Hampton,BRUNSON,School Board Trustee District 3,,Tonya McQuire Robinson,NON,138,56,0,0,0,5,77
+Hampton,BRUNSON,School Board Trustee District 3,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,School Board Trustee District 3,,Tonya McQuire Robinson,NON,2,0,0,0,2,0,0
+Hampton,Failsafe,School Board Trustee District 3,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,School Board Trustee District 3,,Tonya McQuire Robinson,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,School Board Trustee District 3,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,School Board Trustee District 3,,Tonya McQuire Robinson,NON,10,5,0,0,0,0,5
+Hampton,HAMPTON COURTHOUSE NO.1,School Board Trustee District 3,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,School Board Trustee District 3,,Tonya McQuire Robinson,NON,495,303,0,0,0,27,165
+Hampton,HAMPTON COURTHOUSE NO.2,School Board Trustee District 3,,Write-In,NON,8,5,0,0,0,1,2
+Hampton,Provisional,School Board Trustee District 3,,Tonya McQuire Robinson,NON,0,0,0,0,0,0,0
+Hampton,Provisional,School Board Trustee District 3,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CUMMINGS,School Board Trustee District 5,,Debra Fennell Holmes,NON,153,71,0,0,0,10,72
+Hampton,CUMMINGS,School Board Trustee District 5,,Write-In,NON,2,0,0,0,0,1,1
+Hampton,EARLY BRANCH,School Board Trustee District 5,,Debra Fennell Holmes,NON,147,79,0,0,0,5,63
+Hampton,EARLY BRANCH,School Board Trustee District 5,,Write-In,NON,2,1,0,0,0,0,1
+Hampton,Failsafe,School Board Trustee District 5,,Debra Fennell Holmes,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,School Board Trustee District 5,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,School Board Trustee District 5,,Debra Fennell Holmes,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,School Board Trustee District 5,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Provisional,School Board Trustee District 5,,Debra Fennell Holmes,NON,1,0,0,1,0,0,0
+Hampton,Provisional,School Board Trustee District 5,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,YEMASSEE,School Board Trustee District 5,,Debra Fennell Holmes,NON,366,221,0,0,0,4,141
+Hampton,YEMASSEE,School Board Trustee District 5,,Write-In,NON,4,2,0,0,0,0,2
+Hampton,ESTILL,School Board Trustee District 7,,Marsha Robinson,NON,466,220,0,0,0,52,194
+Hampton,ESTILL,School Board Trustee District 7,,Write-In,NON,5,3,0,0,0,0,2
+Hampton,Failsafe,School Board Trustee District 7,,Marsha Robinson,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,School Board Trustee District 7,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,School Board Trustee District 7,,Marsha Robinson,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,School Board Trustee District 7,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GIFFORD,School Board Trustee District 7,,Marsha Robinson,NON,110,26,0,0,0,7,77
+Hampton,GIFFORD,School Board Trustee District 7,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Provisional,School Board Trustee District 7,,Marsha Robinson,NON,7,0,0,7,0,0,0
+Hampton,Provisional,School Board Trustee District 7,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BLACK CREEK,School District Referendum,,Yes,NON,16,10,0,0,0,1,5
+Hampton,BLACK CREEK,School District Referendum,,No,NON,141,62,0,0,0,0,79
+Hampton,BONNETT,School District Referendum,,Yes,NON,72,36,0,0,0,0,36
+Hampton,BONNETT,School District Referendum,,No,NON,370,130,0,0,0,3,237
+Hampton,BRUNSON,School District Referendum,,Yes,NON,84,43,0,0,0,3,38
+Hampton,BRUNSON,School District Referendum,,No,NON,224,71,0,0,0,6,147
+Hampton,CROCKET-MILEY,School District Referendum,,Yes,NON,62,39,0,0,0,3,20
+Hampton,CROCKET-MILEY,School District Referendum,,No,NON,208,46,0,0,0,3,159
+Hampton,CUMMINGS,School District Referendum,,Yes,NON,110,54,0,0,0,8,48
+Hampton,CUMMINGS,School District Referendum,,No,NON,317,136,0,0,0,7,174
+Hampton,EARLY BRANCH,School District Referendum,,Yes,NON,84,51,0,0,0,0,33
+Hampton,EARLY BRANCH,School District Referendum,,No,NON,124,57,0,0,0,6,61
+Hampton,ESTILL,School District Referendum,,Yes,NON,321,173,0,0,0,33,115
+Hampton,ESTILL,School District Referendum,,No,NON,645,309,0,0,0,47,289
+Hampton,FURMAN,School District Referendum,,Yes,NON,67,18,0,0,0,5,44
+Hampton,FURMAN,School District Referendum,,No,NON,108,22,0,0,0,0,86
+Hampton,Failsafe,School District Referendum,,Yes,NON,2,0,0,0,2,0,0
+Hampton,Failsafe,School District Referendum,,No,NON,2,0,0,0,2,0,0
+Hampton,Failsafe Provisional,School District Referendum,,Yes,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,School District Referendum,,No,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,School District Referendum,,Yes,NON,34,13,0,0,0,0,21
+Hampton,GARNETT,School District Referendum,,No,NON,42,15,0,0,0,5,22
+Hampton,GIFFORD,School District Referendum,,Yes,NON,58,16,0,0,0,4,38
+Hampton,GIFFORD,School District Referendum,,No,NON,109,37,0,0,0,4,68
+Hampton,HAMPTON COURTHOUSE NO.1,School District Referendum,,Yes,NON,136,83,0,0,0,9,44
+Hampton,HAMPTON COURTHOUSE NO.1,School District Referendum,,No,NON,398,247,0,0,0,13,138
+Hampton,HAMPTON COURTHOUSE NO.2,School District Referendum,,Yes,NON,209,135,0,0,0,14,60
+Hampton,HAMPTON COURTHOUSE NO.2,School District Referendum,,No,NON,574,337,0,0,0,21,216
+Hampton,HOPEWELL,School District Referendum,,Yes,NON,17,6,0,0,0,1,10
+Hampton,HOPEWELL,School District Referendum,,No,NON,146,20,0,0,0,3,123
+Hampton,HORSE GALL,School District Referendum,,Yes,NON,2,0,0,0,0,0,2
+Hampton,HORSE GALL,School District Referendum,,No,NON,53,28,0,0,0,0,25
+Hampton,Provisional,School District Referendum,,Yes,NON,6,0,0,6,0,0,0
+Hampton,Provisional,School District Referendum,,No,NON,12,0,0,12,0,0,0
+Hampton,RIVERS MILL,School District Referendum,,Yes,NON,13,2,0,0,0,1,10
+Hampton,RIVERS MILL,School District Referendum,,No,NON,33,7,0,0,0,0,26
+Hampton,SCOTIA,School District Referendum,,Yes,NON,58,29,0,0,0,1,28
+Hampton,SCOTIA,School District Referendum,,No,NON,97,50,0,0,0,3,44
+Hampton,VARNVILLE,School District Referendum,,Yes,NON,302,177,0,0,0,11,114
+Hampton,VARNVILLE,School District Referendum,,No,NON,637,363,0,0,0,6,268
+Hampton,YEMASSEE,School District Referendum,,Yes,NON,252,143,0,0,0,2,107
+Hampton,YEMASSEE,School District Referendum,,No,NON,258,153,0,0,0,2,103
+Hampton,BLACK CREEK,Secretary of State,,Mark Hammond,REP,111,44,0,0,0,0,67
+Hampton,BLACK CREEK,Secretary of State,,Jason Belton,DEM,45,29,0,0,0,1,15
+Hampton,BLACK CREEK,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,Secretary of State,,Mark Hammond,REP,314,92,0,0,0,1,221
+Hampton,BONNETT,Secretary of State,,Jason Belton,DEM,136,78,0,0,0,2,56
+Hampton,BONNETT,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,BRUNSON,Secretary of State,,Mark Hammond,REP,185,43,0,0,0,5,137
+Hampton,BRUNSON,Secretary of State,,Jason Belton,DEM,135,74,0,0,0,6,55
+Hampton,BRUNSON,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,Secretary of State,,Mark Hammond,REP,170,27,0,0,0,1,142
+Hampton,CROCKET-MILEY,Secretary of State,,Jason Belton,DEM,102,60,0,0,0,6,36
+Hampton,CROCKET-MILEY,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CUMMINGS,Secretary of State,,Mark Hammond,REP,214,71,0,0,0,3,140
+Hampton,CUMMINGS,Secretary of State,,Jason Belton,DEM,242,138,0,0,0,14,90
+Hampton,CUMMINGS,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,EARLY BRANCH,Secretary of State,,Mark Hammond,REP,83,33,0,0,0,1,49
+Hampton,EARLY BRANCH,Secretary of State,,Jason Belton,DEM,134,81,0,0,0,6,47
+Hampton,EARLY BRANCH,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,ESTILL,Secretary of State,,Mark Hammond,REP,232,89,0,0,0,7,136
+Hampton,ESTILL,Secretary of State,,Jason Belton,DEM,786,428,0,0,0,77,281
+Hampton,ESTILL,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,FURMAN,Secretary of State,,Mark Hammond,REP,73,9,0,0,0,0,64
+Hampton,FURMAN,Secretary of State,,Jason Belton,DEM,116,35,0,0,0,5,76
+Hampton,FURMAN,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,Secretary of State,,Mark Hammond,REP,1,0,0,0,1,0,0
+Hampton,Failsafe,Secretary of State,,Jason Belton,DEM,3,0,0,0,3,0,0
+Hampton,Failsafe,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Secretary of State,,Mark Hammond,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,Secretary of State,,Mark Hammond,REP,19,2,0,0,0,2,15
+Hampton,GARNETT,Secretary of State,,Jason Belton,DEM,67,28,0,0,0,3,36
+Hampton,GARNETT,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GIFFORD,Secretary of State,,Mark Hammond,REP,14,4,0,0,0,0,10
+Hampton,GIFFORD,Secretary of State,,Jason Belton,DEM,159,51,0,0,0,8,100
+Hampton,GIFFORD,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,Secretary of State,,Mark Hammond,REP,278,159,0,0,0,6,113
+Hampton,HAMPTON COURTHOUSE NO.1,Secretary of State,,Jason Belton,DEM,263,178,0,0,0,16,69
+Hampton,HAMPTON COURTHOUSE NO.1,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,HAMPTON COURTHOUSE NO.2,Secretary of State,,Mark Hammond,REP,431,238,0,0,0,12,181
+Hampton,HAMPTON COURTHOUSE NO.2,Secretary of State,,Jason Belton,DEM,370,241,0,0,0,23,106
+Hampton,HAMPTON COURTHOUSE NO.2,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HOPEWELL,Secretary of State,,Mark Hammond,REP,141,20,0,0,0,3,118
+Hampton,HOPEWELL,Secretary of State,,Jason Belton,DEM,16,6,0,0,0,1,9
+Hampton,HOPEWELL,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Secretary of State,,Mark Hammond,REP,52,27,0,0,0,0,25
+Hampton,HORSE GALL,Secretary of State,,Jason Belton,DEM,3,1,0,0,0,0,2
+Hampton,HORSE GALL,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Provisional,Secretary of State,,Mark Hammond,REP,8,0,0,8,0,0,0
+Hampton,Provisional,Secretary of State,,Jason Belton,DEM,14,0,0,14,0,0,0
+Hampton,Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Secretary of State,,Mark Hammond,REP,22,6,0,0,0,0,16
+Hampton,RIVERS MILL,Secretary of State,,Jason Belton,DEM,23,3,0,0,0,1,19
+Hampton,RIVERS MILL,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,Secretary of State,,Mark Hammond,REP,26,5,0,0,0,0,21
+Hampton,SCOTIA,Secretary of State,,Jason Belton,DEM,142,80,0,0,0,4,58
+Hampton,SCOTIA,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,Secretary of State,,Mark Hammond,REP,362,176,0,0,0,2,184
+Hampton,VARNVILLE,Secretary of State,,Jason Belton,DEM,612,387,0,0,0,20,205
+Hampton,VARNVILLE,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,YEMASSEE,Secretary of State,,Mark Hammond,REP,168,82,0,0,0,0,86
+Hampton,YEMASSEE,Secretary of State,,Jason Belton,DEM,365,229,0,0,0,5,131
+Hampton,YEMASSEE,Secretary of State,,Write-In,NON,2,2,0,0,0,0,0
+Hampton,BLACK CREEK,Sheriff,,Anthony Bubba Russell,DEM,122,55,0,0,0,1,66
+Hampton,BLACK CREEK,Sheriff,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,BONNETT,Sheriff,,Anthony Bubba Russell,DEM,359,145,0,0,0,2,212
+Hampton,BONNETT,Sheriff,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,BRUNSON,Sheriff,,Anthony Bubba Russell,DEM,265,101,0,0,0,10,154
+Hampton,BRUNSON,Sheriff,,Write-In,NON,3,2,0,0,0,0,1
+Hampton,CROCKET-MILEY,Sheriff,,Anthony Bubba Russell,DEM,220,76,0,0,0,7,137
+Hampton,CROCKET-MILEY,Sheriff,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,CUMMINGS,Sheriff,,Anthony Bubba Russell,DEM,356,174,0,0,0,17,165
+Hampton,CUMMINGS,Sheriff,,Write-In,NON,3,0,0,0,0,0,3
+Hampton,EARLY BRANCH,Sheriff,,Anthony Bubba Russell,DEM,187,106,0,0,0,7,74
+Hampton,EARLY BRANCH,Sheriff,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,ESTILL,Sheriff,,Anthony Bubba Russell,DEM,937,475,0,0,0,71,391
+Hampton,ESTILL,Sheriff,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,FURMAN,Sheriff,,Anthony Bubba Russell,DEM,172,41,0,0,0,5,126
+Hampton,FURMAN,Sheriff,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,Sheriff,,Anthony Bubba Russell,DEM,4,0,0,0,4,0,0
+Hampton,Failsafe,Sheriff,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Sheriff,,Anthony Bubba Russell,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Sheriff,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,Sheriff,,Anthony Bubba Russell,DEM,76,29,0,0,0,4,43
+Hampton,GARNETT,Sheriff,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,GIFFORD,Sheriff,,Anthony Bubba Russell,DEM,165,53,0,0,0,7,105
+Hampton,GIFFORD,Sheriff,,Write-In,NON,1,0,0,0,0,1,0
+Hampton,HAMPTON COURTHOUSE NO.1,Sheriff,,Anthony Bubba Russell,DEM,421,258,0,0,0,18,145
+Hampton,HAMPTON COURTHOUSE NO.1,Sheriff,,Write-In,NON,5,2,0,0,0,0,3
+Hampton,HAMPTON COURTHOUSE NO.2,Sheriff,,Anthony Bubba Russell,DEM,645,396,0,0,0,30,219
+Hampton,HAMPTON COURTHOUSE NO.2,Sheriff,,Write-In,NON,5,3,0,0,0,0,2
+Hampton,HOPEWELL,Sheriff,,Anthony Bubba Russell,DEM,111,19,0,0,0,2,90
+Hampton,HOPEWELL,Sheriff,,Write-In,NON,3,0,0,0,0,0,3
+Hampton,HORSE GALL,Sheriff,,Anthony Bubba Russell,DEM,37,20,0,0,0,0,17
+Hampton,HORSE GALL,Sheriff,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,Provisional,Sheriff,,Anthony Bubba Russell,DEM,19,0,0,19,0,0,0
+Hampton,Provisional,Sheriff,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Sheriff,,Anthony Bubba Russell,DEM,32,5,0,0,0,1,26
+Hampton,RIVERS MILL,Sheriff,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,Sheriff,,Anthony Bubba Russell,DEM,157,80,0,0,0,4,73
+Hampton,SCOTIA,Sheriff,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,Sheriff,,Anthony Bubba Russell,DEM,833,493,0,0,0,22,318
+Hampton,VARNVILLE,Sheriff,,Write-In,NON,3,0,0,0,0,0,3
+Hampton,YEMASSEE,Sheriff,,Anthony Bubba Russell,DEM,442,271,0,0,0,5,166
+Hampton,YEMASSEE,Sheriff,,Write-In,NON,7,2,0,0,0,0,5
+Hampton,BLACK CREEK,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,91,45,0,0,0,1,45
+Hampton,BLACK CREEK,Soil and Water District Commission,,Neal R Murdaugh,NON,64,26,0,0,0,0,38
+Hampton,BLACK CREEK,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,219,68,0,0,0,1,150
+Hampton,BONNETT,Soil and Water District Commission,,Neal R Murdaugh,NON,132,47,0,0,0,1,84
+Hampton,BONNETT,Soil and Water District Commission,,Write-In,NON,1,1,0,0,0,0,0
+Hampton,BRUNSON,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,183,54,0,0,0,6,123
+Hampton,BRUNSON,Soil and Water District Commission,,Neal R Murdaugh,NON,94,27,0,0,0,1,66
+Hampton,BRUNSON,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,CROCKET-MILEY,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,141,34,0,0,0,5,102
+Hampton,CROCKET-MILEY,Soil and Water District Commission,,Neal R Murdaugh,NON,81,18,0,0,0,2,61
+Hampton,CROCKET-MILEY,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,CUMMINGS,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,138,65,0,0,0,8,65
+Hampton,CUMMINGS,Soil and Water District Commission,,Neal R Murdaugh,NON,122,48,0,0,0,10,64
+Hampton,CUMMINGS,Soil and Water District Commission,,Write-In,NON,2,0,0,0,0,0,2
+Hampton,EARLY BRANCH,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,78,41,0,0,0,4,33
+Hampton,EARLY BRANCH,Soil and Water District Commission,,Neal R Murdaugh,NON,84,42,0,0,0,3,39
+Hampton,EARLY BRANCH,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,ESTILL,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,349,137,0,0,0,28,184
+Hampton,ESTILL,Soil and Water District Commission,,Neal R Murdaugh,NON,178,62,0,0,0,23,93
+Hampton,ESTILL,Soil and Water District Commission,,Write-In,NON,2,1,0,0,0,0,1
+Hampton,FURMAN,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,74,11,0,0,0,2,61
+Hampton,FURMAN,Soil and Water District Commission,,Neal R Murdaugh,NON,46,4,0,0,0,2,40
+Hampton,FURMAN,Soil and Water District Commission,,Write-In,NON,2,2,0,0,0,0,0
+Hampton,Failsafe,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,1,0,0,0,1,0,0
+Hampton,Failsafe,Soil and Water District Commission,,Neal R Murdaugh,NON,1,0,0,0,1,0,0
+Hampton,Failsafe,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Soil and Water District Commission,,Neal R Murdaugh,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,20,6,0,0,0,3,11
+Hampton,GARNETT,Soil and Water District Commission,,Neal R Murdaugh,NON,13,2,0,0,0,2,9
+Hampton,GARNETT,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,GIFFORD,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,31,15,0,0,0,3,13
+Hampton,GIFFORD,Soil and Water District Commission,,Neal R Murdaugh,NON,20,5,0,0,0,3,12
+Hampton,GIFFORD,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,HAMPTON COURTHOUSE NO.1,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,222,128,0,0,0,11,83
+Hampton,HAMPTON COURTHOUSE NO.1,Soil and Water District Commission,,Neal R Murdaugh,NON,151,90,0,0,0,8,53
+Hampton,HAMPTON COURTHOUSE NO.1,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,358,217,0,0,0,16,125
+Hampton,HAMPTON COURTHOUSE NO.2,Soil and Water District Commission,,Neal R Murdaugh,NON,275,171,0,0,0,16,88
+Hampton,HAMPTON COURTHOUSE NO.2,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HOPEWELL,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,86,14,0,0,0,2,70
+Hampton,HOPEWELL,Soil and Water District Commission,,Neal R Murdaugh,NON,54,7,0,0,0,4,43
+Hampton,HOPEWELL,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,31,18,0,0,0,0,13
+Hampton,HORSE GALL,Soil and Water District Commission,,Neal R Murdaugh,NON,26,13,0,0,0,0,13
+Hampton,HORSE GALL,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,Provisional,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,9,0,0,9,0,0,0
+Hampton,Provisional,Soil and Water District Commission,,Neal R Murdaugh,NON,5,0,0,5,0,0,0
+Hampton,Provisional,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,19,2,0,0,0,0,17
+Hampton,RIVERS MILL,Soil and Water District Commission,,Neal R Murdaugh,NON,7,2,0,0,0,0,5
+Hampton,RIVERS MILL,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,54,21,0,0,0,1,32
+Hampton,SCOTIA,Soil and Water District Commission,,Neal R Murdaugh,NON,41,18,0,0,0,1,22
+Hampton,SCOTIA,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,349,192,0,0,0,11,146
+Hampton,VARNVILLE,Soil and Water District Commission,,Neal R Murdaugh,NON,248,136,0,0,0,10,102
+Hampton,VARNVILLE,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,YEMASSEE,Soil and Water District Commission,,JW Jimmy Mole Jr,NON,187,109,0,0,0,3,75
+Hampton,YEMASSEE,Soil and Water District Commission,,Neal R Murdaugh,NON,113,63,0,0,0,2,48
+Hampton,YEMASSEE,Soil and Water District Commission,,Write-In,NON,1,1,0,0,0,0,0
+Hampton,BLACK CREEK,State House,122,Bill Hager,REP,114,44,0,0,0,0,70
+Hampton,BLACK CREEK,State House,122,Korey Williams,DEM,44,29,0,0,0,1,14
+Hampton,BLACK CREEK,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,State House,122,Bill Hager,REP,312,95,0,0,0,1,216
+Hampton,BONNETT,State House,122,Korey Williams,DEM,142,78,0,0,0,2,62
+Hampton,BONNETT,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BRUNSON,State House,122,Bill Hager,REP,184,43,0,0,0,5,136
+Hampton,BRUNSON,State House,122,Korey Williams,DEM,136,74,0,0,0,6,56
+Hampton,BRUNSON,State House,122,Write-In,NON,1,0,0,0,0,0,1
+Hampton,CROCKET-MILEY,State House,122,Bill Hager,REP,170,27,0,0,0,1,142
+Hampton,CROCKET-MILEY,State House,122,Korey Williams,DEM,104,61,0,0,0,6,37
+Hampton,CROCKET-MILEY,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CUMMINGS,State House,122,Bill Hager,REP,214,71,0,0,0,2,141
+Hampton,CUMMINGS,State House,122,Korey Williams,DEM,241,137,0,0,0,15,89
+Hampton,CUMMINGS,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,EARLY BRANCH,State House,122,Bill Hager,REP,85,34,0,0,0,1,50
+Hampton,EARLY BRANCH,State House,122,Korey Williams,DEM,130,80,0,0,0,6,44
+Hampton,EARLY BRANCH,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,ESTILL,State House,122,Bill Hager,REP,233,88,0,0,0,8,137
+Hampton,ESTILL,State House,122,Korey Williams,DEM,785,429,0,0,0,76,280
+Hampton,ESTILL,State House,122,Write-In,NON,1,1,0,0,0,0,0
+Hampton,FURMAN,State House,122,Bill Hager,REP,72,10,0,0,0,0,62
+Hampton,FURMAN,State House,122,Korey Williams,DEM,118,35,0,0,0,5,78
+Hampton,FURMAN,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,State House,122,Bill Hager,REP,1,0,0,0,1,0,0
+Hampton,Failsafe,State House,122,Korey Williams,DEM,3,0,0,0,3,0,0
+Hampton,Failsafe,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,State House,122,Bill Hager,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,State House,122,Korey Williams,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,State House,122,Bill Hager,REP,17,2,0,0,0,2,13
+Hampton,GARNETT,State House,122,Korey Williams,DEM,69,28,0,0,0,3,38
+Hampton,GARNETT,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GIFFORD,State House,122,Bill Hager,REP,14,5,0,0,0,0,9
+Hampton,GIFFORD,State House,122,Korey Williams,DEM,159,51,0,0,0,8,100
+Hampton,GIFFORD,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,State House,122,Bill Hager,REP,278,159,0,0,0,6,113
+Hampton,HAMPTON COURTHOUSE NO.1,State House,122,Korey Williams,DEM,266,178,0,0,0,16,72
+Hampton,HAMPTON COURTHOUSE NO.1,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,State House,122,Bill Hager,REP,443,251,0,0,0,12,180
+Hampton,HAMPTON COURTHOUSE NO.2,State House,122,Korey Williams,DEM,363,238,0,0,0,22,103
+Hampton,HAMPTON COURTHOUSE NO.2,State House,122,Write-In,NON,3,1,0,0,0,1,1
+Hampton,HOPEWELL,State House,122,Bill Hager,REP,146,21,0,0,0,3,122
+Hampton,HOPEWELL,State House,122,Korey Williams,DEM,17,6,0,0,0,1,10
+Hampton,HOPEWELL,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HORSE GALL,State House,122,Bill Hager,REP,48,25,0,0,0,0,23
+Hampton,HORSE GALL,State House,122,Korey Williams,DEM,7,3,0,0,0,0,4
+Hampton,HORSE GALL,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Provisional,State House,122,Bill Hager,REP,9,0,0,9,0,0,0
+Hampton,Provisional,State House,122,Korey Williams,DEM,14,0,0,14,0,0,0
+Hampton,Provisional,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,State House,122,Bill Hager,REP,23,6,0,0,0,0,17
+Hampton,RIVERS MILL,State House,122,Korey Williams,DEM,23,3,0,0,0,1,19
+Hampton,RIVERS MILL,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,State House,122,Bill Hager,REP,24,5,0,0,0,0,19
+Hampton,SCOTIA,State House,122,Korey Williams,DEM,143,79,0,0,0,4,60
+Hampton,SCOTIA,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,State House,122,Bill Hager,REP,366,183,0,0,0,2,181
+Hampton,VARNVILLE,State House,122,Korey Williams,DEM,615,386,0,0,0,19,210
+Hampton,VARNVILLE,State House,122,Write-In,NON,0,0,0,0,0,0,0
+Hampton,YEMASSEE,State House,122,Bill Hager,REP,164,80,0,0,0,0,84
+Hampton,YEMASSEE,State House,122,Korey Williams,DEM,372,234,0,0,0,5,133
+Hampton,YEMASSEE,State House,122,Write-In,NON,2,2,0,0,0,0,0
+Hampton,BLACK CREEK,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Hampton,BLACK CREEK,State Superintendent of Education,,Ellen Weaver,REP,110,41,0,0,0,0,69
+Hampton,BLACK CREEK,State Superintendent of Education,,Sylvia Wright,DEM,47,31,0,0,0,1,15
+Hampton,BLACK CREEK,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Hampton,BONNETT,State Superintendent of Education,,Ellen Weaver,REP,314,93,0,0,0,1,220
+Hampton,BONNETT,State Superintendent of Education,,Sylvia Wright,DEM,137,78,0,0,0,2,57
+Hampton,BONNETT,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BRUNSON,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,0,0,0,0,0,2
+Hampton,BRUNSON,State Superintendent of Education,,Ellen Weaver,REP,176,38,0,0,0,5,133
+Hampton,BRUNSON,State Superintendent of Education,,Sylvia Wright,DEM,143,78,0,0,0,6,59
+Hampton,BRUNSON,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,1,0,0,0,0,0
+Hampton,CROCKET-MILEY,State Superintendent of Education,,Ellen Weaver,REP,161,26,0,0,0,1,134
+Hampton,CROCKET-MILEY,State Superintendent of Education,,Sylvia Wright,DEM,108,60,0,0,0,6,42
+Hampton,CROCKET-MILEY,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CUMMINGS,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,0,0,0,0,0,2
+Hampton,CUMMINGS,State Superintendent of Education,,Ellen Weaver,REP,208,70,0,0,0,2,136
+Hampton,CUMMINGS,State Superintendent of Education,,Sylvia Wright,DEM,245,139,0,0,0,15,91
+Hampton,CUMMINGS,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,EARLY BRANCH,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,2,0,0,0,0,0
+Hampton,EARLY BRANCH,State Superintendent of Education,,Ellen Weaver,REP,85,34,0,0,0,1,50
+Hampton,EARLY BRANCH,State Superintendent of Education,,Sylvia Wright,DEM,132,81,0,0,0,6,45
+Hampton,EARLY BRANCH,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,ESTILL,State Superintendent of Education,,Baba Amin Ojuok,UNC,14,5,0,0,0,2,7
+Hampton,ESTILL,State Superintendent of Education,,Ellen Weaver,REP,223,86,0,0,0,6,131
+Hampton,ESTILL,State Superintendent of Education,,Sylvia Wright,DEM,785,428,0,0,0,75,282
+Hampton,ESTILL,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,FURMAN,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Hampton,FURMAN,State Superintendent of Education,,Ellen Weaver,REP,71,10,0,0,0,0,61
+Hampton,FURMAN,State Superintendent of Education,,Sylvia Wright,DEM,118,35,0,0,0,5,78
+Hampton,FURMAN,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Hampton,Failsafe,State Superintendent of Education,,Ellen Weaver,REP,1,0,0,0,1,0,0
+Hampton,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,3,0,0,0,3,0,0
+Hampton,Failsafe,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,State Superintendent of Education,,Ellen Weaver,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,1,0,0,0,0,0
+Hampton,GARNETT,State Superintendent of Education,,Ellen Weaver,REP,17,2,0,0,0,2,13
+Hampton,GARNETT,State Superintendent of Education,,Sylvia Wright,DEM,66,27,0,0,0,3,36
+Hampton,GARNETT,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GIFFORD,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Hampton,GIFFORD,State Superintendent of Education,,Ellen Weaver,REP,13,4,0,0,0,0,9
+Hampton,GIFFORD,State Superintendent of Education,,Sylvia Wright,DEM,160,51,0,0,0,8,101
+Hampton,GIFFORD,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,3,0,0,0,0,2
+Hampton,HAMPTON COURTHOUSE NO.1,State Superintendent of Education,,Ellen Weaver,REP,269,156,0,0,0,6,107
+Hampton,HAMPTON COURTHOUSE NO.1,State Superintendent of Education,,Sylvia Wright,DEM,267,177,0,0,0,16,74
+Hampton,HAMPTON COURTHOUSE NO.1,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,2,0,0,0,0,1
+Hampton,HAMPTON COURTHOUSE NO.2,State Superintendent of Education,,Ellen Weaver,REP,425,234,0,0,0,12,179
+Hampton,HAMPTON COURTHOUSE NO.2,State Superintendent of Education,,Sylvia Wright,DEM,374,246,0,0,0,23,105
+Hampton,HAMPTON COURTHOUSE NO.2,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HOPEWELL,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,0,0,0,0,0,2
+Hampton,HOPEWELL,State Superintendent of Education,,Ellen Weaver,REP,141,19,0,0,0,3,119
+Hampton,HOPEWELL,State Superintendent of Education,,Sylvia Wright,DEM,17,7,0,0,0,1,9
+Hampton,HOPEWELL,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HORSE GALL,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Hampton,HORSE GALL,State Superintendent of Education,,Ellen Weaver,REP,52,27,0,0,0,0,25
+Hampton,HORSE GALL,State Superintendent of Education,,Sylvia Wright,DEM,3,1,0,0,0,0,2
+Hampton,HORSE GALL,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Hampton,Provisional,State Superintendent of Education,,Ellen Weaver,REP,8,0,0,8,0,0,0
+Hampton,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,14,0,0,14,0,0,0
+Hampton,Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Hampton,RIVERS MILL,State Superintendent of Education,,Ellen Weaver,REP,22,6,0,0,0,0,16
+Hampton,RIVERS MILL,State Superintendent of Education,,Sylvia Wright,DEM,22,3,0,0,0,1,18
+Hampton,RIVERS MILL,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,1,0,0,0,0,1
+Hampton,SCOTIA,State Superintendent of Education,,Ellen Weaver,REP,23,4,0,0,0,0,19
+Hampton,SCOTIA,State Superintendent of Education,,Sylvia Wright,DEM,141,78,0,0,0,4,59
+Hampton,SCOTIA,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,State Superintendent of Education,,Baba Amin Ojuok,UNC,7,6,0,0,0,0,1
+Hampton,VARNVILLE,State Superintendent of Education,,Ellen Weaver,REP,343,165,0,0,0,2,176
+Hampton,VARNVILLE,State Superintendent of Education,,Sylvia Wright,DEM,621,387,0,0,0,20,214
+Hampton,VARNVILLE,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,YEMASSEE,State Superintendent of Education,,Baba Amin Ojuok,UNC,7,4,0,0,0,0,3
+Hampton,YEMASSEE,State Superintendent of Education,,Ellen Weaver,REP,156,76,0,0,0,0,80
+Hampton,YEMASSEE,State Superintendent of Education,,Sylvia Wright,DEM,369,232,0,0,0,5,132
+Hampton,YEMASSEE,State Superintendent of Education,,Write-In,NON,2,2,0,0,0,0,0
+Hampton,BLACK CREEK,State Treasurer,,Curtis Loftis,REP,110,43,0,0,0,0,67
+Hampton,BLACK CREEK,State Treasurer,,Vincent Coe,DEM,46,30,0,0,0,1,15
+Hampton,BLACK CREEK,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,State Treasurer,,Curtis Loftis,REP,312,92,0,0,0,1,219
+Hampton,BONNETT,State Treasurer,,Vincent Coe,DEM,137,79,0,0,0,2,56
+Hampton,BONNETT,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,BRUNSON,State Treasurer,,Curtis Loftis,REP,182,41,0,0,0,5,136
+Hampton,BRUNSON,State Treasurer,,Vincent Coe,DEM,137,76,0,0,0,6,55
+Hampton,BRUNSON,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,State Treasurer,,Curtis Loftis,REP,170,28,0,0,0,1,141
+Hampton,CROCKET-MILEY,State Treasurer,,Vincent Coe,DEM,101,58,0,0,0,6,37
+Hampton,CROCKET-MILEY,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CUMMINGS,State Treasurer,,Curtis Loftis,REP,211,69,0,0,0,2,140
+Hampton,CUMMINGS,State Treasurer,,Vincent Coe,DEM,241,138,0,0,0,15,88
+Hampton,CUMMINGS,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,EARLY BRANCH,State Treasurer,,Curtis Loftis,REP,84,34,0,0,0,1,49
+Hampton,EARLY BRANCH,State Treasurer,,Vincent Coe,DEM,133,81,0,0,0,6,46
+Hampton,EARLY BRANCH,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,ESTILL,State Treasurer,,Curtis Loftis,REP,229,87,0,0,0,8,134
+Hampton,ESTILL,State Treasurer,,Vincent Coe,DEM,783,428,0,0,0,76,279
+Hampton,ESTILL,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,FURMAN,State Treasurer,,Curtis Loftis,REP,73,9,0,0,0,0,64
+Hampton,FURMAN,State Treasurer,,Vincent Coe,DEM,116,35,0,0,0,5,76
+Hampton,FURMAN,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,State Treasurer,,Curtis Loftis,REP,1,0,0,0,1,0,0
+Hampton,Failsafe,State Treasurer,,Vincent Coe,DEM,3,0,0,0,3,0,0
+Hampton,Failsafe,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,State Treasurer,,Curtis Loftis,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,State Treasurer,,Curtis Loftis,REP,18,2,0,0,0,2,14
+Hampton,GARNETT,State Treasurer,,Vincent Coe,DEM,68,28,0,0,0,3,37
+Hampton,GARNETT,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GIFFORD,State Treasurer,,Curtis Loftis,REP,14,4,0,0,0,0,10
+Hampton,GIFFORD,State Treasurer,,Vincent Coe,DEM,158,51,0,0,0,8,99
+Hampton,GIFFORD,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,State Treasurer,,Curtis Loftis,REP,275,160,0,0,0,6,109
+Hampton,HAMPTON COURTHOUSE NO.1,State Treasurer,,Vincent Coe,DEM,264,175,0,0,0,16,73
+Hampton,HAMPTON COURTHOUSE NO.1,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,HAMPTON COURTHOUSE NO.2,State Treasurer,,Curtis Loftis,REP,437,244,0,0,0,12,181
+Hampton,HAMPTON COURTHOUSE NO.2,State Treasurer,,Vincent Coe,DEM,366,237,0,0,0,23,106
+Hampton,HAMPTON COURTHOUSE NO.2,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HOPEWELL,State Treasurer,,Curtis Loftis,REP,141,19,0,0,0,3,119
+Hampton,HOPEWELL,State Treasurer,,Vincent Coe,DEM,16,6,0,0,0,1,9
+Hampton,HOPEWELL,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HORSE GALL,State Treasurer,,Curtis Loftis,REP,53,28,0,0,0,0,25
+Hampton,HORSE GALL,State Treasurer,,Vincent Coe,DEM,2,0,0,0,0,0,2
+Hampton,HORSE GALL,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Provisional,State Treasurer,,Curtis Loftis,REP,8,0,0,8,0,0,0
+Hampton,Provisional,State Treasurer,,Vincent Coe,DEM,14,0,0,14,0,0,0
+Hampton,Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,State Treasurer,,Curtis Loftis,REP,21,6,0,0,0,0,15
+Hampton,RIVERS MILL,State Treasurer,,Vincent Coe,DEM,23,3,0,0,0,1,19
+Hampton,RIVERS MILL,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,State Treasurer,,Curtis Loftis,REP,27,7,0,0,0,0,20
+Hampton,SCOTIA,State Treasurer,,Vincent Coe,DEM,138,76,0,0,0,4,58
+Hampton,SCOTIA,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,State Treasurer,,Curtis Loftis,REP,357,175,0,0,0,2,180
+Hampton,VARNVILLE,State Treasurer,,Vincent Coe,DEM,616,388,0,0,0,20,208
+Hampton,VARNVILLE,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,YEMASSEE,State Treasurer,,Curtis Loftis,REP,167,80,0,0,0,0,87
+Hampton,YEMASSEE,State Treasurer,,Vincent Coe,DEM,366,230,0,0,0,5,131
+Hampton,YEMASSEE,State Treasurer,,Write-In,NON,2,2,0,0,0,0,0
+Hampton,BLACK CREEK,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Hampton,BLACK CREEK,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,BLACK CREEK,Straight Party,,Republican,REP,51,23,0,0,0,0,28
+Hampton,BLACK CREEK,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,BLACK CREEK,Straight Party,,Democratic,DEM,31,23,0,0,0,0,8
+Hampton,BLACK CREEK,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,BONNETT,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Hampton,BONNETT,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Hampton,BONNETT,Straight Party,,Republican,REP,155,44,0,0,0,1,110
+Hampton,BONNETT,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,BONNETT,Straight Party,,Democratic,DEM,103,59,0,0,0,0,44
+Hampton,BONNETT,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,BRUNSON,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Hampton,BRUNSON,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Hampton,BRUNSON,Straight Party,,Republican,REP,77,22,0,0,0,1,54
+Hampton,BRUNSON,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,BRUNSON,Straight Party,,Democratic,DEM,100,53,0,0,0,5,42
+Hampton,BRUNSON,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,Straight Party,,Republican,REP,83,14,0,0,0,0,69
+Hampton,CROCKET-MILEY,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,Straight Party,,Democratic,DEM,82,52,0,0,0,4,26
+Hampton,CROCKET-MILEY,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,CUMMINGS,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Hampton,CUMMINGS,Straight Party,,Green,GRN,2,1,0,0,0,0,1
+Hampton,CUMMINGS,Straight Party,,Republican,REP,134,41,0,0,0,2,91
+Hampton,CUMMINGS,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,CUMMINGS,Straight Party,,Democratic,DEM,185,105,0,0,0,9,71
+Hampton,CUMMINGS,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,EARLY BRANCH,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Hampton,EARLY BRANCH,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,EARLY BRANCH,Straight Party,,Republican,REP,41,18,0,0,0,0,23
+Hampton,EARLY BRANCH,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,EARLY BRANCH,Straight Party,,Democratic,DEM,101,61,0,0,0,5,35
+Hampton,EARLY BRANCH,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,ESTILL,Straight Party,,United Citizens,UNC,8,3,0,0,0,0,5
+Hampton,ESTILL,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Hampton,ESTILL,Straight Party,,Republican,REP,109,47,0,0,0,2,60
+Hampton,ESTILL,Straight Party,,Libertarian,LIB,2,1,0,0,0,0,1
+Hampton,ESTILL,Straight Party,,Democratic,DEM,650,373,0,0,0,53,224
+Hampton,ESTILL,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,FURMAN,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Hampton,FURMAN,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Hampton,FURMAN,Straight Party,,Republican,REP,39,5,0,0,0,0,34
+Hampton,FURMAN,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,FURMAN,Straight Party,,Democratic,DEM,93,31,0,0,0,4,58
+Hampton,FURMAN,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,Failsafe,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Hampton,Failsafe,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,Failsafe,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+Hampton,Failsafe,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,Failsafe,Straight Party,,Democratic,DEM,3,0,0,0,3,0,0
+Hampton,Failsafe,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Straight Party,,Democratic,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,GARNETT,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Hampton,GARNETT,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,GARNETT,Straight Party,,Republican,REP,9,2,0,0,0,1,6
+Hampton,GARNETT,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,GARNETT,Straight Party,,Democratic,DEM,58,25,0,0,0,0,33
+Hampton,GARNETT,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,GIFFORD,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Hampton,GIFFORD,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,GIFFORD,Straight Party,,Republican,REP,9,3,0,0,0,0,6
+Hampton,GIFFORD,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,GIFFORD,Straight Party,,Democratic,DEM,144,47,0,0,0,4,93
+Hampton,GIFFORD,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,Straight Party,,United Citizens,UNC,3,2,0,0,0,0,1
+Hampton,HAMPTON COURTHOUSE NO.1,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,Straight Party,,Republican,REP,162,98,0,0,0,5,59
+Hampton,HAMPTON COURTHOUSE NO.1,Straight Party,,Libertarian,LIB,1,1,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,Straight Party,,Democratic,DEM,191,127,0,0,0,8,56
+Hampton,HAMPTON COURTHOUSE NO.1,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,Straight Party,,Republican,REP,222,121,0,0,0,4,97
+Hampton,HAMPTON COURTHOUSE NO.2,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,Straight Party,,Democratic,DEM,255,173,0,0,0,12,70
+Hampton,HAMPTON COURTHOUSE NO.2,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,HOPEWELL,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Hampton,HOPEWELL,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,HOPEWELL,Straight Party,,Republican,REP,72,10,0,0,0,0,62
+Hampton,HOPEWELL,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,HOPEWELL,Straight Party,,Democratic,DEM,14,6,0,0,0,1,7
+Hampton,HOPEWELL,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Straight Party,,Republican,REP,24,13,0,0,0,0,11
+Hampton,HORSE GALL,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,HORSE GALL,Straight Party,,Democratic,DEM,2,0,0,0,0,0,2
+Hampton,HORSE GALL,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Hampton,Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,Provisional,Straight Party,,Republican,REP,4,0,0,4,0,0,0
+Hampton,Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,Provisional,Straight Party,,Democratic,DEM,10,0,0,10,0,0,0
+Hampton,Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Hampton,RIVERS MILL,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Straight Party,,Republican,REP,16,4,0,0,0,0,12
+Hampton,RIVERS MILL,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,Straight Party,,Democratic,DEM,19,3,0,0,0,1,15
+Hampton,RIVERS MILL,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,SCOTIA,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+Hampton,SCOTIA,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,SCOTIA,Straight Party,,Republican,REP,10,3,0,0,0,0,7
+Hampton,SCOTIA,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Hampton,SCOTIA,Straight Party,,Democratic,DEM,116,64,0,0,0,2,50
+Hampton,SCOTIA,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+Hampton,VARNVILLE,Straight Party,,Green,GRN,3,1,0,0,0,0,2
+Hampton,VARNVILLE,Straight Party,,Republican,REP,174,84,0,0,0,0,90
+Hampton,VARNVILLE,Straight Party,,Libertarian,LIB,2,1,0,0,0,0,1
+Hampton,VARNVILLE,Straight Party,,Democratic,DEM,470,300,0,0,0,9,161
+Hampton,VARNVILLE,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,YEMASSEE,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Hampton,YEMASSEE,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Hampton,YEMASSEE,Straight Party,,Republican,REP,106,51,0,0,0,0,55
+Hampton,YEMASSEE,Straight Party,,Libertarian,LIB,3,1,0,0,0,0,2
+Hampton,YEMASSEE,Straight Party,,Democratic,DEM,285,183,0,0,0,3,99
+Hampton,YEMASSEE,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Hampton,BLACK CREEK,U.S. House,6,John Peterson,REP,110,43,0,0,0,0,67
+Hampton,BLACK CREEK,U.S. House,6,James E Jim Clyburn,DEM,48,30,0,0,0,1,17
+Hampton,BLACK CREEK,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,U.S. House,6,John Peterson,REP,306,89,0,0,0,1,216
+Hampton,BONNETT,U.S. House,6,James E Jim Clyburn,DEM,144,81,0,0,0,2,61
+Hampton,BONNETT,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BRUNSON,U.S. House,6,John Peterson,REP,171,39,0,0,0,5,127
+Hampton,BRUNSON,U.S. House,6,James E Jim Clyburn,DEM,149,78,0,0,0,6,65
+Hampton,BRUNSON,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,U.S. House,6,John Peterson,REP,164,26,0,0,0,1,137
+Hampton,CROCKET-MILEY,U.S. House,6,James E Jim Clyburn,DEM,110,62,0,0,0,6,42
+Hampton,CROCKET-MILEY,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CUMMINGS,U.S. House,6,John Peterson,REP,205,67,0,0,0,2,136
+Hampton,CUMMINGS,U.S. House,6,James E Jim Clyburn,DEM,250,142,0,0,0,15,93
+Hampton,CUMMINGS,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,EARLY BRANCH,U.S. House,6,John Peterson,REP,81,34,0,0,0,0,47
+Hampton,EARLY BRANCH,U.S. House,6,James E Jim Clyburn,DEM,135,81,0,0,0,7,47
+Hampton,EARLY BRANCH,U.S. House,6,Write-In,NON,1,0,0,0,0,0,1
+Hampton,ESTILL,U.S. House,6,John Peterson,REP,219,82,0,0,0,8,129
+Hampton,ESTILL,U.S. House,6,James E Jim Clyburn,DEM,796,432,0,0,0,76,288
+Hampton,ESTILL,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,FURMAN,U.S. House,6,John Peterson,REP,70,9,0,0,0,0,61
+Hampton,FURMAN,U.S. House,6,James E Jim Clyburn,DEM,117,35,0,0,0,5,77
+Hampton,FURMAN,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,U.S. House,6,John Peterson,REP,1,0,0,0,1,0,0
+Hampton,Failsafe,U.S. House,6,James E Jim Clyburn,DEM,3,0,0,0,3,0,0
+Hampton,Failsafe,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,U.S. House,6,John Peterson,REP,20,2,0,0,0,2,16
+Hampton,GARNETT,U.S. House,6,James E Jim Clyburn,DEM,65,28,0,0,0,3,34
+Hampton,GARNETT,U.S. House,6,Write-In,NON,1,0,0,0,0,0,1
+Hampton,GIFFORD,U.S. House,6,John Peterson,REP,14,4,0,0,0,0,10
+Hampton,GIFFORD,U.S. House,6,James E Jim Clyburn,DEM,158,51,0,0,0,8,99
+Hampton,GIFFORD,U.S. House,6,Write-In,NON,1,0,0,0,0,0,1
+Hampton,HAMPTON COURTHOUSE NO.1,U.S. House,6,John Peterson,REP,269,154,0,0,0,6,109
+Hampton,HAMPTON COURTHOUSE NO.1,U.S. House,6,James E Jim Clyburn,DEM,272,181,0,0,0,16,75
+Hampton,HAMPTON COURTHOUSE NO.1,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,U.S. House,6,John Peterson,REP,412,226,0,0,0,10,176
+Hampton,HAMPTON COURTHOUSE NO.2,U.S. House,6,James E Jim Clyburn,DEM,389,259,0,0,0,25,105
+Hampton,HAMPTON COURTHOUSE NO.2,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HOPEWELL,U.S. House,6,John Peterson,REP,135,19,0,0,0,3,113
+Hampton,HOPEWELL,U.S. House,6,James E Jim Clyburn,DEM,25,7,0,0,0,1,17
+Hampton,HOPEWELL,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HORSE GALL,U.S. House,6,John Peterson,REP,51,26,0,0,0,0,25
+Hampton,HORSE GALL,U.S. House,6,James E Jim Clyburn,DEM,4,2,0,0,0,0,2
+Hampton,HORSE GALL,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Provisional,U.S. House,6,John Peterson,REP,8,0,0,8,0,0,0
+Hampton,Provisional,U.S. House,6,James E Jim Clyburn,DEM,14,0,0,14,0,0,0
+Hampton,Provisional,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,U.S. House,6,John Peterson,REP,21,6,0,0,0,0,15
+Hampton,RIVERS MILL,U.S. House,6,James E Jim Clyburn,DEM,22,3,0,0,0,1,18
+Hampton,RIVERS MILL,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,U.S. House,6,John Peterson,REP,22,4,0,0,0,0,18
+Hampton,SCOTIA,U.S. House,6,James E Jim Clyburn,DEM,143,79,0,0,0,4,60
+Hampton,SCOTIA,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,U.S. House,6,John Peterson,REP,338,159,0,0,0,2,177
+Hampton,VARNVILLE,U.S. House,6,James E Jim Clyburn,DEM,637,404,0,0,0,20,213
+Hampton,VARNVILLE,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Hampton,YEMASSEE,U.S. House,6,John Peterson,REP,161,78,0,0,0,0,83
+Hampton,YEMASSEE,U.S. House,6,James E Jim Clyburn,DEM,368,231,0,0,0,5,132
+Hampton,YEMASSEE,U.S. House,6,Write-In,NON,3,2,0,0,0,0,1
+Hampton,BLACK CREEK,U.S. Senate,,Darline Graham,REP,106,41,0,0,0,0,65
+Hampton,BLACK CREEK,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Hampton,BLACK CREEK,U.S. Senate,,Annie Andrews,DEM,47,29,0,0,0,1,17
+Hampton,BLACK CREEK,U.S. Senate,,Mark Hackett,CON,3,1,0,0,0,0,2
+Hampton,BLACK CREEK,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,BONNETT,U.S. Senate,,Darline Graham,REP,298,92,0,0,0,1,205
+Hampton,BONNETT,U.S. Senate,,Kasie Whitener,LIB,2,2,0,0,0,0,0
+Hampton,BONNETT,U.S. Senate,,Annie Andrews,DEM,149,79,0,0,0,2,68
+Hampton,BONNETT,U.S. Senate,,Mark Hackett,CON,4,0,0,0,0,0,4
+Hampton,BONNETT,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,BRUNSON,U.S. Senate,,Darline Graham,REP,173,41,0,0,0,5,127
+Hampton,BRUNSON,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Hampton,BRUNSON,U.S. Senate,,Annie Andrews,DEM,148,77,0,0,0,6,65
+Hampton,BRUNSON,U.S. Senate,,Mark Hackett,CON,2,0,0,0,0,0,2
+Hampton,BRUNSON,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,U.S. Senate,,Darline Graham,REP,160,25,0,0,0,1,134
+Hampton,CROCKET-MILEY,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Hampton,CROCKET-MILEY,U.S. Senate,,Annie Andrews,DEM,109,61,0,0,0,6,42
+Hampton,CROCKET-MILEY,U.S. Senate,,Mark Hackett,CON,4,1,0,0,0,0,3
+Hampton,CROCKET-MILEY,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,CUMMINGS,U.S. Senate,,Darline Graham,REP,199,65,0,0,0,2,132
+Hampton,CUMMINGS,U.S. Senate,,Kasie Whitener,LIB,3,2,0,0,0,0,1
+Hampton,CUMMINGS,U.S. Senate,,Annie Andrews,DEM,247,138,0,0,0,14,95
+Hampton,CUMMINGS,U.S. Senate,,Mark Hackett,CON,5,3,0,0,0,1,1
+Hampton,CUMMINGS,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,EARLY BRANCH,U.S. Senate,,Darline Graham,REP,80,35,0,0,0,1,44
+Hampton,EARLY BRANCH,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Hampton,EARLY BRANCH,U.S. Senate,,Annie Andrews,DEM,136,81,0,0,0,6,49
+Hampton,EARLY BRANCH,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Hampton,EARLY BRANCH,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,ESTILL,U.S. Senate,,Darline Graham,REP,199,79,0,0,0,7,113
+Hampton,ESTILL,U.S. Senate,,Kasie Whitener,LIB,6,1,0,0,0,0,5
+Hampton,ESTILL,U.S. Senate,,Annie Andrews,DEM,810,434,0,0,0,76,300
+Hampton,ESTILL,U.S. Senate,,Mark Hackett,CON,3,1,0,0,0,1,1
+Hampton,ESTILL,U.S. Senate,,Write-In,NON,1,1,0,0,0,0,0
+Hampton,FURMAN,U.S. Senate,,Darline Graham,REP,68,9,0,0,0,0,59
+Hampton,FURMAN,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Hampton,FURMAN,U.S. Senate,,Annie Andrews,DEM,123,36,0,0,0,5,82
+Hampton,FURMAN,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Hampton,FURMAN,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Hampton,Failsafe,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Hampton,Failsafe,U.S. Senate,,Annie Andrews,DEM,4,0,0,0,4,0,0
+Hampton,Failsafe,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Hampton,Failsafe,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Hampton,Failsafe Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GARNETT,U.S. Senate,,Darline Graham,REP,17,2,0,0,0,2,13
+Hampton,GARNETT,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Hampton,GARNETT,U.S. Senate,,Annie Andrews,DEM,68,27,0,0,0,3,38
+Hampton,GARNETT,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Hampton,GARNETT,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,GIFFORD,U.S. Senate,,Darline Graham,REP,13,5,0,0,0,0,8
+Hampton,GIFFORD,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Hampton,GIFFORD,U.S. Senate,,Annie Andrews,DEM,160,51,0,0,0,8,101
+Hampton,GIFFORD,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Hampton,GIFFORD,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,U.S. Senate,,Darline Graham,REP,255,149,0,0,0,6,100
+Hampton,HAMPTON COURTHOUSE NO.1,U.S. Senate,,Kasie Whitener,LIB,5,5,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.1,U.S. Senate,,Annie Andrews,DEM,276,180,0,0,0,16,80
+Hampton,HAMPTON COURTHOUSE NO.1,U.S. Senate,,Mark Hackett,CON,5,1,0,0,0,0,4
+Hampton,HAMPTON COURTHOUSE NO.1,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,HAMPTON COURTHOUSE NO.2,U.S. Senate,,Darline Graham,REP,384,214,0,0,0,8,162
+Hampton,HAMPTON COURTHOUSE NO.2,U.S. Senate,,Kasie Whitener,LIB,4,2,0,0,0,1,1
+Hampton,HAMPTON COURTHOUSE NO.2,U.S. Senate,,Annie Andrews,DEM,406,260,0,0,0,26,120
+Hampton,HAMPTON COURTHOUSE NO.2,U.S. Senate,,Mark Hackett,CON,4,3,0,0,0,0,1
+Hampton,HAMPTON COURTHOUSE NO.2,U.S. Senate,,Write-In,NON,2,2,0,0,0,0,0
+Hampton,HOPEWELL,U.S. Senate,,Darline Graham,REP,136,18,0,0,0,3,115
+Hampton,HOPEWELL,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Hampton,HOPEWELL,U.S. Senate,,Annie Andrews,DEM,25,8,0,0,0,1,16
+Hampton,HOPEWELL,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Hampton,HOPEWELL,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Hampton,HORSE GALL,U.S. Senate,,Darline Graham,REP,51,26,0,0,0,0,25
+Hampton,HORSE GALL,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Hampton,HORSE GALL,U.S. Senate,,Annie Andrews,DEM,4,2,0,0,0,0,2
+Hampton,HORSE GALL,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Hampton,HORSE GALL,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,Provisional,U.S. Senate,,Darline Graham,REP,7,0,0,7,0,0,0
+Hampton,Provisional,U.S. Senate,,Kasie Whitener,LIB,1,0,0,1,0,0,0
+Hampton,Provisional,U.S. Senate,,Annie Andrews,DEM,14,0,0,14,0,0,0
+Hampton,Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Hampton,Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,U.S. Senate,,Darline Graham,REP,20,6,0,0,0,0,14
+Hampton,RIVERS MILL,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Hampton,RIVERS MILL,U.S. Senate,,Annie Andrews,DEM,23,3,0,0,0,1,19
+Hampton,RIVERS MILL,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Hampton,RIVERS MILL,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,SCOTIA,U.S. Senate,,Darline Graham,REP,22,4,0,0,0,0,18
+Hampton,SCOTIA,U.S. Senate,,Kasie Whitener,LIB,2,0,0,0,0,0,2
+Hampton,SCOTIA,U.S. Senate,,Annie Andrews,DEM,145,81,0,0,0,4,60
+Hampton,SCOTIA,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Hampton,SCOTIA,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,VARNVILLE,U.S. Senate,,Darline Graham,REP,322,150,0,0,0,2,170
+Hampton,VARNVILLE,U.S. Senate,,Kasie Whitener,LIB,10,6,0,0,0,0,4
+Hampton,VARNVILLE,U.S. Senate,,Annie Andrews,DEM,637,404,0,0,0,20,213
+Hampton,VARNVILLE,U.S. Senate,,Mark Hackett,CON,6,3,0,0,0,0,3
+Hampton,VARNVILLE,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Hampton,YEMASSEE,U.S. Senate,,Darline Graham,REP,149,75,0,0,0,0,74
+Hampton,YEMASSEE,U.S. Senate,,Kasie Whitener,LIB,8,1,0,0,0,0,7
+Hampton,YEMASSEE,U.S. Senate,,Annie Andrews,DEM,374,235,0,0,0,5,134
+Hampton,YEMASSEE,U.S. Senate,,Mark Hackett,CON,4,2,0,0,0,0,2
+Hampton,YEMASSEE,U.S. Senate,,Write-In,NON,3,2,0,0,0,0,1

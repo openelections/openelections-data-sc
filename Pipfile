@@ -6,8 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-clarify = {git = "git://github.com/openelections/clarify.git"}
+clarify = "*"
 requests = "*"
+python-dateutil = "*"
 
 [requires]
 python_version = "3.8"

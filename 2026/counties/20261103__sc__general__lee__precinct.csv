@@ -1,0 +1,1403 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Lee,ASHLAND/STOKES BRIDGE,Attorney General,,David Stumbo,REP,205,50,0,0,0,2,153
+Lee,ASHLAND/STOKES BRIDGE,Attorney General,,Richard Hricik,DEM,66,27,0,0,0,3,36
+Lee,ASHLAND/STOKES BRIDGE,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHWOOD,Attorney General,,David Stumbo,REP,225,54,0,0,0,0,171
+Lee,ASHWOOD,Attorney General,,Richard Hricik,DEM,127,62,0,0,0,0,65
+Lee,ASHWOOD,Attorney General,,Write-In,NON,1,1,0,0,0,0,0
+Lee,BISHOPVILLE 1,Attorney General,,David Stumbo,REP,51,26,0,0,0,0,25
+Lee,BISHOPVILLE 1,Attorney General,,Richard Hricik,DEM,334,217,0,0,0,6,111
+Lee,BISHOPVILLE 1,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,Attorney General,,David Stumbo,REP,63,22,0,0,0,0,41
+Lee,BISHOPVILLE 2,Attorney General,,Richard Hricik,DEM,314,207,0,0,0,7,100
+Lee,BISHOPVILLE 2,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 3,Attorney General,,David Stumbo,REP,198,97,0,0,0,2,99
+Lee,BISHOPVILLE 3,Attorney General,,Richard Hricik,DEM,265,199,0,0,0,5,61
+Lee,BISHOPVILLE 3,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Lee,BISHOPVILLE 4,Attorney General,,David Stumbo,REP,97,58,0,0,0,0,39
+Lee,BISHOPVILLE 4,Attorney General,,Richard Hricik,DEM,437,301,0,0,0,7,129
+Lee,BISHOPVILLE 4,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CEDAR CREEK,Attorney General,,David Stumbo,REP,105,26,0,0,0,0,79
+Lee,CEDAR CREEK,Attorney General,,Richard Hricik,DEM,71,39,0,0,0,4,28
+Lee,CEDAR CREEK,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CYPRESS,Attorney General,,David Stumbo,REP,75,29,0,0,0,6,40
+Lee,CYPRESS,Attorney General,,Richard Hricik,DEM,211,133,0,0,0,0,78
+Lee,CYPRESS,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Lee,ELLIOTT,Attorney General,,David Stumbo,REP,36,19,0,0,0,0,17
+Lee,ELLIOTT,Attorney General,,Richard Hricik,DEM,231,126,0,0,0,3,102
+Lee,ELLIOTT,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Lee,Failsafe,Attorney General,,Richard Hricik,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Attorney General,,Richard Hricik,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,Attorney General,,David Stumbo,REP,83,24,0,0,0,1,58
+Lee,HICKORY HILL,Attorney General,,Richard Hricik,DEM,106,69,0,0,0,1,36
+Lee,HICKORY HILL,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,IONIA,Attorney General,,David Stumbo,REP,170,58,0,0,0,2,110
+Lee,IONIA,Attorney General,,Richard Hricik,DEM,176,84,0,0,0,7,85
+Lee,IONIA,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,LYNCHBURG,Attorney General,,David Stumbo,REP,62,20,0,0,0,0,42
+Lee,LYNCHBURG,Attorney General,,Richard Hricik,DEM,285,139,0,0,0,4,142
+Lee,LYNCHBURG,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MANVILLE,Attorney General,,David Stumbo,REP,76,28,0,0,0,0,48
+Lee,MANVILLE,Attorney General,,Richard Hricik,DEM,255,138,0,0,0,2,115
+Lee,MANVILLE,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MT. CLIO,Attorney General,,David Stumbo,REP,28,16,0,0,0,0,12
+Lee,MT. CLIO,Attorney General,,Richard Hricik,DEM,116,80,0,0,0,1,35
+Lee,MT. CLIO,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Lee,Provisional,Attorney General,,Richard Hricik,DEM,0,0,0,0,0,0,0
+Lee,Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Attorney General,,David Stumbo,REP,102,20,0,0,0,1,81
+Lee,RATTLESNAKE SPRINGS,Attorney General,,Richard Hricik,DEM,88,35,0,0,0,1,52
+Lee,RATTLESNAKE SPRINGS,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SCHROCKS MILL/LUCKNOW,Attorney General,,David Stumbo,REP,109,19,0,0,0,3,87
+Lee,SCHROCKS MILL/LUCKNOW,Attorney General,,Richard Hricik,DEM,113,52,0,0,0,1,60
+Lee,SCHROCKS MILL/LUCKNOW,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,Attorney General,,David Stumbo,REP,45,9,0,0,0,2,34
+Lee,SOUTH LYNCHBURG,Attorney General,,Richard Hricik,DEM,132,43,0,0,0,5,84
+Lee,SOUTH LYNCHBURG,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SPRING HILL,Attorney General,,David Stumbo,REP,103,25,0,0,0,0,78
+Lee,SPRING HILL,Attorney General,,Richard Hricik,DEM,282,127,0,0,0,4,151
+Lee,SPRING HILL,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. CHARLES,Attorney General,,David Stumbo,REP,139,53,0,0,0,0,86
+Lee,ST. CHARLES,Attorney General,,Richard Hricik,DEM,391,254,0,0,0,15,122
+Lee,ST. CHARLES,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. MATTHEWS,Attorney General,,David Stumbo,REP,69,21,0,0,0,2,46
+Lee,ST. MATTHEWS,Attorney General,,Richard Hricik,DEM,29,11,0,0,0,0,18
+Lee,ST. MATTHEWS,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,Attorney General,,David Stumbo,REP,39,9,0,0,0,0,30
+Lee,TURKEY CREEK,Attorney General,,Richard Hricik,DEM,52,32,0,0,0,1,19
+Lee,TURKEY CREEK,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,WOODROW,Attorney General,,David Stumbo,REP,33,11,0,0,0,0,22
+Lee,WOODROW,Attorney General,,Richard Hricik,DEM,98,58,0,0,0,2,38
+Lee,WOODROW,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Lee,ASHLAND/STOKES BRIDGE,Auditor,,Cecil LaVear Stevens,DEM,161,55,0,0,0,3,103
+Lee,ASHLAND/STOKES BRIDGE,Auditor,,Write-In,NON,7,0,0,0,0,0,7
+Lee,ASHWOOD,Auditor,,Cecil LaVear Stevens,DEM,249,83,0,0,0,0,166
+Lee,ASHWOOD,Auditor,,Write-In,NON,8,1,0,0,0,0,7
+Lee,BISHOPVILLE 1,Auditor,,Cecil LaVear Stevens,DEM,357,230,0,0,0,5,122
+Lee,BISHOPVILLE 1,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Lee,BISHOPVILLE 2,Auditor,,Cecil LaVear Stevens,DEM,343,211,0,0,0,7,125
+Lee,BISHOPVILLE 2,Auditor,,Write-In,NON,4,1,0,0,0,0,3
+Lee,BISHOPVILLE 3,Auditor,,Cecil LaVear Stevens,DEM,378,253,0,0,0,5,120
+Lee,BISHOPVILLE 3,Auditor,,Write-In,NON,2,1,0,0,0,0,1
+Lee,BISHOPVILLE 4,Auditor,,Cecil LaVear Stevens,DEM,496,337,0,0,0,6,153
+Lee,BISHOPVILLE 4,Auditor,,Write-In,NON,3,1,0,0,0,0,2
+Lee,CEDAR CREEK,Auditor,,Cecil LaVear Stevens,DEM,130,56,0,0,0,4,70
+Lee,CEDAR CREEK,Auditor,,Write-In,NON,3,0,0,0,0,0,3
+Lee,CYPRESS,Auditor,,Cecil LaVear Stevens,DEM,253,148,0,0,0,5,100
+Lee,CYPRESS,Auditor,,Write-In,NON,3,1,0,0,0,0,2
+Lee,ELLIOTT,Auditor,,Cecil LaVear Stevens,DEM,255,138,0,0,0,3,114
+Lee,ELLIOTT,Auditor,,Write-In,NON,1,1,0,0,0,0,0
+Lee,Failsafe,Auditor,,Cecil LaVear Stevens,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Auditor,,Cecil LaVear Stevens,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,Auditor,,Cecil LaVear Stevens,DEM,159,82,0,0,0,2,75
+Lee,HICKORY HILL,Auditor,,Write-In,NON,1,1,0,0,0,0,0
+Lee,IONIA,Auditor,,Cecil LaVear Stevens,DEM,277,116,0,0,0,9,152
+Lee,IONIA,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Lee,LYNCHBURG,Auditor,,Cecil LaVear Stevens,DEM,327,151,0,0,0,4,172
+Lee,LYNCHBURG,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MANVILLE,Auditor,,Cecil LaVear Stevens,DEM,292,150,0,0,0,1,141
+Lee,MANVILLE,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Lee,MT. CLIO,Auditor,,Cecil LaVear Stevens,DEM,132,87,0,0,0,1,44
+Lee,MT. CLIO,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,Auditor,,Cecil LaVear Stevens,DEM,0,0,0,0,0,0,0
+Lee,Provisional,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Auditor,,Cecil LaVear Stevens,DEM,158,49,0,0,0,1,108
+Lee,RATTLESNAKE SPRINGS,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Lee,SCHROCKS MILL/LUCKNOW,Auditor,,Cecil LaVear Stevens,DEM,171,66,0,0,0,3,102
+Lee,SCHROCKS MILL/LUCKNOW,Auditor,,Write-In,NON,3,0,0,0,0,0,3
+Lee,SOUTH LYNCHBURG,Auditor,,Cecil LaVear Stevens,DEM,161,51,0,0,0,6,104
+Lee,SOUTH LYNCHBURG,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Lee,SPRING HILL,Auditor,,Cecil LaVear Stevens,DEM,330,134,0,0,0,4,192
+Lee,SPRING HILL,Auditor,,Write-In,NON,4,1,0,0,0,0,3
+Lee,ST. CHARLES,Auditor,,Cecil LaVear Stevens,DEM,476,290,0,0,0,15,171
+Lee,ST. CHARLES,Auditor,,Write-In,NON,2,0,0,0,0,0,2
+Lee,ST. MATTHEWS,Auditor,,Cecil LaVear Stevens,DEM,73,23,0,0,0,0,50
+Lee,ST. MATTHEWS,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,Auditor,,Cecil LaVear Stevens,DEM,69,34,0,0,0,1,34
+Lee,TURKEY CREEK,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Lee,WOODROW,Auditor,,Cecil LaVear Stevens,DEM,113,64,0,0,0,2,47
+Lee,WOODROW,Auditor,,Write-In,NON,2,0,0,0,0,0,2
+Lee,ASHLAND/STOKES BRIDGE,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,141,48,0,0,0,2,91
+Lee,ASHLAND/STOKES BRIDGE,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,95,16,0,0,0,2,77
+Lee,ASHWOOD,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,212,71,0,0,0,0,141
+Lee,ASHWOOD,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,95,29,0,0,0,0,66
+Lee,BISHOPVILLE 1,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,248,162,0,0,0,3,83
+Lee,BISHOPVILLE 1,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,74,48,0,0,0,0,26
+Lee,BISHOPVILLE 2,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,221,141,0,0,0,5,75
+Lee,BISHOPVILLE 2,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,75,35,0,0,0,1,39
+Lee,BISHOPVILLE 3,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,312,206,0,0,0,2,104
+Lee,BISHOPVILLE 3,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,94,56,0,0,0,2,36
+Lee,BISHOPVILLE 4,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,336,235,0,0,0,4,97
+Lee,BISHOPVILLE 4,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,106,65,0,0,0,1,40
+Lee,CEDAR CREEK,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,111,38,0,0,0,0,73
+Lee,CEDAR CREEK,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,41,18,0,0,0,2,21
+Lee,CYPRESS,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,150,85,0,0,0,6,59
+Lee,CYPRESS,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,82,42,0,0,0,0,40
+Lee,ELLIOTT,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,152,90,0,0,0,2,60
+Lee,ELLIOTT,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,66,30,0,0,0,0,36
+Lee,Failsafe,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,0,0,0,0,0,0,0
+Lee,Failsafe,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,111,52,0,0,0,3,56
+Lee,HICKORY HILL,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,54,29,0,0,0,0,25
+Lee,IONIA,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,186,83,0,0,0,4,99
+Lee,IONIA,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,105,32,0,0,0,4,69
+Lee,LYNCHBURG,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,240,99,0,0,0,2,139
+Lee,LYNCHBURG,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,56,32,0,0,0,2,22
+Lee,MANVILLE,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,182,98,0,0,0,0,84
+Lee,MANVILLE,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,92,43,0,0,0,0,49
+Lee,MT. CLIO,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,86,61,0,0,0,0,25
+Lee,MT. CLIO,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,36,23,0,0,0,0,13
+Lee,Provisional,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,0,0,0,0,0,0,0
+Lee,Provisional,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,119,36,0,0,0,1,82
+Lee,RATTLESNAKE SPRINGS,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,52,14,0,0,0,0,38
+Lee,SCHROCKS MILL/LUCKNOW,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,117,42,0,0,0,3,72
+Lee,SCHROCKS MILL/LUCKNOW,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,70,22,0,0,0,1,47
+Lee,SOUTH LYNCHBURG,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,118,33,0,0,0,4,81
+Lee,SOUTH LYNCHBURG,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,38,12,0,0,0,0,26
+Lee,SPRING HILL,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,249,90,0,0,0,4,155
+Lee,SPRING HILL,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,81,31,0,0,0,0,50
+Lee,ST. CHARLES,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,328,197,0,0,0,7,124
+Lee,ST. CHARLES,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,126,63,0,0,0,6,57
+Lee,ST. MATTHEWS,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,51,15,0,0,0,2,34
+Lee,ST. MATTHEWS,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,27,12,0,0,0,0,15
+Lee,TURKEY CREEK,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,50,21,0,0,0,1,28
+Lee,TURKEY CREEK,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,24,9,0,0,0,0,15
+Lee,WOODROW,Capital Project Sales Tax Referendum,,"Yes, In Favor of the Question",NON,90,46,0,0,0,2,42
+Lee,WOODROW,Capital Project Sales Tax Referendum,,"No, Opposed to the Question",NON,24,13,0,0,0,0,11
+Lee,ASHLAND/STOKES BRIDGE,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Lee,ASHLAND/STOKES BRIDGE,Commissioner of Agriculture,,Cody Simpson,REP,203,50,0,0,0,2,151
+Lee,ASHLAND/STOKES BRIDGE,Commissioner of Agriculture,,Michael Sullens,LIB,2,0,0,0,0,0,2
+Lee,ASHLAND/STOKES BRIDGE,Commissioner of Agriculture,,DeShawn Blanding,DEM,65,27,0,0,0,3,35
+Lee,ASHLAND/STOKES BRIDGE,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHWOOD,Commissioner of Agriculture,,Chris Nelums,UNC,7,2,0,0,0,0,5
+Lee,ASHWOOD,Commissioner of Agriculture,,Cody Simpson,REP,230,53,0,0,0,0,177
+Lee,ASHWOOD,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Lee,ASHWOOD,Commissioner of Agriculture,,DeShawn Blanding,DEM,116,61,0,0,0,0,55
+Lee,ASHWOOD,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 1,Commissioner of Agriculture,,Chris Nelums,UNC,1,1,0,0,0,0,0
+Lee,BISHOPVILLE 1,Commissioner of Agriculture,,Cody Simpson,REP,51,27,0,0,0,0,24
+Lee,BISHOPVILLE 1,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 1,Commissioner of Agriculture,,DeShawn Blanding,DEM,332,215,0,0,0,5,112
+Lee,BISHOPVILLE 1,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,Commissioner of Agriculture,,Chris Nelums,UNC,3,2,0,0,0,0,1
+Lee,BISHOPVILLE 2,Commissioner of Agriculture,,Cody Simpson,REP,57,21,0,0,0,0,36
+Lee,BISHOPVILLE 2,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+Lee,BISHOPVILLE 2,Commissioner of Agriculture,,DeShawn Blanding,DEM,315,204,0,0,0,7,104
+Lee,BISHOPVILLE 2,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 3,Commissioner of Agriculture,,Chris Nelums,UNC,5,2,0,0,0,0,3
+Lee,BISHOPVILLE 3,Commissioner of Agriculture,,Cody Simpson,REP,195,97,0,0,0,2,96
+Lee,BISHOPVILLE 3,Commissioner of Agriculture,,Michael Sullens,LIB,4,2,0,0,0,0,2
+Lee,BISHOPVILLE 3,Commissioner of Agriculture,,DeShawn Blanding,DEM,259,197,0,0,0,5,57
+Lee,BISHOPVILLE 3,Commissioner of Agriculture,,Write-In,NON,5,1,0,0,0,0,4
+Lee,BISHOPVILLE 4,Commissioner of Agriculture,,Chris Nelums,UNC,8,6,0,0,0,0,2
+Lee,BISHOPVILLE 4,Commissioner of Agriculture,,Cody Simpson,REP,89,55,0,0,0,0,34
+Lee,BISHOPVILLE 4,Commissioner of Agriculture,,Michael Sullens,LIB,2,0,0,0,0,0,2
+Lee,BISHOPVILLE 4,Commissioner of Agriculture,,DeShawn Blanding,DEM,437,300,0,0,0,7,130
+Lee,BISHOPVILLE 4,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CEDAR CREEK,Commissioner of Agriculture,,Chris Nelums,UNC,5,3,0,0,0,0,2
+Lee,CEDAR CREEK,Commissioner of Agriculture,,Cody Simpson,REP,103,24,0,0,0,0,79
+Lee,CEDAR CREEK,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+Lee,CEDAR CREEK,Commissioner of Agriculture,,DeShawn Blanding,DEM,71,38,0,0,0,4,29
+Lee,CEDAR CREEK,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CYPRESS,Commissioner of Agriculture,,Chris Nelums,UNC,2,0,0,0,0,0,2
+Lee,CYPRESS,Commissioner of Agriculture,,Cody Simpson,REP,76,31,0,0,0,6,39
+Lee,CYPRESS,Commissioner of Agriculture,,Michael Sullens,LIB,5,3,0,0,0,0,2
+Lee,CYPRESS,Commissioner of Agriculture,,DeShawn Blanding,DEM,205,128,0,0,0,0,77
+Lee,CYPRESS,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ELLIOTT,Commissioner of Agriculture,,Chris Nelums,UNC,2,2,0,0,0,0,0
+Lee,ELLIOTT,Commissioner of Agriculture,,Cody Simpson,REP,37,20,0,0,0,0,17
+Lee,ELLIOTT,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Lee,ELLIOTT,Commissioner of Agriculture,,DeShawn Blanding,DEM,229,123,0,0,0,3,103
+Lee,ELLIOTT,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Lee,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Lee,Failsafe,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Lee,Failsafe,Commissioner of Agriculture,,DeShawn Blanding,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,Commissioner of Agriculture,,Chris Nelums,UNC,2,1,0,0,0,0,1
+Lee,HICKORY HILL,Commissioner of Agriculture,,Cody Simpson,REP,81,25,0,0,0,2,54
+Lee,HICKORY HILL,Commissioner of Agriculture,,Michael Sullens,LIB,2,1,0,0,0,0,1
+Lee,HICKORY HILL,Commissioner of Agriculture,,DeShawn Blanding,DEM,104,66,0,0,0,1,37
+Lee,HICKORY HILL,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Lee,IONIA,Commissioner of Agriculture,,Chris Nelums,UNC,1,1,0,0,0,0,0
+Lee,IONIA,Commissioner of Agriculture,,Cody Simpson,REP,170,58,0,0,0,2,110
+Lee,IONIA,Commissioner of Agriculture,,Michael Sullens,LIB,3,1,0,0,0,0,2
+Lee,IONIA,Commissioner of Agriculture,,DeShawn Blanding,DEM,172,82,0,0,0,7,83
+Lee,IONIA,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,LYNCHBURG,Commissioner of Agriculture,,Chris Nelums,UNC,2,1,0,0,0,0,1
+Lee,LYNCHBURG,Commissioner of Agriculture,,Cody Simpson,REP,62,21,0,0,0,0,41
+Lee,LYNCHBURG,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Lee,LYNCHBURG,Commissioner of Agriculture,,DeShawn Blanding,DEM,283,137,0,0,0,4,142
+Lee,LYNCHBURG,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Lee,MANVILLE,Commissioner of Agriculture,,Chris Nelums,UNC,5,1,0,0,0,0,4
+Lee,MANVILLE,Commissioner of Agriculture,,Cody Simpson,REP,72,26,0,0,0,0,46
+Lee,MANVILLE,Commissioner of Agriculture,,Michael Sullens,LIB,2,1,0,0,0,0,1
+Lee,MANVILLE,Commissioner of Agriculture,,DeShawn Blanding,DEM,255,140,0,0,0,2,113
+Lee,MANVILLE,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Lee,MT. CLIO,Commissioner of Agriculture,,Chris Nelums,UNC,1,1,0,0,0,0,0
+Lee,MT. CLIO,Commissioner of Agriculture,,Cody Simpson,REP,29,16,0,0,0,0,13
+Lee,MT. CLIO,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Lee,MT. CLIO,Commissioner of Agriculture,,DeShawn Blanding,DEM,115,80,0,0,0,1,34
+Lee,MT. CLIO,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Lee,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Lee,Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Lee,Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,0,0,0,0,0,0,0
+Lee,Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Commissioner of Agriculture,,Chris Nelums,UNC,3,0,0,0,0,0,3
+Lee,RATTLESNAKE SPRINGS,Commissioner of Agriculture,,Cody Simpson,REP,99,20,0,0,0,1,78
+Lee,RATTLESNAKE SPRINGS,Commissioner of Agriculture,,Michael Sullens,LIB,2,0,0,0,0,0,2
+Lee,RATTLESNAKE SPRINGS,Commissioner of Agriculture,,DeShawn Blanding,DEM,88,35,0,0,0,1,52
+Lee,RATTLESNAKE SPRINGS,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SCHROCKS MILL/LUCKNOW,Commissioner of Agriculture,,Chris Nelums,UNC,3,1,0,0,0,0,2
+Lee,SCHROCKS MILL/LUCKNOW,Commissioner of Agriculture,,Cody Simpson,REP,111,21,0,0,0,3,87
+Lee,SCHROCKS MILL/LUCKNOW,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Lee,SCHROCKS MILL/LUCKNOW,Commissioner of Agriculture,,DeShawn Blanding,DEM,113,53,0,0,0,1,59
+Lee,SCHROCKS MILL/LUCKNOW,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,Commissioner of Agriculture,,Chris Nelums,UNC,2,0,0,0,0,0,2
+Lee,SOUTH LYNCHBURG,Commissioner of Agriculture,,Cody Simpson,REP,46,9,0,0,0,2,35
+Lee,SOUTH LYNCHBURG,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Lee,SOUTH LYNCHBURG,Commissioner of Agriculture,,DeShawn Blanding,DEM,129,43,0,0,0,5,81
+Lee,SOUTH LYNCHBURG,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SPRING HILL,Commissioner of Agriculture,,Chris Nelums,UNC,3,0,0,0,0,0,3
+Lee,SPRING HILL,Commissioner of Agriculture,,Cody Simpson,REP,101,24,0,0,0,0,77
+Lee,SPRING HILL,Commissioner of Agriculture,,Michael Sullens,LIB,6,2,0,0,0,0,4
+Lee,SPRING HILL,Commissioner of Agriculture,,DeShawn Blanding,DEM,277,125,0,0,0,4,148
+Lee,SPRING HILL,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. CHARLES,Commissioner of Agriculture,,Chris Nelums,UNC,3,1,0,0,0,0,2
+Lee,ST. CHARLES,Commissioner of Agriculture,,Cody Simpson,REP,135,51,0,0,0,0,84
+Lee,ST. CHARLES,Commissioner of Agriculture,,Michael Sullens,LIB,2,1,0,0,0,0,1
+Lee,ST. CHARLES,Commissioner of Agriculture,,DeShawn Blanding,DEM,389,255,0,0,0,14,120
+Lee,ST. CHARLES,Commissioner of Agriculture,,Write-In,NON,2,1,0,0,0,0,1
+Lee,ST. MATTHEWS,Commissioner of Agriculture,,Chris Nelums,UNC,1,1,0,0,0,0,0
+Lee,ST. MATTHEWS,Commissioner of Agriculture,,Cody Simpson,REP,70,21,0,0,0,2,47
+Lee,ST. MATTHEWS,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Lee,ST. MATTHEWS,Commissioner of Agriculture,,DeShawn Blanding,DEM,26,10,0,0,0,0,16
+Lee,ST. MATTHEWS,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Lee,TURKEY CREEK,Commissioner of Agriculture,,Cody Simpson,REP,40,10,0,0,0,0,30
+Lee,TURKEY CREEK,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,Commissioner of Agriculture,,DeShawn Blanding,DEM,50,31,0,0,0,1,18
+Lee,TURKEY CREEK,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,WOODROW,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Lee,WOODROW,Commissioner of Agriculture,,Cody Simpson,REP,33,11,0,0,0,0,22
+Lee,WOODROW,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Lee,WOODROW,Commissioner of Agriculture,,DeShawn Blanding,DEM,99,58,0,0,0,2,39
+Lee,WOODROW,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHLAND/STOKES BRIDGE,Comptroller General,,Mike Burkhold,REP,204,50,0,0,0,2,152
+Lee,ASHLAND/STOKES BRIDGE,Comptroller General,,Tiffany Boozer,DEM,65,27,0,0,0,3,35
+Lee,ASHLAND/STOKES BRIDGE,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHWOOD,Comptroller General,,Mike Burkhold,REP,227,54,0,0,0,0,173
+Lee,ASHWOOD,Comptroller General,,Tiffany Boozer,DEM,124,62,0,0,0,0,62
+Lee,ASHWOOD,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 1,Comptroller General,,Mike Burkhold,REP,52,26,0,0,0,0,26
+Lee,BISHOPVILLE 1,Comptroller General,,Tiffany Boozer,DEM,332,216,0,0,0,6,110
+Lee,BISHOPVILLE 1,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,Comptroller General,,Mike Burkhold,REP,61,21,0,0,0,0,40
+Lee,BISHOPVILLE 2,Comptroller General,,Tiffany Boozer,DEM,313,205,0,0,0,7,101
+Lee,BISHOPVILLE 2,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 3,Comptroller General,,Mike Burkhold,REP,198,96,0,0,0,2,100
+Lee,BISHOPVILLE 3,Comptroller General,,Tiffany Boozer,DEM,266,201,0,0,0,5,60
+Lee,BISHOPVILLE 3,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 4,Comptroller General,,Mike Burkhold,REP,89,54,0,0,0,0,35
+Lee,BISHOPVILLE 4,Comptroller General,,Tiffany Boozer,DEM,442,303,0,0,0,7,132
+Lee,BISHOPVILLE 4,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CEDAR CREEK,Comptroller General,,Mike Burkhold,REP,102,24,0,0,0,0,78
+Lee,CEDAR CREEK,Comptroller General,,Tiffany Boozer,DEM,74,40,0,0,0,4,30
+Lee,CEDAR CREEK,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CYPRESS,Comptroller General,,Mike Burkhold,REP,78,32,0,0,0,6,40
+Lee,CYPRESS,Comptroller General,,Tiffany Boozer,DEM,209,130,0,0,0,0,79
+Lee,CYPRESS,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ELLIOTT,Comptroller General,,Mike Burkhold,REP,38,20,0,0,0,0,18
+Lee,ELLIOTT,Comptroller General,,Tiffany Boozer,DEM,229,125,0,0,0,3,101
+Lee,ELLIOTT,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe,Comptroller General,,Mike Burkhold,REP,0,0,0,0,0,0,0
+Lee,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Comptroller General,,Mike Burkhold,REP,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,Comptroller General,,Mike Burkhold,REP,81,25,0,0,0,1,55
+Lee,HICKORY HILL,Comptroller General,,Tiffany Boozer,DEM,107,68,0,0,0,1,38
+Lee,HICKORY HILL,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,IONIA,Comptroller General,,Mike Burkhold,REP,171,58,0,0,0,2,111
+Lee,IONIA,Comptroller General,,Tiffany Boozer,DEM,175,83,0,0,0,7,85
+Lee,IONIA,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,LYNCHBURG,Comptroller General,,Mike Burkhold,REP,61,20,0,0,0,0,41
+Lee,LYNCHBURG,Comptroller General,,Tiffany Boozer,DEM,285,137,0,0,0,4,144
+Lee,LYNCHBURG,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MANVILLE,Comptroller General,,Mike Burkhold,REP,74,26,0,0,0,0,48
+Lee,MANVILLE,Comptroller General,,Tiffany Boozer,DEM,261,142,0,0,0,2,117
+Lee,MANVILLE,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MT. CLIO,Comptroller General,,Mike Burkhold,REP,27,15,0,0,0,0,12
+Lee,MT. CLIO,Comptroller General,,Tiffany Boozer,DEM,118,82,0,0,0,1,35
+Lee,MT. CLIO,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,Comptroller General,,Mike Burkhold,REP,0,0,0,0,0,0,0
+Lee,Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Lee,Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Comptroller General,,Mike Burkhold,REP,102,20,0,0,0,1,81
+Lee,RATTLESNAKE SPRINGS,Comptroller General,,Tiffany Boozer,DEM,87,35,0,0,0,1,51
+Lee,RATTLESNAKE SPRINGS,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SCHROCKS MILL/LUCKNOW,Comptroller General,,Mike Burkhold,REP,112,21,0,0,0,3,88
+Lee,SCHROCKS MILL/LUCKNOW,Comptroller General,,Tiffany Boozer,DEM,114,53,0,0,0,1,60
+Lee,SCHROCKS MILL/LUCKNOW,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,Comptroller General,,Mike Burkhold,REP,46,9,0,0,0,2,35
+Lee,SOUTH LYNCHBURG,Comptroller General,,Tiffany Boozer,DEM,132,43,0,0,0,5,84
+Lee,SOUTH LYNCHBURG,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SPRING HILL,Comptroller General,,Mike Burkhold,REP,103,22,0,0,0,0,81
+Lee,SPRING HILL,Comptroller General,,Tiffany Boozer,DEM,283,130,0,0,0,4,149
+Lee,SPRING HILL,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. CHARLES,Comptroller General,,Mike Burkhold,REP,134,49,0,0,0,0,85
+Lee,ST. CHARLES,Comptroller General,,Tiffany Boozer,DEM,395,259,0,0,0,15,121
+Lee,ST. CHARLES,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. MATTHEWS,Comptroller General,,Mike Burkhold,REP,66,20,0,0,0,2,44
+Lee,ST. MATTHEWS,Comptroller General,,Tiffany Boozer,DEM,29,12,0,0,0,0,17
+Lee,ST. MATTHEWS,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,Comptroller General,,Mike Burkhold,REP,39,9,0,0,0,0,30
+Lee,TURKEY CREEK,Comptroller General,,Tiffany Boozer,DEM,52,32,0,0,0,1,19
+Lee,TURKEY CREEK,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,WOODROW,Comptroller General,,Mike Burkhold,REP,34,11,0,0,0,0,23
+Lee,WOODROW,Comptroller General,,Tiffany Boozer,DEM,98,58,0,0,0,2,38
+Lee,WOODROW,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 1,County Council District 3,,Keel Addison,DEM,103,71,0,0,0,3,29
+Lee,BISHOPVILLE 1,County Council District 3,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,County Council District 3,,Keel Addison,DEM,316,194,0,0,0,7,115
+Lee,BISHOPVILLE 2,County Council District 3,,Write-In,NON,1,1,0,0,0,0,0
+Lee,BISHOPVILLE 3,County Council District 3,,Keel Addison,DEM,62,43,0,0,0,0,19
+Lee,BISHOPVILLE 3,County Council District 3,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 4,County Council District 3,,Keel Addison,DEM,173,124,0,0,0,2,47
+Lee,BISHOPVILLE 4,County Council District 3,,Write-In,NON,2,1,0,0,0,0,1
+Lee,Failsafe,County Council District 3,,Keel Addison,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,County Council District 3,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,County Council District 3,,Keel Addison,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,County Council District 3,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,County Council District 3,,Keel Addison,DEM,0,0,0,0,0,0,0
+Lee,Provisional,County Council District 3,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 1,County Council District 4,,Gordon Eckley,DEM,253,158,0,0,0,2,93
+Lee,BISHOPVILLE 1,County Council District 4,,Write-In,NON,1,0,0,0,0,0,1
+Lee,BISHOPVILLE 3,County Council District 4,,Gordon Eckley,DEM,211,133,0,0,0,5,73
+Lee,BISHOPVILLE 3,County Council District 4,,Write-In,NON,3,0,0,0,0,0,3
+Lee,ELLIOTT,County Council District 4,,Gordon Eckley,DEM,86,51,0,0,0,0,35
+Lee,ELLIOTT,County Council District 4,,Write-In,NON,1,1,0,0,0,0,0
+Lee,Failsafe,County Council District 4,,Gordon Eckley,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,County Council District 4,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,County Council District 4,,Gordon Eckley,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,County Council District 4,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MT. CLIO,County Council District 4,,Gordon Eckley,DEM,83,54,0,0,0,1,28
+Lee,MT. CLIO,County Council District 4,,Write-In,NON,1,1,0,0,0,0,0
+Lee,Provisional,County Council District 4,,Gordon Eckley,DEM,0,0,0,0,0,0,0
+Lee,Provisional,County Council District 4,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHWOOD,County Council District 6,,Charles Arthur Beasley,DEM,250,83,0,0,0,0,167
+Lee,ASHWOOD,County Council District 6,,Write-In,NON,6,1,0,0,0,0,5
+Lee,Failsafe,County Council District 6,,Charles Arthur Beasley,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,County Council District 6,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,County Council District 6,,Charles Arthur Beasley,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,County Council District 6,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MANVILLE,County Council District 6,,Charles Arthur Beasley,DEM,22,7,0,0,0,0,15
+Lee,MANVILLE,County Council District 6,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,County Council District 6,,Charles Arthur Beasley,DEM,0,0,0,0,0,0,0
+Lee,Provisional,County Council District 6,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SPRING HILL,County Council District 6,,Charles Arthur Beasley,DEM,82,38,0,0,0,2,42
+Lee,SPRING HILL,County Council District 6,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. CHARLES,County Council District 6,,Charles Arthur Beasley,DEM,369,205,0,0,0,11,153
+Lee,ST. CHARLES,County Council District 6,,Write-In,NON,1,1,0,0,0,0,0
+Lee,WOODROW,County Council District 6,,Charles Arthur Beasley,DEM,114,64,0,0,0,2,48
+Lee,WOODROW,County Council District 6,,Write-In,NON,2,0,0,0,0,0,2
+Lee,Failsafe,County Council District 7,,Johnette McCutchen Caughman,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,County Council District 7,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,County Council District 7,,Johnette McCutchen Caughman,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,County Council District 7,,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,County Council District 7,,Johnette McCutchen Caughman,DEM,162,82,0,0,0,3,77
+Lee,HICKORY HILL,County Council District 7,,Write-In,NON,1,1,0,0,0,0,0
+Lee,IONIA,County Council District 7,,Johnette McCutchen Caughman,DEM,262,109,0,0,0,6,147
+Lee,IONIA,County Council District 7,,Write-In,NON,2,0,0,0,0,0,2
+Lee,Provisional,County Council District 7,,Johnette McCutchen Caughman,DEM,0,0,0,0,0,0,0
+Lee,Provisional,County Council District 7,,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,County Council District 7,,Johnette McCutchen Caughman,DEM,160,51,0,0,0,2,107
+Lee,RATTLESNAKE SPRINGS,County Council District 7,,Write-In,NON,2,0,0,0,0,0,2
+Lee,SPRING HILL,County Council District 7,,Johnette McCutchen Caughman,DEM,245,96,0,0,0,2,147
+Lee,SPRING HILL,County Council District 7,,Write-In,NON,5,1,0,0,0,0,4
+Lee,ASHLAND/STOKES BRIDGE,County Treasurer,,Shirley Cook Dixon,DEM,137,46,0,0,0,3,88
+Lee,ASHLAND/STOKES BRIDGE,County Treasurer,,Write-In,NON,10,2,0,0,0,0,8
+Lee,ASHWOOD,County Treasurer,,Shirley Cook Dixon,DEM,221,80,0,0,0,0,141
+Lee,ASHWOOD,County Treasurer,,Write-In,NON,8,1,0,0,0,0,7
+Lee,BISHOPVILLE 1,County Treasurer,,Shirley Cook Dixon,DEM,357,230,0,0,0,5,122
+Lee,BISHOPVILLE 1,County Treasurer,,Write-In,NON,2,0,0,0,0,0,2
+Lee,BISHOPVILLE 2,County Treasurer,,Shirley Cook Dixon,DEM,342,212,0,0,0,7,123
+Lee,BISHOPVILLE 2,County Treasurer,,Write-In,NON,6,1,0,0,0,0,5
+Lee,BISHOPVILLE 3,County Treasurer,,Shirley Cook Dixon,DEM,350,235,0,0,0,5,110
+Lee,BISHOPVILLE 3,County Treasurer,,Write-In,NON,15,9,0,0,0,0,6
+Lee,BISHOPVILLE 4,County Treasurer,,Shirley Cook Dixon,DEM,485,330,0,0,0,6,149
+Lee,BISHOPVILLE 4,County Treasurer,,Write-In,NON,6,3,0,0,0,0,3
+Lee,CEDAR CREEK,County Treasurer,,Shirley Cook Dixon,DEM,115,48,0,0,0,4,63
+Lee,CEDAR CREEK,County Treasurer,,Write-In,NON,5,0,0,0,0,0,5
+Lee,CYPRESS,County Treasurer,,Shirley Cook Dixon,DEM,243,143,0,0,0,5,95
+Lee,CYPRESS,County Treasurer,,Write-In,NON,3,1,0,0,0,0,2
+Lee,ELLIOTT,County Treasurer,,Shirley Cook Dixon,DEM,255,139,0,0,0,3,113
+Lee,ELLIOTT,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe,County Treasurer,,Shirley Cook Dixon,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,County Treasurer,,Shirley Cook Dixon,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,County Treasurer,,Shirley Cook Dixon,DEM,148,80,0,0,0,2,66
+Lee,HICKORY HILL,County Treasurer,,Write-In,NON,6,2,0,0,0,0,4
+Lee,IONIA,County Treasurer,,Shirley Cook Dixon,DEM,250,107,0,0,0,9,134
+Lee,IONIA,County Treasurer,,Write-In,NON,8,2,0,0,0,0,6
+Lee,LYNCHBURG,County Treasurer,,Shirley Cook Dixon,DEM,320,150,0,0,0,4,166
+Lee,LYNCHBURG,County Treasurer,,Write-In,NON,1,1,0,0,0,0,0
+Lee,MANVILLE,County Treasurer,,Shirley Cook Dixon,DEM,283,146,0,0,0,2,135
+Lee,MANVILLE,County Treasurer,,Write-In,NON,3,0,0,0,0,0,3
+Lee,MT. CLIO,County Treasurer,,Shirley Cook Dixon,DEM,124,84,0,0,0,1,39
+Lee,MT. CLIO,County Treasurer,,Write-In,NON,2,2,0,0,0,0,0
+Lee,Provisional,County Treasurer,,Shirley Cook Dixon,DEM,0,0,0,0,0,0,0
+Lee,Provisional,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,County Treasurer,,Shirley Cook Dixon,DEM,134,44,0,0,0,1,89
+Lee,RATTLESNAKE SPRINGS,County Treasurer,,Write-In,NON,4,0,0,0,0,0,4
+Lee,SCHROCKS MILL/LUCKNOW,County Treasurer,,Shirley Cook Dixon,DEM,157,61,0,0,0,3,93
+Lee,SCHROCKS MILL/LUCKNOW,County Treasurer,,Write-In,NON,3,0,0,0,0,0,3
+Lee,SOUTH LYNCHBURG,County Treasurer,,Shirley Cook Dixon,DEM,154,48,0,0,0,5,101
+Lee,SOUTH LYNCHBURG,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Lee,SPRING HILL,County Treasurer,,Shirley Cook Dixon,DEM,317,135,0,0,0,4,178
+Lee,SPRING HILL,County Treasurer,,Write-In,NON,7,1,0,0,0,0,6
+Lee,ST. CHARLES,County Treasurer,,Shirley Cook Dixon,DEM,459,284,0,0,0,15,160
+Lee,ST. CHARLES,County Treasurer,,Write-In,NON,8,3,0,0,0,0,5
+Lee,ST. MATTHEWS,County Treasurer,,Shirley Cook Dixon,DEM,57,19,0,0,0,0,38
+Lee,ST. MATTHEWS,County Treasurer,,Write-In,NON,6,0,0,0,0,0,6
+Lee,TURKEY CREEK,County Treasurer,,Shirley Cook Dixon,DEM,64,33,0,0,0,1,30
+Lee,TURKEY CREEK,County Treasurer,,Write-In,NON,3,1,0,0,0,0,2
+Lee,WOODROW,County Treasurer,,Shirley Cook Dixon,DEM,115,63,0,0,0,2,50
+Lee,WOODROW,County Treasurer,,Write-In,NON,2,0,0,0,0,0,2
+Lee,ASHLAND/STOKES BRIDGE,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Lee,ASHLAND/STOKES BRIDGE,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lee,ASHLAND/STOKES BRIDGE,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,204,48,0,0,0,2,154
+Lee,ASHLAND/STOKES BRIDGE,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,67,28,0,0,0,3,36
+Lee,ASHLAND/STOKES BRIDGE,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHWOOD,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,3,0,0,0,0,1
+Lee,ASHWOOD,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Lee,ASHWOOD,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,228,52,0,0,0,0,176
+Lee,ASHWOOD,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,119,59,0,0,0,0,60
+Lee,ASHWOOD,Governor and Lieutenant Governor,,Write-In,NON,1,1,0,0,0,0,0
+Lee,BISHOPVILLE 1,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,2,0,0,0,0,2
+Lee,BISHOPVILLE 1,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,2,0,0,0,0,0
+Lee,BISHOPVILLE 1,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,46,23,0,0,0,0,23
+Lee,BISHOPVILLE 1,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,334,216,0,0,0,6,112
+Lee,BISHOPVILLE 1,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,2,0,0,0,0,1
+Lee,BISHOPVILLE 2,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,61,21,0,0,0,0,40
+Lee,BISHOPVILLE 2,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,313,204,0,0,0,7,102
+Lee,BISHOPVILLE 2,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 3,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,4,0,0,0,0,3
+Lee,BISHOPVILLE 3,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,3,0,0,0,0,1
+Lee,BISHOPVILLE 3,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,193,91,0,0,0,2,100
+Lee,BISHOPVILLE 3,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,260,198,0,0,0,5,57
+Lee,BISHOPVILLE 3,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 4,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,9,5,0,0,0,0,4
+Lee,BISHOPVILLE 4,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 4,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,91,55,0,0,0,0,36
+Lee,BISHOPVILLE 4,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,434,300,0,0,0,7,127
+Lee,BISHOPVILLE 4,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CEDAR CREEK,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,6,3,0,0,0,0,3
+Lee,CEDAR CREEK,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,1,0,0,0,0,1
+Lee,CEDAR CREEK,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,103,26,0,0,0,0,77
+Lee,CEDAR CREEK,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,68,36,0,0,0,4,28
+Lee,CEDAR CREEK,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CYPRESS,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,0,0,0,0,0,2
+Lee,CYPRESS,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Lee,CYPRESS,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,77,33,0,0,0,6,38
+Lee,CYPRESS,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,208,130,0,0,0,0,78
+Lee,CYPRESS,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Lee,ELLIOTT,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,3,0,0,0,0,0
+Lee,ELLIOTT,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Lee,ELLIOTT,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,38,20,0,0,0,0,18
+Lee,ELLIOTT,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,225,122,0,0,0,3,100
+Lee,ELLIOTT,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Lee,Failsafe,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lee,Failsafe,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,0,0,0,0,0,0,0
+Lee,Failsafe,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,1,0,0,0,0,1
+Lee,HICKORY HILL,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lee,HICKORY HILL,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,83,25,0,0,0,2,56
+Lee,HICKORY HILL,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,107,69,0,0,0,1,37
+Lee,HICKORY HILL,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,IONIA,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Lee,IONIA,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Lee,IONIA,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,173,59,0,0,0,2,112
+Lee,IONIA,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,173,82,0,0,0,7,84
+Lee,IONIA,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,LYNCHBURG,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Lee,LYNCHBURG,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lee,LYNCHBURG,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,64,22,0,0,0,0,42
+Lee,LYNCHBURG,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,284,138,0,0,0,4,142
+Lee,LYNCHBURG,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MANVILLE,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,5,2,0,0,0,0,3
+Lee,MANVILLE,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Lee,MANVILLE,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,76,27,0,0,0,0,49
+Lee,MANVILLE,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,250,137,0,0,0,2,111
+Lee,MANVILLE,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MT. CLIO,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,2,0,0,0,0,0
+Lee,MT. CLIO,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Lee,MT. CLIO,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,27,15,0,0,0,0,12
+Lee,MT. CLIO,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,115,80,0,0,0,1,34
+Lee,MT. CLIO,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Lee,Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lee,Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,0,0,0,0,0,0,0
+Lee,Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,0,0,0,0,0,0,0
+Lee,Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Lee,RATTLESNAKE SPRINGS,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,104,20,0,0,0,1,83
+Lee,RATTLESNAKE SPRINGS,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,88,36,0,0,0,1,51
+Lee,RATTLESNAKE SPRINGS,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SCHROCKS MILL/LUCKNOW,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,1,0,0,0,0,2
+Lee,SCHROCKS MILL/LUCKNOW,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,2,0,0,0,0,2
+Lee,SCHROCKS MILL/LUCKNOW,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,110,21,0,0,0,3,86
+Lee,SCHROCKS MILL/LUCKNOW,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,111,52,0,0,0,1,58
+Lee,SCHROCKS MILL/LUCKNOW,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,1,0,0,0,0,2
+Lee,SOUTH LYNCHBURG,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,44,8,0,0,0,2,34
+Lee,SOUTH LYNCHBURG,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,130,43,0,0,0,5,82
+Lee,SOUTH LYNCHBURG,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SPRING HILL,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,0,0,0,0,0,2
+Lee,SPRING HILL,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,1,0,0,0,0,3
+Lee,SPRING HILL,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,103,25,0,0,0,0,78
+Lee,SPRING HILL,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,279,125,0,0,0,4,150
+Lee,SPRING HILL,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. CHARLES,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,2,0,0,0,0,2
+Lee,ST. CHARLES,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,1,0,0,0,0,1
+Lee,ST. CHARLES,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,139,53,0,0,0,0,86
+Lee,ST. CHARLES,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,388,254,0,0,0,15,119
+Lee,ST. CHARLES,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. MATTHEWS,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,1,0,0,0,0,0
+Lee,ST. MATTHEWS,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lee,ST. MATTHEWS,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,69,20,0,0,0,2,47
+Lee,ST. MATTHEWS,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,27,10,0,0,0,0,17
+Lee,ST. MATTHEWS,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Lee,TURKEY CREEK,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,39,9,0,0,0,0,30
+Lee,TURKEY CREEK,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,51,32,0,0,0,1,18
+Lee,TURKEY CREEK,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,WOODROW,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Lee,WOODROW,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lee,WOODROW,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,33,11,0,0,0,0,22
+Lee,WOODROW,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,99,58,0,0,0,2,39
+Lee,WOODROW,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 1,School Board District 4,,Traves Reames,DEM,252,155,0,0,0,2,95
+Lee,BISHOPVILLE 1,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 3,School Board District 4,,Traves Reames,DEM,197,125,0,0,0,5,67
+Lee,BISHOPVILLE 3,School Board District 4,,Write-In,NON,3,1,0,0,0,0,2
+Lee,ELLIOTT,School Board District 4,,Traves Reames,DEM,87,52,0,0,0,0,35
+Lee,ELLIOTT,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe,School Board District 4,,Traves Reames,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,School Board District 4,,Traves Reames,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MT. CLIO,School Board District 4,,Traves Reames,DEM,82,53,0,0,0,1,28
+Lee,MT. CLIO,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,School Board District 4,,Traves Reames,DEM,0,0,0,0,0,0,0
+Lee,Provisional,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,School Board District 5,,Regitt James,DEM,6,6,0,0,0,0,0
+Lee,BISHOPVILLE 2,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CYPRESS,School Board District 5,,Regitt James,DEM,41,23,0,0,0,1,17
+Lee,CYPRESS,School Board District 5,,Write-In,NON,2,0,0,0,0,0,2
+Lee,ELLIOTT,School Board District 5,,Regitt James,DEM,166,86,0,0,0,3,77
+Lee,ELLIOTT,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe,School Board District 5,,Regitt James,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,School Board District 5,,Regitt James,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Lee,LYNCHBURG,School Board District 5,,Regitt James,DEM,310,146,0,0,0,2,162
+Lee,LYNCHBURG,School Board District 5,,Write-In,NON,3,1,0,0,0,2,0
+Lee,MANVILLE,School Board District 5,,Regitt James,DEM,27,12,0,0,0,0,15
+Lee,MANVILLE,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MT. CLIO,School Board District 5,,Regitt James,DEM,44,32,0,0,0,0,12
+Lee,MT. CLIO,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,School Board District 5,,Regitt James,DEM,0,0,0,0,0,0,0
+Lee,Provisional,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,School Board District 5,,Regitt James,DEM,154,47,0,0,0,5,102
+Lee,SOUTH LYNCHBURG,School Board District 5,,Write-In,NON,1,0,0,0,0,0,1
+Lee,ST. CHARLES,School Board District 5,,Regitt James,DEM,104,79,0,0,0,4,21
+Lee,ST. CHARLES,School Board District 5,,Write-In,NON,3,1,0,0,0,0,2
+Lee,ASHWOOD,School Board District 6,,Write-In,NON,6,1,0,0,0,0,5
+Lee,Failsafe,School Board District 6,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,School Board District 6,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MANVILLE,School Board District 6,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,School Board District 6,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SPRING HILL,School Board District 6,,Write-In,NON,4,0,0,0,0,0,4
+Lee,ST. CHARLES,School Board District 6,,Write-In,NON,39,30,0,0,0,0,9
+Lee,WOODROW,School Board District 6,,Write-In,NON,11,8,0,0,0,0,3
+Lee,ASHLAND/STOKES BRIDGE,Secretary of State,,Mark Hammond,REP,204,50,0,0,0,2,152
+Lee,ASHLAND/STOKES BRIDGE,Secretary of State,,Jason Belton,DEM,66,27,0,0,0,3,36
+Lee,ASHLAND/STOKES BRIDGE,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Lee,ASHWOOD,Secretary of State,,Mark Hammond,REP,229,53,0,0,0,0,176
+Lee,ASHWOOD,Secretary of State,,Jason Belton,DEM,123,63,0,0,0,0,60
+Lee,ASHWOOD,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Lee,BISHOPVILLE 1,Secretary of State,,Mark Hammond,REP,50,26,0,0,0,0,24
+Lee,BISHOPVILLE 1,Secretary of State,,Jason Belton,DEM,335,217,0,0,0,6,112
+Lee,BISHOPVILLE 1,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,Secretary of State,,Mark Hammond,REP,62,21,0,0,0,0,41
+Lee,BISHOPVILLE 2,Secretary of State,,Jason Belton,DEM,313,206,0,0,0,7,100
+Lee,BISHOPVILLE 2,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Lee,BISHOPVILLE 3,Secretary of State,,Mark Hammond,REP,203,100,0,0,0,2,101
+Lee,BISHOPVILLE 3,Secretary of State,,Jason Belton,DEM,259,195,0,0,0,5,59
+Lee,BISHOPVILLE 3,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 4,Secretary of State,,Mark Hammond,REP,97,59,0,0,0,0,38
+Lee,BISHOPVILLE 4,Secretary of State,,Jason Belton,DEM,437,300,0,0,0,7,130
+Lee,BISHOPVILLE 4,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CEDAR CREEK,Secretary of State,,Mark Hammond,REP,105,27,0,0,0,0,78
+Lee,CEDAR CREEK,Secretary of State,,Jason Belton,DEM,71,38,0,0,0,4,29
+Lee,CEDAR CREEK,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CYPRESS,Secretary of State,,Mark Hammond,REP,76,30,0,0,0,5,41
+Lee,CYPRESS,Secretary of State,,Jason Belton,DEM,209,132,0,0,0,0,77
+Lee,CYPRESS,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Lee,ELLIOTT,Secretary of State,,Mark Hammond,REP,38,21,0,0,0,0,17
+Lee,ELLIOTT,Secretary of State,,Jason Belton,DEM,229,125,0,0,0,3,101
+Lee,ELLIOTT,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe,Secretary of State,,Mark Hammond,REP,0,0,0,0,0,0,0
+Lee,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Secretary of State,,Mark Hammond,REP,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,Secretary of State,,Mark Hammond,REP,84,25,0,0,0,2,57
+Lee,HICKORY HILL,Secretary of State,,Jason Belton,DEM,107,69,0,0,0,1,37
+Lee,HICKORY HILL,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,IONIA,Secretary of State,,Mark Hammond,REP,174,59,0,0,0,2,113
+Lee,IONIA,Secretary of State,,Jason Belton,DEM,172,83,0,0,0,6,83
+Lee,IONIA,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,LYNCHBURG,Secretary of State,,Mark Hammond,REP,63,21,0,0,0,0,42
+Lee,LYNCHBURG,Secretary of State,,Jason Belton,DEM,285,138,0,0,0,4,143
+Lee,LYNCHBURG,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MANVILLE,Secretary of State,,Mark Hammond,REP,76,28,0,0,0,0,48
+Lee,MANVILLE,Secretary of State,,Jason Belton,DEM,254,138,0,0,0,2,114
+Lee,MANVILLE,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MT. CLIO,Secretary of State,,Mark Hammond,REP,28,16,0,0,0,0,12
+Lee,MT. CLIO,Secretary of State,,Jason Belton,DEM,116,80,0,0,0,1,35
+Lee,MT. CLIO,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,Secretary of State,,Mark Hammond,REP,0,0,0,0,0,0,0
+Lee,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Lee,Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Secretary of State,,Mark Hammond,REP,102,20,0,0,0,1,81
+Lee,RATTLESNAKE SPRINGS,Secretary of State,,Jason Belton,DEM,87,35,0,0,0,1,51
+Lee,RATTLESNAKE SPRINGS,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SCHROCKS MILL/LUCKNOW,Secretary of State,,Mark Hammond,REP,111,20,0,0,0,3,88
+Lee,SCHROCKS MILL/LUCKNOW,Secretary of State,,Jason Belton,DEM,113,53,0,0,0,1,59
+Lee,SCHROCKS MILL/LUCKNOW,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,Secretary of State,,Mark Hammond,REP,45,9,0,0,0,2,34
+Lee,SOUTH LYNCHBURG,Secretary of State,,Jason Belton,DEM,132,43,0,0,0,5,84
+Lee,SOUTH LYNCHBURG,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SPRING HILL,Secretary of State,,Mark Hammond,REP,104,25,0,0,0,0,79
+Lee,SPRING HILL,Secretary of State,,Jason Belton,DEM,280,126,0,0,0,4,150
+Lee,SPRING HILL,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. CHARLES,Secretary of State,,Mark Hammond,REP,138,51,0,0,0,0,87
+Lee,ST. CHARLES,Secretary of State,,Jason Belton,DEM,392,256,0,0,0,15,121
+Lee,ST. CHARLES,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. MATTHEWS,Secretary of State,,Mark Hammond,REP,69,21,0,0,0,2,46
+Lee,ST. MATTHEWS,Secretary of State,,Jason Belton,DEM,29,11,0,0,0,0,18
+Lee,ST. MATTHEWS,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,Secretary of State,,Mark Hammond,REP,40,9,0,0,0,0,31
+Lee,TURKEY CREEK,Secretary of State,,Jason Belton,DEM,51,32,0,0,0,1,18
+Lee,TURKEY CREEK,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,WOODROW,Secretary of State,,Mark Hammond,REP,34,11,0,0,0,1,22
+Lee,WOODROW,Secretary of State,,Jason Belton,DEM,98,58,0,0,0,1,39
+Lee,WOODROW,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHLAND/STOKES BRIDGE,Soil and Water District Commission,,Write-in,NON,35,5,0,0,0,0,30
+Lee,ASHWOOD,Soil and Water District Commission,,Write-in,NON,21,3,0,0,0,0,18
+Lee,BISHOPVILLE 1,Soil and Water District Commission,,Write-in,NON,21,9,0,0,0,0,12
+Lee,BISHOPVILLE 2,Soil and Water District Commission,,Write-in,NON,25,8,0,0,0,0,17
+Lee,BISHOPVILLE 3,Soil and Water District Commission,,Write-in,NON,74,31,0,0,0,1,42
+Lee,BISHOPVILLE 4,Soil and Water District Commission,,Write-in,NON,26,13,0,0,0,2,11
+Lee,CEDAR CREEK,Soil and Water District Commission,,Write-in,NON,18,4,0,0,0,1,13
+Lee,CYPRESS,Soil and Water District Commission,,Write-in,NON,16,12,0,0,0,0,4
+Lee,ELLIOTT,Soil and Water District Commission,,Write-in,NON,14,9,0,0,0,0,5
+Lee,Failsafe,Soil and Water District Commission,,Write-in,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Soil and Water District Commission,,Write-in,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,Soil and Water District Commission,,Write-in,NON,15,6,0,0,0,0,9
+Lee,IONIA,Soil and Water District Commission,,Write-in,NON,20,10,0,0,0,1,9
+Lee,LYNCHBURG,Soil and Water District Commission,,Write-in,NON,27,8,0,0,0,3,16
+Lee,MANVILLE,Soil and Water District Commission,,Write-in,NON,19,7,0,0,0,0,12
+Lee,MT. CLIO,Soil and Water District Commission,,Write-in,NON,12,6,0,0,0,0,6
+Lee,Provisional,Soil and Water District Commission,,Write-in,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Soil and Water District Commission,,Write-in,NON,13,1,0,0,0,0,12
+Lee,SCHROCKS MILL/LUCKNOW,Soil and Water District Commission,,Write-in,NON,17,2,0,0,0,1,14
+Lee,SOUTH LYNCHBURG,Soil and Water District Commission,,Write-in,NON,17,3,0,0,0,0,14
+Lee,SPRING HILL,Soil and Water District Commission,,Write-in,NON,13,4,0,0,0,0,9
+Lee,ST. CHARLES,Soil and Water District Commission,,Write-in,NON,57,18,0,0,0,0,39
+Lee,ST. MATTHEWS,Soil and Water District Commission,,Write-in,NON,16,1,0,0,0,0,15
+Lee,TURKEY CREEK,Soil and Water District Commission,,Write-in,NON,13,1,0,0,0,0,12
+Lee,WOODROW,Soil and Water District Commission,,Write-in,NON,4,2,0,0,0,0,2
+Lee,ASHLAND/STOKES BRIDGE,Solicitor,3,Lester M Gill Bell Jr,DEM,138,52,0,0,0,3,83
+Lee,ASHLAND/STOKES BRIDGE,Solicitor,3,Write-In,NON,8,0,0,0,0,0,8
+Lee,ASHWOOD,Solicitor,3,Lester M Gill Bell Jr,DEM,218,79,0,0,0,0,139
+Lee,ASHWOOD,Solicitor,3,Write-In,NON,8,1,0,0,0,0,7
+Lee,BISHOPVILLE 1,Solicitor,3,Lester M Gill Bell Jr,DEM,355,228,0,0,0,5,122
+Lee,BISHOPVILLE 1,Solicitor,3,Write-In,NON,1,0,0,0,0,0,1
+Lee,BISHOPVILLE 2,Solicitor,3,Lester M Gill Bell Jr,DEM,341,212,0,0,0,7,122
+Lee,BISHOPVILLE 2,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 3,Solicitor,3,Lester M Gill Bell Jr,DEM,357,237,0,0,0,5,115
+Lee,BISHOPVILLE 3,Solicitor,3,Write-In,NON,1,0,0,0,0,0,1
+Lee,BISHOPVILLE 4,Solicitor,3,Lester M Gill Bell Jr,DEM,487,329,0,0,0,6,152
+Lee,BISHOPVILLE 4,Solicitor,3,Write-In,NON,2,1,0,0,0,0,1
+Lee,CEDAR CREEK,Solicitor,3,Lester M Gill Bell Jr,DEM,117,51,0,0,0,4,62
+Lee,CEDAR CREEK,Solicitor,3,Write-In,NON,3,0,0,0,0,0,3
+Lee,CYPRESS,Solicitor,3,Lester M Gill Bell Jr,DEM,242,142,0,0,0,5,95
+Lee,CYPRESS,Solicitor,3,Write-In,NON,3,1,0,0,0,0,2
+Lee,ELLIOTT,Solicitor,3,Lester M Gill Bell Jr,DEM,255,140,0,0,0,3,112
+Lee,ELLIOTT,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe,Solicitor,3,Lester M Gill Bell Jr,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Solicitor,3,Lester M Gill Bell Jr,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,Solicitor,3,Lester M Gill Bell Jr,DEM,145,78,0,0,0,2,65
+Lee,HICKORY HILL,Solicitor,3,Write-In,NON,1,1,0,0,0,0,0
+Lee,IONIA,Solicitor,3,Lester M Gill Bell Jr,DEM,252,109,0,0,0,7,136
+Lee,IONIA,Solicitor,3,Write-In,NON,4,0,0,0,0,0,4
+Lee,LYNCHBURG,Solicitor,3,Lester M Gill Bell Jr,DEM,312,146,0,0,0,3,163
+Lee,LYNCHBURG,Solicitor,3,Write-In,NON,3,2,0,0,0,1,0
+Lee,MANVILLE,Solicitor,3,Lester M Gill Bell Jr,DEM,284,145,0,0,0,2,137
+Lee,MANVILLE,Solicitor,3,Write-In,NON,1,0,0,0,0,0,1
+Lee,MT. CLIO,Solicitor,3,Lester M Gill Bell Jr,DEM,127,87,0,0,0,1,39
+Lee,MT. CLIO,Solicitor,3,Write-In,NON,1,1,0,0,0,0,0
+Lee,Provisional,Solicitor,3,Lester M Gill Bell Jr,DEM,0,0,0,0,0,0,0
+Lee,Provisional,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Solicitor,3,Lester M Gill Bell Jr,DEM,134,45,0,0,0,1,88
+Lee,RATTLESNAKE SPRINGS,Solicitor,3,Write-In,NON,5,1,0,0,0,0,4
+Lee,SCHROCKS MILL/LUCKNOW,Solicitor,3,Lester M Gill Bell Jr,DEM,158,59,0,0,0,3,96
+Lee,SCHROCKS MILL/LUCKNOW,Solicitor,3,Write-In,NON,1,0,0,0,0,0,1
+Lee,SOUTH LYNCHBURG,Solicitor,3,Lester M Gill Bell Jr,DEM,157,49,0,0,0,5,103
+Lee,SOUTH LYNCHBURG,Solicitor,3,Write-In,NON,1,0,0,0,0,0,1
+Lee,SPRING HILL,Solicitor,3,Lester M Gill Bell Jr,DEM,319,135,0,0,0,4,180
+Lee,SPRING HILL,Solicitor,3,Write-In,NON,4,0,0,0,0,0,4
+Lee,ST. CHARLES,Solicitor,3,Lester M Gill Bell Jr,DEM,457,278,0,0,0,15,164
+Lee,ST. CHARLES,Solicitor,3,Write-In,NON,3,1,0,0,0,0,2
+Lee,ST. MATTHEWS,Solicitor,3,Lester M Gill Bell Jr,DEM,63,21,0,0,0,0,42
+Lee,ST. MATTHEWS,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,Solicitor,3,Lester M Gill Bell Jr,DEM,65,33,0,0,0,1,31
+Lee,TURKEY CREEK,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Lee,WOODROW,Solicitor,3,Lester M Gill Bell Jr,DEM,110,62,0,0,0,2,46
+Lee,WOODROW,Solicitor,3,Write-In,NON,3,1,0,0,0,0,2
+Lee,ASHLAND/STOKES BRIDGE,State House,50,William Oden,REP,203,49,0,0,0,2,152
+Lee,ASHLAND/STOKES BRIDGE,State House,50,Keishan M Scott,DEM,68,28,0,0,0,3,37
+Lee,ASHLAND/STOKES BRIDGE,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHWOOD,State House,50,William Oden,REP,218,54,0,0,0,0,164
+Lee,ASHWOOD,State House,50,Keishan M Scott,DEM,135,63,0,0,0,0,72
+Lee,ASHWOOD,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 1,State House,50,William Oden,REP,44,25,0,0,0,0,19
+Lee,BISHOPVILLE 1,State House,50,Keishan M Scott,DEM,340,218,0,0,0,5,117
+Lee,BISHOPVILLE 1,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,State House,50,William Oden,REP,57,18,0,0,0,0,39
+Lee,BISHOPVILLE 2,State House,50,Keishan M Scott,DEM,319,210,0,0,0,7,102
+Lee,BISHOPVILLE 2,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 3,State House,50,William Oden,REP,169,85,0,0,0,2,82
+Lee,BISHOPVILLE 3,State House,50,Keishan M Scott,DEM,296,211,0,0,0,5,80
+Lee,BISHOPVILLE 3,State House,50,Write-In,NON,2,1,0,0,0,0,1
+Lee,BISHOPVILLE 4,State House,50,William Oden,REP,80,49,0,0,0,0,31
+Lee,BISHOPVILLE 4,State House,50,Keishan M Scott,DEM,451,309,0,0,0,7,135
+Lee,BISHOPVILLE 4,State House,50,Write-In,NON,1,0,0,0,0,0,1
+Lee,CEDAR CREEK,State House,50,William Oden,REP,98,24,0,0,0,0,74
+Lee,CEDAR CREEK,State House,50,Keishan M Scott,DEM,80,41,0,0,0,4,35
+Lee,CEDAR CREEK,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,CYPRESS,State House,50,William Oden,REP,75,31,0,0,0,5,39
+Lee,CYPRESS,State House,50,Keishan M Scott,DEM,214,132,0,0,0,1,81
+Lee,CYPRESS,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,ELLIOTT,State House,50,William Oden,REP,31,16,0,0,0,0,15
+Lee,ELLIOTT,State House,50,Keishan M Scott,DEM,237,129,0,0,0,3,105
+Lee,ELLIOTT,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe,State House,50,William Oden,REP,0,0,0,0,0,0,0
+Lee,Failsafe,State House,50,Keishan M Scott,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,State House,50,William Oden,REP,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,State House,50,Keishan M Scott,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,State House,50,William Oden,REP,80,25,0,0,0,1,54
+Lee,HICKORY HILL,State House,50,Keishan M Scott,DEM,111,70,0,0,0,1,40
+Lee,HICKORY HILL,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,IONIA,State House,50,William Oden,REP,167,57,0,0,0,2,108
+Lee,IONIA,State House,50,Keishan M Scott,DEM,184,87,0,0,0,7,90
+Lee,IONIA,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,LYNCHBURG,State House,50,William Oden,REP,61,20,0,0,0,0,41
+Lee,LYNCHBURG,State House,50,Keishan M Scott,DEM,287,139,0,0,0,4,144
+Lee,LYNCHBURG,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,MANVILLE,State House,50,William Oden,REP,73,25,0,0,0,0,48
+Lee,MANVILLE,State House,50,Keishan M Scott,DEM,261,142,0,0,0,2,117
+Lee,MANVILLE,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,MT. CLIO,State House,50,William Oden,REP,26,14,0,0,0,0,12
+Lee,MT. CLIO,State House,50,Keishan M Scott,DEM,119,83,0,0,0,1,35
+Lee,MT. CLIO,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,State House,50,William Oden,REP,0,0,0,0,0,0,0
+Lee,Provisional,State House,50,Keishan M Scott,DEM,0,0,0,0,0,0,0
+Lee,Provisional,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,State House,50,William Oden,REP,98,20,0,0,0,0,78
+Lee,RATTLESNAKE SPRINGS,State House,50,Keishan M Scott,DEM,95,36,0,0,0,2,57
+Lee,RATTLESNAKE SPRINGS,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,SCHROCKS MILL/LUCKNOW,State House,50,William Oden,REP,110,19,0,0,0,3,88
+Lee,SCHROCKS MILL/LUCKNOW,State House,50,Keishan M Scott,DEM,117,56,0,0,0,1,60
+Lee,SCHROCKS MILL/LUCKNOW,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,State House,50,William Oden,REP,42,9,0,0,0,2,31
+Lee,SOUTH LYNCHBURG,State House,50,Keishan M Scott,DEM,135,43,0,0,0,5,87
+Lee,SOUTH LYNCHBURG,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,SPRING HILL,State House,50,William Oden,REP,101,23,0,0,0,0,78
+Lee,SPRING HILL,State House,50,Keishan M Scott,DEM,287,130,0,0,0,4,153
+Lee,SPRING HILL,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. CHARLES,State House,50,William Oden,REP,128,46,0,0,0,0,82
+Lee,ST. CHARLES,State House,50,Keishan M Scott,DEM,403,263,0,0,0,14,126
+Lee,ST. CHARLES,State House,50,Write-In,NON,1,0,0,0,0,1,0
+Lee,ST. MATTHEWS,State House,50,William Oden,REP,68,20,0,0,0,2,46
+Lee,ST. MATTHEWS,State House,50,Keishan M Scott,DEM,30,12,0,0,0,0,18
+Lee,ST. MATTHEWS,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,State House,50,William Oden,REP,39,9,0,0,0,0,30
+Lee,TURKEY CREEK,State House,50,Keishan M Scott,DEM,51,32,0,0,0,1,18
+Lee,TURKEY CREEK,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,WOODROW,State House,50,William Oden,REP,33,12,0,0,0,0,21
+Lee,WOODROW,State House,50,Keishan M Scott,DEM,99,57,0,0,0,2,40
+Lee,WOODROW,State House,50,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHLAND/STOKES BRIDGE,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,0,0,0,0,0,2
+Lee,ASHLAND/STOKES BRIDGE,State Superintendent of Education,,Ellen Weaver,REP,198,47,0,0,0,2,149
+Lee,ASHLAND/STOKES BRIDGE,State Superintendent of Education,,Sylvia Wright,DEM,71,29,0,0,0,3,39
+Lee,ASHLAND/STOKES BRIDGE,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHWOOD,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,1,0,0,0,0,2
+Lee,ASHWOOD,State Superintendent of Education,,Ellen Weaver,REP,221,51,0,0,0,0,170
+Lee,ASHWOOD,State Superintendent of Education,,Sylvia Wright,DEM,127,62,0,0,0,0,65
+Lee,ASHWOOD,State Superintendent of Education,,Write-In,NON,1,1,0,0,0,0,0
+Lee,BISHOPVILLE 1,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,2,0,0,0,0,1
+Lee,BISHOPVILLE 1,State Superintendent of Education,,Ellen Weaver,REP,47,25,0,0,0,0,22
+Lee,BISHOPVILLE 1,State Superintendent of Education,,Sylvia Wright,DEM,334,216,0,0,0,5,113
+Lee,BISHOPVILLE 1,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,3,0,0,0,0,1
+Lee,BISHOPVILLE 2,State Superintendent of Education,,Ellen Weaver,REP,58,21,0,0,0,0,37
+Lee,BISHOPVILLE 2,State Superintendent of Education,,Sylvia Wright,DEM,311,203,0,0,0,7,101
+Lee,BISHOPVILLE 2,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 3,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,2,0,0,0,0,3
+Lee,BISHOPVILLE 3,State Superintendent of Education,,Ellen Weaver,REP,189,94,0,0,0,2,93
+Lee,BISHOPVILLE 3,State Superintendent of Education,,Sylvia Wright,DEM,268,200,0,0,0,5,63
+Lee,BISHOPVILLE 3,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Lee,BISHOPVILLE 4,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,2,0,0,0,0,2
+Lee,BISHOPVILLE 4,State Superintendent of Education,,Ellen Weaver,REP,92,55,0,0,0,0,37
+Lee,BISHOPVILLE 4,State Superintendent of Education,,Sylvia Wright,DEM,436,303,0,0,0,7,126
+Lee,BISHOPVILLE 4,State Superintendent of Education,,Write-In,NON,2,0,0,0,0,0,2
+Lee,CEDAR CREEK,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,1,0,0,0,0,3
+Lee,CEDAR CREEK,State Superintendent of Education,,Ellen Weaver,REP,104,25,0,0,0,0,79
+Lee,CEDAR CREEK,State Superintendent of Education,,Sylvia Wright,DEM,71,39,0,0,0,4,28
+Lee,CEDAR CREEK,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CYPRESS,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,2,0,0,0,0,3
+Lee,CYPRESS,State Superintendent of Education,,Ellen Weaver,REP,73,30,0,0,0,4,39
+Lee,CYPRESS,State Superintendent of Education,,Sylvia Wright,DEM,209,130,0,0,0,1,78
+Lee,CYPRESS,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ELLIOTT,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,2,0,0,0,0,0
+Lee,ELLIOTT,State Superintendent of Education,,Ellen Weaver,REP,36,18,0,0,0,0,18
+Lee,ELLIOTT,State Superintendent of Education,,Sylvia Wright,DEM,229,125,0,0,0,3,101
+Lee,ELLIOTT,State Superintendent of Education,,Write-In,NON,1,1,0,0,0,0,0
+Lee,Failsafe,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Lee,Failsafe,State Superintendent of Education,,Ellen Weaver,REP,0,0,0,0,0,0,0
+Lee,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,State Superintendent of Education,,Ellen Weaver,REP,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,1,0,0,0,0,1
+Lee,HICKORY HILL,State Superintendent of Education,,Ellen Weaver,REP,81,24,0,0,0,2,55
+Lee,HICKORY HILL,State Superintendent of Education,,Sylvia Wright,DEM,107,68,0,0,0,1,38
+Lee,HICKORY HILL,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,IONIA,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,1,0,0,0,1,1
+Lee,IONIA,State Superintendent of Education,,Ellen Weaver,REP,169,57,0,0,0,2,110
+Lee,IONIA,State Superintendent of Education,,Sylvia Wright,DEM,176,84,0,0,0,6,86
+Lee,IONIA,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,LYNCHBURG,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,2,0,0,0,0,1
+Lee,LYNCHBURG,State Superintendent of Education,,Ellen Weaver,REP,59,20,0,0,0,0,39
+Lee,LYNCHBURG,State Superintendent of Education,,Sylvia Wright,DEM,286,137,0,0,0,4,145
+Lee,LYNCHBURG,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MANVILLE,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,1,0,0,0,0,3
+Lee,MANVILLE,State Superintendent of Education,,Ellen Weaver,REP,76,28,0,0,0,0,48
+Lee,MANVILLE,State Superintendent of Education,,Sylvia Wright,DEM,256,140,0,0,0,2,114
+Lee,MANVILLE,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Lee,MT. CLIO,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,2,0,0,0,0,0
+Lee,MT. CLIO,State Superintendent of Education,,Ellen Weaver,REP,28,16,0,0,0,0,12
+Lee,MT. CLIO,State Superintendent of Education,,Sylvia Wright,DEM,114,78,0,0,0,1,35
+Lee,MT. CLIO,State Superintendent of Education,,Write-In,NON,1,1,0,0,0,0,0
+Lee,Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Lee,Provisional,State Superintendent of Education,,Ellen Weaver,REP,0,0,0,0,0,0,0
+Lee,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Lee,Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,State Superintendent of Education,,Ellen Weaver,REP,102,20,0,0,0,1,81
+Lee,RATTLESNAKE SPRINGS,State Superintendent of Education,,Sylvia Wright,DEM,88,34,0,0,0,1,53
+Lee,RATTLESNAKE SPRINGS,State Superintendent of Education,,Write-In,NON,1,1,0,0,0,0,0
+Lee,SCHROCKS MILL/LUCKNOW,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Lee,SCHROCKS MILL/LUCKNOW,State Superintendent of Education,,Ellen Weaver,REP,112,21,0,0,0,3,88
+Lee,SCHROCKS MILL/LUCKNOW,State Superintendent of Education,,Sylvia Wright,DEM,114,54,0,0,0,1,59
+Lee,SCHROCKS MILL/LUCKNOW,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Lee,SOUTH LYNCHBURG,State Superintendent of Education,,Ellen Weaver,REP,41,9,0,0,0,2,30
+Lee,SOUTH LYNCHBURG,State Superintendent of Education,,Sylvia Wright,DEM,136,43,0,0,0,5,88
+Lee,SOUTH LYNCHBURG,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SPRING HILL,State Superintendent of Education,,Baba Amin Ojuok,UNC,9,3,0,0,0,0,6
+Lee,SPRING HILL,State Superintendent of Education,,Ellen Weaver,REP,103,25,0,0,0,0,78
+Lee,SPRING HILL,State Superintendent of Education,,Sylvia Wright,DEM,275,124,0,0,0,4,147
+Lee,SPRING HILL,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Lee,ST. CHARLES,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,1,0,0,0,0,2
+Lee,ST. CHARLES,State Superintendent of Education,,Ellen Weaver,REP,135,51,0,0,0,0,84
+Lee,ST. CHARLES,State Superintendent of Education,,Sylvia Wright,DEM,391,254,0,0,0,15,122
+Lee,ST. CHARLES,State Superintendent of Education,,Write-In,NON,1,1,0,0,0,0,0
+Lee,ST. MATTHEWS,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,1,0,0,0,0,0
+Lee,ST. MATTHEWS,State Superintendent of Education,,Ellen Weaver,REP,68,20,0,0,0,2,46
+Lee,ST. MATTHEWS,State Superintendent of Education,,Sylvia Wright,DEM,28,11,0,0,0,0,17
+Lee,ST. MATTHEWS,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Lee,TURKEY CREEK,State Superintendent of Education,,Ellen Weaver,REP,38,9,0,0,0,0,29
+Lee,TURKEY CREEK,State Superintendent of Education,,Sylvia Wright,DEM,51,32,0,0,0,1,18
+Lee,TURKEY CREEK,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,WOODROW,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Lee,WOODROW,State Superintendent of Education,,Ellen Weaver,REP,33,11,0,0,0,0,22
+Lee,WOODROW,State Superintendent of Education,,Sylvia Wright,DEM,99,58,0,0,0,2,39
+Lee,WOODROW,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHLAND/STOKES BRIDGE,State Treasurer,,Curtis Loftis,REP,205,50,0,0,0,2,153
+Lee,ASHLAND/STOKES BRIDGE,State Treasurer,,Vincent Coe,DEM,66,27,0,0,0,3,36
+Lee,ASHLAND/STOKES BRIDGE,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHWOOD,State Treasurer,,Curtis Loftis,REP,228,54,0,0,0,0,174
+Lee,ASHWOOD,State Treasurer,,Vincent Coe,DEM,124,62,0,0,0,0,62
+Lee,ASHWOOD,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 1,State Treasurer,,Curtis Loftis,REP,50,26,0,0,0,0,24
+Lee,BISHOPVILLE 1,State Treasurer,,Vincent Coe,DEM,335,217,0,0,0,6,112
+Lee,BISHOPVILLE 1,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,State Treasurer,,Curtis Loftis,REP,61,23,0,0,0,0,38
+Lee,BISHOPVILLE 2,State Treasurer,,Vincent Coe,DEM,316,206,0,0,0,7,103
+Lee,BISHOPVILLE 2,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 3,State Treasurer,,Curtis Loftis,REP,198,97,0,0,0,2,99
+Lee,BISHOPVILLE 3,State Treasurer,,Vincent Coe,DEM,264,199,0,0,0,5,60
+Lee,BISHOPVILLE 3,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 4,State Treasurer,,Curtis Loftis,REP,96,58,0,0,0,0,38
+Lee,BISHOPVILLE 4,State Treasurer,,Vincent Coe,DEM,441,303,0,0,0,7,131
+Lee,BISHOPVILLE 4,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CEDAR CREEK,State Treasurer,,Curtis Loftis,REP,105,27,0,0,0,0,78
+Lee,CEDAR CREEK,State Treasurer,,Vincent Coe,DEM,70,37,0,0,0,4,29
+Lee,CEDAR CREEK,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CYPRESS,State Treasurer,,Curtis Loftis,REP,78,32,0,0,0,6,40
+Lee,CYPRESS,State Treasurer,,Vincent Coe,DEM,208,130,0,0,0,0,78
+Lee,CYPRESS,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ELLIOTT,State Treasurer,,Curtis Loftis,REP,37,20,0,0,0,0,17
+Lee,ELLIOTT,State Treasurer,,Vincent Coe,DEM,231,126,0,0,0,3,102
+Lee,ELLIOTT,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe,State Treasurer,,Curtis Loftis,REP,0,0,0,0,0,0,0
+Lee,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,State Treasurer,,Curtis Loftis,REP,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,State Treasurer,,Curtis Loftis,REP,82,25,0,0,0,2,55
+Lee,HICKORY HILL,State Treasurer,,Vincent Coe,DEM,108,68,0,0,0,1,39
+Lee,HICKORY HILL,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,IONIA,State Treasurer,,Curtis Loftis,REP,175,58,0,0,0,2,115
+Lee,IONIA,State Treasurer,,Vincent Coe,DEM,173,84,0,0,0,7,82
+Lee,IONIA,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,LYNCHBURG,State Treasurer,,Curtis Loftis,REP,63,22,0,0,0,0,41
+Lee,LYNCHBURG,State Treasurer,,Vincent Coe,DEM,285,137,0,0,0,4,144
+Lee,LYNCHBURG,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MANVILLE,State Treasurer,,Curtis Loftis,REP,74,27,0,0,0,0,47
+Lee,MANVILLE,State Treasurer,,Vincent Coe,DEM,256,138,0,0,0,2,116
+Lee,MANVILLE,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MT. CLIO,State Treasurer,,Curtis Loftis,REP,28,16,0,0,0,0,12
+Lee,MT. CLIO,State Treasurer,,Vincent Coe,DEM,116,80,0,0,0,1,35
+Lee,MT. CLIO,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,State Treasurer,,Curtis Loftis,REP,0,0,0,0,0,0,0
+Lee,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Lee,Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,State Treasurer,,Curtis Loftis,REP,103,21,0,0,0,1,81
+Lee,RATTLESNAKE SPRINGS,State Treasurer,,Vincent Coe,DEM,86,34,0,0,0,1,51
+Lee,RATTLESNAKE SPRINGS,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SCHROCKS MILL/LUCKNOW,State Treasurer,,Curtis Loftis,REP,110,20,0,0,0,3,87
+Lee,SCHROCKS MILL/LUCKNOW,State Treasurer,,Vincent Coe,DEM,114,53,0,0,0,1,60
+Lee,SCHROCKS MILL/LUCKNOW,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,State Treasurer,,Curtis Loftis,REP,45,10,0,0,0,2,33
+Lee,SOUTH LYNCHBURG,State Treasurer,,Vincent Coe,DEM,132,42,0,0,0,5,85
+Lee,SOUTH LYNCHBURG,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SPRING HILL,State Treasurer,,Curtis Loftis,REP,106,24,0,0,0,0,82
+Lee,SPRING HILL,State Treasurer,,Vincent Coe,DEM,279,128,0,0,0,4,147
+Lee,SPRING HILL,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Lee,ST. CHARLES,State Treasurer,,Curtis Loftis,REP,140,53,0,0,0,0,87
+Lee,ST. CHARLES,State Treasurer,,Vincent Coe,DEM,391,255,0,0,0,15,121
+Lee,ST. CHARLES,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. MATTHEWS,State Treasurer,,Curtis Loftis,REP,70,21,0,0,0,2,47
+Lee,ST. MATTHEWS,State Treasurer,,Vincent Coe,DEM,28,11,0,0,0,0,17
+Lee,ST. MATTHEWS,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,State Treasurer,,Curtis Loftis,REP,39,9,0,0,0,0,30
+Lee,TURKEY CREEK,State Treasurer,,Vincent Coe,DEM,51,32,0,0,0,1,18
+Lee,TURKEY CREEK,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,WOODROW,State Treasurer,,Curtis Loftis,REP,34,11,0,0,0,1,22
+Lee,WOODROW,State Treasurer,,Vincent Coe,DEM,98,58,0,0,0,1,39
+Lee,WOODROW,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHLAND/STOKES BRIDGE,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lee,ASHLAND/STOKES BRIDGE,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,ASHLAND/STOKES BRIDGE,Straight Party,,Republican,REP,138,30,0,0,0,2,106
+Lee,ASHLAND/STOKES BRIDGE,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,ASHLAND/STOKES BRIDGE,Straight Party,,Democratic,DEM,51,23,0,0,0,3,25
+Lee,ASHLAND/STOKES BRIDGE,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,ASHWOOD,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Lee,ASHWOOD,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,ASHWOOD,Straight Party,,Republican,REP,141,36,0,0,0,0,105
+Lee,ASHWOOD,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,ASHWOOD,Straight Party,,Democratic,DEM,87,49,0,0,0,0,38
+Lee,ASHWOOD,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 1,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Lee,BISHOPVILLE 1,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Lee,BISHOPVILLE 1,Straight Party,,Republican,REP,25,12,0,0,0,0,13
+Lee,BISHOPVILLE 1,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 1,Straight Party,,Democratic,DEM,286,187,0,0,0,5,94
+Lee,BISHOPVILLE 1,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+Lee,BISHOPVILLE 2,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,Straight Party,,Republican,REP,31,12,0,0,0,0,19
+Lee,BISHOPVILLE 2,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,Straight Party,,Democratic,DEM,277,179,0,0,0,5,93
+Lee,BISHOPVILLE 2,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 3,Straight Party,,United Citizens,UNC,3,1,0,0,0,0,2
+Lee,BISHOPVILLE 3,Straight Party,,Green,GRN,2,2,0,0,0,0,0
+Lee,BISHOPVILLE 3,Straight Party,,Republican,REP,94,50,0,0,0,1,43
+Lee,BISHOPVILLE 3,Straight Party,,Libertarian,LIB,1,1,0,0,0,0,0
+Lee,BISHOPVILLE 3,Straight Party,,Democratic,DEM,210,163,0,0,0,4,43
+Lee,BISHOPVILLE 3,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 4,Straight Party,,United Citizens,UNC,4,2,0,0,0,0,2
+Lee,BISHOPVILLE 4,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 4,Straight Party,,Republican,REP,48,34,0,0,0,0,14
+Lee,BISHOPVILLE 4,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lee,BISHOPVILLE 4,Straight Party,,Democratic,DEM,368,256,0,0,0,6,106
+Lee,BISHOPVILLE 4,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,CEDAR CREEK,Straight Party,,United Citizens,UNC,3,1,0,0,0,0,2
+Lee,CEDAR CREEK,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Lee,CEDAR CREEK,Straight Party,,Republican,REP,62,14,0,0,0,0,48
+Lee,CEDAR CREEK,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,CEDAR CREEK,Straight Party,,Democratic,DEM,55,28,0,0,0,3,24
+Lee,CEDAR CREEK,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,CYPRESS,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lee,CYPRESS,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,CYPRESS,Straight Party,,Republican,REP,52,24,0,0,0,0,28
+Lee,CYPRESS,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,CYPRESS,Straight Party,,Democratic,DEM,172,106,0,0,0,0,66
+Lee,CYPRESS,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,ELLIOTT,Straight Party,,United Citizens,UNC,2,2,0,0,0,0,0
+Lee,ELLIOTT,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,ELLIOTT,Straight Party,,Republican,REP,20,10,0,0,0,0,10
+Lee,ELLIOTT,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,ELLIOTT,Straight Party,,Democratic,DEM,208,115,0,0,0,2,91
+Lee,ELLIOTT,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,Failsafe,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lee,Failsafe,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,Failsafe,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+Lee,Failsafe,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,Failsafe,Straight Party,,Democratic,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Straight Party,,Democratic,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+Lee,HICKORY HILL,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,HICKORY HILL,Straight Party,,Republican,REP,51,20,0,0,0,0,31
+Lee,HICKORY HILL,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,HICKORY HILL,Straight Party,,Democratic,DEM,91,60,0,0,0,0,31
+Lee,HICKORY HILL,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,IONIA,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lee,IONIA,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Lee,IONIA,Straight Party,,Republican,REP,107,44,0,0,0,0,63
+Lee,IONIA,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,IONIA,Straight Party,,Democratic,DEM,134,66,0,0,0,5,63
+Lee,IONIA,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,LYNCHBURG,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lee,LYNCHBURG,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,LYNCHBURG,Straight Party,,Republican,REP,38,12,0,0,0,0,26
+Lee,LYNCHBURG,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lee,LYNCHBURG,Straight Party,,Democratic,DEM,250,117,0,0,0,3,130
+Lee,LYNCHBURG,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,MANVILLE,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Lee,MANVILLE,Straight Party,,Green,GRN,3,1,0,0,0,0,2
+Lee,MANVILLE,Straight Party,,Republican,REP,47,17,0,0,0,0,30
+Lee,MANVILLE,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,MANVILLE,Straight Party,,Democratic,DEM,202,115,0,0,0,1,86
+Lee,MANVILLE,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,MT. CLIO,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Lee,MT. CLIO,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Lee,MT. CLIO,Straight Party,,Republican,REP,14,6,0,0,0,0,8
+Lee,MT. CLIO,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,MT. CLIO,Straight Party,,Democratic,DEM,98,68,0,0,0,1,29
+Lee,MT. CLIO,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lee,Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,Provisional,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+Lee,Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,Provisional,Straight Party,,Democratic,DEM,0,0,0,0,0,0,0
+Lee,Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Straight Party,,Republican,REP,53,9,0,0,0,0,44
+Lee,RATTLESNAKE SPRINGS,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,Straight Party,,Democratic,DEM,68,26,0,0,0,1,41
+Lee,RATTLESNAKE SPRINGS,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,SCHROCKS MILL/LUCKNOW,Straight Party,,United Citizens,UNC,1,0,0,0,0,1,0
+Lee,SCHROCKS MILL/LUCKNOW,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Lee,SCHROCKS MILL/LUCKNOW,Straight Party,,Republican,REP,70,12,0,0,0,2,56
+Lee,SCHROCKS MILL/LUCKNOW,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,SCHROCKS MILL/LUCKNOW,Straight Party,,Democratic,DEM,84,40,0,0,0,1,43
+Lee,SCHROCKS MILL/LUCKNOW,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Lee,SOUTH LYNCHBURG,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,Straight Party,,Republican,REP,21,6,0,0,0,0,15
+Lee,SOUTH LYNCHBURG,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,Straight Party,,Democratic,DEM,120,37,0,0,0,5,78
+Lee,SOUTH LYNCHBURG,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,SPRING HILL,Straight Party,,United Citizens,UNC,2,0,0,0,0,0,2
+Lee,SPRING HILL,Straight Party,,Green,GRN,2,0,0,0,0,0,2
+Lee,SPRING HILL,Straight Party,,Republican,REP,56,14,0,0,0,0,42
+Lee,SPRING HILL,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,SPRING HILL,Straight Party,,Democratic,DEM,239,108,0,0,0,4,127
+Lee,SPRING HILL,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Lee,ST. CHARLES,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Lee,ST. CHARLES,Straight Party,,Green,GRN,2,1,0,0,0,0,1
+Lee,ST. CHARLES,Straight Party,,Republican,REP,71,24,0,0,0,0,47
+Lee,ST. CHARLES,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lee,ST. CHARLES,Straight Party,,Democratic,DEM,336,216,0,0,0,14,106
+Lee,ST. CHARLES,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,ST. MATTHEWS,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Lee,ST. MATTHEWS,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,ST. MATTHEWS,Straight Party,,Republican,REP,43,15,0,0,0,0,28
+Lee,ST. MATTHEWS,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,ST. MATTHEWS,Straight Party,,Democratic,DEM,25,9,0,0,0,0,16
+Lee,ST. MATTHEWS,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,Straight Party,,Republican,REP,26,8,0,0,0,0,18
+Lee,TURKEY CREEK,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,Straight Party,,Democratic,DEM,45,27,0,0,0,0,18
+Lee,TURKEY CREEK,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,WOODROW,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lee,WOODROW,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lee,WOODROW,Straight Party,,Republican,REP,19,7,0,0,0,0,12
+Lee,WOODROW,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lee,WOODROW,Straight Party,,Democratic,DEM,84,51,0,0,0,1,32
+Lee,WOODROW,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lee,ASHLAND/STOKES BRIDGE,U.S. House,5,Wes Climer,REP,205,50,0,0,0,2,153
+Lee,ASHLAND/STOKES BRIDGE,U.S. House,5,Mallory Dittmer,DEM,64,26,0,0,0,3,35
+Lee,ASHLAND/STOKES BRIDGE,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHWOOD,U.S. House,5,Wes Climer,REP,222,53,0,0,0,0,169
+Lee,ASHWOOD,U.S. House,5,Mallory Dittmer,DEM,127,63,0,0,0,0,64
+Lee,ASHWOOD,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 1,U.S. House,5,Wes Climer,REP,48,26,0,0,0,0,22
+Lee,BISHOPVILLE 1,U.S. House,5,Mallory Dittmer,DEM,336,217,0,0,0,5,114
+Lee,BISHOPVILLE 1,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,U.S. House,5,Wes Climer,REP,61,22,0,0,0,0,39
+Lee,BISHOPVILLE 2,U.S. House,5,Mallory Dittmer,DEM,313,205,0,0,0,7,101
+Lee,BISHOPVILLE 2,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 3,U.S. House,5,Wes Climer,REP,197,96,0,0,0,2,99
+Lee,BISHOPVILLE 3,U.S. House,5,Mallory Dittmer,DEM,269,202,0,0,0,5,62
+Lee,BISHOPVILLE 3,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 4,U.S. House,5,Wes Climer,REP,88,54,0,0,0,0,34
+Lee,BISHOPVILLE 4,U.S. House,5,Mallory Dittmer,DEM,439,299,0,0,0,7,133
+Lee,BISHOPVILLE 4,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,CEDAR CREEK,U.S. House,5,Wes Climer,REP,104,24,0,0,0,0,80
+Lee,CEDAR CREEK,U.S. House,5,Mallory Dittmer,DEM,71,39,0,0,0,4,28
+Lee,CEDAR CREEK,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,CYPRESS,U.S. House,5,Wes Climer,REP,75,31,0,0,0,6,38
+Lee,CYPRESS,U.S. House,5,Mallory Dittmer,DEM,213,131,0,0,0,0,82
+Lee,CYPRESS,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,ELLIOTT,U.S. House,5,Wes Climer,REP,36,19,0,0,0,0,17
+Lee,ELLIOTT,U.S. House,5,Mallory Dittmer,DEM,233,127,0,0,0,3,103
+Lee,ELLIOTT,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe,U.S. House,5,Wes Climer,REP,0,0,0,0,0,0,0
+Lee,Failsafe,U.S. House,5,Mallory Dittmer,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,U.S. House,5,Wes Climer,REP,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,U.S. House,5,Mallory Dittmer,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,U.S. House,5,Wes Climer,REP,81,24,0,0,0,1,56
+Lee,HICKORY HILL,U.S. House,5,Mallory Dittmer,DEM,107,69,0,0,0,1,37
+Lee,HICKORY HILL,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,IONIA,U.S. House,5,Wes Climer,REP,176,60,0,0,0,2,114
+Lee,IONIA,U.S. House,5,Mallory Dittmer,DEM,174,84,0,0,0,7,83
+Lee,IONIA,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,LYNCHBURG,U.S. House,5,Wes Climer,REP,61,20,0,0,0,0,41
+Lee,LYNCHBURG,U.S. House,5,Mallory Dittmer,DEM,286,138,0,0,0,4,144
+Lee,LYNCHBURG,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,MANVILLE,U.S. House,5,Wes Climer,REP,74,27,0,0,0,0,47
+Lee,MANVILLE,U.S. House,5,Mallory Dittmer,DEM,255,139,0,0,0,2,114
+Lee,MANVILLE,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,MT. CLIO,U.S. House,5,Wes Climer,REP,26,14,0,0,0,0,12
+Lee,MT. CLIO,U.S. House,5,Mallory Dittmer,DEM,119,83,0,0,0,1,35
+Lee,MT. CLIO,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,U.S. House,5,Wes Climer,REP,0,0,0,0,0,0,0
+Lee,Provisional,U.S. House,5,Mallory Dittmer,DEM,0,0,0,0,0,0,0
+Lee,Provisional,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,U.S. House,5,Wes Climer,REP,102,20,0,0,0,1,81
+Lee,RATTLESNAKE SPRINGS,U.S. House,5,Mallory Dittmer,DEM,89,36,0,0,0,1,52
+Lee,RATTLESNAKE SPRINGS,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,SCHROCKS MILL/LUCKNOW,U.S. House,5,Wes Climer,REP,113,21,0,0,0,3,89
+Lee,SCHROCKS MILL/LUCKNOW,U.S. House,5,Mallory Dittmer,DEM,115,54,0,0,0,1,60
+Lee,SCHROCKS MILL/LUCKNOW,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,U.S. House,5,Wes Climer,REP,45,9,0,0,0,2,34
+Lee,SOUTH LYNCHBURG,U.S. House,5,Mallory Dittmer,DEM,132,43,0,0,0,5,84
+Lee,SOUTH LYNCHBURG,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,SPRING HILL,U.S. House,5,Wes Climer,REP,105,24,0,0,0,0,81
+Lee,SPRING HILL,U.S. House,5,Mallory Dittmer,DEM,283,129,0,0,0,4,150
+Lee,SPRING HILL,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. CHARLES,U.S. House,5,Wes Climer,REP,137,51,0,0,0,0,86
+Lee,ST. CHARLES,U.S. House,5,Mallory Dittmer,DEM,394,257,0,0,0,15,122
+Lee,ST. CHARLES,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. MATTHEWS,U.S. House,5,Wes Climer,REP,70,21,0,0,0,2,47
+Lee,ST. MATTHEWS,U.S. House,5,Mallory Dittmer,DEM,28,11,0,0,0,0,17
+Lee,ST. MATTHEWS,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,U.S. House,5,Wes Climer,REP,39,9,0,0,0,0,30
+Lee,TURKEY CREEK,U.S. House,5,Mallory Dittmer,DEM,51,32,0,0,0,1,18
+Lee,TURKEY CREEK,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,WOODROW,U.S. House,5,Wes Climer,REP,35,12,0,0,0,0,23
+Lee,WOODROW,U.S. House,5,Mallory Dittmer,DEM,96,57,0,0,0,2,37
+Lee,WOODROW,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lee,ASHLAND/STOKES BRIDGE,U.S. Senate,,Darline Graham,REP,186,42,0,0,0,2,142
+Lee,ASHLAND/STOKES BRIDGE,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Lee,ASHLAND/STOKES BRIDGE,U.S. Senate,,Annie Andrews,DEM,75,32,0,0,0,3,40
+Lee,ASHLAND/STOKES BRIDGE,U.S. Senate,,Mark Hackett,CON,7,3,0,0,0,0,4
+Lee,ASHLAND/STOKES BRIDGE,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Lee,ASHWOOD,U.S. Senate,,Darline Graham,REP,212,49,0,0,0,0,163
+Lee,ASHWOOD,U.S. Senate,,Kasie Whitener,LIB,2,1,0,0,0,0,1
+Lee,ASHWOOD,U.S. Senate,,Annie Andrews,DEM,134,65,0,0,0,0,69
+Lee,ASHWOOD,U.S. Senate,,Mark Hackett,CON,4,2,0,0,0,0,2
+Lee,ASHWOOD,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 1,U.S. Senate,,Darline Graham,REP,46,25,0,0,0,0,21
+Lee,BISHOPVILLE 1,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Lee,BISHOPVILLE 1,U.S. Senate,,Annie Andrews,DEM,335,217,0,0,0,5,113
+Lee,BISHOPVILLE 1,U.S. Senate,,Mark Hackett,CON,1,1,0,0,0,0,0
+Lee,BISHOPVILLE 1,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,U.S. Senate,,Darline Graham,REP,59,21,0,0,0,0,38
+Lee,BISHOPVILLE 2,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,U.S. Senate,,Annie Andrews,DEM,319,208,0,0,0,7,104
+Lee,BISHOPVILLE 2,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 2,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,BISHOPVILLE 3,U.S. Senate,,Darline Graham,REP,183,94,0,0,0,2,87
+Lee,BISHOPVILLE 3,U.S. Senate,,Kasie Whitener,LIB,4,3,0,0,0,0,1
+Lee,BISHOPVILLE 3,U.S. Senate,,Annie Andrews,DEM,273,201,0,0,0,5,67
+Lee,BISHOPVILLE 3,U.S. Senate,,Mark Hackett,CON,5,2,0,0,0,0,3
+Lee,BISHOPVILLE 3,U.S. Senate,,Write-In,NON,3,0,0,0,0,0,3
+Lee,BISHOPVILLE 4,U.S. Senate,,Darline Graham,REP,88,52,0,0,0,0,36
+Lee,BISHOPVILLE 4,U.S. Senate,,Kasie Whitener,LIB,4,1,0,0,0,0,3
+Lee,BISHOPVILLE 4,U.S. Senate,,Annie Andrews,DEM,438,303,0,0,0,7,128
+Lee,BISHOPVILLE 4,U.S. Senate,,Mark Hackett,CON,4,2,0,0,0,0,2
+Lee,BISHOPVILLE 4,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,CEDAR CREEK,U.S. Senate,,Darline Graham,REP,95,22,0,0,0,0,73
+Lee,CEDAR CREEK,U.S. Senate,,Kasie Whitener,LIB,4,2,0,0,0,0,2
+Lee,CEDAR CREEK,U.S. Senate,,Annie Andrews,DEM,77,39,0,0,0,4,34
+Lee,CEDAR CREEK,U.S. Senate,,Mark Hackett,CON,2,2,0,0,0,0,0
+Lee,CEDAR CREEK,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Lee,CYPRESS,U.S. Senate,,Darline Graham,REP,73,30,0,0,0,6,37
+Lee,CYPRESS,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Lee,CYPRESS,U.S. Senate,,Annie Andrews,DEM,212,130,0,0,0,0,82
+Lee,CYPRESS,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Lee,CYPRESS,U.S. Senate,,Write-In,NON,1,1,0,0,0,0,0
+Lee,ELLIOTT,U.S. Senate,,Darline Graham,REP,33,17,0,0,0,0,16
+Lee,ELLIOTT,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Lee,ELLIOTT,U.S. Senate,,Annie Andrews,DEM,233,127,0,0,0,3,103
+Lee,ELLIOTT,U.S. Senate,,Mark Hackett,CON,2,2,0,0,0,0,0
+Lee,ELLIOTT,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Lee,Failsafe,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Lee,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Lee,Failsafe,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Lee,Failsafe,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Lee,Failsafe Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,U.S. Senate,,Darline Graham,REP,77,25,0,0,0,1,51
+Lee,HICKORY HILL,U.S. Senate,,Kasie Whitener,LIB,2,1,0,0,0,0,1
+Lee,HICKORY HILL,U.S. Senate,,Annie Andrews,DEM,112,68,0,0,0,2,42
+Lee,HICKORY HILL,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Lee,HICKORY HILL,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,IONIA,U.S. Senate,,Darline Graham,REP,158,55,0,0,0,2,101
+Lee,IONIA,U.S. Senate,,Kasie Whitener,LIB,3,1,0,0,0,0,2
+Lee,IONIA,U.S. Senate,,Annie Andrews,DEM,185,85,0,0,0,6,94
+Lee,IONIA,U.S. Senate,,Mark Hackett,CON,6,2,0,0,0,1,3
+Lee,IONIA,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,LYNCHBURG,U.S. Senate,,Darline Graham,REP,52,16,0,0,0,0,36
+Lee,LYNCHBURG,U.S. Senate,,Kasie Whitener,LIB,6,1,0,0,0,0,5
+Lee,LYNCHBURG,U.S. Senate,,Annie Andrews,DEM,287,141,0,0,0,4,142
+Lee,LYNCHBURG,U.S. Senate,,Mark Hackett,CON,3,2,0,0,0,0,1
+Lee,LYNCHBURG,U.S. Senate,,Write-In,NON,1,1,0,0,0,0,0
+Lee,MANVILLE,U.S. Senate,,Darline Graham,REP,70,25,0,0,0,0,45
+Lee,MANVILLE,U.S. Senate,,Kasie Whitener,LIB,2,0,0,0,0,0,2
+Lee,MANVILLE,U.S. Senate,,Annie Andrews,DEM,263,143,0,0,0,2,118
+Lee,MANVILLE,U.S. Senate,,Mark Hackett,CON,2,1,0,0,0,0,1
+Lee,MANVILLE,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,MT. CLIO,U.S. Senate,,Darline Graham,REP,26,14,0,0,0,0,12
+Lee,MT. CLIO,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Lee,MT. CLIO,U.S. Senate,,Annie Andrews,DEM,118,83,0,0,0,1,34
+Lee,MT. CLIO,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Lee,MT. CLIO,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,Provisional,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Lee,Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Lee,Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Lee,Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Lee,Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,U.S. Senate,,Darline Graham,REP,98,20,0,0,0,1,77
+Lee,RATTLESNAKE SPRINGS,U.S. Senate,,Kasie Whitener,LIB,2,1,0,0,0,0,1
+Lee,RATTLESNAKE SPRINGS,U.S. Senate,,Annie Andrews,DEM,92,35,0,0,0,1,56
+Lee,RATTLESNAKE SPRINGS,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Lee,RATTLESNAKE SPRINGS,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SCHROCKS MILL/LUCKNOW,U.S. Senate,,Darline Graham,REP,107,20,0,0,0,3,84
+Lee,SCHROCKS MILL/LUCKNOW,U.S. Senate,,Kasie Whitener,LIB,4,0,0,0,0,0,4
+Lee,SCHROCKS MILL/LUCKNOW,U.S. Senate,,Annie Andrews,DEM,113,54,0,0,0,1,58
+Lee,SCHROCKS MILL/LUCKNOW,U.S. Senate,,Mark Hackett,CON,4,1,0,0,0,0,3
+Lee,SCHROCKS MILL/LUCKNOW,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,U.S. Senate,,Darline Graham,REP,40,8,0,0,0,1,31
+Lee,SOUTH LYNCHBURG,U.S. Senate,,Kasie Whitener,LIB,2,0,0,0,0,1,1
+Lee,SOUTH LYNCHBURG,U.S. Senate,,Annie Andrews,DEM,135,43,0,0,0,5,87
+Lee,SOUTH LYNCHBURG,U.S. Senate,,Mark Hackett,CON,1,1,0,0,0,0,0
+Lee,SOUTH LYNCHBURG,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,SPRING HILL,U.S. Senate,,Darline Graham,REP,93,22,0,0,0,0,71
+Lee,SPRING HILL,U.S. Senate,,Kasie Whitener,LIB,2,2,0,0,0,0,0
+Lee,SPRING HILL,U.S. Senate,,Annie Andrews,DEM,289,128,0,0,0,4,157
+Lee,SPRING HILL,U.S. Senate,,Mark Hackett,CON,5,2,0,0,0,0,3
+Lee,SPRING HILL,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,ST. CHARLES,U.S. Senate,,Darline Graham,REP,128,50,0,0,0,0,78
+Lee,ST. CHARLES,U.S. Senate,,Kasie Whitener,LIB,2,0,0,0,0,0,2
+Lee,ST. CHARLES,U.S. Senate,,Annie Andrews,DEM,398,258,0,0,0,15,125
+Lee,ST. CHARLES,U.S. Senate,,Mark Hackett,CON,2,0,0,0,0,0,2
+Lee,ST. CHARLES,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Lee,ST. MATTHEWS,U.S. Senate,,Darline Graham,REP,65,21,0,0,0,2,42
+Lee,ST. MATTHEWS,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Lee,ST. MATTHEWS,U.S. Senate,,Annie Andrews,DEM,32,11,0,0,0,0,21
+Lee,ST. MATTHEWS,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Lee,ST. MATTHEWS,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,U.S. Senate,,Darline Graham,REP,37,9,0,0,0,0,28
+Lee,TURKEY CREEK,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Lee,TURKEY CREEK,U.S. Senate,,Annie Andrews,DEM,52,32,0,0,0,1,19
+Lee,TURKEY CREEK,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Lee,TURKEY CREEK,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Lee,WOODROW,U.S. Senate,,Darline Graham,REP,31,11,0,0,0,0,20
+Lee,WOODROW,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Lee,WOODROW,U.S. Senate,,Annie Andrews,DEM,97,58,0,0,0,2,37
+Lee,WOODROW,U.S. Senate,,Mark Hackett,CON,3,0,0,0,0,0,3
+Lee,WOODROW,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0

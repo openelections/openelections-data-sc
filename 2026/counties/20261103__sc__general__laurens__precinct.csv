@@ -1,0 +1,2304 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Laurens,BAILEY,Attorney General,,David Stumbo,REP,355,116,0,0,0,3,236
+Laurens,BAILEY,Attorney General,,Richard Hricik,DEM,249,133,0,0,0,3,113
+Laurens,BAILEY,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,Attorney General,,David Stumbo,REP,402,133,0,0,0,4,265
+Laurens,BARKSDALE-NARINE,Attorney General,,Richard Hricik,DEM,203,117,0,0,0,4,82
+Laurens,BARKSDALE-NARINE,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BREWERTON-PRINCETON,Attorney General,,David Stumbo,REP,345,54,0,0,0,2,289
+Laurens,BREWERTON-PRINCETON,Attorney General,,Richard Hricik,DEM,55,20,0,0,0,0,35
+Laurens,BREWERTON-PRINCETON,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 1,Attorney General,,David Stumbo,REP,358,75,0,0,0,3,280
+Laurens,CLINTON 1,Attorney General,,Richard Hricik,DEM,338,145,0,0,0,4,189
+Laurens,CLINTON 1,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 2,Attorney General,,David Stumbo,REP,396,101,0,0,0,5,290
+Laurens,CLINTON 2,Attorney General,,Richard Hricik,DEM,313,135,0,0,0,9,169
+Laurens,CLINTON 2,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,CLINTON 3,Attorney General,,David Stumbo,REP,604,170,0,0,0,4,430
+Laurens,CLINTON 3,Attorney General,,Richard Hricik,DEM,260,115,0,0,0,5,140
+Laurens,CLINTON 3,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON MILL,Attorney General,,David Stumbo,REP,155,36,0,0,0,1,118
+Laurens,CLINTON MILL,Attorney General,,Richard Hricik,DEM,366,163,0,0,0,14,189
+Laurens,CLINTON MILL,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,COOKS,Attorney General,,David Stumbo,REP,673,106,0,0,0,6,561
+Laurens,COOKS,Attorney General,,Richard Hricik,DEM,301,116,0,0,0,5,180
+Laurens,COOKS,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,CROSS HILL,Attorney General,,David Stumbo,REP,687,156,0,0,0,4,527
+Laurens,CROSS HILL,Attorney General,,Richard Hricik,DEM,354,130,0,0,0,6,218
+Laurens,CROSS HILL,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,EKOM,Attorney General,,David Stumbo,REP,267,90,0,0,0,1,176
+Laurens,EKOM,Attorney General,,Richard Hricik,DEM,76,42,0,0,0,0,34
+Laurens,EKOM,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,Attorney General,,David Stumbo,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,Attorney General,,Richard Hricik,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Attorney General,,David Stumbo,REP,6,0,6,0,0,0,0
+Laurens,Failsafe Provisional,Attorney General,,Richard Hricik,DEM,12,0,12,0,0,0,0
+Laurens,Failsafe Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,Attorney General,,David Stumbo,REP,442,91,0,0,0,1,350
+Laurens,GRAY COURT,Attorney General,,Richard Hricik,DEM,290,120,0,0,0,0,170
+Laurens,GRAY COURT,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,GREENPOND,Attorney General,,David Stumbo,REP,700,114,0,0,0,4,582
+Laurens,GREENPOND,Attorney General,,Richard Hricik,DEM,190,80,0,0,0,2,108
+Laurens,GREENPOND,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,HICKORY TAVERN,Attorney General,,David Stumbo,REP,1079,339,0,0,0,10,730
+Laurens,HICKORY TAVERN,Attorney General,,Richard Hricik,DEM,244,108,0,0,0,2,134
+Laurens,HICKORY TAVERN,Attorney General,,Write-In,NON,5,2,0,0,0,0,3
+Laurens,JOANNA,Attorney General,,David Stumbo,REP,619,110,0,0,0,3,506
+Laurens,JOANNA,Attorney General,,Richard Hricik,DEM,210,94,0,0,0,3,113
+Laurens,JOANNA,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JONES,Attorney General,,David Stumbo,REP,1239,271,0,0,0,15,953
+Laurens,JONES,Attorney General,,Richard Hricik,DEM,1091,462,0,0,0,14,615
+Laurens,JONES,Attorney General,,Write-In,NON,3,2,0,0,0,0,1
+Laurens,LAURENS 1,Attorney General,,David Stumbo,REP,115,59,0,0,0,0,56
+Laurens,LAURENS 1,Attorney General,,Richard Hricik,DEM,190,102,0,0,0,3,85
+Laurens,LAURENS 1,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 2,Attorney General,,David Stumbo,REP,29,11,0,0,0,0,18
+Laurens,LAURENS 2,Attorney General,,Richard Hricik,DEM,156,78,0,0,0,0,78
+Laurens,LAURENS 2,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 3,Attorney General,,David Stumbo,REP,120,48,0,0,0,0,72
+Laurens,LAURENS 3,Attorney General,,Richard Hricik,DEM,238,131,0,0,0,2,105
+Laurens,LAURENS 3,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 4,Attorney General,,David Stumbo,REP,82,29,0,0,0,1,52
+Laurens,LAURENS 4,Attorney General,,Richard Hricik,DEM,288,128,0,0,0,1,159
+Laurens,LAURENS 4,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 5,Attorney General,,David Stumbo,REP,530,230,0,0,0,15,285
+Laurens,LAURENS 5,Attorney General,,Richard Hricik,DEM,379,185,0,0,0,19,175
+Laurens,LAURENS 5,Attorney General,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,LAURENS 6,Attorney General,,David Stumbo,REP,485,250,0,0,0,6,229
+Laurens,LAURENS 6,Attorney General,,Richard Hricik,DEM,238,138,0,0,0,4,96
+Laurens,LAURENS 6,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LONG BRANCH,Attorney General,,David Stumbo,REP,559,163,0,0,0,2,394
+Laurens,LONG BRANCH,Attorney General,,Richard Hricik,DEM,159,97,0,0,0,3,59
+Laurens,LONG BRANCH,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LYDIA MILL,Attorney General,,David Stumbo,REP,232,62,0,0,0,2,168
+Laurens,LYDIA MILL,Attorney General,,Richard Hricik,DEM,408,221,0,0,0,16,171
+Laurens,LYDIA MILL,Attorney General,,Write-In,NON,3,0,0,0,0,1,2
+Laurens,MADDENS,Attorney General,,David Stumbo,REP,467,123,0,0,0,1,343
+Laurens,MADDENS,Attorney General,,Richard Hricik,DEM,206,135,0,0,0,0,71
+Laurens,MADDENS,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MARTINS-POPLAR SPRINGS,Attorney General,,David Stumbo,REP,303,45,0,0,0,1,257
+Laurens,MARTINS-POPLAR SPRINGS,Attorney General,,Richard Hricik,DEM,68,18,0,0,0,1,49
+Laurens,MARTINS-POPLAR SPRINGS,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,MOUNT OLIVE,Attorney General,,David Stumbo,REP,481,95,0,0,0,3,383
+Laurens,MOUNT OLIVE,Attorney General,,Richard Hricik,DEM,86,40,0,0,0,4,42
+Laurens,MOUNT OLIVE,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,MOUNTVILLE,Attorney General,,David Stumbo,REP,214,51,0,0,0,1,162
+Laurens,MOUNTVILLE,Attorney General,,Richard Hricik,DEM,130,56,0,0,0,2,72
+Laurens,MOUNTVILLE,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,ORA-LANFORD,Attorney General,,David Stumbo,REP,351,63,0,0,0,0,288
+Laurens,ORA-LANFORD,Attorney General,,Richard Hricik,DEM,198,106,0,0,0,1,91
+Laurens,ORA-LANFORD,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,OWINGS,Attorney General,,David Stumbo,REP,371,61,0,0,0,1,309
+Laurens,OWINGS,Attorney General,,Richard Hricik,DEM,187,83,0,0,0,1,103
+Laurens,OWINGS,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Provisional,Attorney General,,David Stumbo,REP,7,0,0,7,0,0,0
+Laurens,Provisional,Attorney General,,Richard Hricik,DEM,5,0,0,5,0,0,0
+Laurens,Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,Attorney General,,David Stumbo,REP,553,215,0,0,0,0,338
+Laurens,TRINITY RIDGE,Attorney General,,Richard Hricik,DEM,293,174,0,0,0,9,110
+Laurens,TRINITY RIDGE,Attorney General,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,WATERLOO,Attorney General,,David Stumbo,REP,655,192,0,0,0,5,458
+Laurens,WATERLOO,Attorney General,,Richard Hricik,DEM,326,158,0,0,0,7,161
+Laurens,WATERLOO,Attorney General,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,WATTSVILLE,Attorney General,,David Stumbo,REP,398,167,0,0,0,7,224
+Laurens,WATTSVILLE,Attorney General,,Richard Hricik,DEM,243,143,0,0,0,1,99
+Laurens,WATTSVILLE,Attorney General,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,YOUNGS,Attorney General,,David Stumbo,REP,528,109,0,0,0,1,418
+Laurens,YOUNGS,Attorney General,,Richard Hricik,DEM,139,70,0,0,0,1,68
+Laurens,YOUNGS,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,BAILEY,Auditor,,Linda Walden Hodges,REP,431,150,0,0,0,2,279
+Laurens,BAILEY,Auditor,,Write-In,NON,4,0,0,0,0,1,3
+Laurens,BARKSDALE-NARINE,Auditor,,Linda Walden Hodges,REP,463,161,0,0,0,6,296
+Laurens,BARKSDALE-NARINE,Auditor,,Write-In,NON,10,9,0,0,0,0,1
+Laurens,BREWERTON-PRINCETON,Auditor,,Linda Walden Hodges,REP,365,62,0,0,0,2,301
+Laurens,BREWERTON-PRINCETON,Auditor,,Write-In,NON,5,0,0,0,0,0,5
+Laurens,CLINTON 1,Auditor,,Linda Walden Hodges,REP,471,109,0,0,0,3,359
+Laurens,CLINTON 1,Auditor,,Write-In,NON,10,5,0,0,0,0,5
+Laurens,CLINTON 2,Auditor,,Linda Walden Hodges,REP,522,158,0,0,0,4,360
+Laurens,CLINTON 2,Auditor,,Write-In,NON,18,6,0,0,0,1,11
+Laurens,CLINTON 3,Auditor,,Linda Walden Hodges,REP,706,209,0,0,0,5,492
+Laurens,CLINTON 3,Auditor,,Write-In,NON,9,3,0,0,0,0,6
+Laurens,CLINTON MILL,Auditor,,Linda Walden Hodges,REP,269,78,0,0,0,5,186
+Laurens,CLINTON MILL,Auditor,,Write-In,NON,11,6,0,0,0,0,5
+Laurens,COOKS,Auditor,,Linda Walden Hodges,REP,784,141,0,0,0,7,636
+Laurens,COOKS,Auditor,,Write-In,NON,12,4,0,0,0,0,8
+Laurens,CROSS HILL,Auditor,,Linda Walden Hodges,REP,762,181,0,0,0,5,576
+Laurens,CROSS HILL,Auditor,,Write-In,NON,10,4,0,0,0,0,6
+Laurens,EKOM,Auditor,,Linda Walden Hodges,REP,289,99,0,0,0,1,189
+Laurens,EKOM,Auditor,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,Failsafe,Auditor,,Linda Walden Hodges,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Auditor,,Linda Walden Hodges,REP,7,0,7,0,0,0,0
+Laurens,Failsafe Provisional,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,Auditor,,Linda Walden Hodges,REP,507,114,0,0,0,1,392
+Laurens,GRAY COURT,Auditor,,Write-In,NON,10,5,0,0,0,0,5
+Laurens,GREENPOND,Auditor,,Linda Walden Hodges,REP,769,140,0,0,0,5,624
+Laurens,GREENPOND,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,HICKORY TAVERN,Auditor,,Linda Walden Hodges,REP,1169,374,0,0,0,10,785
+Laurens,HICKORY TAVERN,Auditor,,Write-In,NON,8,4,0,0,0,0,4
+Laurens,JOANNA,Auditor,,Linda Walden Hodges,REP,709,140,0,0,0,4,565
+Laurens,JOANNA,Auditor,,Write-In,NON,5,3,0,0,0,0,2
+Laurens,JONES,Auditor,,Linda Walden Hodges,REP,1596,402,0,0,0,18,1176
+Laurens,JONES,Auditor,,Write-In,NON,40,19,0,0,0,0,21
+Laurens,LAURENS 1,Auditor,,Linda Walden Hodges,REP,155,75,0,0,0,1,79
+Laurens,LAURENS 1,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,LAURENS 2,Auditor,,Linda Walden Hodges,REP,56,25,0,0,0,0,31
+Laurens,LAURENS 2,Auditor,,Write-In,NON,4,1,0,0,0,0,3
+Laurens,LAURENS 3,Auditor,,Linda Walden Hodges,REP,151,64,0,0,0,0,87
+Laurens,LAURENS 3,Auditor,,Write-In,NON,3,2,0,0,0,0,1
+Laurens,LAURENS 4,Auditor,,Linda Walden Hodges,REP,129,45,0,0,0,1,83
+Laurens,LAURENS 4,Auditor,,Write-In,NON,6,5,0,0,0,0,1
+Laurens,LAURENS 5,Auditor,,Linda Walden Hodges,REP,638,280,0,0,0,16,342
+Laurens,LAURENS 5,Auditor,,Write-In,NON,13,7,0,0,0,1,5
+Laurens,LAURENS 6,Auditor,,Linda Walden Hodges,REP,552,286,0,0,0,6,260
+Laurens,LAURENS 6,Auditor,,Write-In,NON,5,1,0,0,0,0,4
+Laurens,LONG BRANCH,Auditor,,Linda Walden Hodges,REP,616,194,0,0,0,2,420
+Laurens,LONG BRANCH,Auditor,,Write-In,NON,3,1,0,0,0,0,2
+Laurens,LYDIA MILL,Auditor,,Linda Walden Hodges,REP,343,110,0,0,0,3,230
+Laurens,LYDIA MILL,Auditor,,Write-In,NON,11,4,0,0,0,0,7
+Laurens,MADDENS,Auditor,,Linda Walden Hodges,REP,528,158,0,0,0,1,369
+Laurens,MADDENS,Auditor,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,MARTINS-POPLAR SPRINGS,Auditor,,Linda Walden Hodges,REP,335,49,0,0,0,1,285
+Laurens,MARTINS-POPLAR SPRINGS,Auditor,,Write-In,NON,3,1,0,0,0,0,2
+Laurens,MOUNT OLIVE,Auditor,,Linda Walden Hodges,REP,521,112,0,0,0,5,404
+Laurens,MOUNT OLIVE,Auditor,,Write-In,NON,3,0,0,0,0,0,3
+Laurens,MOUNTVILLE,Auditor,,Linda Walden Hodges,REP,248,61,0,0,0,1,186
+Laurens,MOUNTVILLE,Auditor,,Write-In,NON,2,0,0,0,0,1,1
+Laurens,ORA-LANFORD,Auditor,,Linda Walden Hodges,REP,387,84,0,0,0,1,302
+Laurens,ORA-LANFORD,Auditor,,Write-In,NON,5,3,0,0,0,0,2
+Laurens,OWINGS,Auditor,,Linda Walden Hodges,REP,431,80,0,0,0,1,350
+Laurens,OWINGS,Auditor,,Write-In,NON,6,5,0,0,0,0,1
+Laurens,Provisional,Auditor,,Linda Walden Hodges,REP,10,0,0,10,0,0,0
+Laurens,Provisional,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,Auditor,,Linda Walden Hodges,REP,623,259,0,0,0,0,364
+Laurens,TRINITY RIDGE,Auditor,,Write-In,NON,3,1,0,0,0,1,1
+Laurens,WATERLOO,Auditor,,Linda Walden Hodges,REP,746,232,0,0,0,8,506
+Laurens,WATERLOO,Auditor,,Write-In,NON,9,5,0,0,0,1,3
+Laurens,WATTSVILLE,Auditor,,Linda Walden Hodges,REP,472,214,0,0,0,7,251
+Laurens,WATTSVILLE,Auditor,,Write-In,NON,5,4,0,0,0,0,1
+Laurens,YOUNGS,Auditor,,Linda Walden Hodges,REP,573,134,0,0,0,1,438
+Laurens,YOUNGS,Auditor,,Write-In,NON,7,4,0,0,0,0,3
+Laurens,BARKSDALE-NARINE,Beaverdam-Warrior Creek Watershed Conservation District,,Maxcy P Hunter Jr,NON,98,37,0,0,0,3,58
+Laurens,BARKSDALE-NARINE,Beaverdam-Warrior Creek Watershed Conservation District,,Write-In,NON,4,3,0,0,0,0,1
+Laurens,Failsafe,Beaverdam-Warrior Creek Watershed Conservation District,,Maxcy P Hunter Jr,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,Beaverdam-Warrior Creek Watershed Conservation District,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Beaverdam-Warrior Creek Watershed Conservation District,,Maxcy P Hunter Jr,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Beaverdam-Warrior Creek Watershed Conservation District,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,Beaverdam-Warrior Creek Watershed Conservation District,,Maxcy P Hunter Jr,NON,192,49,0,0,0,1,142
+Laurens,GRAY COURT,Beaverdam-Warrior Creek Watershed Conservation District,,Write-In,NON,13,2,0,0,0,0,11
+Laurens,LONG BRANCH,Beaverdam-Warrior Creek Watershed Conservation District,,Maxcy P Hunter Jr,NON,44,15,0,0,0,0,29
+Laurens,LONG BRANCH,Beaverdam-Warrior Creek Watershed Conservation District,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,ORA-LANFORD,Beaverdam-Warrior Creek Watershed Conservation District,,Maxcy P Hunter Jr,NON,260,73,0,0,0,1,186
+Laurens,ORA-LANFORD,Beaverdam-Warrior Creek Watershed Conservation District,,Write-In,NON,31,4,0,0,0,0,27
+Laurens,OWINGS,Beaverdam-Warrior Creek Watershed Conservation District,,Maxcy P Hunter Jr,NON,148,35,0,0,0,0,113
+Laurens,OWINGS,Beaverdam-Warrior Creek Watershed Conservation District,,Write-In,NON,6,0,0,0,0,0,6
+Laurens,Provisional,Beaverdam-Warrior Creek Watershed Conservation District,,Maxcy P Hunter Jr,NON,0,0,0,0,0,0,0
+Laurens,Provisional,Beaverdam-Warrior Creek Watershed Conservation District,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,YOUNGS,Beaverdam-Warrior Creek Watershed Conservation District,,Maxcy P Hunter Jr,NON,151,30,0,0,0,1,120
+Laurens,YOUNGS,Beaverdam-Warrior Creek Watershed Conservation District,,Write-In,NON,8,2,0,0,0,0,6
+Laurens,BAILEY,Commissioner of Agriculture,,Chris Nelums,UNC,3,1,0,0,0,0,2
+Laurens,BAILEY,Commissioner of Agriculture,,Cody Simpson,REP,345,110,0,0,0,3,232
+Laurens,BAILEY,Commissioner of Agriculture,,Michael Sullens,LIB,9,3,0,0,0,0,6
+Laurens,BAILEY,Commissioner of Agriculture,,DeShawn Blanding,DEM,245,132,0,0,0,3,110
+Laurens,BAILEY,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,Commissioner of Agriculture,,Chris Nelums,UNC,2,2,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,Commissioner of Agriculture,,Cody Simpson,REP,393,131,0,0,0,4,258
+Laurens,BARKSDALE-NARINE,Commissioner of Agriculture,,Michael Sullens,LIB,5,1,0,0,0,0,4
+Laurens,BARKSDALE-NARINE,Commissioner of Agriculture,,DeShawn Blanding,DEM,202,116,0,0,0,4,82
+Laurens,BARKSDALE-NARINE,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,BREWERTON-PRINCETON,Commissioner of Agriculture,,Chris Nelums,UNC,3,0,0,0,0,0,3
+Laurens,BREWERTON-PRINCETON,Commissioner of Agriculture,,Cody Simpson,REP,349,57,0,0,0,2,290
+Laurens,BREWERTON-PRINCETON,Commissioner of Agriculture,,Michael Sullens,LIB,2,1,0,0,0,0,1
+Laurens,BREWERTON-PRINCETON,Commissioner of Agriculture,,DeShawn Blanding,DEM,49,17,0,0,0,0,32
+Laurens,BREWERTON-PRINCETON,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 1,Commissioner of Agriculture,,Chris Nelums,UNC,5,2,0,0,0,0,3
+Laurens,CLINTON 1,Commissioner of Agriculture,,Cody Simpson,REP,347,72,0,0,0,3,272
+Laurens,CLINTON 1,Commissioner of Agriculture,,Michael Sullens,LIB,14,3,0,0,0,0,11
+Laurens,CLINTON 1,Commissioner of Agriculture,,DeShawn Blanding,DEM,332,146,0,0,0,4,182
+Laurens,CLINTON 1,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 2,Commissioner of Agriculture,,Chris Nelums,UNC,9,0,0,0,0,0,9
+Laurens,CLINTON 2,Commissioner of Agriculture,,Cody Simpson,REP,363,93,0,0,0,3,267
+Laurens,CLINTON 2,Commissioner of Agriculture,,Michael Sullens,LIB,18,5,0,0,0,1,12
+Laurens,CLINTON 2,Commissioner of Agriculture,,DeShawn Blanding,DEM,316,133,0,0,0,10,173
+Laurens,CLINTON 2,Commissioner of Agriculture,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,CLINTON 3,Commissioner of Agriculture,,Chris Nelums,UNC,12,3,0,0,0,0,9
+Laurens,CLINTON 3,Commissioner of Agriculture,,Cody Simpson,REP,576,161,0,0,0,4,411
+Laurens,CLINTON 3,Commissioner of Agriculture,,Michael Sullens,LIB,7,2,0,0,0,0,5
+Laurens,CLINTON 3,Commissioner of Agriculture,,DeShawn Blanding,DEM,266,120,0,0,0,5,141
+Laurens,CLINTON 3,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON MILL,Commissioner of Agriculture,,Chris Nelums,UNC,6,0,0,0,0,0,6
+Laurens,CLINTON MILL,Commissioner of Agriculture,,Cody Simpson,REP,153,36,0,0,0,1,116
+Laurens,CLINTON MILL,Commissioner of Agriculture,,Michael Sullens,LIB,4,1,0,0,0,0,3
+Laurens,CLINTON MILL,Commissioner of Agriculture,,DeShawn Blanding,DEM,359,162,0,0,0,14,183
+Laurens,CLINTON MILL,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,COOKS,Commissioner of Agriculture,,Chris Nelums,UNC,11,0,0,0,0,0,11
+Laurens,COOKS,Commissioner of Agriculture,,Cody Simpson,REP,662,109,0,0,0,6,547
+Laurens,COOKS,Commissioner of Agriculture,,Michael Sullens,LIB,12,3,0,0,0,0,9
+Laurens,COOKS,Commissioner of Agriculture,,DeShawn Blanding,DEM,290,109,0,0,0,5,176
+Laurens,COOKS,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CROSS HILL,Commissioner of Agriculture,,Chris Nelums,UNC,7,0,0,0,0,0,7
+Laurens,CROSS HILL,Commissioner of Agriculture,,Cody Simpson,REP,669,155,0,0,0,4,510
+Laurens,CROSS HILL,Commissioner of Agriculture,,Michael Sullens,LIB,8,1,0,0,0,0,7
+Laurens,CROSS HILL,Commissioner of Agriculture,,DeShawn Blanding,DEM,354,130,0,0,0,6,218
+Laurens,CROSS HILL,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,EKOM,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Laurens,EKOM,Commissioner of Agriculture,,Cody Simpson,REP,271,91,0,0,0,1,179
+Laurens,EKOM,Commissioner of Agriculture,,Michael Sullens,LIB,7,1,0,0,0,0,6
+Laurens,EKOM,Commissioner of Agriculture,,DeShawn Blanding,DEM,64,38,0,0,0,0,26
+Laurens,EKOM,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Laurens,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Laurens,Failsafe,Commissioner of Agriculture,,DeShawn Blanding,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,5,0,5,0,0,0,0
+Laurens,Failsafe Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,1,0,0,0,0
+Laurens,Failsafe Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,12,0,12,0,0,0,0
+Laurens,Failsafe Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,Commissioner of Agriculture,,Chris Nelums,UNC,6,0,0,0,0,0,6
+Laurens,GRAY COURT,Commissioner of Agriculture,,Cody Simpson,REP,433,91,0,0,0,1,341
+Laurens,GRAY COURT,Commissioner of Agriculture,,Michael Sullens,LIB,14,1,0,0,0,0,13
+Laurens,GRAY COURT,Commissioner of Agriculture,,DeShawn Blanding,DEM,280,118,0,0,0,0,162
+Laurens,GRAY COURT,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GREENPOND,Commissioner of Agriculture,,Chris Nelums,UNC,6,0,0,0,0,0,6
+Laurens,GREENPOND,Commissioner of Agriculture,,Cody Simpson,REP,692,113,0,0,0,4,575
+Laurens,GREENPOND,Commissioner of Agriculture,,Michael Sullens,LIB,17,1,0,0,0,0,16
+Laurens,GREENPOND,Commissioner of Agriculture,,DeShawn Blanding,DEM,181,79,0,0,0,2,100
+Laurens,GREENPOND,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,HICKORY TAVERN,Commissioner of Agriculture,,Chris Nelums,UNC,6,3,0,0,0,0,3
+Laurens,HICKORY TAVERN,Commissioner of Agriculture,,Cody Simpson,REP,1065,339,0,0,0,10,716
+Laurens,HICKORY TAVERN,Commissioner of Agriculture,,Michael Sullens,LIB,21,2,0,0,0,0,19
+Laurens,HICKORY TAVERN,Commissioner of Agriculture,,DeShawn Blanding,DEM,240,107,0,0,0,2,131
+Laurens,HICKORY TAVERN,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JOANNA,Commissioner of Agriculture,,Chris Nelums,UNC,8,1,0,0,0,0,7
+Laurens,JOANNA,Commissioner of Agriculture,,Cody Simpson,REP,602,106,0,0,0,3,493
+Laurens,JOANNA,Commissioner of Agriculture,,Michael Sullens,LIB,12,2,0,0,0,0,10
+Laurens,JOANNA,Commissioner of Agriculture,,DeShawn Blanding,DEM,207,96,0,0,0,3,108
+Laurens,JOANNA,Commissioner of Agriculture,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,JONES,Commissioner of Agriculture,,Chris Nelums,UNC,14,1,0,0,0,0,13
+Laurens,JONES,Commissioner of Agriculture,,Cody Simpson,REP,1199,259,0,0,0,15,925
+Laurens,JONES,Commissioner of Agriculture,,Michael Sullens,LIB,51,17,0,0,0,0,34
+Laurens,JONES,Commissioner of Agriculture,,DeShawn Blanding,DEM,1075,460,0,0,0,14,601
+Laurens,JONES,Commissioner of Agriculture,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,LAURENS 1,Commissioner of Agriculture,,Chris Nelums,UNC,2,1,0,0,0,0,1
+Laurens,LAURENS 1,Commissioner of Agriculture,,Cody Simpson,REP,104,56,0,0,0,0,48
+Laurens,LAURENS 1,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Laurens,LAURENS 1,Commissioner of Agriculture,,DeShawn Blanding,DEM,197,105,0,0,0,3,89
+Laurens,LAURENS 1,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,LAURENS 2,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Laurens,LAURENS 2,Commissioner of Agriculture,,Cody Simpson,REP,30,12,0,0,0,0,18
+Laurens,LAURENS 2,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Laurens,LAURENS 2,Commissioner of Agriculture,,DeShawn Blanding,DEM,152,75,0,0,0,0,77
+Laurens,LAURENS 2,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 3,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Laurens,LAURENS 3,Commissioner of Agriculture,,Cody Simpson,REP,113,44,0,0,0,0,69
+Laurens,LAURENS 3,Commissioner of Agriculture,,Michael Sullens,LIB,5,5,0,0,0,0,0
+Laurens,LAURENS 3,Commissioner of Agriculture,,DeShawn Blanding,DEM,240,131,0,0,0,2,107
+Laurens,LAURENS 3,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 4,Commissioner of Agriculture,,Chris Nelums,UNC,8,3,0,0,0,0,5
+Laurens,LAURENS 4,Commissioner of Agriculture,,Cody Simpson,REP,74,24,0,0,0,1,49
+Laurens,LAURENS 4,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+Laurens,LAURENS 4,Commissioner of Agriculture,,DeShawn Blanding,DEM,288,132,0,0,0,1,155
+Laurens,LAURENS 4,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 5,Commissioner of Agriculture,,Chris Nelums,UNC,6,3,0,0,0,0,3
+Laurens,LAURENS 5,Commissioner of Agriculture,,Cody Simpson,REP,497,218,0,0,0,15,264
+Laurens,LAURENS 5,Commissioner of Agriculture,,Michael Sullens,LIB,20,4,0,0,0,1,15
+Laurens,LAURENS 5,Commissioner of Agriculture,,DeShawn Blanding,DEM,387,195,0,0,0,18,174
+Laurens,LAURENS 5,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,LAURENS 6,Commissioner of Agriculture,,Chris Nelums,UNC,6,5,0,0,0,0,1
+Laurens,LAURENS 6,Commissioner of Agriculture,,Cody Simpson,REP,465,240,0,0,0,6,219
+Laurens,LAURENS 6,Commissioner of Agriculture,,Michael Sullens,LIB,12,2,0,0,0,0,10
+Laurens,LAURENS 6,Commissioner of Agriculture,,DeShawn Blanding,DEM,242,140,0,0,0,4,98
+Laurens,LAURENS 6,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LONG BRANCH,Commissioner of Agriculture,,Chris Nelums,UNC,4,1,0,0,0,0,3
+Laurens,LONG BRANCH,Commissioner of Agriculture,,Cody Simpson,REP,559,167,0,0,0,2,390
+Laurens,LONG BRANCH,Commissioner of Agriculture,,Michael Sullens,LIB,4,1,0,0,0,0,3
+Laurens,LONG BRANCH,Commissioner of Agriculture,,DeShawn Blanding,DEM,151,92,0,0,0,3,56
+Laurens,LONG BRANCH,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,LYDIA MILL,Commissioner of Agriculture,,Chris Nelums,UNC,3,1,0,0,0,0,2
+Laurens,LYDIA MILL,Commissioner of Agriculture,,Cody Simpson,REP,219,61,0,0,0,2,156
+Laurens,LYDIA MILL,Commissioner of Agriculture,,Michael Sullens,LIB,7,4,0,0,0,0,3
+Laurens,LYDIA MILL,Commissioner of Agriculture,,DeShawn Blanding,DEM,417,220,0,0,0,17,180
+Laurens,LYDIA MILL,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MADDENS,Commissioner of Agriculture,,Chris Nelums,UNC,7,4,0,0,0,0,3
+Laurens,MADDENS,Commissioner of Agriculture,,Cody Simpson,REP,456,119,0,0,0,1,336
+Laurens,MADDENS,Commissioner of Agriculture,,Michael Sullens,LIB,14,8,0,0,0,0,6
+Laurens,MADDENS,Commissioner of Agriculture,,DeShawn Blanding,DEM,198,129,0,0,0,0,69
+Laurens,MADDENS,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MARTINS-POPLAR SPRINGS,Commissioner of Agriculture,,Chris Nelums,UNC,5,0,0,0,0,0,5
+Laurens,MARTINS-POPLAR SPRINGS,Commissioner of Agriculture,,Cody Simpson,REP,301,45,0,0,0,1,255
+Laurens,MARTINS-POPLAR SPRINGS,Commissioner of Agriculture,,Michael Sullens,LIB,5,1,0,0,0,0,4
+Laurens,MARTINS-POPLAR SPRINGS,Commissioner of Agriculture,,DeShawn Blanding,DEM,63,18,0,0,0,1,44
+Laurens,MARTINS-POPLAR SPRINGS,Commissioner of Agriculture,,Write-In,NON,2,0,0,0,0,0,2
+Laurens,MOUNT OLIVE,Commissioner of Agriculture,,Chris Nelums,UNC,4,1,0,0,0,0,3
+Laurens,MOUNT OLIVE,Commissioner of Agriculture,,Cody Simpson,REP,468,91,0,0,0,3,374
+Laurens,MOUNT OLIVE,Commissioner of Agriculture,,Michael Sullens,LIB,11,4,0,0,0,0,7
+Laurens,MOUNT OLIVE,Commissioner of Agriculture,,DeShawn Blanding,DEM,86,39,0,0,0,4,43
+Laurens,MOUNT OLIVE,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,MOUNTVILLE,Commissioner of Agriculture,,Chris Nelums,UNC,4,1,0,0,0,0,3
+Laurens,MOUNTVILLE,Commissioner of Agriculture,,Cody Simpson,REP,211,51,0,0,0,2,158
+Laurens,MOUNTVILLE,Commissioner of Agriculture,,Michael Sullens,LIB,7,0,0,0,0,0,7
+Laurens,MOUNTVILLE,Commissioner of Agriculture,,DeShawn Blanding,DEM,129,55,0,0,0,2,72
+Laurens,MOUNTVILLE,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,ORA-LANFORD,Commissioner of Agriculture,,Chris Nelums,UNC,7,3,0,0,0,0,4
+Laurens,ORA-LANFORD,Commissioner of Agriculture,,Cody Simpson,REP,340,62,0,0,0,0,278
+Laurens,ORA-LANFORD,Commissioner of Agriculture,,Michael Sullens,LIB,5,1,0,0,0,0,4
+Laurens,ORA-LANFORD,Commissioner of Agriculture,,DeShawn Blanding,DEM,197,102,0,0,0,1,94
+Laurens,ORA-LANFORD,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,OWINGS,Commissioner of Agriculture,,Chris Nelums,UNC,3,0,0,0,0,0,3
+Laurens,OWINGS,Commissioner of Agriculture,,Cody Simpson,REP,361,61,0,0,0,1,299
+Laurens,OWINGS,Commissioner of Agriculture,,Michael Sullens,LIB,12,2,0,0,0,0,10
+Laurens,OWINGS,Commissioner of Agriculture,,DeShawn Blanding,DEM,182,81,0,0,0,1,100
+Laurens,OWINGS,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Laurens,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,7,0,0,7,0,0,0
+Laurens,Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Laurens,Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,5,0,0,5,0,0,0
+Laurens,Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,Commissioner of Agriculture,,Chris Nelums,UNC,6,4,0,0,0,0,2
+Laurens,TRINITY RIDGE,Commissioner of Agriculture,,Cody Simpson,REP,526,201,0,0,0,0,325
+Laurens,TRINITY RIDGE,Commissioner of Agriculture,,Michael Sullens,LIB,10,3,0,0,0,0,7
+Laurens,TRINITY RIDGE,Commissioner of Agriculture,,DeShawn Blanding,DEM,301,181,0,0,0,9,111
+Laurens,TRINITY RIDGE,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,WATERLOO,Commissioner of Agriculture,,Chris Nelums,UNC,5,0,0,0,0,0,5
+Laurens,WATERLOO,Commissioner of Agriculture,,Cody Simpson,REP,641,189,0,0,0,5,447
+Laurens,WATERLOO,Commissioner of Agriculture,,Michael Sullens,LIB,12,3,0,0,0,0,9
+Laurens,WATERLOO,Commissioner of Agriculture,,DeShawn Blanding,DEM,322,160,0,0,0,7,155
+Laurens,WATERLOO,Commissioner of Agriculture,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,WATTSVILLE,Commissioner of Agriculture,,Chris Nelums,UNC,6,2,0,0,0,0,4
+Laurens,WATTSVILLE,Commissioner of Agriculture,,Cody Simpson,REP,389,165,0,0,0,6,218
+Laurens,WATTSVILLE,Commissioner of Agriculture,,Michael Sullens,LIB,10,4,0,0,0,0,6
+Laurens,WATTSVILLE,Commissioner of Agriculture,,DeShawn Blanding,DEM,241,141,0,0,0,2,98
+Laurens,WATTSVILLE,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,YOUNGS,Commissioner of Agriculture,,Chris Nelums,UNC,3,0,0,0,0,0,3
+Laurens,YOUNGS,Commissioner of Agriculture,,Cody Simpson,REP,513,104,0,0,0,2,407
+Laurens,YOUNGS,Commissioner of Agriculture,,Michael Sullens,LIB,9,4,0,0,0,0,5
+Laurens,YOUNGS,Commissioner of Agriculture,,DeShawn Blanding,DEM,143,72,0,0,0,0,71
+Laurens,YOUNGS,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BAILEY,Comptroller General,,Mike Burkhold,REP,345,110,0,0,0,3,232
+Laurens,BAILEY,Comptroller General,,Tiffany Boozer,DEM,257,136,0,0,0,3,118
+Laurens,BAILEY,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,Comptroller General,,Mike Burkhold,REP,395,129,0,0,0,4,262
+Laurens,BARKSDALE-NARINE,Comptroller General,,Tiffany Boozer,DEM,209,122,0,0,0,4,83
+Laurens,BARKSDALE-NARINE,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BREWERTON-PRINCETON,Comptroller General,,Mike Burkhold,REP,347,56,0,0,0,2,289
+Laurens,BREWERTON-PRINCETON,Comptroller General,,Tiffany Boozer,DEM,54,19,0,0,0,0,35
+Laurens,BREWERTON-PRINCETON,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 1,Comptroller General,,Mike Burkhold,REP,343,70,0,0,0,2,271
+Laurens,CLINTON 1,Comptroller General,,Tiffany Boozer,DEM,350,151,0,0,0,5,194
+Laurens,CLINTON 1,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 2,Comptroller General,,Mike Burkhold,REP,369,90,0,0,0,3,276
+Laurens,CLINTON 2,Comptroller General,,Tiffany Boozer,DEM,339,143,0,0,0,11,185
+Laurens,CLINTON 2,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 3,Comptroller General,,Mike Burkhold,REP,564,155,0,0,0,5,404
+Laurens,CLINTON 3,Comptroller General,,Tiffany Boozer,DEM,292,129,0,0,0,4,159
+Laurens,CLINTON 3,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON MILL,Comptroller General,,Mike Burkhold,REP,150,35,0,0,0,1,114
+Laurens,CLINTON MILL,Comptroller General,,Tiffany Boozer,DEM,369,163,0,0,0,14,192
+Laurens,CLINTON MILL,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,COOKS,Comptroller General,,Mike Burkhold,REP,663,106,0,0,0,6,551
+Laurens,COOKS,Comptroller General,,Tiffany Boozer,DEM,309,116,0,0,0,5,188
+Laurens,COOKS,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CROSS HILL,Comptroller General,,Mike Burkhold,REP,671,151,0,0,0,4,516
+Laurens,CROSS HILL,Comptroller General,,Tiffany Boozer,DEM,363,132,0,0,0,6,225
+Laurens,CROSS HILL,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,EKOM,Comptroller General,,Mike Burkhold,REP,270,90,0,0,0,1,179
+Laurens,EKOM,Comptroller General,,Tiffany Boozer,DEM,72,40,0,0,0,0,32
+Laurens,EKOM,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,Comptroller General,,Mike Burkhold,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Comptroller General,,Mike Burkhold,REP,6,0,6,0,0,0,0
+Laurens,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,12,0,12,0,0,0,0
+Laurens,Failsafe Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,Comptroller General,,Mike Burkhold,REP,440,89,0,0,0,1,350
+Laurens,GRAY COURT,Comptroller General,,Tiffany Boozer,DEM,291,121,0,0,0,0,170
+Laurens,GRAY COURT,Comptroller General,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,GREENPOND,Comptroller General,,Mike Burkhold,REP,692,114,0,0,0,5,573
+Laurens,GREENPOND,Comptroller General,,Tiffany Boozer,DEM,194,78,0,0,0,1,115
+Laurens,GREENPOND,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,HICKORY TAVERN,Comptroller General,,Mike Burkhold,REP,1059,334,0,0,0,10,715
+Laurens,HICKORY TAVERN,Comptroller General,,Tiffany Boozer,DEM,266,114,0,0,0,2,150
+Laurens,HICKORY TAVERN,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,JOANNA,Comptroller General,,Mike Burkhold,REP,610,107,0,0,0,3,500
+Laurens,JOANNA,Comptroller General,,Tiffany Boozer,DEM,219,98,0,0,0,3,118
+Laurens,JOANNA,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JONES,Comptroller General,,Mike Burkhold,REP,1223,273,0,0,0,15,935
+Laurens,JONES,Comptroller General,,Tiffany Boozer,DEM,1110,464,0,0,0,14,632
+Laurens,JONES,Comptroller General,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,LAURENS 1,Comptroller General,,Mike Burkhold,REP,104,53,0,0,0,0,51
+Laurens,LAURENS 1,Comptroller General,,Tiffany Boozer,DEM,198,107,0,0,0,3,88
+Laurens,LAURENS 1,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 2,Comptroller General,,Mike Burkhold,REP,30,12,0,0,0,0,18
+Laurens,LAURENS 2,Comptroller General,,Tiffany Boozer,DEM,154,76,0,0,0,0,78
+Laurens,LAURENS 2,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 3,Comptroller General,,Mike Burkhold,REP,113,46,0,0,0,0,67
+Laurens,LAURENS 3,Comptroller General,,Tiffany Boozer,DEM,242,134,0,0,0,2,106
+Laurens,LAURENS 3,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 4,Comptroller General,,Mike Burkhold,REP,79,23,0,0,0,1,55
+Laurens,LAURENS 4,Comptroller General,,Tiffany Boozer,DEM,289,132,0,0,0,1,156
+Laurens,LAURENS 4,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 5,Comptroller General,,Mike Burkhold,REP,500,220,0,0,0,16,264
+Laurens,LAURENS 5,Comptroller General,,Tiffany Boozer,DEM,410,201,0,0,0,18,191
+Laurens,LAURENS 5,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 6,Comptroller General,,Mike Burkhold,REP,461,234,0,0,0,5,222
+Laurens,LAURENS 6,Comptroller General,,Tiffany Boozer,DEM,255,148,0,0,0,5,102
+Laurens,LAURENS 6,Comptroller General,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,LONG BRANCH,Comptroller General,,Mike Burkhold,REP,548,160,0,0,0,2,386
+Laurens,LONG BRANCH,Comptroller General,,Tiffany Boozer,DEM,167,99,0,0,0,3,65
+Laurens,LONG BRANCH,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LYDIA MILL,Comptroller General,,Mike Burkhold,REP,216,60,0,0,0,2,154
+Laurens,LYDIA MILL,Comptroller General,,Tiffany Boozer,DEM,424,223,0,0,0,17,184
+Laurens,LYDIA MILL,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,MADDENS,Comptroller General,,Mike Burkhold,REP,461,120,0,0,0,1,340
+Laurens,MADDENS,Comptroller General,,Tiffany Boozer,DEM,209,137,0,0,0,0,72
+Laurens,MADDENS,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MARTINS-POPLAR SPRINGS,Comptroller General,,Mike Burkhold,REP,304,43,0,0,0,1,260
+Laurens,MARTINS-POPLAR SPRINGS,Comptroller General,,Tiffany Boozer,DEM,68,21,0,0,0,1,46
+Laurens,MARTINS-POPLAR SPRINGS,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MOUNT OLIVE,Comptroller General,,Mike Burkhold,REP,477,94,0,0,0,3,380
+Laurens,MOUNT OLIVE,Comptroller General,,Tiffany Boozer,DEM,92,41,0,0,0,4,47
+Laurens,MOUNT OLIVE,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MOUNTVILLE,Comptroller General,,Mike Burkhold,REP,217,51,0,0,0,2,164
+Laurens,MOUNTVILLE,Comptroller General,,Tiffany Boozer,DEM,129,55,0,0,0,2,72
+Laurens,MOUNTVILLE,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,ORA-LANFORD,Comptroller General,,Mike Burkhold,REP,337,60,0,0,0,0,277
+Laurens,ORA-LANFORD,Comptroller General,,Tiffany Boozer,DEM,207,106,0,0,0,1,100
+Laurens,ORA-LANFORD,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,OWINGS,Comptroller General,,Mike Burkhold,REP,362,59,0,0,0,1,302
+Laurens,OWINGS,Comptroller General,,Tiffany Boozer,DEM,193,85,0,0,0,1,107
+Laurens,OWINGS,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Provisional,Comptroller General,,Mike Burkhold,REP,7,0,0,7,0,0,0
+Laurens,Provisional,Comptroller General,,Tiffany Boozer,DEM,5,0,0,5,0,0,0
+Laurens,Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,Comptroller General,,Mike Burkhold,REP,525,205,0,0,0,1,319
+Laurens,TRINITY RIDGE,Comptroller General,,Tiffany Boozer,DEM,318,185,0,0,0,8,125
+Laurens,TRINITY RIDGE,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,WATERLOO,Comptroller General,,Mike Burkhold,REP,642,184,0,0,0,5,453
+Laurens,WATERLOO,Comptroller General,,Tiffany Boozer,DEM,338,168,0,0,0,7,163
+Laurens,WATERLOO,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,WATTSVILLE,Comptroller General,,Mike Burkhold,REP,391,162,0,0,0,6,223
+Laurens,WATTSVILLE,Comptroller General,,Tiffany Boozer,DEM,249,147,0,0,0,2,100
+Laurens,WATTSVILLE,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,YOUNGS,Comptroller General,,Mike Burkhold,REP,513,102,0,0,0,1,410
+Laurens,YOUNGS,Comptroller General,,Tiffany Boozer,DEM,150,77,0,0,0,1,72
+Laurens,YOUNGS,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,COOKS,County Council District 1,,Nancy R Garrison,REP,778,139,0,0,0,7,632
+Laurens,COOKS,County Council District 1,,Write-In,NON,15,4,0,0,0,0,11
+Laurens,Failsafe,County Council District 1,,Nancy R Garrison,REP,0,0,0,0,0,0,0
+Laurens,Failsafe,County Council District 1,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,County Council District 1,,Nancy R Garrison,REP,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,County Council District 1,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,County Council District 1,,Nancy R Garrison,REP,147,27,0,0,0,0,120
+Laurens,GRAY COURT,County Council District 1,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GREENPOND,County Council District 1,,Nancy R Garrison,REP,85,19,0,0,0,0,66
+Laurens,GREENPOND,County Council District 1,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,JONES,County Council District 1,,Nancy R Garrison,REP,1592,400,0,0,0,17,1175
+Laurens,JONES,County Council District 1,,Write-In,NON,38,18,0,0,0,0,20
+Laurens,OWINGS,County Council District 1,,Nancy R Garrison,REP,185,35,0,0,0,0,150
+Laurens,OWINGS,County Council District 1,,Write-In,NON,4,2,0,0,0,0,2
+Laurens,Provisional,County Council District 1,,Nancy R Garrison,REP,3,0,0,3,0,0,0
+Laurens,Provisional,County Council District 1,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,YOUNGS,County Council District 1,,Nancy R Garrison,REP,248,69,0,0,0,0,179
+Laurens,YOUNGS,County Council District 1,,Write-In,NON,6,2,0,0,0,0,4
+Laurens,BAILEY,County Council District 4,,Jimmy Poole,REP,91,36,0,0,0,0,55
+Laurens,BAILEY,County Council District 4,,Write-In,NON,3,2,0,0,0,1,0
+Laurens,CROSS HILL,County Council District 4,,Jimmy Poole,REP,484,101,0,0,0,4,379
+Laurens,CROSS HILL,County Council District 4,,Write-In,NON,3,1,0,0,0,0,2
+Laurens,EKOM,County Council District 4,,Jimmy Poole,REP,289,99,0,0,0,1,189
+Laurens,EKOM,County Council District 4,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,Failsafe,County Council District 4,,Jimmy Poole,REP,0,0,0,0,0,0,0
+Laurens,Failsafe,County Council District 4,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,County Council District 4,,Jimmy Poole,REP,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,County Council District 4,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 1,County Council District 4,,Jimmy Poole,REP,56,30,0,0,0,0,26
+Laurens,LAURENS 1,County Council District 4,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,LAURENS 5,County Council District 4,,Jimmy Poole,REP,520,235,0,0,0,8,277
+Laurens,LAURENS 5,County Council District 4,,Write-In,NON,8,5,0,0,0,1,2
+Laurens,LAURENS 6,County Council District 4,,Jimmy Poole,REP,367,201,0,0,0,0,166
+Laurens,LAURENS 6,County Council District 4,,Write-In,NON,5,0,0,0,0,0,5
+Laurens,MADDENS,County Council District 4,,Jimmy Poole,REP,474,130,0,0,0,1,343
+Laurens,MADDENS,County Council District 4,,Write-In,NON,4,3,0,0,0,0,1
+Laurens,MOUNTVILLE,County Council District 4,,Jimmy Poole,REP,73,19,0,0,0,1,53
+Laurens,MOUNTVILLE,County Council District 4,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,Provisional,County Council District 4,,Jimmy Poole,REP,0,0,0,0,0,0,0
+Laurens,Provisional,County Council District 4,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,County Council District 4,,Jimmy Poole,REP,480,206,0,0,0,0,274
+Laurens,TRINITY RIDGE,County Council District 4,,Write-In,NON,2,1,0,0,0,1,0
+Laurens,WATERLOO,County Council District 4,,Jimmy Poole,REP,669,214,0,0,0,8,447
+Laurens,WATERLOO,County Council District 4,,Write-In,NON,7,4,0,0,0,1,2
+Laurens,BARKSDALE-NARINE,County Council District 5,,Darryl Halbert,REP,268,95,0,0,0,4,169
+Laurens,BARKSDALE-NARINE,County Council District 5,,Write-In,NON,11,8,0,0,0,0,3
+Laurens,CLINTON 1,County Council District 5,,Darryl Halbert,REP,10,2,0,0,0,0,8
+Laurens,CLINTON 1,County Council District 5,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,County Council District 5,,Darryl Halbert,REP,0,0,0,0,0,0,0
+Laurens,Failsafe,County Council District 5,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,County Council District 5,,Darryl Halbert,REP,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,County Council District 5,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,County Council District 5,,Darryl Halbert,REP,173,39,0,0,0,0,134
+Laurens,GRAY COURT,County Council District 5,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,LAURENS 3,County Council District 5,,Darryl Halbert,REP,12,8,0,0,0,0,4
+Laurens,LAURENS 3,County Council District 5,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 6,County Council District 5,,Darryl Halbert,REP,85,35,0,0,0,0,50
+Laurens,LAURENS 6,County Council District 5,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,LONG BRANCH,County Council District 5,,Darryl Halbert,REP,535,169,0,0,0,2,364
+Laurens,LONG BRANCH,County Council District 5,,Write-In,NON,4,1,0,0,0,0,3
+Laurens,ORA-LANFORD,County Council District 5,,Darryl Halbert,REP,379,80,0,0,0,1,298
+Laurens,ORA-LANFORD,County Council District 5,,Write-In,NON,7,3,0,0,0,0,4
+Laurens,OWINGS,County Council District 5,,Darryl Halbert,REP,201,33,0,0,0,1,167
+Laurens,OWINGS,County Council District 5,,Write-In,NON,5,2,0,0,0,0,3
+Laurens,Provisional,County Council District 5,,Darryl Halbert,REP,2,0,0,2,0,0,0
+Laurens,Provisional,County Council District 5,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,WATTSVILLE,County Council District 5,,Darryl Halbert,REP,468,212,0,0,0,7,249
+Laurens,WATTSVILLE,County Council District 5,,Write-In,NON,8,7,0,0,0,0,1
+Laurens,YOUNGS,County Council District 5,,Darryl Halbert,REP,327,64,0,0,0,1,262
+Laurens,YOUNGS,County Council District 5,,Write-In,NON,4,2,0,0,0,0,2
+Laurens,BAILEY,County Treasurer,,Cynthia M Burke,REP,441,154,0,0,0,3,284
+Laurens,BAILEY,County Treasurer,,Write-In,NON,4,1,0,0,0,1,2
+Laurens,BARKSDALE-NARINE,County Treasurer,,Cynthia M Burke,REP,474,165,0,0,0,7,302
+Laurens,BARKSDALE-NARINE,County Treasurer,,Write-In,NON,9,8,0,0,0,0,1
+Laurens,BREWERTON-PRINCETON,County Treasurer,,Cynthia M Burke,REP,369,61,0,0,0,2,306
+Laurens,BREWERTON-PRINCETON,County Treasurer,,Write-In,NON,2,0,0,0,0,0,2
+Laurens,CLINTON 1,County Treasurer,,Cynthia M Burke,REP,493,117,0,0,0,3,373
+Laurens,CLINTON 1,County Treasurer,,Write-In,NON,10,4,0,0,0,0,6
+Laurens,CLINTON 2,County Treasurer,,Cynthia M Burke,REP,536,165,0,0,0,6,365
+Laurens,CLINTON 2,County Treasurer,,Write-In,NON,13,5,0,0,0,0,8
+Laurens,CLINTON 3,County Treasurer,,Cynthia M Burke,REP,723,221,0,0,0,5,497
+Laurens,CLINTON 3,County Treasurer,,Write-In,NON,9,3,0,0,0,0,6
+Laurens,CLINTON MILL,County Treasurer,,Cynthia M Burke,REP,294,92,0,0,0,5,197
+Laurens,CLINTON MILL,County Treasurer,,Write-In,NON,10,5,0,0,0,0,5
+Laurens,COOKS,County Treasurer,,Cynthia M Burke,REP,795,148,0,0,0,7,640
+Laurens,COOKS,County Treasurer,,Write-In,NON,13,3,0,0,0,0,10
+Laurens,CROSS HILL,County Treasurer,,Cynthia M Burke,REP,781,186,0,0,0,6,589
+Laurens,CROSS HILL,County Treasurer,,Write-In,NON,7,3,0,0,0,0,4
+Laurens,EKOM,County Treasurer,,Cynthia M Burke,REP,295,102,0,0,0,1,192
+Laurens,EKOM,County Treasurer,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,Failsafe,County Treasurer,,Cynthia M Burke,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,County Treasurer,,Cynthia M Burke,REP,8,0,8,0,0,0,0
+Laurens,Failsafe Provisional,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,County Treasurer,,Cynthia M Burke,REP,524,123,0,0,0,1,400
+Laurens,GRAY COURT,County Treasurer,,Write-In,NON,11,5,0,0,0,0,6
+Laurens,GREENPOND,County Treasurer,,Cynthia M Burke,REP,780,144,0,0,0,5,631
+Laurens,GREENPOND,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,HICKORY TAVERN,County Treasurer,,Cynthia M Burke,REP,1188,383,0,0,0,10,795
+Laurens,HICKORY TAVERN,County Treasurer,,Write-In,NON,8,3,0,0,0,0,5
+Laurens,JOANNA,County Treasurer,,Cynthia M Burke,REP,720,149,0,0,0,4,567
+Laurens,JOANNA,County Treasurer,,Write-In,NON,5,2,0,0,0,0,3
+Laurens,JONES,County Treasurer,,Cynthia M Burke,REP,1625,414,0,0,0,17,1194
+Laurens,JONES,County Treasurer,,Write-In,NON,34,18,0,0,0,0,16
+Laurens,LAURENS 1,County Treasurer,,Cynthia M Burke,REP,163,80,0,0,0,1,82
+Laurens,LAURENS 1,County Treasurer,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,LAURENS 2,County Treasurer,,Cynthia M Burke,REP,60,27,0,0,0,0,33
+Laurens,LAURENS 2,County Treasurer,,Write-In,NON,4,1,0,0,0,0,3
+Laurens,LAURENS 3,County Treasurer,,Cynthia M Burke,REP,160,68,0,0,0,0,92
+Laurens,LAURENS 3,County Treasurer,,Write-In,NON,3,2,0,0,0,0,1
+Laurens,LAURENS 4,County Treasurer,,Cynthia M Burke,REP,152,61,0,0,0,1,90
+Laurens,LAURENS 4,County Treasurer,,Write-In,NON,5,3,0,0,0,0,2
+Laurens,LAURENS 5,County Treasurer,,Cynthia M Burke,REP,666,294,0,0,0,16,356
+Laurens,LAURENS 5,County Treasurer,,Write-In,NON,13,6,0,0,0,1,6
+Laurens,LAURENS 6,County Treasurer,,Cynthia M Burke,REP,565,294,0,0,0,7,264
+Laurens,LAURENS 6,County Treasurer,,Write-In,NON,6,2,0,0,0,0,4
+Laurens,LONG BRANCH,County Treasurer,,Cynthia M Burke,REP,624,202,0,0,0,3,419
+Laurens,LONG BRANCH,County Treasurer,,Write-In,NON,3,1,0,0,0,0,2
+Laurens,LYDIA MILL,County Treasurer,,Cynthia M Burke,REP,357,116,0,0,0,3,238
+Laurens,LYDIA MILL,County Treasurer,,Write-In,NON,12,5,0,0,0,0,7
+Laurens,MADDENS,County Treasurer,,Cynthia M Burke,REP,538,162,0,0,0,1,375
+Laurens,MADDENS,County Treasurer,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,MARTINS-POPLAR SPRINGS,County Treasurer,,Cynthia M Burke,REP,336,49,0,0,0,1,286
+Laurens,MARTINS-POPLAR SPRINGS,County Treasurer,,Write-In,NON,3,1,0,0,0,0,2
+Laurens,MOUNT OLIVE,County Treasurer,,Cynthia M Burke,REP,528,116,0,0,0,5,407
+Laurens,MOUNT OLIVE,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,MOUNTVILLE,County Treasurer,,Cynthia M Burke,REP,253,64,0,0,0,1,188
+Laurens,MOUNTVILLE,County Treasurer,,Write-In,NON,2,0,0,0,0,1,1
+Laurens,ORA-LANFORD,County Treasurer,,Cynthia M Burke,REP,401,95,0,0,0,1,305
+Laurens,ORA-LANFORD,County Treasurer,,Write-In,NON,4,2,0,0,0,0,2
+Laurens,OWINGS,County Treasurer,,Cynthia M Burke,REP,441,86,0,0,0,1,354
+Laurens,OWINGS,County Treasurer,,Write-In,NON,6,5,0,0,0,0,1
+Laurens,Provisional,County Treasurer,,Cynthia M Burke,REP,10,0,0,10,0,0,0
+Laurens,Provisional,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,County Treasurer,,Cynthia M Burke,REP,651,271,0,0,0,0,380
+Laurens,TRINITY RIDGE,County Treasurer,,Write-In,NON,4,2,0,0,0,1,1
+Laurens,WATERLOO,County Treasurer,,Cynthia M Burke,REP,762,240,0,0,0,8,514
+Laurens,WATERLOO,County Treasurer,,Write-In,NON,7,4,0,0,0,1,2
+Laurens,WATTSVILLE,County Treasurer,,Cynthia M Burke,REP,481,221,0,0,0,7,253
+Laurens,WATTSVILLE,County Treasurer,,Write-In,NON,4,3,0,0,0,0,1
+Laurens,YOUNGS,County Treasurer,,Cynthia M Burke,REP,585,139,0,0,0,3,443
+Laurens,YOUNGS,County Treasurer,,Write-In,NON,5,2,0,0,0,0,3
+Laurens,CLINTON 1,Duncan Creek Watershed Conservation District Duncan Cree,,Harold McClintock Jr,NON,267,70,0,0,0,2,195
+Laurens,CLINTON 1,Duncan Creek Watershed Conservation District Duncan Cree,,Samuel Roper,NON,181,55,0,0,0,1,125
+Laurens,CLINTON 1,Duncan Creek Watershed Conservation District Duncan Cree,,Write-In,NON,4,2,0,0,0,0,2
+Laurens,CLINTON 2,Duncan Creek Watershed Conservation District Duncan Cree,,Harold McClintock Jr,NON,2,1,0,0,0,0,1
+Laurens,CLINTON 2,Duncan Creek Watershed Conservation District Duncan Cree,,Samuel Roper,NON,3,0,0,0,0,0,3
+Laurens,CLINTON 2,Duncan Creek Watershed Conservation District Duncan Cree,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON MILL,Duncan Creek Watershed Conservation District Duncan Cree,,Harold McClintock Jr,NON,173,63,0,0,0,3,107
+Laurens,CLINTON MILL,Duncan Creek Watershed Conservation District Duncan Cree,,Samuel Roper,NON,123,39,0,0,0,3,81
+Laurens,CLINTON MILL,Duncan Creek Watershed Conservation District Duncan Cree,,Write-In,NON,5,2,0,0,0,0,3
+Laurens,Failsafe,Duncan Creek Watershed Conservation District Duncan Cree,,Harold McClintock Jr,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,Duncan Creek Watershed Conservation District Duncan Cree,,Samuel Roper,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,Duncan Creek Watershed Conservation District Duncan Cree,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Duncan Creek Watershed Conservation District Duncan Cree,,Harold McClintock Jr,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Duncan Creek Watershed Conservation District Duncan Cree,,Samuel Roper,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Duncan Creek Watershed Conservation District Duncan Cree,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JOANNA,Duncan Creek Watershed Conservation District Duncan Cree,,Harold McClintock Jr,NON,2,2,0,0,0,0,0
+Laurens,JOANNA,Duncan Creek Watershed Conservation District Duncan Cree,,Samuel Roper,NON,0,0,0,0,0,0,0
+Laurens,JOANNA,Duncan Creek Watershed Conservation District Duncan Cree,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LONG BRANCH,Duncan Creek Watershed Conservation District Duncan Cree,,Harold McClintock Jr,NON,319,100,0,0,0,1,218
+Laurens,LONG BRANCH,Duncan Creek Watershed Conservation District Duncan Cree,,Samuel Roper,NON,187,66,0,0,0,2,119
+Laurens,LONG BRANCH,Duncan Creek Watershed Conservation District Duncan Cree,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,ORA-LANFORD,Duncan Creek Watershed Conservation District Duncan Cree,,Harold McClintock Jr,NON,13,2,0,0,0,0,11
+Laurens,ORA-LANFORD,Duncan Creek Watershed Conservation District Duncan Cree,,Samuel Roper,NON,9,1,0,0,0,0,8
+Laurens,ORA-LANFORD,Duncan Creek Watershed Conservation District Duncan Cree,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Provisional,Duncan Creek Watershed Conservation District Duncan Cree,,Harold McClintock Jr,NON,1,0,0,1,0,0,0
+Laurens,Provisional,Duncan Creek Watershed Conservation District Duncan Cree,,Samuel Roper,NON,0,0,0,0,0,0,0
+Laurens,Provisional,Duncan Creek Watershed Conservation District Duncan Cree,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,WATTSVILLE,Duncan Creek Watershed Conservation District Duncan Cree,,Harold McClintock Jr,NON,132,57,0,0,0,3,72
+Laurens,WATTSVILLE,Duncan Creek Watershed Conservation District Duncan Cree,,Samuel Roper,NON,76,35,0,0,0,3,38
+Laurens,WATTSVILLE,Duncan Creek Watershed Conservation District Duncan Cree,,Write-In,NON,7,5,0,0,0,0,2
+Laurens,BAILEY,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,5,1,0,0,0,0,4
+Laurens,BAILEY,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Laurens,BAILEY,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,346,112,0,0,0,3,231
+Laurens,BAILEY,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,252,134,0,0,0,3,115
+Laurens,BAILEY,Governor and Lieutenant Governor,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,BARKSDALE-NARINE,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,390,124,0,0,0,3,263
+Laurens,BARKSDALE-NARINE,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,216,126,0,0,0,5,85
+Laurens,BARKSDALE-NARINE,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BREWERTON-PRINCETON,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,0,0,0,0,0,3
+Laurens,BREWERTON-PRINCETON,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Laurens,BREWERTON-PRINCETON,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,345,57,0,0,0,2,286
+Laurens,BREWERTON-PRINCETON,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,55,19,0,0,0,0,36
+Laurens,BREWERTON-PRINCETON,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 1,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,10,2,0,0,0,0,8
+Laurens,CLINTON 1,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,0,0,0,0,0,2
+Laurens,CLINTON 1,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,346,75,0,0,0,2,269
+Laurens,CLINTON 1,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,342,145,0,0,0,5,192
+Laurens,CLINTON 1,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 2,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,9,1,0,0,0,0,8
+Laurens,CLINTON 2,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,2,0,0,0,0,0
+Laurens,CLINTON 2,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,369,96,0,0,0,3,270
+Laurens,CLINTON 2,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,329,135,0,0,0,11,183
+Laurens,CLINTON 2,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 3,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,9,3,0,0,0,0,6
+Laurens,CLINTON 3,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,5,0,0,0,0,0,5
+Laurens,CLINTON 3,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,576,159,0,0,0,6,411
+Laurens,CLINTON 3,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,279,126,0,0,0,4,149
+Laurens,CLINTON 3,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON MILL,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,8,1,0,0,0,0,7
+Laurens,CLINTON MILL,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Laurens,CLINTON MILL,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,145,34,0,0,0,1,110
+Laurens,CLINTON MILL,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,363,162,0,0,0,14,187
+Laurens,CLINTON MILL,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,COOKS,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,8,2,0,0,0,0,6
+Laurens,COOKS,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,1,0,0,0,0,3
+Laurens,COOKS,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,655,103,0,0,0,7,545
+Laurens,COOKS,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,310,115,0,0,0,4,191
+Laurens,COOKS,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CROSS HILL,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,1,0,0,0,0,6
+Laurens,CROSS HILL,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,0,0,0,0,0,2
+Laurens,CROSS HILL,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,675,154,0,0,0,4,517
+Laurens,CROSS HILL,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,362,131,0,0,0,7,224
+Laurens,CROSS HILL,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,EKOM,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,1,0,0,0,0,1
+Laurens,EKOM,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Laurens,EKOM,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,274,92,0,0,0,1,181
+Laurens,EKOM,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,70,39,0,0,0,0,31
+Laurens,EKOM,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Laurens,Failsafe,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Laurens,Failsafe,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,1,0,0,0,0
+Laurens,Failsafe Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,5,0,5,0,0,0,0
+Laurens,Failsafe Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,12,0,12,0,0,0,0
+Laurens,Failsafe Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,6,0,0,0,0,0,6
+Laurens,GRAY COURT,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,0,0,0,0,0,3
+Laurens,GRAY COURT,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,432,88,0,0,0,1,343
+Laurens,GRAY COURT,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,296,124,0,0,0,0,172
+Laurens,GRAY COURT,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,GREENPOND,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,11,0,0,0,0,0,11
+Laurens,GREENPOND,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Laurens,GREENPOND,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,690,111,0,0,0,4,575
+Laurens,GREENPOND,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,195,82,0,0,0,2,111
+Laurens,GREENPOND,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,HICKORY TAVERN,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,10,2,0,0,0,0,8
+Laurens,HICKORY TAVERN,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Laurens,HICKORY TAVERN,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1058,335,0,0,0,10,713
+Laurens,HICKORY TAVERN,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,264,114,0,0,0,2,148
+Laurens,HICKORY TAVERN,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JOANNA,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,13,2,0,0,0,0,11
+Laurens,JOANNA,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,2,0,0,0,0,1
+Laurens,JOANNA,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,602,104,0,0,0,3,495
+Laurens,JOANNA,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,212,97,0,0,0,3,112
+Laurens,JOANNA,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JONES,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,1,0,0,0,0,6
+Laurens,JONES,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,5,1,0,0,0,1,3
+Laurens,JONES,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1215,267,0,0,0,15,933
+Laurens,JONES,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,1118,469,0,0,0,13,636
+Laurens,JONES,Governor and Lieutenant Governor,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,LAURENS 1,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,3,0,0,0,0,1
+Laurens,LAURENS 1,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Laurens,LAURENS 1,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,107,55,0,0,0,0,52
+Laurens,LAURENS 1,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,194,104,0,0,0,3,87
+Laurens,LAURENS 1,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 2,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Laurens,LAURENS 2,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Laurens,LAURENS 2,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,29,11,0,0,0,0,18
+Laurens,LAURENS 2,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,155,78,0,0,0,0,77
+Laurens,LAURENS 2,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 3,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Laurens,LAURENS 3,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,1,0,0,0,0,1
+Laurens,LAURENS 3,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,111,45,0,0,0,0,66
+Laurens,LAURENS 3,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,244,133,0,0,0,2,109
+Laurens,LAURENS 3,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 4,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,6,4,0,0,0,0,2
+Laurens,LAURENS 4,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,5,1,0,0,0,0,4
+Laurens,LAURENS 4,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,72,24,0,0,0,1,47
+Laurens,LAURENS 4,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,289,129,0,0,0,1,159
+Laurens,LAURENS 4,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 5,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,6,3,0,0,0,0,3
+Laurens,LAURENS 5,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,7,1,0,0,0,0,6
+Laurens,LAURENS 5,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,508,219,0,0,0,16,273
+Laurens,LAURENS 5,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,398,197,0,0,0,18,183
+Laurens,LAURENS 5,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 6,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,4,0,0,0,0,3
+Laurens,LAURENS 6,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Laurens,LAURENS 6,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,460,232,0,0,0,6,222
+Laurens,LAURENS 6,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,258,154,0,0,0,4,100
+Laurens,LAURENS 6,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LONG BRANCH,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,6,2,0,0,0,0,4
+Laurens,LONG BRANCH,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Laurens,LONG BRANCH,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,549,159,0,0,0,3,387
+Laurens,LONG BRANCH,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,161,98,0,0,0,2,61
+Laurens,LONG BRANCH,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LYDIA MILL,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,8,6,0,0,0,0,2
+Laurens,LYDIA MILL,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,0,0,0,0,0,2
+Laurens,LYDIA MILL,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,215,60,0,0,0,2,153
+Laurens,LYDIA MILL,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,420,219,0,0,0,17,184
+Laurens,LYDIA MILL,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MADDENS,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,3,0,0,0,0,4
+Laurens,MADDENS,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Laurens,MADDENS,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,458,117,0,0,0,1,340
+Laurens,MADDENS,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,209,140,0,0,0,0,69
+Laurens,MADDENS,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MARTINS-POPLAR SPRINGS,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,10,1,0,0,0,0,9
+Laurens,MARTINS-POPLAR SPRINGS,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Laurens,MARTINS-POPLAR SPRINGS,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,300,44,0,0,0,1,255
+Laurens,MARTINS-POPLAR SPRINGS,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,67,19,0,0,0,1,47
+Laurens,MARTINS-POPLAR SPRINGS,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MOUNT OLIVE,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,5,2,0,0,0,0,3
+Laurens,MOUNT OLIVE,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,0,0,0,0,0,4
+Laurens,MOUNT OLIVE,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,473,96,0,0,0,3,374
+Laurens,MOUNT OLIVE,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,89,38,0,0,0,4,47
+Laurens,MOUNT OLIVE,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MOUNTVILLE,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,6,1,0,0,0,0,5
+Laurens,MOUNTVILLE,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Laurens,MOUNTVILLE,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,208,49,0,0,0,2,157
+Laurens,MOUNTVILLE,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,134,57,0,0,0,2,75
+Laurens,MOUNTVILLE,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,ORA-LANFORD,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,5,3,0,0,0,0,2
+Laurens,ORA-LANFORD,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Laurens,ORA-LANFORD,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,340,61,0,0,0,0,279
+Laurens,ORA-LANFORD,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,208,108,0,0,0,1,99
+Laurens,ORA-LANFORD,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,OWINGS,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,0,0,0,0,0,3
+Laurens,OWINGS,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,5,1,0,0,0,0,4
+Laurens,OWINGS,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,358,58,0,0,0,1,299
+Laurens,OWINGS,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,196,85,0,0,0,1,110
+Laurens,OWINGS,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Laurens,Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,1,0,0,0
+Laurens,Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,8,0,0,8,0,0,0
+Laurens,Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,3,0,0,3,0,0,0
+Laurens,Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,3,0,0,0,0,0
+Laurens,TRINITY RIDGE,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,8,2,0,0,0,1,5
+Laurens,TRINITY RIDGE,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,528,201,0,0,0,2,325
+Laurens,TRINITY RIDGE,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,302,180,0,0,0,6,116
+Laurens,TRINITY RIDGE,Governor and Lieutenant Governor,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,WATERLOO,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,9,3,0,0,0,0,6
+Laurens,WATERLOO,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,5,1,0,0,0,0,4
+Laurens,WATERLOO,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,643,183,0,0,0,5,455
+Laurens,WATERLOO,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,326,164,0,0,0,7,155
+Laurens,WATERLOO,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,WATTSVILLE,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,1,0,0,0,0,6
+Laurens,WATTSVILLE,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,0,0,0,0,0,2
+Laurens,WATTSVILLE,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,394,165,0,0,0,6,223
+Laurens,WATTSVILLE,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,243,146,0,0,0,2,95
+Laurens,WATTSVILLE,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,YOUNGS,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,5,1,0,0,0,0,4
+Laurens,YOUNGS,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Laurens,YOUNGS,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,516,103,0,0,0,3,410
+Laurens,YOUNGS,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,148,76,0,0,0,0,72
+Laurens,YOUNGS,Governor and Lieutenant Governor,,Write-In,NON,2,0,0,0,0,0,2
+Laurens,Failsafe,Greenville County School Board District 28,,Jeff Cochran,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,Greenville County School Board District 28,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Greenville County School Board District 28,,Jeff Cochran,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Greenville County School Board District 28,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JONES,Greenville County School Board District 28,,Jeff Cochran,NON,313,95,0,0,0,1,217
+Laurens,JONES,Greenville County School Board District 28,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,Provisional,Greenville County School Board District 28,,Jeff Cochran,NON,0,0,0,0,0,0,0
+Laurens,Provisional,Greenville County School Board District 28,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BAILEY,Probate Judge,,Kevin C Nix,REP,434,150,0,0,0,3,281
+Laurens,BAILEY,Probate Judge,,Write-In,NON,4,0,0,0,0,1,3
+Laurens,BARKSDALE-NARINE,Probate Judge,,Kevin C Nix,REP,464,162,0,0,0,6,296
+Laurens,BARKSDALE-NARINE,Probate Judge,,Write-In,NON,10,9,0,0,0,0,1
+Laurens,BREWERTON-PRINCETON,Probate Judge,,Kevin C Nix,REP,364,62,0,0,0,2,300
+Laurens,BREWERTON-PRINCETON,Probate Judge,,Write-In,NON,5,0,0,0,0,0,5
+Laurens,CLINTON 1,Probate Judge,,Kevin C Nix,REP,473,111,0,0,0,3,359
+Laurens,CLINTON 1,Probate Judge,,Write-In,NON,14,6,0,0,0,0,8
+Laurens,CLINTON 2,Probate Judge,,Kevin C Nix,REP,523,159,0,0,0,5,359
+Laurens,CLINTON 2,Probate Judge,,Write-In,NON,16,6,0,0,0,0,10
+Laurens,CLINTON 3,Probate Judge,,Kevin C Nix,REP,703,208,0,0,0,5,490
+Laurens,CLINTON 3,Probate Judge,,Write-In,NON,9,2,0,0,0,0,7
+Laurens,CLINTON MILL,Probate Judge,,Kevin C Nix,REP,268,77,0,0,0,5,186
+Laurens,CLINTON MILL,Probate Judge,,Write-In,NON,15,8,0,0,0,0,7
+Laurens,COOKS,Probate Judge,,Kevin C Nix,REP,784,140,0,0,0,7,637
+Laurens,COOKS,Probate Judge,,Write-In,NON,17,8,0,0,0,0,9
+Laurens,CROSS HILL,Probate Judge,,Kevin C Nix,REP,758,179,0,0,0,5,574
+Laurens,CROSS HILL,Probate Judge,,Write-In,NON,9,3,0,0,0,0,6
+Laurens,EKOM,Probate Judge,,Kevin C Nix,REP,288,99,0,0,0,1,188
+Laurens,EKOM,Probate Judge,,Write-In,NON,3,2,0,0,0,0,1
+Laurens,Failsafe,Probate Judge,,Kevin C Nix,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Probate Judge,,Kevin C Nix,REP,8,0,8,0,0,0,0
+Laurens,Failsafe Provisional,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,Probate Judge,,Kevin C Nix,REP,510,116,0,0,0,1,393
+Laurens,GRAY COURT,Probate Judge,,Write-In,NON,10,5,0,0,0,0,5
+Laurens,GREENPOND,Probate Judge,,Kevin C Nix,REP,769,140,0,0,0,5,624
+Laurens,GREENPOND,Probate Judge,,Write-In,NON,3,0,0,0,0,0,3
+Laurens,HICKORY TAVERN,Probate Judge,,Kevin C Nix,REP,1168,373,0,0,0,10,785
+Laurens,HICKORY TAVERN,Probate Judge,,Write-In,NON,10,7,0,0,0,0,3
+Laurens,JOANNA,Probate Judge,,Kevin C Nix,REP,709,139,0,0,0,4,566
+Laurens,JOANNA,Probate Judge,,Write-In,NON,9,5,0,0,0,0,4
+Laurens,JONES,Probate Judge,,Kevin C Nix,REP,1598,401,0,0,0,17,1180
+Laurens,JONES,Probate Judge,,Write-In,NON,40,20,0,0,0,0,20
+Laurens,LAURENS 1,Probate Judge,,Kevin C Nix,REP,153,72,0,0,0,1,80
+Laurens,LAURENS 1,Probate Judge,,Write-In,NON,2,2,0,0,0,0,0
+Laurens,LAURENS 2,Probate Judge,,Kevin C Nix,REP,56,25,0,0,0,0,31
+Laurens,LAURENS 2,Probate Judge,,Write-In,NON,6,3,0,0,0,0,3
+Laurens,LAURENS 3,Probate Judge,,Kevin C Nix,REP,150,63,0,0,0,0,87
+Laurens,LAURENS 3,Probate Judge,,Write-In,NON,3,2,0,0,0,0,1
+Laurens,LAURENS 4,Probate Judge,,Kevin C Nix,REP,127,45,0,0,0,1,81
+Laurens,LAURENS 4,Probate Judge,,Write-In,NON,9,6,0,0,0,0,3
+Laurens,LAURENS 5,Probate Judge,,Kevin C Nix,REP,635,278,0,0,0,16,341
+Laurens,LAURENS 5,Probate Judge,,Write-In,NON,16,8,0,0,0,1,7
+Laurens,LAURENS 6,Probate Judge,,Kevin C Nix,REP,551,283,0,0,0,6,262
+Laurens,LAURENS 6,Probate Judge,,Write-In,NON,9,3,0,0,0,0,6
+Laurens,LONG BRANCH,Probate Judge,,Kevin C Nix,REP,614,192,0,0,0,2,420
+Laurens,LONG BRANCH,Probate Judge,,Write-In,NON,5,2,0,0,0,0,3
+Laurens,LYDIA MILL,Probate Judge,,Kevin C Nix,REP,343,108,0,0,0,3,232
+Laurens,LYDIA MILL,Probate Judge,,Write-In,NON,12,5,0,0,0,0,7
+Laurens,MADDENS,Probate Judge,,Kevin C Nix,REP,525,156,0,0,0,1,368
+Laurens,MADDENS,Probate Judge,,Write-In,NON,4,2,0,0,0,0,2
+Laurens,MARTINS-POPLAR SPRINGS,Probate Judge,,Kevin C Nix,REP,335,49,0,0,0,1,285
+Laurens,MARTINS-POPLAR SPRINGS,Probate Judge,,Write-In,NON,3,1,0,0,0,0,2
+Laurens,MOUNT OLIVE,Probate Judge,,Kevin C Nix,REP,522,112,0,0,0,5,405
+Laurens,MOUNT OLIVE,Probate Judge,,Write-In,NON,2,0,0,0,0,0,2
+Laurens,MOUNTVILLE,Probate Judge,,Kevin C Nix,REP,248,61,0,0,0,1,186
+Laurens,MOUNTVILLE,Probate Judge,,Write-In,NON,2,0,0,0,0,1,1
+Laurens,ORA-LANFORD,Probate Judge,,Kevin C Nix,REP,388,84,0,0,0,1,303
+Laurens,ORA-LANFORD,Probate Judge,,Write-In,NON,5,3,0,0,0,0,2
+Laurens,OWINGS,Probate Judge,,Kevin C Nix,REP,434,81,0,0,0,1,352
+Laurens,OWINGS,Probate Judge,,Write-In,NON,7,5,0,0,0,0,2
+Laurens,Provisional,Probate Judge,,Kevin C Nix,REP,10,0,0,10,0,0,0
+Laurens,Provisional,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,Probate Judge,,Kevin C Nix,REP,613,253,0,0,0,0,360
+Laurens,TRINITY RIDGE,Probate Judge,,Write-In,NON,5,3,0,0,0,1,1
+Laurens,WATERLOO,Probate Judge,,Kevin C Nix,REP,743,230,0,0,0,8,505
+Laurens,WATERLOO,Probate Judge,,Write-In,NON,11,6,0,0,0,1,4
+Laurens,WATTSVILLE,Probate Judge,,Kevin C Nix,REP,473,214,0,0,0,7,252
+Laurens,WATTSVILLE,Probate Judge,,Write-In,NON,6,6,0,0,0,0,0
+Laurens,YOUNGS,Probate Judge,,Kevin C Nix,REP,576,134,0,0,0,1,441
+Laurens,YOUNGS,Probate Judge,,Write-In,NON,7,4,0,0,0,0,3
+Laurens,BARKSDALE-NARINE,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,81,37,0,0,0,0,44
+Laurens,BARKSDALE-NARINE,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,44,13,0,0,0,1,30
+Laurens,BARKSDALE-NARINE,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,EKOM,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,76,25,0,0,0,1,50
+Laurens,EKOM,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,73,25,0,0,0,1,47
+Laurens,EKOM,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,Failsafe,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,143,40,0,0,0,0,103
+Laurens,GRAY COURT,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,99,24,0,0,0,0,75
+Laurens,GRAY COURT,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,6,3,0,0,0,0,3
+Laurens,GREENPOND,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,373,81,0,0,0,4,288
+Laurens,GREENPOND,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,359,74,0,0,0,4,281
+Laurens,GREENPOND,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,4,0,0,0,0,0,4
+Laurens,HICKORY TAVERN,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,348,134,0,0,0,4,210
+Laurens,HICKORY TAVERN,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,309,105,0,0,0,2,202
+Laurens,HICKORY TAVERN,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,4,4,0,0,0,0,0
+Laurens,JONES,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,249,72,0,0,0,1,176
+Laurens,JONES,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,174,54,0,0,0,1,119
+Laurens,JONES,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,LAURENS 6,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,20,15,0,0,0,0,5
+Laurens,LAURENS 6,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,30,17,0,0,0,0,13
+Laurens,LAURENS 6,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MADDENS,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,153,39,0,0,0,0,114
+Laurens,MADDENS,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,149,34,0,0,0,1,114
+Laurens,MADDENS,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,3,1,0,0,0,0,2
+Laurens,OWINGS,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,62,16,0,0,0,0,46
+Laurens,OWINGS,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,60,18,0,0,0,0,42
+Laurens,OWINGS,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,3,2,0,0,0,0,1
+Laurens,Provisional,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,0,0,0,0,0,0,0
+Laurens,Provisional,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,0,0,0,0,0,0,0
+Laurens,Provisional,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,281,117,0,0,0,1,163
+Laurens,TRINITY RIDGE,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,261,110,0,0,0,1,150
+Laurens,TRINITY RIDGE,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,7,3,0,0,0,0,4
+Laurens,WATERLOO,Rabon Creek Watershed Conservation District Rabon Creek,,Casey Robinson,NON,57,21,0,0,0,2,34
+Laurens,WATERLOO,Rabon Creek Watershed Conservation District Rabon Creek,,Nick Wham,NON,37,13,0,0,0,2,22
+Laurens,WATERLOO,Rabon Creek Watershed Conservation District Rabon Creek,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,"School Board District 55, Seat 2",,Melissa Brown,NON,62,23,0,0,0,2,37
+Laurens,BARKSDALE-NARINE,"School Board District 55, Seat 2",,Cathy Little,NON,78,33,0,0,0,0,45
+Laurens,BARKSDALE-NARINE,"School Board District 55, Seat 2",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,"School Board District 55, Seat 2",,Melissa Brown,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,"School Board District 55, Seat 2",,Cathy Little,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,"School Board District 55, Seat 2",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 55, Seat 2",,Melissa Brown,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 55, Seat 2",,Cathy Little,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 55, Seat 2",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,"School Board District 55, Seat 2",,Melissa Brown,NON,3,1,0,0,0,0,2
+Laurens,GRAY COURT,"School Board District 55, Seat 2",,Cathy Little,NON,7,2,0,0,0,0,5
+Laurens,GRAY COURT,"School Board District 55, Seat 2",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 1,"School Board District 55, Seat 2",,Melissa Brown,NON,15,9,0,0,0,0,6
+Laurens,LAURENS 1,"School Board District 55, Seat 2",,Cathy Little,NON,11,6,0,0,0,0,5
+Laurens,LAURENS 1,"School Board District 55, Seat 2",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 3,"School Board District 55, Seat 2",,Melissa Brown,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 3,"School Board District 55, Seat 2",,Cathy Little,NON,1,1,0,0,0,0,0
+Laurens,LAURENS 3,"School Board District 55, Seat 2",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 4,"School Board District 55, Seat 2",,Melissa Brown,NON,27,6,0,0,0,0,21
+Laurens,LAURENS 4,"School Board District 55, Seat 2",,Cathy Little,NON,15,7,0,0,0,0,8
+Laurens,LAURENS 4,"School Board District 55, Seat 2",,Write-In,NON,2,1,0,0,0,0,1
+Laurens,LAURENS 5,"School Board District 55, Seat 2",,Melissa Brown,NON,214,87,0,0,0,3,124
+Laurens,LAURENS 5,"School Board District 55, Seat 2",,Cathy Little,NON,337,169,0,0,0,7,161
+Laurens,LAURENS 5,"School Board District 55, Seat 2",,Write-In,NON,1,0,0,0,0,0,1
+Laurens,LAURENS 6,"School Board District 55, Seat 2",,Melissa Brown,NON,194,101,0,0,0,4,89
+Laurens,LAURENS 6,"School Board District 55, Seat 2",,Cathy Little,NON,276,154,0,0,0,1,121
+Laurens,LAURENS 6,"School Board District 55, Seat 2",,Write-In,NON,2,1,0,0,0,0,1
+Laurens,MADDENS,"School Board District 55, Seat 2",,Melissa Brown,NON,5,4,0,0,0,0,1
+Laurens,MADDENS,"School Board District 55, Seat 2",,Cathy Little,NON,0,0,0,0,0,0,0
+Laurens,MADDENS,"School Board District 55, Seat 2",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,ORA-LANFORD,"School Board District 55, Seat 2",,Melissa Brown,NON,76,30,0,0,0,0,46
+Laurens,ORA-LANFORD,"School Board District 55, Seat 2",,Cathy Little,NON,80,18,0,0,0,0,62
+Laurens,ORA-LANFORD,"School Board District 55, Seat 2",,Write-In,NON,2,0,0,0,0,0,2
+Laurens,Provisional,"School Board District 55, Seat 2",,Melissa Brown,NON,0,0,0,0,0,0,0
+Laurens,Provisional,"School Board District 55, Seat 2",,Cathy Little,NON,1,0,0,1,0,0,0
+Laurens,Provisional,"School Board District 55, Seat 2",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,"School Board District 55, Seat 2",,Melissa Brown,NON,78,38,0,0,0,3,37
+Laurens,TRINITY RIDGE,"School Board District 55, Seat 2",,Cathy Little,NON,86,36,0,0,0,0,50
+Laurens,TRINITY RIDGE,"School Board District 55, Seat 2",,Write-In,NON,1,1,0,0,0,0,0
+Laurens,WATTSVILLE,"School Board District 55, Seat 2",,Melissa Brown,NON,35,16,0,0,0,0,19
+Laurens,WATTSVILLE,"School Board District 55, Seat 2",,Cathy Little,NON,42,15,0,0,0,0,27
+Laurens,WATTSVILLE,"School Board District 55, Seat 2",,Write-In,NON,2,2,0,0,0,0,0
+Laurens,BREWERTON-PRINCETON,"School Board District 55, Seat 4",,Mike Hughes,NON,94,9,0,0,0,2,83
+Laurens,BREWERTON-PRINCETON,"School Board District 55, Seat 4",,Write-In,NON,2,0,0,0,0,0,2
+Laurens,Failsafe,"School Board District 55, Seat 4",,Mike Hughes,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,"School Board District 55, Seat 4",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 55, Seat 4",,Mike Hughes,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 55, Seat 4",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GREENPOND,"School Board District 55, Seat 4",,Mike Hughes,NON,335,61,0,0,0,3,271
+Laurens,GREENPOND,"School Board District 55, Seat 4",,Write-In,NON,4,2,0,0,0,0,2
+Laurens,HICKORY TAVERN,"School Board District 55, Seat 4",,Mike Hughes,NON,867,277,0,0,0,6,584
+Laurens,HICKORY TAVERN,"School Board District 55, Seat 4",,Write-In,NON,16,7,0,0,0,0,9
+Laurens,Provisional,"School Board District 55, Seat 4",,Mike Hughes,NON,0,0,0,0,0,0,0
+Laurens,Provisional,"School Board District 55, Seat 4",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,"School Board District 55, Seat 4",,Mike Hughes,NON,32,12,0,0,0,0,20
+Laurens,TRINITY RIDGE,"School Board District 55, Seat 4",,Write-In,NON,1,1,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,"School Board District 55, Seat 6",,Nick Babb,NON,182,50,0,0,0,1,131
+Laurens,BARKSDALE-NARINE,"School Board District 55, Seat 6",,Lee McDaniel,NON,106,64,0,0,0,3,39
+Laurens,BARKSDALE-NARINE,"School Board District 55, Seat 6",,Write-In,NON,5,1,0,0,0,0,4
+Laurens,Failsafe,"School Board District 55, Seat 6",,Nick Babb,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,"School Board District 55, Seat 6",,Lee McDaniel,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,"School Board District 55, Seat 6",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 55, Seat 6",,Nick Babb,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 55, Seat 6",,Lee McDaniel,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 55, Seat 6",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,"School Board District 55, Seat 6",,Nick Babb,NON,70,14,0,0,0,1,55
+Laurens,GRAY COURT,"School Board District 55, Seat 6",,Lee McDaniel,NON,100,44,0,0,0,0,56
+Laurens,GRAY COURT,"School Board District 55, Seat 6",,Write-In,NON,5,2,0,0,0,0,3
+Laurens,LAURENS 4,"School Board District 55, Seat 6",,Nick Babb,NON,9,4,0,0,0,0,5
+Laurens,LAURENS 4,"School Board District 55, Seat 6",,Lee McDaniel,NON,109,36,0,0,0,1,72
+Laurens,LAURENS 4,"School Board District 55, Seat 6",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 5,"School Board District 55, Seat 6",,Nick Babb,NON,39,11,0,0,0,0,28
+Laurens,LAURENS 5,"School Board District 55, Seat 6",,Lee McDaniel,NON,103,58,0,0,0,3,42
+Laurens,LAURENS 5,"School Board District 55, Seat 6",,Write-In,NON,4,3,0,0,0,0,1
+Laurens,MADDENS,"School Board District 55, Seat 6",,Nick Babb,NON,85,19,0,0,0,0,66
+Laurens,MADDENS,"School Board District 55, Seat 6",,Lee McDaniel,NON,83,53,0,0,0,0,30
+Laurens,MADDENS,"School Board District 55, Seat 6",,Write-In,NON,3,1,0,0,0,0,2
+Laurens,OWINGS,"School Board District 55, Seat 6",,Nick Babb,NON,21,7,0,0,0,0,14
+Laurens,OWINGS,"School Board District 55, Seat 6",,Lee McDaniel,NON,22,7,0,0,0,0,15
+Laurens,OWINGS,"School Board District 55, Seat 6",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Provisional,"School Board District 55, Seat 6",,Nick Babb,NON,0,0,0,0,0,0,0
+Laurens,Provisional,"School Board District 55, Seat 6",,Lee McDaniel,NON,0,0,0,0,0,0,0
+Laurens,Provisional,"School Board District 55, Seat 6",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,"School Board District 55, Seat 6",,Nick Babb,NON,288,107,0,0,0,1,180
+Laurens,TRINITY RIDGE,"School Board District 55, Seat 6",,Lee McDaniel,NON,150,80,0,0,0,4,66
+Laurens,TRINITY RIDGE,"School Board District 55, Seat 6",,Write-In,NON,5,3,0,0,0,0,2
+Laurens,CLINTON 3,"School Board District 56, Seat 5",,Teresa G Corley,NON,287,97,0,0,0,2,188
+Laurens,CLINTON 3,"School Board District 56, Seat 5",,Write-In,NON,2,1,0,0,0,0,1
+Laurens,Failsafe,"School Board District 56, Seat 5",,Teresa G Corley,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,"School Board District 56, Seat 5",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 56, Seat 5",,Teresa G Corley,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 56, Seat 5",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JOANNA,"School Board District 56, Seat 5",,Teresa G Corley,NON,286,74,0,0,0,5,207
+Laurens,JOANNA,"School Board District 56, Seat 5",,Write-In,NON,5,2,0,0,0,0,3
+Laurens,MOUNTVILLE,"School Board District 56, Seat 5",,Teresa G Corley,NON,149,35,0,0,0,1,113
+Laurens,MOUNTVILLE,"School Board District 56, Seat 5",,Write-In,NON,2,0,0,0,0,0,2
+Laurens,Provisional,"School Board District 56, Seat 5",,Teresa G Corley,NON,0,0,0,0,0,0,0
+Laurens,Provisional,"School Board District 56, Seat 5",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 1,"School Board District 56, Seat 6",,Elizabeth Plaxico Lollis,NON,67,21,0,0,0,0,46
+Laurens,CLINTON 1,"School Board District 56, Seat 6",,Jake Patterson,NON,44,11,0,0,0,0,33
+Laurens,CLINTON 1,"School Board District 56, Seat 6",,Write-In,NON,3,0,0,0,0,0,3
+Laurens,CLINTON 3,"School Board District 56, Seat 6",,Elizabeth Plaxico Lollis,NON,29,6,0,0,0,0,23
+Laurens,CLINTON 3,"School Board District 56, Seat 6",,Jake Patterson,NON,22,12,0,0,0,0,10
+Laurens,CLINTON 3,"School Board District 56, Seat 6",,Write-In,NON,2,0,0,0,0,0,2
+Laurens,Failsafe,"School Board District 56, Seat 6",,Elizabeth Plaxico Lollis,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,"School Board District 56, Seat 6",,Jake Patterson,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,"School Board District 56, Seat 6",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 56, Seat 6",,Elizabeth Plaxico Lollis,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 56, Seat 6",,Jake Patterson,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 56, Seat 6",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JOANNA,"School Board District 56, Seat 6",,Elizabeth Plaxico Lollis,NON,187,28,0,0,0,1,158
+Laurens,JOANNA,"School Board District 56, Seat 6",,Jake Patterson,NON,132,27,0,0,0,0,105
+Laurens,JOANNA,"School Board District 56, Seat 6",,Write-In,NON,2,2,0,0,0,0,0
+Laurens,LONG BRANCH,"School Board District 56, Seat 6",,Elizabeth Plaxico Lollis,NON,82,28,0,0,0,1,53
+Laurens,LONG BRANCH,"School Board District 56, Seat 6",,Jake Patterson,NON,46,5,0,0,0,0,41
+Laurens,LONG BRANCH,"School Board District 56, Seat 6",,Write-In,NON,3,0,0,0,0,0,3
+Laurens,Provisional,"School Board District 56, Seat 6",,Elizabeth Plaxico Lollis,NON,0,0,0,0,0,0,0
+Laurens,Provisional,"School Board District 56, Seat 6",,Jake Patterson,NON,0,0,0,0,0,0,0
+Laurens,Provisional,"School Board District 56, Seat 6",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CROSS HILL,"School Board District 56, Seat 7",,Jason R Mode,NON,194,44,0,0,0,2,148
+Laurens,CROSS HILL,"School Board District 56, Seat 7",,David Nabors,NON,339,78,0,0,0,2,259
+Laurens,CROSS HILL,"School Board District 56, Seat 7",,Write-In,NON,6,2,0,0,0,0,4
+Laurens,Failsafe,"School Board District 56, Seat 7",,Jason R Mode,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,"School Board District 56, Seat 7",,David Nabors,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,"School Board District 56, Seat 7",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 56, Seat 7",,Jason R Mode,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 56, Seat 7",,David Nabors,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,"School Board District 56, Seat 7",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JOANNA,"School Board District 56, Seat 7",,Jason R Mode,NON,9,3,0,0,0,0,6
+Laurens,JOANNA,"School Board District 56, Seat 7",,David Nabors,NON,2,0,0,0,0,0,2
+Laurens,JOANNA,"School Board District 56, Seat 7",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MOUNTVILLE,"School Board District 56, Seat 7",,Jason R Mode,NON,6,2,0,0,0,1,3
+Laurens,MOUNTVILLE,"School Board District 56, Seat 7",,David Nabors,NON,24,2,0,0,0,1,21
+Laurens,MOUNTVILLE,"School Board District 56, Seat 7",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Provisional,"School Board District 56, Seat 7",,Jason R Mode,NON,0,0,0,0,0,0,0
+Laurens,Provisional,"School Board District 56, Seat 7",,David Nabors,NON,0,0,0,0,0,0,0
+Laurens,Provisional,"School Board District 56, Seat 7",,Write-In,NON,0,0,0,0,0,0,0
+Laurens,WATERLOO,"School Board District 56, Seat 7",,Jason R Mode,NON,32,12,0,0,0,1,19
+Laurens,WATERLOO,"School Board District 56, Seat 7",,David Nabors,NON,64,20,0,0,0,0,44
+Laurens,WATERLOO,"School Board District 56, Seat 7",,Write-In,NON,3,2,0,0,0,0,1
+Laurens,BAILEY,Secretary of State,,Mark Hammond,REP,357,117,0,0,0,3,237
+Laurens,BAILEY,Secretary of State,,Jason Belton,DEM,243,128,0,0,0,3,112
+Laurens,BAILEY,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,Secretary of State,,Mark Hammond,REP,399,131,0,0,0,3,265
+Laurens,BARKSDALE-NARINE,Secretary of State,,Jason Belton,DEM,203,119,0,0,0,5,79
+Laurens,BARKSDALE-NARINE,Secretary of State,,Write-In,NON,2,0,0,0,0,0,2
+Laurens,BREWERTON-PRINCETON,Secretary of State,,Mark Hammond,REP,346,56,0,0,0,2,288
+Laurens,BREWERTON-PRINCETON,Secretary of State,,Jason Belton,DEM,54,20,0,0,0,0,34
+Laurens,BREWERTON-PRINCETON,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,CLINTON 1,Secretary of State,,Mark Hammond,REP,357,76,0,0,0,2,279
+Laurens,CLINTON 1,Secretary of State,,Jason Belton,DEM,339,144,0,0,0,5,190
+Laurens,CLINTON 1,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 2,Secretary of State,,Mark Hammond,REP,383,98,0,0,0,3,282
+Laurens,CLINTON 2,Secretary of State,,Jason Belton,DEM,326,135,0,0,0,11,180
+Laurens,CLINTON 2,Secretary of State,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,CLINTON 3,Secretary of State,,Mark Hammond,REP,583,166,0,0,0,5,412
+Laurens,CLINTON 3,Secretary of State,,Jason Belton,DEM,276,119,0,0,0,4,153
+Laurens,CLINTON 3,Secretary of State,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,CLINTON MILL,Secretary of State,,Mark Hammond,REP,152,35,0,0,0,1,116
+Laurens,CLINTON MILL,Secretary of State,,Jason Belton,DEM,369,166,0,0,0,14,189
+Laurens,CLINTON MILL,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,COOKS,Secretary of State,,Mark Hammond,REP,678,108,0,0,0,7,563
+Laurens,COOKS,Secretary of State,,Jason Belton,DEM,296,114,0,0,0,4,178
+Laurens,COOKS,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CROSS HILL,Secretary of State,,Mark Hammond,REP,683,154,0,0,0,4,525
+Laurens,CROSS HILL,Secretary of State,,Jason Belton,DEM,360,132,0,0,0,6,222
+Laurens,CROSS HILL,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,EKOM,Secretary of State,,Mark Hammond,REP,273,91,0,0,0,1,181
+Laurens,EKOM,Secretary of State,,Jason Belton,DEM,70,40,0,0,0,0,30
+Laurens,EKOM,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,Secretary of State,,Mark Hammond,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Secretary of State,,Mark Hammond,REP,6,0,6,0,0,0,0
+Laurens,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,12,0,12,0,0,0,0
+Laurens,Failsafe Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,Secretary of State,,Mark Hammond,REP,448,90,0,0,0,1,357
+Laurens,GRAY COURT,Secretary of State,,Jason Belton,DEM,285,121,0,0,0,0,164
+Laurens,GRAY COURT,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GREENPOND,Secretary of State,,Mark Hammond,REP,696,111,0,0,0,4,581
+Laurens,GREENPOND,Secretary of State,,Jason Belton,DEM,194,83,0,0,0,2,109
+Laurens,GREENPOND,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,HICKORY TAVERN,Secretary of State,,Mark Hammond,REP,1073,336,0,0,0,10,727
+Laurens,HICKORY TAVERN,Secretary of State,,Jason Belton,DEM,256,112,0,0,0,2,142
+Laurens,HICKORY TAVERN,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,JOANNA,Secretary of State,,Mark Hammond,REP,621,107,0,0,0,3,511
+Laurens,JOANNA,Secretary of State,,Jason Belton,DEM,210,97,0,0,0,3,110
+Laurens,JOANNA,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JONES,Secretary of State,,Mark Hammond,REP,1235,271,0,0,0,15,949
+Laurens,JONES,Secretary of State,,Jason Belton,DEM,1102,465,0,0,0,14,623
+Laurens,JONES,Secretary of State,,Write-In,NON,3,2,0,0,0,0,1
+Laurens,LAURENS 1,Secretary of State,,Mark Hammond,REP,107,55,0,0,0,0,52
+Laurens,LAURENS 1,Secretary of State,,Jason Belton,DEM,198,106,0,0,0,3,89
+Laurens,LAURENS 1,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 2,Secretary of State,,Mark Hammond,REP,29,12,0,0,0,0,17
+Laurens,LAURENS 2,Secretary of State,,Jason Belton,DEM,156,77,0,0,0,0,79
+Laurens,LAURENS 2,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 3,Secretary of State,,Mark Hammond,REP,117,46,0,0,0,0,71
+Laurens,LAURENS 3,Secretary of State,,Jason Belton,DEM,239,133,0,0,0,2,104
+Laurens,LAURENS 3,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 4,Secretary of State,,Mark Hammond,REP,78,24,0,0,0,1,53
+Laurens,LAURENS 4,Secretary of State,,Jason Belton,DEM,291,132,0,0,0,1,158
+Laurens,LAURENS 4,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 5,Secretary of State,,Mark Hammond,REP,513,226,0,0,0,15,272
+Laurens,LAURENS 5,Secretary of State,,Jason Belton,DEM,395,190,0,0,0,19,186
+Laurens,LAURENS 5,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 6,Secretary of State,,Mark Hammond,REP,472,240,0,0,0,6,226
+Laurens,LAURENS 6,Secretary of State,,Jason Belton,DEM,248,147,0,0,0,4,97
+Laurens,LAURENS 6,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LONG BRANCH,Secretary of State,,Mark Hammond,REP,564,166,0,0,0,3,395
+Laurens,LONG BRANCH,Secretary of State,,Jason Belton,DEM,156,94,0,0,0,2,60
+Laurens,LONG BRANCH,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LYDIA MILL,Secretary of State,,Mark Hammond,REP,220,61,0,0,0,2,157
+Laurens,LYDIA MILL,Secretary of State,,Jason Belton,DEM,417,221,0,0,0,17,179
+Laurens,LYDIA MILL,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,MADDENS,Secretary of State,,Mark Hammond,REP,465,123,0,0,0,1,341
+Laurens,MADDENS,Secretary of State,,Jason Belton,DEM,207,136,0,0,0,0,71
+Laurens,MADDENS,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MARTINS-POPLAR SPRINGS,Secretary of State,,Mark Hammond,REP,305,44,0,0,0,1,260
+Laurens,MARTINS-POPLAR SPRINGS,Secretary of State,,Jason Belton,DEM,66,20,0,0,0,1,45
+Laurens,MARTINS-POPLAR SPRINGS,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,MOUNT OLIVE,Secretary of State,,Mark Hammond,REP,482,96,0,0,0,3,383
+Laurens,MOUNT OLIVE,Secretary of State,,Jason Belton,DEM,84,38,0,0,0,4,42
+Laurens,MOUNT OLIVE,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,MOUNTVILLE,Secretary of State,,Mark Hammond,REP,215,50,0,0,0,1,164
+Laurens,MOUNTVILLE,Secretary of State,,Jason Belton,DEM,134,57,0,0,0,2,75
+Laurens,MOUNTVILLE,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,ORA-LANFORD,Secretary of State,,Mark Hammond,REP,345,62,0,0,0,0,283
+Laurens,ORA-LANFORD,Secretary of State,,Jason Belton,DEM,203,106,0,0,0,1,96
+Laurens,ORA-LANFORD,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,OWINGS,Secretary of State,,Mark Hammond,REP,366,60,0,0,0,1,305
+Laurens,OWINGS,Secretary of State,,Jason Belton,DEM,188,82,0,0,0,1,105
+Laurens,OWINGS,Secretary of State,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,Provisional,Secretary of State,,Mark Hammond,REP,8,0,0,8,0,0,0
+Laurens,Provisional,Secretary of State,,Jason Belton,DEM,4,0,0,4,0,0,0
+Laurens,Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,Secretary of State,,Mark Hammond,REP,540,210,0,0,0,0,330
+Laurens,TRINITY RIDGE,Secretary of State,,Jason Belton,DEM,300,176,0,0,0,9,115
+Laurens,TRINITY RIDGE,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,WATERLOO,Secretary of State,,Mark Hammond,REP,648,186,0,0,0,5,457
+Laurens,WATERLOO,Secretary of State,,Jason Belton,DEM,331,163,0,0,0,7,161
+Laurens,WATERLOO,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,WATTSVILLE,Secretary of State,,Mark Hammond,REP,396,164,0,0,0,6,226
+Laurens,WATTSVILLE,Secretary of State,,Jason Belton,DEM,247,147,0,0,0,2,98
+Laurens,WATTSVILLE,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,YOUNGS,Secretary of State,,Mark Hammond,REP,523,103,0,0,0,3,417
+Laurens,YOUNGS,Secretary of State,,Jason Belton,DEM,143,76,0,0,0,0,67
+Laurens,YOUNGS,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BAILEY,Soil and Water District Commission,,Nelson Crisp,NON,266,87,0,0,0,3,176
+Laurens,BAILEY,Soil and Water District Commission,,D Patrick Jackson,NON,155,64,0,0,0,1,90
+Laurens,BAILEY,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,Soil and Water District Commission,,Nelson Crisp,NON,261,94,0,0,0,6,161
+Laurens,BARKSDALE-NARINE,Soil and Water District Commission,,D Patrick Jackson,NON,208,72,0,0,0,8,128
+Laurens,BARKSDALE-NARINE,Soil and Water District Commission,,Write-In,NON,9,4,0,0,0,0,5
+Laurens,BREWERTON-PRINCETON,Soil and Water District Commission,,Nelson Crisp,NON,134,28,0,0,0,1,105
+Laurens,BREWERTON-PRINCETON,Soil and Water District Commission,,D Patrick Jackson,NON,156,31,0,0,0,2,123
+Laurens,BREWERTON-PRINCETON,Soil and Water District Commission,,Write-In,NON,2,0,0,0,0,0,2
+Laurens,CLINTON 1,Soil and Water District Commission,,Nelson Crisp,NON,286,72,0,0,0,2,212
+Laurens,CLINTON 1,Soil and Water District Commission,,D Patrick Jackson,NON,220,78,0,0,0,1,141
+Laurens,CLINTON 1,Soil and Water District Commission,,Write-In,NON,7,2,0,0,0,0,5
+Laurens,CLINTON 2,Soil and Water District Commission,,Nelson Crisp,NON,387,113,0,0,0,4,270
+Laurens,CLINTON 2,Soil and Water District Commission,,D Patrick Jackson,NON,233,79,0,0,0,3,151
+Laurens,CLINTON 2,Soil and Water District Commission,,Write-In,NON,8,1,0,0,0,0,7
+Laurens,CLINTON 3,Soil and Water District Commission,,Nelson Crisp,NON,503,142,0,0,0,4,357
+Laurens,CLINTON 3,Soil and Water District Commission,,D Patrick Jackson,NON,216,82,0,0,0,1,133
+Laurens,CLINTON 3,Soil and Water District Commission,,Write-In,NON,4,0,0,0,0,0,4
+Laurens,CLINTON MILL,Soil and Water District Commission,,Nelson Crisp,NON,144,45,0,0,0,2,97
+Laurens,CLINTON MILL,Soil and Water District Commission,,D Patrick Jackson,NON,154,58,0,0,0,4,92
+Laurens,CLINTON MILL,Soil and Water District Commission,,Write-In,NON,7,3,0,0,0,0,4
+Laurens,COOKS,Soil and Water District Commission,,Nelson Crisp,NON,382,70,0,0,0,2,310
+Laurens,COOKS,Soil and Water District Commission,,D Patrick Jackson,NON,319,79,0,0,0,4,236
+Laurens,COOKS,Soil and Water District Commission,,Write-In,NON,4,1,0,0,0,0,3
+Laurens,CROSS HILL,Soil and Water District Commission,,Nelson Crisp,NON,385,90,0,0,0,3,292
+Laurens,CROSS HILL,Soil and Water District Commission,,D Patrick Jackson,NON,235,52,0,0,0,4,179
+Laurens,CROSS HILL,Soil and Water District Commission,,Write-In,NON,10,1,0,0,0,0,9
+Laurens,EKOM,Soil and Water District Commission,,Nelson Crisp,NON,161,50,0,0,0,1,110
+Laurens,EKOM,Soil and Water District Commission,,D Patrick Jackson,NON,109,36,0,0,0,1,72
+Laurens,EKOM,Soil and Water District Commission,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,Failsafe,Soil and Water District Commission,,Nelson Crisp,NON,1,0,0,0,1,0,0
+Laurens,Failsafe,Soil and Water District Commission,,D Patrick Jackson,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Soil and Water District Commission,,Nelson Crisp,NON,5,0,5,0,0,0,0
+Laurens,Failsafe Provisional,Soil and Water District Commission,,D Patrick Jackson,NON,4,0,4,0,0,0,0
+Laurens,Failsafe Provisional,Soil and Water District Commission,,Write-In,NON,1,0,1,0,0,0,0
+Laurens,GRAY COURT,Soil and Water District Commission,,Nelson Crisp,NON,273,72,0,0,0,1,200
+Laurens,GRAY COURT,Soil and Water District Commission,,D Patrick Jackson,NON,221,53,0,0,0,0,168
+Laurens,GRAY COURT,Soil and Water District Commission,,Write-In,NON,10,5,0,0,0,0,5
+Laurens,GREENPOND,Soil and Water District Commission,,Nelson Crisp,NON,380,75,0,0,0,4,301
+Laurens,GREENPOND,Soil and Water District Commission,,D Patrick Jackson,NON,307,73,0,0,0,4,230
+Laurens,GREENPOND,Soil and Water District Commission,,Write-In,NON,6,0,0,0,0,0,6
+Laurens,HICKORY TAVERN,Soil and Water District Commission,,Nelson Crisp,NON,639,208,0,0,0,4,427
+Laurens,HICKORY TAVERN,Soil and Water District Commission,,D Patrick Jackson,NON,454,156,0,0,0,2,296
+Laurens,HICKORY TAVERN,Soil and Water District Commission,,Write-In,NON,12,7,0,0,0,0,5
+Laurens,JOANNA,Soil and Water District Commission,,Nelson Crisp,NON,439,91,0,0,0,4,344
+Laurens,JOANNA,Soil and Water District Commission,,D Patrick Jackson,NON,220,55,0,0,0,0,165
+Laurens,JOANNA,Soil and Water District Commission,,Write-In,NON,5,2,0,0,0,0,3
+Laurens,JONES,Soil and Water District Commission,,Nelson Crisp,NON,828,215,0,0,0,13,600
+Laurens,JONES,Soil and Water District Commission,,D Patrick Jackson,NON,861,276,0,0,0,7,578
+Laurens,JONES,Soil and Water District Commission,,Write-In,NON,28,13,0,0,0,0,15
+Laurens,LAURENS 1,Soil and Water District Commission,,Nelson Crisp,NON,84,41,0,0,0,1,42
+Laurens,LAURENS 1,Soil and Water District Commission,,D Patrick Jackson,NON,69,33,0,0,0,2,34
+Laurens,LAURENS 1,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,LAURENS 2,Soil and Water District Commission,,Nelson Crisp,NON,27,10,0,0,0,0,17
+Laurens,LAURENS 2,Soil and Water District Commission,,D Patrick Jackson,NON,37,15,0,0,0,0,22
+Laurens,LAURENS 2,Soil and Water District Commission,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,LAURENS 3,Soil and Water District Commission,,Nelson Crisp,NON,83,34,0,0,0,0,49
+Laurens,LAURENS 3,Soil and Water District Commission,,D Patrick Jackson,NON,70,37,0,0,0,0,33
+Laurens,LAURENS 3,Soil and Water District Commission,,Write-In,NON,3,2,0,0,0,0,1
+Laurens,LAURENS 4,Soil and Water District Commission,,Nelson Crisp,NON,53,19,0,0,0,0,34
+Laurens,LAURENS 4,Soil and Water District Commission,,D Patrick Jackson,NON,87,39,0,0,0,0,48
+Laurens,LAURENS 4,Soil and Water District Commission,,Write-In,NON,4,3,0,0,0,0,1
+Laurens,LAURENS 5,Soil and Water District Commission,,Nelson Crisp,NON,392,177,0,0,0,7,208
+Laurens,LAURENS 5,Soil and Water District Commission,,D Patrick Jackson,NON,279,138,0,0,0,6,135
+Laurens,LAURENS 5,Soil and Water District Commission,,Write-In,NON,7,4,0,0,0,1,2
+Laurens,LAURENS 6,Soil and Water District Commission,,Nelson Crisp,NON,340,167,0,0,0,5,168
+Laurens,LAURENS 6,Soil and Water District Commission,,D Patrick Jackson,NON,207,119,0,0,0,1,87
+Laurens,LAURENS 6,Soil and Water District Commission,,Write-In,NON,2,0,0,0,0,0,2
+Laurens,LONG BRANCH,Soil and Water District Commission,,Nelson Crisp,NON,397,123,0,0,0,1,273
+Laurens,LONG BRANCH,Soil and Water District Commission,,D Patrick Jackson,NON,229,86,0,0,0,1,142
+Laurens,LONG BRANCH,Soil and Water District Commission,,Write-In,NON,3,0,0,0,0,0,3
+Laurens,LYDIA MILL,Soil and Water District Commission,,Nelson Crisp,NON,187,60,0,0,0,3,124
+Laurens,LYDIA MILL,Soil and Water District Commission,,D Patrick Jackson,NON,198,83,0,0,0,2,113
+Laurens,LYDIA MILL,Soil and Water District Commission,,Write-In,NON,11,2,0,0,0,0,9
+Laurens,MADDENS,Soil and Water District Commission,,Nelson Crisp,NON,300,89,0,0,0,1,210
+Laurens,MADDENS,Soil and Water District Commission,,D Patrick Jackson,NON,227,74,0,0,0,0,153
+Laurens,MADDENS,Soil and Water District Commission,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,MARTINS-POPLAR SPRINGS,Soil and Water District Commission,,Nelson Crisp,NON,120,19,0,0,0,1,100
+Laurens,MARTINS-POPLAR SPRINGS,Soil and Water District Commission,,D Patrick Jackson,NON,160,25,0,0,0,2,133
+Laurens,MARTINS-POPLAR SPRINGS,Soil and Water District Commission,,Write-In,NON,6,1,0,0,0,0,5
+Laurens,MOUNT OLIVE,Soil and Water District Commission,,Nelson Crisp,NON,243,56,0,0,0,3,184
+Laurens,MOUNT OLIVE,Soil and Water District Commission,,D Patrick Jackson,NON,187,46,0,0,0,1,140
+Laurens,MOUNT OLIVE,Soil and Water District Commission,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,MOUNTVILLE,Soil and Water District Commission,,Nelson Crisp,NON,189,39,0,0,0,3,147
+Laurens,MOUNTVILLE,Soil and Water District Commission,,D Patrick Jackson,NON,72,16,0,0,0,1,55
+Laurens,MOUNTVILLE,Soil and Water District Commission,,Write-In,NON,2,0,0,0,0,0,2
+Laurens,ORA-LANFORD,Soil and Water District Commission,,Nelson Crisp,NON,223,51,0,0,0,0,172
+Laurens,ORA-LANFORD,Soil and Water District Commission,,D Patrick Jackson,NON,138,43,0,0,0,1,94
+Laurens,ORA-LANFORD,Soil and Water District Commission,,Write-In,NON,10,0,0,0,0,0,10
+Laurens,OWINGS,Soil and Water District Commission,,Nelson Crisp,NON,232,48,0,0,0,0,184
+Laurens,OWINGS,Soil and Water District Commission,,D Patrick Jackson,NON,162,47,0,0,0,0,115
+Laurens,OWINGS,Soil and Water District Commission,,Write-In,NON,8,2,0,0,0,0,6
+Laurens,Provisional,Soil and Water District Commission,,Nelson Crisp,NON,5,0,0,5,0,0,0
+Laurens,Provisional,Soil and Water District Commission,,D Patrick Jackson,NON,4,0,0,4,0,0,0
+Laurens,Provisional,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,Soil and Water District Commission,,Nelson Crisp,NON,412,164,0,0,0,2,246
+Laurens,TRINITY RIDGE,Soil and Water District Commission,,D Patrick Jackson,NON,238,101,0,0,0,3,134
+Laurens,TRINITY RIDGE,Soil and Water District Commission,,Write-In,NON,4,2,0,0,0,0,2
+Laurens,WATERLOO,Soil and Water District Commission,,Nelson Crisp,NON,386,117,0,0,0,6,263
+Laurens,WATERLOO,Soil and Water District Commission,,D Patrick Jackson,NON,281,95,0,0,0,7,179
+Laurens,WATERLOO,Soil and Water District Commission,,Write-In,NON,7,4,0,0,0,0,3
+Laurens,WATTSVILLE,Soil and Water District Commission,,Nelson Crisp,NON,277,122,0,0,0,5,150
+Laurens,WATTSVILLE,Soil and Water District Commission,,D Patrick Jackson,NON,176,87,0,0,0,3,86
+Laurens,WATTSVILLE,Soil and Water District Commission,,Write-In,NON,5,4,0,0,0,0,1
+Laurens,YOUNGS,Soil and Water District Commission,,Nelson Crisp,NON,324,63,0,0,0,1,260
+Laurens,YOUNGS,Soil and Water District Commission,,D Patrick Jackson,NON,228,53,0,0,0,1,174
+Laurens,YOUNGS,Soil and Water District Commission,,Write-In,NON,9,3,0,0,0,0,6
+Laurens,BREWERTON-PRINCETON,State House,11,E T Stone,UNC,5,1,0,0,0,0,4
+Laurens,BREWERTON-PRINCETON,State House,11,Craig Gagnon,REP,342,55,0,0,0,2,285
+Laurens,BREWERTON-PRINCETON,State House,11,Jessica Beasley,DEM,56,19,0,0,0,0,37
+Laurens,BREWERTON-PRINCETON,State House,11,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,11,E T Stone,UNC,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,11,Craig Gagnon,REP,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,11,Jessica Beasley,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,11,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,11,E T Stone,UNC,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,11,Craig Gagnon,REP,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,11,Jessica Beasley,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,11,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MARTINS-POPLAR SPRINGS,State House,11,E T Stone,UNC,5,0,0,0,0,0,5
+Laurens,MARTINS-POPLAR SPRINGS,State House,11,Craig Gagnon,REP,299,45,0,0,0,1,253
+Laurens,MARTINS-POPLAR SPRINGS,State House,11,Jessica Beasley,DEM,73,19,0,0,0,1,53
+Laurens,MARTINS-POPLAR SPRINGS,State House,11,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Provisional,State House,11,E T Stone,UNC,0,0,0,0,0,0,0
+Laurens,Provisional,State House,11,Craig Gagnon,REP,0,0,0,0,0,0,0
+Laurens,Provisional,State House,11,Jessica Beasley,DEM,0,0,0,0,0,0,0
+Laurens,Provisional,State House,11,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,13,John McCravy,REP,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,13,C Rauch Wise,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,13,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,13,John McCravy,REP,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,13,C Rauch Wise,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,13,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MOUNT OLIVE,State House,13,John McCravy,REP,483,96,0,0,0,3,384
+Laurens,MOUNT OLIVE,State House,13,C Rauch Wise,DEM,87,39,0,0,0,4,44
+Laurens,MOUNT OLIVE,State House,13,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Provisional,State House,13,John McCravy,REP,0,0,0,0,0,0,0
+Laurens,Provisional,State House,13,C Rauch Wise,DEM,0,0,0,0,0,0,0
+Laurens,Provisional,State House,13,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BAILEY,State House,14,Henry D Jones,UNC,10,4,0,0,0,0,6
+Laurens,BAILEY,State House,14,Rick Shealy,REP,349,114,0,0,0,3,232
+Laurens,BAILEY,State House,14,Michanna Tate,DEM,246,130,0,0,0,3,113
+Laurens,BAILEY,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,State House,14,Henry D Jones,UNC,5,1,0,0,0,0,4
+Laurens,BARKSDALE-NARINE,State House,14,Rick Shealy,REP,394,129,0,0,0,4,261
+Laurens,BARKSDALE-NARINE,State House,14,Michanna Tate,DEM,205,120,0,0,0,4,81
+Laurens,BARKSDALE-NARINE,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 3,State House,14,Henry D Jones,UNC,3,1,0,0,0,0,2
+Laurens,CLINTON 3,State House,14,Rick Shealy,REP,142,41,0,0,0,0,101
+Laurens,CLINTON 3,State House,14,Michanna Tate,DEM,33,11,0,0,0,2,20
+Laurens,CLINTON 3,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON MILL,State House,14,Henry D Jones,UNC,0,0,0,0,0,0,0
+Laurens,CLINTON MILL,State House,14,Rick Shealy,REP,38,21,0,0,0,0,17
+Laurens,CLINTON MILL,State House,14,Michanna Tate,DEM,114,58,0,0,0,9,47
+Laurens,CLINTON MILL,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CROSS HILL,State House,14,Henry D Jones,UNC,5,0,0,0,0,0,5
+Laurens,CROSS HILL,State House,14,Rick Shealy,REP,681,155,0,0,0,5,521
+Laurens,CROSS HILL,State House,14,Michanna Tate,DEM,352,129,0,0,0,5,218
+Laurens,CROSS HILL,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,EKOM,State House,14,Henry D Jones,UNC,1,0,0,0,0,0,1
+Laurens,EKOM,State House,14,Rick Shealy,REP,273,90,0,0,0,1,182
+Laurens,EKOM,State House,14,Michanna Tate,DEM,68,39,0,0,0,0,29
+Laurens,EKOM,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,14,Henry D Jones,UNC,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,14,Rick Shealy,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,State House,14,Michanna Tate,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,14,Henry D Jones,UNC,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,14,Rick Shealy,REP,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,14,Michanna Tate,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,State House,14,Henry D Jones,UNC,7,1,0,0,0,0,6
+Laurens,GRAY COURT,State House,14,Rick Shealy,REP,438,89,0,0,0,1,348
+Laurens,GRAY COURT,State House,14,Michanna Tate,DEM,288,121,0,0,0,0,167
+Laurens,GRAY COURT,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GREENPOND,State House,14,Henry D Jones,UNC,13,3,0,0,0,1,9
+Laurens,GREENPOND,State House,14,Rick Shealy,REP,692,111,0,0,0,4,577
+Laurens,GREENPOND,State House,14,Michanna Tate,DEM,192,77,0,0,0,1,114
+Laurens,GREENPOND,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,HICKORY TAVERN,State House,14,Henry D Jones,UNC,16,6,0,0,0,0,10
+Laurens,HICKORY TAVERN,State House,14,Rick Shealy,REP,1049,328,0,0,0,10,711
+Laurens,HICKORY TAVERN,State House,14,Michanna Tate,DEM,255,112,0,0,0,2,141
+Laurens,HICKORY TAVERN,State House,14,Write-In,NON,5,3,0,0,0,0,2
+Laurens,JONES,State House,14,Henry D Jones,UNC,6,0,0,0,0,0,6
+Laurens,JONES,State House,14,Rick Shealy,REP,244,55,0,0,0,2,187
+Laurens,JONES,State House,14,Michanna Tate,DEM,122,48,0,0,0,1,73
+Laurens,JONES,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 1,State House,14,Henry D Jones,UNC,4,2,0,0,0,0,2
+Laurens,LAURENS 1,State House,14,Rick Shealy,REP,105,53,0,0,0,0,52
+Laurens,LAURENS 1,State House,14,Michanna Tate,DEM,196,107,0,0,0,3,86
+Laurens,LAURENS 1,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 2,State House,14,Henry D Jones,UNC,1,0,0,0,0,0,1
+Laurens,LAURENS 2,State House,14,Rick Shealy,REP,30,11,0,0,0,0,19
+Laurens,LAURENS 2,State House,14,Michanna Tate,DEM,153,77,0,0,0,0,76
+Laurens,LAURENS 2,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 3,State House,14,Henry D Jones,UNC,2,1,0,0,0,0,1
+Laurens,LAURENS 3,State House,14,Rick Shealy,REP,110,44,0,0,0,0,66
+Laurens,LAURENS 3,State House,14,Michanna Tate,DEM,245,135,0,0,0,2,108
+Laurens,LAURENS 3,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 4,State House,14,Henry D Jones,UNC,10,3,0,0,0,0,7
+Laurens,LAURENS 4,State House,14,Rick Shealy,REP,75,25,0,0,0,1,49
+Laurens,LAURENS 4,State House,14,Michanna Tate,DEM,289,131,0,0,0,1,157
+Laurens,LAURENS 4,State House,14,Write-In,NON,1,1,0,0,0,0,0
+Laurens,LAURENS 5,State House,14,Henry D Jones,UNC,6,4,0,0,0,0,2
+Laurens,LAURENS 5,State House,14,Rick Shealy,REP,502,218,0,0,0,14,270
+Laurens,LAURENS 5,State House,14,Michanna Tate,DEM,406,197,0,0,0,18,191
+Laurens,LAURENS 5,State House,14,Write-In,NON,1,1,0,0,0,0,0
+Laurens,LAURENS 6,State House,14,Henry D Jones,UNC,8,4,0,0,0,0,4
+Laurens,LAURENS 6,State House,14,Rick Shealy,REP,456,234,0,0,0,5,217
+Laurens,LAURENS 6,State House,14,Michanna Tate,DEM,257,150,0,0,0,4,103
+Laurens,LAURENS 6,State House,14,Write-In,NON,4,1,0,0,0,1,2
+Laurens,LONG BRANCH,State House,14,Henry D Jones,UNC,6,2,0,0,0,0,4
+Laurens,LONG BRANCH,State House,14,Rick Shealy,REP,524,153,0,0,0,2,369
+Laurens,LONG BRANCH,State House,14,Michanna Tate,DEM,160,96,0,0,0,3,61
+Laurens,LONG BRANCH,State House,14,Write-In,NON,1,0,0,0,0,0,1
+Laurens,LYDIA MILL,State House,14,Henry D Jones,UNC,3,1,0,0,0,0,2
+Laurens,LYDIA MILL,State House,14,Rick Shealy,REP,150,41,0,0,0,1,108
+Laurens,LYDIA MILL,State House,14,Michanna Tate,DEM,242,134,0,0,0,16,92
+Laurens,LYDIA MILL,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MADDENS,State House,14,Henry D Jones,UNC,4,2,0,0,0,0,2
+Laurens,MADDENS,State House,14,Rick Shealy,REP,463,122,0,0,0,1,340
+Laurens,MADDENS,State House,14,Michanna Tate,DEM,208,136,0,0,0,0,72
+Laurens,MADDENS,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MOUNTVILLE,State House,14,Henry D Jones,UNC,6,1,0,0,0,0,5
+Laurens,MOUNTVILLE,State House,14,Rick Shealy,REP,214,49,0,0,0,2,163
+Laurens,MOUNTVILLE,State House,14,Michanna Tate,DEM,129,57,0,0,0,2,70
+Laurens,MOUNTVILLE,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,ORA-LANFORD,State House,14,Henry D Jones,UNC,5,3,0,0,0,0,2
+Laurens,ORA-LANFORD,State House,14,Rick Shealy,REP,344,62,0,0,0,0,282
+Laurens,ORA-LANFORD,State House,14,Michanna Tate,DEM,201,105,0,0,0,1,95
+Laurens,ORA-LANFORD,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,OWINGS,State House,14,Henry D Jones,UNC,1,1,0,0,0,0,0
+Laurens,OWINGS,State House,14,Rick Shealy,REP,127,26,0,0,0,1,100
+Laurens,OWINGS,State House,14,Michanna Tate,DEM,86,38,0,0,0,1,47
+Laurens,OWINGS,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Provisional,State House,14,Henry D Jones,UNC,0,0,0,0,0,0,0
+Laurens,Provisional,State House,14,Rick Shealy,REP,2,0,0,2,0,0,0
+Laurens,Provisional,State House,14,Michanna Tate,DEM,3,0,0,3,0,0,0
+Laurens,Provisional,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,State House,14,Henry D Jones,UNC,11,6,0,0,0,0,5
+Laurens,TRINITY RIDGE,State House,14,Rick Shealy,REP,529,202,0,0,0,0,327
+Laurens,TRINITY RIDGE,State House,14,Michanna Tate,DEM,304,181,0,0,0,9,114
+Laurens,TRINITY RIDGE,State House,14,Write-In,NON,2,2,0,0,0,0,0
+Laurens,WATERLOO,State House,14,Henry D Jones,UNC,12,3,0,0,0,0,9
+Laurens,WATERLOO,State House,14,Rick Shealy,REP,640,184,0,0,0,5,451
+Laurens,WATERLOO,State House,14,Michanna Tate,DEM,326,165,0,0,0,7,154
+Laurens,WATERLOO,State House,14,Write-In,NON,0,0,0,0,0,0,0
+Laurens,WATTSVILLE,State House,14,Henry D Jones,UNC,11,4,0,0,0,0,7
+Laurens,WATTSVILLE,State House,14,Rick Shealy,REP,389,164,0,0,0,5,220
+Laurens,WATTSVILLE,State House,14,Michanna Tate,DEM,244,144,0,0,0,2,98
+Laurens,WATTSVILLE,State House,14,Write-In,NON,1,0,0,0,0,1,0
+Laurens,COOKS,State House,16,Mark N Willis,REP,674,107,0,0,0,7,560
+Laurens,COOKS,State House,16,Lynn Ramirez,DEM,300,115,0,0,0,4,181
+Laurens,COOKS,State House,16,Write-In,NON,1,0,0,0,0,0,1
+Laurens,Failsafe,State House,16,Mark N Willis,REP,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,16,Lynn Ramirez,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,16,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,16,Mark N Willis,REP,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,16,Lynn Ramirez,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,16,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JONES,State House,16,Mark N Willis,REP,992,221,0,0,0,14,757
+Laurens,JONES,State House,16,Lynn Ramirez,DEM,969,411,0,0,0,12,546
+Laurens,JONES,State House,16,Write-In,NON,3,2,0,0,0,0,1
+Laurens,OWINGS,State House,16,Mark N Willis,REP,237,33,0,0,0,0,204
+Laurens,OWINGS,State House,16,Lynn Ramirez,DEM,108,46,0,0,0,0,62
+Laurens,OWINGS,State House,16,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Provisional,State House,16,Mark N Willis,REP,3,0,0,3,0,0,0
+Laurens,Provisional,State House,16,Lynn Ramirez,DEM,0,0,0,0,0,0,0
+Laurens,Provisional,State House,16,Write-In,NON,0,0,0,0,0,0,0
+Laurens,YOUNGS,State House,16,Mark N Willis,REP,522,106,0,0,0,1,415
+Laurens,YOUNGS,State House,16,Lynn Ramirez,DEM,142,72,0,0,0,1,69
+Laurens,YOUNGS,State House,16,Write-In,NON,1,0,0,0,0,0,1
+Laurens,CLINTON 1,State House,42,Doug Gilliam,REP,355,75,0,0,0,2,278
+Laurens,CLINTON 1,State House,42,Robert Larry Williams,DEM,338,148,0,0,0,5,185
+Laurens,CLINTON 1,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 2,State House,42,Doug Gilliam,REP,386,97,0,0,0,3,286
+Laurens,CLINTON 2,State House,42,Robert Larry Williams,DEM,325,139,0,0,0,11,175
+Laurens,CLINTON 2,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 3,State House,42,Doug Gilliam,REP,435,121,0,0,0,4,310
+Laurens,CLINTON 3,State House,42,Robert Larry Williams,DEM,250,113,0,0,0,4,133
+Laurens,CLINTON 3,State House,42,Write-In,NON,1,0,0,0,0,0,1
+Laurens,CLINTON MILL,State House,42,Doug Gilliam,REP,112,15,0,0,0,1,96
+Laurens,CLINTON MILL,State House,42,Robert Larry Williams,DEM,258,105,0,0,0,5,148
+Laurens,CLINTON MILL,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,42,Doug Gilliam,REP,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,42,Robert Larry Williams,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,42,Doug Gilliam,REP,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,42,Robert Larry Williams,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JOANNA,State House,42,Doug Gilliam,REP,616,106,0,0,0,3,507
+Laurens,JOANNA,State House,42,Robert Larry Williams,DEM,214,100,0,0,0,3,111
+Laurens,JOANNA,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LONG BRANCH,State House,42,Doug Gilliam,REP,28,11,0,0,0,0,17
+Laurens,LONG BRANCH,State House,42,Robert Larry Williams,DEM,1,0,0,0,0,0,1
+Laurens,LONG BRANCH,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LYDIA MILL,State House,42,Doug Gilliam,REP,71,22,0,0,0,1,48
+Laurens,LYDIA MILL,State House,42,Robert Larry Williams,DEM,179,88,0,0,0,1,90
+Laurens,LYDIA MILL,State House,42,Write-In,NON,1,0,0,0,0,0,1
+Laurens,Provisional,State House,42,Doug Gilliam,REP,1,0,0,1,0,0,0
+Laurens,Provisional,State House,42,Robert Larry Williams,DEM,1,0,0,1,0,0,0
+Laurens,Provisional,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BAILEY,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,0,0,0,0,0,2
+Laurens,BAILEY,State Superintendent of Education,,Ellen Weaver,REP,331,110,0,0,0,3,218
+Laurens,BAILEY,State Superintendent of Education,,Sylvia Wright,DEM,271,137,0,0,0,3,131
+Laurens,BAILEY,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,1,0,0,0,0,1
+Laurens,BARKSDALE-NARINE,State Superintendent of Education,,Ellen Weaver,REP,381,125,0,0,0,4,252
+Laurens,BARKSDALE-NARINE,State Superintendent of Education,,Sylvia Wright,DEM,219,122,0,0,0,4,93
+Laurens,BARKSDALE-NARINE,State Superintendent of Education,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,BREWERTON-PRINCETON,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,0,0,0,0,0,2
+Laurens,BREWERTON-PRINCETON,State Superintendent of Education,,Ellen Weaver,REP,339,53,0,0,0,2,284
+Laurens,BREWERTON-PRINCETON,State Superintendent of Education,,Sylvia Wright,DEM,61,22,0,0,0,0,39
+Laurens,BREWERTON-PRINCETON,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 1,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,2,0,0,0,0,4
+Laurens,CLINTON 1,State Superintendent of Education,,Ellen Weaver,REP,333,71,0,0,0,3,259
+Laurens,CLINTON 1,State Superintendent of Education,,Sylvia Wright,DEM,357,147,0,0,0,4,206
+Laurens,CLINTON 1,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 2,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,2,0,0,0,0,3
+Laurens,CLINTON 2,State Superintendent of Education,,Ellen Weaver,REP,323,84,0,0,0,3,236
+Laurens,CLINTON 2,State Superintendent of Education,,Sylvia Wright,DEM,380,148,0,0,0,12,220
+Laurens,CLINTON 2,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 3,State Superintendent of Education,,Baba Amin Ojuok,UNC,7,3,0,0,0,0,4
+Laurens,CLINTON 3,State Superintendent of Education,,Ellen Weaver,REP,539,154,0,0,0,4,381
+Laurens,CLINTON 3,State Superintendent of Education,,Sylvia Wright,DEM,317,130,0,0,0,5,182
+Laurens,CLINTON 3,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,CLINTON MILL,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,0,0,0,0,0,5
+Laurens,CLINTON MILL,State Superintendent of Education,,Ellen Weaver,REP,152,37,0,0,0,1,114
+Laurens,CLINTON MILL,State Superintendent of Education,,Sylvia Wright,DEM,364,162,0,0,0,14,188
+Laurens,CLINTON MILL,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,COOKS,State Superintendent of Education,,Baba Amin Ojuok,UNC,7,3,0,0,0,0,4
+Laurens,COOKS,State Superintendent of Education,,Ellen Weaver,REP,657,104,0,0,0,7,546
+Laurens,COOKS,State Superintendent of Education,,Sylvia Wright,DEM,310,116,0,0,0,4,190
+Laurens,COOKS,State Superintendent of Education,,Write-In,NON,2,0,0,0,0,0,2
+Laurens,CROSS HILL,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,1,0,0,0,0,5
+Laurens,CROSS HILL,State Superintendent of Education,,Ellen Weaver,REP,668,152,0,0,0,4,512
+Laurens,CROSS HILL,State Superintendent of Education,,Sylvia Wright,DEM,366,132,0,0,0,6,228
+Laurens,CROSS HILL,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,EKOM,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Laurens,EKOM,State Superintendent of Education,,Ellen Weaver,REP,268,88,0,0,0,1,179
+Laurens,EKOM,State Superintendent of Education,,Sylvia Wright,DEM,72,40,0,0,0,0,32
+Laurens,EKOM,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Laurens,Failsafe,State Superintendent of Education,,Ellen Weaver,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State Superintendent of Education,,Ellen Weaver,REP,5,0,5,0,0,0,0
+Laurens,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,13,0,13,0,0,0,0
+Laurens,Failsafe Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,0,0,0,0,0,6
+Laurens,GRAY COURT,State Superintendent of Education,,Ellen Weaver,REP,436,88,0,0,0,1,347
+Laurens,GRAY COURT,State Superintendent of Education,,Sylvia Wright,DEM,290,121,0,0,0,0,169
+Laurens,GRAY COURT,State Superintendent of Education,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,GREENPOND,State Superintendent of Education,,Baba Amin Ojuok,UNC,7,1,0,0,0,0,6
+Laurens,GREENPOND,State Superintendent of Education,,Ellen Weaver,REP,681,110,0,0,0,4,567
+Laurens,GREENPOND,State Superintendent of Education,,Sylvia Wright,DEM,206,82,0,0,0,2,122
+Laurens,GREENPOND,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,HICKORY TAVERN,State Superintendent of Education,,Baba Amin Ojuok,UNC,7,0,0,0,0,0,7
+Laurens,HICKORY TAVERN,State Superintendent of Education,,Ellen Weaver,REP,1042,331,0,0,0,10,701
+Laurens,HICKORY TAVERN,State Superintendent of Education,,Sylvia Wright,DEM,282,119,0,0,0,2,161
+Laurens,HICKORY TAVERN,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,JOANNA,State Superintendent of Education,,Baba Amin Ojuok,UNC,7,0,0,0,0,0,7
+Laurens,JOANNA,State Superintendent of Education,,Ellen Weaver,REP,574,99,0,0,0,3,472
+Laurens,JOANNA,State Superintendent of Education,,Sylvia Wright,DEM,249,107,0,0,0,3,139
+Laurens,JOANNA,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JONES,State Superintendent of Education,,Baba Amin Ojuok,UNC,17,2,0,0,0,0,15
+Laurens,JONES,State Superintendent of Education,,Ellen Weaver,REP,1191,262,0,0,0,15,914
+Laurens,JONES,State Superintendent of Education,,Sylvia Wright,DEM,1124,472,0,0,0,14,638
+Laurens,JONES,State Superintendent of Education,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,LAURENS 1,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,1,0,0,0,0,2
+Laurens,LAURENS 1,State Superintendent of Education,,Ellen Weaver,REP,103,54,0,0,0,0,49
+Laurens,LAURENS 1,State Superintendent of Education,,Sylvia Wright,DEM,199,107,0,0,0,3,89
+Laurens,LAURENS 1,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 2,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Laurens,LAURENS 2,State Superintendent of Education,,Ellen Weaver,REP,30,12,0,0,0,0,18
+Laurens,LAURENS 2,State Superintendent of Education,,Sylvia Wright,DEM,153,76,0,0,0,0,77
+Laurens,LAURENS 2,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 3,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,1,0,0,0,0,2
+Laurens,LAURENS 3,State Superintendent of Education,,Ellen Weaver,REP,111,45,0,0,0,0,66
+Laurens,LAURENS 3,State Superintendent of Education,,Sylvia Wright,DEM,242,133,0,0,0,2,107
+Laurens,LAURENS 3,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 4,State Superintendent of Education,,Baba Amin Ojuok,UNC,9,3,0,0,0,0,6
+Laurens,LAURENS 4,State Superintendent of Education,,Ellen Weaver,REP,76,25,0,0,0,1,50
+Laurens,LAURENS 4,State Superintendent of Education,,Sylvia Wright,DEM,288,130,0,0,0,1,157
+Laurens,LAURENS 4,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 5,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,2,0,0,0,1,2
+Laurens,LAURENS 5,State Superintendent of Education,,Ellen Weaver,REP,478,212,0,0,0,14,252
+Laurens,LAURENS 5,State Superintendent of Education,,Sylvia Wright,DEM,428,207,0,0,0,19,202
+Laurens,LAURENS 5,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,LAURENS 6,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,3,0,0,0,0,3
+Laurens,LAURENS 6,State Superintendent of Education,,Ellen Weaver,REP,452,233,0,0,0,6,213
+Laurens,LAURENS 6,State Superintendent of Education,,Sylvia Wright,DEM,269,155,0,0,0,4,110
+Laurens,LAURENS 6,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LONG BRANCH,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,0,0,0,0,0,4
+Laurens,LONG BRANCH,State Superintendent of Education,,Ellen Weaver,REP,546,162,0,0,0,3,381
+Laurens,LONG BRANCH,State Superintendent of Education,,Sylvia Wright,DEM,169,99,0,0,0,2,68
+Laurens,LONG BRANCH,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LYDIA MILL,State Superintendent of Education,,Baba Amin Ojuok,UNC,7,4,0,0,0,0,3
+Laurens,LYDIA MILL,State Superintendent of Education,,Ellen Weaver,REP,209,60,0,0,0,2,147
+Laurens,LYDIA MILL,State Superintendent of Education,,Sylvia Wright,DEM,427,221,0,0,0,17,189
+Laurens,LYDIA MILL,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,MADDENS,State Superintendent of Education,,Baba Amin Ojuok,UNC,9,5,0,0,0,0,4
+Laurens,MADDENS,State Superintendent of Education,,Ellen Weaver,REP,454,122,0,0,0,1,331
+Laurens,MADDENS,State Superintendent of Education,,Sylvia Wright,DEM,211,132,0,0,0,0,79
+Laurens,MADDENS,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MARTINS-POPLAR SPRINGS,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,0,0,0,0,0,6
+Laurens,MARTINS-POPLAR SPRINGS,State Superintendent of Education,,Ellen Weaver,REP,297,43,0,0,0,1,253
+Laurens,MARTINS-POPLAR SPRINGS,State Superintendent of Education,,Sylvia Wright,DEM,74,21,0,0,0,1,52
+Laurens,MARTINS-POPLAR SPRINGS,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MOUNT OLIVE,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,2,0,0,0,0,3
+Laurens,MOUNT OLIVE,State Superintendent of Education,,Ellen Weaver,REP,475,95,0,0,0,3,377
+Laurens,MOUNT OLIVE,State Superintendent of Education,,Sylvia Wright,DEM,89,38,0,0,0,4,47
+Laurens,MOUNT OLIVE,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MOUNTVILLE,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,0,0,0,0,0,2
+Laurens,MOUNTVILLE,State Superintendent of Education,,Ellen Weaver,REP,209,51,0,0,0,0,158
+Laurens,MOUNTVILLE,State Superintendent of Education,,Sylvia Wright,DEM,138,56,0,0,0,3,79
+Laurens,MOUNTVILLE,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,ORA-LANFORD,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,2,0,0,0,0,2
+Laurens,ORA-LANFORD,State Superintendent of Education,,Ellen Weaver,REP,327,60,0,0,0,0,267
+Laurens,ORA-LANFORD,State Superintendent of Education,,Sylvia Wright,DEM,219,108,0,0,0,1,110
+Laurens,ORA-LANFORD,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,OWINGS,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,1,0,0,0,0,3
+Laurens,OWINGS,State Superintendent of Education,,Ellen Weaver,REP,357,55,0,0,0,1,301
+Laurens,OWINGS,State Superintendent of Education,,Sylvia Wright,DEM,198,87,0,0,0,1,110
+Laurens,OWINGS,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Laurens,Provisional,State Superintendent of Education,,Ellen Weaver,REP,6,0,0,6,0,0,0
+Laurens,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,6,0,0,6,0,0,0
+Laurens,Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,3,0,0,0,0,3
+Laurens,TRINITY RIDGE,State Superintendent of Education,,Ellen Weaver,REP,522,203,0,0,0,2,317
+Laurens,TRINITY RIDGE,State Superintendent of Education,,Sylvia Wright,DEM,318,185,0,0,0,7,126
+Laurens,TRINITY RIDGE,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,WATERLOO,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,0,0,0,0,0,5
+Laurens,WATERLOO,State Superintendent of Education,,Ellen Weaver,REP,630,181,0,0,0,5,444
+Laurens,WATERLOO,State Superintendent of Education,,Sylvia Wright,DEM,345,170,0,0,0,7,168
+Laurens,WATERLOO,State Superintendent of Education,,Write-In,NON,2,0,0,0,0,0,2
+Laurens,WATTSVILLE,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,1,0,0,0,0,4
+Laurens,WATTSVILLE,State Superintendent of Education,,Ellen Weaver,REP,382,165,0,0,0,6,211
+Laurens,WATTSVILLE,State Superintendent of Education,,Sylvia Wright,DEM,259,146,0,0,0,2,111
+Laurens,WATTSVILLE,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,YOUNGS,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,1,0,0,0,0,3
+Laurens,YOUNGS,State Superintendent of Education,,Ellen Weaver,REP,501,98,0,0,0,1,402
+Laurens,YOUNGS,State Superintendent of Education,,Sylvia Wright,DEM,158,80,0,0,0,0,78
+Laurens,YOUNGS,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BAILEY,State Treasurer,,Curtis Loftis,REP,353,115,0,0,0,3,235
+Laurens,BAILEY,State Treasurer,,Vincent Coe,DEM,248,132,0,0,0,3,113
+Laurens,BAILEY,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,State Treasurer,,Curtis Loftis,REP,398,129,0,0,0,4,265
+Laurens,BARKSDALE-NARINE,State Treasurer,,Vincent Coe,DEM,207,121,0,0,0,4,82
+Laurens,BARKSDALE-NARINE,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BREWERTON-PRINCETON,State Treasurer,,Curtis Loftis,REP,348,57,0,0,0,2,289
+Laurens,BREWERTON-PRINCETON,State Treasurer,,Vincent Coe,DEM,51,17,0,0,0,0,34
+Laurens,BREWERTON-PRINCETON,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 1,State Treasurer,,Curtis Loftis,REP,357,79,0,0,0,3,275
+Laurens,CLINTON 1,State Treasurer,,Vincent Coe,DEM,339,143,0,0,0,4,192
+Laurens,CLINTON 1,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 2,State Treasurer,,Curtis Loftis,REP,376,93,0,0,0,3,280
+Laurens,CLINTON 2,State Treasurer,,Vincent Coe,DEM,332,140,0,0,0,11,181
+Laurens,CLINTON 2,State Treasurer,,Write-In,NON,1,1,0,0,0,0,0
+Laurens,CLINTON 3,State Treasurer,,Curtis Loftis,REP,594,163,0,0,0,5,426
+Laurens,CLINTON 3,State Treasurer,,Vincent Coe,DEM,269,123,0,0,0,4,142
+Laurens,CLINTON 3,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON MILL,State Treasurer,,Curtis Loftis,REP,155,38,0,0,0,1,116
+Laurens,CLINTON MILL,State Treasurer,,Vincent Coe,DEM,367,161,0,0,0,14,192
+Laurens,CLINTON MILL,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,COOKS,State Treasurer,,Curtis Loftis,REP,674,104,0,0,0,6,564
+Laurens,COOKS,State Treasurer,,Vincent Coe,DEM,297,117,0,0,0,5,175
+Laurens,COOKS,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CROSS HILL,State Treasurer,,Curtis Loftis,REP,686,155,0,0,0,4,527
+Laurens,CROSS HILL,State Treasurer,,Vincent Coe,DEM,357,131,0,0,0,6,220
+Laurens,CROSS HILL,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,EKOM,State Treasurer,,Curtis Loftis,REP,273,92,0,0,0,1,180
+Laurens,EKOM,State Treasurer,,Vincent Coe,DEM,72,40,0,0,0,0,32
+Laurens,EKOM,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,State Treasurer,,Curtis Loftis,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,State Treasurer,,Curtis Loftis,REP,6,0,6,0,0,0,0
+Laurens,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,12,0,12,0,0,0,0
+Laurens,Failsafe Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,State Treasurer,,Curtis Loftis,REP,444,90,0,0,0,1,353
+Laurens,GRAY COURT,State Treasurer,,Vincent Coe,DEM,287,121,0,0,0,0,166
+Laurens,GRAY COURT,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GREENPOND,State Treasurer,,Curtis Loftis,REP,701,114,0,0,0,4,583
+Laurens,GREENPOND,State Treasurer,,Vincent Coe,DEM,190,80,0,0,0,1,109
+Laurens,GREENPOND,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,HICKORY TAVERN,State Treasurer,,Curtis Loftis,REP,1069,343,0,0,0,10,716
+Laurens,HICKORY TAVERN,State Treasurer,,Vincent Coe,DEM,255,105,0,0,0,2,148
+Laurens,HICKORY TAVERN,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,JOANNA,State Treasurer,,Curtis Loftis,REP,619,107,0,0,0,3,509
+Laurens,JOANNA,State Treasurer,,Vincent Coe,DEM,211,97,0,0,0,3,111
+Laurens,JOANNA,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JONES,State Treasurer,,Curtis Loftis,REP,1216,266,0,0,0,14,936
+Laurens,JONES,State Treasurer,,Vincent Coe,DEM,1110,469,0,0,0,15,626
+Laurens,JONES,State Treasurer,,Write-In,NON,5,3,0,0,0,0,2
+Laurens,LAURENS 1,State Treasurer,,Curtis Loftis,REP,107,56,0,0,0,0,51
+Laurens,LAURENS 1,State Treasurer,,Vincent Coe,DEM,197,104,0,0,0,3,90
+Laurens,LAURENS 1,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 2,State Treasurer,,Curtis Loftis,REP,30,12,0,0,0,0,18
+Laurens,LAURENS 2,State Treasurer,,Vincent Coe,DEM,155,77,0,0,0,0,78
+Laurens,LAURENS 2,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 3,State Treasurer,,Curtis Loftis,REP,117,45,0,0,0,0,72
+Laurens,LAURENS 3,State Treasurer,,Vincent Coe,DEM,239,134,0,0,0,2,103
+Laurens,LAURENS 3,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 4,State Treasurer,,Curtis Loftis,REP,78,24,0,0,0,1,53
+Laurens,LAURENS 4,State Treasurer,,Vincent Coe,DEM,292,132,0,0,0,1,159
+Laurens,LAURENS 4,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 5,State Treasurer,,Curtis Loftis,REP,513,224,0,0,0,15,274
+Laurens,LAURENS 5,State Treasurer,,Vincent Coe,DEM,392,193,0,0,0,19,180
+Laurens,LAURENS 5,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,LAURENS 6,State Treasurer,,Curtis Loftis,REP,477,245,0,0,0,6,226
+Laurens,LAURENS 6,State Treasurer,,Vincent Coe,DEM,239,139,0,0,0,4,96
+Laurens,LAURENS 6,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LONG BRANCH,State Treasurer,,Curtis Loftis,REP,557,162,0,0,0,2,393
+Laurens,LONG BRANCH,State Treasurer,,Vincent Coe,DEM,159,97,0,0,0,3,59
+Laurens,LONG BRANCH,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LYDIA MILL,State Treasurer,,Curtis Loftis,REP,219,61,0,0,0,2,156
+Laurens,LYDIA MILL,State Treasurer,,Vincent Coe,DEM,414,220,0,0,0,16,178
+Laurens,LYDIA MILL,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,MADDENS,State Treasurer,,Curtis Loftis,REP,467,127,0,0,0,1,339
+Laurens,MADDENS,State Treasurer,,Vincent Coe,DEM,203,131,0,0,0,0,72
+Laurens,MADDENS,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MARTINS-POPLAR SPRINGS,State Treasurer,,Curtis Loftis,REP,303,43,0,0,0,1,259
+Laurens,MARTINS-POPLAR SPRINGS,State Treasurer,,Vincent Coe,DEM,69,21,0,0,0,1,47
+Laurens,MARTINS-POPLAR SPRINGS,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MOUNT OLIVE,State Treasurer,,Curtis Loftis,REP,480,97,0,0,0,3,380
+Laurens,MOUNT OLIVE,State Treasurer,,Vincent Coe,DEM,87,38,0,0,0,4,45
+Laurens,MOUNT OLIVE,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,MOUNTVILLE,State Treasurer,,Curtis Loftis,REP,212,50,0,0,0,0,162
+Laurens,MOUNTVILLE,State Treasurer,,Vincent Coe,DEM,135,56,0,0,0,3,76
+Laurens,MOUNTVILLE,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,ORA-LANFORD,State Treasurer,,Curtis Loftis,REP,347,62,0,0,0,0,285
+Laurens,ORA-LANFORD,State Treasurer,,Vincent Coe,DEM,202,107,0,0,0,1,94
+Laurens,ORA-LANFORD,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,OWINGS,State Treasurer,,Curtis Loftis,REP,361,58,0,0,0,1,302
+Laurens,OWINGS,State Treasurer,,Vincent Coe,DEM,195,86,0,0,0,1,108
+Laurens,OWINGS,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Provisional,State Treasurer,,Curtis Loftis,REP,7,0,0,7,0,0,0
+Laurens,Provisional,State Treasurer,,Vincent Coe,DEM,5,0,0,5,0,0,0
+Laurens,Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,State Treasurer,,Curtis Loftis,REP,535,207,0,0,0,0,328
+Laurens,TRINITY RIDGE,State Treasurer,,Vincent Coe,DEM,307,182,0,0,0,9,116
+Laurens,TRINITY RIDGE,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,WATERLOO,State Treasurer,,Curtis Loftis,REP,646,189,0,0,0,5,452
+Laurens,WATERLOO,State Treasurer,,Vincent Coe,DEM,331,161,0,0,0,7,163
+Laurens,WATERLOO,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,WATTSVILLE,State Treasurer,,Curtis Loftis,REP,396,164,0,0,0,6,226
+Laurens,WATTSVILLE,State Treasurer,,Vincent Coe,DEM,248,148,0,0,0,2,98
+Laurens,WATTSVILLE,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,YOUNGS,State Treasurer,,Curtis Loftis,REP,523,104,0,0,0,3,416
+Laurens,YOUNGS,State Treasurer,,Vincent Coe,DEM,141,72,0,0,0,0,69
+Laurens,YOUNGS,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BAILEY,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Laurens,BAILEY,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,BAILEY,Straight Party,,Republican,REP,198,63,0,0,0,1,134
+Laurens,BAILEY,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,BAILEY,Straight Party,,Democratic,DEM,165,96,0,0,0,2,67
+Laurens,BAILEY,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,Straight Party,,Republican,REP,237,84,0,0,0,3,150
+Laurens,BARKSDALE-NARINE,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,Straight Party,,Democratic,DEM,139,82,0,0,0,0,57
+Laurens,BARKSDALE-NARINE,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,BREWERTON-PRINCETON,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Laurens,BREWERTON-PRINCETON,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Laurens,BREWERTON-PRINCETON,Straight Party,,Republican,REP,241,29,0,0,0,1,211
+Laurens,BREWERTON-PRINCETON,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,BREWERTON-PRINCETON,Straight Party,,Democratic,DEM,33,10,0,0,0,0,23
+Laurens,BREWERTON-PRINCETON,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,CLINTON 1,Straight Party,,United Citizens,UNC,2,0,0,0,0,0,2
+Laurens,CLINTON 1,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,CLINTON 1,Straight Party,,Republican,REP,213,46,0,0,0,1,166
+Laurens,CLINTON 1,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,CLINTON 1,Straight Party,,Democratic,DEM,236,105,0,0,0,3,128
+Laurens,CLINTON 1,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,CLINTON 2,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Laurens,CLINTON 2,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,CLINTON 2,Straight Party,,Republican,REP,158,48,0,0,0,3,107
+Laurens,CLINTON 2,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,CLINTON 2,Straight Party,,Democratic,DEM,186,80,0,0,0,7,99
+Laurens,CLINTON 2,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,CLINTON 3,Straight Party,,United Citizens,UNC,4,2,0,0,0,0,2
+Laurens,CLINTON 3,Straight Party,,Green,GRN,3,0,0,0,0,0,3
+Laurens,CLINTON 3,Straight Party,,Republican,REP,341,105,0,0,0,3,233
+Laurens,CLINTON 3,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,CLINTON 3,Straight Party,,Democratic,DEM,174,80,0,0,0,4,90
+Laurens,CLINTON 3,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,CLINTON MILL,Straight Party,,United Citizens,UNC,3,0,0,0,0,0,3
+Laurens,CLINTON MILL,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,CLINTON MILL,Straight Party,,Republican,REP,104,23,0,0,0,1,80
+Laurens,CLINTON MILL,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Laurens,CLINTON MILL,Straight Party,,Democratic,DEM,268,117,0,0,0,10,141
+Laurens,CLINTON MILL,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,COOKS,Straight Party,,United Citizens,UNC,2,0,0,0,0,0,2
+Laurens,COOKS,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,COOKS,Straight Party,,Republican,REP,472,82,0,0,0,4,386
+Laurens,COOKS,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Laurens,COOKS,Straight Party,,Democratic,DEM,205,84,0,0,0,4,117
+Laurens,COOKS,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,CROSS HILL,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Laurens,CROSS HILL,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Laurens,CROSS HILL,Straight Party,,Republican,REP,486,113,0,0,0,3,370
+Laurens,CROSS HILL,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,CROSS HILL,Straight Party,,Democratic,DEM,260,96,0,0,0,5,159
+Laurens,CROSS HILL,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,EKOM,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Laurens,EKOM,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,EKOM,Straight Party,,Republican,REP,183,64,0,0,0,0,119
+Laurens,EKOM,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Laurens,EKOM,Straight Party,,Democratic,DEM,47,28,0,0,0,0,19
+Laurens,EKOM,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,Failsafe,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Laurens,Failsafe,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,Failsafe,Straight Party,,Republican,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,Failsafe,Straight Party,,Democratic,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Straight Party,,Republican,REP,1,0,1,0,0,0,0
+Laurens,Failsafe Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,Straight Party,,Democratic,DEM,10,0,10,0,0,0,0
+Laurens,Failsafe Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Laurens,GRAY COURT,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,GRAY COURT,Straight Party,,Republican,REP,277,62,0,0,0,0,215
+Laurens,GRAY COURT,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Laurens,GRAY COURT,Straight Party,,Democratic,DEM,216,93,0,0,0,0,123
+Laurens,GRAY COURT,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Laurens,GREENPOND,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Laurens,GREENPOND,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Laurens,GREENPOND,Straight Party,,Republican,REP,473,79,0,0,0,3,391
+Laurens,GREENPOND,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Laurens,GREENPOND,Straight Party,,Democratic,DEM,112,49,0,0,0,1,62
+Laurens,GREENPOND,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,HICKORY TAVERN,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Laurens,HICKORY TAVERN,Straight Party,,Green,GRN,2,1,0,0,0,0,1
+Laurens,HICKORY TAVERN,Straight Party,,Republican,REP,706,224,0,0,0,6,476
+Laurens,HICKORY TAVERN,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,HICKORY TAVERN,Straight Party,,Democratic,DEM,156,69,0,0,0,2,85
+Laurens,HICKORY TAVERN,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,JOANNA,Straight Party,,United Citizens,UNC,2,0,0,0,0,0,2
+Laurens,JOANNA,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Laurens,JOANNA,Straight Party,,Republican,REP,388,72,0,0,0,2,314
+Laurens,JOANNA,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,JOANNA,Straight Party,,Democratic,DEM,135,65,0,0,0,1,69
+Laurens,JOANNA,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,JONES,Straight Party,,United Citizens,UNC,3,0,0,0,0,0,3
+Laurens,JONES,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Laurens,JONES,Straight Party,,Republican,REP,832,194,0,0,0,9,629
+Laurens,JONES,Straight Party,,Libertarian,LIB,3,0,0,0,0,0,3
+Laurens,JONES,Straight Party,,Democratic,DEM,756,328,0,0,0,9,419
+Laurens,JONES,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Laurens,LAURENS 1,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Laurens,LAURENS 1,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,LAURENS 1,Straight Party,,Republican,REP,63,30,0,0,0,0,33
+Laurens,LAURENS 1,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,LAURENS 1,Straight Party,,Democratic,DEM,146,80,0,0,0,2,64
+Laurens,LAURENS 1,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,LAURENS 2,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Laurens,LAURENS 2,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,LAURENS 2,Straight Party,,Republican,REP,14,7,0,0,0,0,7
+Laurens,LAURENS 2,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,LAURENS 2,Straight Party,,Democratic,DEM,126,61,0,0,0,0,65
+Laurens,LAURENS 2,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,LAURENS 3,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Laurens,LAURENS 3,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Laurens,LAURENS 3,Straight Party,,Republican,REP,80,31,0,0,0,0,49
+Laurens,LAURENS 3,Straight Party,,Libertarian,LIB,1,1,0,0,0,0,0
+Laurens,LAURENS 3,Straight Party,,Democratic,DEM,190,104,0,0,0,1,85
+Laurens,LAURENS 3,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,LAURENS 4,Straight Party,,United Citizens,UNC,4,3,0,0,0,0,1
+Laurens,LAURENS 4,Straight Party,,Green,GRN,3,0,0,0,0,0,3
+Laurens,LAURENS 4,Straight Party,,Republican,REP,47,16,0,0,0,1,30
+Laurens,LAURENS 4,Straight Party,,Libertarian,LIB,1,1,0,0,0,0,0
+Laurens,LAURENS 4,Straight Party,,Democratic,DEM,225,97,0,0,0,1,127
+Laurens,LAURENS 4,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,LAURENS 5,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Laurens,LAURENS 5,Straight Party,,Green,GRN,2,0,0,0,0,0,2
+Laurens,LAURENS 5,Straight Party,,Republican,REP,274,122,0,0,0,10,142
+Laurens,LAURENS 5,Straight Party,,Libertarian,LIB,2,0,0,0,0,0,2
+Laurens,LAURENS 5,Straight Party,,Democratic,DEM,243,113,0,0,0,17,113
+Laurens,LAURENS 5,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,LAURENS 6,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Laurens,LAURENS 6,Straight Party,,Green,GRN,2,1,0,0,0,0,1
+Laurens,LAURENS 6,Straight Party,,Republican,REP,263,142,0,0,0,3,118
+Laurens,LAURENS 6,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Laurens,LAURENS 6,Straight Party,,Democratic,DEM,164,98,0,0,0,3,63
+Laurens,LAURENS 6,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,LONG BRANCH,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Laurens,LONG BRANCH,Straight Party,,Green,GRN,2,1,0,0,0,0,1
+Laurens,LONG BRANCH,Straight Party,,Republican,REP,364,111,0,0,0,1,252
+Laurens,LONG BRANCH,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,LONG BRANCH,Straight Party,,Democratic,DEM,94,58,0,0,0,2,34
+Laurens,LONG BRANCH,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,LYDIA MILL,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+Laurens,LYDIA MILL,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Laurens,LYDIA MILL,Straight Party,,Republican,REP,139,36,0,0,0,2,101
+Laurens,LYDIA MILL,Straight Party,,Libertarian,LIB,1,1,0,0,0,0,0
+Laurens,LYDIA MILL,Straight Party,,Democratic,DEM,315,165,0,0,0,15,135
+Laurens,LYDIA MILL,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,MADDENS,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Laurens,MADDENS,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,MADDENS,Straight Party,,Republican,REP,299,76,0,0,0,0,223
+Laurens,MADDENS,Straight Party,,Libertarian,LIB,2,0,0,0,0,0,2
+Laurens,MADDENS,Straight Party,,Democratic,DEM,137,90,0,0,0,0,47
+Laurens,MADDENS,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,MARTINS-POPLAR SPRINGS,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Laurens,MARTINS-POPLAR SPRINGS,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,MARTINS-POPLAR SPRINGS,Straight Party,,Republican,REP,200,33,0,0,0,1,166
+Laurens,MARTINS-POPLAR SPRINGS,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,MARTINS-POPLAR SPRINGS,Straight Party,,Democratic,DEM,37,11,0,0,0,0,26
+Laurens,MARTINS-POPLAR SPRINGS,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Laurens,MOUNT OLIVE,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Laurens,MOUNT OLIVE,Straight Party,,Green,GRN,3,0,0,0,0,0,3
+Laurens,MOUNT OLIVE,Straight Party,,Republican,REP,329,64,0,0,0,1,264
+Laurens,MOUNT OLIVE,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,MOUNT OLIVE,Straight Party,,Democratic,DEM,53,26,0,0,0,3,24
+Laurens,MOUNT OLIVE,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,MOUNTVILLE,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Laurens,MOUNTVILLE,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,MOUNTVILLE,Straight Party,,Republican,REP,127,33,0,0,0,0,94
+Laurens,MOUNTVILLE,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,MOUNTVILLE,Straight Party,,Democratic,DEM,96,44,0,0,0,2,50
+Laurens,MOUNTVILLE,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,ORA-LANFORD,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+Laurens,ORA-LANFORD,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Laurens,ORA-LANFORD,Straight Party,,Republican,REP,198,41,0,0,0,0,157
+Laurens,ORA-LANFORD,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,ORA-LANFORD,Straight Party,,Democratic,DEM,146,80,0,0,0,1,65
+Laurens,ORA-LANFORD,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,OWINGS,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Laurens,OWINGS,Straight Party,,Green,GRN,4,1,0,0,0,0,3
+Laurens,OWINGS,Straight Party,,Republican,REP,240,36,0,0,0,1,203
+Laurens,OWINGS,Straight Party,,Libertarian,LIB,2,0,0,0,0,0,2
+Laurens,OWINGS,Straight Party,,Democratic,DEM,123,54,0,0,0,0,69
+Laurens,OWINGS,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Laurens,Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,Provisional,Straight Party,,Republican,REP,5,0,0,5,0,0,0
+Laurens,Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,Provisional,Straight Party,,Democratic,DEM,2,0,0,2,0,0,0
+Laurens,Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Laurens,TRINITY RIDGE,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,Straight Party,,Republican,REP,287,116,0,0,0,0,171
+Laurens,TRINITY RIDGE,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,Straight Party,,Democratic,DEM,208,125,0,0,0,5,78
+Laurens,TRINITY RIDGE,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,WATERLOO,Straight Party,,United Citizens,UNC,4,0,0,0,0,0,4
+Laurens,WATERLOO,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Laurens,WATERLOO,Straight Party,,Republican,REP,453,143,0,0,0,2,308
+Laurens,WATERLOO,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Laurens,WATERLOO,Straight Party,,Democratic,DEM,230,115,0,0,0,5,110
+Laurens,WATERLOO,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Laurens,WATTSVILLE,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Laurens,WATTSVILLE,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,WATTSVILLE,Straight Party,,Republican,REP,250,111,0,0,0,3,136
+Laurens,WATTSVILLE,Straight Party,,Libertarian,LIB,2,0,0,0,0,0,2
+Laurens,WATTSVILLE,Straight Party,,Democratic,DEM,185,110,0,0,0,0,75
+Laurens,WATTSVILLE,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Laurens,YOUNGS,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Laurens,YOUNGS,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Laurens,YOUNGS,Straight Party,,Republican,REP,342,74,0,0,0,0,268
+Laurens,YOUNGS,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Laurens,YOUNGS,Straight Party,,Democratic,DEM,90,47,0,0,0,0,43
+Laurens,YOUNGS,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Laurens,BAILEY,U.S. House,3,Sheri Biggs,REP,345,107,0,0,0,3,235
+Laurens,BAILEY,U.S. House,3,Brian Corriea,LIB,11,5,0,0,0,0,6
+Laurens,BAILEY,U.S. House,3,Eunice Lehmacher,DEM,246,135,0,0,0,3,108
+Laurens,BAILEY,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,U.S. House,3,Sheri Biggs,REP,391,129,0,0,0,4,258
+Laurens,BARKSDALE-NARINE,U.S. House,3,Brian Corriea,LIB,7,1,0,0,0,0,6
+Laurens,BARKSDALE-NARINE,U.S. House,3,Eunice Lehmacher,DEM,203,120,0,0,0,4,79
+Laurens,BARKSDALE-NARINE,U.S. House,3,Write-In,NON,5,1,0,0,0,0,4
+Laurens,BREWERTON-PRINCETON,U.S. House,3,Sheri Biggs,REP,345,54,0,0,0,2,289
+Laurens,BREWERTON-PRINCETON,U.S. House,3,Brian Corriea,LIB,4,1,0,0,0,0,3
+Laurens,BREWERTON-PRINCETON,U.S. House,3,Eunice Lehmacher,DEM,52,19,0,0,0,0,33
+Laurens,BREWERTON-PRINCETON,U.S. House,3,Write-In,NON,1,1,0,0,0,0,0
+Laurens,CLINTON 1,U.S. House,3,Sheri Biggs,REP,354,76,0,0,0,2,276
+Laurens,CLINTON 1,U.S. House,3,Brian Corriea,LIB,7,1,0,0,0,0,6
+Laurens,CLINTON 1,U.S. House,3,Eunice Lehmacher,DEM,336,146,0,0,0,5,185
+Laurens,CLINTON 1,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 2,U.S. House,3,Sheri Biggs,REP,356,84,0,0,0,3,269
+Laurens,CLINTON 2,U.S. House,3,Brian Corriea,LIB,18,6,0,0,0,1,11
+Laurens,CLINTON 2,U.S. House,3,Eunice Lehmacher,DEM,334,144,0,0,0,10,180
+Laurens,CLINTON 2,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 3,U.S. House,3,Sheri Biggs,REP,569,159,0,0,0,4,406
+Laurens,CLINTON 3,U.S. House,3,Brian Corriea,LIB,13,1,0,0,0,1,11
+Laurens,CLINTON 3,U.S. House,3,Eunice Lehmacher,DEM,277,125,0,0,0,5,147
+Laurens,CLINTON 3,U.S. House,3,Write-In,NON,1,0,0,0,0,0,1
+Laurens,CLINTON MILL,U.S. House,3,Sheri Biggs,REP,147,36,0,0,0,1,110
+Laurens,CLINTON MILL,U.S. House,3,Brian Corriea,LIB,6,1,0,0,0,0,5
+Laurens,CLINTON MILL,U.S. House,3,Eunice Lehmacher,DEM,370,163,0,0,0,14,193
+Laurens,CLINTON MILL,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,COOKS,U.S. House,3,Sheri Biggs,REP,659,106,0,0,0,6,547
+Laurens,COOKS,U.S. House,3,Brian Corriea,LIB,17,2,0,0,0,0,15
+Laurens,COOKS,U.S. House,3,Eunice Lehmacher,DEM,298,114,0,0,0,5,179
+Laurens,COOKS,U.S. House,3,Write-In,NON,1,0,0,0,0,0,1
+Laurens,CROSS HILL,U.S. House,3,Sheri Biggs,REP,672,153,0,0,0,4,515
+Laurens,CROSS HILL,U.S. House,3,Brian Corriea,LIB,12,2,0,0,0,0,10
+Laurens,CROSS HILL,U.S. House,3,Eunice Lehmacher,DEM,355,130,0,0,0,6,219
+Laurens,CROSS HILL,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,EKOM,U.S. House,3,Sheri Biggs,REP,268,89,0,0,0,1,178
+Laurens,EKOM,U.S. House,3,Brian Corriea,LIB,9,1,0,0,0,0,8
+Laurens,EKOM,U.S. House,3,Eunice Lehmacher,DEM,66,40,0,0,0,0,26
+Laurens,EKOM,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,U.S. House,3,Sheri Biggs,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,U.S. House,3,Brian Corriea,LIB,0,0,0,0,0,0,0
+Laurens,Failsafe,U.S. House,3,Eunice Lehmacher,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,U.S. House,3,Sheri Biggs,REP,6,0,6,0,0,0,0
+Laurens,Failsafe Provisional,U.S. House,3,Brian Corriea,LIB,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,U.S. House,3,Eunice Lehmacher,DEM,12,0,12,0,0,0,0
+Laurens,Failsafe Provisional,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,U.S. House,3,Sheri Biggs,REP,433,89,0,0,0,1,343
+Laurens,GRAY COURT,U.S. House,3,Brian Corriea,LIB,12,2,0,0,0,0,10
+Laurens,GRAY COURT,U.S. House,3,Eunice Lehmacher,DEM,291,122,0,0,0,0,169
+Laurens,GRAY COURT,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GREENPOND,U.S. House,3,Sheri Biggs,REP,678,109,0,0,0,4,565
+Laurens,GREENPOND,U.S. House,3,Brian Corriea,LIB,18,2,0,0,0,0,16
+Laurens,GREENPOND,U.S. House,3,Eunice Lehmacher,DEM,199,83,0,0,0,2,114
+Laurens,GREENPOND,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,HICKORY TAVERN,U.S. House,3,Sheri Biggs,REP,1058,335,0,0,0,10,713
+Laurens,HICKORY TAVERN,U.S. House,3,Brian Corriea,LIB,24,5,0,0,0,0,19
+Laurens,HICKORY TAVERN,U.S. House,3,Eunice Lehmacher,DEM,253,112,0,0,0,2,139
+Laurens,HICKORY TAVERN,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,JOANNA,U.S. House,3,Sheri Biggs,REP,609,106,0,0,0,3,500
+Laurens,JOANNA,U.S. House,3,Brian Corriea,LIB,11,2,0,0,0,0,9
+Laurens,JOANNA,U.S. House,3,Eunice Lehmacher,DEM,208,97,0,0,0,3,108
+Laurens,JOANNA,U.S. House,3,Write-In,NON,2,0,0,0,0,0,2
+Laurens,JONES,U.S. House,3,Sheri Biggs,REP,1215,265,0,0,0,15,935
+Laurens,JONES,U.S. House,3,Brian Corriea,LIB,37,11,0,0,0,0,26
+Laurens,JONES,U.S. House,3,Eunice Lehmacher,DEM,1083,460,0,0,0,14,609
+Laurens,JONES,U.S. House,3,Write-In,NON,2,1,0,0,0,0,1
+Laurens,LAURENS 1,U.S. House,3,Sheri Biggs,REP,108,55,0,0,0,0,53
+Laurens,LAURENS 1,U.S. House,3,Brian Corriea,LIB,4,2,0,0,0,0,2
+Laurens,LAURENS 1,U.S. House,3,Eunice Lehmacher,DEM,192,104,0,0,0,3,85
+Laurens,LAURENS 1,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 2,U.S. House,3,Sheri Biggs,REP,27,11,0,0,0,0,16
+Laurens,LAURENS 2,U.S. House,3,Brian Corriea,LIB,1,0,0,0,0,0,1
+Laurens,LAURENS 2,U.S. House,3,Eunice Lehmacher,DEM,154,75,0,0,0,0,79
+Laurens,LAURENS 2,U.S. House,3,Write-In,NON,2,2,0,0,0,0,0
+Laurens,LAURENS 3,U.S. House,3,Sheri Biggs,REP,114,44,0,0,0,0,70
+Laurens,LAURENS 3,U.S. House,3,Brian Corriea,LIB,5,4,0,0,0,0,1
+Laurens,LAURENS 3,U.S. House,3,Eunice Lehmacher,DEM,238,132,0,0,0,2,104
+Laurens,LAURENS 3,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 4,U.S. House,3,Sheri Biggs,REP,77,24,0,0,0,1,52
+Laurens,LAURENS 4,U.S. House,3,Brian Corriea,LIB,4,2,0,0,0,0,2
+Laurens,LAURENS 4,U.S. House,3,Eunice Lehmacher,DEM,289,131,0,0,0,1,157
+Laurens,LAURENS 4,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 5,U.S. House,3,Sheri Biggs,REP,494,217,0,0,0,16,261
+Laurens,LAURENS 5,U.S. House,3,Brian Corriea,LIB,24,8,0,0,0,0,16
+Laurens,LAURENS 5,U.S. House,3,Eunice Lehmacher,DEM,393,197,0,0,0,17,179
+Laurens,LAURENS 5,U.S. House,3,Write-In,NON,2,0,0,0,0,1,1
+Laurens,LAURENS 6,U.S. House,3,Sheri Biggs,REP,460,235,0,0,0,6,219
+Laurens,LAURENS 6,U.S. House,3,Brian Corriea,LIB,13,4,0,0,0,0,9
+Laurens,LAURENS 6,U.S. House,3,Eunice Lehmacher,DEM,248,149,0,0,0,4,95
+Laurens,LAURENS 6,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LONG BRANCH,U.S. House,3,Sheri Biggs,REP,556,162,0,0,0,2,392
+Laurens,LONG BRANCH,U.S. House,3,Brian Corriea,LIB,7,4,0,0,0,0,3
+Laurens,LONG BRANCH,U.S. House,3,Eunice Lehmacher,DEM,156,94,0,0,0,3,59
+Laurens,LONG BRANCH,U.S. House,3,Write-In,NON,1,1,0,0,0,0,0
+Laurens,LYDIA MILL,U.S. House,3,Sheri Biggs,REP,220,62,0,0,0,2,156
+Laurens,LYDIA MILL,U.S. House,3,Brian Corriea,LIB,12,4,0,0,0,0,8
+Laurens,LYDIA MILL,U.S. House,3,Eunice Lehmacher,DEM,410,219,0,0,0,17,174
+Laurens,LYDIA MILL,U.S. House,3,Write-In,NON,1,0,0,0,0,0,1
+Laurens,MADDENS,U.S. House,3,Sheri Biggs,REP,456,115,0,0,0,1,340
+Laurens,MADDENS,U.S. House,3,Brian Corriea,LIB,15,7,0,0,0,0,8
+Laurens,MADDENS,U.S. House,3,Eunice Lehmacher,DEM,205,137,0,0,0,0,68
+Laurens,MADDENS,U.S. House,3,Write-In,NON,1,1,0,0,0,0,0
+Laurens,MARTINS-POPLAR SPRINGS,U.S. House,3,Sheri Biggs,REP,302,44,0,0,0,1,257
+Laurens,MARTINS-POPLAR SPRINGS,U.S. House,3,Brian Corriea,LIB,7,1,0,0,0,0,6
+Laurens,MARTINS-POPLAR SPRINGS,U.S. House,3,Eunice Lehmacher,DEM,66,19,0,0,0,1,46
+Laurens,MARTINS-POPLAR SPRINGS,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MOUNT OLIVE,U.S. House,3,Sheri Biggs,REP,471,94,0,0,0,3,374
+Laurens,MOUNT OLIVE,U.S. House,3,Brian Corriea,LIB,13,3,0,0,0,0,10
+Laurens,MOUNT OLIVE,U.S. House,3,Eunice Lehmacher,DEM,87,38,0,0,0,4,45
+Laurens,MOUNT OLIVE,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,MOUNTVILLE,U.S. House,3,Sheri Biggs,REP,210,51,0,0,0,0,159
+Laurens,MOUNTVILLE,U.S. House,3,Brian Corriea,LIB,2,0,0,0,0,0,2
+Laurens,MOUNTVILLE,U.S. House,3,Eunice Lehmacher,DEM,135,55,0,0,0,3,77
+Laurens,MOUNTVILLE,U.S. House,3,Write-In,NON,2,1,0,0,0,0,1
+Laurens,ORA-LANFORD,U.S. House,3,Sheri Biggs,REP,337,60,0,0,0,0,277
+Laurens,ORA-LANFORD,U.S. House,3,Brian Corriea,LIB,10,2,0,0,0,0,8
+Laurens,ORA-LANFORD,U.S. House,3,Eunice Lehmacher,DEM,199,104,0,0,0,1,94
+Laurens,ORA-LANFORD,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,OWINGS,U.S. House,3,Sheri Biggs,REP,359,56,0,0,0,1,302
+Laurens,OWINGS,U.S. House,3,Brian Corriea,LIB,8,2,0,0,0,0,6
+Laurens,OWINGS,U.S. House,3,Eunice Lehmacher,DEM,194,86,0,0,0,1,107
+Laurens,OWINGS,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Provisional,U.S. House,3,Sheri Biggs,REP,7,0,0,7,0,0,0
+Laurens,Provisional,U.S. House,3,Brian Corriea,LIB,0,0,0,0,0,0,0
+Laurens,Provisional,U.S. House,3,Eunice Lehmacher,DEM,5,0,0,5,0,0,0
+Laurens,Provisional,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,U.S. House,3,Sheri Biggs,REP,528,199,0,0,0,0,329
+Laurens,TRINITY RIDGE,U.S. House,3,Brian Corriea,LIB,11,5,0,0,0,0,6
+Laurens,TRINITY RIDGE,U.S. House,3,Eunice Lehmacher,DEM,310,188,0,0,0,9,113
+Laurens,TRINITY RIDGE,U.S. House,3,Write-In,NON,1,1,0,0,0,0,0
+Laurens,WATERLOO,U.S. House,3,Sheri Biggs,REP,641,186,0,0,0,7,448
+Laurens,WATERLOO,U.S. House,3,Brian Corriea,LIB,15,3,0,0,0,0,12
+Laurens,WATERLOO,U.S. House,3,Eunice Lehmacher,DEM,324,163,0,0,0,5,156
+Laurens,WATERLOO,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,WATTSVILLE,U.S. House,3,Sheri Biggs,REP,389,163,0,0,0,6,220
+Laurens,WATTSVILLE,U.S. House,3,Brian Corriea,LIB,12,5,0,0,0,0,7
+Laurens,WATTSVILLE,U.S. House,3,Eunice Lehmacher,DEM,242,143,0,0,0,2,97
+Laurens,WATTSVILLE,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+Laurens,YOUNGS,U.S. House,3,Sheri Biggs,REP,506,100,0,0,0,1,405
+Laurens,YOUNGS,U.S. House,3,Brian Corriea,LIB,19,4,0,0,0,0,15
+Laurens,YOUNGS,U.S. House,3,Eunice Lehmacher,DEM,144,75,0,0,0,2,67
+Laurens,YOUNGS,U.S. House,3,Write-In,NON,1,1,0,0,0,0,0
+Laurens,BAILEY,U.S. Senate,,Darline Graham,REP,314,98,0,0,0,3,213
+Laurens,BAILEY,U.S. Senate,,Kasie Whitener,LIB,8,1,0,0,0,0,7
+Laurens,BAILEY,U.S. Senate,,Annie Andrews,DEM,275,146,0,0,0,3,126
+Laurens,BAILEY,U.S. Senate,,Mark Hackett,CON,6,2,0,0,0,0,4
+Laurens,BAILEY,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,BARKSDALE-NARINE,U.S. Senate,,Darline Graham,REP,357,119,0,0,0,4,234
+Laurens,BARKSDALE-NARINE,U.S. Senate,,Kasie Whitener,LIB,3,0,0,0,0,0,3
+Laurens,BARKSDALE-NARINE,U.S. Senate,,Annie Andrews,DEM,229,130,0,0,0,4,95
+Laurens,BARKSDALE-NARINE,U.S. Senate,,Mark Hackett,CON,16,2,0,0,0,0,14
+Laurens,BARKSDALE-NARINE,U.S. Senate,,Write-In,NON,4,1,0,0,0,0,3
+Laurens,BREWERTON-PRINCETON,U.S. Senate,,Darline Graham,REP,316,48,0,0,0,1,267
+Laurens,BREWERTON-PRINCETON,U.S. Senate,,Kasie Whitener,LIB,6,1,0,0,0,0,5
+Laurens,BREWERTON-PRINCETON,U.S. Senate,,Annie Andrews,DEM,68,23,0,0,0,0,45
+Laurens,BREWERTON-PRINCETON,U.S. Senate,,Mark Hackett,CON,6,0,0,0,0,1,5
+Laurens,BREWERTON-PRINCETON,U.S. Senate,,Write-In,NON,5,3,0,0,0,0,2
+Laurens,CLINTON 1,U.S. Senate,,Darline Graham,REP,326,71,0,0,0,2,253
+Laurens,CLINTON 1,U.S. Senate,,Kasie Whitener,LIB,7,1,0,0,0,0,6
+Laurens,CLINTON 1,U.S. Senate,,Annie Andrews,DEM,361,150,0,0,0,5,206
+Laurens,CLINTON 1,U.S. Senate,,Mark Hackett,CON,7,0,0,0,0,0,7
+Laurens,CLINTON 1,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,CLINTON 2,U.S. Senate,,Darline Graham,REP,301,78,0,0,0,3,220
+Laurens,CLINTON 2,U.S. Senate,,Kasie Whitener,LIB,10,1,0,0,0,0,9
+Laurens,CLINTON 2,U.S. Senate,,Annie Andrews,DEM,390,155,0,0,0,12,223
+Laurens,CLINTON 2,U.S. Senate,,Mark Hackett,CON,5,0,0,0,0,0,5
+Laurens,CLINTON 2,U.S. Senate,,Write-In,NON,3,1,0,0,0,0,2
+Laurens,CLINTON 3,U.S. Senate,,Darline Graham,REP,522,148,0,0,0,4,370
+Laurens,CLINTON 3,U.S. Senate,,Kasie Whitener,LIB,8,1,0,0,0,0,7
+Laurens,CLINTON 3,U.S. Senate,,Annie Andrews,DEM,323,137,0,0,0,6,180
+Laurens,CLINTON 3,U.S. Senate,,Mark Hackett,CON,10,1,0,0,0,0,9
+Laurens,CLINTON 3,U.S. Senate,,Write-In,NON,4,0,0,0,0,0,4
+Laurens,CLINTON MILL,U.S. Senate,,Darline Graham,REP,138,32,0,0,0,1,105
+Laurens,CLINTON MILL,U.S. Senate,,Kasie Whitener,LIB,6,1,0,0,0,0,5
+Laurens,CLINTON MILL,U.S. Senate,,Annie Andrews,DEM,376,166,0,0,0,14,196
+Laurens,CLINTON MILL,U.S. Senate,,Mark Hackett,CON,1,1,0,0,0,0,0
+Laurens,CLINTON MILL,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,COOKS,U.S. Senate,,Darline Graham,REP,616,101,0,0,0,6,509
+Laurens,COOKS,U.S. Senate,,Kasie Whitener,LIB,15,3,0,0,0,0,12
+Laurens,COOKS,U.S. Senate,,Annie Andrews,DEM,329,118,0,0,0,5,206
+Laurens,COOKS,U.S. Senate,,Mark Hackett,CON,14,0,0,0,0,0,14
+Laurens,COOKS,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,CROSS HILL,U.S. Senate,,Darline Graham,REP,643,149,0,0,0,4,490
+Laurens,CROSS HILL,U.S. Senate,,Kasie Whitener,LIB,10,1,0,0,0,0,9
+Laurens,CROSS HILL,U.S. Senate,,Annie Andrews,DEM,380,134,0,0,0,7,239
+Laurens,CROSS HILL,U.S. Senate,,Mark Hackett,CON,6,1,0,0,0,0,5
+Laurens,CROSS HILL,U.S. Senate,,Write-In,NON,3,0,0,0,0,0,3
+Laurens,EKOM,U.S. Senate,,Darline Graham,REP,256,86,0,0,0,1,169
+Laurens,EKOM,U.S. Senate,,Kasie Whitener,LIB,5,0,0,0,0,0,5
+Laurens,EKOM,U.S. Senate,,Annie Andrews,DEM,78,44,0,0,0,0,34
+Laurens,EKOM,U.S. Senate,,Mark Hackett,CON,5,1,0,0,0,0,4
+Laurens,EKOM,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe,U.S. Senate,,Darline Graham,REP,1,0,0,0,1,0,0
+Laurens,Failsafe,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Laurens,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Laurens,Failsafe,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Laurens,Failsafe,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,U.S. Senate,,Darline Graham,REP,5,0,5,0,0,0,0
+Laurens,Failsafe Provisional,U.S. Senate,,Kasie Whitener,LIB,1,0,1,0,0,0,0
+Laurens,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,12,0,12,0,0,0,0
+Laurens,Failsafe Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Laurens,Failsafe Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,GRAY COURT,U.S. Senate,,Darline Graham,REP,402,86,0,0,0,1,315
+Laurens,GRAY COURT,U.S. Senate,,Kasie Whitener,LIB,15,2,0,0,0,0,13
+Laurens,GRAY COURT,U.S. Senate,,Annie Andrews,DEM,306,124,0,0,0,0,182
+Laurens,GRAY COURT,U.S. Senate,,Mark Hackett,CON,13,2,0,0,0,0,11
+Laurens,GRAY COURT,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,GREENPOND,U.S. Senate,,Darline Graham,REP,643,109,0,0,0,4,530
+Laurens,GREENPOND,U.S. Senate,,Kasie Whitener,LIB,14,0,0,0,0,0,14
+Laurens,GREENPOND,U.S. Senate,,Annie Andrews,DEM,226,86,0,0,0,2,138
+Laurens,GREENPOND,U.S. Senate,,Mark Hackett,CON,18,1,0,0,0,0,17
+Laurens,GREENPOND,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,HICKORY TAVERN,U.S. Senate,,Darline Graham,REP,979,313,0,0,0,9,657
+Laurens,HICKORY TAVERN,U.S. Senate,,Kasie Whitener,LIB,13,3,0,0,0,0,10
+Laurens,HICKORY TAVERN,U.S. Senate,,Annie Andrews,DEM,314,135,0,0,0,2,177
+Laurens,HICKORY TAVERN,U.S. Senate,,Mark Hackett,CON,18,1,0,0,0,1,16
+Laurens,HICKORY TAVERN,U.S. Senate,,Write-In,NON,13,1,0,0,0,0,12
+Laurens,JOANNA,U.S. Senate,,Darline Graham,REP,573,98,0,0,0,3,472
+Laurens,JOANNA,U.S. Senate,,Kasie Whitener,LIB,14,3,0,0,0,0,11
+Laurens,JOANNA,U.S. Senate,,Annie Andrews,DEM,233,102,0,0,0,3,128
+Laurens,JOANNA,U.S. Senate,,Mark Hackett,CON,4,1,0,0,0,0,3
+Laurens,JOANNA,U.S. Senate,,Write-In,NON,5,0,0,0,0,0,5
+Laurens,JONES,U.S. Senate,,Darline Graham,REP,1135,259,0,0,0,14,862
+Laurens,JONES,U.S. Senate,,Kasie Whitener,LIB,23,3,0,0,0,0,20
+Laurens,JONES,U.S. Senate,,Annie Andrews,DEM,1164,476,0,0,0,15,673
+Laurens,JONES,U.S. Senate,,Mark Hackett,CON,20,1,0,0,0,0,19
+Laurens,JONES,U.S. Senate,,Write-In,NON,5,0,0,0,0,0,5
+Laurens,LAURENS 1,U.S. Senate,,Darline Graham,REP,100,49,0,0,0,0,51
+Laurens,LAURENS 1,U.S. Senate,,Kasie Whitener,LIB,1,1,0,0,0,0,0
+Laurens,LAURENS 1,U.S. Senate,,Annie Andrews,DEM,201,110,0,0,0,3,88
+Laurens,LAURENS 1,U.S. Senate,,Mark Hackett,CON,2,1,0,0,0,0,1
+Laurens,LAURENS 1,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 2,U.S. Senate,,Darline Graham,REP,29,12,0,0,0,0,17
+Laurens,LAURENS 2,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Laurens,LAURENS 2,U.S. Senate,,Annie Andrews,DEM,155,76,0,0,0,0,79
+Laurens,LAURENS 2,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Laurens,LAURENS 2,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 3,U.S. Senate,,Darline Graham,REP,103,38,0,0,0,0,65
+Laurens,LAURENS 3,U.S. Senate,,Kasie Whitener,LIB,6,4,0,0,0,0,2
+Laurens,LAURENS 3,U.S. Senate,,Annie Andrews,DEM,243,134,0,0,0,2,107
+Laurens,LAURENS 3,U.S. Senate,,Mark Hackett,CON,5,4,0,0,0,0,1
+Laurens,LAURENS 3,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 4,U.S. Senate,,Darline Graham,REP,70,22,0,0,0,1,47
+Laurens,LAURENS 4,U.S. Senate,,Kasie Whitener,LIB,1,1,0,0,0,0,0
+Laurens,LAURENS 4,U.S. Senate,,Annie Andrews,DEM,300,134,0,0,0,1,165
+Laurens,LAURENS 4,U.S. Senate,,Mark Hackett,CON,2,0,0,0,0,0,2
+Laurens,LAURENS 4,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LAURENS 5,U.S. Senate,,Darline Graham,REP,429,193,0,0,0,16,220
+Laurens,LAURENS 5,U.S. Senate,,Kasie Whitener,LIB,13,6,0,0,0,0,7
+Laurens,LAURENS 5,U.S. Senate,,Annie Andrews,DEM,457,215,0,0,0,17,225
+Laurens,LAURENS 5,U.S. Senate,,Mark Hackett,CON,11,5,0,0,0,1,5
+Laurens,LAURENS 5,U.S. Senate,,Write-In,NON,6,1,0,0,0,0,5
+Laurens,LAURENS 6,U.S. Senate,,Darline Graham,REP,407,219,0,0,0,5,183
+Laurens,LAURENS 6,U.S. Senate,,Kasie Whitener,LIB,9,3,0,0,0,0,6
+Laurens,LAURENS 6,U.S. Senate,,Annie Andrews,DEM,302,168,0,0,0,4,130
+Laurens,LAURENS 6,U.S. Senate,,Mark Hackett,CON,7,0,0,0,0,0,7
+Laurens,LAURENS 6,U.S. Senate,,Write-In,NON,3,1,0,0,0,1,1
+Laurens,LONG BRANCH,U.S. Senate,,Darline Graham,REP,520,156,0,0,0,1,363
+Laurens,LONG BRANCH,U.S. Senate,,Kasie Whitener,LIB,8,0,0,0,0,0,8
+Laurens,LONG BRANCH,U.S. Senate,,Annie Andrews,DEM,176,101,0,0,0,3,72
+Laurens,LONG BRANCH,U.S. Senate,,Mark Hackett,CON,15,3,0,0,0,1,11
+Laurens,LONG BRANCH,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,LYDIA MILL,U.S. Senate,,Darline Graham,REP,195,53,0,0,0,2,140
+Laurens,LYDIA MILL,U.S. Senate,,Kasie Whitener,LIB,5,3,0,0,0,0,2
+Laurens,LYDIA MILL,U.S. Senate,,Annie Andrews,DEM,442,227,0,0,0,16,199
+Laurens,LYDIA MILL,U.S. Senate,,Mark Hackett,CON,3,2,0,0,0,1,0
+Laurens,LYDIA MILL,U.S. Senate,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,MADDENS,U.S. Senate,,Darline Graham,REP,413,107,0,0,0,1,305
+Laurens,MADDENS,U.S. Senate,,Kasie Whitener,LIB,12,5,0,0,0,0,7
+Laurens,MADDENS,U.S. Senate,,Annie Andrews,DEM,238,146,0,0,0,0,92
+Laurens,MADDENS,U.S. Senate,,Mark Hackett,CON,11,1,0,0,0,0,10
+Laurens,MADDENS,U.S. Senate,,Write-In,NON,2,1,0,0,0,0,1
+Laurens,MARTINS-POPLAR SPRINGS,U.S. Senate,,Darline Graham,REP,277,40,0,0,0,1,236
+Laurens,MARTINS-POPLAR SPRINGS,U.S. Senate,,Kasie Whitener,LIB,8,2,0,0,0,0,6
+Laurens,MARTINS-POPLAR SPRINGS,U.S. Senate,,Annie Andrews,DEM,83,21,0,0,0,1,61
+Laurens,MARTINS-POPLAR SPRINGS,U.S. Senate,,Mark Hackett,CON,7,1,0,0,0,0,6
+Laurens,MARTINS-POPLAR SPRINGS,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Laurens,MOUNT OLIVE,U.S. Senate,,Darline Graham,REP,443,91,0,0,0,2,350
+Laurens,MOUNT OLIVE,U.S. Senate,,Kasie Whitener,LIB,12,3,0,0,0,0,9
+Laurens,MOUNT OLIVE,U.S. Senate,,Annie Andrews,DEM,101,41,0,0,0,5,55
+Laurens,MOUNT OLIVE,U.S. Senate,,Mark Hackett,CON,10,1,0,0,0,0,9
+Laurens,MOUNT OLIVE,U.S. Senate,,Write-In,NON,3,0,0,0,0,0,3
+Laurens,MOUNTVILLE,U.S. Senate,,Darline Graham,REP,192,49,0,0,0,0,143
+Laurens,MOUNTVILLE,U.S. Senate,,Kasie Whitener,LIB,8,0,0,0,0,0,8
+Laurens,MOUNTVILLE,U.S. Senate,,Annie Andrews,DEM,136,57,0,0,0,3,76
+Laurens,MOUNTVILLE,U.S. Senate,,Mark Hackett,CON,7,0,0,0,0,0,7
+Laurens,MOUNTVILLE,U.S. Senate,,Write-In,NON,4,1,0,0,0,1,2
+Laurens,ORA-LANFORD,U.S. Senate,,Darline Graham,REP,308,56,0,0,0,0,252
+Laurens,ORA-LANFORD,U.S. Senate,,Kasie Whitener,LIB,4,2,0,0,0,0,2
+Laurens,ORA-LANFORD,U.S. Senate,,Annie Andrews,DEM,225,110,0,0,0,1,114
+Laurens,ORA-LANFORD,U.S. Senate,,Mark Hackett,CON,7,0,0,0,0,0,7
+Laurens,ORA-LANFORD,U.S. Senate,,Write-In,NON,5,1,0,0,0,0,4
+Laurens,OWINGS,U.S. Senate,,Darline Graham,REP,338,55,0,0,0,1,282
+Laurens,OWINGS,U.S. Senate,,Kasie Whitener,LIB,5,0,0,0,0,0,5
+Laurens,OWINGS,U.S. Senate,,Annie Andrews,DEM,209,89,0,0,0,1,119
+Laurens,OWINGS,U.S. Senate,,Mark Hackett,CON,7,0,0,0,0,0,7
+Laurens,OWINGS,U.S. Senate,,Write-In,NON,2,0,0,0,0,0,2
+Laurens,Provisional,U.S. Senate,,Darline Graham,REP,5,0,0,5,0,0,0
+Laurens,Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Laurens,Provisional,U.S. Senate,,Annie Andrews,DEM,6,0,0,6,0,0,0
+Laurens,Provisional,U.S. Senate,,Mark Hackett,CON,1,0,0,1,0,0,0
+Laurens,Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Laurens,TRINITY RIDGE,U.S. Senate,,Darline Graham,REP,481,190,0,0,0,0,291
+Laurens,TRINITY RIDGE,U.S. Senate,,Kasie Whitener,LIB,8,3,0,0,0,0,5
+Laurens,TRINITY RIDGE,U.S. Senate,,Annie Andrews,DEM,349,198,0,0,0,9,142
+Laurens,TRINITY RIDGE,U.S. Senate,,Mark Hackett,CON,9,0,0,0,0,0,9
+Laurens,TRINITY RIDGE,U.S. Senate,,Write-In,NON,2,0,0,0,0,0,2
+Laurens,WATERLOO,U.S. Senate,,Darline Graham,REP,611,172,0,0,0,5,434
+Laurens,WATERLOO,U.S. Senate,,Kasie Whitener,LIB,8,1,0,0,0,0,7
+Laurens,WATERLOO,U.S. Senate,,Annie Andrews,DEM,354,176,0,0,0,7,171
+Laurens,WATERLOO,U.S. Senate,,Mark Hackett,CON,5,2,0,0,0,0,3
+Laurens,WATERLOO,U.S. Senate,,Write-In,NON,5,1,0,0,0,0,4
+Laurens,WATTSVILLE,U.S. Senate,,Darline Graham,REP,365,155,0,0,0,6,204
+Laurens,WATTSVILLE,U.S. Senate,,Kasie Whitener,LIB,6,0,0,0,0,0,6
+Laurens,WATTSVILLE,U.S. Senate,,Annie Andrews,DEM,263,154,0,0,0,1,108
+Laurens,WATTSVILLE,U.S. Senate,,Mark Hackett,CON,8,4,0,0,0,0,4
+Laurens,WATTSVILLE,U.S. Senate,,Write-In,NON,4,0,0,0,0,1,3
+Laurens,YOUNGS,U.S. Senate,,Darline Graham,REP,464,94,0,0,0,1,369
+Laurens,YOUNGS,U.S. Senate,,Kasie Whitener,LIB,14,1,0,0,0,0,13
+Laurens,YOUNGS,U.S. Senate,,Annie Andrews,DEM,168,84,0,0,0,2,82
+Laurens,YOUNGS,U.S. Senate,,Mark Hackett,CON,19,1,0,0,0,0,18
+Laurens,YOUNGS,U.S. Senate,,Write-In,NON,5,1,0,0,0,0,4

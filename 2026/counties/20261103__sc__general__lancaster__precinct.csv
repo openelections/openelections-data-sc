@@ -1,0 +1,1976 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Lancaster,521 North,Attorney General,,David Stumbo,REP,691,345,0,0,0,6,340
+Lancaster,521 North,Attorney General,,Richard Hricik,DEM,404,264,0,0,0,9,131
+Lancaster,521 North,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Antioch,Attorney General,,David Stumbo,REP,348,75,0,0,0,1,272
+Lancaster,Antioch,Attorney General,,Richard Hricik,DEM,119,71,0,0,0,3,45
+Lancaster,Antioch,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Black Horse Run,Attorney General,,David Stumbo,REP,1393,800,0,0,0,19,574
+Lancaster,Black Horse Run,Attorney General,,Richard Hricik,DEM,1370,969,0,0,0,23,378
+Lancaster,Black Horse Run,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Buford,Attorney General,,David Stumbo,REP,787,218,0,0,0,3,566
+Lancaster,Buford,Attorney General,,Richard Hricik,DEM,195,85,0,0,0,8,102
+Lancaster,Buford,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Camp Creek,Attorney General,,David Stumbo,REP,373,108,0,0,0,0,265
+Lancaster,Camp Creek,Attorney General,,Richard Hricik,DEM,92,42,0,0,0,4,46
+Lancaster,Camp Creek,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Chesterfield Avenue,Attorney General,,David Stumbo,REP,377,165,0,0,0,4,208
+Lancaster,Chesterfield Avenue,Attorney General,,Richard Hricik,DEM,1076,651,0,0,0,16,409
+Lancaster,Chesterfield Avenue,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,College Park,Attorney General,,David Stumbo,REP,1013,514,0,0,0,14,485
+Lancaster,College Park,Attorney General,,Richard Hricik,DEM,684,443,0,0,0,10,231
+Lancaster,College Park,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Douglas,Attorney General,,David Stumbo,REP,1059,471,0,0,0,3,585
+Lancaster,Douglas,Attorney General,,Richard Hricik,DEM,893,608,0,0,0,12,273
+Lancaster,Douglas,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Elgin,Attorney General,,David Stumbo,REP,440,152,0,0,0,2,286
+Lancaster,Elgin,Attorney General,,Richard Hricik,DEM,293,158,0,0,0,6,129
+Lancaster,Elgin,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Erwin Farm,Attorney General,,David Stumbo,REP,350,130,0,0,0,3,217
+Lancaster,Erwin Farm,Attorney General,,Richard Hricik,DEM,478,255,0,0,0,9,214
+Lancaster,Erwin Farm,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,Attorney General,,David Stumbo,REP,14,0,0,0,14,0,0
+Lancaster,Failsafe,Attorney General,,Richard Hricik,DEM,24,0,0,0,24,0,0
+Lancaster,Failsafe,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Attorney General,,David Stumbo,REP,12,0,12,0,0,0,0
+Lancaster,Failsafe Provisional,Attorney General,,Richard Hricik,DEM,13,0,13,0,0,0,0
+Lancaster,Failsafe Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,Attorney General,,David Stumbo,REP,381,100,0,0,0,0,281
+Lancaster,Flat Creek,Attorney General,,Richard Hricik,DEM,64,23,0,0,0,2,39
+Lancaster,Flat Creek,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Gold Hill,Attorney General,,David Stumbo,REP,956,634,0,0,0,5,317
+Lancaster,Gold Hill,Attorney General,,Richard Hricik,DEM,581,465,0,0,0,12,104
+Lancaster,Gold Hill,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Harrisburg,Attorney General,,David Stumbo,REP,1511,753,0,0,0,8,750
+Lancaster,Harrisburg,Attorney General,,Richard Hricik,DEM,1488,942,0,0,0,22,524
+Lancaster,Harrisburg,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Heath Springs,Attorney General,,David Stumbo,REP,487,191,0,0,0,2,294
+Lancaster,Heath Springs,Attorney General,,Richard Hricik,DEM,342,198,0,0,0,3,141
+Lancaster,Heath Springs,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Hyde Park,Attorney General,,David Stumbo,REP,604,256,0,0,0,5,343
+Lancaster,Hyde Park,Attorney General,,Richard Hricik,DEM,463,240,0,0,0,2,221
+Lancaster,Hyde Park,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Jim Wilson,Attorney General,,David Stumbo,REP,846,484,0,0,0,2,360
+Lancaster,Jim Wilson,Attorney General,,Richard Hricik,DEM,795,574,0,0,0,11,210
+Lancaster,Jim Wilson,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Kershaw,Attorney General,,David Stumbo,REP,1140,632,0,0,0,4,504
+Lancaster,Kershaw,Attorney General,,Richard Hricik,DEM,440,253,0,0,0,2,185
+Lancaster,Kershaw,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,McIlwain,Attorney General,,David Stumbo,REP,632,227,0,0,0,8,397
+Lancaster,McIlwain,Attorney General,,Richard Hricik,DEM,588,319,0,0,0,0,269
+Lancaster,McIlwain,Attorney General,,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Osceola,Attorney General,,David Stumbo,REP,1072,632,0,0,0,2,438
+Lancaster,Osceola,Attorney General,,Richard Hricik,DEM,1140,860,0,0,0,18,262
+Lancaster,Osceola,Attorney General,,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Pleasant Hill,Attorney General,,David Stumbo,REP,460,159,0,0,0,4,297
+Lancaster,Pleasant Hill,Attorney General,,Richard Hricik,DEM,277,140,0,0,0,0,137
+Lancaster,Pleasant Hill,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Pleasant Valley,Attorney General,,David Stumbo,REP,1161,541,0,0,0,12,608
+Lancaster,Pleasant Valley,Attorney General,,Richard Hricik,DEM,1390,877,0,0,0,23,490
+Lancaster,Pleasant Valley,Attorney General,,Write-In,NON,3,0,0,0,0,0,3
+Lancaster,Possum Hollow,Attorney General,,David Stumbo,REP,909,488,0,0,0,11,410
+Lancaster,Possum Hollow,Attorney General,,Richard Hricik,DEM,777,547,0,0,0,22,208
+Lancaster,Possum Hollow,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Provisional,Attorney General,,David Stumbo,REP,13,0,0,13,0,0,0
+Lancaster,Provisional,Attorney General,,Richard Hricik,DEM,18,0,0,18,0,0,0
+Lancaster,Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,Attorney General,,David Stumbo,REP,579,212,0,0,0,2,365
+Lancaster,Rich Hill,Attorney General,,Richard Hricik,DEM,112,61,0,0,0,2,49
+Lancaster,Rich Hill,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,River Road,Attorney General,,David Stumbo,REP,1013,663,0,0,0,7,343
+Lancaster,River Road,Attorney General,,Richard Hricik,DEM,855,641,0,0,0,29,185
+Lancaster,River Road,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Riverside,Attorney General,,David Stumbo,REP,275,115,0,0,0,3,157
+Lancaster,Riverside,Attorney General,,Richard Hricik,DEM,302,216,0,0,0,1,85
+Lancaster,Riverside,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Six Mile Creek,Attorney General,,David Stumbo,REP,559,309,0,0,0,2,248
+Lancaster,Six Mile Creek,Attorney General,,Richard Hricik,DEM,574,397,0,0,0,17,160
+Lancaster,Six Mile Creek,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Springdale,Attorney General,,David Stumbo,REP,326,128,0,0,0,0,198
+Lancaster,Springdale,Attorney General,,Richard Hricik,DEM,474,245,0,0,0,8,221
+Lancaster,Springdale,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,Attorney General,,David Stumbo,REP,2386,1849,0,0,0,48,489
+Lancaster,Sun City Carolina Lakes,Attorney General,,Richard Hricik,DEM,1721,1474,0,0,0,71,176
+Lancaster,Sun City Carolina Lakes,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Tradesville,Attorney General,,David Stumbo,REP,557,125,0,0,0,3,429
+Lancaster,Tradesville,Attorney General,,Richard Hricik,DEM,130,45,0,0,0,3,82
+Lancaster,Tradesville,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Unity,Attorney General,,David Stumbo,REP,516,150,0,0,0,1,365
+Lancaster,Unity,Attorney General,,Richard Hricik,DEM,198,94,0,0,0,2,102
+Lancaster,Unity,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Van Wyck,Attorney General,,David Stumbo,REP,610,283,0,0,0,6,321
+Lancaster,Van Wyck,Attorney General,,Richard Hricik,DEM,338,222,0,0,0,2,114
+Lancaster,Van Wyck,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,521 North,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,474,245,0,0,0,4,225
+Lancaster,521 North,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,254,140,0,0,0,2,112
+Lancaster,521 North,Cane Creek Watershed Conservation District,,Write-In,NON,14,6,0,0,0,0,8
+Lancaster,Antioch,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,254,70,0,0,0,0,184
+Lancaster,Antioch,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,100,34,0,0,0,0,66
+Lancaster,Antioch,Cane Creek Watershed Conservation District,,Write-In,NON,13,4,0,0,0,6,3
+Lancaster,Buford,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,387,121,0,0,0,1,265
+Lancaster,Buford,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,174,56,0,0,0,1,117
+Lancaster,Buford,Cane Creek Watershed Conservation District,,Write-In,NON,12,4,0,0,0,2,6
+Lancaster,Camp Creek,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,228,63,0,0,0,3,162
+Lancaster,Camp Creek,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,111,36,0,0,0,0,75
+Lancaster,Camp Creek,Cane Creek Watershed Conservation District,,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Chesterfield Avenue,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,81,54,0,0,0,1,26
+Lancaster,Chesterfield Avenue,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,44,32,0,0,0,1,11
+Lancaster,Chesterfield Avenue,Cane Creek Watershed Conservation District,,Write-In,NON,2,2,0,0,0,0,0
+Lancaster,College Park,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,258,128,0,0,0,4,126
+Lancaster,College Park,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,142,73,0,0,0,4,65
+Lancaster,College Park,Cane Creek Watershed Conservation District,,Write-In,NON,6,1,0,0,0,0,5
+Lancaster,Elgin,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,157,66,0,0,0,0,91
+Lancaster,Elgin,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,83,38,0,0,0,0,45
+Lancaster,Elgin,Cane Creek Watershed Conservation District,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Erwin Farm,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,254,122,0,0,0,8,124
+Lancaster,Erwin Farm,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,136,69,0,0,0,2,65
+Lancaster,Erwin Farm,Cane Creek Watershed Conservation District,,Write-In,NON,6,5,0,0,0,0,1
+Lancaster,Failsafe,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,8,0,0,0,8,0,0
+Lancaster,Failsafe,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,4,0,0,0,4,0,0
+Lancaster,Failsafe,Cane Creek Watershed Conservation District,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Cane Creek Watershed Conservation District,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Hyde Park,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,535,237,0,0,0,7,291
+Lancaster,Hyde Park,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,250,111,0,0,0,5,134
+Lancaster,Hyde Park,Cane Creek Watershed Conservation District,,Write-In,NON,12,5,0,0,0,0,7
+Lancaster,McIlwain,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,149,63,0,0,0,1,85
+Lancaster,McIlwain,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,77,28,0,0,0,0,49
+Lancaster,McIlwain,Cane Creek Watershed Conservation District,,Write-In,NON,3,3,0,0,0,0,0
+Lancaster,Pleasant Hill,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,37,13,0,0,0,0,24
+Lancaster,Pleasant Hill,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,18,7,0,0,0,0,11
+Lancaster,Pleasant Hill,Cane Creek Watershed Conservation District,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Provisional,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,2,0,0,2,0,0,0
+Lancaster,Provisional,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,2,0,0,2,0,0,0
+Lancaster,Provisional,Cane Creek Watershed Conservation District,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,76,29,0,0,0,0,47
+Lancaster,Rich Hill,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,29,12,0,0,0,0,17
+Lancaster,Rich Hill,Cane Creek Watershed Conservation District,,Write-In,NON,2,0,0,0,0,0,2
+Lancaster,Riverside,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,202,115,0,0,0,2,85
+Lancaster,Riverside,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,123,66,0,0,0,2,55
+Lancaster,Riverside,Cane Creek Watershed Conservation District,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Springdale,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,167,63,0,0,0,4,100
+Lancaster,Springdale,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,91,39,0,0,0,2,50
+Lancaster,Springdale,Cane Creek Watershed Conservation District,,Write-In,NON,2,0,0,0,0,0,2
+Lancaster,Unity,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,383,116,0,0,0,1,266
+Lancaster,Unity,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,192,54,0,0,0,1,137
+Lancaster,Unity,Cane Creek Watershed Conservation District,,Write-In,NON,11,8,0,0,0,0,3
+Lancaster,Van Wyck,Cane Creek Watershed Conservation District,,D Patrick Clark,NON,26,18,0,0,0,0,8
+Lancaster,Van Wyck,Cane Creek Watershed Conservation District,,Scott A Schlaiss,NON,26,20,0,0,0,0,6
+Lancaster,Van Wyck,Cane Creek Watershed Conservation District,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,521 North,Commissioner of Agriculture,,Chris Nelums,UNC,8,5,0,0,0,0,3
+Lancaster,521 North,Commissioner of Agriculture,,Cody Simpson,REP,683,342,0,0,0,6,335
+Lancaster,521 North,Commissioner of Agriculture,,Michael Sullens,LIB,14,5,0,0,0,0,9
+Lancaster,521 North,Commissioner of Agriculture,,DeShawn Blanding,DEM,391,256,0,0,0,9,126
+Lancaster,521 North,Commissioner of Agriculture,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Antioch,Commissioner of Agriculture,,Chris Nelums,UNC,2,1,0,0,0,0,1
+Lancaster,Antioch,Commissioner of Agriculture,,Cody Simpson,REP,350,74,0,0,0,1,275
+Lancaster,Antioch,Commissioner of Agriculture,,Michael Sullens,LIB,5,2,0,0,0,0,3
+Lancaster,Antioch,Commissioner of Agriculture,,DeShawn Blanding,DEM,113,71,0,0,0,3,39
+Lancaster,Antioch,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Black Horse Run,Commissioner of Agriculture,,Chris Nelums,UNC,23,14,0,0,0,1,8
+Lancaster,Black Horse Run,Commissioner of Agriculture,,Cody Simpson,REP,1362,787,0,0,0,18,557
+Lancaster,Black Horse Run,Commissioner of Agriculture,,Michael Sullens,LIB,59,31,0,0,0,0,28
+Lancaster,Black Horse Run,Commissioner of Agriculture,,DeShawn Blanding,DEM,1306,932,0,0,0,21,353
+Lancaster,Black Horse Run,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Buford,Commissioner of Agriculture,,Chris Nelums,UNC,4,1,0,0,0,0,3
+Lancaster,Buford,Commissioner of Agriculture,,Cody Simpson,REP,778,219,0,0,0,3,556
+Lancaster,Buford,Commissioner of Agriculture,,Michael Sullens,LIB,24,4,0,0,0,2,18
+Lancaster,Buford,Commissioner of Agriculture,,DeShawn Blanding,DEM,179,81,0,0,0,6,92
+Lancaster,Buford,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Camp Creek,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Lancaster,Camp Creek,Commissioner of Agriculture,,Cody Simpson,REP,367,106,0,0,0,0,261
+Lancaster,Camp Creek,Commissioner of Agriculture,,Michael Sullens,LIB,6,1,0,0,0,0,5
+Lancaster,Camp Creek,Commissioner of Agriculture,,DeShawn Blanding,DEM,91,43,0,0,0,4,44
+Lancaster,Camp Creek,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Chesterfield Avenue,Commissioner of Agriculture,,Chris Nelums,UNC,18,3,0,0,0,0,15
+Lancaster,Chesterfield Avenue,Commissioner of Agriculture,,Cody Simpson,REP,382,168,0,0,0,5,209
+Lancaster,Chesterfield Avenue,Commissioner of Agriculture,,Michael Sullens,LIB,13,5,0,0,0,1,7
+Lancaster,Chesterfield Avenue,Commissioner of Agriculture,,DeShawn Blanding,DEM,1050,648,0,0,0,14,388
+Lancaster,Chesterfield Avenue,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,College Park,Commissioner of Agriculture,,Chris Nelums,UNC,11,4,0,0,0,2,5
+Lancaster,College Park,Commissioner of Agriculture,,Cody Simpson,REP,1012,515,0,0,0,14,483
+Lancaster,College Park,Commissioner of Agriculture,,Michael Sullens,LIB,29,15,0,0,0,0,14
+Lancaster,College Park,Commissioner of Agriculture,,DeShawn Blanding,DEM,645,421,0,0,0,8,216
+Lancaster,College Park,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Douglas,Commissioner of Agriculture,,Chris Nelums,UNC,15,9,0,0,0,0,6
+Lancaster,Douglas,Commissioner of Agriculture,,Cody Simpson,REP,1037,469,0,0,0,3,565
+Lancaster,Douglas,Commissioner of Agriculture,,Michael Sullens,LIB,32,11,0,0,0,0,21
+Lancaster,Douglas,Commissioner of Agriculture,,DeShawn Blanding,DEM,860,585,0,0,0,12,263
+Lancaster,Douglas,Commissioner of Agriculture,,Write-In,NON,3,1,0,0,0,0,2
+Lancaster,Elgin,Commissioner of Agriculture,,Chris Nelums,UNC,7,4,0,0,0,0,3
+Lancaster,Elgin,Commissioner of Agriculture,,Cody Simpson,REP,441,155,0,0,0,2,284
+Lancaster,Elgin,Commissioner of Agriculture,,Michael Sullens,LIB,13,4,0,0,0,0,9
+Lancaster,Elgin,Commissioner of Agriculture,,DeShawn Blanding,DEM,272,148,0,0,0,6,118
+Lancaster,Elgin,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Erwin Farm,Commissioner of Agriculture,,Chris Nelums,UNC,9,5,0,0,0,0,4
+Lancaster,Erwin Farm,Commissioner of Agriculture,,Cody Simpson,REP,352,134,0,0,0,3,215
+Lancaster,Erwin Farm,Commissioner of Agriculture,,Michael Sullens,LIB,5,3,0,0,0,0,2
+Lancaster,Erwin Farm,Commissioner of Agriculture,,DeShawn Blanding,DEM,460,241,0,0,0,9,210
+Lancaster,Erwin Farm,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Lancaster,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,14,0,0,0,14,0,0
+Lancaster,Failsafe,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Lancaster,Failsafe,Commissioner of Agriculture,,DeShawn Blanding,DEM,24,0,0,0,24,0,0
+Lancaster,Failsafe,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,1,0,0,0,0
+Lancaster,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,10,0,10,0,0,0,0
+Lancaster,Failsafe Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,1,0,0,0,0
+Lancaster,Failsafe Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,13,0,13,0,0,0,0
+Lancaster,Failsafe Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,Commissioner of Agriculture,,Chris Nelums,UNC,4,1,0,0,0,0,3
+Lancaster,Flat Creek,Commissioner of Agriculture,,Cody Simpson,REP,383,101,0,0,0,0,282
+Lancaster,Flat Creek,Commissioner of Agriculture,,Michael Sullens,LIB,6,1,0,0,0,0,5
+Lancaster,Flat Creek,Commissioner of Agriculture,,DeShawn Blanding,DEM,58,21,0,0,0,2,35
+Lancaster,Flat Creek,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Gold Hill,Commissioner of Agriculture,,Chris Nelums,UNC,8,3,0,0,0,0,5
+Lancaster,Gold Hill,Commissioner of Agriculture,,Cody Simpson,REP,951,634,0,0,0,4,313
+Lancaster,Gold Hill,Commissioner of Agriculture,,Michael Sullens,LIB,24,13,0,0,0,1,10
+Lancaster,Gold Hill,Commissioner of Agriculture,,DeShawn Blanding,DEM,546,441,0,0,0,11,94
+Lancaster,Gold Hill,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Harrisburg,Commissioner of Agriculture,,Chris Nelums,UNC,24,10,0,0,0,0,14
+Lancaster,Harrisburg,Commissioner of Agriculture,,Cody Simpson,REP,1455,740,0,0,0,7,708
+Lancaster,Harrisburg,Commissioner of Agriculture,,Michael Sullens,LIB,71,29,0,0,0,1,41
+Lancaster,Harrisburg,Commissioner of Agriculture,,DeShawn Blanding,DEM,1435,912,0,0,0,22,501
+Lancaster,Harrisburg,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Heath Springs,Commissioner of Agriculture,,Chris Nelums,UNC,6,3,0,0,0,0,3
+Lancaster,Heath Springs,Commissioner of Agriculture,,Cody Simpson,REP,485,187,0,0,0,2,296
+Lancaster,Heath Springs,Commissioner of Agriculture,,Michael Sullens,LIB,8,4,0,0,0,0,4
+Lancaster,Heath Springs,Commissioner of Agriculture,,DeShawn Blanding,DEM,334,198,0,0,0,3,133
+Lancaster,Heath Springs,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Hyde Park,Commissioner of Agriculture,,Chris Nelums,UNC,11,3,0,0,0,0,8
+Lancaster,Hyde Park,Commissioner of Agriculture,,Cody Simpson,REP,595,253,0,0,0,5,337
+Lancaster,Hyde Park,Commissioner of Agriculture,,Michael Sullens,LIB,11,5,0,0,0,0,6
+Lancaster,Hyde Park,Commissioner of Agriculture,,DeShawn Blanding,DEM,453,235,0,0,0,2,216
+Lancaster,Hyde Park,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Jim Wilson,Commissioner of Agriculture,,Chris Nelums,UNC,9,4,0,0,0,0,5
+Lancaster,Jim Wilson,Commissioner of Agriculture,,Cody Simpson,REP,836,481,0,0,0,2,353
+Lancaster,Jim Wilson,Commissioner of Agriculture,,Michael Sullens,LIB,31,16,0,0,0,0,15
+Lancaster,Jim Wilson,Commissioner of Agriculture,,DeShawn Blanding,DEM,766,555,0,0,0,11,200
+Lancaster,Jim Wilson,Commissioner of Agriculture,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Kershaw,Commissioner of Agriculture,,Chris Nelums,UNC,21,13,0,0,0,0,8
+Lancaster,Kershaw,Commissioner of Agriculture,,Cody Simpson,REP,1123,622,0,0,0,4,497
+Lancaster,Kershaw,Commissioner of Agriculture,,Michael Sullens,LIB,20,11,0,0,0,0,9
+Lancaster,Kershaw,Commissioner of Agriculture,,DeShawn Blanding,DEM,422,245,0,0,0,2,175
+Lancaster,Kershaw,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,McIlwain,Commissioner of Agriculture,,Chris Nelums,UNC,7,5,0,0,0,0,2
+Lancaster,McIlwain,Commissioner of Agriculture,,Cody Simpson,REP,629,231,0,0,0,8,390
+Lancaster,McIlwain,Commissioner of Agriculture,,Michael Sullens,LIB,15,2,0,0,0,0,13
+Lancaster,McIlwain,Commissioner of Agriculture,,DeShawn Blanding,DEM,577,314,0,0,0,0,263
+Lancaster,McIlwain,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Osceola,Commissioner of Agriculture,,Chris Nelums,UNC,14,9,0,0,0,0,5
+Lancaster,Osceola,Commissioner of Agriculture,,Cody Simpson,REP,1073,640,0,0,0,2,431
+Lancaster,Osceola,Commissioner of Agriculture,,Michael Sullens,LIB,44,27,0,0,0,0,17
+Lancaster,Osceola,Commissioner of Agriculture,,DeShawn Blanding,DEM,1078,816,0,0,0,18,244
+Lancaster,Osceola,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Pleasant Hill,Commissioner of Agriculture,,Chris Nelums,UNC,3,2,0,0,0,0,1
+Lancaster,Pleasant Hill,Commissioner of Agriculture,,Cody Simpson,REP,456,160,0,0,0,4,292
+Lancaster,Pleasant Hill,Commissioner of Agriculture,,Michael Sullens,LIB,15,2,0,0,0,0,13
+Lancaster,Pleasant Hill,Commissioner of Agriculture,,DeShawn Blanding,DEM,272,139,0,0,0,0,133
+Lancaster,Pleasant Hill,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Pleasant Valley,Commissioner of Agriculture,,Chris Nelums,UNC,26,9,0,0,0,0,17
+Lancaster,Pleasant Valley,Commissioner of Agriculture,,Cody Simpson,REP,1163,551,0,0,0,10,602
+Lancaster,Pleasant Valley,Commissioner of Agriculture,,Michael Sullens,LIB,48,18,0,0,0,0,30
+Lancaster,Pleasant Valley,Commissioner of Agriculture,,DeShawn Blanding,DEM,1303,832,0,0,0,24,447
+Lancaster,Pleasant Valley,Commissioner of Agriculture,,Write-In,NON,2,0,0,0,0,0,2
+Lancaster,Possum Hollow,Commissioner of Agriculture,,Chris Nelums,UNC,8,3,0,0,0,0,5
+Lancaster,Possum Hollow,Commissioner of Agriculture,,Cody Simpson,REP,892,482,0,0,0,11,399
+Lancaster,Possum Hollow,Commissioner of Agriculture,,Michael Sullens,LIB,41,19,0,0,0,1,21
+Lancaster,Possum Hollow,Commissioner of Agriculture,,DeShawn Blanding,DEM,731,523,0,0,0,22,186
+Lancaster,Possum Hollow,Commissioner of Agriculture,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,1,0,0,0
+Lancaster,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,12,0,0,12,0,0,0
+Lancaster,Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,1,0,0,0
+Lancaster,Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,18,0,0,18,0,0,0
+Lancaster,Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,Commissioner of Agriculture,,Chris Nelums,UNC,5,2,0,0,0,0,3
+Lancaster,Rich Hill,Commissioner of Agriculture,,Cody Simpson,REP,578,211,0,0,0,2,365
+Lancaster,Rich Hill,Commissioner of Agriculture,,Michael Sullens,LIB,7,3,0,0,0,0,4
+Lancaster,Rich Hill,Commissioner of Agriculture,,DeShawn Blanding,DEM,96,55,0,0,0,2,39
+Lancaster,Rich Hill,Commissioner of Agriculture,,Write-In,NON,3,1,0,0,0,0,2
+Lancaster,River Road,Commissioner of Agriculture,,Chris Nelums,UNC,18,13,0,0,0,0,5
+Lancaster,River Road,Commissioner of Agriculture,,Cody Simpson,REP,996,655,0,0,0,8,333
+Lancaster,River Road,Commissioner of Agriculture,,Michael Sullens,LIB,24,12,0,0,0,0,12
+Lancaster,River Road,Commissioner of Agriculture,,DeShawn Blanding,DEM,825,621,0,0,0,28,176
+Lancaster,River Road,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Riverside,Commissioner of Agriculture,,Chris Nelums,UNC,4,2,0,0,0,0,2
+Lancaster,Riverside,Commissioner of Agriculture,,Cody Simpson,REP,266,114,0,0,0,4,148
+Lancaster,Riverside,Commissioner of Agriculture,,Michael Sullens,LIB,8,3,0,0,0,0,5
+Lancaster,Riverside,Commissioner of Agriculture,,DeShawn Blanding,DEM,296,212,0,0,0,0,84
+Lancaster,Riverside,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Six Mile Creek,Commissioner of Agriculture,,Chris Nelums,UNC,12,5,0,0,0,0,7
+Lancaster,Six Mile Creek,Commissioner of Agriculture,,Cody Simpson,REP,557,310,0,0,0,2,245
+Lancaster,Six Mile Creek,Commissioner of Agriculture,,Michael Sullens,LIB,31,17,0,0,0,1,13
+Lancaster,Six Mile Creek,Commissioner of Agriculture,,DeShawn Blanding,DEM,526,371,0,0,0,16,139
+Lancaster,Six Mile Creek,Commissioner of Agriculture,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Springdale,Commissioner of Agriculture,,Chris Nelums,UNC,10,3,0,0,0,0,7
+Lancaster,Springdale,Commissioner of Agriculture,,Cody Simpson,REP,316,129,0,0,0,0,187
+Lancaster,Springdale,Commissioner of Agriculture,,Michael Sullens,LIB,9,2,0,0,0,0,7
+Lancaster,Springdale,Commissioner of Agriculture,,DeShawn Blanding,DEM,469,240,0,0,0,8,221
+Lancaster,Springdale,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,Commissioner of Agriculture,,Chris Nelums,UNC,16,7,0,0,0,0,9
+Lancaster,Sun City Carolina Lakes,Commissioner of Agriculture,,Cody Simpson,REP,2383,1853,0,0,0,51,479
+Lancaster,Sun City Carolina Lakes,Commissioner of Agriculture,,Michael Sullens,LIB,66,50,0,0,0,2,14
+Lancaster,Sun City Carolina Lakes,Commissioner of Agriculture,,DeShawn Blanding,DEM,1627,1401,0,0,0,64,162
+Lancaster,Sun City Carolina Lakes,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Tradesville,Commissioner of Agriculture,,Chris Nelums,UNC,6,1,0,0,0,0,5
+Lancaster,Tradesville,Commissioner of Agriculture,,Cody Simpson,REP,543,123,0,0,0,2,418
+Lancaster,Tradesville,Commissioner of Agriculture,,Michael Sullens,LIB,17,2,0,0,0,0,15
+Lancaster,Tradesville,Commissioner of Agriculture,,DeShawn Blanding,DEM,122,47,0,0,0,3,72
+Lancaster,Tradesville,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Unity,Commissioner of Agriculture,,Chris Nelums,UNC,3,0,0,0,0,0,3
+Lancaster,Unity,Commissioner of Agriculture,,Cody Simpson,REP,509,148,0,0,0,0,361
+Lancaster,Unity,Commissioner of Agriculture,,Michael Sullens,LIB,10,1,0,0,0,1,8
+Lancaster,Unity,Commissioner of Agriculture,,DeShawn Blanding,DEM,189,92,0,0,0,2,95
+Lancaster,Unity,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Van Wyck,Commissioner of Agriculture,,Chris Nelums,UNC,7,4,0,0,0,0,3
+Lancaster,Van Wyck,Commissioner of Agriculture,,Cody Simpson,REP,605,283,0,0,0,6,316
+Lancaster,Van Wyck,Commissioner of Agriculture,,Michael Sullens,LIB,18,9,0,0,0,1,8
+Lancaster,Van Wyck,Commissioner of Agriculture,,DeShawn Blanding,DEM,317,211,0,0,0,1,105
+Lancaster,Van Wyck,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,521 North,Comptroller General,,Mike Burkhold,REP,685,339,0,0,0,6,340
+Lancaster,521 North,Comptroller General,,Tiffany Boozer,DEM,408,267,0,0,0,9,132
+Lancaster,521 North,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Antioch,Comptroller General,,Mike Burkhold,REP,348,72,0,0,0,1,275
+Lancaster,Antioch,Comptroller General,,Tiffany Boozer,DEM,118,74,0,0,0,3,41
+Lancaster,Antioch,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Black Horse Run,Comptroller General,,Mike Burkhold,REP,1373,791,0,0,0,16,566
+Lancaster,Black Horse Run,Comptroller General,,Tiffany Boozer,DEM,1376,971,0,0,0,24,381
+Lancaster,Black Horse Run,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Buford,Comptroller General,,Mike Burkhold,REP,785,217,0,0,0,4,564
+Lancaster,Buford,Comptroller General,,Tiffany Boozer,DEM,194,87,0,0,0,6,101
+Lancaster,Buford,Comptroller General,,Write-In,NON,1,0,0,0,0,1,0
+Lancaster,Camp Creek,Comptroller General,,Mike Burkhold,REP,372,108,0,0,0,0,264
+Lancaster,Camp Creek,Comptroller General,,Tiffany Boozer,DEM,90,42,0,0,0,4,44
+Lancaster,Camp Creek,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Chesterfield Avenue,Comptroller General,,Mike Burkhold,REP,376,163,0,0,0,5,208
+Lancaster,Chesterfield Avenue,Comptroller General,,Tiffany Boozer,DEM,1073,655,0,0,0,13,405
+Lancaster,Chesterfield Avenue,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,College Park,Comptroller General,,Mike Burkhold,REP,1015,507,0,0,0,15,493
+Lancaster,College Park,Comptroller General,,Tiffany Boozer,DEM,676,443,0,0,0,9,224
+Lancaster,College Park,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Douglas,Comptroller General,,Mike Burkhold,REP,1056,473,0,0,0,3,580
+Lancaster,Douglas,Comptroller General,,Tiffany Boozer,DEM,890,601,0,0,0,12,277
+Lancaster,Douglas,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Elgin,Comptroller General,,Mike Burkhold,REP,436,151,0,0,0,2,283
+Lancaster,Elgin,Comptroller General,,Tiffany Boozer,DEM,294,158,0,0,0,6,130
+Lancaster,Elgin,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Erwin Farm,Comptroller General,,Mike Burkhold,REP,355,135,0,0,0,3,217
+Lancaster,Erwin Farm,Comptroller General,,Tiffany Boozer,DEM,471,248,0,0,0,9,214
+Lancaster,Erwin Farm,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,Comptroller General,,Mike Burkhold,REP,14,0,0,0,14,0,0
+Lancaster,Failsafe,Comptroller General,,Tiffany Boozer,DEM,24,0,0,0,24,0,0
+Lancaster,Failsafe,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Comptroller General,,Mike Burkhold,REP,13,0,13,0,0,0,0
+Lancaster,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,12,0,12,0,0,0,0
+Lancaster,Failsafe Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,Comptroller General,,Mike Burkhold,REP,380,100,0,0,0,0,280
+Lancaster,Flat Creek,Comptroller General,,Tiffany Boozer,DEM,67,24,0,0,0,2,41
+Lancaster,Flat Creek,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Gold Hill,Comptroller General,,Mike Burkhold,REP,961,645,0,0,0,5,311
+Lancaster,Gold Hill,Comptroller General,,Tiffany Boozer,DEM,568,447,0,0,0,12,109
+Lancaster,Gold Hill,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Harrisburg,Comptroller General,,Mike Burkhold,REP,1500,751,0,0,0,7,742
+Lancaster,Harrisburg,Comptroller General,,Tiffany Boozer,DEM,1491,943,0,0,0,23,525
+Lancaster,Harrisburg,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Heath Springs,Comptroller General,,Mike Burkhold,REP,489,190,0,0,0,2,297
+Lancaster,Heath Springs,Comptroller General,,Tiffany Boozer,DEM,338,198,0,0,0,3,137
+Lancaster,Heath Springs,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Hyde Park,Comptroller General,,Mike Burkhold,REP,602,256,0,0,0,5,341
+Lancaster,Hyde Park,Comptroller General,,Tiffany Boozer,DEM,464,239,0,0,0,2,223
+Lancaster,Hyde Park,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Jim Wilson,Comptroller General,,Mike Burkhold,REP,852,493,0,0,0,2,357
+Lancaster,Jim Wilson,Comptroller General,,Tiffany Boozer,DEM,784,563,0,0,0,10,211
+Lancaster,Jim Wilson,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Kershaw,Comptroller General,,Mike Burkhold,REP,1130,627,0,0,0,4,499
+Lancaster,Kershaw,Comptroller General,,Tiffany Boozer,DEM,444,255,0,0,0,2,187
+Lancaster,Kershaw,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,McIlwain,Comptroller General,,Mike Burkhold,REP,629,229,0,0,0,8,392
+Lancaster,McIlwain,Comptroller General,,Tiffany Boozer,DEM,593,321,0,0,0,0,272
+Lancaster,McIlwain,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Osceola,Comptroller General,,Mike Burkhold,REP,1082,639,0,0,0,2,441
+Lancaster,Osceola,Comptroller General,,Tiffany Boozer,DEM,1122,848,0,0,0,18,256
+Lancaster,Osceola,Comptroller General,,Write-In,NON,2,2,0,0,0,0,0
+Lancaster,Pleasant Hill,Comptroller General,,Mike Burkhold,REP,465,160,0,0,0,4,301
+Lancaster,Pleasant Hill,Comptroller General,,Tiffany Boozer,DEM,277,142,0,0,0,0,135
+Lancaster,Pleasant Hill,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Pleasant Valley,Comptroller General,,Mike Burkhold,REP,1166,542,0,0,0,11,613
+Lancaster,Pleasant Valley,Comptroller General,,Tiffany Boozer,DEM,1373,870,0,0,0,24,479
+Lancaster,Pleasant Valley,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Possum Hollow,Comptroller General,,Mike Burkhold,REP,909,487,0,0,0,11,411
+Lancaster,Possum Hollow,Comptroller General,,Tiffany Boozer,DEM,768,542,0,0,0,22,204
+Lancaster,Possum Hollow,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Provisional,Comptroller General,,Mike Burkhold,REP,13,0,0,13,0,0,0
+Lancaster,Provisional,Comptroller General,,Tiffany Boozer,DEM,19,0,0,19,0,0,0
+Lancaster,Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,Comptroller General,,Mike Burkhold,REP,576,211,0,0,0,2,363
+Lancaster,Rich Hill,Comptroller General,,Tiffany Boozer,DEM,113,61,0,0,0,2,50
+Lancaster,Rich Hill,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,River Road,Comptroller General,,Mike Burkhold,REP,998,656,0,0,0,8,334
+Lancaster,River Road,Comptroller General,,Tiffany Boozer,DEM,862,645,0,0,0,28,189
+Lancaster,River Road,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Riverside,Comptroller General,,Mike Burkhold,REP,272,116,0,0,0,4,152
+Lancaster,Riverside,Comptroller General,,Tiffany Boozer,DEM,301,213,0,0,0,0,88
+Lancaster,Riverside,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Six Mile Creek,Comptroller General,,Mike Burkhold,REP,557,313,0,0,0,2,242
+Lancaster,Six Mile Creek,Comptroller General,,Tiffany Boozer,DEM,566,388,0,0,0,17,161
+Lancaster,Six Mile Creek,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Springdale,Comptroller General,,Mike Burkhold,REP,321,127,0,0,0,0,194
+Lancaster,Springdale,Comptroller General,,Tiffany Boozer,DEM,479,245,0,0,0,8,226
+Lancaster,Springdale,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,Comptroller General,,Mike Burkhold,REP,2389,1856,0,0,0,50,483
+Lancaster,Sun City Carolina Lakes,Comptroller General,,Tiffany Boozer,DEM,1692,1447,0,0,0,69,176
+Lancaster,Sun City Carolina Lakes,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Tradesville,Comptroller General,,Mike Burkhold,REP,554,126,0,0,0,3,425
+Lancaster,Tradesville,Comptroller General,,Tiffany Boozer,DEM,131,47,0,0,0,3,81
+Lancaster,Tradesville,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Unity,Comptroller General,,Mike Burkhold,REP,516,150,0,0,0,1,365
+Lancaster,Unity,Comptroller General,,Tiffany Boozer,DEM,201,95,0,0,0,2,104
+Lancaster,Unity,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Van Wyck,Comptroller General,,Mike Burkhold,REP,604,278,0,0,0,6,320
+Lancaster,Van Wyck,Comptroller General,,Tiffany Boozer,DEM,338,226,0,0,0,2,110
+Lancaster,Van Wyck,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,521 North,County Council District 2,,Charlene McGriff,DEM,62,39,0,0,0,0,23
+Lancaster,521 North,County Council District 2,,Write-In,NON,5,3,0,0,0,0,2
+Lancaster,Chesterfield Avenue,County Council District 2,,Charlene McGriff,DEM,1052,618,0,0,0,15,419
+Lancaster,Chesterfield Avenue,County Council District 2,,Write-In,NON,21,6,0,0,0,0,15
+Lancaster,Douglas,County Council District 2,,Charlene McGriff,DEM,215,120,0,0,0,2,93
+Lancaster,Douglas,County Council District 2,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Elgin,County Council District 2,,Charlene McGriff,DEM,113,60,0,0,0,2,51
+Lancaster,Elgin,County Council District 2,,Write-In,NON,4,1,0,0,0,0,3
+Lancaster,Erwin Farm,County Council District 2,,Charlene McGriff,DEM,221,111,0,0,0,6,104
+Lancaster,Erwin Farm,County Council District 2,,Write-In,NON,4,3,0,0,0,0,1
+Lancaster,Failsafe,County Council District 2,,Charlene McGriff,DEM,12,0,0,0,12,0,0
+Lancaster,Failsafe,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,County Council District 2,,Charlene McGriff,DEM,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,McIlwain,County Council District 2,,Charlene McGriff,DEM,229,116,0,0,0,0,113
+Lancaster,McIlwain,County Council District 2,,Write-In,NON,3,0,0,0,0,0,3
+Lancaster,Provisional,County Council District 2,,Charlene McGriff,DEM,4,0,0,4,0,0,0
+Lancaster,Provisional,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Springdale,County Council District 2,,Charlene McGriff,DEM,560,263,0,0,0,7,290
+Lancaster,Springdale,County Council District 2,,Write-In,NON,18,7,0,0,0,1,10
+Lancaster,Black Horse Run,County Council District 4,,Jose Luis,REP,481,260,0,0,0,4,217
+Lancaster,Black Horse Run,County Council District 4,,Write-In,NON,17,13,0,0,0,0,4
+Lancaster,Failsafe,County Council District 4,,Jose Luis,REP,0,0,0,0,0,0,0
+Lancaster,Failsafe,County Council District 4,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,County Council District 4,,Jose Luis,REP,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,County Council District 4,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Harrisburg,County Council District 4,,Jose Luis,REP,1918,1004,0,0,0,9,905
+Lancaster,Harrisburg,County Council District 4,,Write-In,NON,66,44,0,0,0,1,21
+Lancaster,Pleasant Valley,County Council District 4,,Jose Luis,REP,1570,774,0,0,0,14,782
+Lancaster,Pleasant Valley,County Council District 4,,Write-In,NON,80,57,0,0,0,0,23
+Lancaster,Possum Hollow,County Council District 4,,Jose Luis,REP,450,239,0,0,0,2,209
+Lancaster,Possum Hollow,County Council District 4,,Write-In,NON,12,9,0,0,0,0,3
+Lancaster,Provisional,County Council District 4,,Jose Luis,REP,1,0,0,1,0,0,0
+Lancaster,Provisional,County Council District 4,,Write-In,NON,1,0,0,1,0,0,0
+Lancaster,Douglas,County Council District 6,,Bryant Neal,REP,156,45,0,0,0,0,111
+Lancaster,Douglas,County Council District 6,,Write-In,NON,3,2,0,0,0,0,1
+Lancaster,Failsafe,County Council District 6,,Bryant Neal,REP,4,0,0,0,4,0,0
+Lancaster,Failsafe,County Council District 6,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,County Council District 6,,Bryant Neal,REP,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,County Council District 6,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,County Council District 6,,Bryant Neal,REP,404,105,0,0,0,2,297
+Lancaster,Flat Creek,County Council District 6,,Write-In,NON,2,0,0,0,0,0,2
+Lancaster,Heath Springs,County Council District 6,,Bryant Neal,REP,590,245,0,0,0,3,342
+Lancaster,Heath Springs,County Council District 6,,Write-In,NON,10,5,0,0,0,1,4
+Lancaster,Kershaw,County Council District 6,,Bryant Neal,REP,1328,735,0,0,0,5,588
+Lancaster,Kershaw,County Council District 6,,Write-In,NON,16,11,0,0,0,0,5
+Lancaster,Pleasant Hill,County Council District 6,,Bryant Neal,REP,389,136,0,0,0,3,250
+Lancaster,Pleasant Hill,County Council District 6,,Write-In,NON,16,9,0,0,0,0,7
+Lancaster,Provisional,County Council District 6,,Bryant Neal,REP,2,0,0,2,0,0,0
+Lancaster,Provisional,County Council District 6,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,County Council District 6,,Bryant Neal,REP,464,179,0,0,0,2,283
+Lancaster,Rich Hill,County Council District 6,,Write-In,NON,3,1,0,0,0,0,2
+Lancaster,521 North,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,6,3,0,0,0,0,3
+Lancaster,521 North,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Lancaster,521 North,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,678,343,0,0,0,6,329
+Lancaster,521 North,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,409,262,0,0,0,9,138
+Lancaster,521 North,Governor and Lieutenant Governor,,Write-In,NON,2,0,0,0,0,0,2
+Lancaster,Antioch,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,2,0,0,0,0,5
+Lancaster,Antioch,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Lancaster,Antioch,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,346,73,0,0,0,1,272
+Lancaster,Antioch,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,116,72,0,0,0,3,41
+Lancaster,Antioch,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Black Horse Run,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,20,11,0,0,0,0,9
+Lancaster,Black Horse Run,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,18,9,0,0,0,1,8
+Lancaster,Black Horse Run,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1369,791,0,0,0,18,560
+Lancaster,Black Horse Run,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,1362,964,0,0,0,23,375
+Lancaster,Black Horse Run,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Buford,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,13,6,0,0,0,0,7
+Lancaster,Buford,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,7,3,0,0,0,0,4
+Lancaster,Buford,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,771,210,0,0,0,3,558
+Lancaster,Buford,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,197,89,0,0,0,8,100
+Lancaster,Buford,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Camp Creek,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,1,0,0,0,0,2
+Lancaster,Camp Creek,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,0,0,0,0,0,4
+Lancaster,Camp Creek,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,371,106,0,0,0,0,265
+Lancaster,Camp Creek,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,89,43,0,0,0,4,42
+Lancaster,Camp Creek,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Chesterfield Avenue,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,20,5,0,0,0,0,15
+Lancaster,Chesterfield Avenue,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,9,0,0,0,0,0,9
+Lancaster,Chesterfield Avenue,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,366,167,0,0,0,4,195
+Lancaster,Chesterfield Avenue,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,1071,651,0,0,0,16,404
+Lancaster,Chesterfield Avenue,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,College Park,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,9,2,0,0,0,0,7
+Lancaster,College Park,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,6,3,0,0,0,0,3
+Lancaster,College Park,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1019,524,0,0,0,14,481
+Lancaster,College Park,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,684,439,0,0,0,10,235
+Lancaster,College Park,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Douglas,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,15,6,0,0,0,0,9
+Lancaster,Douglas,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,5,4,0,0,0,0,1
+Lancaster,Douglas,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1039,467,0,0,0,3,569
+Lancaster,Douglas,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,895,602,0,0,0,12,281
+Lancaster,Douglas,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Elgin,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,9,2,0,0,0,0,7
+Lancaster,Elgin,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,0,0,0,0,0,2
+Lancaster,Elgin,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,429,150,0,0,0,2,277
+Lancaster,Elgin,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,293,158,0,0,0,6,129
+Lancaster,Elgin,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Erwin Farm,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,8,4,0,0,0,0,4
+Lancaster,Erwin Farm,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,0,0,0,0,0,2
+Lancaster,Erwin Farm,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,351,133,0,0,0,3,215
+Lancaster,Erwin Farm,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,469,247,0,0,0,9,213
+Lancaster,Erwin Farm,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Lancaster,Failsafe,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,1,0,0
+Lancaster,Failsafe,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,14,0,0,0,14,0,0
+Lancaster,Failsafe,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,23,0,0,0,23,0,0
+Lancaster,Failsafe,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,1,0,0,0,0
+Lancaster,Failsafe Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,11,0,11,0,0,0,0
+Lancaster,Failsafe Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,13,0,13,0,0,0,0
+Lancaster,Failsafe Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,1,0,0,0,0,2
+Lancaster,Flat Creek,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Lancaster,Flat Creek,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,375,99,0,0,0,0,276
+Lancaster,Flat Creek,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,68,23,0,0,0,2,43
+Lancaster,Flat Creek,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Gold Hill,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,8,5,0,0,0,0,3
+Lancaster,Gold Hill,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,9,5,0,0,0,0,4
+Lancaster,Gold Hill,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,945,628,0,0,0,5,312
+Lancaster,Gold Hill,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,579,462,0,0,0,12,105
+Lancaster,Gold Hill,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Harrisburg,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,22,9,0,0,0,0,13
+Lancaster,Harrisburg,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,17,2,0,0,0,0,15
+Lancaster,Harrisburg,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1494,745,0,0,0,8,741
+Lancaster,Harrisburg,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,1478,947,0,0,0,22,509
+Lancaster,Harrisburg,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Heath Springs,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,2,0,0,0,0,2
+Lancaster,Heath Springs,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,5,4,0,0,0,0,1
+Lancaster,Heath Springs,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,483,188,0,0,0,2,293
+Lancaster,Heath Springs,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,342,199,0,0,0,3,140
+Lancaster,Heath Springs,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Hyde Park,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,10,2,0,0,0,0,8
+Lancaster,Hyde Park,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,2,0,0,0,0,2
+Lancaster,Hyde Park,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,593,256,0,0,0,5,332
+Lancaster,Hyde Park,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,461,234,0,0,0,3,224
+Lancaster,Hyde Park,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Jim Wilson,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,12,8,0,0,0,0,4
+Lancaster,Jim Wilson,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,7,1,0,0,0,0,6
+Lancaster,Jim Wilson,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,837,482,0,0,0,2,353
+Lancaster,Jim Wilson,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,791,565,0,0,0,11,215
+Lancaster,Jim Wilson,Governor and Lieutenant Governor,,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Kershaw,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,19,10,0,0,0,0,9
+Lancaster,Kershaw,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,9,5,0,0,0,0,4
+Lancaster,Kershaw,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1111,616,0,0,0,5,490
+Lancaster,Kershaw,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,442,253,0,0,0,2,187
+Lancaster,Kershaw,Governor and Lieutenant Governor,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,McIlwain,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,4,0,0,0,0,3
+Lancaster,McIlwain,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,1,0,0,0,0,3
+Lancaster,McIlwain,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,631,228,0,0,0,8,395
+Lancaster,McIlwain,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,585,319,0,0,0,0,266
+Lancaster,McIlwain,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Osceola,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,17,10,0,0,0,1,6
+Lancaster,Osceola,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,14,10,0,0,0,0,4
+Lancaster,Osceola,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1066,627,0,0,0,2,437
+Lancaster,Osceola,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,1119,844,0,0,0,17,258
+Lancaster,Osceola,Governor and Lieutenant Governor,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Pleasant Hill,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,5,2,0,0,0,0,3
+Lancaster,Pleasant Hill,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,0,0,0,0,0,3
+Lancaster,Pleasant Hill,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,458,156,0,0,0,4,298
+Lancaster,Pleasant Hill,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,276,142,0,0,0,0,134
+Lancaster,Pleasant Hill,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Pleasant Valley,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,15,5,0,0,0,0,10
+Lancaster,Pleasant Valley,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,27,5,0,0,0,0,22
+Lancaster,Pleasant Valley,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1133,541,0,0,0,12,580
+Lancaster,Pleasant Valley,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,1389,873,0,0,0,23,493
+Lancaster,Pleasant Valley,Governor and Lieutenant Governor,,Write-In,NON,2,0,0,0,0,0,2
+Lancaster,Possum Hollow,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,11,2,0,0,0,0,9
+Lancaster,Possum Hollow,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,6,4,0,0,0,1,1
+Lancaster,Possum Hollow,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,897,486,0,0,0,10,401
+Lancaster,Possum Hollow,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,778,545,0,0,0,23,210
+Lancaster,Possum Hollow,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Lancaster,Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Lancaster,Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,13,0,0,13,0,0,0
+Lancaster,Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,19,0,0,19,0,0,0
+Lancaster,Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,1,0,0,0,0,3
+Lancaster,Rich Hill,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Lancaster,Rich Hill,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,571,206,0,0,0,2,363
+Lancaster,Rich Hill,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,113,63,0,0,0,2,48
+Lancaster,Rich Hill,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,River Road,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,14,9,0,0,0,0,5
+Lancaster,River Road,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,7,4,0,0,0,0,3
+Lancaster,River Road,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1004,660,0,0,0,8,336
+Lancaster,River Road,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,846,632,0,0,0,29,185
+Lancaster,River Road,Governor and Lieutenant Governor,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Riverside,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,2,0,0,0,0,1
+Lancaster,Riverside,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,5,2,0,0,0,0,3
+Lancaster,Riverside,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,266,114,0,0,0,3,149
+Lancaster,Riverside,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,304,215,0,0,0,1,88
+Lancaster,Riverside,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Six Mile Creek,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,14,8,0,0,0,0,6
+Lancaster,Six Mile Creek,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,8,6,0,0,0,0,2
+Lancaster,Six Mile Creek,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,555,307,0,0,0,3,245
+Lancaster,Six Mile Creek,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,561,390,0,0,0,16,155
+Lancaster,Six Mile Creek,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Springdale,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,9,2,0,0,0,0,7
+Lancaster,Springdale,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Lancaster,Springdale,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,321,126,0,0,0,0,195
+Lancaster,Springdale,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,477,248,0,0,0,8,221
+Lancaster,Springdale,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,21,13,0,0,0,1,7
+Lancaster,Sun City Carolina Lakes,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,14,10,0,0,0,0,4
+Lancaster,Sun City Carolina Lakes,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,2404,1862,0,0,0,50,492
+Lancaster,Sun City Carolina Lakes,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,1684,1446,0,0,0,68,170
+Lancaster,Sun City Carolina Lakes,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Tradesville,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,10,4,0,0,0,0,6
+Lancaster,Tradesville,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Lancaster,Tradesville,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,546,120,0,0,0,3,423
+Lancaster,Tradesville,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,127,47,0,0,0,3,77
+Lancaster,Tradesville,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Unity,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,6,1,0,0,0,0,5
+Lancaster,Unity,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,5,3,0,0,0,0,2
+Lancaster,Unity,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,506,146,0,0,0,1,359
+Lancaster,Unity,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,200,95,0,0,0,2,103
+Lancaster,Unity,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Van Wyck,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,3,0,0,0,0,4
+Lancaster,Van Wyck,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,3,0,0,0,0,1
+Lancaster,Van Wyck,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,605,283,0,0,0,6,316
+Lancaster,Van Wyck,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,334,219,0,0,0,2,113
+Lancaster,Van Wyck,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,Little Lynches Creek Watershed Conservation District,,Jacob Annan,NON,1,0,0,0,1,0,0
+Lancaster,Failsafe,Little Lynches Creek Watershed Conservation District,,J Carrie Ford,NON,1,0,0,0,1,0,0
+Lancaster,Failsafe,Little Lynches Creek Watershed Conservation District,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Little Lynches Creek Watershed Conservation District,,Jacob Annan,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Little Lynches Creek Watershed Conservation District,,J Carrie Ford,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Little Lynches Creek Watershed Conservation District,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,Little Lynches Creek Watershed Conservation District,,Jacob Annan,NON,13,6,0,0,0,0,7
+Lancaster,Flat Creek,Little Lynches Creek Watershed Conservation District,,J Carrie Ford,NON,15,8,0,0,0,0,7
+Lancaster,Flat Creek,Little Lynches Creek Watershed Conservation District,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Heath Springs,Little Lynches Creek Watershed Conservation District,,Jacob Annan,NON,75,26,0,0,0,2,47
+Lancaster,Heath Springs,Little Lynches Creek Watershed Conservation District,,J Carrie Ford,NON,67,31,0,0,0,1,35
+Lancaster,Heath Springs,Little Lynches Creek Watershed Conservation District,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Kershaw,Little Lynches Creek Watershed Conservation District,,Jacob Annan,NON,323,173,0,0,0,1,149
+Lancaster,Kershaw,Little Lynches Creek Watershed Conservation District,,J Carrie Ford,NON,248,161,0,0,0,2,85
+Lancaster,Kershaw,Little Lynches Creek Watershed Conservation District,,Write-In,NON,14,4,0,0,0,0,10
+Lancaster,Pleasant Hill,Little Lynches Creek Watershed Conservation District,,Jacob Annan,NON,48,16,0,0,0,0,32
+Lancaster,Pleasant Hill,Little Lynches Creek Watershed Conservation District,,J Carrie Ford,NON,54,17,0,0,0,1,36
+Lancaster,Pleasant Hill,Little Lynches Creek Watershed Conservation District,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Provisional,Little Lynches Creek Watershed Conservation District,,Jacob Annan,NON,0,0,0,0,0,0,0
+Lancaster,Provisional,Little Lynches Creek Watershed Conservation District,,J Carrie Ford,NON,0,0,0,0,0,0,0
+Lancaster,Provisional,Little Lynches Creek Watershed Conservation District,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,Little Lynches Creek Watershed Conservation District,,Jacob Annan,NON,148,52,0,0,0,0,96
+Lancaster,Rich Hill,Little Lynches Creek Watershed Conservation District,,J Carrie Ford,NON,107,38,0,0,0,0,69
+Lancaster,Rich Hill,Little Lynches Creek Watershed Conservation District,,Write-In,NON,4,0,0,0,0,0,4
+Lancaster,521 North,Probate Judge,,Mary Rathel,REP,815,421,0,0,0,7,387
+Lancaster,521 North,Probate Judge,,Write-In,NON,19,13,0,0,0,0,6
+Lancaster,Antioch,Probate Judge,,Mary Rathel,REP,397,100,0,0,0,1,296
+Lancaster,Antioch,Probate Judge,,Write-In,NON,9,5,0,0,0,3,1
+Lancaster,Black Horse Run,Probate Judge,,Mary Rathel,REP,1807,1052,0,0,0,22,733
+Lancaster,Black Horse Run,Probate Judge,,Write-In,NON,64,45,0,0,0,1,18
+Lancaster,Buford,Probate Judge,,Mary Rathel,REP,883,257,0,0,0,7,619
+Lancaster,Buford,Probate Judge,,Write-In,NON,5,1,0,0,0,0,4
+Lancaster,Camp Creek,Probate Judge,,Mary Rathel,REP,401,124,0,0,0,0,277
+Lancaster,Camp Creek,Probate Judge,,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Chesterfield Avenue,Probate Judge,,Mary Rathel,REP,619,320,0,0,0,7,292
+Lancaster,Chesterfield Avenue,Probate Judge,,Write-In,NON,39,22,0,0,0,0,17
+Lancaster,College Park,Probate Judge,,Mary Rathel,REP,1281,680,0,0,0,18,583
+Lancaster,College Park,Probate Judge,,Write-In,NON,38,27,0,0,0,3,8
+Lancaster,Douglas,Probate Judge,,Mary Rathel,REP,1308,638,0,0,0,6,664
+Lancaster,Douglas,Probate Judge,,Write-In,NON,49,38,0,0,0,0,11
+Lancaster,Elgin,Probate Judge,,Mary Rathel,REP,540,201,0,0,0,3,336
+Lancaster,Elgin,Probate Judge,,Write-In,NON,7,3,0,0,0,0,4
+Lancaster,Erwin Farm,Probate Judge,,Mary Rathel,REP,490,204,0,0,0,8,278
+Lancaster,Erwin Farm,Probate Judge,,Write-In,NON,20,16,0,0,0,0,4
+Lancaster,Failsafe,Probate Judge,,Mary Rathel,REP,24,0,0,0,24,0,0
+Lancaster,Failsafe,Probate Judge,,Write-In,NON,1,0,0,0,1,0,0
+Lancaster,Failsafe Provisional,Probate Judge,,Mary Rathel,REP,15,0,15,0,0,0,0
+Lancaster,Failsafe Provisional,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,Probate Judge,,Mary Rathel,REP,401,104,0,0,0,2,295
+Lancaster,Flat Creek,Probate Judge,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Gold Hill,Probate Judge,,Mary Rathel,REP,1135,761,0,0,0,10,364
+Lancaster,Gold Hill,Probate Judge,,Write-In,NON,9,5,0,0,0,0,4
+Lancaster,Harrisburg,Probate Judge,,Mary Rathel,REP,1919,999,0,0,0,9,911
+Lancaster,Harrisburg,Probate Judge,,Write-In,NON,65,43,0,0,0,1,21
+Lancaster,Heath Springs,Probate Judge,,Mary Rathel,REP,593,245,0,0,0,4,344
+Lancaster,Heath Springs,Probate Judge,,Write-In,NON,12,6,0,0,0,0,6
+Lancaster,Hyde Park,Probate Judge,,Mary Rathel,REP,772,331,0,0,0,6,435
+Lancaster,Hyde Park,Probate Judge,,Write-In,NON,23,13,0,0,0,0,10
+Lancaster,Jim Wilson,Probate Judge,,Mary Rathel,REP,1115,659,0,0,0,9,447
+Lancaster,Jim Wilson,Probate Judge,,Write-In,NON,40,29,0,0,0,0,11
+Lancaster,Kershaw,Probate Judge,,Mary Rathel,REP,1306,726,0,0,0,4,576
+Lancaster,Kershaw,Probate Judge,,Write-In,NON,20,13,0,0,0,0,7
+Lancaster,McIlwain,Probate Judge,,Mary Rathel,REP,815,315,0,0,0,8,492
+Lancaster,McIlwain,Probate Judge,,Write-In,NON,29,20,0,0,0,0,9
+Lancaster,Osceola,Probate Judge,,Mary Rathel,REP,1462,900,0,0,0,5,557
+Lancaster,Osceola,Probate Judge,,Write-In,NON,48,38,0,0,0,1,9
+Lancaster,Pleasant Hill,Probate Judge,,Mary Rathel,REP,565,213,0,0,0,4,348
+Lancaster,Pleasant Hill,Probate Judge,,Write-In,NON,15,10,0,0,0,0,5
+Lancaster,Pleasant Valley,Probate Judge,,Mary Rathel,REP,1561,773,0,0,0,13,775
+Lancaster,Pleasant Valley,Probate Judge,,Write-In,NON,80,54,0,0,0,0,26
+Lancaster,Possum Hollow,Probate Judge,,Mary Rathel,REP,1155,657,0,0,0,15,483
+Lancaster,Possum Hollow,Probate Judge,,Write-In,NON,38,30,0,0,0,2,6
+Lancaster,Provisional,Probate Judge,,Mary Rathel,REP,16,0,0,16,0,0,0
+Lancaster,Provisional,Probate Judge,,Write-In,NON,1,0,0,1,0,0,0
+Lancaster,Rich Hill,Probate Judge,,Mary Rathel,REP,611,226,0,0,0,3,382
+Lancaster,Rich Hill,Probate Judge,,Write-In,NON,7,4,0,0,0,0,3
+Lancaster,River Road,Probate Judge,,Mary Rathel,REP,1264,834,0,0,0,11,419
+Lancaster,River Road,Probate Judge,,Write-In,NON,44,40,0,0,0,0,4
+Lancaster,Riverside,Probate Judge,,Mary Rathel,REP,379,186,0,0,0,4,189
+Lancaster,Riverside,Probate Judge,,Write-In,NON,6,3,0,0,0,0,3
+Lancaster,Six Mile Creek,Probate Judge,,Mary Rathel,REP,757,451,0,0,0,5,301
+Lancaster,Six Mile Creek,Probate Judge,,Write-In,NON,25,18,0,0,0,1,6
+Lancaster,Springdale,Probate Judge,,Mary Rathel,REP,425,177,0,0,0,1,247
+Lancaster,Springdale,Probate Judge,,Write-In,NON,14,9,0,0,0,2,3
+Lancaster,Sun City Carolina Lakes,Probate Judge,,Mary Rathel,REP,2841,2243,0,0,0,62,536
+Lancaster,Sun City Carolina Lakes,Probate Judge,,Write-In,NON,23,18,0,0,0,1,4
+Lancaster,Tradesville,Probate Judge,,Mary Rathel,REP,614,141,0,0,0,3,470
+Lancaster,Tradesville,Probate Judge,,Write-In,NON,11,4,0,0,0,2,5
+Lancaster,Unity,Probate Judge,,Mary Rathel,REP,592,178,0,0,0,1,413
+Lancaster,Unity,Probate Judge,,Write-In,NON,10,6,0,0,0,0,4
+Lancaster,Van Wyck,Probate Judge,,Mary Rathel,REP,723,351,0,0,0,7,365
+Lancaster,Van Wyck,Probate Judge,,Write-In,NON,20,18,0,0,0,0,2
+Lancaster,521 North,School Board District 1,,Eddie Boykin,NON,70,42,0,0,0,1,27
+Lancaster,521 North,School Board District 1,,Kristen Setzer,NON,57,24,0,0,0,0,33
+Lancaster,521 North,School Board District 1,,Melanie Vaughn,NON,74,44,0,0,0,0,30
+Lancaster,521 North,School Board District 1,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,College Park,School Board District 1,,Eddie Boykin,NON,112,65,0,0,0,1,46
+Lancaster,College Park,School Board District 1,,Kristen Setzer,NON,94,52,0,0,0,3,39
+Lancaster,College Park,School Board District 1,,Melanie Vaughn,NON,192,88,0,0,0,2,102
+Lancaster,College Park,School Board District 1,,Write-In,NON,5,2,0,0,0,0,3
+Lancaster,Failsafe,School Board District 1,,Eddie Boykin,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,School Board District 1,,Kristen Setzer,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,School Board District 1,,Melanie Vaughn,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,School Board District 1,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,School Board District 1,,Eddie Boykin,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,School Board District 1,,Kristen Setzer,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,School Board District 1,,Melanie Vaughn,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,School Board District 1,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Gold Hill,School Board District 1,,Eddie Boykin,NON,226,150,0,0,0,3,73
+Lancaster,Gold Hill,School Board District 1,,Kristen Setzer,NON,505,380,0,0,0,4,121
+Lancaster,Gold Hill,School Board District 1,,Melanie Vaughn,NON,277,178,0,0,0,5,94
+Lancaster,Gold Hill,School Board District 1,,Write-In,NON,3,2,0,0,0,0,1
+Lancaster,Osceola,School Board District 1,,Eddie Boykin,NON,47,33,0,0,0,1,13
+Lancaster,Osceola,School Board District 1,,Kristen Setzer,NON,32,20,0,0,0,0,12
+Lancaster,Osceola,School Board District 1,,Melanie Vaughn,NON,24,14,0,0,0,0,10
+Lancaster,Osceola,School Board District 1,,Write-In,NON,4,2,0,0,0,0,2
+Lancaster,Possum Hollow,School Board District 1,,Eddie Boykin,NON,169,109,0,0,0,1,59
+Lancaster,Possum Hollow,School Board District 1,,Kristen Setzer,NON,234,151,0,0,0,9,74
+Lancaster,Possum Hollow,School Board District 1,,Melanie Vaughn,NON,264,163,0,0,0,6,95
+Lancaster,Possum Hollow,School Board District 1,,Write-In,NON,24,18,0,0,0,0,6
+Lancaster,Provisional,School Board District 1,,Eddie Boykin,NON,0,0,0,0,0,0,0
+Lancaster,Provisional,School Board District 1,,Kristen Setzer,NON,2,0,0,2,0,0,0
+Lancaster,Provisional,School Board District 1,,Melanie Vaughn,NON,0,0,0,0,0,0,0
+Lancaster,Provisional,School Board District 1,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,River Road,School Board District 1,,Eddie Boykin,NON,94,62,0,0,0,1,31
+Lancaster,River Road,School Board District 1,,Kristen Setzer,NON,206,143,0,0,0,1,62
+Lancaster,River Road,School Board District 1,,Melanie Vaughn,NON,152,112,0,0,0,4,36
+Lancaster,River Road,School Board District 1,,Write-In,NON,16,9,0,0,0,0,7
+Lancaster,Riverside,School Board District 1,,Eddie Boykin,NON,30,24,0,0,0,0,6
+Lancaster,Riverside,School Board District 1,,Kristen Setzer,NON,9,6,0,0,0,0,3
+Lancaster,Riverside,School Board District 1,,Melanie Vaughn,NON,23,8,0,0,0,0,15
+Lancaster,Riverside,School Board District 1,,Write-In,NON,2,2,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,School Board District 1,,Eddie Boykin,NON,468,367,0,0,0,16,85
+Lancaster,Sun City Carolina Lakes,School Board District 1,,Kristen Setzer,NON,1285,1097,0,0,0,24,164
+Lancaster,Sun City Carolina Lakes,School Board District 1,,Melanie Vaughn,NON,682,537,0,0,0,22,123
+Lancaster,Sun City Carolina Lakes,School Board District 1,,Write-In,NON,7,6,0,0,0,0,1
+Lancaster,Van Wyck,School Board District 1,,Eddie Boykin,NON,146,68,0,0,0,1,77
+Lancaster,Van Wyck,School Board District 1,,Kristen Setzer,NON,328,189,0,0,0,0,139
+Lancaster,Van Wyck,School Board District 1,,Melanie Vaughn,NON,148,76,0,0,0,3,69
+Lancaster,Van Wyck,School Board District 1,,Write-In,NON,11,7,0,0,0,0,4
+Lancaster,521 North,School Board District 3,,Courtney Crump Green,NON,240,112,0,0,0,2,126
+Lancaster,521 North,School Board District 3,,Annette G Melton,NON,215,131,0,0,0,4,80
+Lancaster,521 North,School Board District 3,,Write-In,NON,3,1,0,0,0,0,2
+Lancaster,Antioch,School Board District 3,,Courtney Crump Green,NON,126,30,0,0,0,0,96
+Lancaster,Antioch,School Board District 3,,Annette G Melton,NON,113,33,0,0,0,0,80
+Lancaster,Antioch,School Board District 3,,Write-In,NON,6,0,0,0,0,3,3
+Lancaster,Buford,School Board District 3,,Courtney Crump Green,NON,390,108,0,0,0,3,279
+Lancaster,Buford,School Board District 3,,Annette G Melton,NON,416,132,0,0,0,6,278
+Lancaster,Buford,School Board District 3,,Write-In,NON,6,2,0,0,0,0,4
+Lancaster,Camp Creek,School Board District 3,,Courtney Crump Green,NON,164,50,0,0,0,1,113
+Lancaster,Camp Creek,School Board District 3,,Annette G Melton,NON,151,51,0,0,0,3,97
+Lancaster,Camp Creek,School Board District 3,,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Chesterfield Avenue,School Board District 3,,Courtney Crump Green,NON,43,29,0,0,0,0,14
+Lancaster,Chesterfield Avenue,School Board District 3,,Annette G Melton,NON,78,48,0,0,0,2,28
+Lancaster,Chesterfield Avenue,School Board District 3,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Failsafe,School Board District 3,,Courtney Crump Green,NON,5,0,0,0,5,0,0
+Lancaster,Failsafe,School Board District 3,,Annette G Melton,NON,1,0,0,0,1,0,0
+Lancaster,Failsafe,School Board District 3,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,School Board District 3,,Courtney Crump Green,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,School Board District 3,,Annette G Melton,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,School Board District 3,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Hyde Park,School Board District 3,,Courtney Crump Green,NON,210,97,0,0,0,4,109
+Lancaster,Hyde Park,School Board District 3,,Annette G Melton,NON,176,79,0,0,0,3,94
+Lancaster,Hyde Park,School Board District 3,,Write-In,NON,2,2,0,0,0,0,0
+Lancaster,Provisional,School Board District 3,,Courtney Crump Green,NON,0,0,0,0,0,0,0
+Lancaster,Provisional,School Board District 3,,Annette G Melton,NON,0,0,0,0,0,0,0
+Lancaster,Provisional,School Board District 3,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,School Board District 3,,Courtney Crump Green,NON,52,22,0,0,0,1,29
+Lancaster,Rich Hill,School Board District 3,,Annette G Melton,NON,61,23,0,0,0,0,38
+Lancaster,Rich Hill,School Board District 3,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Tradesville,School Board District 3,,Courtney Crump Green,NON,295,65,0,0,0,3,227
+Lancaster,Tradesville,School Board District 3,,Annette G Melton,NON,234,54,0,0,0,2,178
+Lancaster,Tradesville,School Board District 3,,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Unity,School Board District 3,,Courtney Crump Green,NON,238,78,0,0,0,1,159
+Lancaster,Unity,School Board District 3,,Annette G Melton,NON,279,83,0,0,0,2,194
+Lancaster,Unity,School Board District 3,,Write-In,NON,8,6,0,0,0,0,2
+Lancaster,Van Wyck,School Board District 3,,Courtney Crump Green,NON,12,5,0,0,0,0,7
+Lancaster,Van Wyck,School Board District 3,,Annette G Melton,NON,10,3,0,0,0,1,6
+Lancaster,Van Wyck,School Board District 3,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Antioch,School Board District 5,,Rick Crimminger,NON,84,27,0,0,0,0,57
+Lancaster,Antioch,School Board District 5,,Write-In,NON,6,4,0,0,0,0,2
+Lancaster,College Park,School Board District 5,,Rick Crimminger,NON,714,390,0,0,0,13,311
+Lancaster,College Park,School Board District 5,,Write-In,NON,19,8,0,0,0,0,11
+Lancaster,Douglas,School Board District 5,,Rick Crimminger,NON,920,538,0,0,0,7,375
+Lancaster,Douglas,School Board District 5,,Write-In,NON,36,26,0,0,0,0,10
+Lancaster,Elgin,School Board District 5,,Rick Crimminger,NON,377,149,0,0,0,2,226
+Lancaster,Elgin,School Board District 5,,Write-In,NON,10,2,0,0,0,0,8
+Lancaster,Erwin Farm,School Board District 5,,Rick Crimminger,NON,307,134,0,0,0,6,167
+Lancaster,Erwin Farm,School Board District 5,,Write-In,NON,10,9,0,0,0,0,1
+Lancaster,Failsafe,School Board District 5,,Rick Crimminger,NON,5,0,0,0,5,0,0
+Lancaster,Failsafe,School Board District 5,,Write-In,NON,1,0,0,0,1,0,0
+Lancaster,Failsafe Provisional,School Board District 5,,Rick Crimminger,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Hyde Park,School Board District 5,,Rick Crimminger,NON,295,130,0,0,0,1,164
+Lancaster,Hyde Park,School Board District 5,,Write-In,NON,12,8,0,0,0,0,4
+Lancaster,McIlwain,School Board District 5,,Rick Crimminger,NON,552,240,0,0,0,2,310
+Lancaster,McIlwain,School Board District 5,,Write-In,NON,17,9,0,0,0,2,6
+Lancaster,Pleasant Hill,School Board District 5,,Rick Crimminger,NON,134,59,0,0,0,0,75
+Lancaster,Pleasant Hill,School Board District 5,,Write-In,NON,7,5,0,0,0,0,2
+Lancaster,Provisional,School Board District 5,,Rick Crimminger,NON,3,0,0,3,0,0,0
+Lancaster,Provisional,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,School Board District 5,,Rick Crimminger,NON,10,3,0,0,0,0,7
+Lancaster,Rich Hill,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Riverside,School Board District 5,,Rick Crimminger,NON,282,151,0,0,0,3,128
+Lancaster,Riverside,School Board District 5,,Write-In,NON,3,2,0,0,0,0,1
+Lancaster,Black Horse Run,School Board District 7,,Melvin Stroble,NON,541,355,0,0,0,7,179
+Lancaster,Black Horse Run,School Board District 7,,Bryan Vaughn,NON,850,532,0,0,0,13,305
+Lancaster,Black Horse Run,School Board District 7,,Write-In,NON,8,3,0,0,0,0,5
+Lancaster,Failsafe,School Board District 7,,Melvin Stroble,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,School Board District 7,,Bryan Vaughn,NON,1,0,0,0,1,0,0
+Lancaster,Failsafe,School Board District 7,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,School Board District 7,,Melvin Stroble,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,School Board District 7,,Bryan Vaughn,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,School Board District 7,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Jim Wilson,School Board District 7,,Melvin Stroble,NON,428,272,0,0,0,5,151
+Lancaster,Jim Wilson,School Board District 7,,Bryan Vaughn,NON,776,497,0,0,0,5,274
+Lancaster,Jim Wilson,School Board District 7,,Write-In,NON,8,5,0,0,0,0,3
+Lancaster,Osceola,School Board District 7,,Melvin Stroble,NON,443,311,0,0,0,2,130
+Lancaster,Osceola,School Board District 7,,Bryan Vaughn,NON,1108,715,0,0,0,6,387
+Lancaster,Osceola,School Board District 7,,Write-In,NON,11,8,0,0,0,1,2
+Lancaster,Provisional,School Board District 7,,Melvin Stroble,NON,1,0,0,1,0,0,0
+Lancaster,Provisional,School Board District 7,,Bryan Vaughn,NON,4,0,0,4,0,0,0
+Lancaster,Provisional,School Board District 7,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,River Road,School Board District 7,,Melvin Stroble,NON,274,189,0,0,0,7,78
+Lancaster,River Road,School Board District 7,,Bryan Vaughn,NON,514,355,0,0,0,5,154
+Lancaster,River Road,School Board District 7,,Write-In,NON,9,6,0,0,0,0,3
+Lancaster,Six Mile Creek,School Board District 7,,Melvin Stroble,NON,384,261,0,0,0,5,118
+Lancaster,Six Mile Creek,School Board District 7,,Bryan Vaughn,NON,451,271,0,0,0,6,174
+Lancaster,Six Mile Creek,School Board District 7,,Write-In,NON,13,8,0,0,0,1,4
+Lancaster,Van Wyck,School Board District 7,,Melvin Stroble,NON,0,0,0,0,0,0,0
+Lancaster,Van Wyck,School Board District 7,,Bryan Vaughn,NON,13,6,0,0,0,0,7
+Lancaster,Van Wyck,School Board District 7,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,521 North,Secretary of State,,Mark Hammond,REP,695,350,0,0,0,6,339
+Lancaster,521 North,Secretary of State,,Jason Belton,DEM,399,258,0,0,0,9,132
+Lancaster,521 North,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Antioch,Secretary of State,,Mark Hammond,REP,357,79,0,0,0,1,277
+Lancaster,Antioch,Secretary of State,,Jason Belton,DEM,113,68,0,0,0,3,42
+Lancaster,Antioch,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Black Horse Run,Secretary of State,,Mark Hammond,REP,1389,799,0,0,0,19,571
+Lancaster,Black Horse Run,Secretary of State,,Jason Belton,DEM,1373,969,0,0,0,22,382
+Lancaster,Black Horse Run,Secretary of State,,Write-In,NON,2,2,0,0,0,0,0
+Lancaster,Buford,Secretary of State,,Mark Hammond,REP,788,218,0,0,0,4,566
+Lancaster,Buford,Secretary of State,,Jason Belton,DEM,198,88,0,0,0,7,103
+Lancaster,Buford,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Camp Creek,Secretary of State,,Mark Hammond,REP,378,107,0,0,0,0,271
+Lancaster,Camp Creek,Secretary of State,,Jason Belton,DEM,86,43,0,0,0,4,39
+Lancaster,Camp Creek,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Chesterfield Avenue,Secretary of State,,Mark Hammond,REP,391,175,0,0,0,4,212
+Lancaster,Chesterfield Avenue,Secretary of State,,Jason Belton,DEM,1067,645,0,0,0,16,406
+Lancaster,Chesterfield Avenue,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,College Park,Secretary of State,,Mark Hammond,REP,1046,534,0,0,0,15,497
+Lancaster,College Park,Secretary of State,,Jason Belton,DEM,662,429,0,0,0,9,224
+Lancaster,College Park,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Douglas,Secretary of State,,Mark Hammond,REP,1069,483,0,0,0,3,583
+Lancaster,Douglas,Secretary of State,,Jason Belton,DEM,882,597,0,0,0,12,273
+Lancaster,Douglas,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Elgin,Secretary of State,,Mark Hammond,REP,458,158,0,0,0,2,298
+Lancaster,Elgin,Secretary of State,,Jason Belton,DEM,276,152,0,0,0,6,118
+Lancaster,Elgin,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Erwin Farm,Secretary of State,,Mark Hammond,REP,360,136,0,0,0,3,221
+Lancaster,Erwin Farm,Secretary of State,,Jason Belton,DEM,469,250,0,0,0,9,210
+Lancaster,Erwin Farm,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,Secretary of State,,Mark Hammond,REP,14,0,0,0,14,0,0
+Lancaster,Failsafe,Secretary of State,,Jason Belton,DEM,24,0,0,0,24,0,0
+Lancaster,Failsafe,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Secretary of State,,Mark Hammond,REP,13,0,13,0,0,0,0
+Lancaster,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,12,0,12,0,0,0,0
+Lancaster,Failsafe Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,Secretary of State,,Mark Hammond,REP,385,102,0,0,0,0,283
+Lancaster,Flat Creek,Secretary of State,,Jason Belton,DEM,61,21,0,0,0,2,38
+Lancaster,Flat Creek,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Gold Hill,Secretary of State,,Mark Hammond,REP,968,643,0,0,0,5,320
+Lancaster,Gold Hill,Secretary of State,,Jason Belton,DEM,567,453,0,0,0,12,102
+Lancaster,Gold Hill,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Harrisburg,Secretary of State,,Mark Hammond,REP,1522,757,0,0,0,8,757
+Lancaster,Harrisburg,Secretary of State,,Jason Belton,DEM,1475,938,0,0,0,22,515
+Lancaster,Harrisburg,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Heath Springs,Secretary of State,,Mark Hammond,REP,491,195,0,0,0,2,294
+Lancaster,Heath Springs,Secretary of State,,Jason Belton,DEM,338,195,0,0,0,3,140
+Lancaster,Heath Springs,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Hyde Park,Secretary of State,,Mark Hammond,REP,613,262,0,0,0,5,346
+Lancaster,Hyde Park,Secretary of State,,Jason Belton,DEM,458,235,0,0,0,3,220
+Lancaster,Hyde Park,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Jim Wilson,Secretary of State,,Mark Hammond,REP,852,489,0,0,0,2,361
+Lancaster,Jim Wilson,Secretary of State,,Jason Belton,DEM,789,567,0,0,0,11,211
+Lancaster,Jim Wilson,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Kershaw,Secretary of State,,Mark Hammond,REP,1150,636,0,0,0,4,510
+Lancaster,Kershaw,Secretary of State,,Jason Belton,DEM,431,250,0,0,0,2,179
+Lancaster,Kershaw,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,McIlwain,Secretary of State,,Mark Hammond,REP,642,232,0,0,0,8,402
+Lancaster,McIlwain,Secretary of State,,Jason Belton,DEM,579,317,0,0,0,0,262
+Lancaster,McIlwain,Secretary of State,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Osceola,Secretary of State,,Mark Hammond,REP,1091,639,0,0,0,3,449
+Lancaster,Osceola,Secretary of State,,Jason Belton,DEM,1119,850,0,0,0,17,252
+Lancaster,Osceola,Secretary of State,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Pleasant Hill,Secretary of State,,Mark Hammond,REP,467,163,0,0,0,4,300
+Lancaster,Pleasant Hill,Secretary of State,,Jason Belton,DEM,270,136,0,0,0,0,134
+Lancaster,Pleasant Hill,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Pleasant Valley,Secretary of State,,Mark Hammond,REP,1172,551,0,0,0,12,609
+Lancaster,Pleasant Valley,Secretary of State,,Jason Belton,DEM,1383,871,0,0,0,23,489
+Lancaster,Pleasant Valley,Secretary of State,,Write-In,NON,3,0,0,0,0,0,3
+Lancaster,Possum Hollow,Secretary of State,,Mark Hammond,REP,928,493,0,0,0,12,423
+Lancaster,Possum Hollow,Secretary of State,,Jason Belton,DEM,760,542,0,0,0,22,196
+Lancaster,Possum Hollow,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Provisional,Secretary of State,,Mark Hammond,REP,13,0,0,13,0,0,0
+Lancaster,Provisional,Secretary of State,,Jason Belton,DEM,19,0,0,19,0,0,0
+Lancaster,Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,Secretary of State,,Mark Hammond,REP,581,212,0,0,0,2,367
+Lancaster,Rich Hill,Secretary of State,,Jason Belton,DEM,109,61,0,0,0,2,46
+Lancaster,Rich Hill,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,River Road,Secretary of State,,Mark Hammond,REP,1009,660,0,0,0,8,341
+Lancaster,River Road,Secretary of State,,Jason Belton,DEM,859,643,0,0,0,28,188
+Lancaster,River Road,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Riverside,Secretary of State,,Mark Hammond,REP,277,116,0,0,0,4,157
+Lancaster,Riverside,Secretary of State,,Jason Belton,DEM,298,215,0,0,0,0,83
+Lancaster,Riverside,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Six Mile Creek,Secretary of State,,Mark Hammond,REP,567,317,0,0,0,3,247
+Lancaster,Six Mile Creek,Secretary of State,,Jason Belton,DEM,567,390,0,0,0,16,161
+Lancaster,Six Mile Creek,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Springdale,Secretary of State,,Mark Hammond,REP,328,134,0,0,0,0,194
+Lancaster,Springdale,Secretary of State,,Jason Belton,DEM,474,241,0,0,0,8,225
+Lancaster,Springdale,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,Secretary of State,,Mark Hammond,REP,2416,1873,0,0,0,51,492
+Lancaster,Sun City Carolina Lakes,Secretary of State,,Jason Belton,DEM,1695,1459,0,0,0,67,169
+Lancaster,Sun City Carolina Lakes,Secretary of State,,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Tradesville,Secretary of State,,Mark Hammond,REP,568,126,0,0,0,3,439
+Lancaster,Tradesville,Secretary of State,,Jason Belton,DEM,121,45,0,0,0,3,73
+Lancaster,Tradesville,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Unity,Secretary of State,,Mark Hammond,REP,521,151,0,0,0,1,369
+Lancaster,Unity,Secretary of State,,Jason Belton,DEM,195,94,0,0,0,2,99
+Lancaster,Unity,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Van Wyck,Secretary of State,,Mark Hammond,REP,614,287,0,0,0,6,321
+Lancaster,Van Wyck,Secretary of State,,Jason Belton,DEM,331,217,0,0,0,2,112
+Lancaster,Van Wyck,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,521 North,Soil and Water District Commission,,Douglas M Bailey,NON,666,357,0,0,0,7,302
+Lancaster,521 North,Soil and Water District Commission,,Write-In,NON,14,7,0,0,0,0,7
+Lancaster,Antioch,Soil and Water District Commission,,Douglas M Bailey,NON,297,84,0,0,0,0,213
+Lancaster,Antioch,Soil and Water District Commission,,Write-In,NON,13,3,0,0,0,6,4
+Lancaster,Black Horse Run,Soil and Water District Commission,,Douglas M Bailey,NON,1623,1004,0,0,0,18,601
+Lancaster,Black Horse Run,Soil and Water District Commission,,Write-In,NON,57,24,0,0,0,2,31
+Lancaster,Buford,Soil and Water District Commission,,Douglas M Bailey,NON,693,209,0,0,0,6,478
+Lancaster,Buford,Soil and Water District Commission,,Write-In,NON,23,8,0,0,0,2,13
+Lancaster,Camp Creek,Soil and Water District Commission,,Douglas M Bailey,NON,282,92,0,0,0,1,189
+Lancaster,Camp Creek,Soil and Water District Commission,,Write-In,NON,5,2,0,0,0,0,3
+Lancaster,Chesterfield Avenue,Soil and Water District Commission,,Douglas M Bailey,NON,542,306,0,0,0,5,231
+Lancaster,Chesterfield Avenue,Soil and Water District Commission,,Write-In,NON,27,14,0,0,0,0,13
+Lancaster,College Park,Soil and Water District Commission,,Douglas M Bailey,NON,1064,558,0,0,0,20,486
+Lancaster,College Park,Soil and Water District Commission,,Write-In,NON,37,24,0,0,0,0,13
+Lancaster,Douglas,Soil and Water District Commission,,Douglas M Bailey,NON,1071,598,0,0,0,7,466
+Lancaster,Douglas,Soil and Water District Commission,,Write-In,NON,40,22,0,0,0,0,18
+Lancaster,Elgin,Soil and Water District Commission,,Douglas M Bailey,NON,453,181,0,0,0,2,270
+Lancaster,Elgin,Soil and Water District Commission,,Write-In,NON,4,0,0,0,0,0,4
+Lancaster,Erwin Farm,Soil and Water District Commission,,Douglas M Bailey,NON,397,177,0,0,0,11,209
+Lancaster,Erwin Farm,Soil and Water District Commission,,Write-In,NON,10,7,0,0,0,0,3
+Lancaster,Failsafe,Soil and Water District Commission,,Douglas M Bailey,NON,19,0,0,0,19,0,0
+Lancaster,Failsafe,Soil and Water District Commission,,Write-In,NON,3,0,0,0,3,0,0
+Lancaster,Failsafe Provisional,Soil and Water District Commission,,Douglas M Bailey,NON,12,0,12,0,0,0,0
+Lancaster,Failsafe Provisional,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,Soil and Water District Commission,,Douglas M Bailey,NON,213,53,0,0,0,2,158
+Lancaster,Flat Creek,Soil and Water District Commission,,Write-In,NON,14,4,0,0,0,0,10
+Lancaster,Gold Hill,Soil and Water District Commission,,Douglas M Bailey,NON,894,615,0,0,0,12,267
+Lancaster,Gold Hill,Soil and Water District Commission,,Write-In,NON,5,2,0,0,0,0,3
+Lancaster,Harrisburg,Soil and Water District Commission,,Douglas M Bailey,NON,1581,887,0,0,0,11,683
+Lancaster,Harrisburg,Soil and Water District Commission,,Write-In,NON,73,40,0,0,0,1,32
+Lancaster,Heath Springs,Soil and Water District Commission,,Douglas M Bailey,NON,398,180,0,0,0,4,214
+Lancaster,Heath Springs,Soil and Water District Commission,,Write-In,NON,14,3,0,0,0,0,11
+Lancaster,Hyde Park,Soil and Water District Commission,,Douglas M Bailey,NON,633,282,0,0,0,7,344
+Lancaster,Hyde Park,Soil and Water District Commission,,Write-In,NON,14,7,0,0,0,0,7
+Lancaster,Jim Wilson,Soil and Water District Commission,,Douglas M Bailey,NON,1013,636,0,0,0,11,366
+Lancaster,Jim Wilson,Soil and Water District Commission,,Write-In,NON,32,14,0,0,0,1,17
+Lancaster,Kershaw,Soil and Water District Commission,,Douglas M Bailey,NON,830,449,0,0,0,3,378
+Lancaster,Kershaw,Soil and Water District Commission,,Write-In,NON,31,15,0,0,0,0,16
+Lancaster,McIlwain,Soil and Water District Commission,,Douglas M Bailey,NON,667,282,0,0,0,2,383
+Lancaster,McIlwain,Soil and Water District Commission,,Write-In,NON,20,15,0,0,0,0,5
+Lancaster,Osceola,Soil and Water District Commission,,Douglas M Bailey,NON,1388,907,0,0,0,6,475
+Lancaster,Osceola,Soil and Water District Commission,,Write-In,NON,33,19,0,0,0,4,10
+Lancaster,Pleasant Hill,Soil and Water District Commission,,Douglas M Bailey,NON,425,164,0,0,0,3,258
+Lancaster,Pleasant Hill,Soil and Water District Commission,,Write-In,NON,10,5,0,0,0,0,5
+Lancaster,Pleasant Valley,Soil and Water District Commission,,Douglas M Bailey,NON,1341,727,0,0,0,10,604
+Lancaster,Pleasant Valley,Soil and Water District Commission,,Write-In,NON,65,36,0,0,0,0,29
+Lancaster,Possum Hollow,Soil and Water District Commission,,Douglas M Bailey,NON,963,576,0,0,0,18,369
+Lancaster,Possum Hollow,Soil and Water District Commission,,Write-In,NON,41,22,0,0,0,1,18
+Lancaster,Provisional,Soil and Water District Commission,,Douglas M Bailey,NON,13,0,0,13,0,0,0
+Lancaster,Provisional,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,Soil and Water District Commission,,Douglas M Bailey,NON,422,163,0,0,0,2,257
+Lancaster,Rich Hill,Soil and Water District Commission,,Write-In,NON,13,2,0,0,0,0,11
+Lancaster,River Road,Soil and Water District Commission,,Douglas M Bailey,NON,1083,734,0,0,0,15,334
+Lancaster,River Road,Soil and Water District Commission,,Write-In,NON,38,26,0,0,0,0,12
+Lancaster,Riverside,Soil and Water District Commission,,Douglas M Bailey,NON,326,172,0,0,0,3,151
+Lancaster,Riverside,Soil and Water District Commission,,Write-In,NON,3,2,0,0,0,0,1
+Lancaster,Six Mile Creek,Soil and Water District Commission,,Douglas M Bailey,NON,725,460,0,0,0,10,255
+Lancaster,Six Mile Creek,Soil and Water District Commission,,Write-In,NON,35,28,0,0,0,1,6
+Lancaster,Springdale,Soil and Water District Commission,,Douglas M Bailey,NON,290,118,0,0,0,3,169
+Lancaster,Springdale,Soil and Water District Commission,,Write-In,NON,4,2,0,0,0,0,2
+Lancaster,Sun City Carolina Lakes,Soil and Water District Commission,,Douglas M Bailey,NON,2170,1765,0,0,0,52,353
+Lancaster,Sun City Carolina Lakes,Soil and Water District Commission,,Write-In,NON,24,17,0,0,0,1,6
+Lancaster,Tradesville,Soil and Water District Commission,,Douglas M Bailey,NON,460,105,0,0,0,3,352
+Lancaster,Tradesville,Soil and Water District Commission,,Write-In,NON,17,4,0,0,0,2,11
+Lancaster,Unity,Soil and Water District Commission,,Douglas M Bailey,NON,458,135,0,0,0,2,321
+Lancaster,Unity,Soil and Water District Commission,,Write-In,NON,9,7,0,0,0,0,2
+Lancaster,Van Wyck,Soil and Water District Commission,,Douglas M Bailey,NON,552,288,0,0,0,6,258
+Lancaster,Van Wyck,Soil and Water District Commission,,Write-In,NON,30,18,0,0,0,0,12
+Lancaster,521 North,Solicitor,6,Randy E Newman Jr,REP,820,423,0,0,0,6,391
+Lancaster,521 North,Solicitor,6,Write-In,NON,16,10,0,0,0,1,5
+Lancaster,Antioch,Solicitor,6,Randy E Newman Jr,REP,395,99,0,0,0,1,295
+Lancaster,Antioch,Solicitor,6,Write-In,NON,10,6,0,0,0,3,1
+Lancaster,Black Horse Run,Solicitor,6,Randy E Newman Jr,REP,1800,1046,0,0,0,21,733
+Lancaster,Black Horse Run,Solicitor,6,Write-In,NON,69,49,0,0,0,1,19
+Lancaster,Buford,Solicitor,6,Randy E Newman Jr,REP,882,256,0,0,0,8,618
+Lancaster,Buford,Solicitor,6,Write-In,NON,8,3,0,0,0,0,5
+Lancaster,Camp Creek,Solicitor,6,Randy E Newman Jr,REP,413,126,0,0,0,1,286
+Lancaster,Camp Creek,Solicitor,6,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Chesterfield Avenue,Solicitor,6,Randy E Newman Jr,REP,626,329,0,0,0,7,290
+Lancaster,Chesterfield Avenue,Solicitor,6,Write-In,NON,43,21,0,0,0,1,21
+Lancaster,College Park,Solicitor,6,Randy E Newman Jr,REP,1290,684,0,0,0,18,588
+Lancaster,College Park,Solicitor,6,Write-In,NON,39,28,0,0,0,2,9
+Lancaster,Douglas,Solicitor,6,Randy E Newman Jr,REP,1328,646,0,0,0,6,676
+Lancaster,Douglas,Solicitor,6,Write-In,NON,52,40,0,0,0,0,12
+Lancaster,Elgin,Solicitor,6,Randy E Newman Jr,REP,548,206,0,0,0,3,339
+Lancaster,Elgin,Solicitor,6,Write-In,NON,10,4,0,0,0,0,6
+Lancaster,Erwin Farm,Solicitor,6,Randy E Newman Jr,REP,497,209,0,0,0,7,281
+Lancaster,Erwin Farm,Solicitor,6,Write-In,NON,21,16,0,0,0,0,5
+Lancaster,Failsafe,Solicitor,6,Randy E Newman Jr,REP,25,0,0,0,25,0,0
+Lancaster,Failsafe,Solicitor,6,Write-In,NON,1,0,0,0,1,0,0
+Lancaster,Failsafe Provisional,Solicitor,6,Randy E Newman Jr,REP,16,0,16,0,0,0,0
+Lancaster,Failsafe Provisional,Solicitor,6,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,Solicitor,6,Randy E Newman Jr,REP,403,104,0,0,0,2,297
+Lancaster,Flat Creek,Solicitor,6,Write-In,NON,3,1,0,0,0,0,2
+Lancaster,Gold Hill,Solicitor,6,Randy E Newman Jr,REP,1134,759,0,0,0,10,365
+Lancaster,Gold Hill,Solicitor,6,Write-In,NON,12,9,0,0,0,0,3
+Lancaster,Harrisburg,Solicitor,6,Randy E Newman Jr,REP,1916,1002,0,0,0,9,905
+Lancaster,Harrisburg,Solicitor,6,Write-In,NON,72,46,0,0,0,1,25
+Lancaster,Heath Springs,Solicitor,6,Randy E Newman Jr,REP,589,247,0,0,0,3,339
+Lancaster,Heath Springs,Solicitor,6,Write-In,NON,12,7,0,0,0,1,4
+Lancaster,Hyde Park,Solicitor,6,Randy E Newman Jr,REP,760,328,0,0,0,6,426
+Lancaster,Hyde Park,Solicitor,6,Write-In,NON,28,16,0,0,0,0,12
+Lancaster,Jim Wilson,Solicitor,6,Randy E Newman Jr,REP,1109,659,0,0,0,7,443
+Lancaster,Jim Wilson,Solicitor,6,Write-In,NON,51,34,0,0,0,2,15
+Lancaster,Kershaw,Solicitor,6,Randy E Newman Jr,REP,1307,724,0,0,0,4,579
+Lancaster,Kershaw,Solicitor,6,Write-In,NON,20,13,0,0,0,0,7
+Lancaster,McIlwain,Solicitor,6,Randy E Newman Jr,REP,822,318,0,0,0,8,496
+Lancaster,McIlwain,Solicitor,6,Write-In,NON,30,20,0,0,0,0,10
+Lancaster,Osceola,Solicitor,6,Randy E Newman Jr,REP,1464,904,0,0,0,5,555
+Lancaster,Osceola,Solicitor,6,Write-In,NON,56,43,0,0,0,1,12
+Lancaster,Pleasant Hill,Solicitor,6,Randy E Newman Jr,REP,570,218,0,0,0,4,348
+Lancaster,Pleasant Hill,Solicitor,6,Write-In,NON,21,10,0,0,0,0,11
+Lancaster,Pleasant Valley,Solicitor,6,Randy E Newman Jr,REP,1567,772,0,0,0,14,781
+Lancaster,Pleasant Valley,Solicitor,6,Write-In,NON,82,55,0,0,0,0,27
+Lancaster,Possum Hollow,Solicitor,6,Randy E Newman Jr,REP,1154,655,0,0,0,16,483
+Lancaster,Possum Hollow,Solicitor,6,Write-In,NON,43,34,0,0,0,2,7
+Lancaster,Provisional,Solicitor,6,Randy E Newman Jr,REP,17,0,0,17,0,0,0
+Lancaster,Provisional,Solicitor,6,Write-In,NON,1,0,0,1,0,0,0
+Lancaster,Rich Hill,Solicitor,6,Randy E Newman Jr,REP,615,228,0,0,0,3,384
+Lancaster,Rich Hill,Solicitor,6,Write-In,NON,6,2,0,0,0,0,4
+Lancaster,River Road,Solicitor,6,Randy E Newman Jr,REP,1263,832,0,0,0,11,420
+Lancaster,River Road,Solicitor,6,Write-In,NON,48,42,0,0,0,0,6
+Lancaster,Riverside,Solicitor,6,Randy E Newman Jr,REP,382,188,0,0,0,4,190
+Lancaster,Riverside,Solicitor,6,Write-In,NON,7,5,0,0,0,0,2
+Lancaster,Six Mile Creek,Solicitor,6,Randy E Newman Jr,REP,757,451,0,0,0,4,302
+Lancaster,Six Mile Creek,Solicitor,6,Write-In,NON,25,18,0,0,0,1,6
+Lancaster,Springdale,Solicitor,6,Randy E Newman Jr,REP,437,183,0,0,0,1,253
+Lancaster,Springdale,Solicitor,6,Write-In,NON,10,5,0,0,0,2,3
+Lancaster,Sun City Carolina Lakes,Solicitor,6,Randy E Newman Jr,REP,2828,2236,0,0,0,60,532
+Lancaster,Sun City Carolina Lakes,Solicitor,6,Write-In,NON,24,18,0,0,0,2,4
+Lancaster,Tradesville,Solicitor,6,Randy E Newman Jr,REP,616,142,0,0,0,3,471
+Lancaster,Tradesville,Solicitor,6,Write-In,NON,12,5,0,0,0,2,5
+Lancaster,Unity,Solicitor,6,Randy E Newman Jr,REP,595,180,0,0,0,1,414
+Lancaster,Unity,Solicitor,6,Write-In,NON,8,4,0,0,0,0,4
+Lancaster,Van Wyck,Solicitor,6,Randy E Newman Jr,REP,723,349,0,0,0,7,367
+Lancaster,Van Wyck,Solicitor,6,Write-In,NON,18,18,0,0,0,0,0
+Lancaster,Black Horse Run,State House,44,Mike Neese,REP,1369,793,0,0,0,20,556
+Lancaster,Black Horse Run,State House,44,Katie Crosby,DEM,1396,982,0,0,0,22,392
+Lancaster,Black Horse Run,State House,44,Write-In,NON,3,2,0,0,0,0,1
+Lancaster,Failsafe,State House,44,Mike Neese,REP,1,0,0,0,1,0,0
+Lancaster,Failsafe,State House,44,Katie Crosby,DEM,2,0,0,0,2,0,0
+Lancaster,Failsafe,State House,44,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,State House,44,Mike Neese,REP,3,0,3,0,0,0,0
+Lancaster,Failsafe Provisional,State House,44,Katie Crosby,DEM,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,State House,44,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Gold Hill,State House,44,Mike Neese,REP,946,628,0,0,0,7,311
+Lancaster,Gold Hill,State House,44,Katie Crosby,DEM,593,471,0,0,0,10,112
+Lancaster,Gold Hill,State House,44,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Harrisburg,State House,44,Mike Neese,REP,1480,746,0,0,0,9,725
+Lancaster,Harrisburg,State House,44,Katie Crosby,DEM,1519,950,0,0,0,21,548
+Lancaster,Harrisburg,State House,44,Write-In,NON,2,0,0,0,0,0,2
+Lancaster,Jim Wilson,State House,44,Mike Neese,REP,856,493,0,0,0,2,361
+Lancaster,Jim Wilson,State House,44,Katie Crosby,DEM,800,571,0,0,0,11,218
+Lancaster,Jim Wilson,State House,44,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Osceola,State House,44,Mike Neese,REP,1063,626,0,0,0,1,436
+Lancaster,Osceola,State House,44,Katie Crosby,DEM,1153,869,0,0,0,19,265
+Lancaster,Osceola,State House,44,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Pleasant Valley,State House,44,Mike Neese,REP,1154,541,0,0,0,12,601
+Lancaster,Pleasant Valley,State House,44,Katie Crosby,DEM,1402,877,0,0,0,23,502
+Lancaster,Pleasant Valley,State House,44,Write-In,NON,5,3,0,0,0,0,2
+Lancaster,Possum Hollow,State House,44,Mike Neese,REP,898,486,0,0,0,11,401
+Lancaster,Possum Hollow,State House,44,Katie Crosby,DEM,787,547,0,0,0,23,217
+Lancaster,Possum Hollow,State House,44,Write-In,NON,4,1,0,0,0,0,3
+Lancaster,Provisional,State House,44,Mike Neese,REP,6,0,0,6,0,0,0
+Lancaster,Provisional,State House,44,Katie Crosby,DEM,8,0,0,8,0,0,0
+Lancaster,Provisional,State House,44,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,River Road,State House,44,Mike Neese,REP,1004,660,0,0,0,8,336
+Lancaster,River Road,State House,44,Katie Crosby,DEM,871,650,0,0,0,28,193
+Lancaster,River Road,State House,44,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Six Mile Creek,State House,44,Mike Neese,REP,549,302,0,0,0,2,245
+Lancaster,Six Mile Creek,State House,44,Katie Crosby,DEM,583,404,0,0,0,17,162
+Lancaster,Six Mile Creek,State House,44,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,State House,44,Mike Neese,REP,2458,1909,0,0,0,53,496
+Lancaster,Sun City Carolina Lakes,State House,44,Katie Crosby,DEM,1663,1424,0,0,0,66,173
+Lancaster,Sun City Carolina Lakes,State House,44,Write-In,NON,3,1,0,0,0,0,2
+Lancaster,Van Wyck,State House,44,Mike Neese,REP,276,80,0,0,0,0,196
+Lancaster,Van Wyck,State House,44,Katie Crosby,DEM,132,74,0,0,0,1,57
+Lancaster,Van Wyck,State House,44,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,521 North,State House,45,Brandon Newton,REP,698,351,0,0,0,6,341
+Lancaster,521 North,State House,45,Nicole Ventour,DEM,398,256,0,0,0,9,133
+Lancaster,521 North,State House,45,Write-In,NON,3,1,0,0,0,0,2
+Lancaster,Chesterfield Avenue,State House,45,Brandon Newton,REP,410,191,0,0,0,5,214
+Lancaster,Chesterfield Avenue,State House,45,Nicole Ventour,DEM,1052,630,0,0,0,15,407
+Lancaster,Chesterfield Avenue,State House,45,Write-In,NON,3,2,0,0,0,0,1
+Lancaster,College Park,State House,45,Brandon Newton,REP,1090,562,0,0,0,16,512
+Lancaster,College Park,State House,45,Nicole Ventour,DEM,611,398,0,0,0,8,205
+Lancaster,College Park,State House,45,Write-In,NON,4,1,0,0,0,0,3
+Lancaster,Douglas,State House,45,Brandon Newton,REP,1068,487,0,0,0,4,577
+Lancaster,Douglas,State House,45,Nicole Ventour,DEM,881,592,0,0,0,11,278
+Lancaster,Douglas,State House,45,Write-In,NON,3,0,0,0,0,0,3
+Lancaster,Elgin,State House,45,Brandon Newton,REP,456,159,0,0,0,2,295
+Lancaster,Elgin,State House,45,Nicole Ventour,DEM,276,152,0,0,0,6,118
+Lancaster,Elgin,State House,45,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Erwin Farm,State House,45,Brandon Newton,REP,366,138,0,0,0,3,225
+Lancaster,Erwin Farm,State House,45,Nicole Ventour,DEM,463,248,0,0,0,9,206
+Lancaster,Erwin Farm,State House,45,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,State House,45,Brandon Newton,REP,11,0,0,0,11,0,0
+Lancaster,Failsafe,State House,45,Nicole Ventour,DEM,19,0,0,0,19,0,0
+Lancaster,Failsafe,State House,45,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,State House,45,Brandon Newton,REP,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,State House,45,Nicole Ventour,DEM,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,State House,45,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Heath Springs,State House,45,Brandon Newton,REP,492,194,0,0,0,3,295
+Lancaster,Heath Springs,State House,45,Nicole Ventour,DEM,339,197,0,0,0,2,140
+Lancaster,Heath Springs,State House,45,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,McIlwain,State House,45,Brandon Newton,REP,649,238,0,0,0,8,403
+Lancaster,McIlwain,State House,45,Nicole Ventour,DEM,571,310,0,0,0,0,261
+Lancaster,McIlwain,State House,45,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Pleasant Hill,State House,45,Brandon Newton,REP,470,168,0,0,0,4,298
+Lancaster,Pleasant Hill,State House,45,Nicole Ventour,DEM,272,134,0,0,0,0,138
+Lancaster,Pleasant Hill,State House,45,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Provisional,State House,45,Brandon Newton,REP,6,0,0,6,0,0,0
+Lancaster,Provisional,State House,45,Nicole Ventour,DEM,8,0,0,8,0,0,0
+Lancaster,Provisional,State House,45,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,State House,45,Brandon Newton,REP,123,68,0,0,0,0,55
+Lancaster,Rich Hill,State House,45,Nicole Ventour,DEM,16,9,0,0,0,1,6
+Lancaster,Rich Hill,State House,45,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Riverside,State House,45,Brandon Newton,REP,280,120,0,0,0,4,156
+Lancaster,Riverside,State House,45,Nicole Ventour,DEM,296,211,0,0,0,0,85
+Lancaster,Riverside,State House,45,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Springdale,State House,45,Brandon Newton,REP,333,132,0,0,0,0,201
+Lancaster,Springdale,State House,45,Nicole Ventour,DEM,469,240,0,0,0,8,221
+Lancaster,Springdale,State House,45,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Unity,State House,45,Brandon Newton,REP,182,58,0,0,0,0,124
+Lancaster,Unity,State House,45,Nicole Ventour,DEM,67,41,0,0,0,0,26
+Lancaster,Unity,State House,45,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Van Wyck,State House,45,Brandon Newton,REP,329,202,0,0,0,5,122
+Lancaster,Van Wyck,State House,45,Nicole Ventour,DEM,208,147,0,0,0,2,59
+Lancaster,Van Wyck,State House,45,Write-In,NON,4,3,0,0,0,0,1
+Lancaster,Antioch,State House,53,Richard Richie Yow,REP,349,73,0,0,0,1,275
+Lancaster,Antioch,State House,53,Bruce M Wallace,DEM,120,75,0,0,0,3,42
+Lancaster,Antioch,State House,53,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Buford,State House,53,Richard Richie Yow,REP,783,214,0,0,0,3,566
+Lancaster,Buford,State House,53,Bruce M Wallace,DEM,202,92,0,0,0,8,102
+Lancaster,Buford,State House,53,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Camp Creek,State House,53,Richard Richie Yow,REP,373,108,0,0,0,0,265
+Lancaster,Camp Creek,State House,53,Bruce M Wallace,DEM,94,43,0,0,0,4,47
+Lancaster,Camp Creek,State House,53,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,State House,53,Richard Richie Yow,REP,1,0,0,0,1,0,0
+Lancaster,Failsafe,State House,53,Bruce M Wallace,DEM,1,0,0,0,1,0,0
+Lancaster,Failsafe,State House,53,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,State House,53,Richard Richie Yow,REP,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,State House,53,Bruce M Wallace,DEM,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,State House,53,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Hyde Park,State House,53,Richard Richie Yow,REP,599,258,0,0,0,5,336
+Lancaster,Hyde Park,State House,53,Bruce M Wallace,DEM,463,235,0,0,0,2,226
+Lancaster,Hyde Park,State House,53,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Provisional,State House,53,Richard Richie Yow,REP,1,0,0,1,0,0,0
+Lancaster,Provisional,State House,53,Bruce M Wallace,DEM,0,0,0,0,0,0,0
+Lancaster,Provisional,State House,53,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Tradesville,State House,53,Richard Richie Yow,REP,558,124,0,0,0,3,431
+Lancaster,Tradesville,State House,53,Bruce M Wallace,DEM,130,48,0,0,0,3,79
+Lancaster,Tradesville,State House,53,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Unity,State House,53,Richard Richie Yow,REP,332,90,0,0,0,1,241
+Lancaster,Unity,State House,53,Bruce M Wallace,DEM,132,55,0,0,0,2,75
+Lancaster,Unity,State House,53,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Failsafe,State House,65,Cody T Mitchell,REP,1,0,0,0,1,0,0
+Lancaster,Failsafe,State House,65,Tanisha Baskin,DEM,2,0,0,0,2,0,0
+Lancaster,Failsafe,State House,65,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,State House,65,Cody T Mitchell,REP,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,State House,65,Tanisha Baskin,DEM,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,State House,65,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,State House,65,Cody T Mitchell,REP,385,102,0,0,0,0,283
+Lancaster,Flat Creek,State House,65,Tanisha Baskin,DEM,63,21,0,0,0,2,40
+Lancaster,Flat Creek,State House,65,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Kershaw,State House,65,Cody T Mitchell,REP,1166,647,0,0,0,4,515
+Lancaster,Kershaw,State House,65,Tanisha Baskin,DEM,423,242,0,0,0,2,179
+Lancaster,Kershaw,State House,65,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Provisional,State House,65,Cody T Mitchell,REP,0,0,0,0,0,0,0
+Lancaster,Provisional,State House,65,Tanisha Baskin,DEM,1,0,0,1,0,0,0
+Lancaster,Provisional,State House,65,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,State House,65,Cody T Mitchell,REP,458,142,0,0,0,2,314
+Lancaster,Rich Hill,State House,65,Tanisha Baskin,DEM,89,50,0,0,0,1,38
+Lancaster,Rich Hill,State House,65,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,521 North,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,3,0,0,0,0,2
+Lancaster,521 North,State Superintendent of Education,,Ellen Weaver,REP,678,339,0,0,0,6,333
+Lancaster,521 North,State Superintendent of Education,,Sylvia Wright,DEM,415,267,0,0,0,9,139
+Lancaster,521 North,State Superintendent of Education,,Write-In,NON,2,0,0,0,0,0,2
+Lancaster,Antioch,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,1,0,0,0,0,1
+Lancaster,Antioch,State Superintendent of Education,,Ellen Weaver,REP,346,72,0,0,0,1,273
+Lancaster,Antioch,State Superintendent of Education,,Sylvia Wright,DEM,121,75,0,0,0,3,43
+Lancaster,Antioch,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Black Horse Run,State Superintendent of Education,,Baba Amin Ojuok,UNC,21,10,0,0,0,1,10
+Lancaster,Black Horse Run,State Superintendent of Education,,Ellen Weaver,REP,1355,786,0,0,0,17,552
+Lancaster,Black Horse Run,State Superintendent of Education,,Sylvia Wright,DEM,1386,972,0,0,0,23,391
+Lancaster,Black Horse Run,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Buford,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,3,0,0,0,0,2
+Lancaster,Buford,State Superintendent of Education,,Ellen Weaver,REP,769,213,0,0,0,4,552
+Lancaster,Buford,State Superintendent of Education,,Sylvia Wright,DEM,210,91,0,0,0,7,112
+Lancaster,Buford,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Camp Creek,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,0,0,0,0,1,1
+Lancaster,Camp Creek,State Superintendent of Education,,Ellen Weaver,REP,364,106,0,0,0,0,258
+Lancaster,Camp Creek,State Superintendent of Education,,Sylvia Wright,DEM,99,45,0,0,0,3,51
+Lancaster,Camp Creek,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Chesterfield Avenue,State Superintendent of Education,,Baba Amin Ojuok,UNC,20,4,0,0,0,0,16
+Lancaster,Chesterfield Avenue,State Superintendent of Education,,Ellen Weaver,REP,371,163,0,0,0,4,204
+Lancaster,Chesterfield Avenue,State Superintendent of Education,,Sylvia Wright,DEM,1073,656,0,0,0,16,401
+Lancaster,Chesterfield Avenue,State Superintendent of Education,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,College Park,State Superintendent of Education,,Baba Amin Ojuok,UNC,12,3,0,0,0,1,8
+Lancaster,College Park,State Superintendent of Education,,Ellen Weaver,REP,983,500,0,0,0,12,471
+Lancaster,College Park,State Superintendent of Education,,Sylvia Wright,DEM,710,456,0,0,0,11,243
+Lancaster,College Park,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Douglas,State Superintendent of Education,,Baba Amin Ojuok,UNC,8,6,0,0,0,0,2
+Lancaster,Douglas,State Superintendent of Education,,Ellen Weaver,REP,1038,465,0,0,0,3,570
+Lancaster,Douglas,State Superintendent of Education,,Sylvia Wright,DEM,900,603,0,0,0,12,285
+Lancaster,Douglas,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Elgin,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,3,0,0,0,0,1
+Lancaster,Elgin,State Superintendent of Education,,Ellen Weaver,REP,427,153,0,0,0,2,272
+Lancaster,Elgin,State Superintendent of Education,,Sylvia Wright,DEM,296,153,0,0,0,6,137
+Lancaster,Elgin,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Erwin Farm,State Superintendent of Education,,Baba Amin Ojuok,UNC,11,5,0,0,0,0,6
+Lancaster,Erwin Farm,State Superintendent of Education,,Ellen Weaver,REP,345,128,0,0,0,3,214
+Lancaster,Erwin Farm,State Superintendent of Education,,Sylvia Wright,DEM,471,250,0,0,0,9,212
+Lancaster,Erwin Farm,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,1,0,0
+Lancaster,Failsafe,State Superintendent of Education,,Ellen Weaver,REP,14,0,0,0,14,0,0
+Lancaster,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,23,0,0,0,23,0,0
+Lancaster,Failsafe,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,1,0,0,0,0
+Lancaster,Failsafe Provisional,State Superintendent of Education,,Ellen Weaver,REP,11,0,11,0,0,0,0
+Lancaster,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,13,0,13,0,0,0,0
+Lancaster,Failsafe Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,1,0,0,0,0,1
+Lancaster,Flat Creek,State Superintendent of Education,,Ellen Weaver,REP,378,99,0,0,0,0,279
+Lancaster,Flat Creek,State Superintendent of Education,,Sylvia Wright,DEM,70,24,0,0,0,2,44
+Lancaster,Flat Creek,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Gold Hill,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,2,0,0,0,0,3
+Lancaster,Gold Hill,State Superintendent of Education,,Ellen Weaver,REP,951,632,0,0,0,5,314
+Lancaster,Gold Hill,State Superintendent of Education,,Sylvia Wright,DEM,572,454,0,0,0,12,106
+Lancaster,Gold Hill,State Superintendent of Education,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Harrisburg,State Superintendent of Education,,Baba Amin Ojuok,UNC,23,10,0,0,0,0,13
+Lancaster,Harrisburg,State Superintendent of Education,,Ellen Weaver,REP,1485,746,0,0,0,8,731
+Lancaster,Harrisburg,State Superintendent of Education,,Sylvia Wright,DEM,1494,942,0,0,0,22,530
+Lancaster,Harrisburg,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Heath Springs,State Superintendent of Education,,Baba Amin Ojuok,UNC,7,4,0,0,0,0,3
+Lancaster,Heath Springs,State Superintendent of Education,,Ellen Weaver,REP,471,187,0,0,0,1,283
+Lancaster,Heath Springs,State Superintendent of Education,,Sylvia Wright,DEM,349,199,0,0,0,3,147
+Lancaster,Heath Springs,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Hyde Park,State Superintendent of Education,,Baba Amin Ojuok,UNC,11,4,0,0,0,0,7
+Lancaster,Hyde Park,State Superintendent of Education,,Ellen Weaver,REP,592,255,0,0,0,5,332
+Lancaster,Hyde Park,State Superintendent of Education,,Sylvia Wright,DEM,465,237,0,0,0,2,226
+Lancaster,Hyde Park,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Jim Wilson,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,2,0,0,0,0,4
+Lancaster,Jim Wilson,State Superintendent of Education,,Ellen Weaver,REP,838,484,0,0,0,2,352
+Lancaster,Jim Wilson,State Superintendent of Education,,Sylvia Wright,DEM,801,570,0,0,0,11,220
+Lancaster,Jim Wilson,State Superintendent of Education,,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Kershaw,State Superintendent of Education,,Baba Amin Ojuok,UNC,15,7,0,0,0,0,8
+Lancaster,Kershaw,State Superintendent of Education,,Ellen Weaver,REP,1114,619,0,0,0,4,491
+Lancaster,Kershaw,State Superintendent of Education,,Sylvia Wright,DEM,454,261,0,0,0,2,191
+Lancaster,Kershaw,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,McIlwain,State Superintendent of Education,,Baba Amin Ojuok,UNC,11,6,0,0,0,0,5
+Lancaster,McIlwain,State Superintendent of Education,,Ellen Weaver,REP,625,224,0,0,0,8,393
+Lancaster,McIlwain,State Superintendent of Education,,Sylvia Wright,DEM,591,322,0,0,0,0,269
+Lancaster,McIlwain,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Osceola,State Superintendent of Education,,Baba Amin Ojuok,UNC,13,8,0,0,0,0,5
+Lancaster,Osceola,State Superintendent of Education,,Ellen Weaver,REP,1074,638,0,0,0,2,434
+Lancaster,Osceola,State Superintendent of Education,,Sylvia Wright,DEM,1128,850,0,0,0,18,260
+Lancaster,Osceola,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Pleasant Hill,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,2,0,0,0,0,4
+Lancaster,Pleasant Hill,State Superintendent of Education,,Ellen Weaver,REP,460,160,0,0,0,4,296
+Lancaster,Pleasant Hill,State Superintendent of Education,,Sylvia Wright,DEM,278,141,0,0,0,0,137
+Lancaster,Pleasant Hill,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Pleasant Valley,State Superintendent of Education,,Baba Amin Ojuok,UNC,21,12,0,0,0,0,9
+Lancaster,Pleasant Valley,State Superintendent of Education,,Ellen Weaver,REP,1156,548,0,0,0,10,598
+Lancaster,Pleasant Valley,State Superintendent of Education,,Sylvia Wright,DEM,1370,855,0,0,0,25,490
+Lancaster,Pleasant Valley,State Superintendent of Education,,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Possum Hollow,State Superintendent of Education,,Baba Amin Ojuok,UNC,8,3,0,0,0,0,5
+Lancaster,Possum Hollow,State Superintendent of Education,,Ellen Weaver,REP,903,489,0,0,0,11,403
+Lancaster,Possum Hollow,State Superintendent of Education,,Sylvia Wright,DEM,769,539,0,0,0,23,207
+Lancaster,Possum Hollow,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,1,0,0,0
+Lancaster,Provisional,State Superintendent of Education,,Ellen Weaver,REP,12,0,0,12,0,0,0
+Lancaster,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,19,0,0,19,0,0,0
+Lancaster,Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,2,0,0,0,0,1
+Lancaster,Rich Hill,State Superintendent of Education,,Ellen Weaver,REP,572,207,0,0,0,2,363
+Lancaster,Rich Hill,State Superintendent of Education,,Sylvia Wright,DEM,115,63,0,0,0,2,50
+Lancaster,Rich Hill,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,River Road,State Superintendent of Education,,Baba Amin Ojuok,UNC,11,6,0,0,0,0,5
+Lancaster,River Road,State Superintendent of Education,,Ellen Weaver,REP,997,655,0,0,0,9,333
+Lancaster,River Road,State Superintendent of Education,,Sylvia Wright,DEM,859,644,0,0,0,28,187
+Lancaster,River Road,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Riverside,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,2,0,0,0,0,2
+Lancaster,Riverside,State Superintendent of Education,,Ellen Weaver,REP,270,114,0,0,0,4,152
+Lancaster,Riverside,State Superintendent of Education,,Sylvia Wright,DEM,302,214,0,0,0,0,88
+Lancaster,Riverside,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Six Mile Creek,State Superintendent of Education,,Baba Amin Ojuok,UNC,15,7,0,0,0,1,7
+Lancaster,Six Mile Creek,State Superintendent of Education,,Ellen Weaver,REP,555,312,0,0,0,3,240
+Lancaster,Six Mile Creek,State Superintendent of Education,,Sylvia Wright,DEM,558,384,0,0,0,15,159
+Lancaster,Six Mile Creek,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Springdale,State Superintendent of Education,,Baba Amin Ojuok,UNC,11,4,0,0,0,0,7
+Lancaster,Springdale,State Superintendent of Education,,Ellen Weaver,REP,310,124,0,0,0,0,186
+Lancaster,Springdale,State Superintendent of Education,,Sylvia Wright,DEM,478,244,0,0,0,8,226
+Lancaster,Springdale,State Superintendent of Education,,Write-In,NON,2,2,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,State Superintendent of Education,,Baba Amin Ojuok,UNC,15,9,0,0,0,1,5
+Lancaster,Sun City Carolina Lakes,State Superintendent of Education,,Ellen Weaver,REP,2392,1860,0,0,0,47,485
+Lancaster,Sun City Carolina Lakes,State Superintendent of Education,,Sylvia Wright,DEM,1692,1449,0,0,0,68,175
+Lancaster,Sun City Carolina Lakes,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Tradesville,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,4,0,0,0,0,2
+Lancaster,Tradesville,State Superintendent of Education,,Ellen Weaver,REP,545,120,0,0,0,3,422
+Lancaster,Tradesville,State Superintendent of Education,,Sylvia Wright,DEM,137,50,0,0,0,3,84
+Lancaster,Tradesville,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Unity,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,2,0,0,0,0,2
+Lancaster,Unity,State Superintendent of Education,,Ellen Weaver,REP,508,148,0,0,0,1,359
+Lancaster,Unity,State Superintendent of Education,,Sylvia Wright,DEM,203,94,0,0,0,2,107
+Lancaster,Unity,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Van Wyck,State Superintendent of Education,,Baba Amin Ojuok,UNC,8,2,0,0,0,0,6
+Lancaster,Van Wyck,State Superintendent of Education,,Ellen Weaver,REP,598,284,0,0,0,6,308
+Lancaster,Van Wyck,State Superintendent of Education,,Sylvia Wright,DEM,339,221,0,0,0,2,116
+Lancaster,Van Wyck,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,521 North,State Treasurer,,Curtis Loftis,REP,685,342,0,0,0,5,338
+Lancaster,521 North,State Treasurer,,Vincent Coe,DEM,409,266,0,0,0,10,133
+Lancaster,521 North,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Antioch,State Treasurer,,Curtis Loftis,REP,347,74,0,0,0,1,272
+Lancaster,Antioch,State Treasurer,,Vincent Coe,DEM,122,73,0,0,0,3,46
+Lancaster,Antioch,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Black Horse Run,State Treasurer,,Curtis Loftis,REP,1378,796,0,0,0,17,565
+Lancaster,Black Horse Run,State Treasurer,,Vincent Coe,DEM,1380,969,0,0,0,24,387
+Lancaster,Black Horse Run,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Buford,State Treasurer,,Curtis Loftis,REP,784,220,0,0,0,4,560
+Lancaster,Buford,State Treasurer,,Vincent Coe,DEM,201,86,0,0,0,7,108
+Lancaster,Buford,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Camp Creek,State Treasurer,,Curtis Loftis,REP,370,106,0,0,0,0,264
+Lancaster,Camp Creek,State Treasurer,,Vincent Coe,DEM,92,43,0,0,0,4,45
+Lancaster,Camp Creek,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Chesterfield Avenue,State Treasurer,,Curtis Loftis,REP,388,172,0,0,0,5,211
+Lancaster,Chesterfield Avenue,State Treasurer,,Vincent Coe,DEM,1065,648,0,0,0,15,402
+Lancaster,Chesterfield Avenue,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,College Park,State Treasurer,,Curtis Loftis,REP,1017,514,0,0,0,12,491
+Lancaster,College Park,State Treasurer,,Vincent Coe,DEM,685,444,0,0,0,12,229
+Lancaster,College Park,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Douglas,State Treasurer,,Curtis Loftis,REP,1063,479,0,0,0,3,581
+Lancaster,Douglas,State Treasurer,,Vincent Coe,DEM,885,600,0,0,0,12,273
+Lancaster,Douglas,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Elgin,State Treasurer,,Curtis Loftis,REP,450,154,0,0,0,2,294
+Lancaster,Elgin,State Treasurer,,Vincent Coe,DEM,280,155,0,0,0,6,119
+Lancaster,Elgin,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Erwin Farm,State Treasurer,,Curtis Loftis,REP,356,134,0,0,0,3,219
+Lancaster,Erwin Farm,State Treasurer,,Vincent Coe,DEM,472,251,0,0,0,9,212
+Lancaster,Erwin Farm,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe,State Treasurer,,Curtis Loftis,REP,14,0,0,0,14,0,0
+Lancaster,Failsafe,State Treasurer,,Vincent Coe,DEM,23,0,0,0,23,0,0
+Lancaster,Failsafe,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,State Treasurer,,Curtis Loftis,REP,12,0,12,0,0,0,0
+Lancaster,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,13,0,13,0,0,0,0
+Lancaster,Failsafe Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,State Treasurer,,Curtis Loftis,REP,376,97,0,0,0,0,279
+Lancaster,Flat Creek,State Treasurer,,Vincent Coe,DEM,70,27,0,0,0,2,41
+Lancaster,Flat Creek,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Gold Hill,State Treasurer,,Curtis Loftis,REP,961,639,0,0,0,6,316
+Lancaster,Gold Hill,State Treasurer,,Vincent Coe,DEM,576,460,0,0,0,11,105
+Lancaster,Gold Hill,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Harrisburg,State Treasurer,,Curtis Loftis,REP,1510,759,0,0,0,7,744
+Lancaster,Harrisburg,State Treasurer,,Vincent Coe,DEM,1485,938,0,0,0,23,524
+Lancaster,Harrisburg,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Heath Springs,State Treasurer,,Curtis Loftis,REP,484,186,0,0,0,2,296
+Lancaster,Heath Springs,State Treasurer,,Vincent Coe,DEM,339,199,0,0,0,3,137
+Lancaster,Heath Springs,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Hyde Park,State Treasurer,,Curtis Loftis,REP,605,256,0,0,0,5,344
+Lancaster,Hyde Park,State Treasurer,,Vincent Coe,DEM,458,238,0,0,0,2,218
+Lancaster,Hyde Park,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Jim Wilson,State Treasurer,,Curtis Loftis,REP,858,490,0,0,0,2,366
+Lancaster,Jim Wilson,State Treasurer,,Vincent Coe,DEM,781,565,0,0,0,11,205
+Lancaster,Jim Wilson,State Treasurer,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Kershaw,State Treasurer,,Curtis Loftis,REP,1131,627,0,0,0,4,500
+Lancaster,Kershaw,State Treasurer,,Vincent Coe,DEM,446,257,0,0,0,2,187
+Lancaster,Kershaw,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,McIlwain,State Treasurer,,Curtis Loftis,REP,633,230,0,0,0,8,395
+Lancaster,McIlwain,State Treasurer,,Vincent Coe,DEM,587,316,0,0,0,0,271
+Lancaster,McIlwain,State Treasurer,,Write-In,NON,2,2,0,0,0,0,0
+Lancaster,Osceola,State Treasurer,,Curtis Loftis,REP,1083,639,0,0,0,2,442
+Lancaster,Osceola,State Treasurer,,Vincent Coe,DEM,1116,844,0,0,0,18,254
+Lancaster,Osceola,State Treasurer,,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Pleasant Hill,State Treasurer,,Curtis Loftis,REP,462,159,0,0,0,4,299
+Lancaster,Pleasant Hill,State Treasurer,,Vincent Coe,DEM,275,140,0,0,0,0,135
+Lancaster,Pleasant Hill,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Pleasant Valley,State Treasurer,,Curtis Loftis,REP,1171,553,0,0,0,11,607
+Lancaster,Pleasant Valley,State Treasurer,,Vincent Coe,DEM,1375,862,0,0,0,24,489
+Lancaster,Pleasant Valley,State Treasurer,,Write-In,NON,3,1,0,0,0,0,2
+Lancaster,Possum Hollow,State Treasurer,,Curtis Loftis,REP,905,487,0,0,0,12,406
+Lancaster,Possum Hollow,State Treasurer,,Vincent Coe,DEM,775,545,0,0,0,22,208
+Lancaster,Possum Hollow,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Provisional,State Treasurer,,Curtis Loftis,REP,13,0,0,13,0,0,0
+Lancaster,Provisional,State Treasurer,,Vincent Coe,DEM,19,0,0,19,0,0,0
+Lancaster,Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,State Treasurer,,Curtis Loftis,REP,581,213,0,0,0,2,366
+Lancaster,Rich Hill,State Treasurer,,Vincent Coe,DEM,109,60,0,0,0,2,47
+Lancaster,Rich Hill,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,River Road,State Treasurer,,Curtis Loftis,REP,1008,660,0,0,0,7,341
+Lancaster,River Road,State Treasurer,,Vincent Coe,DEM,855,640,0,0,0,29,186
+Lancaster,River Road,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Riverside,State Treasurer,,Curtis Loftis,REP,270,114,0,0,0,4,152
+Lancaster,Riverside,State Treasurer,,Vincent Coe,DEM,304,216,0,0,0,0,88
+Lancaster,Riverside,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Six Mile Creek,State Treasurer,,Curtis Loftis,REP,567,315,0,0,0,2,250
+Lancaster,Six Mile Creek,State Treasurer,,Vincent Coe,DEM,561,388,0,0,0,17,156
+Lancaster,Six Mile Creek,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Springdale,State Treasurer,,Curtis Loftis,REP,325,132,0,0,0,0,193
+Lancaster,Springdale,State Treasurer,,Vincent Coe,DEM,477,243,0,0,0,8,226
+Lancaster,Springdale,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,State Treasurer,,Curtis Loftis,REP,2408,1863,0,0,0,51,494
+Lancaster,Sun City Carolina Lakes,State Treasurer,,Vincent Coe,DEM,1697,1459,0,0,0,67,171
+Lancaster,Sun City Carolina Lakes,State Treasurer,,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Tradesville,State Treasurer,,Curtis Loftis,REP,557,124,0,0,0,3,430
+Lancaster,Tradesville,State Treasurer,,Vincent Coe,DEM,129,46,0,0,0,3,80
+Lancaster,Tradesville,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Unity,State Treasurer,,Curtis Loftis,REP,520,151,0,0,0,1,368
+Lancaster,Unity,State Treasurer,,Vincent Coe,DEM,195,93,0,0,0,2,100
+Lancaster,Unity,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Van Wyck,State Treasurer,,Curtis Loftis,REP,616,284,0,0,0,6,326
+Lancaster,Van Wyck,State Treasurer,,Vincent Coe,DEM,328,220,0,0,0,2,106
+Lancaster,Van Wyck,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,521 North,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lancaster,521 North,Straight Party,,Green,GRN,2,1,0,0,0,0,1
+Lancaster,521 North,Straight Party,,Republican,REP,476,243,0,0,0,5,228
+Lancaster,521 North,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lancaster,521 North,Straight Party,,Democratic,DEM,269,172,0,0,0,7,90
+Lancaster,521 North,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Antioch,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Lancaster,Antioch,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lancaster,Antioch,Straight Party,,Republican,REP,246,56,0,0,0,1,189
+Lancaster,Antioch,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lancaster,Antioch,Straight Party,,Democratic,DEM,69,49,0,0,0,0,20
+Lancaster,Antioch,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Lancaster,Black Horse Run,Straight Party,,United Citizens,UNC,3,2,0,0,0,0,1
+Lancaster,Black Horse Run,Straight Party,,Green,GRN,4,3,0,0,0,0,1
+Lancaster,Black Horse Run,Straight Party,,Republican,REP,911,547,0,0,0,10,354
+Lancaster,Black Horse Run,Straight Party,,Libertarian,LIB,6,3,0,0,0,0,3
+Lancaster,Black Horse Run,Straight Party,,Democratic,DEM,852,601,0,0,0,16,235
+Lancaster,Black Horse Run,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Buford,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lancaster,Buford,Straight Party,,Green,GRN,2,1,0,0,0,0,1
+Lancaster,Buford,Straight Party,,Republican,REP,528,148,0,0,0,3,377
+Lancaster,Buford,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lancaster,Buford,Straight Party,,Democratic,DEM,109,51,0,0,0,2,56
+Lancaster,Buford,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Lancaster,Camp Creek,Straight Party,,United Citizens,UNC,1,0,0,0,0,1,0
+Lancaster,Camp Creek,Straight Party,,Green,GRN,3,0,0,0,0,0,3
+Lancaster,Camp Creek,Straight Party,,Republican,REP,258,81,0,0,0,0,177
+Lancaster,Camp Creek,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lancaster,Camp Creek,Straight Party,,Democratic,DEM,53,31,0,0,0,0,22
+Lancaster,Camp Creek,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Chesterfield Avenue,Straight Party,,United Citizens,UNC,8,1,0,0,0,0,7
+Lancaster,Chesterfield Avenue,Straight Party,,Green,GRN,4,0,0,0,0,0,4
+Lancaster,Chesterfield Avenue,Straight Party,,Republican,REP,256,121,0,0,0,2,133
+Lancaster,Chesterfield Avenue,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lancaster,Chesterfield Avenue,Straight Party,,Democratic,DEM,816,496,0,0,0,8,312
+Lancaster,Chesterfield Avenue,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Lancaster,College Park,Straight Party,,United Citizens,UNC,3,0,0,0,0,0,3
+Lancaster,College Park,Straight Party,,Green,GRN,2,1,0,0,0,0,1
+Lancaster,College Park,Straight Party,,Republican,REP,608,326,0,0,0,8,274
+Lancaster,College Park,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lancaster,College Park,Straight Party,,Democratic,DEM,399,271,0,0,0,2,126
+Lancaster,College Park,Straight Party,,Constitution,CON,2,1,0,0,0,0,1
+Lancaster,Douglas,Straight Party,,United Citizens,UNC,4,3,0,0,0,0,1
+Lancaster,Douglas,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lancaster,Douglas,Straight Party,,Republican,REP,722,325,0,0,0,2,395
+Lancaster,Douglas,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lancaster,Douglas,Straight Party,,Democratic,DEM,630,412,0,0,0,8,210
+Lancaster,Douglas,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Lancaster,Elgin,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lancaster,Elgin,Straight Party,,Green,GRN,2,0,0,0,0,0,2
+Lancaster,Elgin,Straight Party,,Republican,REP,284,97,0,0,0,1,186
+Lancaster,Elgin,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lancaster,Elgin,Straight Party,,Democratic,DEM,197,110,0,0,0,5,82
+Lancaster,Elgin,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Erwin Farm,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+Lancaster,Erwin Farm,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lancaster,Erwin Farm,Straight Party,,Republican,REP,262,95,0,0,0,2,165
+Lancaster,Erwin Farm,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lancaster,Erwin Farm,Straight Party,,Democratic,DEM,350,180,0,0,0,8,162
+Lancaster,Erwin Farm,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Failsafe,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lancaster,Failsafe,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lancaster,Failsafe,Straight Party,,Republican,REP,9,0,0,0,9,0,0
+Lancaster,Failsafe,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lancaster,Failsafe,Straight Party,,Democratic,DEM,19,0,0,0,19,0,0
+Lancaster,Failsafe,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Straight Party,,Republican,REP,5,0,5,0,0,0,0
+Lancaster,Failsafe Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,Straight Party,,Democratic,DEM,6,0,6,0,0,0,0
+Lancaster,Failsafe Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Lancaster,Flat Creek,Straight Party,,Green,GRN,2,1,0,0,0,0,1
+Lancaster,Flat Creek,Straight Party,,Republican,REP,260,65,0,0,0,0,195
+Lancaster,Flat Creek,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lancaster,Flat Creek,Straight Party,,Democratic,DEM,38,13,0,0,0,1,24
+Lancaster,Flat Creek,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Gold Hill,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Lancaster,Gold Hill,Straight Party,,Green,GRN,6,3,0,0,0,0,3
+Lancaster,Gold Hill,Straight Party,,Republican,REP,648,438,0,0,0,4,206
+Lancaster,Gold Hill,Straight Party,,Libertarian,LIB,2,1,0,0,0,0,1
+Lancaster,Gold Hill,Straight Party,,Democratic,DEM,354,289,0,0,0,7,58
+Lancaster,Gold Hill,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Harrisburg,Straight Party,,United Citizens,UNC,2,2,0,0,0,0,0
+Lancaster,Harrisburg,Straight Party,,Green,GRN,4,0,0,0,0,0,4
+Lancaster,Harrisburg,Straight Party,,Republican,REP,970,500,0,0,0,4,466
+Lancaster,Harrisburg,Straight Party,,Libertarian,LIB,6,4,0,0,0,0,2
+Lancaster,Harrisburg,Straight Party,,Democratic,DEM,954,604,0,0,0,16,334
+Lancaster,Harrisburg,Straight Party,,Constitution,CON,2,0,0,0,0,0,2
+Lancaster,Heath Springs,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+Lancaster,Heath Springs,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Lancaster,Heath Springs,Straight Party,,Republican,REP,341,142,0,0,0,0,199
+Lancaster,Heath Springs,Straight Party,,Libertarian,LIB,1,1,0,0,0,0,0
+Lancaster,Heath Springs,Straight Party,,Democratic,DEM,245,149,0,0,0,1,95
+Lancaster,Heath Springs,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Lancaster,Hyde Park,Straight Party,,United Citizens,UNC,5,0,0,0,0,0,5
+Lancaster,Hyde Park,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Lancaster,Hyde Park,Straight Party,,Republican,REP,419,194,0,0,0,4,221
+Lancaster,Hyde Park,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lancaster,Hyde Park,Straight Party,,Democratic,DEM,312,157,0,0,0,0,155
+Lancaster,Hyde Park,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Jim Wilson,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+Lancaster,Jim Wilson,Straight Party,,Green,GRN,2,0,0,0,0,0,2
+Lancaster,Jim Wilson,Straight Party,,Republican,REP,557,329,0,0,0,1,227
+Lancaster,Jim Wilson,Straight Party,,Libertarian,LIB,2,1,0,0,0,0,1
+Lancaster,Jim Wilson,Straight Party,,Democratic,DEM,512,372,0,0,0,9,131
+Lancaster,Jim Wilson,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Kershaw,Straight Party,,United Citizens,UNC,8,5,0,0,0,0,3
+Lancaster,Kershaw,Straight Party,,Green,GRN,2,0,0,0,0,0,2
+Lancaster,Kershaw,Straight Party,,Republican,REP,768,434,0,0,0,2,332
+Lancaster,Kershaw,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lancaster,Kershaw,Straight Party,,Democratic,DEM,300,180,0,0,0,2,118
+Lancaster,Kershaw,Straight Party,,Constitution,CON,2,0,0,0,0,0,2
+Lancaster,McIlwain,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+Lancaster,McIlwain,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Lancaster,McIlwain,Straight Party,,Republican,REP,447,159,0,0,0,7,281
+Lancaster,McIlwain,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lancaster,McIlwain,Straight Party,,Democratic,DEM,403,226,0,0,0,0,177
+Lancaster,McIlwain,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Osceola,Straight Party,,United Citizens,UNC,3,1,0,0,0,0,2
+Lancaster,Osceola,Straight Party,,Green,GRN,4,3,0,0,0,0,1
+Lancaster,Osceola,Straight Party,,Republican,REP,709,437,0,0,0,1,271
+Lancaster,Osceola,Straight Party,,Libertarian,LIB,4,2,0,0,0,0,2
+Lancaster,Osceola,Straight Party,,Democratic,DEM,723,547,0,0,0,11,165
+Lancaster,Osceola,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Lancaster,Pleasant Hill,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Lancaster,Pleasant Hill,Straight Party,,Green,GRN,2,0,0,0,0,0,2
+Lancaster,Pleasant Hill,Straight Party,,Republican,REP,310,116,0,0,0,2,192
+Lancaster,Pleasant Hill,Straight Party,,Libertarian,LIB,2,0,0,0,0,0,2
+Lancaster,Pleasant Hill,Straight Party,,Democratic,DEM,197,98,0,0,0,0,99
+Lancaster,Pleasant Hill,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Pleasant Valley,Straight Party,,United Citizens,UNC,3,0,0,0,0,0,3
+Lancaster,Pleasant Valley,Straight Party,,Green,GRN,5,2,0,0,0,0,3
+Lancaster,Pleasant Valley,Straight Party,,Republican,REP,766,374,0,0,0,10,382
+Lancaster,Pleasant Valley,Straight Party,,Libertarian,LIB,5,1,0,0,0,0,4
+Lancaster,Pleasant Valley,Straight Party,,Democratic,DEM,908,582,0,0,0,14,312
+Lancaster,Pleasant Valley,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Possum Hollow,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Lancaster,Possum Hollow,Straight Party,,Green,GRN,2,2,0,0,0,0,0
+Lancaster,Possum Hollow,Straight Party,,Republican,REP,597,330,0,0,0,6,261
+Lancaster,Possum Hollow,Straight Party,,Libertarian,LIB,4,4,0,0,0,0,0
+Lancaster,Possum Hollow,Straight Party,,Democratic,DEM,479,336,0,0,0,13,130
+Lancaster,Possum Hollow,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Provisional,Straight Party,,United Citizens,UNC,2,0,0,2,0,0,0
+Lancaster,Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lancaster,Provisional,Straight Party,,Republican,REP,8,0,0,8,0,0,0
+Lancaster,Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lancaster,Provisional,Straight Party,,Democratic,DEM,14,0,0,14,0,0,0
+Lancaster,Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Lancaster,Rich Hill,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Lancaster,Rich Hill,Straight Party,,Republican,REP,375,138,0,0,0,2,235
+Lancaster,Rich Hill,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lancaster,Rich Hill,Straight Party,,Democratic,DEM,67,36,0,0,0,1,30
+Lancaster,Rich Hill,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,River Road,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Lancaster,River Road,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Lancaster,River Road,Straight Party,,Republican,REP,659,446,0,0,0,3,210
+Lancaster,River Road,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lancaster,River Road,Straight Party,,Democratic,DEM,526,405,0,0,0,20,101
+Lancaster,River Road,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Riverside,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+Lancaster,Riverside,Straight Party,,Green,GRN,3,1,0,0,0,0,2
+Lancaster,Riverside,Straight Party,,Republican,REP,186,81,0,0,0,2,103
+Lancaster,Riverside,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Lancaster,Riverside,Straight Party,,Democratic,DEM,215,160,0,0,0,0,55
+Lancaster,Riverside,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Six Mile Creek,Straight Party,,United Citizens,UNC,4,1,0,0,0,0,3
+Lancaster,Six Mile Creek,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Lancaster,Six Mile Creek,Straight Party,,Republican,REP,366,213,0,0,0,1,152
+Lancaster,Six Mile Creek,Straight Party,,Libertarian,LIB,5,2,0,0,0,0,3
+Lancaster,Six Mile Creek,Straight Party,,Democratic,DEM,315,227,0,0,0,6,82
+Lancaster,Six Mile Creek,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Lancaster,Springdale,Straight Party,,United Citizens,UNC,4,0,0,0,0,0,4
+Lancaster,Springdale,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lancaster,Springdale,Straight Party,,Republican,REP,220,91,0,0,0,0,129
+Lancaster,Springdale,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lancaster,Springdale,Straight Party,,Democratic,DEM,355,175,0,0,0,4,176
+Lancaster,Springdale,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,Straight Party,,Green,GRN,8,6,0,0,0,0,2
+Lancaster,Sun City Carolina Lakes,Straight Party,,Republican,REP,1646,1286,0,0,0,32,328
+Lancaster,Sun City Carolina Lakes,Straight Party,,Libertarian,LIB,1,1,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,Straight Party,,Democratic,DEM,1051,907,0,0,0,46,98
+Lancaster,Sun City Carolina Lakes,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Tradesville,Straight Party,,United Citizens,UNC,3,1,0,0,0,0,2
+Lancaster,Tradesville,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Lancaster,Tradesville,Straight Party,,Republican,REP,367,84,0,0,0,1,282
+Lancaster,Tradesville,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lancaster,Tradesville,Straight Party,,Democratic,DEM,86,36,0,0,0,3,47
+Lancaster,Tradesville,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Unity,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Lancaster,Unity,Straight Party,,Green,GRN,2,1,0,0,0,0,1
+Lancaster,Unity,Straight Party,,Republican,REP,331,111,0,0,0,0,220
+Lancaster,Unity,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lancaster,Unity,Straight Party,,Democratic,DEM,130,64,0,0,0,1,65
+Lancaster,Unity,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Lancaster,Van Wyck,Straight Party,,United Citizens,UNC,2,0,0,0,0,0,2
+Lancaster,Van Wyck,Straight Party,,Green,GRN,3,2,0,0,0,0,1
+Lancaster,Van Wyck,Straight Party,,Republican,REP,394,191,0,0,0,4,199
+Lancaster,Van Wyck,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Lancaster,Van Wyck,Straight Party,,Democratic,DEM,197,131,0,0,0,1,65
+Lancaster,Van Wyck,Straight Party,,Constitution,CON,2,1,0,0,0,0,1
+Lancaster,521 North,U.S. House,5,Wes Climer,REP,682,338,0,0,0,6,338
+Lancaster,521 North,U.S. House,5,Mallory Dittmer,DEM,417,271,0,0,0,9,137
+Lancaster,521 North,U.S. House,5,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Antioch,U.S. House,5,Wes Climer,REP,348,73,0,0,0,1,274
+Lancaster,Antioch,U.S. House,5,Mallory Dittmer,DEM,121,75,0,0,0,3,43
+Lancaster,Antioch,U.S. House,5,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Black Horse Run,U.S. House,5,Wes Climer,REP,1357,783,0,0,0,18,556
+Lancaster,Black Horse Run,U.S. House,5,Mallory Dittmer,DEM,1413,994,0,0,0,23,396
+Lancaster,Black Horse Run,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Buford,U.S. House,5,Wes Climer,REP,776,214,0,0,0,3,559
+Lancaster,Buford,U.S. House,5,Mallory Dittmer,DEM,209,93,0,0,0,8,108
+Lancaster,Buford,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Camp Creek,U.S. House,5,Wes Climer,REP,368,107,0,0,0,0,261
+Lancaster,Camp Creek,U.S. House,5,Mallory Dittmer,DEM,97,44,0,0,0,4,49
+Lancaster,Camp Creek,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Chesterfield Avenue,U.S. House,5,Wes Climer,REP,377,171,0,0,0,5,201
+Lancaster,Chesterfield Avenue,U.S. House,5,Mallory Dittmer,DEM,1080,652,0,0,0,15,413
+Lancaster,Chesterfield Avenue,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,College Park,U.S. House,5,Wes Climer,REP,1007,506,0,0,0,14,487
+Lancaster,College Park,U.S. House,5,Mallory Dittmer,DEM,693,450,0,0,0,10,233
+Lancaster,College Park,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Douglas,U.S. House,5,Wes Climer,REP,1038,460,0,0,0,3,575
+Lancaster,Douglas,U.S. House,5,Mallory Dittmer,DEM,912,616,0,0,0,12,284
+Lancaster,Douglas,U.S. House,5,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Elgin,U.S. House,5,Wes Climer,REP,440,151,0,0,0,2,287
+Lancaster,Elgin,U.S. House,5,Mallory Dittmer,DEM,292,160,0,0,0,6,126
+Lancaster,Elgin,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Erwin Farm,U.S. House,5,Wes Climer,REP,344,126,0,0,0,3,215
+Lancaster,Erwin Farm,U.S. House,5,Mallory Dittmer,DEM,483,259,0,0,0,9,215
+Lancaster,Erwin Farm,U.S. House,5,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Failsafe,U.S. House,5,Wes Climer,REP,14,0,0,0,14,0,0
+Lancaster,Failsafe,U.S. House,5,Mallory Dittmer,DEM,24,0,0,0,24,0,0
+Lancaster,Failsafe,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,U.S. House,5,Wes Climer,REP,12,0,12,0,0,0,0
+Lancaster,Failsafe Provisional,U.S. House,5,Mallory Dittmer,DEM,13,0,13,0,0,0,0
+Lancaster,Failsafe Provisional,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,U.S. House,5,Wes Climer,REP,377,99,0,0,0,0,278
+Lancaster,Flat Creek,U.S. House,5,Mallory Dittmer,DEM,72,25,0,0,0,2,45
+Lancaster,Flat Creek,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Gold Hill,U.S. House,5,Wes Climer,REP,939,625,0,0,0,5,309
+Lancaster,Gold Hill,U.S. House,5,Mallory Dittmer,DEM,603,476,0,0,0,12,115
+Lancaster,Gold Hill,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Harrisburg,U.S. House,5,Wes Climer,REP,1473,742,0,0,0,8,723
+Lancaster,Harrisburg,U.S. House,5,Mallory Dittmer,DEM,1540,962,0,0,0,22,556
+Lancaster,Harrisburg,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Heath Springs,U.S. House,5,Wes Climer,REP,486,189,0,0,0,2,295
+Lancaster,Heath Springs,U.S. House,5,Mallory Dittmer,DEM,342,199,0,0,0,3,140
+Lancaster,Heath Springs,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Hyde Park,U.S. House,5,Wes Climer,REP,600,256,0,0,0,5,339
+Lancaster,Hyde Park,U.S. House,5,Mallory Dittmer,DEM,469,240,0,0,0,2,227
+Lancaster,Hyde Park,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Jim Wilson,U.S. House,5,Wes Climer,REP,837,484,0,0,0,2,351
+Lancaster,Jim Wilson,U.S. House,5,Mallory Dittmer,DEM,812,577,0,0,0,11,224
+Lancaster,Jim Wilson,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Kershaw,U.S. House,5,Wes Climer,REP,1134,631,0,0,0,5,498
+Lancaster,Kershaw,U.S. House,5,Mallory Dittmer,DEM,450,257,0,0,0,2,191
+Lancaster,Kershaw,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,McIlwain,U.S. House,5,Wes Climer,REP,629,228,0,0,0,8,393
+Lancaster,McIlwain,U.S. House,5,Mallory Dittmer,DEM,593,321,0,0,0,0,272
+Lancaster,McIlwain,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Osceola,U.S. House,5,Wes Climer,REP,1067,629,0,0,0,2,436
+Lancaster,Osceola,U.S. House,5,Mallory Dittmer,DEM,1150,866,0,0,0,18,266
+Lancaster,Osceola,U.S. House,5,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Pleasant Hill,U.S. House,5,Wes Climer,REP,461,163,0,0,0,4,294
+Lancaster,Pleasant Hill,U.S. House,5,Mallory Dittmer,DEM,279,140,0,0,0,0,139
+Lancaster,Pleasant Hill,U.S. House,5,Write-In,NON,2,0,0,0,0,0,2
+Lancaster,Pleasant Valley,U.S. House,5,Wes Climer,REP,1132,530,0,0,0,10,592
+Lancaster,Pleasant Valley,U.S. House,5,Mallory Dittmer,DEM,1418,891,0,0,0,25,502
+Lancaster,Pleasant Valley,U.S. House,5,Write-In,NON,2,0,0,0,0,0,2
+Lancaster,Possum Hollow,U.S. House,5,Wes Climer,REP,883,477,0,0,0,10,396
+Lancaster,Possum Hollow,U.S. House,5,Mallory Dittmer,DEM,806,558,0,0,0,24,224
+Lancaster,Possum Hollow,U.S. House,5,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Provisional,U.S. House,5,Wes Climer,REP,13,0,0,13,0,0,0
+Lancaster,Provisional,U.S. House,5,Mallory Dittmer,DEM,18,0,0,18,0,0,0
+Lancaster,Provisional,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,U.S. House,5,Wes Climer,REP,576,209,0,0,0,2,365
+Lancaster,Rich Hill,U.S. House,5,Mallory Dittmer,DEM,113,62,0,0,0,2,49
+Lancaster,Rich Hill,U.S. House,5,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,River Road,U.S. House,5,Wes Climer,REP,993,654,0,0,0,8,331
+Lancaster,River Road,U.S. House,5,Mallory Dittmer,DEM,874,650,0,0,0,28,196
+Lancaster,River Road,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Riverside,U.S. House,5,Wes Climer,REP,269,114,0,0,0,3,152
+Lancaster,Riverside,U.S. House,5,Mallory Dittmer,DEM,306,215,0,0,0,1,90
+Lancaster,Riverside,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Six Mile Creek,U.S. House,5,Wes Climer,REP,547,304,0,0,0,2,241
+Lancaster,Six Mile Creek,U.S. House,5,Mallory Dittmer,DEM,586,403,0,0,0,17,166
+Lancaster,Six Mile Creek,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Springdale,U.S. House,5,Wes Climer,REP,318,126,0,0,0,0,192
+Lancaster,Springdale,U.S. House,5,Mallory Dittmer,DEM,481,245,0,0,0,8,228
+Lancaster,Springdale,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,U.S. House,5,Wes Climer,REP,2345,1814,0,0,0,51,480
+Lancaster,Sun City Carolina Lakes,U.S. House,5,Mallory Dittmer,DEM,1777,1514,0,0,0,68,195
+Lancaster,Sun City Carolina Lakes,U.S. House,5,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Tradesville,U.S. House,5,Wes Climer,REP,552,124,0,0,0,3,425
+Lancaster,Tradesville,U.S. House,5,Mallory Dittmer,DEM,137,49,0,0,0,3,85
+Lancaster,Tradesville,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Unity,U.S. House,5,Wes Climer,REP,510,149,0,0,0,1,360
+Lancaster,Unity,U.S. House,5,Mallory Dittmer,DEM,204,95,0,0,0,2,107
+Lancaster,Unity,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Van Wyck,U.S. House,5,Wes Climer,REP,607,282,0,0,0,5,320
+Lancaster,Van Wyck,U.S. House,5,Mallory Dittmer,DEM,342,226,0,0,0,3,113
+Lancaster,Van Wyck,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,521 North,U.S. Senate,,Darline Graham,REP,653,327,0,0,0,6,320
+Lancaster,521 North,U.S. Senate,,Kasie Whitener,LIB,12,5,0,0,0,0,7
+Lancaster,521 North,U.S. Senate,,Annie Andrews,DEM,429,275,0,0,0,9,145
+Lancaster,521 North,U.S. Senate,,Mark Hackett,CON,9,5,0,0,0,0,4
+Lancaster,521 North,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Antioch,U.S. Senate,,Darline Graham,REP,331,69,0,0,0,1,261
+Lancaster,Antioch,U.S. Senate,,Kasie Whitener,LIB,7,5,0,0,0,0,2
+Lancaster,Antioch,U.S. Senate,,Annie Andrews,DEM,127,74,0,0,0,3,50
+Lancaster,Antioch,U.S. Senate,,Mark Hackett,CON,4,0,0,0,0,0,4
+Lancaster,Antioch,U.S. Senate,,Write-In,NON,3,0,0,0,0,0,3
+Lancaster,Black Horse Run,U.S. Senate,,Darline Graham,REP,1252,736,0,0,0,17,499
+Lancaster,Black Horse Run,U.S. Senate,,Kasie Whitener,LIB,40,14,0,0,0,0,26
+Lancaster,Black Horse Run,U.S. Senate,,Annie Andrews,DEM,1458,1016,0,0,0,25,417
+Lancaster,Black Horse Run,U.S. Senate,,Mark Hackett,CON,24,15,0,0,0,0,9
+Lancaster,Black Horse Run,U.S. Senate,,Write-In,NON,8,2,0,0,0,0,6
+Lancaster,Buford,U.S. Senate,,Darline Graham,REP,738,201,0,0,0,3,534
+Lancaster,Buford,U.S. Senate,,Kasie Whitener,LIB,11,2,0,0,0,1,8
+Lancaster,Buford,U.S. Senate,,Annie Andrews,DEM,218,97,0,0,0,7,114
+Lancaster,Buford,U.S. Senate,,Mark Hackett,CON,17,8,0,0,0,0,9
+Lancaster,Buford,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Camp Creek,U.S. Senate,,Darline Graham,REP,354,104,0,0,0,0,250
+Lancaster,Camp Creek,U.S. Senate,,Kasie Whitener,LIB,9,2,0,0,0,0,7
+Lancaster,Camp Creek,U.S. Senate,,Annie Andrews,DEM,101,44,0,0,0,4,53
+Lancaster,Camp Creek,U.S. Senate,,Mark Hackett,CON,3,1,0,0,0,0,2
+Lancaster,Camp Creek,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Lancaster,Chesterfield Avenue,U.S. Senate,,Darline Graham,REP,341,163,0,0,0,4,174
+Lancaster,Chesterfield Avenue,U.S. Senate,,Kasie Whitener,LIB,15,0,0,0,0,0,15
+Lancaster,Chesterfield Avenue,U.S. Senate,,Annie Andrews,DEM,1095,659,0,0,0,15,421
+Lancaster,Chesterfield Avenue,U.S. Senate,,Mark Hackett,CON,9,2,0,0,0,0,7
+Lancaster,Chesterfield Avenue,U.S. Senate,,Write-In,NON,5,2,0,0,0,0,3
+Lancaster,College Park,U.S. Senate,,Darline Graham,REP,925,479,0,0,0,11,435
+Lancaster,College Park,U.S. Senate,,Kasie Whitener,LIB,23,11,0,0,0,0,12
+Lancaster,College Park,U.S. Senate,,Annie Andrews,DEM,751,475,0,0,0,13,263
+Lancaster,College Park,U.S. Senate,,Mark Hackett,CON,13,5,0,0,0,0,8
+Lancaster,College Park,U.S. Senate,,Write-In,NON,7,0,0,0,0,0,7
+Lancaster,Douglas,U.S. Senate,,Darline Graham,REP,976,440,0,0,0,2,534
+Lancaster,Douglas,U.S. Senate,,Kasie Whitener,LIB,14,5,0,0,0,0,9
+Lancaster,Douglas,U.S. Senate,,Annie Andrews,DEM,941,627,0,0,0,13,301
+Lancaster,Douglas,U.S. Senate,,Mark Hackett,CON,20,6,0,0,0,0,14
+Lancaster,Douglas,U.S. Senate,,Write-In,NON,2,1,0,0,0,0,1
+Lancaster,Elgin,U.S. Senate,,Darline Graham,REP,404,140,0,0,0,2,262
+Lancaster,Elgin,U.S. Senate,,Kasie Whitener,LIB,8,2,0,0,0,0,6
+Lancaster,Elgin,U.S. Senate,,Annie Andrews,DEM,314,166,0,0,0,6,142
+Lancaster,Elgin,U.S. Senate,,Mark Hackett,CON,10,4,0,0,0,0,6
+Lancaster,Elgin,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Erwin Farm,U.S. Senate,,Darline Graham,REP,343,127,0,0,0,3,213
+Lancaster,Erwin Farm,U.S. Senate,,Kasie Whitener,LIB,6,3,0,0,0,0,3
+Lancaster,Erwin Farm,U.S. Senate,,Annie Andrews,DEM,476,254,0,0,0,9,213
+Lancaster,Erwin Farm,U.S. Senate,,Mark Hackett,CON,3,1,0,0,0,0,2
+Lancaster,Erwin Farm,U.S. Senate,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Failsafe,U.S. Senate,,Darline Graham,REP,12,0,0,0,12,0,0
+Lancaster,Failsafe,U.S. Senate,,Kasie Whitener,LIB,2,0,0,0,2,0,0
+Lancaster,Failsafe,U.S. Senate,,Annie Andrews,DEM,24,0,0,0,24,0,0
+Lancaster,Failsafe,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Lancaster,Failsafe,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,U.S. Senate,,Darline Graham,REP,11,0,11,0,0,0,0
+Lancaster,Failsafe Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,14,0,14,0,0,0,0
+Lancaster,Failsafe Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Lancaster,Failsafe Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Flat Creek,U.S. Senate,,Darline Graham,REP,358,93,0,0,0,0,265
+Lancaster,Flat Creek,U.S. Senate,,Kasie Whitener,LIB,4,0,0,0,0,0,4
+Lancaster,Flat Creek,U.S. Senate,,Annie Andrews,DEM,81,28,0,0,0,2,51
+Lancaster,Flat Creek,U.S. Senate,,Mark Hackett,CON,6,2,0,0,0,0,4
+Lancaster,Flat Creek,U.S. Senate,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Gold Hill,U.S. Senate,,Darline Graham,REP,895,599,0,0,0,5,291
+Lancaster,Gold Hill,U.S. Senate,,Kasie Whitener,LIB,15,5,0,0,0,0,10
+Lancaster,Gold Hill,U.S. Senate,,Annie Andrews,DEM,629,496,0,0,0,12,121
+Lancaster,Gold Hill,U.S. Senate,,Mark Hackett,CON,4,2,0,0,0,0,2
+Lancaster,Gold Hill,U.S. Senate,,Write-In,NON,2,2,0,0,0,0,0
+Lancaster,Harrisburg,U.S. Senate,,Darline Graham,REP,1347,695,0,0,0,7,645
+Lancaster,Harrisburg,U.S. Senate,,Kasie Whitener,LIB,51,23,0,0,0,0,28
+Lancaster,Harrisburg,U.S. Senate,,Annie Andrews,DEM,1580,979,0,0,0,22,579
+Lancaster,Harrisburg,U.S. Senate,,Mark Hackett,CON,29,5,0,0,0,0,24
+Lancaster,Harrisburg,U.S. Senate,,Write-In,NON,9,4,0,0,0,1,4
+Lancaster,Heath Springs,U.S. Senate,,Darline Graham,REP,470,183,0,0,0,1,286
+Lancaster,Heath Springs,U.S. Senate,,Kasie Whitener,LIB,6,3,0,0,0,0,3
+Lancaster,Heath Springs,U.S. Senate,,Annie Andrews,DEM,347,204,0,0,0,3,140
+Lancaster,Heath Springs,U.S. Senate,,Mark Hackett,CON,6,2,0,0,0,0,4
+Lancaster,Heath Springs,U.S. Senate,,Write-In,NON,2,0,0,0,0,1,1
+Lancaster,Hyde Park,U.S. Senate,,Darline Graham,REP,561,245,0,0,0,5,311
+Lancaster,Hyde Park,U.S. Senate,,Kasie Whitener,LIB,17,5,0,0,0,0,12
+Lancaster,Hyde Park,U.S. Senate,,Annie Andrews,DEM,483,243,0,0,0,3,237
+Lancaster,Hyde Park,U.S. Senate,,Mark Hackett,CON,10,2,0,0,0,0,8
+Lancaster,Hyde Park,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Jim Wilson,U.S. Senate,,Darline Graham,REP,780,448,0,0,0,1,331
+Lancaster,Jim Wilson,U.S. Senate,,Kasie Whitener,LIB,23,10,0,0,0,0,13
+Lancaster,Jim Wilson,U.S. Senate,,Annie Andrews,DEM,843,597,0,0,0,11,235
+Lancaster,Jim Wilson,U.S. Senate,,Mark Hackett,CON,9,8,0,0,0,0,1
+Lancaster,Jim Wilson,U.S. Senate,,Write-In,NON,8,4,0,0,0,1,3
+Lancaster,Kershaw,U.S. Senate,,Darline Graham,REP,1071,594,0,0,0,5,472
+Lancaster,Kershaw,U.S. Senate,,Kasie Whitener,LIB,13,7,0,0,0,0,6
+Lancaster,Kershaw,U.S. Senate,,Annie Andrews,DEM,493,286,0,0,0,2,205
+Lancaster,Kershaw,U.S. Senate,,Mark Hackett,CON,9,2,0,0,0,0,7
+Lancaster,Kershaw,U.S. Senate,,Write-In,NON,4,0,0,0,0,0,4
+Lancaster,McIlwain,U.S. Senate,,Darline Graham,REP,591,213,0,0,0,8,370
+Lancaster,McIlwain,U.S. Senate,,Kasie Whitener,LIB,16,4,0,0,0,0,12
+Lancaster,McIlwain,U.S. Senate,,Annie Andrews,DEM,600,326,0,0,0,0,274
+Lancaster,McIlwain,U.S. Senate,,Mark Hackett,CON,12,3,0,0,0,0,9
+Lancaster,McIlwain,U.S. Senate,,Write-In,NON,3,2,0,0,0,0,1
+Lancaster,Osceola,U.S. Senate,,Darline Graham,REP,982,590,0,0,0,1,391
+Lancaster,Osceola,U.S. Senate,,Kasie Whitener,LIB,35,17,0,0,0,0,18
+Lancaster,Osceola,U.S. Senate,,Annie Andrews,DEM,1182,884,0,0,0,20,278
+Lancaster,Osceola,U.S. Senate,,Mark Hackett,CON,19,9,0,0,0,0,10
+Lancaster,Osceola,U.S. Senate,,Write-In,NON,8,3,0,0,0,0,5
+Lancaster,Pleasant Hill,U.S. Senate,,Darline Graham,REP,438,155,0,0,0,4,279
+Lancaster,Pleasant Hill,U.S. Senate,,Kasie Whitener,LIB,7,1,0,0,0,0,6
+Lancaster,Pleasant Hill,U.S. Senate,,Annie Andrews,DEM,294,145,0,0,0,0,149
+Lancaster,Pleasant Hill,U.S. Senate,,Mark Hackett,CON,3,1,0,0,0,0,2
+Lancaster,Pleasant Hill,U.S. Senate,,Write-In,NON,2,0,0,0,0,0,2
+Lancaster,Pleasant Valley,U.S. Senate,,Darline Graham,REP,1060,508,0,0,0,10,542
+Lancaster,Pleasant Valley,U.S. Senate,,Kasie Whitener,LIB,27,9,0,0,0,0,18
+Lancaster,Pleasant Valley,U.S. Senate,,Annie Andrews,DEM,1456,900,0,0,0,25,531
+Lancaster,Pleasant Valley,U.S. Senate,,Mark Hackett,CON,20,6,0,0,0,0,14
+Lancaster,Pleasant Valley,U.S. Senate,,Write-In,NON,9,3,0,0,0,0,6
+Lancaster,Possum Hollow,U.S. Senate,,Darline Graham,REP,823,446,0,0,0,8,369
+Lancaster,Possum Hollow,U.S. Senate,,Kasie Whitener,LIB,20,10,0,0,0,0,10
+Lancaster,Possum Hollow,U.S. Senate,,Annie Andrews,DEM,826,572,0,0,0,24,230
+Lancaster,Possum Hollow,U.S. Senate,,Mark Hackett,CON,18,5,0,0,0,2,11
+Lancaster,Possum Hollow,U.S. Senate,,Write-In,NON,8,4,0,0,0,0,4
+Lancaster,Provisional,U.S. Senate,,Darline Graham,REP,12,0,0,12,0,0,0
+Lancaster,Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Lancaster,Provisional,U.S. Senate,,Annie Andrews,DEM,19,0,0,19,0,0,0
+Lancaster,Provisional,U.S. Senate,,Mark Hackett,CON,1,0,0,1,0,0,0
+Lancaster,Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Lancaster,Rich Hill,U.S. Senate,,Darline Graham,REP,535,188,0,0,0,2,345
+Lancaster,Rich Hill,U.S. Senate,,Kasie Whitener,LIB,10,6,0,0,0,0,4
+Lancaster,Rich Hill,U.S. Senate,,Annie Andrews,DEM,132,75,0,0,0,2,55
+Lancaster,Rich Hill,U.S. Senate,,Mark Hackett,CON,10,3,0,0,0,0,7
+Lancaster,Rich Hill,U.S. Senate,,Write-In,NON,6,1,0,0,0,0,5
+Lancaster,River Road,U.S. Senate,,Darline Graham,REP,930,617,0,0,0,9,304
+Lancaster,River Road,U.S. Senate,,Kasie Whitener,LIB,28,15,0,0,0,0,13
+Lancaster,River Road,U.S. Senate,,Annie Andrews,DEM,906,674,0,0,0,28,204
+Lancaster,River Road,U.S. Senate,,Mark Hackett,CON,13,7,0,0,0,0,6
+Lancaster,River Road,U.S. Senate,,Write-In,NON,2,2,0,0,0,0,0
+Lancaster,Riverside,U.S. Senate,,Darline Graham,REP,254,106,0,0,0,3,145
+Lancaster,Riverside,U.S. Senate,,Kasie Whitener,LIB,12,5,0,0,0,0,7
+Lancaster,Riverside,U.S. Senate,,Annie Andrews,DEM,307,218,0,0,0,1,88
+Lancaster,Riverside,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Lancaster,Riverside,U.S. Senate,,Write-In,NON,3,2,0,0,0,0,1
+Lancaster,Six Mile Creek,U.S. Senate,,Darline Graham,REP,498,280,0,0,0,2,216
+Lancaster,Six Mile Creek,U.S. Senate,,Kasie Whitener,LIB,22,15,0,0,0,0,7
+Lancaster,Six Mile Creek,U.S. Senate,,Annie Andrews,DEM,596,406,0,0,0,17,173
+Lancaster,Six Mile Creek,U.S. Senate,,Mark Hackett,CON,13,6,0,0,0,0,7
+Lancaster,Six Mile Creek,U.S. Senate,,Write-In,NON,6,2,0,0,0,0,4
+Lancaster,Springdale,U.S. Senate,,Darline Graham,REP,305,122,0,0,0,0,183
+Lancaster,Springdale,U.S. Senate,,Kasie Whitener,LIB,3,0,0,0,0,0,3
+Lancaster,Springdale,U.S. Senate,,Annie Andrews,DEM,487,248,0,0,0,8,231
+Lancaster,Springdale,U.S. Senate,,Mark Hackett,CON,7,2,0,0,0,0,5
+Lancaster,Springdale,U.S. Senate,,Write-In,NON,1,1,0,0,0,0,0
+Lancaster,Sun City Carolina Lakes,U.S. Senate,,Darline Graham,REP,2227,1719,0,0,0,47,461
+Lancaster,Sun City Carolina Lakes,U.S. Senate,,Kasie Whitener,LIB,37,28,0,0,0,0,9
+Lancaster,Sun City Carolina Lakes,U.S. Senate,,Annie Andrews,DEM,1847,1577,0,0,0,72,198
+Lancaster,Sun City Carolina Lakes,U.S. Senate,,Mark Hackett,CON,13,11,0,0,0,0,2
+Lancaster,Sun City Carolina Lakes,U.S. Senate,,Write-In,NON,3,3,0,0,0,0,0
+Lancaster,Tradesville,U.S. Senate,,Darline Graham,REP,515,113,0,0,0,3,399
+Lancaster,Tradesville,U.S. Senate,,Kasie Whitener,LIB,17,4,0,0,0,0,13
+Lancaster,Tradesville,U.S. Senate,,Annie Andrews,DEM,142,50,0,0,0,3,89
+Lancaster,Tradesville,U.S. Senate,,Mark Hackett,CON,12,4,0,0,0,0,8
+Lancaster,Tradesville,U.S. Senate,,Write-In,NON,3,2,0,0,0,0,1
+Lancaster,Unity,U.S. Senate,,Darline Graham,REP,471,141,0,0,0,0,330
+Lancaster,Unity,U.S. Senate,,Kasie Whitener,LIB,9,0,0,0,0,0,9
+Lancaster,Unity,U.S. Senate,,Annie Andrews,DEM,220,99,0,0,0,2,119
+Lancaster,Unity,U.S. Senate,,Mark Hackett,CON,9,1,0,0,0,1,7
+Lancaster,Unity,U.S. Senate,,Write-In,NON,5,3,0,0,0,0,2
+Lancaster,Van Wyck,U.S. Senate,,Darline Graham,REP,566,265,0,0,0,6,295
+Lancaster,Van Wyck,U.S. Senate,,Kasie Whitener,LIB,14,5,0,0,0,0,9
+Lancaster,Van Wyck,U.S. Senate,,Annie Andrews,DEM,358,235,0,0,0,2,121
+Lancaster,Van Wyck,U.S. Senate,,Mark Hackett,CON,13,3,0,0,0,0,10
+Lancaster,Van Wyck,U.S. Senate,,Write-In,NON,2,1,0,0,0,0,1

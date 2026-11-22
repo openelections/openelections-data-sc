@@ -1,0 +1,735 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Allendale,Allendale No. 1,Attorney General,,David Stumbo,REP,76,48,0,0,0,2,26
+Allendale,Allendale No. 1,Attorney General,,Richard Hricik,DEM,409,298,0,0,0,9,102
+Allendale,Allendale No. 1,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,Attorney General,,David Stumbo,REP,9,6,0,0,0,1,2
+Allendale,Allendale No. 2,Attorney General,,Richard Hricik,DEM,432,335,0,0,0,8,89
+Allendale,Allendale No. 2,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Allendale,Failsafe,Attorney General,,Richard Hricik,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Attorney General,,Richard Hricik,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Attorney General,,David Stumbo,REP,55,30,0,0,0,0,25
+Allendale,Fairfax No. 2,Attorney General,,Richard Hricik,DEM,417,275,0,0,0,9,133
+Allendale,Fairfax No. 2,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Attorney General,,David Stumbo,REP,70,36,0,0,0,0,34
+Allendale,Fairfax No.1,Attorney General,,Richard Hricik,DEM,166,92,0,0,0,3,71
+Allendale,Fairfax No.1,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,Attorney General,,David Stumbo,REP,43,7,0,0,0,2,34
+Allendale,Martin,Attorney General,,Richard Hricik,DEM,122,56,0,0,0,1,65
+Allendale,Martin,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Allendale,Provisional,Attorney General,,Richard Hricik,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,Attorney General,,David Stumbo,REP,125,28,0,0,0,0,97
+Allendale,Sycamore,Attorney General,,Richard Hricik,DEM,55,31,0,0,0,0,24
+Allendale,Sycamore,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Ulmer,Attorney General,,David Stumbo,REP,65,8,0,0,0,0,57
+Allendale,Ulmer,Attorney General,,Richard Hricik,DEM,46,26,0,0,0,1,19
+Allendale,Ulmer,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,Attorney General,,David Stumbo,REP,113,61,0,0,0,1,51
+Allendale,Woods,Attorney General,,Richard Hricik,DEM,275,197,0,0,0,9,69
+Allendale,Woods,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,Auditor,,Crystal Isham,DEM,451,325,0,0,0,11,115
+Allendale,Allendale No. 1,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,Auditor,,Crystal Isham,DEM,444,341,0,0,0,9,94
+Allendale,Allendale No. 2,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,Auditor,,Crystal Isham,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Auditor,,Crystal Isham,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Auditor,,Crystal Isham,DEM,455,296,0,0,0,9,150
+Allendale,Fairfax No. 2,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Auditor,,Crystal Isham,DEM,199,107,0,0,0,3,89
+Allendale,Fairfax No.1,Auditor,,Write-In,NON,1,1,0,0,0,0,0
+Allendale,Martin,Auditor,,Crystal Isham,DEM,139,60,0,0,0,2,77
+Allendale,Martin,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Allendale,Provisional,Auditor,,Crystal Isham,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,Auditor,,Crystal Isham,DEM,125,48,0,0,0,0,77
+Allendale,Sycamore,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Ulmer,Auditor,,Crystal Isham,DEM,81,27,0,0,0,1,53
+Allendale,Ulmer,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,Auditor,,Crystal Isham,DEM,334,228,0,0,0,9,97
+Allendale,Woods,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,City Council - Allendale,,Trina Badger,NON,183,126,0,0,0,5,52
+Allendale,Allendale No. 1,City Council - Allendale,,Tommy Capers,NON,108,73,0,0,0,3,32
+Allendale,Allendale No. 1,City Council - Allendale,,Larry Cohen,NON,121,77,0,0,0,2,42
+Allendale,Allendale No. 1,City Council - Allendale,,Deborah A Creech,NON,116,91,0,0,0,4,21
+Allendale,Allendale No. 1,City Council - Allendale,,Lee Harley Fitts,NON,97,69,0,0,0,2,26
+Allendale,Allendale No. 1,City Council - Allendale,,Nathaniel Nate Hartley,NON,149,119,0,0,0,4,26
+Allendale,Allendale No. 1,City Council - Allendale,,Glam Montgomery,NON,23,15,0,0,0,1,7
+Allendale,Allendale No. 1,City Council - Allendale,,Kathy Tharin,NON,84,62,0,0,0,2,20
+Allendale,Allendale No. 1,City Council - Allendale,,Write-In,NON,1,0,0,0,0,0,1
+Allendale,Allendale No. 2,City Council - Allendale,,Trina Badger,NON,249,182,0,0,0,4,63
+Allendale,Allendale No. 2,City Council - Allendale,,Tommy Capers,NON,143,104,0,0,0,7,32
+Allendale,Allendale No. 2,City Council - Allendale,,Larry Cohen,NON,180,152,0,0,0,2,26
+Allendale,Allendale No. 2,City Council - Allendale,,Deborah A Creech,NON,158,132,0,0,0,2,24
+Allendale,Allendale No. 2,City Council - Allendale,,Lee Harley Fitts,NON,89,68,0,0,0,2,19
+Allendale,Allendale No. 2,City Council - Allendale,,Nathaniel Nate Hartley,NON,182,144,0,0,0,7,31
+Allendale,Allendale No. 2,City Council - Allendale,,Glam Montgomery,NON,24,17,0,0,0,0,7
+Allendale,Allendale No. 2,City Council - Allendale,,Kathy Tharin,NON,46,37,0,0,0,3,6
+Allendale,Allendale No. 2,City Council - Allendale,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,City Council - Allendale,,Trina Badger,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,City Council - Allendale,,Tommy Capers,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,City Council - Allendale,,Larry Cohen,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,City Council - Allendale,,Deborah A Creech,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,City Council - Allendale,,Lee Harley Fitts,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,City Council - Allendale,,Nathaniel Nate Hartley,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,City Council - Allendale,,Glam Montgomery,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,City Council - Allendale,,Kathy Tharin,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,City Council - Allendale,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,City Council - Allendale,,Trina Badger,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,City Council - Allendale,,Tommy Capers,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,City Council - Allendale,,Larry Cohen,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,City Council - Allendale,,Deborah A Creech,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,City Council - Allendale,,Lee Harley Fitts,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,City Council - Allendale,,Nathaniel Nate Hartley,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,City Council - Allendale,,Glam Montgomery,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,City Council - Allendale,,Kathy Tharin,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,City Council - Allendale,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,City Council - Allendale,,Trina Badger,NON,0,0,0,0,0,0,0
+Allendale,Provisional,City Council - Allendale,,Tommy Capers,NON,0,0,0,0,0,0,0
+Allendale,Provisional,City Council - Allendale,,Larry Cohen,NON,0,0,0,0,0,0,0
+Allendale,Provisional,City Council - Allendale,,Deborah A Creech,NON,0,0,0,0,0,0,0
+Allendale,Provisional,City Council - Allendale,,Lee Harley Fitts,NON,0,0,0,0,0,0,0
+Allendale,Provisional,City Council - Allendale,,Nathaniel Nate Hartley,NON,0,0,0,0,0,0,0
+Allendale,Provisional,City Council - Allendale,,Glam Montgomery,NON,0,0,0,0,0,0,0
+Allendale,Provisional,City Council - Allendale,,Kathy Tharin,NON,0,0,0,0,0,0,0
+Allendale,Provisional,City Council - Allendale,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,City Council - Allendale,,Trina Badger,NON,27,18,0,0,0,0,9
+Allendale,Woods,City Council - Allendale,,Tommy Capers,NON,12,8,0,0,0,0,4
+Allendale,Woods,City Council - Allendale,,Larry Cohen,NON,17,14,0,0,0,0,3
+Allendale,Woods,City Council - Allendale,,Deborah A Creech,NON,15,14,0,0,0,0,1
+Allendale,Woods,City Council - Allendale,,Lee Harley Fitts,NON,15,13,0,0,0,0,2
+Allendale,Woods,City Council - Allendale,,Nathaniel Nate Hartley,NON,18,16,0,0,0,0,2
+Allendale,Woods,City Council - Allendale,,Glam Montgomery,NON,4,2,0,0,0,0,2
+Allendale,Woods,City Council - Allendale,,Kathy Tharin,NON,3,2,0,0,0,0,1
+Allendale,Woods,City Council - Allendale,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,Clerk of Court,,Elaine Sabb,DEM,455,325,0,0,0,11,119
+Allendale,Allendale No. 1,Clerk of Court,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,Clerk of Court,,Elaine Sabb,DEM,445,342,0,0,0,9,94
+Allendale,Allendale No. 2,Clerk of Court,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,Clerk of Court,,Elaine Sabb,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,Clerk of Court,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Clerk of Court,,Elaine Sabb,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Clerk of Court,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Clerk of Court,,Elaine Sabb,DEM,458,300,0,0,0,9,149
+Allendale,Fairfax No. 2,Clerk of Court,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Clerk of Court,,Elaine Sabb,DEM,210,113,0,0,0,3,94
+Allendale,Fairfax No.1,Clerk of Court,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,Clerk of Court,,Elaine Sabb,DEM,141,58,0,0,0,3,80
+Allendale,Martin,Clerk of Court,,Write-In,NON,1,0,0,0,0,0,1
+Allendale,Provisional,Clerk of Court,,Elaine Sabb,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,Clerk of Court,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,Clerk of Court,,Elaine Sabb,DEM,131,50,0,0,0,0,81
+Allendale,Sycamore,Clerk of Court,,Write-In,NON,2,2,0,0,0,0,0
+Allendale,Ulmer,Clerk of Court,,Elaine Sabb,DEM,82,28,0,0,0,1,53
+Allendale,Ulmer,Clerk of Court,,Write-In,NON,1,0,0,0,0,0,1
+Allendale,Woods,Clerk of Court,,Elaine Sabb,DEM,340,234,0,0,0,8,98
+Allendale,Woods,Clerk of Court,,Write-In,NON,1,0,0,0,0,1,0
+Allendale,Allendale No. 1,Commissioner of Agriculture,,Chris Nelums,UNC,9,7,0,0,0,0,2
+Allendale,Allendale No. 1,Commissioner of Agriculture,,Cody Simpson,REP,76,46,0,0,0,2,28
+Allendale,Allendale No. 1,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+Allendale,Allendale No. 1,Commissioner of Agriculture,,DeShawn Blanding,DEM,405,295,0,0,0,9,101
+Allendale,Allendale No. 1,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,Commissioner of Agriculture,,Chris Nelums,UNC,8,6,0,0,0,0,2
+Allendale,Allendale No. 2,Commissioner of Agriculture,,Cody Simpson,REP,9,5,0,0,0,1,3
+Allendale,Allendale No. 2,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,Commissioner of Agriculture,,DeShawn Blanding,DEM,427,328,0,0,0,8,91
+Allendale,Allendale No. 2,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Allendale,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Allendale,Failsafe,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Allendale,Failsafe,Commissioner of Agriculture,,DeShawn Blanding,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Commissioner of Agriculture,,Chris Nelums,UNC,5,3,0,0,0,0,2
+Allendale,Fairfax No. 2,Commissioner of Agriculture,,Cody Simpson,REP,54,29,0,0,0,0,25
+Allendale,Fairfax No. 2,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Commissioner of Agriculture,,DeShawn Blanding,DEM,418,276,0,0,0,9,133
+Allendale,Fairfax No. 2,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Commissioner of Agriculture,,Cody Simpson,REP,73,38,0,0,0,0,35
+Allendale,Fairfax No.1,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Commissioner of Agriculture,,DeShawn Blanding,DEM,166,92,0,0,0,3,71
+Allendale,Fairfax No.1,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Allendale,Martin,Commissioner of Agriculture,,Cody Simpson,REP,40,6,0,0,0,2,32
+Allendale,Martin,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Allendale,Martin,Commissioner of Agriculture,,DeShawn Blanding,DEM,124,57,0,0,0,1,66
+Allendale,Martin,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Allendale,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Allendale,Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Allendale,Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Allendale,Sycamore,Commissioner of Agriculture,,Cody Simpson,REP,131,31,0,0,0,0,100
+Allendale,Sycamore,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+Allendale,Sycamore,Commissioner of Agriculture,,DeShawn Blanding,DEM,51,29,0,0,0,0,22
+Allendale,Sycamore,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Ulmer,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Allendale,Ulmer,Commissioner of Agriculture,,Cody Simpson,REP,63,7,0,0,0,0,56
+Allendale,Ulmer,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+Allendale,Ulmer,Commissioner of Agriculture,,DeShawn Blanding,DEM,45,25,0,0,0,1,19
+Allendale,Ulmer,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,Commissioner of Agriculture,,Chris Nelums,UNC,6,3,0,0,0,0,3
+Allendale,Woods,Commissioner of Agriculture,,Cody Simpson,REP,110,58,0,0,0,1,51
+Allendale,Woods,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+Allendale,Woods,Commissioner of Agriculture,,DeShawn Blanding,DEM,273,198,0,0,0,9,66
+Allendale,Woods,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,Comptroller General,,Mike Burkhold,REP,73,43,0,0,0,2,28
+Allendale,Allendale No. 1,Comptroller General,,Tiffany Boozer,DEM,417,305,0,0,0,9,103
+Allendale,Allendale No. 1,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,Comptroller General,,Mike Burkhold,REP,7,4,0,0,0,1,2
+Allendale,Allendale No. 2,Comptroller General,,Tiffany Boozer,DEM,435,335,0,0,0,8,92
+Allendale,Allendale No. 2,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,Comptroller General,,Mike Burkhold,REP,0,0,0,0,0,0,0
+Allendale,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Comptroller General,,Mike Burkhold,REP,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Comptroller General,,Mike Burkhold,REP,57,32,0,0,0,0,25
+Allendale,Fairfax No. 2,Comptroller General,,Tiffany Boozer,DEM,416,272,0,0,0,9,135
+Allendale,Fairfax No. 2,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Comptroller General,,Mike Burkhold,REP,68,37,0,0,0,0,31
+Allendale,Fairfax No.1,Comptroller General,,Tiffany Boozer,DEM,170,92,0,0,0,3,75
+Allendale,Fairfax No.1,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,Comptroller General,,Mike Burkhold,REP,41,6,0,0,0,2,33
+Allendale,Martin,Comptroller General,,Tiffany Boozer,DEM,122,56,0,0,0,1,65
+Allendale,Martin,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,Comptroller General,,Mike Burkhold,REP,0,0,0,0,0,0,0
+Allendale,Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,Comptroller General,,Mike Burkhold,REP,125,29,0,0,0,0,96
+Allendale,Sycamore,Comptroller General,,Tiffany Boozer,DEM,58,32,0,0,0,0,26
+Allendale,Sycamore,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Ulmer,Comptroller General,,Mike Burkhold,REP,65,7,0,0,0,0,58
+Allendale,Ulmer,Comptroller General,,Tiffany Boozer,DEM,44,25,0,0,0,1,18
+Allendale,Ulmer,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,Comptroller General,,Mike Burkhold,REP,109,59,0,0,0,1,49
+Allendale,Woods,Comptroller General,,Tiffany Boozer,DEM,276,198,0,0,0,9,69
+Allendale,Woods,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,Coroner,,Renique Riley-Spiller,DEM,454,324,0,0,0,11,119
+Allendale,Allendale No. 1,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,Coroner,,Renique Riley-Spiller,DEM,443,339,0,0,0,9,95
+Allendale,Allendale No. 2,Coroner,,Write-In,NON,1,1,0,0,0,0,0
+Allendale,Failsafe,Coroner,,Renique Riley-Spiller,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Coroner,,Renique Riley-Spiller,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Coroner,,Renique Riley-Spiller,DEM,452,295,0,0,0,9,148
+Allendale,Fairfax No. 2,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Coroner,,Renique Riley-Spiller,DEM,200,107,0,0,0,3,90
+Allendale,Fairfax No.1,Coroner,,Write-In,NON,1,1,0,0,0,0,0
+Allendale,Martin,Coroner,,Renique Riley-Spiller,DEM,143,60,0,0,0,3,80
+Allendale,Martin,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,Coroner,,Renique Riley-Spiller,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,Coroner,,Renique Riley-Spiller,DEM,127,47,0,0,0,0,80
+Allendale,Sycamore,Coroner,,Write-In,NON,1,1,0,0,0,0,0
+Allendale,Ulmer,Coroner,,Renique Riley-Spiller,DEM,83,28,0,0,0,1,54
+Allendale,Ulmer,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,Coroner,,Renique Riley-Spiller,DEM,335,230,0,0,0,9,96
+Allendale,Woods,Coroner,,Write-In,NON,1,0,0,0,0,0,1
+Allendale,Allendale No. 1,County Council District 2,,James White,DEM,448,324,0,0,0,10,114
+Allendale,Allendale No. 1,County Council District 2,,Write-In,NON,3,2,0,0,0,1,0
+Allendale,Failsafe,County Council District 2,,James White,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 2,,James White,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,County Council District 2,,James White,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,County Council District 3,,Willa Marian Jennings,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,County Council District 3,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 3,,Willa Marian Jennings,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 3,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,County Council District 3,,Willa Marian Jennings,DEM,139,60,0,0,0,3,76
+Allendale,Martin,County Council District 3,,Write-In,NON,1,0,0,0,0,0,1
+Allendale,Provisional,County Council District 3,,Willa Marian Jennings,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,County Council District 3,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,County Council District 3,,Willa Marian Jennings,DEM,315,215,0,0,0,8,92
+Allendale,Woods,County Council District 3,,Write-In,NON,11,6,0,0,0,1,4
+Allendale,Allendale No. 2,County Council District 5,,Bill Robinson,DEM,441,338,0,0,0,9,94
+Allendale,Allendale No. 2,County Council District 5,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,County Council District 5,,Bill Robinson,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,County Council District 5,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 5,,Bill Robinson,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Council District 5,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,County Council District 5,,Bill Robinson,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,County Council District 5,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,County Treasurer,,Valaree Chess Smith,DEM,451,324,0,0,0,11,116
+Allendale,Allendale No. 1,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Allendale,Allendale No. 2,County Treasurer,,Valaree Chess Smith,DEM,448,345,0,0,0,9,94
+Allendale,Allendale No. 2,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,County Treasurer,,Valaree Chess Smith,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Treasurer,,Valaree Chess Smith,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,County Treasurer,,Valaree Chess Smith,DEM,452,294,0,0,0,9,149
+Allendale,Fairfax No. 2,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,County Treasurer,,Valaree Chess Smith,DEM,200,108,0,0,0,3,89
+Allendale,Fairfax No.1,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,County Treasurer,,Valaree Chess Smith,DEM,139,60,0,0,0,3,76
+Allendale,Martin,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Allendale,Provisional,County Treasurer,,Valaree Chess Smith,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,County Treasurer,,Valaree Chess Smith,DEM,127,47,0,0,0,0,80
+Allendale,Sycamore,County Treasurer,,Write-In,NON,2,2,0,0,0,0,0
+Allendale,Ulmer,County Treasurer,,Valaree Chess Smith,DEM,78,27,0,0,0,1,50
+Allendale,Ulmer,County Treasurer,,Write-In,NON,2,0,0,0,0,0,2
+Allendale,Woods,County Treasurer,,Valaree Chess Smith,DEM,328,224,0,0,0,9,95
+Allendale,Woods,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Allendale,Allendale No. 1,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,11,8,0,0,0,0,3
+Allendale,Allendale No. 1,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Allendale,Allendale No. 1,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,72,49,0,0,0,1,22
+Allendale,Allendale No. 1,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,406,293,0,0,0,10,103
+Allendale,Allendale No. 1,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,13,10,0,0,0,0,3
+Allendale,Allendale No. 2,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,2,0,0,0,0,0
+Allendale,Allendale No. 2,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,7,4,0,0,0,1,2
+Allendale,Allendale No. 2,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,427,329,0,0,0,8,90
+Allendale,Allendale No. 2,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Allendale,Failsafe,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Allendale,Failsafe,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,0,0,0,0,0,0,0
+Allendale,Failsafe,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,5,0,0,0,0,2
+Allendale,Fairfax No. 2,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,55,30,0,0,0,0,25
+Allendale,Fairfax No. 2,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,414,273,0,0,0,9,132
+Allendale,Fairfax No. 2,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,0,0,0,0,0,2
+Allendale,Fairfax No.1,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,71,38,0,0,0,0,33
+Allendale,Fairfax No.1,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,167,92,0,0,0,4,71
+Allendale,Fairfax No.1,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,1,0,0,0,0,1
+Allendale,Martin,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Allendale,Martin,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,39,5,0,0,0,2,32
+Allendale,Martin,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,124,57,0,0,0,1,66
+Allendale,Martin,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Allendale,Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Allendale,Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,0,0,0,0,0,0,0
+Allendale,Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Allendale,Sycamore,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Allendale,Sycamore,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,127,31,0,0,0,0,96
+Allendale,Sycamore,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,55,29,0,0,0,0,26
+Allendale,Sycamore,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Ulmer,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Allendale,Ulmer,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Allendale,Ulmer,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,66,9,0,0,0,0,57
+Allendale,Ulmer,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,45,26,0,0,0,1,18
+Allendale,Ulmer,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,10,5,0,0,0,1,4
+Allendale,Woods,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Allendale,Woods,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,109,59,0,0,0,1,49
+Allendale,Woods,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,272,198,0,0,0,8,66
+Allendale,Woods,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,Probate Judge,,D Keith Smith,DEM,456,325,0,0,0,11,120
+Allendale,Allendale No. 1,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,Probate Judge,,D Keith Smith,DEM,444,340,0,0,0,9,95
+Allendale,Allendale No. 2,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,Probate Judge,,D Keith Smith,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Probate Judge,,D Keith Smith,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Probate Judge,,D Keith Smith,DEM,460,298,0,0,0,9,153
+Allendale,Fairfax No. 2,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Probate Judge,,D Keith Smith,DEM,212,114,0,0,0,3,95
+Allendale,Fairfax No.1,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,Probate Judge,,D Keith Smith,DEM,147,58,0,0,0,3,86
+Allendale,Martin,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,Probate Judge,,D Keith Smith,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,Probate Judge,,D Keith Smith,DEM,148,51,0,0,0,0,97
+Allendale,Sycamore,Probate Judge,,Write-In,NON,2,2,0,0,0,0,0
+Allendale,Ulmer,Probate Judge,,D Keith Smith,DEM,100,35,0,0,0,1,64
+Allendale,Ulmer,Probate Judge,,Write-In,NON,1,0,0,0,0,0,1
+Allendale,Woods,Probate Judge,,D Keith Smith,DEM,357,243,0,0,0,8,106
+Allendale,Woods,Probate Judge,,Write-In,NON,1,0,0,0,0,1,0
+Allendale,Allendale No. 1,School Board District 2,,Write-In,NON,42,33,0,0,0,4,5
+Allendale,Failsafe,School Board District 2,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,School Board District 2,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,School Board District 2,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,School Board District 4,,Catherine L Russell,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,School Board District 4,,Catherine L Russell,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,School Board District 4,,Catherine L Russell,NON,122,59,0,0,0,5,58
+Allendale,Fairfax No.1,School Board District 4,,Write-In,NON,6,6,0,0,0,0,0
+Allendale,Provisional,School Board District 4,,Catherine L Russell,NON,0,0,0,0,0,0,0
+Allendale,Provisional,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,School Board District 4,,Catherine L Russell,NON,106,34,0,0,0,0,72
+Allendale,Sycamore,School Board District 4,,Write-In,NON,1,1,0,0,0,0,0
+Allendale,Ulmer,School Board District 4,,Catherine L Russell,NON,55,8,0,0,0,1,46
+Allendale,Ulmer,School Board District 4,,Write-In,NON,1,0,0,0,0,0,1
+Allendale,Allendale No. 1,Secretary of State,,Mark Hammond,REP,86,56,0,0,0,2,28
+Allendale,Allendale No. 1,Secretary of State,,Jason Belton,DEM,401,292,0,0,0,9,100
+Allendale,Allendale No. 1,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,Secretary of State,,Mark Hammond,REP,8,5,0,0,0,1,2
+Allendale,Allendale No. 2,Secretary of State,,Jason Belton,DEM,434,337,0,0,0,8,89
+Allendale,Allendale No. 2,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,Secretary of State,,Mark Hammond,REP,0,0,0,0,0,0,0
+Allendale,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Secretary of State,,Mark Hammond,REP,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Secretary of State,,Mark Hammond,REP,58,33,0,0,0,0,25
+Allendale,Fairfax No. 2,Secretary of State,,Jason Belton,DEM,417,275,0,0,0,9,133
+Allendale,Fairfax No. 2,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Secretary of State,,Mark Hammond,REP,75,39,0,0,0,2,34
+Allendale,Fairfax No.1,Secretary of State,,Jason Belton,DEM,164,92,0,0,0,1,71
+Allendale,Fairfax No.1,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,Secretary of State,,Mark Hammond,REP,42,6,0,0,0,2,34
+Allendale,Martin,Secretary of State,,Jason Belton,DEM,123,57,0,0,0,1,65
+Allendale,Martin,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,Secretary of State,,Mark Hammond,REP,0,0,0,0,0,0,0
+Allendale,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,Secretary of State,,Mark Hammond,REP,129,31,0,0,0,0,98
+Allendale,Sycamore,Secretary of State,,Jason Belton,DEM,52,28,0,0,0,0,24
+Allendale,Sycamore,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Ulmer,Secretary of State,,Mark Hammond,REP,67,9,0,0,0,0,58
+Allendale,Ulmer,Secretary of State,,Jason Belton,DEM,45,26,0,0,0,1,18
+Allendale,Ulmer,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,Secretary of State,,Mark Hammond,REP,115,62,0,0,0,1,52
+Allendale,Woods,Secretary of State,,Jason Belton,DEM,273,198,0,0,0,9,66
+Allendale,Woods,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,Sheriff,,James Freeman,DEM,449,324,0,0,0,11,114
+Allendale,Allendale No. 1,Sheriff,,Write-In,NON,6,1,0,0,0,0,5
+Allendale,Allendale No. 2,Sheriff,,James Freeman,DEM,435,333,0,0,0,9,93
+Allendale,Allendale No. 2,Sheriff,,Write-In,NON,2,2,0,0,0,0,0
+Allendale,Failsafe,Sheriff,,James Freeman,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,Sheriff,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Sheriff,,James Freeman,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Sheriff,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Sheriff,,James Freeman,DEM,449,295,0,0,0,8,146
+Allendale,Fairfax No. 2,Sheriff,,Write-In,NON,1,0,0,0,0,1,0
+Allendale,Fairfax No.1,Sheriff,,James Freeman,DEM,196,109,0,0,0,3,84
+Allendale,Fairfax No.1,Sheriff,,Write-In,NON,2,1,0,0,0,0,1
+Allendale,Martin,Sheriff,,James Freeman,DEM,137,57,0,0,0,3,77
+Allendale,Martin,Sheriff,,Write-In,NON,2,1,0,0,0,0,1
+Allendale,Provisional,Sheriff,,James Freeman,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,Sheriff,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,Sheriff,,James Freeman,DEM,136,49,0,0,0,0,87
+Allendale,Sycamore,Sheriff,,Write-In,NON,4,2,0,0,0,0,2
+Allendale,Ulmer,Sheriff,,James Freeman,DEM,90,30,0,0,0,1,59
+Allendale,Ulmer,Sheriff,,Write-In,NON,3,0,0,0,0,0,3
+Allendale,Woods,Sheriff,,James Freeman,DEM,342,232,0,0,0,8,102
+Allendale,Woods,Sheriff,,Write-In,NON,6,5,0,0,0,1,0
+Allendale,Allendale No. 1,Soil and Water District Commission,,Mark Connelly,NON,168,120,0,0,0,6,42
+Allendale,Allendale No. 1,Soil and Water District Commission,,Joe Oswald IV,NON,142,101,0,0,0,6,35
+Allendale,Allendale No. 1,Soil and Water District Commission,,Write-In,NON,1,1,0,0,0,0,0
+Allendale,Allendale No. 2,Soil and Water District Commission,,Mark Connelly,NON,129,97,0,0,0,6,26
+Allendale,Allendale No. 2,Soil and Water District Commission,,Joe Oswald IV,NON,91,59,0,0,0,8,24
+Allendale,Allendale No. 2,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,Soil and Water District Commission,,Mark Connelly,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,Soil and Water District Commission,,Joe Oswald IV,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Soil and Water District Commission,,Mark Connelly,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Soil and Water District Commission,,Joe Oswald IV,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Soil and Water District Commission,,Mark Connelly,NON,141,85,0,0,0,6,50
+Allendale,Fairfax No. 2,Soil and Water District Commission,,Joe Oswald IV,NON,116,79,0,0,0,1,36
+Allendale,Fairfax No. 2,Soil and Water District Commission,,Write-In,NON,2,2,0,0,0,0,0
+Allendale,Fairfax No.1,Soil and Water District Commission,,Mark Connelly,NON,92,49,0,0,0,2,41
+Allendale,Fairfax No.1,Soil and Water District Commission,,Joe Oswald IV,NON,76,40,0,0,0,2,34
+Allendale,Fairfax No.1,Soil and Water District Commission,,Write-In,NON,2,2,0,0,0,0,0
+Allendale,Martin,Soil and Water District Commission,,Mark Connelly,NON,45,15,0,0,0,2,28
+Allendale,Martin,Soil and Water District Commission,,Joe Oswald IV,NON,34,10,0,0,0,1,23
+Allendale,Martin,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,Soil and Water District Commission,,Mark Connelly,NON,0,0,0,0,0,0,0
+Allendale,Provisional,Soil and Water District Commission,,Joe Oswald IV,NON,0,0,0,0,0,0,0
+Allendale,Provisional,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,Soil and Water District Commission,,Mark Connelly,NON,107,32,0,0,0,0,75
+Allendale,Sycamore,Soil and Water District Commission,,Joe Oswald IV,NON,61,19,0,0,0,0,42
+Allendale,Sycamore,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Allendale,Ulmer,Soil and Water District Commission,,Mark Connelly,NON,56,7,0,0,0,1,48
+Allendale,Ulmer,Soil and Water District Commission,,Joe Oswald IV,NON,42,11,0,0,0,0,31
+Allendale,Ulmer,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,Soil and Water District Commission,,Mark Connelly,NON,144,95,0,0,0,3,46
+Allendale,Woods,Soil and Water District Commission,,Joe Oswald IV,NON,122,71,0,0,0,3,48
+Allendale,Woods,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,State House,91,Daniel Alexander,REP,83,53,0,0,0,1,29
+Allendale,Allendale No. 1,State House,91,Lonnie Hosey,DEM,411,299,0,0,0,10,102
+Allendale,Allendale No. 1,State House,91,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,State House,91,Daniel Alexander,REP,13,10,0,0,0,1,2
+Allendale,Allendale No. 2,State House,91,Lonnie Hosey,DEM,428,330,0,0,0,8,90
+Allendale,Allendale No. 2,State House,91,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,State House,91,Daniel Alexander,REP,0,0,0,0,0,0,0
+Allendale,Failsafe,State House,91,Lonnie Hosey,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,State House,91,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State House,91,Daniel Alexander,REP,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State House,91,Lonnie Hosey,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State House,91,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,State House,91,Daniel Alexander,REP,55,31,0,0,0,0,24
+Allendale,Fairfax No. 2,State House,91,Lonnie Hosey,DEM,426,281,0,0,0,9,136
+Allendale,Fairfax No. 2,State House,91,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,State House,91,Daniel Alexander,REP,67,37,0,0,0,0,30
+Allendale,Fairfax No.1,State House,91,Lonnie Hosey,DEM,175,96,0,0,0,3,76
+Allendale,Fairfax No.1,State House,91,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,State House,91,Daniel Alexander,REP,43,6,0,0,0,2,35
+Allendale,Martin,State House,91,Lonnie Hosey,DEM,121,57,0,0,0,1,63
+Allendale,Martin,State House,91,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,State House,91,Daniel Alexander,REP,0,0,0,0,0,0,0
+Allendale,Provisional,State House,91,Lonnie Hosey,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,State House,91,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,State House,91,Daniel Alexander,REP,132,34,0,0,0,0,98
+Allendale,Sycamore,State House,91,Lonnie Hosey,DEM,51,27,0,0,0,0,24
+Allendale,Sycamore,State House,91,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Ulmer,State House,91,Daniel Alexander,REP,69,9,0,0,0,1,59
+Allendale,Ulmer,State House,91,Lonnie Hosey,DEM,42,25,0,0,0,0,17
+Allendale,Ulmer,State House,91,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,State House,91,Daniel Alexander,REP,117,58,0,0,0,1,58
+Allendale,Woods,State House,91,Lonnie Hosey,DEM,275,203,0,0,0,9,63
+Allendale,Woods,State House,91,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,4,0,0,0,0,2
+Allendale,Allendale No. 1,State Superintendent of Education,,Ellen Weaver,REP,71,42,0,0,0,1,28
+Allendale,Allendale No. 1,State Superintendent of Education,,Sylvia Wright,DEM,413,302,0,0,0,10,101
+Allendale,Allendale No. 1,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,State Superintendent of Education,,Baba Amin Ojuok,UNC,8,6,0,0,0,0,2
+Allendale,Allendale No. 2,State Superintendent of Education,,Ellen Weaver,REP,7,4,0,0,0,1,2
+Allendale,Allendale No. 2,State Superintendent of Education,,Sylvia Wright,DEM,431,331,0,0,0,8,92
+Allendale,Allendale No. 2,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Allendale,Failsafe,State Superintendent of Education,,Ellen Weaver,REP,0,0,0,0,0,0,0
+Allendale,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Superintendent of Education,,Ellen Weaver,REP,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,2,0,0,0,0,1
+Allendale,Fairfax No. 2,State Superintendent of Education,,Ellen Weaver,REP,55,31,0,0,0,0,24
+Allendale,Fairfax No. 2,State Superintendent of Education,,Sylvia Wright,DEM,420,275,0,0,0,9,136
+Allendale,Fairfax No. 2,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,1,0,0,0,0,0
+Allendale,Fairfax No.1,State Superintendent of Education,,Ellen Weaver,REP,72,38,0,0,0,0,34
+Allendale,Fairfax No.1,State Superintendent of Education,,Sylvia Wright,DEM,169,92,0,0,0,5,72
+Allendale,Fairfax No.1,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Allendale,Martin,State Superintendent of Education,,Ellen Weaver,REP,41,6,0,0,0,2,33
+Allendale,Martin,State Superintendent of Education,,Sylvia Wright,DEM,123,57,0,0,0,1,65
+Allendale,Martin,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Allendale,Provisional,State Superintendent of Education,,Ellen Weaver,REP,0,0,0,0,0,0,0
+Allendale,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Allendale,Sycamore,State Superintendent of Education,,Ellen Weaver,REP,127,31,0,0,0,0,96
+Allendale,Sycamore,State Superintendent of Education,,Sylvia Wright,DEM,56,30,0,0,0,0,26
+Allendale,Sycamore,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Ulmer,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,0,0,0,0,0,2
+Allendale,Ulmer,State Superintendent of Education,,Ellen Weaver,REP,63,7,0,0,0,0,56
+Allendale,Ulmer,State Superintendent of Education,,Sylvia Wright,DEM,44,25,0,0,0,1,18
+Allendale,Ulmer,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,2,0,0,0,0,3
+Allendale,Woods,State Superintendent of Education,,Ellen Weaver,REP,112,60,0,0,0,1,51
+Allendale,Woods,State Superintendent of Education,,Sylvia Wright,DEM,271,197,0,0,0,9,65
+Allendale,Woods,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Allendale,Allendale No. 1,State Treasurer,,Curtis Loftis,REP,81,53,0,0,0,1,27
+Allendale,Allendale No. 1,State Treasurer,,Vincent Coe,DEM,402,292,0,0,0,10,100
+Allendale,Allendale No. 1,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,State Treasurer,,Curtis Loftis,REP,10,7,0,0,0,1,2
+Allendale,Allendale No. 2,State Treasurer,,Vincent Coe,DEM,430,334,0,0,0,8,88
+Allendale,Allendale No. 2,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,State Treasurer,,Curtis Loftis,REP,0,0,0,0,0,0,0
+Allendale,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Treasurer,,Curtis Loftis,REP,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,State Treasurer,,Curtis Loftis,REP,56,31,0,0,0,0,25
+Allendale,Fairfax No. 2,State Treasurer,,Vincent Coe,DEM,417,275,0,0,0,9,133
+Allendale,Fairfax No. 2,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,State Treasurer,,Curtis Loftis,REP,74,38,0,0,0,2,34
+Allendale,Fairfax No.1,State Treasurer,,Vincent Coe,DEM,163,91,0,0,0,1,71
+Allendale,Fairfax No.1,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,State Treasurer,,Curtis Loftis,REP,41,6,0,0,0,2,33
+Allendale,Martin,State Treasurer,,Vincent Coe,DEM,124,57,0,0,0,1,66
+Allendale,Martin,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,State Treasurer,,Curtis Loftis,REP,0,0,0,0,0,0,0
+Allendale,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,State Treasurer,,Curtis Loftis,REP,128,29,0,0,0,0,99
+Allendale,Sycamore,State Treasurer,,Vincent Coe,DEM,54,31,0,0,0,0,23
+Allendale,Sycamore,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Ulmer,State Treasurer,,Curtis Loftis,REP,66,8,0,0,0,0,58
+Allendale,Ulmer,State Treasurer,,Vincent Coe,DEM,45,26,0,0,0,1,18
+Allendale,Ulmer,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,State Treasurer,,Curtis Loftis,REP,113,61,0,0,0,1,51
+Allendale,Woods,State Treasurer,,Vincent Coe,DEM,275,199,0,0,0,9,67
+Allendale,Woods,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,Straight Party,,United Citizens,UNC,5,3,0,0,0,0,2
+Allendale,Allendale No. 1,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,Straight Party,,Republican,REP,39,24,0,0,0,0,15
+Allendale,Allendale No. 1,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,Straight Party,,Democratic,DEM,324,238,0,0,0,5,81
+Allendale,Allendale No. 1,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,Straight Party,,United Citizens,UNC,4,3,0,0,0,0,1
+Allendale,Allendale No. 2,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Allendale,Allendale No. 2,Straight Party,,Republican,REP,4,3,0,0,0,0,1
+Allendale,Allendale No. 2,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,Straight Party,,Democratic,DEM,349,267,0,0,0,5,77
+Allendale,Allendale No. 2,Straight Party,,Constitution,CON,2,2,0,0,0,0,0
+Allendale,Failsafe,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Allendale,Failsafe,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Allendale,Failsafe,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+Allendale,Failsafe,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Allendale,Failsafe,Straight Party,,Democratic,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Straight Party,,Democratic,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Straight Party,,United Citizens,UNC,3,2,0,0,0,0,1
+Allendale,Fairfax No. 2,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Straight Party,,Republican,REP,29,15,0,0,0,0,14
+Allendale,Fairfax No. 2,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,Straight Party,,Democratic,DEM,355,226,0,0,0,9,120
+Allendale,Fairfax No. 2,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Straight Party,,Republican,REP,44,27,0,0,0,0,17
+Allendale,Fairfax No.1,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,Straight Party,,Democratic,DEM,139,77,0,0,0,1,61
+Allendale,Fairfax No.1,Straight Party,,Constitution,CON,1,1,0,0,0,0,0
+Allendale,Martin,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Allendale,Martin,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Allendale,Martin,Straight Party,,Republican,REP,22,4,0,0,0,0,18
+Allendale,Martin,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Allendale,Martin,Straight Party,,Democratic,DEM,101,46,0,0,0,1,54
+Allendale,Martin,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Allendale,Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Allendale,Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Allendale,Provisional,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+Allendale,Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Allendale,Provisional,Straight Party,,Democratic,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Allendale,Sycamore,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Allendale,Sycamore,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Allendale,Sycamore,Straight Party,,Republican,REP,82,17,0,0,0,0,65
+Allendale,Sycamore,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Allendale,Sycamore,Straight Party,,Democratic,DEM,39,21,0,0,0,0,18
+Allendale,Sycamore,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Allendale,Ulmer,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Allendale,Ulmer,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Allendale,Ulmer,Straight Party,,Republican,REP,36,2,0,0,0,0,34
+Allendale,Ulmer,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Allendale,Ulmer,Straight Party,,Democratic,DEM,33,23,0,0,0,0,10
+Allendale,Ulmer,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Allendale,Woods,Straight Party,,United Citizens,UNC,4,2,0,0,0,0,2
+Allendale,Woods,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Allendale,Woods,Straight Party,,Republican,REP,62,33,0,0,0,1,28
+Allendale,Woods,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Allendale,Woods,Straight Party,,Democratic,DEM,221,167,0,0,0,6,48
+Allendale,Woods,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,U.S. House,6,John Peterson,REP,70,43,0,0,0,1,26
+Allendale,Allendale No. 1,U.S. House,6,James E Jim Clyburn,DEM,421,306,0,0,0,10,105
+Allendale,Allendale No. 1,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,U.S. House,6,John Peterson,REP,8,5,0,0,0,1,2
+Allendale,Allendale No. 2,U.S. House,6,James E Jim Clyburn,DEM,434,337,0,0,0,8,89
+Allendale,Allendale No. 2,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Allendale,Failsafe,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,U.S. House,6,John Peterson,REP,53,28,0,0,0,0,25
+Allendale,Fairfax No. 2,U.S. House,6,James E Jim Clyburn,DEM,425,281,0,0,0,9,135
+Allendale,Fairfax No. 2,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,U.S. House,6,John Peterson,REP,70,37,0,0,0,0,33
+Allendale,Fairfax No.1,U.S. House,6,James E Jim Clyburn,DEM,171,94,0,0,0,3,74
+Allendale,Fairfax No.1,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,U.S. House,6,John Peterson,REP,39,6,0,0,0,2,31
+Allendale,Martin,U.S. House,6,James E Jim Clyburn,DEM,125,57,0,0,0,1,67
+Allendale,Martin,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,U.S. House,6,John Peterson,REP,126,32,0,0,0,0,94
+Allendale,Sycamore,U.S. House,6,James E Jim Clyburn,DEM,56,29,0,0,0,0,27
+Allendale,Sycamore,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Ulmer,U.S. House,6,John Peterson,REP,62,7,0,0,0,0,55
+Allendale,Ulmer,U.S. House,6,James E Jim Clyburn,DEM,48,26,0,0,0,1,21
+Allendale,Ulmer,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,U.S. House,6,John Peterson,REP,110,59,0,0,0,1,50
+Allendale,Woods,U.S. House,6,James E Jim Clyburn,DEM,283,204,0,0,0,9,70
+Allendale,Woods,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 1,U.S. Senate,,Darline Graham,REP,67,41,0,0,0,1,25
+Allendale,Allendale No. 1,U.S. Senate,,Kasie Whitener,LIB,3,2,0,0,0,0,1
+Allendale,Allendale No. 1,U.S. Senate,,Annie Andrews,DEM,420,306,0,0,0,10,104
+Allendale,Allendale No. 1,U.S. Senate,,Mark Hackett,CON,3,2,0,0,0,0,1
+Allendale,Allendale No. 1,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Allendale No. 2,U.S. Senate,,Darline Graham,REP,7,4,0,0,0,1,2
+Allendale,Allendale No. 2,U.S. Senate,,Kasie Whitener,LIB,2,2,0,0,0,0,0
+Allendale,Allendale No. 2,U.S. Senate,,Annie Andrews,DEM,431,332,0,0,0,8,91
+Allendale,Allendale No. 2,U.S. Senate,,Mark Hackett,CON,4,3,0,0,0,0,1
+Allendale,Allendale No. 2,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Allendale,Failsafe,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Allendale,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Allendale,Failsafe,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Allendale,Failsafe Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,U.S. Senate,,Darline Graham,REP,54,31,0,0,0,0,23
+Allendale,Fairfax No. 2,U.S. Senate,,Kasie Whitener,LIB,2,2,0,0,0,0,0
+Allendale,Fairfax No. 2,U.S. Senate,,Annie Andrews,DEM,421,277,0,0,0,9,135
+Allendale,Fairfax No. 2,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Allendale,Fairfax No. 2,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,U.S. Senate,,Darline Graham,REP,70,40,0,0,0,0,30
+Allendale,Fairfax No.1,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Allendale,Fairfax No.1,U.S. Senate,,Annie Andrews,DEM,171,91,0,0,0,5,75
+Allendale,Fairfax No.1,U.S. Senate,,Mark Hackett,CON,3,1,0,0,0,0,2
+Allendale,Fairfax No.1,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Martin,U.S. Senate,,Darline Graham,REP,40,6,0,0,0,2,32
+Allendale,Martin,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Allendale,Martin,U.S. Senate,,Annie Andrews,DEM,125,57,0,0,0,1,67
+Allendale,Martin,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Allendale,Martin,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Allendale,Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Sycamore,U.S. Senate,,Darline Graham,REP,123,29,0,0,0,0,94
+Allendale,Sycamore,U.S. Senate,,Kasie Whitener,LIB,1,1,0,0,0,0,0
+Allendale,Sycamore,U.S. Senate,,Annie Andrews,DEM,59,31,0,0,0,0,28
+Allendale,Sycamore,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Allendale,Sycamore,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Ulmer,U.S. Senate,,Darline Graham,REP,63,6,0,0,0,1,56
+Allendale,Ulmer,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Allendale,Ulmer,U.S. Senate,,Annie Andrews,DEM,46,28,0,0,0,0,18
+Allendale,Ulmer,U.S. Senate,,Mark Hackett,CON,2,0,0,0,0,0,2
+Allendale,Ulmer,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Allendale,Woods,U.S. Senate,,Darline Graham,REP,109,58,0,0,0,1,50
+Allendale,Woods,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Allendale,Woods,U.S. Senate,,Annie Andrews,DEM,279,202,0,0,0,9,68
+Allendale,Woods,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Allendale,Woods,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0

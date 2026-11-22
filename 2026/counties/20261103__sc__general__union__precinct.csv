@@ -1,0 +1,1750 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Union,Adamsburg,Attorney General,,David Stumbo,REP,316,83,0,0,0,5,228
+Union,Adamsburg,Attorney General,,Richard Hricik,DEM,65,23,0,0,0,0,42
+Union,Adamsburg,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Black Rock,Attorney General,,David Stumbo,REP,89,12,0,0,0,0,77
+Union,Black Rock,Attorney General,,Richard Hricik,DEM,132,52,0,0,0,0,80
+Union,Black Rock,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Union,Bonham,Attorney General,,David Stumbo,REP,339,118,0,0,0,5,216
+Union,Bonham,Attorney General,,Richard Hricik,DEM,188,97,0,0,0,6,85
+Union,Bonham,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,Attorney General,,David Stumbo,REP,356,100,0,0,0,1,255
+Union,Buffalo Box 1,Attorney General,,Richard Hricik,DEM,175,82,0,0,0,1,92
+Union,Buffalo Box 1,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Carlisle,Attorney General,,David Stumbo,REP,34,15,0,0,0,0,19
+Union,Carlisle,Attorney General,,Richard Hricik,DEM,231,84,0,0,0,4,143
+Union,Carlisle,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Cross Keys,Attorney General,,David Stumbo,REP,327,117,0,0,0,0,210
+Union,Cross Keys,Attorney General,,Richard Hricik,DEM,133,81,0,0,0,4,48
+Union,Cross Keys,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,Attorney General,,David Stumbo,REP,461,209,0,0,0,6,246
+Union,Excelsior,Attorney General,,Richard Hricik,DEM,316,181,0,0,0,12,123
+Union,Excelsior,Attorney General,,Write-In,NON,1,1,0,0,0,0,0
+Union,Failsafe,Attorney General,,David Stumbo,REP,19,0,0,0,19,0,0
+Union,Failsafe,Attorney General,,Richard Hricik,DEM,15,0,0,0,15,0,0
+Union,Failsafe,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Attorney General,,David Stumbo,REP,1,0,1,0,0,0,0
+Union,Failsafe Provisional,Attorney General,,Richard Hricik,DEM,3,0,3,0,0,0,0
+Union,Failsafe Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Attorney General,,David Stumbo,REP,397,92,0,0,0,0,305
+Union,Jonesville Box 1,Attorney General,,Richard Hricik,DEM,143,71,0,0,0,2,70
+Union,Jonesville Box 1,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 2,Attorney General,,David Stumbo,REP,400,113,0,0,0,1,286
+Union,Jonesville Box 2,Attorney General,,Richard Hricik,DEM,222,118,0,0,0,8,96
+Union,Jonesville Box 2,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Kelton,Attorney General,,David Stumbo,REP,334,78,0,0,0,1,255
+Union,Kelton,Attorney General,,Richard Hricik,DEM,177,61,0,0,0,2,114
+Union,Kelton,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Lockhart,Attorney General,,David Stumbo,REP,253,41,0,0,0,1,211
+Union,Lockhart,Attorney General,,Richard Hricik,DEM,69,33,0,0,0,0,36
+Union,Lockhart,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,Attorney General,,David Stumbo,REP,526,213,0,0,0,4,309
+Union,Monarch,Attorney General,,Richard Hricik,DEM,206,108,0,0,0,2,96
+Union,Monarch,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Union,Provisional,Attorney General,,Richard Hricik,DEM,0,0,0,0,0,0,0
+Union,Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,Attorney General,,David Stumbo,REP,329,85,0,0,0,0,244
+Union,Putnam,Attorney General,,Richard Hricik,DEM,51,27,0,0,0,0,24
+Union,Putnam,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Union,Santuck,Attorney General,,David Stumbo,REP,195,77,0,0,0,0,118
+Union,Santuck,Attorney General,,Richard Hricik,DEM,236,109,0,0,0,3,124
+Union,Santuck,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,Attorney General,,David Stumbo,REP,205,94,0,0,0,0,111
+Union,Union Ward 1 Box 1,Attorney General,,Richard Hricik,DEM,176,107,0,0,0,0,69
+Union,Union Ward 1 Box 1,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,Attorney General,,David Stumbo,REP,171,88,0,0,0,1,82
+Union,Union Ward 1 Box 2,Attorney General,,Richard Hricik,DEM,374,235,0,0,0,2,137
+Union,Union Ward 1 Box 2,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,Attorney General,,David Stumbo,REP,207,104,0,0,0,4,99
+Union,Union Ward 2,Attorney General,,Richard Hricik,DEM,308,193,0,0,0,5,110
+Union,Union Ward 2,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 3,Attorney General,,David Stumbo,REP,107,41,0,0,0,2,64
+Union,Union Ward 3,Attorney General,,Richard Hricik,DEM,196,85,0,0,0,4,107
+Union,Union Ward 3,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,Attorney General,,David Stumbo,REP,312,160,0,0,0,5,147
+Union,Union Ward 4 Box 1,Attorney General,,Richard Hricik,DEM,216,117,0,0,0,2,97
+Union,Union Ward 4 Box 1,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Attorney General,,David Stumbo,REP,41,8,0,0,0,2,31
+Union,Union Ward 4 Box 2,Attorney General,,Richard Hricik,DEM,96,49,0,0,0,0,47
+Union,Union Ward 4 Box 2,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,Attorney General,,David Stumbo,REP,156,25,0,0,0,0,131
+Union,West Springs,Attorney General,,Richard Hricik,DEM,54,17,0,0,0,0,37
+Union,West Springs,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Union,Adamsburg,Auditor,,Brad Valentine,REP,354,99,0,0,0,5,250
+Union,Adamsburg,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Black Rock,Auditor,,Brad Valentine,REP,141,34,0,0,0,0,107
+Union,Black Rock,Auditor,,Write-In,NON,5,1,0,0,0,0,4
+Union,Bonham,Auditor,,Brad Valentine,REP,401,141,0,0,0,8,252
+Union,Bonham,Auditor,,Write-In,NON,11,8,0,0,0,0,3
+Union,Buffalo Box 1,Auditor,,Brad Valentine,REP,411,125,0,0,0,0,286
+Union,Buffalo Box 1,Auditor,,Write-In,NON,3,1,0,0,0,2,0
+Union,Carlisle,Auditor,,Brad Valentine,REP,90,36,0,0,0,2,52
+Union,Carlisle,Auditor,,Write-In,NON,3,1,0,0,0,0,2
+Union,Cross Keys,Auditor,,Brad Valentine,REP,371,137,0,0,0,1,233
+Union,Cross Keys,Auditor,,Write-In,NON,2,2,0,0,0,0,0
+Union,Excelsior,Auditor,,Brad Valentine,REP,566,257,0,0,0,12,297
+Union,Excelsior,Auditor,,Write-In,NON,14,10,0,0,0,1,3
+Union,Failsafe,Auditor,,Brad Valentine,REP,20,0,0,0,20,0,0
+Union,Failsafe,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Auditor,,Brad Valentine,REP,2,0,2,0,0,0,0
+Union,Failsafe Provisional,Auditor,,Write-In,NON,1,0,1,0,0,0,0
+Union,Jonesville Box 1,Auditor,,Brad Valentine,REP,452,115,0,0,0,2,335
+Union,Jonesville Box 1,Auditor,,Write-In,NON,3,2,0,0,0,0,1
+Union,Jonesville Box 2,Auditor,,Brad Valentine,REP,472,154,0,0,0,4,314
+Union,Jonesville Box 2,Auditor,,Write-In,NON,7,2,0,0,0,1,4
+Union,Kelton,Auditor,,Brad Valentine,REP,389,99,0,0,0,2,288
+Union,Kelton,Auditor,,Write-In,NON,3,2,0,0,0,0,1
+Union,Lockhart,Auditor,,Brad Valentine,REP,283,51,0,0,0,1,231
+Union,Lockhart,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,Auditor,,Brad Valentine,REP,610,249,0,0,0,5,356
+Union,Monarch,Auditor,,Write-In,NON,6,3,0,0,0,0,3
+Union,Provisional,Auditor,,Brad Valentine,REP,0,0,0,0,0,0,0
+Union,Provisional,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,Auditor,,Brad Valentine,REP,352,98,0,0,0,0,254
+Union,Putnam,Auditor,,Write-In,NON,2,2,0,0,0,0,0
+Union,Santuck,Auditor,,Brad Valentine,REP,267,108,0,0,0,0,159
+Union,Santuck,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Union,Union Ward 1 Box 1,Auditor,,Brad Valentine,REP,267,132,0,0,0,0,135
+Union,Union Ward 1 Box 1,Auditor,,Write-In,NON,2,1,0,0,0,0,1
+Union,Union Ward 1 Box 2,Auditor,,Brad Valentine,REP,281,169,0,0,0,1,111
+Union,Union Ward 1 Box 2,Auditor,,Write-In,NON,8,6,0,0,0,0,2
+Union,Union Ward 2,Auditor,,Brad Valentine,REP,302,167,0,0,0,7,128
+Union,Union Ward 2,Auditor,,Write-In,NON,7,5,0,0,0,0,2
+Union,Union Ward 3,Auditor,,Brad Valentine,REP,166,66,0,0,0,5,95
+Union,Union Ward 3,Auditor,,Write-In,NON,3,3,0,0,0,0,0
+Union,Union Ward 4 Box 1,Auditor,,Brad Valentine,REP,400,199,0,0,0,4,197
+Union,Union Ward 4 Box 1,Auditor,,Write-In,NON,8,3,0,0,0,2,3
+Union,Union Ward 4 Box 2,Auditor,,Brad Valentine,REP,73,23,0,0,0,2,48
+Union,Union Ward 4 Box 2,Auditor,,Write-In,NON,1,1,0,0,0,0,0
+Union,West Springs,Auditor,,Brad Valentine,REP,178,29,0,0,0,0,149
+Union,West Springs,Auditor,,Write-In,NON,1,1,0,0,0,0,0
+Union,Failsafe,City Council Union City Council Dist 5,,Pamela Garner Sloss,NON,1,0,0,0,1,0,0
+Union,Failsafe,City Council Union City Council Dist 5,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,City Council Union City Council Dist 5,,Pamela Garner Sloss,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,City Council Union City Council Dist 5,,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,City Council Union City Council Dist 5,,Pamela Garner Sloss,NON,0,0,0,0,0,0,0
+Union,Provisional,City Council Union City Council Dist 5,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,City Council Union City Council Dist 5,,Pamela Garner Sloss,NON,52,33,0,0,0,0,19
+Union,Union Ward 1 Box 1,City Council Union City Council Dist 5,,Write-In,NON,1,0,0,0,0,0,1
+Union,Union Ward 1 Box 2,City Council Union City Council Dist 5,,Pamela Garner Sloss,NON,295,178,0,0,0,3,114
+Union,Union Ward 1 Box 2,City Council Union City Council Dist 5,,Write-In,NON,10,5,0,0,0,0,5
+Union,Excelsior,City Council Union City Dist 1,,Jackie W Earls,NON,29,12,0,0,0,0,17
+Union,Excelsior,City Council Union City Dist 1,,Write-In,NON,2,1,0,0,0,0,1
+Union,Failsafe,City Council Union City Dist 1,,Jackie W Earls,NON,3,0,0,0,3,0,0
+Union,Failsafe,City Council Union City Dist 1,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,City Council Union City Dist 1,,Jackie W Earls,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,City Council Union City Dist 1,,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,City Council Union City Dist 1,,Jackie W Earls,NON,0,0,0,0,0,0,0
+Union,Provisional,City Council Union City Dist 1,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,City Council Union City Dist 1,,Jackie W Earls,NON,311,187,0,0,0,3,121
+Union,Union Ward 2,City Council Union City Dist 1,,Write-In,NON,3,2,0,0,0,0,1
+Union,Failsafe,City Council Union City Dist 2,,Robert Earl Garner,NON,0,0,0,0,0,0,0
+Union,Failsafe,City Council Union City Dist 2,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,City Council Union City Dist 2,,Robert Earl Garner,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,City Council Union City Dist 2,,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,City Council Union City Dist 2,,Robert Earl Garner,NON,0,0,0,0,0,0,0
+Union,Provisional,City Council Union City Dist 2,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,City Council Union City Dist 2,,Robert Earl Garner,NON,32,11,0,0,0,2,19
+Union,Union Ward 2,City Council Union City Dist 2,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 3,City Council Union City Dist 2,,Robert Earl Garner,NON,105,37,0,0,0,3,65
+Union,Union Ward 3,City Council Union City Dist 2,,Write-In,NON,1,1,0,0,0,0,0
+Union,Union Ward 4 Box 2,City Council Union City Dist 2,,Robert Earl Garner,NON,65,31,0,0,0,2,32
+Union,Union Ward 4 Box 2,City Council Union City Dist 2,,Write-In,NON,1,0,0,0,0,0,1
+Union,Adamsburg,Commissioner of Agriculture,,Chris Nelums,UNC,2,2,0,0,0,0,0
+Union,Adamsburg,Commissioner of Agriculture,,Cody Simpson,REP,318,85,0,0,0,5,228
+Union,Adamsburg,Commissioner of Agriculture,,Michael Sullens,LIB,7,0,0,0,0,0,7
+Union,Adamsburg,Commissioner of Agriculture,,DeShawn Blanding,DEM,53,20,0,0,0,0,33
+Union,Adamsburg,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Black Rock,Commissioner of Agriculture,,Chris Nelums,UNC,2,0,0,0,0,0,2
+Union,Black Rock,Commissioner of Agriculture,,Cody Simpson,REP,86,11,0,0,0,0,75
+Union,Black Rock,Commissioner of Agriculture,,Michael Sullens,LIB,6,0,0,0,0,0,6
+Union,Black Rock,Commissioner of Agriculture,,DeShawn Blanding,DEM,130,53,0,0,0,0,77
+Union,Black Rock,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Bonham,Commissioner of Agriculture,,Chris Nelums,UNC,6,3,0,0,0,0,3
+Union,Bonham,Commissioner of Agriculture,,Cody Simpson,REP,336,119,0,0,0,5,212
+Union,Bonham,Commissioner of Agriculture,,Michael Sullens,LIB,4,0,0,0,0,1,3
+Union,Bonham,Commissioner of Agriculture,,DeShawn Blanding,DEM,181,93,0,0,0,5,83
+Union,Bonham,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,Commissioner of Agriculture,,Chris Nelums,UNC,4,2,0,0,0,0,2
+Union,Buffalo Box 1,Commissioner of Agriculture,,Cody Simpson,REP,354,98,0,0,0,1,255
+Union,Buffalo Box 1,Commissioner of Agriculture,,Michael Sullens,LIB,5,2,0,0,0,0,3
+Union,Buffalo Box 1,Commissioner of Agriculture,,DeShawn Blanding,DEM,168,79,0,0,0,1,88
+Union,Buffalo Box 1,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Carlisle,Commissioner of Agriculture,,Chris Nelums,UNC,2,0,0,0,0,0,2
+Union,Carlisle,Commissioner of Agriculture,,Cody Simpson,REP,33,15,0,0,0,0,18
+Union,Carlisle,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Union,Carlisle,Commissioner of Agriculture,,DeShawn Blanding,DEM,229,85,0,0,0,4,140
+Union,Carlisle,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Cross Keys,Commissioner of Agriculture,,Chris Nelums,UNC,2,1,0,0,0,0,1
+Union,Cross Keys,Commissioner of Agriculture,,Cody Simpson,REP,322,111,0,0,0,0,211
+Union,Cross Keys,Commissioner of Agriculture,,Michael Sullens,LIB,7,3,0,0,0,0,4
+Union,Cross Keys,Commissioner of Agriculture,,DeShawn Blanding,DEM,133,82,0,0,0,4,47
+Union,Cross Keys,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,Commissioner of Agriculture,,Chris Nelums,UNC,9,6,0,0,0,0,3
+Union,Excelsior,Commissioner of Agriculture,,Cody Simpson,REP,452,206,0,0,0,4,242
+Union,Excelsior,Commissioner of Agriculture,,Michael Sullens,LIB,12,5,0,0,0,1,6
+Union,Excelsior,Commissioner of Agriculture,,DeShawn Blanding,DEM,307,177,0,0,0,13,117
+Union,Excelsior,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,1,0,0
+Union,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,19,0,0,0,19,0,0
+Union,Failsafe,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Union,Failsafe,Commissioner of Agriculture,,DeShawn Blanding,DEM,15,0,0,0,15,0,0
+Union,Failsafe,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,1,0,0,0,0
+Union,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,3,0,3,0,0,0,0
+Union,Failsafe Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Commissioner of Agriculture,,Chris Nelums,UNC,7,1,0,0,0,0,6
+Union,Jonesville Box 1,Commissioner of Agriculture,,Cody Simpson,REP,388,92,0,0,0,0,296
+Union,Jonesville Box 1,Commissioner of Agriculture,,Michael Sullens,LIB,11,3,0,0,0,0,8
+Union,Jonesville Box 1,Commissioner of Agriculture,,DeShawn Blanding,DEM,135,69,0,0,0,2,64
+Union,Jonesville Box 1,Commissioner of Agriculture,,Write-In,NON,2,0,0,0,0,0,2
+Union,Jonesville Box 2,Commissioner of Agriculture,,Chris Nelums,UNC,10,6,0,0,0,0,4
+Union,Jonesville Box 2,Commissioner of Agriculture,,Cody Simpson,REP,387,109,0,0,0,1,277
+Union,Jonesville Box 2,Commissioner of Agriculture,,Michael Sullens,LIB,7,2,0,0,0,0,5
+Union,Jonesville Box 2,Commissioner of Agriculture,,DeShawn Blanding,DEM,222,117,0,0,0,8,97
+Union,Jonesville Box 2,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Kelton,Commissioner of Agriculture,,Chris Nelums,UNC,2,1,0,0,0,0,1
+Union,Kelton,Commissioner of Agriculture,,Cody Simpson,REP,339,79,0,0,0,1,259
+Union,Kelton,Commissioner of Agriculture,,Michael Sullens,LIB,10,1,0,0,0,0,9
+Union,Kelton,Commissioner of Agriculture,,DeShawn Blanding,DEM,160,58,0,0,0,2,100
+Union,Kelton,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Union,Lockhart,Commissioner of Agriculture,,Chris Nelums,UNC,4,1,0,0,0,0,3
+Union,Lockhart,Commissioner of Agriculture,,Cody Simpson,REP,251,41,0,0,0,1,209
+Union,Lockhart,Commissioner of Agriculture,,Michael Sullens,LIB,4,0,0,0,0,0,4
+Union,Lockhart,Commissioner of Agriculture,,DeShawn Blanding,DEM,65,33,0,0,0,0,32
+Union,Lockhart,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,Commissioner of Agriculture,,Chris Nelums,UNC,11,4,0,0,0,0,7
+Union,Monarch,Commissioner of Agriculture,,Cody Simpson,REP,515,208,0,0,0,4,303
+Union,Monarch,Commissioner of Agriculture,,Michael Sullens,LIB,15,7,0,0,0,0,8
+Union,Monarch,Commissioner of Agriculture,,DeShawn Blanding,DEM,193,104,0,0,0,2,87
+Union,Monarch,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Union,Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Union,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Union,Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Union,Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,0,0,0,0,0,0,0
+Union,Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,Commissioner of Agriculture,,Chris Nelums,UNC,2,1,0,0,0,0,1
+Union,Putnam,Commissioner of Agriculture,,Cody Simpson,REP,327,86,0,0,0,0,241
+Union,Putnam,Commissioner of Agriculture,,Michael Sullens,LIB,5,0,0,0,0,0,5
+Union,Putnam,Commissioner of Agriculture,,DeShawn Blanding,DEM,49,26,0,0,0,0,23
+Union,Putnam,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Santuck,Commissioner of Agriculture,,Chris Nelums,UNC,2,0,0,0,0,0,2
+Union,Santuck,Commissioner of Agriculture,,Cody Simpson,REP,192,76,0,0,0,0,116
+Union,Santuck,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Union,Santuck,Commissioner of Agriculture,,DeShawn Blanding,DEM,233,110,0,0,0,3,120
+Union,Santuck,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,Commissioner of Agriculture,,Chris Nelums,UNC,6,1,0,0,0,0,5
+Union,Union Ward 1 Box 1,Commissioner of Agriculture,,Cody Simpson,REP,202,95,0,0,0,0,107
+Union,Union Ward 1 Box 1,Commissioner of Agriculture,,Michael Sullens,LIB,3,1,0,0,0,0,2
+Union,Union Ward 1 Box 1,Commissioner of Agriculture,,DeShawn Blanding,DEM,173,104,0,0,0,0,69
+Union,Union Ward 1 Box 1,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,Commissioner of Agriculture,,Chris Nelums,UNC,6,5,0,0,0,0,1
+Union,Union Ward 1 Box 2,Commissioner of Agriculture,,Cody Simpson,REP,168,86,0,0,0,1,81
+Union,Union Ward 1 Box 2,Commissioner of Agriculture,,Michael Sullens,LIB,9,6,0,0,0,0,3
+Union,Union Ward 1 Box 2,Commissioner of Agriculture,,DeShawn Blanding,DEM,364,226,0,0,0,2,136
+Union,Union Ward 1 Box 2,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,Commissioner of Agriculture,,Chris Nelums,UNC,3,0,0,0,0,0,3
+Union,Union Ward 2,Commissioner of Agriculture,,Cody Simpson,REP,203,103,0,0,0,4,96
+Union,Union Ward 2,Commissioner of Agriculture,,Michael Sullens,LIB,5,3,0,0,0,1,1
+Union,Union Ward 2,Commissioner of Agriculture,,DeShawn Blanding,DEM,304,191,0,0,0,4,109
+Union,Union Ward 2,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 3,Commissioner of Agriculture,,Chris Nelums,UNC,3,3,0,0,0,0,0
+Union,Union Ward 3,Commissioner of Agriculture,,Cody Simpson,REP,102,41,0,0,0,2,59
+Union,Union Ward 3,Commissioner of Agriculture,,Michael Sullens,LIB,5,2,0,0,0,0,3
+Union,Union Ward 3,Commissioner of Agriculture,,DeShawn Blanding,DEM,195,83,0,0,0,4,108
+Union,Union Ward 3,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,Commissioner of Agriculture,,Chris Nelums,UNC,5,2,0,0,0,0,3
+Union,Union Ward 4 Box 1,Commissioner of Agriculture,,Cody Simpson,REP,303,152,0,0,0,5,146
+Union,Union Ward 4 Box 1,Commissioner of Agriculture,,Michael Sullens,LIB,11,6,0,0,0,0,5
+Union,Union Ward 4 Box 1,Commissioner of Agriculture,,DeShawn Blanding,DEM,211,116,0,0,0,2,93
+Union,Union Ward 4 Box 1,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Commissioner of Agriculture,,Chris Nelums,UNC,2,0,0,0,0,0,2
+Union,Union Ward 4 Box 2,Commissioner of Agriculture,,Cody Simpson,REP,39,9,0,0,0,2,28
+Union,Union Ward 4 Box 2,Commissioner of Agriculture,,Michael Sullens,LIB,3,2,0,0,0,0,1
+Union,Union Ward 4 Box 2,Commissioner of Agriculture,,DeShawn Blanding,DEM,94,47,0,0,0,0,47
+Union,Union Ward 4 Box 2,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Union,West Springs,Commissioner of Agriculture,,Cody Simpson,REP,158,26,0,0,0,0,132
+Union,West Springs,Commissioner of Agriculture,,Michael Sullens,LIB,2,0,0,0,0,0,2
+Union,West Springs,Commissioner of Agriculture,,DeShawn Blanding,DEM,53,16,0,0,0,0,37
+Union,West Springs,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Union,Adamsburg,Comptroller General,,Mike Burkhold,REP,319,84,0,0,0,5,230
+Union,Adamsburg,Comptroller General,,Tiffany Boozer,DEM,59,22,0,0,0,0,37
+Union,Adamsburg,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Black Rock,Comptroller General,,Mike Burkhold,REP,85,11,0,0,0,0,74
+Union,Black Rock,Comptroller General,,Tiffany Boozer,DEM,137,53,0,0,0,0,84
+Union,Black Rock,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Bonham,Comptroller General,,Mike Burkhold,REP,334,118,0,0,0,5,211
+Union,Bonham,Comptroller General,,Tiffany Boozer,DEM,193,98,0,0,0,6,89
+Union,Bonham,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,Comptroller General,,Mike Burkhold,REP,355,100,0,0,0,1,254
+Union,Buffalo Box 1,Comptroller General,,Tiffany Boozer,DEM,175,81,0,0,0,1,93
+Union,Buffalo Box 1,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Carlisle,Comptroller General,,Mike Burkhold,REP,34,15,0,0,0,0,19
+Union,Carlisle,Comptroller General,,Tiffany Boozer,DEM,229,84,0,0,0,4,141
+Union,Carlisle,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Cross Keys,Comptroller General,,Mike Burkhold,REP,320,113,0,0,0,0,207
+Union,Cross Keys,Comptroller General,,Tiffany Boozer,DEM,140,82,0,0,0,4,54
+Union,Cross Keys,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,Comptroller General,,Mike Burkhold,REP,454,205,0,0,0,5,244
+Union,Excelsior,Comptroller General,,Tiffany Boozer,DEM,320,185,0,0,0,13,122
+Union,Excelsior,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe,Comptroller General,,Mike Burkhold,REP,17,0,0,0,17,0,0
+Union,Failsafe,Comptroller General,,Tiffany Boozer,DEM,18,0,0,0,18,0,0
+Union,Failsafe,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Comptroller General,,Mike Burkhold,REP,1,0,1,0,0,0,0
+Union,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,3,0,3,0,0,0,0
+Union,Failsafe Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Comptroller General,,Mike Burkhold,REP,399,94,0,0,0,0,305
+Union,Jonesville Box 1,Comptroller General,,Tiffany Boozer,DEM,141,70,0,0,0,2,69
+Union,Jonesville Box 1,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 2,Comptroller General,,Mike Burkhold,REP,397,113,0,0,0,1,283
+Union,Jonesville Box 2,Comptroller General,,Tiffany Boozer,DEM,227,119,0,0,0,8,100
+Union,Jonesville Box 2,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Kelton,Comptroller General,,Mike Burkhold,REP,338,80,0,0,0,1,257
+Union,Kelton,Comptroller General,,Tiffany Boozer,DEM,174,59,0,0,0,2,113
+Union,Kelton,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Lockhart,Comptroller General,,Mike Burkhold,REP,249,41,0,0,0,1,207
+Union,Lockhart,Comptroller General,,Tiffany Boozer,DEM,73,34,0,0,0,0,39
+Union,Lockhart,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Union,Monarch,Comptroller General,,Mike Burkhold,REP,528,214,0,0,0,4,310
+Union,Monarch,Comptroller General,,Tiffany Boozer,DEM,203,107,0,0,0,2,94
+Union,Monarch,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,Comptroller General,,Mike Burkhold,REP,0,0,0,0,0,0,0
+Union,Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Union,Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,Comptroller General,,Mike Burkhold,REP,326,85,0,0,0,0,241
+Union,Putnam,Comptroller General,,Tiffany Boozer,DEM,53,28,0,0,0,0,25
+Union,Putnam,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Union,Santuck,Comptroller General,,Mike Burkhold,REP,192,76,0,0,0,0,116
+Union,Santuck,Comptroller General,,Tiffany Boozer,DEM,234,110,0,0,0,3,121
+Union,Santuck,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,Comptroller General,,Mike Burkhold,REP,205,95,0,0,0,0,110
+Union,Union Ward 1 Box 1,Comptroller General,,Tiffany Boozer,DEM,179,106,0,0,0,0,73
+Union,Union Ward 1 Box 1,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,Comptroller General,,Mike Burkhold,REP,166,84,0,0,0,1,81
+Union,Union Ward 1 Box 2,Comptroller General,,Tiffany Boozer,DEM,376,235,0,0,0,2,139
+Union,Union Ward 1 Box 2,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,Comptroller General,,Mike Burkhold,REP,204,102,0,0,0,4,98
+Union,Union Ward 2,Comptroller General,,Tiffany Boozer,DEM,309,195,0,0,0,5,109
+Union,Union Ward 2,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 3,Comptroller General,,Mike Burkhold,REP,103,40,0,0,0,2,61
+Union,Union Ward 3,Comptroller General,,Tiffany Boozer,DEM,201,89,0,0,0,4,108
+Union,Union Ward 3,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,Comptroller General,,Mike Burkhold,REP,304,154,0,0,0,5,145
+Union,Union Ward 4 Box 1,Comptroller General,,Tiffany Boozer,DEM,222,120,0,0,0,2,100
+Union,Union Ward 4 Box 1,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Comptroller General,,Mike Burkhold,REP,38,8,0,0,0,2,28
+Union,Union Ward 4 Box 2,Comptroller General,,Tiffany Boozer,DEM,98,49,0,0,0,0,49
+Union,Union Ward 4 Box 2,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,Comptroller General,,Mike Burkhold,REP,159,26,0,0,0,0,133
+Union,West Springs,Comptroller General,,Tiffany Boozer,DEM,52,16,0,0,0,0,36
+Union,West Springs,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Union,Adamsburg,Coroner,,William E Holcombe,REP,358,99,0,0,0,5,254
+Union,Adamsburg,Coroner,,Write-In,NON,3,1,0,0,0,0,2
+Union,Black Rock,Coroner,,William E Holcombe,REP,144,33,0,0,0,0,111
+Union,Black Rock,Coroner,,Write-In,NON,10,4,0,0,0,0,6
+Union,Bonham,Coroner,,William E Holcombe,REP,406,149,0,0,0,8,249
+Union,Bonham,Coroner,,Write-In,NON,34,20,0,0,0,0,14
+Union,Buffalo Box 1,Coroner,,William E Holcombe,REP,417,127,0,0,0,1,289
+Union,Buffalo Box 1,Coroner,,Write-In,NON,23,11,0,0,0,1,11
+Union,Carlisle,Coroner,,William E Holcombe,REP,91,35,0,0,0,2,54
+Union,Carlisle,Coroner,,Write-In,NON,32,12,0,0,0,0,20
+Union,Cross Keys,Coroner,,William E Holcombe,REP,369,135,0,0,0,1,233
+Union,Cross Keys,Coroner,,Write-In,NON,24,13,0,0,0,0,11
+Union,Excelsior,Coroner,,William E Holcombe,REP,565,259,0,0,0,12,294
+Union,Excelsior,Coroner,,Write-In,NON,59,39,0,0,0,1,19
+Union,Failsafe,Coroner,,William E Holcombe,REP,20,0,0,0,20,0,0
+Union,Failsafe,Coroner,,Write-In,NON,3,0,0,0,3,0,0
+Union,Failsafe Provisional,Coroner,,William E Holcombe,REP,2,0,2,0,0,0,0
+Union,Failsafe Provisional,Coroner,,Write-In,NON,1,0,1,0,0,0,0
+Union,Jonesville Box 1,Coroner,,William E Holcombe,REP,453,119,0,0,0,1,333
+Union,Jonesville Box 1,Coroner,,Write-In,NON,25,10,0,0,0,1,14
+Union,Jonesville Box 2,Coroner,,William E Holcombe,REP,473,154,0,0,0,5,314
+Union,Jonesville Box 2,Coroner,,Write-In,NON,37,23,0,0,0,2,12
+Union,Kelton,Coroner,,William E Holcombe,REP,404,101,0,0,0,2,301
+Union,Kelton,Coroner,,Write-In,NON,35,14,0,0,0,0,21
+Union,Lockhart,Coroner,,William E Holcombe,REP,284,53,0,0,0,1,230
+Union,Lockhart,Coroner,,Write-In,NON,7,5,0,0,0,0,2
+Union,Monarch,Coroner,,William E Holcombe,REP,606,246,0,0,0,5,355
+Union,Monarch,Coroner,,Write-In,NON,36,24,0,0,0,0,12
+Union,Provisional,Coroner,,William E Holcombe,REP,0,0,0,0,0,0,0
+Union,Provisional,Coroner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,Coroner,,William E Holcombe,REP,355,95,0,0,0,0,260
+Union,Putnam,Coroner,,Write-In,NON,11,10,0,0,0,0,1
+Union,Santuck,Coroner,,William E Holcombe,REP,271,109,0,0,0,1,161
+Union,Santuck,Coroner,,Write-In,NON,26,10,0,0,0,0,16
+Union,Union Ward 1 Box 1,Coroner,,William E Holcombe,REP,269,130,0,0,0,0,139
+Union,Union Ward 1 Box 1,Coroner,,Write-In,NON,22,10,0,0,0,0,12
+Union,Union Ward 1 Box 2,Coroner,,William E Holcombe,REP,285,173,0,0,0,1,111
+Union,Union Ward 1 Box 2,Coroner,,Write-In,NON,89,51,0,0,0,1,37
+Union,Union Ward 2,Coroner,,William E Holcombe,REP,299,169,0,0,0,5,125
+Union,Union Ward 2,Coroner,,Write-In,NON,55,30,0,0,0,1,24
+Union,Union Ward 3,Coroner,,William E Holcombe,REP,171,68,0,0,0,5,98
+Union,Union Ward 3,Coroner,,Write-In,NON,30,11,0,0,0,0,19
+Union,Union Ward 4 Box 1,Coroner,,William E Holcombe,REP,390,194,0,0,0,5,191
+Union,Union Ward 4 Box 1,Coroner,,Write-In,NON,41,24,0,0,0,1,16
+Union,Union Ward 4 Box 2,Coroner,,William E Holcombe,REP,75,25,0,0,0,2,48
+Union,Union Ward 4 Box 2,Coroner,,Write-In,NON,16,9,0,0,0,0,7
+Union,West Springs,Coroner,,William E Holcombe,REP,174,29,0,0,0,0,145
+Union,West Springs,Coroner,,Write-In,NON,9,2,0,0,0,0,7
+Union,Bonham,County Council District 1,,Danny R Bright,REP,4,0,0,0,0,0,4
+Union,Bonham,County Council District 1,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe,County Council District 1,,Danny R Bright,REP,3,0,0,0,3,0,0
+Union,Failsafe,County Council District 1,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,County Council District 1,,Danny R Bright,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,County Council District 1,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,County Council District 1,,Danny R Bright,REP,455,121,0,0,0,2,332
+Union,Jonesville Box 1,County Council District 1,,Write-In,NON,2,0,0,0,0,0,2
+Union,Jonesville Box 2,County Council District 1,,Danny R Bright,REP,311,104,0,0,0,4,203
+Union,Jonesville Box 2,County Council District 1,,Write-In,NON,4,2,0,0,0,0,2
+Union,Kelton,County Council District 1,,Danny R Bright,REP,375,91,0,0,0,2,282
+Union,Kelton,County Council District 1,,Write-In,NON,15,8,0,0,0,0,7
+Union,Lockhart,County Council District 1,,Danny R Bright,REP,122,17,0,0,0,0,105
+Union,Lockhart,County Council District 1,,Write-In,NON,1,1,0,0,0,0,0
+Union,Provisional,County Council District 1,,Danny R Bright,REP,0,0,0,0,0,0,0
+Union,Provisional,County Council District 1,,Write-In,NON,0,0,0,0,0,0,0
+Union,Adamsburg,County Council District 4,,Annie Smith,REP,356,100,0,0,0,5,251
+Union,Adamsburg,County Council District 4,,Write-In,NON,1,0,0,0,0,0,1
+Union,Bonham,County Council District 4,,Annie Smith,REP,295,105,0,0,0,8,182
+Union,Bonham,County Council District 4,,Write-In,NON,14,8,0,0,0,0,6
+Union,Failsafe,County Council District 4,,Annie Smith,REP,3,0,0,0,3,0,0
+Union,Failsafe,County Council District 4,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,County Council District 4,,Annie Smith,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,County Council District 4,,Write-In,NON,0,0,0,0,0,0,0
+Union,Lockhart,County Council District 4,,Annie Smith,REP,157,32,0,0,0,1,124
+Union,Lockhart,County Council District 4,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,County Council District 4,,Annie Smith,REP,513,213,0,0,0,5,295
+Union,Monarch,County Council District 4,,Write-In,NON,4,1,0,0,0,0,3
+Union,Provisional,County Council District 4,,Annie Smith,REP,0,0,0,0,0,0,0
+Union,Provisional,County Council District 4,,Write-In,NON,0,0,0,0,0,0,0
+Union,Adamsburg,County Supervisor,,Phillip G Russell II,REP,288,81,0,0,0,3,204
+Union,Adamsburg,County Supervisor,,Arthur Archie Hirschmann,PET,79,21,0,0,0,2,56
+Union,Adamsburg,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Black Rock,County Supervisor,,Phillip G Russell II,REP,115,21,0,0,0,0,94
+Union,Black Rock,County Supervisor,,Arthur Archie Hirschmann,PET,54,26,0,0,0,0,28
+Union,Black Rock,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Bonham,County Supervisor,,Phillip G Russell II,REP,283,91,0,0,0,7,185
+Union,Bonham,County Supervisor,,Arthur Archie Hirschmann,PET,162,77,0,0,0,1,84
+Union,Bonham,County Supervisor,,Write-In,NON,2,1,0,0,0,0,1
+Union,Buffalo Box 1,County Supervisor,,Phillip G Russell II,REP,304,92,0,0,0,0,212
+Union,Buffalo Box 1,County Supervisor,,Arthur Archie Hirschmann,PET,147,50,0,0,0,2,95
+Union,Buffalo Box 1,County Supervisor,,Write-In,NON,2,2,0,0,0,0,0
+Union,Carlisle,County Supervisor,,Phillip G Russell II,REP,65,26,0,0,0,1,38
+Union,Carlisle,County Supervisor,,Arthur Archie Hirschmann,PET,75,34,0,0,0,1,40
+Union,Carlisle,County Supervisor,,Write-In,NON,1,0,0,0,0,0,1
+Union,Cross Keys,County Supervisor,,Phillip G Russell II,REP,263,93,0,0,0,1,169
+Union,Cross Keys,County Supervisor,,Arthur Archie Hirschmann,PET,125,56,0,0,0,0,69
+Union,Cross Keys,County Supervisor,,Write-In,NON,2,1,0,0,0,0,1
+Union,Excelsior,County Supervisor,,Phillip G Russell II,REP,445,200,0,0,0,8,237
+Union,Excelsior,County Supervisor,,Arthur Archie Hirschmann,PET,208,111,0,0,0,8,89
+Union,Excelsior,County Supervisor,,Write-In,NON,9,6,0,0,0,1,2
+Union,Failsafe,County Supervisor,,Phillip G Russell II,REP,19,0,0,0,19,0,0
+Union,Failsafe,County Supervisor,,Arthur Archie Hirschmann,PET,3,0,0,0,3,0,0
+Union,Failsafe,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,County Supervisor,,Phillip G Russell II,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,County Supervisor,,Arthur Archie Hirschmann,PET,3,0,3,0,0,0,0
+Union,Failsafe Provisional,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,County Supervisor,,Phillip G Russell II,REP,337,83,0,0,0,0,254
+Union,Jonesville Box 1,County Supervisor,,Arthur Archie Hirschmann,PET,149,52,0,0,0,2,95
+Union,Jonesville Box 1,County Supervisor,,Write-In,NON,2,1,0,0,0,0,1
+Union,Jonesville Box 2,County Supervisor,,Phillip G Russell II,REP,367,114,0,0,0,4,249
+Union,Jonesville Box 2,County Supervisor,,Arthur Archie Hirschmann,PET,147,59,0,0,0,0,88
+Union,Jonesville Box 2,County Supervisor,,Write-In,NON,2,1,0,0,0,1,0
+Union,Kelton,County Supervisor,,Phillip G Russell II,REP,298,72,0,0,0,1,225
+Union,Kelton,County Supervisor,,Arthur Archie Hirschmann,PET,135,39,0,0,0,2,94
+Union,Kelton,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Lockhart,County Supervisor,,Phillip G Russell II,REP,225,37,0,0,0,1,187
+Union,Lockhart,County Supervisor,,Arthur Archie Hirschmann,PET,72,22,0,0,0,0,50
+Union,Lockhart,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,County Supervisor,,Phillip G Russell II,REP,484,198,0,0,0,4,282
+Union,Monarch,County Supervisor,,Arthur Archie Hirschmann,PET,170,72,0,0,0,1,97
+Union,Monarch,County Supervisor,,Write-In,NON,1,1,0,0,0,0,0
+Union,Provisional,County Supervisor,,Phillip G Russell II,REP,0,0,0,0,0,0,0
+Union,Provisional,County Supervisor,,Arthur Archie Hirschmann,PET,0,0,0,0,0,0,0
+Union,Provisional,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,County Supervisor,,Phillip G Russell II,REP,253,63,0,0,0,0,190
+Union,Putnam,County Supervisor,,Arthur Archie Hirschmann,PET,114,42,0,0,0,0,72
+Union,Putnam,County Supervisor,,Write-In,NON,2,1,0,0,0,0,1
+Union,Santuck,County Supervisor,,Phillip G Russell II,REP,203,83,0,0,0,1,119
+Union,Santuck,County Supervisor,,Arthur Archie Hirschmann,PET,124,56,0,0,0,0,68
+Union,Santuck,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,County Supervisor,,Phillip G Russell II,REP,206,108,0,0,0,0,98
+Union,Union Ward 1 Box 1,County Supervisor,,Arthur Archie Hirschmann,PET,106,53,0,0,0,0,53
+Union,Union Ward 1 Box 1,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,County Supervisor,,Phillip G Russell II,REP,182,100,0,0,0,1,81
+Union,Union Ward 1 Box 2,County Supervisor,,Arthur Archie Hirschmann,PET,200,137,0,0,0,0,63
+Union,Union Ward 1 Box 2,County Supervisor,,Write-In,NON,5,3,0,0,0,0,2
+Union,Union Ward 2,County Supervisor,,Phillip G Russell II,REP,212,119,0,0,0,7,86
+Union,Union Ward 2,County Supervisor,,Arthur Archie Hirschmann,PET,154,88,0,0,0,1,65
+Union,Union Ward 2,County Supervisor,,Write-In,NON,4,4,0,0,0,0,0
+Union,Union Ward 3,County Supervisor,,Phillip G Russell II,REP,102,39,0,0,0,5,58
+Union,Union Ward 3,County Supervisor,,Arthur Archie Hirschmann,PET,107,47,0,0,0,1,59
+Union,Union Ward 3,County Supervisor,,Write-In,NON,2,2,0,0,0,0,0
+Union,Union Ward 4 Box 1,County Supervisor,,Phillip G Russell II,REP,280,145,0,0,0,3,132
+Union,Union Ward 4 Box 1,County Supervisor,,Arthur Archie Hirschmann,PET,155,80,0,0,0,3,72
+Union,Union Ward 4 Box 1,County Supervisor,,Write-In,NON,4,3,0,0,0,0,1
+Union,Union Ward 4 Box 2,County Supervisor,,Phillip G Russell II,REP,47,16,0,0,0,2,29
+Union,Union Ward 4 Box 2,County Supervisor,,Arthur Archie Hirschmann,PET,43,14,0,0,0,0,29
+Union,Union Ward 4 Box 2,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,County Supervisor,,Phillip G Russell II,REP,144,29,0,0,0,0,115
+Union,West Springs,County Supervisor,,Arthur Archie Hirschmann,PET,43,4,0,0,0,0,39
+Union,West Springs,County Supervisor,,Write-In,NON,1,1,0,0,0,0,0
+Union,Adamsburg,County Treasurer,,Deborah E Robertson,DEM,243,69,0,0,0,4,170
+Union,Adamsburg,County Treasurer,,Write-In,NON,7,1,0,0,0,0,6
+Union,Black Rock,County Treasurer,,Deborah E Robertson,DEM,162,55,0,0,0,0,107
+Union,Black Rock,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Union,Bonham,County Treasurer,,Deborah E Robertson,DEM,392,169,0,0,0,7,216
+Union,Bonham,County Treasurer,,Write-In,NON,7,1,0,0,0,0,6
+Union,Buffalo Box 1,County Treasurer,,Deborah E Robertson,DEM,358,130,0,0,0,2,226
+Union,Buffalo Box 1,County Treasurer,,Write-In,NON,8,1,0,0,0,0,7
+Union,Carlisle,County Treasurer,,Deborah E Robertson,DEM,249,93,0,0,0,4,152
+Union,Carlisle,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Union,Cross Keys,County Treasurer,,Deborah E Robertson,DEM,311,145,0,0,0,4,162
+Union,Cross Keys,County Treasurer,,Write-In,NON,5,2,0,0,0,0,3
+Union,Excelsior,County Treasurer,,Deborah E Robertson,DEM,592,302,0,0,0,15,275
+Union,Excelsior,County Treasurer,,Write-In,NON,10,5,0,0,0,0,5
+Union,Failsafe,County Treasurer,,Deborah E Robertson,DEM,24,0,0,0,24,0,0
+Union,Failsafe,County Treasurer,,Write-In,NON,1,0,0,0,1,0,0
+Union,Failsafe Provisional,County Treasurer,,Deborah E Robertson,DEM,4,0,4,0,0,0,0
+Union,Failsafe Provisional,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,County Treasurer,,Deborah E Robertson,DEM,321,110,0,0,0,2,209
+Union,Jonesville Box 1,County Treasurer,,Write-In,NON,7,0,0,0,0,0,7
+Union,Jonesville Box 2,County Treasurer,,Deborah E Robertson,DEM,416,165,0,0,0,8,243
+Union,Jonesville Box 2,County Treasurer,,Write-In,NON,5,2,0,0,0,0,3
+Union,Kelton,County Treasurer,,Deborah E Robertson,DEM,359,101,0,0,0,2,256
+Union,Kelton,County Treasurer,,Write-In,NON,3,1,0,0,0,0,2
+Union,Lockhart,County Treasurer,,Deborah E Robertson,DEM,208,63,0,0,0,0,145
+Union,Lockhart,County Treasurer,,Write-In,NON,8,0,0,0,0,0,8
+Union,Monarch,County Treasurer,,Deborah E Robertson,DEM,475,204,0,0,0,4,267
+Union,Monarch,County Treasurer,,Write-In,NON,11,3,0,0,0,0,8
+Union,Provisional,County Treasurer,,Deborah E Robertson,DEM,0,0,0,0,0,0,0
+Union,Provisional,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,County Treasurer,,Deborah E Robertson,DEM,240,72,0,0,0,0,168
+Union,Putnam,County Treasurer,,Write-In,NON,4,1,0,0,0,0,3
+Union,Santuck,County Treasurer,,Deborah E Robertson,DEM,357,157,0,0,0,3,197
+Union,Santuck,County Treasurer,,Write-In,NON,2,1,0,0,0,0,1
+Union,Union Ward 1 Box 1,County Treasurer,,Deborah E Robertson,DEM,298,160,0,0,0,0,138
+Union,Union Ward 1 Box 1,County Treasurer,,Write-In,NON,4,1,0,0,0,0,3
+Union,Union Ward 1 Box 2,County Treasurer,,Deborah E Robertson,DEM,477,286,0,0,0,3,188
+Union,Union Ward 1 Box 2,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,County Treasurer,,Deborah E Robertson,DEM,441,257,0,0,0,5,179
+Union,Union Ward 2,County Treasurer,,Write-In,NON,4,1,0,0,0,0,3
+Union,Union Ward 3,County Treasurer,,Deborah E Robertson,DEM,267,107,0,0,0,5,155
+Union,Union Ward 3,County Treasurer,,Write-In,NON,1,1,0,0,0,0,0
+Union,Union Ward 4 Box 1,County Treasurer,,Deborah E Robertson,DEM,416,224,0,0,0,4,188
+Union,Union Ward 4 Box 1,County Treasurer,,Write-In,NON,5,0,0,0,0,0,5
+Union,Union Ward 4 Box 2,County Treasurer,,Deborah E Robertson,DEM,120,55,0,0,0,2,63
+Union,Union Ward 4 Box 2,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Union,West Springs,County Treasurer,,Deborah E Robertson,DEM,138,26,0,0,0,0,112
+Union,West Springs,County Treasurer,,Write-In,NON,4,0,0,0,0,0,4
+Union,Adamsburg,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,217,66,0,0,0,4,147
+Union,Adamsburg,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,140,34,0,0,0,0,106
+Union,Black Rock,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,144,53,0,0,0,0,91
+Union,Black Rock,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,52,7,0,0,0,0,45
+Union,Bonham,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,304,122,0,0,0,7,175
+Union,Bonham,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,176,70,0,0,0,3,103
+Union,Buffalo Box 1,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,322,119,0,0,0,1,202
+Union,Buffalo Box 1,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,201,60,0,0,0,1,140
+Union,Carlisle,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,193,74,0,0,0,3,116
+Union,Carlisle,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,45,13,0,0,0,0,32
+Union,Cross Keys,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,261,105,0,0,0,3,153
+Union,Cross Keys,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,190,83,0,0,0,0,107
+Union,Excelsior,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,493,253,0,0,0,10,230
+Union,Excelsior,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,252,122,0,0,0,7,123
+Union,Failsafe,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,25,0,0,0,25,0,0
+Union,Failsafe,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,7,0,0,0,7,0,0
+Union,Failsafe Provisional,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,1,0,1,0,0,0,0
+Union,Failsafe Provisional,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,1,0,1,0,0,0,0
+Union,Jonesville Box 1,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,278,92,0,0,0,2,184
+Union,Jonesville Box 1,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,199,51,0,0,0,0,148
+Union,Jonesville Box 2,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,338,129,0,0,0,5,204
+Union,Jonesville Box 2,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,208,76,0,0,0,4,128
+Union,Kelton,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,265,70,0,0,0,0,195
+Union,Kelton,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,211,60,0,0,0,3,148
+Union,Lockhart,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,157,39,0,0,0,0,118
+Union,Lockhart,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,130,31,0,0,0,1,98
+Union,Monarch,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,393,172,0,0,0,2,219
+Union,Monarch,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,283,115,0,0,0,1,167
+Union,Provisional,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,0,0,0,0,0,0,0
+Union,Provisional,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,0,0,0,0,0,0,0
+Union,Putnam,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,210,61,0,0,0,0,149
+Union,Putnam,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,161,48,0,0,0,0,113
+Union,Santuck,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,261,118,0,0,0,2,141
+Union,Santuck,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,116,52,0,0,0,1,63
+Union,Union Ward 1 Box 1,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,269,149,0,0,0,0,120
+Union,Union Ward 1 Box 1,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,102,45,0,0,0,0,57
+Union,Union Ward 1 Box 2,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,354,207,0,0,0,3,144
+Union,Union Ward 1 Box 2,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,161,97,0,0,0,0,64
+Union,Union Ward 2,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,389,240,0,0,0,4,145
+Union,Union Ward 2,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,102,48,0,0,0,4,50
+Union,Union Ward 3,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,216,87,0,0,0,5,124
+Union,Union Ward 3,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,77,36,0,0,0,0,41
+Union,Union Ward 4 Box 1,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,362,185,0,0,0,3,174
+Union,Union Ward 4 Box 1,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,156,85,0,0,0,3,68
+Union,Union Ward 4 Box 2,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,98,42,0,0,0,0,56
+Union,Union Ward 4 Box 2,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,34,14,0,0,0,2,18
+Union,West Springs,Education Capital Improvement and Use Tax Referendum,,"Yes, In Favor of the Question",NON,122,28,0,0,0,0,94
+Union,West Springs,Education Capital Improvement and Use Tax Referendum,,"No, Opposed to the Question",NON,81,13,0,0,0,0,68
+Union,Adamsburg,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,5,1,0,0,0,0,4
+Union,Adamsburg,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Union,Adamsburg,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,319,85,0,0,0,5,229
+Union,Adamsburg,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,57,19,0,0,0,0,38
+Union,Adamsburg,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Black Rock,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,0,0,0,0,0,4
+Union,Black Rock,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Union,Black Rock,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,86,13,0,0,0,0,73
+Union,Black Rock,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,131,52,0,0,0,0,79
+Union,Black Rock,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Union,Bonham,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,6,2,0,0,0,0,4
+Union,Bonham,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,0,0,0,0,0,3
+Union,Bonham,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,335,116,0,0,0,6,213
+Union,Bonham,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,190,100,0,0,0,5,85
+Union,Bonham,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,8,5,0,0,0,0,3
+Union,Buffalo Box 1,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Union,Buffalo Box 1,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,348,98,0,0,0,1,249
+Union,Buffalo Box 1,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,175,79,0,0,0,1,95
+Union,Buffalo Box 1,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Carlisle,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,1,0,0,0,0,0
+Union,Carlisle,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,2,0,0,0,0,0
+Union,Carlisle,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,32,14,0,0,0,0,18
+Union,Carlisle,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,229,81,0,0,0,4,144
+Union,Carlisle,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Cross Keys,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Union,Cross Keys,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Union,Cross Keys,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,330,117,0,0,0,0,213
+Union,Cross Keys,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,130,79,0,0,0,4,47
+Union,Cross Keys,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,5,3,0,0,0,0,2
+Union,Excelsior,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,2,0,0,0,0,2
+Union,Excelsior,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,456,204,0,0,0,5,247
+Union,Excelsior,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,324,191,0,0,0,13,120
+Union,Excelsior,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Union,Failsafe,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,0,0,0,2,0,0
+Union,Failsafe,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Union,Failsafe,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,17,0,0,0,17,0,0
+Union,Failsafe,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,16,0,0,0,16,0,0
+Union,Failsafe,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1,0,1,0,0,0,0
+Union,Failsafe Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,3,0,3,0,0,0,0
+Union,Failsafe Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,0,0,0,0,0,2
+Union,Jonesville Box 1,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,7,1,0,0,0,0,6
+Union,Jonesville Box 1,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,384,91,0,0,0,0,293
+Union,Jonesville Box 1,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,148,73,0,0,0,2,73
+Union,Jonesville Box 1,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Union,Jonesville Box 2,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,3,0,0,0,0,4
+Union,Jonesville Box 2,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,2,0,0,0,0,2
+Union,Jonesville Box 2,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,390,108,0,0,0,1,281
+Union,Jonesville Box 2,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,228,120,0,0,0,8,100
+Union,Jonesville Box 2,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Kelton,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,0,0,0,0,0,3
+Union,Kelton,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,1,0,0,0,0,3
+Union,Kelton,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,337,80,0,0,0,1,256
+Union,Kelton,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,174,60,0,0,0,2,112
+Union,Kelton,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Lockhart,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,0,0,0,0,0,2
+Union,Lockhart,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Union,Lockhart,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,253,42,0,0,0,1,210
+Union,Lockhart,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,67,32,0,0,0,0,35
+Union,Lockhart,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,5,1,0,0,0,0,4
+Union,Monarch,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Union,Monarch,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,520,211,0,0,0,4,305
+Union,Monarch,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,208,107,0,0,0,2,99
+Union,Monarch,Governor and Lieutenant Governor,,Write-In,NON,1,1,0,0,0,0,0
+Union,Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Union,Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Union,Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,0,0,0,0,0,0,0
+Union,Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,0,0,0,0,0,0,0
+Union,Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,0,0,0,0,0,4
+Union,Putnam,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Union,Putnam,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,321,85,0,0,0,0,236
+Union,Putnam,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,59,30,0,0,0,0,29
+Union,Putnam,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Union,Santuck,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Union,Santuck,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,0,0,0,0,0,2
+Union,Santuck,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,196,77,0,0,0,0,119
+Union,Santuck,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,231,108,0,0,0,3,120
+Union,Santuck,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,5,1,0,0,0,0,4
+Union,Union Ward 1 Box 1,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,200,94,0,0,0,0,106
+Union,Union Ward 1 Box 1,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,178,106,0,0,0,0,72
+Union,Union Ward 1 Box 1,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,3,0,0,0,0,1
+Union,Union Ward 1 Box 2,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,2,0,0,0,0,1
+Union,Union Ward 1 Box 2,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,164,85,0,0,0,1,78
+Union,Union Ward 1 Box 2,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,374,233,0,0,0,2,139
+Union,Union Ward 1 Box 2,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,5,1,0,0,0,0,4
+Union,Union Ward 2,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Union,Union Ward 2,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,201,101,0,0,0,4,96
+Union,Union Ward 2,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,309,196,0,0,0,5,108
+Union,Union Ward 2,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 3,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,1,0,0,0,0,2
+Union,Union Ward 3,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Union,Union Ward 3,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,95,36,0,0,0,2,57
+Union,Union Ward 3,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,206,91,0,0,0,4,111
+Union,Union Ward 3,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,1,0,0,0,0,3
+Union,Union Ward 4 Box 1,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,2,0,0,0,0,2
+Union,Union Ward 4 Box 1,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,303,157,0,0,0,5,141
+Union,Union Ward 4 Box 1,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,219,117,0,0,0,2,100
+Union,Union Ward 4 Box 1,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Union,Union Ward 4 Box 2,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,37,7,0,0,0,2,28
+Union,Union Ward 4 Box 2,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,101,52,0,0,0,0,49
+Union,Union Ward 4 Box 2,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Union,West Springs,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Union,West Springs,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,155,26,0,0,0,0,129
+Union,West Springs,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,55,16,0,0,0,0,39
+Union,West Springs,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Union,Bonham,Jonesville Fire District Commissioner,,Michael Moochie Brewington,NON,4,1,0,0,0,0,3
+Union,Bonham,Jonesville Fire District Commissioner,,Wayne Clayton,NON,2,0,0,0,0,0,2
+Union,Bonham,Jonesville Fire District Commissioner,,Craig Horne,NON,2,0,0,0,0,0,2
+Union,Bonham,Jonesville Fire District Commissioner,,James W Long,NON,2,0,0,0,0,0,2
+Union,Bonham,Jonesville Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe,Jonesville Fire District Commissioner,,Michael Moochie Brewington,NON,1,0,0,0,1,0,0
+Union,Failsafe,Jonesville Fire District Commissioner,,Wayne Clayton,NON,2,0,0,0,2,0,0
+Union,Failsafe,Jonesville Fire District Commissioner,,Craig Horne,NON,1,0,0,0,1,0,0
+Union,Failsafe,Jonesville Fire District Commissioner,,James W Long,NON,1,0,0,0,1,0,0
+Union,Failsafe,Jonesville Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Jonesville Fire District Commissioner,,Michael Moochie Brewington,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Jonesville Fire District Commissioner,,Wayne Clayton,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Jonesville Fire District Commissioner,,Craig Horne,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Jonesville Fire District Commissioner,,James W Long,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Jonesville Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Jonesville Fire District Commissioner,,Michael Moochie Brewington,NON,247,69,0,0,0,2,176
+Union,Jonesville Box 1,Jonesville Fire District Commissioner,,Wayne Clayton,NON,183,53,0,0,0,1,129
+Union,Jonesville Box 1,Jonesville Fire District Commissioner,,Craig Horne,NON,122,37,0,0,0,1,84
+Union,Jonesville Box 1,Jonesville Fire District Commissioner,,James W Long,NON,185,55,0,0,0,0,130
+Union,Jonesville Box 1,Jonesville Fire District Commissioner,,Write-In,NON,1,0,0,0,0,0,1
+Union,Jonesville Box 2,Jonesville Fire District Commissioner,,Michael Moochie Brewington,NON,249,82,0,0,0,4,163
+Union,Jonesville Box 2,Jonesville Fire District Commissioner,,Wayne Clayton,NON,160,48,0,0,0,4,108
+Union,Jonesville Box 2,Jonesville Fire District Commissioner,,Craig Horne,NON,132,47,0,0,0,4,81
+Union,Jonesville Box 2,Jonesville Fire District Commissioner,,James W Long,NON,214,65,0,0,0,2,147
+Union,Jonesville Box 2,Jonesville Fire District Commissioner,,Write-In,NON,5,4,0,0,0,0,1
+Union,Kelton,Jonesville Fire District Commissioner,,Michael Moochie Brewington,NON,4,3,0,0,0,0,1
+Union,Kelton,Jonesville Fire District Commissioner,,Wayne Clayton,NON,3,2,0,0,0,0,1
+Union,Kelton,Jonesville Fire District Commissioner,,Craig Horne,NON,2,1,0,0,0,0,1
+Union,Kelton,Jonesville Fire District Commissioner,,James W Long,NON,5,5,0,0,0,0,0
+Union,Kelton,Jonesville Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,Jonesville Fire District Commissioner,,Michael Moochie Brewington,NON,0,0,0,0,0,0,0
+Union,Provisional,Jonesville Fire District Commissioner,,Wayne Clayton,NON,0,0,0,0,0,0,0
+Union,Provisional,Jonesville Fire District Commissioner,,Craig Horne,NON,0,0,0,0,0,0,0
+Union,Provisional,Jonesville Fire District Commissioner,,James W Long,NON,0,0,0,0,0,0,0
+Union,Provisional,Jonesville Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Adamsburg,Monarch Fire Disrict Commissioner,,Write-In,NON,10,9,0,0,0,1,0
+Union,Excelsior,Monarch Fire Disrict Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe,Monarch Fire Disrict Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Monarch Fire Disrict Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,Monarch Fire Disrict Commissioner,,Write-In,NON,55,30,0,0,0,2,23
+Union,Provisional,Monarch Fire Disrict Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Santuck,Monarch Fire Disrict Commissioner,,Write-In,NON,1,0,0,0,0,0,1
+Union,Adamsburg,Probate Judge,,Gregory S Weaver,REP,294,79,0,0,0,5,210
+Union,Adamsburg,Probate Judge,,Calvin Payton,DEM,87,27,0,0,0,0,60
+Union,Adamsburg,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Black Rock,Probate Judge,,Gregory S Weaver,REP,88,9,0,0,0,0,79
+Union,Black Rock,Probate Judge,,Calvin Payton,DEM,135,54,0,0,0,0,81
+Union,Black Rock,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Bonham,Probate Judge,,Gregory S Weaver,REP,322,106,0,0,0,6,210
+Union,Bonham,Probate Judge,,Calvin Payton,DEM,205,109,0,0,0,5,91
+Union,Bonham,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,Probate Judge,,Gregory S Weaver,REP,350,101,0,0,0,0,249
+Union,Buffalo Box 1,Probate Judge,,Calvin Payton,DEM,182,81,0,0,0,2,99
+Union,Buffalo Box 1,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Carlisle,Probate Judge,,Gregory S Weaver,REP,32,14,0,0,0,0,18
+Union,Carlisle,Probate Judge,,Calvin Payton,DEM,233,86,0,0,0,4,143
+Union,Carlisle,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Cross Keys,Probate Judge,,Gregory S Weaver,REP,319,112,0,0,0,0,207
+Union,Cross Keys,Probate Judge,,Calvin Payton,DEM,145,86,0,0,0,4,55
+Union,Cross Keys,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,Probate Judge,,Gregory S Weaver,REP,438,196,0,0,0,7,235
+Union,Excelsior,Probate Judge,,Calvin Payton,DEM,340,195,0,0,0,11,134
+Union,Excelsior,Probate Judge,,Write-In,NON,1,1,0,0,0,0,0
+Union,Failsafe,Probate Judge,,Gregory S Weaver,REP,17,0,0,0,17,0,0
+Union,Failsafe,Probate Judge,,Calvin Payton,DEM,17,0,0,0,17,0,0
+Union,Failsafe,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Probate Judge,,Gregory S Weaver,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Probate Judge,,Calvin Payton,DEM,4,0,4,0,0,0,0
+Union,Failsafe Provisional,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Probate Judge,,Gregory S Weaver,REP,392,93,0,0,0,1,298
+Union,Jonesville Box 1,Probate Judge,,Calvin Payton,DEM,150,72,0,0,0,1,77
+Union,Jonesville Box 1,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 2,Probate Judge,,Gregory S Weaver,REP,389,110,0,0,0,3,276
+Union,Jonesville Box 2,Probate Judge,,Calvin Payton,DEM,234,122,0,0,0,6,106
+Union,Jonesville Box 2,Probate Judge,,Write-In,NON,1,0,0,0,0,0,1
+Union,Kelton,Probate Judge,,Gregory S Weaver,REP,332,76,0,0,0,1,255
+Union,Kelton,Probate Judge,,Calvin Payton,DEM,182,64,0,0,0,2,116
+Union,Kelton,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Lockhart,Probate Judge,,Gregory S Weaver,REP,244,34,0,0,0,1,209
+Union,Lockhart,Probate Judge,,Calvin Payton,DEM,81,42,0,0,0,0,39
+Union,Lockhart,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,Probate Judge,,Gregory S Weaver,REP,523,211,0,0,0,4,308
+Union,Monarch,Probate Judge,,Calvin Payton,DEM,216,111,0,0,0,2,103
+Union,Monarch,Probate Judge,,Write-In,NON,3,0,0,0,0,0,3
+Union,Provisional,Probate Judge,,Gregory S Weaver,REP,0,0,0,0,0,0,0
+Union,Provisional,Probate Judge,,Calvin Payton,DEM,0,0,0,0,0,0,0
+Union,Provisional,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,Probate Judge,,Gregory S Weaver,REP,325,85,0,0,0,0,240
+Union,Putnam,Probate Judge,,Calvin Payton,DEM,60,29,0,0,0,0,31
+Union,Putnam,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Santuck,Probate Judge,,Gregory S Weaver,REP,190,69,0,0,0,0,121
+Union,Santuck,Probate Judge,,Calvin Payton,DEM,242,118,0,0,0,3,121
+Union,Santuck,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,Probate Judge,,Gregory S Weaver,REP,209,96,0,0,0,0,113
+Union,Union Ward 1 Box 1,Probate Judge,,Calvin Payton,DEM,173,103,0,0,0,0,70
+Union,Union Ward 1 Box 1,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,Probate Judge,,Gregory S Weaver,REP,174,91,0,0,0,1,82
+Union,Union Ward 1 Box 2,Probate Judge,,Calvin Payton,DEM,373,232,0,0,0,2,139
+Union,Union Ward 1 Box 2,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,Probate Judge,,Gregory S Weaver,REP,199,102,0,0,0,4,93
+Union,Union Ward 2,Probate Judge,,Calvin Payton,DEM,312,195,0,0,0,5,112
+Union,Union Ward 2,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 3,Probate Judge,,Gregory S Weaver,REP,101,40,0,0,0,3,58
+Union,Union Ward 3,Probate Judge,,Calvin Payton,DEM,205,89,0,0,0,3,113
+Union,Union Ward 3,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,Probate Judge,,Gregory S Weaver,REP,305,151,0,0,0,4,150
+Union,Union Ward 4 Box 1,Probate Judge,,Calvin Payton,DEM,224,126,0,0,0,3,95
+Union,Union Ward 4 Box 1,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Probate Judge,,Gregory S Weaver,REP,39,8,0,0,0,2,29
+Union,Union Ward 4 Box 2,Probate Judge,,Calvin Payton,DEM,99,50,0,0,0,0,49
+Union,Union Ward 4 Box 2,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,Probate Judge,,Gregory S Weaver,REP,151,24,0,0,0,0,127
+Union,West Springs,Probate Judge,,Calvin Payton,DEM,57,16,0,0,0,0,41
+Union,West Springs,Probate Judge,,Write-In,NON,2,0,0,0,0,0,2
+Union,Black Rock,Santuc Fire District Commissioner,,Darwin Allen,NON,21,4,0,0,0,0,17
+Union,Black Rock,Santuc Fire District Commissioner,,Cal Arnold,NON,18,4,0,0,0,0,14
+Union,Black Rock,Santuc Fire District Commissioner,,John D Cheek Jr,NON,25,6,0,0,0,0,19
+Union,Black Rock,Santuc Fire District Commissioner,,Timika M Wilson,NON,21,10,0,0,0,0,11
+Union,Black Rock,Santuc Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Carlisle,Santuc Fire District Commissioner,,Darwin Allen,NON,3,0,0,0,0,0,3
+Union,Carlisle,Santuc Fire District Commissioner,,Cal Arnold,NON,10,4,0,0,0,0,6
+Union,Carlisle,Santuc Fire District Commissioner,,John D Cheek Jr,NON,37,15,0,0,0,1,21
+Union,Carlisle,Santuc Fire District Commissioner,,Timika M Wilson,NON,26,12,0,0,0,0,14
+Union,Carlisle,Santuc Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,Santuc Fire District Commissioner,,Darwin Allen,NON,5,4,0,0,0,0,1
+Union,Excelsior,Santuc Fire District Commissioner,,Cal Arnold,NON,17,8,0,0,0,0,9
+Union,Excelsior,Santuc Fire District Commissioner,,John D Cheek Jr,NON,7,2,0,0,0,0,5
+Union,Excelsior,Santuc Fire District Commissioner,,Timika M Wilson,NON,4,4,0,0,0,0,0
+Union,Excelsior,Santuc Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe,Santuc Fire District Commissioner,,Darwin Allen,NON,0,0,0,0,0,0,0
+Union,Failsafe,Santuc Fire District Commissioner,,Cal Arnold,NON,0,0,0,0,0,0,0
+Union,Failsafe,Santuc Fire District Commissioner,,John D Cheek Jr,NON,1,0,0,0,1,0,0
+Union,Failsafe,Santuc Fire District Commissioner,,Timika M Wilson,NON,1,0,0,0,1,0,0
+Union,Failsafe,Santuc Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Santuc Fire District Commissioner,,Darwin Allen,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Santuc Fire District Commissioner,,Cal Arnold,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Santuc Fire District Commissioner,,John D Cheek Jr,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Santuc Fire District Commissioner,,Timika M Wilson,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Santuc Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,Santuc Fire District Commissioner,,Darwin Allen,NON,7,6,0,0,0,0,1
+Union,Monarch,Santuc Fire District Commissioner,,Cal Arnold,NON,4,2,0,0,0,0,2
+Union,Monarch,Santuc Fire District Commissioner,,John D Cheek Jr,NON,5,4,0,0,0,0,1
+Union,Monarch,Santuc Fire District Commissioner,,Timika M Wilson,NON,2,2,0,0,0,0,0
+Union,Monarch,Santuc Fire District Commissioner,,Write-In,NON,1,0,0,0,0,0,1
+Union,Provisional,Santuc Fire District Commissioner,,Darwin Allen,NON,0,0,0,0,0,0,0
+Union,Provisional,Santuc Fire District Commissioner,,Cal Arnold,NON,0,0,0,0,0,0,0
+Union,Provisional,Santuc Fire District Commissioner,,John D Cheek Jr,NON,0,0,0,0,0,0,0
+Union,Provisional,Santuc Fire District Commissioner,,Timika M Wilson,NON,0,0,0,0,0,0,0
+Union,Provisional,Santuc Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Santuck,Santuc Fire District Commissioner,,Darwin Allen,NON,61,33,0,0,0,0,28
+Union,Santuck,Santuc Fire District Commissioner,,Cal Arnold,NON,100,36,0,0,0,0,64
+Union,Santuck,Santuc Fire District Commissioner,,John D Cheek Jr,NON,203,79,0,0,0,1,123
+Union,Santuck,Santuc Fire District Commissioner,,Timika M Wilson,NON,119,56,0,0,0,1,62
+Union,Santuck,Santuc Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Black Rock,School Board District 1,,James L Curenton,NON,58,23,0,0,0,0,35
+Union,Black Rock,School Board District 1,,Katie Haney,NON,35,11,0,0,0,0,24
+Union,Black Rock,School Board District 1,,Bill Mabry,NON,7,1,0,0,0,0,6
+Union,Black Rock,School Board District 1,,Write-In,NON,1,1,0,0,0,0,0
+Union,Carlisle,School Board District 1,,James L Curenton,NON,158,60,0,0,0,3,95
+Union,Carlisle,School Board District 1,,Katie Haney,NON,32,15,0,0,0,0,17
+Union,Carlisle,School Board District 1,,Bill Mabry,NON,6,3,0,0,0,0,3
+Union,Carlisle,School Board District 1,,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,School Board District 1,,James L Curenton,NON,53,23,0,0,0,0,30
+Union,Excelsior,School Board District 1,,Katie Haney,NON,79,34,0,0,0,3,42
+Union,Excelsior,School Board District 1,,Bill Mabry,NON,29,13,0,0,0,0,16
+Union,Excelsior,School Board District 1,,Write-In,NON,1,0,0,0,0,0,1
+Union,Failsafe,School Board District 1,,James L Curenton,NON,2,0,0,0,2,0,0
+Union,Failsafe,School Board District 1,,Katie Haney,NON,1,0,0,0,1,0,0
+Union,Failsafe,School Board District 1,,Bill Mabry,NON,0,0,0,0,0,0,0
+Union,Failsafe,School Board District 1,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 1,,James L Curenton,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 1,,Katie Haney,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 1,,Bill Mabry,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 1,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,School Board District 1,,James L Curenton,NON,18,7,0,0,0,0,11
+Union,Monarch,School Board District 1,,Katie Haney,NON,41,17,0,0,0,0,24
+Union,Monarch,School Board District 1,,Bill Mabry,NON,10,6,0,0,0,0,4
+Union,Monarch,School Board District 1,,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 1,,James L Curenton,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 1,,Katie Haney,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 1,,Bill Mabry,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 1,,Write-In,NON,0,0,0,0,0,0,0
+Union,Santuck,School Board District 1,,James L Curenton,NON,164,71,0,0,0,2,91
+Union,Santuck,School Board District 1,,Katie Haney,NON,73,27,0,0,0,0,46
+Union,Santuck,School Board District 1,,Bill Mabry,NON,57,27,0,0,0,0,30
+Union,Santuck,School Board District 1,,Write-In,NON,1,1,0,0,0,0,0
+Union,Union Ward 2,School Board District 1,,James L Curenton,NON,25,16,0,0,0,0,9
+Union,Union Ward 2,School Board District 1,,Katie Haney,NON,11,5,0,0,0,0,6
+Union,Union Ward 2,School Board District 1,,Bill Mabry,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,School Board District 1,,Write-In,NON,0,0,0,0,0,0,0
+Union,Adamsburg,School Board District 3,,Jennifer P Marvin,NON,110,26,0,0,0,3,81
+Union,Adamsburg,School Board District 3,,Write-In,NON,3,1,0,0,0,0,2
+Union,Bonham,School Board District 3,,Jennifer P Marvin,NON,63,32,0,0,0,0,31
+Union,Bonham,School Board District 3,,Write-In,NON,4,3,0,0,0,0,1
+Union,Failsafe,School Board District 3,,Jennifer P Marvin,NON,0,0,0,0,0,0,0
+Union,Failsafe,School Board District 3,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 3,,Jennifer P Marvin,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 3,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,School Board District 3,,Jennifer P Marvin,NON,19,3,0,0,0,0,16
+Union,Jonesville Box 1,School Board District 3,,Write-In,NON,0,0,0,0,0,0,0
+Union,Kelton,School Board District 3,,Jennifer P Marvin,NON,308,77,0,0,0,2,229
+Union,Kelton,School Board District 3,,Write-In,NON,2,0,0,0,0,0,2
+Union,Lockhart,School Board District 3,,Jennifer P Marvin,NON,218,44,0,0,0,0,174
+Union,Lockhart,School Board District 3,,Write-In,NON,3,0,0,0,0,0,3
+Union,Monarch,School Board District 3,,Jennifer P Marvin,NON,1,1,0,0,0,0,0
+Union,Monarch,School Board District 3,,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 3,,Jennifer P Marvin,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 3,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe,School Board District 4,,Edith M Foster,NON,1,0,0,0,1,0,0
+Union,Failsafe,School Board District 4,,Trey Newton,NON,1,0,0,0,1,0,0
+Union,Failsafe,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 4,,Edith M Foster,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 4,,Trey Newton,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,School Board District 4,,Edith M Foster,NON,128,48,0,0,0,1,79
+Union,Jonesville Box 1,School Board District 4,,Trey Newton,NON,217,51,0,0,0,0,166
+Union,Jonesville Box 1,School Board District 4,,Write-In,NON,2,2,0,0,0,0,0
+Union,Jonesville Box 2,School Board District 4,,Edith M Foster,NON,155,77,0,0,0,4,74
+Union,Jonesville Box 2,School Board District 4,,Trey Newton,NON,204,48,0,0,0,2,154
+Union,Jonesville Box 2,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 4,,Edith M Foster,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 4,,Trey Newton,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,School Board District 4,,Edith M Foster,NON,18,3,0,0,0,0,15
+Union,West Springs,School Board District 4,,Trey Newton,NON,27,6,0,0,0,0,21
+Union,West Springs,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,School Board District 5,,Jennifer Ivey Knight,NON,257,73,0,0,0,1,183
+Union,Buffalo Box 1,School Board District 5,,Write-In,NON,2,0,0,0,0,0,2
+Union,Cross Keys,School Board District 5,,Jennifer Ivey Knight,NON,114,55,0,0,0,1,58
+Union,Cross Keys,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe,School Board District 5,,Jennifer Ivey Knight,NON,2,0,0,0,2,0,0
+Union,Failsafe,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 5,,Jennifer Ivey Knight,NON,1,0,1,0,0,0,0
+Union,Failsafe Provisional,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 5,,Jennifer Ivey Knight,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,School Board District 5,,Jennifer Ivey Knight,NON,267,73,0,0,0,0,194
+Union,Putnam,School Board District 5,,Write-In,NON,2,1,0,0,0,0,1
+Union,West Springs,School Board District 5,,Jennifer Ivey Knight,NON,89,13,0,0,0,0,76
+Union,West Springs,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Union,Black Rock,School Board District 8,,Kelly Wilburn Shropshire,NON,31,8,0,0,0,0,23
+Union,Black Rock,School Board District 8,,Write-In,NON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,School Board District 8,,Kelly Wilburn Shropshire,NON,37,21,0,0,0,0,16
+Union,Buffalo Box 1,School Board District 8,,Write-In,NON,1,0,0,0,0,0,1
+Union,Cross Keys,School Board District 8,,Kelly Wilburn Shropshire,NON,159,56,0,0,0,0,103
+Union,Cross Keys,School Board District 8,,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,School Board District 8,,Kelly Wilburn Shropshire,NON,355,174,0,0,0,9,172
+Union,Excelsior,School Board District 8,,Write-In,NON,12,8,0,0,0,1,3
+Union,Failsafe,School Board District 8,,Kelly Wilburn Shropshire,NON,1,0,0,0,1,0,0
+Union,Failsafe,School Board District 8,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 8,,Kelly Wilburn Shropshire,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 8,,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 8,,Kelly Wilburn Shropshire,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 8,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 3,School Board District 8,,Kelly Wilburn Shropshire,NON,35,11,0,0,0,0,24
+Union,Union Ward 3,School Board District 8,,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,School Board District 9,,Beth Ramsey Anthony,NON,4,3,0,0,0,0,1
+Union,Excelsior,School Board District 9,,Sonya V Glenn,NON,8,5,0,0,0,0,3
+Union,Excelsior,School Board District 9,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe,School Board District 9,,Beth Ramsey Anthony,NON,3,0,0,0,3,0,0
+Union,Failsafe,School Board District 9,,Sonya V Glenn,NON,0,0,0,0,0,0,0
+Union,Failsafe,School Board District 9,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 9,,Beth Ramsey Anthony,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,School Board District 9,,Sonya V Glenn,NON,1,0,1,0,0,0,0
+Union,Failsafe Provisional,School Board District 9,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,School Board District 9,,Beth Ramsey Anthony,NON,66,25,0,0,0,0,41
+Union,Monarch,School Board District 9,,Sonya V Glenn,NON,35,22,0,0,0,0,13
+Union,Monarch,School Board District 9,,Write-In,NON,1,0,0,0,0,0,1
+Union,Provisional,School Board District 9,,Beth Ramsey Anthony,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 9,,Sonya V Glenn,NON,0,0,0,0,0,0,0
+Union,Provisional,School Board District 9,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,School Board District 9,,Beth Ramsey Anthony,NON,171,82,0,0,0,0,89
+Union,Union Ward 1 Box 1,School Board District 9,,Sonya V Glenn,NON,74,38,0,0,0,0,36
+Union,Union Ward 1 Box 1,School Board District 9,,Write-In,NON,1,0,0,0,0,0,1
+Union,Union Ward 1 Box 2,School Board District 9,,Beth Ramsey Anthony,NON,102,56,0,0,0,0,46
+Union,Union Ward 1 Box 2,School Board District 9,,Sonya V Glenn,NON,114,64,0,0,0,0,50
+Union,Union Ward 1 Box 2,School Board District 9,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,School Board District 9,,Beth Ramsey Anthony,NON,162,86,0,0,0,2,74
+Union,Union Ward 2,School Board District 9,,Sonya V Glenn,NON,82,53,0,0,0,1,28
+Union,Union Ward 2,School Board District 9,,Write-In,NON,0,0,0,0,0,0,0
+Union,Adamsburg,Secretary of State,,Mark Hammond,REP,325,87,0,0,0,5,233
+Union,Adamsburg,Secretary of State,,Jason Belton,DEM,54,19,0,0,0,0,35
+Union,Adamsburg,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Union,Black Rock,Secretary of State,,Mark Hammond,REP,90,13,0,0,0,0,77
+Union,Black Rock,Secretary of State,,Jason Belton,DEM,131,51,0,0,0,0,80
+Union,Black Rock,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Union,Bonham,Secretary of State,,Mark Hammond,REP,346,120,0,0,0,7,219
+Union,Bonham,Secretary of State,,Jason Belton,DEM,184,97,0,0,0,4,83
+Union,Bonham,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,Secretary of State,,Mark Hammond,REP,361,101,0,0,0,1,259
+Union,Buffalo Box 1,Secretary of State,,Jason Belton,DEM,169,80,0,0,0,1,88
+Union,Buffalo Box 1,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Carlisle,Secretary of State,,Mark Hammond,REP,34,15,0,0,0,0,19
+Union,Carlisle,Secretary of State,,Jason Belton,DEM,230,83,0,0,0,4,143
+Union,Carlisle,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Cross Keys,Secretary of State,,Mark Hammond,REP,329,117,0,0,0,0,212
+Union,Cross Keys,Secretary of State,,Jason Belton,DEM,136,80,0,0,0,4,52
+Union,Cross Keys,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,Secretary of State,,Mark Hammond,REP,465,208,0,0,0,7,250
+Union,Excelsior,Secretary of State,,Jason Belton,DEM,314,183,0,0,0,11,120
+Union,Excelsior,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe,Secretary of State,,Mark Hammond,REP,17,0,0,0,17,0,0
+Union,Failsafe,Secretary of State,,Jason Belton,DEM,18,0,0,0,18,0,0
+Union,Failsafe,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Secretary of State,,Mark Hammond,REP,1,0,1,0,0,0,0
+Union,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,3,0,3,0,0,0,0
+Union,Failsafe Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Secretary of State,,Mark Hammond,REP,402,94,0,0,0,0,308
+Union,Jonesville Box 1,Secretary of State,,Jason Belton,DEM,140,69,0,0,0,2,69
+Union,Jonesville Box 1,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 2,Secretary of State,,Mark Hammond,REP,401,114,0,0,0,1,286
+Union,Jonesville Box 2,Secretary of State,,Jason Belton,DEM,222,118,0,0,0,8,96
+Union,Jonesville Box 2,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Kelton,Secretary of State,,Mark Hammond,REP,341,81,0,0,0,1,259
+Union,Kelton,Secretary of State,,Jason Belton,DEM,168,59,0,0,0,2,107
+Union,Kelton,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Lockhart,Secretary of State,,Mark Hammond,REP,255,42,0,0,0,1,212
+Union,Lockhart,Secretary of State,,Jason Belton,DEM,68,32,0,0,0,0,36
+Union,Lockhart,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,Secretary of State,,Mark Hammond,REP,542,218,0,0,0,4,320
+Union,Monarch,Secretary of State,,Jason Belton,DEM,195,102,0,0,0,2,91
+Union,Monarch,Secretary of State,,Write-In,NON,1,1,0,0,0,0,0
+Union,Provisional,Secretary of State,,Mark Hammond,REP,0,0,0,0,0,0,0
+Union,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Union,Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,Secretary of State,,Mark Hammond,REP,327,85,0,0,0,0,242
+Union,Putnam,Secretary of State,,Jason Belton,DEM,54,27,0,0,0,0,27
+Union,Putnam,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Union,Santuck,Secretary of State,,Mark Hammond,REP,199,79,0,0,0,0,120
+Union,Santuck,Secretary of State,,Jason Belton,DEM,233,108,0,0,0,3,122
+Union,Santuck,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,Secretary of State,,Mark Hammond,REP,205,96,0,0,0,0,109
+Union,Union Ward 1 Box 1,Secretary of State,,Jason Belton,DEM,177,105,0,0,0,0,72
+Union,Union Ward 1 Box 1,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,Secretary of State,,Mark Hammond,REP,169,87,0,0,0,1,81
+Union,Union Ward 1 Box 2,Secretary of State,,Jason Belton,DEM,374,236,0,0,0,2,136
+Union,Union Ward 1 Box 2,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,Secretary of State,,Mark Hammond,REP,212,107,0,0,0,4,101
+Union,Union Ward 2,Secretary of State,,Jason Belton,DEM,301,188,0,0,0,5,108
+Union,Union Ward 2,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 3,Secretary of State,,Mark Hammond,REP,111,43,0,0,0,3,65
+Union,Union Ward 3,Secretary of State,,Jason Belton,DEM,194,85,0,0,0,3,106
+Union,Union Ward 3,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,Secretary of State,,Mark Hammond,REP,317,161,0,0,0,5,151
+Union,Union Ward 4 Box 1,Secretary of State,,Jason Belton,DEM,212,115,0,0,0,2,95
+Union,Union Ward 4 Box 1,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Secretary of State,,Mark Hammond,REP,40,8,0,0,0,2,30
+Union,Union Ward 4 Box 2,Secretary of State,,Jason Belton,DEM,97,49,0,0,0,0,48
+Union,Union Ward 4 Box 2,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,Secretary of State,,Mark Hammond,REP,159,26,0,0,0,0,133
+Union,West Springs,Secretary of State,,Jason Belton,DEM,51,16,0,0,0,0,35
+Union,West Springs,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Union,Adamsburg,Soil and Water District Commission,,Dudley Adams,NON,198,59,0,0,0,3,136
+Union,Adamsburg,Soil and Water District Commission,,Michael Lancaster,NON,184,50,0,0,0,4,130
+Union,Adamsburg,Soil and Water District Commission,,Write-In,NON,3,1,0,0,0,0,2
+Union,Black Rock,Soil and Water District Commission,,Dudley Adams,NON,67,26,0,0,0,0,41
+Union,Black Rock,Soil and Water District Commission,,Michael Lancaster,NON,84,23,0,0,0,0,61
+Union,Black Rock,Soil and Water District Commission,,Write-In,NON,3,2,0,0,0,0,1
+Union,Bonham,Soil and Water District Commission,,Dudley Adams,NON,231,99,0,0,0,2,130
+Union,Bonham,Soil and Water District Commission,,Michael Lancaster,NON,220,76,0,0,0,2,142
+Union,Bonham,Soil and Water District Commission,,Write-In,NON,5,1,0,0,0,0,4
+Union,Buffalo Box 1,Soil and Water District Commission,,Dudley Adams,NON,207,67,0,0,0,1,139
+Union,Buffalo Box 1,Soil and Water District Commission,,Michael Lancaster,NON,200,59,0,0,0,1,140
+Union,Buffalo Box 1,Soil and Water District Commission,,Write-In,NON,4,2,0,0,0,0,2
+Union,Carlisle,Soil and Water District Commission,,Dudley Adams,NON,71,30,0,0,0,3,38
+Union,Carlisle,Soil and Water District Commission,,Michael Lancaster,NON,81,36,0,0,0,0,45
+Union,Carlisle,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Union,Cross Keys,Soil and Water District Commission,,Dudley Adams,NON,176,78,0,0,0,0,98
+Union,Cross Keys,Soil and Water District Commission,,Michael Lancaster,NON,169,64,0,0,0,1,104
+Union,Cross Keys,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Union,Excelsior,Soil and Water District Commission,,Dudley Adams,NON,351,164,0,0,0,10,177
+Union,Excelsior,Soil and Water District Commission,,Michael Lancaster,NON,330,159,0,0,0,13,158
+Union,Excelsior,Soil and Water District Commission,,Write-In,NON,13,7,0,0,0,1,5
+Union,Failsafe,Soil and Water District Commission,,Dudley Adams,NON,9,0,0,0,9,0,0
+Union,Failsafe,Soil and Water District Commission,,Michael Lancaster,NON,10,0,0,0,10,0,0
+Union,Failsafe,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Soil and Water District Commission,,Dudley Adams,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Soil and Water District Commission,,Michael Lancaster,NON,3,0,3,0,0,0,0
+Union,Failsafe Provisional,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Soil and Water District Commission,,Dudley Adams,NON,204,58,0,0,0,1,145
+Union,Jonesville Box 1,Soil and Water District Commission,,Michael Lancaster,NON,210,58,0,0,0,2,150
+Union,Jonesville Box 1,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 2,Soil and Water District Commission,,Dudley Adams,NON,218,66,0,0,0,3,149
+Union,Jonesville Box 2,Soil and Water District Commission,,Michael Lancaster,NON,236,82,0,0,0,3,151
+Union,Jonesville Box 2,Soil and Water District Commission,,Write-In,NON,5,3,0,0,0,0,2
+Union,Kelton,Soil and Water District Commission,,Dudley Adams,NON,219,58,0,0,0,3,158
+Union,Kelton,Soil and Water District Commission,,Michael Lancaster,NON,182,55,0,0,0,2,125
+Union,Kelton,Soil and Water District Commission,,Write-In,NON,2,2,0,0,0,0,0
+Union,Lockhart,Soil and Water District Commission,,Dudley Adams,NON,136,32,0,0,0,0,104
+Union,Lockhart,Soil and Water District Commission,,Michael Lancaster,NON,116,32,0,0,0,0,84
+Union,Lockhart,Soil and Water District Commission,,Write-In,NON,4,0,0,0,0,0,4
+Union,Monarch,Soil and Water District Commission,,Dudley Adams,NON,329,140,0,0,0,3,186
+Union,Monarch,Soil and Water District Commission,,Michael Lancaster,NON,284,119,0,0,0,3,162
+Union,Monarch,Soil and Water District Commission,,Write-In,NON,9,2,0,0,0,0,7
+Union,Provisional,Soil and Water District Commission,,Dudley Adams,NON,0,0,0,0,0,0,0
+Union,Provisional,Soil and Water District Commission,,Michael Lancaster,NON,0,0,0,0,0,0,0
+Union,Provisional,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,Soil and Water District Commission,,Dudley Adams,NON,194,63,0,0,0,0,131
+Union,Putnam,Soil and Water District Commission,,Michael Lancaster,NON,149,34,0,0,0,0,115
+Union,Putnam,Soil and Water District Commission,,Write-In,NON,2,0,0,0,0,0,2
+Union,Santuck,Soil and Water District Commission,,Dudley Adams,NON,188,74,0,0,0,1,113
+Union,Santuck,Soil and Water District Commission,,Michael Lancaster,NON,170,78,0,0,0,1,91
+Union,Santuck,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,Soil and Water District Commission,,Dudley Adams,NON,154,78,0,0,0,0,76
+Union,Union Ward 1 Box 1,Soil and Water District Commission,,Michael Lancaster,NON,154,74,0,0,0,0,80
+Union,Union Ward 1 Box 1,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,Soil and Water District Commission,,Dudley Adams,NON,177,108,0,0,0,0,69
+Union,Union Ward 1 Box 2,Soil and Water District Commission,,Michael Lancaster,NON,204,131,0,0,0,1,72
+Union,Union Ward 1 Box 2,Soil and Water District Commission,,Write-In,NON,5,4,0,0,0,0,1
+Union,Union Ward 2,Soil and Water District Commission,,Dudley Adams,NON,213,123,0,0,0,3,87
+Union,Union Ward 2,Soil and Water District Commission,,Michael Lancaster,NON,201,122,0,0,0,2,77
+Union,Union Ward 2,Soil and Water District Commission,,Write-In,NON,6,3,0,0,0,0,3
+Union,Union Ward 3,Soil and Water District Commission,,Dudley Adams,NON,84,24,0,0,0,5,55
+Union,Union Ward 3,Soil and Water District Commission,,Michael Lancaster,NON,107,50,0,0,0,1,56
+Union,Union Ward 3,Soil and Water District Commission,,Write-In,NON,5,2,0,0,0,0,3
+Union,Union Ward 4 Box 1,Soil and Water District Commission,,Dudley Adams,NON,226,121,0,0,0,3,102
+Union,Union Ward 4 Box 1,Soil and Water District Commission,,Michael Lancaster,NON,215,111,0,0,0,1,103
+Union,Union Ward 4 Box 1,Soil and Water District Commission,,Write-In,NON,5,4,0,0,0,0,1
+Union,Union Ward 4 Box 2,Soil and Water District Commission,,Dudley Adams,NON,44,20,0,0,0,2,22
+Union,Union Ward 4 Box 2,Soil and Water District Commission,,Michael Lancaster,NON,50,17,0,0,0,2,31
+Union,Union Ward 4 Box 2,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,Soil and Water District Commission,,Dudley Adams,NON,77,13,0,0,0,0,64
+Union,West Springs,Soil and Water District Commission,,Michael Lancaster,NON,80,11,0,0,0,0,69
+Union,West Springs,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,Southside Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,Southside Fire District Commissioner,,Write-In,NON,112,51,0,0,0,4,57
+Union,Failsafe,Southside Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Southside Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,Southside Fire District Commissioner,,Write-In,NON,3,3,0,0,0,0,0
+Union,Provisional,Southside Fire District Commissioner,,Write-In,NON,0,0,0,0,0,0,0
+Union,Adamsburg,State House,42,Doug Gilliam,REP,326,87,0,0,0,4,235
+Union,Adamsburg,State House,42,Robert Larry Williams,DEM,55,19,0,0,0,1,35
+Union,Adamsburg,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,Black Rock,State House,42,Doug Gilliam,REP,93,13,0,0,0,0,80
+Union,Black Rock,State House,42,Robert Larry Williams,DEM,132,51,0,0,0,0,81
+Union,Black Rock,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,Bonham,State House,42,Doug Gilliam,REP,343,117,0,0,0,6,220
+Union,Bonham,State House,42,Robert Larry Williams,DEM,187,99,0,0,0,5,83
+Union,Bonham,State House,42,Write-In,NON,1,1,0,0,0,0,0
+Union,Buffalo Box 1,State House,42,Doug Gilliam,REP,366,105,0,0,0,0,261
+Union,Buffalo Box 1,State House,42,Robert Larry Williams,DEM,167,77,0,0,0,1,89
+Union,Buffalo Box 1,State House,42,Write-In,NON,2,1,0,0,0,1,0
+Union,Carlisle,State House,42,Doug Gilliam,REP,46,21,0,0,0,0,25
+Union,Carlisle,State House,42,Robert Larry Williams,DEM,215,78,0,0,0,4,133
+Union,Carlisle,State House,42,Write-In,NON,2,0,0,0,0,0,2
+Union,Cross Keys,State House,42,Doug Gilliam,REP,332,119,0,0,0,0,213
+Union,Cross Keys,State House,42,Robert Larry Williams,DEM,127,75,0,0,0,4,48
+Union,Cross Keys,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,State House,42,Doug Gilliam,REP,474,210,0,0,0,6,258
+Union,Excelsior,State House,42,Robert Larry Williams,DEM,309,184,0,0,0,11,114
+Union,Excelsior,State House,42,Write-In,NON,3,1,0,0,0,1,1
+Union,Failsafe,State House,42,Doug Gilliam,REP,18,0,0,0,18,0,0
+Union,Failsafe,State House,42,Robert Larry Williams,DEM,17,0,0,0,17,0,0
+Union,Failsafe,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,State House,42,Doug Gilliam,REP,1,0,1,0,0,0,0
+Union,Failsafe Provisional,State House,42,Robert Larry Williams,DEM,3,0,3,0,0,0,0
+Union,Failsafe Provisional,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,State House,42,Doug Gilliam,REP,401,93,0,0,0,0,308
+Union,Jonesville Box 1,State House,42,Robert Larry Williams,DEM,141,71,0,0,0,2,68
+Union,Jonesville Box 1,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 2,State House,42,Doug Gilliam,REP,401,114,0,0,0,3,284
+Union,Jonesville Box 2,State House,42,Robert Larry Williams,DEM,224,119,0,0,0,6,99
+Union,Jonesville Box 2,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,Kelton,State House,42,Doug Gilliam,REP,348,81,0,0,0,1,266
+Union,Kelton,State House,42,Robert Larry Williams,DEM,166,58,0,0,0,2,106
+Union,Kelton,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,Lockhart,State House,42,Doug Gilliam,REP,251,42,0,0,0,1,208
+Union,Lockhart,State House,42,Robert Larry Williams,DEM,70,34,0,0,0,0,36
+Union,Lockhart,State House,42,Write-In,NON,2,0,0,0,0,0,2
+Union,Monarch,State House,42,Doug Gilliam,REP,538,219,0,0,0,4,315
+Union,Monarch,State House,42,Robert Larry Williams,DEM,197,102,0,0,0,2,93
+Union,Monarch,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,State House,42,Doug Gilliam,REP,0,0,0,0,0,0,0
+Union,Provisional,State House,42,Robert Larry Williams,DEM,0,0,0,0,0,0,0
+Union,Provisional,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,State House,42,Doug Gilliam,REP,336,87,0,0,0,0,249
+Union,Putnam,State House,42,Robert Larry Williams,DEM,45,24,0,0,0,0,21
+Union,Putnam,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,Santuck,State House,42,Doug Gilliam,REP,207,81,0,0,0,1,125
+Union,Santuck,State House,42,Robert Larry Williams,DEM,224,104,0,0,0,2,118
+Union,Santuck,State House,42,Write-In,NON,1,0,0,0,0,0,1
+Union,Union Ward 1 Box 1,State House,42,Doug Gilliam,REP,218,102,0,0,0,0,116
+Union,Union Ward 1 Box 1,State House,42,Robert Larry Williams,DEM,164,98,0,0,0,0,66
+Union,Union Ward 1 Box 1,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,State House,42,Doug Gilliam,REP,183,95,0,0,0,1,87
+Union,Union Ward 1 Box 2,State House,42,Robert Larry Williams,DEM,361,226,0,0,0,2,133
+Union,Union Ward 1 Box 2,State House,42,Write-In,NON,2,2,0,0,0,0,0
+Union,Union Ward 2,State House,42,Doug Gilliam,REP,211,107,0,0,0,5,99
+Union,Union Ward 2,State House,42,Robert Larry Williams,DEM,300,188,0,0,0,4,108
+Union,Union Ward 2,State House,42,Write-In,NON,2,2,0,0,0,0,0
+Union,Union Ward 3,State House,42,Doug Gilliam,REP,114,43,0,0,0,2,69
+Union,Union Ward 3,State House,42,Robert Larry Williams,DEM,190,85,0,0,0,4,101
+Union,Union Ward 3,State House,42,Write-In,NON,2,1,0,0,0,0,1
+Union,Union Ward 4 Box 1,State House,42,Doug Gilliam,REP,317,161,0,0,0,4,152
+Union,Union Ward 4 Box 1,State House,42,Robert Larry Williams,DEM,208,112,0,0,0,2,94
+Union,Union Ward 4 Box 1,State House,42,Write-In,NON,2,1,0,0,0,1,0
+Union,Union Ward 4 Box 2,State House,42,Doug Gilliam,REP,40,9,0,0,0,2,29
+Union,Union Ward 4 Box 2,State House,42,Robert Larry Williams,DEM,96,48,0,0,0,0,48
+Union,Union Ward 4 Box 2,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,State House,42,Doug Gilliam,REP,157,26,0,0,0,0,131
+Union,West Springs,State House,42,Robert Larry Williams,DEM,53,16,0,0,0,0,37
+Union,West Springs,State House,42,Write-In,NON,0,0,0,0,0,0,0
+Union,Adamsburg,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,1,0,0,0,0,1
+Union,Adamsburg,State Superintendent of Education,,Ellen Weaver,REP,308,83,0,0,0,5,220
+Union,Adamsburg,State Superintendent of Education,,Sylvia Wright,DEM,70,22,0,0,0,0,48
+Union,Adamsburg,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Black Rock,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,0,0,0,0,0,2
+Union,Black Rock,State Superintendent of Education,,Ellen Weaver,REP,87,11,0,0,0,0,76
+Union,Black Rock,State Superintendent of Education,,Sylvia Wright,DEM,134,53,0,0,0,0,81
+Union,Black Rock,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Union,Bonham,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,1,0,0,0,0,3
+Union,Bonham,State Superintendent of Education,,Ellen Weaver,REP,332,118,0,0,0,5,209
+Union,Bonham,State Superintendent of Education,,Sylvia Wright,DEM,193,97,0,0,0,6,90
+Union,Bonham,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,2,0,0,0,0,3
+Union,Buffalo Box 1,State Superintendent of Education,,Ellen Weaver,REP,353,99,0,0,0,1,253
+Union,Buffalo Box 1,State Superintendent of Education,,Sylvia Wright,DEM,178,83,0,0,0,1,94
+Union,Buffalo Box 1,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Carlisle,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Union,Carlisle,State Superintendent of Education,,Ellen Weaver,REP,32,15,0,0,0,0,17
+Union,Carlisle,State Superintendent of Education,,Sylvia Wright,DEM,230,84,0,0,0,4,142
+Union,Carlisle,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Cross Keys,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,1,0,0,0,0,1
+Union,Cross Keys,State Superintendent of Education,,Ellen Weaver,REP,319,113,0,0,0,0,206
+Union,Cross Keys,State Superintendent of Education,,Sylvia Wright,DEM,140,81,0,0,0,4,55
+Union,Cross Keys,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,State Superintendent of Education,,Baba Amin Ojuok,UNC,9,5,0,0,0,0,4
+Union,Excelsior,State Superintendent of Education,,Ellen Weaver,REP,453,208,0,0,0,5,240
+Union,Excelsior,State Superintendent of Education,,Sylvia Wright,DEM,322,184,0,0,0,13,125
+Union,Excelsior,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,1,0,0
+Union,Failsafe,State Superintendent of Education,,Ellen Weaver,REP,18,0,0,0,18,0,0
+Union,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,15,0,0,0,15,0,0
+Union,Failsafe,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Union,Failsafe Provisional,State Superintendent of Education,,Ellen Weaver,REP,1,0,1,0,0,0,0
+Union,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,3,0,3,0,0,0,0
+Union,Failsafe Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,1,0,0,0,0,2
+Union,Jonesville Box 1,State Superintendent of Education,,Ellen Weaver,REP,391,90,0,0,0,0,301
+Union,Jonesville Box 1,State Superintendent of Education,,Sylvia Wright,DEM,146,72,0,0,0,2,72
+Union,Jonesville Box 1,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Union,Jonesville Box 2,State Superintendent of Education,,Baba Amin Ojuok,UNC,7,3,0,0,0,0,4
+Union,Jonesville Box 2,State Superintendent of Education,,Ellen Weaver,REP,388,112,0,0,0,1,275
+Union,Jonesville Box 2,State Superintendent of Education,,Sylvia Wright,DEM,231,119,0,0,0,8,104
+Union,Jonesville Box 2,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Union,Kelton,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,0,0,0,0,0,4
+Union,Kelton,State Superintendent of Education,,Ellen Weaver,REP,337,82,0,0,0,1,254
+Union,Kelton,State Superintendent of Education,,Sylvia Wright,DEM,171,57,0,0,0,2,112
+Union,Kelton,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Lockhart,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Union,Lockhart,State Superintendent of Education,,Ellen Weaver,REP,247,40,0,0,0,1,206
+Union,Lockhart,State Superintendent of Education,,Sylvia Wright,DEM,74,35,0,0,0,0,39
+Union,Lockhart,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Union,Monarch,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,1,0,0,0,0,3
+Union,Monarch,State Superintendent of Education,,Ellen Weaver,REP,517,211,0,0,0,4,302
+Union,Monarch,State Superintendent of Education,,Sylvia Wright,DEM,211,107,0,0,0,2,102
+Union,Monarch,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Union,Provisional,State Superintendent of Education,,Ellen Weaver,REP,0,0,0,0,0,0,0
+Union,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Union,Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,0,0,0,0,0,2
+Union,Putnam,State Superintendent of Education,,Ellen Weaver,REP,316,80,0,0,0,0,236
+Union,Putnam,State Superintendent of Education,,Sylvia Wright,DEM,64,33,0,0,0,0,31
+Union,Putnam,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Union,Santuck,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,1,0,0,0,0,2
+Union,Santuck,State Superintendent of Education,,Ellen Weaver,REP,189,75,0,0,0,0,114
+Union,Santuck,State Superintendent of Education,,Sylvia Wright,DEM,236,110,0,0,0,3,123
+Union,Santuck,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,0,0,0,0,0,4
+Union,Union Ward 1 Box 1,State Superintendent of Education,,Ellen Weaver,REP,200,95,0,0,0,0,105
+Union,Union Ward 1 Box 1,State Superintendent of Education,,Sylvia Wright,DEM,179,105,0,0,0,0,74
+Union,Union Ward 1 Box 1,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,State Superintendent of Education,,Baba Amin Ojuok,UNC,5,5,0,0,0,0,0
+Union,Union Ward 1 Box 2,State Superintendent of Education,,Ellen Weaver,REP,161,78,0,0,0,1,82
+Union,Union Ward 1 Box 2,State Superintendent of Education,,Sylvia Wright,DEM,379,239,0,0,0,2,138
+Union,Union Ward 1 Box 2,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,State Superintendent of Education,,Baba Amin Ojuok,UNC,7,1,0,0,0,0,6
+Union,Union Ward 2,State Superintendent of Education,,Ellen Weaver,REP,198,99,0,0,0,4,95
+Union,Union Ward 2,State Superintendent of Education,,Sylvia Wright,DEM,307,194,0,0,0,5,108
+Union,Union Ward 2,State Superintendent of Education,,Write-In,NON,1,1,0,0,0,0,0
+Union,Union Ward 3,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,2,0,0,0,0,4
+Union,Union Ward 3,State Superintendent of Education,,Ellen Weaver,REP,97,37,0,0,0,2,58
+Union,Union Ward 3,State Superintendent of Education,,Sylvia Wright,DEM,202,89,0,0,0,4,109
+Union,Union Ward 3,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,3,0,0,0,0,1
+Union,Union Ward 4 Box 1,State Superintendent of Education,,Ellen Weaver,REP,299,151,0,0,0,5,143
+Union,Union Ward 4 Box 1,State Superintendent of Education,,Sylvia Wright,DEM,223,121,0,0,0,2,100
+Union,Union Ward 4 Box 1,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,1,0,0,0,0,2
+Union,Union Ward 4 Box 2,State Superintendent of Education,,Ellen Weaver,REP,40,8,0,0,0,2,30
+Union,Union Ward 4 Box 2,State Superintendent of Education,,Sylvia Wright,DEM,94,48,0,0,0,0,46
+Union,Union Ward 4 Box 2,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Union,West Springs,State Superintendent of Education,,Ellen Weaver,REP,156,25,0,0,0,0,131
+Union,West Springs,State Superintendent of Education,,Sylvia Wright,DEM,56,17,0,0,0,0,39
+Union,West Springs,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Union,Adamsburg,State Treasurer,,Curtis Loftis,REP,324,86,0,0,0,5,233
+Union,Adamsburg,State Treasurer,,Vincent Coe,DEM,56,20,0,0,0,0,36
+Union,Adamsburg,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Union,Black Rock,State Treasurer,,Curtis Loftis,REP,88,12,0,0,0,0,76
+Union,Black Rock,State Treasurer,,Vincent Coe,DEM,133,52,0,0,0,0,81
+Union,Black Rock,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Union,Bonham,State Treasurer,,Curtis Loftis,REP,346,118,0,0,0,6,222
+Union,Bonham,State Treasurer,,Vincent Coe,DEM,182,97,0,0,0,5,80
+Union,Bonham,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,State Treasurer,,Curtis Loftis,REP,361,101,0,0,0,1,259
+Union,Buffalo Box 1,State Treasurer,,Vincent Coe,DEM,169,81,0,0,0,1,87
+Union,Buffalo Box 1,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Carlisle,State Treasurer,,Curtis Loftis,REP,36,16,0,0,0,0,20
+Union,Carlisle,State Treasurer,,Vincent Coe,DEM,228,82,0,0,0,4,142
+Union,Carlisle,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Cross Keys,State Treasurer,,Curtis Loftis,REP,326,114,0,0,0,0,212
+Union,Cross Keys,State Treasurer,,Vincent Coe,DEM,135,81,0,0,0,4,50
+Union,Cross Keys,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Excelsior,State Treasurer,,Curtis Loftis,REP,464,208,0,0,0,6,250
+Union,Excelsior,State Treasurer,,Vincent Coe,DEM,320,187,0,0,0,12,121
+Union,Excelsior,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe,State Treasurer,,Curtis Loftis,REP,18,0,0,0,18,0,0
+Union,Failsafe,State Treasurer,,Vincent Coe,DEM,16,0,0,0,16,0,0
+Union,Failsafe,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,State Treasurer,,Curtis Loftis,REP,1,0,1,0,0,0,0
+Union,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,2,0,2,0,0,0,0
+Union,Failsafe Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,State Treasurer,,Curtis Loftis,REP,403,95,0,0,0,0,308
+Union,Jonesville Box 1,State Treasurer,,Vincent Coe,DEM,137,69,0,0,0,2,66
+Union,Jonesville Box 1,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Union,Jonesville Box 2,State Treasurer,,Curtis Loftis,REP,404,115,0,0,0,1,288
+Union,Jonesville Box 2,State Treasurer,,Vincent Coe,DEM,219,117,0,0,0,8,94
+Union,Jonesville Box 2,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Kelton,State Treasurer,,Curtis Loftis,REP,339,81,0,0,0,1,257
+Union,Kelton,State Treasurer,,Vincent Coe,DEM,171,58,0,0,0,2,111
+Union,Kelton,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Lockhart,State Treasurer,,Curtis Loftis,REP,254,41,0,0,0,1,212
+Union,Lockhart,State Treasurer,,Vincent Coe,DEM,68,33,0,0,0,0,35
+Union,Lockhart,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Monarch,State Treasurer,,Curtis Loftis,REP,530,213,0,0,0,4,313
+Union,Monarch,State Treasurer,,Vincent Coe,DEM,199,106,0,0,0,2,91
+Union,Monarch,State Treasurer,,Write-In,NON,2,1,0,0,0,0,1
+Union,Provisional,State Treasurer,,Curtis Loftis,REP,0,0,0,0,0,0,0
+Union,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Union,Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,State Treasurer,,Curtis Loftis,REP,331,86,0,0,0,0,245
+Union,Putnam,State Treasurer,,Vincent Coe,DEM,50,27,0,0,0,0,23
+Union,Putnam,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Union,Santuck,State Treasurer,,Curtis Loftis,REP,199,78,0,0,0,0,121
+Union,Santuck,State Treasurer,,Vincent Coe,DEM,232,109,0,0,0,3,120
+Union,Santuck,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,State Treasurer,,Curtis Loftis,REP,203,94,0,0,0,0,109
+Union,Union Ward 1 Box 1,State Treasurer,,Vincent Coe,DEM,179,107,0,0,0,0,72
+Union,Union Ward 1 Box 1,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,State Treasurer,,Curtis Loftis,REP,172,91,0,0,0,1,80
+Union,Union Ward 1 Box 2,State Treasurer,,Vincent Coe,DEM,370,231,0,0,0,2,137
+Union,Union Ward 1 Box 2,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,State Treasurer,,Curtis Loftis,REP,210,106,0,0,0,5,99
+Union,Union Ward 2,State Treasurer,,Vincent Coe,DEM,303,190,0,0,0,4,109
+Union,Union Ward 2,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 3,State Treasurer,,Curtis Loftis,REP,110,42,0,0,0,3,65
+Union,Union Ward 3,State Treasurer,,Vincent Coe,DEM,196,86,0,0,0,3,107
+Union,Union Ward 3,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,State Treasurer,,Curtis Loftis,REP,307,156,0,0,0,5,146
+Union,Union Ward 4 Box 1,State Treasurer,,Vincent Coe,DEM,222,121,0,0,0,2,99
+Union,Union Ward 4 Box 1,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,State Treasurer,,Curtis Loftis,REP,40,8,0,0,0,2,30
+Union,Union Ward 4 Box 2,State Treasurer,,Vincent Coe,DEM,96,49,0,0,0,0,47
+Union,Union Ward 4 Box 2,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,State Treasurer,,Curtis Loftis,REP,159,26,0,0,0,0,133
+Union,West Springs,State Treasurer,,Vincent Coe,DEM,50,16,0,0,0,0,34
+Union,West Springs,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Union,Adamsburg,Straight Party,,United Citizens,UNC,1,0,0,0,0,1,0
+Union,Adamsburg,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Union,Adamsburg,Straight Party,,Republican,REP,144,36,0,0,0,1,107
+Union,Adamsburg,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Union,Adamsburg,Straight Party,,Democratic,DEM,24,10,0,0,0,0,14
+Union,Adamsburg,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Black Rock,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Union,Black Rock,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Union,Black Rock,Straight Party,,Republican,REP,58,7,0,0,0,0,51
+Union,Black Rock,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Union,Black Rock,Straight Party,,Democratic,DEM,82,34,0,0,0,0,48
+Union,Black Rock,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Bonham,Straight Party,,United Citizens,UNC,2,0,0,0,0,0,2
+Union,Bonham,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,Bonham,Straight Party,,Republican,REP,134,53,0,0,0,4,77
+Union,Bonham,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Bonham,Straight Party,,Democratic,DEM,118,61,0,0,0,4,53
+Union,Bonham,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Union,Buffalo Box 1,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Union,Buffalo Box 1,Straight Party,,Republican,REP,167,51,0,0,0,0,116
+Union,Buffalo Box 1,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Buffalo Box 1,Straight Party,,Democratic,DEM,111,49,0,0,0,0,62
+Union,Buffalo Box 1,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Carlisle,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Union,Carlisle,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,Carlisle,Straight Party,,Republican,REP,16,9,0,0,0,0,7
+Union,Carlisle,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Carlisle,Straight Party,,Democratic,DEM,173,58,0,0,0,2,113
+Union,Carlisle,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Cross Keys,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Union,Cross Keys,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Union,Cross Keys,Straight Party,,Republican,REP,160,51,0,0,0,0,109
+Union,Cross Keys,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Cross Keys,Straight Party,,Democratic,DEM,88,53,0,0,0,3,32
+Union,Cross Keys,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Excelsior,Straight Party,,United Citizens,UNC,2,2,0,0,0,0,0
+Union,Excelsior,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Union,Excelsior,Straight Party,,Republican,REP,202,99,0,0,0,4,99
+Union,Excelsior,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Excelsior,Straight Party,,Democratic,DEM,193,116,0,0,0,4,73
+Union,Excelsior,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Failsafe,Straight Party,,United Citizens,UNC,1,0,0,0,1,0,0
+Union,Failsafe,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,Failsafe,Straight Party,,Republican,REP,8,0,0,0,8,0,0
+Union,Failsafe,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Failsafe,Straight Party,,Democratic,DEM,14,0,0,0,14,0,0
+Union,Failsafe,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Straight Party,,Democratic,DEM,2,0,2,0,0,0,0
+Union,Failsafe Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Straight Party,,Green,GRN,3,1,0,0,0,0,2
+Union,Jonesville Box 1,Straight Party,,Republican,REP,214,56,0,0,0,0,158
+Union,Jonesville Box 1,Straight Party,,Libertarian,LIB,3,0,0,0,0,0,3
+Union,Jonesville Box 1,Straight Party,,Democratic,DEM,96,48,0,0,0,0,48
+Union,Jonesville Box 1,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Jonesville Box 2,Straight Party,,United Citizens,UNC,4,2,0,0,0,0,2
+Union,Jonesville Box 2,Straight Party,,Green,GRN,2,1,0,0,0,0,1
+Union,Jonesville Box 2,Straight Party,,Republican,REP,216,74,0,0,0,0,142
+Union,Jonesville Box 2,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Jonesville Box 2,Straight Party,,Democratic,DEM,148,76,0,0,0,2,70
+Union,Jonesville Box 2,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Kelton,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Union,Kelton,Straight Party,,Green,GRN,2,0,0,0,0,0,2
+Union,Kelton,Straight Party,,Republican,REP,149,44,0,0,0,0,105
+Union,Kelton,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Kelton,Straight Party,,Democratic,DEM,119,43,0,0,0,0,76
+Union,Kelton,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Lockhart,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Union,Lockhart,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,Lockhart,Straight Party,,Republican,REP,126,18,0,0,0,1,107
+Union,Lockhart,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Lockhart,Straight Party,,Democratic,DEM,39,20,0,0,0,0,19
+Union,Lockhart,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Monarch,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Union,Monarch,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,Monarch,Straight Party,,Republican,REP,273,121,0,0,0,3,149
+Union,Monarch,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Union,Monarch,Straight Party,,Democratic,DEM,126,71,0,0,0,2,53
+Union,Monarch,Straight Party,,Constitution,CON,1,1,0,0,0,0,0
+Union,Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Union,Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,Provisional,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+Union,Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Provisional,Straight Party,,Democratic,DEM,0,0,0,0,0,0,0
+Union,Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Putnam,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Union,Putnam,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,Putnam,Straight Party,,Republican,REP,131,39,0,0,0,0,92
+Union,Putnam,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Putnam,Straight Party,,Democratic,DEM,25,14,0,0,0,0,11
+Union,Putnam,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Santuck,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Union,Santuck,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Union,Santuck,Straight Party,,Republican,REP,81,28,0,0,0,0,53
+Union,Santuck,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Santuck,Straight Party,,Democratic,DEM,168,79,0,0,0,1,88
+Union,Santuck,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Union,Union Ward 1 Box 1,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,Straight Party,,Republican,REP,88,47,0,0,0,0,41
+Union,Union Ward 1 Box 1,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,Straight Party,,Democratic,DEM,122,73,0,0,0,0,49
+Union,Union Ward 1 Box 1,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,Straight Party,,United Citizens,UNC,2,2,0,0,0,0,0
+Union,Union Ward 1 Box 2,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Union,Union Ward 1 Box 2,Straight Party,,Republican,REP,64,32,0,0,0,0,32
+Union,Union Ward 1 Box 2,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,Straight Party,,Democratic,DEM,248,138,0,0,0,2,108
+Union,Union Ward 1 Box 2,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Union Ward 2,Straight Party,,United Citizens,UNC,2,0,0,0,0,0,2
+Union,Union Ward 2,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,Union Ward 2,Straight Party,,Republican,REP,76,40,0,0,0,3,33
+Union,Union Ward 2,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Union Ward 2,Straight Party,,Democratic,DEM,202,118,0,0,0,3,81
+Union,Union Ward 2,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Union Ward 3,Straight Party,,United Citizens,UNC,1,1,0,0,0,0,0
+Union,Union Ward 3,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,Union Ward 3,Straight Party,,Republican,REP,43,16,0,0,0,2,25
+Union,Union Ward 3,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Union Ward 3,Straight Party,,Democratic,DEM,132,52,0,0,0,0,80
+Union,Union Ward 3,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,Straight Party,,Republican,REP,122,67,0,0,0,2,53
+Union,Union Ward 4 Box 1,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,Straight Party,,Democratic,DEM,139,75,0,0,0,2,62
+Union,Union Ward 4 Box 1,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Straight Party,,Republican,REP,25,4,0,0,0,2,19
+Union,Union Ward 4 Box 2,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Straight Party,,Democratic,DEM,75,37,0,0,0,0,38
+Union,Union Ward 4 Box 2,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,West Springs,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Union,West Springs,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Union,West Springs,Straight Party,,Republican,REP,75,16,0,0,0,0,59
+Union,West Springs,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Union,West Springs,Straight Party,,Democratic,DEM,32,11,0,0,0,0,21
+Union,West Springs,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Union,Carlisle,Town Council - Carlisle,,Jimmie D Jeter,NON,53,20,0,0,0,1,32
+Union,Carlisle,Town Council - Carlisle,,Radzil S Thompson,NON,102,32,0,0,0,1,69
+Union,Carlisle,Town Council - Carlisle,,Write-In,NON,5,2,0,0,0,0,3
+Union,Failsafe,Town Council - Carlisle,,Jimmie D Jeter,NON,0,0,0,0,0,0,0
+Union,Failsafe,Town Council - Carlisle,,Radzil S Thompson,NON,0,0,0,0,0,0,0
+Union,Failsafe,Town Council - Carlisle,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Town Council - Carlisle,,Jimmie D Jeter,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Town Council - Carlisle,,Radzil S Thompson,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Town Council - Carlisle,,Write-In,NON,0,0,0,0,0,0,0
+Union,Provisional,Town Council - Carlisle,,Jimmie D Jeter,NON,0,0,0,0,0,0,0
+Union,Provisional,Town Council - Carlisle,,Radzil S Thompson,NON,0,0,0,0,0,0,0
+Union,Provisional,Town Council - Carlisle,,Write-In,NON,0,0,0,0,0,0,0
+Union,Adamsburg,U.S. House,5,Wes Climer,REP,320,88,0,0,0,5,227
+Union,Adamsburg,U.S. House,5,Mallory Dittmer,DEM,57,19,0,0,0,0,38
+Union,Adamsburg,U.S. House,5,Write-In,NON,1,0,0,0,0,0,1
+Union,Black Rock,U.S. House,5,Wes Climer,REP,88,11,0,0,0,0,77
+Union,Black Rock,U.S. House,5,Mallory Dittmer,DEM,135,53,0,0,0,0,82
+Union,Black Rock,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Bonham,U.S. House,5,Wes Climer,REP,335,119,0,0,0,6,210
+Union,Bonham,U.S. House,5,Mallory Dittmer,DEM,192,97,0,0,0,5,90
+Union,Bonham,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,U.S. House,5,Wes Climer,REP,356,99,0,0,0,1,256
+Union,Buffalo Box 1,U.S. House,5,Mallory Dittmer,DEM,175,82,0,0,0,1,92
+Union,Buffalo Box 1,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Carlisle,U.S. House,5,Wes Climer,REP,36,15,0,0,0,0,21
+Union,Carlisle,U.S. House,5,Mallory Dittmer,DEM,224,81,0,0,0,4,139
+Union,Carlisle,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Cross Keys,U.S. House,5,Wes Climer,REP,321,113,0,0,0,0,208
+Union,Cross Keys,U.S. House,5,Mallory Dittmer,DEM,140,82,0,0,0,4,54
+Union,Cross Keys,U.S. House,5,Write-In,NON,1,0,0,0,0,0,1
+Union,Excelsior,U.S. House,5,Wes Climer,REP,461,208,0,0,0,5,248
+Union,Excelsior,U.S. House,5,Mallory Dittmer,DEM,319,184,0,0,0,13,122
+Union,Excelsior,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe,U.S. House,5,Wes Climer,REP,17,0,0,0,17,0,0
+Union,Failsafe,U.S. House,5,Mallory Dittmer,DEM,18,0,0,0,18,0,0
+Union,Failsafe,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,U.S. House,5,Wes Climer,REP,1,0,1,0,0,0,0
+Union,Failsafe Provisional,U.S. House,5,Mallory Dittmer,DEM,3,0,3,0,0,0,0
+Union,Failsafe Provisional,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,U.S. House,5,Wes Climer,REP,399,94,0,0,0,0,305
+Union,Jonesville Box 1,U.S. House,5,Mallory Dittmer,DEM,144,71,0,0,0,2,71
+Union,Jonesville Box 1,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 2,U.S. House,5,Wes Climer,REP,393,110,0,0,0,1,282
+Union,Jonesville Box 2,U.S. House,5,Mallory Dittmer,DEM,232,123,0,0,0,8,101
+Union,Jonesville Box 2,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Kelton,U.S. House,5,Wes Climer,REP,341,81,0,0,0,1,259
+Union,Kelton,U.S. House,5,Mallory Dittmer,DEM,171,59,0,0,0,2,110
+Union,Kelton,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Lockhart,U.S. House,5,Wes Climer,REP,252,41,0,0,0,1,210
+Union,Lockhart,U.S. House,5,Mallory Dittmer,DEM,70,35,0,0,0,0,35
+Union,Lockhart,U.S. House,5,Write-In,NON,1,0,0,0,0,0,1
+Union,Monarch,U.S. House,5,Wes Climer,REP,524,212,0,0,0,4,308
+Union,Monarch,U.S. House,5,Mallory Dittmer,DEM,207,108,0,0,0,2,97
+Union,Monarch,U.S. House,5,Write-In,NON,1,1,0,0,0,0,0
+Union,Provisional,U.S. House,5,Wes Climer,REP,0,0,0,0,0,0,0
+Union,Provisional,U.S. House,5,Mallory Dittmer,DEM,0,0,0,0,0,0,0
+Union,Provisional,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,U.S. House,5,Wes Climer,REP,327,84,0,0,0,0,243
+Union,Putnam,U.S. House,5,Mallory Dittmer,DEM,56,30,0,0,0,0,26
+Union,Putnam,U.S. House,5,Write-In,NON,1,0,0,0,0,0,1
+Union,Santuck,U.S. House,5,Wes Climer,REP,192,76,0,0,0,0,116
+Union,Santuck,U.S. House,5,Mallory Dittmer,DEM,235,108,0,0,0,3,124
+Union,Santuck,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,U.S. House,5,Wes Climer,REP,204,96,0,0,0,0,108
+Union,Union Ward 1 Box 1,U.S. House,5,Mallory Dittmer,DEM,178,104,0,0,0,0,74
+Union,Union Ward 1 Box 1,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,U.S. House,5,Wes Climer,REP,170,87,0,0,0,1,82
+Union,Union Ward 1 Box 2,U.S. House,5,Mallory Dittmer,DEM,375,236,0,0,0,2,137
+Union,Union Ward 1 Box 2,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 2,U.S. House,5,Wes Climer,REP,203,101,0,0,0,4,98
+Union,Union Ward 2,U.S. House,5,Mallory Dittmer,DEM,309,194,0,0,0,5,110
+Union,Union Ward 2,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 3,U.S. House,5,Wes Climer,REP,104,42,0,0,0,2,60
+Union,Union Ward 3,U.S. House,5,Mallory Dittmer,DEM,199,85,0,0,0,4,110
+Union,Union Ward 3,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,U.S. House,5,Wes Climer,REP,305,155,0,0,0,5,145
+Union,Union Ward 4 Box 1,U.S. House,5,Mallory Dittmer,DEM,223,120,0,0,0,2,101
+Union,Union Ward 4 Box 1,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,U.S. House,5,Wes Climer,REP,38,8,0,0,0,2,28
+Union,Union Ward 4 Box 2,U.S. House,5,Mallory Dittmer,DEM,96,47,0,0,0,0,49
+Union,Union Ward 4 Box 2,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,U.S. House,5,Wes Climer,REP,158,26,0,0,0,0,132
+Union,West Springs,U.S. House,5,Mallory Dittmer,DEM,52,16,0,0,0,0,36
+Union,West Springs,U.S. House,5,Write-In,NON,0,0,0,0,0,0,0
+Union,Adamsburg,U.S. Senate,,Darline Graham,REP,296,77,0,0,0,5,214
+Union,Adamsburg,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Union,Adamsburg,U.S. Senate,,Annie Andrews,DEM,75,28,0,0,0,0,47
+Union,Adamsburg,U.S. Senate,,Mark Hackett,CON,6,1,0,0,0,0,5
+Union,Adamsburg,U.S. Senate,,Write-In,NON,2,1,0,0,0,0,1
+Union,Black Rock,U.S. Senate,,Darline Graham,REP,80,11,0,0,0,0,69
+Union,Black Rock,U.S. Senate,,Kasie Whitener,LIB,2,0,0,0,0,0,2
+Union,Black Rock,U.S. Senate,,Annie Andrews,DEM,140,54,0,0,0,0,86
+Union,Black Rock,U.S. Senate,,Mark Hackett,CON,3,0,0,0,0,0,3
+Union,Black Rock,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Union,Bonham,U.S. Senate,,Darline Graham,REP,302,107,0,0,0,4,191
+Union,Bonham,U.S. Senate,,Kasie Whitener,LIB,11,1,0,0,0,0,10
+Union,Bonham,U.S. Senate,,Annie Andrews,DEM,210,108,0,0,0,7,95
+Union,Bonham,U.S. Senate,,Mark Hackett,CON,6,0,0,0,0,0,6
+Union,Bonham,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Union,Buffalo Box 1,U.S. Senate,,Darline Graham,REP,324,92,0,0,0,1,231
+Union,Buffalo Box 1,U.S. Senate,,Kasie Whitener,LIB,7,2,0,0,0,0,5
+Union,Buffalo Box 1,U.S. Senate,,Annie Andrews,DEM,190,85,0,0,0,1,104
+Union,Buffalo Box 1,U.S. Senate,,Mark Hackett,CON,11,3,0,0,0,0,8
+Union,Buffalo Box 1,U.S. Senate,,Write-In,NON,2,1,0,0,0,0,1
+Union,Carlisle,U.S. Senate,,Darline Graham,REP,32,15,0,0,0,0,17
+Union,Carlisle,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Union,Carlisle,U.S. Senate,,Annie Andrews,DEM,231,85,0,0,0,4,142
+Union,Carlisle,U.S. Senate,,Mark Hackett,CON,2,0,0,0,0,0,2
+Union,Carlisle,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Union,Cross Keys,U.S. Senate,,Darline Graham,REP,306,110,0,0,0,0,196
+Union,Cross Keys,U.S. Senate,,Kasie Whitener,LIB,4,3,0,0,0,0,1
+Union,Cross Keys,U.S. Senate,,Annie Andrews,DEM,149,84,0,0,0,4,61
+Union,Cross Keys,U.S. Senate,,Mark Hackett,CON,5,0,0,0,0,0,5
+Union,Cross Keys,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Union,Excelsior,U.S. Senate,,Darline Graham,REP,418,195,0,0,0,4,219
+Union,Excelsior,U.S. Senate,,Kasie Whitener,LIB,5,2,0,0,0,0,3
+Union,Excelsior,U.S. Senate,,Annie Andrews,DEM,349,194,0,0,0,14,141
+Union,Excelsior,U.S. Senate,,Mark Hackett,CON,9,3,0,0,0,0,6
+Union,Excelsior,U.S. Senate,,Write-In,NON,4,3,0,0,0,0,1
+Union,Failsafe,U.S. Senate,,Darline Graham,REP,16,0,0,0,16,0,0
+Union,Failsafe,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Union,Failsafe,U.S. Senate,,Annie Andrews,DEM,19,0,0,0,19,0,0
+Union,Failsafe,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Union,Failsafe,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,4,0,4,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Union,Jonesville Box 1,U.S. Senate,,Darline Graham,REP,366,87,0,0,0,0,279
+Union,Jonesville Box 1,U.S. Senate,,Kasie Whitener,LIB,14,3,0,0,0,0,11
+Union,Jonesville Box 1,U.S. Senate,,Annie Andrews,DEM,158,74,0,0,0,2,82
+Union,Jonesville Box 1,U.S. Senate,,Mark Hackett,CON,5,1,0,0,0,0,4
+Union,Jonesville Box 1,U.S. Senate,,Write-In,NON,2,0,0,0,0,0,2
+Union,Jonesville Box 2,U.S. Senate,,Darline Graham,REP,379,107,0,0,0,1,271
+Union,Jonesville Box 2,U.S. Senate,,Kasie Whitener,LIB,7,4,0,0,0,0,3
+Union,Jonesville Box 2,U.S. Senate,,Annie Andrews,DEM,236,121,0,0,0,8,107
+Union,Jonesville Box 2,U.S. Senate,,Mark Hackett,CON,3,0,0,0,0,0,3
+Union,Jonesville Box 2,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Union,Kelton,U.S. Senate,,Darline Graham,REP,320,80,0,0,0,1,239
+Union,Kelton,U.S. Senate,,Kasie Whitener,LIB,4,1,0,0,0,0,3
+Union,Kelton,U.S. Senate,,Annie Andrews,DEM,184,60,0,0,0,2,122
+Union,Kelton,U.S. Senate,,Mark Hackett,CON,7,0,0,0,0,0,7
+Union,Kelton,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Union,Lockhart,U.S. Senate,,Darline Graham,REP,229,36,0,0,0,1,192
+Union,Lockhart,U.S. Senate,,Kasie Whitener,LIB,10,0,0,0,0,0,10
+Union,Lockhart,U.S. Senate,,Annie Andrews,DEM,76,37,0,0,0,0,39
+Union,Lockhart,U.S. Senate,,Mark Hackett,CON,5,2,0,0,0,0,3
+Union,Lockhart,U.S. Senate,,Write-In,NON,4,0,0,0,0,0,4
+Union,Monarch,U.S. Senate,,Darline Graham,REP,488,195,0,0,0,4,289
+Union,Monarch,U.S. Senate,,Kasie Whitener,LIB,7,2,0,0,0,0,5
+Union,Monarch,U.S. Senate,,Annie Andrews,DEM,226,113,0,0,0,2,111
+Union,Monarch,U.S. Senate,,Mark Hackett,CON,10,3,0,0,0,0,7
+Union,Monarch,U.S. Senate,,Write-In,NON,7,5,0,0,0,0,2
+Union,Provisional,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Union,Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Union,Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Union,Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Union,Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Union,Putnam,U.S. Senate,,Darline Graham,REP,298,84,0,0,0,0,214
+Union,Putnam,U.S. Senate,,Kasie Whitener,LIB,10,0,0,0,0,0,10
+Union,Putnam,U.S. Senate,,Annie Andrews,DEM,70,28,0,0,0,0,42
+Union,Putnam,U.S. Senate,,Mark Hackett,CON,5,1,0,0,0,0,4
+Union,Putnam,U.S. Senate,,Write-In,NON,2,1,0,0,0,0,1
+Union,Santuck,U.S. Senate,,Darline Graham,REP,175,69,0,0,0,0,106
+Union,Santuck,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Union,Santuck,U.S. Senate,,Annie Andrews,DEM,253,115,0,0,0,3,135
+Union,Santuck,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Union,Santuck,U.S. Senate,,Write-In,NON,4,1,0,0,0,0,3
+Union,Union Ward 1 Box 1,U.S. Senate,,Darline Graham,REP,198,94,0,0,0,0,104
+Union,Union Ward 1 Box 1,U.S. Senate,,Kasie Whitener,LIB,2,0,0,0,0,0,2
+Union,Union Ward 1 Box 1,U.S. Senate,,Annie Andrews,DEM,182,106,0,0,0,0,76
+Union,Union Ward 1 Box 1,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Union,Union Ward 1 Box 1,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,U.S. Senate,,Darline Graham,REP,154,78,0,0,0,0,76
+Union,Union Ward 1 Box 2,U.S. Senate,,Kasie Whitener,LIB,2,1,0,0,0,0,1
+Union,Union Ward 1 Box 2,U.S. Senate,,Annie Andrews,DEM,383,240,0,0,0,3,140
+Union,Union Ward 1 Box 2,U.S. Senate,,Mark Hackett,CON,5,4,0,0,0,0,1
+Union,Union Ward 1 Box 2,U.S. Senate,,Write-In,NON,2,1,0,0,0,0,1
+Union,Union Ward 2,U.S. Senate,,Darline Graham,REP,192,95,0,0,0,4,93
+Union,Union Ward 2,U.S. Senate,,Kasie Whitener,LIB,2,2,0,0,0,0,0
+Union,Union Ward 2,U.S. Senate,,Annie Andrews,DEM,315,198,0,0,0,5,112
+Union,Union Ward 2,U.S. Senate,,Mark Hackett,CON,4,1,0,0,0,0,3
+Union,Union Ward 2,U.S. Senate,,Write-In,NON,1,1,0,0,0,0,0
+Union,Union Ward 3,U.S. Senate,,Darline Graham,REP,85,33,0,0,0,2,50
+Union,Union Ward 3,U.S. Senate,,Kasie Whitener,LIB,6,2,0,0,0,0,4
+Union,Union Ward 3,U.S. Senate,,Annie Andrews,DEM,209,89,0,0,0,4,116
+Union,Union Ward 3,U.S. Senate,,Mark Hackett,CON,6,4,0,0,0,0,2
+Union,Union Ward 3,U.S. Senate,,Write-In,NON,2,2,0,0,0,0,0
+Union,Union Ward 4 Box 1,U.S. Senate,,Darline Graham,REP,277,145,0,0,0,5,127
+Union,Union Ward 4 Box 1,U.S. Senate,,Kasie Whitener,LIB,4,1,0,0,0,0,3
+Union,Union Ward 4 Box 1,U.S. Senate,,Annie Andrews,DEM,236,125,0,0,0,2,109
+Union,Union Ward 4 Box 1,U.S. Senate,,Mark Hackett,CON,9,2,0,0,0,0,7
+Union,Union Ward 4 Box 1,U.S. Senate,,Write-In,NON,2,0,0,0,0,0,2
+Union,Union Ward 4 Box 2,U.S. Senate,,Darline Graham,REP,38,9,0,0,0,2,27
+Union,Union Ward 4 Box 2,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Union,Union Ward 4 Box 2,U.S. Senate,,Annie Andrews,DEM,98,49,0,0,0,0,49
+Union,Union Ward 4 Box 2,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Union,West Springs,U.S. Senate,,Darline Graham,REP,143,25,0,0,0,0,118
+Union,West Springs,U.S. Senate,,Kasie Whitener,LIB,3,0,0,0,0,0,3
+Union,West Springs,U.S. Senate,,Annie Andrews,DEM,57,17,0,0,0,0,40
+Union,West Springs,U.S. Senate,,Mark Hackett,CON,8,0,0,0,0,0,8
+Union,West Springs,U.S. Senate,,Write-In,NON,3,0,0,0,0,0,3
+Union,Adamsburg,Watershed Conservation District Browns Creek,,Ted Adams,NON,115,34,0,0,0,0,81
+Union,Adamsburg,Watershed Conservation District Browns Creek,,Evelyn Alman,NON,80,25,0,0,0,0,55
+Union,Adamsburg,Watershed Conservation District Browns Creek,,Write-In,NON,0,0,0,0,0,0,0
+Union,Bonham,Watershed Conservation District Browns Creek,,Ted Adams,NON,143,61,0,0,0,0,82
+Union,Bonham,Watershed Conservation District Browns Creek,,Evelyn Alman,NON,109,46,0,0,0,0,63
+Union,Bonham,Watershed Conservation District Browns Creek,,Write-In,NON,2,1,0,0,0,0,1
+Union,Failsafe,Watershed Conservation District Browns Creek,,Ted Adams,NON,1,0,0,0,1,0,0
+Union,Failsafe,Watershed Conservation District Browns Creek,,Evelyn Alman,NON,0,0,0,0,0,0,0
+Union,Failsafe,Watershed Conservation District Browns Creek,,Write-In,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Watershed Conservation District Browns Creek,,Ted Adams,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Watershed Conservation District Browns Creek,,Evelyn Alman,NON,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Watershed Conservation District Browns Creek,,Write-In,NON,0,0,0,0,0,0,0
+Union,Kelton,Watershed Conservation District Browns Creek,,Ted Adams,NON,99,34,0,0,0,0,65
+Union,Kelton,Watershed Conservation District Browns Creek,,Evelyn Alman,NON,69,22,0,0,0,1,46
+Union,Kelton,Watershed Conservation District Browns Creek,,Write-In,NON,1,0,0,0,0,0,1
+Union,Monarch,Watershed Conservation District Browns Creek,,Ted Adams,NON,205,76,0,0,0,0,129
+Union,Monarch,Watershed Conservation District Browns Creek,,Evelyn Alman,NON,157,56,0,0,0,0,101
+Union,Monarch,Watershed Conservation District Browns Creek,,Write-In,NON,4,3,0,0,0,0,1
+Union,Provisional,Watershed Conservation District Browns Creek,,Ted Adams,NON,0,0,0,0,0,0,0
+Union,Provisional,Watershed Conservation District Browns Creek,,Evelyn Alman,NON,0,0,0,0,0,0,0
+Union,Provisional,Watershed Conservation District Browns Creek,,Write-In,NON,0,0,0,0,0,0,0

@@ -1,0 +1,1960 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Williamsburg,BLACK RIVER,Attorney General,,David Stumbo,REP,80,14,0,0,0,0,66
+Williamsburg,BLACK RIVER,Attorney General,,Richard Hricik,DEM,106,49,0,0,0,1,56
+Williamsburg,BLACK RIVER,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,Attorney General,,David Stumbo,REP,136,26,0,0,0,1,109
+Williamsburg,BLOOMINGVALE,Attorney General,,Richard Hricik,DEM,292,109,0,0,0,6,177
+Williamsburg,BLOOMINGVALE,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CADES,Attorney General,,David Stumbo,REP,79,14,0,0,0,1,64
+Williamsburg,CADES,Attorney General,,Richard Hricik,DEM,152,86,0,0,0,7,59
+Williamsburg,CADES,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Attorney General,,David Stumbo,REP,96,17,0,0,0,0,79
+Williamsburg,CEDAR SWAMP,Attorney General,,Richard Hricik,DEM,99,68,0,0,0,1,30
+Williamsburg,CEDAR SWAMP,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CENTRAL,Attorney General,,David Stumbo,REP,150,41,0,0,0,0,109
+Williamsburg,CENTRAL,Attorney General,,Richard Hricik,DEM,322,187,0,0,0,7,128
+Williamsburg,CENTRAL,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,EARLES,Attorney General,,David Stumbo,REP,222,17,0,0,0,1,204
+Williamsburg,EARLES,Attorney General,,Richard Hricik,DEM,104,32,0,0,0,0,72
+Williamsburg,EARLES,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Attorney General,,David Stumbo,REP,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Attorney General,,Richard Hricik,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Attorney General,,Richard Hricik,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,Attorney General,,David Stumbo,REP,134,37,0,0,0,0,97
+Williamsburg,GREELEYVILLE,Attorney General,,Richard Hricik,DEM,541,285,0,0,0,14,242
+Williamsburg,GREELEYVILLE,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,HARMONY,Attorney General,,David Stumbo,REP,109,11,0,0,0,0,98
+Williamsburg,HARMONY,Attorney General,,Richard Hricik,DEM,45,12,0,0,0,1,32
+Williamsburg,HARMONY,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,Attorney General,,David Stumbo,REP,200,25,0,0,0,1,174
+Williamsburg,HEBRON,Attorney General,,Richard Hricik,DEM,43,21,0,0,0,1,21
+Williamsburg,HEBRON,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,Attorney General,,David Stumbo,REP,271,137,0,0,0,1,133
+Williamsburg,HEMINGWAY,Attorney General,,Richard Hricik,DEM,510,394,0,0,0,2,114
+Williamsburg,HEMINGWAY,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HENRY-POPLAR HILL,Attorney General,,David Stumbo,REP,130,63,0,0,0,2,65
+Williamsburg,HENRY-POPLAR HILL,Attorney General,,Richard Hricik,DEM,157,112,0,0,0,4,41
+Williamsburg,HENRY-POPLAR HILL,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,Attorney General,,David Stumbo,REP,105,61,0,0,0,1,43
+Williamsburg,INDIANTOWN,Attorney General,,Richard Hricik,DEM,639,479,0,0,0,15,145
+Williamsburg,INDIANTOWN,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,Attorney General,,David Stumbo,REP,632,318,0,0,0,8,306
+Williamsburg,KINGSTREE NO.1,Attorney General,,Richard Hricik,DEM,881,576,0,0,0,8,297
+Williamsburg,KINGSTREE NO.1,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,KINGSTREE NO.2,Attorney General,,David Stumbo,REP,11,6,0,0,0,0,5
+Williamsburg,KINGSTREE NO.2,Attorney General,,Richard Hricik,DEM,374,222,0,0,0,3,149
+Williamsburg,KINGSTREE NO.2,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,Attorney General,,David Stumbo,REP,84,49,0,0,0,0,35
+Williamsburg,KINGSTREE NO.3,Attorney General,,Richard Hricik,DEM,974,698,0,0,0,18,258
+Williamsburg,KINGSTREE NO.3,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,Attorney General,,David Stumbo,REP,131,51,0,0,0,1,79
+Williamsburg,KINGSTREE NO.4,Attorney General,,Richard Hricik,DEM,514,317,0,0,0,7,190
+Williamsburg,KINGSTREE NO.4,Attorney General,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,LANE,Attorney General,,David Stumbo,REP,43,9,0,0,0,2,32
+Williamsburg,LANE,Attorney General,,Richard Hricik,DEM,404,191,0,0,0,6,207
+Williamsburg,LANE,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Attorney General,,David Stumbo,REP,3,0,0,0,0,0,3
+Williamsburg,MORRISVILLE,Attorney General,,Richard Hricik,DEM,122,42,0,0,0,1,79
+Williamsburg,MORRISVILLE,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Attorney General,,David Stumbo,REP,76,11,0,0,0,0,65
+Williamsburg,MOUNT VERNON,Attorney General,,Richard Hricik,DEM,135,65,0,0,0,5,65
+Williamsburg,MOUNT VERNON,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MUDDY CREEK,Attorney General,,David Stumbo,REP,303,112,0,0,0,3,188
+Williamsburg,MUDDY CREEK,Attorney General,,Richard Hricik,DEM,143,86,0,0,0,3,54
+Williamsburg,MUDDY CREEK,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,NESMITH,Attorney General,,David Stumbo,REP,47,9,0,0,0,1,37
+Williamsburg,NESMITH,Attorney General,,Richard Hricik,DEM,241,127,0,0,0,8,106
+Williamsburg,NESMITH,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Attorney General,,David Stumbo,REP,81,14,0,0,0,0,67
+Williamsburg,PERGAMOS,Attorney General,,Richard Hricik,DEM,59,14,0,0,0,0,45
+Williamsburg,PERGAMOS,Attorney General,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,PINEY FOREST,Attorney General,,David Stumbo,REP,186,11,0,0,0,1,174
+Williamsburg,PINEY FOREST,Attorney General,,Richard Hricik,DEM,7,2,0,0,0,0,5
+Williamsburg,PINEY FOREST,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,Attorney General,,David Stumbo,REP,1,0,0,1,0,0,0
+Williamsburg,Provisional,Attorney General,,Richard Hricik,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,Attorney General,,David Stumbo,REP,93,29,0,0,0,0,64
+Williamsburg,SALTERS,Attorney General,,Richard Hricik,DEM,462,273,0,0,0,3,186
+Williamsburg,SALTERS,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,Attorney General,,David Stumbo,REP,132,33,0,0,0,0,99
+Williamsburg,SANDY BAY,Attorney General,,Richard Hricik,DEM,63,37,0,0,0,2,24
+Williamsburg,SANDY BAY,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,Attorney General,,David Stumbo,REP,36,5,0,0,0,1,30
+Williamsburg,SINGLETARY,Attorney General,,Richard Hricik,DEM,113,58,0,0,0,3,52
+Williamsburg,SINGLETARY,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,Attorney General,,David Stumbo,REP,96,12,0,0,0,0,84
+Williamsburg,SUTTONS,Attorney General,,Richard Hricik,DEM,39,21,0,0,0,0,18
+Williamsburg,SUTTONS,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,TRIO,Attorney General,,David Stumbo,REP,71,17,0,0,0,0,54
+Williamsburg,TRIO,Attorney General,,Richard Hricik,DEM,356,159,0,0,0,3,194
+Williamsburg,TRIO,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,Auditor,,Laura G McKenzie,DEM,158,58,0,0,0,1,99
+Williamsburg,BLACK RIVER,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,Auditor,,Laura G McKenzie,DEM,330,117,0,0,0,6,207
+Williamsburg,BLOOMINGVALE,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CADES,Auditor,,Laura G McKenzie,DEM,185,89,0,0,0,7,89
+Williamsburg,CADES,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Auditor,,Laura G McKenzie,DEM,151,75,0,0,0,1,75
+Williamsburg,CEDAR SWAMP,Auditor,,Write-In,NON,2,1,0,0,0,0,1
+Williamsburg,CENTRAL,Auditor,,Laura G McKenzie,DEM,400,208,0,0,0,7,185
+Williamsburg,CENTRAL,Auditor,,Write-In,NON,4,2,0,0,0,0,2
+Williamsburg,EARLES,Auditor,,Laura G McKenzie,DEM,173,36,0,0,0,1,136
+Williamsburg,EARLES,Auditor,,Write-In,NON,3,1,0,0,0,0,2
+Williamsburg,Failsafe,Auditor,,Laura G McKenzie,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Auditor,,Laura G McKenzie,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,Auditor,,Laura G McKenzie,DEM,607,304,0,0,0,13,290
+Williamsburg,GREELEYVILLE,Auditor,,Write-In,NON,3,0,0,0,0,1,2
+Williamsburg,HARMONY,Auditor,,Laura G McKenzie,DEM,80,16,0,0,0,1,63
+Williamsburg,HARMONY,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,Auditor,,Laura G McKenzie,DEM,161,34,0,0,0,2,125
+Williamsburg,HEBRON,Auditor,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,HEMINGWAY,Auditor,,Laura G McKenzie,DEM,621,447,0,0,0,3,171
+Williamsburg,HEMINGWAY,Auditor,,Write-In,NON,4,3,0,0,0,0,1
+Williamsburg,HENRY-POPLAR HILL,Auditor,,Laura G McKenzie,DEM,201,130,0,0,0,6,65
+Williamsburg,HENRY-POPLAR HILL,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,INDIANTOWN,Auditor,,Laura G McKenzie,DEM,689,510,0,0,0,15,164
+Williamsburg,INDIANTOWN,Auditor,,Write-In,NON,2,1,0,0,0,0,1
+Williamsburg,KINGSTREE NO.1,Auditor,,Laura G McKenzie,DEM,1236,742,0,0,0,13,481
+Williamsburg,KINGSTREE NO.1,Auditor,,Write-In,NON,7,3,0,0,0,1,3
+Williamsburg,KINGSTREE NO.2,Auditor,,Laura G McKenzie,DEM,374,223,0,0,0,3,148
+Williamsburg,KINGSTREE NO.2,Auditor,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,Auditor,,Laura G McKenzie,DEM,1016,716,0,0,0,19,281
+Williamsburg,KINGSTREE NO.3,Auditor,,Write-In,NON,3,2,0,0,0,0,1
+Williamsburg,KINGSTREE NO.4,Auditor,,Laura G McKenzie,DEM,580,338,0,0,0,8,234
+Williamsburg,KINGSTREE NO.4,Auditor,,Write-In,NON,2,2,0,0,0,0,0
+Williamsburg,LANE,Auditor,,Laura G McKenzie,DEM,433,202,0,0,0,8,223
+Williamsburg,LANE,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Auditor,,Laura G McKenzie,DEM,122,42,0,0,0,1,79
+Williamsburg,MORRISVILLE,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Auditor,,Laura G McKenzie,DEM,169,70,0,0,0,5,94
+Williamsburg,MOUNT VERNON,Auditor,,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,MUDDY CREEK,Auditor,,Laura G McKenzie,DEM,253,125,0,0,0,3,125
+Williamsburg,MUDDY CREEK,Auditor,,Write-In,NON,7,4,0,0,0,0,3
+Williamsburg,NESMITH,Auditor,,Laura G McKenzie,DEM,258,127,0,0,0,9,122
+Williamsburg,NESMITH,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Auditor,,Laura G McKenzie,DEM,90,20,0,0,0,0,70
+Williamsburg,PERGAMOS,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,PINEY FOREST,Auditor,,Laura G McKenzie,DEM,44,5,0,0,0,0,39
+Williamsburg,PINEY FOREST,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,Provisional,Auditor,,Laura G McKenzie,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,Auditor,,Laura G McKenzie,DEM,495,279,0,0,0,3,213
+Williamsburg,SALTERS,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,SANDY BAY,Auditor,,Laura G McKenzie,DEM,134,52,0,0,0,2,80
+Williamsburg,SANDY BAY,Auditor,,Write-In,NON,3,1,0,0,0,0,2
+Williamsburg,SINGLETARY,Auditor,,Laura G McKenzie,DEM,136,62,0,0,0,4,70
+Williamsburg,SINGLETARY,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,Auditor,,Laura G McKenzie,DEM,65,24,0,0,0,0,41
+Williamsburg,SUTTONS,Auditor,,Write-In,NON,3,0,0,0,0,0,3
+Williamsburg,TRIO,Auditor,,Laura G McKenzie,DEM,389,167,0,0,0,3,219
+Williamsburg,TRIO,Auditor,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,BLACK RIVER,Commissioner of Agriculture,,Chris Nelums,UNC,2,1,0,0,0,0,1
+Williamsburg,BLACK RIVER,Commissioner of Agriculture,,Cody Simpson,REP,82,15,0,0,0,0,67
+Williamsburg,BLACK RIVER,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Williamsburg,BLACK RIVER,Commissioner of Agriculture,,DeShawn Blanding,DEM,102,47,0,0,0,1,54
+Williamsburg,BLACK RIVER,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,BLOOMINGVALE,Commissioner of Agriculture,,Chris Nelums,UNC,6,2,0,0,0,0,4
+Williamsburg,BLOOMINGVALE,Commissioner of Agriculture,,Cody Simpson,REP,135,25,0,0,0,1,109
+Williamsburg,BLOOMINGVALE,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Williamsburg,BLOOMINGVALE,Commissioner of Agriculture,,DeShawn Blanding,DEM,289,108,0,0,0,6,175
+Williamsburg,BLOOMINGVALE,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CADES,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Williamsburg,CADES,Commissioner of Agriculture,,Cody Simpson,REP,78,14,0,0,0,1,63
+Williamsburg,CADES,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Williamsburg,CADES,Commissioner of Agriculture,,DeShawn Blanding,DEM,152,85,0,0,0,7,60
+Williamsburg,CADES,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Williamsburg,CEDAR SWAMP,Commissioner of Agriculture,,Cody Simpson,REP,95,17,0,0,0,0,78
+Williamsburg,CEDAR SWAMP,Commissioner of Agriculture,,Michael Sullens,LIB,3,1,0,0,0,0,2
+Williamsburg,CEDAR SWAMP,Commissioner of Agriculture,,DeShawn Blanding,DEM,96,67,0,0,0,1,28
+Williamsburg,CEDAR SWAMP,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CENTRAL,Commissioner of Agriculture,,Chris Nelums,UNC,6,4,0,0,0,0,2
+Williamsburg,CENTRAL,Commissioner of Agriculture,,Cody Simpson,REP,144,41,0,0,0,0,103
+Williamsburg,CENTRAL,Commissioner of Agriculture,,Michael Sullens,LIB,7,1,0,0,0,0,6
+Williamsburg,CENTRAL,Commissioner of Agriculture,,DeShawn Blanding,DEM,316,182,0,0,0,7,127
+Williamsburg,CENTRAL,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,EARLES,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Williamsburg,EARLES,Commissioner of Agriculture,,Cody Simpson,REP,225,17,0,0,0,1,207
+Williamsburg,EARLES,Commissioner of Agriculture,,Michael Sullens,LIB,4,0,0,0,0,0,4
+Williamsburg,EARLES,Commissioner of Agriculture,,DeShawn Blanding,DEM,98,32,0,0,0,0,66
+Williamsburg,EARLES,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Commissioner of Agriculture,,DeShawn Blanding,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,Commissioner of Agriculture,,Chris Nelums,UNC,4,2,0,0,0,0,2
+Williamsburg,GREELEYVILLE,Commissioner of Agriculture,,Cody Simpson,REP,125,33,0,0,0,0,92
+Williamsburg,GREELEYVILLE,Commissioner of Agriculture,,Michael Sullens,LIB,2,0,0,0,0,0,2
+Williamsburg,GREELEYVILLE,Commissioner of Agriculture,,DeShawn Blanding,DEM,544,287,0,0,0,14,243
+Williamsburg,GREELEYVILLE,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,HARMONY,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Williamsburg,HARMONY,Commissioner of Agriculture,,Cody Simpson,REP,110,11,0,0,0,0,99
+Williamsburg,HARMONY,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Williamsburg,HARMONY,Commissioner of Agriculture,,DeShawn Blanding,DEM,43,12,0,0,0,1,30
+Williamsburg,HARMONY,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,Commissioner of Agriculture,,Chris Nelums,UNC,3,1,0,0,0,0,2
+Williamsburg,HEBRON,Commissioner of Agriculture,,Cody Simpson,REP,197,24,0,0,0,1,172
+Williamsburg,HEBRON,Commissioner of Agriculture,,Michael Sullens,LIB,5,3,0,0,0,0,2
+Williamsburg,HEBRON,Commissioner of Agriculture,,DeShawn Blanding,DEM,40,19,0,0,0,1,20
+Williamsburg,HEBRON,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,Commissioner of Agriculture,,Chris Nelums,UNC,12,5,0,0,0,0,7
+Williamsburg,HEMINGWAY,Commissioner of Agriculture,,Cody Simpson,REP,259,132,0,0,0,1,126
+Williamsburg,HEMINGWAY,Commissioner of Agriculture,,Michael Sullens,LIB,5,2,0,0,0,0,3
+Williamsburg,HEMINGWAY,Commissioner of Agriculture,,DeShawn Blanding,DEM,511,395,0,0,0,2,114
+Williamsburg,HEMINGWAY,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HENRY-POPLAR HILL,Commissioner of Agriculture,,Chris Nelums,UNC,4,2,0,0,0,0,2
+Williamsburg,HENRY-POPLAR HILL,Commissioner of Agriculture,,Cody Simpson,REP,128,63,0,0,0,2,63
+Williamsburg,HENRY-POPLAR HILL,Commissioner of Agriculture,,Michael Sullens,LIB,2,2,0,0,0,0,0
+Williamsburg,HENRY-POPLAR HILL,Commissioner of Agriculture,,DeShawn Blanding,DEM,156,110,0,0,0,4,42
+Williamsburg,HENRY-POPLAR HILL,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,Commissioner of Agriculture,,Chris Nelums,UNC,8,6,0,0,0,0,2
+Williamsburg,INDIANTOWN,Commissioner of Agriculture,,Cody Simpson,REP,101,57,0,0,0,3,41
+Williamsburg,INDIANTOWN,Commissioner of Agriculture,,Michael Sullens,LIB,3,2,0,0,0,0,1
+Williamsburg,INDIANTOWN,Commissioner of Agriculture,,DeShawn Blanding,DEM,638,479,0,0,0,14,145
+Williamsburg,INDIANTOWN,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,Commissioner of Agriculture,,Chris Nelums,UNC,9,4,0,0,0,0,5
+Williamsburg,KINGSTREE NO.1,Commissioner of Agriculture,,Cody Simpson,REP,644,328,0,0,0,8,308
+Williamsburg,KINGSTREE NO.1,Commissioner of Agriculture,,Michael Sullens,LIB,17,6,0,0,0,0,11
+Williamsburg,KINGSTREE NO.1,Commissioner of Agriculture,,DeShawn Blanding,DEM,854,562,0,0,0,8,284
+Williamsburg,KINGSTREE NO.1,Commissioner of Agriculture,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,Commissioner of Agriculture,,Chris Nelums,UNC,7,4,0,0,0,0,3
+Williamsburg,KINGSTREE NO.2,Commissioner of Agriculture,,Cody Simpson,REP,11,6,0,0,0,0,5
+Williamsburg,KINGSTREE NO.2,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,Commissioner of Agriculture,,DeShawn Blanding,DEM,369,219,0,0,0,3,147
+Williamsburg,KINGSTREE NO.2,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,Commissioner of Agriculture,,Chris Nelums,UNC,11,7,0,0,0,0,4
+Williamsburg,KINGSTREE NO.3,Commissioner of Agriculture,,Cody Simpson,REP,78,47,0,0,0,0,31
+Williamsburg,KINGSTREE NO.3,Commissioner of Agriculture,,Michael Sullens,LIB,2,0,0,0,0,0,2
+Williamsburg,KINGSTREE NO.3,Commissioner of Agriculture,,DeShawn Blanding,DEM,974,696,0,0,0,19,259
+Williamsburg,KINGSTREE NO.3,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,Commissioner of Agriculture,,Chris Nelums,UNC,6,4,0,0,0,0,2
+Williamsburg,KINGSTREE NO.4,Commissioner of Agriculture,,Cody Simpson,REP,134,51,0,0,0,1,82
+Williamsburg,KINGSTREE NO.4,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,Commissioner of Agriculture,,DeShawn Blanding,DEM,510,317,0,0,0,7,186
+Williamsburg,KINGSTREE NO.4,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,LANE,Commissioner of Agriculture,,Chris Nelums,UNC,4,2,0,0,0,0,2
+Williamsburg,LANE,Commissioner of Agriculture,,Cody Simpson,REP,39,10,0,0,0,0,29
+Williamsburg,LANE,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+Williamsburg,LANE,Commissioner of Agriculture,,DeShawn Blanding,DEM,409,191,0,0,0,8,210
+Williamsburg,LANE,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Commissioner of Agriculture,,Cody Simpson,REP,3,0,0,0,0,0,3
+Williamsburg,MORRISVILLE,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Commissioner of Agriculture,,DeShawn Blanding,DEM,122,42,0,0,0,1,79
+Williamsburg,MORRISVILLE,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Commissioner of Agriculture,,Chris Nelums,UNC,2,0,0,0,0,0,2
+Williamsburg,MOUNT VERNON,Commissioner of Agriculture,,Cody Simpson,REP,76,11,0,0,0,0,65
+Williamsburg,MOUNT VERNON,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Commissioner of Agriculture,,DeShawn Blanding,DEM,135,65,0,0,0,5,65
+Williamsburg,MOUNT VERNON,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MUDDY CREEK,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Williamsburg,MUDDY CREEK,Commissioner of Agriculture,,Cody Simpson,REP,304,113,0,0,0,3,188
+Williamsburg,MUDDY CREEK,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+Williamsburg,MUDDY CREEK,Commissioner of Agriculture,,DeShawn Blanding,DEM,143,86,0,0,0,3,54
+Williamsburg,MUDDY CREEK,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,NESMITH,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Williamsburg,NESMITH,Commissioner of Agriculture,,Cody Simpson,REP,43,7,0,0,0,1,35
+Williamsburg,NESMITH,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+Williamsburg,NESMITH,Commissioner of Agriculture,,DeShawn Blanding,DEM,242,127,0,0,0,8,107
+Williamsburg,NESMITH,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Williamsburg,PERGAMOS,Commissioner of Agriculture,,Cody Simpson,REP,78,15,0,0,0,0,63
+Williamsburg,PERGAMOS,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Williamsburg,PERGAMOS,Commissioner of Agriculture,,DeShawn Blanding,DEM,60,13,0,0,0,0,47
+Williamsburg,PERGAMOS,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PINEY FOREST,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+Williamsburg,PINEY FOREST,Commissioner of Agriculture,,Cody Simpson,REP,183,10,0,0,0,1,172
+Williamsburg,PINEY FOREST,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,0,1
+Williamsburg,PINEY FOREST,Commissioner of Agriculture,,DeShawn Blanding,DEM,7,2,0,0,0,0,5
+Williamsburg,PINEY FOREST,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+Williamsburg,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,1,0,0,0
+Williamsburg,Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Williamsburg,Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,Commissioner of Agriculture,,Chris Nelums,UNC,9,1,0,0,0,0,8
+Williamsburg,SALTERS,Commissioner of Agriculture,,Cody Simpson,REP,90,29,0,0,0,0,61
+Williamsburg,SALTERS,Commissioner of Agriculture,,Michael Sullens,LIB,7,2,0,0,0,0,5
+Williamsburg,SALTERS,Commissioner of Agriculture,,DeShawn Blanding,DEM,448,266,0,0,0,3,179
+Williamsburg,SALTERS,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,Commissioner of Agriculture,,Chris Nelums,UNC,2,0,0,0,0,0,2
+Williamsburg,SANDY BAY,Commissioner of Agriculture,,Cody Simpson,REP,132,34,0,0,0,0,98
+Williamsburg,SANDY BAY,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,Commissioner of Agriculture,,DeShawn Blanding,DEM,59,36,0,0,0,2,21
+Williamsburg,SANDY BAY,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,SINGLETARY,Commissioner of Agriculture,,Chris Nelums,UNC,2,2,0,0,0,0,0
+Williamsburg,SINGLETARY,Commissioner of Agriculture,,Cody Simpson,REP,37,5,0,0,0,1,31
+Williamsburg,SINGLETARY,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,Commissioner of Agriculture,,DeShawn Blanding,DEM,112,58,0,0,0,3,51
+Williamsburg,SINGLETARY,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,Commissioner of Agriculture,,Chris Nelums,UNC,3,2,0,0,0,0,1
+Williamsburg,SUTTONS,Commissioner of Agriculture,,Cody Simpson,REP,97,12,0,0,0,0,85
+Williamsburg,SUTTONS,Commissioner of Agriculture,,Michael Sullens,LIB,2,1,0,0,0,0,1
+Williamsburg,SUTTONS,Commissioner of Agriculture,,DeShawn Blanding,DEM,34,17,0,0,0,0,17
+Williamsburg,SUTTONS,Commissioner of Agriculture,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,TRIO,Commissioner of Agriculture,,Chris Nelums,UNC,6,3,0,0,0,0,3
+Williamsburg,TRIO,Commissioner of Agriculture,,Cody Simpson,REP,68,17,0,0,0,0,51
+Williamsburg,TRIO,Commissioner of Agriculture,,Michael Sullens,LIB,2,0,0,0,0,0,2
+Williamsburg,TRIO,Commissioner of Agriculture,,DeShawn Blanding,DEM,350,156,0,0,0,3,191
+Williamsburg,TRIO,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,Comptroller General,,Mike Burkhold,REP,82,15,0,0,0,0,67
+Williamsburg,BLACK RIVER,Comptroller General,,Tiffany Boozer,DEM,105,48,0,0,0,1,56
+Williamsburg,BLACK RIVER,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,Comptroller General,,Mike Burkhold,REP,137,26,0,0,0,1,110
+Williamsburg,BLOOMINGVALE,Comptroller General,,Tiffany Boozer,DEM,292,109,0,0,0,6,177
+Williamsburg,BLOOMINGVALE,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CADES,Comptroller General,,Mike Burkhold,REP,81,15,0,0,0,1,65
+Williamsburg,CADES,Comptroller General,,Tiffany Boozer,DEM,151,85,0,0,0,7,59
+Williamsburg,CADES,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Comptroller General,,Mike Burkhold,REP,93,17,0,0,0,0,76
+Williamsburg,CEDAR SWAMP,Comptroller General,,Tiffany Boozer,DEM,98,67,0,0,0,1,30
+Williamsburg,CEDAR SWAMP,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CENTRAL,Comptroller General,,Mike Burkhold,REP,146,40,0,0,0,0,106
+Williamsburg,CENTRAL,Comptroller General,,Tiffany Boozer,DEM,323,187,0,0,0,7,129
+Williamsburg,CENTRAL,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,EARLES,Comptroller General,,Mike Burkhold,REP,224,18,0,0,0,1,205
+Williamsburg,EARLES,Comptroller General,,Tiffany Boozer,DEM,102,30,0,0,0,0,72
+Williamsburg,EARLES,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Comptroller General,,Mike Burkhold,REP,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Comptroller General,,Tiffany Boozer,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Comptroller General,,Mike Burkhold,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,Comptroller General,,Mike Burkhold,REP,126,35,0,0,0,0,91
+Williamsburg,GREELEYVILLE,Comptroller General,,Tiffany Boozer,DEM,547,286,0,0,0,14,247
+Williamsburg,GREELEYVILLE,Comptroller General,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,HARMONY,Comptroller General,,Mike Burkhold,REP,110,11,0,0,0,0,99
+Williamsburg,HARMONY,Comptroller General,,Tiffany Boozer,DEM,45,12,0,0,0,1,32
+Williamsburg,HARMONY,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,Comptroller General,,Mike Burkhold,REP,202,27,0,0,0,1,174
+Williamsburg,HEBRON,Comptroller General,,Tiffany Boozer,DEM,42,20,0,0,0,1,21
+Williamsburg,HEBRON,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,Comptroller General,,Mike Burkhold,REP,266,133,0,0,0,0,133
+Williamsburg,HEMINGWAY,Comptroller General,,Tiffany Boozer,DEM,515,397,0,0,0,3,115
+Williamsburg,HEMINGWAY,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HENRY-POPLAR HILL,Comptroller General,,Mike Burkhold,REP,129,62,0,0,0,2,65
+Williamsburg,HENRY-POPLAR HILL,Comptroller General,,Tiffany Boozer,DEM,159,113,0,0,0,4,42
+Williamsburg,HENRY-POPLAR HILL,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,Comptroller General,,Mike Burkhold,REP,102,58,0,0,0,2,42
+Williamsburg,INDIANTOWN,Comptroller General,,Tiffany Boozer,DEM,644,483,0,0,0,14,147
+Williamsburg,INDIANTOWN,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,Comptroller General,,Mike Burkhold,REP,631,316,0,0,0,8,307
+Williamsburg,KINGSTREE NO.1,Comptroller General,,Tiffany Boozer,DEM,885,581,0,0,0,8,296
+Williamsburg,KINGSTREE NO.1,Comptroller General,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,Comptroller General,,Mike Burkhold,REP,13,7,0,0,0,0,6
+Williamsburg,KINGSTREE NO.2,Comptroller General,,Tiffany Boozer,DEM,371,220,0,0,0,3,148
+Williamsburg,KINGSTREE NO.2,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,Comptroller General,,Mike Burkhold,REP,82,48,0,0,0,0,34
+Williamsburg,KINGSTREE NO.3,Comptroller General,,Tiffany Boozer,DEM,976,699,0,0,0,19,258
+Williamsburg,KINGSTREE NO.3,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,Comptroller General,,Mike Burkhold,REP,128,49,0,0,0,1,78
+Williamsburg,KINGSTREE NO.4,Comptroller General,,Tiffany Boozer,DEM,518,319,0,0,0,7,192
+Williamsburg,KINGSTREE NO.4,Comptroller General,,Write-In,NON,2,2,0,0,0,0,0
+Williamsburg,LANE,Comptroller General,,Mike Burkhold,REP,41,9,0,0,0,1,31
+Williamsburg,LANE,Comptroller General,,Tiffany Boozer,DEM,408,193,0,0,0,7,208
+Williamsburg,LANE,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Comptroller General,,Mike Burkhold,REP,3,0,0,0,0,0,3
+Williamsburg,MORRISVILLE,Comptroller General,,Tiffany Boozer,DEM,122,42,0,0,0,1,79
+Williamsburg,MORRISVILLE,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Comptroller General,,Mike Burkhold,REP,76,11,0,0,0,0,65
+Williamsburg,MOUNT VERNON,Comptroller General,,Tiffany Boozer,DEM,135,65,0,0,0,5,65
+Williamsburg,MOUNT VERNON,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MUDDY CREEK,Comptroller General,,Mike Burkhold,REP,302,112,0,0,0,3,187
+Williamsburg,MUDDY CREEK,Comptroller General,,Tiffany Boozer,DEM,142,87,0,0,0,3,52
+Williamsburg,MUDDY CREEK,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,NESMITH,Comptroller General,,Mike Burkhold,REP,43,7,0,0,0,1,35
+Williamsburg,NESMITH,Comptroller General,,Tiffany Boozer,DEM,244,128,0,0,0,8,108
+Williamsburg,NESMITH,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Comptroller General,,Mike Burkhold,REP,80,14,0,0,0,0,66
+Williamsburg,PERGAMOS,Comptroller General,,Tiffany Boozer,DEM,60,14,0,0,0,0,46
+Williamsburg,PERGAMOS,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PINEY FOREST,Comptroller General,,Mike Burkhold,REP,186,11,0,0,0,1,174
+Williamsburg,PINEY FOREST,Comptroller General,,Tiffany Boozer,DEM,7,2,0,0,0,0,5
+Williamsburg,PINEY FOREST,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,Comptroller General,,Mike Burkhold,REP,1,0,0,1,0,0,0
+Williamsburg,Provisional,Comptroller General,,Tiffany Boozer,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,Comptroller General,,Mike Burkhold,REP,90,28,0,0,0,0,62
+Williamsburg,SALTERS,Comptroller General,,Tiffany Boozer,DEM,458,270,0,0,0,3,185
+Williamsburg,SALTERS,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,Comptroller General,,Mike Burkhold,REP,133,33,0,0,0,0,100
+Williamsburg,SANDY BAY,Comptroller General,,Tiffany Boozer,DEM,60,37,0,0,0,2,21
+Williamsburg,SANDY BAY,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,Comptroller General,,Mike Burkhold,REP,35,6,0,0,0,1,28
+Williamsburg,SINGLETARY,Comptroller General,,Tiffany Boozer,DEM,113,56,0,0,0,3,54
+Williamsburg,SINGLETARY,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,Comptroller General,,Mike Burkhold,REP,97,12,0,0,0,0,85
+Williamsburg,SUTTONS,Comptroller General,,Tiffany Boozer,DEM,39,21,0,0,0,0,18
+Williamsburg,SUTTONS,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,TRIO,Comptroller General,,Mike Burkhold,REP,68,18,0,0,0,0,50
+Williamsburg,TRIO,Comptroller General,,Tiffany Boozer,DEM,357,158,0,0,0,3,196
+Williamsburg,TRIO,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,County Council District 1,,Joe Lee,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe,County Council District 1,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,County Council District 1,,Joe Lee,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,County Council District 1,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,County Council District 1,,Joe Lee,DEM,572,397,0,0,0,1,174
+Williamsburg,HEMINGWAY,County Council District 1,,Write-In,NON,82,70,0,0,0,2,10
+Williamsburg,HENRY-POPLAR HILL,County Council District 1,,Joe Lee,DEM,205,130,0,0,0,6,69
+Williamsburg,HENRY-POPLAR HILL,County Council District 1,,Write-In,NON,19,14,0,0,0,0,5
+Williamsburg,INDIANTOWN,County Council District 1,,Joe Lee,DEM,169,125,0,0,0,0,44
+Williamsburg,INDIANTOWN,County Council District 1,,Write-In,NON,25,21,0,0,0,0,4
+Williamsburg,MUDDY CREEK,County Council District 1,,Joe Lee,DEM,278,130,0,0,0,1,147
+Williamsburg,MUDDY CREEK,County Council District 1,,Write-In,NON,27,15,0,0,0,2,10
+Williamsburg,Provisional,County Council District 1,,Joe Lee,DEM,0,0,0,0,0,0,0
+Williamsburg,Provisional,County Council District 1,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,County Council District 2,,Torrance Wilson,DEM,324,113,0,0,0,6,205
+Williamsburg,BLOOMINGVALE,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,County Council District 2,,Torrance Wilson,DEM,46,30,0,0,0,0,16
+Williamsburg,CEDAR SWAMP,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,County Council District 2,,Torrance Wilson,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,County Council District 2,,Torrance Wilson,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,County Council District 2,,Torrance Wilson,DEM,502,366,0,0,0,16,120
+Williamsburg,INDIANTOWN,County Council District 2,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,KINGSTREE NO.3,County Council District 2,,Torrance Wilson,DEM,105,78,0,0,0,4,23
+Williamsburg,KINGSTREE NO.3,County Council District 2,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,MORRISVILLE,County Council District 2,,Torrance Wilson,DEM,122,43,0,0,0,1,78
+Williamsburg,MORRISVILLE,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,NESMITH,County Council District 2,,Torrance Wilson,DEM,259,130,0,0,0,9,120
+Williamsburg,NESMITH,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PINEY FOREST,County Council District 2,,Torrance Wilson,DEM,43,5,0,0,0,0,38
+Williamsburg,PINEY FOREST,County Council District 2,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,Provisional,County Council District 2,,Torrance Wilson,DEM,2,0,0,2,0,0,0
+Williamsburg,Provisional,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,County Council District 2,,Torrance Wilson,DEM,119,53,0,0,0,3,63
+Williamsburg,SINGLETARY,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,County Council District 6,,Sam L Floyd,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe,County Council District 6,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,County Council District 6,,Sam L Floyd,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,County Council District 6,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,County Council District 6,,Sam L Floyd,DEM,1227,724,0,0,0,12,491
+Williamsburg,KINGSTREE NO.1,County Council District 6,,Write-In,NON,21,11,0,0,0,1,9
+Williamsburg,KINGSTREE NO.2,County Council District 6,,Sam L Floyd,DEM,9,4,0,0,0,0,5
+Williamsburg,KINGSTREE NO.2,County Council District 6,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,Provisional,County Council District 6,,Sam L Floyd,DEM,0,0,0,0,0,0,0
+Williamsburg,Provisional,County Council District 6,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,County Council District 6,,Sam L Floyd,DEM,104,45,0,0,0,2,57
+Williamsburg,SANDY BAY,County Council District 6,,Write-In,NON,3,1,0,0,0,0,2
+Williamsburg,CADES,County Council District 7,,Jackie Bradley- Hailes,DEM,184,90,0,0,0,7,87
+Williamsburg,CADES,County Council District 7,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,Failsafe,County Council District 7,,Jackie Bradley- Hailes,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe,County Council District 7,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,County Council District 7,,Jackie Bradley- Hailes,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,County Council District 7,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,County Council District 7,,Jackie Bradley- Hailes,DEM,55,7,0,0,0,1,47
+Williamsburg,HEBRON,County Council District 7,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,County Council District 7,,Jackie Bradley- Hailes,DEM,901,634,0,0,0,15,252
+Williamsburg,KINGSTREE NO.3,County Council District 7,,Write-In,NON,5,5,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,County Council District 7,,Jackie Bradley- Hailes,DEM,42,29,0,0,0,0,13
+Williamsburg,KINGSTREE NO.4,County Council District 7,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,PERGAMOS,County Council District 7,,Jackie Bradley- Hailes,DEM,77,17,0,0,0,0,60
+Williamsburg,PERGAMOS,County Council District 7,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,Provisional,County Council District 7,,Jackie Bradley- Hailes,DEM,0,0,0,0,0,0,0
+Williamsburg,Provisional,County Council District 7,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,County Council District 7,,Jackie Bradley- Hailes,DEM,15,3,0,0,0,0,12
+Williamsburg,SANDY BAY,County Council District 7,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,SINGLETARY,County Council District 7,,Jackie Bradley- Hailes,DEM,14,8,0,0,0,1,5
+Williamsburg,SINGLETARY,County Council District 7,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,County Supervisor,,Kelvin C Washington,DEM,153,55,0,0,0,1,97
+Williamsburg,BLACK RIVER,County Supervisor,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,County Supervisor,,Kelvin C Washington,DEM,327,115,0,0,0,6,206
+Williamsburg,BLOOMINGVALE,County Supervisor,,Write-In,NON,4,2,0,0,0,0,2
+Williamsburg,CADES,County Supervisor,,Kelvin C Washington,DEM,189,90,0,0,0,7,92
+Williamsburg,CADES,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,County Supervisor,,Kelvin C Washington,DEM,146,73,0,0,0,1,72
+Williamsburg,CEDAR SWAMP,County Supervisor,,Write-In,NON,6,2,0,0,0,0,4
+Williamsburg,CENTRAL,County Supervisor,,Kelvin C Washington,DEM,395,203,0,0,0,7,185
+Williamsburg,CENTRAL,County Supervisor,,Write-In,NON,9,6,0,0,0,0,3
+Williamsburg,EARLES,County Supervisor,,Kelvin C Washington,DEM,176,36,0,0,0,1,139
+Williamsburg,EARLES,County Supervisor,,Write-In,NON,4,1,0,0,0,0,3
+Williamsburg,Failsafe,County Supervisor,,Kelvin C Washington,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,County Supervisor,,Kelvin C Washington,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,County Supervisor,,Kelvin C Washington,DEM,605,298,0,0,0,14,293
+Williamsburg,GREELEYVILLE,County Supervisor,,Write-In,NON,8,6,0,0,0,0,2
+Williamsburg,HARMONY,County Supervisor,,Kelvin C Washington,DEM,81,15,0,0,0,1,65
+Williamsburg,HARMONY,County Supervisor,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,HEBRON,County Supervisor,,Kelvin C Washington,DEM,130,32,0,0,0,2,96
+Williamsburg,HEBRON,County Supervisor,,Write-In,NON,2,1,0,0,0,0,1
+Williamsburg,HEMINGWAY,County Supervisor,,Kelvin C Washington,DEM,647,458,0,0,0,3,186
+Williamsburg,HEMINGWAY,County Supervisor,,Write-In,NON,3,2,0,0,0,0,1
+Williamsburg,HENRY-POPLAR HILL,County Supervisor,,Kelvin C Washington,DEM,213,137,0,0,0,6,70
+Williamsburg,HENRY-POPLAR HILL,County Supervisor,,Write-In,NON,4,3,0,0,0,0,1
+Williamsburg,INDIANTOWN,County Supervisor,,Kelvin C Washington,DEM,697,513,0,0,0,15,169
+Williamsburg,INDIANTOWN,County Supervisor,,Write-In,NON,3,3,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,County Supervisor,,Kelvin C Washington,DEM,1233,749,0,0,0,11,473
+Williamsburg,KINGSTREE NO.1,County Supervisor,,Write-In,NON,38,14,0,0,0,0,24
+Williamsburg,KINGSTREE NO.2,County Supervisor,,Kelvin C Washington,DEM,367,218,0,0,0,3,146
+Williamsburg,KINGSTREE NO.2,County Supervisor,,Write-In,NON,6,4,0,0,0,0,2
+Williamsburg,KINGSTREE NO.3,County Supervisor,,Kelvin C Washington,DEM,1001,703,0,0,0,19,279
+Williamsburg,KINGSTREE NO.3,County Supervisor,,Write-In,NON,19,14,0,0,0,0,5
+Williamsburg,KINGSTREE NO.4,County Supervisor,,Kelvin C Washington,DEM,569,336,0,0,0,8,225
+Williamsburg,KINGSTREE NO.4,County Supervisor,,Write-In,NON,12,7,0,0,0,0,5
+Williamsburg,LANE,County Supervisor,,Kelvin C Washington,DEM,432,199,0,0,0,8,225
+Williamsburg,LANE,County Supervisor,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,MORRISVILLE,County Supervisor,,Kelvin C Washington,DEM,122,42,0,0,0,1,79
+Williamsburg,MORRISVILLE,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,County Supervisor,,Kelvin C Washington,DEM,158,69,0,0,0,5,84
+Williamsburg,MOUNT VERNON,County Supervisor,,Write-In,NON,8,1,0,0,0,0,7
+Williamsburg,MUDDY CREEK,County Supervisor,,Kelvin C Washington,DEM,289,138,0,0,0,3,148
+Williamsburg,MUDDY CREEK,County Supervisor,,Write-In,NON,5,3,0,0,0,0,2
+Williamsburg,NESMITH,County Supervisor,,Kelvin C Washington,DEM,261,128,0,0,0,9,124
+Williamsburg,NESMITH,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,County Supervisor,,Kelvin C Washington,DEM,80,18,0,0,0,0,62
+Williamsburg,PERGAMOS,County Supervisor,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,PINEY FOREST,County Supervisor,,Kelvin C Washington,DEM,43,5,0,0,0,0,38
+Williamsburg,PINEY FOREST,County Supervisor,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,Provisional,County Supervisor,,Kelvin C Washington,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,County Supervisor,,Kelvin C Washington,DEM,494,280,0,0,0,3,211
+Williamsburg,SALTERS,County Supervisor,,Write-In,NON,10,5,0,0,0,0,5
+Williamsburg,SANDY BAY,County Supervisor,,Kelvin C Washington,DEM,120,50,0,0,0,2,68
+Williamsburg,SANDY BAY,County Supervisor,,Write-In,NON,4,1,0,0,0,0,3
+Williamsburg,SINGLETARY,County Supervisor,,Kelvin C Washington,DEM,134,59,0,0,0,4,71
+Williamsburg,SINGLETARY,County Supervisor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,County Supervisor,,Kelvin C Washington,DEM,64,24,0,0,0,0,40
+Williamsburg,SUTTONS,County Supervisor,,Write-In,NON,4,0,0,0,0,0,4
+Williamsburg,TRIO,County Supervisor,,Kelvin C Washington,DEM,374,155,0,0,0,3,216
+Williamsburg,TRIO,County Supervisor,,Write-In,NON,18,10,0,0,0,0,8
+Williamsburg,BLACK RIVER,County Treasurer,,Willette O Thompson,DEM,148,57,0,0,0,1,90
+Williamsburg,BLACK RIVER,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,BLOOMINGVALE,County Treasurer,,Willette O Thompson,DEM,327,114,0,0,0,6,207
+Williamsburg,BLOOMINGVALE,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CADES,County Treasurer,,Willette O Thompson,DEM,184,89,0,0,0,7,88
+Williamsburg,CADES,County Treasurer,,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,CEDAR SWAMP,County Treasurer,,Willette O Thompson,DEM,146,74,0,0,0,1,71
+Williamsburg,CEDAR SWAMP,County Treasurer,,Write-In,NON,2,1,0,0,0,0,1
+Williamsburg,CENTRAL,County Treasurer,,Willette O Thompson,DEM,388,203,0,0,0,7,178
+Williamsburg,CENTRAL,County Treasurer,,Write-In,NON,6,4,0,0,0,0,2
+Williamsburg,EARLES,County Treasurer,,Willette O Thompson,DEM,171,35,0,0,0,1,135
+Williamsburg,EARLES,County Treasurer,,Write-In,NON,3,1,0,0,0,0,2
+Williamsburg,Failsafe,County Treasurer,,Willette O Thompson,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,County Treasurer,,Willette O Thompson,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,County Treasurer,,Willette O Thompson,DEM,609,304,0,0,0,14,291
+Williamsburg,GREELEYVILLE,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,HARMONY,County Treasurer,,Willette O Thompson,DEM,77,16,0,0,0,1,60
+Williamsburg,HARMONY,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,County Treasurer,,Willette O Thompson,DEM,121,29,0,0,0,1,91
+Williamsburg,HEBRON,County Treasurer,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,HEMINGWAY,County Treasurer,,Willette O Thompson,DEM,623,448,0,0,0,3,172
+Williamsburg,HEMINGWAY,County Treasurer,,Write-In,NON,4,3,0,0,0,0,1
+Williamsburg,HENRY-POPLAR HILL,County Treasurer,,Willette O Thompson,DEM,203,131,0,0,0,6,66
+Williamsburg,HENRY-POPLAR HILL,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,INDIANTOWN,County Treasurer,,Willette O Thompson,DEM,692,511,0,0,0,15,166
+Williamsburg,INDIANTOWN,County Treasurer,,Write-In,NON,3,1,0,0,0,0,2
+Williamsburg,KINGSTREE NO.1,County Treasurer,,Willette O Thompson,DEM,1164,716,0,0,0,13,435
+Williamsburg,KINGSTREE NO.1,County Treasurer,,Write-In,NON,15,5,0,0,0,1,9
+Williamsburg,KINGSTREE NO.2,County Treasurer,,Willette O Thompson,DEM,374,222,0,0,0,3,149
+Williamsburg,KINGSTREE NO.2,County Treasurer,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,County Treasurer,,Willette O Thompson,DEM,1022,724,0,0,0,19,279
+Williamsburg,KINGSTREE NO.3,County Treasurer,,Write-In,NON,6,5,0,0,0,0,1
+Williamsburg,KINGSTREE NO.4,County Treasurer,,Willette O Thompson,DEM,577,333,0,0,0,8,236
+Williamsburg,KINGSTREE NO.4,County Treasurer,,Write-In,NON,5,4,0,0,0,0,1
+Williamsburg,LANE,County Treasurer,,Willette O Thompson,DEM,426,197,0,0,0,8,221
+Williamsburg,LANE,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,County Treasurer,,Willette O Thompson,DEM,122,42,0,0,0,1,79
+Williamsburg,MORRISVILLE,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,County Treasurer,,Willette O Thompson,DEM,161,70,0,0,0,5,86
+Williamsburg,MOUNT VERNON,County Treasurer,,Write-In,NON,3,0,0,0,0,0,3
+Williamsburg,MUDDY CREEK,County Treasurer,,Willette O Thompson,DEM,244,122,0,0,0,3,119
+Williamsburg,MUDDY CREEK,County Treasurer,,Write-In,NON,7,4,0,0,0,0,3
+Williamsburg,NESMITH,County Treasurer,,Willette O Thompson,DEM,257,127,0,0,0,9,121
+Williamsburg,NESMITH,County Treasurer,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,PERGAMOS,County Treasurer,,Willette O Thompson,DEM,80,17,0,0,0,0,63
+Williamsburg,PERGAMOS,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,PINEY FOREST,County Treasurer,,Willette O Thompson,DEM,42,5,0,0,0,0,37
+Williamsburg,PINEY FOREST,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,County Treasurer,,Willette O Thompson,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,County Treasurer,,Willette O Thompson,DEM,488,275,0,0,0,3,210
+Williamsburg,SALTERS,County Treasurer,,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,SANDY BAY,County Treasurer,,Willette O Thompson,DEM,114,48,0,0,0,2,64
+Williamsburg,SANDY BAY,County Treasurer,,Write-In,NON,2,1,0,0,0,0,1
+Williamsburg,SINGLETARY,County Treasurer,,Willette O Thompson,DEM,131,60,0,0,0,4,67
+Williamsburg,SINGLETARY,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,County Treasurer,,Willette O Thompson,DEM,63,24,0,0,0,0,39
+Williamsburg,SUTTONS,County Treasurer,,Write-In,NON,3,0,0,0,0,0,3
+Williamsburg,TRIO,County Treasurer,,Willette O Thompson,DEM,388,163,0,0,0,3,222
+Williamsburg,TRIO,County Treasurer,,Write-In,NON,3,2,0,0,0,0,1
+Williamsburg,CADES,Fire District Commissioner South Lynches,,Bobby Johnson,NON,127,47,0,0,0,0,80
+Williamsburg,CADES,Fire District Commissioner South Lynches,,Jay Steele,NON,62,19,0,0,0,0,43
+Williamsburg,CADES,Fire District Commissioner South Lynches,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Fire District Commissioner South Lynches,,Bobby Johnson,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Fire District Commissioner South Lynches,,Jay Steele,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Fire District Commissioner South Lynches,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Fire District Commissioner South Lynches,,Bobby Johnson,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Fire District Commissioner South Lynches,,Jay Steele,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Fire District Commissioner South Lynches,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,Fire District Commissioner South Lynches,,Bobby Johnson,NON,143,22,0,0,0,2,119
+Williamsburg,HEBRON,Fire District Commissioner South Lynches,,Jay Steele,NON,58,8,0,0,0,2,48
+Williamsburg,HEBRON,Fire District Commissioner South Lynches,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,Fire District Commissioner South Lynches,,Bobby Johnson,NON,5,4,0,0,0,0,1
+Williamsburg,HEMINGWAY,Fire District Commissioner South Lynches,,Jay Steele,NON,2,2,0,0,0,0,0
+Williamsburg,HEMINGWAY,Fire District Commissioner South Lynches,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,Fire District Commissioner South Lynches,,Bobby Johnson,NON,16,16,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,Fire District Commissioner South Lynches,,Jay Steele,NON,6,5,0,0,0,1,0
+Williamsburg,KINGSTREE NO.3,Fire District Commissioner South Lynches,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Fire District Commissioner South Lynches,,Bobby Johnson,NON,76,15,0,0,0,0,61
+Williamsburg,PERGAMOS,Fire District Commissioner South Lynches,,Jay Steele,NON,55,11,0,0,0,0,44
+Williamsburg,PERGAMOS,Fire District Commissioner South Lynches,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,Fire District Commissioner South Lynches,,Bobby Johnson,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,Fire District Commissioner South Lynches,,Jay Steele,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,Fire District Commissioner South Lynches,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,Fire District Commissioner South Lynches,,Bobby Johnson,NON,62,25,0,0,0,0,37
+Williamsburg,SANDY BAY,Fire District Commissioner South Lynches,,Jay Steele,NON,22,5,0,0,0,0,17
+Williamsburg,SANDY BAY,Fire District Commissioner South Lynches,,Write-In,NON,3,0,0,0,0,0,3
+Williamsburg,SINGLETARY,Fire District Commissioner South Lynches,,Bobby Johnson,NON,74,25,0,0,0,2,47
+Williamsburg,SINGLETARY,Fire District Commissioner South Lynches,,Jay Steele,NON,33,7,0,0,0,0,26
+Williamsburg,SINGLETARY,Fire District Commissioner South Lynches,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Williamsburg,BLACK RIVER,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,82,14,0,0,0,0,68
+Williamsburg,BLACK RIVER,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,104,49,0,0,0,1,54
+Williamsburg,BLACK RIVER,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,8,4,0,0,0,0,4
+Williamsburg,BLOOMINGVALE,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,2,0,0,0,0,2
+Williamsburg,BLOOMINGVALE,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,133,23,0,0,0,1,109
+Williamsburg,BLOOMINGVALE,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,286,107,0,0,0,6,173
+Williamsburg,BLOOMINGVALE,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CADES,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Williamsburg,CADES,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,CADES,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,81,14,0,0,0,1,66
+Williamsburg,CADES,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,150,86,0,0,0,7,57
+Williamsburg,CADES,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,95,18,0,0,0,0,77
+Williamsburg,CEDAR SWAMP,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,98,67,0,0,0,1,30
+Williamsburg,CEDAR SWAMP,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,CENTRAL,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,5,3,0,0,0,0,2
+Williamsburg,CENTRAL,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,0,0,0,0,0,2
+Williamsburg,CENTRAL,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,146,38,0,0,0,0,108
+Williamsburg,CENTRAL,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,320,186,0,0,0,7,127
+Williamsburg,CENTRAL,Governor and Lieutenant Governor,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,EARLES,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Williamsburg,EARLES,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,0,0,0,0,0,2
+Williamsburg,EARLES,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,221,17,0,0,0,1,203
+Williamsburg,EARLES,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,101,31,0,0,0,0,70
+Williamsburg,EARLES,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,8,2,0,0,0,0,6
+Williamsburg,GREELEYVILLE,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+Williamsburg,GREELEYVILLE,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,130,38,0,0,0,0,92
+Williamsburg,GREELEYVILLE,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,538,282,0,0,0,14,242
+Williamsburg,GREELEYVILLE,Governor and Lieutenant Governor,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,HARMONY,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,0,0,0,0,0,4
+Williamsburg,HARMONY,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,HARMONY,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,109,10,0,0,0,0,99
+Williamsburg,HARMONY,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,42,13,0,0,0,1,28
+Williamsburg,HARMONY,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,1,0,0,0,0,2
+Williamsburg,HEBRON,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,HEBRON,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,202,27,0,0,0,1,174
+Williamsburg,HEBRON,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,39,19,0,0,0,1,19
+Williamsburg,HEBRON,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,11,4,0,0,0,0,7
+Williamsburg,HEMINGWAY,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Williamsburg,HEMINGWAY,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,262,133,0,0,0,0,129
+Williamsburg,HEMINGWAY,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,509,396,0,0,0,3,110
+Williamsburg,HEMINGWAY,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HENRY-POPLAR HILL,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,0,0,0,0,0,2
+Williamsburg,HENRY-POPLAR HILL,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,1,0,0,0,0,1
+Williamsburg,HENRY-POPLAR HILL,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,126,61,0,0,0,2,63
+Williamsburg,HENRY-POPLAR HILL,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,157,112,0,0,0,4,41
+Williamsburg,HENRY-POPLAR HILL,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,12,10,0,0,0,0,2
+Williamsburg,INDIANTOWN,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,2,0,0,0,0,0
+Williamsburg,INDIANTOWN,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,100,55,0,0,0,3,42
+Williamsburg,INDIANTOWN,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,635,478,0,0,0,13,144
+Williamsburg,INDIANTOWN,Governor and Lieutenant Governor,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,13,6,0,0,0,0,7
+Williamsburg,KINGSTREE NO.1,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,1,0,0,0,0,2
+Williamsburg,KINGSTREE NO.1,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,644,325,0,0,0,8,311
+Williamsburg,KINGSTREE NO.1,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,869,571,0,0,0,8,290
+Williamsburg,KINGSTREE NO.1,Governor and Lieutenant Governor,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,3,0,0,0,0,1
+Williamsburg,KINGSTREE NO.2,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,10,5,0,0,0,0,5
+Williamsburg,KINGSTREE NO.2,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,372,221,0,0,0,3,148
+Williamsburg,KINGSTREE NO.2,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,15,9,0,0,0,1,5
+Williamsburg,KINGSTREE NO.3,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,1,0,0,0,0,1
+Williamsburg,KINGSTREE NO.3,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,76,45,0,0,0,0,31
+Williamsburg,KINGSTREE NO.3,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,969,694,0,0,0,18,257
+Williamsburg,KINGSTREE NO.3,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,8,6,0,0,0,0,2
+Williamsburg,KINGSTREE NO.4,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,131,50,0,0,0,1,80
+Williamsburg,KINGSTREE NO.4,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,511,315,0,0,0,7,189
+Williamsburg,KINGSTREE NO.4,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,LANE,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,5,2,0,0,0,0,3
+Williamsburg,LANE,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,3,0,0,0,0,0
+Williamsburg,LANE,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,39,9,0,0,0,0,30
+Williamsburg,LANE,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,404,190,0,0,0,8,206
+Williamsburg,LANE,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,3,0,0,0,0,0,3
+Williamsburg,MORRISVILLE,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,122,42,0,0,0,1,79
+Williamsburg,MORRISVILLE,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,77,11,0,0,0,0,66
+Williamsburg,MOUNT VERNON,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,136,66,0,0,0,5,65
+Williamsburg,MOUNT VERNON,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MUDDY CREEK,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,1,0,0,0,0,0
+Williamsburg,MUDDY CREEK,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,4,2,0,0,0,0,2
+Williamsburg,MUDDY CREEK,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,303,114,0,0,0,3,186
+Williamsburg,MUDDY CREEK,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,141,85,0,0,0,3,53
+Williamsburg,MUDDY CREEK,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,NESMITH,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,1,0,0,0,0,6
+Williamsburg,NESMITH,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,NESMITH,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,42,8,0,0,0,0,34
+Williamsburg,NESMITH,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,241,127,0,0,0,9,105
+Williamsburg,NESMITH,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Williamsburg,PERGAMOS,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,80,14,0,0,0,0,66
+Williamsburg,PERGAMOS,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,59,14,0,0,0,0,45
+Williamsburg,PERGAMOS,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PINEY FOREST,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,0,0,0,0,0,2
+Williamsburg,PINEY FOREST,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,0,0,0,0,0,2
+Williamsburg,PINEY FOREST,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,182,11,0,0,0,1,170
+Williamsburg,PINEY FOREST,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,9,3,0,0,0,0,6
+Williamsburg,PINEY FOREST,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+Williamsburg,Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1,0,0,1,0,0,0
+Williamsburg,Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,11,1,0,0,0,0,10
+Williamsburg,SALTERS,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,2,0,0,0,0,0,2
+Williamsburg,SALTERS,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,87,29,0,0,0,0,58
+Williamsburg,SALTERS,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,451,270,0,0,0,3,178
+Williamsburg,SALTERS,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+Williamsburg,SANDY BAY,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,131,32,0,0,0,0,99
+Williamsburg,SANDY BAY,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,63,38,0,0,0,2,23
+Williamsburg,SANDY BAY,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,2,0,0,0,0,1
+Williamsburg,SINGLETARY,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,35,5,0,0,0,1,29
+Williamsburg,SINGLETARY,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,114,59,0,0,0,3,52
+Williamsburg,SINGLETARY,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,2,0,0,0,0,1
+Williamsburg,SUTTONS,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,97,12,0,0,0,0,85
+Williamsburg,SUTTONS,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,37,19,0,0,0,0,18
+Williamsburg,SUTTONS,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,TRIO,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,0,0,0,0,0,4
+Williamsburg,TRIO,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+Williamsburg,TRIO,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,65,16,0,0,0,0,49
+Williamsburg,TRIO,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,355,160,0,0,0,3,192
+Williamsburg,TRIO,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,School Board At Large,,Kenneth Burgess Sr,NON,94,29,0,0,0,1,64
+Williamsburg,BLACK RIVER,School Board At Large,,Johnny Friend,NON,12,4,0,0,0,0,8
+Williamsburg,BLACK RIVER,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,School Board At Large,,Kenneth Burgess Sr,NON,203,74,0,0,0,4,125
+Williamsburg,BLOOMINGVALE,School Board At Large,,Johnny Friend,NON,39,13,0,0,0,2,24
+Williamsburg,BLOOMINGVALE,School Board At Large,,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,CADES,School Board At Large,,Kenneth Burgess Sr,NON,100,52,0,0,0,0,48
+Williamsburg,CADES,School Board At Large,,Johnny Friend,NON,23,4,0,0,0,0,19
+Williamsburg,CADES,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,School Board At Large,,Kenneth Burgess Sr,NON,112,52,0,0,0,1,59
+Williamsburg,CEDAR SWAMP,School Board At Large,,Johnny Friend,NON,10,2,0,0,0,0,8
+Williamsburg,CEDAR SWAMP,School Board At Large,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,CENTRAL,School Board At Large,,Kenneth Burgess Sr,NON,259,133,0,0,0,5,121
+Williamsburg,CENTRAL,School Board At Large,,Johnny Friend,NON,33,14,0,0,0,0,19
+Williamsburg,CENTRAL,School Board At Large,,Write-In,NON,3,2,0,0,0,0,1
+Williamsburg,EARLES,School Board At Large,,Kenneth Burgess Sr,NON,125,20,0,0,0,0,105
+Williamsburg,EARLES,School Board At Large,,Johnny Friend,NON,25,5,0,0,0,1,19
+Williamsburg,EARLES,School Board At Large,,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,Failsafe,School Board At Large,,Kenneth Burgess Sr,NON,1,0,0,0,1,0,0
+Williamsburg,Failsafe,School Board At Large,,Johnny Friend,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,School Board At Large,,Kenneth Burgess Sr,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,School Board At Large,,Johnny Friend,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,School Board At Large,,Kenneth Burgess Sr,NON,373,181,0,0,0,10,182
+Williamsburg,GREELEYVILLE,School Board At Large,,Johnny Friend,NON,48,18,0,0,0,2,28
+Williamsburg,GREELEYVILLE,School Board At Large,,Write-In,NON,3,2,0,0,0,0,1
+Williamsburg,HARMONY,School Board At Large,,Kenneth Burgess Sr,NON,59,8,0,0,0,1,50
+Williamsburg,HARMONY,School Board At Large,,Johnny Friend,NON,15,3,0,0,0,0,12
+Williamsburg,HARMONY,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,School Board At Large,,Kenneth Burgess Sr,NON,95,17,0,0,0,1,77
+Williamsburg,HEBRON,School Board At Large,,Johnny Friend,NON,22,5,0,0,0,0,17
+Williamsburg,HEBRON,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,School Board At Large,,Kenneth Burgess Sr,NON,331,222,0,0,0,3,106
+Williamsburg,HEMINGWAY,School Board At Large,,Johnny Friend,NON,60,35,0,0,0,0,25
+Williamsburg,HEMINGWAY,School Board At Large,,Write-In,NON,4,3,0,0,0,0,1
+Williamsburg,HENRY-POPLAR HILL,School Board At Large,,Kenneth Burgess Sr,NON,125,81,0,0,0,4,40
+Williamsburg,HENRY-POPLAR HILL,School Board At Large,,Johnny Friend,NON,18,11,0,0,0,0,7
+Williamsburg,HENRY-POPLAR HILL,School Board At Large,,Write-In,NON,3,1,0,0,0,1,1
+Williamsburg,INDIANTOWN,School Board At Large,,Kenneth Burgess Sr,NON,377,252,0,0,0,13,112
+Williamsburg,INDIANTOWN,School Board At Large,,Johnny Friend,NON,26,18,0,0,0,1,7
+Williamsburg,INDIANTOWN,School Board At Large,,Write-In,NON,4,2,0,0,0,1,1
+Williamsburg,KINGSTREE NO.1,School Board At Large,,Kenneth Burgess Sr,NON,787,477,0,0,0,11,299
+Williamsburg,KINGSTREE NO.1,School Board At Large,,Johnny Friend,NON,121,62,0,0,0,0,59
+Williamsburg,KINGSTREE NO.1,School Board At Large,,Write-In,NON,14,6,0,0,0,1,7
+Williamsburg,KINGSTREE NO.2,School Board At Large,,Kenneth Burgess Sr,NON,212,142,0,0,0,3,67
+Williamsburg,KINGSTREE NO.2,School Board At Large,,Johnny Friend,NON,13,8,0,0,0,0,5
+Williamsburg,KINGSTREE NO.2,School Board At Large,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,School Board At Large,,Kenneth Burgess Sr,NON,650,453,0,0,0,13,184
+Williamsburg,KINGSTREE NO.3,School Board At Large,,Johnny Friend,NON,49,31,0,0,0,2,16
+Williamsburg,KINGSTREE NO.3,School Board At Large,,Write-In,NON,5,4,0,0,0,0,1
+Williamsburg,KINGSTREE NO.4,School Board At Large,,Kenneth Burgess Sr,NON,365,212,0,0,0,6,147
+Williamsburg,KINGSTREE NO.4,School Board At Large,,Johnny Friend,NON,42,18,0,0,0,0,24
+Williamsburg,KINGSTREE NO.4,School Board At Large,,Write-In,NON,5,3,0,0,0,0,2
+Williamsburg,LANE,School Board At Large,,Kenneth Burgess Sr,NON,224,117,0,0,0,7,100
+Williamsburg,LANE,School Board At Large,,Johnny Friend,NON,22,9,0,0,0,0,13
+Williamsburg,LANE,School Board At Large,,Write-In,NON,7,1,0,0,0,0,6
+Williamsburg,MORRISVILLE,School Board At Large,,Kenneth Burgess Sr,NON,78,26,0,0,0,0,52
+Williamsburg,MORRISVILLE,School Board At Large,,Johnny Friend,NON,9,4,0,0,0,1,4
+Williamsburg,MORRISVILLE,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,School Board At Large,,Kenneth Burgess Sr,NON,118,49,0,0,0,2,67
+Williamsburg,MOUNT VERNON,School Board At Large,,Johnny Friend,NON,12,1,0,0,0,1,10
+Williamsburg,MOUNT VERNON,School Board At Large,,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,MUDDY CREEK,School Board At Large,,Kenneth Burgess Sr,NON,182,83,0,0,0,3,96
+Williamsburg,MUDDY CREEK,School Board At Large,,Johnny Friend,NON,40,12,0,0,0,0,28
+Williamsburg,MUDDY CREEK,School Board At Large,,Write-In,NON,8,3,0,0,0,0,5
+Williamsburg,NESMITH,School Board At Large,,Kenneth Burgess Sr,NON,146,70,0,0,0,8,68
+Williamsburg,NESMITH,School Board At Large,,Johnny Friend,NON,11,3,0,0,0,0,8
+Williamsburg,NESMITH,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,School Board At Large,,Kenneth Burgess Sr,NON,52,13,0,0,0,0,39
+Williamsburg,PERGAMOS,School Board At Large,,Johnny Friend,NON,16,6,0,0,0,0,10
+Williamsburg,PERGAMOS,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PINEY FOREST,School Board At Large,,Kenneth Burgess Sr,NON,42,4,0,0,0,0,38
+Williamsburg,PINEY FOREST,School Board At Large,,Johnny Friend,NON,19,1,0,0,0,0,18
+Williamsburg,PINEY FOREST,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,School Board At Large,,Kenneth Burgess Sr,NON,2,0,0,2,0,0,0
+Williamsburg,Provisional,School Board At Large,,Johnny Friend,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,School Board At Large,,Kenneth Burgess Sr,NON,333,190,0,0,0,3,140
+Williamsburg,SALTERS,School Board At Large,,Johnny Friend,NON,25,13,0,0,0,0,12
+Williamsburg,SALTERS,School Board At Large,,Write-In,NON,3,1,0,0,0,0,2
+Williamsburg,SANDY BAY,School Board At Large,,Kenneth Burgess Sr,NON,85,27,0,0,0,0,58
+Williamsburg,SANDY BAY,School Board At Large,,Johnny Friend,NON,17,7,0,0,0,0,10
+Williamsburg,SANDY BAY,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,School Board At Large,,Kenneth Burgess Sr,NON,84,35,0,0,0,4,45
+Williamsburg,SINGLETARY,School Board At Large,,Johnny Friend,NON,11,3,0,0,0,0,8
+Williamsburg,SINGLETARY,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,School Board At Large,,Kenneth Burgess Sr,NON,41,15,0,0,0,0,26
+Williamsburg,SUTTONS,School Board At Large,,Johnny Friend,NON,17,3,0,0,0,0,14
+Williamsburg,SUTTONS,School Board At Large,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,TRIO,School Board At Large,,Kenneth Burgess Sr,NON,239,103,0,0,0,2,134
+Williamsburg,TRIO,School Board At Large,,Johnny Friend,NON,24,8,0,0,0,0,16
+Williamsburg,TRIO,School Board At Large,,Write-In,NON,3,2,0,0,0,0,1
+Williamsburg,BLOOMINGVALE,School Board District 2,,Mack Burgess,NON,297,103,0,0,0,6,188
+Williamsburg,BLOOMINGVALE,School Board District 2,,Write-In,NON,2,1,0,0,0,0,1
+Williamsburg,CEDAR SWAMP,School Board District 2,,Mack Burgess,NON,48,29,0,0,0,0,19
+Williamsburg,CEDAR SWAMP,School Board District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,School Board District 2,,Mack Burgess,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,School Board District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,School Board District 2,,Mack Burgess,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,School Board District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,School Board District 2,,Mack Burgess,NON,420,303,0,0,0,15,102
+Williamsburg,INDIANTOWN,School Board District 2,,Write-In,NON,2,1,0,0,0,0,1
+Williamsburg,KINGSTREE NO.3,School Board District 2,,Mack Burgess,NON,92,69,0,0,0,2,21
+Williamsburg,KINGSTREE NO.3,School Board District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,School Board District 2,,Mack Burgess,NON,107,35,0,0,0,1,71
+Williamsburg,MORRISVILLE,School Board District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,NESMITH,School Board District 2,,Mack Burgess,NON,232,111,0,0,0,8,113
+Williamsburg,NESMITH,School Board District 2,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,PINEY FOREST,School Board District 2,,Mack Burgess,NON,82,4,0,0,0,0,78
+Williamsburg,PINEY FOREST,School Board District 2,,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,Provisional,School Board District 2,,Mack Burgess,NON,1,0,0,1,0,0,0
+Williamsburg,Provisional,School Board District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,School Board District 2,,Mack Burgess,NON,110,49,0,0,0,3,58
+Williamsburg,SINGLETARY,School Board District 2,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,School Board District 4,,Janice Murray Gamble,NON,99,32,0,0,0,1,66
+Williamsburg,BLACK RIVER,School Board District 4,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,Failsafe,School Board District 4,,Janice Murray Gamble,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,School Board District 4,,Janice Murray Gamble,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,School Board District 4,,Janice Murray Gamble,NON,487,238,0,0,0,13,236
+Williamsburg,GREELEYVILLE,School Board District 4,,Write-In,NON,5,2,0,0,0,1,2
+Williamsburg,HEBRON,School Board District 4,,Janice Murray Gamble,NON,57,19,0,0,0,0,38
+Williamsburg,HEBRON,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,School Board District 4,,Janice Murray Gamble,NON,58,41,0,0,0,1,16
+Williamsburg,KINGSTREE NO.1,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,LANE,School Board District 4,,Janice Murray Gamble,NON,13,8,0,0,0,0,5
+Williamsburg,LANE,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,School Board District 4,,Janice Murray Gamble,NON,138,55,0,0,0,5,78
+Williamsburg,MOUNT VERNON,School Board District 4,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,Provisional,School Board District 4,,Janice Murray Gamble,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,School Board District 4,,Janice Murray Gamble,NON,338,187,0,0,0,2,149
+Williamsburg,SALTERS,School Board District 4,,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,SANDY BAY,School Board District 4,,Janice Murray Gamble,NON,14,5,0,0,0,0,9
+Williamsburg,SANDY BAY,School Board District 4,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,School Board District 5,,Marva Gail Cannion,NON,81,31,0,0,0,1,49
+Williamsburg,CEDAR SWAMP,School Board District 5,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,CENTRAL,School Board District 5,,Marva Gail Cannion,NON,252,123,0,0,0,5,124
+Williamsburg,CENTRAL,School Board District 5,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,Failsafe,School Board District 5,,Marva Gail Cannion,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,School Board District 5,,Marva Gail Cannion,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,School Board District 5,,Marva Gail Cannion,NON,8,5,0,0,0,0,3
+Williamsburg,KINGSTREE NO.1,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,School Board District 5,,Marva Gail Cannion,NON,213,141,0,0,0,2,70
+Williamsburg,KINGSTREE NO.2,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,School Board District 5,,Marva Gail Cannion,NON,368,206,0,0,0,5,157
+Williamsburg,KINGSTREE NO.4,School Board District 5,,Write-In,NON,3,1,0,0,0,0,2
+Williamsburg,Provisional,School Board District 5,,Marva Gail Cannion,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,School Board District 5,,Marva Gail Cannion,NON,21,12,0,0,0,0,9
+Williamsburg,SALTERS,School Board District 5,,Write-In,NON,3,2,0,0,0,0,1
+Williamsburg,TRIO,School Board District 5,,Marva Gail Cannion,NON,3,0,0,0,0,0,3
+Williamsburg,TRIO,School Board District 5,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,School Board District 6,,Gary L McKenzie,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,School Board District 6,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,School Board District 6,,Gary L McKenzie,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,School Board District 6,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,School Board District 6,,Gary L McKenzie,NON,956,531,0,0,0,11,414
+Williamsburg,KINGSTREE NO.1,School Board District 6,,Write-In,NON,20,12,0,0,0,1,7
+Williamsburg,KINGSTREE NO.2,School Board District 6,,Gary L McKenzie,NON,4,4,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,School Board District 6,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,Provisional,School Board District 6,,Gary L McKenzie,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,School Board District 6,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,School Board District 6,,Gary L McKenzie,NON,79,29,0,0,0,0,50
+Williamsburg,SANDY BAY,School Board District 6,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,BLACK RIVER,Secretary of State,,Mark Hammond,REP,83,15,0,0,0,0,68
+Williamsburg,BLACK RIVER,Secretary of State,,Jason Belton,DEM,105,49,0,0,0,1,55
+Williamsburg,BLACK RIVER,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,Secretary of State,,Mark Hammond,REP,140,26,0,0,0,1,113
+Williamsburg,BLOOMINGVALE,Secretary of State,,Jason Belton,DEM,288,109,0,0,0,6,173
+Williamsburg,BLOOMINGVALE,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CADES,Secretary of State,,Mark Hammond,REP,84,15,0,0,0,1,68
+Williamsburg,CADES,Secretary of State,,Jason Belton,DEM,148,85,0,0,0,7,56
+Williamsburg,CADES,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Secretary of State,,Mark Hammond,REP,94,17,0,0,0,0,77
+Williamsburg,CEDAR SWAMP,Secretary of State,,Jason Belton,DEM,99,68,0,0,0,1,30
+Williamsburg,CEDAR SWAMP,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CENTRAL,Secretary of State,,Mark Hammond,REP,156,43,0,0,0,0,113
+Williamsburg,CENTRAL,Secretary of State,,Jason Belton,DEM,317,185,0,0,0,7,125
+Williamsburg,CENTRAL,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,EARLES,Secretary of State,,Mark Hammond,REP,226,17,0,0,0,1,208
+Williamsburg,EARLES,Secretary of State,,Jason Belton,DEM,99,31,0,0,0,0,68
+Williamsburg,EARLES,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Secretary of State,,Mark Hammond,REP,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Secretary of State,,Jason Belton,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Secretary of State,,Mark Hammond,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,Secretary of State,,Mark Hammond,REP,133,37,0,0,0,0,96
+Williamsburg,GREELEYVILLE,Secretary of State,,Jason Belton,DEM,542,286,0,0,0,14,242
+Williamsburg,GREELEYVILLE,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,HARMONY,Secretary of State,,Mark Hammond,REP,110,11,0,0,0,0,99
+Williamsburg,HARMONY,Secretary of State,,Jason Belton,DEM,43,12,0,0,0,1,30
+Williamsburg,HARMONY,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,Secretary of State,,Mark Hammond,REP,203,27,0,0,0,1,175
+Williamsburg,HEBRON,Secretary of State,,Jason Belton,DEM,40,19,0,0,0,1,20
+Williamsburg,HEBRON,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,Secretary of State,,Mark Hammond,REP,269,135,0,0,0,0,134
+Williamsburg,HEMINGWAY,Secretary of State,,Jason Belton,DEM,507,392,0,0,0,3,112
+Williamsburg,HEMINGWAY,Secretary of State,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,HENRY-POPLAR HILL,Secretary of State,,Mark Hammond,REP,129,62,0,0,0,2,65
+Williamsburg,HENRY-POPLAR HILL,Secretary of State,,Jason Belton,DEM,155,111,0,0,0,4,40
+Williamsburg,HENRY-POPLAR HILL,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,Secretary of State,,Mark Hammond,REP,108,63,0,0,0,2,43
+Williamsburg,INDIANTOWN,Secretary of State,,Jason Belton,DEM,640,481,0,0,0,14,145
+Williamsburg,INDIANTOWN,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,Secretary of State,,Mark Hammond,REP,657,329,0,0,0,8,320
+Williamsburg,KINGSTREE NO.1,Secretary of State,,Jason Belton,DEM,858,563,0,0,0,8,287
+Williamsburg,KINGSTREE NO.1,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,Secretary of State,,Mark Hammond,REP,14,8,0,0,0,0,6
+Williamsburg,KINGSTREE NO.2,Secretary of State,,Jason Belton,DEM,372,220,0,0,0,3,149
+Williamsburg,KINGSTREE NO.2,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,Secretary of State,,Mark Hammond,REP,87,51,0,0,0,1,35
+Williamsburg,KINGSTREE NO.3,Secretary of State,,Jason Belton,DEM,973,696,0,0,0,18,259
+Williamsburg,KINGSTREE NO.3,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,Secretary of State,,Mark Hammond,REP,136,52,0,0,0,1,83
+Williamsburg,KINGSTREE NO.4,Secretary of State,,Jason Belton,DEM,511,316,0,0,0,7,188
+Williamsburg,KINGSTREE NO.4,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,LANE,Secretary of State,,Mark Hammond,REP,44,10,0,0,0,1,33
+Williamsburg,LANE,Secretary of State,,Jason Belton,DEM,406,192,0,0,0,7,207
+Williamsburg,LANE,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Secretary of State,,Mark Hammond,REP,4,1,0,0,0,0,3
+Williamsburg,MORRISVILLE,Secretary of State,,Jason Belton,DEM,122,42,0,0,0,1,79
+Williamsburg,MORRISVILLE,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Secretary of State,,Mark Hammond,REP,78,11,0,0,0,0,67
+Williamsburg,MOUNT VERNON,Secretary of State,,Jason Belton,DEM,133,65,0,0,0,5,63
+Williamsburg,MOUNT VERNON,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MUDDY CREEK,Secretary of State,,Mark Hammond,REP,302,113,0,0,0,3,186
+Williamsburg,MUDDY CREEK,Secretary of State,,Jason Belton,DEM,144,86,0,0,0,3,55
+Williamsburg,MUDDY CREEK,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,NESMITH,Secretary of State,,Mark Hammond,REP,48,9,0,0,0,1,38
+Williamsburg,NESMITH,Secretary of State,,Jason Belton,DEM,240,127,0,0,0,8,105
+Williamsburg,NESMITH,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Secretary of State,,Mark Hammond,REP,82,14,0,0,0,0,68
+Williamsburg,PERGAMOS,Secretary of State,,Jason Belton,DEM,58,14,0,0,0,0,44
+Williamsburg,PERGAMOS,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PINEY FOREST,Secretary of State,,Mark Hammond,REP,186,11,0,0,0,1,174
+Williamsburg,PINEY FOREST,Secretary of State,,Jason Belton,DEM,7,2,0,0,0,0,5
+Williamsburg,PINEY FOREST,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,Secretary of State,,Mark Hammond,REP,1,0,0,1,0,0,0
+Williamsburg,Provisional,Secretary of State,,Jason Belton,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,Secretary of State,,Mark Hammond,REP,96,32,0,0,0,0,64
+Williamsburg,SALTERS,Secretary of State,,Jason Belton,DEM,458,270,0,0,0,3,185
+Williamsburg,SALTERS,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,Secretary of State,,Mark Hammond,REP,133,33,0,0,0,0,100
+Williamsburg,SANDY BAY,Secretary of State,,Jason Belton,DEM,62,37,0,0,0,2,23
+Williamsburg,SANDY BAY,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,Secretary of State,,Mark Hammond,REP,38,6,0,0,0,1,31
+Williamsburg,SINGLETARY,Secretary of State,,Jason Belton,DEM,111,57,0,0,0,3,51
+Williamsburg,SINGLETARY,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,Secretary of State,,Mark Hammond,REP,96,12,0,0,0,0,84
+Williamsburg,SUTTONS,Secretary of State,,Jason Belton,DEM,40,21,0,0,0,0,19
+Williamsburg,SUTTONS,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,TRIO,Secretary of State,,Mark Hammond,REP,68,16,0,0,0,0,52
+Williamsburg,TRIO,Secretary of State,,Jason Belton,DEM,358,160,0,0,0,3,195
+Williamsburg,TRIO,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,72,19,0,0,0,1,52
+Williamsburg,BLACK RIVER,Soil and Water District Commission,,Scott Williamson,NON,67,26,0,0,0,1,40
+Williamsburg,BLACK RIVER,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,BLOOMINGVALE,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,94,32,0,0,0,3,59
+Williamsburg,BLOOMINGVALE,Soil and Water District Commission,,Scott Williamson,NON,146,50,0,0,0,2,94
+Williamsburg,BLOOMINGVALE,Soil and Water District Commission,,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,CADES,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,58,24,0,0,0,0,34
+Williamsburg,CADES,Soil and Water District Commission,,Scott Williamson,NON,91,34,0,0,0,0,57
+Williamsburg,CADES,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,68,22,0,0,0,0,46
+Williamsburg,CEDAR SWAMP,Soil and Water District Commission,,Scott Williamson,NON,92,36,0,0,0,1,55
+Williamsburg,CEDAR SWAMP,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,CENTRAL,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,125,58,0,0,0,0,67
+Williamsburg,CENTRAL,Soil and Water District Commission,,Scott Williamson,NON,232,110,0,0,0,5,117
+Williamsburg,CENTRAL,Soil and Water District Commission,,Write-In,NON,3,0,0,0,0,0,3
+Williamsburg,EARLES,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,65,13,0,0,0,1,51
+Williamsburg,EARLES,Soil and Water District Commission,,Scott Williamson,NON,136,21,0,0,0,0,115
+Williamsburg,EARLES,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Soil and Water District Commission,,Scott Williamson,NON,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Soil and Water District Commission,,Scott Williamson,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,162,74,0,0,0,4,84
+Williamsburg,GREELEYVILLE,Soil and Water District Commission,,Scott Williamson,NON,291,143,0,0,0,9,139
+Williamsburg,GREELEYVILLE,Soil and Water District Commission,,Write-In,NON,6,2,0,0,0,1,3
+Williamsburg,HARMONY,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,23,3,0,0,0,1,19
+Williamsburg,HARMONY,Soil and Water District Commission,,Scott Williamson,NON,53,6,0,0,0,0,47
+Williamsburg,HARMONY,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,57,13,0,0,0,1,43
+Williamsburg,HEBRON,Soil and Water District Commission,,Scott Williamson,NON,101,19,0,0,0,1,81
+Williamsburg,HEBRON,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,163,108,0,0,0,2,53
+Williamsburg,HEMINGWAY,Soil and Water District Commission,,Scott Williamson,NON,268,176,0,0,0,3,89
+Williamsburg,HEMINGWAY,Soil and Water District Commission,,Write-In,NON,5,4,0,0,0,0,1
+Williamsburg,HENRY-POPLAR HILL,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,52,33,0,0,0,2,17
+Williamsburg,HENRY-POPLAR HILL,Soil and Water District Commission,,Scott Williamson,NON,101,62,0,0,0,3,36
+Williamsburg,HENRY-POPLAR HILL,Soil and Water District Commission,,Write-In,NON,2,1,0,0,0,0,1
+Williamsburg,INDIANTOWN,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,169,105,0,0,0,9,55
+Williamsburg,INDIANTOWN,Soil and Water District Commission,,Scott Williamson,NON,243,162,0,0,0,11,70
+Williamsburg,INDIANTOWN,Soil and Water District Commission,,Write-In,NON,4,2,0,0,0,0,2
+Williamsburg,KINGSTREE NO.1,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,500,276,0,0,0,9,215
+Williamsburg,KINGSTREE NO.1,Soil and Water District Commission,,Scott Williamson,NON,747,418,0,0,0,10,319
+Williamsburg,KINGSTREE NO.1,Soil and Water District Commission,,Write-In,NON,12,4,0,0,0,0,8
+Williamsburg,KINGSTREE NO.2,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,70,48,0,0,0,1,21
+Williamsburg,KINGSTREE NO.2,Soil and Water District Commission,,Scott Williamson,NON,155,102,0,0,0,1,52
+Williamsburg,KINGSTREE NO.2,Soil and Water District Commission,,Write-In,NON,2,1,0,0,0,0,1
+Williamsburg,KINGSTREE NO.3,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,247,163,0,0,0,7,77
+Williamsburg,KINGSTREE NO.3,Soil and Water District Commission,,Scott Williamson,NON,434,296,0,0,0,11,127
+Williamsburg,KINGSTREE NO.3,Soil and Water District Commission,,Write-In,NON,5,4,0,0,0,0,1
+Williamsburg,KINGSTREE NO.4,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,158,79,0,0,0,5,74
+Williamsburg,KINGSTREE NO.4,Soil and Water District Commission,,Scott Williamson,NON,285,153,0,0,0,2,130
+Williamsburg,KINGSTREE NO.4,Soil and Water District Commission,,Write-In,NON,6,4,0,0,0,0,2
+Williamsburg,LANE,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,83,45,0,0,0,4,34
+Williamsburg,LANE,Soil and Water District Commission,,Scott Williamson,NON,165,92,0,0,0,5,68
+Williamsburg,LANE,Soil and Water District Commission,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,MORRISVILLE,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,36,12,0,0,0,0,24
+Williamsburg,MORRISVILLE,Soil and Water District Commission,,Scott Williamson,NON,51,23,0,0,0,1,27
+Williamsburg,MORRISVILLE,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,MOUNT VERNON,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,60,20,0,0,0,0,40
+Williamsburg,MOUNT VERNON,Soil and Water District Commission,,Scott Williamson,NON,91,30,0,0,0,3,58
+Williamsburg,MOUNT VERNON,Soil and Water District Commission,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,MUDDY CREEK,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,85,44,0,0,0,1,40
+Williamsburg,MUDDY CREEK,Soil and Water District Commission,,Scott Williamson,NON,170,72,0,0,0,2,96
+Williamsburg,MUDDY CREEK,Soil and Water District Commission,,Write-In,NON,3,2,0,0,0,1,0
+Williamsburg,NESMITH,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,67,29,0,0,0,4,34
+Williamsburg,NESMITH,Soil and Water District Commission,,Scott Williamson,NON,101,51,0,0,0,6,44
+Williamsburg,NESMITH,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,42,9,0,0,0,0,33
+Williamsburg,PERGAMOS,Soil and Water District Commission,,Scott Williamson,NON,53,16,0,0,0,0,37
+Williamsburg,PERGAMOS,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,PINEY FOREST,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,18,1,0,0,0,0,17
+Williamsburg,PINEY FOREST,Soil and Water District Commission,,Scott Williamson,NON,54,5,0,0,0,0,49
+Williamsburg,PINEY FOREST,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,Provisional,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,2,0,0,2,0,0,0
+Williamsburg,Provisional,Soil and Water District Commission,,Scott Williamson,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,137,76,0,0,0,2,59
+Williamsburg,SALTERS,Soil and Water District Commission,,Scott Williamson,NON,247,132,0,0,0,2,113
+Williamsburg,SALTERS,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,SANDY BAY,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,53,19,0,0,0,0,34
+Williamsburg,SANDY BAY,Soil and Water District Commission,,Scott Williamson,NON,88,23,0,0,0,0,65
+Williamsburg,SANDY BAY,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,50,22,0,0,0,2,26
+Williamsburg,SINGLETARY,Soil and Water District Commission,,Scott Williamson,NON,70,22,0,0,0,4,44
+Williamsburg,SINGLETARY,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,20,4,0,0,0,0,16
+Williamsburg,SUTTONS,Soil and Water District Commission,,Scott Williamson,NON,50,16,0,0,0,0,34
+Williamsburg,SUTTONS,Soil and Water District Commission,,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,TRIO,Soil and Water District Commission,,Atwood I McIntosh Jr,NON,106,52,0,0,0,2,52
+Williamsburg,TRIO,Soil and Water District Commission,,Scott Williamson,NON,167,65,0,0,0,1,101
+Williamsburg,TRIO,Soil and Water District Commission,,Write-In,NON,7,3,0,0,0,0,4
+Williamsburg,BLACK RIVER,Solicitor,3,Lester M Gill Bell Jr,DEM,149,57,0,0,0,1,91
+Williamsburg,BLACK RIVER,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,Solicitor,3,Lester M Gill Bell Jr,DEM,327,116,0,0,0,6,205
+Williamsburg,BLOOMINGVALE,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CADES,Solicitor,3,Lester M Gill Bell Jr,DEM,183,89,0,0,0,7,87
+Williamsburg,CADES,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Solicitor,3,Lester M Gill Bell Jr,DEM,149,73,0,0,0,1,75
+Williamsburg,CEDAR SWAMP,Solicitor,3,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,CENTRAL,Solicitor,3,Lester M Gill Bell Jr,DEM,390,204,0,0,0,7,179
+Williamsburg,CENTRAL,Solicitor,3,Write-In,NON,5,3,0,0,0,0,2
+Williamsburg,EARLES,Solicitor,3,Lester M Gill Bell Jr,DEM,171,36,0,0,0,1,134
+Williamsburg,EARLES,Solicitor,3,Write-In,NON,4,1,0,0,0,0,3
+Williamsburg,Failsafe,Solicitor,3,Lester M Gill Bell Jr,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Solicitor,3,Lester M Gill Bell Jr,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,Solicitor,3,Lester M Gill Bell Jr,DEM,602,303,0,0,0,13,286
+Williamsburg,GREELEYVILLE,Solicitor,3,Write-In,NON,6,1,0,0,0,1,4
+Williamsburg,HARMONY,Solicitor,3,Lester M Gill Bell Jr,DEM,78,16,0,0,0,1,61
+Williamsburg,HARMONY,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,Solicitor,3,Lester M Gill Bell Jr,DEM,116,30,0,0,0,1,85
+Williamsburg,HEBRON,Solicitor,3,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,HEMINGWAY,Solicitor,3,Lester M Gill Bell Jr,DEM,621,449,0,0,0,3,169
+Williamsburg,HEMINGWAY,Solicitor,3,Write-In,NON,4,3,0,0,0,0,1
+Williamsburg,HENRY-POPLAR HILL,Solicitor,3,Lester M Gill Bell Jr,DEM,201,129,0,0,0,6,66
+Williamsburg,HENRY-POPLAR HILL,Solicitor,3,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,INDIANTOWN,Solicitor,3,Lester M Gill Bell Jr,DEM,692,510,0,0,0,15,167
+Williamsburg,INDIANTOWN,Solicitor,3,Write-In,NON,2,2,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,Solicitor,3,Lester M Gill Bell Jr,DEM,1180,721,0,0,0,12,447
+Williamsburg,KINGSTREE NO.1,Solicitor,3,Write-In,NON,12,4,0,0,0,1,7
+Williamsburg,KINGSTREE NO.2,Solicitor,3,Lester M Gill Bell Jr,DEM,373,220,0,0,0,3,150
+Williamsburg,KINGSTREE NO.2,Solicitor,3,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,Solicitor,3,Lester M Gill Bell Jr,DEM,1012,713,0,0,0,19,280
+Williamsburg,KINGSTREE NO.3,Solicitor,3,Write-In,NON,3,2,0,0,0,0,1
+Williamsburg,KINGSTREE NO.4,Solicitor,3,Lester M Gill Bell Jr,DEM,573,334,0,0,0,8,231
+Williamsburg,KINGSTREE NO.4,Solicitor,3,Write-In,NON,6,3,0,0,0,0,3
+Williamsburg,LANE,Solicitor,3,Lester M Gill Bell Jr,DEM,430,199,0,0,0,8,223
+Williamsburg,LANE,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Solicitor,3,Lester M Gill Bell Jr,DEM,122,42,0,0,0,1,79
+Williamsburg,MORRISVILLE,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Solicitor,3,Lester M Gill Bell Jr,DEM,162,70,0,0,0,5,87
+Williamsburg,MOUNT VERNON,Solicitor,3,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,MUDDY CREEK,Solicitor,3,Lester M Gill Bell Jr,DEM,248,123,0,0,0,3,122
+Williamsburg,MUDDY CREEK,Solicitor,3,Write-In,NON,7,4,0,0,0,0,3
+Williamsburg,NESMITH,Solicitor,3,Lester M Gill Bell Jr,DEM,254,125,0,0,0,9,120
+Williamsburg,NESMITH,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Solicitor,3,Lester M Gill Bell Jr,DEM,80,18,0,0,0,0,62
+Williamsburg,PERGAMOS,Solicitor,3,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,PINEY FOREST,Solicitor,3,Lester M Gill Bell Jr,DEM,44,5,0,0,0,0,39
+Williamsburg,PINEY FOREST,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,Solicitor,3,Lester M Gill Bell Jr,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,Solicitor,3,Lester M Gill Bell Jr,DEM,493,277,0,0,0,3,213
+Williamsburg,SALTERS,Solicitor,3,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,SANDY BAY,Solicitor,3,Lester M Gill Bell Jr,DEM,113,48,0,0,0,2,63
+Williamsburg,SANDY BAY,Solicitor,3,Write-In,NON,4,2,0,0,0,0,2
+Williamsburg,SINGLETARY,Solicitor,3,Lester M Gill Bell Jr,DEM,133,62,0,0,0,4,67
+Williamsburg,SINGLETARY,Solicitor,3,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,Solicitor,3,Lester M Gill Bell Jr,DEM,64,24,0,0,0,0,40
+Williamsburg,SUTTONS,Solicitor,3,Write-In,NON,3,0,0,0,0,0,3
+Williamsburg,TRIO,Solicitor,3,Lester M Gill Bell Jr,DEM,387,163,0,0,0,3,221
+Williamsburg,TRIO,Solicitor,3,Write-In,NON,3,1,0,0,0,0,2
+Williamsburg,BLACK RIVER,State House,101,Arnie Borowsky,REP,64,12,0,0,0,0,52
+Williamsburg,BLACK RIVER,State House,101,Roger K Kirby,DEM,124,51,0,0,0,1,72
+Williamsburg,BLACK RIVER,State House,101,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,State House,101,Arnie Borowsky,REP,70,18,0,0,0,0,52
+Williamsburg,BLOOMINGVALE,State House,101,Roger K Kirby,DEM,138,62,0,0,0,1,75
+Williamsburg,BLOOMINGVALE,State House,101,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CADES,State House,101,Arnie Borowsky,REP,58,14,0,0,0,1,43
+Williamsburg,CADES,State House,101,Roger K Kirby,DEM,174,86,0,0,0,7,81
+Williamsburg,CADES,State House,101,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,State House,101,Arnie Borowsky,REP,56,8,0,0,0,0,48
+Williamsburg,CEDAR SWAMP,State House,101,Roger K Kirby,DEM,74,42,0,0,0,1,31
+Williamsburg,CEDAR SWAMP,State House,101,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,CENTRAL,State House,101,Arnie Borowsky,REP,127,34,0,0,0,0,93
+Williamsburg,CENTRAL,State House,101,Roger K Kirby,DEM,344,194,0,0,0,7,143
+Williamsburg,CENTRAL,State House,101,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,EARLES,State House,101,Arnie Borowsky,REP,219,14,0,0,0,1,204
+Williamsburg,EARLES,State House,101,Roger K Kirby,DEM,107,35,0,0,0,0,72
+Williamsburg,EARLES,State House,101,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,Failsafe,State House,101,Arnie Borowsky,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe,State House,101,Roger K Kirby,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe,State House,101,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,State House,101,Arnie Borowsky,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,State House,101,Roger K Kirby,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,State House,101,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,State House,101,Arnie Borowsky,REP,112,31,0,0,0,0,81
+Williamsburg,GREELEYVILLE,State House,101,Roger K Kirby,DEM,559,287,0,0,0,13,259
+Williamsburg,GREELEYVILLE,State House,101,Write-In,NON,4,2,0,0,0,1,1
+Williamsburg,HARMONY,State House,101,Arnie Borowsky,REP,101,9,0,0,0,0,92
+Williamsburg,HARMONY,State House,101,Roger K Kirby,DEM,53,14,0,0,0,1,38
+Williamsburg,HARMONY,State House,101,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,State House,101,Arnie Borowsky,REP,172,22,0,0,0,1,149
+Williamsburg,HEBRON,State House,101,Roger K Kirby,DEM,73,25,0,0,0,1,47
+Williamsburg,HEBRON,State House,101,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,State House,101,Arnie Borowsky,REP,48,26,0,0,0,0,22
+Williamsburg,INDIANTOWN,State House,101,Roger K Kirby,DEM,374,270,0,0,0,6,98
+Williamsburg,INDIANTOWN,State House,101,Write-In,NON,2,2,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,State House,101,Arnie Borowsky,REP,457,236,0,0,0,5,216
+Williamsburg,KINGSTREE NO.1,State House,101,Roger K Kirby,DEM,1061,657,0,0,0,11,393
+Williamsburg,KINGSTREE NO.1,State House,101,Write-In,NON,7,6,0,0,0,0,1
+Williamsburg,KINGSTREE NO.2,State House,101,Arnie Borowsky,REP,11,6,0,0,0,0,5
+Williamsburg,KINGSTREE NO.2,State House,101,Roger K Kirby,DEM,371,219,0,0,0,3,149
+Williamsburg,KINGSTREE NO.2,State House,101,Write-In,NON,3,3,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,State House,101,Arnie Borowsky,REP,73,43,0,0,0,0,30
+Williamsburg,KINGSTREE NO.3,State House,101,Roger K Kirby,DEM,982,701,0,0,0,19,262
+Williamsburg,KINGSTREE NO.3,State House,101,Write-In,NON,4,3,0,0,0,0,1
+Williamsburg,KINGSTREE NO.4,State House,101,Arnie Borowsky,REP,103,46,0,0,0,0,57
+Williamsburg,KINGSTREE NO.4,State House,101,Roger K Kirby,DEM,541,320,0,0,0,8,213
+Williamsburg,KINGSTREE NO.4,State House,101,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,LANE,State House,101,Arnie Borowsky,REP,39,8,0,0,0,0,31
+Williamsburg,LANE,State House,101,Roger K Kirby,DEM,411,194,0,0,0,8,209
+Williamsburg,LANE,State House,101,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,MOUNT VERNON,State House,101,Arnie Borowsky,REP,71,10,0,0,0,0,61
+Williamsburg,MOUNT VERNON,State House,101,Roger K Kirby,DEM,138,65,0,0,0,5,68
+Williamsburg,MOUNT VERNON,State House,101,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,State House,101,Arnie Borowsky,REP,71,13,0,0,0,0,58
+Williamsburg,PERGAMOS,State House,101,Roger K Kirby,DEM,68,15,0,0,0,0,53
+Williamsburg,PERGAMOS,State House,101,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,State House,101,Arnie Borowsky,REP,1,0,0,1,0,0,0
+Williamsburg,Provisional,State House,101,Roger K Kirby,DEM,1,0,0,1,0,0,0
+Williamsburg,Provisional,State House,101,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,State House,101,Arnie Borowsky,REP,90,31,0,0,0,0,59
+Williamsburg,SALTERS,State House,101,Roger K Kirby,DEM,458,267,0,0,0,3,188
+Williamsburg,SALTERS,State House,101,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,SANDY BAY,State House,101,Arnie Borowsky,REP,112,27,0,0,0,0,85
+Williamsburg,SANDY BAY,State House,101,Roger K Kirby,DEM,82,43,0,0,0,2,37
+Williamsburg,SANDY BAY,State House,101,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,State House,101,Arnie Borowsky,REP,28,3,0,0,0,1,24
+Williamsburg,SINGLETARY,State House,101,Roger K Kirby,DEM,121,60,0,0,0,3,58
+Williamsburg,SINGLETARY,State House,101,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,State House,101,Arnie Borowsky,REP,94,11,0,0,0,0,83
+Williamsburg,SUTTONS,State House,101,Roger K Kirby,DEM,42,22,0,0,0,0,20
+Williamsburg,SUTTONS,State House,101,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,TRIO,State House,101,Arnie Borowsky,REP,65,17,0,0,0,0,48
+Williamsburg,TRIO,State House,101,Roger K Kirby,DEM,362,158,0,0,0,3,201
+Williamsburg,TRIO,State House,101,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,State House,57,Lucas Atkinson,REP,65,9,0,0,0,1,55
+Williamsburg,BLOOMINGVALE,State House,57,Cynthia O Ford,DEM,155,46,0,0,0,5,104
+Williamsburg,BLOOMINGVALE,State House,57,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,State House,57,Lucas Atkinson,REP,25,7,0,0,0,0,18
+Williamsburg,CEDAR SWAMP,State House,57,Cynthia O Ford,DEM,36,27,0,0,0,0,9
+Williamsburg,CEDAR SWAMP,State House,57,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,State House,57,Lucas Atkinson,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe,State House,57,Cynthia O Ford,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe,State House,57,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,State House,57,Lucas Atkinson,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,State House,57,Cynthia O Ford,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,State House,57,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,State House,57,Lucas Atkinson,REP,268,138,0,0,0,0,130
+Williamsburg,HEMINGWAY,State House,57,Cynthia O Ford,DEM,512,392,0,0,0,3,117
+Williamsburg,HEMINGWAY,State House,57,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,HENRY-POPLAR HILL,State House,57,Lucas Atkinson,REP,132,65,0,0,0,3,64
+Williamsburg,HENRY-POPLAR HILL,State House,57,Cynthia O Ford,DEM,156,110,0,0,0,3,43
+Williamsburg,HENRY-POPLAR HILL,State House,57,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,State House,57,Lucas Atkinson,REP,47,32,0,0,0,1,14
+Williamsburg,INDIANTOWN,State House,57,Cynthia O Ford,DEM,278,215,0,0,0,9,54
+Williamsburg,INDIANTOWN,State House,57,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,State House,57,Lucas Atkinson,REP,3,0,0,0,0,0,3
+Williamsburg,MORRISVILLE,State House,57,Cynthia O Ford,DEM,122,42,0,0,0,1,79
+Williamsburg,MORRISVILLE,State House,57,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MUDDY CREEK,State House,57,Lucas Atkinson,REP,305,113,0,0,0,3,189
+Williamsburg,MUDDY CREEK,State House,57,Cynthia O Ford,DEM,141,85,0,0,0,3,53
+Williamsburg,MUDDY CREEK,State House,57,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,NESMITH,State House,57,Lucas Atkinson,REP,48,11,0,0,0,1,36
+Williamsburg,NESMITH,State House,57,Cynthia O Ford,DEM,240,125,0,0,0,8,107
+Williamsburg,NESMITH,State House,57,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PINEY FOREST,State House,57,Lucas Atkinson,REP,186,11,0,0,0,1,174
+Williamsburg,PINEY FOREST,State House,57,Cynthia O Ford,DEM,7,2,0,0,0,0,5
+Williamsburg,PINEY FOREST,State House,57,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,State House,57,Lucas Atkinson,REP,0,0,0,0,0,0,0
+Williamsburg,Provisional,State House,57,Cynthia O Ford,DEM,2,0,0,2,0,0,0
+Williamsburg,Provisional,State House,57,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,State Superintendent of Education,,Ellen Weaver,REP,82,15,0,0,0,0,67
+Williamsburg,BLACK RIVER,State Superintendent of Education,,Sylvia Wright,DEM,106,48,0,0,0,1,57
+Williamsburg,BLACK RIVER,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,1,0,0,0,0,2
+Williamsburg,BLOOMINGVALE,State Superintendent of Education,,Ellen Weaver,REP,135,24,0,0,0,1,110
+Williamsburg,BLOOMINGVALE,State Superintendent of Education,,Sylvia Wright,DEM,293,110,0,0,0,6,177
+Williamsburg,BLOOMINGVALE,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CADES,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Williamsburg,CADES,State Superintendent of Education,,Ellen Weaver,REP,80,14,0,0,0,1,65
+Williamsburg,CADES,State Superintendent of Education,,Sylvia Wright,DEM,151,86,0,0,0,7,58
+Williamsburg,CADES,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,1,0,0,0,0,1
+Williamsburg,CEDAR SWAMP,State Superintendent of Education,,Ellen Weaver,REP,93,18,0,0,0,0,75
+Williamsburg,CEDAR SWAMP,State Superintendent of Education,,Sylvia Wright,DEM,96,64,0,0,0,1,31
+Williamsburg,CEDAR SWAMP,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CENTRAL,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,3,0,0,0,0,3
+Williamsburg,CENTRAL,State Superintendent of Education,,Ellen Weaver,REP,144,37,0,0,0,0,107
+Williamsburg,CENTRAL,State Superintendent of Education,,Sylvia Wright,DEM,322,186,0,0,0,7,129
+Williamsburg,CENTRAL,State Superintendent of Education,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,EARLES,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,1,0,0,0,0,1
+Williamsburg,EARLES,State Superintendent of Education,,Ellen Weaver,REP,222,17,0,0,0,1,204
+Williamsburg,EARLES,State Superintendent of Education,,Sylvia Wright,DEM,103,31,0,0,0,0,72
+Williamsburg,EARLES,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Williamsburg,Failsafe,State Superintendent of Education,,Ellen Weaver,REP,1,0,0,0,1,0,0
+Williamsburg,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,State Superintendent of Education,,Ellen Weaver,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,3,0,0,0,0,3
+Williamsburg,GREELEYVILLE,State Superintendent of Education,,Ellen Weaver,REP,126,37,0,0,0,0,89
+Williamsburg,GREELEYVILLE,State Superintendent of Education,,Sylvia Wright,DEM,542,281,0,0,0,14,247
+Williamsburg,GREELEYVILLE,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,HARMONY,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Williamsburg,HARMONY,State Superintendent of Education,,Ellen Weaver,REP,109,10,0,0,0,0,99
+Williamsburg,HARMONY,State Superintendent of Education,,Sylvia Wright,DEM,46,13,0,0,0,1,32
+Williamsburg,HARMONY,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,1,0,0,0,0,1
+Williamsburg,HEBRON,State Superintendent of Education,,Ellen Weaver,REP,199,25,0,0,0,1,173
+Williamsburg,HEBRON,State Superintendent of Education,,Sylvia Wright,DEM,44,21,0,0,0,1,22
+Williamsburg,HEBRON,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,State Superintendent of Education,,Baba Amin Ojuok,UNC,10,3,0,0,0,0,7
+Williamsburg,HEMINGWAY,State Superintendent of Education,,Ellen Weaver,REP,263,134,0,0,0,1,128
+Williamsburg,HEMINGWAY,State Superintendent of Education,,Sylvia Wright,DEM,513,396,0,0,0,2,115
+Williamsburg,HEMINGWAY,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HENRY-POPLAR HILL,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Williamsburg,HENRY-POPLAR HILL,State Superintendent of Education,,Ellen Weaver,REP,123,61,0,0,0,2,60
+Williamsburg,HENRY-POPLAR HILL,State Superintendent of Education,,Sylvia Wright,DEM,164,115,0,0,0,4,45
+Williamsburg,HENRY-POPLAR HILL,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,4,0,0,0,0,2
+Williamsburg,INDIANTOWN,State Superintendent of Education,,Ellen Weaver,REP,99,59,0,0,0,1,39
+Williamsburg,INDIANTOWN,State Superintendent of Education,,Sylvia Wright,DEM,645,481,0,0,0,15,149
+Williamsburg,INDIANTOWN,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,State Superintendent of Education,,Baba Amin Ojuok,UNC,11,5,0,0,0,0,6
+Williamsburg,KINGSTREE NO.1,State Superintendent of Education,,Ellen Weaver,REP,622,309,0,0,0,8,305
+Williamsburg,KINGSTREE NO.1,State Superintendent of Education,,Sylvia Wright,DEM,888,584,0,0,0,8,296
+Williamsburg,KINGSTREE NO.1,State Superintendent of Education,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,3,0,0,0,0,3
+Williamsburg,KINGSTREE NO.2,State Superintendent of Education,,Ellen Weaver,REP,11,6,0,0,0,0,5
+Williamsburg,KINGSTREE NO.2,State Superintendent of Education,,Sylvia Wright,DEM,371,221,0,0,0,3,147
+Williamsburg,KINGSTREE NO.2,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,State Superintendent of Education,,Baba Amin Ojuok,UNC,9,5,0,0,0,0,4
+Williamsburg,KINGSTREE NO.3,State Superintendent of Education,,Ellen Weaver,REP,79,48,0,0,0,0,31
+Williamsburg,KINGSTREE NO.3,State Superintendent of Education,,Sylvia Wright,DEM,981,702,0,0,0,19,260
+Williamsburg,KINGSTREE NO.3,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,KINGSTREE NO.4,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,3,0,0,0,0,1
+Williamsburg,KINGSTREE NO.4,State Superintendent of Education,,Ellen Weaver,REP,130,51,0,0,0,1,78
+Williamsburg,KINGSTREE NO.4,State Superintendent of Education,,Sylvia Wright,DEM,513,317,0,0,0,7,189
+Williamsburg,KINGSTREE NO.4,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,LANE,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,1,0,0,0,0,3
+Williamsburg,LANE,State Superintendent of Education,,Ellen Weaver,REP,42,12,0,0,0,1,29
+Williamsburg,LANE,State Superintendent of Education,,Sylvia Wright,DEM,406,191,0,0,0,7,208
+Williamsburg,LANE,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,State Superintendent of Education,,Ellen Weaver,REP,3,0,0,0,0,0,3
+Williamsburg,MORRISVILLE,State Superintendent of Education,,Sylvia Wright,DEM,122,42,0,0,0,1,79
+Williamsburg,MORRISVILLE,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,State Superintendent of Education,,Ellen Weaver,REP,77,12,0,0,0,0,65
+Williamsburg,MOUNT VERNON,State Superintendent of Education,,Sylvia Wright,DEM,136,65,0,0,0,5,66
+Williamsburg,MOUNT VERNON,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MUDDY CREEK,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Williamsburg,MUDDY CREEK,State Superintendent of Education,,Ellen Weaver,REP,303,113,0,0,0,3,187
+Williamsburg,MUDDY CREEK,State Superintendent of Education,,Sylvia Wright,DEM,146,88,0,0,0,3,55
+Williamsburg,MUDDY CREEK,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,NESMITH,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,0,0,0,0,0,2
+Williamsburg,NESMITH,State Superintendent of Education,,Ellen Weaver,REP,43,9,0,0,0,0,34
+Williamsburg,NESMITH,State Superintendent of Education,,Sylvia Wright,DEM,242,126,0,0,0,9,107
+Williamsburg,NESMITH,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Williamsburg,PERGAMOS,State Superintendent of Education,,Ellen Weaver,REP,82,14,0,0,0,0,68
+Williamsburg,PERGAMOS,State Superintendent of Education,,Sylvia Wright,DEM,58,14,0,0,0,0,44
+Williamsburg,PERGAMOS,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PINEY FOREST,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+Williamsburg,PINEY FOREST,State Superintendent of Education,,Ellen Weaver,REP,181,11,0,0,0,1,169
+Williamsburg,PINEY FOREST,State Superintendent of Education,,Sylvia Wright,DEM,11,2,0,0,0,0,9
+Williamsburg,PINEY FOREST,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Williamsburg,Provisional,State Superintendent of Education,,Ellen Weaver,REP,1,0,0,1,0,0,0
+Williamsburg,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,State Superintendent of Education,,Baba Amin Ojuok,UNC,10,2,0,0,0,0,8
+Williamsburg,SALTERS,State Superintendent of Education,,Ellen Weaver,REP,90,30,0,0,0,0,60
+Williamsburg,SALTERS,State Superintendent of Education,,Sylvia Wright,DEM,453,266,0,0,0,3,184
+Williamsburg,SALTERS,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,State Superintendent of Education,,Ellen Weaver,REP,131,33,0,0,0,0,98
+Williamsburg,SANDY BAY,State Superintendent of Education,,Sylvia Wright,DEM,62,37,0,0,0,2,23
+Williamsburg,SANDY BAY,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,2,0,0,0,0,0
+Williamsburg,SINGLETARY,State Superintendent of Education,,Ellen Weaver,REP,36,5,0,0,0,1,30
+Williamsburg,SINGLETARY,State Superintendent of Education,,Sylvia Wright,DEM,113,58,0,0,0,3,52
+Williamsburg,SINGLETARY,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,2,0,0,0,0,1
+Williamsburg,SUTTONS,State Superintendent of Education,,Ellen Weaver,REP,97,12,0,0,0,0,85
+Williamsburg,SUTTONS,State Superintendent of Education,,Sylvia Wright,DEM,38,19,0,0,0,0,19
+Williamsburg,SUTTONS,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,TRIO,State Superintendent of Education,,Baba Amin Ojuok,UNC,7,2,0,0,0,0,5
+Williamsburg,TRIO,State Superintendent of Education,,Ellen Weaver,REP,68,17,0,0,0,0,51
+Williamsburg,TRIO,State Superintendent of Education,,Sylvia Wright,DEM,350,158,0,0,0,3,189
+Williamsburg,TRIO,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,State Treasurer,,Curtis Loftis,REP,79,14,0,0,0,0,65
+Williamsburg,BLACK RIVER,State Treasurer,,Vincent Coe,DEM,109,50,0,0,0,1,58
+Williamsburg,BLACK RIVER,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,State Treasurer,,Curtis Loftis,REP,139,27,0,0,0,1,111
+Williamsburg,BLOOMINGVALE,State Treasurer,,Vincent Coe,DEM,289,108,0,0,0,6,175
+Williamsburg,BLOOMINGVALE,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CADES,State Treasurer,,Curtis Loftis,REP,79,14,0,0,0,1,64
+Williamsburg,CADES,State Treasurer,,Vincent Coe,DEM,152,86,0,0,0,7,59
+Williamsburg,CADES,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,State Treasurer,,Curtis Loftis,REP,96,18,0,0,0,0,78
+Williamsburg,CEDAR SWAMP,State Treasurer,,Vincent Coe,DEM,97,66,0,0,0,1,30
+Williamsburg,CEDAR SWAMP,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CENTRAL,State Treasurer,,Curtis Loftis,REP,150,41,0,0,0,0,109
+Williamsburg,CENTRAL,State Treasurer,,Vincent Coe,DEM,319,185,0,0,0,6,128
+Williamsburg,CENTRAL,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,EARLES,State Treasurer,,Curtis Loftis,REP,226,17,0,0,0,1,208
+Williamsburg,EARLES,State Treasurer,,Vincent Coe,DEM,98,32,0,0,0,0,66
+Williamsburg,EARLES,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,State Treasurer,,Curtis Loftis,REP,1,0,0,0,1,0,0
+Williamsburg,Failsafe,State Treasurer,,Vincent Coe,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,State Treasurer,,Curtis Loftis,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,State Treasurer,,Curtis Loftis,REP,135,39,0,0,0,0,96
+Williamsburg,GREELEYVILLE,State Treasurer,,Vincent Coe,DEM,540,283,0,0,0,14,243
+Williamsburg,GREELEYVILLE,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,HARMONY,State Treasurer,,Curtis Loftis,REP,111,11,0,0,0,0,100
+Williamsburg,HARMONY,State Treasurer,,Vincent Coe,DEM,43,12,0,0,0,1,30
+Williamsburg,HARMONY,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,State Treasurer,,Curtis Loftis,REP,200,25,0,0,0,1,174
+Williamsburg,HEBRON,State Treasurer,,Vincent Coe,DEM,43,21,0,0,0,1,21
+Williamsburg,HEBRON,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,State Treasurer,,Curtis Loftis,REP,271,134,0,0,0,1,136
+Williamsburg,HEMINGWAY,State Treasurer,,Vincent Coe,DEM,506,394,0,0,0,1,111
+Williamsburg,HEMINGWAY,State Treasurer,,Write-In,NON,2,1,0,0,0,1,0
+Williamsburg,HENRY-POPLAR HILL,State Treasurer,,Curtis Loftis,REP,132,64,0,0,0,2,66
+Williamsburg,HENRY-POPLAR HILL,State Treasurer,,Vincent Coe,DEM,155,111,0,0,0,4,40
+Williamsburg,HENRY-POPLAR HILL,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,State Treasurer,,Curtis Loftis,REP,103,59,0,0,0,2,42
+Williamsburg,INDIANTOWN,State Treasurer,,Vincent Coe,DEM,643,484,0,0,0,14,145
+Williamsburg,INDIANTOWN,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,State Treasurer,,Curtis Loftis,REP,641,322,0,0,0,8,311
+Williamsburg,KINGSTREE NO.1,State Treasurer,,Vincent Coe,DEM,874,571,0,0,0,8,295
+Williamsburg,KINGSTREE NO.1,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,State Treasurer,,Curtis Loftis,REP,11,6,0,0,0,0,5
+Williamsburg,KINGSTREE NO.2,State Treasurer,,Vincent Coe,DEM,375,222,0,0,0,3,150
+Williamsburg,KINGSTREE NO.2,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,State Treasurer,,Curtis Loftis,REP,89,53,0,0,0,3,33
+Williamsburg,KINGSTREE NO.3,State Treasurer,,Vincent Coe,DEM,969,694,0,0,0,16,259
+Williamsburg,KINGSTREE NO.3,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,State Treasurer,,Curtis Loftis,REP,134,51,0,0,0,1,82
+Williamsburg,KINGSTREE NO.4,State Treasurer,,Vincent Coe,DEM,513,317,0,0,0,7,189
+Williamsburg,KINGSTREE NO.4,State Treasurer,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,LANE,State Treasurer,,Curtis Loftis,REP,42,9,0,0,0,0,33
+Williamsburg,LANE,State Treasurer,,Vincent Coe,DEM,405,192,0,0,0,8,205
+Williamsburg,LANE,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,State Treasurer,,Curtis Loftis,REP,3,0,0,0,0,0,3
+Williamsburg,MORRISVILLE,State Treasurer,,Vincent Coe,DEM,122,42,0,0,0,1,79
+Williamsburg,MORRISVILLE,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,State Treasurer,,Curtis Loftis,REP,77,12,0,0,0,0,65
+Williamsburg,MOUNT VERNON,State Treasurer,,Vincent Coe,DEM,134,64,0,0,0,5,65
+Williamsburg,MOUNT VERNON,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MUDDY CREEK,State Treasurer,,Curtis Loftis,REP,301,112,0,0,0,3,186
+Williamsburg,MUDDY CREEK,State Treasurer,,Vincent Coe,DEM,147,88,0,0,0,3,56
+Williamsburg,MUDDY CREEK,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,NESMITH,State Treasurer,,Curtis Loftis,REP,45,8,0,0,0,1,36
+Williamsburg,NESMITH,State Treasurer,,Vincent Coe,DEM,244,129,0,0,0,8,107
+Williamsburg,NESMITH,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,State Treasurer,,Curtis Loftis,REP,81,14,0,0,0,0,67
+Williamsburg,PERGAMOS,State Treasurer,,Vincent Coe,DEM,59,14,0,0,0,0,45
+Williamsburg,PERGAMOS,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PINEY FOREST,State Treasurer,,Curtis Loftis,REP,186,11,0,0,0,1,174
+Williamsburg,PINEY FOREST,State Treasurer,,Vincent Coe,DEM,7,2,0,0,0,0,5
+Williamsburg,PINEY FOREST,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,State Treasurer,,Curtis Loftis,REP,1,0,0,1,0,0,0
+Williamsburg,Provisional,State Treasurer,,Vincent Coe,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,State Treasurer,,Curtis Loftis,REP,94,31,0,0,0,0,63
+Williamsburg,SALTERS,State Treasurer,,Vincent Coe,DEM,459,269,0,0,0,3,187
+Williamsburg,SALTERS,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,State Treasurer,,Curtis Loftis,REP,133,33,0,0,0,0,100
+Williamsburg,SANDY BAY,State Treasurer,,Vincent Coe,DEM,62,37,0,0,0,2,23
+Williamsburg,SANDY BAY,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,State Treasurer,,Curtis Loftis,REP,38,6,0,0,0,1,31
+Williamsburg,SINGLETARY,State Treasurer,,Vincent Coe,DEM,111,57,0,0,0,3,51
+Williamsburg,SINGLETARY,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,State Treasurer,,Curtis Loftis,REP,97,12,0,0,0,0,85
+Williamsburg,SUTTONS,State Treasurer,,Vincent Coe,DEM,39,21,0,0,0,0,18
+Williamsburg,SUTTONS,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,TRIO,State Treasurer,,Curtis Loftis,REP,72,16,0,0,0,0,56
+Williamsburg,TRIO,State Treasurer,,Vincent Coe,DEM,354,160,0,0,0,3,191
+Williamsburg,TRIO,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,Straight Party,,Republican,REP,43,9,0,0,0,0,34
+Williamsburg,BLACK RIVER,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,Straight Party,,Democratic,DEM,82,35,0,0,0,0,47
+Williamsburg,BLACK RIVER,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+Williamsburg,BLOOMINGVALE,Straight Party,,Green,GRN,3,2,0,0,0,0,1
+Williamsburg,BLOOMINGVALE,Straight Party,,Republican,REP,100,17,0,0,0,1,82
+Williamsburg,BLOOMINGVALE,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,Straight Party,,Democratic,DEM,239,90,0,0,0,6,143
+Williamsburg,BLOOMINGVALE,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,CADES,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,CADES,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,CADES,Straight Party,,Republican,REP,45,12,0,0,0,1,32
+Williamsburg,CADES,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Williamsburg,CADES,Straight Party,,Democratic,DEM,124,70,0,0,0,7,47
+Williamsburg,CADES,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Straight Party,,Republican,REP,63,12,0,0,0,0,51
+Williamsburg,CEDAR SWAMP,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,Straight Party,,Democratic,DEM,79,57,0,0,0,1,21
+Williamsburg,CEDAR SWAMP,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,CENTRAL,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+Williamsburg,CENTRAL,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,CENTRAL,Straight Party,,Republican,REP,88,24,0,0,0,0,64
+Williamsburg,CENTRAL,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,CENTRAL,Straight Party,,Democratic,DEM,251,141,0,0,0,2,108
+Williamsburg,CENTRAL,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,EARLES,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,EARLES,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Williamsburg,EARLES,Straight Party,,Republican,REP,163,10,0,0,0,1,152
+Williamsburg,EARLES,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Williamsburg,EARLES,Straight Party,,Democratic,DEM,78,24,0,0,0,0,54
+Williamsburg,EARLES,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,Failsafe,Straight Party,,Democratic,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Straight Party,,Democratic,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,Straight Party,,United Citizens,UNC,3,2,0,0,0,0,1
+Williamsburg,GREELEYVILLE,Straight Party,,Green,GRN,1,0,0,0,0,0,1
+Williamsburg,GREELEYVILLE,Straight Party,,Republican,REP,82,22,0,0,0,0,60
+Williamsburg,GREELEYVILLE,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,Straight Party,,Democratic,DEM,449,241,0,0,0,12,196
+Williamsburg,GREELEYVILLE,Straight Party,,Constitution,CON,1,1,0,0,0,0,0
+Williamsburg,HARMONY,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,HARMONY,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,HARMONY,Straight Party,,Republican,REP,86,5,0,0,0,0,81
+Williamsburg,HARMONY,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Williamsburg,HARMONY,Straight Party,,Democratic,DEM,34,10,0,0,0,0,24
+Williamsburg,HARMONY,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Williamsburg,HEBRON,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,HEBRON,Straight Party,,Republican,REP,133,13,0,0,0,1,119
+Williamsburg,HEBRON,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,HEBRON,Straight Party,,Democratic,DEM,26,12,0,0,0,1,13
+Williamsburg,HEBRON,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,Straight Party,,United Citizens,UNC,6,1,0,0,0,0,5
+Williamsburg,HEMINGWAY,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,Straight Party,,Republican,REP,182,85,0,0,0,0,97
+Williamsburg,HEMINGWAY,Straight Party,,Libertarian,LIB,2,1,0,0,0,0,1
+Williamsburg,HEMINGWAY,Straight Party,,Democratic,DEM,374,286,0,0,0,2,86
+Williamsburg,HEMINGWAY,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,HENRY-POPLAR HILL,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,HENRY-POPLAR HILL,Straight Party,,Green,GRN,2,1,0,0,0,0,1
+Williamsburg,HENRY-POPLAR HILL,Straight Party,,Republican,REP,93,49,0,0,0,0,44
+Williamsburg,HENRY-POPLAR HILL,Straight Party,,Libertarian,LIB,1,1,0,0,0,0,0
+Williamsburg,HENRY-POPLAR HILL,Straight Party,,Democratic,DEM,121,86,0,0,0,2,33
+Williamsburg,HENRY-POPLAR HILL,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,Straight Party,,United Citizens,UNC,4,2,0,0,0,0,2
+Williamsburg,INDIANTOWN,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Williamsburg,INDIANTOWN,Straight Party,,Republican,REP,56,33,0,0,0,0,23
+Williamsburg,INDIANTOWN,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,Straight Party,,Democratic,DEM,528,395,0,0,0,8,125
+Williamsburg,INDIANTOWN,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,Straight Party,,Republican,REP,315,171,0,0,0,2,142
+Williamsburg,KINGSTREE NO.1,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,Straight Party,,Democratic,DEM,625,412,0,0,0,4,209
+Williamsburg,KINGSTREE NO.1,Straight Party,,Constitution,CON,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,Straight Party,,United Citizens,UNC,3,2,0,0,0,0,1
+Williamsburg,KINGSTREE NO.2,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,Straight Party,,Republican,REP,7,2,0,0,0,0,5
+Williamsburg,KINGSTREE NO.2,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,Straight Party,,Democratic,DEM,312,179,0,0,0,3,130
+Williamsburg,KINGSTREE NO.2,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,Straight Party,,United Citizens,UNC,6,3,0,0,0,1,2
+Williamsburg,KINGSTREE NO.3,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,Straight Party,,Republican,REP,45,25,0,0,0,0,20
+Williamsburg,KINGSTREE NO.3,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Williamsburg,KINGSTREE NO.3,Straight Party,,Democratic,DEM,780,556,0,0,0,11,213
+Williamsburg,KINGSTREE NO.3,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,Straight Party,,United Citizens,UNC,2,2,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,Straight Party,,Republican,REP,75,33,0,0,0,0,42
+Williamsburg,KINGSTREE NO.4,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,Straight Party,,Democratic,DEM,406,258,0,0,0,6,142
+Williamsburg,KINGSTREE NO.4,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,LANE,Straight Party,,United Citizens,UNC,3,1,0,0,0,0,2
+Williamsburg,LANE,Straight Party,,Green,GRN,2,2,0,0,0,0,0
+Williamsburg,LANE,Straight Party,,Republican,REP,29,5,0,0,0,1,23
+Williamsburg,LANE,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,LANE,Straight Party,,Democratic,DEM,335,153,0,0,0,5,177
+Williamsburg,LANE,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Straight Party,,Republican,REP,3,0,0,0,0,0,3
+Williamsburg,MORRISVILLE,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,Straight Party,,Democratic,DEM,112,38,0,0,0,0,74
+Williamsburg,MORRISVILLE,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Straight Party,,Republican,REP,55,5,0,0,0,0,50
+Williamsburg,MOUNT VERNON,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,Straight Party,,Democratic,DEM,102,52,0,0,0,3,47
+Williamsburg,MOUNT VERNON,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,MUDDY CREEK,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,MUDDY CREEK,Straight Party,,Green,GRN,1,1,0,0,0,0,0
+Williamsburg,MUDDY CREEK,Straight Party,,Republican,REP,200,73,0,0,0,3,124
+Williamsburg,MUDDY CREEK,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,MUDDY CREEK,Straight Party,,Democratic,DEM,92,56,0,0,0,0,36
+Williamsburg,MUDDY CREEK,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,NESMITH,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Williamsburg,NESMITH,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,NESMITH,Straight Party,,Republican,REP,26,6,0,0,0,0,20
+Williamsburg,NESMITH,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,NESMITH,Straight Party,,Democratic,DEM,210,105,0,0,0,8,97
+Williamsburg,NESMITH,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Straight Party,,Republican,REP,55,10,0,0,0,0,45
+Williamsburg,PERGAMOS,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,Straight Party,,Democratic,DEM,45,12,0,0,0,0,33
+Williamsburg,PERGAMOS,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,PINEY FOREST,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Williamsburg,PINEY FOREST,Straight Party,,Green,GRN,2,0,0,0,0,0,2
+Williamsburg,PINEY FOREST,Straight Party,,Republican,REP,150,8,0,0,0,1,141
+Williamsburg,PINEY FOREST,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+Williamsburg,PINEY FOREST,Straight Party,,Democratic,DEM,3,2,0,0,0,0,1
+Williamsburg,PINEY FOREST,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Williamsburg,Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,Provisional,Straight Party,,Republican,REP,1,0,0,1,0,0,0
+Williamsburg,Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,Provisional,Straight Party,,Democratic,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,Straight Party,,United Citizens,UNC,7,1,0,0,0,0,6
+Williamsburg,SALTERS,Straight Party,,Green,GRN,2,0,0,0,0,0,2
+Williamsburg,SALTERS,Straight Party,,Republican,REP,54,17,0,0,0,0,37
+Williamsburg,SALTERS,Straight Party,,Libertarian,LIB,2,0,0,0,0,0,2
+Williamsburg,SALTERS,Straight Party,,Democratic,DEM,360,213,0,0,0,2,145
+Williamsburg,SALTERS,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+Williamsburg,SANDY BAY,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,Straight Party,,Republican,REP,80,19,0,0,0,0,61
+Williamsburg,SANDY BAY,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,Straight Party,,Democratic,DEM,51,34,0,0,0,2,15
+Williamsburg,SANDY BAY,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,Straight Party,,United Citizens,UNC,2,2,0,0,0,0,0
+Williamsburg,SINGLETARY,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,Straight Party,,Republican,REP,17,1,0,0,0,2,14
+Williamsburg,SINGLETARY,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,Straight Party,,Democratic,DEM,91,46,0,0,0,2,43
+Williamsburg,SINGLETARY,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,Straight Party,,United Citizens,UNC,3,2,0,0,0,0,1
+Williamsburg,SUTTONS,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,Straight Party,,Republican,REP,79,9,0,0,0,0,70
+Williamsburg,SUTTONS,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,Straight Party,,Democratic,DEM,29,15,0,0,0,0,14
+Williamsburg,SUTTONS,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,TRIO,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+Williamsburg,TRIO,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+Williamsburg,TRIO,Straight Party,,Republican,REP,39,11,0,0,0,0,28
+Williamsburg,TRIO,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+Williamsburg,TRIO,Straight Party,,Democratic,DEM,274,124,0,0,0,3,147
+Williamsburg,TRIO,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,U.S. House,6,John Peterson,REP,76,13,0,0,0,0,63
+Williamsburg,BLACK RIVER,U.S. House,6,James E Jim Clyburn,DEM,112,50,0,0,0,1,61
+Williamsburg,BLACK RIVER,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,U.S. House,6,John Peterson,REP,133,25,0,0,0,1,107
+Williamsburg,BLOOMINGVALE,U.S. House,6,James E Jim Clyburn,DEM,294,109,0,0,0,6,179
+Williamsburg,BLOOMINGVALE,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CADES,U.S. House,6,John Peterson,REP,80,14,0,0,0,1,65
+Williamsburg,CADES,U.S. House,6,James E Jim Clyburn,DEM,152,86,0,0,0,7,59
+Williamsburg,CADES,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,U.S. House,6,John Peterson,REP,91,16,0,0,0,0,75
+Williamsburg,CEDAR SWAMP,U.S. House,6,James E Jim Clyburn,DEM,102,69,0,0,0,1,32
+Williamsburg,CEDAR SWAMP,U.S. House,6,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,CENTRAL,U.S. House,6,John Peterson,REP,150,41,0,0,0,0,109
+Williamsburg,CENTRAL,U.S. House,6,James E Jim Clyburn,DEM,321,185,0,0,0,7,129
+Williamsburg,CENTRAL,U.S. House,6,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,EARLES,U.S. House,6,John Peterson,REP,224,16,0,0,0,1,207
+Williamsburg,EARLES,U.S. House,6,James E Jim Clyburn,DEM,101,32,0,0,0,0,69
+Williamsburg,EARLES,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,U.S. House,6,John Peterson,REP,1,0,0,0,1,0,0
+Williamsburg,Failsafe,U.S. House,6,James E Jim Clyburn,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,U.S. House,6,John Peterson,REP,121,35,0,0,0,0,86
+Williamsburg,GREELEYVILLE,U.S. House,6,James E Jim Clyburn,DEM,553,286,0,0,0,14,253
+Williamsburg,GREELEYVILLE,U.S. House,6,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,HARMONY,U.S. House,6,John Peterson,REP,109,11,0,0,0,0,98
+Williamsburg,HARMONY,U.S. House,6,James E Jim Clyburn,DEM,46,12,0,0,0,1,33
+Williamsburg,HARMONY,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,U.S. House,6,John Peterson,REP,197,25,0,0,0,1,171
+Williamsburg,HEBRON,U.S. House,6,James E Jim Clyburn,DEM,48,22,0,0,0,1,25
+Williamsburg,HEBRON,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,U.S. House,6,John Peterson,REP,253,127,0,0,0,0,126
+Williamsburg,HEMINGWAY,U.S. House,6,James E Jim Clyburn,DEM,528,403,0,0,0,3,122
+Williamsburg,HEMINGWAY,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HENRY-POPLAR HILL,U.S. House,6,John Peterson,REP,125,62,0,0,0,2,61
+Williamsburg,HENRY-POPLAR HILL,U.S. House,6,James E Jim Clyburn,DEM,165,114,0,0,0,4,47
+Williamsburg,HENRY-POPLAR HILL,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,U.S. House,6,John Peterson,REP,94,54,0,0,0,0,40
+Williamsburg,INDIANTOWN,U.S. House,6,James E Jim Clyburn,DEM,652,488,0,0,0,16,148
+Williamsburg,INDIANTOWN,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.1,U.S. House,6,John Peterson,REP,610,307,0,0,0,6,297
+Williamsburg,KINGSTREE NO.1,U.S. House,6,James E Jim Clyburn,DEM,916,595,0,0,0,10,311
+Williamsburg,KINGSTREE NO.1,U.S. House,6,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,KINGSTREE NO.2,U.S. House,6,John Peterson,REP,15,6,0,0,0,0,9
+Williamsburg,KINGSTREE NO.2,U.S. House,6,James E Jim Clyburn,DEM,368,221,0,0,0,3,144
+Williamsburg,KINGSTREE NO.2,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,U.S. House,6,John Peterson,REP,75,45,0,0,0,0,30
+Williamsburg,KINGSTREE NO.3,U.S. House,6,James E Jim Clyburn,DEM,990,705,0,0,0,19,266
+Williamsburg,KINGSTREE NO.3,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,U.S. House,6,John Peterson,REP,132,50,0,0,0,1,81
+Williamsburg,KINGSTREE NO.4,U.S. House,6,James E Jim Clyburn,DEM,517,319,0,0,0,7,191
+Williamsburg,KINGSTREE NO.4,U.S. House,6,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,LANE,U.S. House,6,John Peterson,REP,38,9,0,0,0,0,29
+Williamsburg,LANE,U.S. House,6,James E Jim Clyburn,DEM,413,193,0,0,0,8,212
+Williamsburg,LANE,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,U.S. House,6,John Peterson,REP,3,0,0,0,0,0,3
+Williamsburg,MORRISVILLE,U.S. House,6,James E Jim Clyburn,DEM,122,42,0,0,0,1,79
+Williamsburg,MORRISVILLE,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,U.S. House,6,John Peterson,REP,79,11,0,0,0,0,68
+Williamsburg,MOUNT VERNON,U.S. House,6,James E Jim Clyburn,DEM,134,66,0,0,0,5,63
+Williamsburg,MOUNT VERNON,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MUDDY CREEK,U.S. House,6,John Peterson,REP,293,107,0,0,0,3,183
+Williamsburg,MUDDY CREEK,U.S. House,6,James E Jim Clyburn,DEM,155,92,0,0,0,3,60
+Williamsburg,MUDDY CREEK,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,NESMITH,U.S. House,6,John Peterson,REP,42,7,0,0,0,0,35
+Williamsburg,NESMITH,U.S. House,6,James E Jim Clyburn,DEM,247,130,0,0,0,9,108
+Williamsburg,NESMITH,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,U.S. House,6,John Peterson,REP,78,13,0,0,0,0,65
+Williamsburg,PERGAMOS,U.S. House,6,James E Jim Clyburn,DEM,62,15,0,0,0,0,47
+Williamsburg,PERGAMOS,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PINEY FOREST,U.S. House,6,John Peterson,REP,186,11,0,0,0,1,174
+Williamsburg,PINEY FOREST,U.S. House,6,James E Jim Clyburn,DEM,7,2,0,0,0,0,5
+Williamsburg,PINEY FOREST,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Provisional,U.S. House,6,John Peterson,REP,1,0,0,1,0,0,0
+Williamsburg,Provisional,U.S. House,6,James E Jim Clyburn,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,U.S. House,6,John Peterson,REP,91,29,0,0,0,0,62
+Williamsburg,SALTERS,U.S. House,6,James E Jim Clyburn,DEM,461,271,0,0,0,3,187
+Williamsburg,SALTERS,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SANDY BAY,U.S. House,6,John Peterson,REP,130,33,0,0,0,0,97
+Williamsburg,SANDY BAY,U.S. House,6,James E Jim Clyburn,DEM,63,37,0,0,0,2,24
+Williamsburg,SANDY BAY,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,U.S. House,6,John Peterson,REP,31,4,0,0,0,1,26
+Williamsburg,SINGLETARY,U.S. House,6,James E Jim Clyburn,DEM,117,59,0,0,0,3,55
+Williamsburg,SINGLETARY,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,U.S. House,6,John Peterson,REP,95,12,0,0,0,0,83
+Williamsburg,SUTTONS,U.S. House,6,James E Jim Clyburn,DEM,42,21,0,0,0,0,21
+Williamsburg,SUTTONS,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,TRIO,U.S. House,6,John Peterson,REP,71,17,0,0,0,0,54
+Williamsburg,TRIO,U.S. House,6,James E Jim Clyburn,DEM,356,159,0,0,0,3,194
+Williamsburg,TRIO,U.S. House,6,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,U.S. Senate,,Darline Graham,REP,77,14,0,0,0,0,63
+Williamsburg,BLACK RIVER,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Williamsburg,BLACK RIVER,U.S. Senate,,Annie Andrews,DEM,110,50,0,0,0,1,59
+Williamsburg,BLACK RIVER,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Williamsburg,BLACK RIVER,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,BLOOMINGVALE,U.S. Senate,,Darline Graham,REP,134,25,0,0,0,1,108
+Williamsburg,BLOOMINGVALE,U.S. Senate,,Kasie Whitener,LIB,2,1,0,0,0,0,1
+Williamsburg,BLOOMINGVALE,U.S. Senate,,Annie Andrews,DEM,289,108,0,0,0,6,175
+Williamsburg,BLOOMINGVALE,U.S. Senate,,Mark Hackett,CON,3,1,0,0,0,0,2
+Williamsburg,BLOOMINGVALE,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CADES,U.S. Senate,,Darline Graham,REP,78,13,0,0,0,1,64
+Williamsburg,CADES,U.S. Senate,,Kasie Whitener,LIB,2,1,0,0,0,0,1
+Williamsburg,CADES,U.S. Senate,,Annie Andrews,DEM,151,87,0,0,0,7,57
+Williamsburg,CADES,U.S. Senate,,Mark Hackett,CON,2,0,0,0,0,0,2
+Williamsburg,CADES,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,U.S. Senate,,Darline Graham,REP,92,17,0,0,0,0,75
+Williamsburg,CEDAR SWAMP,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,U.S. Senate,,Annie Andrews,DEM,102,68,0,0,0,1,33
+Williamsburg,CEDAR SWAMP,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Williamsburg,CEDAR SWAMP,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,CENTRAL,U.S. Senate,,Darline Graham,REP,137,37,0,0,0,0,100
+Williamsburg,CENTRAL,U.S. Senate,,Kasie Whitener,LIB,5,2,0,0,0,0,3
+Williamsburg,CENTRAL,U.S. Senate,,Annie Andrews,DEM,325,187,0,0,0,7,131
+Williamsburg,CENTRAL,U.S. Senate,,Mark Hackett,CON,3,2,0,0,0,0,1
+Williamsburg,CENTRAL,U.S. Senate,,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,EARLES,U.S. Senate,,Darline Graham,REP,222,17,0,0,0,1,204
+Williamsburg,EARLES,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Williamsburg,EARLES,U.S. Senate,,Annie Andrews,DEM,102,31,0,0,0,0,71
+Williamsburg,EARLES,U.S. Senate,,Mark Hackett,CON,2,1,0,0,0,0,1
+Williamsburg,EARLES,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,U.S. Senate,,Darline Graham,REP,1,0,0,0,1,0,0
+Williamsburg,Failsafe,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Williamsburg,Failsafe,U.S. Senate,,Annie Andrews,DEM,1,0,0,0,1,0,0
+Williamsburg,Failsafe,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Williamsburg,Failsafe,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Williamsburg,Failsafe Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,GREELEYVILLE,U.S. Senate,,Darline Graham,REP,117,34,0,0,0,0,83
+Williamsburg,GREELEYVILLE,U.S. Senate,,Kasie Whitener,LIB,4,2,0,0,0,0,2
+Williamsburg,GREELEYVILLE,U.S. Senate,,Annie Andrews,DEM,547,284,0,0,0,14,249
+Williamsburg,GREELEYVILLE,U.S. Senate,,Mark Hackett,CON,6,1,0,0,0,0,5
+Williamsburg,GREELEYVILLE,U.S. Senate,,Write-In,NON,3,0,0,0,0,0,3
+Williamsburg,HARMONY,U.S. Senate,,Darline Graham,REP,108,11,0,0,0,0,97
+Williamsburg,HARMONY,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Williamsburg,HARMONY,U.S. Senate,,Annie Andrews,DEM,46,12,0,0,0,1,33
+Williamsburg,HARMONY,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Williamsburg,HARMONY,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEBRON,U.S. Senate,,Darline Graham,REP,192,23,0,0,0,1,168
+Williamsburg,HEBRON,U.S. Senate,,Kasie Whitener,LIB,3,2,0,0,0,0,1
+Williamsburg,HEBRON,U.S. Senate,,Annie Andrews,DEM,48,22,0,0,0,1,25
+Williamsburg,HEBRON,U.S. Senate,,Mark Hackett,CON,2,0,0,0,0,0,2
+Williamsburg,HEBRON,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,HEMINGWAY,U.S. Senate,,Darline Graham,REP,253,128,0,0,0,0,125
+Williamsburg,HEMINGWAY,U.S. Senate,,Kasie Whitener,LIB,6,2,0,0,0,0,4
+Williamsburg,HEMINGWAY,U.S. Senate,,Annie Andrews,DEM,524,403,0,0,0,2,119
+Williamsburg,HEMINGWAY,U.S. Senate,,Mark Hackett,CON,3,2,0,0,0,0,1
+Williamsburg,HEMINGWAY,U.S. Senate,,Write-In,NON,1,0,0,0,0,1,0
+Williamsburg,HENRY-POPLAR HILL,U.S. Senate,,Darline Graham,REP,123,60,0,0,0,2,61
+Williamsburg,HENRY-POPLAR HILL,U.S. Senate,,Kasie Whitener,LIB,2,1,0,0,0,0,1
+Williamsburg,HENRY-POPLAR HILL,U.S. Senate,,Annie Andrews,DEM,162,113,0,0,0,4,45
+Williamsburg,HENRY-POPLAR HILL,U.S. Senate,,Mark Hackett,CON,2,1,0,0,0,0,1
+Williamsburg,HENRY-POPLAR HILL,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,INDIANTOWN,U.S. Senate,,Darline Graham,REP,94,55,0,0,0,1,38
+Williamsburg,INDIANTOWN,U.S. Senate,,Kasie Whitener,LIB,3,2,0,0,0,0,1
+Williamsburg,INDIANTOWN,U.S. Senate,,Annie Andrews,DEM,650,486,0,0,0,16,148
+Williamsburg,INDIANTOWN,U.S. Senate,,Mark Hackett,CON,2,2,0,0,0,0,0
+Williamsburg,INDIANTOWN,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,KINGSTREE NO.1,U.S. Senate,,Darline Graham,REP,572,294,0,0,0,8,270
+Williamsburg,KINGSTREE NO.1,U.S. Senate,,Kasie Whitener,LIB,10,5,0,0,0,0,5
+Williamsburg,KINGSTREE NO.1,U.S. Senate,,Annie Andrews,DEM,934,600,0,0,0,8,326
+Williamsburg,KINGSTREE NO.1,U.S. Senate,,Mark Hackett,CON,10,6,0,0,0,0,4
+Williamsburg,KINGSTREE NO.1,U.S. Senate,,Write-In,NON,2,0,0,0,0,0,2
+Williamsburg,KINGSTREE NO.2,U.S. Senate,,Darline Graham,REP,10,5,0,0,0,0,5
+Williamsburg,KINGSTREE NO.2,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.2,U.S. Senate,,Annie Andrews,DEM,372,221,0,0,0,3,148
+Williamsburg,KINGSTREE NO.2,U.S. Senate,,Mark Hackett,CON,4,2,0,0,0,0,2
+Williamsburg,KINGSTREE NO.2,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.3,U.S. Senate,,Darline Graham,REP,72,43,0,0,0,0,29
+Williamsburg,KINGSTREE NO.3,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Williamsburg,KINGSTREE NO.3,U.S. Senate,,Annie Andrews,DEM,989,709,0,0,0,19,261
+Williamsburg,KINGSTREE NO.3,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Williamsburg,KINGSTREE NO.3,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,U.S. Senate,,Darline Graham,REP,126,48,0,0,0,1,77
+Williamsburg,KINGSTREE NO.4,U.S. Senate,,Kasie Whitener,LIB,2,0,0,0,0,0,2
+Williamsburg,KINGSTREE NO.4,U.S. Senate,,Annie Andrews,DEM,518,319,0,0,0,7,192
+Williamsburg,KINGSTREE NO.4,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Williamsburg,KINGSTREE NO.4,U.S. Senate,,Write-In,NON,1,1,0,0,0,0,0
+Williamsburg,LANE,U.S. Senate,,Darline Graham,REP,37,8,0,0,0,0,29
+Williamsburg,LANE,U.S. Senate,,Kasie Whitener,LIB,2,0,0,0,0,0,2
+Williamsburg,LANE,U.S. Senate,,Annie Andrews,DEM,412,195,0,0,0,8,209
+Williamsburg,LANE,U.S. Senate,,Mark Hackett,CON,2,1,0,0,0,0,1
+Williamsburg,LANE,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,U.S. Senate,,Darline Graham,REP,4,1,0,0,0,0,3
+Williamsburg,MORRISVILLE,U.S. Senate,,Kasie Whitener,LIB,1,1,0,0,0,0,0
+Williamsburg,MORRISVILLE,U.S. Senate,,Annie Andrews,DEM,121,41,0,0,0,1,79
+Williamsburg,MORRISVILLE,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Williamsburg,MORRISVILLE,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,U.S. Senate,,Darline Graham,REP,74,11,0,0,0,0,63
+Williamsburg,MOUNT VERNON,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Williamsburg,MOUNT VERNON,U.S. Senate,,Annie Andrews,DEM,136,65,0,0,0,5,66
+Williamsburg,MOUNT VERNON,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Williamsburg,MOUNT VERNON,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,MUDDY CREEK,U.S. Senate,,Darline Graham,REP,293,107,0,0,0,3,183
+Williamsburg,MUDDY CREEK,U.S. Senate,,Kasie Whitener,LIB,4,1,0,0,0,0,3
+Williamsburg,MUDDY CREEK,U.S. Senate,,Annie Andrews,DEM,149,91,0,0,0,3,55
+Williamsburg,MUDDY CREEK,U.S. Senate,,Mark Hackett,CON,2,1,0,0,0,0,1
+Williamsburg,MUDDY CREEK,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,NESMITH,U.S. Senate,,Darline Graham,REP,37,7,0,0,0,0,30
+Williamsburg,NESMITH,U.S. Senate,,Kasie Whitener,LIB,2,1,0,0,0,0,1
+Williamsburg,NESMITH,U.S. Senate,,Annie Andrews,DEM,248,129,0,0,0,9,110
+Williamsburg,NESMITH,U.S. Senate,,Mark Hackett,CON,3,0,0,0,0,0,3
+Williamsburg,NESMITH,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PERGAMOS,U.S. Senate,,Darline Graham,REP,77,14,0,0,0,0,63
+Williamsburg,PERGAMOS,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Williamsburg,PERGAMOS,U.S. Senate,,Annie Andrews,DEM,61,14,0,0,0,0,47
+Williamsburg,PERGAMOS,U.S. Senate,,Mark Hackett,CON,2,0,0,0,0,0,2
+Williamsburg,PERGAMOS,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,PINEY FOREST,U.S. Senate,,Darline Graham,REP,181,11,0,0,0,1,169
+Williamsburg,PINEY FOREST,U.S. Senate,,Kasie Whitener,LIB,2,0,0,0,0,0,2
+Williamsburg,PINEY FOREST,U.S. Senate,,Annie Andrews,DEM,9,3,0,0,0,0,6
+Williamsburg,PINEY FOREST,U.S. Senate,,Mark Hackett,CON,2,0,0,0,0,0,2
+Williamsburg,PINEY FOREST,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,Provisional,U.S. Senate,,Darline Graham,REP,1,0,0,1,0,0,0
+Williamsburg,Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+Williamsburg,Provisional,U.S. Senate,,Annie Andrews,DEM,3,0,0,3,0,0,0
+Williamsburg,Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Williamsburg,Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SALTERS,U.S. Senate,,Darline Graham,REP,83,25,0,0,0,0,58
+Williamsburg,SALTERS,U.S. Senate,,Kasie Whitener,LIB,6,1,0,0,0,0,5
+Williamsburg,SALTERS,U.S. Senate,,Annie Andrews,DEM,459,270,0,0,0,3,186
+Williamsburg,SALTERS,U.S. Senate,,Mark Hackett,CON,4,2,0,0,0,0,2
+Williamsburg,SALTERS,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,SANDY BAY,U.S. Senate,,Darline Graham,REP,125,30,0,0,0,0,95
+Williamsburg,SANDY BAY,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Williamsburg,SANDY BAY,U.S. Senate,,Annie Andrews,DEM,66,39,0,0,0,2,25
+Williamsburg,SANDY BAY,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Williamsburg,SANDY BAY,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,SINGLETARY,U.S. Senate,,Darline Graham,REP,32,5,0,0,0,1,26
+Williamsburg,SINGLETARY,U.S. Senate,,Kasie Whitener,LIB,1,0,0,0,0,0,1
+Williamsburg,SINGLETARY,U.S. Senate,,Annie Andrews,DEM,114,58,0,0,0,3,53
+Williamsburg,SINGLETARY,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Williamsburg,SINGLETARY,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+Williamsburg,SUTTONS,U.S. Senate,,Darline Graham,REP,96,11,0,0,0,0,85
+Williamsburg,SUTTONS,U.S. Senate,,Kasie Whitener,LIB,1,1,0,0,0,0,0
+Williamsburg,SUTTONS,U.S. Senate,,Annie Andrews,DEM,40,21,0,0,0,0,19
+Williamsburg,SUTTONS,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+Williamsburg,SUTTONS,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+Williamsburg,TRIO,U.S. Senate,,Darline Graham,REP,64,15,0,0,0,0,49
+Williamsburg,TRIO,U.S. Senate,,Kasie Whitener,LIB,4,1,0,0,0,0,3
+Williamsburg,TRIO,U.S. Senate,,Annie Andrews,DEM,360,160,0,0,0,3,197
+Williamsburg,TRIO,U.S. Senate,,Mark Hackett,CON,1,0,0,0,0,0,1
+Williamsburg,TRIO,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0

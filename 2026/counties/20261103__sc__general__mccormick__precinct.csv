@@ -1,0 +1,935 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+McCormick,Bethany,Attorney General,,David Stumbo,REP,53,13,0,0,0,0,40
+McCormick,Bethany,Attorney General,,Richard Hricik,DEM,151,79,0,0,0,1,71
+McCormick,Bethany,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Clark's Hill,Attorney General,,David Stumbo,REP,144,62,0,0,0,0,82
+McCormick,Clark's Hill,Attorney General,,Richard Hricik,DEM,151,49,0,0,0,1,101
+McCormick,Clark's Hill,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+McCormick,Failsafe,Attorney General,,Richard Hricik,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Attorney General,,Richard Hricik,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,Attorney General,,David Stumbo,REP,245,144,0,0,0,1,100
+McCormick,McCormick No. 1,Attorney General,,Richard Hricik,DEM,428,305,0,0,0,10,113
+McCormick,McCormick No. 1,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,Attorney General,,David Stumbo,REP,109,58,0,0,0,0,51
+McCormick,McCormick No. 2,Attorney General,,Richard Hricik,DEM,341,249,0,0,0,9,83
+McCormick,McCormick No. 2,Attorney General,,Write-In,NON,2,2,0,0,0,0,0
+McCormick,Modoc,Attorney General,,David Stumbo,REP,184,60,0,0,0,2,122
+McCormick,Modoc,Attorney General,,Richard Hricik,DEM,23,10,0,0,0,0,13
+McCormick,Modoc,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Monticello,Attorney General,,David Stumbo,REP,485,316,0,0,0,9,160
+McCormick,Monticello,Attorney General,,Richard Hricik,DEM,194,150,0,0,0,7,37
+McCormick,Monticello,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,Attorney General,,David Stumbo,REP,20,3,0,0,0,1,16
+McCormick,Mt. Carmel,Attorney General,,Richard Hricik,DEM,93,30,0,0,0,4,59
+McCormick,Mt. Carmel,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,Attorney General,,David Stumbo,REP,107,24,0,0,0,0,83
+McCormick,Parksville,Attorney General,,Richard Hricik,DEM,31,16,0,0,0,1,14
+McCormick,Parksville,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Plum Branch,Attorney General,,David Stumbo,REP,227,83,0,0,0,5,139
+McCormick,Plum Branch,Attorney General,,Richard Hricik,DEM,306,209,0,0,0,3,94
+McCormick,Plum Branch,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Provisional,Attorney General,,David Stumbo,REP,1,0,0,1,0,0,0
+McCormick,Provisional,Attorney General,,Richard Hricik,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,Attorney General,,David Stumbo,REP,1435,931,0,0,0,26,478
+McCormick,Savannah,Attorney General,,Richard Hricik,DEM,566,460,0,0,0,18,88
+McCormick,Savannah,Attorney General,,Write-In,NON,1,0,0,0,0,1,0
+McCormick,Willington,Attorney General,,David Stumbo,REP,71,29,0,0,0,3,39
+McCormick,Willington,Attorney General,,Richard Hricik,DEM,81,48,0,0,0,6,27
+McCormick,Willington,Attorney General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Bethany,Auditor,,Clarissa Parks,DEM,173,83,0,0,0,1,89
+McCormick,Bethany,Auditor,,Write-In,NON,6,2,0,0,0,0,4
+McCormick,Clark's Hill,Auditor,,Clarissa Parks,DEM,186,60,0,0,0,1,125
+McCormick,Clark's Hill,Auditor,,Write-In,NON,7,2,0,0,0,0,5
+McCormick,Failsafe,Auditor,,Clarissa Parks,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Auditor,,Clarissa Parks,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,Auditor,,Clarissa Parks,DEM,544,366,0,0,0,8,170
+McCormick,McCormick No. 1,Auditor,,Write-In,NON,6,1,0,0,0,0,5
+McCormick,McCormick No. 2,Auditor,,Clarissa Parks,DEM,395,276,0,0,0,9,110
+McCormick,McCormick No. 2,Auditor,,Write-In,NON,5,4,0,0,0,0,1
+McCormick,Modoc,Auditor,,Clarissa Parks,DEM,71,23,0,0,0,0,48
+McCormick,Modoc,Auditor,,Write-In,NON,5,2,0,0,0,0,3
+McCormick,Monticello,Auditor,,Clarissa Parks,DEM,344,245,0,0,0,8,91
+McCormick,Monticello,Auditor,,Write-In,NON,6,3,0,0,0,0,3
+McCormick,Mt. Carmel,Auditor,,Clarissa Parks,DEM,104,31,0,0,0,5,68
+McCormick,Mt. Carmel,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,Auditor,,Clarissa Parks,DEM,79,22,0,0,0,1,56
+McCormick,Parksville,Auditor,,Write-In,NON,4,3,0,0,0,0,1
+McCormick,Plum Branch,Auditor,,Clarissa Parks,DEM,411,242,0,0,0,4,165
+McCormick,Plum Branch,Auditor,,Write-In,NON,6,3,0,0,0,0,3
+McCormick,Provisional,Auditor,,Clarissa Parks,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,Auditor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,Auditor,,Clarissa Parks,DEM,1047,755,0,0,0,29,263
+McCormick,Savannah,Auditor,,Write-In,NON,25,17,0,0,0,1,7
+McCormick,Willington,Auditor,,Clarissa Parks,DEM,111,58,0,0,0,6,47
+McCormick,Willington,Auditor,,Write-In,NON,3,1,0,0,0,0,2
+McCormick,Bethany,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+McCormick,Bethany,Commissioner of Agriculture,,Cody Simpson,REP,50,12,0,0,0,0,38
+McCormick,Bethany,Commissioner of Agriculture,,Michael Sullens,LIB,2,1,0,0,0,0,1
+McCormick,Bethany,Commissioner of Agriculture,,DeShawn Blanding,DEM,151,80,0,0,0,1,70
+McCormick,Bethany,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Clark's Hill,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+McCormick,Clark's Hill,Commissioner of Agriculture,,Cody Simpson,REP,143,62,0,0,0,0,81
+McCormick,Clark's Hill,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+McCormick,Clark's Hill,Commissioner of Agriculture,,DeShawn Blanding,DEM,148,48,0,0,0,1,99
+McCormick,Clark's Hill,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+McCormick,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+McCormick,Failsafe,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+McCormick,Failsafe,Commissioner of Agriculture,,DeShawn Blanding,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,Commissioner of Agriculture,,Chris Nelums,UNC,8,5,0,0,0,0,3
+McCormick,McCormick No. 1,Commissioner of Agriculture,,Cody Simpson,REP,232,138,0,0,0,2,92
+McCormick,McCormick No. 1,Commissioner of Agriculture,,Michael Sullens,LIB,7,4,0,0,0,0,3
+McCormick,McCormick No. 1,Commissioner of Agriculture,,DeShawn Blanding,DEM,426,302,0,0,0,9,115
+McCormick,McCormick No. 1,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,Commissioner of Agriculture,,Chris Nelums,UNC,3,2,0,0,0,0,1
+McCormick,McCormick No. 2,Commissioner of Agriculture,,Cody Simpson,REP,104,54,0,0,0,0,50
+McCormick,McCormick No. 2,Commissioner of Agriculture,,Michael Sullens,LIB,7,4,0,0,0,0,3
+McCormick,McCormick No. 2,Commissioner of Agriculture,,DeShawn Blanding,DEM,337,247,0,0,0,9,81
+McCormick,McCormick No. 2,Commissioner of Agriculture,,Write-In,NON,1,1,0,0,0,0,0
+McCormick,Modoc,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+McCormick,Modoc,Commissioner of Agriculture,,Cody Simpson,REP,188,61,0,0,0,2,125
+McCormick,Modoc,Commissioner of Agriculture,,Michael Sullens,LIB,1,0,0,0,0,1,0
+McCormick,Modoc,Commissioner of Agriculture,,DeShawn Blanding,DEM,21,9,0,0,0,0,12
+McCormick,Modoc,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Monticello,Commissioner of Agriculture,,Chris Nelums,UNC,4,2,0,0,0,0,2
+McCormick,Monticello,Commissioner of Agriculture,,Cody Simpson,REP,484,314,0,0,0,10,160
+McCormick,Monticello,Commissioner of Agriculture,,Michael Sullens,LIB,11,8,0,0,0,0,3
+McCormick,Monticello,Commissioner of Agriculture,,DeShawn Blanding,DEM,175,140,0,0,0,6,29
+McCormick,Monticello,Commissioner of Agriculture,,Write-In,NON,2,0,0,0,0,0,2
+McCormick,Mt. Carmel,Commissioner of Agriculture,,Chris Nelums,UNC,2,0,0,0,0,0,2
+McCormick,Mt. Carmel,Commissioner of Agriculture,,Cody Simpson,REP,18,2,0,0,0,1,15
+McCormick,Mt. Carmel,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,Commissioner of Agriculture,,DeShawn Blanding,DEM,94,31,0,0,0,4,59
+McCormick,Mt. Carmel,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,Commissioner of Agriculture,,Chris Nelums,UNC,1,0,0,0,0,0,1
+McCormick,Parksville,Commissioner of Agriculture,,Cody Simpson,REP,102,23,0,0,0,0,79
+McCormick,Parksville,Commissioner of Agriculture,,Michael Sullens,LIB,5,1,0,0,0,0,4
+McCormick,Parksville,Commissioner of Agriculture,,DeShawn Blanding,DEM,27,16,0,0,0,1,10
+McCormick,Parksville,Commissioner of Agriculture,,Write-In,NON,2,0,0,0,0,0,2
+McCormick,Plum Branch,Commissioner of Agriculture,,Chris Nelums,UNC,3,0,0,0,0,0,3
+McCormick,Plum Branch,Commissioner of Agriculture,,Cody Simpson,REP,216,81,0,0,0,4,131
+McCormick,Plum Branch,Commissioner of Agriculture,,Michael Sullens,LIB,9,1,0,0,0,0,8
+McCormick,Plum Branch,Commissioner of Agriculture,,DeShawn Blanding,DEM,305,209,0,0,0,4,92
+McCormick,Plum Branch,Commissioner of Agriculture,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Provisional,Commissioner of Agriculture,,Chris Nelums,UNC,0,0,0,0,0,0,0
+McCormick,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,1,0,0,0
+McCormick,Provisional,Commissioner of Agriculture,,Michael Sullens,LIB,0,0,0,0,0,0,0
+McCormick,Provisional,Commissioner of Agriculture,,DeShawn Blanding,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,Commissioner of Agriculture,,Chris Nelums,UNC,15,12,0,0,0,0,3
+McCormick,Savannah,Commissioner of Agriculture,,Cody Simpson,REP,1418,916,0,0,0,27,475
+McCormick,Savannah,Commissioner of Agriculture,,Michael Sullens,LIB,28,21,0,0,0,0,7
+McCormick,Savannah,Commissioner of Agriculture,,DeShawn Blanding,DEM,524,431,0,0,0,18,75
+McCormick,Savannah,Commissioner of Agriculture,,Write-In,NON,1,1,0,0,0,0,0
+McCormick,Willington,Commissioner of Agriculture,,Chris Nelums,UNC,2,0,0,0,0,0,2
+McCormick,Willington,Commissioner of Agriculture,,Cody Simpson,REP,70,29,0,0,0,3,38
+McCormick,Willington,Commissioner of Agriculture,,Michael Sullens,LIB,1,1,0,0,0,0,0
+McCormick,Willington,Commissioner of Agriculture,,DeShawn Blanding,DEM,82,48,0,0,0,6,28
+McCormick,Willington,Commissioner of Agriculture,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Bethany,Comptroller General,,Mike Burkhold,REP,49,12,0,0,0,0,37
+McCormick,Bethany,Comptroller General,,Tiffany Boozer,DEM,152,79,0,0,0,1,72
+McCormick,Bethany,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Clark's Hill,Comptroller General,,Mike Burkhold,REP,143,61,0,0,0,0,82
+McCormick,Clark's Hill,Comptroller General,,Tiffany Boozer,DEM,151,49,0,0,0,1,101
+McCormick,Clark's Hill,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,Comptroller General,,Mike Burkhold,REP,0,0,0,0,0,0,0
+McCormick,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Comptroller General,,Mike Burkhold,REP,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,Comptroller General,,Mike Burkhold,REP,232,139,0,0,0,2,91
+McCormick,McCormick No. 1,Comptroller General,,Tiffany Boozer,DEM,436,309,0,0,0,9,118
+McCormick,McCormick No. 1,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,Comptroller General,,Mike Burkhold,REP,105,55,0,0,0,0,50
+McCormick,McCormick No. 2,Comptroller General,,Tiffany Boozer,DEM,343,249,0,0,0,9,85
+McCormick,McCormick No. 2,Comptroller General,,Write-In,NON,2,2,0,0,0,0,0
+McCormick,Modoc,Comptroller General,,Mike Burkhold,REP,186,61,0,0,0,2,123
+McCormick,Modoc,Comptroller General,,Tiffany Boozer,DEM,22,9,0,0,0,0,13
+McCormick,Modoc,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Monticello,Comptroller General,,Mike Burkhold,REP,484,317,0,0,0,8,159
+McCormick,Monticello,Comptroller General,,Tiffany Boozer,DEM,192,147,0,0,0,8,37
+McCormick,Monticello,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,Comptroller General,,Mike Burkhold,REP,18,2,0,0,0,1,15
+McCormick,Mt. Carmel,Comptroller General,,Tiffany Boozer,DEM,94,31,0,0,0,4,59
+McCormick,Mt. Carmel,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,Comptroller General,,Mike Burkhold,REP,106,24,0,0,0,0,82
+McCormick,Parksville,Comptroller General,,Tiffany Boozer,DEM,31,16,0,0,0,1,14
+McCormick,Parksville,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Plum Branch,Comptroller General,,Mike Burkhold,REP,226,83,0,0,0,4,139
+McCormick,Plum Branch,Comptroller General,,Tiffany Boozer,DEM,309,208,0,0,0,4,97
+McCormick,Plum Branch,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Provisional,Comptroller General,,Mike Burkhold,REP,1,0,0,1,0,0,0
+McCormick,Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,Comptroller General,,Mike Burkhold,REP,1439,928,0,0,0,24,487
+McCormick,Savannah,Comptroller General,,Tiffany Boozer,DEM,551,454,0,0,0,21,76
+McCormick,Savannah,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Willington,Comptroller General,,Mike Burkhold,REP,69,27,0,0,0,3,39
+McCormick,Willington,Comptroller General,,Tiffany Boozer,DEM,85,51,0,0,0,6,28
+McCormick,Willington,Comptroller General,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Clark's Hill,County Council District 2,,Bernie Hamby,REP,116,59,0,0,0,0,57
+McCormick,Clark's Hill,County Council District 2,,Write-In,NON,58,25,0,0,0,0,33
+McCormick,Failsafe,County Council District 2,,Bernie Hamby,REP,0,0,0,0,0,0,0
+McCormick,Failsafe,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,County Council District 2,,Bernie Hamby,REP,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,County Council District 2,,Bernie Hamby,REP,5,3,0,0,0,0,2
+McCormick,McCormick No. 2,County Council District 2,,Write-In,NON,23,14,0,0,0,1,8
+McCormick,Modoc,County Council District 2,,Bernie Hamby,REP,138,49,0,0,0,2,87
+McCormick,Modoc,County Council District 2,,Write-In,NON,57,18,0,0,0,0,39
+McCormick,Parksville,County Council District 2,,Bernie Hamby,REP,65,14,0,0,0,1,50
+McCormick,Parksville,County Council District 2,,Write-In,NON,45,12,0,0,0,0,33
+McCormick,Plum Branch,County Council District 2,,Bernie Hamby,REP,42,22,0,0,0,2,18
+McCormick,Plum Branch,County Council District 2,,Write-In,NON,66,31,0,0,0,1,34
+McCormick,Provisional,County Council District 2,,Bernie Hamby,REP,0,0,0,0,0,0,0
+McCormick,Provisional,County Council District 2,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,County Council District 2,,Bernie Hamby,REP,169,105,0,0,0,3,61
+McCormick,Savannah,County Council District 2,,Write-In,NON,91,60,0,0,0,2,29
+McCormick,Bethany,County Council District 5,,Jackie Brown,DEM,167,81,0,0,0,1,85
+McCormick,Bethany,County Council District 5,,Write-In,NON,18,3,0,0,0,0,15
+McCormick,Clark's Hill,County Council District 5,,Jackie Brown,DEM,62,7,0,0,0,0,55
+McCormick,Clark's Hill,County Council District 5,,Write-In,NON,4,2,0,0,0,0,2
+McCormick,Failsafe,County Council District 5,,Jackie Brown,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,County Council District 5,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,County Council District 5,,Jackie Brown,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,County Council District 5,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,County Council District 5,,Jackie Brown,DEM,177,124,0,0,0,1,52
+McCormick,McCormick No. 1,County Council District 5,,Write-In,NON,5,4,0,0,0,0,1
+McCormick,McCormick No. 2,County Council District 5,,Jackie Brown,DEM,37,24,0,0,0,2,11
+McCormick,McCormick No. 2,County Council District 5,,Write-In,NON,2,1,0,0,0,0,1
+McCormick,Modoc,County Council District 5,,Jackie Brown,DEM,4,1,0,0,0,0,3
+McCormick,Modoc,County Council District 5,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Parksville,County Council District 5,,Jackie Brown,DEM,18,8,0,0,0,0,10
+McCormick,Parksville,County Council District 5,,Write-In,NON,4,0,0,0,0,0,4
+McCormick,Plum Branch,County Council District 5,,Jackie Brown,DEM,140,88,0,0,0,0,52
+McCormick,Plum Branch,County Council District 5,,Write-In,NON,6,2,0,0,0,0,4
+McCormick,Provisional,County Council District 5,,Jackie Brown,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,County Council District 5,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Bethany,County Treasurer,,Mary Gable Shirley,DEM,177,82,0,0,0,1,94
+McCormick,Bethany,County Treasurer,,Write-In,NON,5,2,0,0,0,0,3
+McCormick,Clark's Hill,County Treasurer,,Mary Gable Shirley,DEM,193,61,0,0,0,1,131
+McCormick,Clark's Hill,County Treasurer,,Write-In,NON,6,2,0,0,0,0,4
+McCormick,Failsafe,County Treasurer,,Mary Gable Shirley,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,County Treasurer,,Mary Gable Shirley,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,County Treasurer,,Mary Gable Shirley,DEM,560,376,0,0,0,9,175
+McCormick,McCormick No. 1,County Treasurer,,Write-In,NON,6,2,0,0,0,0,4
+McCormick,McCormick No. 2,County Treasurer,,Mary Gable Shirley,DEM,401,277,0,0,0,8,116
+McCormick,McCormick No. 2,County Treasurer,,Write-In,NON,4,3,0,0,0,0,1
+McCormick,Modoc,County Treasurer,,Mary Gable Shirley,DEM,83,31,0,0,0,0,52
+McCormick,Modoc,County Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Monticello,County Treasurer,,Mary Gable Shirley,DEM,361,255,0,0,0,8,98
+McCormick,Monticello,County Treasurer,,Write-In,NON,6,4,0,0,0,0,2
+McCormick,Mt. Carmel,County Treasurer,,Mary Gable Shirley,DEM,104,31,0,0,0,5,68
+McCormick,Mt. Carmel,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,County Treasurer,,Mary Gable Shirley,DEM,86,24,0,0,0,1,61
+McCormick,Parksville,County Treasurer,,Write-In,NON,4,3,0,0,0,0,1
+McCormick,Plum Branch,County Treasurer,,Mary Gable Shirley,DEM,429,248,0,0,0,4,177
+McCormick,Plum Branch,County Treasurer,,Write-In,NON,5,3,0,0,0,0,2
+McCormick,Provisional,County Treasurer,,Mary Gable Shirley,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,County Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,County Treasurer,,Mary Gable Shirley,DEM,1110,805,0,0,0,29,276
+McCormick,Savannah,County Treasurer,,Write-In,NON,26,17,0,0,0,1,8
+McCormick,Willington,County Treasurer,,Mary Gable Shirley,DEM,115,60,0,0,0,7,48
+McCormick,Willington,County Treasurer,,Write-In,NON,3,1,0,0,0,0,2
+McCormick,Bethany,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,2,0,0,0,0,0,2
+McCormick,Bethany,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+McCormick,Bethany,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,52,12,0,0,0,0,40
+McCormick,Bethany,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,151,81,0,0,0,1,69
+McCormick,Bethany,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Clark's Hill,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+McCormick,Clark's Hill,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,3,0,0,0,0,0,3
+McCormick,Clark's Hill,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,141,62,0,0,0,0,79
+McCormick,Clark's Hill,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,150,48,0,0,0,1,101
+McCormick,Clark's Hill,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+McCormick,Failsafe,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+McCormick,Failsafe,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,0,0,0,0,0,0,0
+McCormick,Failsafe,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,12,5,0,0,0,0,7
+McCormick,McCormick No. 1,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+McCormick,McCormick No. 1,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,234,140,0,0,0,2,92
+McCormick,McCormick No. 1,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,427,304,0,0,0,9,114
+McCormick,McCormick No. 1,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,9,7,0,0,0,0,2
+McCormick,McCormick No. 2,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,104,54,0,0,0,0,50
+McCormick,McCormick No. 2,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,339,247,0,0,0,9,83
+McCormick,McCormick No. 2,Governor and Lieutenant Governor,,Write-In,NON,2,2,0,0,0,0,0
+McCormick,Modoc,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+McCormick,Modoc,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+McCormick,Modoc,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,183,60,0,0,0,2,121
+McCormick,Modoc,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,24,10,0,0,0,0,14
+McCormick,Modoc,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Monticello,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,3,1,0,0,0,0,2
+McCormick,Monticello,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,6,5,0,0,0,0,1
+McCormick,Monticello,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,483,313,0,0,0,12,158
+McCormick,Monticello,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,188,148,0,0,0,4,36
+McCormick,Monticello,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,1,0,0,0,0,3
+McCormick,Mt. Carmel,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,18,2,0,0,0,1,15
+McCormick,Mt. Carmel,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,92,30,0,0,0,4,58
+McCormick,Mt. Carmel,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,4,2,0,0,0,0,2
+McCormick,Parksville,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+McCormick,Parksville,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,106,23,0,0,0,0,83
+McCormick,Parksville,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,27,15,0,0,0,1,11
+McCormick,Parksville,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Plum Branch,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,7,1,0,0,0,0,6
+McCormick,Plum Branch,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,1,0,0,0,0,0,1
+McCormick,Plum Branch,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,220,81,0,0,0,4,135
+McCormick,Plum Branch,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,305,209,0,0,0,3,93
+McCormick,Plum Branch,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Provisional,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,0,0,0,0,0,0,0
+McCormick,Provisional,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+McCormick,Provisional,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1,0,0,1,0,0,0
+McCormick,Provisional,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,17,10,0,0,0,2,5
+McCormick,Savannah,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,6,2,0,0,0,0,4
+McCormick,Savannah,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,1427,921,0,0,0,25,481
+McCormick,Savannah,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,549,455,0,0,0,18,76
+McCormick,Savannah,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Willington,Governor and Lieutenant Governor,,Michael Addison / Candace Brewer,UNC,1,0,0,0,0,0,1
+McCormick,Willington,Governor and Lieutenant Governor,,Walid Hakim / Arnold E Karr,GRN,0,0,0,0,0,0,0
+McCormick,Willington,Governor and Lieutenant Governor,,Alan Wilson / Mike Reichenbach,REP,68,27,0,0,0,3,38
+McCormick,Willington,Governor and Lieutenant Governor,,Jermaine Johnson / Sam Skardon,DEM,87,52,0,0,0,6,29
+McCormick,Willington,Governor and Lieutenant Governor,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Bethany,Probate Judge,,John H Gray,REP,49,12,0,0,0,0,37
+McCormick,Bethany,Probate Judge,,ErNiko Brown,DEM,154,80,0,0,0,1,73
+McCormick,Bethany,Probate Judge,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Clark's Hill,Probate Judge,,John H Gray,REP,147,64,0,0,0,0,83
+McCormick,Clark's Hill,Probate Judge,,ErNiko Brown,DEM,150,47,0,0,0,1,102
+McCormick,Clark's Hill,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,Probate Judge,,John H Gray,REP,0,0,0,0,0,0,0
+McCormick,Failsafe,Probate Judge,,ErNiko Brown,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Probate Judge,,John H Gray,REP,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Probate Judge,,ErNiko Brown,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,Probate Judge,,John H Gray,REP,256,154,0,0,0,2,100
+McCormick,McCormick No. 1,Probate Judge,,ErNiko Brown,DEM,419,300,0,0,0,9,110
+McCormick,McCormick No. 1,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,Probate Judge,,John H Gray,REP,118,66,0,0,0,1,51
+McCormick,McCormick No. 2,Probate Judge,,ErNiko Brown,DEM,335,242,0,0,0,8,85
+McCormick,McCormick No. 2,Probate Judge,,Write-In,NON,1,1,0,0,0,0,0
+McCormick,Modoc,Probate Judge,,John H Gray,REP,192,63,0,0,0,2,127
+McCormick,Modoc,Probate Judge,,ErNiko Brown,DEM,17,7,0,0,0,0,10
+McCormick,Modoc,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Monticello,Probate Judge,,John H Gray,REP,532,351,0,0,0,9,172
+McCormick,Monticello,Probate Judge,,ErNiko Brown,DEM,142,113,0,0,0,6,23
+McCormick,Monticello,Probate Judge,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Mt. Carmel,Probate Judge,,John H Gray,REP,20,4,0,0,0,1,15
+McCormick,Mt. Carmel,Probate Judge,,ErNiko Brown,DEM,94,29,0,0,0,4,61
+McCormick,Mt. Carmel,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,Probate Judge,,John H Gray,REP,109,23,0,0,0,0,86
+McCormick,Parksville,Probate Judge,,ErNiko Brown,DEM,31,17,0,0,0,1,13
+McCormick,Parksville,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Plum Branch,Probate Judge,,John H Gray,REP,230,89,0,0,0,6,135
+McCormick,Plum Branch,Probate Judge,,ErNiko Brown,DEM,301,202,0,0,0,2,97
+McCormick,Plum Branch,Probate Judge,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Provisional,Probate Judge,,John H Gray,REP,1,0,0,1,0,0,0
+McCormick,Provisional,Probate Judge,,ErNiko Brown,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,Probate Judge,,John H Gray,REP,1566,1030,0,0,0,30,506
+McCormick,Savannah,Probate Judge,,ErNiko Brown,DEM,433,361,0,0,0,15,57
+McCormick,Savannah,Probate Judge,,Write-In,NON,3,1,0,0,0,0,2
+McCormick,Willington,Probate Judge,,John H Gray,REP,72,29,0,0,0,3,40
+McCormick,Willington,Probate Judge,,ErNiko Brown,DEM,82,50,0,0,0,6,26
+McCormick,Willington,Probate Judge,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Bethany,School Board At Large,,Alysia N Garrett,NON,96,49,0,0,0,1,46
+McCormick,Bethany,School Board At Large,,Fred Jackson,NON,52,14,0,0,0,0,38
+McCormick,Bethany,School Board At Large,,John McCullough,NON,26,10,0,0,0,0,16
+McCormick,Bethany,School Board At Large,,RosaLee Riggins,NON,49,26,0,0,0,0,23
+McCormick,Bethany,School Board At Large,,Millie Roux,NON,36,21,0,0,0,0,15
+McCormick,Bethany,School Board At Large,,Jamie Strickland,NON,63,24,0,0,0,0,39
+McCormick,Bethany,School Board At Large,,Talisa Thomas,NON,61,34,0,0,0,1,26
+McCormick,Bethany,School Board At Large,,Write-In,NON,7,1,0,0,0,0,6
+McCormick,Clark's Hill,School Board At Large,,Alysia N Garrett,NON,100,31,0,0,0,0,69
+McCormick,Clark's Hill,School Board At Large,,Fred Jackson,NON,60,21,0,0,0,0,39
+McCormick,Clark's Hill,School Board At Large,,John McCullough,NON,70,26,0,0,0,0,44
+McCormick,Clark's Hill,School Board At Large,,RosaLee Riggins,NON,65,25,0,0,0,0,40
+McCormick,Clark's Hill,School Board At Large,,Millie Roux,NON,27,8,0,0,0,0,19
+McCormick,Clark's Hill,School Board At Large,,Jamie Strickland,NON,86,36,0,0,0,0,50
+McCormick,Clark's Hill,School Board At Large,,Talisa Thomas,NON,62,19,0,0,0,0,43
+McCormick,Clark's Hill,School Board At Large,,Write-In,NON,7,2,0,0,0,0,5
+McCormick,Failsafe,School Board At Large,,Alysia N Garrett,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,School Board At Large,,Fred Jackson,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,School Board At Large,,John McCullough,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,School Board At Large,,RosaLee Riggins,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,School Board At Large,,Millie Roux,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,School Board At Large,,Jamie Strickland,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,School Board At Large,,Talisa Thomas,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,School Board At Large,,Alysia N Garrett,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,School Board At Large,,Fred Jackson,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,School Board At Large,,John McCullough,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,School Board At Large,,RosaLee Riggins,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,School Board At Large,,Millie Roux,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,School Board At Large,,Jamie Strickland,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,School Board At Large,,Talisa Thomas,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,School Board At Large,,Alysia N Garrett,NON,267,169,0,0,0,4,94
+McCormick,McCormick No. 1,School Board At Large,,Fred Jackson,NON,153,102,0,0,0,0,51
+McCormick,McCormick No. 1,School Board At Large,,John McCullough,NON,125,75,0,0,0,0,50
+McCormick,McCormick No. 1,School Board At Large,,RosaLee Riggins,NON,156,106,0,0,0,1,49
+McCormick,McCormick No. 1,School Board At Large,,Millie Roux,NON,121,89,0,0,0,5,27
+McCormick,McCormick No. 1,School Board At Large,,Jamie Strickland,NON,245,166,0,0,0,0,79
+McCormick,McCormick No. 1,School Board At Large,,Talisa Thomas,NON,221,149,0,0,0,5,67
+McCormick,McCormick No. 1,School Board At Large,,Write-In,NON,21,15,0,0,0,0,6
+McCormick,McCormick No. 2,School Board At Large,,Alysia N Garrett,NON,193,126,0,0,0,3,64
+McCormick,McCormick No. 2,School Board At Large,,Fred Jackson,NON,109,67,0,0,0,1,41
+McCormick,McCormick No. 2,School Board At Large,,John McCullough,NON,81,55,0,0,0,0,26
+McCormick,McCormick No. 2,School Board At Large,,RosaLee Riggins,NON,106,75,0,0,0,3,28
+McCormick,McCormick No. 2,School Board At Large,,Millie Roux,NON,105,79,0,0,0,5,21
+McCormick,McCormick No. 2,School Board At Large,,Jamie Strickland,NON,148,94,0,0,0,5,49
+McCormick,McCormick No. 2,School Board At Large,,Talisa Thomas,NON,174,126,0,0,0,5,43
+McCormick,McCormick No. 2,School Board At Large,,Write-In,NON,14,10,0,0,0,0,4
+McCormick,Modoc,School Board At Large,,Alysia N Garrett,NON,22,7,0,0,0,0,15
+McCormick,Modoc,School Board At Large,,Fred Jackson,NON,74,30,0,0,0,2,42
+McCormick,Modoc,School Board At Large,,John McCullough,NON,56,21,0,0,0,2,33
+McCormick,Modoc,School Board At Large,,RosaLee Riggins,NON,31,13,0,0,0,2,16
+McCormick,Modoc,School Board At Large,,Millie Roux,NON,9,2,0,0,0,0,7
+McCormick,Modoc,School Board At Large,,Jamie Strickland,NON,56,18,0,0,0,0,38
+McCormick,Modoc,School Board At Large,,Talisa Thomas,NON,11,3,0,0,0,0,8
+McCormick,Modoc,School Board At Large,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Monticello,School Board At Large,,Alysia N Garrett,NON,99,59,0,0,0,4,36
+McCormick,Monticello,School Board At Large,,Fred Jackson,NON,235,159,0,0,0,2,74
+McCormick,Monticello,School Board At Large,,John McCullough,NON,218,149,0,0,0,3,66
+McCormick,Monticello,School Board At Large,,RosaLee Riggins,NON,228,160,0,0,0,5,63
+McCormick,Monticello,School Board At Large,,Millie Roux,NON,141,94,0,0,0,5,42
+McCormick,Monticello,School Board At Large,,Jamie Strickland,NON,306,203,0,0,0,6,97
+McCormick,Monticello,School Board At Large,,Talisa Thomas,NON,126,98,0,0,0,3,25
+McCormick,Monticello,School Board At Large,,Write-In,NON,7,3,0,0,0,0,4
+McCormick,Mt. Carmel,School Board At Large,,Alysia N Garrett,NON,36,14,0,0,0,2,20
+McCormick,Mt. Carmel,School Board At Large,,Fred Jackson,NON,18,4,0,0,0,2,12
+McCormick,Mt. Carmel,School Board At Large,,John McCullough,NON,10,3,0,0,0,0,7
+McCormick,Mt. Carmel,School Board At Large,,RosaLee Riggins,NON,12,3,0,0,0,0,9
+McCormick,Mt. Carmel,School Board At Large,,Millie Roux,NON,45,10,0,0,0,2,33
+McCormick,Mt. Carmel,School Board At Large,,Jamie Strickland,NON,25,7,0,0,0,3,15
+McCormick,Mt. Carmel,School Board At Large,,Talisa Thomas,NON,32,13,0,0,0,4,15
+McCormick,Mt. Carmel,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,School Board At Large,,Alysia N Garrett,NON,26,9,0,0,0,0,17
+McCormick,Parksville,School Board At Large,,Fred Jackson,NON,60,14,0,0,0,0,46
+McCormick,Parksville,School Board At Large,,John McCullough,NON,55,12,0,0,0,0,43
+McCormick,Parksville,School Board At Large,,RosaLee Riggins,NON,18,6,0,0,0,0,12
+McCormick,Parksville,School Board At Large,,Millie Roux,NON,13,4,0,0,0,0,9
+McCormick,Parksville,School Board At Large,,Jamie Strickland,NON,71,22,0,0,0,0,49
+McCormick,Parksville,School Board At Large,,Talisa Thomas,NON,21,7,0,0,0,0,14
+McCormick,Parksville,School Board At Large,,Write-In,NON,5,1,0,0,0,0,4
+McCormick,Plum Branch,School Board At Large,,Alysia N Garrett,NON,168,105,0,0,0,3,60
+McCormick,Plum Branch,School Board At Large,,Fred Jackson,NON,141,62,0,0,0,1,78
+McCormick,Plum Branch,School Board At Large,,John McCullough,NON,88,36,0,0,0,2,50
+McCormick,Plum Branch,School Board At Large,,RosaLee Riggins,NON,106,61,0,0,0,3,42
+McCormick,Plum Branch,School Board At Large,,Millie Roux,NON,103,68,0,0,0,0,35
+McCormick,Plum Branch,School Board At Large,,Jamie Strickland,NON,231,104,0,0,0,2,125
+McCormick,Plum Branch,School Board At Large,,Talisa Thomas,NON,159,99,0,0,0,4,56
+McCormick,Plum Branch,School Board At Large,,Write-In,NON,21,14,0,0,0,0,7
+McCormick,Provisional,School Board At Large,,Alysia N Garrett,NON,0,0,0,0,0,0,0
+McCormick,Provisional,School Board At Large,,Fred Jackson,NON,1,0,0,1,0,0,0
+McCormick,Provisional,School Board At Large,,John McCullough,NON,0,0,0,0,0,0,0
+McCormick,Provisional,School Board At Large,,RosaLee Riggins,NON,1,0,0,1,0,0,0
+McCormick,Provisional,School Board At Large,,Millie Roux,NON,0,0,0,0,0,0,0
+McCormick,Provisional,School Board At Large,,Jamie Strickland,NON,1,0,0,1,0,0,0
+McCormick,Provisional,School Board At Large,,Talisa Thomas,NON,0,0,0,0,0,0,0
+McCormick,Provisional,School Board At Large,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,School Board At Large,,Alysia N Garrett,NON,265,189,0,0,0,11,65
+McCormick,Savannah,School Board At Large,,Fred Jackson,NON,698,496,0,0,0,10,192
+McCormick,Savannah,School Board At Large,,John McCullough,NON,635,436,0,0,0,12,187
+McCormick,Savannah,School Board At Large,,RosaLee Riggins,NON,743,547,0,0,0,19,177
+McCormick,Savannah,School Board At Large,,Millie Roux,NON,460,345,0,0,0,10,105
+McCormick,Savannah,School Board At Large,,Jamie Strickland,NON,843,578,0,0,0,17,248
+McCormick,Savannah,School Board At Large,,Talisa Thomas,NON,294,218,0,0,0,8,68
+McCormick,Savannah,School Board At Large,,Write-In,NON,23,18,0,0,0,1,4
+McCormick,Willington,School Board At Large,,Alysia N Garrett,NON,44,18,0,0,0,0,26
+McCormick,Willington,School Board At Large,,Fred Jackson,NON,32,18,0,0,0,0,14
+McCormick,Willington,School Board At Large,,John McCullough,NON,34,6,0,0,0,1,27
+McCormick,Willington,School Board At Large,,RosaLee Riggins,NON,25,17,0,0,0,0,8
+McCormick,Willington,School Board At Large,,Millie Roux,NON,50,29,0,0,0,6,15
+McCormick,Willington,School Board At Large,,Jamie Strickland,NON,61,23,0,0,0,1,37
+McCormick,Willington,School Board At Large,,Talisa Thomas,NON,29,17,0,0,0,0,12
+McCormick,Willington,School Board At Large,,Write-In,NON,2,0,0,0,0,0,2
+McCormick,Bethany,School District Referendum,,"Yes, in Favor of the Question",NON,111,50,0,0,0,1,60
+McCormick,Bethany,School District Referendum,,"No, Opposed to the Question",NON,53,18,0,0,0,0,35
+McCormick,Clark's Hill,School District Referendum,,"Yes, in Favor of the Question",NON,167,62,0,0,0,0,105
+McCormick,Clark's Hill,School District Referendum,,"No, Opposed to the Question",NON,76,30,0,0,0,0,46
+McCormick,Failsafe,School District Referendum,,"Yes, in Favor of the Question",NON,0,0,0,0,0,0,0
+McCormick,Failsafe,School District Referendum,,"No, Opposed to the Question",NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,School District Referendum,,"Yes, in Favor of the Question",NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,School District Referendum,,"No, Opposed to the Question",NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,School District Referendum,,"Yes, in Favor of the Question",NON,335,213,0,0,0,5,117
+McCormick,McCormick No. 1,School District Referendum,,"No, Opposed to the Question",NON,220,148,0,0,0,2,70
+McCormick,McCormick No. 2,School District Referendum,,"Yes, in Favor of the Question",NON,254,175,0,0,0,7,72
+McCormick,McCormick No. 2,School District Referendum,,"No, Opposed to the Question",NON,127,82,0,0,0,1,44
+McCormick,Modoc,School District Referendum,,"Yes, in Favor of the Question",NON,64,25,0,0,0,0,39
+McCormick,Modoc,School District Referendum,,"No, Opposed to the Question",NON,124,36,0,0,0,3,85
+McCormick,Monticello,School District Referendum,,"Yes, in Favor of the Question",NON,233,169,0,0,0,5,59
+McCormick,Monticello,School District Referendum,,"No, Opposed to the Question",NON,386,258,0,0,0,8,120
+McCormick,Mt. Carmel,School District Referendum,,"Yes, in Favor of the Question",NON,75,24,0,0,0,2,49
+McCormick,Mt. Carmel,School District Referendum,,"No, Opposed to the Question",NON,15,3,0,0,0,3,9
+McCormick,Parksville,School District Referendum,,"Yes, in Favor of the Question",NON,75,22,0,0,0,1,52
+McCormick,Parksville,School District Referendum,,"No, Opposed to the Question",NON,56,12,0,0,0,0,44
+McCormick,Plum Branch,School District Referendum,,"Yes, in Favor of the Question",NON,244,152,0,0,0,3,89
+McCormick,Plum Branch,School District Referendum,,"No, Opposed to the Question",NON,189,75,0,0,0,4,110
+McCormick,Provisional,School District Referendum,,"Yes, in Favor of the Question",NON,0,0,0,0,0,0,0
+McCormick,Provisional,School District Referendum,,"No, Opposed to the Question",NON,1,0,0,1,0,0,0
+McCormick,Savannah,School District Referendum,,"Yes, in Favor of the Question",NON,590,399,0,0,0,18,173
+McCormick,Savannah,School District Referendum,,"No, Opposed to the Question",NON,1229,867,0,0,0,16,346
+McCormick,Willington,School District Referendum,,"Yes, in Favor of the Question",NON,73,37,0,0,0,6,30
+McCormick,Willington,School District Referendum,,"No, Opposed to the Question",NON,59,25,0,0,0,2,32
+McCormick,Bethany,Secretary of State,,Mark Hammond,REP,51,12,0,0,0,0,39
+McCormick,Bethany,Secretary of State,,Jason Belton,DEM,153,81,0,0,0,1,71
+McCormick,Bethany,Secretary of State,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Clark's Hill,Secretary of State,,Mark Hammond,REP,143,63,0,0,0,0,80
+McCormick,Clark's Hill,Secretary of State,,Jason Belton,DEM,153,48,0,0,0,1,104
+McCormick,Clark's Hill,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,Secretary of State,,Mark Hammond,REP,0,0,0,0,0,0,0
+McCormick,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Secretary of State,,Mark Hammond,REP,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,Secretary of State,,Mark Hammond,REP,243,141,0,0,0,2,100
+McCormick,McCormick No. 1,Secretary of State,,Jason Belton,DEM,433,310,0,0,0,9,114
+McCormick,McCormick No. 1,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,Secretary of State,,Mark Hammond,REP,109,58,0,0,0,0,51
+McCormick,McCormick No. 2,Secretary of State,,Jason Belton,DEM,340,248,0,0,0,9,83
+McCormick,McCormick No. 2,Secretary of State,,Write-In,NON,2,2,0,0,0,0,0
+McCormick,Modoc,Secretary of State,,Mark Hammond,REP,184,61,0,0,0,2,121
+McCormick,Modoc,Secretary of State,,Jason Belton,DEM,23,9,0,0,0,0,14
+McCormick,Modoc,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Monticello,Secretary of State,,Mark Hammond,REP,485,317,0,0,0,9,159
+McCormick,Monticello,Secretary of State,,Jason Belton,DEM,192,149,0,0,0,7,36
+McCormick,Monticello,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,Secretary of State,,Mark Hammond,REP,18,2,0,0,0,1,15
+McCormick,Mt. Carmel,Secretary of State,,Jason Belton,DEM,94,30,0,0,0,4,60
+McCormick,Mt. Carmel,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,Secretary of State,,Mark Hammond,REP,108,24,0,0,0,0,84
+McCormick,Parksville,Secretary of State,,Jason Belton,DEM,30,16,0,0,0,1,13
+McCormick,Parksville,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Plum Branch,Secretary of State,,Mark Hammond,REP,227,85,0,0,0,4,138
+McCormick,Plum Branch,Secretary of State,,Jason Belton,DEM,308,207,0,0,0,4,97
+McCormick,Plum Branch,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Provisional,Secretary of State,,Mark Hammond,REP,1,0,0,1,0,0,0
+McCormick,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,Secretary of State,,Mark Hammond,REP,1453,936,0,0,0,25,492
+McCormick,Savannah,Secretary of State,,Jason Belton,DEM,543,451,0,0,0,20,72
+McCormick,Savannah,Secretary of State,,Write-In,NON,1,1,0,0,0,0,0
+McCormick,Willington,Secretary of State,,Mark Hammond,REP,70,28,0,0,0,3,39
+McCormick,Willington,Secretary of State,,Jason Belton,DEM,83,49,0,0,0,6,28
+McCormick,Willington,Secretary of State,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Bethany,Soil and Water District Commission,,Julie Davis,NON,71,39,0,0,0,0,32
+McCormick,Bethany,Soil and Water District Commission,,Edward Deason,NON,87,34,0,0,0,1,52
+McCormick,Bethany,Soil and Water District Commission,,Write-In,NON,2,0,0,0,0,0,2
+McCormick,Clark's Hill,Soil and Water District Commission,,Julie Davis,NON,109,41,0,0,0,0,68
+McCormick,Clark's Hill,Soil and Water District Commission,,Edward Deason,NON,73,31,0,0,0,0,42
+McCormick,Clark's Hill,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Failsafe,Soil and Water District Commission,,Julie Davis,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,Soil and Water District Commission,,Edward Deason,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Soil and Water District Commission,,Julie Davis,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Soil and Water District Commission,,Edward Deason,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,Soil and Water District Commission,,Julie Davis,NON,238,154,0,0,0,1,83
+McCormick,McCormick No. 1,Soil and Water District Commission,,Edward Deason,NON,324,209,0,0,0,3,112
+McCormick,McCormick No. 1,Soil and Water District Commission,,Write-In,NON,2,1,0,0,0,0,1
+McCormick,McCormick No. 2,Soil and Water District Commission,,Julie Davis,NON,172,119,0,0,0,4,49
+McCormick,McCormick No. 2,Soil and Water District Commission,,Edward Deason,NON,184,127,0,0,0,5,52
+McCormick,McCormick No. 2,Soil and Water District Commission,,Write-In,NON,1,1,0,0,0,0,0
+McCormick,Modoc,Soil and Water District Commission,,Julie Davis,NON,62,23,0,0,0,0,39
+McCormick,Modoc,Soil and Water District Commission,,Edward Deason,NON,79,24,0,0,0,0,55
+McCormick,Modoc,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Monticello,Soil and Water District Commission,,Julie Davis,NON,260,176,0,0,0,8,76
+McCormick,Monticello,Soil and Water District Commission,,Edward Deason,NON,297,212,0,0,0,1,84
+McCormick,Monticello,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,Soil and Water District Commission,,Julie Davis,NON,32,11,0,0,0,1,20
+McCormick,Mt. Carmel,Soil and Water District Commission,,Edward Deason,NON,31,9,0,0,0,3,19
+McCormick,Mt. Carmel,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,Soil and Water District Commission,,Julie Davis,NON,51,12,0,0,0,0,39
+McCormick,Parksville,Soil and Water District Commission,,Edward Deason,NON,74,12,0,0,0,0,62
+McCormick,Parksville,Soil and Water District Commission,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Plum Branch,Soil and Water District Commission,,Julie Davis,NON,147,83,0,0,0,1,63
+McCormick,Plum Branch,Soil and Water District Commission,,Edward Deason,NON,245,112,0,0,0,3,130
+McCormick,Plum Branch,Soil and Water District Commission,,Write-In,NON,4,1,0,0,0,0,3
+McCormick,Provisional,Soil and Water District Commission,,Julie Davis,NON,0,0,0,0,0,0,0
+McCormick,Provisional,Soil and Water District Commission,,Edward Deason,NON,0,0,0,0,0,0,0
+McCormick,Provisional,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,Soil and Water District Commission,,Julie Davis,NON,788,543,0,0,0,27,218
+McCormick,Savannah,Soil and Water District Commission,,Edward Deason,NON,885,620,0,0,0,25,240
+McCormick,Savannah,Soil and Water District Commission,,Write-In,NON,5,5,0,0,0,0,0
+McCormick,Willington,Soil and Water District Commission,,Julie Davis,NON,42,24,0,0,0,2,16
+McCormick,Willington,Soil and Water District Commission,,Edward Deason,NON,64,30,0,0,0,5,29
+McCormick,Willington,Soil and Water District Commission,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Bethany,State House,12,Daniel Gibson,REP,53,12,0,0,0,0,41
+McCormick,Bethany,State House,12,Jumelle Brooks,DEM,153,82,0,0,0,1,70
+McCormick,Bethany,State House,12,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Clark's Hill,State House,12,Daniel Gibson,REP,145,63,0,0,0,0,82
+McCormick,Clark's Hill,State House,12,Jumelle Brooks,DEM,150,48,0,0,0,1,101
+McCormick,Clark's Hill,State House,12,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,State House,12,Daniel Gibson,REP,0,0,0,0,0,0,0
+McCormick,Failsafe,State House,12,Jumelle Brooks,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,State House,12,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,State House,12,Daniel Gibson,REP,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,State House,12,Jumelle Brooks,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,State House,12,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,State House,12,Daniel Gibson,REP,239,142,0,0,0,2,95
+McCormick,McCormick No. 1,State House,12,Jumelle Brooks,DEM,433,307,0,0,0,9,117
+McCormick,McCormick No. 1,State House,12,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,State House,12,Daniel Gibson,REP,104,55,0,0,0,0,49
+McCormick,McCormick No. 2,State House,12,Jumelle Brooks,DEM,348,254,0,0,0,9,85
+McCormick,McCormick No. 2,State House,12,Write-In,NON,1,1,0,0,0,0,0
+McCormick,Modoc,State House,12,Daniel Gibson,REP,186,61,0,0,0,2,123
+McCormick,Modoc,State House,12,Jumelle Brooks,DEM,23,9,0,0,0,0,14
+McCormick,Modoc,State House,12,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Monticello,State House,12,Daniel Gibson,REP,485,318,0,0,0,10,157
+McCormick,Monticello,State House,12,Jumelle Brooks,DEM,193,148,0,0,0,6,39
+McCormick,Monticello,State House,12,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,State House,12,Daniel Gibson,REP,20,3,0,0,0,1,16
+McCormick,Mt. Carmel,State House,12,Jumelle Brooks,DEM,94,30,0,0,0,4,60
+McCormick,Mt. Carmel,State House,12,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,State House,12,Daniel Gibson,REP,111,24,0,0,0,0,87
+McCormick,Parksville,State House,12,Jumelle Brooks,DEM,28,16,0,0,0,1,11
+McCormick,Parksville,State House,12,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Plum Branch,State House,12,Daniel Gibson,REP,230,83,0,0,0,4,143
+McCormick,Plum Branch,State House,12,Jumelle Brooks,DEM,308,210,0,0,0,4,94
+McCormick,Plum Branch,State House,12,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Provisional,State House,12,Daniel Gibson,REP,1,0,0,1,0,0,0
+McCormick,Provisional,State House,12,Jumelle Brooks,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,State House,12,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,State House,12,Daniel Gibson,REP,1430,927,0,0,0,24,479
+McCormick,Savannah,State House,12,Jumelle Brooks,DEM,570,466,0,0,0,19,85
+McCormick,Savannah,State House,12,Write-In,NON,2,1,0,0,0,1,0
+McCormick,Willington,State House,12,Daniel Gibson,REP,67,26,0,0,0,3,38
+McCormick,Willington,State House,12,Jumelle Brooks,DEM,87,53,0,0,0,6,28
+McCormick,Willington,State House,12,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Bethany,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+McCormick,Bethany,State Superintendent of Education,,Ellen Weaver,REP,52,13,0,0,0,0,39
+McCormick,Bethany,State Superintendent of Education,,Sylvia Wright,DEM,151,80,0,0,0,1,70
+McCormick,Bethany,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Clark's Hill,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,0,0,0,0,0,1
+McCormick,Clark's Hill,State Superintendent of Education,,Ellen Weaver,REP,144,62,0,0,0,0,82
+McCormick,Clark's Hill,State Superintendent of Education,,Sylvia Wright,DEM,149,48,0,0,0,1,100
+McCormick,Clark's Hill,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+McCormick,Failsafe,State Superintendent of Education,,Ellen Weaver,REP,0,0,0,0,0,0,0
+McCormick,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,State Superintendent of Education,,Ellen Weaver,REP,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,State Superintendent of Education,,Baba Amin Ojuok,UNC,6,2,0,0,0,0,4
+McCormick,McCormick No. 1,State Superintendent of Education,,Ellen Weaver,REP,235,140,0,0,0,2,93
+McCormick,McCormick No. 1,State Superintendent of Education,,Sylvia Wright,DEM,433,309,0,0,0,9,115
+McCormick,McCormick No. 1,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,State Superintendent of Education,,Baba Amin Ojuok,UNC,4,3,0,0,0,0,1
+McCormick,McCormick No. 2,State Superintendent of Education,,Ellen Weaver,REP,106,56,0,0,0,0,50
+McCormick,McCormick No. 2,State Superintendent of Education,,Sylvia Wright,DEM,340,250,0,0,0,9,81
+McCormick,McCormick No. 2,State Superintendent of Education,,Write-In,NON,3,1,0,0,0,0,2
+McCormick,Modoc,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+McCormick,Modoc,State Superintendent of Education,,Ellen Weaver,REP,186,60,0,0,0,2,124
+McCormick,Modoc,State Superintendent of Education,,Sylvia Wright,DEM,23,10,0,0,0,0,13
+McCormick,Modoc,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Monticello,State Superintendent of Education,,Baba Amin Ojuok,UNC,1,1,0,0,0,0,0
+McCormick,Monticello,State Superintendent of Education,,Ellen Weaver,REP,482,315,0,0,0,10,157
+McCormick,Monticello,State Superintendent of Education,,Sylvia Wright,DEM,193,148,0,0,0,6,39
+McCormick,Monticello,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,0,0,0,0,0,3
+McCormick,Mt. Carmel,State Superintendent of Education,,Ellen Weaver,REP,18,2,0,0,0,1,15
+McCormick,Mt. Carmel,State Superintendent of Education,,Sylvia Wright,DEM,93,31,0,0,0,4,58
+McCormick,Mt. Carmel,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,1,0,0,0,0,1
+McCormick,Parksville,State Superintendent of Education,,Ellen Weaver,REP,106,23,0,0,0,0,83
+McCormick,Parksville,State Superintendent of Education,,Sylvia Wright,DEM,28,15,0,0,0,1,12
+McCormick,Parksville,State Superintendent of Education,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Plum Branch,State Superintendent of Education,,Baba Amin Ojuok,UNC,3,1,0,0,0,0,2
+McCormick,Plum Branch,State Superintendent of Education,,Ellen Weaver,REP,225,84,0,0,0,4,137
+McCormick,Plum Branch,State Superintendent of Education,,Sylvia Wright,DEM,304,204,0,0,0,4,96
+McCormick,Plum Branch,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Provisional,State Superintendent of Education,,Baba Amin Ojuok,UNC,0,0,0,0,0,0,0
+McCormick,Provisional,State Superintendent of Education,,Ellen Weaver,REP,1,0,0,1,0,0,0
+McCormick,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,State Superintendent of Education,,Baba Amin Ojuok,UNC,8,6,0,0,0,0,2
+McCormick,Savannah,State Superintendent of Education,,Ellen Weaver,REP,1425,922,0,0,0,26,477
+McCormick,Savannah,State Superintendent of Education,,Sylvia Wright,DEM,561,459,0,0,0,19,83
+McCormick,Savannah,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Willington,State Superintendent of Education,,Baba Amin Ojuok,UNC,2,1,0,0,0,0,1
+McCormick,Willington,State Superintendent of Education,,Ellen Weaver,REP,67,26,0,0,0,3,38
+McCormick,Willington,State Superintendent of Education,,Sylvia Wright,DEM,87,51,0,0,0,6,30
+McCormick,Willington,State Superintendent of Education,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Bethany,State Treasurer,,Curtis Loftis,REP,50,12,0,0,0,0,38
+McCormick,Bethany,State Treasurer,,Vincent Coe,DEM,151,81,0,0,0,1,69
+McCormick,Bethany,State Treasurer,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Clark's Hill,State Treasurer,,Curtis Loftis,REP,145,63,0,0,0,0,82
+McCormick,Clark's Hill,State Treasurer,,Vincent Coe,DEM,150,48,0,0,0,1,101
+McCormick,Clark's Hill,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,State Treasurer,,Curtis Loftis,REP,0,0,0,0,0,0,0
+McCormick,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,State Treasurer,,Curtis Loftis,REP,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,State Treasurer,,Curtis Loftis,REP,242,143,0,0,0,2,97
+McCormick,McCormick No. 1,State Treasurer,,Vincent Coe,DEM,433,308,0,0,0,9,116
+McCormick,McCormick No. 1,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,State Treasurer,,Curtis Loftis,REP,107,57,0,0,0,0,50
+McCormick,McCormick No. 2,State Treasurer,,Vincent Coe,DEM,341,250,0,0,0,9,82
+McCormick,McCormick No. 2,State Treasurer,,Write-In,NON,2,2,0,0,0,0,0
+McCormick,Modoc,State Treasurer,,Curtis Loftis,REP,187,61,0,0,0,2,124
+McCormick,Modoc,State Treasurer,,Vincent Coe,DEM,21,9,0,0,0,0,12
+McCormick,Modoc,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Monticello,State Treasurer,,Curtis Loftis,REP,478,315,0,0,0,9,154
+McCormick,Monticello,State Treasurer,,Vincent Coe,DEM,196,150,0,0,0,7,39
+McCormick,Monticello,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,State Treasurer,,Curtis Loftis,REP,19,2,0,0,0,1,16
+McCormick,Mt. Carmel,State Treasurer,,Vincent Coe,DEM,94,31,0,0,0,4,59
+McCormick,Mt. Carmel,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,State Treasurer,,Curtis Loftis,REP,108,24,0,0,0,0,84
+McCormick,Parksville,State Treasurer,,Vincent Coe,DEM,29,16,0,0,0,1,12
+McCormick,Parksville,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Plum Branch,State Treasurer,,Curtis Loftis,REP,227,82,0,0,0,4,141
+McCormick,Plum Branch,State Treasurer,,Vincent Coe,DEM,308,211,0,0,0,4,93
+McCormick,Plum Branch,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Provisional,State Treasurer,,Curtis Loftis,REP,1,0,0,1,0,0,0
+McCormick,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,State Treasurer,,Curtis Loftis,REP,1427,926,0,0,0,24,477
+McCormick,Savannah,State Treasurer,,Vincent Coe,DEM,572,464,0,0,0,20,88
+McCormick,Savannah,State Treasurer,,Write-In,NON,1,0,0,0,0,1,0
+McCormick,Willington,State Treasurer,,Curtis Loftis,REP,73,31,0,0,0,3,39
+McCormick,Willington,State Treasurer,,Vincent Coe,DEM,81,47,0,0,0,6,28
+McCormick,Willington,State Treasurer,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Bethany,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+McCormick,Bethany,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+McCormick,Bethany,Straight Party,,Republican,REP,28,10,0,0,0,0,18
+McCormick,Bethany,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+McCormick,Bethany,Straight Party,,Democratic,DEM,125,67,0,0,0,1,57
+McCormick,Bethany,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+McCormick,Clark's Hill,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+McCormick,Clark's Hill,Straight Party,,Green,GRN,2,0,0,0,0,0,2
+McCormick,Clark's Hill,Straight Party,,Republican,REP,80,39,0,0,0,0,41
+McCormick,Clark's Hill,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+McCormick,Clark's Hill,Straight Party,,Democratic,DEM,118,37,0,0,0,1,80
+McCormick,Clark's Hill,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+McCormick,Failsafe,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+McCormick,Failsafe,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+McCormick,Failsafe,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+McCormick,Failsafe,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+McCormick,Failsafe,Straight Party,,Democratic,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Straight Party,,Republican,REP,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Straight Party,,Democratic,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,Straight Party,,United Citizens,UNC,4,2,0,0,0,0,2
+McCormick,McCormick No. 1,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,Straight Party,,Republican,REP,125,73,0,0,0,2,50
+McCormick,McCormick No. 1,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,Straight Party,,Democratic,DEM,327,240,0,0,0,6,81
+McCormick,McCormick No. 1,Straight Party,,Constitution,CON,1,0,0,0,0,0,1
+McCormick,McCormick No. 2,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+McCormick,McCormick No. 2,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,Straight Party,,Republican,REP,50,25,0,0,0,0,25
+McCormick,McCormick No. 2,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,Straight Party,,Democratic,DEM,255,187,0,0,0,7,61
+McCormick,McCormick No. 2,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+McCormick,Modoc,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+McCormick,Modoc,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+McCormick,Modoc,Straight Party,,Republican,REP,103,38,0,0,0,2,63
+McCormick,Modoc,Straight Party,,Libertarian,LIB,1,0,0,0,0,1,0
+McCormick,Modoc,Straight Party,,Democratic,DEM,9,3,0,0,0,0,6
+McCormick,Modoc,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+McCormick,Monticello,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+McCormick,Monticello,Straight Party,,Green,GRN,2,1,0,0,0,0,1
+McCormick,Monticello,Straight Party,,Republican,REP,302,208,0,0,0,5,89
+McCormick,Monticello,Straight Party,,Libertarian,LIB,3,2,0,0,0,0,1
+McCormick,Monticello,Straight Party,,Democratic,DEM,82,66,0,0,0,3,13
+McCormick,Monticello,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,Straight Party,,United Citizens,UNC,2,0,0,0,0,0,2
+McCormick,Mt. Carmel,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,Straight Party,,Republican,REP,12,2,0,0,0,1,9
+McCormick,Mt. Carmel,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,Straight Party,,Democratic,DEM,72,22,0,0,0,4,46
+McCormick,Mt. Carmel,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+McCormick,Parksville,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+McCormick,Parksville,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+McCormick,Parksville,Straight Party,,Republican,REP,37,7,0,0,0,0,30
+McCormick,Parksville,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+McCormick,Parksville,Straight Party,,Democratic,DEM,22,15,0,0,0,1,6
+McCormick,Parksville,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+McCormick,Plum Branch,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+McCormick,Plum Branch,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+McCormick,Plum Branch,Straight Party,,Republican,REP,101,41,0,0,0,4,56
+McCormick,Plum Branch,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+McCormick,Plum Branch,Straight Party,,Democratic,DEM,235,168,0,0,0,2,65
+McCormick,Plum Branch,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+McCormick,Provisional,Straight Party,,United Citizens,UNC,0,0,0,0,0,0,0
+McCormick,Provisional,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+McCormick,Provisional,Straight Party,,Republican,REP,1,0,0,1,0,0,0
+McCormick,Provisional,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+McCormick,Provisional,Straight Party,,Democratic,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+McCormick,Savannah,Straight Party,,United Citizens,UNC,2,1,0,0,0,0,1
+McCormick,Savannah,Straight Party,,Green,GRN,4,2,0,0,0,0,2
+McCormick,Savannah,Straight Party,,Republican,REP,879,577,0,0,0,14,288
+McCormick,Savannah,Straight Party,,Libertarian,LIB,1,0,0,0,0,0,1
+McCormick,Savannah,Straight Party,,Democratic,DEM,268,227,0,0,0,7,34
+McCormick,Savannah,Straight Party,,Constitution,CON,1,1,0,0,0,0,0
+McCormick,Willington,Straight Party,,United Citizens,UNC,1,0,0,0,0,0,1
+McCormick,Willington,Straight Party,,Green,GRN,0,0,0,0,0,0,0
+McCormick,Willington,Straight Party,,Republican,REP,44,18,0,0,0,1,25
+McCormick,Willington,Straight Party,,Libertarian,LIB,0,0,0,0,0,0,0
+McCormick,Willington,Straight Party,,Democratic,DEM,65,37,0,0,0,6,22
+McCormick,Willington,Straight Party,,Constitution,CON,0,0,0,0,0,0,0
+McCormick,Bethany,U.S. House,3,Sheri Biggs,REP,50,12,0,0,0,0,38
+McCormick,Bethany,U.S. House,3,Brian Corriea,LIB,4,1,0,0,0,0,3
+McCormick,Bethany,U.S. House,3,Eunice Lehmacher,DEM,149,79,0,0,0,1,69
+McCormick,Bethany,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Clark's Hill,U.S. House,3,Sheri Biggs,REP,145,63,0,0,0,0,82
+McCormick,Clark's Hill,U.S. House,3,Brian Corriea,LIB,2,0,0,0,0,0,2
+McCormick,Clark's Hill,U.S. House,3,Eunice Lehmacher,DEM,148,47,0,0,0,1,100
+McCormick,Clark's Hill,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe,U.S. House,3,Sheri Biggs,REP,0,0,0,0,0,0,0
+McCormick,Failsafe,U.S. House,3,Brian Corriea,LIB,0,0,0,0,0,0,0
+McCormick,Failsafe,U.S. House,3,Eunice Lehmacher,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,U.S. House,3,Sheri Biggs,REP,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,U.S. House,3,Brian Corriea,LIB,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,U.S. House,3,Eunice Lehmacher,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,U.S. House,3,Sheri Biggs,REP,236,141,0,0,0,2,93
+McCormick,McCormick No. 1,U.S. House,3,Brian Corriea,LIB,12,7,0,0,0,0,5
+McCormick,McCormick No. 1,U.S. House,3,Eunice Lehmacher,DEM,426,301,0,0,0,9,116
+McCormick,McCormick No. 1,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,U.S. House,3,Sheri Biggs,REP,112,59,0,0,0,0,53
+McCormick,McCormick No. 2,U.S. House,3,Brian Corriea,LIB,3,1,0,0,0,0,2
+McCormick,McCormick No. 2,U.S. House,3,Eunice Lehmacher,DEM,337,248,0,0,0,9,80
+McCormick,McCormick No. 2,U.S. House,3,Write-In,NON,1,1,0,0,0,0,0
+McCormick,Modoc,U.S. House,3,Sheri Biggs,REP,188,61,0,0,0,2,125
+McCormick,Modoc,U.S. House,3,Brian Corriea,LIB,1,0,0,0,0,1,0
+McCormick,Modoc,U.S. House,3,Eunice Lehmacher,DEM,21,9,0,0,0,0,12
+McCormick,Modoc,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Monticello,U.S. House,3,Sheri Biggs,REP,474,309,0,0,0,10,155
+McCormick,Monticello,U.S. House,3,Brian Corriea,LIB,18,12,0,0,0,1,5
+McCormick,Monticello,U.S. House,3,Eunice Lehmacher,DEM,184,144,0,0,0,5,35
+McCormick,Monticello,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,U.S. House,3,Sheri Biggs,REP,21,4,0,0,0,1,16
+McCormick,Mt. Carmel,U.S. House,3,Brian Corriea,LIB,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,U.S. House,3,Eunice Lehmacher,DEM,91,28,0,0,0,4,59
+McCormick,Mt. Carmel,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,U.S. House,3,Sheri Biggs,REP,107,23,0,0,0,0,84
+McCormick,Parksville,U.S. House,3,Brian Corriea,LIB,4,1,0,0,0,0,3
+McCormick,Parksville,U.S. House,3,Eunice Lehmacher,DEM,27,15,0,0,0,1,11
+McCormick,Parksville,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Plum Branch,U.S. House,3,Sheri Biggs,REP,221,81,0,0,0,4,136
+McCormick,Plum Branch,U.S. House,3,Brian Corriea,LIB,8,2,0,0,0,0,6
+McCormick,Plum Branch,U.S. House,3,Eunice Lehmacher,DEM,305,210,0,0,0,4,91
+McCormick,Plum Branch,U.S. House,3,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Provisional,U.S. House,3,Sheri Biggs,REP,1,0,0,1,0,0,0
+McCormick,Provisional,U.S. House,3,Brian Corriea,LIB,0,0,0,0,0,0,0
+McCormick,Provisional,U.S. House,3,Eunice Lehmacher,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,U.S. House,3,Sheri Biggs,REP,1424,918,0,0,0,25,481
+McCormick,Savannah,U.S. House,3,Brian Corriea,LIB,27,19,0,0,0,2,6
+McCormick,Savannah,U.S. House,3,Eunice Lehmacher,DEM,553,459,0,0,0,18,76
+McCormick,Savannah,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Willington,U.S. House,3,Sheri Biggs,REP,67,27,0,0,0,3,37
+McCormick,Willington,U.S. House,3,Brian Corriea,LIB,2,2,0,0,0,0,0
+McCormick,Willington,U.S. House,3,Eunice Lehmacher,DEM,83,49,0,0,0,6,28
+McCormick,Willington,U.S. House,3,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Bethany,U.S. Senate,,Darline Graham,REP,48,11,0,0,0,0,37
+McCormick,Bethany,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+McCormick,Bethany,U.S. Senate,,Annie Andrews,DEM,155,83,0,0,0,1,71
+McCormick,Bethany,U.S. Senate,,Mark Hackett,CON,2,0,0,0,0,0,2
+McCormick,Bethany,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Clark's Hill,U.S. Senate,,Darline Graham,REP,135,60,0,0,0,0,75
+McCormick,Clark's Hill,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+McCormick,Clark's Hill,U.S. Senate,,Annie Andrews,DEM,155,50,0,0,0,1,104
+McCormick,Clark's Hill,U.S. Senate,,Mark Hackett,CON,5,1,0,0,0,0,4
+McCormick,Clark's Hill,U.S. Senate,,Write-In,NON,1,0,0,0,0,0,1
+McCormick,Failsafe,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+McCormick,Failsafe,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+McCormick,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+McCormick,Failsafe,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+McCormick,Failsafe Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 1,U.S. Senate,,Darline Graham,REP,217,134,0,0,0,2,81
+McCormick,McCormick No. 1,U.S. Senate,,Kasie Whitener,LIB,6,3,0,0,0,0,3
+McCormick,McCormick No. 1,U.S. Senate,,Annie Andrews,DEM,445,313,0,0,0,9,123
+McCormick,McCormick No. 1,U.S. Senate,,Mark Hackett,CON,10,2,0,0,0,0,8
+McCormick,McCormick No. 1,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,McCormick No. 2,U.S. Senate,,Darline Graham,REP,98,53,0,0,0,0,45
+McCormick,McCormick No. 2,U.S. Senate,,Kasie Whitener,LIB,2,1,0,0,0,0,1
+McCormick,McCormick No. 2,U.S. Senate,,Annie Andrews,DEM,345,251,0,0,0,9,85
+McCormick,McCormick No. 2,U.S. Senate,,Mark Hackett,CON,8,5,0,0,0,0,3
+McCormick,McCormick No. 2,U.S. Senate,,Write-In,NON,1,1,0,0,0,0,0
+McCormick,Modoc,U.S. Senate,,Darline Graham,REP,177,59,0,0,0,2,116
+McCormick,Modoc,U.S. Senate,,Kasie Whitener,LIB,2,0,0,0,0,1,1
+McCormick,Modoc,U.S. Senate,,Annie Andrews,DEM,30,12,0,0,0,0,18
+McCormick,Modoc,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+McCormick,Modoc,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Monticello,U.S. Senate,,Darline Graham,REP,440,287,0,0,0,9,144
+McCormick,Monticello,U.S. Senate,,Kasie Whitener,LIB,11,7,0,0,0,0,4
+McCormick,Monticello,U.S. Senate,,Annie Andrews,DEM,224,169,0,0,0,7,48
+McCormick,Monticello,U.S. Senate,,Mark Hackett,CON,3,2,0,0,0,0,1
+McCormick,Monticello,U.S. Senate,,Write-In,NON,1,1,0,0,0,0,0
+McCormick,Mt. Carmel,U.S. Senate,,Darline Graham,REP,19,2,0,0,0,1,16
+McCormick,Mt. Carmel,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,U.S. Senate,,Annie Andrews,DEM,94,31,0,0,0,4,59
+McCormick,Mt. Carmel,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+McCormick,Mt. Carmel,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Parksville,U.S. Senate,,Darline Graham,REP,97,22,0,0,0,0,75
+McCormick,Parksville,U.S. Senate,,Kasie Whitener,LIB,5,1,0,0,0,0,4
+McCormick,Parksville,U.S. Senate,,Annie Andrews,DEM,30,16,0,0,0,1,13
+McCormick,Parksville,U.S. Senate,,Mark Hackett,CON,5,1,0,0,0,0,4
+McCormick,Parksville,U.S. Senate,,Write-In,NON,2,0,0,0,0,0,2
+McCormick,Plum Branch,U.S. Senate,,Darline Graham,REP,200,75,0,0,0,4,121
+McCormick,Plum Branch,U.S. Senate,,Kasie Whitener,LIB,6,1,0,0,0,0,5
+McCormick,Plum Branch,U.S. Senate,,Annie Andrews,DEM,317,214,0,0,0,4,99
+McCormick,Plum Branch,U.S. Senate,,Mark Hackett,CON,8,2,0,0,0,0,6
+McCormick,Plum Branch,U.S. Senate,,Write-In,NON,3,0,0,0,0,0,3
+McCormick,Provisional,U.S. Senate,,Darline Graham,REP,1,0,0,1,0,0,0
+McCormick,Provisional,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+McCormick,Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+McCormick,Provisional,U.S. Senate,,Mark Hackett,CON,0,0,0,0,0,0,0
+McCormick,Provisional,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
+McCormick,Savannah,U.S. Senate,,Darline Graham,REP,1334,867,0,0,0,22,445
+McCormick,Savannah,U.S. Senate,,Kasie Whitener,LIB,18,10,0,0,0,0,8
+McCormick,Savannah,U.S. Senate,,Annie Andrews,DEM,633,507,0,0,0,21,105
+McCormick,Savannah,U.S. Senate,,Mark Hackett,CON,18,11,0,0,0,0,7
+McCormick,Savannah,U.S. Senate,,Write-In,NON,4,1,0,0,0,2,1
+McCormick,Willington,U.S. Senate,,Darline Graham,REP,63,25,0,0,0,3,35
+McCormick,Willington,U.S. Senate,,Kasie Whitener,LIB,0,0,0,0,0,0,0
+McCormick,Willington,U.S. Senate,,Annie Andrews,DEM,90,54,0,0,0,6,30
+McCormick,Willington,U.S. Senate,,Mark Hackett,CON,2,0,0,0,0,0,2
+McCormick,Willington,U.S. Senate,,Write-In,NON,0,0,0,0,0,0,0
