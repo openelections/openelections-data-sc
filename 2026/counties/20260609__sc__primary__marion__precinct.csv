@@ -1,0 +1,798 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Marion,BRITTON'S NECK,Advisory Question 1,,Yes,REP,60,7,0,0,0,1,52
+Marion,BRITTON'S NECK,Advisory Question 1,,No,REP,3,1,0,0,0,0,2
+Marion,CENTENARY,Advisory Question 1,,Yes,REP,68,10,0,0,0,3,55
+Marion,CENTENARY,Advisory Question 1,,No,REP,7,3,0,0,0,0,4
+Marion,FRIENDSHIP,Advisory Question 1,,Yes,REP,20,2,0,0,0,0,18
+Marion,FRIENDSHIP,Advisory Question 1,,No,REP,3,0,0,0,0,0,3
+Marion,Failsafe,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Marion,MARION NO. 1,Advisory Question 1,,Yes,REP,54,21,0,0,0,1,32
+Marion,MARION NO. 1,Advisory Question 1,,No,REP,13,3,0,0,0,1,9
+Marion,MARION NO. 2,Advisory Question 1,,Yes,REP,173,43,0,0,0,2,128
+Marion,MARION NO. 2,Advisory Question 1,,No,REP,17,4,0,0,0,1,12
+Marion,MARION NORTH,Advisory Question 1,,Yes,REP,99,18,0,0,0,3,78
+Marion,MARION NORTH,Advisory Question 1,,No,REP,18,1,0,0,0,0,17
+Marion,MARION SOUTH,Advisory Question 1,,Yes,REP,100,37,0,0,0,2,61
+Marion,MARION SOUTH,Advisory Question 1,,No,REP,7,4,0,0,0,0,3
+Marion,MARION WEST,Advisory Question 1,,Yes,REP,99,9,0,0,0,0,90
+Marion,MARION WEST,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Marion,N EAST MULLINS,Advisory Question 1,,Yes,REP,97,27,0,0,0,0,70
+Marion,N EAST MULLINS,Advisory Question 1,,No,REP,9,4,0,0,0,0,5
+Marion,N WEST MULLINS,Advisory Question 1,,Yes,REP,57,21,0,0,0,0,36
+Marion,N WEST MULLINS,Advisory Question 1,,No,REP,11,3,0,0,0,0,8
+Marion,NICHOLS,Advisory Question 1,,Yes,REP,65,10,0,0,0,0,55
+Marion,NICHOLS,Advisory Question 1,,No,REP,3,1,0,0,0,0,2
+Marion,Provisional,Advisory Question 1,,Yes,REP,2,0,0,2,0,0,0
+Marion,Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Marion,RAINS,Advisory Question 1,,Yes,REP,43,3,0,0,0,0,40
+Marion,RAINS,Advisory Question 1,,No,REP,4,0,0,0,0,0,4
+Marion,S EAST MULLINS,Advisory Question 1,,Yes,REP,165,52,0,0,0,1,112
+Marion,S EAST MULLINS,Advisory Question 1,,No,REP,45,11,0,0,0,5,29
+Marion,S WEST MULLINS,Advisory Question 1,,Yes,REP,118,36,0,0,0,1,81
+Marion,S WEST MULLINS,Advisory Question 1,,No,REP,9,2,0,0,0,0,7
+Marion,SELLERS,Advisory Question 1,,Yes,REP,9,0,0,0,0,0,9
+Marion,SELLERS,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Marion,TEMPERANCE,Advisory Question 1,,Yes,REP,73,4,0,0,0,0,69
+Marion,TEMPERANCE,Advisory Question 1,,No,REP,9,0,0,0,0,0,9
+Marion,ZION,Advisory Question 1,,Yes,REP,50,9,0,0,0,0,41
+Marion,ZION,Advisory Question 1,,No,REP,2,1,0,0,0,0,1
+Marion,BRITTON'S NECK,Advisory Question 2,,Yes,REP,54,7,0,0,0,1,46
+Marion,BRITTON'S NECK,Advisory Question 2,,No,REP,8,1,0,0,0,0,7
+Marion,CENTENARY,Advisory Question 2,,Yes,REP,62,10,0,0,0,1,51
+Marion,CENTENARY,Advisory Question 2,,No,REP,14,3,0,0,0,2,9
+Marion,FRIENDSHIP,Advisory Question 2,,Yes,REP,17,2,0,0,0,0,15
+Marion,FRIENDSHIP,Advisory Question 2,,No,REP,6,0,0,0,0,0,6
+Marion,Failsafe,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Marion,MARION NO. 1,Advisory Question 2,,Yes,REP,45,17,0,0,0,1,27
+Marion,MARION NO. 1,Advisory Question 2,,No,REP,22,7,0,0,0,1,14
+Marion,MARION NO. 2,Advisory Question 2,,Yes,REP,151,38,0,0,0,1,112
+Marion,MARION NO. 2,Advisory Question 2,,No,REP,41,9,0,0,0,2,30
+Marion,MARION NORTH,Advisory Question 2,,Yes,REP,87,14,0,0,0,3,70
+Marion,MARION NORTH,Advisory Question 2,,No,REP,28,5,0,0,0,0,23
+Marion,MARION SOUTH,Advisory Question 2,,Yes,REP,89,30,0,0,0,2,57
+Marion,MARION SOUTH,Advisory Question 2,,No,REP,17,11,0,0,0,0,6
+Marion,MARION WEST,Advisory Question 2,,Yes,REP,89,8,0,0,0,0,81
+Marion,MARION WEST,Advisory Question 2,,No,REP,10,1,0,0,0,0,9
+Marion,N EAST MULLINS,Advisory Question 2,,Yes,REP,83,27,0,0,0,0,56
+Marion,N EAST MULLINS,Advisory Question 2,,No,REP,23,4,0,0,0,0,19
+Marion,N WEST MULLINS,Advisory Question 2,,Yes,REP,50,17,0,0,0,0,33
+Marion,N WEST MULLINS,Advisory Question 2,,No,REP,18,7,0,0,0,0,11
+Marion,NICHOLS,Advisory Question 2,,Yes,REP,60,6,0,0,0,0,54
+Marion,NICHOLS,Advisory Question 2,,No,REP,8,5,0,0,0,0,3
+Marion,Provisional,Advisory Question 2,,Yes,REP,2,0,0,2,0,0,0
+Marion,Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Marion,RAINS,Advisory Question 2,,Yes,REP,34,3,0,0,0,0,31
+Marion,RAINS,Advisory Question 2,,No,REP,13,0,0,0,0,0,13
+Marion,S EAST MULLINS,Advisory Question 2,,Yes,REP,132,43,0,0,0,2,87
+Marion,S EAST MULLINS,Advisory Question 2,,No,REP,77,20,0,0,0,2,55
+Marion,S WEST MULLINS,Advisory Question 2,,Yes,REP,99,30,0,0,0,1,68
+Marion,S WEST MULLINS,Advisory Question 2,,No,REP,28,8,0,0,0,0,20
+Marion,SELLERS,Advisory Question 2,,Yes,REP,8,0,0,0,0,0,8
+Marion,SELLERS,Advisory Question 2,,No,REP,1,0,0,0,0,0,1
+Marion,TEMPERANCE,Advisory Question 2,,Yes,REP,73,4,0,0,0,0,69
+Marion,TEMPERANCE,Advisory Question 2,,No,REP,9,0,0,0,0,0,9
+Marion,ZION,Advisory Question 2,,Yes,REP,45,8,0,0,0,0,37
+Marion,ZION,Advisory Question 2,,No,REP,7,2,0,0,0,0,5
+Marion,BRITTON'S NECK,Attorney General,,Stephen Goldfinch,REP,42,5,0,0,0,1,36
+Marion,BRITTON'S NECK,Attorney General,,David M Pascoe,REP,6,1,0,0,0,0,5
+Marion,BRITTON'S NECK,Attorney General,,David Stumbo,REP,9,2,0,0,0,0,7
+Marion,CENTENARY,Attorney General,,Stephen Goldfinch,REP,39,4,0,0,0,0,35
+Marion,CENTENARY,Attorney General,,David M Pascoe,REP,14,4,0,0,0,2,8
+Marion,CENTENARY,Attorney General,,David Stumbo,REP,19,5,0,0,0,1,13
+Marion,FRIENDSHIP,Attorney General,,Stephen Goldfinch,REP,18,2,0,0,0,0,16
+Marion,FRIENDSHIP,Attorney General,,David M Pascoe,REP,1,0,0,0,0,0,1
+Marion,FRIENDSHIP,Attorney General,,David Stumbo,REP,4,0,0,0,0,0,4
+Marion,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Marion,MARION NO. 1,Attorney General,,Stephen Goldfinch,REP,31,7,0,0,0,0,24
+Marion,MARION NO. 1,Attorney General,,David M Pascoe,REP,9,5,0,0,0,0,4
+Marion,MARION NO. 1,Attorney General,,David Stumbo,REP,24,12,0,0,0,2,10
+Marion,MARION NO. 2,Attorney General,,Stephen Goldfinch,REP,80,20,0,0,0,0,60
+Marion,MARION NO. 2,Attorney General,,David M Pascoe,REP,22,9,0,0,0,0,13
+Marion,MARION NO. 2,Attorney General,,David Stumbo,REP,90,19,0,0,0,3,68
+Marion,MARION NORTH,Attorney General,,Stephen Goldfinch,REP,60,9,0,0,0,0,51
+Marion,MARION NORTH,Attorney General,,David M Pascoe,REP,11,3,0,0,0,0,8
+Marion,MARION NORTH,Attorney General,,David Stumbo,REP,37,5,0,0,0,2,30
+Marion,MARION SOUTH,Attorney General,,Stephen Goldfinch,REP,56,20,0,0,0,0,36
+Marion,MARION SOUTH,Attorney General,,David M Pascoe,REP,15,9,0,0,0,0,6
+Marion,MARION SOUTH,Attorney General,,David Stumbo,REP,32,11,0,0,0,0,21
+Marion,MARION WEST,Attorney General,,Stephen Goldfinch,REP,55,4,0,0,0,0,51
+Marion,MARION WEST,Attorney General,,David M Pascoe,REP,11,0,0,0,0,0,11
+Marion,MARION WEST,Attorney General,,David Stumbo,REP,30,3,0,0,0,0,27
+Marion,N EAST MULLINS,Attorney General,,Stephen Goldfinch,REP,71,21,0,0,0,0,50
+Marion,N EAST MULLINS,Attorney General,,David M Pascoe,REP,9,0,0,0,0,0,9
+Marion,N EAST MULLINS,Attorney General,,David Stumbo,REP,23,5,0,0,0,0,18
+Marion,N WEST MULLINS,Attorney General,,Stephen Goldfinch,REP,35,11,0,0,0,0,24
+Marion,N WEST MULLINS,Attorney General,,David M Pascoe,REP,7,5,0,0,0,0,2
+Marion,N WEST MULLINS,Attorney General,,David Stumbo,REP,22,8,0,0,0,0,14
+Marion,NICHOLS,Attorney General,,Stephen Goldfinch,REP,41,4,0,0,0,0,37
+Marion,NICHOLS,Attorney General,,David M Pascoe,REP,11,2,0,0,0,0,9
+Marion,NICHOLS,Attorney General,,David Stumbo,REP,13,4,0,0,0,0,9
+Marion,Provisional,Attorney General,,Stephen Goldfinch,REP,1,0,0,1,0,0,0
+Marion,Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Marion,Provisional,Attorney General,,David Stumbo,REP,1,0,0,1,0,0,0
+Marion,RAINS,Attorney General,,Stephen Goldfinch,REP,22,2,0,0,0,0,20
+Marion,RAINS,Attorney General,,David M Pascoe,REP,2,0,0,0,0,0,2
+Marion,RAINS,Attorney General,,David Stumbo,REP,22,1,0,0,0,0,21
+Marion,S EAST MULLINS,Attorney General,,Stephen Goldfinch,REP,113,38,0,0,0,2,73
+Marion,S EAST MULLINS,Attorney General,,David M Pascoe,REP,35,9,0,0,0,0,26
+Marion,S EAST MULLINS,Attorney General,,David Stumbo,REP,55,14,0,0,0,4,37
+Marion,S WEST MULLINS,Attorney General,,Stephen Goldfinch,REP,73,22,0,0,0,0,51
+Marion,S WEST MULLINS,Attorney General,,David M Pascoe,REP,13,5,0,0,0,1,7
+Marion,S WEST MULLINS,Attorney General,,David Stumbo,REP,40,10,0,0,0,0,30
+Marion,SELLERS,Attorney General,,Stephen Goldfinch,REP,4,0,0,0,0,0,4
+Marion,SELLERS,Attorney General,,David M Pascoe,REP,2,0,0,0,0,0,2
+Marion,SELLERS,Attorney General,,David Stumbo,REP,3,0,0,0,0,0,3
+Marion,TEMPERANCE,Attorney General,,Stephen Goldfinch,REP,43,3,0,0,0,0,40
+Marion,TEMPERANCE,Attorney General,,David M Pascoe,REP,21,0,0,0,0,0,21
+Marion,TEMPERANCE,Attorney General,,David Stumbo,REP,16,1,0,0,0,0,15
+Marion,ZION,Attorney General,,Stephen Goldfinch,REP,26,6,0,0,0,0,20
+Marion,ZION,Attorney General,,David M Pascoe,REP,7,1,0,0,0,0,6
+Marion,ZION,Attorney General,,David Stumbo,REP,16,2,0,0,0,0,14
+Marion,BRITTON'S NECK,Commissioner of Agriculture,,Jeremy B Cannon,REP,20,2,0,0,0,0,18
+Marion,BRITTON'S NECK,Commissioner of Agriculture,,Danny Ford,REP,19,2,0,0,0,1,16
+Marion,BRITTON'S NECK,Commissioner of Agriculture,,Cody Simpson,REP,23,3,0,0,0,0,20
+Marion,BRITTON'S NECK,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Marion,CENTENARY,Commissioner of Agriculture,,Jeremy B Cannon,REP,30,6,0,0,0,1,23
+Marion,CENTENARY,Commissioner of Agriculture,,Danny Ford,REP,13,1,0,0,0,0,12
+Marion,CENTENARY,Commissioner of Agriculture,,Cody Simpson,REP,27,5,0,0,0,2,20
+Marion,CENTENARY,Commissioner of Agriculture,,Fred West,REP,3,1,0,0,0,0,2
+Marion,FRIENDSHIP,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,0,0,0,0,0,3
+Marion,FRIENDSHIP,Commissioner of Agriculture,,Danny Ford,REP,1,0,0,0,0,0,1
+Marion,FRIENDSHIP,Commissioner of Agriculture,,Cody Simpson,REP,15,2,0,0,0,0,13
+Marion,FRIENDSHIP,Commissioner of Agriculture,,Fred West,REP,3,0,0,0,0,0,3
+Marion,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Marion,MARION NO. 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,4,0,0,0,0,5
+Marion,MARION NO. 1,Commissioner of Agriculture,,Danny Ford,REP,22,6,0,0,0,2,14
+Marion,MARION NO. 1,Commissioner of Agriculture,,Cody Simpson,REP,30,12,0,0,0,0,18
+Marion,MARION NO. 1,Commissioner of Agriculture,,Fred West,REP,4,1,0,0,0,0,3
+Marion,MARION NO. 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,39,9,0,0,0,1,29
+Marion,MARION NO. 2,Commissioner of Agriculture,,Danny Ford,REP,64,13,0,0,0,0,51
+Marion,MARION NO. 2,Commissioner of Agriculture,,Cody Simpson,REP,65,14,0,0,0,2,49
+Marion,MARION NO. 2,Commissioner of Agriculture,,Fred West,REP,19,9,0,0,0,0,10
+Marion,MARION NORTH,Commissioner of Agriculture,,Jeremy B Cannon,REP,21,1,0,0,0,0,20
+Marion,MARION NORTH,Commissioner of Agriculture,,Danny Ford,REP,30,2,0,0,0,0,28
+Marion,MARION NORTH,Commissioner of Agriculture,,Cody Simpson,REP,50,12,0,0,0,2,36
+Marion,MARION NORTH,Commissioner of Agriculture,,Fred West,REP,3,0,0,0,0,1,2
+Marion,MARION SOUTH,Commissioner of Agriculture,,Jeremy B Cannon,REP,15,4,0,0,0,0,11
+Marion,MARION SOUTH,Commissioner of Agriculture,,Danny Ford,REP,41,12,0,0,0,2,27
+Marion,MARION SOUTH,Commissioner of Agriculture,,Cody Simpson,REP,45,20,0,0,0,0,25
+Marion,MARION SOUTH,Commissioner of Agriculture,,Fred West,REP,2,2,0,0,0,0,0
+Marion,MARION WEST,Commissioner of Agriculture,,Jeremy B Cannon,REP,12,1,0,0,0,0,11
+Marion,MARION WEST,Commissioner of Agriculture,,Danny Ford,REP,34,3,0,0,0,0,31
+Marion,MARION WEST,Commissioner of Agriculture,,Cody Simpson,REP,40,0,0,0,0,0,40
+Marion,MARION WEST,Commissioner of Agriculture,,Fred West,REP,4,2,0,0,0,0,2
+Marion,N EAST MULLINS,Commissioner of Agriculture,,Jeremy B Cannon,REP,32,9,0,0,0,0,23
+Marion,N EAST MULLINS,Commissioner of Agriculture,,Danny Ford,REP,35,9,0,0,0,0,26
+Marion,N EAST MULLINS,Commissioner of Agriculture,,Cody Simpson,REP,30,7,0,0,0,0,23
+Marion,N EAST MULLINS,Commissioner of Agriculture,,Fred West,REP,5,2,0,0,0,0,3
+Marion,N WEST MULLINS,Commissioner of Agriculture,,Jeremy B Cannon,REP,10,2,0,0,0,0,8
+Marion,N WEST MULLINS,Commissioner of Agriculture,,Danny Ford,REP,20,8,0,0,0,0,12
+Marion,N WEST MULLINS,Commissioner of Agriculture,,Cody Simpson,REP,24,11,0,0,0,0,13
+Marion,N WEST MULLINS,Commissioner of Agriculture,,Fred West,REP,8,0,0,0,0,0,8
+Marion,NICHOLS,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,0,0,0,0,0,7
+Marion,NICHOLS,Commissioner of Agriculture,,Danny Ford,REP,24,1,0,0,0,0,23
+Marion,NICHOLS,Commissioner of Agriculture,,Cody Simpson,REP,31,10,0,0,0,0,21
+Marion,NICHOLS,Commissioner of Agriculture,,Fred West,REP,5,0,0,0,0,0,5
+Marion,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Marion,Provisional,Commissioner of Agriculture,,Danny Ford,REP,2,0,0,2,0,0,0
+Marion,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Marion,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Marion,RAINS,Commissioner of Agriculture,,Jeremy B Cannon,REP,8,0,0,0,0,0,8
+Marion,RAINS,Commissioner of Agriculture,,Danny Ford,REP,20,1,0,0,0,0,19
+Marion,RAINS,Commissioner of Agriculture,,Cody Simpson,REP,16,2,0,0,0,0,14
+Marion,RAINS,Commissioner of Agriculture,,Fred West,REP,2,0,0,0,0,0,2
+Marion,S EAST MULLINS,Commissioner of Agriculture,,Jeremy B Cannon,REP,42,7,0,0,0,0,35
+Marion,S EAST MULLINS,Commissioner of Agriculture,,Danny Ford,REP,80,29,0,0,0,6,45
+Marion,S EAST MULLINS,Commissioner of Agriculture,,Cody Simpson,REP,72,19,0,0,0,0,53
+Marion,S EAST MULLINS,Commissioner of Agriculture,,Fred West,REP,9,4,0,0,0,0,5
+Marion,S WEST MULLINS,Commissioner of Agriculture,,Jeremy B Cannon,REP,32,9,0,0,0,1,22
+Marion,S WEST MULLINS,Commissioner of Agriculture,,Danny Ford,REP,41,16,0,0,0,0,25
+Marion,S WEST MULLINS,Commissioner of Agriculture,,Cody Simpson,REP,44,10,0,0,0,0,34
+Marion,S WEST MULLINS,Commissioner of Agriculture,,Fred West,REP,7,3,0,0,0,0,4
+Marion,SELLERS,Commissioner of Agriculture,,Jeremy B Cannon,REP,4,0,0,0,0,0,4
+Marion,SELLERS,Commissioner of Agriculture,,Danny Ford,REP,2,0,0,0,0,0,2
+Marion,SELLERS,Commissioner of Agriculture,,Cody Simpson,REP,2,0,0,0,0,0,2
+Marion,SELLERS,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Marion,TEMPERANCE,Commissioner of Agriculture,,Jeremy B Cannon,REP,12,0,0,0,0,0,12
+Marion,TEMPERANCE,Commissioner of Agriculture,,Danny Ford,REP,34,1,0,0,0,0,33
+Marion,TEMPERANCE,Commissioner of Agriculture,,Cody Simpson,REP,28,1,0,0,0,0,27
+Marion,TEMPERANCE,Commissioner of Agriculture,,Fred West,REP,4,1,0,0,0,0,3
+Marion,ZION,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,2,0,0,0,0,11
+Marion,ZION,Commissioner of Agriculture,,Danny Ford,REP,17,3,0,0,0,0,14
+Marion,ZION,Commissioner of Agriculture,,Cody Simpson,REP,14,1,0,0,0,0,13
+Marion,ZION,Commissioner of Agriculture,,Fred West,REP,3,2,0,0,0,0,1
+Marion,BRITTON'S NECK,Comptroller General,,Tiffany Boozer,DEM,256,74,0,0,0,25,157
+Marion,BRITTON'S NECK,Comptroller General,,Bruce K Cole,DEM,130,44,0,0,0,23,63
+Marion,CENTENARY,Comptroller General,,Tiffany Boozer,DEM,199,73,0,0,0,15,111
+Marion,CENTENARY,Comptroller General,,Bruce K Cole,DEM,97,34,0,0,0,5,58
+Marion,FRIENDSHIP,Comptroller General,,Tiffany Boozer,DEM,41,9,0,0,0,0,32
+Marion,FRIENDSHIP,Comptroller General,,Bruce K Cole,DEM,17,6,0,0,0,0,11
+Marion,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Marion,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Marion,MARION NO. 1,Comptroller General,,Tiffany Boozer,DEM,111,56,0,0,0,8,47
+Marion,MARION NO. 1,Comptroller General,,Bruce K Cole,DEM,43,23,0,0,0,0,20
+Marion,MARION NO. 2,Comptroller General,,Tiffany Boozer,DEM,130,57,0,0,0,8,65
+Marion,MARION NO. 2,Comptroller General,,Bruce K Cole,DEM,52,29,0,0,0,1,22
+Marion,MARION NORTH,Comptroller General,,Tiffany Boozer,DEM,157,74,0,0,0,11,72
+Marion,MARION NORTH,Comptroller General,,Bruce K Cole,DEM,59,20,0,0,0,3,36
+Marion,MARION SOUTH,Comptroller General,,Tiffany Boozer,DEM,302,158,0,0,0,14,130
+Marion,MARION SOUTH,Comptroller General,,Bruce K Cole,DEM,107,64,0,0,0,8,35
+Marion,MARION WEST,Comptroller General,,Tiffany Boozer,DEM,92,42,0,0,0,5,45
+Marion,MARION WEST,Comptroller General,,Bruce K Cole,DEM,37,16,0,0,0,6,15
+Marion,N EAST MULLINS,Comptroller General,,Tiffany Boozer,DEM,178,84,0,0,0,1,93
+Marion,N EAST MULLINS,Comptroller General,,Bruce K Cole,DEM,89,37,0,0,0,4,48
+Marion,N WEST MULLINS,Comptroller General,,Tiffany Boozer,DEM,132,59,0,0,0,3,70
+Marion,N WEST MULLINS,Comptroller General,,Bruce K Cole,DEM,70,38,0,0,0,0,32
+Marion,NICHOLS,Comptroller General,,Tiffany Boozer,DEM,38,14,0,0,0,0,24
+Marion,NICHOLS,Comptroller General,,Bruce K Cole,DEM,35,12,0,0,0,0,23
+Marion,Provisional,Comptroller General,,Tiffany Boozer,DEM,5,0,0,5,0,0,0
+Marion,Provisional,Comptroller General,,Bruce K Cole,DEM,2,0,0,2,0,0,0
+Marion,RAINS,Comptroller General,,Tiffany Boozer,DEM,100,43,0,0,0,9,48
+Marion,RAINS,Comptroller General,,Bruce K Cole,DEM,48,12,0,0,0,0,36
+Marion,S EAST MULLINS,Comptroller General,,Tiffany Boozer,DEM,91,37,0,0,0,3,51
+Marion,S EAST MULLINS,Comptroller General,,Bruce K Cole,DEM,64,23,0,0,0,0,41
+Marion,S WEST MULLINS,Comptroller General,,Tiffany Boozer,DEM,172,95,0,0,0,6,71
+Marion,S WEST MULLINS,Comptroller General,,Bruce K Cole,DEM,90,47,0,0,0,0,43
+Marion,SELLERS,Comptroller General,,Tiffany Boozer,DEM,33,3,0,0,0,1,29
+Marion,SELLERS,Comptroller General,,Bruce K Cole,DEM,5,0,0,0,0,0,5
+Marion,TEMPERANCE,Comptroller General,,Tiffany Boozer,DEM,122,46,0,0,0,6,70
+Marion,TEMPERANCE,Comptroller General,,Bruce K Cole,DEM,43,18,0,0,0,3,22
+Marion,ZION,Comptroller General,,Tiffany Boozer,DEM,65,27,0,0,0,0,38
+Marion,ZION,Comptroller General,,Bruce K Cole,DEM,31,12,0,0,0,3,16
+Marion,BRITTON'S NECK,County Council District 3,,Mitchell Gause,DEM,114,30,0,0,0,13,71
+Marion,BRITTON'S NECK,County Council District 3,,Levern JJ Nichols,DEM,14,4,0,0,0,0,10
+Marion,BRITTON'S NECK,County Council District 3,,Joel Rogers,DEM,293,92,0,0,0,35,166
+Marion,CENTENARY,County Council District 3,,Mitchell Gause,DEM,56,18,0,0,0,2,36
+Marion,CENTENARY,County Council District 3,,Levern JJ Nichols,DEM,97,27,0,0,0,16,54
+Marion,CENTENARY,County Council District 3,,Joel Rogers,DEM,103,48,0,0,0,3,52
+Marion,FRIENDSHIP,County Council District 3,,Mitchell Gause,DEM,5,0,0,0,0,0,5
+Marion,FRIENDSHIP,County Council District 3,,Levern JJ Nichols,DEM,5,0,0,0,0,0,5
+Marion,FRIENDSHIP,County Council District 3,,Joel Rogers,DEM,19,6,0,0,0,0,13
+Marion,Failsafe,County Council District 3,,Mitchell Gause,DEM,0,0,0,0,0,0,0
+Marion,Failsafe,County Council District 3,,Levern JJ Nichols,DEM,0,0,0,0,0,0,0
+Marion,Failsafe,County Council District 3,,Joel Rogers,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,County Council District 3,,Mitchell Gause,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,County Council District 3,,Levern JJ Nichols,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,County Council District 3,,Joel Rogers,DEM,0,0,0,0,0,0,0
+Marion,Provisional,County Council District 3,,Mitchell Gause,DEM,1,0,0,1,0,0,0
+Marion,Provisional,County Council District 3,,Levern JJ Nichols,DEM,0,0,0,0,0,0,0
+Marion,Provisional,County Council District 3,,Joel Rogers,DEM,1,0,0,1,0,0,0
+Marion,RAINS,County Council District 3,,Mitchell Gause,DEM,35,16,0,0,0,0,19
+Marion,RAINS,County Council District 3,,Levern JJ Nichols,DEM,56,17,0,0,0,3,36
+Marion,RAINS,County Council District 3,,Joel Rogers,DEM,33,13,0,0,0,0,20
+Marion,Failsafe,County Council District 5,,Tarus Gilchrist,DEM,0,0,0,0,0,0,0
+Marion,Failsafe,County Council District 5,,Darius L Pickett,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,County Council District 5,,Tarus Gilchrist,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,County Council District 5,,Darius L Pickett,DEM,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,County Council District 5,,Tarus Gilchrist,DEM,71,28,0,0,0,2,41
+Marion,N WEST MULLINS,County Council District 5,,Darius L Pickett,DEM,49,28,0,0,0,1,20
+Marion,NICHOLS,County Council District 5,,Tarus Gilchrist,DEM,56,17,0,0,0,0,39
+Marion,NICHOLS,County Council District 5,,Darius L Pickett,DEM,25,12,0,0,0,0,13
+Marion,Provisional,County Council District 5,,Tarus Gilchrist,DEM,0,0,0,0,0,0,0
+Marion,Provisional,County Council District 5,,Darius L Pickett,DEM,1,0,0,1,0,0,0
+Marion,RAINS,County Council District 5,,Tarus Gilchrist,DEM,19,6,0,0,0,0,13
+Marion,RAINS,County Council District 5,,Darius L Pickett,DEM,11,3,0,0,0,6,2
+Marion,S EAST MULLINS,County Council District 5,,Tarus Gilchrist,DEM,65,29,0,0,0,1,35
+Marion,S EAST MULLINS,County Council District 5,,Darius L Pickett,DEM,14,3,0,0,0,1,10
+Marion,S WEST MULLINS,County Council District 5,,Tarus Gilchrist,DEM,158,69,0,0,0,3,86
+Marion,S WEST MULLINS,County Council District 5,,Darius L Pickett,DEM,61,39,0,0,0,0,22
+Marion,BRITTON'S NECK,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Marion,BRITTON'S NECK,Governor,,Pamela Evette,REP,30,2,0,0,0,1,27
+Marion,BRITTON'S NECK,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Marion,BRITTON'S NECK,Governor,,Nancy Mace,REP,9,2,0,0,0,0,7
+Marion,BRITTON'S NECK,Governor,,Ralph W Norman,REP,4,0,0,0,0,0,4
+Marion,BRITTON'S NECK,Governor,,Rom Reddy,REP,8,1,0,0,0,0,7
+Marion,BRITTON'S NECK,Governor,,Alan Wilson,REP,10,2,0,0,0,0,8
+Marion,BRITTON'S NECK,Governor,,Jermaine Johnson,DEM,181,63,0,0,0,15,103
+Marion,BRITTON'S NECK,Governor,,Mullins McLeod,DEM,32,12,0,0,0,1,19
+Marion,BRITTON'S NECK,Governor,,Billy Webster,DEM,186,46,0,0,0,32,108
+Marion,CENTENARY,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Marion,CENTENARY,Governor,,Pamela Evette,REP,44,6,0,0,0,1,37
+Marion,CENTENARY,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Marion,CENTENARY,Governor,,Nancy Mace,REP,9,3,0,0,0,0,6
+Marion,CENTENARY,Governor,,Ralph W Norman,REP,4,1,0,0,0,2,1
+Marion,CENTENARY,Governor,,Rom Reddy,REP,8,0,0,0,0,0,8
+Marion,CENTENARY,Governor,,Alan Wilson,REP,9,3,0,0,0,0,6
+Marion,CENTENARY,Governor,,Jermaine Johnson,DEM,169,62,0,0,0,11,96
+Marion,CENTENARY,Governor,,Mullins McLeod,DEM,48,17,0,0,0,3,28
+Marion,CENTENARY,Governor,,Billy Webster,DEM,97,35,0,0,0,8,54
+Marion,FRIENDSHIP,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Marion,FRIENDSHIP,Governor,,Pamela Evette,REP,14,2,0,0,0,0,12
+Marion,FRIENDSHIP,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Marion,FRIENDSHIP,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Marion,FRIENDSHIP,Governor,,Ralph W Norman,REP,2,0,0,0,0,0,2
+Marion,FRIENDSHIP,Governor,,Rom Reddy,REP,3,0,0,0,0,0,3
+Marion,FRIENDSHIP,Governor,,Alan Wilson,REP,3,0,0,0,0,0,3
+Marion,FRIENDSHIP,Governor,,Jermaine Johnson,DEM,28,11,0,0,0,0,17
+Marion,FRIENDSHIP,Governor,,Mullins McLeod,DEM,2,0,0,0,0,0,2
+Marion,FRIENDSHIP,Governor,,Billy Webster,DEM,30,4,0,0,0,0,26
+Marion,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Marion,Failsafe,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Marion,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Marion,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Marion,MARION NO. 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Marion,MARION NO. 1,Governor,,Pamela Evette,REP,17,4,0,0,0,0,13
+Marion,MARION NO. 1,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Marion,MARION NO. 1,Governor,,Nancy Mace,REP,6,2,0,0,0,0,4
+Marion,MARION NO. 1,Governor,,Ralph W Norman,REP,10,3,0,0,0,0,7
+Marion,MARION NO. 1,Governor,,Rom Reddy,REP,10,5,0,0,0,2,3
+Marion,MARION NO. 1,Governor,,Alan Wilson,REP,23,10,0,0,0,0,13
+Marion,MARION NO. 1,Governor,,Jermaine Johnson,DEM,85,40,0,0,0,7,38
+Marion,MARION NO. 1,Governor,,Mullins McLeod,DEM,18,7,0,0,0,1,10
+Marion,MARION NO. 1,Governor,,Billy Webster,DEM,56,34,0,0,0,1,21
+Marion,MARION NO. 2,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Marion,MARION NO. 2,Governor,,Pamela Evette,REP,70,15,0,0,0,1,54
+Marion,MARION NO. 2,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Marion,MARION NO. 2,Governor,,Nancy Mace,REP,23,5,0,0,0,0,18
+Marion,MARION NO. 2,Governor,,Ralph W Norman,REP,5,2,0,0,0,0,3
+Marion,MARION NO. 2,Governor,,Rom Reddy,REP,25,10,0,0,0,1,14
+Marion,MARION NO. 2,Governor,,Alan Wilson,REP,70,14,0,0,0,1,55
+Marion,MARION NO. 2,Governor,,Jermaine Johnson,DEM,102,46,0,0,0,8,48
+Marion,MARION NO. 2,Governor,,Mullins McLeod,DEM,21,8,0,0,0,0,13
+Marion,MARION NO. 2,Governor,,Billy Webster,DEM,62,34,0,0,0,0,28
+Marion,MARION NORTH,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Marion,MARION NORTH,Governor,,Pamela Evette,REP,49,14,0,0,0,2,33
+Marion,MARION NORTH,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Marion,MARION NORTH,Governor,,Nancy Mace,REP,19,1,0,0,0,0,18
+Marion,MARION NORTH,Governor,,Ralph W Norman,REP,3,1,0,0,0,0,2
+Marion,MARION NORTH,Governor,,Rom Reddy,REP,13,0,0,0,0,0,13
+Marion,MARION NORTH,Governor,,Alan Wilson,REP,29,3,0,0,0,0,26
+Marion,MARION NORTH,Governor,,Jermaine Johnson,DEM,136,61,0,0,0,10,65
+Marion,MARION NORTH,Governor,,Mullins McLeod,DEM,23,12,0,0,0,1,10
+Marion,MARION NORTH,Governor,,Billy Webster,DEM,68,26,0,0,0,3,39
+Marion,MARION SOUTH,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Marion,MARION SOUTH,Governor,,Pamela Evette,REP,65,22,0,0,0,2,41
+Marion,MARION SOUTH,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Marion,MARION SOUTH,Governor,,Nancy Mace,REP,8,3,0,0,0,0,5
+Marion,MARION SOUTH,Governor,,Ralph W Norman,REP,6,3,0,0,0,0,3
+Marion,MARION SOUTH,Governor,,Rom Reddy,REP,12,8,0,0,0,0,4
+Marion,MARION SOUTH,Governor,,Alan Wilson,REP,17,5,0,0,0,0,12
+Marion,MARION SOUTH,Governor,,Jermaine Johnson,DEM,264,132,0,0,0,14,118
+Marion,MARION SOUTH,Governor,,Mullins McLeod,DEM,45,30,0,0,0,2,13
+Marion,MARION SOUTH,Governor,,Billy Webster,DEM,108,62,0,0,0,7,39
+Marion,MARION WEST,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Marion,MARION WEST,Governor,,Pamela Evette,REP,49,7,0,0,0,0,42
+Marion,MARION WEST,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Marion,MARION WEST,Governor,,Nancy Mace,REP,11,0,0,0,0,0,11
+Marion,MARION WEST,Governor,,Ralph W Norman,REP,7,1,0,0,0,0,6
+Marion,MARION WEST,Governor,,Rom Reddy,REP,8,0,0,0,0,0,8
+Marion,MARION WEST,Governor,,Alan Wilson,REP,25,1,0,0,0,0,24
+Marion,MARION WEST,Governor,,Jermaine Johnson,DEM,62,28,0,0,0,3,31
+Marion,MARION WEST,Governor,,Mullins McLeod,DEM,26,13,0,0,0,0,13
+Marion,MARION WEST,Governor,,Billy Webster,DEM,45,19,0,0,0,8,18
+Marion,N EAST MULLINS,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Marion,N EAST MULLINS,Governor,,Pamela Evette,REP,43,10,0,0,0,0,33
+Marion,N EAST MULLINS,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Marion,N EAST MULLINS,Governor,,Nancy Mace,REP,12,0,0,0,0,0,12
+Marion,N EAST MULLINS,Governor,,Ralph W Norman,REP,6,0,0,0,0,0,6
+Marion,N EAST MULLINS,Governor,,Rom Reddy,REP,9,2,0,0,0,0,7
+Marion,N EAST MULLINS,Governor,,Alan Wilson,REP,38,18,0,0,0,0,20
+Marion,N EAST MULLINS,Governor,,Jermaine Johnson,DEM,201,90,0,0,0,3,108
+Marion,N EAST MULLINS,Governor,,Mullins McLeod,DEM,19,8,0,0,0,0,11
+Marion,N EAST MULLINS,Governor,,Billy Webster,DEM,58,30,0,0,0,2,26
+Marion,N WEST MULLINS,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Marion,N WEST MULLINS,Governor,,Pamela Evette,REP,39,11,0,0,0,0,28
+Marion,N WEST MULLINS,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,Governor,,Nancy Mace,REP,4,1,0,0,0,0,3
+Marion,N WEST MULLINS,Governor,,Ralph W Norman,REP,1,0,0,0,0,0,1
+Marion,N WEST MULLINS,Governor,,Rom Reddy,REP,7,3,0,0,0,0,4
+Marion,N WEST MULLINS,Governor,,Alan Wilson,REP,15,8,0,0,0,0,7
+Marion,N WEST MULLINS,Governor,,Jermaine Johnson,DEM,129,61,0,0,0,3,65
+Marion,N WEST MULLINS,Governor,,Mullins McLeod,DEM,27,12,0,0,0,0,15
+Marion,N WEST MULLINS,Governor,,Billy Webster,DEM,58,30,0,0,0,0,28
+Marion,NICHOLS,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Marion,NICHOLS,Governor,,Pamela Evette,REP,23,0,0,0,0,0,23
+Marion,NICHOLS,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Marion,NICHOLS,Governor,,Nancy Mace,REP,8,0,0,0,0,0,8
+Marion,NICHOLS,Governor,,Ralph W Norman,REP,5,0,0,0,0,0,5
+Marion,NICHOLS,Governor,,Rom Reddy,REP,5,5,0,0,0,0,0
+Marion,NICHOLS,Governor,,Alan Wilson,REP,27,6,0,0,0,0,21
+Marion,NICHOLS,Governor,,Jermaine Johnson,DEM,38,17,0,0,0,0,21
+Marion,NICHOLS,Governor,,Mullins McLeod,DEM,8,2,0,0,0,0,6
+Marion,NICHOLS,Governor,,Billy Webster,DEM,31,9,0,0,0,0,22
+Marion,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Marion,Provisional,Governor,,Pamela Evette,REP,1,0,0,1,0,0,0
+Marion,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Marion,Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Marion,Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Marion,Provisional,Governor,,Rom Reddy,REP,1,0,0,1,0,0,0
+Marion,Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Marion,Provisional,Governor,,Jermaine Johnson,DEM,4,0,0,4,0,0,0
+Marion,Provisional,Governor,,Mullins McLeod,DEM,1,0,0,1,0,0,0
+Marion,Provisional,Governor,,Billy Webster,DEM,2,0,0,2,0,0,0
+Marion,RAINS,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Marion,RAINS,Governor,,Pamela Evette,REP,24,1,0,0,0,0,23
+Marion,RAINS,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Marion,RAINS,Governor,,Nancy Mace,REP,3,0,0,0,0,0,3
+Marion,RAINS,Governor,,Ralph W Norman,REP,3,0,0,0,0,0,3
+Marion,RAINS,Governor,,Rom Reddy,REP,4,1,0,0,0,0,3
+Marion,RAINS,Governor,,Alan Wilson,REP,12,1,0,0,0,0,11
+Marion,RAINS,Governor,,Jermaine Johnson,DEM,93,38,0,0,0,3,52
+Marion,RAINS,Governor,,Mullins McLeod,DEM,20,7,0,0,0,4,9
+Marion,RAINS,Governor,,Billy Webster,DEM,41,13,0,0,0,2,26
+Marion,S EAST MULLINS,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Marion,S EAST MULLINS,Governor,,Pamela Evette,REP,93,31,0,0,0,5,57
+Marion,S EAST MULLINS,Governor,,Joshua Kimbrell,REP,3,0,0,0,0,0,3
+Marion,S EAST MULLINS,Governor,,Nancy Mace,REP,28,2,0,0,0,1,25
+Marion,S EAST MULLINS,Governor,,Ralph W Norman,REP,9,2,0,0,0,0,7
+Marion,S EAST MULLINS,Governor,,Rom Reddy,REP,11,4,0,0,0,0,7
+Marion,S EAST MULLINS,Governor,,Alan Wilson,REP,67,22,0,0,0,0,45
+Marion,S EAST MULLINS,Governor,,Jermaine Johnson,DEM,67,28,0,0,0,1,38
+Marion,S EAST MULLINS,Governor,,Mullins McLeod,DEM,26,10,0,0,0,1,15
+Marion,S EAST MULLINS,Governor,,Billy Webster,DEM,70,24,0,0,0,1,45
+Marion,S WEST MULLINS,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Marion,S WEST MULLINS,Governor,,Pamela Evette,REP,59,15,0,0,0,0,44
+Marion,S WEST MULLINS,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Marion,S WEST MULLINS,Governor,,Nancy Mace,REP,15,6,0,0,0,0,9
+Marion,S WEST MULLINS,Governor,,Ralph W Norman,REP,9,3,0,0,0,1,5
+Marion,S WEST MULLINS,Governor,,Rom Reddy,REP,15,7,0,0,0,0,8
+Marion,S WEST MULLINS,Governor,,Alan Wilson,REP,31,7,0,0,0,0,24
+Marion,S WEST MULLINS,Governor,,Jermaine Johnson,DEM,157,81,0,0,0,6,70
+Marion,S WEST MULLINS,Governor,,Mullins McLeod,DEM,30,17,0,0,0,0,13
+Marion,S WEST MULLINS,Governor,,Billy Webster,DEM,92,51,0,0,0,0,41
+Marion,SELLERS,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Marion,SELLERS,Governor,,Pamela Evette,REP,4,0,0,0,0,0,4
+Marion,SELLERS,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Marion,SELLERS,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Marion,SELLERS,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Marion,SELLERS,Governor,,Rom Reddy,REP,3,0,0,0,0,0,3
+Marion,SELLERS,Governor,,Alan Wilson,REP,2,0,0,0,0,0,2
+Marion,SELLERS,Governor,,Jermaine Johnson,DEM,27,4,0,0,0,1,22
+Marion,SELLERS,Governor,,Mullins McLeod,DEM,2,0,0,0,0,0,2
+Marion,SELLERS,Governor,,Billy Webster,DEM,12,0,0,0,0,0,12
+Marion,TEMPERANCE,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Marion,TEMPERANCE,Governor,,Pamela Evette,REP,31,1,0,0,0,0,30
+Marion,TEMPERANCE,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Marion,TEMPERANCE,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Marion,TEMPERANCE,Governor,,Ralph W Norman,REP,21,0,0,0,0,0,21
+Marion,TEMPERANCE,Governor,,Rom Reddy,REP,7,2,0,0,0,0,5
+Marion,TEMPERANCE,Governor,,Alan Wilson,REP,20,1,0,0,0,0,19
+Marion,TEMPERANCE,Governor,,Jermaine Johnson,DEM,103,39,0,0,0,6,58
+Marion,TEMPERANCE,Governor,,Mullins McLeod,DEM,19,8,0,0,0,1,10
+Marion,TEMPERANCE,Governor,,Billy Webster,DEM,45,18,0,0,0,2,25
+Marion,ZION,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Marion,ZION,Governor,,Pamela Evette,REP,19,4,0,0,0,0,15
+Marion,ZION,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Marion,ZION,Governor,,Nancy Mace,REP,13,2,0,0,0,0,11
+Marion,ZION,Governor,,Ralph W Norman,REP,3,1,0,0,0,0,2
+Marion,ZION,Governor,,Rom Reddy,REP,4,2,0,0,0,0,2
+Marion,ZION,Governor,,Alan Wilson,REP,13,1,0,0,0,0,12
+Marion,ZION,Governor,,Jermaine Johnson,DEM,57,26,0,0,0,3,28
+Marion,ZION,Governor,,Mullins McLeod,DEM,8,3,0,0,0,0,5
+Marion,ZION,Governor,,Billy Webster,DEM,32,11,0,0,0,0,21
+Marion,BRITTON'S NECK,Secretary of State,,Jason Belton,DEM,252,85,0,0,0,42,125
+Marion,BRITTON'S NECK,Secretary of State,,Edwina Winter,DEM,141,32,0,0,0,5,104
+Marion,CENTENARY,Secretary of State,,Jason Belton,DEM,201,73,0,0,0,13,115
+Marion,CENTENARY,Secretary of State,,Edwina Winter,DEM,99,36,0,0,0,7,56
+Marion,FRIENDSHIP,Secretary of State,,Jason Belton,DEM,35,12,0,0,0,0,23
+Marion,FRIENDSHIP,Secretary of State,,Edwina Winter,DEM,24,2,0,0,0,0,22
+Marion,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Marion,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Marion,MARION NO. 1,Secretary of State,,Jason Belton,DEM,94,48,0,0,0,4,42
+Marion,MARION NO. 1,Secretary of State,,Edwina Winter,DEM,59,29,0,0,0,5,25
+Marion,MARION NO. 2,Secretary of State,,Jason Belton,DEM,101,54,0,0,0,3,44
+Marion,MARION NO. 2,Secretary of State,,Edwina Winter,DEM,80,32,0,0,0,6,42
+Marion,MARION NORTH,Secretary of State,,Jason Belton,DEM,143,65,0,0,0,9,69
+Marion,MARION NORTH,Secretary of State,,Edwina Winter,DEM,73,30,0,0,0,4,39
+Marion,MARION SOUTH,Secretary of State,,Jason Belton,DEM,244,136,0,0,0,14,94
+Marion,MARION SOUTH,Secretary of State,,Edwina Winter,DEM,164,86,0,0,0,8,70
+Marion,MARION WEST,Secretary of State,,Jason Belton,DEM,84,42,0,0,0,6,36
+Marion,MARION WEST,Secretary of State,,Edwina Winter,DEM,46,17,0,0,0,5,24
+Marion,N EAST MULLINS,Secretary of State,,Jason Belton,DEM,175,80,0,0,0,3,92
+Marion,N EAST MULLINS,Secretary of State,,Edwina Winter,DEM,98,47,0,0,0,2,49
+Marion,N WEST MULLINS,Secretary of State,,Jason Belton,DEM,129,59,0,0,0,3,67
+Marion,N WEST MULLINS,Secretary of State,,Edwina Winter,DEM,75,36,0,0,0,0,39
+Marion,NICHOLS,Secretary of State,,Jason Belton,DEM,49,20,0,0,0,0,29
+Marion,NICHOLS,Secretary of State,,Edwina Winter,DEM,26,9,0,0,0,0,17
+Marion,Provisional,Secretary of State,,Jason Belton,DEM,4,0,0,4,0,0,0
+Marion,Provisional,Secretary of State,,Edwina Winter,DEM,3,0,0,3,0,0,0
+Marion,RAINS,Secretary of State,,Jason Belton,DEM,107,37,0,0,0,5,65
+Marion,RAINS,Secretary of State,,Edwina Winter,DEM,43,20,0,0,0,4,19
+Marion,S EAST MULLINS,Secretary of State,,Jason Belton,DEM,101,39,0,0,0,2,60
+Marion,S EAST MULLINS,Secretary of State,,Edwina Winter,DEM,55,21,0,0,0,1,33
+Marion,S WEST MULLINS,Secretary of State,,Jason Belton,DEM,161,91,0,0,0,3,67
+Marion,S WEST MULLINS,Secretary of State,,Edwina Winter,DEM,103,56,0,0,0,3,44
+Marion,SELLERS,Secretary of State,,Jason Belton,DEM,34,3,0,0,0,1,30
+Marion,SELLERS,Secretary of State,,Edwina Winter,DEM,7,1,0,0,0,0,6
+Marion,TEMPERANCE,Secretary of State,,Jason Belton,DEM,115,41,0,0,0,7,67
+Marion,TEMPERANCE,Secretary of State,,Edwina Winter,DEM,44,19,0,0,0,2,23
+Marion,ZION,Secretary of State,,Jason Belton,DEM,64,27,0,0,0,3,34
+Marion,ZION,Secretary of State,,Edwina Winter,DEM,29,10,0,0,0,0,19
+Marion,BRITTON'S NECK,State Superintendent of Education,,Lisa Ellis,DEM,50,15,0,0,0,1,34
+Marion,BRITTON'S NECK,State Superintendent of Education,,Sylvia Wright,DEM,350,108,0,0,0,47,195
+Marion,CENTENARY,State Superintendent of Education,,Lisa Ellis,DEM,69,26,0,0,0,0,43
+Marion,CENTENARY,State Superintendent of Education,,Sylvia Wright,DEM,240,87,0,0,0,20,133
+Marion,FRIENDSHIP,State Superintendent of Education,,Lisa Ellis,DEM,17,3,0,0,0,0,14
+Marion,FRIENDSHIP,State Superintendent of Education,,Sylvia Wright,DEM,43,12,0,0,0,0,31
+Marion,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Marion,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Marion,MARION NO. 1,State Superintendent of Education,,Lisa Ellis,DEM,47,22,0,0,0,2,23
+Marion,MARION NO. 1,State Superintendent of Education,,Sylvia Wright,DEM,108,58,0,0,0,7,43
+Marion,MARION NO. 2,State Superintendent of Education,,Lisa Ellis,DEM,61,26,0,0,0,4,31
+Marion,MARION NO. 2,State Superintendent of Education,,Sylvia Wright,DEM,118,58,0,0,0,5,55
+Marion,MARION NORTH,State Superintendent of Education,,Lisa Ellis,DEM,52,18,0,0,0,3,31
+Marion,MARION NORTH,State Superintendent of Education,,Sylvia Wright,DEM,166,76,0,0,0,11,79
+Marion,MARION SOUTH,State Superintendent of Education,,Lisa Ellis,DEM,70,31,0,0,0,2,37
+Marion,MARION SOUTH,State Superintendent of Education,,Sylvia Wright,DEM,343,192,0,0,0,20,131
+Marion,MARION WEST,State Superintendent of Education,,Lisa Ellis,DEM,32,11,0,0,0,1,20
+Marion,MARION WEST,State Superintendent of Education,,Sylvia Wright,DEM,100,47,0,0,0,10,43
+Marion,N EAST MULLINS,State Superintendent of Education,,Lisa Ellis,DEM,50,28,0,0,0,2,20
+Marion,N EAST MULLINS,State Superintendent of Education,,Sylvia Wright,DEM,225,100,0,0,0,3,122
+Marion,N WEST MULLINS,State Superintendent of Education,,Lisa Ellis,DEM,36,17,0,0,0,0,19
+Marion,N WEST MULLINS,State Superintendent of Education,,Sylvia Wright,DEM,174,84,0,0,0,2,88
+Marion,NICHOLS,State Superintendent of Education,,Lisa Ellis,DEM,20,8,0,0,0,0,12
+Marion,NICHOLS,State Superintendent of Education,,Sylvia Wright,DEM,52,19,0,0,0,0,33
+Marion,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Marion,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,7,0,0,7,0,0,0
+Marion,RAINS,State Superintendent of Education,,Lisa Ellis,DEM,40,11,0,0,0,2,27
+Marion,RAINS,State Superintendent of Education,,Sylvia Wright,DEM,111,45,0,0,0,7,59
+Marion,S EAST MULLINS,State Superintendent of Education,,Lisa Ellis,DEM,70,26,0,0,0,3,41
+Marion,S EAST MULLINS,State Superintendent of Education,,Sylvia Wright,DEM,86,33,0,0,0,0,53
+Marion,S WEST MULLINS,State Superintendent of Education,,Lisa Ellis,DEM,58,25,0,0,0,0,33
+Marion,S WEST MULLINS,State Superintendent of Education,,Sylvia Wright,DEM,210,121,0,0,0,6,83
+Marion,SELLERS,State Superintendent of Education,,Lisa Ellis,DEM,12,0,0,0,0,0,12
+Marion,SELLERS,State Superintendent of Education,,Sylvia Wright,DEM,28,3,0,0,0,1,24
+Marion,TEMPERANCE,State Superintendent of Education,,Lisa Ellis,DEM,32,10,0,0,0,1,21
+Marion,TEMPERANCE,State Superintendent of Education,,Sylvia Wright,DEM,134,56,0,0,0,8,70
+Marion,ZION,State Superintendent of Education,,Lisa Ellis,DEM,27,11,0,0,0,0,16
+Marion,ZION,State Superintendent of Education,,Sylvia Wright,DEM,69,28,0,0,0,3,38
+Marion,BRITTON'S NECK,State Treasurer,,Vincent Coe,DEM,297,93,0,0,0,41,163
+Marion,BRITTON'S NECK,State Treasurer,,Trav Robertson Jr,DEM,92,25,0,0,0,7,60
+Marion,CENTENARY,State Treasurer,,Vincent Coe,DEM,190,76,0,0,0,16,98
+Marion,CENTENARY,State Treasurer,,Trav Robertson Jr,DEM,113,33,0,0,0,4,76
+Marion,FRIENDSHIP,State Treasurer,,Vincent Coe,DEM,34,9,0,0,0,0,25
+Marion,FRIENDSHIP,State Treasurer,,Trav Robertson Jr,DEM,22,6,0,0,0,0,16
+Marion,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Marion,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Marion,MARION NO. 1,State Treasurer,,Vincent Coe,DEM,90,47,0,0,0,8,35
+Marion,MARION NO. 1,State Treasurer,,Trav Robertson Jr,DEM,61,29,0,0,0,1,31
+Marion,MARION NO. 2,State Treasurer,,Vincent Coe,DEM,111,53,0,0,0,7,51
+Marion,MARION NO. 2,State Treasurer,,Trav Robertson Jr,DEM,69,31,0,0,0,2,36
+Marion,MARION NORTH,State Treasurer,,Vincent Coe,DEM,126,58,0,0,0,13,55
+Marion,MARION NORTH,State Treasurer,,Trav Robertson Jr,DEM,87,36,0,0,0,1,50
+Marion,MARION SOUTH,State Treasurer,,Vincent Coe,DEM,214,125,0,0,0,12,77
+Marion,MARION SOUTH,State Treasurer,,Trav Robertson Jr,DEM,194,96,0,0,0,10,88
+Marion,MARION WEST,State Treasurer,,Vincent Coe,DEM,75,31,0,0,0,8,36
+Marion,MARION WEST,State Treasurer,,Trav Robertson Jr,DEM,54,28,0,0,0,3,23
+Marion,N EAST MULLINS,State Treasurer,,Vincent Coe,DEM,169,73,0,0,0,5,91
+Marion,N EAST MULLINS,State Treasurer,,Trav Robertson Jr,DEM,103,52,0,0,0,0,51
+Marion,N WEST MULLINS,State Treasurer,,Vincent Coe,DEM,110,49,0,0,0,3,58
+Marion,N WEST MULLINS,State Treasurer,,Trav Robertson Jr,DEM,96,48,0,0,0,0,48
+Marion,NICHOLS,State Treasurer,,Vincent Coe,DEM,40,17,0,0,0,0,23
+Marion,NICHOLS,State Treasurer,,Trav Robertson Jr,DEM,31,9,0,0,0,0,22
+Marion,Provisional,State Treasurer,,Vincent Coe,DEM,3,0,0,3,0,0,0
+Marion,Provisional,State Treasurer,,Trav Robertson Jr,DEM,4,0,0,4,0,0,0
+Marion,RAINS,State Treasurer,,Vincent Coe,DEM,81,34,0,0,0,4,43
+Marion,RAINS,State Treasurer,,Trav Robertson Jr,DEM,67,23,0,0,0,5,39
+Marion,S EAST MULLINS,State Treasurer,,Vincent Coe,DEM,93,35,0,0,0,3,55
+Marion,S EAST MULLINS,State Treasurer,,Trav Robertson Jr,DEM,59,24,0,0,0,0,35
+Marion,S WEST MULLINS,State Treasurer,,Vincent Coe,DEM,153,88,0,0,0,6,59
+Marion,S WEST MULLINS,State Treasurer,,Trav Robertson Jr,DEM,114,58,0,0,0,0,56
+Marion,SELLERS,State Treasurer,,Vincent Coe,DEM,31,4,0,0,0,1,26
+Marion,SELLERS,State Treasurer,,Trav Robertson Jr,DEM,9,0,0,0,0,0,9
+Marion,TEMPERANCE,State Treasurer,,Vincent Coe,DEM,99,42,0,0,0,5,52
+Marion,TEMPERANCE,State Treasurer,,Trav Robertson Jr,DEM,66,23,0,0,0,4,39
+Marion,ZION,State Treasurer,,Vincent Coe,DEM,54,22,0,0,0,2,30
+Marion,ZION,State Treasurer,,Trav Robertson Jr,DEM,42,17,0,0,0,1,24
+Marion,BRITTON'S NECK,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Marion,BRITTON'S NECK,U.S. Senate,,Thomas Keith Dismukes,REP,5,1,0,0,0,0,4
+Marion,BRITTON'S NECK,U.S. Senate,,Lindsey Graham,REP,44,5,0,0,0,0,39
+Marion,BRITTON'S NECK,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,1,2
+Marion,BRITTON'S NECK,U.S. Senate,,Mark Lynch,REP,6,0,0,0,0,0,6
+Marion,BRITTON'S NECK,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Marion,BRITTON'S NECK,U.S. Senate,,Annie Andrews,DEM,110,40,0,0,0,14,56
+Marion,BRITTON'S NECK,U.S. Senate,,Brandon P Brown,DEM,249,68,0,0,0,32,149
+Marion,BRITTON'S NECK,U.S. Senate,,Kyle Freeman,DEM,34,12,0,0,0,1,21
+Marion,CENTENARY,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Marion,CENTENARY,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Marion,CENTENARY,U.S. Senate,,Lindsey Graham,REP,49,4,0,0,0,3,42
+Marion,CENTENARY,U.S. Senate,,Pat Herrmann,REP,6,0,0,0,0,0,6
+Marion,CENTENARY,U.S. Senate,,Mark Lynch,REP,10,8,0,0,0,0,2
+Marion,CENTENARY,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Marion,CENTENARY,U.S. Senate,,Annie Andrews,DEM,124,51,0,0,0,4,69
+Marion,CENTENARY,U.S. Senate,,Brandon P Brown,DEM,149,51,0,0,0,15,83
+Marion,CENTENARY,U.S. Senate,,Kyle Freeman,DEM,30,8,0,0,0,2,20
+Marion,FRIENDSHIP,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Marion,FRIENDSHIP,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Marion,FRIENDSHIP,U.S. Senate,,Lindsey Graham,REP,17,2,0,0,0,0,15
+Marion,FRIENDSHIP,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Marion,FRIENDSHIP,U.S. Senate,,Mark Lynch,REP,6,0,0,0,0,0,6
+Marion,FRIENDSHIP,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Marion,FRIENDSHIP,U.S. Senate,,Annie Andrews,DEM,24,3,0,0,0,0,21
+Marion,FRIENDSHIP,U.S. Senate,,Brandon P Brown,DEM,28,11,0,0,0,0,17
+Marion,FRIENDSHIP,U.S. Senate,,Kyle Freeman,DEM,8,1,0,0,0,0,7
+Marion,Failsafe,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Marion,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Marion,Failsafe,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Marion,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Marion,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Marion,Failsafe,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Marion,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Marion,Failsafe,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Marion,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Marion,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Marion,MARION NO. 1,U.S. Senate,,Calvin Cowen,REP,4,2,0,0,0,0,2
+Marion,MARION NO. 1,U.S. Senate,,Thomas Keith Dismukes,REP,2,1,0,0,0,0,1
+Marion,MARION NO. 1,U.S. Senate,,Lindsey Graham,REP,40,9,0,0,0,2,29
+Marion,MARION NO. 1,U.S. Senate,,Pat Herrmann,REP,3,2,0,0,0,0,1
+Marion,MARION NO. 1,U.S. Senate,,Mark Lynch,REP,15,7,0,0,0,0,8
+Marion,MARION NO. 1,U.S. Senate,,Darius L Mitchell,REP,3,3,0,0,0,0,0
+Marion,MARION NO. 1,U.S. Senate,,Annie Andrews,DEM,76,41,0,0,0,5,30
+Marion,MARION NO. 1,U.S. Senate,,Brandon P Brown,DEM,67,34,0,0,0,4,29
+Marion,MARION NO. 1,U.S. Senate,,Kyle Freeman,DEM,14,5,0,0,0,0,9
+Marion,MARION NO. 2,U.S. Senate,,Calvin Cowen,REP,6,2,0,0,0,0,4
+Marion,MARION NO. 2,U.S. Senate,,Thomas Keith Dismukes,REP,7,1,0,0,0,0,6
+Marion,MARION NO. 2,U.S. Senate,,Lindsey Graham,REP,139,32,0,0,0,2,105
+Marion,MARION NO. 2,U.S. Senate,,Pat Herrmann,REP,6,1,0,0,0,0,5
+Marion,MARION NO. 2,U.S. Senate,,Mark Lynch,REP,34,11,0,0,0,1,22
+Marion,MARION NO. 2,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Marion,MARION NO. 2,U.S. Senate,,Annie Andrews,DEM,101,46,0,0,0,2,53
+Marion,MARION NO. 2,U.S. Senate,,Brandon P Brown,DEM,72,36,0,0,0,6,30
+Marion,MARION NO. 2,U.S. Senate,,Kyle Freeman,DEM,13,5,0,0,0,1,7
+Marion,MARION NORTH,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Marion,MARION NORTH,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Marion,MARION NORTH,U.S. Senate,,Lindsey Graham,REP,92,13,0,0,0,3,76
+Marion,MARION NORTH,U.S. Senate,,Pat Herrmann,REP,4,2,0,0,0,0,2
+Marion,MARION NORTH,U.S. Senate,,Mark Lynch,REP,17,4,0,0,0,0,13
+Marion,MARION NORTH,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Marion,MARION NORTH,U.S. Senate,,Annie Andrews,DEM,98,43,0,0,0,10,45
+Marion,MARION NORTH,U.S. Senate,,Brandon P Brown,DEM,97,43,0,0,0,2,52
+Marion,MARION NORTH,U.S. Senate,,Kyle Freeman,DEM,28,11,0,0,0,2,15
+Marion,MARION SOUTH,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Marion,MARION SOUTH,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Marion,MARION SOUTH,U.S. Senate,,Lindsey Graham,REP,88,33,0,0,0,2,53
+Marion,MARION SOUTH,U.S. Senate,,Pat Herrmann,REP,4,1,0,0,0,0,3
+Marion,MARION SOUTH,U.S. Senate,,Mark Lynch,REP,15,7,0,0,0,0,8
+Marion,MARION SOUTH,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Marion,MARION SOUTH,U.S. Senate,,Annie Andrews,DEM,178,90,0,0,0,11,77
+Marion,MARION SOUTH,U.S. Senate,,Brandon P Brown,DEM,195,112,0,0,0,12,71
+Marion,MARION SOUTH,U.S. Senate,,Kyle Freeman,DEM,42,22,0,0,0,0,20
+Marion,MARION WEST,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Marion,MARION WEST,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Marion,MARION WEST,U.S. Senate,,Lindsey Graham,REP,68,5,0,0,0,0,63
+Marion,MARION WEST,U.S. Senate,,Pat Herrmann,REP,8,0,0,0,0,0,8
+Marion,MARION WEST,U.S. Senate,,Mark Lynch,REP,17,2,0,0,0,0,15
+Marion,MARION WEST,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Marion,MARION WEST,U.S. Senate,,Annie Andrews,DEM,54,26,0,0,0,5,23
+Marion,MARION WEST,U.S. Senate,,Brandon P Brown,DEM,68,32,0,0,0,6,30
+Marion,MARION WEST,U.S. Senate,,Kyle Freeman,DEM,12,2,0,0,0,0,10
+Marion,N EAST MULLINS,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Marion,N EAST MULLINS,U.S. Senate,,Thomas Keith Dismukes,REP,4,0,0,0,0,0,4
+Marion,N EAST MULLINS,U.S. Senate,,Lindsey Graham,REP,92,30,0,0,0,0,62
+Marion,N EAST MULLINS,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Marion,N EAST MULLINS,U.S. Senate,,Mark Lynch,REP,10,0,0,0,0,0,10
+Marion,N EAST MULLINS,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Marion,N EAST MULLINS,U.S. Senate,,Annie Andrews,DEM,101,45,0,0,0,2,54
+Marion,N EAST MULLINS,U.S. Senate,,Brandon P Brown,DEM,146,66,0,0,0,2,78
+Marion,N EAST MULLINS,U.S. Senate,,Kyle Freeman,DEM,29,16,0,0,0,1,12
+Marion,N WEST MULLINS,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Marion,N WEST MULLINS,U.S. Senate,,Thomas Keith Dismukes,REP,5,0,0,0,0,0,5
+Marion,N WEST MULLINS,U.S. Senate,,Lindsey Graham,REP,49,21,0,0,0,0,28
+Marion,N WEST MULLINS,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Marion,N WEST MULLINS,U.S. Senate,,Mark Lynch,REP,9,3,0,0,0,0,6
+Marion,N WEST MULLINS,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Marion,N WEST MULLINS,U.S. Senate,,Annie Andrews,DEM,72,41,0,0,0,1,30
+Marion,N WEST MULLINS,U.S. Senate,,Brandon P Brown,DEM,98,44,0,0,0,2,52
+Marion,N WEST MULLINS,U.S. Senate,,Kyle Freeman,DEM,33,11,0,0,0,0,22
+Marion,NICHOLS,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Marion,NICHOLS,U.S. Senate,,Thomas Keith Dismukes,REP,4,0,0,0,0,0,4
+Marion,NICHOLS,U.S. Senate,,Lindsey Graham,REP,48,8,0,0,0,0,40
+Marion,NICHOLS,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Marion,NICHOLS,U.S. Senate,,Mark Lynch,REP,13,3,0,0,0,0,10
+Marion,NICHOLS,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Marion,NICHOLS,U.S. Senate,,Annie Andrews,DEM,25,14,0,0,0,0,11
+Marion,NICHOLS,U.S. Senate,,Brandon P Brown,DEM,35,11,0,0,0,0,24
+Marion,NICHOLS,U.S. Senate,,Kyle Freeman,DEM,14,3,0,0,0,0,11
+Marion,Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Marion,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Marion,Provisional,U.S. Senate,,Lindsey Graham,REP,2,0,0,2,0,0,0
+Marion,Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Marion,Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Marion,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Marion,Provisional,U.S. Senate,,Annie Andrews,DEM,2,0,0,2,0,0,0
+Marion,Provisional,U.S. Senate,,Brandon P Brown,DEM,5,0,0,5,0,0,0
+Marion,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Marion,RAINS,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Marion,RAINS,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Marion,RAINS,U.S. Senate,,Lindsey Graham,REP,34,3,0,0,0,0,31
+Marion,RAINS,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Marion,RAINS,U.S. Senate,,Mark Lynch,REP,5,0,0,0,0,0,5
+Marion,RAINS,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Marion,RAINS,U.S. Senate,,Annie Andrews,DEM,71,22,0,0,0,6,43
+Marion,RAINS,U.S. Senate,,Brandon P Brown,DEM,62,30,0,0,0,3,29
+Marion,RAINS,U.S. Senate,,Kyle Freeman,DEM,17,5,0,0,0,0,12
+Marion,S EAST MULLINS,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Marion,S EAST MULLINS,U.S. Senate,,Thomas Keith Dismukes,REP,6,1,0,0,0,0,5
+Marion,S EAST MULLINS,U.S. Senate,,Lindsey Graham,REP,161,52,0,0,0,5,104
+Marion,S EAST MULLINS,U.S. Senate,,Pat Herrmann,REP,8,3,0,0,0,0,5
+Marion,S EAST MULLINS,U.S. Senate,,Mark Lynch,REP,29,6,0,0,0,1,22
+Marion,S EAST MULLINS,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Marion,S EAST MULLINS,U.S. Senate,,Annie Andrews,DEM,65,26,0,0,0,2,37
+Marion,S EAST MULLINS,U.S. Senate,,Brandon P Brown,DEM,59,24,0,0,0,1,34
+Marion,S EAST MULLINS,U.S. Senate,,Kyle Freeman,DEM,30,9,0,0,0,0,21
+Marion,S WEST MULLINS,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Marion,S WEST MULLINS,U.S. Senate,,Thomas Keith Dismukes,REP,4,2,0,0,0,0,2
+Marion,S WEST MULLINS,U.S. Senate,,Lindsey Graham,REP,91,24,0,0,0,0,67
+Marion,S WEST MULLINS,U.S. Senate,,Pat Herrmann,REP,7,4,0,0,0,1,2
+Marion,S WEST MULLINS,U.S. Senate,,Mark Lynch,REP,22,8,0,0,0,0,14
+Marion,S WEST MULLINS,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Marion,S WEST MULLINS,U.S. Senate,,Annie Andrews,DEM,101,53,0,0,0,5,43
+Marion,S WEST MULLINS,U.S. Senate,,Brandon P Brown,DEM,117,69,0,0,0,1,47
+Marion,S WEST MULLINS,U.S. Senate,,Kyle Freeman,DEM,46,21,0,0,0,0,25
+Marion,SELLERS,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Marion,SELLERS,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Marion,SELLERS,U.S. Senate,,Lindsey Graham,REP,6,0,0,0,0,0,6
+Marion,SELLERS,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Marion,SELLERS,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Marion,SELLERS,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Marion,SELLERS,U.S. Senate,,Annie Andrews,DEM,16,0,0,0,0,0,16
+Marion,SELLERS,U.S. Senate,,Brandon P Brown,DEM,19,3,0,0,0,1,15
+Marion,SELLERS,U.S. Senate,,Kyle Freeman,DEM,4,0,0,0,0,0,4
+Marion,TEMPERANCE,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Marion,TEMPERANCE,U.S. Senate,,Thomas Keith Dismukes,REP,1,1,0,0,0,0,0
+Marion,TEMPERANCE,U.S. Senate,,Lindsey Graham,REP,50,3,0,0,0,0,47
+Marion,TEMPERANCE,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Marion,TEMPERANCE,U.S. Senate,,Mark Lynch,REP,24,0,0,0,0,0,24
+Marion,TEMPERANCE,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Marion,TEMPERANCE,U.S. Senate,,Annie Andrews,DEM,64,28,0,0,0,3,33
+Marion,TEMPERANCE,U.S. Senate,,Brandon P Brown,DEM,88,34,0,0,0,6,48
+Marion,TEMPERANCE,U.S. Senate,,Kyle Freeman,DEM,15,3,0,0,0,0,12
+Marion,ZION,U.S. Senate,,Calvin Cowen,REP,3,1,0,0,0,0,2
+Marion,ZION,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Marion,ZION,U.S. Senate,,Lindsey Graham,REP,36,6,0,0,0,0,30
+Marion,ZION,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Marion,ZION,U.S. Senate,,Mark Lynch,REP,7,2,0,0,0,0,5
+Marion,ZION,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Marion,ZION,U.S. Senate,,Annie Andrews,DEM,38,18,0,0,0,1,19
+Marion,ZION,U.S. Senate,,Brandon P Brown,DEM,46,15,0,0,0,2,29
+Marion,ZION,U.S. Senate,,Kyle Freeman,DEM,11,5,0,0,0,0,6

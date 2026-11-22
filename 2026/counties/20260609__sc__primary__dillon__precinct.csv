@@ -1,0 +1,847 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Dillon,Bermuda,Advisory Question 1,,Yes,REP,24,6,0,0,0,0,18
+Dillon,Bermuda,Advisory Question 1,,No,REP,5,2,0,0,0,0,3
+Dillon,Carolina,Advisory Question 1,,Yes,REP,13,1,0,0,0,0,12
+Dillon,Carolina,Advisory Question 1,,No,REP,1,0,0,0,0,0,1
+Dillon,East Dillon,Advisory Question 1,,Yes,REP,245,70,0,0,0,2,173
+Dillon,East Dillon,Advisory Question 1,,No,REP,34,10,0,0,0,1,23
+Dillon,Failsafe,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Dillon,Floydale,Advisory Question 1,,Yes,REP,80,6,0,0,0,1,73
+Dillon,Floydale,Advisory Question 1,,No,REP,10,0,0,0,0,0,10
+Dillon,Fork,Advisory Question 1,,Yes,REP,56,4,0,0,0,0,52
+Dillon,Fork,Advisory Question 1,,No,REP,1,0,0,0,0,0,1
+Dillon,Hamer,Advisory Question 1,,Yes,REP,45,9,0,0,0,2,34
+Dillon,Hamer,Advisory Question 1,,No,REP,3,0,0,0,0,0,3
+Dillon,Kemper,Advisory Question 1,,Yes,REP,26,4,0,0,0,0,22
+Dillon,Kemper,Advisory Question 1,,No,REP,3,0,0,0,0,0,3
+Dillon,Lake View,Advisory Question 1,,Yes,REP,105,3,0,0,0,0,102
+Dillon,Lake View,Advisory Question 1,,No,REP,12,0,0,0,0,0,12
+Dillon,Latta,Advisory Question 1,,Yes,REP,184,37,0,0,0,0,147
+Dillon,Latta,Advisory Question 1,,No,REP,37,9,0,0,0,0,28
+Dillon,Little Rock,Advisory Question 1,,Yes,REP,29,4,0,0,0,0,25
+Dillon,Little Rock,Advisory Question 1,,No,REP,2,1,0,0,0,0,1
+Dillon,Manning,Advisory Question 1,,Yes,REP,27,6,0,0,0,0,21
+Dillon,Manning,Advisory Question 1,,No,REP,3,0,0,0,0,0,3
+Dillon,Minturn,Advisory Question 1,,Yes,REP,26,1,0,0,0,0,25
+Dillon,Minturn,Advisory Question 1,,No,REP,1,0,0,0,0,0,1
+Dillon,Mt. Calvary,Advisory Question 1,,Yes,REP,74,13,0,0,0,0,61
+Dillon,Mt. Calvary,Advisory Question 1,,No,REP,2,0,0,0,0,0,2
+Dillon,New Holly,Advisory Question 1,,Yes,REP,45,9,0,0,0,0,36
+Dillon,New Holly,Advisory Question 1,,No,REP,5,3,0,0,0,0,2
+Dillon,Oak Grove,Advisory Question 1,,Yes,REP,67,5,0,0,0,0,62
+Dillon,Oak Grove,Advisory Question 1,,No,REP,6,0,0,0,0,0,6
+Dillon,Oakland,Advisory Question 1,,Yes,REP,51,1,0,0,0,0,50
+Dillon,Oakland,Advisory Question 1,,No,REP,6,0,0,0,0,0,6
+Dillon,Pleasant Hill,Advisory Question 1,,Yes,REP,44,7,0,0,0,1,36
+Dillon,Pleasant Hill,Advisory Question 1,,No,REP,4,0,0,0,0,0,4
+Dillon,Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Dillon,South Dillon,Advisory Question 1,,Yes,REP,27,15,0,0,0,0,12
+Dillon,South Dillon,Advisory Question 1,,No,REP,3,3,0,0,0,0,0
+Dillon,West Dillon,Advisory Question 1,,Yes,REP,44,18,0,0,0,2,24
+Dillon,West Dillon,Advisory Question 1,,No,REP,1,0,0,0,0,0,1
+Dillon,Bermuda,Advisory Question 2,,Yes,REP,16,4,0,0,0,0,12
+Dillon,Bermuda,Advisory Question 2,,No,REP,13,4,0,0,0,0,9
+Dillon,Carolina,Advisory Question 2,,Yes,REP,10,1,0,0,0,0,9
+Dillon,Carolina,Advisory Question 2,,No,REP,4,0,0,0,0,0,4
+Dillon,East Dillon,Advisory Question 2,,Yes,REP,225,69,0,0,0,2,154
+Dillon,East Dillon,Advisory Question 2,,No,REP,52,10,0,0,0,1,41
+Dillon,Failsafe,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Dillon,Floydale,Advisory Question 2,,Yes,REP,72,5,0,0,0,1,66
+Dillon,Floydale,Advisory Question 2,,No,REP,17,0,0,0,0,0,17
+Dillon,Fork,Advisory Question 2,,Yes,REP,49,2,0,0,0,0,47
+Dillon,Fork,Advisory Question 2,,No,REP,8,2,0,0,0,0,6
+Dillon,Hamer,Advisory Question 2,,Yes,REP,41,8,0,0,0,2,31
+Dillon,Hamer,Advisory Question 2,,No,REP,7,1,0,0,0,0,6
+Dillon,Kemper,Advisory Question 2,,Yes,REP,26,4,0,0,0,0,22
+Dillon,Kemper,Advisory Question 2,,No,REP,1,0,0,0,0,0,1
+Dillon,Lake View,Advisory Question 2,,Yes,REP,97,3,0,0,0,0,94
+Dillon,Lake View,Advisory Question 2,,No,REP,20,0,0,0,0,0,20
+Dillon,Latta,Advisory Question 2,,Yes,REP,169,36,0,0,0,0,133
+Dillon,Latta,Advisory Question 2,,No,REP,52,11,0,0,0,0,41
+Dillon,Little Rock,Advisory Question 2,,Yes,REP,27,2,0,0,0,0,25
+Dillon,Little Rock,Advisory Question 2,,No,REP,4,3,0,0,0,0,1
+Dillon,Manning,Advisory Question 2,,Yes,REP,24,5,0,0,0,0,19
+Dillon,Manning,Advisory Question 2,,No,REP,6,1,0,0,0,0,5
+Dillon,Minturn,Advisory Question 2,,Yes,REP,23,0,0,0,0,0,23
+Dillon,Minturn,Advisory Question 2,,No,REP,4,1,0,0,0,0,3
+Dillon,Mt. Calvary,Advisory Question 2,,Yes,REP,65,11,0,0,0,0,54
+Dillon,Mt. Calvary,Advisory Question 2,,No,REP,12,2,0,0,0,0,10
+Dillon,New Holly,Advisory Question 2,,Yes,REP,39,9,0,0,0,0,30
+Dillon,New Holly,Advisory Question 2,,No,REP,10,3,0,0,0,0,7
+Dillon,Oak Grove,Advisory Question 2,,Yes,REP,56,0,0,0,0,0,56
+Dillon,Oak Grove,Advisory Question 2,,No,REP,17,5,0,0,0,0,12
+Dillon,Oakland,Advisory Question 2,,Yes,REP,43,1,0,0,0,0,42
+Dillon,Oakland,Advisory Question 2,,No,REP,15,0,0,0,0,0,15
+Dillon,Pleasant Hill,Advisory Question 2,,Yes,REP,34,5,0,0,0,1,28
+Dillon,Pleasant Hill,Advisory Question 2,,No,REP,14,2,0,0,0,0,12
+Dillon,Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Dillon,South Dillon,Advisory Question 2,,Yes,REP,24,15,0,0,0,0,9
+Dillon,South Dillon,Advisory Question 2,,No,REP,6,3,0,0,0,0,3
+Dillon,West Dillon,Advisory Question 2,,Yes,REP,38,14,0,0,0,2,22
+Dillon,West Dillon,Advisory Question 2,,No,REP,7,4,0,0,0,0,3
+Dillon,Bermuda,Attorney General,,Stephen Goldfinch,REP,23,7,0,0,0,0,16
+Dillon,Bermuda,Attorney General,,David M Pascoe,REP,2,1,0,0,0,0,1
+Dillon,Bermuda,Attorney General,,David Stumbo,REP,3,0,0,0,0,0,3
+Dillon,Carolina,Attorney General,,Stephen Goldfinch,REP,6,1,0,0,0,0,5
+Dillon,Carolina,Attorney General,,David M Pascoe,REP,3,0,0,0,0,0,3
+Dillon,Carolina,Attorney General,,David Stumbo,REP,3,0,0,0,0,0,3
+Dillon,East Dillon,Attorney General,,Stephen Goldfinch,REP,153,40,0,0,0,0,113
+Dillon,East Dillon,Attorney General,,David M Pascoe,REP,45,11,0,0,0,0,34
+Dillon,East Dillon,Attorney General,,David Stumbo,REP,66,27,0,0,0,2,37
+Dillon,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Dillon,Floydale,Attorney General,,Stephen Goldfinch,REP,53,4,0,0,0,1,48
+Dillon,Floydale,Attorney General,,David M Pascoe,REP,16,1,0,0,0,0,15
+Dillon,Floydale,Attorney General,,David Stumbo,REP,15,1,0,0,0,0,14
+Dillon,Fork,Attorney General,,Stephen Goldfinch,REP,26,1,0,0,0,0,25
+Dillon,Fork,Attorney General,,David M Pascoe,REP,15,1,0,0,0,0,14
+Dillon,Fork,Attorney General,,David Stumbo,REP,13,2,0,0,0,0,11
+Dillon,Hamer,Attorney General,,Stephen Goldfinch,REP,32,8,0,0,0,2,22
+Dillon,Hamer,Attorney General,,David M Pascoe,REP,7,1,0,0,0,0,6
+Dillon,Hamer,Attorney General,,David Stumbo,REP,6,0,0,0,0,0,6
+Dillon,Kemper,Attorney General,,Stephen Goldfinch,REP,13,4,0,0,0,0,9
+Dillon,Kemper,Attorney General,,David M Pascoe,REP,7,0,0,0,0,0,7
+Dillon,Kemper,Attorney General,,David Stumbo,REP,6,0,0,0,0,0,6
+Dillon,Lake View,Attorney General,,Stephen Goldfinch,REP,66,1,0,0,0,0,65
+Dillon,Lake View,Attorney General,,David M Pascoe,REP,17,0,0,0,0,0,17
+Dillon,Lake View,Attorney General,,David Stumbo,REP,22,2,0,0,0,0,20
+Dillon,Latta,Attorney General,,Stephen Goldfinch,REP,133,29,0,0,0,0,104
+Dillon,Latta,Attorney General,,David M Pascoe,REP,41,11,0,0,0,0,30
+Dillon,Latta,Attorney General,,David Stumbo,REP,40,6,0,0,0,0,34
+Dillon,Little Rock,Attorney General,,Stephen Goldfinch,REP,15,4,0,0,0,0,11
+Dillon,Little Rock,Attorney General,,David M Pascoe,REP,4,2,0,0,0,0,2
+Dillon,Little Rock,Attorney General,,David Stumbo,REP,11,0,0,0,0,0,11
+Dillon,Manning,Attorney General,,Stephen Goldfinch,REP,23,4,0,0,0,0,19
+Dillon,Manning,Attorney General,,David M Pascoe,REP,1,0,0,0,0,0,1
+Dillon,Manning,Attorney General,,David Stumbo,REP,6,2,0,0,0,0,4
+Dillon,Minturn,Attorney General,,Stephen Goldfinch,REP,14,1,0,0,0,0,13
+Dillon,Minturn,Attorney General,,David M Pascoe,REP,9,0,0,0,0,0,9
+Dillon,Minturn,Attorney General,,David Stumbo,REP,4,0,0,0,0,0,4
+Dillon,Mt. Calvary,Attorney General,,Stephen Goldfinch,REP,47,5,0,0,0,0,42
+Dillon,Mt. Calvary,Attorney General,,David M Pascoe,REP,9,2,0,0,0,0,7
+Dillon,Mt. Calvary,Attorney General,,David Stumbo,REP,17,6,0,0,0,0,11
+Dillon,New Holly,Attorney General,,Stephen Goldfinch,REP,27,7,0,0,0,0,20
+Dillon,New Holly,Attorney General,,David M Pascoe,REP,6,1,0,0,0,0,5
+Dillon,New Holly,Attorney General,,David Stumbo,REP,12,1,0,0,0,0,11
+Dillon,Oak Grove,Attorney General,,Stephen Goldfinch,REP,48,4,0,0,0,0,44
+Dillon,Oak Grove,Attorney General,,David M Pascoe,REP,12,0,0,0,0,0,12
+Dillon,Oak Grove,Attorney General,,David Stumbo,REP,8,1,0,0,0,0,7
+Dillon,Oakland,Attorney General,,Stephen Goldfinch,REP,27,1,0,0,0,0,26
+Dillon,Oakland,Attorney General,,David M Pascoe,REP,16,0,0,0,0,0,16
+Dillon,Oakland,Attorney General,,David Stumbo,REP,6,0,0,0,0,0,6
+Dillon,Pleasant Hill,Attorney General,,Stephen Goldfinch,REP,20,4,0,0,0,0,16
+Dillon,Pleasant Hill,Attorney General,,David M Pascoe,REP,8,1,0,0,0,0,7
+Dillon,Pleasant Hill,Attorney General,,David Stumbo,REP,18,2,0,0,0,1,15
+Dillon,Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Dillon,South Dillon,Attorney General,,Stephen Goldfinch,REP,17,7,0,0,0,0,10
+Dillon,South Dillon,Attorney General,,David M Pascoe,REP,5,4,0,0,0,0,1
+Dillon,South Dillon,Attorney General,,David Stumbo,REP,6,6,0,0,0,0,0
+Dillon,West Dillon,Attorney General,,Stephen Goldfinch,REP,20,7,0,0,0,2,11
+Dillon,West Dillon,Attorney General,,David M Pascoe,REP,15,5,0,0,0,1,9
+Dillon,West Dillon,Attorney General,,David Stumbo,REP,8,3,0,0,0,0,5
+Dillon,Bermuda,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,0,0,0,0,0,3
+Dillon,Bermuda,Commissioner of Agriculture,,Danny Ford,REP,6,1,0,0,0,0,5
+Dillon,Bermuda,Commissioner of Agriculture,,Cody Simpson,REP,14,3,0,0,0,0,11
+Dillon,Bermuda,Commissioner of Agriculture,,Fred West,REP,3,2,0,0,0,0,1
+Dillon,Carolina,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,0,0,0,0,0,1
+Dillon,Carolina,Commissioner of Agriculture,,Danny Ford,REP,4,0,0,0,0,0,4
+Dillon,Carolina,Commissioner of Agriculture,,Cody Simpson,REP,7,1,0,0,0,0,6
+Dillon,Carolina,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Dillon,East Dillon,Commissioner of Agriculture,,Jeremy B Cannon,REP,30,8,0,0,0,0,22
+Dillon,East Dillon,Commissioner of Agriculture,,Danny Ford,REP,86,22,0,0,0,1,63
+Dillon,East Dillon,Commissioner of Agriculture,,Cody Simpson,REP,132,43,0,0,0,1,88
+Dillon,East Dillon,Commissioner of Agriculture,,Fred West,REP,23,6,0,0,0,0,17
+Dillon,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Dillon,Floydale,Commissioner of Agriculture,,Jeremy B Cannon,REP,10,0,0,0,0,0,10
+Dillon,Floydale,Commissioner of Agriculture,,Danny Ford,REP,18,2,0,0,0,0,16
+Dillon,Floydale,Commissioner of Agriculture,,Cody Simpson,REP,48,3,0,0,0,0,45
+Dillon,Floydale,Commissioner of Agriculture,,Fred West,REP,11,1,0,0,0,1,9
+Dillon,Fork,Commissioner of Agriculture,,Jeremy B Cannon,REP,10,1,0,0,0,0,9
+Dillon,Fork,Commissioner of Agriculture,,Danny Ford,REP,22,0,0,0,0,0,22
+Dillon,Fork,Commissioner of Agriculture,,Cody Simpson,REP,19,2,0,0,0,0,17
+Dillon,Fork,Commissioner of Agriculture,,Fred West,REP,3,1,0,0,0,0,2
+Dillon,Hamer,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,3,0,0,0,0,6
+Dillon,Hamer,Commissioner of Agriculture,,Danny Ford,REP,10,3,0,0,0,0,7
+Dillon,Hamer,Commissioner of Agriculture,,Cody Simpson,REP,23,3,0,0,0,2,18
+Dillon,Hamer,Commissioner of Agriculture,,Fred West,REP,3,0,0,0,0,0,3
+Dillon,Kemper,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,0,0,0,0,0,7
+Dillon,Kemper,Commissioner of Agriculture,,Danny Ford,REP,8,3,0,0,0,0,5
+Dillon,Kemper,Commissioner of Agriculture,,Cody Simpson,REP,10,1,0,0,0,0,9
+Dillon,Kemper,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Dillon,Lake View,Commissioner of Agriculture,,Jeremy B Cannon,REP,12,0,0,0,0,0,12
+Dillon,Lake View,Commissioner of Agriculture,,Danny Ford,REP,54,0,0,0,0,0,54
+Dillon,Lake View,Commissioner of Agriculture,,Cody Simpson,REP,36,2,0,0,0,0,34
+Dillon,Lake View,Commissioner of Agriculture,,Fred West,REP,7,1,0,0,0,0,6
+Dillon,Latta,Commissioner of Agriculture,,Jeremy B Cannon,REP,31,1,0,0,0,0,30
+Dillon,Latta,Commissioner of Agriculture,,Danny Ford,REP,76,12,0,0,0,0,64
+Dillon,Latta,Commissioner of Agriculture,,Cody Simpson,REP,99,28,0,0,0,0,71
+Dillon,Latta,Commissioner of Agriculture,,Fred West,REP,11,3,0,0,0,0,8
+Dillon,Little Rock,Commissioner of Agriculture,,Jeremy B Cannon,REP,2,1,0,0,0,0,1
+Dillon,Little Rock,Commissioner of Agriculture,,Danny Ford,REP,9,0,0,0,0,0,9
+Dillon,Little Rock,Commissioner of Agriculture,,Cody Simpson,REP,16,3,0,0,0,0,13
+Dillon,Little Rock,Commissioner of Agriculture,,Fred West,REP,3,2,0,0,0,0,1
+Dillon,Manning,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,3,0,0,0,0,0
+Dillon,Manning,Commissioner of Agriculture,,Danny Ford,REP,10,1,0,0,0,0,9
+Dillon,Manning,Commissioner of Agriculture,,Cody Simpson,REP,12,0,0,0,0,0,12
+Dillon,Manning,Commissioner of Agriculture,,Fred West,REP,4,2,0,0,0,0,2
+Dillon,Minturn,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,0,0,0,0,0,7
+Dillon,Minturn,Commissioner of Agriculture,,Danny Ford,REP,2,0,0,0,0,0,2
+Dillon,Minturn,Commissioner of Agriculture,,Cody Simpson,REP,14,1,0,0,0,0,13
+Dillon,Minturn,Commissioner of Agriculture,,Fred West,REP,2,0,0,0,0,0,2
+Dillon,Mt. Calvary,Commissioner of Agriculture,,Jeremy B Cannon,REP,10,0,0,0,0,0,10
+Dillon,Mt. Calvary,Commissioner of Agriculture,,Danny Ford,REP,24,7,0,0,0,0,17
+Dillon,Mt. Calvary,Commissioner of Agriculture,,Cody Simpson,REP,34,5,0,0,0,0,29
+Dillon,Mt. Calvary,Commissioner of Agriculture,,Fred West,REP,6,1,0,0,0,0,5
+Dillon,New Holly,Commissioner of Agriculture,,Jeremy B Cannon,REP,6,0,0,0,0,0,6
+Dillon,New Holly,Commissioner of Agriculture,,Danny Ford,REP,15,1,0,0,0,0,14
+Dillon,New Holly,Commissioner of Agriculture,,Cody Simpson,REP,19,10,0,0,0,0,9
+Dillon,New Holly,Commissioner of Agriculture,,Fred West,REP,7,0,0,0,0,0,7
+Dillon,Oak Grove,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,1,0,0,0,0,8
+Dillon,Oak Grove,Commissioner of Agriculture,,Danny Ford,REP,26,0,0,0,0,0,26
+Dillon,Oak Grove,Commissioner of Agriculture,,Cody Simpson,REP,27,4,0,0,0,0,23
+Dillon,Oak Grove,Commissioner of Agriculture,,Fred West,REP,4,0,0,0,0,0,4
+Dillon,Oakland,Commissioner of Agriculture,,Jeremy B Cannon,REP,8,0,0,0,0,0,8
+Dillon,Oakland,Commissioner of Agriculture,,Danny Ford,REP,18,0,0,0,0,0,18
+Dillon,Oakland,Commissioner of Agriculture,,Cody Simpson,REP,15,1,0,0,0,0,14
+Dillon,Oakland,Commissioner of Agriculture,,Fred West,REP,7,0,0,0,0,0,7
+Dillon,Pleasant Hill,Commissioner of Agriculture,,Jeremy B Cannon,REP,2,0,0,0,0,0,2
+Dillon,Pleasant Hill,Commissioner of Agriculture,,Danny Ford,REP,14,2,0,0,0,0,12
+Dillon,Pleasant Hill,Commissioner of Agriculture,,Cody Simpson,REP,24,2,0,0,0,1,21
+Dillon,Pleasant Hill,Commissioner of Agriculture,,Fred West,REP,5,2,0,0,0,0,3
+Dillon,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Dillon,South Dillon,Commissioner of Agriculture,,Jeremy B Cannon,REP,6,3,0,0,0,0,3
+Dillon,South Dillon,Commissioner of Agriculture,,Danny Ford,REP,5,2,0,0,0,0,3
+Dillon,South Dillon,Commissioner of Agriculture,,Cody Simpson,REP,14,9,0,0,0,0,5
+Dillon,South Dillon,Commissioner of Agriculture,,Fred West,REP,2,2,0,0,0,0,0
+Dillon,West Dillon,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,4,0,0,0,0,3
+Dillon,West Dillon,Commissioner of Agriculture,,Danny Ford,REP,11,3,0,0,0,1,7
+Dillon,West Dillon,Commissioner of Agriculture,,Cody Simpson,REP,19,7,0,0,0,1,11
+Dillon,West Dillon,Commissioner of Agriculture,,Fred West,REP,5,1,0,0,0,0,4
+Dillon,Bermuda,Comptroller General,,Tiffany Boozer,DEM,15,3,0,0,0,0,12
+Dillon,Bermuda,Comptroller General,,Bruce K Cole,DEM,8,2,0,0,0,0,6
+Dillon,Carolina,Comptroller General,,Tiffany Boozer,DEM,21,2,0,0,0,0,19
+Dillon,Carolina,Comptroller General,,Bruce K Cole,DEM,13,0,0,0,0,0,13
+Dillon,East Dillon,Comptroller General,,Tiffany Boozer,DEM,73,29,0,0,0,4,40
+Dillon,East Dillon,Comptroller General,,Bruce K Cole,DEM,33,18,0,0,0,1,14
+Dillon,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Dillon,Floydale,Comptroller General,,Tiffany Boozer,DEM,20,8,0,0,0,2,10
+Dillon,Floydale,Comptroller General,,Bruce K Cole,DEM,5,1,0,0,0,0,4
+Dillon,Fork,Comptroller General,,Tiffany Boozer,DEM,26,17,0,0,0,0,9
+Dillon,Fork,Comptroller General,,Bruce K Cole,DEM,7,1,0,0,0,0,6
+Dillon,Hamer,Comptroller General,,Tiffany Boozer,DEM,69,21,0,0,0,8,40
+Dillon,Hamer,Comptroller General,,Bruce K Cole,DEM,20,6,0,0,0,1,13
+Dillon,Kemper,Comptroller General,,Tiffany Boozer,DEM,28,5,0,0,0,0,23
+Dillon,Kemper,Comptroller General,,Bruce K Cole,DEM,10,1,0,0,0,0,9
+Dillon,Lake View,Comptroller General,,Tiffany Boozer,DEM,91,20,0,0,0,5,66
+Dillon,Lake View,Comptroller General,,Bruce K Cole,DEM,21,9,0,0,0,1,11
+Dillon,Latta,Comptroller General,,Tiffany Boozer,DEM,225,102,0,0,0,24,99
+Dillon,Latta,Comptroller General,,Bruce K Cole,DEM,60,30,0,0,0,0,30
+Dillon,Little Rock,Comptroller General,,Tiffany Boozer,DEM,72,16,0,0,0,4,52
+Dillon,Little Rock,Comptroller General,,Bruce K Cole,DEM,9,2,0,0,0,0,7
+Dillon,Manning,Comptroller General,,Tiffany Boozer,DEM,24,7,0,0,0,0,17
+Dillon,Manning,Comptroller General,,Bruce K Cole,DEM,3,2,0,0,0,0,1
+Dillon,Minturn,Comptroller General,,Tiffany Boozer,DEM,11,6,0,0,0,0,5
+Dillon,Minturn,Comptroller General,,Bruce K Cole,DEM,8,1,0,0,0,0,7
+Dillon,Mt. Calvary,Comptroller General,,Tiffany Boozer,DEM,203,65,0,0,0,2,136
+Dillon,Mt. Calvary,Comptroller General,,Bruce K Cole,DEM,60,16,0,0,0,1,43
+Dillon,New Holly,Comptroller General,,Tiffany Boozer,DEM,16,5,0,0,0,3,8
+Dillon,New Holly,Comptroller General,,Bruce K Cole,DEM,17,3,0,0,0,2,12
+Dillon,Oak Grove,Comptroller General,,Tiffany Boozer,DEM,49,13,0,0,0,6,30
+Dillon,Oak Grove,Comptroller General,,Bruce K Cole,DEM,40,10,0,0,0,16,14
+Dillon,Oakland,Comptroller General,,Tiffany Boozer,DEM,93,24,0,0,0,1,68
+Dillon,Oakland,Comptroller General,,Bruce K Cole,DEM,20,4,0,0,0,0,16
+Dillon,Pleasant Hill,Comptroller General,,Tiffany Boozer,DEM,22,9,0,0,0,3,10
+Dillon,Pleasant Hill,Comptroller General,,Bruce K Cole,DEM,9,5,0,0,0,0,4
+Dillon,Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Dillon,Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Dillon,South Dillon,Comptroller General,,Tiffany Boozer,DEM,144,66,0,0,0,5,73
+Dillon,South Dillon,Comptroller General,,Bruce K Cole,DEM,44,19,0,0,0,0,25
+Dillon,West Dillon,Comptroller General,,Tiffany Boozer,DEM,144,65,0,0,0,4,75
+Dillon,West Dillon,Comptroller General,,Bruce K Cole,DEM,50,15,0,0,0,2,33
+Dillon,Bermuda,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Bermuda,Governor,,Pamela Evette,REP,13,2,0,0,0,0,11
+Dillon,Bermuda,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Dillon,Bermuda,Governor,,Nancy Mace,REP,2,1,0,0,0,0,1
+Dillon,Bermuda,Governor,,Ralph W Norman,REP,1,0,0,0,0,0,1
+Dillon,Bermuda,Governor,,Rom Reddy,REP,4,0,0,0,0,0,4
+Dillon,Bermuda,Governor,,Alan Wilson,REP,10,5,0,0,0,0,5
+Dillon,Bermuda,Governor,,Jermaine Johnson,DEM,11,4,0,0,0,0,7
+Dillon,Bermuda,Governor,,Mullins McLeod,DEM,1,0,0,0,0,0,1
+Dillon,Bermuda,Governor,,Billy Webster,DEM,15,3,0,0,0,0,12
+Dillon,Carolina,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Carolina,Governor,,Pamela Evette,REP,6,0,0,0,0,0,6
+Dillon,Carolina,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Dillon,Carolina,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Dillon,Carolina,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Dillon,Carolina,Governor,,Rom Reddy,REP,6,1,0,0,0,0,5
+Dillon,Carolina,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Dillon,Carolina,Governor,,Jermaine Johnson,DEM,14,1,0,0,0,0,13
+Dillon,Carolina,Governor,,Mullins McLeod,DEM,7,1,0,0,0,0,6
+Dillon,Carolina,Governor,,Billy Webster,DEM,13,0,0,0,0,0,13
+Dillon,East Dillon,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Dillon,East Dillon,Governor,,Pamela Evette,REP,116,27,0,0,0,1,88
+Dillon,East Dillon,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Dillon,East Dillon,Governor,,Nancy Mace,REP,15,3,0,0,0,0,12
+Dillon,East Dillon,Governor,,Ralph W Norman,REP,8,3,0,0,0,0,5
+Dillon,East Dillon,Governor,,Rom Reddy,REP,21,8,0,0,0,0,13
+Dillon,East Dillon,Governor,,Alan Wilson,REP,120,39,0,0,0,2,79
+Dillon,East Dillon,Governor,,Jermaine Johnson,DEM,70,28,0,0,0,4,38
+Dillon,East Dillon,Governor,,Mullins McLeod,DEM,9,5,0,0,0,0,4
+Dillon,East Dillon,Governor,,Billy Webster,DEM,29,14,0,0,0,2,13
+Dillon,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Dillon,Floydale,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Floydale,Governor,,Pamela Evette,REP,34,2,0,0,0,0,32
+Dillon,Floydale,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Dillon,Floydale,Governor,,Nancy Mace,REP,18,0,0,0,0,0,18
+Dillon,Floydale,Governor,,Ralph W Norman,REP,7,0,0,0,0,0,7
+Dillon,Floydale,Governor,,Rom Reddy,REP,7,2,0,0,0,0,5
+Dillon,Floydale,Governor,,Alan Wilson,REP,25,2,0,0,0,1,22
+Dillon,Floydale,Governor,,Jermaine Johnson,DEM,13,4,0,0,0,1,8
+Dillon,Floydale,Governor,,Mullins McLeod,DEM,5,2,0,0,0,0,3
+Dillon,Floydale,Governor,,Billy Webster,DEM,7,3,0,0,0,1,3
+Dillon,Fork,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Fork,Governor,,Pamela Evette,REP,26,0,0,0,0,0,26
+Dillon,Fork,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Dillon,Fork,Governor,,Nancy Mace,REP,7,0,0,0,0,0,7
+Dillon,Fork,Governor,,Ralph W Norman,REP,3,0,0,0,0,0,3
+Dillon,Fork,Governor,,Rom Reddy,REP,3,0,0,0,0,0,3
+Dillon,Fork,Governor,,Alan Wilson,REP,17,3,0,0,0,0,14
+Dillon,Fork,Governor,,Jermaine Johnson,DEM,24,15,0,0,0,0,9
+Dillon,Fork,Governor,,Mullins McLeod,DEM,2,1,0,0,0,0,1
+Dillon,Fork,Governor,,Billy Webster,DEM,7,2,0,0,0,0,5
+Dillon,Hamer,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Hamer,Governor,,Pamela Evette,REP,22,3,0,0,0,2,17
+Dillon,Hamer,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Dillon,Hamer,Governor,,Nancy Mace,REP,3,0,0,0,0,0,3
+Dillon,Hamer,Governor,,Ralph W Norman,REP,3,2,0,0,0,0,1
+Dillon,Hamer,Governor,,Rom Reddy,REP,6,3,0,0,0,0,3
+Dillon,Hamer,Governor,,Alan Wilson,REP,12,1,0,0,0,0,11
+Dillon,Hamer,Governor,,Jermaine Johnson,DEM,67,24,0,0,0,9,34
+Dillon,Hamer,Governor,,Mullins McLeod,DEM,10,4,0,0,0,0,6
+Dillon,Hamer,Governor,,Billy Webster,DEM,17,3,0,0,0,0,14
+Dillon,Kemper,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Kemper,Governor,,Pamela Evette,REP,17,2,0,0,0,0,15
+Dillon,Kemper,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Dillon,Kemper,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Dillon,Kemper,Governor,,Ralph W Norman,REP,1,0,0,0,0,0,1
+Dillon,Kemper,Governor,,Rom Reddy,REP,4,1,0,0,0,0,3
+Dillon,Kemper,Governor,,Alan Wilson,REP,6,1,0,0,0,0,5
+Dillon,Kemper,Governor,,Jermaine Johnson,DEM,21,3,0,0,0,0,18
+Dillon,Kemper,Governor,,Mullins McLeod,DEM,3,1,0,0,0,0,2
+Dillon,Kemper,Governor,,Billy Webster,DEM,14,2,0,0,0,0,12
+Dillon,Lake View,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Lake View,Governor,,Pamela Evette,REP,54,0,0,0,0,0,54
+Dillon,Lake View,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Dillon,Lake View,Governor,,Nancy Mace,REP,7,0,0,0,0,0,7
+Dillon,Lake View,Governor,,Ralph W Norman,REP,10,1,0,0,0,0,9
+Dillon,Lake View,Governor,,Rom Reddy,REP,11,0,0,0,0,0,11
+Dillon,Lake View,Governor,,Alan Wilson,REP,33,2,0,0,0,0,31
+Dillon,Lake View,Governor,,Jermaine Johnson,DEM,86,24,0,0,0,4,58
+Dillon,Lake View,Governor,,Mullins McLeod,DEM,5,3,0,0,0,0,2
+Dillon,Lake View,Governor,,Billy Webster,DEM,23,3,0,0,0,2,18
+Dillon,Latta,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Dillon,Latta,Governor,,Pamela Evette,REP,81,10,0,0,0,0,71
+Dillon,Latta,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Dillon,Latta,Governor,,Nancy Mace,REP,15,1,0,0,0,0,14
+Dillon,Latta,Governor,,Ralph W Norman,REP,11,5,0,0,0,0,6
+Dillon,Latta,Governor,,Rom Reddy,REP,12,4,0,0,0,0,8
+Dillon,Latta,Governor,,Alan Wilson,REP,100,27,0,0,0,0,73
+Dillon,Latta,Governor,,Jermaine Johnson,DEM,202,100,0,0,0,21,81
+Dillon,Latta,Governor,,Mullins McLeod,DEM,19,3,0,0,0,0,16
+Dillon,Latta,Governor,,Billy Webster,DEM,69,30,0,0,0,3,36
+Dillon,Little Rock,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Little Rock,Governor,,Pamela Evette,REP,10,3,0,0,0,0,7
+Dillon,Little Rock,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Dillon,Little Rock,Governor,,Nancy Mace,REP,2,1,0,0,0,0,1
+Dillon,Little Rock,Governor,,Ralph W Norman,REP,4,1,0,0,0,0,3
+Dillon,Little Rock,Governor,,Rom Reddy,REP,3,0,0,0,0,0,3
+Dillon,Little Rock,Governor,,Alan Wilson,REP,12,0,0,0,0,0,12
+Dillon,Little Rock,Governor,,Jermaine Johnson,DEM,71,17,0,0,0,4,50
+Dillon,Little Rock,Governor,,Mullins McLeod,DEM,3,1,0,0,0,0,2
+Dillon,Little Rock,Governor,,Billy Webster,DEM,8,1,0,0,0,0,7
+Dillon,Manning,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Manning,Governor,,Pamela Evette,REP,13,4,0,0,0,0,9
+Dillon,Manning,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Dillon,Manning,Governor,,Nancy Mace,REP,3,0,0,0,0,0,3
+Dillon,Manning,Governor,,Ralph W Norman,REP,2,0,0,0,0,0,2
+Dillon,Manning,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Dillon,Manning,Governor,,Alan Wilson,REP,12,2,0,0,0,0,10
+Dillon,Manning,Governor,,Jermaine Johnson,DEM,12,5,0,0,0,0,7
+Dillon,Manning,Governor,,Mullins McLeod,DEM,1,1,0,0,0,0,0
+Dillon,Manning,Governor,,Billy Webster,DEM,15,4,0,0,0,0,11
+Dillon,Minturn,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Minturn,Governor,,Pamela Evette,REP,12,0,0,0,0,0,12
+Dillon,Minturn,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Dillon,Minturn,Governor,,Nancy Mace,REP,3,1,0,0,0,0,2
+Dillon,Minturn,Governor,,Ralph W Norman,REP,5,0,0,0,0,0,5
+Dillon,Minturn,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Dillon,Minturn,Governor,,Alan Wilson,REP,7,0,0,0,0,0,7
+Dillon,Minturn,Governor,,Jermaine Johnson,DEM,11,4,0,0,0,0,7
+Dillon,Minturn,Governor,,Mullins McLeod,DEM,3,0,0,0,0,0,3
+Dillon,Minturn,Governor,,Billy Webster,DEM,12,3,0,0,0,0,9
+Dillon,Mt. Calvary,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Mt. Calvary,Governor,,Pamela Evette,REP,33,4,0,0,0,0,29
+Dillon,Mt. Calvary,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Dillon,Mt. Calvary,Governor,,Nancy Mace,REP,7,2,0,0,0,0,5
+Dillon,Mt. Calvary,Governor,,Ralph W Norman,REP,6,2,0,0,0,0,4
+Dillon,Mt. Calvary,Governor,,Rom Reddy,REP,2,0,0,0,0,0,2
+Dillon,Mt. Calvary,Governor,,Alan Wilson,REP,29,5,0,0,0,0,24
+Dillon,Mt. Calvary,Governor,,Jermaine Johnson,DEM,184,57,0,0,0,2,125
+Dillon,Mt. Calvary,Governor,,Mullins McLeod,DEM,18,6,0,0,0,0,12
+Dillon,Mt. Calvary,Governor,,Billy Webster,DEM,67,20,0,0,0,1,46
+Dillon,New Holly,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,New Holly,Governor,,Pamela Evette,REP,20,4,0,0,0,0,16
+Dillon,New Holly,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Dillon,New Holly,Governor,,Nancy Mace,REP,4,0,0,0,0,0,4
+Dillon,New Holly,Governor,,Ralph W Norman,REP,3,0,0,0,0,0,3
+Dillon,New Holly,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Dillon,New Holly,Governor,,Alan Wilson,REP,22,8,0,0,0,0,14
+Dillon,New Holly,Governor,,Jermaine Johnson,DEM,24,5,0,0,0,3,16
+Dillon,New Holly,Governor,,Mullins McLeod,DEM,4,2,0,0,0,0,2
+Dillon,New Holly,Governor,,Billy Webster,DEM,6,1,0,0,0,3,2
+Dillon,Oak Grove,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Oak Grove,Governor,,Pamela Evette,REP,33,3,0,0,0,0,30
+Dillon,Oak Grove,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Dillon,Oak Grove,Governor,,Nancy Mace,REP,6,0,0,0,0,0,6
+Dillon,Oak Grove,Governor,,Ralph W Norman,REP,3,0,0,0,0,0,3
+Dillon,Oak Grove,Governor,,Rom Reddy,REP,4,0,0,0,0,0,4
+Dillon,Oak Grove,Governor,,Alan Wilson,REP,24,2,0,0,0,0,22
+Dillon,Oak Grove,Governor,,Jermaine Johnson,DEM,30,11,0,0,0,2,17
+Dillon,Oak Grove,Governor,,Mullins McLeod,DEM,7,1,0,0,0,1,5
+Dillon,Oak Grove,Governor,,Billy Webster,DEM,53,11,0,0,0,19,23
+Dillon,Oakland,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Dillon,Oakland,Governor,,Pamela Evette,REP,34,0,0,0,0,0,34
+Dillon,Oakland,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Dillon,Oakland,Governor,,Nancy Mace,REP,3,0,0,0,0,0,3
+Dillon,Oakland,Governor,,Ralph W Norman,REP,2,0,0,0,0,0,2
+Dillon,Oakland,Governor,,Rom Reddy,REP,5,0,0,0,0,0,5
+Dillon,Oakland,Governor,,Alan Wilson,REP,16,1,0,0,0,0,15
+Dillon,Oakland,Governor,,Jermaine Johnson,DEM,76,21,0,0,0,1,54
+Dillon,Oakland,Governor,,Mullins McLeod,DEM,11,3,0,0,0,0,8
+Dillon,Oakland,Governor,,Billy Webster,DEM,29,5,0,0,0,0,24
+Dillon,Pleasant Hill,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Pleasant Hill,Governor,,Pamela Evette,REP,14,3,0,0,0,0,11
+Dillon,Pleasant Hill,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Dillon,Pleasant Hill,Governor,,Nancy Mace,REP,4,1,0,0,0,0,3
+Dillon,Pleasant Hill,Governor,,Ralph W Norman,REP,4,0,0,0,0,0,4
+Dillon,Pleasant Hill,Governor,,Rom Reddy,REP,9,3,0,0,0,1,5
+Dillon,Pleasant Hill,Governor,,Alan Wilson,REP,17,0,0,0,0,0,17
+Dillon,Pleasant Hill,Governor,,Jermaine Johnson,DEM,17,7,0,0,0,3,7
+Dillon,Pleasant Hill,Governor,,Mullins McLeod,DEM,2,1,0,0,0,0,1
+Dillon,Pleasant Hill,Governor,,Billy Webster,DEM,14,7,0,0,0,0,7
+Dillon,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Dillon,Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Dillon,Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Dillon,Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Dillon,South Dillon,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Dillon,South Dillon,Governor,,Pamela Evette,REP,12,6,0,0,0,0,6
+Dillon,South Dillon,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Dillon,South Dillon,Governor,,Nancy Mace,REP,3,2,0,0,0,0,1
+Dillon,South Dillon,Governor,,Ralph W Norman,REP,1,0,0,0,0,0,1
+Dillon,South Dillon,Governor,,Rom Reddy,REP,1,1,0,0,0,0,0
+Dillon,South Dillon,Governor,,Alan Wilson,REP,11,7,0,0,0,0,4
+Dillon,South Dillon,Governor,,Jermaine Johnson,DEM,143,66,0,0,0,4,73
+Dillon,South Dillon,Governor,,Mullins McLeod,DEM,13,6,0,0,0,0,7
+Dillon,South Dillon,Governor,,Billy Webster,DEM,37,15,0,0,0,2,20
+Dillon,West Dillon,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Dillon,West Dillon,Governor,,Pamela Evette,REP,20,6,0,0,0,2,12
+Dillon,West Dillon,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Dillon,West Dillon,Governor,,Nancy Mace,REP,4,2,0,0,0,1,1
+Dillon,West Dillon,Governor,,Ralph W Norman,REP,2,0,0,0,0,0,2
+Dillon,West Dillon,Governor,,Rom Reddy,REP,6,2,0,0,0,0,4
+Dillon,West Dillon,Governor,,Alan Wilson,REP,11,6,0,0,0,0,5
+Dillon,West Dillon,Governor,,Jermaine Johnson,DEM,139,59,0,0,0,4,76
+Dillon,West Dillon,Governor,,Mullins McLeod,DEM,16,7,0,0,0,0,9
+Dillon,West Dillon,Governor,,Billy Webster,DEM,44,17,0,0,0,2,25
+Dillon,Bermuda,Secretary of State,,Jason Belton,DEM,13,2,0,0,0,0,11
+Dillon,Bermuda,Secretary of State,,Edwina Winter,DEM,9,3,0,0,0,0,6
+Dillon,Carolina,Secretary of State,,Jason Belton,DEM,16,0,0,0,0,0,16
+Dillon,Carolina,Secretary of State,,Edwina Winter,DEM,18,2,0,0,0,0,16
+Dillon,East Dillon,Secretary of State,,Jason Belton,DEM,70,26,0,0,0,4,40
+Dillon,East Dillon,Secretary of State,,Edwina Winter,DEM,35,21,0,0,0,1,13
+Dillon,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Dillon,Floydale,Secretary of State,,Jason Belton,DEM,17,7,0,0,0,2,8
+Dillon,Floydale,Secretary of State,,Edwina Winter,DEM,7,1,0,0,0,0,6
+Dillon,Fork,Secretary of State,,Jason Belton,DEM,24,15,0,0,0,0,9
+Dillon,Fork,Secretary of State,,Edwina Winter,DEM,8,3,0,0,0,0,5
+Dillon,Hamer,Secretary of State,,Jason Belton,DEM,64,22,0,0,0,9,33
+Dillon,Hamer,Secretary of State,,Edwina Winter,DEM,28,9,0,0,0,0,19
+Dillon,Kemper,Secretary of State,,Jason Belton,DEM,26,5,0,0,0,0,21
+Dillon,Kemper,Secretary of State,,Edwina Winter,DEM,12,1,0,0,0,0,11
+Dillon,Lake View,Secretary of State,,Jason Belton,DEM,88,21,0,0,0,3,64
+Dillon,Lake View,Secretary of State,,Edwina Winter,DEM,26,8,0,0,0,3,15
+Dillon,Latta,Secretary of State,,Jason Belton,DEM,216,99,0,0,0,23,94
+Dillon,Latta,Secretary of State,,Edwina Winter,DEM,71,34,0,0,0,1,36
+Dillon,Little Rock,Secretary of State,,Jason Belton,DEM,68,14,0,0,0,4,50
+Dillon,Little Rock,Secretary of State,,Edwina Winter,DEM,12,5,0,0,0,0,7
+Dillon,Manning,Secretary of State,,Jason Belton,DEM,19,6,0,0,0,0,13
+Dillon,Manning,Secretary of State,,Edwina Winter,DEM,8,3,0,0,0,0,5
+Dillon,Minturn,Secretary of State,,Jason Belton,DEM,18,7,0,0,0,0,11
+Dillon,Minturn,Secretary of State,,Edwina Winter,DEM,2,0,0,0,0,0,2
+Dillon,Mt. Calvary,Secretary of State,,Jason Belton,DEM,197,60,0,0,0,3,134
+Dillon,Mt. Calvary,Secretary of State,,Edwina Winter,DEM,67,22,0,0,0,0,45
+Dillon,New Holly,Secretary of State,,Jason Belton,DEM,29,7,0,0,0,5,17
+Dillon,New Holly,Secretary of State,,Edwina Winter,DEM,4,1,0,0,0,1,2
+Dillon,Oak Grove,Secretary of State,,Jason Belton,DEM,59,10,0,0,0,21,28
+Dillon,Oak Grove,Secretary of State,,Edwina Winter,DEM,30,13,0,0,0,3,14
+Dillon,Oakland,Secretary of State,,Jason Belton,DEM,89,18,0,0,0,1,70
+Dillon,Oakland,Secretary of State,,Edwina Winter,DEM,24,9,0,0,0,0,15
+Dillon,Pleasant Hill,Secretary of State,,Jason Belton,DEM,19,9,0,0,0,3,7
+Dillon,Pleasant Hill,Secretary of State,,Edwina Winter,DEM,11,4,0,0,0,0,7
+Dillon,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Dillon,Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Dillon,South Dillon,Secretary of State,,Jason Belton,DEM,132,63,0,0,0,4,65
+Dillon,South Dillon,Secretary of State,,Edwina Winter,DEM,57,23,0,0,0,1,33
+Dillon,West Dillon,Secretary of State,,Jason Belton,DEM,138,63,0,0,0,4,71
+Dillon,West Dillon,Secretary of State,,Edwina Winter,DEM,56,17,0,0,0,2,37
+Dillon,Failsafe,State House,54,Jason Luck,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe,State House,54,Betty Jo Quick,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,State House,54,Jason Luck,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,State House,54,Betty Jo Quick,DEM,0,0,0,0,0,0,0
+Dillon,New Holly,State House,54,Jason Luck,DEM,22,5,0,0,0,2,15
+Dillon,New Holly,State House,54,Betty Jo Quick,DEM,11,3,0,0,0,3,5
+Dillon,Oak Grove,State House,54,Jason Luck,DEM,39,4,0,0,0,18,17
+Dillon,Oak Grove,State House,54,Betty Jo Quick,DEM,2,0,0,0,0,0,2
+Dillon,Provisional,State House,54,Jason Luck,DEM,0,0,0,0,0,0,0
+Dillon,Provisional,State House,54,Betty Jo Quick,DEM,0,0,0,0,0,0,0
+Dillon,Bermuda,State Superintendent of Education,,Lisa Ellis,DEM,14,3,0,0,0,0,11
+Dillon,Bermuda,State Superintendent of Education,,Sylvia Wright,DEM,10,2,0,0,0,0,8
+Dillon,Carolina,State Superintendent of Education,,Lisa Ellis,DEM,17,0,0,0,0,0,17
+Dillon,Carolina,State Superintendent of Education,,Sylvia Wright,DEM,15,2,0,0,0,0,13
+Dillon,East Dillon,State Superintendent of Education,,Lisa Ellis,DEM,32,12,0,0,0,1,19
+Dillon,East Dillon,State Superintendent of Education,,Sylvia Wright,DEM,75,35,0,0,0,4,36
+Dillon,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Dillon,Floydale,State Superintendent of Education,,Lisa Ellis,DEM,5,1,0,0,0,0,4
+Dillon,Floydale,State Superintendent of Education,,Sylvia Wright,DEM,19,7,0,0,0,2,10
+Dillon,Fork,State Superintendent of Education,,Lisa Ellis,DEM,9,3,0,0,0,0,6
+Dillon,Fork,State Superintendent of Education,,Sylvia Wright,DEM,24,15,0,0,0,0,9
+Dillon,Hamer,State Superintendent of Education,,Lisa Ellis,DEM,29,10,0,0,0,0,19
+Dillon,Hamer,State Superintendent of Education,,Sylvia Wright,DEM,60,20,0,0,0,9,31
+Dillon,Kemper,State Superintendent of Education,,Lisa Ellis,DEM,12,3,0,0,0,0,9
+Dillon,Kemper,State Superintendent of Education,,Sylvia Wright,DEM,26,3,0,0,0,0,23
+Dillon,Lake View,State Superintendent of Education,,Lisa Ellis,DEM,22,0,0,0,0,1,21
+Dillon,Lake View,State Superintendent of Education,,Sylvia Wright,DEM,91,29,0,0,0,5,57
+Dillon,Latta,State Superintendent of Education,,Lisa Ellis,DEM,70,25,0,0,0,0,45
+Dillon,Latta,State Superintendent of Education,,Sylvia Wright,DEM,219,108,0,0,0,24,87
+Dillon,Little Rock,State Superintendent of Education,,Lisa Ellis,DEM,13,3,0,0,0,0,10
+Dillon,Little Rock,State Superintendent of Education,,Sylvia Wright,DEM,67,16,0,0,0,4,47
+Dillon,Manning,State Superintendent of Education,,Lisa Ellis,DEM,7,3,0,0,0,0,4
+Dillon,Manning,State Superintendent of Education,,Sylvia Wright,DEM,21,7,0,0,0,0,14
+Dillon,Minturn,State Superintendent of Education,,Lisa Ellis,DEM,2,1,0,0,0,0,1
+Dillon,Minturn,State Superintendent of Education,,Sylvia Wright,DEM,17,6,0,0,0,0,11
+Dillon,Mt. Calvary,State Superintendent of Education,,Lisa Ellis,DEM,73,18,0,0,0,3,52
+Dillon,Mt. Calvary,State Superintendent of Education,,Sylvia Wright,DEM,187,61,0,0,0,0,126
+Dillon,New Holly,State Superintendent of Education,,Lisa Ellis,DEM,18,2,0,0,0,2,14
+Dillon,New Holly,State Superintendent of Education,,Sylvia Wright,DEM,15,6,0,0,0,3,6
+Dillon,Oak Grove,State Superintendent of Education,,Lisa Ellis,DEM,47,9,0,0,0,12,26
+Dillon,Oak Grove,State Superintendent of Education,,Sylvia Wright,DEM,45,14,0,0,0,12,19
+Dillon,Oakland,State Superintendent of Education,,Lisa Ellis,DEM,30,5,0,0,0,0,25
+Dillon,Oakland,State Superintendent of Education,,Sylvia Wright,DEM,82,22,0,0,0,1,59
+Dillon,Pleasant Hill,State Superintendent of Education,,Lisa Ellis,DEM,9,3,0,0,0,0,6
+Dillon,Pleasant Hill,State Superintendent of Education,,Sylvia Wright,DEM,24,12,0,0,0,3,9
+Dillon,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Dillon,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Dillon,South Dillon,State Superintendent of Education,,Lisa Ellis,DEM,43,20,0,0,0,1,22
+Dillon,South Dillon,State Superintendent of Education,,Sylvia Wright,DEM,145,66,0,0,0,4,75
+Dillon,West Dillon,State Superintendent of Education,,Lisa Ellis,DEM,54,18,0,0,0,1,35
+Dillon,West Dillon,State Superintendent of Education,,Sylvia Wright,DEM,143,64,0,0,0,5,74
+Dillon,Bermuda,State Treasurer,,Vincent Coe,DEM,9,2,0,0,0,0,7
+Dillon,Bermuda,State Treasurer,,Trav Robertson Jr,DEM,15,3,0,0,0,0,12
+Dillon,Carolina,State Treasurer,,Vincent Coe,DEM,18,1,0,0,0,0,17
+Dillon,Carolina,State Treasurer,,Trav Robertson Jr,DEM,16,1,0,0,0,0,15
+Dillon,East Dillon,State Treasurer,,Vincent Coe,DEM,77,30,0,0,0,4,43
+Dillon,East Dillon,State Treasurer,,Trav Robertson Jr,DEM,29,17,0,0,0,1,11
+Dillon,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Dillon,Floydale,State Treasurer,,Vincent Coe,DEM,17,8,0,0,0,2,7
+Dillon,Floydale,State Treasurer,,Trav Robertson Jr,DEM,8,1,0,0,0,0,7
+Dillon,Fork,State Treasurer,,Vincent Coe,DEM,28,17,0,0,0,0,11
+Dillon,Fork,State Treasurer,,Trav Robertson Jr,DEM,5,1,0,0,0,0,4
+Dillon,Hamer,State Treasurer,,Vincent Coe,DEM,64,23,0,0,0,9,32
+Dillon,Hamer,State Treasurer,,Trav Robertson Jr,DEM,26,8,0,0,0,0,18
+Dillon,Kemper,State Treasurer,,Vincent Coe,DEM,20,4,0,0,0,0,16
+Dillon,Kemper,State Treasurer,,Trav Robertson Jr,DEM,18,2,0,0,0,0,16
+Dillon,Lake View,State Treasurer,,Vincent Coe,DEM,80,20,0,0,0,3,57
+Dillon,Lake View,State Treasurer,,Trav Robertson Jr,DEM,32,9,0,0,0,3,20
+Dillon,Latta,State Treasurer,,Vincent Coe,DEM,194,84,0,0,0,23,87
+Dillon,Latta,State Treasurer,,Trav Robertson Jr,DEM,93,49,0,0,0,1,43
+Dillon,Little Rock,State Treasurer,,Vincent Coe,DEM,63,13,0,0,0,4,46
+Dillon,Little Rock,State Treasurer,,Trav Robertson Jr,DEM,15,5,0,0,0,0,10
+Dillon,Manning,State Treasurer,,Vincent Coe,DEM,20,7,0,0,0,0,13
+Dillon,Manning,State Treasurer,,Trav Robertson Jr,DEM,8,3,0,0,0,0,5
+Dillon,Minturn,State Treasurer,,Vincent Coe,DEM,11,4,0,0,0,0,7
+Dillon,Minturn,State Treasurer,,Trav Robertson Jr,DEM,9,3,0,0,0,0,6
+Dillon,Mt. Calvary,State Treasurer,,Vincent Coe,DEM,191,61,0,0,0,3,127
+Dillon,Mt. Calvary,State Treasurer,,Trav Robertson Jr,DEM,70,19,0,0,0,0,51
+Dillon,New Holly,State Treasurer,,Vincent Coe,DEM,27,4,0,0,0,5,18
+Dillon,New Holly,State Treasurer,,Trav Robertson Jr,DEM,7,4,0,0,0,1,2
+Dillon,Oak Grove,State Treasurer,,Vincent Coe,DEM,48,14,0,0,0,8,26
+Dillon,Oak Grove,State Treasurer,,Trav Robertson Jr,DEM,43,9,0,0,0,16,18
+Dillon,Oakland,State Treasurer,,Vincent Coe,DEM,73,20,0,0,0,1,52
+Dillon,Oakland,State Treasurer,,Trav Robertson Jr,DEM,39,6,0,0,0,0,33
+Dillon,Pleasant Hill,State Treasurer,,Vincent Coe,DEM,25,9,0,0,0,3,13
+Dillon,Pleasant Hill,State Treasurer,,Trav Robertson Jr,DEM,8,6,0,0,0,0,2
+Dillon,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Dillon,Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Dillon,South Dillon,State Treasurer,,Vincent Coe,DEM,120,59,0,0,0,4,57
+Dillon,South Dillon,State Treasurer,,Trav Robertson Jr,DEM,67,27,0,0,0,1,39
+Dillon,West Dillon,State Treasurer,,Vincent Coe,DEM,130,62,0,0,0,5,63
+Dillon,West Dillon,State Treasurer,,Trav Robertson Jr,DEM,67,20,0,0,0,1,46
+Dillon,Bermuda,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Dillon,Bermuda,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Dillon,Bermuda,U.S. Senate,,Lindsey Graham,REP,26,7,0,0,0,0,19
+Dillon,Bermuda,U.S. Senate,,Pat Herrmann,REP,2,1,0,0,0,0,1
+Dillon,Bermuda,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Dillon,Bermuda,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Dillon,Bermuda,U.S. Senate,,Annie Andrews,DEM,16,6,0,0,0,0,10
+Dillon,Bermuda,U.S. Senate,,Brandon P Brown,DEM,5,1,0,0,0,0,4
+Dillon,Bermuda,U.S. Senate,,Kyle Freeman,DEM,5,0,0,0,0,0,5
+Dillon,Carolina,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Dillon,Carolina,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Dillon,Carolina,U.S. Senate,,Lindsey Graham,REP,9,0,0,0,0,0,9
+Dillon,Carolina,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Dillon,Carolina,U.S. Senate,,Mark Lynch,REP,4,1,0,0,0,0,3
+Dillon,Carolina,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Dillon,Carolina,U.S. Senate,,Annie Andrews,DEM,22,2,0,0,0,0,20
+Dillon,Carolina,U.S. Senate,,Brandon P Brown,DEM,7,0,0,0,0,0,7
+Dillon,Carolina,U.S. Senate,,Kyle Freeman,DEM,4,0,0,0,0,0,4
+Dillon,East Dillon,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Dillon,East Dillon,U.S. Senate,,Thomas Keith Dismukes,REP,5,0,0,0,0,0,5
+Dillon,East Dillon,U.S. Senate,,Lindsey Graham,REP,219,63,0,0,0,3,153
+Dillon,East Dillon,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Dillon,East Dillon,U.S. Senate,,Mark Lynch,REP,43,13,0,0,0,0,30
+Dillon,East Dillon,U.S. Senate,,Darius L Mitchell,REP,3,1,0,0,0,0,2
+Dillon,East Dillon,U.S. Senate,,Annie Andrews,DEM,36,13,0,0,0,1,22
+Dillon,East Dillon,U.S. Senate,,Brandon P Brown,DEM,54,27,0,0,0,4,23
+Dillon,East Dillon,U.S. Senate,,Kyle Freeman,DEM,18,8,0,0,0,0,10
+Dillon,Failsafe,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Dillon,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Dillon,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Dillon,Floydale,U.S. Senate,,Calvin Cowen,REP,5,0,0,0,0,0,5
+Dillon,Floydale,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Dillon,Floydale,U.S. Senate,,Lindsey Graham,REP,63,6,0,0,0,1,56
+Dillon,Floydale,U.S. Senate,,Pat Herrmann,REP,6,0,0,0,0,0,6
+Dillon,Floydale,U.S. Senate,,Mark Lynch,REP,15,0,0,0,0,0,15
+Dillon,Floydale,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Dillon,Floydale,U.S. Senate,,Annie Andrews,DEM,6,0,0,0,0,1,5
+Dillon,Floydale,U.S. Senate,,Brandon P Brown,DEM,17,9,0,0,0,1,7
+Dillon,Floydale,U.S. Senate,,Kyle Freeman,DEM,2,0,0,0,0,0,2
+Dillon,Fork,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Dillon,Fork,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Dillon,Fork,U.S. Senate,,Lindsey Graham,REP,40,3,0,0,0,0,37
+Dillon,Fork,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Dillon,Fork,U.S. Senate,,Mark Lynch,REP,13,0,0,0,0,0,13
+Dillon,Fork,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Dillon,Fork,U.S. Senate,,Annie Andrews,DEM,10,2,0,0,0,0,8
+Dillon,Fork,U.S. Senate,,Brandon P Brown,DEM,19,14,0,0,0,0,5
+Dillon,Fork,U.S. Senate,,Kyle Freeman,DEM,4,2,0,0,0,0,2
+Dillon,Hamer,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Dillon,Hamer,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Dillon,Hamer,U.S. Senate,,Lindsey Graham,REP,34,4,0,0,0,2,28
+Dillon,Hamer,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Dillon,Hamer,U.S. Senate,,Mark Lynch,REP,7,4,0,0,0,0,3
+Dillon,Hamer,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Dillon,Hamer,U.S. Senate,,Annie Andrews,DEM,31,10,0,0,0,0,21
+Dillon,Hamer,U.S. Senate,,Brandon P Brown,DEM,52,17,0,0,0,9,26
+Dillon,Hamer,U.S. Senate,,Kyle Freeman,DEM,9,4,0,0,0,0,5
+Dillon,Kemper,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Dillon,Kemper,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Dillon,Kemper,U.S. Senate,,Lindsey Graham,REP,23,3,0,0,0,0,20
+Dillon,Kemper,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Dillon,Kemper,U.S. Senate,,Mark Lynch,REP,5,1,0,0,0,0,4
+Dillon,Kemper,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Dillon,Kemper,U.S. Senate,,Annie Andrews,DEM,14,3,0,0,0,0,11
+Dillon,Kemper,U.S. Senate,,Brandon P Brown,DEM,22,2,0,0,0,0,20
+Dillon,Kemper,U.S. Senate,,Kyle Freeman,DEM,2,1,0,0,0,0,1
+Dillon,Lake View,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Dillon,Lake View,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Dillon,Lake View,U.S. Senate,,Lindsey Graham,REP,84,3,0,0,0,0,81
+Dillon,Lake View,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Dillon,Lake View,U.S. Senate,,Mark Lynch,REP,23,0,0,0,0,0,23
+Dillon,Lake View,U.S. Senate,,Darius L Mitchell,REP,5,0,0,0,0,0,5
+Dillon,Lake View,U.S. Senate,,Annie Andrews,DEM,29,7,0,0,0,2,20
+Dillon,Lake View,U.S. Senate,,Brandon P Brown,DEM,76,22,0,0,0,4,50
+Dillon,Lake View,U.S. Senate,,Kyle Freeman,DEM,8,1,0,0,0,0,7
+Dillon,Latta,U.S. Senate,,Calvin Cowen,REP,5,3,0,0,0,0,2
+Dillon,Latta,U.S. Senate,,Thomas Keith Dismukes,REP,8,0,0,0,0,0,8
+Dillon,Latta,U.S. Senate,,Lindsey Graham,REP,169,33,0,0,0,0,136
+Dillon,Latta,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Dillon,Latta,U.S. Senate,,Mark Lynch,REP,32,9,0,0,0,0,23
+Dillon,Latta,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,0,3
+Dillon,Latta,U.S. Senate,,Annie Andrews,DEM,92,34,0,0,0,3,55
+Dillon,Latta,U.S. Senate,,Brandon P Brown,DEM,186,93,0,0,0,21,72
+Dillon,Latta,U.S. Senate,,Kyle Freeman,DEM,10,8,0,0,0,0,2
+Dillon,Little Rock,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Dillon,Little Rock,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Dillon,Little Rock,U.S. Senate,,Lindsey Graham,REP,20,6,0,0,0,0,14
+Dillon,Little Rock,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Dillon,Little Rock,U.S. Senate,,Mark Lynch,REP,7,0,0,0,0,0,7
+Dillon,Little Rock,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Dillon,Little Rock,U.S. Senate,,Annie Andrews,DEM,20,7,0,0,0,3,10
+Dillon,Little Rock,U.S. Senate,,Brandon P Brown,DEM,57,11,0,0,0,1,45
+Dillon,Little Rock,U.S. Senate,,Kyle Freeman,DEM,5,1,0,0,0,0,4
+Dillon,Manning,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Dillon,Manning,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Dillon,Manning,U.S. Senate,,Lindsey Graham,REP,19,6,0,0,0,0,13
+Dillon,Manning,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Dillon,Manning,U.S. Senate,,Mark Lynch,REP,4,0,0,0,0,0,4
+Dillon,Manning,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Dillon,Manning,U.S. Senate,,Annie Andrews,DEM,14,5,0,0,0,0,9
+Dillon,Manning,U.S. Senate,,Brandon P Brown,DEM,13,4,0,0,0,0,9
+Dillon,Manning,U.S. Senate,,Kyle Freeman,DEM,1,1,0,0,0,0,0
+Dillon,Minturn,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Dillon,Minturn,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Dillon,Minturn,U.S. Senate,,Lindsey Graham,REP,16,0,0,0,0,0,16
+Dillon,Minturn,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Dillon,Minturn,U.S. Senate,,Mark Lynch,REP,9,1,0,0,0,0,8
+Dillon,Minturn,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Dillon,Minturn,U.S. Senate,,Annie Andrews,DEM,7,3,0,0,0,0,4
+Dillon,Minturn,U.S. Senate,,Brandon P Brown,DEM,11,3,0,0,0,0,8
+Dillon,Minturn,U.S. Senate,,Kyle Freeman,DEM,2,1,0,0,0,0,1
+Dillon,Mt. Calvary,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Dillon,Mt. Calvary,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Dillon,Mt. Calvary,U.S. Senate,,Lindsey Graham,REP,63,11,0,0,0,0,52
+Dillon,Mt. Calvary,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Dillon,Mt. Calvary,U.S. Senate,,Mark Lynch,REP,7,1,0,0,0,0,6
+Dillon,Mt. Calvary,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Dillon,Mt. Calvary,U.S. Senate,,Annie Andrews,DEM,86,19,0,0,0,2,65
+Dillon,Mt. Calvary,U.S. Senate,,Brandon P Brown,DEM,151,54,0,0,0,0,97
+Dillon,Mt. Calvary,U.S. Senate,,Kyle Freeman,DEM,28,8,0,0,0,1,19
+Dillon,New Holly,U.S. Senate,,Calvin Cowen,REP,3,1,0,0,0,0,2
+Dillon,New Holly,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Dillon,New Holly,U.S. Senate,,Lindsey Graham,REP,39,8,0,0,0,0,31
+Dillon,New Holly,U.S. Senate,,Pat Herrmann,REP,4,2,0,0,0,0,2
+Dillon,New Holly,U.S. Senate,,Mark Lynch,REP,3,0,0,0,0,0,3
+Dillon,New Holly,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Dillon,New Holly,U.S. Senate,,Annie Andrews,DEM,16,2,0,0,0,0,14
+Dillon,New Holly,U.S. Senate,,Brandon P Brown,DEM,11,5,0,0,0,3,3
+Dillon,New Holly,U.S. Senate,,Kyle Freeman,DEM,5,1,0,0,0,2,2
+Dillon,Oak Grove,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Dillon,Oak Grove,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Dillon,Oak Grove,U.S. Senate,,Lindsey Graham,REP,53,4,0,0,0,0,49
+Dillon,Oak Grove,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Dillon,Oak Grove,U.S. Senate,,Mark Lynch,REP,15,1,0,0,0,0,14
+Dillon,Oak Grove,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Dillon,Oak Grove,U.S. Senate,,Annie Andrews,DEM,38,11,0,0,0,4,23
+Dillon,Oak Grove,U.S. Senate,,Brandon P Brown,DEM,27,6,0,0,0,6,15
+Dillon,Oak Grove,U.S. Senate,,Kyle Freeman,DEM,27,6,0,0,0,13,8
+Dillon,Oakland,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Dillon,Oakland,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Dillon,Oakland,U.S. Senate,,Lindsey Graham,REP,52,1,0,0,0,0,51
+Dillon,Oakland,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Dillon,Oakland,U.S. Senate,,Mark Lynch,REP,4,0,0,0,0,0,4
+Dillon,Oakland,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Dillon,Oakland,U.S. Senate,,Annie Andrews,DEM,39,8,0,0,0,0,31
+Dillon,Oakland,U.S. Senate,,Brandon P Brown,DEM,61,19,0,0,0,1,41
+Dillon,Oakland,U.S. Senate,,Kyle Freeman,DEM,14,2,0,0,0,0,12
+Dillon,Pleasant Hill,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Dillon,Pleasant Hill,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Dillon,Pleasant Hill,U.S. Senate,,Lindsey Graham,REP,32,5,0,0,0,1,26
+Dillon,Pleasant Hill,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Dillon,Pleasant Hill,U.S. Senate,,Mark Lynch,REP,9,2,0,0,0,0,7
+Dillon,Pleasant Hill,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Dillon,Pleasant Hill,U.S. Senate,,Annie Andrews,DEM,15,5,0,0,0,0,10
+Dillon,Pleasant Hill,U.S. Senate,,Brandon P Brown,DEM,14,7,0,0,0,3,4
+Dillon,Pleasant Hill,U.S. Senate,,Kyle Freeman,DEM,3,2,0,0,0,0,1
+Dillon,Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Dillon,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Dillon,Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Dillon,Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Dillon,Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Dillon,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Dillon,Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Dillon,Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Dillon,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Dillon,South Dillon,U.S. Senate,,Calvin Cowen,REP,1,1,0,0,0,0,0
+Dillon,South Dillon,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Dillon,South Dillon,U.S. Senate,,Lindsey Graham,REP,24,14,0,0,0,0,10
+Dillon,South Dillon,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Dillon,South Dillon,U.S. Senate,,Mark Lynch,REP,2,1,0,0,0,0,1
+Dillon,South Dillon,U.S. Senate,,Darius L Mitchell,REP,3,2,0,0,0,0,1
+Dillon,South Dillon,U.S. Senate,,Annie Andrews,DEM,64,21,0,0,0,3,40
+Dillon,South Dillon,U.S. Senate,,Brandon P Brown,DEM,111,57,0,0,0,3,51
+Dillon,South Dillon,U.S. Senate,,Kyle Freeman,DEM,16,7,0,0,0,0,9
+Dillon,West Dillon,U.S. Senate,,Calvin Cowen,REP,1,1,0,0,0,0,0
+Dillon,West Dillon,U.S. Senate,,Thomas Keith Dismukes,REP,2,2,0,0,0,0,0
+Dillon,West Dillon,U.S. Senate,,Lindsey Graham,REP,30,8,0,0,0,3,19
+Dillon,West Dillon,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Dillon,West Dillon,U.S. Senate,,Mark Lynch,REP,10,6,0,0,0,0,4
+Dillon,West Dillon,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Dillon,West Dillon,U.S. Senate,,Annie Andrews,DEM,71,19,0,0,0,0,52
+Dillon,West Dillon,U.S. Senate,,Brandon P Brown,DEM,112,60,0,0,0,4,48
+Dillon,West Dillon,U.S. Senate,,Kyle Freeman,DEM,12,3,0,0,0,2,7

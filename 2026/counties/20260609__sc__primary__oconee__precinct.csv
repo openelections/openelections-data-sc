@@ -1,0 +1,1465 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Oconee,Bountyland,Advisory Question 1,,Yes,REP,337,116,0,0,0,3,218
+Oconee,Bountyland,Advisory Question 1,,No,REP,39,15,0,0,0,1,23
+Oconee,Earles Grove,Advisory Question 1,,Yes,REP,200,16,0,0,0,1,183
+Oconee,Earles Grove,Advisory Question 1,,No,REP,9,2,0,0,0,0,7
+Oconee,Failsafe,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Advisory Question 1,,No,REP,2,0,2,0,0,0,0
+Oconee,Fair Play,Advisory Question 1,,Yes,REP,261,35,0,0,0,2,224
+Oconee,Fair Play,Advisory Question 1,,No,REP,19,5,0,0,0,0,14
+Oconee,Friendship,Advisory Question 1,,Yes,REP,364,60,0,0,0,5,299
+Oconee,Friendship,Advisory Question 1,,No,REP,27,5,0,0,0,0,22
+Oconee,Holly Springs,Advisory Question 1,,Yes,REP,87,14,0,0,0,0,73
+Oconee,Holly Springs,Advisory Question 1,,No,REP,6,1,0,0,0,0,5
+Oconee,Keowee,Advisory Question 1,,Yes,REP,561,203,0,0,0,5,353
+Oconee,Keowee,Advisory Question 1,,No,REP,71,24,0,0,0,3,44
+Oconee,Long Creek,Advisory Question 1,,Yes,REP,75,11,0,0,0,2,62
+Oconee,Long Creek,Advisory Question 1,,No,REP,11,2,0,0,0,0,9
+Oconee,Madison,Advisory Question 1,,Yes,REP,148,16,0,0,0,0,132
+Oconee,Madison,Advisory Question 1,,No,REP,5,0,0,0,0,0,5
+Oconee,Mountain Rest,Advisory Question 1,,Yes,REP,264,36,0,0,0,3,225
+Oconee,Mountain Rest,Advisory Question 1,,No,REP,26,9,0,0,0,0,17
+Oconee,New Hope,Advisory Question 1,,Yes,REP,788,242,0,0,0,17,529
+Oconee,New Hope,Advisory Question 1,,No,REP,87,29,0,0,0,4,54
+Oconee,Newry-Corinth,Advisory Question 1,,Yes,REP,43,6,0,0,0,0,37
+Oconee,Newry-Corinth,Advisory Question 1,,No,REP,3,0,0,0,0,0,3
+Oconee,Oakway,Advisory Question 1,,Yes,REP,244,56,0,0,0,1,187
+Oconee,Oakway,Advisory Question 1,,No,REP,30,1,0,0,0,0,29
+Oconee,Provisional,Advisory Question 1,,Yes,REP,9,0,0,9,0,0,0
+Oconee,Provisional,Advisory Question 1,,No,REP,1,0,0,1,0,0,0
+Oconee,Ravenel,Advisory Question 1,,Yes,REP,417,96,0,0,0,7,314
+Oconee,Ravenel,Advisory Question 1,,No,REP,73,18,0,0,0,0,55
+Oconee,Return,Advisory Question 1,,Yes,REP,189,22,0,0,0,1,166
+Oconee,Return,Advisory Question 1,,No,REP,16,3,0,0,0,2,11
+Oconee,Richland,Advisory Question 1,,Yes,REP,247,40,0,0,0,1,206
+Oconee,Richland,Advisory Question 1,,No,REP,31,6,0,0,0,0,25
+Oconee,Salem,Advisory Question 1,,Yes,REP,489,108,0,0,0,5,376
+Oconee,Salem,Advisory Question 1,,No,REP,59,17,0,0,0,2,40
+Oconee,Seneca 1,Advisory Question 1,,Yes,REP,338,86,0,0,0,5,247
+Oconee,Seneca 1,Advisory Question 1,,No,REP,56,9,0,0,0,3,44
+Oconee,Seneca 2,Advisory Question 1,,Yes,REP,332,102,0,0,0,5,225
+Oconee,Seneca 2,Advisory Question 1,,No,REP,61,22,0,0,0,1,38
+Oconee,Seneca 3,Advisory Question 1,,Yes,REP,308,77,0,0,0,10,221
+Oconee,Seneca 3,Advisory Question 1,,No,REP,33,10,0,0,0,2,21
+Oconee,Seneca 4,Advisory Question 1,,Yes,REP,309,62,0,0,0,14,233
+Oconee,Seneca 4,Advisory Question 1,,No,REP,31,5,0,0,0,0,26
+Oconee,Shiloh,Advisory Question 1,,Yes,REP,172,27,0,0,0,7,138
+Oconee,Shiloh,Advisory Question 1,,No,REP,41,1,0,0,0,1,39
+Oconee,South Union,Advisory Question 1,,Yes,REP,342,74,0,0,0,2,266
+Oconee,South Union,Advisory Question 1,,No,REP,28,5,0,0,0,0,23
+Oconee,Stamp Creek,Advisory Question 1,,Yes,REP,716,266,0,0,0,9,441
+Oconee,Stamp Creek,Advisory Question 1,,No,REP,69,29,0,0,0,0,40
+Oconee,Tamassee,Advisory Question 1,,Yes,REP,258,76,0,0,0,7,175
+Oconee,Tamassee,Advisory Question 1,,No,REP,21,6,0,0,0,0,15
+Oconee,Tokeena-Providence,Advisory Question 1,,Yes,REP,264,41,0,0,0,4,219
+Oconee,Tokeena-Providence,Advisory Question 1,,No,REP,31,4,0,0,0,0,27
+Oconee,Utica,Advisory Question 1,,Yes,REP,59,11,0,0,0,2,46
+Oconee,Utica,Advisory Question 1,,No,REP,4,1,0,0,0,0,3
+Oconee,Walhalla 1,Advisory Question 1,,Yes,REP,638,289,0,0,0,17,332
+Oconee,Walhalla 1,Advisory Question 1,,No,REP,87,37,0,0,0,2,48
+Oconee,Walhalla 2,Advisory Question 1,,Yes,REP,389,182,0,0,0,1,206
+Oconee,Walhalla 2,Advisory Question 1,,No,REP,38,26,0,0,0,0,12
+Oconee,West Union,Advisory Question 1,,Yes,REP,460,151,0,0,0,3,306
+Oconee,West Union,Advisory Question 1,,No,REP,50,15,0,0,0,0,35
+Oconee,Westminster 1,Advisory Question 1,,Yes,REP,519,142,0,0,0,14,363
+Oconee,Westminster 1,Advisory Question 1,,No,REP,30,11,0,0,0,0,19
+Oconee,Westminster 2,Advisory Question 1,,Yes,REP,287,76,0,0,0,2,209
+Oconee,Westminster 2,Advisory Question 1,,No,REP,17,4,0,0,0,0,13
+Oconee,Bountyland,Advisory Question 2,,Yes,REP,302,95,0,0,0,3,204
+Oconee,Bountyland,Advisory Question 2,,No,REP,69,33,0,0,0,1,35
+Oconee,Earles Grove,Advisory Question 2,,Yes,REP,183,15,0,0,0,3,165
+Oconee,Earles Grove,Advisory Question 2,,No,REP,30,3,0,0,0,0,27
+Oconee,Failsafe,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Advisory Question 2,,Yes,REP,1,0,1,0,0,0,0
+Oconee,Failsafe Provisional,Advisory Question 2,,No,REP,1,0,1,0,0,0,0
+Oconee,Fair Play,Advisory Question 2,,Yes,REP,229,36,0,0,0,2,191
+Oconee,Fair Play,Advisory Question 2,,No,REP,50,5,0,0,0,0,45
+Oconee,Friendship,Advisory Question 2,,Yes,REP,329,60,0,0,0,4,265
+Oconee,Friendship,Advisory Question 2,,No,REP,62,5,0,0,0,1,56
+Oconee,Holly Springs,Advisory Question 2,,Yes,REP,80,11,0,0,0,0,69
+Oconee,Holly Springs,Advisory Question 2,,No,REP,12,3,0,0,0,0,9
+Oconee,Keowee,Advisory Question 2,,Yes,REP,500,181,0,0,0,4,315
+Oconee,Keowee,Advisory Question 2,,No,REP,130,47,0,0,0,4,79
+Oconee,Long Creek,Advisory Question 2,,Yes,REP,68,10,0,0,0,2,56
+Oconee,Long Creek,Advisory Question 2,,No,REP,16,3,0,0,0,0,13
+Oconee,Madison,Advisory Question 2,,Yes,REP,134,14,0,0,0,0,120
+Oconee,Madison,Advisory Question 2,,No,REP,21,2,0,0,0,0,19
+Oconee,Mountain Rest,Advisory Question 2,,Yes,REP,230,31,0,0,0,3,196
+Oconee,Mountain Rest,Advisory Question 2,,No,REP,59,13,0,0,0,0,46
+Oconee,New Hope,Advisory Question 2,,Yes,REP,708,213,0,0,0,13,482
+Oconee,New Hope,Advisory Question 2,,No,REP,165,58,0,0,0,8,99
+Oconee,Newry-Corinth,Advisory Question 2,,Yes,REP,37,4,0,0,0,0,33
+Oconee,Newry-Corinth,Advisory Question 2,,No,REP,10,2,0,0,0,0,8
+Oconee,Oakway,Advisory Question 2,,Yes,REP,226,53,0,0,0,0,173
+Oconee,Oakway,Advisory Question 2,,No,REP,47,4,0,0,0,1,42
+Oconee,Provisional,Advisory Question 2,,Yes,REP,8,0,0,8,0,0,0
+Oconee,Provisional,Advisory Question 2,,No,REP,1,0,0,1,0,0,0
+Oconee,Ravenel,Advisory Question 2,,Yes,REP,370,76,0,0,0,4,290
+Oconee,Ravenel,Advisory Question 2,,No,REP,122,38,0,0,0,3,81
+Oconee,Return,Advisory Question 2,,Yes,REP,156,18,0,0,0,1,137
+Oconee,Return,Advisory Question 2,,No,REP,48,7,0,0,0,2,39
+Oconee,Richland,Advisory Question 2,,Yes,REP,219,29,0,0,0,1,189
+Oconee,Richland,Advisory Question 2,,No,REP,55,15,0,0,0,0,40
+Oconee,Salem,Advisory Question 2,,Yes,REP,430,99,0,0,0,5,326
+Oconee,Salem,Advisory Question 2,,No,REP,111,26,0,0,0,2,83
+Oconee,Seneca 1,Advisory Question 2,,Yes,REP,288,78,0,0,0,4,206
+Oconee,Seneca 1,Advisory Question 2,,No,REP,103,17,0,0,0,4,82
+Oconee,Seneca 2,Advisory Question 2,,Yes,REP,306,86,0,0,0,4,216
+Oconee,Seneca 2,Advisory Question 2,,No,REP,87,37,0,0,0,2,48
+Oconee,Seneca 3,Advisory Question 2,,Yes,REP,284,72,0,0,0,9,203
+Oconee,Seneca 3,Advisory Question 2,,No,REP,52,14,0,0,0,3,35
+Oconee,Seneca 4,Advisory Question 2,,Yes,REP,270,53,0,0,0,14,203
+Oconee,Seneca 4,Advisory Question 2,,No,REP,74,14,0,0,0,0,60
+Oconee,Shiloh,Advisory Question 2,,Yes,REP,150,23,0,0,0,4,123
+Oconee,Shiloh,Advisory Question 2,,No,REP,62,5,0,0,0,4,53
+Oconee,South Union,Advisory Question 2,,Yes,REP,300,68,0,0,0,2,230
+Oconee,South Union,Advisory Question 2,,No,REP,67,9,0,0,0,1,57
+Oconee,Stamp Creek,Advisory Question 2,,Yes,REP,616,225,0,0,0,6,385
+Oconee,Stamp Creek,Advisory Question 2,,No,REP,170,73,0,0,0,3,94
+Oconee,Tamassee,Advisory Question 2,,Yes,REP,230,68,0,0,0,7,155
+Oconee,Tamassee,Advisory Question 2,,No,REP,47,13,0,0,0,0,34
+Oconee,Tokeena-Providence,Advisory Question 2,,Yes,REP,235,38,0,0,0,4,193
+Oconee,Tokeena-Providence,Advisory Question 2,,No,REP,56,6,0,0,0,0,50
+Oconee,Utica,Advisory Question 2,,Yes,REP,51,10,0,0,0,2,39
+Oconee,Utica,Advisory Question 2,,No,REP,11,2,0,0,0,0,9
+Oconee,Walhalla 1,Advisory Question 2,,Yes,REP,556,256,0,0,0,14,286
+Oconee,Walhalla 1,Advisory Question 2,,No,REP,168,68,0,0,0,5,95
+Oconee,Walhalla 2,Advisory Question 2,,Yes,REP,333,159,0,0,0,1,173
+Oconee,Walhalla 2,Advisory Question 2,,No,REP,94,51,0,0,0,0,43
+Oconee,West Union,Advisory Question 2,,Yes,REP,410,135,0,0,0,3,272
+Oconee,West Union,Advisory Question 2,,No,REP,96,30,0,0,0,0,66
+Oconee,Westminster 1,Advisory Question 2,,Yes,REP,466,124,0,0,0,10,332
+Oconee,Westminster 1,Advisory Question 2,,No,REP,86,32,0,0,0,3,51
+Oconee,Westminster 2,Advisory Question 2,,Yes,REP,243,67,0,0,0,2,174
+Oconee,Westminster 2,Advisory Question 2,,No,REP,60,12,0,0,0,0,48
+Oconee,Bountyland,Attorney General,,Stephen Goldfinch,REP,146,50,0,0,0,2,94
+Oconee,Bountyland,Attorney General,,David M Pascoe,REP,76,28,0,0,0,1,47
+Oconee,Bountyland,Attorney General,,David Stumbo,REP,136,52,0,0,0,1,83
+Oconee,Earles Grove,Attorney General,,Stephen Goldfinch,REP,76,7,0,0,0,3,66
+Oconee,Earles Grove,Attorney General,,David M Pascoe,REP,45,2,0,0,0,0,43
+Oconee,Earles Grove,Attorney General,,David Stumbo,REP,86,9,0,0,0,0,77
+Oconee,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,1,0,1,0,0,0,0
+Oconee,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Oconee,Fair Play,Attorney General,,Stephen Goldfinch,REP,101,20,0,0,0,2,79
+Oconee,Fair Play,Attorney General,,David M Pascoe,REP,57,7,0,0,0,0,50
+Oconee,Fair Play,Attorney General,,David Stumbo,REP,109,13,0,0,0,0,96
+Oconee,Friendship,Attorney General,,Stephen Goldfinch,REP,146,24,0,0,0,1,121
+Oconee,Friendship,Attorney General,,David M Pascoe,REP,84,19,0,0,0,0,65
+Oconee,Friendship,Attorney General,,David Stumbo,REP,147,24,0,0,0,4,119
+Oconee,Holly Springs,Attorney General,,Stephen Goldfinch,REP,33,8,0,0,0,0,25
+Oconee,Holly Springs,Attorney General,,David M Pascoe,REP,24,1,0,0,0,0,23
+Oconee,Holly Springs,Attorney General,,David Stumbo,REP,32,5,0,0,0,0,27
+Oconee,Keowee,Attorney General,,Stephen Goldfinch,REP,221,87,0,0,0,4,130
+Oconee,Keowee,Attorney General,,David M Pascoe,REP,127,51,0,0,0,2,74
+Oconee,Keowee,Attorney General,,David Stumbo,REP,253,76,0,0,0,4,173
+Oconee,Long Creek,Attorney General,,Stephen Goldfinch,REP,35,5,0,0,0,0,30
+Oconee,Long Creek,Attorney General,,David M Pascoe,REP,10,1,0,0,0,0,9
+Oconee,Long Creek,Attorney General,,David Stumbo,REP,38,7,0,0,0,2,29
+Oconee,Madison,Attorney General,,Stephen Goldfinch,REP,62,5,0,0,0,0,57
+Oconee,Madison,Attorney General,,David M Pascoe,REP,32,2,0,0,0,0,30
+Oconee,Madison,Attorney General,,David Stumbo,REP,53,9,0,0,0,0,44
+Oconee,Mountain Rest,Attorney General,,Stephen Goldfinch,REP,88,14,0,0,0,2,72
+Oconee,Mountain Rest,Attorney General,,David M Pascoe,REP,86,13,0,0,0,1,72
+Oconee,Mountain Rest,Attorney General,,David Stumbo,REP,98,10,0,0,0,0,88
+Oconee,New Hope,Attorney General,,Stephen Goldfinch,REP,272,99,0,0,0,4,169
+Oconee,New Hope,Attorney General,,David M Pascoe,REP,176,52,0,0,0,6,118
+Oconee,New Hope,Attorney General,,David Stumbo,REP,376,108,0,0,0,9,259
+Oconee,Newry-Corinth,Attorney General,,Stephen Goldfinch,REP,19,2,0,0,0,0,17
+Oconee,Newry-Corinth,Attorney General,,David M Pascoe,REP,15,3,0,0,0,0,12
+Oconee,Newry-Corinth,Attorney General,,David Stumbo,REP,13,2,0,0,0,0,11
+Oconee,Oakway,Attorney General,,Stephen Goldfinch,REP,90,20,0,0,0,1,69
+Oconee,Oakway,Attorney General,,David M Pascoe,REP,60,18,0,0,0,0,42
+Oconee,Oakway,Attorney General,,David Stumbo,REP,107,16,0,0,0,0,91
+Oconee,Provisional,Attorney General,,Stephen Goldfinch,REP,2,0,0,2,0,0,0
+Oconee,Provisional,Attorney General,,David M Pascoe,REP,3,0,0,3,0,0,0
+Oconee,Provisional,Attorney General,,David Stumbo,REP,5,0,0,5,0,0,0
+Oconee,Ravenel,Attorney General,,Stephen Goldfinch,REP,152,57,0,0,0,2,93
+Oconee,Ravenel,Attorney General,,David M Pascoe,REP,90,12,0,0,0,2,76
+Oconee,Ravenel,Attorney General,,David Stumbo,REP,231,43,0,0,0,2,186
+Oconee,Return,Attorney General,,Stephen Goldfinch,REP,75,10,0,0,0,1,64
+Oconee,Return,Attorney General,,David M Pascoe,REP,40,5,0,0,0,2,33
+Oconee,Return,Attorney General,,David Stumbo,REP,83,9,0,0,0,0,74
+Oconee,Richland,Attorney General,,Stephen Goldfinch,REP,98,19,0,0,0,0,79
+Oconee,Richland,Attorney General,,David M Pascoe,REP,51,5,0,0,0,1,45
+Oconee,Richland,Attorney General,,David Stumbo,REP,117,22,0,0,0,0,95
+Oconee,Salem,Attorney General,,Stephen Goldfinch,REP,195,49,0,0,0,3,143
+Oconee,Salem,Attorney General,,David M Pascoe,REP,135,34,0,0,0,3,98
+Oconee,Salem,Attorney General,,David Stumbo,REP,198,45,0,0,0,1,152
+Oconee,Seneca 1,Attorney General,,Stephen Goldfinch,REP,131,37,0,0,0,5,89
+Oconee,Seneca 1,Attorney General,,David M Pascoe,REP,78,19,0,0,0,3,56
+Oconee,Seneca 1,Attorney General,,David Stumbo,REP,164,32,0,0,0,0,132
+Oconee,Seneca 2,Attorney General,,Stephen Goldfinch,REP,134,39,0,0,0,2,93
+Oconee,Seneca 2,Attorney General,,David M Pascoe,REP,102,42,0,0,0,2,58
+Oconee,Seneca 2,Attorney General,,David Stumbo,REP,143,42,0,0,0,2,99
+Oconee,Seneca 3,Attorney General,,Stephen Goldfinch,REP,129,38,0,0,0,7,84
+Oconee,Seneca 3,Attorney General,,David M Pascoe,REP,71,14,0,0,0,1,56
+Oconee,Seneca 3,Attorney General,,David Stumbo,REP,120,29,0,0,0,4,87
+Oconee,Seneca 4,Attorney General,,Stephen Goldfinch,REP,101,13,0,0,0,8,80
+Oconee,Seneca 4,Attorney General,,David M Pascoe,REP,107,23,0,0,0,0,84
+Oconee,Seneca 4,Attorney General,,David Stumbo,REP,120,29,0,0,0,5,86
+Oconee,Shiloh,Attorney General,,Stephen Goldfinch,REP,55,7,0,0,0,5,43
+Oconee,Shiloh,Attorney General,,David M Pascoe,REP,45,8,0,0,0,1,36
+Oconee,Shiloh,Attorney General,,David Stumbo,REP,107,10,0,0,0,1,96
+Oconee,South Union,Attorney General,,Stephen Goldfinch,REP,142,32,0,0,0,2,108
+Oconee,South Union,Attorney General,,David M Pascoe,REP,85,14,0,0,0,1,70
+Oconee,South Union,Attorney General,,David Stumbo,REP,121,25,0,0,0,0,96
+Oconee,Stamp Creek,Attorney General,,Stephen Goldfinch,REP,201,76,0,0,0,4,121
+Oconee,Stamp Creek,Attorney General,,David M Pascoe,REP,144,63,0,0,0,2,79
+Oconee,Stamp Creek,Attorney General,,David Stumbo,REP,395,144,0,0,0,3,248
+Oconee,Tamassee,Attorney General,,Stephen Goldfinch,REP,120,39,0,0,0,6,75
+Oconee,Tamassee,Attorney General,,David M Pascoe,REP,61,23,0,0,0,0,38
+Oconee,Tamassee,Attorney General,,David Stumbo,REP,86,17,0,0,0,1,68
+Oconee,Tokeena-Providence,Attorney General,,Stephen Goldfinch,REP,99,16,0,0,0,4,79
+Oconee,Tokeena-Providence,Attorney General,,David M Pascoe,REP,83,15,0,0,0,0,68
+Oconee,Tokeena-Providence,Attorney General,,David Stumbo,REP,102,13,0,0,0,0,89
+Oconee,Utica,Attorney General,,Stephen Goldfinch,REP,27,5,0,0,0,0,22
+Oconee,Utica,Attorney General,,David M Pascoe,REP,15,5,0,0,0,1,9
+Oconee,Utica,Attorney General,,David Stumbo,REP,22,2,0,0,0,1,19
+Oconee,Walhalla 1,Attorney General,,Stephen Goldfinch,REP,236,121,0,0,0,9,106
+Oconee,Walhalla 1,Attorney General,,David M Pascoe,REP,210,90,0,0,0,6,114
+Oconee,Walhalla 1,Attorney General,,David Stumbo,REP,250,102,0,0,0,1,147
+Oconee,Walhalla 2,Attorney General,,Stephen Goldfinch,REP,130,74,0,0,0,0,56
+Oconee,Walhalla 2,Attorney General,,David M Pascoe,REP,104,53,0,0,0,1,50
+Oconee,Walhalla 2,Attorney General,,David Stumbo,REP,181,72,0,0,0,0,109
+Oconee,West Union,Attorney General,,Stephen Goldfinch,REP,161,52,0,0,0,1,108
+Oconee,West Union,Attorney General,,David M Pascoe,REP,124,37,0,0,0,2,85
+Oconee,West Union,Attorney General,,David Stumbo,REP,202,69,0,0,0,0,133
+Oconee,Westminster 1,Attorney General,,Stephen Goldfinch,REP,190,53,0,0,0,7,130
+Oconee,Westminster 1,Attorney General,,David M Pascoe,REP,134,34,0,0,0,1,99
+Oconee,Westminster 1,Attorney General,,David Stumbo,REP,217,69,0,0,0,6,142
+Oconee,Westminster 2,Attorney General,,Stephen Goldfinch,REP,122,35,0,0,0,2,85
+Oconee,Westminster 2,Attorney General,,David M Pascoe,REP,65,16,0,0,0,0,49
+Oconee,Westminster 2,Attorney General,,David Stumbo,REP,108,26,0,0,0,0,82
+Oconee,Bountyland,Commissioner of Agriculture,,Jeremy B Cannon,REP,38,15,0,0,0,0,23
+Oconee,Bountyland,Commissioner of Agriculture,,Danny Ford,REP,182,56,0,0,0,2,124
+Oconee,Bountyland,Commissioner of Agriculture,,Cody Simpson,REP,115,44,0,0,0,1,70
+Oconee,Bountyland,Commissioner of Agriculture,,Fred West,REP,28,14,0,0,0,1,13
+Oconee,Earles Grove,Commissioner of Agriculture,,Jeremy B Cannon,REP,18,3,0,0,0,0,15
+Oconee,Earles Grove,Commissioner of Agriculture,,Danny Ford,REP,92,7,0,0,0,3,82
+Oconee,Earles Grove,Commissioner of Agriculture,,Cody Simpson,REP,83,8,0,0,0,0,75
+Oconee,Earles Grove,Commissioner of Agriculture,,Fred West,REP,13,0,0,0,0,0,13
+Oconee,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Oconee,Fair Play,Commissioner of Agriculture,,Jeremy B Cannon,REP,10,1,0,0,0,0,9
+Oconee,Fair Play,Commissioner of Agriculture,,Danny Ford,REP,134,17,0,0,0,2,115
+Oconee,Fair Play,Commissioner of Agriculture,,Cody Simpson,REP,105,16,0,0,0,0,89
+Oconee,Fair Play,Commissioner of Agriculture,,Fred West,REP,13,1,0,0,0,0,12
+Oconee,Friendship,Commissioner of Agriculture,,Jeremy B Cannon,REP,34,7,0,0,0,2,25
+Oconee,Friendship,Commissioner of Agriculture,,Danny Ford,REP,217,39,0,0,0,0,178
+Oconee,Friendship,Commissioner of Agriculture,,Cody Simpson,REP,119,18,0,0,0,2,99
+Oconee,Friendship,Commissioner of Agriculture,,Fred West,REP,16,3,0,0,0,1,12
+Oconee,Holly Springs,Commissioner of Agriculture,,Jeremy B Cannon,REP,6,1,0,0,0,0,5
+Oconee,Holly Springs,Commissioner of Agriculture,,Danny Ford,REP,61,8,0,0,0,0,53
+Oconee,Holly Springs,Commissioner of Agriculture,,Cody Simpson,REP,20,4,0,0,0,0,16
+Oconee,Holly Springs,Commissioner of Agriculture,,Fred West,REP,5,1,0,0,0,0,4
+Oconee,Keowee,Commissioner of Agriculture,,Jeremy B Cannon,REP,65,18,0,0,0,2,45
+Oconee,Keowee,Commissioner of Agriculture,,Danny Ford,REP,278,91,0,0,0,4,183
+Oconee,Keowee,Commissioner of Agriculture,,Cody Simpson,REP,228,90,0,0,0,4,134
+Oconee,Keowee,Commissioner of Agriculture,,Fred West,REP,27,9,0,0,0,0,18
+Oconee,Long Creek,Commissioner of Agriculture,,Jeremy B Cannon,REP,14,4,0,0,0,0,10
+Oconee,Long Creek,Commissioner of Agriculture,,Danny Ford,REP,36,4,0,0,0,0,32
+Oconee,Long Creek,Commissioner of Agriculture,,Cody Simpson,REP,25,3,0,0,0,2,20
+Oconee,Long Creek,Commissioner of Agriculture,,Fred West,REP,4,1,0,0,0,0,3
+Oconee,Madison,Commissioner of Agriculture,,Jeremy B Cannon,REP,23,3,0,0,0,0,20
+Oconee,Madison,Commissioner of Agriculture,,Danny Ford,REP,68,4,0,0,0,0,64
+Oconee,Madison,Commissioner of Agriculture,,Cody Simpson,REP,51,4,0,0,0,0,47
+Oconee,Madison,Commissioner of Agriculture,,Fred West,REP,11,5,0,0,0,0,6
+Oconee,Mountain Rest,Commissioner of Agriculture,,Jeremy B Cannon,REP,31,7,0,0,0,0,24
+Oconee,Mountain Rest,Commissioner of Agriculture,,Danny Ford,REP,144,20,0,0,0,0,124
+Oconee,Mountain Rest,Commissioner of Agriculture,,Cody Simpson,REP,82,14,0,0,0,1,67
+Oconee,Mountain Rest,Commissioner of Agriculture,,Fred West,REP,10,1,0,0,0,0,9
+Oconee,New Hope,Commissioner of Agriculture,,Jeremy B Cannon,REP,90,32,0,0,0,3,55
+Oconee,New Hope,Commissioner of Agriculture,,Danny Ford,REP,351,106,0,0,0,8,237
+Oconee,New Hope,Commissioner of Agriculture,,Cody Simpson,REP,327,103,0,0,0,7,217
+Oconee,New Hope,Commissioner of Agriculture,,Fred West,REP,54,18,0,0,0,1,35
+Oconee,Newry-Corinth,Commissioner of Agriculture,,Jeremy B Cannon,REP,5,2,0,0,0,0,3
+Oconee,Newry-Corinth,Commissioner of Agriculture,,Danny Ford,REP,33,4,0,0,0,0,29
+Oconee,Newry-Corinth,Commissioner of Agriculture,,Cody Simpson,REP,8,1,0,0,0,0,7
+Oconee,Newry-Corinth,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Oconee,Oakway,Commissioner of Agriculture,,Jeremy B Cannon,REP,18,3,0,0,0,0,15
+Oconee,Oakway,Commissioner of Agriculture,,Danny Ford,REP,122,22,0,0,0,1,99
+Oconee,Oakway,Commissioner of Agriculture,,Cody Simpson,REP,102,26,0,0,0,0,76
+Oconee,Oakway,Commissioner of Agriculture,,Fred West,REP,18,4,0,0,0,0,14
+Oconee,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Oconee,Provisional,Commissioner of Agriculture,,Danny Ford,REP,5,0,0,5,0,0,0
+Oconee,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,3,0,0,3,0,0,0
+Oconee,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Oconee,Ravenel,Commissioner of Agriculture,,Jeremy B Cannon,REP,37,7,0,0,0,1,29
+Oconee,Ravenel,Commissioner of Agriculture,,Danny Ford,REP,269,46,0,0,0,5,218
+Oconee,Ravenel,Commissioner of Agriculture,,Cody Simpson,REP,129,42,0,0,0,1,86
+Oconee,Ravenel,Commissioner of Agriculture,,Fred West,REP,36,16,0,0,0,0,20
+Oconee,Return,Commissioner of Agriculture,,Jeremy B Cannon,REP,17,1,0,0,0,0,16
+Oconee,Return,Commissioner of Agriculture,,Danny Ford,REP,108,18,0,0,0,3,87
+Oconee,Return,Commissioner of Agriculture,,Cody Simpson,REP,70,4,0,0,0,0,66
+Oconee,Return,Commissioner of Agriculture,,Fred West,REP,4,0,0,0,0,0,4
+Oconee,Richland,Commissioner of Agriculture,,Jeremy B Cannon,REP,30,8,0,0,0,0,22
+Oconee,Richland,Commissioner of Agriculture,,Danny Ford,REP,152,28,0,0,0,1,123
+Oconee,Richland,Commissioner of Agriculture,,Cody Simpson,REP,64,5,0,0,0,0,59
+Oconee,Richland,Commissioner of Agriculture,,Fred West,REP,18,4,0,0,0,0,14
+Oconee,Salem,Commissioner of Agriculture,,Jeremy B Cannon,REP,43,15,0,0,0,0,28
+Oconee,Salem,Commissioner of Agriculture,,Danny Ford,REP,236,48,0,0,0,4,184
+Oconee,Salem,Commissioner of Agriculture,,Cody Simpson,REP,218,55,0,0,0,1,162
+Oconee,Salem,Commissioner of Agriculture,,Fred West,REP,34,7,0,0,0,2,25
+Oconee,Seneca 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,34,10,0,0,0,1,23
+Oconee,Seneca 1,Commissioner of Agriculture,,Danny Ford,REP,227,61,0,0,0,1,165
+Oconee,Seneca 1,Commissioner of Agriculture,,Cody Simpson,REP,88,12,0,0,0,4,72
+Oconee,Seneca 1,Commissioner of Agriculture,,Fred West,REP,25,8,0,0,0,1,16
+Oconee,Seneca 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,51,19,0,0,0,0,32
+Oconee,Seneca 2,Commissioner of Agriculture,,Danny Ford,REP,196,59,0,0,0,6,131
+Oconee,Seneca 2,Commissioner of Agriculture,,Cody Simpson,REP,102,29,0,0,0,0,73
+Oconee,Seneca 2,Commissioner of Agriculture,,Fred West,REP,28,13,0,0,0,0,15
+Oconee,Seneca 3,Commissioner of Agriculture,,Jeremy B Cannon,REP,35,7,0,0,0,3,25
+Oconee,Seneca 3,Commissioner of Agriculture,,Danny Ford,REP,148,44,0,0,0,3,101
+Oconee,Seneca 3,Commissioner of Agriculture,,Cody Simpson,REP,113,22,0,0,0,6,85
+Oconee,Seneca 3,Commissioner of Agriculture,,Fred West,REP,23,7,0,0,0,0,16
+Oconee,Seneca 4,Commissioner of Agriculture,,Jeremy B Cannon,REP,33,6,0,0,0,2,25
+Oconee,Seneca 4,Commissioner of Agriculture,,Danny Ford,REP,191,33,0,0,0,6,152
+Oconee,Seneca 4,Commissioner of Agriculture,,Cody Simpson,REP,87,24,0,0,0,4,59
+Oconee,Seneca 4,Commissioner of Agriculture,,Fred West,REP,24,5,0,0,0,1,18
+Oconee,Shiloh,Commissioner of Agriculture,,Jeremy B Cannon,REP,23,2,0,0,0,1,20
+Oconee,Shiloh,Commissioner of Agriculture,,Danny Ford,REP,127,17,0,0,0,2,108
+Oconee,Shiloh,Commissioner of Agriculture,,Cody Simpson,REP,47,6,0,0,0,3,38
+Oconee,Shiloh,Commissioner of Agriculture,,Fred West,REP,11,2,0,0,0,0,9
+Oconee,South Union,Commissioner of Agriculture,,Jeremy B Cannon,REP,36,9,0,0,0,0,27
+Oconee,South Union,Commissioner of Agriculture,,Danny Ford,REP,149,28,0,0,0,0,121
+Oconee,South Union,Commissioner of Agriculture,,Cody Simpson,REP,121,29,0,0,0,0,92
+Oconee,South Union,Commissioner of Agriculture,,Fred West,REP,28,2,0,0,0,1,25
+Oconee,Stamp Creek,Commissioner of Agriculture,,Jeremy B Cannon,REP,73,32,0,0,0,0,41
+Oconee,Stamp Creek,Commissioner of Agriculture,,Danny Ford,REP,268,87,0,0,0,2,179
+Oconee,Stamp Creek,Commissioner of Agriculture,,Cody Simpson,REP,293,108,0,0,0,4,181
+Oconee,Stamp Creek,Commissioner of Agriculture,,Fred West,REP,79,39,0,0,0,2,38
+Oconee,Tamassee,Commissioner of Agriculture,,Jeremy B Cannon,REP,20,10,0,0,0,0,10
+Oconee,Tamassee,Commissioner of Agriculture,,Danny Ford,REP,145,39,0,0,0,4,102
+Oconee,Tamassee,Commissioner of Agriculture,,Cody Simpson,REP,75,19,0,0,0,3,53
+Oconee,Tamassee,Commissioner of Agriculture,,Fred West,REP,29,9,0,0,0,0,20
+Oconee,Tokeena-Providence,Commissioner of Agriculture,,Jeremy B Cannon,REP,22,5,0,0,0,0,17
+Oconee,Tokeena-Providence,Commissioner of Agriculture,,Danny Ford,REP,149,24,0,0,0,1,124
+Oconee,Tokeena-Providence,Commissioner of Agriculture,,Cody Simpson,REP,94,13,0,0,0,2,79
+Oconee,Tokeena-Providence,Commissioner of Agriculture,,Fred West,REP,22,3,0,0,0,1,18
+Oconee,Utica,Commissioner of Agriculture,,Jeremy B Cannon,REP,6,3,0,0,0,0,3
+Oconee,Utica,Commissioner of Agriculture,,Danny Ford,REP,38,4,0,0,0,2,32
+Oconee,Utica,Commissioner of Agriculture,,Cody Simpson,REP,16,5,0,0,0,0,11
+Oconee,Utica,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Oconee,Walhalla 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,77,33,0,0,0,3,41
+Oconee,Walhalla 1,Commissioner of Agriculture,,Danny Ford,REP,404,194,0,0,0,11,199
+Oconee,Walhalla 1,Commissioner of Agriculture,,Cody Simpson,REP,191,77,0,0,0,5,109
+Oconee,Walhalla 1,Commissioner of Agriculture,,Fred West,REP,37,15,0,0,0,0,22
+Oconee,Walhalla 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,54,25,0,0,0,0,29
+Oconee,Walhalla 2,Commissioner of Agriculture,,Danny Ford,REP,214,108,0,0,0,1,105
+Oconee,Walhalla 2,Commissioner of Agriculture,,Cody Simpson,REP,118,52,0,0,0,0,66
+Oconee,Walhalla 2,Commissioner of Agriculture,,Fred West,REP,28,16,0,0,0,0,12
+Oconee,West Union,Commissioner of Agriculture,,Jeremy B Cannon,REP,73,28,0,0,0,2,43
+Oconee,West Union,Commissioner of Agriculture,,Danny Ford,REP,239,57,0,0,0,1,181
+Oconee,West Union,Commissioner of Agriculture,,Cody Simpson,REP,135,60,0,0,0,0,75
+Oconee,West Union,Commissioner of Agriculture,,Fred West,REP,34,12,0,0,0,0,22
+Oconee,Westminster 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,63,19,0,0,0,0,44
+Oconee,Westminster 1,Commissioner of Agriculture,,Danny Ford,REP,286,71,0,0,0,11,204
+Oconee,Westminster 1,Commissioner of Agriculture,,Cody Simpson,REP,162,56,0,0,0,3,103
+Oconee,Westminster 1,Commissioner of Agriculture,,Fred West,REP,24,10,0,0,0,0,14
+Oconee,Westminster 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,36,11,0,0,0,0,25
+Oconee,Westminster 2,Commissioner of Agriculture,,Danny Ford,REP,172,44,0,0,0,2,126
+Oconee,Westminster 2,Commissioner of Agriculture,,Cody Simpson,REP,81,23,0,0,0,0,58
+Oconee,Westminster 2,Commissioner of Agriculture,,Fred West,REP,12,1,0,0,0,0,11
+Oconee,Bountyland,Comptroller General,,Tiffany Boozer,DEM,52,25,0,0,0,2,25
+Oconee,Bountyland,Comptroller General,,Bruce K Cole,DEM,31,6,0,0,0,4,21
+Oconee,Earles Grove,Comptroller General,,Tiffany Boozer,DEM,9,2,0,0,0,0,7
+Oconee,Earles Grove,Comptroller General,,Bruce K Cole,DEM,6,4,0,0,0,0,2
+Oconee,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,1,0,1,0,0,0,0
+Oconee,Fair Play,Comptroller General,,Tiffany Boozer,DEM,32,11,0,0,0,1,20
+Oconee,Fair Play,Comptroller General,,Bruce K Cole,DEM,11,1,0,0,0,0,10
+Oconee,Friendship,Comptroller General,,Tiffany Boozer,DEM,64,20,0,0,0,0,44
+Oconee,Friendship,Comptroller General,,Bruce K Cole,DEM,24,9,0,0,0,1,14
+Oconee,Holly Springs,Comptroller General,,Tiffany Boozer,DEM,4,0,0,0,0,0,4
+Oconee,Holly Springs,Comptroller General,,Bruce K Cole,DEM,3,0,0,0,0,0,3
+Oconee,Keowee,Comptroller General,,Tiffany Boozer,DEM,69,29,0,0,0,2,38
+Oconee,Keowee,Comptroller General,,Bruce K Cole,DEM,39,19,0,0,0,2,18
+Oconee,Long Creek,Comptroller General,,Tiffany Boozer,DEM,59,20,0,0,0,0,39
+Oconee,Long Creek,Comptroller General,,Bruce K Cole,DEM,16,9,0,0,0,0,7
+Oconee,Madison,Comptroller General,,Tiffany Boozer,DEM,7,1,0,0,0,0,6
+Oconee,Madison,Comptroller General,,Bruce K Cole,DEM,5,0,0,0,0,0,5
+Oconee,Mountain Rest,Comptroller General,,Tiffany Boozer,DEM,40,16,0,0,0,0,24
+Oconee,Mountain Rest,Comptroller General,,Bruce K Cole,DEM,24,8,0,0,0,2,14
+Oconee,New Hope,Comptroller General,,Tiffany Boozer,DEM,74,40,0,0,0,0,34
+Oconee,New Hope,Comptroller General,,Bruce K Cole,DEM,49,24,0,0,0,2,23
+Oconee,Newry-Corinth,Comptroller General,,Tiffany Boozer,DEM,12,2,0,0,0,0,10
+Oconee,Newry-Corinth,Comptroller General,,Bruce K Cole,DEM,3,0,0,0,0,0,3
+Oconee,Oakway,Comptroller General,,Tiffany Boozer,DEM,22,11,0,0,0,0,11
+Oconee,Oakway,Comptroller General,,Bruce K Cole,DEM,8,5,0,0,0,0,3
+Oconee,Provisional,Comptroller General,,Tiffany Boozer,DEM,4,0,0,4,0,0,0
+Oconee,Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Oconee,Ravenel,Comptroller General,,Tiffany Boozer,DEM,126,49,0,0,0,7,70
+Oconee,Ravenel,Comptroller General,,Bruce K Cole,DEM,63,23,0,0,0,1,39
+Oconee,Return,Comptroller General,,Tiffany Boozer,DEM,12,6,0,0,0,0,6
+Oconee,Return,Comptroller General,,Bruce K Cole,DEM,7,2,0,0,0,0,5
+Oconee,Richland,Comptroller General,,Tiffany Boozer,DEM,34,16,0,0,0,5,13
+Oconee,Richland,Comptroller General,,Bruce K Cole,DEM,15,2,0,0,0,1,12
+Oconee,Salem,Comptroller General,,Tiffany Boozer,DEM,55,20,0,0,0,1,34
+Oconee,Salem,Comptroller General,,Bruce K Cole,DEM,25,10,0,0,0,0,15
+Oconee,Seneca 1,Comptroller General,,Tiffany Boozer,DEM,167,66,0,0,0,5,96
+Oconee,Seneca 1,Comptroller General,,Bruce K Cole,DEM,93,36,0,0,0,4,53
+Oconee,Seneca 2,Comptroller General,,Tiffany Boozer,DEM,91,36,0,0,0,5,50
+Oconee,Seneca 2,Comptroller General,,Bruce K Cole,DEM,45,19,0,0,0,1,25
+Oconee,Seneca 3,Comptroller General,,Tiffany Boozer,DEM,60,19,0,0,0,1,40
+Oconee,Seneca 3,Comptroller General,,Bruce K Cole,DEM,26,9,0,0,0,0,17
+Oconee,Seneca 4,Comptroller General,,Tiffany Boozer,DEM,161,62,0,0,0,2,97
+Oconee,Seneca 4,Comptroller General,,Bruce K Cole,DEM,82,35,0,0,0,1,46
+Oconee,Shiloh,Comptroller General,,Tiffany Boozer,DEM,62,23,0,0,0,0,39
+Oconee,Shiloh,Comptroller General,,Bruce K Cole,DEM,35,15,0,0,0,0,20
+Oconee,South Union,Comptroller General,,Tiffany Boozer,DEM,38,15,0,0,0,1,22
+Oconee,South Union,Comptroller General,,Bruce K Cole,DEM,28,6,0,0,0,0,22
+Oconee,Stamp Creek,Comptroller General,,Tiffany Boozer,DEM,192,111,0,0,0,6,75
+Oconee,Stamp Creek,Comptroller General,,Bruce K Cole,DEM,66,31,0,0,0,5,30
+Oconee,Tamassee,Comptroller General,,Tiffany Boozer,DEM,16,8,0,0,0,2,6
+Oconee,Tamassee,Comptroller General,,Bruce K Cole,DEM,14,2,0,0,0,0,12
+Oconee,Tokeena-Providence,Comptroller General,,Tiffany Boozer,DEM,22,9,0,0,0,0,13
+Oconee,Tokeena-Providence,Comptroller General,,Bruce K Cole,DEM,11,2,0,0,0,0,9
+Oconee,Utica,Comptroller General,,Tiffany Boozer,DEM,41,5,0,0,0,0,36
+Oconee,Utica,Comptroller General,,Bruce K Cole,DEM,16,4,0,0,0,1,11
+Oconee,Walhalla 1,Comptroller General,,Tiffany Boozer,DEM,103,57,0,0,0,6,40
+Oconee,Walhalla 1,Comptroller General,,Bruce K Cole,DEM,36,14,0,0,0,4,18
+Oconee,Walhalla 2,Comptroller General,,Tiffany Boozer,DEM,75,28,0,0,0,4,43
+Oconee,Walhalla 2,Comptroller General,,Bruce K Cole,DEM,30,15,0,0,0,5,10
+Oconee,West Union,Comptroller General,,Tiffany Boozer,DEM,63,22,0,0,0,4,37
+Oconee,West Union,Comptroller General,,Bruce K Cole,DEM,19,5,0,0,0,1,13
+Oconee,Westminster 1,Comptroller General,,Tiffany Boozer,DEM,77,43,0,0,0,1,33
+Oconee,Westminster 1,Comptroller General,,Bruce K Cole,DEM,31,17,0,0,0,0,14
+Oconee,Westminster 2,Comptroller General,,Tiffany Boozer,DEM,38,15,0,0,0,0,23
+Oconee,Westminster 2,Comptroller General,,Bruce K Cole,DEM,22,6,0,0,0,1,15
+Oconee,Failsafe,County Council District 3,,Landon Lyle,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,County Council District 3,,Don Mize,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,County Council District 3,,Devin Clay,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe,County Council District 3,,Lee Shehan,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,County Council District 3,,Landon Lyle,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,County Council District 3,,Don Mize,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,County Council District 3,,Devin Clay,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,County Council District 3,,Lee Shehan,DEM,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,County Council District 3,,Landon Lyle,REP,16,0,0,0,0,0,16
+Oconee,Newry-Corinth,County Council District 3,,Don Mize,REP,29,7,0,0,0,0,22
+Oconee,Newry-Corinth,County Council District 3,,Devin Clay,DEM,6,0,0,0,0,0,6
+Oconee,Newry-Corinth,County Council District 3,,Lee Shehan,DEM,7,2,0,0,0,0,5
+Oconee,Provisional,County Council District 3,,Landon Lyle,REP,0,0,0,0,0,0,0
+Oconee,Provisional,County Council District 3,,Don Mize,REP,0,0,0,0,0,0,0
+Oconee,Provisional,County Council District 3,,Devin Clay,DEM,0,0,0,0,0,0,0
+Oconee,Provisional,County Council District 3,,Lee Shehan,DEM,1,0,0,1,0,0,0
+Oconee,Seneca 1,County Council District 3,,Landon Lyle,REP,148,24,0,0,0,4,120
+Oconee,Seneca 1,County Council District 3,,Don Mize,REP,224,65,0,0,0,3,156
+Oconee,Seneca 1,County Council District 3,,Devin Clay,DEM,145,46,0,0,0,4,95
+Oconee,Seneca 1,County Council District 3,,Lee Shehan,DEM,129,59,0,0,0,5,65
+Oconee,Seneca 2,County Council District 3,,Landon Lyle,REP,135,33,0,0,0,1,101
+Oconee,Seneca 2,County Council District 3,,Don Mize,REP,248,86,0,0,0,4,158
+Oconee,Seneca 2,County Council District 3,,Devin Clay,DEM,70,24,0,0,0,2,44
+Oconee,Seneca 2,County Council District 3,,Lee Shehan,DEM,69,34,0,0,0,4,31
+Oconee,Seneca 3,County Council District 3,,Landon Lyle,REP,123,26,0,0,0,1,96
+Oconee,Seneca 3,County Council District 3,,Don Mize,REP,211,57,0,0,0,11,143
+Oconee,Seneca 3,County Council District 3,,Devin Clay,DEM,44,11,0,0,0,0,33
+Oconee,Seneca 3,County Council District 3,,Lee Shehan,DEM,39,15,0,0,0,1,23
+Oconee,Seneca 4,County Council District 3,,Landon Lyle,REP,122,15,0,0,0,0,107
+Oconee,Seneca 4,County Council District 3,,Don Mize,REP,216,53,0,0,0,11,152
+Oconee,Seneca 4,County Council District 3,,Devin Clay,DEM,128,42,0,0,0,3,83
+Oconee,Seneca 4,County Council District 3,,Lee Shehan,DEM,127,57,0,0,0,0,70
+Oconee,Utica,County Council District 3,,Landon Lyle,REP,24,4,0,0,0,2,18
+Oconee,Utica,County Council District 3,,Don Mize,REP,37,8,0,0,0,0,29
+Oconee,Utica,County Council District 3,,Devin Clay,DEM,39,5,0,0,0,1,33
+Oconee,Utica,County Council District 3,,Lee Shehan,DEM,20,3,0,0,0,0,17
+Oconee,Bountyland,Governor,,Jacqueline Hicks DuBose,REP,3,1,0,0,0,0,2
+Oconee,Bountyland,Governor,,Pamela Evette,REP,133,42,0,0,0,1,90
+Oconee,Bountyland,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Oconee,Bountyland,Governor,,Nancy Mace,REP,23,6,0,0,0,0,17
+Oconee,Bountyland,Governor,,Ralph W Norman,REP,52,16,0,0,0,2,34
+Oconee,Bountyland,Governor,,Rom Reddy,REP,79,36,0,0,0,0,43
+Oconee,Bountyland,Governor,,Alan Wilson,REP,94,33,0,0,0,1,60
+Oconee,Bountyland,Governor,,Jermaine Johnson,DEM,48,20,0,0,0,2,26
+Oconee,Bountyland,Governor,,Mullins McLeod,DEM,10,4,0,0,0,1,5
+Oconee,Bountyland,Governor,,Billy Webster,DEM,28,8,0,0,0,3,17
+Oconee,Earles Grove,Governor,,Jacqueline Hicks DuBose,REP,3,1,0,0,0,0,2
+Oconee,Earles Grove,Governor,,Pamela Evette,REP,65,4,0,0,0,0,61
+Oconee,Earles Grove,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Oconee,Earles Grove,Governor,,Nancy Mace,REP,21,1,0,0,0,0,20
+Oconee,Earles Grove,Governor,,Ralph W Norman,REP,35,3,0,0,0,0,32
+Oconee,Earles Grove,Governor,,Rom Reddy,REP,33,3,0,0,0,3,27
+Oconee,Earles Grove,Governor,,Alan Wilson,REP,57,6,0,0,0,0,51
+Oconee,Earles Grove,Governor,,Jermaine Johnson,DEM,9,5,0,0,0,0,4
+Oconee,Earles Grove,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Oconee,Earles Grove,Governor,,Billy Webster,DEM,9,1,0,0,0,0,8
+Oconee,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Governor,,Pamela Evette,REP,1,0,1,0,0,0,0
+Oconee,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Governor,,Alan Wilson,REP,1,0,1,0,0,0,0
+Oconee,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,1,0,1,0,0,0,0
+Oconee,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Oconee,Fair Play,Governor,,Jacqueline Hicks DuBose,REP,3,0,0,0,0,0,3
+Oconee,Fair Play,Governor,,Pamela Evette,REP,91,9,0,0,0,0,82
+Oconee,Fair Play,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Oconee,Fair Play,Governor,,Nancy Mace,REP,21,1,0,0,0,0,20
+Oconee,Fair Play,Governor,,Ralph W Norman,REP,47,9,0,0,0,0,38
+Oconee,Fair Play,Governor,,Rom Reddy,REP,55,17,0,0,0,2,36
+Oconee,Fair Play,Governor,,Alan Wilson,REP,67,6,0,0,0,0,61
+Oconee,Fair Play,Governor,,Jermaine Johnson,DEM,23,6,0,0,0,1,16
+Oconee,Fair Play,Governor,,Mullins McLeod,DEM,5,0,0,0,0,0,5
+Oconee,Fair Play,Governor,,Billy Webster,DEM,15,6,0,0,0,0,9
+Oconee,Friendship,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Oconee,Friendship,Governor,,Pamela Evette,REP,140,20,0,0,0,2,118
+Oconee,Friendship,Governor,,Joshua Kimbrell,REP,4,1,0,0,0,0,3
+Oconee,Friendship,Governor,,Nancy Mace,REP,46,7,0,0,0,1,38
+Oconee,Friendship,Governor,,Ralph W Norman,REP,57,12,0,0,0,0,45
+Oconee,Friendship,Governor,,Rom Reddy,REP,57,13,0,0,0,2,42
+Oconee,Friendship,Governor,,Alan Wilson,REP,89,14,0,0,0,0,75
+Oconee,Friendship,Governor,,Jermaine Johnson,DEM,54,20,0,0,0,0,34
+Oconee,Friendship,Governor,,Mullins McLeod,DEM,9,2,0,0,0,0,7
+Oconee,Friendship,Governor,,Billy Webster,DEM,27,7,0,0,0,1,19
+Oconee,Holly Springs,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Oconee,Holly Springs,Governor,,Pamela Evette,REP,34,4,0,0,0,0,30
+Oconee,Holly Springs,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Oconee,Holly Springs,Governor,,Nancy Mace,REP,10,1,0,0,0,0,9
+Oconee,Holly Springs,Governor,,Ralph W Norman,REP,15,1,0,0,0,0,14
+Oconee,Holly Springs,Governor,,Rom Reddy,REP,15,6,0,0,0,0,9
+Oconee,Holly Springs,Governor,,Alan Wilson,REP,18,4,0,0,0,0,14
+Oconee,Holly Springs,Governor,,Jermaine Johnson,DEM,6,0,0,0,0,0,6
+Oconee,Holly Springs,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Oconee,Holly Springs,Governor,,Billy Webster,DEM,1,0,0,0,0,0,1
+Oconee,Keowee,Governor,,Jacqueline Hicks DuBose,REP,4,0,0,0,0,0,4
+Oconee,Keowee,Governor,,Pamela Evette,REP,204,58,0,0,0,4,142
+Oconee,Keowee,Governor,,Joshua Kimbrell,REP,6,4,0,0,0,2,0
+Oconee,Keowee,Governor,,Nancy Mace,REP,79,28,0,0,0,1,50
+Oconee,Keowee,Governor,,Ralph W Norman,REP,122,50,0,0,0,0,72
+Oconee,Keowee,Governor,,Rom Reddy,REP,106,50,0,0,0,1,55
+Oconee,Keowee,Governor,,Alan Wilson,REP,124,43,0,0,0,2,79
+Oconee,Keowee,Governor,,Jermaine Johnson,DEM,42,11,0,0,0,2,29
+Oconee,Keowee,Governor,,Mullins McLeod,DEM,22,10,0,0,0,1,11
+Oconee,Keowee,Governor,,Billy Webster,DEM,48,31,0,0,0,1,16
+Oconee,Long Creek,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Oconee,Long Creek,Governor,,Pamela Evette,REP,25,4,0,0,0,0,21
+Oconee,Long Creek,Governor,,Joshua Kimbrell,REP,2,2,0,0,0,0,0
+Oconee,Long Creek,Governor,,Nancy Mace,REP,5,0,0,0,0,0,5
+Oconee,Long Creek,Governor,,Ralph W Norman,REP,19,2,0,0,0,0,17
+Oconee,Long Creek,Governor,,Rom Reddy,REP,13,1,0,0,0,2,10
+Oconee,Long Creek,Governor,,Alan Wilson,REP,23,4,0,0,0,0,19
+Oconee,Long Creek,Governor,,Jermaine Johnson,DEM,61,27,0,0,0,0,34
+Oconee,Long Creek,Governor,,Mullins McLeod,DEM,2,0,0,0,0,0,2
+Oconee,Long Creek,Governor,,Billy Webster,DEM,15,3,0,0,0,0,12
+Oconee,Madison,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Oconee,Madison,Governor,,Pamela Evette,REP,51,7,0,0,0,0,44
+Oconee,Madison,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Oconee,Madison,Governor,,Nancy Mace,REP,22,1,0,0,0,0,21
+Oconee,Madison,Governor,,Ralph W Norman,REP,30,2,0,0,0,0,28
+Oconee,Madison,Governor,,Rom Reddy,REP,27,4,0,0,0,0,23
+Oconee,Madison,Governor,,Alan Wilson,REP,27,2,0,0,0,0,25
+Oconee,Madison,Governor,,Jermaine Johnson,DEM,3,0,0,0,0,0,3
+Oconee,Madison,Governor,,Mullins McLeod,DEM,1,0,0,0,0,0,1
+Oconee,Madison,Governor,,Billy Webster,DEM,9,1,0,0,0,0,8
+Oconee,Mountain Rest,Governor,,Jacqueline Hicks DuBose,REP,3,0,0,0,0,0,3
+Oconee,Mountain Rest,Governor,,Pamela Evette,REP,84,12,0,0,0,3,69
+Oconee,Mountain Rest,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Oconee,Mountain Rest,Governor,,Nancy Mace,REP,22,5,0,0,0,0,17
+Oconee,Mountain Rest,Governor,,Ralph W Norman,REP,69,7,0,0,0,0,62
+Oconee,Mountain Rest,Governor,,Rom Reddy,REP,55,9,0,0,0,0,46
+Oconee,Mountain Rest,Governor,,Alan Wilson,REP,59,12,0,0,0,0,47
+Oconee,Mountain Rest,Governor,,Jermaine Johnson,DEM,28,10,0,0,0,0,18
+Oconee,Mountain Rest,Governor,,Mullins McLeod,DEM,6,4,0,0,0,1,1
+Oconee,Mountain Rest,Governor,,Billy Webster,DEM,42,14,0,0,0,1,27
+Oconee,New Hope,Governor,,Jacqueline Hicks DuBose,REP,3,1,0,0,0,0,2
+Oconee,New Hope,Governor,,Pamela Evette,REP,301,82,0,0,0,5,214
+Oconee,New Hope,Governor,,Joshua Kimbrell,REP,10,2,0,0,0,0,8
+Oconee,New Hope,Governor,,Nancy Mace,REP,80,28,0,0,0,1,51
+Oconee,New Hope,Governor,,Ralph W Norman,REP,164,46,0,0,0,4,114
+Oconee,New Hope,Governor,,Rom Reddy,REP,145,57,0,0,0,6,82
+Oconee,New Hope,Governor,,Alan Wilson,REP,194,59,0,0,0,5,130
+Oconee,New Hope,Governor,,Jermaine Johnson,DEM,64,34,0,0,0,0,30
+Oconee,New Hope,Governor,,Mullins McLeod,DEM,14,4,0,0,0,0,10
+Oconee,New Hope,Governor,,Billy Webster,DEM,61,34,0,0,0,2,25
+Oconee,Newry-Corinth,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,Governor,,Pamela Evette,REP,13,2,0,0,0,0,11
+Oconee,Newry-Corinth,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,Governor,,Nancy Mace,REP,5,1,0,0,0,0,4
+Oconee,Newry-Corinth,Governor,,Ralph W Norman,REP,14,4,0,0,0,0,10
+Oconee,Newry-Corinth,Governor,,Rom Reddy,REP,7,0,0,0,0,0,7
+Oconee,Newry-Corinth,Governor,,Alan Wilson,REP,9,0,0,0,0,0,9
+Oconee,Newry-Corinth,Governor,,Jermaine Johnson,DEM,5,0,0,0,0,0,5
+Oconee,Newry-Corinth,Governor,,Mullins McLeod,DEM,3,1,0,0,0,0,2
+Oconee,Newry-Corinth,Governor,,Billy Webster,DEM,8,0,0,0,0,0,8
+Oconee,Oakway,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Oconee,Oakway,Governor,,Pamela Evette,REP,93,14,0,0,0,1,78
+Oconee,Oakway,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Oconee,Oakway,Governor,,Nancy Mace,REP,26,4,0,0,0,0,22
+Oconee,Oakway,Governor,,Ralph W Norman,REP,48,12,0,0,0,0,36
+Oconee,Oakway,Governor,,Rom Reddy,REP,46,16,0,0,0,0,30
+Oconee,Oakway,Governor,,Alan Wilson,REP,65,11,0,0,0,0,54
+Oconee,Oakway,Governor,,Jermaine Johnson,DEM,20,9,0,0,0,0,11
+Oconee,Oakway,Governor,,Mullins McLeod,DEM,3,2,0,0,0,0,1
+Oconee,Oakway,Governor,,Billy Webster,DEM,10,5,0,0,0,0,5
+Oconee,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Oconee,Provisional,Governor,,Pamela Evette,REP,4,0,0,4,0,0,0
+Oconee,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Oconee,Provisional,Governor,,Nancy Mace,REP,3,0,0,3,0,0,0
+Oconee,Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Oconee,Provisional,Governor,,Rom Reddy,REP,2,0,0,2,0,0,0
+Oconee,Provisional,Governor,,Alan Wilson,REP,1,0,0,1,0,0,0
+Oconee,Provisional,Governor,,Jermaine Johnson,DEM,3,0,0,3,0,0,0
+Oconee,Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Oconee,Provisional,Governor,,Billy Webster,DEM,1,0,0,1,0,0,0
+Oconee,Ravenel,Governor,,Jacqueline Hicks DuBose,REP,4,2,0,0,0,0,2
+Oconee,Ravenel,Governor,,Pamela Evette,REP,122,26,0,0,0,4,92
+Oconee,Ravenel,Governor,,Joshua Kimbrell,REP,5,3,0,0,0,0,2
+Oconee,Ravenel,Governor,,Nancy Mace,REP,52,6,0,0,0,1,45
+Oconee,Ravenel,Governor,,Ralph W Norman,REP,85,18,0,0,0,0,67
+Oconee,Ravenel,Governor,,Rom Reddy,REP,86,27,0,0,0,0,59
+Oconee,Ravenel,Governor,,Alan Wilson,REP,145,34,0,0,0,3,108
+Oconee,Ravenel,Governor,,Jermaine Johnson,DEM,124,46,0,0,0,5,73
+Oconee,Ravenel,Governor,,Mullins McLeod,DEM,12,5,0,0,0,0,7
+Oconee,Ravenel,Governor,,Billy Webster,DEM,72,24,0,0,0,3,45
+Oconee,Return,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Oconee,Return,Governor,,Pamela Evette,REP,60,7,0,0,0,1,52
+Oconee,Return,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Oconee,Return,Governor,,Nancy Mace,REP,25,1,0,0,0,0,24
+Oconee,Return,Governor,,Ralph W Norman,REP,34,1,0,0,0,0,33
+Oconee,Return,Governor,,Rom Reddy,REP,30,11,0,0,0,0,19
+Oconee,Return,Governor,,Alan Wilson,REP,58,5,0,0,0,2,51
+Oconee,Return,Governor,,Jermaine Johnson,DEM,11,5,0,0,0,0,6
+Oconee,Return,Governor,,Mullins McLeod,DEM,2,0,0,0,0,0,2
+Oconee,Return,Governor,,Billy Webster,DEM,8,3,0,0,0,0,5
+Oconee,Richland,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Oconee,Richland,Governor,,Pamela Evette,REP,66,10,0,0,0,0,56
+Oconee,Richland,Governor,,Joshua Kimbrell,REP,4,2,0,0,0,0,2
+Oconee,Richland,Governor,,Nancy Mace,REP,23,3,0,0,0,0,20
+Oconee,Richland,Governor,,Ralph W Norman,REP,51,10,0,0,0,1,40
+Oconee,Richland,Governor,,Rom Reddy,REP,43,8,0,0,0,0,35
+Oconee,Richland,Governor,,Alan Wilson,REP,90,13,0,0,0,0,77
+Oconee,Richland,Governor,,Jermaine Johnson,DEM,29,6,0,0,0,3,20
+Oconee,Richland,Governor,,Mullins McLeod,DEM,4,1,0,0,0,0,3
+Oconee,Richland,Governor,,Billy Webster,DEM,19,11,0,0,0,4,4
+Oconee,Salem,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Oconee,Salem,Governor,,Pamela Evette,REP,177,35,0,0,0,0,142
+Oconee,Salem,Governor,,Joshua Kimbrell,REP,4,0,0,0,0,0,4
+Oconee,Salem,Governor,,Nancy Mace,REP,50,14,0,0,0,1,35
+Oconee,Salem,Governor,,Ralph W Norman,REP,109,24,0,0,0,2,83
+Oconee,Salem,Governor,,Rom Reddy,REP,86,29,0,0,0,2,55
+Oconee,Salem,Governor,,Alan Wilson,REP,132,27,0,0,0,2,103
+Oconee,Salem,Governor,,Jermaine Johnson,DEM,40,17,0,0,0,0,23
+Oconee,Salem,Governor,,Mullins McLeod,DEM,9,5,0,0,0,1,3
+Oconee,Salem,Governor,,Billy Webster,DEM,39,12,0,0,0,0,27
+Oconee,Seneca 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Oconee,Seneca 1,Governor,,Pamela Evette,REP,119,27,0,0,0,6,86
+Oconee,Seneca 1,Governor,,Joshua Kimbrell,REP,3,1,0,0,0,0,2
+Oconee,Seneca 1,Governor,,Nancy Mace,REP,45,11,0,0,0,1,33
+Oconee,Seneca 1,Governor,,Ralph W Norman,REP,53,15,0,0,0,0,38
+Oconee,Seneca 1,Governor,,Rom Reddy,REP,71,16,0,0,0,1,54
+Oconee,Seneca 1,Governor,,Alan Wilson,REP,106,25,0,0,0,0,81
+Oconee,Seneca 1,Governor,,Jermaine Johnson,DEM,182,76,0,0,0,5,101
+Oconee,Seneca 1,Governor,,Mullins McLeod,DEM,23,11,0,0,0,1,11
+Oconee,Seneca 1,Governor,,Billy Webster,DEM,77,24,0,0,0,3,50
+Oconee,Seneca 2,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Oconee,Seneca 2,Governor,,Pamela Evette,REP,120,37,0,0,0,1,82
+Oconee,Seneca 2,Governor,,Joshua Kimbrell,REP,3,2,0,0,0,0,1
+Oconee,Seneca 2,Governor,,Nancy Mace,REP,43,14,0,0,0,0,29
+Oconee,Seneca 2,Governor,,Ralph W Norman,REP,56,18,0,0,0,1,37
+Oconee,Seneca 2,Governor,,Rom Reddy,REP,65,19,0,0,0,3,43
+Oconee,Seneca 2,Governor,,Alan Wilson,REP,109,33,0,0,0,0,76
+Oconee,Seneca 2,Governor,,Jermaine Johnson,DEM,87,35,0,0,0,4,48
+Oconee,Seneca 2,Governor,,Mullins McLeod,DEM,15,7,0,0,0,0,8
+Oconee,Seneca 2,Governor,,Billy Webster,DEM,44,19,0,0,0,2,23
+Oconee,Seneca 3,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Oconee,Seneca 3,Governor,,Pamela Evette,REP,126,37,0,0,0,7,82
+Oconee,Seneca 3,Governor,,Joshua Kimbrell,REP,4,0,0,0,0,1,3
+Oconee,Seneca 3,Governor,,Nancy Mace,REP,39,6,0,0,0,0,33
+Oconee,Seneca 3,Governor,,Ralph W Norman,REP,51,13,0,0,0,3,35
+Oconee,Seneca 3,Governor,,Rom Reddy,REP,40,11,0,0,0,0,29
+Oconee,Seneca 3,Governor,,Alan Wilson,REP,83,20,0,0,0,1,62
+Oconee,Seneca 3,Governor,,Jermaine Johnson,DEM,53,16,0,0,0,1,36
+Oconee,Seneca 3,Governor,,Mullins McLeod,DEM,9,1,0,0,0,0,8
+Oconee,Seneca 3,Governor,,Billy Webster,DEM,27,11,0,0,0,0,16
+Oconee,Seneca 4,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Oconee,Seneca 4,Governor,,Pamela Evette,REP,103,15,0,0,0,5,83
+Oconee,Seneca 4,Governor,,Joshua Kimbrell,REP,4,0,0,0,0,0,4
+Oconee,Seneca 4,Governor,,Nancy Mace,REP,46,8,0,0,0,0,38
+Oconee,Seneca 4,Governor,,Ralph W Norman,REP,54,11,0,0,0,3,40
+Oconee,Seneca 4,Governor,,Rom Reddy,REP,47,13,0,0,0,0,34
+Oconee,Seneca 4,Governor,,Alan Wilson,REP,91,21,0,0,0,6,64
+Oconee,Seneca 4,Governor,,Jermaine Johnson,DEM,180,65,0,0,0,2,113
+Oconee,Seneca 4,Governor,,Mullins McLeod,DEM,17,5,0,0,0,1,11
+Oconee,Seneca 4,Governor,,Billy Webster,DEM,65,32,0,0,0,0,33
+Oconee,Shiloh,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Oconee,Shiloh,Governor,,Pamela Evette,REP,59,11,0,0,0,1,47
+Oconee,Shiloh,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Oconee,Shiloh,Governor,,Nancy Mace,REP,30,2,0,0,0,1,27
+Oconee,Shiloh,Governor,,Ralph W Norman,REP,26,0,0,0,0,2,24
+Oconee,Shiloh,Governor,,Rom Reddy,REP,35,6,0,0,0,2,27
+Oconee,Shiloh,Governor,,Alan Wilson,REP,63,9,0,0,0,2,52
+Oconee,Shiloh,Governor,,Jermaine Johnson,DEM,60,23,0,0,0,0,37
+Oconee,Shiloh,Governor,,Mullins McLeod,DEM,13,7,0,0,0,0,6
+Oconee,Shiloh,Governor,,Billy Webster,DEM,27,9,0,0,0,0,18
+Oconee,South Union,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Oconee,South Union,Governor,,Pamela Evette,REP,132,27,0,0,0,0,105
+Oconee,South Union,Governor,,Joshua Kimbrell,REP,3,0,0,0,0,0,3
+Oconee,South Union,Governor,,Nancy Mace,REP,49,12,0,0,0,0,37
+Oconee,South Union,Governor,,Ralph W Norman,REP,65,14,0,0,0,1,50
+Oconee,South Union,Governor,,Rom Reddy,REP,36,6,0,0,0,0,30
+Oconee,South Union,Governor,,Alan Wilson,REP,87,20,0,0,0,2,65
+Oconee,South Union,Governor,,Jermaine Johnson,DEM,26,8,0,0,0,0,18
+Oconee,South Union,Governor,,Mullins McLeod,DEM,10,4,0,0,0,0,6
+Oconee,South Union,Governor,,Billy Webster,DEM,37,13,0,0,0,1,23
+Oconee,Stamp Creek,Governor,,Jacqueline Hicks DuBose,REP,3,2,0,0,0,0,1
+Oconee,Stamp Creek,Governor,,Pamela Evette,REP,241,72,0,0,0,4,165
+Oconee,Stamp Creek,Governor,,Joshua Kimbrell,REP,9,4,0,0,0,0,5
+Oconee,Stamp Creek,Governor,,Nancy Mace,REP,82,24,0,0,0,0,58
+Oconee,Stamp Creek,Governor,,Ralph W Norman,REP,137,56,0,0,0,0,81
+Oconee,Stamp Creek,Governor,,Rom Reddy,REP,157,73,0,0,0,3,81
+Oconee,Stamp Creek,Governor,,Alan Wilson,REP,173,70,0,0,0,2,101
+Oconee,Stamp Creek,Governor,,Jermaine Johnson,DEM,159,91,0,0,0,5,63
+Oconee,Stamp Creek,Governor,,Mullins McLeod,DEM,26,14,0,0,0,0,12
+Oconee,Stamp Creek,Governor,,Billy Webster,DEM,99,47,0,0,0,7,45
+Oconee,Tamassee,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Oconee,Tamassee,Governor,,Pamela Evette,REP,67,26,0,0,0,2,39
+Oconee,Tamassee,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Oconee,Tamassee,Governor,,Nancy Mace,REP,39,6,0,0,0,0,33
+Oconee,Tamassee,Governor,,Ralph W Norman,REP,55,21,0,0,0,2,32
+Oconee,Tamassee,Governor,,Rom Reddy,REP,45,13,0,0,0,0,32
+Oconee,Tamassee,Governor,,Alan Wilson,REP,71,16,0,0,0,3,52
+Oconee,Tamassee,Governor,,Jermaine Johnson,DEM,16,6,0,0,0,1,9
+Oconee,Tamassee,Governor,,Mullins McLeod,DEM,1,0,0,0,0,0,1
+Oconee,Tamassee,Governor,,Billy Webster,DEM,16,4,0,0,0,0,12
+Oconee,Tokeena-Providence,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Oconee,Tokeena-Providence,Governor,,Pamela Evette,REP,93,11,0,0,0,0,82
+Oconee,Tokeena-Providence,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Oconee,Tokeena-Providence,Governor,,Nancy Mace,REP,19,2,0,0,0,0,17
+Oconee,Tokeena-Providence,Governor,,Ralph W Norman,REP,58,17,0,0,0,3,38
+Oconee,Tokeena-Providence,Governor,,Rom Reddy,REP,48,12,0,0,0,0,36
+Oconee,Tokeena-Providence,Governor,,Alan Wilson,REP,75,3,0,0,0,1,71
+Oconee,Tokeena-Providence,Governor,,Jermaine Johnson,DEM,13,8,0,0,0,0,5
+Oconee,Tokeena-Providence,Governor,,Mullins McLeod,DEM,3,1,0,0,0,0,2
+Oconee,Tokeena-Providence,Governor,,Billy Webster,DEM,18,2,0,0,0,0,16
+Oconee,Utica,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Oconee,Utica,Governor,,Pamela Evette,REP,25,2,0,0,0,2,21
+Oconee,Utica,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Oconee,Utica,Governor,,Nancy Mace,REP,5,3,0,0,0,0,2
+Oconee,Utica,Governor,,Ralph W Norman,REP,7,2,0,0,0,0,5
+Oconee,Utica,Governor,,Rom Reddy,REP,15,4,0,0,0,0,11
+Oconee,Utica,Governor,,Alan Wilson,REP,11,0,0,0,0,0,11
+Oconee,Utica,Governor,,Jermaine Johnson,DEM,32,5,0,0,0,1,26
+Oconee,Utica,Governor,,Mullins McLeod,DEM,8,0,0,0,0,0,8
+Oconee,Utica,Governor,,Billy Webster,DEM,21,4,0,0,0,0,17
+Oconee,Walhalla 1,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Oconee,Walhalla 1,Governor,,Pamela Evette,REP,209,83,0,0,0,7,119
+Oconee,Walhalla 1,Governor,,Joshua Kimbrell,REP,10,4,0,0,0,1,5
+Oconee,Walhalla 1,Governor,,Nancy Mace,REP,58,23,0,0,0,1,34
+Oconee,Walhalla 1,Governor,,Ralph W Norman,REP,161,59,0,0,0,2,100
+Oconee,Walhalla 1,Governor,,Rom Reddy,REP,141,88,0,0,0,4,49
+Oconee,Walhalla 1,Governor,,Alan Wilson,REP,156,73,0,0,0,4,79
+Oconee,Walhalla 1,Governor,,Jermaine Johnson,DEM,83,41,0,0,0,7,35
+Oconee,Walhalla 1,Governor,,Mullins McLeod,DEM,12,7,0,0,0,0,5
+Oconee,Walhalla 1,Governor,,Billy Webster,DEM,52,26,0,0,0,3,23
+Oconee,Walhalla 2,Governor,,Jacqueline Hicks DuBose,REP,3,0,0,0,0,0,3
+Oconee,Walhalla 2,Governor,,Pamela Evette,REP,127,67,0,0,0,1,59
+Oconee,Walhalla 2,Governor,,Joshua Kimbrell,REP,4,2,0,0,0,0,2
+Oconee,Walhalla 2,Governor,,Nancy Mace,REP,59,26,0,0,0,0,33
+Oconee,Walhalla 2,Governor,,Ralph W Norman,REP,85,44,0,0,0,0,41
+Oconee,Walhalla 2,Governor,,Rom Reddy,REP,75,40,0,0,0,0,35
+Oconee,Walhalla 2,Governor,,Alan Wilson,REP,79,31,0,0,0,0,48
+Oconee,Walhalla 2,Governor,,Jermaine Johnson,DEM,64,24,0,0,0,4,36
+Oconee,Walhalla 2,Governor,,Mullins McLeod,DEM,6,4,0,0,0,0,2
+Oconee,Walhalla 2,Governor,,Billy Webster,DEM,36,16,0,0,0,4,16
+Oconee,West Union,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Oconee,West Union,Governor,,Pamela Evette,REP,151,42,0,0,0,1,108
+Oconee,West Union,Governor,,Joshua Kimbrell,REP,5,3,0,0,0,0,2
+Oconee,West Union,Governor,,Nancy Mace,REP,59,18,0,0,0,0,41
+Oconee,West Union,Governor,,Ralph W Norman,REP,113,43,0,0,0,2,68
+Oconee,West Union,Governor,,Rom Reddy,REP,94,29,0,0,0,0,65
+Oconee,West Union,Governor,,Alan Wilson,REP,93,32,0,0,0,0,61
+Oconee,West Union,Governor,,Jermaine Johnson,DEM,39,7,0,0,0,4,28
+Oconee,West Union,Governor,,Mullins McLeod,DEM,12,6,0,0,0,0,6
+Oconee,West Union,Governor,,Billy Webster,DEM,32,15,0,0,0,1,16
+Oconee,Westminster 1,Governor,,Jacqueline Hicks DuBose,REP,4,3,0,0,0,0,1
+Oconee,Westminster 1,Governor,,Pamela Evette,REP,204,56,0,0,0,3,145
+Oconee,Westminster 1,Governor,,Joshua Kimbrell,REP,7,4,0,0,0,0,3
+Oconee,Westminster 1,Governor,,Nancy Mace,REP,53,12,0,0,0,0,41
+Oconee,Westminster 1,Governor,,Ralph W Norman,REP,95,24,0,0,0,3,68
+Oconee,Westminster 1,Governor,,Rom Reddy,REP,75,36,0,0,0,1,38
+Oconee,Westminster 1,Governor,,Alan Wilson,REP,126,27,0,0,0,7,92
+Oconee,Westminster 1,Governor,,Jermaine Johnson,DEM,71,48,0,0,0,1,22
+Oconee,Westminster 1,Governor,,Mullins McLeod,DEM,9,2,0,0,0,0,7
+Oconee,Westminster 1,Governor,,Billy Webster,DEM,35,15,0,0,0,0,20
+Oconee,Westminster 2,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Oconee,Westminster 2,Governor,,Pamela Evette,REP,98,34,0,0,0,1,63
+Oconee,Westminster 2,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Oconee,Westminster 2,Governor,,Nancy Mace,REP,33,7,0,0,0,1,25
+Oconee,Westminster 2,Governor,,Ralph W Norman,REP,54,9,0,0,0,0,45
+Oconee,Westminster 2,Governor,,Rom Reddy,REP,55,13,0,0,0,0,42
+Oconee,Westminster 2,Governor,,Alan Wilson,REP,67,17,0,0,0,0,50
+Oconee,Westminster 2,Governor,,Jermaine Johnson,DEM,33,14,0,0,0,1,18
+Oconee,Westminster 2,Governor,,Mullins McLeod,DEM,5,1,0,0,0,0,4
+Oconee,Westminster 2,Governor,,Billy Webster,DEM,27,8,0,0,0,0,19
+Oconee,Bountyland,Secretary of State,,Jason Belton,DEM,32,14,0,0,0,2,16
+Oconee,Bountyland,Secretary of State,,Edwina Winter,DEM,53,18,0,0,0,4,31
+Oconee,Earles Grove,Secretary of State,,Jason Belton,DEM,7,1,0,0,0,0,6
+Oconee,Earles Grove,Secretary of State,,Edwina Winter,DEM,10,5,0,0,0,0,5
+Oconee,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,1,0,1,0,0,0,0
+Oconee,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Oconee,Fair Play,Secretary of State,,Jason Belton,DEM,18,5,0,0,0,0,13
+Oconee,Fair Play,Secretary of State,,Edwina Winter,DEM,26,8,0,0,0,1,17
+Oconee,Friendship,Secretary of State,,Jason Belton,DEM,43,11,0,0,0,1,31
+Oconee,Friendship,Secretary of State,,Edwina Winter,DEM,46,18,0,0,0,0,28
+Oconee,Holly Springs,Secretary of State,,Jason Belton,DEM,4,0,0,0,0,0,4
+Oconee,Holly Springs,Secretary of State,,Edwina Winter,DEM,3,0,0,0,0,0,3
+Oconee,Keowee,Secretary of State,,Jason Belton,DEM,41,16,0,0,0,1,24
+Oconee,Keowee,Secretary of State,,Edwina Winter,DEM,70,34,0,0,0,3,33
+Oconee,Long Creek,Secretary of State,,Jason Belton,DEM,20,7,0,0,0,0,13
+Oconee,Long Creek,Secretary of State,,Edwina Winter,DEM,57,24,0,0,0,0,33
+Oconee,Madison,Secretary of State,,Jason Belton,DEM,7,0,0,0,0,0,7
+Oconee,Madison,Secretary of State,,Edwina Winter,DEM,5,1,0,0,0,0,4
+Oconee,Mountain Rest,Secretary of State,,Jason Belton,DEM,18,7,0,0,0,1,10
+Oconee,Mountain Rest,Secretary of State,,Edwina Winter,DEM,49,18,0,0,0,1,30
+Oconee,New Hope,Secretary of State,,Jason Belton,DEM,43,21,0,0,0,2,20
+Oconee,New Hope,Secretary of State,,Edwina Winter,DEM,86,46,0,0,0,0,40
+Oconee,Newry-Corinth,Secretary of State,,Jason Belton,DEM,6,0,0,0,0,0,6
+Oconee,Newry-Corinth,Secretary of State,,Edwina Winter,DEM,10,1,0,0,0,0,9
+Oconee,Oakway,Secretary of State,,Jason Belton,DEM,14,7,0,0,0,0,7
+Oconee,Oakway,Secretary of State,,Edwina Winter,DEM,14,8,0,0,0,0,6
+Oconee,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Oconee,Provisional,Secretary of State,,Edwina Winter,DEM,4,0,0,4,0,0,0
+Oconee,Ravenel,Secretary of State,,Jason Belton,DEM,81,36,0,0,0,5,40
+Oconee,Ravenel,Secretary of State,,Edwina Winter,DEM,109,35,0,0,0,3,71
+Oconee,Return,Secretary of State,,Jason Belton,DEM,7,2,0,0,0,0,5
+Oconee,Return,Secretary of State,,Edwina Winter,DEM,12,6,0,0,0,0,6
+Oconee,Richland,Secretary of State,,Jason Belton,DEM,17,3,0,0,0,6,8
+Oconee,Richland,Secretary of State,,Edwina Winter,DEM,34,15,0,0,0,1,18
+Oconee,Salem,Secretary of State,,Jason Belton,DEM,31,14,0,0,0,0,17
+Oconee,Salem,Secretary of State,,Edwina Winter,DEM,51,17,0,0,0,1,33
+Oconee,Seneca 1,Secretary of State,,Jason Belton,DEM,125,48,0,0,0,3,74
+Oconee,Seneca 1,Secretary of State,,Edwina Winter,DEM,140,54,0,0,0,6,80
+Oconee,Seneca 2,Secretary of State,,Jason Belton,DEM,57,23,0,0,0,0,34
+Oconee,Seneca 2,Secretary of State,,Edwina Winter,DEM,80,32,0,0,0,6,42
+Oconee,Seneca 3,Secretary of State,,Jason Belton,DEM,49,16,0,0,0,0,33
+Oconee,Seneca 3,Secretary of State,,Edwina Winter,DEM,39,12,0,0,0,1,26
+Oconee,Seneca 4,Secretary of State,,Jason Belton,DEM,113,43,0,0,0,0,70
+Oconee,Seneca 4,Secretary of State,,Edwina Winter,DEM,131,54,0,0,0,3,74
+Oconee,Shiloh,Secretary of State,,Jason Belton,DEM,39,17,0,0,0,0,22
+Oconee,Shiloh,Secretary of State,,Edwina Winter,DEM,60,21,0,0,0,0,39
+Oconee,South Union,Secretary of State,,Jason Belton,DEM,23,8,0,0,0,1,14
+Oconee,South Union,Secretary of State,,Edwina Winter,DEM,46,14,0,0,0,0,32
+Oconee,Stamp Creek,Secretary of State,,Jason Belton,DEM,77,40,0,0,0,4,33
+Oconee,Stamp Creek,Secretary of State,,Edwina Winter,DEM,185,106,0,0,0,7,72
+Oconee,Tamassee,Secretary of State,,Jason Belton,DEM,7,4,0,0,0,0,3
+Oconee,Tamassee,Secretary of State,,Edwina Winter,DEM,24,6,0,0,0,1,17
+Oconee,Tokeena-Providence,Secretary of State,,Jason Belton,DEM,10,2,0,0,0,0,8
+Oconee,Tokeena-Providence,Secretary of State,,Edwina Winter,DEM,23,9,0,0,0,0,14
+Oconee,Utica,Secretary of State,,Jason Belton,DEM,19,4,0,0,0,1,14
+Oconee,Utica,Secretary of State,,Edwina Winter,DEM,40,5,0,0,0,0,35
+Oconee,Walhalla 1,Secretary of State,,Jason Belton,DEM,59,26,0,0,0,5,28
+Oconee,Walhalla 1,Secretary of State,,Edwina Winter,DEM,81,45,0,0,0,5,31
+Oconee,Walhalla 2,Secretary of State,,Jason Belton,DEM,39,14,0,0,0,1,24
+Oconee,Walhalla 2,Secretary of State,,Edwina Winter,DEM,62,27,0,0,0,7,28
+Oconee,West Union,Secretary of State,,Jason Belton,DEM,32,11,0,0,0,2,19
+Oconee,West Union,Secretary of State,,Edwina Winter,DEM,51,17,0,0,0,3,31
+Oconee,Westminster 1,Secretary of State,,Jason Belton,DEM,46,29,0,0,0,0,17
+Oconee,Westminster 1,Secretary of State,,Edwina Winter,DEM,62,30,0,0,0,1,31
+Oconee,Westminster 2,Secretary of State,,Jason Belton,DEM,29,13,0,0,0,0,16
+Oconee,Westminster 2,Secretary of State,,Edwina Winter,DEM,30,8,0,0,0,1,21
+Oconee,Failsafe,State House,1,Craig A Diem,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,State House,1,Bill Whitmire,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,State House,1,Juni Lynch,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe,State House,1,Jasmine Williams,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,State House,1,Craig A Diem,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,State House,1,Bill Whitmire,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,State House,1,Juni Lynch,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,State House,1,Jasmine Williams,DEM,0,0,0,0,0,0,0
+Oconee,Holly Springs,State House,1,Craig A Diem,REP,22,4,0,0,0,0,18
+Oconee,Holly Springs,State House,1,Bill Whitmire,REP,68,10,0,0,0,0,58
+Oconee,Holly Springs,State House,1,Juni Lynch,DEM,1,0,0,0,0,0,1
+Oconee,Holly Springs,State House,1,Jasmine Williams,DEM,6,0,0,0,0,0,6
+Oconee,Keowee,State House,1,Craig A Diem,REP,242,91,0,0,0,1,150
+Oconee,Keowee,State House,1,Bill Whitmire,REP,373,128,0,0,0,8,237
+Oconee,Keowee,State House,1,Juni Lynch,DEM,50,20,0,0,0,2,28
+Oconee,Keowee,State House,1,Jasmine Williams,DEM,61,31,0,0,0,1,29
+Oconee,Long Creek,State House,1,Craig A Diem,REP,31,7,0,0,0,0,24
+Oconee,Long Creek,State House,1,Bill Whitmire,REP,51,7,0,0,0,2,42
+Oconee,Long Creek,State House,1,Juni Lynch,DEM,6,1,0,0,0,0,5
+Oconee,Long Creek,State House,1,Jasmine Williams,DEM,77,33,0,0,0,0,44
+Oconee,Madison,State House,1,Craig A Diem,REP,60,4,0,0,0,0,56
+Oconee,Madison,State House,1,Bill Whitmire,REP,89,9,0,0,0,0,80
+Oconee,Madison,State House,1,Juni Lynch,DEM,5,0,0,0,0,0,5
+Oconee,Madison,State House,1,Jasmine Williams,DEM,7,1,0,0,0,0,6
+Oconee,Mountain Rest,State House,1,Craig A Diem,REP,108,25,0,0,0,1,82
+Oconee,Mountain Rest,State House,1,Bill Whitmire,REP,167,15,0,0,0,0,152
+Oconee,Mountain Rest,State House,1,Juni Lynch,DEM,19,5,0,0,0,0,14
+Oconee,Mountain Rest,State House,1,Jasmine Williams,DEM,54,21,0,0,0,2,31
+Oconee,Provisional,State House,1,Craig A Diem,REP,0,0,0,0,0,0,0
+Oconee,Provisional,State House,1,Bill Whitmire,REP,0,0,0,0,0,0,0
+Oconee,Provisional,State House,1,Juni Lynch,DEM,0,0,0,0,0,0,0
+Oconee,Provisional,State House,1,Jasmine Williams,DEM,3,0,0,3,0,0,0
+Oconee,Richland,State House,1,Craig A Diem,REP,79,15,0,0,0,0,64
+Oconee,Richland,State House,1,Bill Whitmire,REP,190,31,0,0,0,1,158
+Oconee,Richland,State House,1,Juni Lynch,DEM,21,9,0,0,0,4,8
+Oconee,Richland,State House,1,Jasmine Williams,DEM,30,9,0,0,0,3,18
+Oconee,Salem,State House,1,Craig A Diem,REP,161,52,0,0,0,2,107
+Oconee,Salem,State House,1,Bill Whitmire,REP,366,72,0,0,0,4,290
+Oconee,Salem,State House,1,Juni Lynch,DEM,34,15,0,0,0,1,18
+Oconee,Salem,State House,1,Jasmine Williams,DEM,46,15,0,0,0,0,31
+Oconee,Stamp Creek,State House,1,Craig A Diem,REP,368,144,0,0,0,1,223
+Oconee,Stamp Creek,State House,1,Bill Whitmire,REP,373,139,0,0,0,7,227
+Oconee,Stamp Creek,State House,1,Juni Lynch,DEM,73,38,0,0,0,2,33
+Oconee,Stamp Creek,State House,1,Jasmine Williams,DEM,187,106,0,0,0,9,72
+Oconee,Tamassee,State House,1,Craig A Diem,REP,90,25,0,0,0,1,64
+Oconee,Tamassee,State House,1,Bill Whitmire,REP,184,54,0,0,0,6,124
+Oconee,Tamassee,State House,1,Juni Lynch,DEM,8,1,0,0,0,2,5
+Oconee,Tamassee,State House,1,Jasmine Williams,DEM,23,9,0,0,0,0,14
+Oconee,Walhalla 1,State House,1,Craig A Diem,REP,212,96,0,0,0,6,110
+Oconee,Walhalla 1,State House,1,Bill Whitmire,REP,512,230,0,0,0,12,270
+Oconee,Walhalla 1,State House,1,Juni Lynch,DEM,56,35,0,0,0,6,15
+Oconee,Walhalla 1,State House,1,Jasmine Williams,DEM,83,37,0,0,0,3,43
+Oconee,Walhalla 2,State House,1,Craig A Diem,REP,126,58,0,0,0,0,68
+Oconee,Walhalla 2,State House,1,Bill Whitmire,REP,293,147,0,0,0,1,145
+Oconee,Walhalla 2,State House,1,Juni Lynch,DEM,30,12,0,0,0,2,16
+Oconee,Walhalla 2,State House,1,Jasmine Williams,DEM,76,32,0,0,0,7,37
+Oconee,West Union,State House,1,Craig A Diem,REP,208,73,0,0,0,0,135
+Oconee,West Union,State House,1,Bill Whitmire,REP,286,88,0,0,0,3,195
+Oconee,West Union,State House,1,Juni Lynch,DEM,24,7,0,0,0,0,17
+Oconee,West Union,State House,1,Jasmine Williams,DEM,59,21,0,0,0,5,33
+Oconee,Westminster 1,State House,1,Craig A Diem,REP,169,54,0,0,0,0,115
+Oconee,Westminster 1,State House,1,Bill Whitmire,REP,364,100,0,0,0,12,252
+Oconee,Westminster 1,State House,1,Juni Lynch,DEM,42,27,0,0,0,1,14
+Oconee,Westminster 1,State House,1,Jasmine Williams,DEM,68,35,0,0,0,0,33
+Oconee,Westminster 2,State House,1,Craig A Diem,REP,83,21,0,0,0,0,62
+Oconee,Westminster 2,State House,1,Bill Whitmire,REP,219,58,0,0,0,2,159
+Oconee,Westminster 2,State House,1,Juni Lynch,DEM,32,14,0,0,0,1,17
+Oconee,Westminster 2,State House,1,Jasmine Williams,DEM,30,8,0,0,0,0,22
+Oconee,Bountyland,State Superintendent of Education,,Lisa Ellis,DEM,39,10,0,0,0,1,28
+Oconee,Bountyland,State Superintendent of Education,,Sylvia Wright,DEM,47,21,0,0,0,5,21
+Oconee,Earles Grove,State Superintendent of Education,,Lisa Ellis,DEM,7,2,0,0,0,0,5
+Oconee,Earles Grove,State Superintendent of Education,,Sylvia Wright,DEM,9,4,0,0,0,0,5
+Oconee,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,1,0,1,0,0,0,0
+Oconee,Fair Play,State Superintendent of Education,,Lisa Ellis,DEM,22,2,0,0,0,1,19
+Oconee,Fair Play,State Superintendent of Education,,Sylvia Wright,DEM,21,10,0,0,0,0,11
+Oconee,Friendship,State Superintendent of Education,,Lisa Ellis,DEM,31,7,0,0,0,1,23
+Oconee,Friendship,State Superintendent of Education,,Sylvia Wright,DEM,57,22,0,0,0,0,35
+Oconee,Holly Springs,State Superintendent of Education,,Lisa Ellis,DEM,2,0,0,0,0,0,2
+Oconee,Holly Springs,State Superintendent of Education,,Sylvia Wright,DEM,4,0,0,0,0,0,4
+Oconee,Keowee,State Superintendent of Education,,Lisa Ellis,DEM,62,30,0,0,0,1,31
+Oconee,Keowee,State Superintendent of Education,,Sylvia Wright,DEM,49,20,0,0,0,3,26
+Oconee,Long Creek,State Superintendent of Education,,Lisa Ellis,DEM,22,6,0,0,0,0,16
+Oconee,Long Creek,State Superintendent of Education,,Sylvia Wright,DEM,54,24,0,0,0,0,30
+Oconee,Madison,State Superintendent of Education,,Lisa Ellis,DEM,9,0,0,0,0,0,9
+Oconee,Madison,State Superintendent of Education,,Sylvia Wright,DEM,3,1,0,0,0,0,2
+Oconee,Mountain Rest,State Superintendent of Education,,Lisa Ellis,DEM,35,16,0,0,0,0,19
+Oconee,Mountain Rest,State Superintendent of Education,,Sylvia Wright,DEM,35,9,0,0,0,2,24
+Oconee,New Hope,State Superintendent of Education,,Lisa Ellis,DEM,74,38,0,0,0,2,34
+Oconee,New Hope,State Superintendent of Education,,Sylvia Wright,DEM,53,28,0,0,0,0,25
+Oconee,Newry-Corinth,State Superintendent of Education,,Lisa Ellis,DEM,6,0,0,0,0,0,6
+Oconee,Newry-Corinth,State Superintendent of Education,,Sylvia Wright,DEM,10,1,0,0,0,0,9
+Oconee,Oakway,State Superintendent of Education,,Lisa Ellis,DEM,15,7,0,0,0,0,8
+Oconee,Oakway,State Superintendent of Education,,Sylvia Wright,DEM,15,9,0,0,0,0,6
+Oconee,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Oconee,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,4,0,0,4,0,0,0
+Oconee,Ravenel,State Superintendent of Education,,Lisa Ellis,DEM,95,33,0,0,0,4,58
+Oconee,Ravenel,State Superintendent of Education,,Sylvia Wright,DEM,99,37,0,0,0,4,58
+Oconee,Return,State Superintendent of Education,,Lisa Ellis,DEM,7,1,0,0,0,0,6
+Oconee,Return,State Superintendent of Education,,Sylvia Wright,DEM,12,7,0,0,0,0,5
+Oconee,Richland,State Superintendent of Education,,Lisa Ellis,DEM,19,4,0,0,0,3,12
+Oconee,Richland,State Superintendent of Education,,Sylvia Wright,DEM,32,14,0,0,0,3,15
+Oconee,Salem,State Superintendent of Education,,Lisa Ellis,DEM,37,12,0,0,0,1,24
+Oconee,Salem,State Superintendent of Education,,Sylvia Wright,DEM,42,18,0,0,0,0,24
+Oconee,Seneca 1,State Superintendent of Education,,Lisa Ellis,DEM,87,36,0,0,0,1,50
+Oconee,Seneca 1,State Superintendent of Education,,Sylvia Wright,DEM,181,67,0,0,0,8,106
+Oconee,Seneca 2,State Superintendent of Education,,Lisa Ellis,DEM,63,27,0,0,0,0,36
+Oconee,Seneca 2,State Superintendent of Education,,Sylvia Wright,DEM,75,29,0,0,0,6,40
+Oconee,Seneca 3,State Superintendent of Education,,Lisa Ellis,DEM,42,9,0,0,0,0,33
+Oconee,Seneca 3,State Superintendent of Education,,Sylvia Wright,DEM,46,19,0,0,0,1,26
+Oconee,Seneca 4,State Superintendent of Education,,Lisa Ellis,DEM,78,30,0,0,0,1,47
+Oconee,Seneca 4,State Superintendent of Education,,Sylvia Wright,DEM,169,69,0,0,0,2,98
+Oconee,Shiloh,State Superintendent of Education,,Lisa Ellis,DEM,36,17,0,0,0,0,19
+Oconee,Shiloh,State Superintendent of Education,,Sylvia Wright,DEM,62,21,0,0,0,0,41
+Oconee,South Union,State Superintendent of Education,,Lisa Ellis,DEM,34,9,0,0,0,0,25
+Oconee,South Union,State Superintendent of Education,,Sylvia Wright,DEM,35,13,0,0,0,1,21
+Oconee,Stamp Creek,State Superintendent of Education,,Lisa Ellis,DEM,111,61,0,0,0,3,47
+Oconee,Stamp Creek,State Superintendent of Education,,Sylvia Wright,DEM,151,85,0,0,0,8,58
+Oconee,Tamassee,State Superintendent of Education,,Lisa Ellis,DEM,8,0,0,0,0,0,8
+Oconee,Tamassee,State Superintendent of Education,,Sylvia Wright,DEM,24,10,0,0,0,2,12
+Oconee,Tokeena-Providence,State Superintendent of Education,,Lisa Ellis,DEM,19,4,0,0,0,0,15
+Oconee,Tokeena-Providence,State Superintendent of Education,,Sylvia Wright,DEM,15,7,0,0,0,0,8
+Oconee,Utica,State Superintendent of Education,,Lisa Ellis,DEM,21,4,0,0,0,1,16
+Oconee,Utica,State Superintendent of Education,,Sylvia Wright,DEM,38,5,0,0,0,0,33
+Oconee,Walhalla 1,State Superintendent of Education,,Lisa Ellis,DEM,51,24,0,0,0,2,25
+Oconee,Walhalla 1,State Superintendent of Education,,Sylvia Wright,DEM,90,48,0,0,0,8,34
+Oconee,Walhalla 2,State Superintendent of Education,,Lisa Ellis,DEM,48,18,0,0,0,5,25
+Oconee,Walhalla 2,State Superintendent of Education,,Sylvia Wright,DEM,54,23,0,0,0,4,27
+Oconee,West Union,State Superintendent of Education,,Lisa Ellis,DEM,48,13,0,0,0,3,32
+Oconee,West Union,State Superintendent of Education,,Sylvia Wright,DEM,34,15,0,0,0,2,17
+Oconee,Westminster 1,State Superintendent of Education,,Lisa Ellis,DEM,45,20,0,0,0,0,25
+Oconee,Westminster 1,State Superintendent of Education,,Sylvia Wright,DEM,65,40,0,0,0,1,24
+Oconee,Westminster 2,State Superintendent of Education,,Lisa Ellis,DEM,26,7,0,0,0,1,18
+Oconee,Westminster 2,State Superintendent of Education,,Sylvia Wright,DEM,33,14,0,0,0,0,19
+Oconee,Bountyland,State Treasurer,,Vincent Coe,DEM,52,20,0,0,0,2,30
+Oconee,Bountyland,State Treasurer,,Trav Robertson Jr,DEM,30,9,0,0,0,3,18
+Oconee,Earles Grove,State Treasurer,,Vincent Coe,DEM,9,5,0,0,0,0,4
+Oconee,Earles Grove,State Treasurer,,Trav Robertson Jr,DEM,7,1,0,0,0,0,6
+Oconee,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,1,0,1,0,0,0,0
+Oconee,Fair Play,State Treasurer,,Vincent Coe,DEM,27,6,0,0,0,0,21
+Oconee,Fair Play,State Treasurer,,Trav Robertson Jr,DEM,16,6,0,0,0,1,9
+Oconee,Friendship,State Treasurer,,Vincent Coe,DEM,50,17,0,0,0,1,32
+Oconee,Friendship,State Treasurer,,Trav Robertson Jr,DEM,36,10,0,0,0,0,26
+Oconee,Holly Springs,State Treasurer,,Vincent Coe,DEM,4,0,0,0,0,0,4
+Oconee,Holly Springs,State Treasurer,,Trav Robertson Jr,DEM,3,0,0,0,0,0,3
+Oconee,Keowee,State Treasurer,,Vincent Coe,DEM,70,34,0,0,0,3,33
+Oconee,Keowee,State Treasurer,,Trav Robertson Jr,DEM,38,15,0,0,0,1,22
+Oconee,Long Creek,State Treasurer,,Vincent Coe,DEM,39,12,0,0,0,0,27
+Oconee,Long Creek,State Treasurer,,Trav Robertson Jr,DEM,37,18,0,0,0,0,19
+Oconee,Madison,State Treasurer,,Vincent Coe,DEM,7,1,0,0,0,0,6
+Oconee,Madison,State Treasurer,,Trav Robertson Jr,DEM,5,0,0,0,0,0,5
+Oconee,Mountain Rest,State Treasurer,,Vincent Coe,DEM,43,15,0,0,0,0,28
+Oconee,Mountain Rest,State Treasurer,,Trav Robertson Jr,DEM,24,8,0,0,0,2,14
+Oconee,New Hope,State Treasurer,,Vincent Coe,DEM,81,42,0,0,0,2,37
+Oconee,New Hope,State Treasurer,,Trav Robertson Jr,DEM,39,22,0,0,0,0,17
+Oconee,Newry-Corinth,State Treasurer,,Vincent Coe,DEM,7,0,0,0,0,0,7
+Oconee,Newry-Corinth,State Treasurer,,Trav Robertson Jr,DEM,6,1,0,0,0,0,5
+Oconee,Oakway,State Treasurer,,Vincent Coe,DEM,18,9,0,0,0,0,9
+Oconee,Oakway,State Treasurer,,Trav Robertson Jr,DEM,12,7,0,0,0,0,5
+Oconee,Provisional,State Treasurer,,Vincent Coe,DEM,3,0,0,3,0,0,0
+Oconee,Provisional,State Treasurer,,Trav Robertson Jr,DEM,1,0,0,1,0,0,0
+Oconee,Ravenel,State Treasurer,,Vincent Coe,DEM,116,40,0,0,0,2,74
+Oconee,Ravenel,State Treasurer,,Trav Robertson Jr,DEM,69,29,0,0,0,6,34
+Oconee,Return,State Treasurer,,Vincent Coe,DEM,13,7,0,0,0,0,6
+Oconee,Return,State Treasurer,,Trav Robertson Jr,DEM,6,1,0,0,0,0,5
+Oconee,Richland,State Treasurer,,Vincent Coe,DEM,36,11,0,0,0,7,18
+Oconee,Richland,State Treasurer,,Trav Robertson Jr,DEM,14,7,0,0,0,0,7
+Oconee,Salem,State Treasurer,,Vincent Coe,DEM,45,17,0,0,0,1,27
+Oconee,Salem,State Treasurer,,Trav Robertson Jr,DEM,35,14,0,0,0,0,21
+Oconee,Seneca 1,State Treasurer,,Vincent Coe,DEM,141,49,0,0,0,6,86
+Oconee,Seneca 1,State Treasurer,,Trav Robertson Jr,DEM,119,50,0,0,0,3,66
+Oconee,Seneca 2,State Treasurer,,Vincent Coe,DEM,82,31,0,0,0,3,48
+Oconee,Seneca 2,State Treasurer,,Trav Robertson Jr,DEM,54,24,0,0,0,3,27
+Oconee,Seneca 3,State Treasurer,,Vincent Coe,DEM,46,11,0,0,0,1,34
+Oconee,Seneca 3,State Treasurer,,Trav Robertson Jr,DEM,39,16,0,0,0,0,23
+Oconee,Seneca 4,State Treasurer,,Vincent Coe,DEM,137,48,0,0,0,2,87
+Oconee,Seneca 4,State Treasurer,,Trav Robertson Jr,DEM,104,48,0,0,0,1,55
+Oconee,Shiloh,State Treasurer,,Vincent Coe,DEM,51,23,0,0,0,0,28
+Oconee,Shiloh,State Treasurer,,Trav Robertson Jr,DEM,44,16,0,0,0,0,28
+Oconee,South Union,State Treasurer,,Vincent Coe,DEM,39,13,0,0,0,1,25
+Oconee,South Union,State Treasurer,,Trav Robertson Jr,DEM,29,9,0,0,0,0,20
+Oconee,Stamp Creek,State Treasurer,,Vincent Coe,DEM,154,88,0,0,0,4,62
+Oconee,Stamp Creek,State Treasurer,,Trav Robertson Jr,DEM,103,58,0,0,0,7,38
+Oconee,Tamassee,State Treasurer,,Vincent Coe,DEM,14,3,0,0,0,1,10
+Oconee,Tamassee,State Treasurer,,Trav Robertson Jr,DEM,15,7,0,0,0,0,8
+Oconee,Tokeena-Providence,State Treasurer,,Vincent Coe,DEM,15,5,0,0,0,0,10
+Oconee,Tokeena-Providence,State Treasurer,,Trav Robertson Jr,DEM,18,6,0,0,0,0,12
+Oconee,Utica,State Treasurer,,Vincent Coe,DEM,37,6,0,0,0,0,31
+Oconee,Utica,State Treasurer,,Trav Robertson Jr,DEM,21,3,0,0,0,1,17
+Oconee,Walhalla 1,State Treasurer,,Vincent Coe,DEM,87,45,0,0,0,7,35
+Oconee,Walhalla 1,State Treasurer,,Trav Robertson Jr,DEM,53,26,0,0,0,3,24
+Oconee,Walhalla 2,State Treasurer,,Vincent Coe,DEM,60,22,0,0,0,4,34
+Oconee,Walhalla 2,State Treasurer,,Trav Robertson Jr,DEM,38,19,0,0,0,2,17
+Oconee,West Union,State Treasurer,,Vincent Coe,DEM,52,18,0,0,0,4,30
+Oconee,West Union,State Treasurer,,Trav Robertson Jr,DEM,31,10,0,0,0,1,20
+Oconee,Westminster 1,State Treasurer,,Vincent Coe,DEM,61,32,0,0,0,1,28
+Oconee,Westminster 1,State Treasurer,,Trav Robertson Jr,DEM,47,27,0,0,0,0,20
+Oconee,Westminster 2,State Treasurer,,Vincent Coe,DEM,42,14,0,0,0,1,27
+Oconee,Westminster 2,State Treasurer,,Trav Robertson Jr,DEM,17,7,0,0,0,0,10
+Oconee,Bountyland,U.S. House,3,Eunice Lehmacher,DEM,56,20,0,0,0,4,32
+Oconee,Bountyland,U.S. House,3,Ernest E Mackins,DEM,28,11,0,0,0,2,15
+Oconee,Earles Grove,U.S. House,3,Eunice Lehmacher,DEM,7,0,0,0,0,0,7
+Oconee,Earles Grove,U.S. House,3,Ernest E Mackins,DEM,10,6,0,0,0,0,4
+Oconee,Failsafe,U.S. House,3,Eunice Lehmacher,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe,U.S. House,3,Ernest E Mackins,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,U.S. House,3,Eunice Lehmacher,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,U.S. House,3,Ernest E Mackins,DEM,1,0,1,0,0,0,0
+Oconee,Fair Play,U.S. House,3,Eunice Lehmacher,DEM,30,8,0,0,0,1,21
+Oconee,Fair Play,U.S. House,3,Ernest E Mackins,DEM,14,4,0,0,0,0,10
+Oconee,Friendship,U.S. House,3,Eunice Lehmacher,DEM,51,17,0,0,0,0,34
+Oconee,Friendship,U.S. House,3,Ernest E Mackins,DEM,37,12,0,0,0,1,24
+Oconee,Holly Springs,U.S. House,3,Eunice Lehmacher,DEM,5,0,0,0,0,0,5
+Oconee,Holly Springs,U.S. House,3,Ernest E Mackins,DEM,2,0,0,0,0,0,2
+Oconee,Keowee,U.S. House,3,Eunice Lehmacher,DEM,78,35,0,0,0,4,39
+Oconee,Keowee,U.S. House,3,Ernest E Mackins,DEM,34,16,0,0,0,0,18
+Oconee,Long Creek,U.S. House,3,Eunice Lehmacher,DEM,70,29,0,0,0,0,41
+Oconee,Long Creek,U.S. House,3,Ernest E Mackins,DEM,6,1,0,0,0,0,5
+Oconee,Madison,U.S. House,3,Eunice Lehmacher,DEM,10,1,0,0,0,0,9
+Oconee,Madison,U.S. House,3,Ernest E Mackins,DEM,2,0,0,0,0,0,2
+Oconee,Mountain Rest,U.S. House,3,Eunice Lehmacher,DEM,59,19,0,0,0,2,38
+Oconee,Mountain Rest,U.S. House,3,Ernest E Mackins,DEM,11,6,0,0,0,0,5
+Oconee,New Hope,U.S. House,3,Eunice Lehmacher,DEM,94,53,0,0,0,2,39
+Oconee,New Hope,U.S. House,3,Ernest E Mackins,DEM,33,15,0,0,0,0,18
+Oconee,Newry-Corinth,U.S. House,3,Eunice Lehmacher,DEM,10,2,0,0,0,0,8
+Oconee,Newry-Corinth,U.S. House,3,Ernest E Mackins,DEM,6,0,0,0,0,0,6
+Oconee,Oakway,U.S. House,3,Eunice Lehmacher,DEM,12,10,0,0,0,0,2
+Oconee,Oakway,U.S. House,3,Ernest E Mackins,DEM,19,6,0,0,0,0,13
+Oconee,Provisional,U.S. House,3,Eunice Lehmacher,DEM,2,0,0,2,0,0,0
+Oconee,Provisional,U.S. House,3,Ernest E Mackins,DEM,2,0,0,2,0,0,0
+Oconee,Ravenel,U.S. House,3,Eunice Lehmacher,DEM,130,46,0,0,0,3,81
+Oconee,Ravenel,U.S. House,3,Ernest E Mackins,DEM,69,25,0,0,0,5,39
+Oconee,Return,U.S. House,3,Eunice Lehmacher,DEM,13,8,0,0,0,0,5
+Oconee,Return,U.S. House,3,Ernest E Mackins,DEM,6,0,0,0,0,0,6
+Oconee,Richland,U.S. House,3,Eunice Lehmacher,DEM,36,14,0,0,0,3,19
+Oconee,Richland,U.S. House,3,Ernest E Mackins,DEM,14,4,0,0,0,4,6
+Oconee,Salem,U.S. House,3,Eunice Lehmacher,DEM,53,19,0,0,0,1,33
+Oconee,Salem,U.S. House,3,Ernest E Mackins,DEM,28,13,0,0,0,0,15
+Oconee,Seneca 1,U.S. House,3,Eunice Lehmacher,DEM,154,66,0,0,0,4,84
+Oconee,Seneca 1,U.S. House,3,Ernest E Mackins,DEM,121,42,0,0,0,5,74
+Oconee,Seneca 2,U.S. House,3,Eunice Lehmacher,DEM,82,40,0,0,0,5,37
+Oconee,Seneca 2,U.S. House,3,Ernest E Mackins,DEM,55,17,0,0,0,1,37
+Oconee,Seneca 3,U.S. House,3,Eunice Lehmacher,DEM,43,14,0,0,0,0,29
+Oconee,Seneca 3,U.S. House,3,Ernest E Mackins,DEM,42,12,0,0,0,1,29
+Oconee,Seneca 4,U.S. House,3,Eunice Lehmacher,DEM,110,39,0,0,0,3,68
+Oconee,Seneca 4,U.S. House,3,Ernest E Mackins,DEM,135,58,0,0,0,0,77
+Oconee,Shiloh,U.S. House,3,Eunice Lehmacher,DEM,46,19,0,0,0,0,27
+Oconee,Shiloh,U.S. House,3,Ernest E Mackins,DEM,52,20,0,0,0,0,32
+Oconee,South Union,U.S. House,3,Eunice Lehmacher,DEM,45,17,0,0,0,1,27
+Oconee,South Union,U.S. House,3,Ernest E Mackins,DEM,25,7,0,0,0,0,18
+Oconee,Stamp Creek,U.S. House,3,Eunice Lehmacher,DEM,201,108,0,0,0,10,83
+Oconee,Stamp Creek,U.S. House,3,Ernest E Mackins,DEM,68,39,0,0,0,1,28
+Oconee,Tamassee,U.S. House,3,Eunice Lehmacher,DEM,24,9,0,0,0,2,13
+Oconee,Tamassee,U.S. House,3,Ernest E Mackins,DEM,9,1,0,0,0,0,8
+Oconee,Tokeena-Providence,U.S. House,3,Eunice Lehmacher,DEM,28,9,0,0,0,0,19
+Oconee,Tokeena-Providence,U.S. House,3,Ernest E Mackins,DEM,6,2,0,0,0,0,4
+Oconee,Utica,U.S. House,3,Eunice Lehmacher,DEM,27,3,0,0,0,0,24
+Oconee,Utica,U.S. House,3,Ernest E Mackins,DEM,31,5,0,0,0,1,25
+Oconee,Walhalla 1,U.S. House,3,Eunice Lehmacher,DEM,107,60,0,0,0,4,43
+Oconee,Walhalla 1,U.S. House,3,Ernest E Mackins,DEM,35,13,0,0,0,6,16
+Oconee,Walhalla 2,U.S. House,3,Eunice Lehmacher,DEM,75,33,0,0,0,5,37
+Oconee,Walhalla 2,U.S. House,3,Ernest E Mackins,DEM,30,10,0,0,0,4,16
+Oconee,West Union,U.S. House,3,Eunice Lehmacher,DEM,54,21,0,0,0,3,30
+Oconee,West Union,U.S. House,3,Ernest E Mackins,DEM,29,7,0,0,0,2,20
+Oconee,Westminster 1,U.S. House,3,Eunice Lehmacher,DEM,68,36,0,0,0,0,32
+Oconee,Westminster 1,U.S. House,3,Ernest E Mackins,DEM,41,25,0,0,0,1,15
+Oconee,Westminster 2,U.S. House,3,Eunice Lehmacher,DEM,39,15,0,0,0,1,23
+Oconee,Westminster 2,U.S. House,3,Ernest E Mackins,DEM,20,6,0,0,0,0,14
+Oconee,Bountyland,U.S. Senate,,Calvin Cowen,REP,5,3,0,0,0,0,2
+Oconee,Bountyland,U.S. Senate,,Thomas Keith Dismukes,REP,19,3,0,0,0,0,16
+Oconee,Bountyland,U.S. Senate,,Lindsey Graham,REP,221,72,0,0,0,2,147
+Oconee,Bountyland,U.S. Senate,,Pat Herrmann,REP,15,4,0,0,0,1,10
+Oconee,Bountyland,U.S. Senate,,Mark Lynch,REP,107,47,0,0,0,1,59
+Oconee,Bountyland,U.S. Senate,,Darius L Mitchell,REP,8,5,0,0,0,0,3
+Oconee,Bountyland,U.S. Senate,,Annie Andrews,DEM,73,28,0,0,0,4,41
+Oconee,Bountyland,U.S. Senate,,Brandon P Brown,DEM,7,3,0,0,0,1,3
+Oconee,Bountyland,U.S. Senate,,Kyle Freeman,DEM,6,2,0,0,0,1,3
+Oconee,Earles Grove,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Oconee,Earles Grove,U.S. Senate,,Thomas Keith Dismukes,REP,9,0,0,0,0,0,9
+Oconee,Earles Grove,U.S. Senate,,Lindsey Graham,REP,111,9,0,0,0,1,101
+Oconee,Earles Grove,U.S. Senate,,Pat Herrmann,REP,8,0,0,0,0,1,7
+Oconee,Earles Grove,U.S. Senate,,Mark Lynch,REP,71,9,0,0,0,1,61
+Oconee,Earles Grove,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,0,3
+Oconee,Earles Grove,U.S. Senate,,Annie Andrews,DEM,6,1,0,0,0,0,5
+Oconee,Earles Grove,U.S. Senate,,Brandon P Brown,DEM,8,3,0,0,0,0,5
+Oconee,Earles Grove,U.S. Senate,,Kyle Freeman,DEM,3,2,0,0,0,0,1
+Oconee,Failsafe,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Oconee,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,1,0,1,0,0,0,0
+Oconee,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,1,0,1,0,0,0,0
+Oconee,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Oconee,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,1,0,1,0,0,0,0
+Oconee,Fair Play,U.S. Senate,,Calvin Cowen,REP,10,1,0,0,0,0,9
+Oconee,Fair Play,U.S. Senate,,Thomas Keith Dismukes,REP,11,1,0,0,0,0,10
+Oconee,Fair Play,U.S. Senate,,Lindsey Graham,REP,127,14,0,0,0,0,113
+Oconee,Fair Play,U.S. Senate,,Pat Herrmann,REP,12,2,0,0,0,0,10
+Oconee,Fair Play,U.S. Senate,,Mark Lynch,REP,118,23,0,0,0,2,93
+Oconee,Fair Play,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Oconee,Fair Play,U.S. Senate,,Annie Andrews,DEM,36,10,0,0,0,1,25
+Oconee,Fair Play,U.S. Senate,,Brandon P Brown,DEM,5,1,0,0,0,0,4
+Oconee,Fair Play,U.S. Senate,,Kyle Freeman,DEM,4,2,0,0,0,0,2
+Oconee,Friendship,U.S. Senate,,Calvin Cowen,REP,14,2,0,0,0,0,12
+Oconee,Friendship,U.S. Senate,,Thomas Keith Dismukes,REP,23,6,0,0,0,2,15
+Oconee,Friendship,U.S. Senate,,Lindsey Graham,REP,192,31,0,0,0,2,159
+Oconee,Friendship,U.S. Senate,,Pat Herrmann,REP,15,0,0,0,0,0,15
+Oconee,Friendship,U.S. Senate,,Mark Lynch,REP,140,26,0,0,0,1,113
+Oconee,Friendship,U.S. Senate,,Darius L Mitchell,REP,8,2,0,0,0,0,6
+Oconee,Friendship,U.S. Senate,,Annie Andrews,DEM,64,16,0,0,0,1,47
+Oconee,Friendship,U.S. Senate,,Brandon P Brown,DEM,21,11,0,0,0,0,10
+Oconee,Friendship,U.S. Senate,,Kyle Freeman,DEM,7,2,0,0,0,0,5
+Oconee,Holly Springs,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Oconee,Holly Springs,U.S. Senate,,Thomas Keith Dismukes,REP,3,1,0,0,0,0,2
+Oconee,Holly Springs,U.S. Senate,,Lindsey Graham,REP,51,6,0,0,0,0,45
+Oconee,Holly Springs,U.S. Senate,,Pat Herrmann,REP,6,0,0,0,0,0,6
+Oconee,Holly Springs,U.S. Senate,,Mark Lynch,REP,28,8,0,0,0,0,20
+Oconee,Holly Springs,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Oconee,Holly Springs,U.S. Senate,,Annie Andrews,DEM,5,0,0,0,0,0,5
+Oconee,Holly Springs,U.S. Senate,,Brandon P Brown,DEM,1,0,0,0,0,0,1
+Oconee,Holly Springs,U.S. Senate,,Kyle Freeman,DEM,1,0,0,0,0,0,1
+Oconee,Keowee,U.S. Senate,,Calvin Cowen,REP,15,2,0,0,0,0,13
+Oconee,Keowee,U.S. Senate,,Thomas Keith Dismukes,REP,49,24,0,0,0,1,24
+Oconee,Keowee,U.S. Senate,,Lindsey Graham,REP,345,135,0,0,0,3,207
+Oconee,Keowee,U.S. Senate,,Pat Herrmann,REP,15,6,0,0,0,0,9
+Oconee,Keowee,U.S. Senate,,Mark Lynch,REP,204,62,0,0,0,6,136
+Oconee,Keowee,U.S. Senate,,Darius L Mitchell,REP,11,1,0,0,0,0,10
+Oconee,Keowee,U.S. Senate,,Annie Andrews,DEM,100,44,0,0,0,4,52
+Oconee,Keowee,U.S. Senate,,Brandon P Brown,DEM,11,6,0,0,0,0,5
+Oconee,Keowee,U.S. Senate,,Kyle Freeman,DEM,3,2,0,0,0,0,1
+Oconee,Long Creek,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Oconee,Long Creek,U.S. Senate,,Thomas Keith Dismukes,REP,6,2,0,0,0,0,4
+Oconee,Long Creek,U.S. Senate,,Lindsey Graham,REP,47,6,0,0,0,0,41
+Oconee,Long Creek,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Oconee,Long Creek,U.S. Senate,,Mark Lynch,REP,26,6,0,0,0,2,18
+Oconee,Long Creek,U.S. Senate,,Darius L Mitchell,REP,4,0,0,0,0,0,4
+Oconee,Long Creek,U.S. Senate,,Annie Andrews,DEM,80,34,0,0,0,0,46
+Oconee,Long Creek,U.S. Senate,,Brandon P Brown,DEM,1,0,0,0,0,0,1
+Oconee,Long Creek,U.S. Senate,,Kyle Freeman,DEM,1,0,0,0,0,0,1
+Oconee,Madison,U.S. Senate,,Calvin Cowen,REP,6,0,0,0,0,0,6
+Oconee,Madison,U.S. Senate,,Thomas Keith Dismukes,REP,10,2,0,0,0,0,8
+Oconee,Madison,U.S. Senate,,Lindsey Graham,REP,67,5,0,0,0,0,62
+Oconee,Madison,U.S. Senate,,Pat Herrmann,REP,6,0,0,0,0,0,6
+Oconee,Madison,U.S. Senate,,Mark Lynch,REP,60,8,0,0,0,0,52
+Oconee,Madison,U.S. Senate,,Darius L Mitchell,REP,9,1,0,0,0,0,8
+Oconee,Madison,U.S. Senate,,Annie Andrews,DEM,9,1,0,0,0,0,8
+Oconee,Madison,U.S. Senate,,Brandon P Brown,DEM,1,0,0,0,0,0,1
+Oconee,Madison,U.S. Senate,,Kyle Freeman,DEM,2,0,0,0,0,0,2
+Oconee,Mountain Rest,U.S. Senate,,Calvin Cowen,REP,10,1,0,0,0,0,9
+Oconee,Mountain Rest,U.S. Senate,,Thomas Keith Dismukes,REP,11,5,0,0,0,0,6
+Oconee,Mountain Rest,U.S. Senate,,Lindsey Graham,REP,123,19,0,0,0,2,102
+Oconee,Mountain Rest,U.S. Senate,,Pat Herrmann,REP,7,0,0,0,0,0,7
+Oconee,Mountain Rest,U.S. Senate,,Mark Lynch,REP,135,19,0,0,0,1,115
+Oconee,Mountain Rest,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,0,3
+Oconee,Mountain Rest,U.S. Senate,,Annie Andrews,DEM,70,28,0,0,0,2,40
+Oconee,Mountain Rest,U.S. Senate,,Brandon P Brown,DEM,3,0,0,0,0,0,3
+Oconee,Mountain Rest,U.S. Senate,,Kyle Freeman,DEM,2,0,0,0,0,0,2
+Oconee,New Hope,U.S. Senate,,Calvin Cowen,REP,13,8,0,0,0,0,5
+Oconee,New Hope,U.S. Senate,,Thomas Keith Dismukes,REP,65,15,0,0,0,2,48
+Oconee,New Hope,U.S. Senate,,Lindsey Graham,REP,458,142,0,0,0,11,305
+Oconee,New Hope,U.S. Senate,,Pat Herrmann,REP,21,4,0,0,0,0,17
+Oconee,New Hope,U.S. Senate,,Mark Lynch,REP,319,100,0,0,0,8,211
+Oconee,New Hope,U.S. Senate,,Darius L Mitchell,REP,10,4,0,0,0,0,6
+Oconee,New Hope,U.S. Senate,,Annie Andrews,DEM,129,68,0,0,0,2,59
+Oconee,New Hope,U.S. Senate,,Brandon P Brown,DEM,8,4,0,0,0,0,4
+Oconee,New Hope,U.S. Senate,,Kyle Freeman,DEM,7,2,0,0,0,0,5
+Oconee,Newry-Corinth,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Oconee,Newry-Corinth,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Oconee,Newry-Corinth,U.S. Senate,,Lindsey Graham,REP,25,2,0,0,0,0,23
+Oconee,Newry-Corinth,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,U.S. Senate,,Mark Lynch,REP,18,5,0,0,0,0,13
+Oconee,Newry-Corinth,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,U.S. Senate,,Annie Andrews,DEM,15,2,0,0,0,0,13
+Oconee,Newry-Corinth,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Oconee,Newry-Corinth,U.S. Senate,,Kyle Freeman,DEM,2,0,0,0,0,0,2
+Oconee,Oakway,U.S. Senate,,Calvin Cowen,REP,5,0,0,0,0,0,5
+Oconee,Oakway,U.S. Senate,,Thomas Keith Dismukes,REP,16,4,0,0,0,0,12
+Oconee,Oakway,U.S. Senate,,Lindsey Graham,REP,119,18,0,0,0,1,100
+Oconee,Oakway,U.S. Senate,,Pat Herrmann,REP,14,2,0,0,0,0,12
+Oconee,Oakway,U.S. Senate,,Mark Lynch,REP,119,33,0,0,0,0,86
+Oconee,Oakway,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,0,3
+Oconee,Oakway,U.S. Senate,,Annie Andrews,DEM,26,12,0,0,0,0,14
+Oconee,Oakway,U.S. Senate,,Brandon P Brown,DEM,6,3,0,0,0,0,3
+Oconee,Oakway,U.S. Senate,,Kyle Freeman,DEM,1,1,0,0,0,0,0
+Oconee,Provisional,U.S. Senate,,Calvin Cowen,REP,1,0,0,1,0,0,0
+Oconee,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Oconee,Provisional,U.S. Senate,,Lindsey Graham,REP,5,0,0,5,0,0,0
+Oconee,Provisional,U.S. Senate,,Pat Herrmann,REP,1,0,0,1,0,0,0
+Oconee,Provisional,U.S. Senate,,Mark Lynch,REP,3,0,0,3,0,0,0
+Oconee,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Oconee,Provisional,U.S. Senate,,Annie Andrews,DEM,3,0,0,3,0,0,0
+Oconee,Provisional,U.S. Senate,,Brandon P Brown,DEM,1,0,0,1,0,0,0
+Oconee,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Oconee,Ravenel,U.S. Senate,,Calvin Cowen,REP,7,3,0,0,0,0,4
+Oconee,Ravenel,U.S. Senate,,Thomas Keith Dismukes,REP,30,9,0,0,0,1,20
+Oconee,Ravenel,U.S. Senate,,Lindsey Graham,REP,263,68,0,0,0,6,189
+Oconee,Ravenel,U.S. Senate,,Pat Herrmann,REP,21,4,0,0,0,0,17
+Oconee,Ravenel,U.S. Senate,,Mark Lynch,REP,158,30,0,0,0,1,127
+Oconee,Ravenel,U.S. Senate,,Darius L Mitchell,REP,12,0,0,0,0,0,12
+Oconee,Ravenel,U.S. Senate,,Annie Andrews,DEM,176,60,0,0,0,6,110
+Oconee,Ravenel,U.S. Senate,,Brandon P Brown,DEM,27,13,0,0,0,2,12
+Oconee,Ravenel,U.S. Senate,,Kyle Freeman,DEM,8,3,0,0,0,0,5
+Oconee,Return,U.S. Senate,,Calvin Cowen,REP,6,1,0,0,0,0,5
+Oconee,Return,U.S. Senate,,Thomas Keith Dismukes,REP,12,0,0,0,0,0,12
+Oconee,Return,U.S. Senate,,Lindsey Graham,REP,105,12,0,0,0,1,92
+Oconee,Return,U.S. Senate,,Pat Herrmann,REP,9,1,0,0,0,0,8
+Oconee,Return,U.S. Senate,,Mark Lynch,REP,67,10,0,0,0,2,55
+Oconee,Return,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,0,3
+Oconee,Return,U.S. Senate,,Annie Andrews,DEM,20,8,0,0,0,0,12
+Oconee,Return,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Oconee,Return,U.S. Senate,,Kyle Freeman,DEM,1,0,0,0,0,0,1
+Oconee,Richland,U.S. Senate,,Calvin Cowen,REP,8,1,0,0,0,0,7
+Oconee,Richland,U.S. Senate,,Thomas Keith Dismukes,REP,11,0,0,0,0,0,11
+Oconee,Richland,U.S. Senate,,Lindsey Graham,REP,145,24,0,0,0,1,120
+Oconee,Richland,U.S. Senate,,Pat Herrmann,REP,14,3,0,0,0,0,11
+Oconee,Richland,U.S. Senate,,Mark Lynch,REP,94,15,0,0,0,0,79
+Oconee,Richland,U.S. Senate,,Darius L Mitchell,REP,4,2,0,0,0,0,2
+Oconee,Richland,U.S. Senate,,Annie Andrews,DEM,35,14,0,0,0,1,20
+Oconee,Richland,U.S. Senate,,Brandon P Brown,DEM,12,3,0,0,0,5,4
+Oconee,Richland,U.S. Senate,,Kyle Freeman,DEM,5,1,0,0,0,1,3
+Oconee,Salem,U.S. Senate,,Calvin Cowen,REP,14,2,0,0,0,0,12
+Oconee,Salem,U.S. Senate,,Thomas Keith Dismukes,REP,35,12,0,0,0,0,23
+Oconee,Salem,U.S. Senate,,Lindsey Graham,REP,283,67,0,0,0,1,215
+Oconee,Salem,U.S. Senate,,Pat Herrmann,REP,21,5,0,0,0,0,16
+Oconee,Salem,U.S. Senate,,Mark Lynch,REP,189,42,0,0,0,5,142
+Oconee,Salem,U.S. Senate,,Darius L Mitchell,REP,13,1,0,0,0,1,11
+Oconee,Salem,U.S. Senate,,Annie Andrews,DEM,69,26,0,0,0,1,42
+Oconee,Salem,U.S. Senate,,Brandon P Brown,DEM,9,4,0,0,0,0,5
+Oconee,Salem,U.S. Senate,,Kyle Freeman,DEM,8,3,0,0,0,0,5
+Oconee,Seneca 1,U.S. Senate,,Calvin Cowen,REP,13,2,0,0,0,0,11
+Oconee,Seneca 1,U.S. Senate,,Thomas Keith Dismukes,REP,30,3,0,0,0,0,27
+Oconee,Seneca 1,U.S. Senate,,Lindsey Graham,REP,207,66,0,0,0,5,136
+Oconee,Seneca 1,U.S. Senate,,Pat Herrmann,REP,10,0,0,0,0,0,10
+Oconee,Seneca 1,U.S. Senate,,Mark Lynch,REP,121,22,0,0,0,2,97
+Oconee,Seneca 1,U.S. Senate,,Darius L Mitchell,REP,14,3,0,0,0,1,10
+Oconee,Seneca 1,U.S. Senate,,Annie Andrews,DEM,180,69,0,0,0,4,107
+Oconee,Seneca 1,U.S. Senate,,Brandon P Brown,DEM,71,28,0,0,0,4,39
+Oconee,Seneca 1,U.S. Senate,,Kyle Freeman,DEM,29,14,0,0,0,1,14
+Oconee,Seneca 2,U.S. Senate,,Calvin Cowen,REP,8,2,0,0,0,0,6
+Oconee,Seneca 2,U.S. Senate,,Thomas Keith Dismukes,REP,42,3,0,0,0,0,39
+Oconee,Seneca 2,U.S. Senate,,Lindsey Graham,REP,216,78,0,0,0,5,133
+Oconee,Seneca 2,U.S. Senate,,Pat Herrmann,REP,14,7,0,0,0,0,7
+Oconee,Seneca 2,U.S. Senate,,Mark Lynch,REP,110,31,0,0,0,0,79
+Oconee,Seneca 2,U.S. Senate,,Darius L Mitchell,REP,6,3,0,0,0,1,2
+Oconee,Seneca 2,U.S. Senate,,Annie Andrews,DEM,105,47,0,0,0,4,54
+Oconee,Seneca 2,U.S. Senate,,Brandon P Brown,DEM,27,9,0,0,0,2,16
+Oconee,Seneca 2,U.S. Senate,,Kyle Freeman,DEM,11,4,0,0,0,0,7
+Oconee,Seneca 3,U.S. Senate,,Calvin Cowen,REP,7,1,0,0,0,0,6
+Oconee,Seneca 3,U.S. Senate,,Thomas Keith Dismukes,REP,23,4,0,0,0,4,15
+Oconee,Seneca 3,U.S. Senate,,Lindsey Graham,REP,204,60,0,0,0,5,139
+Oconee,Seneca 3,U.S. Senate,,Pat Herrmann,REP,9,0,0,0,0,2,7
+Oconee,Seneca 3,U.S. Senate,,Mark Lynch,REP,98,22,0,0,0,1,75
+Oconee,Seneca 3,U.S. Senate,,Darius L Mitchell,REP,4,0,0,0,0,0,4
+Oconee,Seneca 3,U.S. Senate,,Annie Andrews,DEM,60,21,0,0,0,1,38
+Oconee,Seneca 3,U.S. Senate,,Brandon P Brown,DEM,21,6,0,0,0,0,15
+Oconee,Seneca 3,U.S. Senate,,Kyle Freeman,DEM,10,2,0,0,0,0,8
+Oconee,Seneca 4,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Oconee,Seneca 4,U.S. Senate,,Thomas Keith Dismukes,REP,24,4,0,0,0,1,19
+Oconee,Seneca 4,U.S. Senate,,Lindsey Graham,REP,200,36,0,0,0,11,153
+Oconee,Seneca 4,U.S. Senate,,Pat Herrmann,REP,5,1,0,0,0,0,4
+Oconee,Seneca 4,U.S. Senate,,Mark Lynch,REP,102,23,0,0,0,2,77
+Oconee,Seneca 4,U.S. Senate,,Darius L Mitchell,REP,12,3,0,0,0,0,9
+Oconee,Seneca 4,U.S. Senate,,Annie Andrews,DEM,150,60,0,0,0,2,88
+Oconee,Seneca 4,U.S. Senate,,Brandon P Brown,DEM,75,32,0,0,0,1,42
+Oconee,Seneca 4,U.S. Senate,,Kyle Freeman,DEM,28,7,0,0,0,0,21
+Oconee,Shiloh,U.S. Senate,,Calvin Cowen,REP,6,2,0,0,0,0,4
+Oconee,Shiloh,U.S. Senate,,Thomas Keith Dismukes,REP,14,2,0,0,0,1,11
+Oconee,Shiloh,U.S. Senate,,Lindsey Graham,REP,101,17,0,0,0,2,82
+Oconee,Shiloh,U.S. Senate,,Pat Herrmann,REP,12,2,0,0,0,1,9
+Oconee,Shiloh,U.S. Senate,,Mark Lynch,REP,67,2,0,0,0,2,63
+Oconee,Shiloh,U.S. Senate,,Darius L Mitchell,REP,11,1,0,0,0,0,10
+Oconee,Shiloh,U.S. Senate,,Annie Andrews,DEM,67,25,0,0,0,0,42
+Oconee,Shiloh,U.S. Senate,,Brandon P Brown,DEM,28,11,0,0,0,0,17
+Oconee,Shiloh,U.S. Senate,,Kyle Freeman,DEM,6,3,0,0,0,0,3
+Oconee,South Union,U.S. Senate,,Calvin Cowen,REP,6,2,0,0,0,0,4
+Oconee,South Union,U.S. Senate,,Thomas Keith Dismukes,REP,15,3,0,0,0,0,12
+Oconee,South Union,U.S. Senate,,Lindsey Graham,REP,181,39,0,0,0,0,142
+Oconee,South Union,U.S. Senate,,Pat Herrmann,REP,23,5,0,0,0,0,18
+Oconee,South Union,U.S. Senate,,Mark Lynch,REP,140,29,0,0,0,2,109
+Oconee,South Union,U.S. Senate,,Darius L Mitchell,REP,5,1,0,0,0,0,4
+Oconee,South Union,U.S. Senate,,Annie Andrews,DEM,61,21,0,0,0,1,39
+Oconee,South Union,U.S. Senate,,Brandon P Brown,DEM,7,1,0,0,0,0,6
+Oconee,South Union,U.S. Senate,,Kyle Freeman,DEM,7,3,0,0,0,0,4
+Oconee,Stamp Creek,U.S. Senate,,Calvin Cowen,REP,13,4,0,0,0,0,9
+Oconee,Stamp Creek,U.S. Senate,,Thomas Keith Dismukes,REP,57,24,0,0,0,0,33
+Oconee,Stamp Creek,U.S. Senate,,Lindsey Graham,REP,445,158,0,0,0,9,278
+Oconee,Stamp Creek,U.S. Senate,,Pat Herrmann,REP,35,8,0,0,0,0,27
+Oconee,Stamp Creek,U.S. Senate,,Mark Lynch,REP,224,91,0,0,0,0,133
+Oconee,Stamp Creek,U.S. Senate,,Darius L Mitchell,REP,19,9,0,0,0,0,10
+Oconee,Stamp Creek,U.S. Senate,,Annie Andrews,DEM,270,148,0,0,0,11,111
+Oconee,Stamp Creek,U.S. Senate,,Brandon P Brown,DEM,7,2,0,0,0,1,4
+Oconee,Stamp Creek,U.S. Senate,,Kyle Freeman,DEM,11,6,0,0,0,0,5
+Oconee,Tamassee,U.S. Senate,,Calvin Cowen,REP,10,1,0,0,0,0,9
+Oconee,Tamassee,U.S. Senate,,Thomas Keith Dismukes,REP,15,2,0,0,0,0,13
+Oconee,Tamassee,U.S. Senate,,Lindsey Graham,REP,130,42,0,0,0,6,82
+Oconee,Tamassee,U.S. Senate,,Pat Herrmann,REP,11,2,0,0,0,0,9
+Oconee,Tamassee,U.S. Senate,,Mark Lynch,REP,106,31,0,0,0,1,74
+Oconee,Tamassee,U.S. Senate,,Darius L Mitchell,REP,5,3,0,0,0,0,2
+Oconee,Tamassee,U.S. Senate,,Annie Andrews,DEM,28,8,0,0,0,2,18
+Oconee,Tamassee,U.S. Senate,,Brandon P Brown,DEM,4,0,0,0,0,0,4
+Oconee,Tamassee,U.S. Senate,,Kyle Freeman,DEM,2,2,0,0,0,0,0
+Oconee,Tokeena-Providence,U.S. Senate,,Calvin Cowen,REP,9,0,0,0,0,0,9
+Oconee,Tokeena-Providence,U.S. Senate,,Thomas Keith Dismukes,REP,23,3,0,0,0,1,19
+Oconee,Tokeena-Providence,U.S. Senate,,Lindsey Graham,REP,152,24,0,0,0,2,126
+Oconee,Tokeena-Providence,U.S. Senate,,Pat Herrmann,REP,12,1,0,0,0,0,11
+Oconee,Tokeena-Providence,U.S. Senate,,Mark Lynch,REP,87,17,0,0,0,1,69
+Oconee,Tokeena-Providence,U.S. Senate,,Darius L Mitchell,REP,6,0,0,0,0,0,6
+Oconee,Tokeena-Providence,U.S. Senate,,Annie Andrews,DEM,26,7,0,0,0,0,19
+Oconee,Tokeena-Providence,U.S. Senate,,Brandon P Brown,DEM,4,2,0,0,0,0,2
+Oconee,Tokeena-Providence,U.S. Senate,,Kyle Freeman,DEM,4,2,0,0,0,0,2
+Oconee,Utica,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Oconee,Utica,U.S. Senate,,Thomas Keith Dismukes,REP,1,1,0,0,0,0,0
+Oconee,Utica,U.S. Senate,,Lindsey Graham,REP,34,4,0,0,0,0,30
+Oconee,Utica,U.S. Senate,,Pat Herrmann,REP,6,2,0,0,0,2,2
+Oconee,Utica,U.S. Senate,,Mark Lynch,REP,20,4,0,0,0,0,16
+Oconee,Utica,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Oconee,Utica,U.S. Senate,,Annie Andrews,DEM,37,6,0,0,0,1,30
+Oconee,Utica,U.S. Senate,,Brandon P Brown,DEM,15,2,0,0,0,0,13
+Oconee,Utica,U.S. Senate,,Kyle Freeman,DEM,8,1,0,0,0,0,7
+Oconee,Walhalla 1,U.S. Senate,,Calvin Cowen,REP,20,10,0,0,0,2,8
+Oconee,Walhalla 1,U.S. Senate,,Thomas Keith Dismukes,REP,37,14,0,0,0,0,23
+Oconee,Walhalla 1,U.S. Senate,,Lindsey Graham,REP,356,171,0,0,0,15,170
+Oconee,Walhalla 1,U.S. Senate,,Pat Herrmann,REP,25,7,0,0,0,0,18
+Oconee,Walhalla 1,U.S. Senate,,Mark Lynch,REP,273,120,0,0,0,2,151
+Oconee,Walhalla 1,U.S. Senate,,Darius L Mitchell,REP,19,7,0,0,0,0,12
+Oconee,Walhalla 1,U.S. Senate,,Annie Andrews,DEM,116,55,0,0,0,4,57
+Oconee,Walhalla 1,U.S. Senate,,Brandon P Brown,DEM,22,14,0,0,0,3,5
+Oconee,Walhalla 1,U.S. Senate,,Kyle Freeman,DEM,8,4,0,0,0,3,1
+Oconee,Walhalla 2,U.S. Senate,,Calvin Cowen,REP,17,9,0,0,0,0,8
+Oconee,Walhalla 2,U.S. Senate,,Thomas Keith Dismukes,REP,25,13,0,0,0,0,12
+Oconee,Walhalla 2,U.S. Senate,,Lindsey Graham,REP,201,109,0,0,0,1,91
+Oconee,Walhalla 2,U.S. Senate,,Pat Herrmann,REP,18,5,0,0,0,0,13
+Oconee,Walhalla 2,U.S. Senate,,Mark Lynch,REP,158,67,0,0,0,0,91
+Oconee,Walhalla 2,U.S. Senate,,Darius L Mitchell,REP,6,1,0,0,0,0,5
+Oconee,Walhalla 2,U.S. Senate,,Annie Andrews,DEM,86,37,0,0,0,6,43
+Oconee,Walhalla 2,U.S. Senate,,Brandon P Brown,DEM,13,4,0,0,0,1,8
+Oconee,Walhalla 2,U.S. Senate,,Kyle Freeman,DEM,9,4,0,0,0,2,3
+Oconee,West Union,U.S. Senate,,Calvin Cowen,REP,6,0,0,0,0,0,6
+Oconee,West Union,U.S. Senate,,Thomas Keith Dismukes,REP,30,8,0,0,0,0,22
+Oconee,West Union,U.S. Senate,,Lindsey Graham,REP,239,78,0,0,0,1,160
+Oconee,West Union,U.S. Senate,,Pat Herrmann,REP,14,6,0,0,0,0,8
+Oconee,West Union,U.S. Senate,,Mark Lynch,REP,219,73,0,0,0,2,144
+Oconee,West Union,U.S. Senate,,Darius L Mitchell,REP,8,4,0,0,0,0,4
+Oconee,West Union,U.S. Senate,,Annie Andrews,DEM,68,24,0,0,0,3,41
+Oconee,West Union,U.S. Senate,,Brandon P Brown,DEM,10,3,0,0,0,2,5
+Oconee,West Union,U.S. Senate,,Kyle Freeman,DEM,5,1,0,0,0,0,4
+Oconee,Westminster 1,U.S. Senate,,Calvin Cowen,REP,12,3,0,0,0,0,9
+Oconee,Westminster 1,U.S. Senate,,Thomas Keith Dismukes,REP,34,11,0,0,0,3,20
+Oconee,Westminster 1,U.S. Senate,,Lindsey Graham,REP,321,96,0,0,0,10,215
+Oconee,Westminster 1,U.S. Senate,,Pat Herrmann,REP,10,3,0,0,0,0,7
+Oconee,Westminster 1,U.S. Senate,,Mark Lynch,REP,173,42,0,0,0,0,131
+Oconee,Westminster 1,U.S. Senate,,Darius L Mitchell,REP,11,5,0,0,0,0,6
+Oconee,Westminster 1,U.S. Senate,,Annie Andrews,DEM,85,43,0,0,0,1,41
+Oconee,Westminster 1,U.S. Senate,,Brandon P Brown,DEM,22,15,0,0,0,0,7
+Oconee,Westminster 1,U.S. Senate,,Kyle Freeman,DEM,9,8,0,0,0,0,1
+Oconee,Westminster 2,U.S. Senate,,Calvin Cowen,REP,8,1,0,0,0,0,7
+Oconee,Westminster 2,U.S. Senate,,Thomas Keith Dismukes,REP,4,0,0,0,0,0,4
+Oconee,Westminster 2,U.S. Senate,,Lindsey Graham,REP,170,48,0,0,0,1,121
+Oconee,Westminster 2,U.S. Senate,,Pat Herrmann,REP,11,1,0,0,0,1,9
+Oconee,Westminster 2,U.S. Senate,,Mark Lynch,REP,110,28,0,0,0,0,82
+Oconee,Westminster 2,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,0,3
+Oconee,Westminster 2,U.S. Senate,,Annie Andrews,DEM,47,15,0,0,0,1,31
+Oconee,Westminster 2,U.S. Senate,,Brandon P Brown,DEM,14,7,0,0,0,0,7
+Oconee,Westminster 2,U.S. Senate,,Kyle Freeman,DEM,5,2,0,0,0,0,3

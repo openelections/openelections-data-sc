@@ -1,0 +1,741 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Saluda,Centennial,Advisory Question 1,,Yes,REP,116,16,0,0,0,0,100
+Saluda,Centennial,Advisory Question 1,,No,REP,15,3,0,0,0,0,12
+Saluda,Failsafe,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Saluda,Fruit Hill,Advisory Question 1,,Yes,REP,141,26,0,0,0,0,115
+Saluda,Fruit Hill,Advisory Question 1,,No,REP,21,5,0,0,0,0,16
+Saluda,Higgins/Zoar,Advisory Question 1,,Yes,REP,105,33,0,0,0,0,72
+Saluda,Higgins/Zoar,Advisory Question 1,,No,REP,13,3,0,0,0,0,10
+Saluda,Holly,Advisory Question 1,,Yes,REP,408,64,0,0,0,1,343
+Saluda,Holly,Advisory Question 1,,No,REP,37,5,0,0,0,0,32
+Saluda,Hollywood,Advisory Question 1,,Yes,REP,327,71,0,0,0,1,255
+Saluda,Hollywood,Advisory Question 1,,No,REP,40,8,0,0,0,0,32
+Saluda,Holstons,Advisory Question 1,,Yes,REP,148,19,0,0,0,0,129
+Saluda,Holstons,Advisory Question 1,,No,REP,21,4,0,0,0,0,17
+Saluda,Pleasant Grove,Advisory Question 1,,Yes,REP,235,34,0,0,0,1,200
+Saluda,Pleasant Grove,Advisory Question 1,,No,REP,31,7,0,0,0,0,24
+Saluda,Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Saluda,Richland,Advisory Question 1,,Yes,REP,119,24,0,0,0,2,93
+Saluda,Richland,Advisory Question 1,,No,REP,24,2,0,0,0,0,22
+Saluda,Ridge Spring/Monetta,Advisory Question 1,,Yes,REP,105,19,0,0,0,0,86
+Saluda,Ridge Spring/Monetta,Advisory Question 1,,No,REP,10,2,0,0,0,0,8
+Saluda,Saluda No. 1,Advisory Question 1,,Yes,REP,98,30,0,0,0,0,68
+Saluda,Saluda No. 1,Advisory Question 1,,No,REP,22,10,0,0,0,0,12
+Saluda,Saluda No. 2,Advisory Question 1,,Yes,REP,182,82,0,0,0,1,99
+Saluda,Saluda No. 2,Advisory Question 1,,No,REP,28,11,0,0,0,0,17
+Saluda,Sardis,Advisory Question 1,,Yes,REP,272,58,0,0,0,1,213
+Saluda,Sardis,Advisory Question 1,,No,REP,47,19,0,0,0,0,28
+Saluda,Ward,Advisory Question 1,,Yes,REP,76,22,0,0,0,0,54
+Saluda,Ward,Advisory Question 1,,No,REP,11,3,0,0,0,0,8
+Saluda,Centennial,Advisory Question 2,,Yes,REP,92,9,0,0,0,0,83
+Saluda,Centennial,Advisory Question 2,,No,REP,38,9,0,0,0,0,29
+Saluda,Failsafe,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Saluda,Fruit Hill,Advisory Question 2,,Yes,REP,134,25,0,0,0,0,109
+Saluda,Fruit Hill,Advisory Question 2,,No,REP,30,6,0,0,0,0,24
+Saluda,Higgins/Zoar,Advisory Question 2,,Yes,REP,88,27,0,0,0,0,61
+Saluda,Higgins/Zoar,Advisory Question 2,,No,REP,29,9,0,0,0,0,20
+Saluda,Holly,Advisory Question 2,,Yes,REP,379,63,0,0,0,1,315
+Saluda,Holly,Advisory Question 2,,No,REP,66,6,0,0,0,0,60
+Saluda,Hollywood,Advisory Question 2,,Yes,REP,287,65,0,0,0,0,222
+Saluda,Hollywood,Advisory Question 2,,No,REP,75,12,0,0,0,1,62
+Saluda,Holstons,Advisory Question 2,,Yes,REP,131,16,0,0,0,0,115
+Saluda,Holstons,Advisory Question 2,,No,REP,36,5,0,0,0,0,31
+Saluda,Pleasant Grove,Advisory Question 2,,Yes,REP,219,34,0,0,0,1,184
+Saluda,Pleasant Grove,Advisory Question 2,,No,REP,50,8,0,0,0,0,42
+Saluda,Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Saluda,Richland,Advisory Question 2,,Yes,REP,117,23,0,0,0,2,92
+Saluda,Richland,Advisory Question 2,,No,REP,24,2,0,0,0,0,22
+Saluda,Ridge Spring/Monetta,Advisory Question 2,,Yes,REP,90,15,0,0,0,0,75
+Saluda,Ridge Spring/Monetta,Advisory Question 2,,No,REP,23,6,0,0,0,0,17
+Saluda,Saluda No. 1,Advisory Question 2,,Yes,REP,91,29,0,0,0,0,62
+Saluda,Saluda No. 1,Advisory Question 2,,No,REP,30,11,0,0,0,0,19
+Saluda,Saluda No. 2,Advisory Question 2,,Yes,REP,166,71,0,0,0,0,95
+Saluda,Saluda No. 2,Advisory Question 2,,No,REP,43,22,0,0,0,1,20
+Saluda,Sardis,Advisory Question 2,,Yes,REP,256,63,0,0,0,0,193
+Saluda,Sardis,Advisory Question 2,,No,REP,66,15,0,0,0,1,50
+Saluda,Ward,Advisory Question 2,,Yes,REP,65,15,0,0,0,0,50
+Saluda,Ward,Advisory Question 2,,No,REP,21,10,0,0,0,0,11
+Saluda,Centennial,Attorney General,,Stephen Goldfinch,REP,34,6,0,0,0,0,28
+Saluda,Centennial,Attorney General,,David M Pascoe,REP,22,2,0,0,0,0,20
+Saluda,Centennial,Attorney General,,David Stumbo,REP,73,10,0,0,0,0,63
+Saluda,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Saluda,Fruit Hill,Attorney General,,Stephen Goldfinch,REP,32,11,0,0,0,0,21
+Saluda,Fruit Hill,Attorney General,,David M Pascoe,REP,28,7,0,0,0,0,21
+Saluda,Fruit Hill,Attorney General,,David Stumbo,REP,98,12,0,0,0,0,86
+Saluda,Higgins/Zoar,Attorney General,,Stephen Goldfinch,REP,40,11,0,0,0,0,29
+Saluda,Higgins/Zoar,Attorney General,,David M Pascoe,REP,32,12,0,0,0,0,20
+Saluda,Higgins/Zoar,Attorney General,,David Stumbo,REP,44,14,0,0,0,0,30
+Saluda,Holly,Attorney General,,Stephen Goldfinch,REP,168,24,0,0,0,1,143
+Saluda,Holly,Attorney General,,David M Pascoe,REP,100,19,0,0,0,0,81
+Saluda,Holly,Attorney General,,David Stumbo,REP,149,19,0,0,0,0,130
+Saluda,Hollywood,Attorney General,,Stephen Goldfinch,REP,113,24,0,0,0,1,88
+Saluda,Hollywood,Attorney General,,David M Pascoe,REP,75,15,0,0,0,0,60
+Saluda,Hollywood,Attorney General,,David Stumbo,REP,164,38,0,0,0,0,126
+Saluda,Holstons,Attorney General,,Stephen Goldfinch,REP,62,9,0,0,0,0,53
+Saluda,Holstons,Attorney General,,David M Pascoe,REP,47,7,0,0,0,0,40
+Saluda,Holstons,Attorney General,,David Stumbo,REP,57,5,0,0,0,0,52
+Saluda,Pleasant Grove,Attorney General,,Stephen Goldfinch,REP,72,13,0,0,0,0,59
+Saluda,Pleasant Grove,Attorney General,,David M Pascoe,REP,63,13,0,0,0,0,50
+Saluda,Pleasant Grove,Attorney General,,David Stumbo,REP,120,15,0,0,0,1,104
+Saluda,Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Saluda,Richland,Attorney General,,Stephen Goldfinch,REP,43,7,0,0,0,2,34
+Saluda,Richland,Attorney General,,David M Pascoe,REP,31,3,0,0,0,0,28
+Saluda,Richland,Attorney General,,David Stumbo,REP,66,14,0,0,0,0,52
+Saluda,Ridge Spring/Monetta,Attorney General,,Stephen Goldfinch,REP,39,8,0,0,0,0,31
+Saluda,Ridge Spring/Monetta,Attorney General,,David M Pascoe,REP,32,7,0,0,0,0,25
+Saluda,Ridge Spring/Monetta,Attorney General,,David Stumbo,REP,39,5,0,0,0,0,34
+Saluda,Saluda No. 1,Attorney General,,Stephen Goldfinch,REP,22,8,0,0,0,0,14
+Saluda,Saluda No. 1,Attorney General,,David M Pascoe,REP,33,10,0,0,0,0,23
+Saluda,Saluda No. 1,Attorney General,,David Stumbo,REP,60,19,0,0,0,0,41
+Saluda,Saluda No. 2,Attorney General,,Stephen Goldfinch,REP,51,26,0,0,0,1,24
+Saluda,Saluda No. 2,Attorney General,,David M Pascoe,REP,40,16,0,0,0,0,24
+Saluda,Saluda No. 2,Attorney General,,David Stumbo,REP,114,48,0,0,0,0,66
+Saluda,Sardis,Attorney General,,Stephen Goldfinch,REP,99,21,0,0,0,1,77
+Saluda,Sardis,Attorney General,,David M Pascoe,REP,78,24,0,0,0,0,54
+Saluda,Sardis,Attorney General,,David Stumbo,REP,134,33,0,0,0,0,101
+Saluda,Ward,Attorney General,,Stephen Goldfinch,REP,26,3,0,0,0,0,23
+Saluda,Ward,Attorney General,,David M Pascoe,REP,20,6,0,0,0,0,14
+Saluda,Ward,Attorney General,,David Stumbo,REP,37,15,0,0,0,0,22
+Saluda,Centennial,Commissioner of Agriculture,,Jeremy B Cannon,REP,6,2,0,0,0,0,4
+Saluda,Centennial,Commissioner of Agriculture,,Danny Ford,REP,56,6,0,0,0,0,50
+Saluda,Centennial,Commissioner of Agriculture,,Cody Simpson,REP,33,5,0,0,0,0,28
+Saluda,Centennial,Commissioner of Agriculture,,Fred West,REP,37,6,0,0,0,0,31
+Saluda,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Saluda,Fruit Hill,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,2,0,0,0,0,11
+Saluda,Fruit Hill,Commissioner of Agriculture,,Danny Ford,REP,68,15,0,0,0,0,53
+Saluda,Fruit Hill,Commissioner of Agriculture,,Cody Simpson,REP,38,6,0,0,0,0,32
+Saluda,Fruit Hill,Commissioner of Agriculture,,Fred West,REP,40,8,0,0,0,0,32
+Saluda,Higgins/Zoar,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,3,0,0,0,0,8
+Saluda,Higgins/Zoar,Commissioner of Agriculture,,Danny Ford,REP,41,19,0,0,0,0,22
+Saluda,Higgins/Zoar,Commissioner of Agriculture,,Cody Simpson,REP,41,9,0,0,0,0,32
+Saluda,Higgins/Zoar,Commissioner of Agriculture,,Fred West,REP,26,8,0,0,0,0,18
+Saluda,Holly,Commissioner of Agriculture,,Jeremy B Cannon,REP,51,7,0,0,0,1,43
+Saluda,Holly,Commissioner of Agriculture,,Danny Ford,REP,135,21,0,0,0,0,114
+Saluda,Holly,Commissioner of Agriculture,,Cody Simpson,REP,159,32,0,0,0,0,127
+Saluda,Holly,Commissioner of Agriculture,,Fred West,REP,83,7,0,0,0,0,76
+Saluda,Hollywood,Commissioner of Agriculture,,Jeremy B Cannon,REP,16,5,0,0,0,0,11
+Saluda,Hollywood,Commissioner of Agriculture,,Danny Ford,REP,129,24,0,0,0,0,105
+Saluda,Hollywood,Commissioner of Agriculture,,Cody Simpson,REP,144,30,0,0,0,1,113
+Saluda,Hollywood,Commissioner of Agriculture,,Fred West,REP,82,22,0,0,0,0,60
+Saluda,Holstons,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,3,0,0,0,0,6
+Saluda,Holstons,Commissioner of Agriculture,,Danny Ford,REP,67,6,0,0,0,0,61
+Saluda,Holstons,Commissioner of Agriculture,,Cody Simpson,REP,43,5,0,0,0,0,38
+Saluda,Holstons,Commissioner of Agriculture,,Fred West,REP,48,6,0,0,0,0,42
+Saluda,Pleasant Grove,Commissioner of Agriculture,,Jeremy B Cannon,REP,30,6,0,0,0,0,24
+Saluda,Pleasant Grove,Commissioner of Agriculture,,Danny Ford,REP,81,13,0,0,0,0,68
+Saluda,Pleasant Grove,Commissioner of Agriculture,,Cody Simpson,REP,84,13,0,0,0,1,70
+Saluda,Pleasant Grove,Commissioner of Agriculture,,Fred West,REP,61,6,0,0,0,0,55
+Saluda,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Saluda,Richland,Commissioner of Agriculture,,Jeremy B Cannon,REP,8,3,0,0,0,0,5
+Saluda,Richland,Commissioner of Agriculture,,Danny Ford,REP,44,7,0,0,0,1,36
+Saluda,Richland,Commissioner of Agriculture,,Cody Simpson,REP,51,11,0,0,0,1,39
+Saluda,Richland,Commissioner of Agriculture,,Fred West,REP,37,3,0,0,0,0,34
+Saluda,Ridge Spring/Monetta,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,0,0,0,0,0,3
+Saluda,Ridge Spring/Monetta,Commissioner of Agriculture,,Danny Ford,REP,35,6,0,0,0,0,29
+Saluda,Ridge Spring/Monetta,Commissioner of Agriculture,,Cody Simpson,REP,32,6,0,0,0,0,26
+Saluda,Ridge Spring/Monetta,Commissioner of Agriculture,,Fred West,REP,40,9,0,0,0,0,31
+Saluda,Saluda No. 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,6,0,0,0,0,1
+Saluda,Saluda No. 1,Commissioner of Agriculture,,Danny Ford,REP,45,13,0,0,0,0,32
+Saluda,Saluda No. 1,Commissioner of Agriculture,,Cody Simpson,REP,31,14,0,0,0,0,17
+Saluda,Saluda No. 1,Commissioner of Agriculture,,Fred West,REP,33,5,0,0,0,0,28
+Saluda,Saluda No. 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,15,5,0,0,0,0,10
+Saluda,Saluda No. 2,Commissioner of Agriculture,,Danny Ford,REP,80,34,0,0,0,1,45
+Saluda,Saluda No. 2,Commissioner of Agriculture,,Cody Simpson,REP,58,24,0,0,0,0,34
+Saluda,Saluda No. 2,Commissioner of Agriculture,,Fred West,REP,55,29,0,0,0,0,26
+Saluda,Sardis,Commissioner of Agriculture,,Jeremy B Cannon,REP,29,5,0,0,0,1,23
+Saluda,Sardis,Commissioner of Agriculture,,Danny Ford,REP,82,18,0,0,0,0,64
+Saluda,Sardis,Commissioner of Agriculture,,Cody Simpson,REP,106,36,0,0,0,0,70
+Saluda,Sardis,Commissioner of Agriculture,,Fred West,REP,95,18,0,0,0,0,77
+Saluda,Ward,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,6,0,0,0,0,5
+Saluda,Ward,Commissioner of Agriculture,,Danny Ford,REP,31,5,0,0,0,0,26
+Saluda,Ward,Commissioner of Agriculture,,Cody Simpson,REP,26,10,0,0,0,0,16
+Saluda,Ward,Commissioner of Agriculture,,Fred West,REP,18,4,0,0,0,0,14
+Saluda,Centennial,Comptroller General,,Tiffany Boozer,DEM,9,3,0,0,0,0,6
+Saluda,Centennial,Comptroller General,,Bruce K Cole,DEM,8,3,0,0,0,0,5
+Saluda,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Saluda,Fruit Hill,Comptroller General,,Tiffany Boozer,DEM,115,59,0,0,0,0,56
+Saluda,Fruit Hill,Comptroller General,,Bruce K Cole,DEM,28,13,0,0,0,0,15
+Saluda,Higgins/Zoar,Comptroller General,,Tiffany Boozer,DEM,36,11,0,0,0,0,25
+Saluda,Higgins/Zoar,Comptroller General,,Bruce K Cole,DEM,9,5,0,0,0,0,4
+Saluda,Holly,Comptroller General,,Tiffany Boozer,DEM,32,15,0,0,0,0,17
+Saluda,Holly,Comptroller General,,Bruce K Cole,DEM,7,3,0,0,0,0,4
+Saluda,Hollywood,Comptroller General,,Tiffany Boozer,DEM,28,16,0,0,0,0,12
+Saluda,Hollywood,Comptroller General,,Bruce K Cole,DEM,9,4,0,0,0,0,5
+Saluda,Holstons,Comptroller General,,Tiffany Boozer,DEM,54,16,0,0,0,0,38
+Saluda,Holstons,Comptroller General,,Bruce K Cole,DEM,21,2,0,0,0,0,19
+Saluda,Pleasant Grove,Comptroller General,,Tiffany Boozer,DEM,34,14,0,0,0,0,20
+Saluda,Pleasant Grove,Comptroller General,,Bruce K Cole,DEM,9,3,0,0,0,0,6
+Saluda,Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Saluda,Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Saluda,Richland,Comptroller General,,Tiffany Boozer,DEM,14,6,0,0,0,0,8
+Saluda,Richland,Comptroller General,,Bruce K Cole,DEM,8,4,0,0,0,0,4
+Saluda,Ridge Spring/Monetta,Comptroller General,,Tiffany Boozer,DEM,83,20,0,0,0,0,63
+Saluda,Ridge Spring/Monetta,Comptroller General,,Bruce K Cole,DEM,27,8,0,0,0,0,19
+Saluda,Saluda No. 1,Comptroller General,,Tiffany Boozer,DEM,125,72,0,0,0,0,53
+Saluda,Saluda No. 1,Comptroller General,,Bruce K Cole,DEM,32,16,0,0,0,0,16
+Saluda,Saluda No. 2,Comptroller General,,Tiffany Boozer,DEM,72,38,0,0,0,0,34
+Saluda,Saluda No. 2,Comptroller General,,Bruce K Cole,DEM,30,22,0,0,0,0,8
+Saluda,Sardis,Comptroller General,,Tiffany Boozer,DEM,19,12,0,0,0,0,7
+Saluda,Sardis,Comptroller General,,Bruce K Cole,DEM,6,3,0,0,0,0,3
+Saluda,Ward,Comptroller General,,Tiffany Boozer,DEM,55,20,0,0,0,0,35
+Saluda,Ward,Comptroller General,,Bruce K Cole,DEM,17,6,0,0,0,0,11
+Saluda,Centennial,County Council Chair,,Andrew Johnson,REP,59,6,0,0,0,0,53
+Saluda,Centennial,County Council Chair,,Jim Moore,REP,74,12,0,0,0,0,62
+Saluda,Failsafe,County Council Chair,,Andrew Johnson,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,County Council Chair,,Jim Moore,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,County Council Chair,,Andrew Johnson,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,County Council Chair,,Jim Moore,REP,0,0,0,0,0,0,0
+Saluda,Fruit Hill,County Council Chair,,Andrew Johnson,REP,80,12,0,0,0,0,68
+Saluda,Fruit Hill,County Council Chair,,Jim Moore,REP,82,19,0,0,0,0,63
+Saluda,Higgins/Zoar,County Council Chair,,Andrew Johnson,REP,59,15,0,0,0,0,44
+Saluda,Higgins/Zoar,County Council Chair,,Jim Moore,REP,61,23,0,0,0,0,38
+Saluda,Holly,County Council Chair,,Andrew Johnson,REP,180,25,0,0,0,1,154
+Saluda,Holly,County Council Chair,,Jim Moore,REP,228,38,0,0,0,0,190
+Saluda,Hollywood,County Council Chair,,Andrew Johnson,REP,202,38,0,0,0,1,163
+Saluda,Hollywood,County Council Chair,,Jim Moore,REP,154,39,0,0,0,0,115
+Saluda,Holstons,County Council Chair,,Andrew Johnson,REP,67,10,0,0,0,0,57
+Saluda,Holstons,County Council Chair,,Jim Moore,REP,92,11,0,0,0,0,81
+Saluda,Pleasant Grove,County Council Chair,,Andrew Johnson,REP,149,31,0,0,0,1,117
+Saluda,Pleasant Grove,County Council Chair,,Jim Moore,REP,106,8,0,0,0,0,98
+Saluda,Provisional,County Council Chair,,Andrew Johnson,REP,0,0,0,0,0,0,0
+Saluda,Provisional,County Council Chair,,Jim Moore,REP,0,0,0,0,0,0,0
+Saluda,Richland,County Council Chair,,Andrew Johnson,REP,70,11,0,0,0,0,59
+Saluda,Richland,County Council Chair,,Jim Moore,REP,71,13,0,0,0,2,56
+Saluda,Ridge Spring/Monetta,County Council Chair,,Andrew Johnson,REP,47,8,0,0,0,0,39
+Saluda,Ridge Spring/Monetta,County Council Chair,,Jim Moore,REP,60,10,0,0,0,0,50
+Saluda,Saluda No. 1,County Council Chair,,Andrew Johnson,REP,51,17,0,0,0,0,34
+Saluda,Saluda No. 1,County Council Chair,,Jim Moore,REP,70,24,0,0,0,0,46
+Saluda,Saluda No. 2,County Council Chair,,Andrew Johnson,REP,83,33,0,0,0,0,50
+Saluda,Saluda No. 2,County Council Chair,,Jim Moore,REP,126,57,0,0,0,1,68
+Saluda,Sardis,County Council Chair,,Andrew Johnson,REP,176,35,0,0,0,0,141
+Saluda,Sardis,County Council Chair,,Jim Moore,REP,131,38,0,0,0,1,92
+Saluda,Ward,County Council Chair,,Andrew Johnson,REP,48,12,0,0,0,0,36
+Saluda,Ward,County Council Chair,,Jim Moore,REP,38,12,0,0,0,0,26
+Saluda,Failsafe,County Council District 3,,Ricky Bailey,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,County Council District 3,,Bradley Gantt,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,County Council District 3,,Ricky Bailey,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,County Council District 3,,Bradley Gantt,REP,0,0,0,0,0,0,0
+Saluda,Holly,County Council District 3,,Ricky Bailey,REP,357,44,0,0,0,1,312
+Saluda,Holly,County Council District 3,,Bradley Gantt,REP,60,20,0,0,0,0,40
+Saluda,Holstons,County Council District 3,,Ricky Bailey,REP,103,13,0,0,0,0,90
+Saluda,Holstons,County Council District 3,,Bradley Gantt,REP,32,5,0,0,0,0,27
+Saluda,Provisional,County Council District 3,,Ricky Bailey,REP,0,0,0,0,0,0,0
+Saluda,Provisional,County Council District 3,,Bradley Gantt,REP,0,0,0,0,0,0,0
+Saluda,Richland,County Council District 3,,Ricky Bailey,REP,77,12,0,0,0,0,65
+Saluda,Richland,County Council District 3,,Bradley Gantt,REP,52,11,0,0,0,0,41
+Saluda,Ridge Spring/Monetta,County Council District 3,,Ricky Bailey,REP,4,0,0,0,0,0,4
+Saluda,Ridge Spring/Monetta,County Council District 3,,Bradley Gantt,REP,3,0,0,0,0,0,3
+Saluda,Saluda No. 1,County Council District 3,,Ricky Bailey,REP,12,8,0,0,0,0,4
+Saluda,Saluda No. 1,County Council District 3,,Bradley Gantt,REP,2,2,0,0,0,0,0
+Saluda,Sardis,County Council District 3,,Ricky Bailey,REP,156,30,0,0,0,1,125
+Saluda,Sardis,County Council District 3,,Bradley Gantt,REP,58,7,0,0,0,0,51
+Saluda,Ward,County Council District 3,,Ricky Bailey,REP,25,8,0,0,0,0,17
+Saluda,Ward,County Council District 3,,Bradley Gantt,REP,4,3,0,0,0,0,1
+Saluda,Centennial,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Saluda,Centennial,Governor,,Pamela Evette,REP,41,5,0,0,0,0,36
+Saluda,Centennial,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Saluda,Centennial,Governor,,Nancy Mace,REP,12,4,0,0,0,0,8
+Saluda,Centennial,Governor,,Ralph W Norman,REP,18,0,0,0,0,0,18
+Saluda,Centennial,Governor,,Rom Reddy,REP,13,0,0,0,0,0,13
+Saluda,Centennial,Governor,,Alan Wilson,REP,45,9,0,0,0,0,36
+Saluda,Centennial,Governor,,Jermaine Johnson,DEM,11,4,0,0,0,0,7
+Saluda,Centennial,Governor,,Mullins McLeod,DEM,1,1,0,0,0,0,0
+Saluda,Centennial,Governor,,Billy Webster,DEM,5,1,0,0,0,0,4
+Saluda,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Saluda,Fruit Hill,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Saluda,Fruit Hill,Governor,,Pamela Evette,REP,46,6,0,0,0,0,40
+Saluda,Fruit Hill,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Saluda,Fruit Hill,Governor,,Nancy Mace,REP,12,3,0,0,0,0,9
+Saluda,Fruit Hill,Governor,,Ralph W Norman,REP,33,8,0,0,0,0,25
+Saluda,Fruit Hill,Governor,,Rom Reddy,REP,29,9,0,0,0,0,20
+Saluda,Fruit Hill,Governor,,Alan Wilson,REP,44,6,0,0,0,0,38
+Saluda,Fruit Hill,Governor,,Jermaine Johnson,DEM,94,45,0,0,0,0,49
+Saluda,Fruit Hill,Governor,,Mullins McLeod,DEM,7,3,0,0,0,0,4
+Saluda,Fruit Hill,Governor,,Billy Webster,DEM,49,28,0,0,0,0,21
+Saluda,Higgins/Zoar,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Saluda,Higgins/Zoar,Governor,,Pamela Evette,REP,49,12,0,0,0,0,37
+Saluda,Higgins/Zoar,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Saluda,Higgins/Zoar,Governor,,Nancy Mace,REP,6,1,0,0,0,0,5
+Saluda,Higgins/Zoar,Governor,,Ralph W Norman,REP,25,8,0,0,0,0,17
+Saluda,Higgins/Zoar,Governor,,Rom Reddy,REP,13,5,0,0,0,0,8
+Saluda,Higgins/Zoar,Governor,,Alan Wilson,REP,25,13,0,0,0,0,12
+Saluda,Higgins/Zoar,Governor,,Jermaine Johnson,DEM,35,14,0,0,0,0,21
+Saluda,Higgins/Zoar,Governor,,Mullins McLeod,DEM,8,3,0,0,0,0,5
+Saluda,Higgins/Zoar,Governor,,Billy Webster,DEM,6,1,0,0,0,0,5
+Saluda,Holly,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Saluda,Holly,Governor,,Pamela Evette,REP,150,24,0,0,0,1,125
+Saluda,Holly,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Saluda,Holly,Governor,,Nancy Mace,REP,37,2,0,0,0,0,35
+Saluda,Holly,Governor,,Ralph W Norman,REP,42,11,0,0,0,0,31
+Saluda,Holly,Governor,,Rom Reddy,REP,72,9,0,0,0,0,63
+Saluda,Holly,Governor,,Alan Wilson,REP,150,24,0,0,0,0,126
+Saluda,Holly,Governor,,Jermaine Johnson,DEM,16,10,0,0,0,0,6
+Saluda,Holly,Governor,,Mullins McLeod,DEM,2,0,0,0,0,0,2
+Saluda,Holly,Governor,,Billy Webster,DEM,25,8,0,0,0,0,17
+Saluda,Hollywood,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Saluda,Hollywood,Governor,,Pamela Evette,REP,94,15,0,0,0,0,79
+Saluda,Hollywood,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Saluda,Hollywood,Governor,,Nancy Mace,REP,27,4,0,0,0,0,23
+Saluda,Hollywood,Governor,,Ralph W Norman,REP,60,13,0,0,0,0,47
+Saluda,Hollywood,Governor,,Rom Reddy,REP,86,22,0,0,0,0,64
+Saluda,Hollywood,Governor,,Alan Wilson,REP,107,27,0,0,0,1,79
+Saluda,Hollywood,Governor,,Jermaine Johnson,DEM,23,11,0,0,0,0,12
+Saluda,Hollywood,Governor,,Mullins McLeod,DEM,5,2,0,0,0,2,1
+Saluda,Hollywood,Governor,,Billy Webster,DEM,14,8,0,0,0,0,6
+Saluda,Holstons,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Saluda,Holstons,Governor,,Pamela Evette,REP,77,10,0,0,0,0,67
+Saluda,Holstons,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Saluda,Holstons,Governor,,Nancy Mace,REP,11,0,0,0,0,0,11
+Saluda,Holstons,Governor,,Ralph W Norman,REP,15,4,0,0,0,0,11
+Saluda,Holstons,Governor,,Rom Reddy,REP,19,4,0,0,0,0,15
+Saluda,Holstons,Governor,,Alan Wilson,REP,48,4,0,0,0,0,44
+Saluda,Holstons,Governor,,Jermaine Johnson,DEM,54,11,0,0,0,0,43
+Saluda,Holstons,Governor,,Mullins McLeod,DEM,6,1,0,0,0,0,5
+Saluda,Holstons,Governor,,Billy Webster,DEM,19,6,0,0,0,0,13
+Saluda,Pleasant Grove,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Saluda,Pleasant Grove,Governor,,Pamela Evette,REP,81,6,0,0,0,0,75
+Saluda,Pleasant Grove,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Saluda,Pleasant Grove,Governor,,Nancy Mace,REP,33,7,0,0,0,0,26
+Saluda,Pleasant Grove,Governor,,Ralph W Norman,REP,31,5,0,0,0,0,26
+Saluda,Pleasant Grove,Governor,,Rom Reddy,REP,45,8,0,0,0,0,37
+Saluda,Pleasant Grove,Governor,,Alan Wilson,REP,82,15,0,0,0,1,66
+Saluda,Pleasant Grove,Governor,,Jermaine Johnson,DEM,21,8,0,0,0,0,13
+Saluda,Pleasant Grove,Governor,,Mullins McLeod,DEM,5,1,0,0,0,0,4
+Saluda,Pleasant Grove,Governor,,Billy Webster,DEM,22,9,0,0,0,0,13
+Saluda,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Saluda,Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Saluda,Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Saluda,Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Saluda,Richland,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Saluda,Richland,Governor,,Pamela Evette,REP,70,17,0,0,0,0,53
+Saluda,Richland,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Saluda,Richland,Governor,,Nancy Mace,REP,13,4,0,0,0,0,9
+Saluda,Richland,Governor,,Ralph W Norman,REP,6,0,0,0,0,2,4
+Saluda,Richland,Governor,,Rom Reddy,REP,16,1,0,0,0,0,15
+Saluda,Richland,Governor,,Alan Wilson,REP,37,4,0,0,0,0,33
+Saluda,Richland,Governor,,Jermaine Johnson,DEM,15,7,0,0,0,0,8
+Saluda,Richland,Governor,,Mullins McLeod,DEM,1,1,0,0,0,0,0
+Saluda,Richland,Governor,,Billy Webster,DEM,13,8,0,0,0,0,5
+Saluda,Ridge Spring/Monetta,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Saluda,Ridge Spring/Monetta,Governor,,Pamela Evette,REP,52,9,0,0,0,0,43
+Saluda,Ridge Spring/Monetta,Governor,,Joshua Kimbrell,REP,3,0,0,0,0,0,3
+Saluda,Ridge Spring/Monetta,Governor,,Nancy Mace,REP,10,2,0,0,0,0,8
+Saluda,Ridge Spring/Monetta,Governor,,Ralph W Norman,REP,10,4,0,0,0,0,6
+Saluda,Ridge Spring/Monetta,Governor,,Rom Reddy,REP,16,4,0,0,0,0,12
+Saluda,Ridge Spring/Monetta,Governor,,Alan Wilson,REP,25,2,0,0,0,0,23
+Saluda,Ridge Spring/Monetta,Governor,,Jermaine Johnson,DEM,77,23,0,0,0,0,54
+Saluda,Ridge Spring/Monetta,Governor,,Mullins McLeod,DEM,3,1,0,0,0,0,2
+Saluda,Ridge Spring/Monetta,Governor,,Billy Webster,DEM,34,7,0,0,0,0,27
+Saluda,Saluda No. 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Saluda,Saluda No. 1,Governor,,Pamela Evette,REP,38,11,0,0,0,0,27
+Saluda,Saluda No. 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Saluda,Saluda No. 1,Governor,,Nancy Mace,REP,13,3,0,0,0,0,10
+Saluda,Saluda No. 1,Governor,,Ralph W Norman,REP,17,9,0,0,0,0,8
+Saluda,Saluda No. 1,Governor,,Rom Reddy,REP,17,7,0,0,0,0,10
+Saluda,Saluda No. 1,Governor,,Alan Wilson,REP,37,11,0,0,0,0,26
+Saluda,Saluda No. 1,Governor,,Jermaine Johnson,DEM,104,58,0,0,0,0,46
+Saluda,Saluda No. 1,Governor,,Mullins McLeod,DEM,10,3,0,0,0,0,7
+Saluda,Saluda No. 1,Governor,,Billy Webster,DEM,50,30,0,0,0,0,20
+Saluda,Saluda No. 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Saluda,Saluda No. 2,Governor,,Pamela Evette,REP,76,39,0,0,0,0,37
+Saluda,Saluda No. 2,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Saluda,Saluda No. 2,Governor,,Nancy Mace,REP,15,3,0,0,0,1,11
+Saluda,Saluda No. 2,Governor,,Ralph W Norman,REP,21,12,0,0,0,0,9
+Saluda,Saluda No. 2,Governor,,Rom Reddy,REP,28,9,0,0,0,0,19
+Saluda,Saluda No. 2,Governor,,Alan Wilson,REP,76,32,0,0,0,0,44
+Saluda,Saluda No. 2,Governor,,Jermaine Johnson,DEM,69,37,0,0,0,0,32
+Saluda,Saluda No. 2,Governor,,Mullins McLeod,DEM,6,3,0,0,0,0,3
+Saluda,Saluda No. 2,Governor,,Billy Webster,DEM,28,19,0,0,0,0,9
+Saluda,Sardis,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Saluda,Sardis,Governor,,Pamela Evette,REP,110,23,0,0,0,0,87
+Saluda,Sardis,Governor,,Joshua Kimbrell,REP,3,1,0,0,0,0,2
+Saluda,Sardis,Governor,,Nancy Mace,REP,26,2,0,0,0,1,23
+Saluda,Sardis,Governor,,Ralph W Norman,REP,36,13,0,0,0,0,23
+Saluda,Sardis,Governor,,Rom Reddy,REP,52,16,0,0,0,0,36
+Saluda,Sardis,Governor,,Alan Wilson,REP,97,26,0,0,0,0,71
+Saluda,Sardis,Governor,,Jermaine Johnson,DEM,16,8,0,0,0,0,8
+Saluda,Sardis,Governor,,Mullins McLeod,DEM,3,2,0,0,0,0,1
+Saluda,Sardis,Governor,,Billy Webster,DEM,7,6,0,0,0,0,1
+Saluda,Ward,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Saluda,Ward,Governor,,Pamela Evette,REP,32,12,0,0,0,0,20
+Saluda,Ward,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Saluda,Ward,Governor,,Nancy Mace,REP,11,3,0,0,0,0,8
+Saluda,Ward,Governor,,Ralph W Norman,REP,13,3,0,0,0,0,10
+Saluda,Ward,Governor,,Rom Reddy,REP,10,4,0,0,0,0,6
+Saluda,Ward,Governor,,Alan Wilson,REP,20,3,0,0,0,0,17
+Saluda,Ward,Governor,,Jermaine Johnson,DEM,44,13,0,0,0,0,31
+Saluda,Ward,Governor,,Mullins McLeod,DEM,6,4,0,0,0,0,2
+Saluda,Ward,Governor,,Billy Webster,DEM,23,10,0,0,0,0,13
+Saluda,Centennial,Secretary of State,,Jason Belton,DEM,9,1,0,0,0,0,8
+Saluda,Centennial,Secretary of State,,Edwina Winter,DEM,8,5,0,0,0,0,3
+Saluda,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Saluda,Fruit Hill,Secretary of State,,Jason Belton,DEM,89,45,0,0,0,0,44
+Saluda,Fruit Hill,Secretary of State,,Edwina Winter,DEM,54,27,0,0,0,0,27
+Saluda,Higgins/Zoar,Secretary of State,,Jason Belton,DEM,26,10,0,0,0,0,16
+Saluda,Higgins/Zoar,Secretary of State,,Edwina Winter,DEM,21,8,0,0,0,0,13
+Saluda,Holly,Secretary of State,,Jason Belton,DEM,18,7,0,0,0,0,11
+Saluda,Holly,Secretary of State,,Edwina Winter,DEM,22,11,0,0,0,0,11
+Saluda,Hollywood,Secretary of State,,Jason Belton,DEM,22,10,0,0,0,0,12
+Saluda,Hollywood,Secretary of State,,Edwina Winter,DEM,16,10,0,0,0,0,6
+Saluda,Holstons,Secretary of State,,Jason Belton,DEM,44,7,0,0,0,0,37
+Saluda,Holstons,Secretary of State,,Edwina Winter,DEM,32,11,0,0,0,0,21
+Saluda,Pleasant Grove,Secretary of State,,Jason Belton,DEM,15,6,0,0,0,0,9
+Saluda,Pleasant Grove,Secretary of State,,Edwina Winter,DEM,30,12,0,0,0,0,18
+Saluda,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Saluda,Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Saluda,Richland,Secretary of State,,Jason Belton,DEM,10,5,0,0,0,0,5
+Saluda,Richland,Secretary of State,,Edwina Winter,DEM,14,6,0,0,0,0,8
+Saluda,Ridge Spring/Monetta,Secretary of State,,Jason Belton,DEM,65,19,0,0,0,0,46
+Saluda,Ridge Spring/Monetta,Secretary of State,,Edwina Winter,DEM,47,11,0,0,0,0,36
+Saluda,Saluda No. 1,Secretary of State,,Jason Belton,DEM,99,56,0,0,0,0,43
+Saluda,Saluda No. 1,Secretary of State,,Edwina Winter,DEM,59,33,0,0,0,0,26
+Saluda,Saluda No. 2,Secretary of State,,Jason Belton,DEM,55,28,0,0,0,0,27
+Saluda,Saluda No. 2,Secretary of State,,Edwina Winter,DEM,46,32,0,0,0,0,14
+Saluda,Sardis,Secretary of State,,Jason Belton,DEM,17,12,0,0,0,0,5
+Saluda,Sardis,Secretary of State,,Edwina Winter,DEM,9,4,0,0,0,0,5
+Saluda,Ward,Secretary of State,,Jason Belton,DEM,31,10,0,0,0,0,21
+Saluda,Ward,Secretary of State,,Edwina Winter,DEM,41,16,0,0,0,0,25
+Saluda,Centennial,State House,39,Cally R Cal Forrest,REP,113,16,0,0,0,0,97
+Saluda,Centennial,State House,39,Katie Hall,REP,20,3,0,0,0,0,17
+Saluda,Centennial,State House,39,Fred Taylor,REP,1,0,0,0,0,0,1
+Saluda,Failsafe,State House,39,Cally R Cal Forrest,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,State House,39,Katie Hall,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,State House,39,Fred Taylor,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,State House,39,Cally R Cal Forrest,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,State House,39,Katie Hall,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,State House,39,Fred Taylor,REP,0,0,0,0,0,0,0
+Saluda,Fruit Hill,State House,39,Cally R Cal Forrest,REP,71,13,0,0,0,0,58
+Saluda,Fruit Hill,State House,39,Katie Hall,REP,11,2,0,0,0,0,9
+Saluda,Fruit Hill,State House,39,Fred Taylor,REP,4,1,0,0,0,0,3
+Saluda,Higgins/Zoar,State House,39,Cally R Cal Forrest,REP,92,29,0,0,0,0,63
+Saluda,Higgins/Zoar,State House,39,Katie Hall,REP,28,9,0,0,0,0,19
+Saluda,Higgins/Zoar,State House,39,Fred Taylor,REP,1,1,0,0,0,0,0
+Saluda,Holly,State House,39,Cally R Cal Forrest,REP,362,58,0,0,0,0,304
+Saluda,Holly,State House,39,Katie Hall,REP,51,7,0,0,0,1,43
+Saluda,Holly,State House,39,Fred Taylor,REP,20,3,0,0,0,0,17
+Saluda,Hollywood,State House,39,Cally R Cal Forrest,REP,267,57,0,0,0,0,210
+Saluda,Hollywood,State House,39,Katie Hall,REP,85,18,0,0,0,1,66
+Saluda,Hollywood,State House,39,Fred Taylor,REP,16,3,0,0,0,0,13
+Saluda,Holstons,State House,39,Cally R Cal Forrest,REP,160,22,0,0,0,0,138
+Saluda,Holstons,State House,39,Katie Hall,REP,8,1,0,0,0,0,7
+Saluda,Holstons,State House,39,Fred Taylor,REP,4,0,0,0,0,0,4
+Saluda,Pleasant Grove,State House,39,Cally R Cal Forrest,REP,185,23,0,0,0,1,161
+Saluda,Pleasant Grove,State House,39,Katie Hall,REP,60,17,0,0,0,0,43
+Saluda,Pleasant Grove,State House,39,Fred Taylor,REP,17,1,0,0,0,0,16
+Saluda,Provisional,State House,39,Cally R Cal Forrest,REP,0,0,0,0,0,0,0
+Saluda,Provisional,State House,39,Katie Hall,REP,0,0,0,0,0,0,0
+Saluda,Provisional,State House,39,Fred Taylor,REP,0,0,0,0,0,0,0
+Saluda,Richland,State House,39,Cally R Cal Forrest,REP,129,24,0,0,0,2,103
+Saluda,Richland,State House,39,Katie Hall,REP,11,1,0,0,0,0,10
+Saluda,Richland,State House,39,Fred Taylor,REP,1,0,0,0,0,0,1
+Saluda,Ridge Spring/Monetta,State House,39,Cally R Cal Forrest,REP,89,15,0,0,0,0,74
+Saluda,Ridge Spring/Monetta,State House,39,Katie Hall,REP,14,2,0,0,0,0,12
+Saluda,Ridge Spring/Monetta,State House,39,Fred Taylor,REP,3,0,0,0,0,0,3
+Saluda,Saluda No. 1,State House,39,Cally R Cal Forrest,REP,83,27,0,0,0,0,56
+Saluda,Saluda No. 1,State House,39,Katie Hall,REP,8,2,0,0,0,0,6
+Saluda,Saluda No. 1,State House,39,Fred Taylor,REP,0,0,0,0,0,0,0
+Saluda,Saluda No. 2,State House,39,Cally R Cal Forrest,REP,174,82,0,0,0,1,91
+Saluda,Saluda No. 2,State House,39,Katie Hall,REP,21,7,0,0,0,0,14
+Saluda,Saluda No. 2,State House,39,Fred Taylor,REP,3,0,0,0,0,0,3
+Saluda,Sardis,State House,39,Cally R Cal Forrest,REP,264,60,0,0,0,1,203
+Saluda,Sardis,State House,39,Katie Hall,REP,52,17,0,0,0,0,35
+Saluda,Sardis,State House,39,Fred Taylor,REP,8,1,0,0,0,0,7
+Saluda,Ward,State House,39,Cally R Cal Forrest,REP,8,1,0,0,0,0,7
+Saluda,Ward,State House,39,Katie Hall,REP,3,0,0,0,0,0,3
+Saluda,Ward,State House,39,Fred Taylor,REP,0,0,0,0,0,0,0
+Saluda,Centennial,State Superintendent of Education,,Lisa Ellis,DEM,4,2,0,0,0,0,2
+Saluda,Centennial,State Superintendent of Education,,Sylvia Wright,DEM,13,4,0,0,0,0,9
+Saluda,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Saluda,Fruit Hill,State Superintendent of Education,,Lisa Ellis,DEM,47,22,0,0,0,0,25
+Saluda,Fruit Hill,State Superintendent of Education,,Sylvia Wright,DEM,97,51,0,0,0,0,46
+Saluda,Higgins/Zoar,State Superintendent of Education,,Lisa Ellis,DEM,21,5,0,0,0,0,16
+Saluda,Higgins/Zoar,State Superintendent of Education,,Sylvia Wright,DEM,27,12,0,0,0,0,15
+Saluda,Holly,State Superintendent of Education,,Lisa Ellis,DEM,25,9,0,0,0,0,16
+Saluda,Holly,State Superintendent of Education,,Sylvia Wright,DEM,14,9,0,0,0,0,5
+Saluda,Hollywood,State Superintendent of Education,,Lisa Ellis,DEM,18,8,0,0,0,0,10
+Saluda,Hollywood,State Superintendent of Education,,Sylvia Wright,DEM,21,12,0,0,0,0,9
+Saluda,Holstons,State Superintendent of Education,,Lisa Ellis,DEM,26,2,0,0,0,0,24
+Saluda,Holstons,State Superintendent of Education,,Sylvia Wright,DEM,50,16,0,0,0,0,34
+Saluda,Pleasant Grove,State Superintendent of Education,,Lisa Ellis,DEM,25,8,0,0,0,0,17
+Saluda,Pleasant Grove,State Superintendent of Education,,Sylvia Wright,DEM,22,10,0,0,0,0,12
+Saluda,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Saluda,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Saluda,Richland,State Superintendent of Education,,Lisa Ellis,DEM,9,3,0,0,0,0,6
+Saluda,Richland,State Superintendent of Education,,Sylvia Wright,DEM,15,8,0,0,0,0,7
+Saluda,Ridge Spring/Monetta,State Superintendent of Education,,Lisa Ellis,DEM,37,10,0,0,0,0,27
+Saluda,Ridge Spring/Monetta,State Superintendent of Education,,Sylvia Wright,DEM,72,18,0,0,0,0,54
+Saluda,Saluda No. 1,State Superintendent of Education,,Lisa Ellis,DEM,45,20,0,0,0,0,25
+Saluda,Saluda No. 1,State Superintendent of Education,,Sylvia Wright,DEM,114,71,0,0,0,0,43
+Saluda,Saluda No. 2,State Superintendent of Education,,Lisa Ellis,DEM,27,20,0,0,0,0,7
+Saluda,Saluda No. 2,State Superintendent of Education,,Sylvia Wright,DEM,73,40,0,0,0,0,33
+Saluda,Sardis,State Superintendent of Education,,Lisa Ellis,DEM,12,6,0,0,0,0,6
+Saluda,Sardis,State Superintendent of Education,,Sylvia Wright,DEM,14,10,0,0,0,0,4
+Saluda,Ward,State Superintendent of Education,,Lisa Ellis,DEM,22,9,0,0,0,0,13
+Saluda,Ward,State Superintendent of Education,,Sylvia Wright,DEM,51,18,0,0,0,0,33
+Saluda,Centennial,State Treasurer,,Vincent Coe,DEM,5,0,0,0,0,0,5
+Saluda,Centennial,State Treasurer,,Trav Robertson Jr,DEM,11,5,0,0,0,0,6
+Saluda,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Saluda,Fruit Hill,State Treasurer,,Vincent Coe,DEM,65,32,0,0,0,0,33
+Saluda,Fruit Hill,State Treasurer,,Trav Robertson Jr,DEM,78,40,0,0,0,0,38
+Saluda,Higgins/Zoar,State Treasurer,,Vincent Coe,DEM,25,5,0,0,0,0,20
+Saluda,Higgins/Zoar,State Treasurer,,Trav Robertson Jr,DEM,24,13,0,0,0,0,11
+Saluda,Holly,State Treasurer,,Vincent Coe,DEM,21,11,0,0,0,0,10
+Saluda,Holly,State Treasurer,,Trav Robertson Jr,DEM,19,7,0,0,0,0,12
+Saluda,Hollywood,State Treasurer,,Vincent Coe,DEM,19,9,0,0,0,0,10
+Saluda,Hollywood,State Treasurer,,Trav Robertson Jr,DEM,18,10,0,0,0,0,8
+Saluda,Holstons,State Treasurer,,Vincent Coe,DEM,32,5,0,0,0,0,27
+Saluda,Holstons,State Treasurer,,Trav Robertson Jr,DEM,41,11,0,0,0,0,30
+Saluda,Pleasant Grove,State Treasurer,,Vincent Coe,DEM,16,7,0,0,0,0,9
+Saluda,Pleasant Grove,State Treasurer,,Trav Robertson Jr,DEM,25,9,0,0,0,0,16
+Saluda,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Saluda,Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Saluda,Richland,State Treasurer,,Vincent Coe,DEM,8,3,0,0,0,0,5
+Saluda,Richland,State Treasurer,,Trav Robertson Jr,DEM,15,8,0,0,0,0,7
+Saluda,Ridge Spring/Monetta,State Treasurer,,Vincent Coe,DEM,49,13,0,0,0,0,36
+Saluda,Ridge Spring/Monetta,State Treasurer,,Trav Robertson Jr,DEM,63,16,0,0,0,0,47
+Saluda,Saluda No. 1,State Treasurer,,Vincent Coe,DEM,71,31,0,0,0,0,40
+Saluda,Saluda No. 1,State Treasurer,,Trav Robertson Jr,DEM,86,57,0,0,0,0,29
+Saluda,Saluda No. 2,State Treasurer,,Vincent Coe,DEM,43,22,0,0,0,0,21
+Saluda,Saluda No. 2,State Treasurer,,Trav Robertson Jr,DEM,57,37,0,0,0,0,20
+Saluda,Sardis,State Treasurer,,Vincent Coe,DEM,10,3,0,0,0,0,7
+Saluda,Sardis,State Treasurer,,Trav Robertson Jr,DEM,16,13,0,0,0,0,3
+Saluda,Ward,State Treasurer,,Vincent Coe,DEM,30,12,0,0,0,0,18
+Saluda,Ward,State Treasurer,,Trav Robertson Jr,DEM,40,12,0,0,0,0,28
+Saluda,Centennial,U.S. House,3,Eunice Lehmacher,DEM,7,5,0,0,0,0,2
+Saluda,Centennial,U.S. House,3,Ernest E Mackins,DEM,10,1,0,0,0,0,9
+Saluda,Failsafe,U.S. House,3,Eunice Lehmacher,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe,U.S. House,3,Ernest E Mackins,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,U.S. House,3,Eunice Lehmacher,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,U.S. House,3,Ernest E Mackins,DEM,0,0,0,0,0,0,0
+Saluda,Fruit Hill,U.S. House,3,Eunice Lehmacher,DEM,73,33,0,0,0,0,40
+Saluda,Fruit Hill,U.S. House,3,Ernest E Mackins,DEM,67,37,0,0,0,0,30
+Saluda,Higgins/Zoar,U.S. House,3,Eunice Lehmacher,DEM,17,7,0,0,0,0,10
+Saluda,Higgins/Zoar,U.S. House,3,Ernest E Mackins,DEM,29,10,0,0,0,0,19
+Saluda,Holly,U.S. House,3,Eunice Lehmacher,DEM,17,9,0,0,0,0,8
+Saluda,Holly,U.S. House,3,Ernest E Mackins,DEM,23,8,0,0,0,0,15
+Saluda,Hollywood,U.S. House,3,Eunice Lehmacher,DEM,15,12,0,0,0,0,3
+Saluda,Hollywood,U.S. House,3,Ernest E Mackins,DEM,22,8,0,0,0,0,14
+Saluda,Holstons,U.S. House,3,Eunice Lehmacher,DEM,29,5,0,0,0,0,24
+Saluda,Holstons,U.S. House,3,Ernest E Mackins,DEM,45,12,0,0,0,0,33
+Saluda,Pleasant Grove,U.S. House,3,Eunice Lehmacher,DEM,28,14,0,0,0,0,14
+Saluda,Pleasant Grove,U.S. House,3,Ernest E Mackins,DEM,16,4,0,0,0,0,12
+Saluda,Provisional,U.S. House,3,Eunice Lehmacher,DEM,0,0,0,0,0,0,0
+Saluda,Provisional,U.S. House,3,Ernest E Mackins,DEM,0,0,0,0,0,0,0
+Saluda,Richland,U.S. House,3,Eunice Lehmacher,DEM,15,6,0,0,0,0,9
+Saluda,Richland,U.S. House,3,Ernest E Mackins,DEM,7,4,0,0,0,0,3
+Saluda,Ridge Spring/Monetta,U.S. House,3,Eunice Lehmacher,DEM,33,10,0,0,0,0,23
+Saluda,Ridge Spring/Monetta,U.S. House,3,Ernest E Mackins,DEM,77,18,0,0,0,0,59
+Saluda,Saluda No. 1,U.S. House,3,Eunice Lehmacher,DEM,59,29,0,0,0,0,30
+Saluda,Saluda No. 1,U.S. House,3,Ernest E Mackins,DEM,97,57,0,0,0,0,40
+Saluda,Saluda No. 2,U.S. House,3,Eunice Lehmacher,DEM,49,24,0,0,0,0,25
+Saluda,Saluda No. 2,U.S. House,3,Ernest E Mackins,DEM,52,36,0,0,0,0,16
+Saluda,Sardis,U.S. House,3,Eunice Lehmacher,DEM,10,5,0,0,0,0,5
+Saluda,Sardis,U.S. House,3,Ernest E Mackins,DEM,16,11,0,0,0,0,5
+Saluda,Ward,U.S. House,3,Eunice Lehmacher,DEM,34,15,0,0,0,0,19
+Saluda,Ward,U.S. House,3,Ernest E Mackins,DEM,37,11,0,0,0,0,26
+Saluda,Centennial,U.S. Senate,,Calvin Cowen,REP,7,3,0,0,0,0,4
+Saluda,Centennial,U.S. Senate,,Thomas Keith Dismukes,REP,8,0,0,0,0,0,8
+Saluda,Centennial,U.S. Senate,,Lindsey Graham,REP,81,12,0,0,0,0,69
+Saluda,Centennial,U.S. Senate,,Pat Herrmann,REP,9,0,0,0,0,0,9
+Saluda,Centennial,U.S. Senate,,Mark Lynch,REP,27,4,0,0,0,0,23
+Saluda,Centennial,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Saluda,Centennial,U.S. Senate,,Annie Andrews,DEM,7,4,0,0,0,0,3
+Saluda,Centennial,U.S. Senate,,Brandon P Brown,DEM,7,2,0,0,0,0,5
+Saluda,Centennial,U.S. Senate,,Kyle Freeman,DEM,3,0,0,0,0,0,3
+Saluda,Failsafe,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Saluda,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Saluda,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Saluda,Fruit Hill,U.S. Senate,,Calvin Cowen,REP,5,0,0,0,0,0,5
+Saluda,Fruit Hill,U.S. Senate,,Thomas Keith Dismukes,REP,12,1,0,0,0,0,11
+Saluda,Fruit Hill,U.S. Senate,,Lindsey Graham,REP,98,14,0,0,0,0,84
+Saluda,Fruit Hill,U.S. Senate,,Pat Herrmann,REP,6,3,0,0,0,0,3
+Saluda,Fruit Hill,U.S. Senate,,Mark Lynch,REP,38,12,0,0,0,0,26
+Saluda,Fruit Hill,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,0,3
+Saluda,Fruit Hill,U.S. Senate,,Annie Andrews,DEM,77,48,0,0,0,0,29
+Saluda,Fruit Hill,U.S. Senate,,Brandon P Brown,DEM,47,20,0,0,0,0,27
+Saluda,Fruit Hill,U.S. Senate,,Kyle Freeman,DEM,19,5,0,0,0,0,14
+Saluda,Higgins/Zoar,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Saluda,Higgins/Zoar,U.S. Senate,,Thomas Keith Dismukes,REP,2,2,0,0,0,0,0
+Saluda,Higgins/Zoar,U.S. Senate,,Lindsey Graham,REP,79,23,0,0,0,0,56
+Saluda,Higgins/Zoar,U.S. Senate,,Pat Herrmann,REP,2,1,0,0,0,0,1
+Saluda,Higgins/Zoar,U.S. Senate,,Mark Lynch,REP,30,13,0,0,0,0,17
+Saluda,Higgins/Zoar,U.S. Senate,,Darius L Mitchell,REP,5,0,0,0,0,0,5
+Saluda,Higgins/Zoar,U.S. Senate,,Annie Andrews,DEM,22,7,0,0,0,0,15
+Saluda,Higgins/Zoar,U.S. Senate,,Brandon P Brown,DEM,20,7,0,0,0,0,13
+Saluda,Higgins/Zoar,U.S. Senate,,Kyle Freeman,DEM,7,4,0,0,0,0,3
+Saluda,Holly,U.S. Senate,,Calvin Cowen,REP,15,3,0,0,0,0,12
+Saluda,Holly,U.S. Senate,,Thomas Keith Dismukes,REP,22,0,0,0,0,0,22
+Saluda,Holly,U.S. Senate,,Lindsey Graham,REP,306,54,0,0,0,1,251
+Saluda,Holly,U.S. Senate,,Pat Herrmann,REP,17,1,0,0,0,0,16
+Saluda,Holly,U.S. Senate,,Mark Lynch,REP,77,11,0,0,0,0,66
+Saluda,Holly,U.S. Senate,,Darius L Mitchell,REP,7,0,0,0,0,0,7
+Saluda,Holly,U.S. Senate,,Annie Andrews,DEM,31,15,0,0,0,0,16
+Saluda,Holly,U.S. Senate,,Brandon P Brown,DEM,6,3,0,0,0,0,3
+Saluda,Holly,U.S. Senate,,Kyle Freeman,DEM,3,0,0,0,0,0,3
+Saluda,Hollywood,U.S. Senate,,Calvin Cowen,REP,15,5,0,0,0,0,10
+Saluda,Hollywood,U.S. Senate,,Thomas Keith Dismukes,REP,14,5,0,0,0,0,9
+Saluda,Hollywood,U.S. Senate,,Lindsey Graham,REP,221,50,0,0,0,1,170
+Saluda,Hollywood,U.S. Senate,,Pat Herrmann,REP,11,4,0,0,0,0,7
+Saluda,Hollywood,U.S. Senate,,Mark Lynch,REP,98,12,0,0,0,0,86
+Saluda,Hollywood,U.S. Senate,,Darius L Mitchell,REP,8,3,0,0,0,0,5
+Saluda,Hollywood,U.S. Senate,,Annie Andrews,DEM,25,17,0,0,0,0,8
+Saluda,Hollywood,U.S. Senate,,Brandon P Brown,DEM,6,3,0,0,0,0,3
+Saluda,Hollywood,U.S. Senate,,Kyle Freeman,DEM,8,1,0,0,0,0,7
+Saluda,Holstons,U.S. Senate,,Calvin Cowen,REP,5,2,0,0,0,0,3
+Saluda,Holstons,U.S. Senate,,Thomas Keith Dismukes,REP,9,2,0,0,0,0,7
+Saluda,Holstons,U.S. Senate,,Lindsey Graham,REP,108,14,0,0,0,0,94
+Saluda,Holstons,U.S. Senate,,Pat Herrmann,REP,4,2,0,0,0,0,2
+Saluda,Holstons,U.S. Senate,,Mark Lynch,REP,38,3,0,0,0,0,35
+Saluda,Holstons,U.S. Senate,,Darius L Mitchell,REP,5,0,0,0,0,0,5
+Saluda,Holstons,U.S. Senate,,Annie Andrews,DEM,45,13,0,0,0,0,32
+Saluda,Holstons,U.S. Senate,,Brandon P Brown,DEM,28,4,0,0,0,0,24
+Saluda,Holstons,U.S. Senate,,Kyle Freeman,DEM,5,1,0,0,0,0,4
+Saluda,Pleasant Grove,U.S. Senate,,Calvin Cowen,REP,15,1,0,0,0,0,14
+Saluda,Pleasant Grove,U.S. Senate,,Thomas Keith Dismukes,REP,13,1,0,0,0,0,12
+Saluda,Pleasant Grove,U.S. Senate,,Lindsey Graham,REP,159,20,0,0,0,0,139
+Saluda,Pleasant Grove,U.S. Senate,,Pat Herrmann,REP,12,4,0,0,0,0,8
+Saluda,Pleasant Grove,U.S. Senate,,Mark Lynch,REP,67,13,0,0,0,1,53
+Saluda,Pleasant Grove,U.S. Senate,,Darius L Mitchell,REP,6,1,0,0,0,0,5
+Saluda,Pleasant Grove,U.S. Senate,,Annie Andrews,DEM,37,14,0,0,0,0,23
+Saluda,Pleasant Grove,U.S. Senate,,Brandon P Brown,DEM,3,1,0,0,0,0,2
+Saluda,Pleasant Grove,U.S. Senate,,Kyle Freeman,DEM,7,3,0,0,0,0,4
+Saluda,Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Saluda,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Saluda,Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Saluda,Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Saluda,Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Saluda,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Saluda,Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Saluda,Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Saluda,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Saluda,Richland,U.S. Senate,,Calvin Cowen,REP,9,1,0,0,0,0,8
+Saluda,Richland,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Saluda,Richland,U.S. Senate,,Lindsey Graham,REP,100,21,0,0,0,0,79
+Saluda,Richland,U.S. Senate,,Pat Herrmann,REP,7,1,0,0,0,0,6
+Saluda,Richland,U.S. Senate,,Mark Lynch,REP,19,0,0,0,0,2,17
+Saluda,Richland,U.S. Senate,,Darius L Mitchell,REP,5,2,0,0,0,0,3
+Saluda,Richland,U.S. Senate,,Annie Andrews,DEM,16,8,0,0,0,0,8
+Saluda,Richland,U.S. Senate,,Brandon P Brown,DEM,6,4,0,0,0,0,2
+Saluda,Richland,U.S. Senate,,Kyle Freeman,DEM,5,2,0,0,0,0,3
+Saluda,Ridge Spring/Monetta,U.S. Senate,,Calvin Cowen,REP,8,3,0,0,0,0,5
+Saluda,Ridge Spring/Monetta,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Saluda,Ridge Spring/Monetta,U.S. Senate,,Lindsey Graham,REP,68,13,0,0,0,0,55
+Saluda,Ridge Spring/Monetta,U.S. Senate,,Pat Herrmann,REP,5,0,0,0,0,0,5
+Saluda,Ridge Spring/Monetta,U.S. Senate,,Mark Lynch,REP,27,5,0,0,0,0,22
+Saluda,Ridge Spring/Monetta,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Saluda,Ridge Spring/Monetta,U.S. Senate,,Annie Andrews,DEM,63,17,0,0,0,0,46
+Saluda,Ridge Spring/Monetta,U.S. Senate,,Brandon P Brown,DEM,39,10,0,0,0,0,29
+Saluda,Ridge Spring/Monetta,U.S. Senate,,Kyle Freeman,DEM,11,2,0,0,0,0,9
+Saluda,Saluda No. 1,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Saluda,Saluda No. 1,U.S. Senate,,Thomas Keith Dismukes,REP,4,2,0,0,0,0,2
+Saluda,Saluda No. 1,U.S. Senate,,Lindsey Graham,REP,65,20,0,0,0,0,45
+Saluda,Saluda No. 1,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Saluda,Saluda No. 1,U.S. Senate,,Mark Lynch,REP,42,16,0,0,0,0,26
+Saluda,Saluda No. 1,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Saluda,Saluda No. 1,U.S. Senate,,Annie Andrews,DEM,73,38,0,0,0,0,35
+Saluda,Saluda No. 1,U.S. Senate,,Brandon P Brown,DEM,60,38,0,0,0,0,22
+Saluda,Saluda No. 1,U.S. Senate,,Kyle Freeman,DEM,29,15,0,0,0,0,14
+Saluda,Saluda No. 2,U.S. Senate,,Calvin Cowen,REP,3,1,0,0,0,0,2
+Saluda,Saluda No. 2,U.S. Senate,,Thomas Keith Dismukes,REP,10,2,0,0,0,0,8
+Saluda,Saluda No. 2,U.S. Senate,,Lindsey Graham,REP,142,68,0,0,0,1,73
+Saluda,Saluda No. 2,U.S. Senate,,Pat Herrmann,REP,6,1,0,0,0,0,5
+Saluda,Saluda No. 2,U.S. Senate,,Mark Lynch,REP,46,20,0,0,0,0,26
+Saluda,Saluda No. 2,U.S. Senate,,Darius L Mitchell,REP,5,1,0,0,0,0,4
+Saluda,Saluda No. 2,U.S. Senate,,Annie Andrews,DEM,54,28,0,0,0,0,26
+Saluda,Saluda No. 2,U.S. Senate,,Brandon P Brown,DEM,34,21,0,0,0,0,13
+Saluda,Saluda No. 2,U.S. Senate,,Kyle Freeman,DEM,14,11,0,0,0,0,3
+Saluda,Sardis,U.S. Senate,,Calvin Cowen,REP,16,4,0,0,0,1,11
+Saluda,Sardis,U.S. Senate,,Thomas Keith Dismukes,REP,22,4,0,0,0,0,18
+Saluda,Sardis,U.S. Senate,,Lindsey Graham,REP,194,53,0,0,0,0,141
+Saluda,Sardis,U.S. Senate,,Pat Herrmann,REP,9,0,0,0,0,0,9
+Saluda,Sardis,U.S. Senate,,Mark Lynch,REP,70,18,0,0,0,0,52
+Saluda,Sardis,U.S. Senate,,Darius L Mitchell,REP,14,2,0,0,0,0,12
+Saluda,Sardis,U.S. Senate,,Annie Andrews,DEM,14,8,0,0,0,0,6
+Saluda,Sardis,U.S. Senate,,Brandon P Brown,DEM,7,5,0,0,0,0,2
+Saluda,Sardis,U.S. Senate,,Kyle Freeman,DEM,4,2,0,0,0,0,2
+Saluda,Ward,U.S. Senate,,Calvin Cowen,REP,5,2,0,0,0,0,3
+Saluda,Ward,U.S. Senate,,Thomas Keith Dismukes,REP,3,2,0,0,0,0,1
+Saluda,Ward,U.S. Senate,,Lindsey Graham,REP,47,14,0,0,0,0,33
+Saluda,Ward,U.S. Senate,,Pat Herrmann,REP,6,0,0,0,0,0,6
+Saluda,Ward,U.S. Senate,,Mark Lynch,REP,23,6,0,0,0,0,17
+Saluda,Ward,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Saluda,Ward,U.S. Senate,,Annie Andrews,DEM,40,12,0,0,0,0,28
+Saluda,Ward,U.S. Senate,,Brandon P Brown,DEM,25,10,0,0,0,0,15
+Saluda,Ward,U.S. Senate,,Kyle Freeman,DEM,8,5,0,0,0,0,3

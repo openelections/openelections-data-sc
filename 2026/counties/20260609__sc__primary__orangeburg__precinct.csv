@@ -1,0 +1,2444 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Orangeburg,BETHEL,Advisory Question 1,,Yes,REP,32,6,0,0,0,0,26
+Orangeburg,BETHEL,Advisory Question 1,,No,REP,8,2,0,0,0,0,6
+Orangeburg,BOLENTOWN,Advisory Question 1,,Yes,REP,91,13,0,0,0,1,77
+Orangeburg,BOLENTOWN,Advisory Question 1,,No,REP,16,4,0,0,0,0,12
+Orangeburg,BOWMAN 1,Advisory Question 1,,Yes,REP,53,2,0,0,0,1,50
+Orangeburg,BOWMAN 1,Advisory Question 1,,No,REP,8,1,0,0,0,0,7
+Orangeburg,BOWMAN 2,Advisory Question 1,,Yes,REP,59,6,0,0,0,0,53
+Orangeburg,BOWMAN 2,Advisory Question 1,,No,REP,13,3,0,0,0,0,10
+Orangeburg,BRANCHVILLE 1,Advisory Question 1,,Yes,REP,71,4,0,0,0,0,67
+Orangeburg,BRANCHVILLE 1,Advisory Question 1,,No,REP,13,1,0,0,0,0,12
+Orangeburg,BRANCHVILLE 2,Advisory Question 1,,Yes,REP,43,3,0,0,0,0,40
+Orangeburg,BRANCHVILLE 2,Advisory Question 1,,No,REP,7,0,0,0,0,0,7
+Orangeburg,BROOKDALE,Advisory Question 1,,Yes,REP,5,2,0,0,0,0,3
+Orangeburg,BROOKDALE,Advisory Question 1,,No,REP,3,1,0,0,0,0,2
+Orangeburg,COPE,Advisory Question 1,,Yes,REP,81,7,0,0,0,1,73
+Orangeburg,COPE,Advisory Question 1,,No,REP,10,2,0,0,0,0,8
+Orangeburg,CORDOVA 1,Advisory Question 1,,Yes,REP,99,16,0,0,0,0,83
+Orangeburg,CORDOVA 1,Advisory Question 1,,No,REP,15,4,0,0,0,0,11
+Orangeburg,CORDOVA 2,Advisory Question 1,,Yes,REP,67,7,0,0,0,0,60
+Orangeburg,CORDOVA 2,Advisory Question 1,,No,REP,6,0,0,0,0,0,6
+Orangeburg,EDISTO,Advisory Question 1,,Yes,REP,117,13,0,0,0,5,99
+Orangeburg,EDISTO,Advisory Question 1,,No,REP,32,1,0,0,0,0,31
+Orangeburg,ELLOREE 1,Advisory Question 1,,Yes,REP,87,16,0,0,0,1,70
+Orangeburg,ELLOREE 1,Advisory Question 1,,No,REP,6,1,0,0,0,0,5
+Orangeburg,ELLOREE 2,Advisory Question 1,,Yes,REP,19,2,0,0,0,0,17
+Orangeburg,ELLOREE 2,Advisory Question 1,,No,REP,1,0,0,0,0,0,1
+Orangeburg,EUTAWVILLE 1,Advisory Question 1,,Yes,REP,134,31,0,0,0,0,103
+Orangeburg,EUTAWVILLE 1,Advisory Question 1,,No,REP,18,2,0,0,0,0,16
+Orangeburg,EUTAWVILLE 2,Advisory Question 1,,Yes,REP,50,7,0,0,0,0,43
+Orangeburg,EUTAWVILLE 2,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Orangeburg,FOUR HOLES,Advisory Question 1,,Yes,REP,79,7,0,0,0,0,72
+Orangeburg,FOUR HOLES,Advisory Question 1,,No,REP,12,1,0,0,0,0,11
+Orangeburg,Failsafe,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 1,Advisory Question 1,,Yes,REP,114,14,0,0,0,0,100
+Orangeburg,HOLLY HILL 1,Advisory Question 1,,No,REP,20,9,0,0,0,0,11
+Orangeburg,HOLLY HILL 2,Advisory Question 1,,Yes,REP,41,13,0,0,0,0,28
+Orangeburg,HOLLY HILL 2,Advisory Question 1,,No,REP,3,0,0,0,0,0,3
+Orangeburg,JAMISON,Advisory Question 1,,Yes,REP,69,19,0,0,0,2,48
+Orangeburg,JAMISON,Advisory Question 1,,No,REP,13,3,0,0,0,0,10
+Orangeburg,LIMESTONE 1,Advisory Question 1,,Yes,REP,53,21,0,0,0,2,30
+Orangeburg,LIMESTONE 1,Advisory Question 1,,No,REP,6,3,0,0,0,0,3
+Orangeburg,LIMESTONE 2,Advisory Question 1,,Yes,REP,61,24,0,0,0,0,37
+Orangeburg,LIMESTONE 2,Advisory Question 1,,No,REP,14,7,0,0,0,0,7
+Orangeburg,NEESES-LIVINGSTON,Advisory Question 1,,Yes,REP,118,24,0,0,0,1,93
+Orangeburg,NEESES-LIVINGSTON,Advisory Question 1,,No,REP,10,0,0,0,0,0,10
+Orangeburg,NIX,Advisory Question 1,,Yes,REP,4,2,0,0,0,0,2
+Orangeburg,NIX,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Orangeburg,NORTH 1,Advisory Question 1,,Yes,REP,81,29,0,0,0,0,52
+Orangeburg,NORTH 1,Advisory Question 1,,No,REP,9,2,0,0,0,0,7
+Orangeburg,NORTH 2,Advisory Question 1,,Yes,REP,132,36,0,0,0,1,95
+Orangeburg,NORTH 2,Advisory Question 1,,No,REP,23,5,0,0,0,0,18
+Orangeburg,NORWAY,Advisory Question 1,,Yes,REP,83,23,0,0,0,1,59
+Orangeburg,NORWAY,Advisory Question 1,,No,REP,14,6,0,0,0,1,7
+Orangeburg,ORANGEBURG WD 1,Advisory Question 1,,Yes,REP,37,7,0,0,0,0,30
+Orangeburg,ORANGEBURG WD 1,Advisory Question 1,,No,REP,4,3,0,0,0,1,0
+Orangeburg,ORANGEBURG WD 10,Advisory Question 1,,Yes,REP,44,22,0,0,0,0,22
+Orangeburg,ORANGEBURG WD 10,Advisory Question 1,,No,REP,4,1,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 2,Advisory Question 1,,Yes,REP,4,1,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 2,Advisory Question 1,,No,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 3,Advisory Question 1,,Yes,REP,2,2,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,Advisory Question 1,,Yes,REP,6,3,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 5,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 6,Advisory Question 1,,Yes,REP,21,5,0,0,0,0,16
+Orangeburg,ORANGEBURG WD 6,Advisory Question 1,,No,REP,7,2,0,0,0,0,5
+Orangeburg,ORANGEBURG WD 8,Advisory Question 1,,Yes,REP,52,10,0,0,0,0,42
+Orangeburg,ORANGEBURG WD 8,Advisory Question 1,,No,REP,5,1,0,0,0,0,4
+Orangeburg,ORANGEBURG WD 9,Advisory Question 1,,Yes,REP,12,5,0,0,0,0,7
+Orangeburg,ORANGEBURG WD 9,Advisory Question 1,,No,REP,1,0,0,0,0,0,1
+Orangeburg,ORNAGEBURG WD 7,Advisory Question 1,,Yes,REP,51,12,0,0,0,1,38
+Orangeburg,ORNAGEBURG WD 7,Advisory Question 1,,No,REP,9,2,0,0,0,0,7
+Orangeburg,PINE HILL,Advisory Question 1,,Yes,REP,68,18,0,0,0,2,48
+Orangeburg,PINE HILL,Advisory Question 1,,No,REP,6,0,0,0,0,0,6
+Orangeburg,PROVIDENCE,Advisory Question 1,,Yes,REP,85,8,0,0,0,0,77
+Orangeburg,PROVIDENCE,Advisory Question 1,,No,REP,10,0,0,0,0,0,10
+Orangeburg,Provisional,Advisory Question 1,,Yes,REP,1,0,0,1,0,0,0
+Orangeburg,Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Orangeburg,ROWESVILLE,Advisory Question 1,,Yes,REP,37,1,0,0,0,0,36
+Orangeburg,ROWESVILLE,Advisory Question 1,,No,REP,2,0,0,0,0,0,2
+Orangeburg,SANTEE 1,Advisory Question 1,,Yes,REP,226,52,0,0,0,2,172
+Orangeburg,SANTEE 1,Advisory Question 1,,No,REP,19,6,0,0,0,3,10
+Orangeburg,SANTEE 2,Advisory Question 1,,Yes,REP,14,3,0,0,0,0,11
+Orangeburg,SANTEE 2,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Orangeburg,SPRINGFIELD,Advisory Question 1,,Yes,REP,99,13,0,0,0,0,86
+Orangeburg,SPRINGFIELD,Advisory Question 1,,No,REP,18,6,0,0,0,0,12
+Orangeburg,SUBURBAN 1,Advisory Question 1,,Yes,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 1,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,Advisory Question 1,,Yes,REP,12,4,0,0,0,0,8
+Orangeburg,SUBURBAN 3,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 4,Advisory Question 1,,Yes,REP,6,1,0,0,0,0,5
+Orangeburg,SUBURBAN 4,Advisory Question 1,,No,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 5,Advisory Question 1,,Yes,REP,24,6,0,0,0,0,18
+Orangeburg,SUBURBAN 5,Advisory Question 1,,No,REP,2,0,0,0,0,0,2
+Orangeburg,SUBURBAN 6,Advisory Question 1,,Yes,REP,42,14,0,0,0,0,28
+Orangeburg,SUBURBAN 6,Advisory Question 1,,No,REP,8,3,0,0,0,0,5
+Orangeburg,SUBURBAN 7,Advisory Question 1,,Yes,REP,186,68,0,0,0,3,115
+Orangeburg,SUBURBAN 7,Advisory Question 1,,No,REP,27,10,0,0,0,0,17
+Orangeburg,SUBURBAN 8,Advisory Question 1,,Yes,REP,62,14,0,0,0,1,47
+Orangeburg,SUBURBAN 8,Advisory Question 1,,No,REP,14,6,0,0,0,0,8
+Orangeburg,SUBURBAN 9,Advisory Question 1,,Yes,REP,33,9,0,0,0,0,24
+Orangeburg,SUBURBAN 9,Advisory Question 1,,No,REP,6,2,0,0,0,0,4
+Orangeburg,VANCE,Advisory Question 1,,Yes,REP,76,21,0,0,0,1,54
+Orangeburg,VANCE,Advisory Question 1,,No,REP,11,4,0,0,0,0,7
+Orangeburg,WHITTAKER,Advisory Question 1,,Yes,REP,21,11,0,0,0,0,10
+Orangeburg,WHITTAKER,Advisory Question 1,,No,REP,2,0,0,0,0,0,2
+Orangeburg,BETHEL,Advisory Question 2,,Yes,REP,27,5,0,0,0,0,22
+Orangeburg,BETHEL,Advisory Question 2,,No,REP,14,3,0,0,0,0,11
+Orangeburg,BOLENTOWN,Advisory Question 2,,Yes,REP,85,13,0,0,0,1,71
+Orangeburg,BOLENTOWN,Advisory Question 2,,No,REP,22,4,0,0,0,0,18
+Orangeburg,BOWMAN 1,Advisory Question 2,,Yes,REP,49,2,0,0,0,1,46
+Orangeburg,BOWMAN 1,Advisory Question 2,,No,REP,11,1,0,0,0,0,10
+Orangeburg,BOWMAN 2,Advisory Question 2,,Yes,REP,52,7,0,0,0,0,45
+Orangeburg,BOWMAN 2,Advisory Question 2,,No,REP,20,2,0,0,0,0,18
+Orangeburg,BRANCHVILLE 1,Advisory Question 2,,Yes,REP,46,4,0,0,0,0,42
+Orangeburg,BRANCHVILLE 1,Advisory Question 2,,No,REP,38,1,0,0,0,0,37
+Orangeburg,BRANCHVILLE 2,Advisory Question 2,,Yes,REP,36,2,0,0,0,0,34
+Orangeburg,BRANCHVILLE 2,Advisory Question 2,,No,REP,14,1,0,0,0,0,13
+Orangeburg,BROOKDALE,Advisory Question 2,,Yes,REP,7,3,0,0,0,0,4
+Orangeburg,BROOKDALE,Advisory Question 2,,No,REP,1,0,0,0,0,0,1
+Orangeburg,COPE,Advisory Question 2,,Yes,REP,66,6,0,0,0,1,59
+Orangeburg,COPE,Advisory Question 2,,No,REP,25,3,0,0,0,0,22
+Orangeburg,CORDOVA 1,Advisory Question 2,,Yes,REP,81,15,0,0,0,0,66
+Orangeburg,CORDOVA 1,Advisory Question 2,,No,REP,33,5,0,0,0,0,28
+Orangeburg,CORDOVA 2,Advisory Question 2,,Yes,REP,58,6,0,0,0,0,52
+Orangeburg,CORDOVA 2,Advisory Question 2,,No,REP,15,1,0,0,0,0,14
+Orangeburg,EDISTO,Advisory Question 2,,Yes,REP,104,7,0,0,0,5,92
+Orangeburg,EDISTO,Advisory Question 2,,No,REP,45,7,0,0,0,0,38
+Orangeburg,ELLOREE 1,Advisory Question 2,,Yes,REP,69,16,0,0,0,1,52
+Orangeburg,ELLOREE 1,Advisory Question 2,,No,REP,25,1,0,0,0,0,24
+Orangeburg,ELLOREE 2,Advisory Question 2,,Yes,REP,13,1,0,0,0,0,12
+Orangeburg,ELLOREE 2,Advisory Question 2,,No,REP,7,1,0,0,0,0,6
+Orangeburg,EUTAWVILLE 1,Advisory Question 2,,Yes,REP,127,29,0,0,0,0,98
+Orangeburg,EUTAWVILLE 1,Advisory Question 2,,No,REP,23,4,0,0,0,0,19
+Orangeburg,EUTAWVILLE 2,Advisory Question 2,,Yes,REP,45,7,0,0,0,0,38
+Orangeburg,EUTAWVILLE 2,Advisory Question 2,,No,REP,6,0,0,0,0,0,6
+Orangeburg,FOUR HOLES,Advisory Question 2,,Yes,REP,67,5,0,0,0,0,62
+Orangeburg,FOUR HOLES,Advisory Question 2,,No,REP,23,3,0,0,0,0,20
+Orangeburg,Failsafe,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 1,Advisory Question 2,,Yes,REP,97,12,0,0,0,0,85
+Orangeburg,HOLLY HILL 1,Advisory Question 2,,No,REP,36,10,0,0,0,0,26
+Orangeburg,HOLLY HILL 2,Advisory Question 2,,Yes,REP,34,11,0,0,0,0,23
+Orangeburg,HOLLY HILL 2,Advisory Question 2,,No,REP,9,2,0,0,0,0,7
+Orangeburg,JAMISON,Advisory Question 2,,Yes,REP,62,14,0,0,0,2,46
+Orangeburg,JAMISON,Advisory Question 2,,No,REP,20,8,0,0,0,0,12
+Orangeburg,LIMESTONE 1,Advisory Question 2,,Yes,REP,45,20,0,0,0,2,23
+Orangeburg,LIMESTONE 1,Advisory Question 2,,No,REP,13,4,0,0,0,0,9
+Orangeburg,LIMESTONE 2,Advisory Question 2,,Yes,REP,58,22,0,0,0,0,36
+Orangeburg,LIMESTONE 2,Advisory Question 2,,No,REP,19,10,0,0,0,0,9
+Orangeburg,NEESES-LIVINGSTON,Advisory Question 2,,Yes,REP,94,18,0,0,0,1,75
+Orangeburg,NEESES-LIVINGSTON,Advisory Question 2,,No,REP,32,6,0,0,0,0,26
+Orangeburg,NIX,Advisory Question 2,,Yes,REP,4,2,0,0,0,0,2
+Orangeburg,NIX,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Orangeburg,NORTH 1,Advisory Question 2,,Yes,REP,72,27,0,0,0,0,45
+Orangeburg,NORTH 1,Advisory Question 2,,No,REP,18,4,0,0,0,0,14
+Orangeburg,NORTH 2,Advisory Question 2,,Yes,REP,122,32,0,0,0,0,90
+Orangeburg,NORTH 2,Advisory Question 2,,No,REP,33,9,0,0,0,1,23
+Orangeburg,NORWAY,Advisory Question 2,,Yes,REP,75,23,0,0,0,1,51
+Orangeburg,NORWAY,Advisory Question 2,,No,REP,21,6,0,0,0,1,14
+Orangeburg,ORANGEBURG WD 1,Advisory Question 2,,Yes,REP,32,5,0,0,0,1,26
+Orangeburg,ORANGEBURG WD 1,Advisory Question 2,,No,REP,9,5,0,0,0,0,4
+Orangeburg,ORANGEBURG WD 10,Advisory Question 2,,Yes,REP,41,20,0,0,0,0,21
+Orangeburg,ORANGEBURG WD 10,Advisory Question 2,,No,REP,6,2,0,0,0,0,4
+Orangeburg,ORANGEBURG WD 2,Advisory Question 2,,Yes,REP,4,1,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 2,Advisory Question 2,,No,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 3,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Advisory Question 2,,No,REP,2,2,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,Advisory Question 2,,Yes,REP,5,3,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 5,Advisory Question 2,,No,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 6,Advisory Question 2,,Yes,REP,15,4,0,0,0,0,11
+Orangeburg,ORANGEBURG WD 6,Advisory Question 2,,No,REP,14,4,0,0,0,0,10
+Orangeburg,ORANGEBURG WD 8,Advisory Question 2,,Yes,REP,46,9,0,0,0,0,37
+Orangeburg,ORANGEBURG WD 8,Advisory Question 2,,No,REP,12,2,0,0,0,0,10
+Orangeburg,ORANGEBURG WD 9,Advisory Question 2,,Yes,REP,9,4,0,0,0,0,5
+Orangeburg,ORANGEBURG WD 9,Advisory Question 2,,No,REP,4,1,0,0,0,0,3
+Orangeburg,ORNAGEBURG WD 7,Advisory Question 2,,Yes,REP,48,13,0,0,0,1,34
+Orangeburg,ORNAGEBURG WD 7,Advisory Question 2,,No,REP,14,2,0,0,0,0,12
+Orangeburg,PINE HILL,Advisory Question 2,,Yes,REP,57,16,0,0,0,2,39
+Orangeburg,PINE HILL,Advisory Question 2,,No,REP,16,2,0,0,0,0,14
+Orangeburg,PROVIDENCE,Advisory Question 2,,Yes,REP,69,8,0,0,0,0,61
+Orangeburg,PROVIDENCE,Advisory Question 2,,No,REP,26,0,0,0,0,0,26
+Orangeburg,Provisional,Advisory Question 2,,Yes,REP,1,0,0,1,0,0,0
+Orangeburg,Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Orangeburg,ROWESVILLE,Advisory Question 2,,Yes,REP,30,1,0,0,0,0,29
+Orangeburg,ROWESVILLE,Advisory Question 2,,No,REP,8,0,0,0,0,0,8
+Orangeburg,SANTEE 1,Advisory Question 2,,Yes,REP,189,49,0,0,0,1,139
+Orangeburg,SANTEE 1,Advisory Question 2,,No,REP,54,10,0,0,0,4,40
+Orangeburg,SANTEE 2,Advisory Question 2,,Yes,REP,11,3,0,0,0,0,8
+Orangeburg,SANTEE 2,Advisory Question 2,,No,REP,3,0,0,0,0,0,3
+Orangeburg,SPRINGFIELD,Advisory Question 2,,Yes,REP,90,13,0,0,0,0,77
+Orangeburg,SPRINGFIELD,Advisory Question 2,,No,REP,29,6,0,0,0,0,23
+Orangeburg,SUBURBAN 1,Advisory Question 2,,Yes,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 1,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,Advisory Question 2,,Yes,REP,9,4,0,0,0,0,5
+Orangeburg,SUBURBAN 3,Advisory Question 2,,No,REP,2,0,0,0,0,0,2
+Orangeburg,SUBURBAN 4,Advisory Question 2,,Yes,REP,5,0,0,0,0,0,5
+Orangeburg,SUBURBAN 4,Advisory Question 2,,No,REP,2,1,0,0,0,0,1
+Orangeburg,SUBURBAN 5,Advisory Question 2,,Yes,REP,21,5,0,0,0,0,16
+Orangeburg,SUBURBAN 5,Advisory Question 2,,No,REP,5,1,0,0,0,0,4
+Orangeburg,SUBURBAN 6,Advisory Question 2,,Yes,REP,38,15,0,0,0,0,23
+Orangeburg,SUBURBAN 6,Advisory Question 2,,No,REP,12,2,0,0,0,0,10
+Orangeburg,SUBURBAN 7,Advisory Question 2,,Yes,REP,157,55,0,0,0,2,100
+Orangeburg,SUBURBAN 7,Advisory Question 2,,No,REP,57,23,0,0,0,1,33
+Orangeburg,SUBURBAN 8,Advisory Question 2,,Yes,REP,54,11,0,0,0,1,42
+Orangeburg,SUBURBAN 8,Advisory Question 2,,No,REP,22,8,0,0,0,0,14
+Orangeburg,SUBURBAN 9,Advisory Question 2,,Yes,REP,24,7,0,0,0,0,17
+Orangeburg,SUBURBAN 9,Advisory Question 2,,No,REP,15,4,0,0,0,0,11
+Orangeburg,VANCE,Advisory Question 2,,Yes,REP,69,18,0,0,0,1,50
+Orangeburg,VANCE,Advisory Question 2,,No,REP,21,7,0,0,0,0,14
+Orangeburg,WHITTAKER,Advisory Question 2,,Yes,REP,19,10,0,0,0,0,9
+Orangeburg,WHITTAKER,Advisory Question 2,,No,REP,4,1,0,0,0,0,3
+Orangeburg,BETHEL,Attorney General,,Stephen Goldfinch,REP,16,3,0,0,0,0,13
+Orangeburg,BETHEL,Attorney General,,David M Pascoe,REP,24,6,0,0,0,0,18
+Orangeburg,BETHEL,Attorney General,,David Stumbo,REP,3,0,0,0,0,0,3
+Orangeburg,BOLENTOWN,Attorney General,,Stephen Goldfinch,REP,35,5,0,0,0,0,30
+Orangeburg,BOLENTOWN,Attorney General,,David M Pascoe,REP,48,8,0,0,0,0,40
+Orangeburg,BOLENTOWN,Attorney General,,David Stumbo,REP,23,4,0,0,0,1,18
+Orangeburg,BOWMAN 1,Attorney General,,Stephen Goldfinch,REP,22,1,0,0,0,0,21
+Orangeburg,BOWMAN 1,Attorney General,,David M Pascoe,REP,28,2,0,0,0,1,25
+Orangeburg,BOWMAN 1,Attorney General,,David Stumbo,REP,10,0,0,0,0,0,10
+Orangeburg,BOWMAN 2,Attorney General,,Stephen Goldfinch,REP,23,2,0,0,0,0,21
+Orangeburg,BOWMAN 2,Attorney General,,David M Pascoe,REP,30,4,0,0,0,0,26
+Orangeburg,BOWMAN 2,Attorney General,,David Stumbo,REP,14,2,0,0,0,0,12
+Orangeburg,BRANCHVILLE 1,Attorney General,,Stephen Goldfinch,REP,17,0,0,0,0,0,17
+Orangeburg,BRANCHVILLE 1,Attorney General,,David M Pascoe,REP,51,4,0,0,0,0,47
+Orangeburg,BRANCHVILLE 1,Attorney General,,David Stumbo,REP,16,1,0,0,0,0,15
+Orangeburg,BRANCHVILLE 2,Attorney General,,Stephen Goldfinch,REP,5,0,0,0,0,0,5
+Orangeburg,BRANCHVILLE 2,Attorney General,,David M Pascoe,REP,33,1,0,0,0,0,32
+Orangeburg,BRANCHVILLE 2,Attorney General,,David Stumbo,REP,9,2,0,0,0,0,7
+Orangeburg,BROOKDALE,Attorney General,,Stephen Goldfinch,REP,2,1,0,0,0,0,1
+Orangeburg,BROOKDALE,Attorney General,,David M Pascoe,REP,5,1,0,0,0,0,4
+Orangeburg,BROOKDALE,Attorney General,,David Stumbo,REP,1,1,0,0,0,0,0
+Orangeburg,COPE,Attorney General,,Stephen Goldfinch,REP,32,5,0,0,0,0,27
+Orangeburg,COPE,Attorney General,,David M Pascoe,REP,44,1,0,0,0,1,42
+Orangeburg,COPE,Attorney General,,David Stumbo,REP,13,3,0,0,0,0,10
+Orangeburg,CORDOVA 1,Attorney General,,Stephen Goldfinch,REP,40,2,0,0,0,0,38
+Orangeburg,CORDOVA 1,Attorney General,,David M Pascoe,REP,55,12,0,0,0,0,43
+Orangeburg,CORDOVA 1,Attorney General,,David Stumbo,REP,17,4,0,0,0,0,13
+Orangeburg,CORDOVA 2,Attorney General,,Stephen Goldfinch,REP,22,4,0,0,0,0,18
+Orangeburg,CORDOVA 2,Attorney General,,David M Pascoe,REP,38,2,0,0,0,0,36
+Orangeburg,CORDOVA 2,Attorney General,,David Stumbo,REP,13,1,0,0,0,0,12
+Orangeburg,EDISTO,Attorney General,,Stephen Goldfinch,REP,42,4,0,0,0,0,38
+Orangeburg,EDISTO,Attorney General,,David M Pascoe,REP,70,7,0,0,0,5,58
+Orangeburg,EDISTO,Attorney General,,David Stumbo,REP,33,3,0,0,0,0,30
+Orangeburg,ELLOREE 1,Attorney General,,Stephen Goldfinch,REP,23,7,0,0,0,0,16
+Orangeburg,ELLOREE 1,Attorney General,,David M Pascoe,REP,39,8,0,0,0,1,30
+Orangeburg,ELLOREE 1,Attorney General,,David Stumbo,REP,27,2,0,0,0,0,25
+Orangeburg,ELLOREE 2,Attorney General,,Stephen Goldfinch,REP,6,1,0,0,0,0,5
+Orangeburg,ELLOREE 2,Attorney General,,David M Pascoe,REP,11,1,0,0,0,0,10
+Orangeburg,ELLOREE 2,Attorney General,,David Stumbo,REP,5,0,0,0,0,0,5
+Orangeburg,EUTAWVILLE 1,Attorney General,,Stephen Goldfinch,REP,47,5,0,0,0,0,42
+Orangeburg,EUTAWVILLE 1,Attorney General,,David M Pascoe,REP,67,22,0,0,0,0,45
+Orangeburg,EUTAWVILLE 1,Attorney General,,David Stumbo,REP,34,6,0,0,0,0,28
+Orangeburg,EUTAWVILLE 2,Attorney General,,Stephen Goldfinch,REP,15,4,0,0,0,0,11
+Orangeburg,EUTAWVILLE 2,Attorney General,,David M Pascoe,REP,20,2,0,0,0,0,18
+Orangeburg,EUTAWVILLE 2,Attorney General,,David Stumbo,REP,13,1,0,0,0,0,12
+Orangeburg,FOUR HOLES,Attorney General,,Stephen Goldfinch,REP,27,0,0,0,0,0,27
+Orangeburg,FOUR HOLES,Attorney General,,David M Pascoe,REP,44,4,0,0,0,0,40
+Orangeburg,FOUR HOLES,Attorney General,,David Stumbo,REP,20,3,0,0,0,0,17
+Orangeburg,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 1,Attorney General,,Stephen Goldfinch,REP,49,5,0,0,0,0,44
+Orangeburg,HOLLY HILL 1,Attorney General,,David M Pascoe,REP,58,13,0,0,0,0,45
+Orangeburg,HOLLY HILL 1,Attorney General,,David Stumbo,REP,24,5,0,0,0,0,19
+Orangeburg,HOLLY HILL 2,Attorney General,,Stephen Goldfinch,REP,14,5,0,0,0,0,9
+Orangeburg,HOLLY HILL 2,Attorney General,,David M Pascoe,REP,19,6,0,0,0,0,13
+Orangeburg,HOLLY HILL 2,Attorney General,,David Stumbo,REP,9,3,0,0,0,0,6
+Orangeburg,JAMISON,Attorney General,,Stephen Goldfinch,REP,30,9,0,0,0,0,21
+Orangeburg,JAMISON,Attorney General,,David M Pascoe,REP,25,5,0,0,0,2,18
+Orangeburg,JAMISON,Attorney General,,David Stumbo,REP,25,8,0,0,0,0,17
+Orangeburg,LIMESTONE 1,Attorney General,,Stephen Goldfinch,REP,14,4,0,0,0,0,10
+Orangeburg,LIMESTONE 1,Attorney General,,David M Pascoe,REP,36,18,0,0,0,0,18
+Orangeburg,LIMESTONE 1,Attorney General,,David Stumbo,REP,10,3,0,0,0,0,7
+Orangeburg,LIMESTONE 2,Attorney General,,Stephen Goldfinch,REP,20,7,0,0,0,0,13
+Orangeburg,LIMESTONE 2,Attorney General,,David M Pascoe,REP,31,11,0,0,0,0,20
+Orangeburg,LIMESTONE 2,Attorney General,,David Stumbo,REP,23,11,0,0,0,0,12
+Orangeburg,NEESES-LIVINGSTON,Attorney General,,Stephen Goldfinch,REP,48,9,0,0,0,0,39
+Orangeburg,NEESES-LIVINGSTON,Attorney General,,David M Pascoe,REP,51,11,0,0,0,0,40
+Orangeburg,NEESES-LIVINGSTON,Attorney General,,David Stumbo,REP,23,4,0,0,0,1,18
+Orangeburg,NIX,Attorney General,,Stephen Goldfinch,REP,2,1,0,0,0,0,1
+Orangeburg,NIX,Attorney General,,David M Pascoe,REP,1,0,0,0,0,0,1
+Orangeburg,NIX,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Orangeburg,NORTH 1,Attorney General,,Stephen Goldfinch,REP,33,13,0,0,0,0,20
+Orangeburg,NORTH 1,Attorney General,,David M Pascoe,REP,42,15,0,0,0,0,27
+Orangeburg,NORTH 1,Attorney General,,David Stumbo,REP,12,2,0,0,0,0,10
+Orangeburg,NORTH 2,Attorney General,,Stephen Goldfinch,REP,58,15,0,0,0,0,43
+Orangeburg,NORTH 2,Attorney General,,David M Pascoe,REP,63,18,0,0,0,1,44
+Orangeburg,NORTH 2,Attorney General,,David Stumbo,REP,32,7,0,0,0,0,25
+Orangeburg,NORWAY,Attorney General,,Stephen Goldfinch,REP,29,9,0,0,0,0,20
+Orangeburg,NORWAY,Attorney General,,David M Pascoe,REP,36,14,0,0,0,2,20
+Orangeburg,NORWAY,Attorney General,,David Stumbo,REP,30,5,0,0,0,0,25
+Orangeburg,ORANGEBURG WD 1,Attorney General,,Stephen Goldfinch,REP,8,2,0,0,0,0,6
+Orangeburg,ORANGEBURG WD 1,Attorney General,,David M Pascoe,REP,15,5,0,0,0,1,9
+Orangeburg,ORANGEBURG WD 1,Attorney General,,David Stumbo,REP,17,3,0,0,0,0,14
+Orangeburg,ORANGEBURG WD 10,Attorney General,,Stephen Goldfinch,REP,14,6,0,0,0,0,8
+Orangeburg,ORANGEBURG WD 10,Attorney General,,David M Pascoe,REP,18,11,0,0,0,0,7
+Orangeburg,ORANGEBURG WD 10,Attorney General,,David Stumbo,REP,12,6,0,0,0,0,6
+Orangeburg,ORANGEBURG WD 2,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 2,Attorney General,,David M Pascoe,REP,3,1,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 2,Attorney General,,David Stumbo,REP,2,0,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 3,Attorney General,,Stephen Goldfinch,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Attorney General,,David Stumbo,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,Attorney General,,Stephen Goldfinch,REP,3,1,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 5,Attorney General,,David M Pascoe,REP,2,2,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,Attorney General,,David Stumbo,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 6,Attorney General,,Stephen Goldfinch,REP,5,3,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 6,Attorney General,,David M Pascoe,REP,16,5,0,0,0,0,11
+Orangeburg,ORANGEBURG WD 6,Attorney General,,David Stumbo,REP,8,0,0,0,0,0,8
+Orangeburg,ORANGEBURG WD 8,Attorney General,,Stephen Goldfinch,REP,11,0,0,0,0,0,11
+Orangeburg,ORANGEBURG WD 8,Attorney General,,David M Pascoe,REP,34,6,0,0,0,0,28
+Orangeburg,ORANGEBURG WD 8,Attorney General,,David Stumbo,REP,13,5,0,0,0,0,8
+Orangeburg,ORANGEBURG WD 9,Attorney General,,Stephen Goldfinch,REP,5,2,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 9,Attorney General,,David M Pascoe,REP,2,2,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 9,Attorney General,,David Stumbo,REP,5,1,0,0,0,0,4
+Orangeburg,ORNAGEBURG WD 7,Attorney General,,Stephen Goldfinch,REP,30,8,0,0,0,0,22
+Orangeburg,ORNAGEBURG WD 7,Attorney General,,David M Pascoe,REP,17,2,0,0,0,1,14
+Orangeburg,ORNAGEBURG WD 7,Attorney General,,David Stumbo,REP,14,6,0,0,0,0,8
+Orangeburg,PINE HILL,Attorney General,,Stephen Goldfinch,REP,19,3,0,0,0,0,16
+Orangeburg,PINE HILL,Attorney General,,David M Pascoe,REP,29,9,0,0,0,0,20
+Orangeburg,PINE HILL,Attorney General,,David Stumbo,REP,22,5,0,0,0,2,15
+Orangeburg,PROVIDENCE,Attorney General,,Stephen Goldfinch,REP,28,1,0,0,0,0,27
+Orangeburg,PROVIDENCE,Attorney General,,David M Pascoe,REP,45,4,0,0,0,0,41
+Orangeburg,PROVIDENCE,Attorney General,,David Stumbo,REP,18,2,0,0,0,0,16
+Orangeburg,Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,Attorney General,,David Stumbo,REP,1,0,0,1,0,0,0
+Orangeburg,ROWESVILLE,Attorney General,,Stephen Goldfinch,REP,8,0,0,0,0,0,8
+Orangeburg,ROWESVILLE,Attorney General,,David M Pascoe,REP,20,0,0,0,0,0,20
+Orangeburg,ROWESVILLE,Attorney General,,David Stumbo,REP,9,1,0,0,0,0,8
+Orangeburg,SANTEE 1,Attorney General,,Stephen Goldfinch,REP,69,18,0,0,0,0,51
+Orangeburg,SANTEE 1,Attorney General,,David M Pascoe,REP,109,27,0,0,0,3,79
+Orangeburg,SANTEE 1,Attorney General,,David Stumbo,REP,43,10,0,0,0,2,31
+Orangeburg,SANTEE 2,Attorney General,,Stephen Goldfinch,REP,1,0,0,0,0,0,1
+Orangeburg,SANTEE 2,Attorney General,,David M Pascoe,REP,8,3,0,0,0,0,5
+Orangeburg,SANTEE 2,Attorney General,,David Stumbo,REP,6,0,0,0,0,0,6
+Orangeburg,SPRINGFIELD,Attorney General,,Stephen Goldfinch,REP,43,14,0,0,0,0,29
+Orangeburg,SPRINGFIELD,Attorney General,,David M Pascoe,REP,45,5,0,0,0,0,40
+Orangeburg,SPRINGFIELD,Attorney General,,David Stumbo,REP,25,0,0,0,0,0,25
+Orangeburg,SUBURBAN 1,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,Attorney General,,David Stumbo,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 2,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,Attorney General,,Stephen Goldfinch,REP,3,1,0,0,0,0,2
+Orangeburg,SUBURBAN 3,Attorney General,,David M Pascoe,REP,6,2,0,0,0,0,4
+Orangeburg,SUBURBAN 3,Attorney General,,David Stumbo,REP,3,1,0,0,0,0,2
+Orangeburg,SUBURBAN 4,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 4,Attorney General,,David M Pascoe,REP,5,1,0,0,0,0,4
+Orangeburg,SUBURBAN 4,Attorney General,,David Stumbo,REP,2,0,0,0,0,0,2
+Orangeburg,SUBURBAN 5,Attorney General,,Stephen Goldfinch,REP,8,4,0,0,0,0,4
+Orangeburg,SUBURBAN 5,Attorney General,,David M Pascoe,REP,12,2,0,0,0,0,10
+Orangeburg,SUBURBAN 5,Attorney General,,David Stumbo,REP,6,0,0,0,0,0,6
+Orangeburg,SUBURBAN 6,Attorney General,,Stephen Goldfinch,REP,15,7,0,0,0,0,8
+Orangeburg,SUBURBAN 6,Attorney General,,David M Pascoe,REP,26,6,0,0,0,0,20
+Orangeburg,SUBURBAN 6,Attorney General,,David Stumbo,REP,6,3,0,0,0,0,3
+Orangeburg,SUBURBAN 7,Attorney General,,Stephen Goldfinch,REP,68,28,0,0,0,2,38
+Orangeburg,SUBURBAN 7,Attorney General,,David M Pascoe,REP,99,31,0,0,0,1,67
+Orangeburg,SUBURBAN 7,Attorney General,,David Stumbo,REP,43,16,0,0,0,0,27
+Orangeburg,SUBURBAN 8,Attorney General,,Stephen Goldfinch,REP,16,2,0,0,0,0,14
+Orangeburg,SUBURBAN 8,Attorney General,,David M Pascoe,REP,40,11,0,0,0,1,28
+Orangeburg,SUBURBAN 8,Attorney General,,David Stumbo,REP,18,6,0,0,0,0,12
+Orangeburg,SUBURBAN 9,Attorney General,,Stephen Goldfinch,REP,9,2,0,0,0,0,7
+Orangeburg,SUBURBAN 9,Attorney General,,David M Pascoe,REP,22,5,0,0,0,0,17
+Orangeburg,SUBURBAN 9,Attorney General,,David Stumbo,REP,7,3,0,0,0,0,4
+Orangeburg,VANCE,Attorney General,,Stephen Goldfinch,REP,22,6,0,0,0,0,16
+Orangeburg,VANCE,Attorney General,,David M Pascoe,REP,46,12,0,0,0,1,33
+Orangeburg,VANCE,Attorney General,,David Stumbo,REP,19,5,0,0,0,0,14
+Orangeburg,WHITTAKER,Attorney General,,Stephen Goldfinch,REP,4,1,0,0,0,0,3
+Orangeburg,WHITTAKER,Attorney General,,David M Pascoe,REP,13,7,0,0,0,0,6
+Orangeburg,WHITTAKER,Attorney General,,David Stumbo,REP,5,3,0,0,0,0,2
+Orangeburg,BETHEL,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,0,0,0,0,0,3
+Orangeburg,BETHEL,Commissioner of Agriculture,,Danny Ford,REP,8,3,0,0,0,0,5
+Orangeburg,BETHEL,Commissioner of Agriculture,,Cody Simpson,REP,23,5,0,0,0,0,18
+Orangeburg,BETHEL,Commissioner of Agriculture,,Fred West,REP,11,2,0,0,0,0,9
+Orangeburg,BOLENTOWN,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,0,0,0,0,0,11
+Orangeburg,BOLENTOWN,Commissioner of Agriculture,,Danny Ford,REP,46,5,0,0,0,1,40
+Orangeburg,BOLENTOWN,Commissioner of Agriculture,,Cody Simpson,REP,40,8,0,0,0,0,32
+Orangeburg,BOLENTOWN,Commissioner of Agriculture,,Fred West,REP,11,4,0,0,0,0,7
+Orangeburg,BOWMAN 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,1,0,0,0,0,10
+Orangeburg,BOWMAN 1,Commissioner of Agriculture,,Danny Ford,REP,17,0,0,0,0,0,17
+Orangeburg,BOWMAN 1,Commissioner of Agriculture,,Cody Simpson,REP,23,1,0,0,0,0,22
+Orangeburg,BOWMAN 1,Commissioner of Agriculture,,Fred West,REP,10,1,0,0,0,1,8
+Orangeburg,BOWMAN 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,1,0,0,0,0,6
+Orangeburg,BOWMAN 2,Commissioner of Agriculture,,Danny Ford,REP,16,0,0,0,0,0,16
+Orangeburg,BOWMAN 2,Commissioner of Agriculture,,Cody Simpson,REP,38,6,0,0,0,0,32
+Orangeburg,BOWMAN 2,Commissioner of Agriculture,,Fred West,REP,10,1,0,0,0,0,9
+Orangeburg,BRANCHVILLE 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,2,0,0,0,0,0,2
+Orangeburg,BRANCHVILLE 1,Commissioner of Agriculture,,Danny Ford,REP,28,2,0,0,0,0,26
+Orangeburg,BRANCHVILLE 1,Commissioner of Agriculture,,Cody Simpson,REP,40,1,0,0,0,0,39
+Orangeburg,BRANCHVILLE 1,Commissioner of Agriculture,,Fred West,REP,14,2,0,0,0,0,12
+Orangeburg,BRANCHVILLE 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,4,0,0,0,0,0,4
+Orangeburg,BRANCHVILLE 2,Commissioner of Agriculture,,Danny Ford,REP,21,0,0,0,0,0,21
+Orangeburg,BRANCHVILLE 2,Commissioner of Agriculture,,Cody Simpson,REP,15,3,0,0,0,0,12
+Orangeburg,BRANCHVILLE 2,Commissioner of Agriculture,,Fred West,REP,5,0,0,0,0,0,5
+Orangeburg,BROOKDALE,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Orangeburg,BROOKDALE,Commissioner of Agriculture,,Danny Ford,REP,5,2,0,0,0,0,3
+Orangeburg,BROOKDALE,Commissioner of Agriculture,,Cody Simpson,REP,1,1,0,0,0,0,0
+Orangeburg,BROOKDALE,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Orangeburg,COPE,Commissioner of Agriculture,,Jeremy B Cannon,REP,12,0,0,0,0,0,12
+Orangeburg,COPE,Commissioner of Agriculture,,Danny Ford,REP,44,4,0,0,0,0,40
+Orangeburg,COPE,Commissioner of Agriculture,,Cody Simpson,REP,26,4,0,0,0,0,22
+Orangeburg,COPE,Commissioner of Agriculture,,Fred West,REP,7,1,0,0,0,1,5
+Orangeburg,CORDOVA 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,8,0,0,0,0,0,8
+Orangeburg,CORDOVA 1,Commissioner of Agriculture,,Danny Ford,REP,51,7,0,0,0,0,44
+Orangeburg,CORDOVA 1,Commissioner of Agriculture,,Cody Simpson,REP,36,5,0,0,0,0,31
+Orangeburg,CORDOVA 1,Commissioner of Agriculture,,Fred West,REP,15,8,0,0,0,0,7
+Orangeburg,CORDOVA 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,2,0,0,0,0,9
+Orangeburg,CORDOVA 2,Commissioner of Agriculture,,Danny Ford,REP,36,2,0,0,0,0,34
+Orangeburg,CORDOVA 2,Commissioner of Agriculture,,Cody Simpson,REP,18,3,0,0,0,0,15
+Orangeburg,CORDOVA 2,Commissioner of Agriculture,,Fred West,REP,9,0,0,0,0,0,9
+Orangeburg,EDISTO,Commissioner of Agriculture,,Jeremy B Cannon,REP,17,1,0,0,0,0,16
+Orangeburg,EDISTO,Commissioner of Agriculture,,Danny Ford,REP,52,8,0,0,0,1,43
+Orangeburg,EDISTO,Commissioner of Agriculture,,Cody Simpson,REP,54,5,0,0,0,4,45
+Orangeburg,EDISTO,Commissioner of Agriculture,,Fred West,REP,20,0,0,0,0,0,20
+Orangeburg,ELLOREE 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,3,0,0,0,0,8
+Orangeburg,ELLOREE 1,Commissioner of Agriculture,,Danny Ford,REP,29,7,0,0,0,1,21
+Orangeburg,ELLOREE 1,Commissioner of Agriculture,,Cody Simpson,REP,38,4,0,0,0,0,34
+Orangeburg,ELLOREE 1,Commissioner of Agriculture,,Fred West,REP,12,2,0,0,0,0,10
+Orangeburg,ELLOREE 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,0,0,0,0,0,1
+Orangeburg,ELLOREE 2,Commissioner of Agriculture,,Danny Ford,REP,10,1,0,0,0,0,9
+Orangeburg,ELLOREE 2,Commissioner of Agriculture,,Cody Simpson,REP,6,0,0,0,0,0,6
+Orangeburg,ELLOREE 2,Commissioner of Agriculture,,Fred West,REP,3,1,0,0,0,0,2
+Orangeburg,EUTAWVILLE 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,14,2,0,0,0,0,12
+Orangeburg,EUTAWVILLE 1,Commissioner of Agriculture,,Danny Ford,REP,46,10,0,0,0,0,36
+Orangeburg,EUTAWVILLE 1,Commissioner of Agriculture,,Cody Simpson,REP,64,17,0,0,0,0,47
+Orangeburg,EUTAWVILLE 1,Commissioner of Agriculture,,Fred West,REP,21,3,0,0,0,0,18
+Orangeburg,EUTAWVILLE 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,1,0,0,0,0,6
+Orangeburg,EUTAWVILLE 2,Commissioner of Agriculture,,Danny Ford,REP,13,2,0,0,0,0,11
+Orangeburg,EUTAWVILLE 2,Commissioner of Agriculture,,Cody Simpson,REP,21,4,0,0,0,0,17
+Orangeburg,EUTAWVILLE 2,Commissioner of Agriculture,,Fred West,REP,6,0,0,0,0,0,6
+Orangeburg,FOUR HOLES,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,2,0,0,0,0,9
+Orangeburg,FOUR HOLES,Commissioner of Agriculture,,Danny Ford,REP,32,0,0,0,0,0,32
+Orangeburg,FOUR HOLES,Commissioner of Agriculture,,Cody Simpson,REP,32,4,0,0,0,0,28
+Orangeburg,FOUR HOLES,Commissioner of Agriculture,,Fred West,REP,17,1,0,0,0,0,16
+Orangeburg,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,12,2,0,0,0,0,10
+Orangeburg,HOLLY HILL 1,Commissioner of Agriculture,,Danny Ford,REP,36,8,0,0,0,0,28
+Orangeburg,HOLLY HILL 1,Commissioner of Agriculture,,Cody Simpson,REP,64,9,0,0,0,0,55
+Orangeburg,HOLLY HILL 1,Commissioner of Agriculture,,Fred West,REP,20,4,0,0,0,0,16
+Orangeburg,HOLLY HILL 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,1,0,0,0,0,12
+Orangeburg,HOLLY HILL 2,Commissioner of Agriculture,,Danny Ford,REP,10,4,0,0,0,0,6
+Orangeburg,HOLLY HILL 2,Commissioner of Agriculture,,Cody Simpson,REP,13,7,0,0,0,0,6
+Orangeburg,HOLLY HILL 2,Commissioner of Agriculture,,Fred West,REP,7,2,0,0,0,0,5
+Orangeburg,JAMISON,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,2,0,0,0,0,9
+Orangeburg,JAMISON,Commissioner of Agriculture,,Danny Ford,REP,20,2,0,0,0,0,18
+Orangeburg,JAMISON,Commissioner of Agriculture,,Cody Simpson,REP,32,11,0,0,0,2,19
+Orangeburg,JAMISON,Commissioner of Agriculture,,Fred West,REP,16,7,0,0,0,0,9
+Orangeburg,LIMESTONE 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,5,0,0,0,0,0,5
+Orangeburg,LIMESTONE 1,Commissioner of Agriculture,,Danny Ford,REP,29,13,0,0,0,0,16
+Orangeburg,LIMESTONE 1,Commissioner of Agriculture,,Cody Simpson,REP,23,11,0,0,0,0,12
+Orangeburg,LIMESTONE 1,Commissioner of Agriculture,,Fred West,REP,3,1,0,0,0,0,2
+Orangeburg,LIMESTONE 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,6,4,0,0,0,0,2
+Orangeburg,LIMESTONE 2,Commissioner of Agriculture,,Danny Ford,REP,26,8,0,0,0,0,18
+Orangeburg,LIMESTONE 2,Commissioner of Agriculture,,Cody Simpson,REP,28,12,0,0,0,0,16
+Orangeburg,LIMESTONE 2,Commissioner of Agriculture,,Fred West,REP,9,3,0,0,0,0,6
+Orangeburg,NEESES-LIVINGSTON,Commissioner of Agriculture,,Jeremy B Cannon,REP,21,3,0,0,0,0,18
+Orangeburg,NEESES-LIVINGSTON,Commissioner of Agriculture,,Danny Ford,REP,51,10,0,0,0,0,41
+Orangeburg,NEESES-LIVINGSTON,Commissioner of Agriculture,,Cody Simpson,REP,39,11,0,0,0,0,28
+Orangeburg,NEESES-LIVINGSTON,Commissioner of Agriculture,,Fred West,REP,10,0,0,0,0,1,9
+Orangeburg,NIX,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,0,0,0,0,0,1
+Orangeburg,NIX,Commissioner of Agriculture,,Danny Ford,REP,1,0,0,0,0,0,1
+Orangeburg,NIX,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Orangeburg,NIX,Commissioner of Agriculture,,Fred West,REP,1,1,0,0,0,0,0
+Orangeburg,NORTH 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,16,6,0,0,0,0,10
+Orangeburg,NORTH 1,Commissioner of Agriculture,,Danny Ford,REP,37,14,0,0,0,0,23
+Orangeburg,NORTH 1,Commissioner of Agriculture,,Cody Simpson,REP,28,7,0,0,0,0,21
+Orangeburg,NORTH 1,Commissioner of Agriculture,,Fred West,REP,6,3,0,0,0,0,3
+Orangeburg,NORTH 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,33,7,0,0,0,0,26
+Orangeburg,NORTH 2,Commissioner of Agriculture,,Danny Ford,REP,56,17,0,0,0,0,39
+Orangeburg,NORTH 2,Commissioner of Agriculture,,Cody Simpson,REP,46,12,0,0,0,1,33
+Orangeburg,NORTH 2,Commissioner of Agriculture,,Fred West,REP,19,4,0,0,0,0,15
+Orangeburg,NORWAY,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,5,0,0,0,0,4
+Orangeburg,NORWAY,Commissioner of Agriculture,,Danny Ford,REP,37,7,0,0,0,1,29
+Orangeburg,NORWAY,Commissioner of Agriculture,,Cody Simpson,REP,32,9,0,0,0,0,23
+Orangeburg,NORWAY,Commissioner of Agriculture,,Fred West,REP,14,5,0,0,0,1,8
+Orangeburg,ORANGEBURG WD 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,5,0,0,0,0,0,5
+Orangeburg,ORANGEBURG WD 1,Commissioner of Agriculture,,Danny Ford,REP,13,4,0,0,0,0,9
+Orangeburg,ORANGEBURG WD 1,Commissioner of Agriculture,,Cody Simpson,REP,13,3,0,0,0,0,10
+Orangeburg,ORANGEBURG WD 1,Commissioner of Agriculture,,Fred West,REP,8,2,0,0,0,1,5
+Orangeburg,ORANGEBURG WD 10,Commissioner of Agriculture,,Jeremy B Cannon,REP,6,3,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 10,Commissioner of Agriculture,,Danny Ford,REP,18,12,0,0,0,0,6
+Orangeburg,ORANGEBURG WD 10,Commissioner of Agriculture,,Cody Simpson,REP,8,4,0,0,0,0,4
+Orangeburg,ORANGEBURG WD 10,Commissioner of Agriculture,,Fred West,REP,11,4,0,0,0,0,7
+Orangeburg,ORANGEBURG WD 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 2,Commissioner of Agriculture,,Danny Ford,REP,2,0,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 2,Commissioner of Agriculture,,Cody Simpson,REP,3,1,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 2,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Commissioner of Agriculture,,Cody Simpson,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Commissioner of Agriculture,,Fred West,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 5,Commissioner of Agriculture,,Danny Ford,REP,2,0,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 5,Commissioner of Agriculture,,Cody Simpson,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,Commissioner of Agriculture,,Fred West,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 6,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,2,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 6,Commissioner of Agriculture,,Danny Ford,REP,7,1,0,0,0,0,6
+Orangeburg,ORANGEBURG WD 6,Commissioner of Agriculture,,Cody Simpson,REP,12,1,0,0,0,0,11
+Orangeburg,ORANGEBURG WD 6,Commissioner of Agriculture,,Fred West,REP,5,2,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 8,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,0,0,0,0,0,7
+Orangeburg,ORANGEBURG WD 8,Commissioner of Agriculture,,Danny Ford,REP,13,1,0,0,0,0,12
+Orangeburg,ORANGEBURG WD 8,Commissioner of Agriculture,,Cody Simpson,REP,20,5,0,0,0,0,15
+Orangeburg,ORANGEBURG WD 8,Commissioner of Agriculture,,Fred West,REP,16,5,0,0,0,0,11
+Orangeburg,ORANGEBURG WD 9,Commissioner of Agriculture,,Jeremy B Cannon,REP,5,0,0,0,0,0,5
+Orangeburg,ORANGEBURG WD 9,Commissioner of Agriculture,,Danny Ford,REP,5,4,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 9,Commissioner of Agriculture,,Cody Simpson,REP,3,1,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 9,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Orangeburg,ORNAGEBURG WD 7,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,1,0,0,0,1,1
+Orangeburg,ORNAGEBURG WD 7,Commissioner of Agriculture,,Danny Ford,REP,20,3,0,0,0,0,17
+Orangeburg,ORNAGEBURG WD 7,Commissioner of Agriculture,,Cody Simpson,REP,22,5,0,0,0,0,17
+Orangeburg,ORNAGEBURG WD 7,Commissioner of Agriculture,,Fred West,REP,15,6,0,0,0,0,9
+Orangeburg,PINE HILL,Commissioner of Agriculture,,Jeremy B Cannon,REP,4,2,0,0,0,0,2
+Orangeburg,PINE HILL,Commissioner of Agriculture,,Danny Ford,REP,28,6,0,0,0,1,21
+Orangeburg,PINE HILL,Commissioner of Agriculture,,Cody Simpson,REP,32,7,0,0,0,1,24
+Orangeburg,PINE HILL,Commissioner of Agriculture,,Fred West,REP,10,3,0,0,0,0,7
+Orangeburg,PROVIDENCE,Commissioner of Agriculture,,Jeremy B Cannon,REP,14,2,0,0,0,0,12
+Orangeburg,PROVIDENCE,Commissioner of Agriculture,,Danny Ford,REP,15,2,0,0,0,0,13
+Orangeburg,PROVIDENCE,Commissioner of Agriculture,,Cody Simpson,REP,58,3,0,0,0,0,55
+Orangeburg,PROVIDENCE,Commissioner of Agriculture,,Fred West,REP,7,1,0,0,0,0,6
+Orangeburg,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,0,0,1,0,0,0
+Orangeburg,Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Orangeburg,ROWESVILLE,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,0,0,0,0,0,1
+Orangeburg,ROWESVILLE,Commissioner of Agriculture,,Danny Ford,REP,13,1,0,0,0,0,12
+Orangeburg,ROWESVILLE,Commissioner of Agriculture,,Cody Simpson,REP,18,0,0,0,0,0,18
+Orangeburg,ROWESVILLE,Commissioner of Agriculture,,Fred West,REP,5,0,0,0,0,0,5
+Orangeburg,SANTEE 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,33,6,0,0,0,2,25
+Orangeburg,SANTEE 1,Commissioner of Agriculture,,Danny Ford,REP,82,22,0,0,0,0,60
+Orangeburg,SANTEE 1,Commissioner of Agriculture,,Cody Simpson,REP,76,21,0,0,0,1,54
+Orangeburg,SANTEE 1,Commissioner of Agriculture,,Fred West,REP,32,6,0,0,0,2,24
+Orangeburg,SANTEE 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,0,0,0,0,0,3
+Orangeburg,SANTEE 2,Commissioner of Agriculture,,Danny Ford,REP,1,0,0,0,0,0,1
+Orangeburg,SANTEE 2,Commissioner of Agriculture,,Cody Simpson,REP,11,3,0,0,0,0,8
+Orangeburg,SANTEE 2,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Orangeburg,SPRINGFIELD,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,0,0,0,0,0,13
+Orangeburg,SPRINGFIELD,Commissioner of Agriculture,,Danny Ford,REP,33,5,0,0,0,0,28
+Orangeburg,SPRINGFIELD,Commissioner of Agriculture,,Cody Simpson,REP,53,11,0,0,0,0,42
+Orangeburg,SPRINGFIELD,Commissioner of Agriculture,,Fred West,REP,16,4,0,0,0,0,12
+Orangeburg,SUBURBAN 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,Commissioner of Agriculture,,Danny Ford,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 1,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,Commissioner of Agriculture,,Jeremy B Cannon,REP,2,0,0,0,0,0,2
+Orangeburg,SUBURBAN 3,Commissioner of Agriculture,,Danny Ford,REP,4,0,0,0,0,0,4
+Orangeburg,SUBURBAN 3,Commissioner of Agriculture,,Cody Simpson,REP,3,3,0,0,0,0,0
+Orangeburg,SUBURBAN 3,Commissioner of Agriculture,,Fred West,REP,2,1,0,0,0,0,1
+Orangeburg,SUBURBAN 4,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 4,Commissioner of Agriculture,,Danny Ford,REP,5,1,0,0,0,0,4
+Orangeburg,SUBURBAN 4,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 4,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 5,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,0,0,0,0,0,3
+Orangeburg,SUBURBAN 5,Commissioner of Agriculture,,Danny Ford,REP,10,3,0,0,0,0,7
+Orangeburg,SUBURBAN 5,Commissioner of Agriculture,,Cody Simpson,REP,6,3,0,0,0,0,3
+Orangeburg,SUBURBAN 5,Commissioner of Agriculture,,Fred West,REP,6,0,0,0,0,0,6
+Orangeburg,SUBURBAN 6,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,1,0,0,0,0,8
+Orangeburg,SUBURBAN 6,Commissioner of Agriculture,,Danny Ford,REP,20,5,0,0,0,0,15
+Orangeburg,SUBURBAN 6,Commissioner of Agriculture,,Cody Simpson,REP,12,8,0,0,0,0,4
+Orangeburg,SUBURBAN 6,Commissioner of Agriculture,,Fred West,REP,6,2,0,0,0,0,4
+Orangeburg,SUBURBAN 7,Commissioner of Agriculture,,Jeremy B Cannon,REP,25,11,0,0,0,0,14
+Orangeburg,SUBURBAN 7,Commissioner of Agriculture,,Danny Ford,REP,71,28,0,0,0,2,41
+Orangeburg,SUBURBAN 7,Commissioner of Agriculture,,Cody Simpson,REP,63,19,0,0,0,1,43
+Orangeburg,SUBURBAN 7,Commissioner of Agriculture,,Fred West,REP,48,17,0,0,0,0,31
+Orangeburg,SUBURBAN 8,Commissioner of Agriculture,,Jeremy B Cannon,REP,5,1,0,0,0,0,4
+Orangeburg,SUBURBAN 8,Commissioner of Agriculture,,Danny Ford,REP,23,7,0,0,0,0,16
+Orangeburg,SUBURBAN 8,Commissioner of Agriculture,,Cody Simpson,REP,19,5,0,0,0,1,13
+Orangeburg,SUBURBAN 8,Commissioner of Agriculture,,Fred West,REP,17,3,0,0,0,0,14
+Orangeburg,SUBURBAN 9,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,0,0,0,0,0,3
+Orangeburg,SUBURBAN 9,Commissioner of Agriculture,,Danny Ford,REP,10,1,0,0,0,0,9
+Orangeburg,SUBURBAN 9,Commissioner of Agriculture,,Cody Simpson,REP,13,5,0,0,0,0,8
+Orangeburg,SUBURBAN 9,Commissioner of Agriculture,,Fred West,REP,11,3,0,0,0,0,8
+Orangeburg,VANCE,Commissioner of Agriculture,,Jeremy B Cannon,REP,15,4,0,0,0,0,11
+Orangeburg,VANCE,Commissioner of Agriculture,,Danny Ford,REP,33,12,0,0,0,0,21
+Orangeburg,VANCE,Commissioner of Agriculture,,Cody Simpson,REP,22,4,0,0,0,0,18
+Orangeburg,VANCE,Commissioner of Agriculture,,Fred West,REP,16,4,0,0,0,1,11
+Orangeburg,WHITTAKER,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,1,0,0,0,0,0
+Orangeburg,WHITTAKER,Commissioner of Agriculture,,Danny Ford,REP,10,4,0,0,0,0,6
+Orangeburg,WHITTAKER,Commissioner of Agriculture,,Cody Simpson,REP,8,4,0,0,0,0,4
+Orangeburg,WHITTAKER,Commissioner of Agriculture,,Fred West,REP,3,2,0,0,0,0,1
+Orangeburg,BETHEL,Comptroller General,,Tiffany Boozer,DEM,110,41,0,0,0,13,56
+Orangeburg,BETHEL,Comptroller General,,Bruce K Cole,DEM,38,18,0,0,0,0,20
+Orangeburg,BOLENTOWN,Comptroller General,,Tiffany Boozer,DEM,127,55,0,0,0,0,72
+Orangeburg,BOLENTOWN,Comptroller General,,Bruce K Cole,DEM,28,14,0,0,0,0,14
+Orangeburg,BOWMAN 1,Comptroller General,,Tiffany Boozer,DEM,228,68,0,0,0,43,117
+Orangeburg,BOWMAN 1,Comptroller General,,Bruce K Cole,DEM,85,17,0,0,0,20,48
+Orangeburg,BOWMAN 2,Comptroller General,,Tiffany Boozer,DEM,102,26,0,0,0,18,58
+Orangeburg,BOWMAN 2,Comptroller General,,Bruce K Cole,DEM,26,4,0,0,0,5,17
+Orangeburg,BRANCHVILLE 1,Comptroller General,,Tiffany Boozer,DEM,74,18,0,0,0,5,51
+Orangeburg,BRANCHVILLE 1,Comptroller General,,Bruce K Cole,DEM,32,15,0,0,0,3,14
+Orangeburg,BRANCHVILLE 2,Comptroller General,,Tiffany Boozer,DEM,30,10,0,0,0,0,20
+Orangeburg,BRANCHVILLE 2,Comptroller General,,Bruce K Cole,DEM,16,4,0,0,0,1,11
+Orangeburg,BROOKDALE,Comptroller General,,Tiffany Boozer,DEM,371,257,0,0,0,11,103
+Orangeburg,BROOKDALE,Comptroller General,,Bruce K Cole,DEM,147,105,0,0,0,8,34
+Orangeburg,COPE,Comptroller General,,Tiffany Boozer,DEM,54,25,0,0,0,1,28
+Orangeburg,COPE,Comptroller General,,Bruce K Cole,DEM,28,12,0,0,0,0,16
+Orangeburg,CORDOVA 1,Comptroller General,,Tiffany Boozer,DEM,133,77,0,0,0,1,55
+Orangeburg,CORDOVA 1,Comptroller General,,Bruce K Cole,DEM,37,25,0,0,0,0,12
+Orangeburg,CORDOVA 2,Comptroller General,,Tiffany Boozer,DEM,157,88,0,0,0,2,67
+Orangeburg,CORDOVA 2,Comptroller General,,Bruce K Cole,DEM,58,29,0,0,0,0,29
+Orangeburg,EDISTO,Comptroller General,,Tiffany Boozer,DEM,59,37,0,0,0,0,22
+Orangeburg,EDISTO,Comptroller General,,Bruce K Cole,DEM,31,18,0,0,0,0,13
+Orangeburg,ELLOREE 1,Comptroller General,,Tiffany Boozer,DEM,115,47,0,0,0,11,57
+Orangeburg,ELLOREE 1,Comptroller General,,Bruce K Cole,DEM,29,16,0,0,0,3,10
+Orangeburg,ELLOREE 2,Comptroller General,,Tiffany Boozer,DEM,144,64,0,0,0,20,60
+Orangeburg,ELLOREE 2,Comptroller General,,Bruce K Cole,DEM,21,14,0,0,0,2,5
+Orangeburg,EUTAWVILLE 1,Comptroller General,,Tiffany Boozer,DEM,103,67,0,0,0,2,34
+Orangeburg,EUTAWVILLE 1,Comptroller General,,Bruce K Cole,DEM,34,17,0,0,0,3,14
+Orangeburg,EUTAWVILLE 2,Comptroller General,,Tiffany Boozer,DEM,298,201,0,0,0,13,84
+Orangeburg,EUTAWVILLE 2,Comptroller General,,Bruce K Cole,DEM,72,54,0,0,0,0,18
+Orangeburg,FOUR HOLES,Comptroller General,,Tiffany Boozer,DEM,41,14,0,0,0,2,25
+Orangeburg,FOUR HOLES,Comptroller General,,Bruce K Cole,DEM,19,6,0,0,0,0,13
+Orangeburg,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 1,Comptroller General,,Tiffany Boozer,DEM,254,169,0,0,0,5,80
+Orangeburg,HOLLY HILL 1,Comptroller General,,Bruce K Cole,DEM,64,25,0,0,0,0,39
+Orangeburg,HOLLY HILL 2,Comptroller General,,Tiffany Boozer,DEM,278,145,0,0,0,18,115
+Orangeburg,HOLLY HILL 2,Comptroller General,,Bruce K Cole,DEM,70,29,0,0,0,4,37
+Orangeburg,JAMISON,Comptroller General,,Tiffany Boozer,DEM,330,204,0,0,0,6,120
+Orangeburg,JAMISON,Comptroller General,,Bruce K Cole,DEM,126,87,0,0,0,5,34
+Orangeburg,LIMESTONE 1,Comptroller General,,Tiffany Boozer,DEM,278,189,0,0,0,6,83
+Orangeburg,LIMESTONE 1,Comptroller General,,Bruce K Cole,DEM,94,66,0,0,0,0,28
+Orangeburg,LIMESTONE 2,Comptroller General,,Tiffany Boozer,DEM,307,211,0,0,0,4,92
+Orangeburg,LIMESTONE 2,Comptroller General,,Bruce K Cole,DEM,90,56,0,0,0,2,32
+Orangeburg,NEESES-LIVINGSTON,Comptroller General,,Tiffany Boozer,DEM,66,32,0,0,0,2,32
+Orangeburg,NEESES-LIVINGSTON,Comptroller General,,Bruce K Cole,DEM,31,19,0,0,0,2,10
+Orangeburg,NIX,Comptroller General,,Tiffany Boozer,DEM,195,108,0,0,0,4,83
+Orangeburg,NIX,Comptroller General,,Bruce K Cole,DEM,87,45,0,0,0,4,38
+Orangeburg,NORTH 1,Comptroller General,,Tiffany Boozer,DEM,167,91,0,0,0,18,58
+Orangeburg,NORTH 1,Comptroller General,,Bruce K Cole,DEM,49,33,0,0,0,1,15
+Orangeburg,NORTH 2,Comptroller General,,Tiffany Boozer,DEM,121,77,0,0,0,2,42
+Orangeburg,NORTH 2,Comptroller General,,Bruce K Cole,DEM,49,29,0,0,0,0,20
+Orangeburg,NORWAY,Comptroller General,,Tiffany Boozer,DEM,146,69,0,0,0,10,67
+Orangeburg,NORWAY,Comptroller General,,Bruce K Cole,DEM,68,31,0,0,0,2,35
+Orangeburg,ORANGEBURG WD 1,Comptroller General,,Tiffany Boozer,DEM,97,56,0,0,0,2,39
+Orangeburg,ORANGEBURG WD 1,Comptroller General,,Bruce K Cole,DEM,25,21,0,0,0,0,4
+Orangeburg,ORANGEBURG WD 10,Comptroller General,,Tiffany Boozer,DEM,176,105,0,0,0,4,67
+Orangeburg,ORANGEBURG WD 10,Comptroller General,,Bruce K Cole,DEM,73,40,0,0,0,1,32
+Orangeburg,ORANGEBURG WD 2,Comptroller General,,Tiffany Boozer,DEM,48,27,0,0,0,0,21
+Orangeburg,ORANGEBURG WD 2,Comptroller General,,Bruce K Cole,DEM,23,17,0,0,0,0,6
+Orangeburg,ORANGEBURG WD 3,Comptroller General,,Tiffany Boozer,DEM,128,71,0,0,0,2,55
+Orangeburg,ORANGEBURG WD 3,Comptroller General,,Bruce K Cole,DEM,52,28,0,0,0,0,24
+Orangeburg,ORANGEBURG WD 4,Comptroller General,,Tiffany Boozer,DEM,63,38,0,0,0,6,19
+Orangeburg,ORANGEBURG WD 4,Comptroller General,,Bruce K Cole,DEM,11,6,0,0,0,2,3
+Orangeburg,ORANGEBURG WD 5,Comptroller General,,Tiffany Boozer,DEM,92,49,0,0,0,6,37
+Orangeburg,ORANGEBURG WD 5,Comptroller General,,Bruce K Cole,DEM,20,10,0,0,0,1,9
+Orangeburg,ORANGEBURG WD 6,Comptroller General,,Tiffany Boozer,DEM,93,55,0,0,0,0,38
+Orangeburg,ORANGEBURG WD 6,Comptroller General,,Bruce K Cole,DEM,38,21,0,0,0,0,17
+Orangeburg,ORANGEBURG WD 8,Comptroller General,,Tiffany Boozer,DEM,118,81,0,0,0,5,32
+Orangeburg,ORANGEBURG WD 8,Comptroller General,,Bruce K Cole,DEM,26,17,0,0,0,1,8
+Orangeburg,ORANGEBURG WD 9,Comptroller General,,Tiffany Boozer,DEM,96,54,0,0,0,6,36
+Orangeburg,ORANGEBURG WD 9,Comptroller General,,Bruce K Cole,DEM,41,21,0,0,0,3,17
+Orangeburg,ORNAGEBURG WD 7,Comptroller General,,Tiffany Boozer,DEM,172,112,0,0,0,0,60
+Orangeburg,ORNAGEBURG WD 7,Comptroller General,,Bruce K Cole,DEM,61,32,0,0,0,4,25
+Orangeburg,PINE HILL,Comptroller General,,Tiffany Boozer,DEM,141,65,0,0,0,5,71
+Orangeburg,PINE HILL,Comptroller General,,Bruce K Cole,DEM,38,12,0,0,0,0,26
+Orangeburg,PROVIDENCE,Comptroller General,,Tiffany Boozer,DEM,189,100,0,0,0,18,71
+Orangeburg,PROVIDENCE,Comptroller General,,Bruce K Cole,DEM,41,21,0,0,0,1,19
+Orangeburg,Provisional,Comptroller General,,Tiffany Boozer,DEM,2,0,0,2,0,0,0
+Orangeburg,Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Orangeburg,ROWESVILLE,Comptroller General,,Tiffany Boozer,DEM,50,19,0,0,0,0,31
+Orangeburg,ROWESVILLE,Comptroller General,,Bruce K Cole,DEM,23,9,0,0,0,0,14
+Orangeburg,SANTEE 1,Comptroller General,,Tiffany Boozer,DEM,153,84,0,0,0,5,64
+Orangeburg,SANTEE 1,Comptroller General,,Bruce K Cole,DEM,50,25,0,0,0,2,23
+Orangeburg,SANTEE 2,Comptroller General,,Tiffany Boozer,DEM,260,115,0,0,0,32,113
+Orangeburg,SANTEE 2,Comptroller General,,Bruce K Cole,DEM,74,35,0,0,0,10,29
+Orangeburg,SPRINGFIELD,Comptroller General,,Tiffany Boozer,DEM,156,37,0,0,0,54,65
+Orangeburg,SPRINGFIELD,Comptroller General,,Bruce K Cole,DEM,58,7,0,0,0,35,16
+Orangeburg,SUBURBAN 1,Comptroller General,,Tiffany Boozer,DEM,85,51,0,0,0,5,29
+Orangeburg,SUBURBAN 1,Comptroller General,,Bruce K Cole,DEM,31,23,0,0,0,1,7
+Orangeburg,SUBURBAN 2,Comptroller General,,Tiffany Boozer,DEM,127,77,0,0,0,11,39
+Orangeburg,SUBURBAN 2,Comptroller General,,Bruce K Cole,DEM,38,27,0,0,0,1,10
+Orangeburg,SUBURBAN 3,Comptroller General,,Tiffany Boozer,DEM,285,160,0,0,0,4,121
+Orangeburg,SUBURBAN 3,Comptroller General,,Bruce K Cole,DEM,81,47,0,0,0,1,33
+Orangeburg,SUBURBAN 4,Comptroller General,,Tiffany Boozer,DEM,45,21,0,0,0,0,24
+Orangeburg,SUBURBAN 4,Comptroller General,,Bruce K Cole,DEM,13,7,0,0,0,0,6
+Orangeburg,SUBURBAN 5,Comptroller General,,Tiffany Boozer,DEM,212,135,0,0,0,4,73
+Orangeburg,SUBURBAN 5,Comptroller General,,Bruce K Cole,DEM,54,38,0,0,0,0,16
+Orangeburg,SUBURBAN 6,Comptroller General,,Tiffany Boozer,DEM,81,49,0,0,0,4,28
+Orangeburg,SUBURBAN 6,Comptroller General,,Bruce K Cole,DEM,17,8,0,0,0,3,6
+Orangeburg,SUBURBAN 7,Comptroller General,,Tiffany Boozer,DEM,344,255,0,0,0,3,86
+Orangeburg,SUBURBAN 7,Comptroller General,,Bruce K Cole,DEM,95,59,0,0,0,5,31
+Orangeburg,SUBURBAN 8,Comptroller General,,Tiffany Boozer,DEM,167,106,0,0,0,0,61
+Orangeburg,SUBURBAN 8,Comptroller General,,Bruce K Cole,DEM,43,36,0,0,0,1,6
+Orangeburg,SUBURBAN 9,Comptroller General,,Tiffany Boozer,DEM,236,144,0,0,0,8,84
+Orangeburg,SUBURBAN 9,Comptroller General,,Bruce K Cole,DEM,95,57,0,0,0,2,36
+Orangeburg,VANCE,Comptroller General,,Tiffany Boozer,DEM,299,215,0,0,0,1,83
+Orangeburg,VANCE,Comptroller General,,Bruce K Cole,DEM,78,59,0,0,0,6,13
+Orangeburg,WHITTAKER,Comptroller General,,Tiffany Boozer,DEM,200,135,0,0,0,10,55
+Orangeburg,WHITTAKER,Comptroller General,,Bruce K Cole,DEM,59,39,0,0,0,1,19
+Orangeburg,BETHEL,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,BETHEL,Governor,,Pamela Evette,REP,21,3,0,0,0,0,18
+Orangeburg,BETHEL,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Orangeburg,BETHEL,Governor,,Nancy Mace,REP,3,1,0,0,0,0,2
+Orangeburg,BETHEL,Governor,,Ralph W Norman,REP,6,0,0,0,0,0,6
+Orangeburg,BETHEL,Governor,,Rom Reddy,REP,2,0,0,0,0,0,2
+Orangeburg,BETHEL,Governor,,Alan Wilson,REP,13,6,0,0,0,0,7
+Orangeburg,BETHEL,Governor,,Jermaine Johnson,DEM,58,28,0,0,0,1,29
+Orangeburg,BETHEL,Governor,,Mullins McLeod,DEM,8,5,0,0,0,0,3
+Orangeburg,BETHEL,Governor,,Billy Webster,DEM,83,26,0,0,0,12,45
+Orangeburg,BOLENTOWN,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Orangeburg,BOLENTOWN,Governor,,Pamela Evette,REP,43,9,0,0,0,0,34
+Orangeburg,BOLENTOWN,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Orangeburg,BOLENTOWN,Governor,,Nancy Mace,REP,9,1,0,0,0,1,7
+Orangeburg,BOLENTOWN,Governor,,Ralph W Norman,REP,11,1,0,0,0,0,10
+Orangeburg,BOLENTOWN,Governor,,Rom Reddy,REP,15,3,0,0,0,0,12
+Orangeburg,BOLENTOWN,Governor,,Alan Wilson,REP,28,2,0,0,0,0,26
+Orangeburg,BOLENTOWN,Governor,,Jermaine Johnson,DEM,80,34,0,0,0,0,46
+Orangeburg,BOLENTOWN,Governor,,Mullins McLeod,DEM,12,6,0,0,0,0,6
+Orangeburg,BOLENTOWN,Governor,,Billy Webster,DEM,63,29,0,0,0,0,34
+Orangeburg,BOWMAN 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,BOWMAN 1,Governor,,Pamela Evette,REP,27,1,0,0,0,0,26
+Orangeburg,BOWMAN 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,BOWMAN 1,Governor,,Nancy Mace,REP,4,1,0,0,0,0,3
+Orangeburg,BOWMAN 1,Governor,,Ralph W Norman,REP,7,0,0,0,0,0,7
+Orangeburg,BOWMAN 1,Governor,,Rom Reddy,REP,6,0,0,0,0,0,6
+Orangeburg,BOWMAN 1,Governor,,Alan Wilson,REP,17,1,0,0,0,1,15
+Orangeburg,BOWMAN 1,Governor,,Jermaine Johnson,DEM,123,40,0,0,0,4,79
+Orangeburg,BOWMAN 1,Governor,,Mullins McLeod,DEM,13,7,0,0,0,0,6
+Orangeburg,BOWMAN 1,Governor,,Billy Webster,DEM,189,42,0,0,0,59,88
+Orangeburg,BOWMAN 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,BOWMAN 2,Governor,,Pamela Evette,REP,27,3,0,0,0,0,24
+Orangeburg,BOWMAN 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,BOWMAN 2,Governor,,Nancy Mace,REP,12,2,0,0,0,0,10
+Orangeburg,BOWMAN 2,Governor,,Ralph W Norman,REP,3,1,0,0,0,0,2
+Orangeburg,BOWMAN 2,Governor,,Rom Reddy,REP,8,0,0,0,0,0,8
+Orangeburg,BOWMAN 2,Governor,,Alan Wilson,REP,22,3,0,0,0,0,19
+Orangeburg,BOWMAN 2,Governor,,Jermaine Johnson,DEM,42,11,0,0,0,0,31
+Orangeburg,BOWMAN 2,Governor,,Mullins McLeod,DEM,4,1,0,0,0,2,1
+Orangeburg,BOWMAN 2,Governor,,Billy Webster,DEM,87,19,0,0,0,22,46
+Orangeburg,BRANCHVILLE 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,BRANCHVILLE 1,Governor,,Pamela Evette,REP,31,0,0,0,0,0,31
+Orangeburg,BRANCHVILLE 1,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Orangeburg,BRANCHVILLE 1,Governor,,Nancy Mace,REP,7,1,0,0,0,0,6
+Orangeburg,BRANCHVILLE 1,Governor,,Ralph W Norman,REP,5,1,0,0,0,0,4
+Orangeburg,BRANCHVILLE 1,Governor,,Rom Reddy,REP,16,0,0,0,0,0,16
+Orangeburg,BRANCHVILLE 1,Governor,,Alan Wilson,REP,25,3,0,0,0,0,22
+Orangeburg,BRANCHVILLE 1,Governor,,Jermaine Johnson,DEM,53,14,0,0,0,5,34
+Orangeburg,BRANCHVILLE 1,Governor,,Mullins McLeod,DEM,8,2,0,0,0,0,6
+Orangeburg,BRANCHVILLE 1,Governor,,Billy Webster,DEM,53,20,0,0,0,4,29
+Orangeburg,BRANCHVILLE 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,BRANCHVILLE 2,Governor,,Pamela Evette,REP,14,1,0,0,0,0,13
+Orangeburg,BRANCHVILLE 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,BRANCHVILLE 2,Governor,,Nancy Mace,REP,7,1,0,0,0,0,6
+Orangeburg,BRANCHVILLE 2,Governor,,Ralph W Norman,REP,2,0,0,0,0,0,2
+Orangeburg,BRANCHVILLE 2,Governor,,Rom Reddy,REP,8,0,0,0,0,0,8
+Orangeburg,BRANCHVILLE 2,Governor,,Alan Wilson,REP,19,1,0,0,0,0,18
+Orangeburg,BRANCHVILLE 2,Governor,,Jermaine Johnson,DEM,26,8,0,0,0,0,18
+Orangeburg,BRANCHVILLE 2,Governor,,Mullins McLeod,DEM,2,0,0,0,0,0,2
+Orangeburg,BRANCHVILLE 2,Governor,,Billy Webster,DEM,21,7,0,0,0,0,14
+Orangeburg,BROOKDALE,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,BROOKDALE,Governor,,Pamela Evette,REP,1,0,0,0,0,0,1
+Orangeburg,BROOKDALE,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Orangeburg,BROOKDALE,Governor,,Nancy Mace,REP,1,1,0,0,0,0,0
+Orangeburg,BROOKDALE,Governor,,Ralph W Norman,REP,1,0,0,0,0,0,1
+Orangeburg,BROOKDALE,Governor,,Rom Reddy,REP,3,1,0,0,0,0,2
+Orangeburg,BROOKDALE,Governor,,Alan Wilson,REP,1,0,0,0,0,0,1
+Orangeburg,BROOKDALE,Governor,,Jermaine Johnson,DEM,236,152,0,0,0,2,82
+Orangeburg,BROOKDALE,Governor,,Mullins McLeod,DEM,27,20,0,0,0,0,7
+Orangeburg,BROOKDALE,Governor,,Billy Webster,DEM,275,204,0,0,0,17,54
+Orangeburg,COPE,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Orangeburg,COPE,Governor,,Pamela Evette,REP,45,3,0,0,0,0,42
+Orangeburg,COPE,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,COPE,Governor,,Nancy Mace,REP,6,3,0,0,0,1,2
+Orangeburg,COPE,Governor,,Ralph W Norman,REP,3,0,0,0,0,0,3
+Orangeburg,COPE,Governor,,Rom Reddy,REP,13,1,0,0,0,0,12
+Orangeburg,COPE,Governor,,Alan Wilson,REP,23,2,0,0,0,0,21
+Orangeburg,COPE,Governor,,Jermaine Johnson,DEM,38,10,0,0,0,0,28
+Orangeburg,COPE,Governor,,Mullins McLeod,DEM,5,3,0,0,0,1,1
+Orangeburg,COPE,Governor,,Billy Webster,DEM,38,23,0,0,0,0,15
+Orangeburg,CORDOVA 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,CORDOVA 1,Governor,,Pamela Evette,REP,49,8,0,0,0,0,41
+Orangeburg,CORDOVA 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,CORDOVA 1,Governor,,Nancy Mace,REP,8,3,0,0,0,0,5
+Orangeburg,CORDOVA 1,Governor,,Ralph W Norman,REP,5,1,0,0,0,0,4
+Orangeburg,CORDOVA 1,Governor,,Rom Reddy,REP,17,2,0,0,0,0,15
+Orangeburg,CORDOVA 1,Governor,,Alan Wilson,REP,36,6,0,0,0,0,30
+Orangeburg,CORDOVA 1,Governor,,Jermaine Johnson,DEM,92,43,0,0,0,1,48
+Orangeburg,CORDOVA 1,Governor,,Mullins McLeod,DEM,13,10,0,0,0,0,3
+Orangeburg,CORDOVA 1,Governor,,Billy Webster,DEM,74,51,0,0,0,0,23
+Orangeburg,CORDOVA 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,CORDOVA 2,Governor,,Pamela Evette,REP,28,3,0,0,0,0,25
+Orangeburg,CORDOVA 2,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Orangeburg,CORDOVA 2,Governor,,Nancy Mace,REP,7,0,0,0,0,0,7
+Orangeburg,CORDOVA 2,Governor,,Ralph W Norman,REP,7,1,0,0,0,0,6
+Orangeburg,CORDOVA 2,Governor,,Rom Reddy,REP,12,1,0,0,0,0,11
+Orangeburg,CORDOVA 2,Governor,,Alan Wilson,REP,19,2,0,0,0,0,17
+Orangeburg,CORDOVA 2,Governor,,Jermaine Johnson,DEM,114,54,0,0,0,2,58
+Orangeburg,CORDOVA 2,Governor,,Mullins McLeod,DEM,9,8,0,0,0,0,1
+Orangeburg,CORDOVA 2,Governor,,Billy Webster,DEM,99,58,0,0,0,0,41
+Orangeburg,EDISTO,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Orangeburg,EDISTO,Governor,,Pamela Evette,REP,54,4,0,0,0,0,50
+Orangeburg,EDISTO,Governor,,Joshua Kimbrell,REP,3,1,0,0,0,0,2
+Orangeburg,EDISTO,Governor,,Nancy Mace,REP,14,0,0,0,0,1,13
+Orangeburg,EDISTO,Governor,,Ralph W Norman,REP,10,0,0,0,0,0,10
+Orangeburg,EDISTO,Governor,,Rom Reddy,REP,23,1,0,0,0,0,22
+Orangeburg,EDISTO,Governor,,Alan Wilson,REP,46,9,0,0,0,4,33
+Orangeburg,EDISTO,Governor,,Jermaine Johnson,DEM,39,20,0,0,0,0,19
+Orangeburg,EDISTO,Governor,,Mullins McLeod,DEM,9,4,0,0,0,0,5
+Orangeburg,EDISTO,Governor,,Billy Webster,DEM,44,33,0,0,0,0,11
+Orangeburg,ELLOREE 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,ELLOREE 1,Governor,,Pamela Evette,REP,39,9,0,0,0,1,29
+Orangeburg,ELLOREE 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,ELLOREE 1,Governor,,Nancy Mace,REP,16,1,0,0,0,0,15
+Orangeburg,ELLOREE 1,Governor,,Ralph W Norman,REP,7,2,0,0,0,0,5
+Orangeburg,ELLOREE 1,Governor,,Rom Reddy,REP,16,2,0,0,0,0,14
+Orangeburg,ELLOREE 1,Governor,,Alan Wilson,REP,18,3,0,0,0,0,15
+Orangeburg,ELLOREE 1,Governor,,Jermaine Johnson,DEM,57,26,0,0,0,6,25
+Orangeburg,ELLOREE 1,Governor,,Mullins McLeod,DEM,5,3,0,0,0,0,2
+Orangeburg,ELLOREE 1,Governor,,Billy Webster,DEM,87,35,0,0,0,9,43
+Orangeburg,ELLOREE 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,ELLOREE 2,Governor,,Pamela Evette,REP,13,2,0,0,0,0,11
+Orangeburg,ELLOREE 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,ELLOREE 2,Governor,,Nancy Mace,REP,2,0,0,0,0,0,2
+Orangeburg,ELLOREE 2,Governor,,Ralph W Norman,REP,3,0,0,0,0,0,3
+Orangeburg,ELLOREE 2,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Orangeburg,ELLOREE 2,Governor,,Alan Wilson,REP,3,0,0,0,0,0,3
+Orangeburg,ELLOREE 2,Governor,,Jermaine Johnson,DEM,62,42,0,0,0,8,12
+Orangeburg,ELLOREE 2,Governor,,Mullins McLeod,DEM,4,2,0,0,0,0,2
+Orangeburg,ELLOREE 2,Governor,,Billy Webster,DEM,102,37,0,0,0,14,51
+Orangeburg,EUTAWVILLE 1,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Orangeburg,EUTAWVILLE 1,Governor,,Pamela Evette,REP,65,13,0,0,0,0,52
+Orangeburg,EUTAWVILLE 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,EUTAWVILLE 1,Governor,,Nancy Mace,REP,18,4,0,0,0,0,14
+Orangeburg,EUTAWVILLE 1,Governor,,Ralph W Norman,REP,14,4,0,0,0,0,10
+Orangeburg,EUTAWVILLE 1,Governor,,Rom Reddy,REP,16,4,0,0,0,0,12
+Orangeburg,EUTAWVILLE 1,Governor,,Alan Wilson,REP,38,8,0,0,0,0,30
+Orangeburg,EUTAWVILLE 1,Governor,,Jermaine Johnson,DEM,39,23,0,0,0,1,15
+Orangeburg,EUTAWVILLE 1,Governor,,Mullins McLeod,DEM,3,2,0,0,0,0,1
+Orangeburg,EUTAWVILLE 1,Governor,,Billy Webster,DEM,104,66,0,0,0,5,33
+Orangeburg,EUTAWVILLE 2,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Orangeburg,EUTAWVILLE 2,Governor,,Pamela Evette,REP,21,4,0,0,0,0,17
+Orangeburg,EUTAWVILLE 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,EUTAWVILLE 2,Governor,,Nancy Mace,REP,5,0,0,0,0,0,5
+Orangeburg,EUTAWVILLE 2,Governor,,Ralph W Norman,REP,6,0,0,0,0,0,6
+Orangeburg,EUTAWVILLE 2,Governor,,Rom Reddy,REP,9,2,0,0,0,0,7
+Orangeburg,EUTAWVILLE 2,Governor,,Alan Wilson,REP,10,1,0,0,0,0,9
+Orangeburg,EUTAWVILLE 2,Governor,,Jermaine Johnson,DEM,156,103,0,0,0,1,52
+Orangeburg,EUTAWVILLE 2,Governor,,Mullins McLeod,DEM,16,13,0,0,0,0,3
+Orangeburg,EUTAWVILLE 2,Governor,,Billy Webster,DEM,202,143,0,0,0,11,48
+Orangeburg,FOUR HOLES,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,FOUR HOLES,Governor,,Pamela Evette,REP,32,3,0,0,0,0,29
+Orangeburg,FOUR HOLES,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,FOUR HOLES,Governor,,Nancy Mace,REP,12,2,0,0,0,0,10
+Orangeburg,FOUR HOLES,Governor,,Ralph W Norman,REP,8,2,0,0,0,0,6
+Orangeburg,FOUR HOLES,Governor,,Rom Reddy,REP,7,1,0,0,0,0,6
+Orangeburg,FOUR HOLES,Governor,,Alan Wilson,REP,35,0,0,0,0,0,35
+Orangeburg,FOUR HOLES,Governor,,Jermaine Johnson,DEM,29,12,0,0,0,0,17
+Orangeburg,FOUR HOLES,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Orangeburg,FOUR HOLES,Governor,,Billy Webster,DEM,34,9,0,0,0,2,23
+Orangeburg,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 1,Governor,,Pamela Evette,REP,45,4,0,0,0,0,41
+Orangeburg,HOLLY HILL 1,Governor,,Joshua Kimbrell,REP,4,3,0,0,0,0,1
+Orangeburg,HOLLY HILL 1,Governor,,Nancy Mace,REP,19,1,0,0,0,0,18
+Orangeburg,HOLLY HILL 1,Governor,,Ralph W Norman,REP,15,4,0,0,0,0,11
+Orangeburg,HOLLY HILL 1,Governor,,Rom Reddy,REP,17,1,0,0,0,0,16
+Orangeburg,HOLLY HILL 1,Governor,,Alan Wilson,REP,34,10,0,0,0,0,24
+Orangeburg,HOLLY HILL 1,Governor,,Jermaine Johnson,DEM,116,61,0,0,0,0,55
+Orangeburg,HOLLY HILL 1,Governor,,Mullins McLeod,DEM,13,5,0,0,0,0,8
+Orangeburg,HOLLY HILL 1,Governor,,Billy Webster,DEM,202,132,0,0,0,5,65
+Orangeburg,HOLLY HILL 2,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Orangeburg,HOLLY HILL 2,Governor,,Pamela Evette,REP,17,5,0,0,0,0,12
+Orangeburg,HOLLY HILL 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 2,Governor,,Nancy Mace,REP,10,4,0,0,0,0,6
+Orangeburg,HOLLY HILL 2,Governor,,Ralph W Norman,REP,2,0,0,0,0,0,2
+Orangeburg,HOLLY HILL 2,Governor,,Rom Reddy,REP,5,3,0,0,0,0,2
+Orangeburg,HOLLY HILL 2,Governor,,Alan Wilson,REP,9,2,0,0,0,0,7
+Orangeburg,HOLLY HILL 2,Governor,,Jermaine Johnson,DEM,146,58,0,0,0,6,82
+Orangeburg,HOLLY HILL 2,Governor,,Mullins McLeod,DEM,20,9,0,0,0,0,11
+Orangeburg,HOLLY HILL 2,Governor,,Billy Webster,DEM,200,116,0,0,0,16,68
+Orangeburg,JAMISON,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,JAMISON,Governor,,Pamela Evette,REP,35,5,0,0,0,0,30
+Orangeburg,JAMISON,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Orangeburg,JAMISON,Governor,,Nancy Mace,REP,2,1,0,0,0,0,1
+Orangeburg,JAMISON,Governor,,Ralph W Norman,REP,7,4,0,0,0,0,3
+Orangeburg,JAMISON,Governor,,Rom Reddy,REP,9,5,0,0,0,0,4
+Orangeburg,JAMISON,Governor,,Alan Wilson,REP,29,8,0,0,0,2,19
+Orangeburg,JAMISON,Governor,,Jermaine Johnson,DEM,220,118,0,0,0,7,95
+Orangeburg,JAMISON,Governor,,Mullins McLeod,DEM,33,20,0,0,0,0,13
+Orangeburg,JAMISON,Governor,,Billy Webster,DEM,212,161,0,0,0,4,47
+Orangeburg,LIMESTONE 1,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Orangeburg,LIMESTONE 1,Governor,,Pamela Evette,REP,13,8,0,0,0,0,5
+Orangeburg,LIMESTONE 1,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Orangeburg,LIMESTONE 1,Governor,,Nancy Mace,REP,5,0,0,0,0,0,5
+Orangeburg,LIMESTONE 1,Governor,,Ralph W Norman,REP,17,8,0,0,0,0,9
+Orangeburg,LIMESTONE 1,Governor,,Rom Reddy,REP,7,2,0,0,0,2,3
+Orangeburg,LIMESTONE 1,Governor,,Alan Wilson,REP,16,7,0,0,0,0,9
+Orangeburg,LIMESTONE 1,Governor,,Jermaine Johnson,DEM,206,127,0,0,0,3,76
+Orangeburg,LIMESTONE 1,Governor,,Mullins McLeod,DEM,21,19,0,0,0,0,2
+Orangeburg,LIMESTONE 1,Governor,,Billy Webster,DEM,153,113,0,0,0,3,37
+Orangeburg,LIMESTONE 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,LIMESTONE 2,Governor,,Pamela Evette,REP,17,8,0,0,0,0,9
+Orangeburg,LIMESTONE 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,LIMESTONE 2,Governor,,Nancy Mace,REP,4,0,0,0,0,0,4
+Orangeburg,LIMESTONE 2,Governor,,Ralph W Norman,REP,13,5,0,0,0,0,8
+Orangeburg,LIMESTONE 2,Governor,,Rom Reddy,REP,11,4,0,0,0,0,7
+Orangeburg,LIMESTONE 2,Governor,,Alan Wilson,REP,34,15,0,0,0,0,19
+Orangeburg,LIMESTONE 2,Governor,,Jermaine Johnson,DEM,236,146,0,0,0,1,89
+Orangeburg,LIMESTONE 2,Governor,,Mullins McLeod,DEM,22,14,0,0,0,0,8
+Orangeburg,LIMESTONE 2,Governor,,Billy Webster,DEM,153,117,0,0,0,5,31
+Orangeburg,NEESES-LIVINGSTON,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Orangeburg,NEESES-LIVINGSTON,Governor,,Pamela Evette,REP,56,7,0,0,0,0,49
+Orangeburg,NEESES-LIVINGSTON,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,NEESES-LIVINGSTON,Governor,,Nancy Mace,REP,10,4,0,0,0,0,6
+Orangeburg,NEESES-LIVINGSTON,Governor,,Ralph W Norman,REP,6,2,0,0,0,0,4
+Orangeburg,NEESES-LIVINGSTON,Governor,,Rom Reddy,REP,18,3,0,0,0,0,15
+Orangeburg,NEESES-LIVINGSTON,Governor,,Alan Wilson,REP,37,8,0,0,0,1,28
+Orangeburg,NEESES-LIVINGSTON,Governor,,Jermaine Johnson,DEM,42,12,0,0,0,1,29
+Orangeburg,NEESES-LIVINGSTON,Governor,,Mullins McLeod,DEM,5,2,0,0,0,1,2
+Orangeburg,NEESES-LIVINGSTON,Governor,,Billy Webster,DEM,51,38,0,0,0,2,11
+Orangeburg,NIX,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,NIX,Governor,,Pamela Evette,REP,1,1,0,0,0,0,0
+Orangeburg,NIX,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,NIX,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Orangeburg,NIX,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Orangeburg,NIX,Governor,,Rom Reddy,REP,2,1,0,0,0,0,1
+Orangeburg,NIX,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Orangeburg,NIX,Governor,,Jermaine Johnson,DEM,144,78,0,0,0,4,62
+Orangeburg,NIX,Governor,,Mullins McLeod,DEM,19,6,0,0,0,1,12
+Orangeburg,NIX,Governor,,Billy Webster,DEM,128,75,0,0,0,3,50
+Orangeburg,NORTH 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,NORTH 1,Governor,,Pamela Evette,REP,28,7,0,0,0,0,21
+Orangeburg,NORTH 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,NORTH 1,Governor,,Nancy Mace,REP,10,3,0,0,0,0,7
+Orangeburg,NORTH 1,Governor,,Ralph W Norman,REP,11,4,0,0,0,0,7
+Orangeburg,NORTH 1,Governor,,Rom Reddy,REP,9,4,0,0,0,0,5
+Orangeburg,NORTH 1,Governor,,Alan Wilson,REP,33,13,0,0,0,0,20
+Orangeburg,NORTH 1,Governor,,Jermaine Johnson,DEM,115,65,0,0,0,4,46
+Orangeburg,NORTH 1,Governor,,Mullins McLeod,DEM,12,6,0,0,0,0,6
+Orangeburg,NORTH 1,Governor,,Billy Webster,DEM,96,59,0,0,0,14,23
+Orangeburg,NORTH 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,NORTH 2,Governor,,Pamela Evette,REP,40,11,0,0,0,1,28
+Orangeburg,NORTH 2,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Orangeburg,NORTH 2,Governor,,Nancy Mace,REP,13,0,0,0,0,0,13
+Orangeburg,NORTH 2,Governor,,Ralph W Norman,REP,19,8,0,0,0,0,11
+Orangeburg,NORTH 2,Governor,,Rom Reddy,REP,30,5,0,0,0,0,25
+Orangeburg,NORTH 2,Governor,,Alan Wilson,REP,53,16,0,0,0,0,37
+Orangeburg,NORTH 2,Governor,,Jermaine Johnson,DEM,86,49,0,0,0,2,35
+Orangeburg,NORTH 2,Governor,,Mullins McLeod,DEM,14,6,0,0,0,0,8
+Orangeburg,NORTH 2,Governor,,Billy Webster,DEM,78,58,0,0,0,0,20
+Orangeburg,NORWAY,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,NORWAY,Governor,,Pamela Evette,REP,27,7,0,0,0,1,19
+Orangeburg,NORWAY,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,NORWAY,Governor,,Nancy Mace,REP,8,6,0,0,0,0,2
+Orangeburg,NORWAY,Governor,,Ralph W Norman,REP,12,2,0,0,0,0,10
+Orangeburg,NORWAY,Governor,,Rom Reddy,REP,14,4,0,0,0,0,10
+Orangeburg,NORWAY,Governor,,Alan Wilson,REP,36,10,0,0,0,1,25
+Orangeburg,NORWAY,Governor,,Jermaine Johnson,DEM,107,46,0,0,0,1,60
+Orangeburg,NORWAY,Governor,,Mullins McLeod,DEM,11,6,0,0,0,0,5
+Orangeburg,NORWAY,Governor,,Billy Webster,DEM,107,57,0,0,0,11,39
+Orangeburg,ORANGEBURG WD 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,Governor,,Pamela Evette,REP,20,4,0,0,0,0,16
+Orangeburg,ORANGEBURG WD 1,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 1,Governor,,Nancy Mace,REP,5,1,0,0,0,0,4
+Orangeburg,ORANGEBURG WD 1,Governor,,Ralph W Norman,REP,4,1,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 1,Governor,,Rom Reddy,REP,3,1,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 1,Governor,,Alan Wilson,REP,7,3,0,0,0,1,3
+Orangeburg,ORANGEBURG WD 1,Governor,,Jermaine Johnson,DEM,72,48,0,0,0,0,24
+Orangeburg,ORANGEBURG WD 1,Governor,,Mullins McLeod,DEM,8,6,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 1,Governor,,Billy Webster,DEM,46,27,0,0,0,2,17
+Orangeburg,ORANGEBURG WD 10,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 10,Governor,,Pamela Evette,REP,17,6,0,0,0,0,11
+Orangeburg,ORANGEBURG WD 10,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 10,Governor,,Nancy Mace,REP,4,0,0,0,0,0,4
+Orangeburg,ORANGEBURG WD 10,Governor,,Ralph W Norman,REP,5,3,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 10,Governor,,Rom Reddy,REP,6,3,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 10,Governor,,Alan Wilson,REP,16,11,0,0,0,0,5
+Orangeburg,ORANGEBURG WD 10,Governor,,Jermaine Johnson,DEM,117,64,0,0,0,4,49
+Orangeburg,ORANGEBURG WD 10,Governor,,Mullins McLeod,DEM,16,8,0,0,0,0,8
+Orangeburg,ORANGEBURG WD 10,Governor,,Billy Webster,DEM,121,75,0,0,0,2,44
+Orangeburg,ORANGEBURG WD 2,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 2,Governor,,Pamela Evette,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 2,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 2,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 2,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 2,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 2,Governor,,Jermaine Johnson,DEM,39,22,0,0,0,0,17
+Orangeburg,ORANGEBURG WD 2,Governor,,Mullins McLeod,DEM,9,6,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 2,Governor,,Billy Webster,DEM,28,19,0,0,0,0,9
+Orangeburg,ORANGEBURG WD 3,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Governor,,Nancy Mace,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Governor,,Rom Reddy,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,Governor,,Jermaine Johnson,DEM,99,47,0,0,0,1,51
+Orangeburg,ORANGEBURG WD 3,Governor,,Mullins McLeod,DEM,17,9,0,0,0,0,8
+Orangeburg,ORANGEBURG WD 3,Governor,,Billy Webster,DEM,70,46,0,0,0,1,23
+Orangeburg,ORANGEBURG WD 4,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,Governor,,Jermaine Johnson,DEM,41,26,0,0,0,0,15
+Orangeburg,ORANGEBURG WD 4,Governor,,Mullins McLeod,DEM,3,2,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 4,Governor,,Billy Webster,DEM,31,16,0,0,0,8,7
+Orangeburg,ORANGEBURG WD 5,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,Governor,,Pamela Evette,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 5,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,Governor,,Nancy Mace,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,Governor,,Rom Reddy,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,Governor,,Alan Wilson,REP,3,1,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 5,Governor,,Jermaine Johnson,DEM,59,34,0,0,0,1,24
+Orangeburg,ORANGEBURG WD 5,Governor,,Mullins McLeod,DEM,7,3,0,0,0,0,4
+Orangeburg,ORANGEBURG WD 5,Governor,,Billy Webster,DEM,47,22,0,0,0,6,19
+Orangeburg,ORANGEBURG WD 6,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 6,Governor,,Pamela Evette,REP,8,2,0,0,0,0,6
+Orangeburg,ORANGEBURG WD 6,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 6,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 6,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 6,Governor,,Rom Reddy,REP,7,2,0,0,0,0,5
+Orangeburg,ORANGEBURG WD 6,Governor,,Alan Wilson,REP,14,4,0,0,0,0,10
+Orangeburg,ORANGEBURG WD 6,Governor,,Jermaine Johnson,DEM,65,32,0,0,0,0,33
+Orangeburg,ORANGEBURG WD 6,Governor,,Mullins McLeod,DEM,9,4,0,0,0,0,5
+Orangeburg,ORANGEBURG WD 6,Governor,,Billy Webster,DEM,60,41,0,0,0,0,19
+Orangeburg,ORANGEBURG WD 8,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 8,Governor,,Pamela Evette,REP,18,3,0,0,0,0,15
+Orangeburg,ORANGEBURG WD 8,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 8,Governor,,Nancy Mace,REP,6,1,0,0,0,0,5
+Orangeburg,ORANGEBURG WD 8,Governor,,Ralph W Norman,REP,6,0,0,0,0,0,6
+Orangeburg,ORANGEBURG WD 8,Governor,,Rom Reddy,REP,5,1,0,0,0,0,4
+Orangeburg,ORANGEBURG WD 8,Governor,,Alan Wilson,REP,24,6,0,0,0,0,18
+Orangeburg,ORANGEBURG WD 8,Governor,,Jermaine Johnson,DEM,65,48,0,0,0,1,16
+Orangeburg,ORANGEBURG WD 8,Governor,,Mullins McLeod,DEM,7,2,0,0,0,0,5
+Orangeburg,ORANGEBURG WD 8,Governor,,Billy Webster,DEM,82,56,0,0,0,5,21
+Orangeburg,ORANGEBURG WD 9,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 9,Governor,,Pamela Evette,REP,3,1,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 9,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 9,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 9,Governor,,Ralph W Norman,REP,4,2,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 9,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 9,Governor,,Alan Wilson,REP,5,2,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 9,Governor,,Jermaine Johnson,DEM,64,33,0,0,0,0,31
+Orangeburg,ORANGEBURG WD 9,Governor,,Mullins McLeod,DEM,11,9,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 9,Governor,,Billy Webster,DEM,68,35,0,0,0,9,24
+Orangeburg,ORNAGEBURG WD 7,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,ORNAGEBURG WD 7,Governor,,Pamela Evette,REP,13,0,0,0,0,0,13
+Orangeburg,ORNAGEBURG WD 7,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,ORNAGEBURG WD 7,Governor,,Nancy Mace,REP,6,0,0,0,0,0,6
+Orangeburg,ORNAGEBURG WD 7,Governor,,Ralph W Norman,REP,7,0,0,0,0,0,7
+Orangeburg,ORNAGEBURG WD 7,Governor,,Rom Reddy,REP,5,0,0,0,0,1,4
+Orangeburg,ORNAGEBURG WD 7,Governor,,Alan Wilson,REP,33,17,0,0,0,0,16
+Orangeburg,ORNAGEBURG WD 7,Governor,,Jermaine Johnson,DEM,115,68,0,0,0,0,47
+Orangeburg,ORNAGEBURG WD 7,Governor,,Mullins McLeod,DEM,16,9,0,0,0,0,7
+Orangeburg,ORNAGEBURG WD 7,Governor,,Billy Webster,DEM,110,73,0,0,0,4,33
+Orangeburg,PINE HILL,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,PINE HILL,Governor,,Pamela Evette,REP,18,5,0,0,0,1,12
+Orangeburg,PINE HILL,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Orangeburg,PINE HILL,Governor,,Nancy Mace,REP,5,0,0,0,0,1,4
+Orangeburg,PINE HILL,Governor,,Ralph W Norman,REP,1,0,0,0,0,0,1
+Orangeburg,PINE HILL,Governor,,Rom Reddy,REP,15,4,0,0,0,0,11
+Orangeburg,PINE HILL,Governor,,Alan Wilson,REP,34,7,0,0,0,0,27
+Orangeburg,PINE HILL,Governor,,Jermaine Johnson,DEM,102,41,0,0,0,0,61
+Orangeburg,PINE HILL,Governor,,Mullins McLeod,DEM,10,6,0,0,0,0,4
+Orangeburg,PINE HILL,Governor,,Billy Webster,DEM,69,29,0,0,0,5,35
+Orangeburg,PROVIDENCE,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,PROVIDENCE,Governor,,Pamela Evette,REP,42,6,0,0,0,0,36
+Orangeburg,PROVIDENCE,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Orangeburg,PROVIDENCE,Governor,,Nancy Mace,REP,12,1,0,0,0,0,11
+Orangeburg,PROVIDENCE,Governor,,Ralph W Norman,REP,8,1,0,0,0,0,7
+Orangeburg,PROVIDENCE,Governor,,Rom Reddy,REP,11,0,0,0,0,0,11
+Orangeburg,PROVIDENCE,Governor,,Alan Wilson,REP,22,0,0,0,0,0,22
+Orangeburg,PROVIDENCE,Governor,,Jermaine Johnson,DEM,77,38,0,0,0,4,35
+Orangeburg,PROVIDENCE,Governor,,Mullins McLeod,DEM,23,12,0,0,0,0,11
+Orangeburg,PROVIDENCE,Governor,,Billy Webster,DEM,139,76,0,0,0,15,48
+Orangeburg,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,Governor,,Alan Wilson,REP,1,0,0,1,0,0,0
+Orangeburg,Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Orangeburg,Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Orangeburg,Provisional,Governor,,Billy Webster,DEM,2,0,0,2,0,0,0
+Orangeburg,ROWESVILLE,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,ROWESVILLE,Governor,,Pamela Evette,REP,13,1,0,0,0,0,12
+Orangeburg,ROWESVILLE,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,ROWESVILLE,Governor,,Nancy Mace,REP,3,0,0,0,0,0,3
+Orangeburg,ROWESVILLE,Governor,,Ralph W Norman,REP,4,0,0,0,0,0,4
+Orangeburg,ROWESVILLE,Governor,,Rom Reddy,REP,4,0,0,0,0,0,4
+Orangeburg,ROWESVILLE,Governor,,Alan Wilson,REP,15,0,0,0,0,0,15
+Orangeburg,ROWESVILLE,Governor,,Jermaine Johnson,DEM,50,16,0,0,0,0,34
+Orangeburg,ROWESVILLE,Governor,,Mullins McLeod,DEM,3,1,0,0,0,0,2
+Orangeburg,ROWESVILLE,Governor,,Billy Webster,DEM,33,12,0,0,0,0,21
+Orangeburg,SANTEE 1,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Orangeburg,SANTEE 1,Governor,,Pamela Evette,REP,98,27,0,0,0,0,71
+Orangeburg,SANTEE 1,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Orangeburg,SANTEE 1,Governor,,Nancy Mace,REP,25,7,0,0,0,0,18
+Orangeburg,SANTEE 1,Governor,,Ralph W Norman,REP,35,6,0,0,0,0,29
+Orangeburg,SANTEE 1,Governor,,Rom Reddy,REP,42,13,0,0,0,5,24
+Orangeburg,SANTEE 1,Governor,,Alan Wilson,REP,43,5,0,0,0,0,38
+Orangeburg,SANTEE 1,Governor,,Jermaine Johnson,DEM,81,40,0,0,0,2,39
+Orangeburg,SANTEE 1,Governor,,Mullins McLeod,DEM,21,10,0,0,0,0,11
+Orangeburg,SANTEE 1,Governor,,Billy Webster,DEM,110,65,0,0,0,5,40
+Orangeburg,SANTEE 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,SANTEE 2,Governor,,Pamela Evette,REP,5,2,0,0,0,0,3
+Orangeburg,SANTEE 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,SANTEE 2,Governor,,Nancy Mace,REP,2,0,0,0,0,0,2
+Orangeburg,SANTEE 2,Governor,,Ralph W Norman,REP,3,0,0,0,0,0,3
+Orangeburg,SANTEE 2,Governor,,Rom Reddy,REP,1,1,0,0,0,0,0
+Orangeburg,SANTEE 2,Governor,,Alan Wilson,REP,4,0,0,0,0,0,4
+Orangeburg,SANTEE 2,Governor,,Jermaine Johnson,DEM,140,67,0,0,0,8,65
+Orangeburg,SANTEE 2,Governor,,Mullins McLeod,DEM,21,9,0,0,0,0,12
+Orangeburg,SANTEE 2,Governor,,Billy Webster,DEM,179,74,0,0,0,36,69
+Orangeburg,SPRINGFIELD,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,SPRINGFIELD,Governor,,Pamela Evette,REP,54,10,0,0,0,0,44
+Orangeburg,SPRINGFIELD,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,SPRINGFIELD,Governor,,Nancy Mace,REP,11,0,0,0,0,0,11
+Orangeburg,SPRINGFIELD,Governor,,Ralph W Norman,REP,15,1,0,0,0,0,14
+Orangeburg,SPRINGFIELD,Governor,,Rom Reddy,REP,6,0,0,0,0,0,6
+Orangeburg,SPRINGFIELD,Governor,,Alan Wilson,REP,35,9,0,0,0,0,26
+Orangeburg,SPRINGFIELD,Governor,,Jermaine Johnson,DEM,84,22,0,0,0,16,46
+Orangeburg,SPRINGFIELD,Governor,,Mullins McLeod,DEM,7,0,0,0,0,2,5
+Orangeburg,SPRINGFIELD,Governor,,Billy Webster,DEM,125,23,0,0,0,70,32
+Orangeburg,SUBURBAN 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,Governor,,Ralph W Norman,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 1,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,Governor,,Jermaine Johnson,DEM,61,39,0,0,0,3,19
+Orangeburg,SUBURBAN 1,Governor,,Mullins McLeod,DEM,8,7,0,0,0,0,1
+Orangeburg,SUBURBAN 1,Governor,,Billy Webster,DEM,54,31,0,0,0,3,20
+Orangeburg,SUBURBAN 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,Governor,,Jermaine Johnson,DEM,85,61,0,0,0,5,19
+Orangeburg,SUBURBAN 2,Governor,,Mullins McLeod,DEM,7,5,0,0,0,0,2
+Orangeburg,SUBURBAN 2,Governor,,Billy Webster,DEM,71,36,0,0,0,7,28
+Orangeburg,SUBURBAN 3,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,Governor,,Pamela Evette,REP,5,3,0,0,0,0,2
+Orangeburg,SUBURBAN 3,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,Governor,,Ralph W Norman,REP,2,0,0,0,0,0,2
+Orangeburg,SUBURBAN 3,Governor,,Rom Reddy,REP,1,1,0,0,0,0,0
+Orangeburg,SUBURBAN 3,Governor,,Alan Wilson,REP,4,0,0,0,0,0,4
+Orangeburg,SUBURBAN 3,Governor,,Jermaine Johnson,DEM,163,87,0,0,0,0,76
+Orangeburg,SUBURBAN 3,Governor,,Mullins McLeod,DEM,21,14,0,0,0,0,7
+Orangeburg,SUBURBAN 3,Governor,,Billy Webster,DEM,191,113,0,0,0,5,73
+Orangeburg,SUBURBAN 4,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 4,Governor,,Pamela Evette,REP,2,0,0,0,0,0,2
+Orangeburg,SUBURBAN 4,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 4,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 4,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 4,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 4,Governor,,Alan Wilson,REP,4,1,0,0,0,0,3
+Orangeburg,SUBURBAN 4,Governor,,Jermaine Johnson,DEM,42,16,0,0,0,0,26
+Orangeburg,SUBURBAN 4,Governor,,Mullins McLeod,DEM,3,2,0,0,0,0,1
+Orangeburg,SUBURBAN 4,Governor,,Billy Webster,DEM,14,10,0,0,0,0,4
+Orangeburg,SUBURBAN 5,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 5,Governor,,Pamela Evette,REP,12,3,0,0,0,0,9
+Orangeburg,SUBURBAN 5,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 5,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 5,Governor,,Ralph W Norman,REP,2,1,0,0,0,0,1
+Orangeburg,SUBURBAN 5,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 5,Governor,,Alan Wilson,REP,9,2,0,0,0,0,7
+Orangeburg,SUBURBAN 5,Governor,,Jermaine Johnson,DEM,117,69,0,0,0,1,47
+Orangeburg,SUBURBAN 5,Governor,,Mullins McLeod,DEM,14,6,0,0,0,0,8
+Orangeburg,SUBURBAN 5,Governor,,Billy Webster,DEM,138,99,0,0,0,3,36
+Orangeburg,SUBURBAN 6,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 6,Governor,,Pamela Evette,REP,17,2,0,0,0,0,15
+Orangeburg,SUBURBAN 6,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 6,Governor,,Nancy Mace,REP,6,0,0,0,0,0,6
+Orangeburg,SUBURBAN 6,Governor,,Ralph W Norman,REP,5,2,0,0,0,0,3
+Orangeburg,SUBURBAN 6,Governor,,Rom Reddy,REP,7,3,0,0,0,0,4
+Orangeburg,SUBURBAN 6,Governor,,Alan Wilson,REP,15,10,0,0,0,0,5
+Orangeburg,SUBURBAN 6,Governor,,Jermaine Johnson,DEM,45,23,0,0,0,2,20
+Orangeburg,SUBURBAN 6,Governor,,Mullins McLeod,DEM,7,6,0,0,0,0,1
+Orangeburg,SUBURBAN 6,Governor,,Billy Webster,DEM,49,28,0,0,0,5,16
+Orangeburg,SUBURBAN 7,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 7,Governor,,Pamela Evette,REP,64,19,0,0,0,3,42
+Orangeburg,SUBURBAN 7,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 7,Governor,,Nancy Mace,REP,17,8,0,0,0,0,9
+Orangeburg,SUBURBAN 7,Governor,,Ralph W Norman,REP,36,17,0,0,0,0,19
+Orangeburg,SUBURBAN 7,Governor,,Rom Reddy,REP,26,13,0,0,0,0,13
+Orangeburg,SUBURBAN 7,Governor,,Alan Wilson,REP,73,22,0,0,0,0,51
+Orangeburg,SUBURBAN 7,Governor,,Jermaine Johnson,DEM,235,154,0,0,0,0,81
+Orangeburg,SUBURBAN 7,Governor,,Mullins McLeod,DEM,21,11,0,0,0,2,8
+Orangeburg,SUBURBAN 7,Governor,,Billy Webster,DEM,191,152,0,0,0,7,32
+Orangeburg,SUBURBAN 8,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 8,Governor,,Pamela Evette,REP,30,8,0,0,0,0,22
+Orangeburg,SUBURBAN 8,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 8,Governor,,Nancy Mace,REP,11,1,0,0,0,0,10
+Orangeburg,SUBURBAN 8,Governor,,Ralph W Norman,REP,5,3,0,0,0,0,2
+Orangeburg,SUBURBAN 8,Governor,,Rom Reddy,REP,11,3,0,0,0,0,8
+Orangeburg,SUBURBAN 8,Governor,,Alan Wilson,REP,21,5,0,0,0,1,15
+Orangeburg,SUBURBAN 8,Governor,,Jermaine Johnson,DEM,102,60,0,0,0,1,41
+Orangeburg,SUBURBAN 8,Governor,,Mullins McLeod,DEM,6,5,0,0,0,0,1
+Orangeburg,SUBURBAN 8,Governor,,Billy Webster,DEM,109,82,0,0,0,0,27
+Orangeburg,SUBURBAN 9,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 9,Governor,,Pamela Evette,REP,21,6,0,0,0,0,15
+Orangeburg,SUBURBAN 9,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 9,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 9,Governor,,Ralph W Norman,REP,3,0,0,0,0,0,3
+Orangeburg,SUBURBAN 9,Governor,,Rom Reddy,REP,4,1,0,0,0,0,3
+Orangeburg,SUBURBAN 9,Governor,,Alan Wilson,REP,11,4,0,0,0,0,7
+Orangeburg,SUBURBAN 9,Governor,,Jermaine Johnson,DEM,158,86,0,0,0,0,72
+Orangeburg,SUBURBAN 9,Governor,,Mullins McLeod,DEM,16,9,0,0,0,0,7
+Orangeburg,SUBURBAN 9,Governor,,Billy Webster,DEM,163,108,0,0,0,10,45
+Orangeburg,VANCE,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Orangeburg,VANCE,Governor,,Pamela Evette,REP,41,10,0,0,0,1,30
+Orangeburg,VANCE,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Orangeburg,VANCE,Governor,,Nancy Mace,REP,7,1,0,0,0,0,6
+Orangeburg,VANCE,Governor,,Ralph W Norman,REP,11,3,0,0,0,0,8
+Orangeburg,VANCE,Governor,,Rom Reddy,REP,7,3,0,0,0,0,4
+Orangeburg,VANCE,Governor,,Alan Wilson,REP,24,7,0,0,0,0,17
+Orangeburg,VANCE,Governor,,Jermaine Johnson,DEM,145,98,0,0,0,4,43
+Orangeburg,VANCE,Governor,,Mullins McLeod,DEM,21,16,0,0,0,0,5
+Orangeburg,VANCE,Governor,,Billy Webster,DEM,223,166,0,0,0,3,54
+Orangeburg,WHITTAKER,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Orangeburg,WHITTAKER,Governor,,Pamela Evette,REP,13,6,0,0,0,0,7
+Orangeburg,WHITTAKER,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Orangeburg,WHITTAKER,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Orangeburg,WHITTAKER,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Orangeburg,WHITTAKER,Governor,,Rom Reddy,REP,5,5,0,0,0,0,0
+Orangeburg,WHITTAKER,Governor,,Alan Wilson,REP,4,0,0,0,0,0,4
+Orangeburg,WHITTAKER,Governor,,Jermaine Johnson,DEM,121,71,0,0,0,3,47
+Orangeburg,WHITTAKER,Governor,,Mullins McLeod,DEM,17,14,0,0,0,1,2
+Orangeburg,WHITTAKER,Governor,,Billy Webster,DEM,133,97,0,0,0,7,29
+Orangeburg,BETHEL,Secretary of State,,Jason Belton,DEM,82,37,0,0,0,1,44
+Orangeburg,BETHEL,Secretary of State,,Edwina Winter,DEM,66,22,0,0,0,12,32
+Orangeburg,BOLENTOWN,Secretary of State,,Jason Belton,DEM,89,38,0,0,0,0,51
+Orangeburg,BOLENTOWN,Secretary of State,,Edwina Winter,DEM,65,31,0,0,0,0,34
+Orangeburg,BOWMAN 1,Secretary of State,,Jason Belton,DEM,143,52,0,0,0,11,80
+Orangeburg,BOWMAN 1,Secretary of State,,Edwina Winter,DEM,171,33,0,0,0,52,86
+Orangeburg,BOWMAN 2,Secretary of State,,Jason Belton,DEM,48,19,0,0,0,0,29
+Orangeburg,BOWMAN 2,Secretary of State,,Edwina Winter,DEM,80,11,0,0,0,23,46
+Orangeburg,BRANCHVILLE 1,Secretary of State,,Jason Belton,DEM,53,17,0,0,0,7,29
+Orangeburg,BRANCHVILLE 1,Secretary of State,,Edwina Winter,DEM,54,16,0,0,0,0,38
+Orangeburg,BRANCHVILLE 2,Secretary of State,,Jason Belton,DEM,24,10,0,0,0,1,13
+Orangeburg,BRANCHVILLE 2,Secretary of State,,Edwina Winter,DEM,24,5,0,0,0,0,19
+Orangeburg,BROOKDALE,Secretary of State,,Jason Belton,DEM,285,202,0,0,0,5,78
+Orangeburg,BROOKDALE,Secretary of State,,Edwina Winter,DEM,236,163,0,0,0,14,59
+Orangeburg,COPE,Secretary of State,,Jason Belton,DEM,42,19,0,0,0,0,23
+Orangeburg,COPE,Secretary of State,,Edwina Winter,DEM,39,17,0,0,0,1,21
+Orangeburg,CORDOVA 1,Secretary of State,,Jason Belton,DEM,90,50,0,0,0,1,39
+Orangeburg,CORDOVA 1,Secretary of State,,Edwina Winter,DEM,84,51,0,0,0,0,33
+Orangeburg,CORDOVA 2,Secretary of State,,Jason Belton,DEM,120,72,0,0,0,1,47
+Orangeburg,CORDOVA 2,Secretary of State,,Edwina Winter,DEM,96,44,0,0,0,1,51
+Orangeburg,EDISTO,Secretary of State,,Jason Belton,DEM,46,30,0,0,0,0,16
+Orangeburg,EDISTO,Secretary of State,,Edwina Winter,DEM,46,27,0,0,0,0,19
+Orangeburg,ELLOREE 1,Secretary of State,,Jason Belton,DEM,104,41,0,0,0,13,50
+Orangeburg,ELLOREE 1,Secretary of State,,Edwina Winter,DEM,42,21,0,0,0,2,19
+Orangeburg,ELLOREE 2,Secretary of State,,Jason Belton,DEM,128,49,0,0,0,20,59
+Orangeburg,ELLOREE 2,Secretary of State,,Edwina Winter,DEM,38,30,0,0,0,2,6
+Orangeburg,EUTAWVILLE 1,Secretary of State,,Jason Belton,DEM,83,54,0,0,0,4,25
+Orangeburg,EUTAWVILLE 1,Secretary of State,,Edwina Winter,DEM,56,32,0,0,0,1,23
+Orangeburg,EUTAWVILLE 2,Secretary of State,,Jason Belton,DEM,241,165,0,0,0,8,68
+Orangeburg,EUTAWVILLE 2,Secretary of State,,Edwina Winter,DEM,125,89,0,0,0,4,32
+Orangeburg,FOUR HOLES,Secretary of State,,Jason Belton,DEM,36,15,0,0,0,2,19
+Orangeburg,FOUR HOLES,Secretary of State,,Edwina Winter,DEM,26,5,0,0,0,0,21
+Orangeburg,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 1,Secretary of State,,Jason Belton,DEM,243,159,0,0,0,5,79
+Orangeburg,HOLLY HILL 1,Secretary of State,,Edwina Winter,DEM,85,38,0,0,0,0,47
+Orangeburg,HOLLY HILL 2,Secretary of State,,Jason Belton,DEM,245,131,0,0,0,13,101
+Orangeburg,HOLLY HILL 2,Secretary of State,,Edwina Winter,DEM,110,50,0,0,0,6,54
+Orangeburg,JAMISON,Secretary of State,,Jason Belton,DEM,282,174,0,0,0,9,99
+Orangeburg,JAMISON,Secretary of State,,Edwina Winter,DEM,178,120,0,0,0,2,56
+Orangeburg,LIMESTONE 1,Secretary of State,,Jason Belton,DEM,228,159,0,0,0,5,64
+Orangeburg,LIMESTONE 1,Secretary of State,,Edwina Winter,DEM,150,100,0,0,0,1,49
+Orangeburg,LIMESTONE 2,Secretary of State,,Jason Belton,DEM,242,161,0,0,0,1,80
+Orangeburg,LIMESTONE 2,Secretary of State,,Edwina Winter,DEM,158,107,0,0,0,5,46
+Orangeburg,NEESES-LIVINGSTON,Secretary of State,,Jason Belton,DEM,51,20,0,0,0,3,28
+Orangeburg,NEESES-LIVINGSTON,Secretary of State,,Edwina Winter,DEM,46,32,0,0,0,1,13
+Orangeburg,NIX,Secretary of State,,Jason Belton,DEM,174,89,0,0,0,6,79
+Orangeburg,NIX,Secretary of State,,Edwina Winter,DEM,114,68,0,0,0,2,44
+Orangeburg,NORTH 1,Secretary of State,,Jason Belton,DEM,110,61,0,0,0,2,47
+Orangeburg,NORTH 1,Secretary of State,,Edwina Winter,DEM,107,63,0,0,0,16,28
+Orangeburg,NORTH 2,Secretary of State,,Jason Belton,DEM,100,67,0,0,0,2,31
+Orangeburg,NORTH 2,Secretary of State,,Edwina Winter,DEM,74,41,0,0,0,0,33
+Orangeburg,NORWAY,Secretary of State,,Jason Belton,DEM,112,55,0,0,0,2,55
+Orangeburg,NORWAY,Secretary of State,,Edwina Winter,DEM,106,48,0,0,0,10,48
+Orangeburg,ORANGEBURG WD 1,Secretary of State,,Jason Belton,DEM,59,41,0,0,0,1,17
+Orangeburg,ORANGEBURG WD 1,Secretary of State,,Edwina Winter,DEM,63,36,0,0,0,1,26
+Orangeburg,ORANGEBURG WD 10,Secretary of State,,Jason Belton,DEM,145,89,0,0,0,2,54
+Orangeburg,ORANGEBURG WD 10,Secretary of State,,Edwina Winter,DEM,104,55,0,0,0,3,46
+Orangeburg,ORANGEBURG WD 2,Secretary of State,,Jason Belton,DEM,42,25,0,0,0,0,17
+Orangeburg,ORANGEBURG WD 2,Secretary of State,,Edwina Winter,DEM,32,21,0,0,0,0,11
+Orangeburg,ORANGEBURG WD 3,Secretary of State,,Jason Belton,DEM,106,63,0,0,0,1,42
+Orangeburg,ORANGEBURG WD 3,Secretary of State,,Edwina Winter,DEM,75,36,0,0,0,1,38
+Orangeburg,ORANGEBURG WD 4,Secretary of State,,Jason Belton,DEM,32,22,0,0,0,0,10
+Orangeburg,ORANGEBURG WD 4,Secretary of State,,Edwina Winter,DEM,42,22,0,0,0,8,12
+Orangeburg,ORANGEBURG WD 5,Secretary of State,,Jason Belton,DEM,62,35,0,0,0,4,23
+Orangeburg,ORANGEBURG WD 5,Secretary of State,,Edwina Winter,DEM,49,23,0,0,0,3,23
+Orangeburg,ORANGEBURG WD 6,Secretary of State,,Jason Belton,DEM,59,43,0,0,0,0,16
+Orangeburg,ORANGEBURG WD 6,Secretary of State,,Edwina Winter,DEM,72,34,0,0,0,0,38
+Orangeburg,ORANGEBURG WD 8,Secretary of State,,Jason Belton,DEM,62,45,0,0,0,3,14
+Orangeburg,ORANGEBURG WD 8,Secretary of State,,Edwina Winter,DEM,81,52,0,0,0,3,26
+Orangeburg,ORANGEBURG WD 9,Secretary of State,,Jason Belton,DEM,73,37,0,0,0,3,33
+Orangeburg,ORANGEBURG WD 9,Secretary of State,,Edwina Winter,DEM,66,39,0,0,0,6,21
+Orangeburg,ORNAGEBURG WD 7,Secretary of State,,Jason Belton,DEM,134,83,0,0,0,4,47
+Orangeburg,ORNAGEBURG WD 7,Secretary of State,,Edwina Winter,DEM,102,63,0,0,0,0,39
+Orangeburg,PINE HILL,Secretary of State,,Jason Belton,DEM,85,39,0,0,0,1,45
+Orangeburg,PINE HILL,Secretary of State,,Edwina Winter,DEM,96,39,0,0,0,4,53
+Orangeburg,PROVIDENCE,Secretary of State,,Jason Belton,DEM,170,94,0,0,0,16,60
+Orangeburg,PROVIDENCE,Secretary of State,,Edwina Winter,DEM,59,26,0,0,0,3,30
+Orangeburg,Provisional,Secretary of State,,Jason Belton,DEM,2,0,0,2,0,0,0
+Orangeburg,Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Orangeburg,ROWESVILLE,Secretary of State,,Jason Belton,DEM,44,13,0,0,0,0,31
+Orangeburg,ROWESVILLE,Secretary of State,,Edwina Winter,DEM,34,16,0,0,0,0,18
+Orangeburg,SANTEE 1,Secretary of State,,Jason Belton,DEM,115,65,0,0,0,4,46
+Orangeburg,SANTEE 1,Secretary of State,,Edwina Winter,DEM,90,46,0,0,0,3,41
+Orangeburg,SANTEE 2,Secretary of State,,Jason Belton,DEM,227,107,0,0,0,31,89
+Orangeburg,SANTEE 2,Secretary of State,,Edwina Winter,DEM,107,43,0,0,0,11,53
+Orangeburg,SPRINGFIELD,Secretary of State,,Jason Belton,DEM,119,31,0,0,0,45,43
+Orangeburg,SPRINGFIELD,Secretary of State,,Edwina Winter,DEM,94,15,0,0,0,40,39
+Orangeburg,SUBURBAN 1,Secretary of State,,Jason Belton,DEM,75,46,0,0,0,4,25
+Orangeburg,SUBURBAN 1,Secretary of State,,Edwina Winter,DEM,45,30,0,0,0,2,13
+Orangeburg,SUBURBAN 2,Secretary of State,,Jason Belton,DEM,90,61,0,0,0,9,20
+Orangeburg,SUBURBAN 2,Secretary of State,,Edwina Winter,DEM,71,41,0,0,0,3,27
+Orangeburg,SUBURBAN 3,Secretary of State,,Jason Belton,DEM,206,116,0,0,0,2,88
+Orangeburg,SUBURBAN 3,Secretary of State,,Edwina Winter,DEM,165,93,0,0,0,3,69
+Orangeburg,SUBURBAN 4,Secretary of State,,Jason Belton,DEM,22,11,0,0,0,0,11
+Orangeburg,SUBURBAN 4,Secretary of State,,Edwina Winter,DEM,36,17,0,0,0,0,19
+Orangeburg,SUBURBAN 5,Secretary of State,,Jason Belton,DEM,163,109,0,0,0,2,52
+Orangeburg,SUBURBAN 5,Secretary of State,,Edwina Winter,DEM,107,66,0,0,0,2,39
+Orangeburg,SUBURBAN 6,Secretary of State,,Jason Belton,DEM,57,31,0,0,0,4,22
+Orangeburg,SUBURBAN 6,Secretary of State,,Edwina Winter,DEM,41,25,0,0,0,3,13
+Orangeburg,SUBURBAN 7,Secretary of State,,Jason Belton,DEM,235,171,0,0,0,1,63
+Orangeburg,SUBURBAN 7,Secretary of State,,Edwina Winter,DEM,205,143,0,0,0,7,55
+Orangeburg,SUBURBAN 8,Secretary of State,,Jason Belton,DEM,135,83,0,0,0,0,52
+Orangeburg,SUBURBAN 8,Secretary of State,,Edwina Winter,DEM,78,61,0,0,0,1,16
+Orangeburg,SUBURBAN 9,Secretary of State,,Jason Belton,DEM,196,125,0,0,0,4,67
+Orangeburg,SUBURBAN 9,Secretary of State,,Edwina Winter,DEM,137,77,0,0,0,6,54
+Orangeburg,VANCE,Secretary of State,,Jason Belton,DEM,261,190,0,0,0,6,65
+Orangeburg,VANCE,Secretary of State,,Edwina Winter,DEM,118,83,0,0,0,1,34
+Orangeburg,WHITTAKER,Secretary of State,,Jason Belton,DEM,162,102,0,0,0,9,51
+Orangeburg,WHITTAKER,Secretary of State,,Edwina Winter,DEM,103,76,0,0,0,2,25
+Orangeburg,BOLENTOWN,State House,91,Daniel Alexander,REP,78,12,0,0,0,0,66
+Orangeburg,BOLENTOWN,State House,91,Tyler Morgan,REP,26,4,0,0,0,1,21
+Orangeburg,Failsafe,State House,91,Daniel Alexander,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,State House,91,Tyler Morgan,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,State House,91,Daniel Alexander,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,State House,91,Tyler Morgan,REP,0,0,0,0,0,0,0
+Orangeburg,LIMESTONE 1,State House,91,Daniel Alexander,REP,6,2,0,0,0,1,3
+Orangeburg,LIMESTONE 1,State House,91,Tyler Morgan,REP,7,1,0,0,0,1,5
+Orangeburg,LIMESTONE 2,State House,91,Daniel Alexander,REP,12,6,0,0,0,0,6
+Orangeburg,LIMESTONE 2,State House,91,Tyler Morgan,REP,5,2,0,0,0,0,3
+Orangeburg,NEESES-LIVINGSTON,State House,91,Daniel Alexander,REP,73,13,0,0,0,0,60
+Orangeburg,NEESES-LIVINGSTON,State House,91,Tyler Morgan,REP,45,9,0,0,0,1,35
+Orangeburg,NORTH 1,State House,91,Daniel Alexander,REP,39,13,0,0,0,0,26
+Orangeburg,NORTH 1,State House,91,Tyler Morgan,REP,27,11,0,0,0,0,16
+Orangeburg,NORTH 2,State House,91,Daniel Alexander,REP,16,2,0,0,0,0,14
+Orangeburg,NORTH 2,State House,91,Tyler Morgan,REP,10,2,0,0,0,0,8
+Orangeburg,NORWAY,State House,91,Daniel Alexander,REP,69,23,0,0,0,2,44
+Orangeburg,NORWAY,State House,91,Tyler Morgan,REP,24,3,0,0,0,0,21
+Orangeburg,PINE HILL,State House,91,Daniel Alexander,REP,44,12,0,0,0,0,32
+Orangeburg,PINE HILL,State House,91,Tyler Morgan,REP,27,5,0,0,0,2,20
+Orangeburg,Provisional,State House,91,Daniel Alexander,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,State House,91,Tyler Morgan,REP,0,0,0,0,0,0,0
+Orangeburg,SPRINGFIELD,State House,91,Daniel Alexander,REP,85,15,0,0,0,0,70
+Orangeburg,SPRINGFIELD,State House,91,Tyler Morgan,REP,29,3,0,0,0,0,26
+Orangeburg,BETHEL,State Superintendent of Education,,Lisa Ellis,DEM,25,6,0,0,0,0,19
+Orangeburg,BETHEL,State Superintendent of Education,,Sylvia Wright,DEM,123,53,0,0,0,13,57
+Orangeburg,BOLENTOWN,State Superintendent of Education,,Lisa Ellis,DEM,43,22,0,0,0,0,21
+Orangeburg,BOLENTOWN,State Superintendent of Education,,Sylvia Wright,DEM,111,47,0,0,0,0,64
+Orangeburg,BOWMAN 1,State Superintendent of Education,,Lisa Ellis,DEM,65,26,0,0,0,2,37
+Orangeburg,BOWMAN 1,State Superintendent of Education,,Sylvia Wright,DEM,252,61,0,0,0,61,130
+Orangeburg,BOWMAN 2,State Superintendent of Education,,Lisa Ellis,DEM,21,4,0,0,0,1,16
+Orangeburg,BOWMAN 2,State Superintendent of Education,,Sylvia Wright,DEM,107,26,0,0,0,22,59
+Orangeburg,BRANCHVILLE 1,State Superintendent of Education,,Lisa Ellis,DEM,33,12,0,0,0,2,19
+Orangeburg,BRANCHVILLE 1,State Superintendent of Education,,Sylvia Wright,DEM,77,23,0,0,0,6,48
+Orangeburg,BRANCHVILLE 2,State Superintendent of Education,,Lisa Ellis,DEM,17,5,0,0,0,0,12
+Orangeburg,BRANCHVILLE 2,State Superintendent of Education,,Sylvia Wright,DEM,32,10,0,0,0,1,21
+Orangeburg,BROOKDALE,State Superintendent of Education,,Lisa Ellis,DEM,129,83,0,0,0,4,42
+Orangeburg,BROOKDALE,State Superintendent of Education,,Sylvia Wright,DEM,397,283,0,0,0,15,99
+Orangeburg,COPE,State Superintendent of Education,,Lisa Ellis,DEM,25,6,0,0,0,1,18
+Orangeburg,COPE,State Superintendent of Education,,Sylvia Wright,DEM,56,30,0,0,0,0,26
+Orangeburg,CORDOVA 1,State Superintendent of Education,,Lisa Ellis,DEM,44,24,0,0,0,0,20
+Orangeburg,CORDOVA 1,State Superintendent of Education,,Sylvia Wright,DEM,131,78,0,0,0,1,52
+Orangeburg,CORDOVA 2,State Superintendent of Education,,Lisa Ellis,DEM,56,31,0,0,0,0,25
+Orangeburg,CORDOVA 2,State Superintendent of Education,,Sylvia Wright,DEM,162,85,0,0,0,2,75
+Orangeburg,EDISTO,State Superintendent of Education,,Lisa Ellis,DEM,29,14,0,0,0,0,15
+Orangeburg,EDISTO,State Superintendent of Education,,Sylvia Wright,DEM,61,41,0,0,0,0,20
+Orangeburg,ELLOREE 1,State Superintendent of Education,,Lisa Ellis,DEM,31,18,0,0,0,1,12
+Orangeburg,ELLOREE 1,State Superintendent of Education,,Sylvia Wright,DEM,116,45,0,0,0,14,57
+Orangeburg,ELLOREE 2,State Superintendent of Education,,Lisa Ellis,DEM,21,15,0,0,0,3,3
+Orangeburg,ELLOREE 2,State Superintendent of Education,,Sylvia Wright,DEM,140,63,0,0,0,19,58
+Orangeburg,EUTAWVILLE 1,State Superintendent of Education,,Lisa Ellis,DEM,39,25,0,0,0,2,12
+Orangeburg,EUTAWVILLE 1,State Superintendent of Education,,Sylvia Wright,DEM,103,64,0,0,0,3,36
+Orangeburg,EUTAWVILLE 2,State Superintendent of Education,,Lisa Ellis,DEM,75,51,0,0,0,1,23
+Orangeburg,EUTAWVILLE 2,State Superintendent of Education,,Sylvia Wright,DEM,296,205,0,0,0,12,79
+Orangeburg,FOUR HOLES,State Superintendent of Education,,Lisa Ellis,DEM,18,5,0,0,0,0,13
+Orangeburg,FOUR HOLES,State Superintendent of Education,,Sylvia Wright,DEM,45,16,0,0,0,2,27
+Orangeburg,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 1,State Superintendent of Education,,Lisa Ellis,DEM,75,37,0,0,0,2,36
+Orangeburg,HOLLY HILL 1,State Superintendent of Education,,Sylvia Wright,DEM,255,162,0,0,0,3,90
+Orangeburg,HOLLY HILL 2,State Superintendent of Education,,Lisa Ellis,DEM,60,37,0,0,0,1,22
+Orangeburg,HOLLY HILL 2,State Superintendent of Education,,Sylvia Wright,DEM,294,143,0,0,0,18,133
+Orangeburg,JAMISON,State Superintendent of Education,,Lisa Ellis,DEM,129,77,0,0,0,2,50
+Orangeburg,JAMISON,State Superintendent of Education,,Sylvia Wright,DEM,327,213,0,0,0,9,105
+Orangeburg,LIMESTONE 1,State Superintendent of Education,,Lisa Ellis,DEM,109,69,0,0,0,1,39
+Orangeburg,LIMESTONE 1,State Superintendent of Education,,Sylvia Wright,DEM,271,190,0,0,0,5,76
+Orangeburg,LIMESTONE 2,State Superintendent of Education,,Lisa Ellis,DEM,109,70,0,0,0,1,38
+Orangeburg,LIMESTONE 2,State Superintendent of Education,,Sylvia Wright,DEM,293,200,0,0,0,5,88
+Orangeburg,NEESES-LIVINGSTON,State Superintendent of Education,,Lisa Ellis,DEM,30,14,0,0,0,1,15
+Orangeburg,NEESES-LIVINGSTON,State Superintendent of Education,,Sylvia Wright,DEM,68,39,0,0,0,3,26
+Orangeburg,NIX,State Superintendent of Education,,Lisa Ellis,DEM,82,37,0,0,0,1,44
+Orangeburg,NIX,State Superintendent of Education,,Sylvia Wright,DEM,208,122,0,0,0,7,79
+Orangeburg,NORTH 1,State Superintendent of Education,,Lisa Ellis,DEM,55,33,0,0,0,1,21
+Orangeburg,NORTH 1,State Superintendent of Education,,Sylvia Wright,DEM,164,93,0,0,0,18,53
+Orangeburg,NORTH 2,State Superintendent of Education,,Lisa Ellis,DEM,47,20,0,0,0,0,27
+Orangeburg,NORTH 2,State Superintendent of Education,,Sylvia Wright,DEM,129,89,0,0,0,2,38
+Orangeburg,NORWAY,State Superintendent of Education,,Lisa Ellis,DEM,40,17,0,0,0,1,22
+Orangeburg,NORWAY,State Superintendent of Education,,Sylvia Wright,DEM,182,90,0,0,0,10,82
+Orangeburg,ORANGEBURG WD 1,State Superintendent of Education,,Lisa Ellis,DEM,35,24,0,0,0,0,11
+Orangeburg,ORANGEBURG WD 1,State Superintendent of Education,,Sylvia Wright,DEM,88,54,0,0,0,2,32
+Orangeburg,ORANGEBURG WD 10,State Superintendent of Education,,Lisa Ellis,DEM,69,37,0,0,0,2,30
+Orangeburg,ORANGEBURG WD 10,State Superintendent of Education,,Sylvia Wright,DEM,180,108,0,0,0,4,68
+Orangeburg,ORANGEBURG WD 2,State Superintendent of Education,,Lisa Ellis,DEM,18,13,0,0,0,0,5
+Orangeburg,ORANGEBURG WD 2,State Superintendent of Education,,Sylvia Wright,DEM,55,34,0,0,0,0,21
+Orangeburg,ORANGEBURG WD 3,State Superintendent of Education,,Lisa Ellis,DEM,43,23,0,0,0,0,20
+Orangeburg,ORANGEBURG WD 3,State Superintendent of Education,,Sylvia Wright,DEM,139,76,0,0,0,2,61
+Orangeburg,ORANGEBURG WD 4,State Superintendent of Education,,Lisa Ellis,DEM,18,11,0,0,0,1,6
+Orangeburg,ORANGEBURG WD 4,State Superintendent of Education,,Sylvia Wright,DEM,56,33,0,0,0,7,16
+Orangeburg,ORANGEBURG WD 5,State Superintendent of Education,,Lisa Ellis,DEM,36,19,0,0,0,1,16
+Orangeburg,ORANGEBURG WD 5,State Superintendent of Education,,Sylvia Wright,DEM,74,38,0,0,0,6,30
+Orangeburg,ORANGEBURG WD 6,State Superintendent of Education,,Lisa Ellis,DEM,39,20,0,0,0,0,19
+Orangeburg,ORANGEBURG WD 6,State Superintendent of Education,,Sylvia Wright,DEM,93,56,0,0,0,0,37
+Orangeburg,ORANGEBURG WD 8,State Superintendent of Education,,Lisa Ellis,DEM,44,27,0,0,0,0,17
+Orangeburg,ORANGEBURG WD 8,State Superintendent of Education,,Sylvia Wright,DEM,104,74,0,0,0,6,24
+Orangeburg,ORANGEBURG WD 9,State Superintendent of Education,,Lisa Ellis,DEM,36,21,0,0,0,1,14
+Orangeburg,ORANGEBURG WD 9,State Superintendent of Education,,Sylvia Wright,DEM,106,55,0,0,0,8,43
+Orangeburg,ORNAGEBURG WD 7,State Superintendent of Education,,Lisa Ellis,DEM,59,33,0,0,0,4,22
+Orangeburg,ORNAGEBURG WD 7,State Superintendent of Education,,Sylvia Wright,DEM,178,114,0,0,0,0,64
+Orangeburg,PINE HILL,State Superintendent of Education,,Lisa Ellis,DEM,49,19,0,0,0,0,30
+Orangeburg,PINE HILL,State Superintendent of Education,,Sylvia Wright,DEM,132,59,0,0,0,5,68
+Orangeburg,PROVIDENCE,State Superintendent of Education,,Lisa Ellis,DEM,51,25,0,0,0,2,24
+Orangeburg,PROVIDENCE,State Superintendent of Education,,Sylvia Wright,DEM,183,99,0,0,0,17,67
+Orangeburg,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Orangeburg,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,2,0,0,2,0,0,0
+Orangeburg,ROWESVILLE,State Superintendent of Education,,Lisa Ellis,DEM,26,9,0,0,0,0,17
+Orangeburg,ROWESVILLE,State Superintendent of Education,,Sylvia Wright,DEM,53,19,0,0,0,0,34
+Orangeburg,SANTEE 1,State Superintendent of Education,,Lisa Ellis,DEM,68,33,0,0,0,1,34
+Orangeburg,SANTEE 1,State Superintendent of Education,,Sylvia Wright,DEM,133,77,0,0,0,6,50
+Orangeburg,SANTEE 2,State Superintendent of Education,,Lisa Ellis,DEM,61,39,0,0,0,5,17
+Orangeburg,SANTEE 2,State Superintendent of Education,,Sylvia Wright,DEM,277,112,0,0,0,38,127
+Orangeburg,SPRINGFIELD,State Superintendent of Education,,Lisa Ellis,DEM,59,8,0,0,0,31,20
+Orangeburg,SPRINGFIELD,State Superintendent of Education,,Sylvia Wright,DEM,152,37,0,0,0,55,60
+Orangeburg,SUBURBAN 1,State Superintendent of Education,,Lisa Ellis,DEM,44,29,0,0,0,1,14
+Orangeburg,SUBURBAN 1,State Superintendent of Education,,Sylvia Wright,DEM,75,47,0,0,0,5,23
+Orangeburg,SUBURBAN 2,State Superintendent of Education,,Lisa Ellis,DEM,36,25,0,0,0,1,10
+Orangeburg,SUBURBAN 2,State Superintendent of Education,,Sylvia Wright,DEM,129,78,0,0,0,11,40
+Orangeburg,SUBURBAN 3,State Superintendent of Education,,Lisa Ellis,DEM,102,53,0,0,0,0,49
+Orangeburg,SUBURBAN 3,State Superintendent of Education,,Sylvia Wright,DEM,272,159,0,0,0,5,108
+Orangeburg,SUBURBAN 4,State Superintendent of Education,,Lisa Ellis,DEM,14,5,0,0,0,0,9
+Orangeburg,SUBURBAN 4,State Superintendent of Education,,Sylvia Wright,DEM,44,23,0,0,0,0,21
+Orangeburg,SUBURBAN 5,State Superintendent of Education,,Lisa Ellis,DEM,76,47,0,0,0,1,28
+Orangeburg,SUBURBAN 5,State Superintendent of Education,,Sylvia Wright,DEM,190,124,0,0,0,3,63
+Orangeburg,SUBURBAN 6,State Superintendent of Education,,Lisa Ellis,DEM,22,9,0,0,0,2,11
+Orangeburg,SUBURBAN 6,State Superintendent of Education,,Sylvia Wright,DEM,76,46,0,0,0,5,25
+Orangeburg,SUBURBAN 7,State Superintendent of Education,,Lisa Ellis,DEM,111,77,0,0,0,2,32
+Orangeburg,SUBURBAN 7,State Superintendent of Education,,Sylvia Wright,DEM,327,236,0,0,0,6,85
+Orangeburg,SUBURBAN 8,State Superintendent of Education,,Lisa Ellis,DEM,50,33,0,0,0,0,17
+Orangeburg,SUBURBAN 8,State Superintendent of Education,,Sylvia Wright,DEM,163,112,0,0,0,1,50
+Orangeburg,SUBURBAN 9,State Superintendent of Education,,Lisa Ellis,DEM,89,56,0,0,0,0,33
+Orangeburg,SUBURBAN 9,State Superintendent of Education,,Sylvia Wright,DEM,240,144,0,0,0,10,86
+Orangeburg,VANCE,State Superintendent of Education,,Lisa Ellis,DEM,87,64,0,0,0,5,18
+Orangeburg,VANCE,State Superintendent of Education,,Sylvia Wright,DEM,295,211,0,0,0,2,82
+Orangeburg,WHITTAKER,State Superintendent of Education,,Lisa Ellis,DEM,70,47,0,0,0,2,21
+Orangeburg,WHITTAKER,State Superintendent of Education,,Sylvia Wright,DEM,194,129,0,0,0,9,56
+Orangeburg,BETHEL,State Treasurer,,Vincent Coe,DEM,61,30,0,0,0,2,29
+Orangeburg,BETHEL,State Treasurer,,Trav Robertson Jr,DEM,87,30,0,0,0,11,46
+Orangeburg,BOLENTOWN,State Treasurer,,Vincent Coe,DEM,65,28,0,0,0,0,37
+Orangeburg,BOLENTOWN,State Treasurer,,Trav Robertson Jr,DEM,89,40,0,0,0,0,49
+Orangeburg,BOWMAN 1,State Treasurer,,Vincent Coe,DEM,95,34,0,0,0,6,55
+Orangeburg,BOWMAN 1,State Treasurer,,Trav Robertson Jr,DEM,218,53,0,0,0,54,111
+Orangeburg,BOWMAN 2,State Treasurer,,Vincent Coe,DEM,37,11,0,0,0,1,25
+Orangeburg,BOWMAN 2,State Treasurer,,Trav Robertson Jr,DEM,87,18,0,0,0,19,50
+Orangeburg,BRANCHVILLE 1,State Treasurer,,Vincent Coe,DEM,61,17,0,0,0,7,37
+Orangeburg,BRANCHVILLE 1,State Treasurer,,Trav Robertson Jr,DEM,49,17,0,0,0,2,30
+Orangeburg,BRANCHVILLE 2,State Treasurer,,Vincent Coe,DEM,18,4,0,0,0,1,13
+Orangeburg,BRANCHVILLE 2,State Treasurer,,Trav Robertson Jr,DEM,27,9,0,0,0,0,18
+Orangeburg,BROOKDALE,State Treasurer,,Vincent Coe,DEM,233,157,0,0,0,9,67
+Orangeburg,BROOKDALE,State Treasurer,,Trav Robertson Jr,DEM,285,203,0,0,0,10,72
+Orangeburg,COPE,State Treasurer,,Vincent Coe,DEM,37,12,0,0,0,1,24
+Orangeburg,COPE,State Treasurer,,Trav Robertson Jr,DEM,44,24,0,0,0,0,20
+Orangeburg,CORDOVA 1,State Treasurer,,Vincent Coe,DEM,69,35,0,0,0,1,33
+Orangeburg,CORDOVA 1,State Treasurer,,Trav Robertson Jr,DEM,102,63,0,0,0,0,39
+Orangeburg,CORDOVA 2,State Treasurer,,Vincent Coe,DEM,107,57,0,0,0,2,48
+Orangeburg,CORDOVA 2,State Treasurer,,Trav Robertson Jr,DEM,106,58,0,0,0,0,48
+Orangeburg,EDISTO,State Treasurer,,Vincent Coe,DEM,34,22,0,0,0,0,12
+Orangeburg,EDISTO,State Treasurer,,Trav Robertson Jr,DEM,54,31,0,0,0,0,23
+Orangeburg,ELLOREE 1,State Treasurer,,Vincent Coe,DEM,48,26,0,0,0,7,15
+Orangeburg,ELLOREE 1,State Treasurer,,Trav Robertson Jr,DEM,95,36,0,0,0,8,51
+Orangeburg,ELLOREE 2,State Treasurer,,Vincent Coe,DEM,63,33,0,0,0,10,20
+Orangeburg,ELLOREE 2,State Treasurer,,Trav Robertson Jr,DEM,95,43,0,0,0,12,40
+Orangeburg,EUTAWVILLE 1,State Treasurer,,Vincent Coe,DEM,47,27,0,0,0,2,18
+Orangeburg,EUTAWVILLE 1,State Treasurer,,Trav Robertson Jr,DEM,94,60,0,0,0,3,31
+Orangeburg,EUTAWVILLE 2,State Treasurer,,Vincent Coe,DEM,133,93,0,0,0,4,36
+Orangeburg,EUTAWVILLE 2,State Treasurer,,Trav Robertson Jr,DEM,233,161,0,0,0,8,64
+Orangeburg,FOUR HOLES,State Treasurer,,Vincent Coe,DEM,31,9,0,0,0,1,21
+Orangeburg,FOUR HOLES,State Treasurer,,Trav Robertson Jr,DEM,29,11,0,0,0,1,17
+Orangeburg,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 1,State Treasurer,,Vincent Coe,DEM,114,65,0,0,0,1,48
+Orangeburg,HOLLY HILL 1,State Treasurer,,Trav Robertson Jr,DEM,211,130,0,0,0,4,77
+Orangeburg,HOLLY HILL 2,State Treasurer,,Vincent Coe,DEM,130,60,0,0,0,8,62
+Orangeburg,HOLLY HILL 2,State Treasurer,,Trav Robertson Jr,DEM,220,119,0,0,0,11,90
+Orangeburg,JAMISON,State Treasurer,,Vincent Coe,DEM,220,140,0,0,0,8,72
+Orangeburg,JAMISON,State Treasurer,,Trav Robertson Jr,DEM,232,149,0,0,0,3,80
+Orangeburg,LIMESTONE 1,State Treasurer,,Vincent Coe,DEM,160,112,0,0,0,4,44
+Orangeburg,LIMESTONE 1,State Treasurer,,Trav Robertson Jr,DEM,212,144,0,0,0,2,66
+Orangeburg,LIMESTONE 2,State Treasurer,,Vincent Coe,DEM,196,136,0,0,0,0,60
+Orangeburg,LIMESTONE 2,State Treasurer,,Trav Robertson Jr,DEM,203,133,0,0,0,6,64
+Orangeburg,NEESES-LIVINGSTON,State Treasurer,,Vincent Coe,DEM,32,15,0,0,0,3,14
+Orangeburg,NEESES-LIVINGSTON,State Treasurer,,Trav Robertson Jr,DEM,65,36,0,0,0,1,28
+Orangeburg,NIX,State Treasurer,,Vincent Coe,DEM,123,64,0,0,0,4,55
+Orangeburg,NIX,State Treasurer,,Trav Robertson Jr,DEM,161,90,0,0,0,3,68
+Orangeburg,NORTH 1,State Treasurer,,Vincent Coe,DEM,86,49,0,0,0,2,35
+Orangeburg,NORTH 1,State Treasurer,,Trav Robertson Jr,DEM,128,75,0,0,0,14,39
+Orangeburg,NORTH 2,State Treasurer,,Vincent Coe,DEM,74,43,0,0,0,2,29
+Orangeburg,NORTH 2,State Treasurer,,Trav Robertson Jr,DEM,97,61,0,0,0,0,36
+Orangeburg,NORWAY,State Treasurer,,Vincent Coe,DEM,91,42,0,0,0,0,49
+Orangeburg,NORWAY,State Treasurer,,Trav Robertson Jr,DEM,124,62,0,0,0,11,51
+Orangeburg,ORANGEBURG WD 1,State Treasurer,,Vincent Coe,DEM,62,40,0,0,0,0,22
+Orangeburg,ORANGEBURG WD 1,State Treasurer,,Trav Robertson Jr,DEM,59,37,0,0,0,2,20
+Orangeburg,ORANGEBURG WD 10,State Treasurer,,Vincent Coe,DEM,116,65,0,0,0,3,48
+Orangeburg,ORANGEBURG WD 10,State Treasurer,,Trav Robertson Jr,DEM,131,78,0,0,0,2,51
+Orangeburg,ORANGEBURG WD 2,State Treasurer,,Vincent Coe,DEM,28,18,0,0,0,0,10
+Orangeburg,ORANGEBURG WD 2,State Treasurer,,Trav Robertson Jr,DEM,47,29,0,0,0,0,18
+Orangeburg,ORANGEBURG WD 3,State Treasurer,,Vincent Coe,DEM,75,43,0,0,0,0,32
+Orangeburg,ORANGEBURG WD 3,State Treasurer,,Trav Robertson Jr,DEM,103,54,0,0,0,2,47
+Orangeburg,ORANGEBURG WD 4,State Treasurer,,Vincent Coe,DEM,38,29,0,0,0,0,9
+Orangeburg,ORANGEBURG WD 4,State Treasurer,,Trav Robertson Jr,DEM,35,15,0,0,0,7,13
+Orangeburg,ORANGEBURG WD 5,State Treasurer,,Vincent Coe,DEM,51,28,0,0,0,1,22
+Orangeburg,ORANGEBURG WD 5,State Treasurer,,Trav Robertson Jr,DEM,60,30,0,0,0,6,24
+Orangeburg,ORANGEBURG WD 6,State Treasurer,,Vincent Coe,DEM,54,29,0,0,0,0,25
+Orangeburg,ORANGEBURG WD 6,State Treasurer,,Trav Robertson Jr,DEM,77,48,0,0,0,0,29
+Orangeburg,ORANGEBURG WD 8,State Treasurer,,Vincent Coe,DEM,66,43,0,0,0,1,22
+Orangeburg,ORANGEBURG WD 8,State Treasurer,,Trav Robertson Jr,DEM,79,56,0,0,0,5,18
+Orangeburg,ORANGEBURG WD 9,State Treasurer,,Vincent Coe,DEM,56,32,0,0,0,2,22
+Orangeburg,ORANGEBURG WD 9,State Treasurer,,Trav Robertson Jr,DEM,81,44,0,0,0,6,31
+Orangeburg,ORNAGEBURG WD 7,State Treasurer,,Vincent Coe,DEM,96,53,0,0,0,2,41
+Orangeburg,ORNAGEBURG WD 7,State Treasurer,,Trav Robertson Jr,DEM,137,92,0,0,0,0,45
+Orangeburg,PINE HILL,State Treasurer,,Vincent Coe,DEM,65,26,0,0,0,0,39
+Orangeburg,PINE HILL,State Treasurer,,Trav Robertson Jr,DEM,115,51,0,0,0,5,59
+Orangeburg,PROVIDENCE,State Treasurer,,Vincent Coe,DEM,93,41,0,0,0,8,44
+Orangeburg,PROVIDENCE,State Treasurer,,Trav Robertson Jr,DEM,133,78,0,0,0,10,45
+Orangeburg,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Orangeburg,Provisional,State Treasurer,,Trav Robertson Jr,DEM,2,0,0,2,0,0,0
+Orangeburg,ROWESVILLE,State Treasurer,,Vincent Coe,DEM,34,11,0,0,0,0,23
+Orangeburg,ROWESVILLE,State Treasurer,,Trav Robertson Jr,DEM,44,18,0,0,0,0,26
+Orangeburg,SANTEE 1,State Treasurer,,Vincent Coe,DEM,99,58,0,0,0,2,39
+Orangeburg,SANTEE 1,State Treasurer,,Trav Robertson Jr,DEM,99,50,0,0,0,5,44
+Orangeburg,SANTEE 2,State Treasurer,,Vincent Coe,DEM,121,53,0,0,0,15,53
+Orangeburg,SANTEE 2,State Treasurer,,Trav Robertson Jr,DEM,207,93,0,0,0,26,88
+Orangeburg,SPRINGFIELD,State Treasurer,,Vincent Coe,DEM,73,19,0,0,0,13,41
+Orangeburg,SPRINGFIELD,State Treasurer,,Trav Robertson Jr,DEM,133,27,0,0,0,66,40
+Orangeburg,SUBURBAN 1,State Treasurer,,Vincent Coe,DEM,47,30,0,0,0,2,15
+Orangeburg,SUBURBAN 1,State Treasurer,,Trav Robertson Jr,DEM,68,43,0,0,0,3,22
+Orangeburg,SUBURBAN 2,State Treasurer,,Vincent Coe,DEM,69,48,0,0,0,5,16
+Orangeburg,SUBURBAN 2,State Treasurer,,Trav Robertson Jr,DEM,90,51,0,0,0,7,32
+Orangeburg,SUBURBAN 3,State Treasurer,,Vincent Coe,DEM,140,79,0,0,0,1,60
+Orangeburg,SUBURBAN 3,State Treasurer,,Trav Robertson Jr,DEM,228,130,0,0,0,4,94
+Orangeburg,SUBURBAN 4,State Treasurer,,Vincent Coe,DEM,22,8,0,0,0,0,14
+Orangeburg,SUBURBAN 4,State Treasurer,,Trav Robertson Jr,DEM,34,20,0,0,0,0,14
+Orangeburg,SUBURBAN 5,State Treasurer,,Vincent Coe,DEM,115,74,0,0,0,2,39
+Orangeburg,SUBURBAN 5,State Treasurer,,Trav Robertson Jr,DEM,146,97,0,0,0,2,47
+Orangeburg,SUBURBAN 6,State Treasurer,,Vincent Coe,DEM,35,25,0,0,0,1,9
+Orangeburg,SUBURBAN 6,State Treasurer,,Trav Robertson Jr,DEM,62,30,0,0,0,6,26
+Orangeburg,SUBURBAN 7,State Treasurer,,Vincent Coe,DEM,195,143,0,0,0,2,50
+Orangeburg,SUBURBAN 7,State Treasurer,,Trav Robertson Jr,DEM,238,167,0,0,0,6,65
+Orangeburg,SUBURBAN 8,State Treasurer,,Vincent Coe,DEM,93,60,0,0,0,1,32
+Orangeburg,SUBURBAN 8,State Treasurer,,Trav Robertson Jr,DEM,116,82,0,0,0,0,34
+Orangeburg,SUBURBAN 9,State Treasurer,,Vincent Coe,DEM,144,86,0,0,0,2,56
+Orangeburg,SUBURBAN 9,State Treasurer,,Trav Robertson Jr,DEM,183,111,0,0,0,8,64
+Orangeburg,VANCE,State Treasurer,,Vincent Coe,DEM,150,107,0,0,0,5,38
+Orangeburg,VANCE,State Treasurer,,Trav Robertson Jr,DEM,225,165,0,0,0,2,58
+Orangeburg,WHITTAKER,State Treasurer,,Vincent Coe,DEM,129,79,0,0,0,4,46
+Orangeburg,WHITTAKER,State Treasurer,,Trav Robertson Jr,DEM,134,97,0,0,0,6,31
+Orangeburg,BOLENTOWN,U.S. House,2,Sam Gibbons,REP,5,1,0,0,0,0,4
+Orangeburg,BOLENTOWN,U.S. House,2,Hamp Redmond,REP,16,1,0,0,0,0,15
+Orangeburg,BOLENTOWN,U.S. House,2,Joe Wilson,REP,85,14,0,0,0,1,70
+Orangeburg,BOLENTOWN,U.S. House,2,Zyon Khalifa,DEM,37,15,0,0,0,0,22
+Orangeburg,BOLENTOWN,U.S. House,2,Roger Pruitt,DEM,29,8,0,0,0,0,21
+Orangeburg,BOLENTOWN,U.S. House,2,David Robinson II,DEM,75,37,0,0,0,0,38
+Orangeburg,BOLENTOWN,U.S. House,2,Daniel J Shrief,DEM,13,9,0,0,0,0,4
+Orangeburg,COPE,U.S. House,2,Sam Gibbons,REP,3,1,0,0,0,0,2
+Orangeburg,COPE,U.S. House,2,Hamp Redmond,REP,16,1,0,0,0,0,15
+Orangeburg,COPE,U.S. House,2,Joe Wilson,REP,70,7,0,0,0,1,62
+Orangeburg,COPE,U.S. House,2,Zyon Khalifa,DEM,20,11,0,0,0,0,9
+Orangeburg,COPE,U.S. House,2,Roger Pruitt,DEM,13,6,0,0,0,0,7
+Orangeburg,COPE,U.S. House,2,David Robinson II,DEM,44,18,0,0,0,0,26
+Orangeburg,COPE,U.S. House,2,Daniel J Shrief,DEM,4,1,0,0,0,1,2
+Orangeburg,CORDOVA 1,U.S. House,2,Sam Gibbons,REP,9,1,0,0,0,0,8
+Orangeburg,CORDOVA 1,U.S. House,2,Hamp Redmond,REP,13,1,0,0,0,0,12
+Orangeburg,CORDOVA 1,U.S. House,2,Joe Wilson,REP,89,17,0,0,0,0,72
+Orangeburg,CORDOVA 1,U.S. House,2,Zyon Khalifa,DEM,45,21,0,0,0,0,24
+Orangeburg,CORDOVA 1,U.S. House,2,Roger Pruitt,DEM,29,18,0,0,0,0,11
+Orangeburg,CORDOVA 1,U.S. House,2,David Robinson II,DEM,89,54,0,0,0,1,34
+Orangeburg,CORDOVA 1,U.S. House,2,Daniel J Shrief,DEM,10,7,0,0,0,0,3
+Orangeburg,CORDOVA 2,U.S. House,2,Sam Gibbons,REP,7,0,0,0,0,0,7
+Orangeburg,CORDOVA 2,U.S. House,2,Hamp Redmond,REP,6,0,0,0,0,0,6
+Orangeburg,CORDOVA 2,U.S. House,2,Joe Wilson,REP,57,7,0,0,0,0,50
+Orangeburg,CORDOVA 2,U.S. House,2,Zyon Khalifa,DEM,56,25,0,0,0,1,30
+Orangeburg,CORDOVA 2,U.S. House,2,Roger Pruitt,DEM,44,23,0,0,0,0,21
+Orangeburg,CORDOVA 2,U.S. House,2,David Robinson II,DEM,101,59,0,0,0,1,41
+Orangeburg,CORDOVA 2,U.S. House,2,Daniel J Shrief,DEM,16,10,0,0,0,0,6
+Orangeburg,EDISTO,U.S. House,2,Sam Gibbons,REP,14,1,0,0,0,0,13
+Orangeburg,EDISTO,U.S. House,2,Hamp Redmond,REP,12,1,0,0,0,1,10
+Orangeburg,EDISTO,U.S. House,2,Joe Wilson,REP,121,12,0,0,0,4,105
+Orangeburg,EDISTO,U.S. House,2,Zyon Khalifa,DEM,9,5,0,0,0,0,4
+Orangeburg,EDISTO,U.S. House,2,Roger Pruitt,DEM,16,10,0,0,0,0,6
+Orangeburg,EDISTO,U.S. House,2,David Robinson II,DEM,57,38,0,0,0,0,19
+Orangeburg,EDISTO,U.S. House,2,Daniel J Shrief,DEM,7,2,0,0,0,0,5
+Orangeburg,Failsafe,U.S. House,2,Sam Gibbons,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. House,2,Hamp Redmond,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. House,2,Joe Wilson,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. House,2,Zyon Khalifa,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. House,2,Roger Pruitt,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. House,2,David Robinson II,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. House,2,Daniel J Shrief,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. House,2,Sam Gibbons,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. House,2,Hamp Redmond,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. House,2,Joe Wilson,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. House,2,Zyon Khalifa,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. House,2,Roger Pruitt,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. House,2,David Robinson II,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. House,2,Daniel J Shrief,DEM,0,0,0,0,0,0,0
+Orangeburg,LIMESTONE 1,U.S. House,2,Sam Gibbons,REP,7,2,0,0,0,0,5
+Orangeburg,LIMESTONE 1,U.S. House,2,Hamp Redmond,REP,9,1,0,0,0,0,8
+Orangeburg,LIMESTONE 1,U.S. House,2,Joe Wilson,REP,43,21,0,0,0,0,22
+Orangeburg,LIMESTONE 1,U.S. House,2,Zyon Khalifa,DEM,87,53,0,0,0,3,31
+Orangeburg,LIMESTONE 1,U.S. House,2,Roger Pruitt,DEM,75,51,0,0,0,1,23
+Orangeburg,LIMESTONE 1,U.S. House,2,David Robinson II,DEM,188,137,0,0,0,1,50
+Orangeburg,LIMESTONE 1,U.S. House,2,Daniel J Shrief,DEM,23,14,0,0,0,1,8
+Orangeburg,LIMESTONE 2,U.S. House,2,Sam Gibbons,REP,6,1,0,0,0,0,5
+Orangeburg,LIMESTONE 2,U.S. House,2,Hamp Redmond,REP,8,2,0,0,0,0,6
+Orangeburg,LIMESTONE 2,U.S. House,2,Joe Wilson,REP,63,28,0,0,0,0,35
+Orangeburg,LIMESTONE 2,U.S. House,2,Zyon Khalifa,DEM,106,65,0,0,0,1,40
+Orangeburg,LIMESTONE 2,U.S. House,2,Roger Pruitt,DEM,58,35,0,0,0,1,22
+Orangeburg,LIMESTONE 2,U.S. House,2,David Robinson II,DEM,207,151,0,0,0,4,52
+Orangeburg,LIMESTONE 2,U.S. House,2,Daniel J Shrief,DEM,28,17,0,0,0,0,11
+Orangeburg,NEESES-LIVINGSTON,U.S. House,2,Sam Gibbons,REP,7,0,0,0,0,0,7
+Orangeburg,NEESES-LIVINGSTON,U.S. House,2,Hamp Redmond,REP,25,5,0,0,0,0,20
+Orangeburg,NEESES-LIVINGSTON,U.S. House,2,Joe Wilson,REP,95,19,0,0,0,1,75
+Orangeburg,NEESES-LIVINGSTON,U.S. House,2,Zyon Khalifa,DEM,21,7,0,0,0,1,13
+Orangeburg,NEESES-LIVINGSTON,U.S. House,2,Roger Pruitt,DEM,19,12,0,0,0,1,6
+Orangeburg,NEESES-LIVINGSTON,U.S. House,2,David Robinson II,DEM,51,31,0,0,0,1,19
+Orangeburg,NEESES-LIVINGSTON,U.S. House,2,Daniel J Shrief,DEM,7,2,0,0,0,1,4
+Orangeburg,NORTH 1,U.S. House,2,Sam Gibbons,REP,2,1,0,0,0,0,1
+Orangeburg,NORTH 1,U.S. House,2,Hamp Redmond,REP,27,8,0,0,0,0,19
+Orangeburg,NORTH 1,U.S. House,2,Joe Wilson,REP,59,21,0,0,0,0,38
+Orangeburg,NORTH 1,U.S. House,2,Zyon Khalifa,DEM,49,26,0,0,0,2,21
+Orangeburg,NORTH 1,U.S. House,2,Roger Pruitt,DEM,31,17,0,0,0,0,14
+Orangeburg,NORTH 1,U.S. House,2,David Robinson II,DEM,119,73,0,0,0,16,30
+Orangeburg,NORTH 1,U.S. House,2,Daniel J Shrief,DEM,16,7,0,0,0,1,8
+Orangeburg,NORTH 2,U.S. House,2,Sam Gibbons,REP,8,2,0,0,0,0,6
+Orangeburg,NORTH 2,U.S. House,2,Hamp Redmond,REP,46,10,0,0,0,0,36
+Orangeburg,NORTH 2,U.S. House,2,Joe Wilson,REP,101,27,0,0,0,1,73
+Orangeburg,NORTH 2,U.S. House,2,Zyon Khalifa,DEM,33,17,0,0,0,2,14
+Orangeburg,NORTH 2,U.S. House,2,Roger Pruitt,DEM,34,19,0,0,0,0,15
+Orangeburg,NORTH 2,U.S. House,2,David Robinson II,DEM,88,62,0,0,0,0,26
+Orangeburg,NORTH 2,U.S. House,2,Daniel J Shrief,DEM,19,10,0,0,0,0,9
+Orangeburg,NORWAY,U.S. House,2,Sam Gibbons,REP,6,1,0,0,0,0,5
+Orangeburg,NORWAY,U.S. House,2,Hamp Redmond,REP,15,5,0,0,0,0,10
+Orangeburg,NORWAY,U.S. House,2,Joe Wilson,REP,76,23,0,0,0,2,51
+Orangeburg,NORWAY,U.S. House,2,Zyon Khalifa,DEM,52,23,0,0,0,2,27
+Orangeburg,NORWAY,U.S. House,2,Roger Pruitt,DEM,32,13,0,0,0,0,19
+Orangeburg,NORWAY,U.S. House,2,David Robinson II,DEM,122,64,0,0,0,10,48
+Orangeburg,NORWAY,U.S. House,2,Daniel J Shrief,DEM,13,4,0,0,0,0,9
+Orangeburg,PINE HILL,U.S. House,2,Sam Gibbons,REP,3,1,0,0,0,0,2
+Orangeburg,PINE HILL,U.S. House,2,Hamp Redmond,REP,5,0,0,0,0,0,5
+Orangeburg,PINE HILL,U.S. House,2,Joe Wilson,REP,65,17,0,0,0,2,46
+Orangeburg,PINE HILL,U.S. House,2,Zyon Khalifa,DEM,54,24,0,0,0,1,29
+Orangeburg,PINE HILL,U.S. House,2,Roger Pruitt,DEM,33,13,0,0,0,0,20
+Orangeburg,PINE HILL,U.S. House,2,David Robinson II,DEM,80,36,0,0,0,3,41
+Orangeburg,PINE HILL,U.S. House,2,Daniel J Shrief,DEM,11,2,0,0,0,0,9
+Orangeburg,Provisional,U.S. House,2,Sam Gibbons,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. House,2,Hamp Redmond,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. House,2,Joe Wilson,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. House,2,Zyon Khalifa,DEM,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. House,2,Roger Pruitt,DEM,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. House,2,David Robinson II,DEM,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. House,2,Daniel J Shrief,DEM,0,0,0,0,0,0,0
+Orangeburg,SPRINGFIELD,U.S. House,2,Sam Gibbons,REP,7,1,0,0,0,0,6
+Orangeburg,SPRINGFIELD,U.S. House,2,Hamp Redmond,REP,20,5,0,0,0,0,15
+Orangeburg,SPRINGFIELD,U.S. House,2,Joe Wilson,REP,88,13,0,0,0,0,75
+Orangeburg,SPRINGFIELD,U.S. House,2,Zyon Khalifa,DEM,34,6,0,0,0,5,23
+Orangeburg,SPRINGFIELD,U.S. House,2,Roger Pruitt,DEM,35,6,0,0,0,19,10
+Orangeburg,SPRINGFIELD,U.S. House,2,David Robinson II,DEM,120,31,0,0,0,45,44
+Orangeburg,SPRINGFIELD,U.S. House,2,Daniel J Shrief,DEM,25,3,0,0,0,18,4
+Orangeburg,SUBURBAN 7,U.S. House,2,Sam Gibbons,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 7,U.S. House,2,Hamp Redmond,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 7,U.S. House,2,Joe Wilson,REP,2,2,0,0,0,0,0
+Orangeburg,SUBURBAN 7,U.S. House,2,Zyon Khalifa,DEM,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 7,U.S. House,2,Roger Pruitt,DEM,2,0,0,0,0,0,2
+Orangeburg,SUBURBAN 7,U.S. House,2,David Robinson II,DEM,2,1,0,0,0,0,1
+Orangeburg,SUBURBAN 7,U.S. House,2,Daniel J Shrief,DEM,1,0,0,0,0,0,1
+Orangeburg,BETHEL,U.S. House,6,John Peterson,REP,34,6,0,0,0,0,28
+Orangeburg,BETHEL,U.S. House,6,Maurice Washington,REP,8,2,0,0,0,0,6
+Orangeburg,BETHEL,U.S. House,6,James E Jim Clyburn,DEM,142,55,0,0,0,12,75
+Orangeburg,BETHEL,U.S. House,6,Frederick R Goodwin,DEM,8,5,0,0,0,1,2
+Orangeburg,BOWMAN 1,U.S. House,6,John Peterson,REP,47,2,0,0,0,1,44
+Orangeburg,BOWMAN 1,U.S. House,6,Maurice Washington,REP,11,1,0,0,0,0,10
+Orangeburg,BOWMAN 1,U.S. House,6,James E Jim Clyburn,DEM,306,86,0,0,0,63,157
+Orangeburg,BOWMAN 1,U.S. House,6,Frederick R Goodwin,DEM,17,1,0,0,0,1,15
+Orangeburg,BOWMAN 2,U.S. House,6,John Peterson,REP,64,9,0,0,0,0,55
+Orangeburg,BOWMAN 2,U.S. House,6,Maurice Washington,REP,5,0,0,0,0,0,5
+Orangeburg,BOWMAN 2,U.S. House,6,James E Jim Clyburn,DEM,126,29,0,0,0,24,73
+Orangeburg,BOWMAN 2,U.S. House,6,Frederick R Goodwin,DEM,6,2,0,0,0,0,4
+Orangeburg,BRANCHVILLE 1,U.S. House,6,John Peterson,REP,62,3,0,0,0,0,59
+Orangeburg,BRANCHVILLE 1,U.S. House,6,Maurice Washington,REP,15,2,0,0,0,0,13
+Orangeburg,BRANCHVILLE 1,U.S. House,6,James E Jim Clyburn,DEM,110,35,0,0,0,10,65
+Orangeburg,BRANCHVILLE 1,U.S. House,6,Frederick R Goodwin,DEM,5,1,0,0,0,0,4
+Orangeburg,BRANCHVILLE 2,U.S. House,6,John Peterson,REP,33,2,0,0,0,0,31
+Orangeburg,BRANCHVILLE 2,U.S. House,6,Maurice Washington,REP,10,0,0,0,0,0,10
+Orangeburg,BRANCHVILLE 2,U.S. House,6,James E Jim Clyburn,DEM,42,14,0,0,0,1,27
+Orangeburg,BRANCHVILLE 2,U.S. House,6,Frederick R Goodwin,DEM,7,1,0,0,0,0,6
+Orangeburg,BROOKDALE,U.S. House,6,John Peterson,REP,2,0,0,0,0,0,2
+Orangeburg,BROOKDALE,U.S. House,6,Maurice Washington,REP,6,3,0,0,0,0,3
+Orangeburg,BROOKDALE,U.S. House,6,James E Jim Clyburn,DEM,520,367,0,0,0,19,134
+Orangeburg,BROOKDALE,U.S. House,6,Frederick R Goodwin,DEM,17,8,0,0,0,0,9
+Orangeburg,ELLOREE 1,U.S. House,6,John Peterson,REP,72,13,0,0,0,0,59
+Orangeburg,ELLOREE 1,U.S. House,6,Maurice Washington,REP,15,3,0,0,0,1,11
+Orangeburg,ELLOREE 1,U.S. House,6,James E Jim Clyburn,DEM,140,62,0,0,0,15,63
+Orangeburg,ELLOREE 1,U.S. House,6,Frederick R Goodwin,DEM,10,2,0,0,0,0,8
+Orangeburg,ELLOREE 2,U.S. House,6,John Peterson,REP,16,2,0,0,0,0,14
+Orangeburg,ELLOREE 2,U.S. House,6,Maurice Washington,REP,5,0,0,0,0,0,5
+Orangeburg,ELLOREE 2,U.S. House,6,James E Jim Clyburn,DEM,164,77,0,0,0,22,65
+Orangeburg,ELLOREE 2,U.S. House,6,Frederick R Goodwin,DEM,6,4,0,0,0,1,1
+Orangeburg,EUTAWVILLE 1,U.S. House,6,John Peterson,REP,118,25,0,0,0,0,93
+Orangeburg,EUTAWVILLE 1,U.S. House,6,Maurice Washington,REP,23,7,0,0,0,0,16
+Orangeburg,EUTAWVILLE 1,U.S. House,6,James E Jim Clyburn,DEM,137,86,0,0,0,6,45
+Orangeburg,EUTAWVILLE 1,U.S. House,6,Frederick R Goodwin,DEM,8,5,0,0,0,0,3
+Orangeburg,EUTAWVILLE 2,U.S. House,6,John Peterson,REP,41,5,0,0,0,0,36
+Orangeburg,EUTAWVILLE 2,U.S. House,6,Maurice Washington,REP,6,1,0,0,0,0,5
+Orangeburg,EUTAWVILLE 2,U.S. House,6,James E Jim Clyburn,DEM,354,245,0,0,0,13,96
+Orangeburg,EUTAWVILLE 2,U.S. House,6,Frederick R Goodwin,DEM,25,17,0,0,0,0,8
+Orangeburg,FOUR HOLES,U.S. House,6,John Peterson,REP,75,5,0,0,0,0,70
+Orangeburg,FOUR HOLES,U.S. House,6,Maurice Washington,REP,12,0,0,0,0,0,12
+Orangeburg,FOUR HOLES,U.S. House,6,James E Jim Clyburn,DEM,62,20,0,0,0,2,40
+Orangeburg,FOUR HOLES,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 1,U.S. House,6,John Peterson,REP,100,17,0,0,0,0,83
+Orangeburg,HOLLY HILL 1,U.S. House,6,Maurice Washington,REP,28,6,0,0,0,0,22
+Orangeburg,HOLLY HILL 1,U.S. House,6,James E Jim Clyburn,DEM,321,197,0,0,0,5,119
+Orangeburg,HOLLY HILL 1,U.S. House,6,Frederick R Goodwin,DEM,11,2,0,0,0,0,9
+Orangeburg,HOLLY HILL 2,U.S. House,6,John Peterson,REP,38,11,0,0,0,0,27
+Orangeburg,HOLLY HILL 2,U.S. House,6,Maurice Washington,REP,2,2,0,0,0,0,0
+Orangeburg,HOLLY HILL 2,U.S. House,6,James E Jim Clyburn,DEM,348,173,0,0,0,22,153
+Orangeburg,HOLLY HILL 2,U.S. House,6,Frederick R Goodwin,DEM,19,9,0,0,0,0,10
+Orangeburg,JAMISON,U.S. House,6,John Peterson,REP,66,17,0,0,0,2,47
+Orangeburg,JAMISON,U.S. House,6,Maurice Washington,REP,11,4,0,0,0,0,7
+Orangeburg,JAMISON,U.S. House,6,James E Jim Clyburn,DEM,454,294,0,0,0,11,149
+Orangeburg,JAMISON,U.S. House,6,Frederick R Goodwin,DEM,17,9,0,0,0,0,8
+Orangeburg,NIX,U.S. House,6,John Peterson,REP,2,0,0,0,0,0,2
+Orangeburg,NIX,U.S. House,6,Maurice Washington,REP,1,1,0,0,0,0,0
+Orangeburg,NIX,U.S. House,6,James E Jim Clyburn,DEM,279,158,0,0,0,8,113
+Orangeburg,NIX,U.S. House,6,Frederick R Goodwin,DEM,13,3,0,0,0,0,10
+Orangeburg,ORANGEBURG WD 1,U.S. House,6,John Peterson,REP,31,8,0,0,0,1,22
+Orangeburg,ORANGEBURG WD 1,U.S. House,6,Maurice Washington,REP,7,1,0,0,0,0,6
+Orangeburg,ORANGEBURG WD 1,U.S. House,6,James E Jim Clyburn,DEM,117,75,0,0,0,2,40
+Orangeburg,ORANGEBURG WD 1,U.S. House,6,Frederick R Goodwin,DEM,9,5,0,0,0,0,4
+Orangeburg,ORANGEBURG WD 10,U.S. House,6,John Peterson,REP,36,21,0,0,0,0,15
+Orangeburg,ORANGEBURG WD 10,U.S. House,6,Maurice Washington,REP,6,1,0,0,0,0,5
+Orangeburg,ORANGEBURG WD 10,U.S. House,6,James E Jim Clyburn,DEM,239,143,0,0,0,6,90
+Orangeburg,ORANGEBURG WD 10,U.S. House,6,Frederick R Goodwin,DEM,11,2,0,0,0,0,9
+Orangeburg,ORANGEBURG WD 2,U.S. House,6,John Peterson,REP,3,0,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 2,U.S. House,6,Maurice Washington,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 2,U.S. House,6,James E Jim Clyburn,DEM,71,44,0,0,0,0,27
+Orangeburg,ORANGEBURG WD 2,U.S. House,6,Frederick R Goodwin,DEM,8,5,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 3,U.S. House,6,John Peterson,REP,2,2,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,U.S. House,6,James E Jim Clyburn,DEM,171,96,0,0,0,2,73
+Orangeburg,ORANGEBURG WD 3,U.S. House,6,Frederick R Goodwin,DEM,15,6,0,0,0,0,9
+Orangeburg,ORANGEBURG WD 4,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,U.S. House,6,James E Jim Clyburn,DEM,70,42,0,0,0,8,20
+Orangeburg,ORANGEBURG WD 4,U.S. House,6,Frederick R Goodwin,DEM,5,2,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 5,U.S. House,6,John Peterson,REP,4,1,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 5,U.S. House,6,Maurice Washington,REP,2,2,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,U.S. House,6,James E Jim Clyburn,DEM,108,57,0,0,0,6,45
+Orangeburg,ORANGEBURG WD 5,U.S. House,6,Frederick R Goodwin,DEM,8,3,0,0,0,1,4
+Orangeburg,ORANGEBURG WD 6,U.S. House,6,John Peterson,REP,24,5,0,0,0,0,19
+Orangeburg,ORANGEBURG WD 6,U.S. House,6,Maurice Washington,REP,4,2,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 6,U.S. House,6,James E Jim Clyburn,DEM,118,71,0,0,0,0,47
+Orangeburg,ORANGEBURG WD 6,U.S. House,6,Frederick R Goodwin,DEM,14,5,0,0,0,0,9
+Orangeburg,ORANGEBURG WD 8,U.S. House,6,John Peterson,REP,34,7,0,0,0,0,27
+Orangeburg,ORANGEBURG WD 8,U.S. House,6,Maurice Washington,REP,20,4,0,0,0,0,16
+Orangeburg,ORANGEBURG WD 8,U.S. House,6,James E Jim Clyburn,DEM,142,99,0,0,0,6,37
+Orangeburg,ORANGEBURG WD 8,U.S. House,6,Frederick R Goodwin,DEM,8,5,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 9,U.S. House,6,John Peterson,REP,12,5,0,0,0,0,7
+Orangeburg,ORANGEBURG WD 9,U.S. House,6,Maurice Washington,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 9,U.S. House,6,James E Jim Clyburn,DEM,139,75,0,0,0,9,55
+Orangeburg,ORANGEBURG WD 9,U.S. House,6,Frederick R Goodwin,DEM,5,3,0,0,0,0,2
+Orangeburg,ORNAGEBURG WD 7,U.S. House,6,John Peterson,REP,37,8,0,0,0,0,29
+Orangeburg,ORNAGEBURG WD 7,U.S. House,6,Maurice Washington,REP,17,2,0,0,0,1,14
+Orangeburg,ORNAGEBURG WD 7,U.S. House,6,James E Jim Clyburn,DEM,223,144,0,0,0,4,75
+Orangeburg,ORNAGEBURG WD 7,U.S. House,6,Frederick R Goodwin,DEM,17,6,0,0,0,0,11
+Orangeburg,PROVIDENCE,U.S. House,6,John Peterson,REP,74,8,0,0,0,0,66
+Orangeburg,PROVIDENCE,U.S. House,6,Maurice Washington,REP,18,0,0,0,0,0,18
+Orangeburg,PROVIDENCE,U.S. House,6,James E Jim Clyburn,DEM,227,122,0,0,0,19,86
+Orangeburg,PROVIDENCE,U.S. House,6,Frederick R Goodwin,DEM,12,3,0,0,0,0,9
+Orangeburg,Provisional,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. House,6,Maurice Washington,REP,1,0,0,1,0,0,0
+Orangeburg,Provisional,U.S. House,6,James E Jim Clyburn,DEM,2,0,0,2,0,0,0
+Orangeburg,Provisional,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Orangeburg,ROWESVILLE,U.S. House,6,John Peterson,REP,33,1,0,0,0,0,32
+Orangeburg,ROWESVILLE,U.S. House,6,Maurice Washington,REP,4,0,0,0,0,0,4
+Orangeburg,ROWESVILLE,U.S. House,6,James E Jim Clyburn,DEM,75,23,0,0,0,0,52
+Orangeburg,ROWESVILLE,U.S. House,6,Frederick R Goodwin,DEM,9,6,0,0,0,0,3
+Orangeburg,SANTEE 1,U.S. House,6,John Peterson,REP,178,41,0,0,0,2,135
+Orangeburg,SANTEE 1,U.S. House,6,Maurice Washington,REP,44,16,0,0,0,3,25
+Orangeburg,SANTEE 1,U.S. House,6,James E Jim Clyburn,DEM,197,111,0,0,0,6,80
+Orangeburg,SANTEE 1,U.S. House,6,Frederick R Goodwin,DEM,16,5,0,0,0,1,10
+Orangeburg,SANTEE 2,U.S. House,6,John Peterson,REP,13,3,0,0,0,0,10
+Orangeburg,SANTEE 2,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Orangeburg,SANTEE 2,U.S. House,6,James E Jim Clyburn,DEM,319,143,0,0,0,41,135
+Orangeburg,SANTEE 2,U.S. House,6,Frederick R Goodwin,DEM,21,7,0,0,0,3,11
+Orangeburg,SUBURBAN 1,U.S. House,6,John Peterson,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 1,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,U.S. House,6,James E Jim Clyburn,DEM,116,72,0,0,0,6,38
+Orangeburg,SUBURBAN 1,U.S. House,6,Frederick R Goodwin,DEM,5,4,0,0,0,0,1
+Orangeburg,SUBURBAN 2,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,U.S. House,6,James E Jim Clyburn,DEM,160,103,0,0,0,12,45
+Orangeburg,SUBURBAN 2,U.S. House,6,Frederick R Goodwin,DEM,7,2,0,0,0,0,5
+Orangeburg,SUBURBAN 3,U.S. House,6,John Peterson,REP,11,4,0,0,0,0,7
+Orangeburg,SUBURBAN 3,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,U.S. House,6,James E Jim Clyburn,DEM,368,210,0,0,0,5,153
+Orangeburg,SUBURBAN 3,U.S. House,6,Frederick R Goodwin,DEM,12,6,0,0,0,0,6
+Orangeburg,SUBURBAN 4,U.S. House,6,John Peterson,REP,6,1,0,0,0,0,5
+Orangeburg,SUBURBAN 4,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 4,U.S. House,6,James E Jim Clyburn,DEM,56,28,0,0,0,0,28
+Orangeburg,SUBURBAN 4,U.S. House,6,Frederick R Goodwin,DEM,4,1,0,0,0,0,3
+Orangeburg,SUBURBAN 5,U.S. House,6,John Peterson,REP,21,6,0,0,0,0,15
+Orangeburg,SUBURBAN 5,U.S. House,6,Maurice Washington,REP,4,0,0,0,0,0,4
+Orangeburg,SUBURBAN 5,U.S. House,6,James E Jim Clyburn,DEM,250,159,0,0,0,4,87
+Orangeburg,SUBURBAN 5,U.S. House,6,Frederick R Goodwin,DEM,19,15,0,0,0,0,4
+Orangeburg,SUBURBAN 6,U.S. House,6,John Peterson,REP,41,15,0,0,0,0,26
+Orangeburg,SUBURBAN 6,U.S. House,6,Maurice Washington,REP,3,0,0,0,0,0,3
+Orangeburg,SUBURBAN 6,U.S. House,6,James E Jim Clyburn,DEM,97,58,0,0,0,6,33
+Orangeburg,SUBURBAN 6,U.S. House,6,Frederick R Goodwin,DEM,5,0,0,0,0,1,4
+Orangeburg,SUBURBAN 7,U.S. House,6,John Peterson,REP,157,59,0,0,0,2,96
+Orangeburg,SUBURBAN 7,U.S. House,6,Maurice Washington,REP,35,10,0,0,0,1,24
+Orangeburg,SUBURBAN 7,U.S. House,6,James E Jim Clyburn,DEM,420,302,0,0,0,9,109
+Orangeburg,SUBURBAN 7,U.S. House,6,Frederick R Goodwin,DEM,22,14,0,0,0,0,8
+Orangeburg,SUBURBAN 8,U.S. House,6,John Peterson,REP,50,11,0,0,0,0,39
+Orangeburg,SUBURBAN 8,U.S. House,6,Maurice Washington,REP,14,4,0,0,0,1,9
+Orangeburg,SUBURBAN 8,U.S. House,6,James E Jim Clyburn,DEM,212,148,0,0,0,1,63
+Orangeburg,SUBURBAN 8,U.S. House,6,Frederick R Goodwin,DEM,8,2,0,0,0,0,6
+Orangeburg,SUBURBAN 9,U.S. House,6,John Peterson,REP,27,8,0,0,0,0,19
+Orangeburg,SUBURBAN 9,U.S. House,6,Maurice Washington,REP,5,0,0,0,0,0,5
+Orangeburg,SUBURBAN 9,U.S. House,6,James E Jim Clyburn,DEM,324,197,0,0,0,10,117
+Orangeburg,SUBURBAN 9,U.S. House,6,Frederick R Goodwin,DEM,14,6,0,0,0,0,8
+Orangeburg,VANCE,U.S. House,6,John Peterson,REP,65,19,0,0,0,1,45
+Orangeburg,VANCE,U.S. House,6,Maurice Washington,REP,15,4,0,0,0,0,11
+Orangeburg,VANCE,U.S. House,6,James E Jim Clyburn,DEM,365,260,0,0,0,7,98
+Orangeburg,VANCE,U.S. House,6,Frederick R Goodwin,DEM,28,21,0,0,0,0,7
+Orangeburg,WHITTAKER,U.S. House,6,John Peterson,REP,20,11,0,0,0,0,9
+Orangeburg,WHITTAKER,U.S. House,6,Maurice Washington,REP,1,0,0,0,0,0,1
+Orangeburg,WHITTAKER,U.S. House,6,James E Jim Clyburn,DEM,261,175,0,0,0,11,75
+Orangeburg,WHITTAKER,U.S. House,6,Frederick R Goodwin,DEM,11,7,0,0,0,0,4
+Orangeburg,BETHEL,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,BETHEL,U.S. Senate,,Thomas Keith Dismukes,REP,6,0,0,0,0,0,6
+Orangeburg,BETHEL,U.S. Senate,,Lindsey Graham,REP,34,8,0,0,0,0,26
+Orangeburg,BETHEL,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,BETHEL,U.S. Senate,,Mark Lynch,REP,6,2,0,0,0,0,4
+Orangeburg,BETHEL,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,BETHEL,U.S. Senate,,Annie Andrews,DEM,95,37,0,0,0,13,45
+Orangeburg,BETHEL,U.S. Senate,,Brandon P Brown,DEM,43,18,0,0,0,0,25
+Orangeburg,BETHEL,U.S. Senate,,Kyle Freeman,DEM,10,4,0,0,0,0,6
+Orangeburg,BOLENTOWN,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Orangeburg,BOLENTOWN,U.S. Senate,,Thomas Keith Dismukes,REP,5,0,0,0,0,0,5
+Orangeburg,BOLENTOWN,U.S. Senate,,Lindsey Graham,REP,77,14,0,0,0,1,62
+Orangeburg,BOLENTOWN,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Orangeburg,BOLENTOWN,U.S. Senate,,Mark Lynch,REP,18,2,0,0,0,0,16
+Orangeburg,BOLENTOWN,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,0,3
+Orangeburg,BOLENTOWN,U.S. Senate,,Annie Andrews,DEM,73,31,0,0,0,0,42
+Orangeburg,BOLENTOWN,U.S. Senate,,Brandon P Brown,DEM,63,28,0,0,0,0,35
+Orangeburg,BOLENTOWN,U.S. Senate,,Kyle Freeman,DEM,18,10,0,0,0,0,8
+Orangeburg,BOWMAN 1,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Orangeburg,BOWMAN 1,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Orangeburg,BOWMAN 1,U.S. Senate,,Lindsey Graham,REP,44,1,0,0,0,0,43
+Orangeburg,BOWMAN 1,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Orangeburg,BOWMAN 1,U.S. Senate,,Mark Lynch,REP,8,2,0,0,0,1,5
+Orangeburg,BOWMAN 1,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,0,3
+Orangeburg,BOWMAN 1,U.S. Senate,,Annie Andrews,DEM,198,48,0,0,0,58,92
+Orangeburg,BOWMAN 1,U.S. Senate,,Brandon P Brown,DEM,90,29,0,0,0,5,56
+Orangeburg,BOWMAN 1,U.S. Senate,,Kyle Freeman,DEM,25,7,0,0,0,0,18
+Orangeburg,BOWMAN 2,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Orangeburg,BOWMAN 2,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Orangeburg,BOWMAN 2,U.S. Senate,,Lindsey Graham,REP,63,9,0,0,0,0,54
+Orangeburg,BOWMAN 2,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,BOWMAN 2,U.S. Senate,,Mark Lynch,REP,6,0,0,0,0,0,6
+Orangeburg,BOWMAN 2,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,BOWMAN 2,U.S. Senate,,Annie Andrews,DEM,96,22,0,0,0,23,51
+Orangeburg,BOWMAN 2,U.S. Senate,,Brandon P Brown,DEM,25,8,0,0,0,0,17
+Orangeburg,BOWMAN 2,U.S. Senate,,Kyle Freeman,DEM,8,1,0,0,0,0,7
+Orangeburg,BRANCHVILLE 1,U.S. Senate,,Calvin Cowen,REP,5,1,0,0,0,0,4
+Orangeburg,BRANCHVILLE 1,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Orangeburg,BRANCHVILLE 1,U.S. Senate,,Lindsey Graham,REP,61,4,0,0,0,0,57
+Orangeburg,BRANCHVILLE 1,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Orangeburg,BRANCHVILLE 1,U.S. Senate,,Mark Lynch,REP,12,0,0,0,0,0,12
+Orangeburg,BRANCHVILLE 1,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Orangeburg,BRANCHVILLE 1,U.S. Senate,,Annie Andrews,DEM,58,20,0,0,0,5,33
+Orangeburg,BRANCHVILLE 1,U.S. Senate,,Brandon P Brown,DEM,42,10,0,0,0,4,28
+Orangeburg,BRANCHVILLE 1,U.S. Senate,,Kyle Freeman,DEM,12,5,0,0,0,0,7
+Orangeburg,BRANCHVILLE 2,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,BRANCHVILLE 2,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Orangeburg,BRANCHVILLE 2,U.S. Senate,,Lindsey Graham,REP,36,2,0,0,0,0,34
+Orangeburg,BRANCHVILLE 2,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,BRANCHVILLE 2,U.S. Senate,,Mark Lynch,REP,11,1,0,0,0,0,10
+Orangeburg,BRANCHVILLE 2,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,BRANCHVILLE 2,U.S. Senate,,Annie Andrews,DEM,26,9,0,0,0,1,16
+Orangeburg,BRANCHVILLE 2,U.S. Senate,,Brandon P Brown,DEM,19,3,0,0,0,0,16
+Orangeburg,BRANCHVILLE 2,U.S. Senate,,Kyle Freeman,DEM,2,2,0,0,0,0,0
+Orangeburg,BROOKDALE,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Orangeburg,BROOKDALE,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,BROOKDALE,U.S. Senate,,Lindsey Graham,REP,2,0,0,0,0,0,2
+Orangeburg,BROOKDALE,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,BROOKDALE,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Orangeburg,BROOKDALE,U.S. Senate,,Darius L Mitchell,REP,3,2,0,0,0,0,1
+Orangeburg,BROOKDALE,U.S. Senate,,Annie Andrews,DEM,281,205,0,0,0,11,65
+Orangeburg,BROOKDALE,U.S. Senate,,Brandon P Brown,DEM,198,134,0,0,0,7,57
+Orangeburg,BROOKDALE,U.S. Senate,,Kyle Freeman,DEM,46,28,0,0,0,1,17
+Orangeburg,COPE,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,COPE,U.S. Senate,,Thomas Keith Dismukes,REP,4,1,0,0,0,0,3
+Orangeburg,COPE,U.S. Senate,,Lindsey Graham,REP,70,5,0,0,0,1,64
+Orangeburg,COPE,U.S. Senate,,Pat Herrmann,REP,4,2,0,0,0,0,2
+Orangeburg,COPE,U.S. Senate,,Mark Lynch,REP,12,1,0,0,0,0,11
+Orangeburg,COPE,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,COPE,U.S. Senate,,Annie Andrews,DEM,42,22,0,0,0,1,19
+Orangeburg,COPE,U.S. Senate,,Brandon P Brown,DEM,38,14,0,0,0,0,24
+Orangeburg,COPE,U.S. Senate,,Kyle Freeman,DEM,2,1,0,0,0,0,1
+Orangeburg,CORDOVA 1,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,CORDOVA 1,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Orangeburg,CORDOVA 1,U.S. Senate,,Lindsey Graham,REP,96,18,0,0,0,0,78
+Orangeburg,CORDOVA 1,U.S. Senate,,Pat Herrmann,REP,5,0,0,0,0,0,5
+Orangeburg,CORDOVA 1,U.S. Senate,,Mark Lynch,REP,9,2,0,0,0,0,7
+Orangeburg,CORDOVA 1,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Orangeburg,CORDOVA 1,U.S. Senate,,Annie Andrews,DEM,80,49,0,0,0,0,31
+Orangeburg,CORDOVA 1,U.S. Senate,,Brandon P Brown,DEM,78,41,0,0,0,0,37
+Orangeburg,CORDOVA 1,U.S. Senate,,Kyle Freeman,DEM,20,13,0,0,0,1,6
+Orangeburg,CORDOVA 2,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Orangeburg,CORDOVA 2,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Orangeburg,CORDOVA 2,U.S. Senate,,Lindsey Graham,REP,61,7,0,0,0,0,54
+Orangeburg,CORDOVA 2,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Orangeburg,CORDOVA 2,U.S. Senate,,Mark Lynch,REP,4,0,0,0,0,0,4
+Orangeburg,CORDOVA 2,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Orangeburg,CORDOVA 2,U.S. Senate,,Annie Andrews,DEM,102,56,0,0,0,0,46
+Orangeburg,CORDOVA 2,U.S. Senate,,Brandon P Brown,DEM,84,46,0,0,0,2,36
+Orangeburg,CORDOVA 2,U.S. Senate,,Kyle Freeman,DEM,30,14,0,0,0,0,16
+Orangeburg,EDISTO,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,EDISTO,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,1,0
+Orangeburg,EDISTO,U.S. Senate,,Lindsey Graham,REP,108,7,0,0,0,2,99
+Orangeburg,EDISTO,U.S. Senate,,Pat Herrmann,REP,7,4,0,0,0,0,3
+Orangeburg,EDISTO,U.S. Senate,,Mark Lynch,REP,31,2,0,0,0,2,27
+Orangeburg,EDISTO,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Orangeburg,EDISTO,U.S. Senate,,Annie Andrews,DEM,47,29,0,0,0,0,18
+Orangeburg,EDISTO,U.S. Senate,,Brandon P Brown,DEM,35,24,0,0,0,0,11
+Orangeburg,EDISTO,U.S. Senate,,Kyle Freeman,DEM,10,4,0,0,0,0,6
+Orangeburg,ELLOREE 1,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Orangeburg,ELLOREE 1,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,ELLOREE 1,U.S. Senate,,Lindsey Graham,REP,76,12,0,0,0,1,63
+Orangeburg,ELLOREE 1,U.S. Senate,,Pat Herrmann,REP,3,2,0,0,0,0,1
+Orangeburg,ELLOREE 1,U.S. Senate,,Mark Lynch,REP,13,2,0,0,0,0,11
+Orangeburg,ELLOREE 1,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Orangeburg,ELLOREE 1,U.S. Senate,,Annie Andrews,DEM,103,41,0,0,0,9,53
+Orangeburg,ELLOREE 1,U.S. Senate,,Brandon P Brown,DEM,32,17,0,0,0,6,9
+Orangeburg,ELLOREE 1,U.S. Senate,,Kyle Freeman,DEM,12,5,0,0,0,0,7
+Orangeburg,ELLOREE 2,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,ELLOREE 2,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Orangeburg,ELLOREE 2,U.S. Senate,,Lindsey Graham,REP,20,2,0,0,0,0,18
+Orangeburg,ELLOREE 2,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,ELLOREE 2,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Orangeburg,ELLOREE 2,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Orangeburg,ELLOREE 2,U.S. Senate,,Annie Andrews,DEM,105,39,0,0,0,13,53
+Orangeburg,ELLOREE 2,U.S. Senate,,Brandon P Brown,DEM,46,31,0,0,0,7,8
+Orangeburg,ELLOREE 2,U.S. Senate,,Kyle Freeman,DEM,12,8,0,0,0,2,2
+Orangeburg,EUTAWVILLE 1,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Orangeburg,EUTAWVILLE 1,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Orangeburg,EUTAWVILLE 1,U.S. Senate,,Lindsey Graham,REP,106,24,0,0,0,0,82
+Orangeburg,EUTAWVILLE 1,U.S. Senate,,Pat Herrmann,REP,4,2,0,0,0,0,2
+Orangeburg,EUTAWVILLE 1,U.S. Senate,,Mark Lynch,REP,32,6,0,0,0,0,26
+Orangeburg,EUTAWVILLE 1,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,0,3
+Orangeburg,EUTAWVILLE 1,U.S. Senate,,Annie Andrews,DEM,104,64,0,0,0,5,35
+Orangeburg,EUTAWVILLE 1,U.S. Senate,,Brandon P Brown,DEM,27,19,0,0,0,1,7
+Orangeburg,EUTAWVILLE 1,U.S. Senate,,Kyle Freeman,DEM,11,5,0,0,0,0,6
+Orangeburg,EUTAWVILLE 2,U.S. Senate,,Calvin Cowen,REP,5,1,0,0,0,0,4
+Orangeburg,EUTAWVILLE 2,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Orangeburg,EUTAWVILLE 2,U.S. Senate,,Lindsey Graham,REP,30,5,0,0,0,0,25
+Orangeburg,EUTAWVILLE 2,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Orangeburg,EUTAWVILLE 2,U.S. Senate,,Mark Lynch,REP,11,0,0,0,0,0,11
+Orangeburg,EUTAWVILLE 2,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Orangeburg,EUTAWVILLE 2,U.S. Senate,,Annie Andrews,DEM,232,160,0,0,0,11,61
+Orangeburg,EUTAWVILLE 2,U.S. Senate,,Brandon P Brown,DEM,117,80,0,0,0,2,35
+Orangeburg,EUTAWVILLE 2,U.S. Senate,,Kyle Freeman,DEM,21,16,0,0,0,0,5
+Orangeburg,FOUR HOLES,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Orangeburg,FOUR HOLES,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Orangeburg,FOUR HOLES,U.S. Senate,,Lindsey Graham,REP,64,4,0,0,0,0,60
+Orangeburg,FOUR HOLES,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Orangeburg,FOUR HOLES,U.S. Senate,,Mark Lynch,REP,24,3,0,0,0,0,21
+Orangeburg,FOUR HOLES,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,FOUR HOLES,U.S. Senate,,Annie Andrews,DEM,39,15,0,0,0,2,22
+Orangeburg,FOUR HOLES,U.S. Senate,,Brandon P Brown,DEM,15,5,0,0,0,0,10
+Orangeburg,FOUR HOLES,U.S. Senate,,Kyle Freeman,DEM,8,0,0,0,0,0,8
+Orangeburg,Failsafe,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Orangeburg,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 1,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Orangeburg,HOLLY HILL 1,U.S. Senate,,Thomas Keith Dismukes,REP,6,3,0,0,0,0,3
+Orangeburg,HOLLY HILL 1,U.S. Senate,,Lindsey Graham,REP,94,14,0,0,0,0,80
+Orangeburg,HOLLY HILL 1,U.S. Senate,,Pat Herrmann,REP,4,1,0,0,0,0,3
+Orangeburg,HOLLY HILL 1,U.S. Senate,,Mark Lynch,REP,21,5,0,0,0,0,16
+Orangeburg,HOLLY HILL 1,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,0,3
+Orangeburg,HOLLY HILL 1,U.S. Senate,,Annie Andrews,DEM,217,137,0,0,0,4,76
+Orangeburg,HOLLY HILL 1,U.S. Senate,,Brandon P Brown,DEM,98,54,0,0,0,1,43
+Orangeburg,HOLLY HILL 1,U.S. Senate,,Kyle Freeman,DEM,15,7,0,0,0,0,8
+Orangeburg,HOLLY HILL 2,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Orangeburg,HOLLY HILL 2,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Orangeburg,HOLLY HILL 2,U.S. Senate,,Lindsey Graham,REP,34,12,0,0,0,0,22
+Orangeburg,HOLLY HILL 2,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Orangeburg,HOLLY HILL 2,U.S. Senate,,Mark Lynch,REP,6,2,0,0,0,0,4
+Orangeburg,HOLLY HILL 2,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,HOLLY HILL 2,U.S. Senate,,Annie Andrews,DEM,212,115,0,0,0,14,83
+Orangeburg,HOLLY HILL 2,U.S. Senate,,Brandon P Brown,DEM,108,43,0,0,0,5,60
+Orangeburg,HOLLY HILL 2,U.S. Senate,,Kyle Freeman,DEM,32,19,0,0,0,0,13
+Orangeburg,JAMISON,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Orangeburg,JAMISON,U.S. Senate,,Thomas Keith Dismukes,REP,4,1,0,0,0,0,3
+Orangeburg,JAMISON,U.S. Senate,,Lindsey Graham,REP,59,17,0,0,0,2,40
+Orangeburg,JAMISON,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Orangeburg,JAMISON,U.S. Senate,,Mark Lynch,REP,16,4,0,0,0,0,12
+Orangeburg,JAMISON,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,JAMISON,U.S. Senate,,Annie Andrews,DEM,231,158,0,0,0,1,72
+Orangeburg,JAMISON,U.S. Senate,,Brandon P Brown,DEM,174,100,0,0,0,10,64
+Orangeburg,JAMISON,U.S. Senate,,Kyle Freeman,DEM,52,34,0,0,0,0,18
+Orangeburg,LIMESTONE 1,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,LIMESTONE 1,U.S. Senate,,Thomas Keith Dismukes,REP,3,2,0,0,0,0,1
+Orangeburg,LIMESTONE 1,U.S. Senate,,Lindsey Graham,REP,42,20,0,0,0,2,20
+Orangeburg,LIMESTONE 1,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Orangeburg,LIMESTONE 1,U.S. Senate,,Mark Lynch,REP,13,2,0,0,0,0,11
+Orangeburg,LIMESTONE 1,U.S. Senate,,Darius L Mitchell,REP,3,1,0,0,0,0,2
+Orangeburg,LIMESTONE 1,U.S. Senate,,Annie Andrews,DEM,197,141,0,0,0,2,54
+Orangeburg,LIMESTONE 1,U.S. Senate,,Brandon P Brown,DEM,146,92,0,0,0,4,50
+Orangeburg,LIMESTONE 1,U.S. Senate,,Kyle Freeman,DEM,37,27,0,0,0,0,10
+Orangeburg,LIMESTONE 2,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Orangeburg,LIMESTONE 2,U.S. Senate,,Thomas Keith Dismukes,REP,4,1,0,0,0,0,3
+Orangeburg,LIMESTONE 2,U.S. Senate,,Lindsey Graham,REP,50,21,0,0,0,0,29
+Orangeburg,LIMESTONE 2,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Orangeburg,LIMESTONE 2,U.S. Senate,,Mark Lynch,REP,14,6,0,0,0,0,8
+Orangeburg,LIMESTONE 2,U.S. Senate,,Darius L Mitchell,REP,2,2,0,0,0,0,0
+Orangeburg,LIMESTONE 2,U.S. Senate,,Annie Andrews,DEM,189,138,0,0,0,4,47
+Orangeburg,LIMESTONE 2,U.S. Senate,,Brandon P Brown,DEM,176,114,0,0,0,2,60
+Orangeburg,LIMESTONE 2,U.S. Senate,,Kyle Freeman,DEM,38,19,0,0,0,0,19
+Orangeburg,NEESES-LIVINGSTON,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Orangeburg,NEESES-LIVINGSTON,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Orangeburg,NEESES-LIVINGSTON,U.S. Senate,,Lindsey Graham,REP,98,23,0,0,0,1,74
+Orangeburg,NEESES-LIVINGSTON,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Orangeburg,NEESES-LIVINGSTON,U.S. Senate,,Mark Lynch,REP,20,1,0,0,0,0,19
+Orangeburg,NEESES-LIVINGSTON,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Orangeburg,NEESES-LIVINGSTON,U.S. Senate,,Annie Andrews,DEM,43,22,0,0,0,2,19
+Orangeburg,NEESES-LIVINGSTON,U.S. Senate,,Brandon P Brown,DEM,47,25,0,0,0,2,20
+Orangeburg,NEESES-LIVINGSTON,U.S. Senate,,Kyle Freeman,DEM,7,4,0,0,0,0,3
+Orangeburg,NIX,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Orangeburg,NIX,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,NIX,U.S. Senate,,Lindsey Graham,REP,3,2,0,0,0,0,1
+Orangeburg,NIX,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,NIX,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Orangeburg,NIX,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,NIX,U.S. Senate,,Annie Andrews,DEM,138,78,0,0,0,5,55
+Orangeburg,NIX,U.S. Senate,,Brandon P Brown,DEM,112,58,0,0,0,1,53
+Orangeburg,NIX,U.S. Senate,,Kyle Freeman,DEM,37,20,0,0,0,2,15
+Orangeburg,NORTH 1,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Orangeburg,NORTH 1,U.S. Senate,,Thomas Keith Dismukes,REP,4,0,0,0,0,0,4
+Orangeburg,NORTH 1,U.S. Senate,,Lindsey Graham,REP,66,27,0,0,0,0,39
+Orangeburg,NORTH 1,U.S. Senate,,Pat Herrmann,REP,1,1,0,0,0,0,0
+Orangeburg,NORTH 1,U.S. Senate,,Mark Lynch,REP,18,3,0,0,0,0,15
+Orangeburg,NORTH 1,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Orangeburg,NORTH 1,U.S. Senate,,Annie Andrews,DEM,110,56,0,0,0,16,38
+Orangeburg,NORTH 1,U.S. Senate,,Brandon P Brown,DEM,86,56,0,0,0,3,27
+Orangeburg,NORTH 1,U.S. Senate,,Kyle Freeman,DEM,22,13,0,0,0,0,9
+Orangeburg,NORTH 2,U.S. Senate,,Calvin Cowen,REP,5,0,0,0,0,0,5
+Orangeburg,NORTH 2,U.S. Senate,,Thomas Keith Dismukes,REP,12,1,0,0,0,0,11
+Orangeburg,NORTH 2,U.S. Senate,,Lindsey Graham,REP,92,26,0,0,0,1,65
+Orangeburg,NORTH 2,U.S. Senate,,Pat Herrmann,REP,5,2,0,0,0,0,3
+Orangeburg,NORTH 2,U.S. Senate,,Mark Lynch,REP,37,11,0,0,0,0,26
+Orangeburg,NORTH 2,U.S. Senate,,Darius L Mitchell,REP,5,1,0,0,0,0,4
+Orangeburg,NORTH 2,U.S. Senate,,Annie Andrews,DEM,75,49,0,0,0,0,26
+Orangeburg,NORTH 2,U.S. Senate,,Brandon P Brown,DEM,88,53,0,0,0,2,33
+Orangeburg,NORTH 2,U.S. Senate,,Kyle Freeman,DEM,14,8,0,0,0,0,6
+Orangeburg,NORWAY,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Orangeburg,NORWAY,U.S. Senate,,Thomas Keith Dismukes,REP,4,4,0,0,0,0,0
+Orangeburg,NORWAY,U.S. Senate,,Lindsey Graham,REP,71,17,0,0,0,2,52
+Orangeburg,NORWAY,U.S. Senate,,Pat Herrmann,REP,1,1,0,0,0,0,0
+Orangeburg,NORWAY,U.S. Senate,,Mark Lynch,REP,15,6,0,0,0,0,9
+Orangeburg,NORWAY,U.S. Senate,,Darius L Mitchell,REP,3,1,0,0,0,0,2
+Orangeburg,NORWAY,U.S. Senate,,Annie Andrews,DEM,92,38,0,0,0,6,48
+Orangeburg,NORWAY,U.S. Senate,,Brandon P Brown,DEM,102,54,0,0,0,6,42
+Orangeburg,NORWAY,U.S. Senate,,Kyle Freeman,DEM,28,14,0,0,0,0,14
+Orangeburg,ORANGEBURG WD 1,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 1,U.S. Senate,,Lindsey Graham,REP,23,5,0,0,0,0,18
+Orangeburg,ORANGEBURG WD 1,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 1,U.S. Senate,,Mark Lynch,REP,15,5,0,0,0,1,9
+Orangeburg,ORANGEBURG WD 1,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 1,U.S. Senate,,Annie Andrews,DEM,74,46,0,0,0,2,26
+Orangeburg,ORANGEBURG WD 1,U.S. Senate,,Brandon P Brown,DEM,37,25,0,0,0,0,12
+Orangeburg,ORANGEBURG WD 1,U.S. Senate,,Kyle Freeman,DEM,17,10,0,0,0,0,7
+Orangeburg,ORANGEBURG WD 10,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 10,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 10,U.S. Senate,,Lindsey Graham,REP,40,21,0,0,0,0,19
+Orangeburg,ORANGEBURG WD 10,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 10,U.S. Senate,,Mark Lynch,REP,3,0,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 10,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 10,U.S. Senate,,Annie Andrews,DEM,141,79,0,0,0,4,58
+Orangeburg,ORANGEBURG WD 10,U.S. Senate,,Brandon P Brown,DEM,84,53,0,0,0,1,30
+Orangeburg,ORANGEBURG WD 10,U.S. Senate,,Kyle Freeman,DEM,22,11,0,0,0,0,11
+Orangeburg,ORANGEBURG WD 2,U.S. Senate,,Calvin Cowen,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 2,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 2,U.S. Senate,,Lindsey Graham,REP,2,0,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 2,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 2,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 2,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 2,U.S. Senate,,Annie Andrews,DEM,27,17,0,0,0,0,10
+Orangeburg,ORANGEBURG WD 2,U.S. Senate,,Brandon P Brown,DEM,36,20,0,0,0,0,16
+Orangeburg,ORANGEBURG WD 2,U.S. Senate,,Kyle Freeman,DEM,12,9,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 3,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,U.S. Senate,,Lindsey Graham,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,U.S. Senate,,Pat Herrmann,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 3,U.S. Senate,,Annie Andrews,DEM,92,59,0,0,0,1,32
+Orangeburg,ORANGEBURG WD 3,U.S. Senate,,Brandon P Brown,DEM,75,34,0,0,0,0,41
+Orangeburg,ORANGEBURG WD 3,U.S. Senate,,Kyle Freeman,DEM,17,8,0,0,0,1,8
+Orangeburg,ORANGEBURG WD 4,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 4,U.S. Senate,,Annie Andrews,DEM,38,17,0,0,0,8,13
+Orangeburg,ORANGEBURG WD 4,U.S. Senate,,Brandon P Brown,DEM,32,23,0,0,0,0,9
+Orangeburg,ORANGEBURG WD 4,U.S. Senate,,Kyle Freeman,DEM,5,4,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 5,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,U.S. Senate,,Lindsey Graham,REP,5,2,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 5,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,U.S. Senate,,Mark Lynch,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 5,U.S. Senate,,Annie Andrews,DEM,56,26,0,0,0,7,23
+Orangeburg,ORANGEBURG WD 5,U.S. Senate,,Brandon P Brown,DEM,44,24,0,0,0,0,20
+Orangeburg,ORANGEBURG WD 5,U.S. Senate,,Kyle Freeman,DEM,14,9,0,0,0,0,5
+Orangeburg,ORANGEBURG WD 6,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 6,U.S. Senate,,Thomas Keith Dismukes,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 6,U.S. Senate,,Lindsey Graham,REP,23,5,0,0,0,0,18
+Orangeburg,ORANGEBURG WD 6,U.S. Senate,,Pat Herrmann,REP,1,1,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 6,U.S. Senate,,Mark Lynch,REP,4,1,0,0,0,0,3
+Orangeburg,ORANGEBURG WD 6,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 6,U.S. Senate,,Annie Andrews,DEM,81,50,0,0,0,0,31
+Orangeburg,ORANGEBURG WD 6,U.S. Senate,,Brandon P Brown,DEM,43,21,0,0,0,0,22
+Orangeburg,ORANGEBURG WD 6,U.S. Senate,,Kyle Freeman,DEM,9,5,0,0,0,0,4
+Orangeburg,ORANGEBURG WD 8,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 8,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 8,U.S. Senate,,Lindsey Graham,REP,40,9,0,0,0,0,31
+Orangeburg,ORANGEBURG WD 8,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 8,U.S. Senate,,Mark Lynch,REP,15,0,0,0,0,0,15
+Orangeburg,ORANGEBURG WD 8,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 8,U.S. Senate,,Annie Andrews,DEM,92,58,0,0,0,4,30
+Orangeburg,ORANGEBURG WD 8,U.S. Senate,,Brandon P Brown,DEM,45,38,0,0,0,0,7
+Orangeburg,ORANGEBURG WD 8,U.S. Senate,,Kyle Freeman,DEM,13,6,0,0,0,2,5
+Orangeburg,ORANGEBURG WD 9,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 9,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 9,U.S. Senate,,Lindsey Graham,REP,9,5,0,0,0,0,4
+Orangeburg,ORANGEBURG WD 9,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Orangeburg,ORANGEBURG WD 9,U.S. Senate,,Mark Lynch,REP,2,0,0,0,0,0,2
+Orangeburg,ORANGEBURG WD 9,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,ORANGEBURG WD 9,U.S. Senate,,Annie Andrews,DEM,68,37,0,0,0,8,23
+Orangeburg,ORANGEBURG WD 9,U.S. Senate,,Brandon P Brown,DEM,59,31,0,0,0,1,27
+Orangeburg,ORANGEBURG WD 9,U.S. Senate,,Kyle Freeman,DEM,13,8,0,0,0,0,5
+Orangeburg,ORNAGEBURG WD 7,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Orangeburg,ORNAGEBURG WD 7,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,ORNAGEBURG WD 7,U.S. Senate,,Lindsey Graham,REP,47,15,0,0,0,0,32
+Orangeburg,ORNAGEBURG WD 7,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,ORNAGEBURG WD 7,U.S. Senate,,Mark Lynch,REP,14,1,0,0,0,1,12
+Orangeburg,ORNAGEBURG WD 7,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,ORNAGEBURG WD 7,U.S. Senate,,Annie Andrews,DEM,133,83,0,0,0,4,46
+Orangeburg,ORNAGEBURG WD 7,U.S. Senate,,Brandon P Brown,DEM,87,53,0,0,0,0,34
+Orangeburg,ORNAGEBURG WD 7,U.S. Senate,,Kyle Freeman,DEM,15,11,0,0,0,0,4
+Orangeburg,PINE HILL,U.S. Senate,,Calvin Cowen,REP,4,2,0,0,0,0,2
+Orangeburg,PINE HILL,U.S. Senate,,Thomas Keith Dismukes,REP,2,1,0,0,0,0,1
+Orangeburg,PINE HILL,U.S. Senate,,Lindsey Graham,REP,56,13,0,0,0,2,41
+Orangeburg,PINE HILL,U.S. Senate,,Pat Herrmann,REP,3,1,0,0,0,0,2
+Orangeburg,PINE HILL,U.S. Senate,,Mark Lynch,REP,8,0,0,0,0,0,8
+Orangeburg,PINE HILL,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Orangeburg,PINE HILL,U.S. Senate,,Annie Andrews,DEM,94,44,0,0,0,5,45
+Orangeburg,PINE HILL,U.S. Senate,,Brandon P Brown,DEM,69,30,0,0,0,0,39
+Orangeburg,PINE HILL,U.S. Senate,,Kyle Freeman,DEM,19,4,0,0,0,0,15
+Orangeburg,PROVIDENCE,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Orangeburg,PROVIDENCE,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Orangeburg,PROVIDENCE,U.S. Senate,,Lindsey Graham,REP,72,6,0,0,0,0,66
+Orangeburg,PROVIDENCE,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Orangeburg,PROVIDENCE,U.S. Senate,,Mark Lynch,REP,13,2,0,0,0,0,11
+Orangeburg,PROVIDENCE,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,0,3
+Orangeburg,PROVIDENCE,U.S. Senate,,Annie Andrews,DEM,143,78,0,0,0,15,50
+Orangeburg,PROVIDENCE,U.S. Senate,,Brandon P Brown,DEM,73,37,0,0,0,4,32
+Orangeburg,PROVIDENCE,U.S. Senate,,Kyle Freeman,DEM,16,8,0,0,0,0,8
+Orangeburg,Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. Senate,,Mark Lynch,REP,1,0,0,1,0,0,0
+Orangeburg,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. Senate,,Annie Andrews,DEM,2,0,0,2,0,0,0
+Orangeburg,Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Orangeburg,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Orangeburg,ROWESVILLE,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Orangeburg,ROWESVILLE,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Orangeburg,ROWESVILLE,U.S. Senate,,Lindsey Graham,REP,25,1,0,0,0,0,24
+Orangeburg,ROWESVILLE,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Orangeburg,ROWESVILLE,U.S. Senate,,Mark Lynch,REP,8,0,0,0,0,0,8
+Orangeburg,ROWESVILLE,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Orangeburg,ROWESVILLE,U.S. Senate,,Annie Andrews,DEM,42,18,0,0,0,0,24
+Orangeburg,ROWESVILLE,U.S. Senate,,Brandon P Brown,DEM,30,8,0,0,0,0,22
+Orangeburg,ROWESVILLE,U.S. Senate,,Kyle Freeman,DEM,10,3,0,0,0,0,7
+Orangeburg,SANTEE 1,U.S. Senate,,Calvin Cowen,REP,7,1,0,0,0,0,6
+Orangeburg,SANTEE 1,U.S. Senate,,Thomas Keith Dismukes,REP,6,2,0,0,0,0,4
+Orangeburg,SANTEE 1,U.S. Senate,,Lindsey Graham,REP,173,41,0,0,0,0,132
+Orangeburg,SANTEE 1,U.S. Senate,,Pat Herrmann,REP,7,1,0,0,0,2,4
+Orangeburg,SANTEE 1,U.S. Senate,,Mark Lynch,REP,41,10,0,0,0,3,28
+Orangeburg,SANTEE 1,U.S. Senate,,Darius L Mitchell,REP,7,2,0,0,0,0,5
+Orangeburg,SANTEE 1,U.S. Senate,,Annie Andrews,DEM,131,72,0,0,0,6,53
+Orangeburg,SANTEE 1,U.S. Senate,,Brandon P Brown,DEM,63,34,0,0,0,0,29
+Orangeburg,SANTEE 1,U.S. Senate,,Kyle Freeman,DEM,15,6,0,0,0,1,8
+Orangeburg,SANTEE 2,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,SANTEE 2,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,SANTEE 2,U.S. Senate,,Lindsey Graham,REP,12,3,0,0,0,0,9
+Orangeburg,SANTEE 2,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,SANTEE 2,U.S. Senate,,Mark Lynch,REP,3,0,0,0,0,0,3
+Orangeburg,SANTEE 2,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,SANTEE 2,U.S. Senate,,Annie Andrews,DEM,199,85,0,0,0,32,82
+Orangeburg,SANTEE 2,U.S. Senate,,Brandon P Brown,DEM,117,55,0,0,0,9,53
+Orangeburg,SANTEE 2,U.S. Senate,,Kyle Freeman,DEM,15,9,0,0,0,2,4
+Orangeburg,SPRINGFIELD,U.S. Senate,,Calvin Cowen,REP,5,3,0,0,0,0,2
+Orangeburg,SPRINGFIELD,U.S. Senate,,Thomas Keith Dismukes,REP,9,1,0,0,0,0,8
+Orangeburg,SPRINGFIELD,U.S. Senate,,Lindsey Graham,REP,74,11,0,0,0,0,63
+Orangeburg,SPRINGFIELD,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Orangeburg,SPRINGFIELD,U.S. Senate,,Mark Lynch,REP,27,4,0,0,0,0,23
+Orangeburg,SPRINGFIELD,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Orangeburg,SPRINGFIELD,U.S. Senate,,Annie Andrews,DEM,89,22,0,0,0,30,37
+Orangeburg,SPRINGFIELD,U.S. Senate,,Brandon P Brown,DEM,114,21,0,0,0,52,41
+Orangeburg,SPRINGFIELD,U.S. Senate,,Kyle Freeman,DEM,13,3,0,0,0,5,5
+Orangeburg,SUBURBAN 1,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 1,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 1,U.S. Senate,,Annie Andrews,DEM,57,39,0,0,0,2,16
+Orangeburg,SUBURBAN 1,U.S. Senate,,Brandon P Brown,DEM,54,32,0,0,0,4,18
+Orangeburg,SUBURBAN 1,U.S. Senate,,Kyle Freeman,DEM,7,3,0,0,0,0,4
+Orangeburg,SUBURBAN 2,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 2,U.S. Senate,,Annie Andrews,DEM,89,49,0,0,0,8,32
+Orangeburg,SUBURBAN 2,U.S. Senate,,Brandon P Brown,DEM,62,43,0,0,0,4,15
+Orangeburg,SUBURBAN 2,U.S. Senate,,Kyle Freeman,DEM,16,13,0,0,0,0,3
+Orangeburg,SUBURBAN 3,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,U.S. Senate,,Lindsey Graham,REP,9,4,0,0,0,0,5
+Orangeburg,SUBURBAN 3,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Orangeburg,SUBURBAN 3,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 3,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 3,U.S. Senate,,Annie Andrews,DEM,212,129,0,0,0,4,79
+Orangeburg,SUBURBAN 3,U.S. Senate,,Brandon P Brown,DEM,130,62,0,0,0,1,67
+Orangeburg,SUBURBAN 3,U.S. Senate,,Kyle Freeman,DEM,30,19,0,0,0,0,11
+Orangeburg,SUBURBAN 4,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 4,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 4,U.S. Senate,,Lindsey Graham,REP,5,1,0,0,0,0,4
+Orangeburg,SUBURBAN 4,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 4,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 4,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 4,U.S. Senate,,Annie Andrews,DEM,27,15,0,0,0,0,12
+Orangeburg,SUBURBAN 4,U.S. Senate,,Brandon P Brown,DEM,26,11,0,0,0,0,15
+Orangeburg,SUBURBAN 4,U.S. Senate,,Kyle Freeman,DEM,5,2,0,0,0,0,3
+Orangeburg,SUBURBAN 5,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 5,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 5,U.S. Senate,,Lindsey Graham,REP,21,6,0,0,0,0,15
+Orangeburg,SUBURBAN 5,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 5,U.S. Senate,,Mark Lynch,REP,3,0,0,0,0,0,3
+Orangeburg,SUBURBAN 5,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Orangeburg,SUBURBAN 5,U.S. Senate,,Annie Andrews,DEM,152,93,0,0,0,3,56
+Orangeburg,SUBURBAN 5,U.S. Senate,,Brandon P Brown,DEM,92,60,0,0,0,1,31
+Orangeburg,SUBURBAN 5,U.S. Senate,,Kyle Freeman,DEM,24,21,0,0,0,0,3
+Orangeburg,SUBURBAN 6,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 6,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 6,U.S. Senate,,Lindsey Graham,REP,34,12,0,0,0,0,22
+Orangeburg,SUBURBAN 6,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Orangeburg,SUBURBAN 6,U.S. Senate,,Mark Lynch,REP,13,5,0,0,0,0,8
+Orangeburg,SUBURBAN 6,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 6,U.S. Senate,,Annie Andrews,DEM,59,35,0,0,0,5,19
+Orangeburg,SUBURBAN 6,U.S. Senate,,Brandon P Brown,DEM,33,18,0,0,0,2,13
+Orangeburg,SUBURBAN 6,U.S. Senate,,Kyle Freeman,DEM,6,3,0,0,0,0,3
+Orangeburg,SUBURBAN 7,U.S. Senate,,Calvin Cowen,REP,7,2,0,0,0,0,5
+Orangeburg,SUBURBAN 7,U.S. Senate,,Thomas Keith Dismukes,REP,6,3,0,0,0,0,3
+Orangeburg,SUBURBAN 7,U.S. Senate,,Lindsey Graham,REP,157,56,0,0,0,3,98
+Orangeburg,SUBURBAN 7,U.S. Senate,,Pat Herrmann,REP,9,4,0,0,0,0,5
+Orangeburg,SUBURBAN 7,U.S. Senate,,Mark Lynch,REP,35,14,0,0,0,0,21
+Orangeburg,SUBURBAN 7,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 7,U.S. Senate,,Annie Andrews,DEM,232,164,0,0,0,7,61
+Orangeburg,SUBURBAN 7,U.S. Senate,,Brandon P Brown,DEM,171,126,0,0,0,1,44
+Orangeburg,SUBURBAN 7,U.S. Senate,,Kyle Freeman,DEM,42,27,0,0,0,0,15
+Orangeburg,SUBURBAN 8,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Orangeburg,SUBURBAN 8,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 8,U.S. Senate,,Lindsey Graham,REP,53,13,0,0,0,1,39
+Orangeburg,SUBURBAN 8,U.S. Senate,,Pat Herrmann,REP,2,1,0,0,0,0,1
+Orangeburg,SUBURBAN 8,U.S. Senate,,Mark Lynch,REP,13,5,0,0,0,0,8
+Orangeburg,SUBURBAN 8,U.S. Senate,,Darius L Mitchell,REP,4,0,0,0,0,0,4
+Orangeburg,SUBURBAN 8,U.S. Senate,,Annie Andrews,DEM,135,88,0,0,0,1,46
+Orangeburg,SUBURBAN 8,U.S. Senate,,Brandon P Brown,DEM,67,49,0,0,0,0,18
+Orangeburg,SUBURBAN 8,U.S. Senate,,Kyle Freeman,DEM,12,8,0,0,0,0,4
+Orangeburg,SUBURBAN 9,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,SUBURBAN 9,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 9,U.S. Senate,,Lindsey Graham,REP,30,7,0,0,0,0,23
+Orangeburg,SUBURBAN 9,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Orangeburg,SUBURBAN 9,U.S. Senate,,Mark Lynch,REP,6,4,0,0,0,0,2
+Orangeburg,SUBURBAN 9,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Orangeburg,SUBURBAN 9,U.S. Senate,,Annie Andrews,DEM,190,114,0,0,0,6,70
+Orangeburg,SUBURBAN 9,U.S. Senate,,Brandon P Brown,DEM,112,65,0,0,0,4,43
+Orangeburg,SUBURBAN 9,U.S. Senate,,Kyle Freeman,DEM,33,23,0,0,0,0,10
+Orangeburg,VANCE,U.S. Senate,,Calvin Cowen,REP,3,1,0,0,0,0,2
+Orangeburg,VANCE,U.S. Senate,,Thomas Keith Dismukes,REP,3,1,0,0,0,0,2
+Orangeburg,VANCE,U.S. Senate,,Lindsey Graham,REP,57,14,0,0,0,1,42
+Orangeburg,VANCE,U.S. Senate,,Pat Herrmann,REP,3,3,0,0,0,0,0
+Orangeburg,VANCE,U.S. Senate,,Mark Lynch,REP,19,5,0,0,0,0,14
+Orangeburg,VANCE,U.S. Senate,,Darius L Mitchell,REP,5,1,0,0,0,0,4
+Orangeburg,VANCE,U.S. Senate,,Annie Andrews,DEM,225,164,0,0,0,5,56
+Orangeburg,VANCE,U.S. Senate,,Brandon P Brown,DEM,122,87,0,0,0,2,33
+Orangeburg,VANCE,U.S. Senate,,Kyle Freeman,DEM,31,22,0,0,0,0,9
+Orangeburg,WHITTAKER,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Orangeburg,WHITTAKER,U.S. Senate,,Thomas Keith Dismukes,REP,2,2,0,0,0,0,0
+Orangeburg,WHITTAKER,U.S. Senate,,Lindsey Graham,REP,19,8,0,0,0,0,11
+Orangeburg,WHITTAKER,U.S. Senate,,Pat Herrmann,REP,1,1,0,0,0,0,0
+Orangeburg,WHITTAKER,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Orangeburg,WHITTAKER,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Orangeburg,WHITTAKER,U.S. Senate,,Annie Andrews,DEM,154,104,0,0,0,8,42
+Orangeburg,WHITTAKER,U.S. Senate,,Brandon P Brown,DEM,93,60,0,0,0,3,30
+Orangeburg,WHITTAKER,U.S. Senate,,Kyle Freeman,DEM,22,16,0,0,0,0,6

@@ -1,0 +1,985 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Union,Adamsburg,Advisory Question 1,,Yes,REP,122,23,0,0,0,0,99
+Union,Adamsburg,Advisory Question 1,,No,REP,24,8,0,0,0,0,16
+Union,Black Rock,Advisory Question 1,,Yes,REP,40,4,0,0,0,0,36
+Union,Black Rock,Advisory Question 1,,No,REP,4,0,0,0,0,0,4
+Union,Bonham,Advisory Question 1,,Yes,REP,138,25,0,0,0,0,113
+Union,Bonham,Advisory Question 1,,No,REP,24,4,0,0,0,0,20
+Union,Buffalo Box 1,Advisory Question 1,,Yes,REP,145,24,0,0,0,0,121
+Union,Buffalo Box 1,Advisory Question 1,,No,REP,13,2,0,0,0,0,11
+Union,Carlisle,Advisory Question 1,,Yes,REP,15,4,0,0,0,0,11
+Union,Carlisle,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Union,Cross Keys,Advisory Question 1,,Yes,REP,140,33,0,0,0,0,107
+Union,Cross Keys,Advisory Question 1,,No,REP,13,1,0,0,0,0,12
+Union,Excelsior,Advisory Question 1,,Yes,REP,194,69,0,0,0,0,125
+Union,Excelsior,Advisory Question 1,,No,REP,28,6,0,0,0,0,22
+Union,Failsafe,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Union,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Advisory Question 1,,Yes,REP,2,0,2,0,0,0,0
+Union,Failsafe Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Advisory Question 1,,Yes,REP,182,24,0,0,0,0,158
+Union,Jonesville Box 1,Advisory Question 1,,No,REP,30,1,0,0,0,0,29
+Union,Jonesville Box 2,Advisory Question 1,,Yes,REP,183,46,0,0,0,1,136
+Union,Jonesville Box 2,Advisory Question 1,,No,REP,17,1,0,0,0,0,16
+Union,Kelton,Advisory Question 1,,Yes,REP,213,40,0,0,0,0,173
+Union,Kelton,Advisory Question 1,,No,REP,31,3,0,0,0,0,28
+Union,Lockhart,Advisory Question 1,,Yes,REP,96,9,0,0,0,0,87
+Union,Lockhart,Advisory Question 1,,No,REP,8,0,0,0,0,0,8
+Union,Monarch,Advisory Question 1,,Yes,REP,219,57,0,0,0,0,162
+Union,Monarch,Advisory Question 1,,No,REP,23,5,0,0,0,0,18
+Union,Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Union,Provisional,Advisory Question 1,,No,REP,1,0,0,1,0,0,0
+Union,Putnam,Advisory Question 1,,Yes,REP,130,22,0,0,0,0,108
+Union,Putnam,Advisory Question 1,,No,REP,21,2,0,0,0,0,19
+Union,Santuck,Advisory Question 1,,Yes,REP,73,17,0,0,0,0,56
+Union,Santuck,Advisory Question 1,,No,REP,19,8,0,0,0,0,11
+Union,Union Ward 1 Box 1,Advisory Question 1,,Yes,REP,87,28,0,0,0,0,59
+Union,Union Ward 1 Box 1,Advisory Question 1,,No,REP,10,3,0,0,0,0,7
+Union,Union Ward 1 Box 2,Advisory Question 1,,Yes,REP,75,25,0,0,0,0,50
+Union,Union Ward 1 Box 2,Advisory Question 1,,No,REP,11,1,0,0,0,0,10
+Union,Union Ward 2,Advisory Question 1,,Yes,REP,87,41,0,0,0,0,46
+Union,Union Ward 2,Advisory Question 1,,No,REP,14,4,0,0,0,0,10
+Union,Union Ward 3,Advisory Question 1,,Yes,REP,45,12,0,0,0,0,33
+Union,Union Ward 3,Advisory Question 1,,No,REP,5,0,0,0,0,0,5
+Union,Union Ward 4 Box 1,Advisory Question 1,,Yes,REP,107,44,0,0,0,0,63
+Union,Union Ward 4 Box 1,Advisory Question 1,,No,REP,29,10,0,0,0,0,19
+Union,Union Ward 4 Box 2,Advisory Question 1,,Yes,REP,11,1,0,0,0,0,10
+Union,Union Ward 4 Box 2,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Union,West Springs,Advisory Question 1,,Yes,REP,79,3,0,0,0,0,76
+Union,West Springs,Advisory Question 1,,No,REP,15,0,0,0,0,0,15
+Union,Adamsburg,Advisory Question 2,,Yes,REP,103,18,0,0,0,0,85
+Union,Adamsburg,Advisory Question 2,,No,REP,44,13,0,0,0,0,31
+Union,Black Rock,Advisory Question 2,,Yes,REP,41,4,0,0,0,0,37
+Union,Black Rock,Advisory Question 2,,No,REP,5,0,0,0,0,0,5
+Union,Bonham,Advisory Question 2,,Yes,REP,126,21,0,0,0,0,105
+Union,Bonham,Advisory Question 2,,No,REP,36,8,0,0,0,0,28
+Union,Buffalo Box 1,Advisory Question 2,,Yes,REP,135,22,0,0,0,0,113
+Union,Buffalo Box 1,Advisory Question 2,,No,REP,21,4,0,0,0,0,17
+Union,Carlisle,Advisory Question 2,,Yes,REP,14,5,0,0,0,0,9
+Union,Carlisle,Advisory Question 2,,No,REP,2,0,0,0,0,0,2
+Union,Cross Keys,Advisory Question 2,,Yes,REP,129,31,0,0,0,0,98
+Union,Cross Keys,Advisory Question 2,,No,REP,25,3,0,0,0,0,22
+Union,Excelsior,Advisory Question 2,,Yes,REP,169,61,0,0,0,0,108
+Union,Excelsior,Advisory Question 2,,No,REP,53,15,0,0,0,0,38
+Union,Failsafe,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Union,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Advisory Question 2,,Yes,REP,2,0,2,0,0,0,0
+Union,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Advisory Question 2,,Yes,REP,167,22,0,0,0,0,145
+Union,Jonesville Box 1,Advisory Question 2,,No,REP,48,5,0,0,0,0,43
+Union,Jonesville Box 2,Advisory Question 2,,Yes,REP,167,40,0,0,0,1,126
+Union,Jonesville Box 2,Advisory Question 2,,No,REP,33,7,0,0,0,0,26
+Union,Kelton,Advisory Question 2,,Yes,REP,182,35,0,0,0,0,147
+Union,Kelton,Advisory Question 2,,No,REP,63,8,0,0,0,0,55
+Union,Lockhart,Advisory Question 2,,Yes,REP,83,9,0,0,0,0,74
+Union,Lockhart,Advisory Question 2,,No,REP,20,0,0,0,0,0,20
+Union,Monarch,Advisory Question 2,,Yes,REP,176,46,0,0,0,0,130
+Union,Monarch,Advisory Question 2,,No,REP,66,17,0,0,0,0,49
+Union,Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Union,Provisional,Advisory Question 2,,No,REP,1,0,0,1,0,0,0
+Union,Putnam,Advisory Question 2,,Yes,REP,115,18,0,0,0,0,97
+Union,Putnam,Advisory Question 2,,No,REP,39,6,0,0,0,0,33
+Union,Santuck,Advisory Question 2,,Yes,REP,70,16,0,0,0,0,54
+Union,Santuck,Advisory Question 2,,No,REP,22,9,0,0,0,0,13
+Union,Union Ward 1 Box 1,Advisory Question 2,,Yes,REP,82,26,0,0,0,0,56
+Union,Union Ward 1 Box 1,Advisory Question 2,,No,REP,15,5,0,0,0,0,10
+Union,Union Ward 1 Box 2,Advisory Question 2,,Yes,REP,76,22,0,0,0,0,54
+Union,Union Ward 1 Box 2,Advisory Question 2,,No,REP,10,4,0,0,0,0,6
+Union,Union Ward 2,Advisory Question 2,,Yes,REP,76,34,0,0,0,0,42
+Union,Union Ward 2,Advisory Question 2,,No,REP,26,11,0,0,0,0,15
+Union,Union Ward 3,Advisory Question 2,,Yes,REP,43,11,0,0,0,0,32
+Union,Union Ward 3,Advisory Question 2,,No,REP,7,1,0,0,0,0,6
+Union,Union Ward 4 Box 1,Advisory Question 2,,Yes,REP,86,34,0,0,0,0,52
+Union,Union Ward 4 Box 1,Advisory Question 2,,No,REP,50,20,0,0,0,0,30
+Union,Union Ward 4 Box 2,Advisory Question 2,,Yes,REP,9,1,0,0,0,0,8
+Union,Union Ward 4 Box 2,Advisory Question 2,,No,REP,2,0,0,0,0,0,2
+Union,West Springs,Advisory Question 2,,Yes,REP,73,1,0,0,0,0,72
+Union,West Springs,Advisory Question 2,,No,REP,22,2,0,0,0,0,20
+Union,Adamsburg,Attorney General,,Stephen Goldfinch,REP,65,21,0,0,0,0,44
+Union,Adamsburg,Attorney General,,David M Pascoe,REP,29,1,0,0,0,0,28
+Union,Adamsburg,Attorney General,,David Stumbo,REP,49,7,0,0,0,0,42
+Union,Black Rock,Attorney General,,Stephen Goldfinch,REP,24,4,0,0,0,0,20
+Union,Black Rock,Attorney General,,David M Pascoe,REP,4,0,0,0,0,0,4
+Union,Black Rock,Attorney General,,David Stumbo,REP,17,0,0,0,0,0,17
+Union,Bonham,Attorney General,,Stephen Goldfinch,REP,58,14,0,0,0,0,44
+Union,Bonham,Attorney General,,David M Pascoe,REP,28,5,0,0,0,0,23
+Union,Bonham,Attorney General,,David Stumbo,REP,65,9,0,0,0,0,56
+Union,Buffalo Box 1,Attorney General,,Stephen Goldfinch,REP,72,15,0,0,0,0,57
+Union,Buffalo Box 1,Attorney General,,David M Pascoe,REP,39,5,0,0,0,0,34
+Union,Buffalo Box 1,Attorney General,,David Stumbo,REP,46,6,0,0,0,0,40
+Union,Carlisle,Attorney General,,Stephen Goldfinch,REP,7,1,0,0,0,0,6
+Union,Carlisle,Attorney General,,David M Pascoe,REP,3,2,0,0,0,0,1
+Union,Carlisle,Attorney General,,David Stumbo,REP,5,1,0,0,0,0,4
+Union,Cross Keys,Attorney General,,Stephen Goldfinch,REP,64,18,0,0,0,0,46
+Union,Cross Keys,Attorney General,,David M Pascoe,REP,19,2,0,0,0,0,17
+Union,Cross Keys,Attorney General,,David Stumbo,REP,66,12,0,0,0,0,54
+Union,Excelsior,Attorney General,,Stephen Goldfinch,REP,94,47,0,0,0,0,47
+Union,Excelsior,Attorney General,,David M Pascoe,REP,31,9,0,0,0,0,22
+Union,Excelsior,Attorney General,,David Stumbo,REP,95,18,0,0,0,0,77
+Union,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Union,Failsafe,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Union,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,1,0,1,0,0,0,0
+Union,Failsafe Provisional,Attorney General,,David M Pascoe,REP,1,0,1,0,0,0,0
+Union,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Attorney General,,Stephen Goldfinch,REP,95,11,0,0,0,0,84
+Union,Jonesville Box 1,Attorney General,,David M Pascoe,REP,42,10,0,0,0,0,32
+Union,Jonesville Box 1,Attorney General,,David Stumbo,REP,68,6,0,0,0,0,62
+Union,Jonesville Box 2,Attorney General,,Stephen Goldfinch,REP,83,18,0,0,0,0,65
+Union,Jonesville Box 2,Attorney General,,David M Pascoe,REP,40,11,0,0,0,1,28
+Union,Jonesville Box 2,Attorney General,,David Stumbo,REP,69,17,0,0,0,0,52
+Union,Kelton,Attorney General,,Stephen Goldfinch,REP,108,25,0,0,0,0,83
+Union,Kelton,Attorney General,,David M Pascoe,REP,49,5,0,0,0,0,44
+Union,Kelton,Attorney General,,David Stumbo,REP,79,11,0,0,0,0,68
+Union,Lockhart,Attorney General,,Stephen Goldfinch,REP,41,3,0,0,0,0,38
+Union,Lockhart,Attorney General,,David M Pascoe,REP,30,3,0,0,0,0,27
+Union,Lockhart,Attorney General,,David Stumbo,REP,29,2,0,0,0,0,27
+Union,Monarch,Attorney General,,Stephen Goldfinch,REP,95,23,0,0,0,0,72
+Union,Monarch,Attorney General,,David M Pascoe,REP,51,13,0,0,0,0,38
+Union,Monarch,Attorney General,,David Stumbo,REP,83,23,0,0,0,0,60
+Union,Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Union,Provisional,Attorney General,,David M Pascoe,REP,1,0,0,1,0,0,0
+Union,Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Union,Putnam,Attorney General,,Stephen Goldfinch,REP,67,8,0,0,0,0,59
+Union,Putnam,Attorney General,,David M Pascoe,REP,27,7,0,0,0,0,20
+Union,Putnam,Attorney General,,David Stumbo,REP,56,9,0,0,0,0,47
+Union,Santuck,Attorney General,,Stephen Goldfinch,REP,33,9,0,0,0,0,24
+Union,Santuck,Attorney General,,David M Pascoe,REP,12,4,0,0,0,0,8
+Union,Santuck,Attorney General,,David Stumbo,REP,42,10,0,0,0,0,32
+Union,Union Ward 1 Box 1,Attorney General,,Stephen Goldfinch,REP,42,10,0,0,0,0,32
+Union,Union Ward 1 Box 1,Attorney General,,David M Pascoe,REP,19,8,0,0,0,0,11
+Union,Union Ward 1 Box 1,Attorney General,,David Stumbo,REP,30,11,0,0,0,0,19
+Union,Union Ward 1 Box 2,Attorney General,,Stephen Goldfinch,REP,32,13,0,0,0,0,19
+Union,Union Ward 1 Box 2,Attorney General,,David M Pascoe,REP,22,8,0,0,0,0,14
+Union,Union Ward 1 Box 2,Attorney General,,David Stumbo,REP,29,5,0,0,0,0,24
+Union,Union Ward 2,Attorney General,,Stephen Goldfinch,REP,45,19,0,0,0,0,26
+Union,Union Ward 2,Attorney General,,David M Pascoe,REP,18,8,0,0,0,0,10
+Union,Union Ward 2,Attorney General,,David Stumbo,REP,36,16,0,0,0,0,20
+Union,Union Ward 3,Attorney General,,Stephen Goldfinch,REP,21,5,0,0,0,0,16
+Union,Union Ward 3,Attorney General,,David M Pascoe,REP,7,1,0,0,0,0,6
+Union,Union Ward 3,Attorney General,,David Stumbo,REP,19,5,0,0,0,0,14
+Union,Union Ward 4 Box 1,Attorney General,,Stephen Goldfinch,REP,66,30,0,0,0,0,36
+Union,Union Ward 4 Box 1,Attorney General,,David M Pascoe,REP,19,7,0,0,0,0,12
+Union,Union Ward 4 Box 1,Attorney General,,David Stumbo,REP,48,17,0,0,0,0,31
+Union,Union Ward 4 Box 2,Attorney General,,Stephen Goldfinch,REP,2,0,0,0,0,0,2
+Union,Union Ward 4 Box 2,Attorney General,,David M Pascoe,REP,3,0,0,0,0,0,3
+Union,Union Ward 4 Box 2,Attorney General,,David Stumbo,REP,6,1,0,0,0,0,5
+Union,West Springs,Attorney General,,Stephen Goldfinch,REP,37,1,0,0,0,0,36
+Union,West Springs,Attorney General,,David M Pascoe,REP,20,0,0,0,0,0,20
+Union,West Springs,Attorney General,,David Stumbo,REP,34,2,0,0,0,0,32
+Union,Adamsburg,Commissioner of Agriculture,,Jeremy B Cannon,REP,19,4,0,0,0,0,15
+Union,Adamsburg,Commissioner of Agriculture,,Danny Ford,REP,75,12,0,0,0,0,63
+Union,Adamsburg,Commissioner of Agriculture,,Cody Simpson,REP,42,10,0,0,0,0,32
+Union,Adamsburg,Commissioner of Agriculture,,Fred West,REP,9,4,0,0,0,0,5
+Union,Black Rock,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,0,0,0,0,0,7
+Union,Black Rock,Commissioner of Agriculture,,Danny Ford,REP,15,2,0,0,0,0,13
+Union,Black Rock,Commissioner of Agriculture,,Cody Simpson,REP,18,2,0,0,0,0,16
+Union,Black Rock,Commissioner of Agriculture,,Fred West,REP,4,0,0,0,0,0,4
+Union,Bonham,Commissioner of Agriculture,,Jeremy B Cannon,REP,24,3,0,0,0,0,21
+Union,Bonham,Commissioner of Agriculture,,Danny Ford,REP,65,9,0,0,0,0,56
+Union,Bonham,Commissioner of Agriculture,,Cody Simpson,REP,48,8,0,0,0,0,40
+Union,Bonham,Commissioner of Agriculture,,Fred West,REP,17,7,0,0,0,0,10
+Union,Buffalo Box 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,19,4,0,0,0,0,15
+Union,Buffalo Box 1,Commissioner of Agriculture,,Danny Ford,REP,87,15,0,0,0,0,72
+Union,Buffalo Box 1,Commissioner of Agriculture,,Cody Simpson,REP,43,3,0,0,0,0,40
+Union,Buffalo Box 1,Commissioner of Agriculture,,Fred West,REP,8,4,0,0,0,0,4
+Union,Carlisle,Commissioner of Agriculture,,Jeremy B Cannon,REP,2,1,0,0,0,0,1
+Union,Carlisle,Commissioner of Agriculture,,Danny Ford,REP,7,3,0,0,0,0,4
+Union,Carlisle,Commissioner of Agriculture,,Cody Simpson,REP,6,1,0,0,0,0,5
+Union,Carlisle,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Union,Cross Keys,Commissioner of Agriculture,,Jeremy B Cannon,REP,14,6,0,0,0,0,8
+Union,Cross Keys,Commissioner of Agriculture,,Danny Ford,REP,78,12,0,0,0,0,66
+Union,Cross Keys,Commissioner of Agriculture,,Cody Simpson,REP,49,14,0,0,0,0,35
+Union,Cross Keys,Commissioner of Agriculture,,Fred West,REP,9,1,0,0,0,0,8
+Union,Excelsior,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,4,0,0,0,0,9
+Union,Excelsior,Commissioner of Agriculture,,Danny Ford,REP,90,29,0,0,0,0,61
+Union,Excelsior,Commissioner of Agriculture,,Cody Simpson,REP,110,37,0,0,0,0,73
+Union,Excelsior,Commissioner of Agriculture,,Fred West,REP,5,3,0,0,0,0,2
+Union,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Union,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Union,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Union,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,2,0,2,0,0,0,0
+Union,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Union,Jonesville Box 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,30,3,0,0,0,0,27
+Union,Jonesville Box 1,Commissioner of Agriculture,,Danny Ford,REP,118,18,0,0,0,0,100
+Union,Jonesville Box 1,Commissioner of Agriculture,,Cody Simpson,REP,45,6,0,0,0,0,39
+Union,Jonesville Box 1,Commissioner of Agriculture,,Fred West,REP,13,0,0,0,0,0,13
+Union,Jonesville Box 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,28,5,0,0,0,0,23
+Union,Jonesville Box 2,Commissioner of Agriculture,,Danny Ford,REP,98,19,0,0,0,1,78
+Union,Jonesville Box 2,Commissioner of Agriculture,,Cody Simpson,REP,56,19,0,0,0,0,37
+Union,Jonesville Box 2,Commissioner of Agriculture,,Fred West,REP,9,3,0,0,0,0,6
+Union,Kelton,Commissioner of Agriculture,,Jeremy B Cannon,REP,42,7,0,0,0,0,35
+Union,Kelton,Commissioner of Agriculture,,Danny Ford,REP,104,15,0,0,0,0,89
+Union,Kelton,Commissioner of Agriculture,,Cody Simpson,REP,77,18,0,0,0,0,59
+Union,Kelton,Commissioner of Agriculture,,Fred West,REP,14,3,0,0,0,0,11
+Union,Lockhart,Commissioner of Agriculture,,Jeremy B Cannon,REP,23,0,0,0,0,0,23
+Union,Lockhart,Commissioner of Agriculture,,Danny Ford,REP,53,5,0,0,0,0,48
+Union,Lockhart,Commissioner of Agriculture,,Cody Simpson,REP,18,4,0,0,0,0,14
+Union,Lockhart,Commissioner of Agriculture,,Fred West,REP,7,0,0,0,0,0,7
+Union,Monarch,Commissioner of Agriculture,,Jeremy B Cannon,REP,35,10,0,0,0,0,25
+Union,Monarch,Commissioner of Agriculture,,Danny Ford,REP,106,20,0,0,0,0,86
+Union,Monarch,Commissioner of Agriculture,,Cody Simpson,REP,78,25,0,0,0,0,53
+Union,Monarch,Commissioner of Agriculture,,Fred West,REP,15,5,0,0,0,0,10
+Union,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Union,Provisional,Commissioner of Agriculture,,Danny Ford,REP,1,0,0,1,0,0,0
+Union,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Union,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Union,Putnam,Commissioner of Agriculture,,Jeremy B Cannon,REP,15,4,0,0,0,0,11
+Union,Putnam,Commissioner of Agriculture,,Danny Ford,REP,70,9,0,0,0,0,61
+Union,Putnam,Commissioner of Agriculture,,Cody Simpson,REP,52,7,0,0,0,0,45
+Union,Putnam,Commissioner of Agriculture,,Fred West,REP,10,3,0,0,0,0,7
+Union,Santuck,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,3,0,0,0,0,10
+Union,Santuck,Commissioner of Agriculture,,Danny Ford,REP,28,8,0,0,0,0,20
+Union,Santuck,Commissioner of Agriculture,,Cody Simpson,REP,41,11,0,0,0,0,30
+Union,Santuck,Commissioner of Agriculture,,Fred West,REP,4,0,0,0,0,0,4
+Union,Union Ward 1 Box 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,12,5,0,0,0,0,7
+Union,Union Ward 1 Box 1,Commissioner of Agriculture,,Danny Ford,REP,49,13,0,0,0,0,36
+Union,Union Ward 1 Box 1,Commissioner of Agriculture,,Cody Simpson,REP,31,11,0,0,0,0,20
+Union,Union Ward 1 Box 1,Commissioner of Agriculture,,Fred West,REP,3,1,0,0,0,0,2
+Union,Union Ward 1 Box 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,1,0,0,0,0,6
+Union,Union Ward 1 Box 2,Commissioner of Agriculture,,Danny Ford,REP,48,17,0,0,0,0,31
+Union,Union Ward 1 Box 2,Commissioner of Agriculture,,Cody Simpson,REP,27,6,0,0,0,0,21
+Union,Union Ward 1 Box 2,Commissioner of Agriculture,,Fred West,REP,4,2,0,0,0,0,2
+Union,Union Ward 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,10,3,0,0,0,0,7
+Union,Union Ward 2,Commissioner of Agriculture,,Danny Ford,REP,50,23,0,0,0,0,27
+Union,Union Ward 2,Commissioner of Agriculture,,Cody Simpson,REP,35,17,0,0,0,0,18
+Union,Union Ward 2,Commissioner of Agriculture,,Fred West,REP,6,2,0,0,0,0,4
+Union,Union Ward 3,Commissioner of Agriculture,,Jeremy B Cannon,REP,8,4,0,0,0,0,4
+Union,Union Ward 3,Commissioner of Agriculture,,Danny Ford,REP,23,5,0,0,0,0,18
+Union,Union Ward 3,Commissioner of Agriculture,,Cody Simpson,REP,7,2,0,0,0,0,5
+Union,Union Ward 3,Commissioner of Agriculture,,Fred West,REP,7,0,0,0,0,0,7
+Union,Union Ward 4 Box 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,15,4,0,0,0,0,11
+Union,Union Ward 4 Box 1,Commissioner of Agriculture,,Danny Ford,REP,61,28,0,0,0,0,33
+Union,Union Ward 4 Box 1,Commissioner of Agriculture,,Cody Simpson,REP,45,15,0,0,0,0,30
+Union,Union Ward 4 Box 1,Commissioner of Agriculture,,Fred West,REP,13,7,0,0,0,0,6
+Union,Union Ward 4 Box 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,0,0,0,0,0,1
+Union,Union Ward 4 Box 2,Commissioner of Agriculture,,Danny Ford,REP,6,1,0,0,0,0,5
+Union,Union Ward 4 Box 2,Commissioner of Agriculture,,Cody Simpson,REP,3,0,0,0,0,0,3
+Union,Union Ward 4 Box 2,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Union,West Springs,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,0,0,0,0,0,7
+Union,West Springs,Commissioner of Agriculture,,Danny Ford,REP,52,0,0,0,0,0,52
+Union,West Springs,Commissioner of Agriculture,,Cody Simpson,REP,26,3,0,0,0,0,23
+Union,West Springs,Commissioner of Agriculture,,Fred West,REP,8,0,0,0,0,0,8
+Union,Adamsburg,Comptroller General,,Tiffany Boozer,DEM,10,3,0,0,0,0,7
+Union,Adamsburg,Comptroller General,,Bruce K Cole,DEM,5,2,0,0,0,0,3
+Union,Black Rock,Comptroller General,,Tiffany Boozer,DEM,58,13,0,0,0,0,45
+Union,Black Rock,Comptroller General,,Bruce K Cole,DEM,29,13,0,0,0,0,16
+Union,Bonham,Comptroller General,,Tiffany Boozer,DEM,51,16,0,0,0,0,35
+Union,Bonham,Comptroller General,,Bruce K Cole,DEM,9,4,0,0,0,0,5
+Union,Buffalo Box 1,Comptroller General,,Tiffany Boozer,DEM,31,11,0,0,0,0,20
+Union,Buffalo Box 1,Comptroller General,,Bruce K Cole,DEM,12,5,0,0,0,0,7
+Union,Carlisle,Comptroller General,,Tiffany Boozer,DEM,70,19,0,0,0,0,51
+Union,Carlisle,Comptroller General,,Bruce K Cole,DEM,26,8,0,0,0,0,18
+Union,Cross Keys,Comptroller General,,Tiffany Boozer,DEM,43,19,0,0,0,0,24
+Union,Cross Keys,Comptroller General,,Bruce K Cole,DEM,13,4,0,0,0,0,9
+Union,Excelsior,Comptroller General,,Tiffany Boozer,DEM,90,44,0,0,0,0,46
+Union,Excelsior,Comptroller General,,Bruce K Cole,DEM,24,10,0,0,0,0,14
+Union,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Union,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,2,0,2,0,0,0,0
+Union,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,1,0,1,0,0,0,0
+Union,Jonesville Box 1,Comptroller General,,Tiffany Boozer,DEM,44,19,0,0,0,0,25
+Union,Jonesville Box 1,Comptroller General,,Bruce K Cole,DEM,17,11,0,0,0,0,6
+Union,Jonesville Box 2,Comptroller General,,Tiffany Boozer,DEM,71,29,0,0,0,0,42
+Union,Jonesville Box 2,Comptroller General,,Bruce K Cole,DEM,22,9,0,0,0,0,13
+Union,Kelton,Comptroller General,,Tiffany Boozer,DEM,47,22,0,0,0,0,25
+Union,Kelton,Comptroller General,,Bruce K Cole,DEM,8,2,0,0,0,0,6
+Union,Lockhart,Comptroller General,,Tiffany Boozer,DEM,20,11,0,0,0,0,9
+Union,Lockhart,Comptroller General,,Bruce K Cole,DEM,11,4,0,0,0,0,7
+Union,Monarch,Comptroller General,,Tiffany Boozer,DEM,43,18,0,0,0,0,25
+Union,Monarch,Comptroller General,,Bruce K Cole,DEM,12,7,0,0,0,0,5
+Union,Provisional,Comptroller General,,Tiffany Boozer,DEM,2,0,0,2,0,0,0
+Union,Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Union,Putnam,Comptroller General,,Tiffany Boozer,DEM,15,8,0,0,0,0,7
+Union,Putnam,Comptroller General,,Bruce K Cole,DEM,4,2,0,0,0,0,2
+Union,Santuck,Comptroller General,,Tiffany Boozer,DEM,75,34,0,0,0,1,40
+Union,Santuck,Comptroller General,,Bruce K Cole,DEM,35,11,0,0,0,0,24
+Union,Union Ward 1 Box 1,Comptroller General,,Tiffany Boozer,DEM,45,27,0,0,0,0,18
+Union,Union Ward 1 Box 1,Comptroller General,,Bruce K Cole,DEM,13,5,0,0,0,0,8
+Union,Union Ward 1 Box 2,Comptroller General,,Tiffany Boozer,DEM,115,65,0,0,0,0,50
+Union,Union Ward 1 Box 2,Comptroller General,,Bruce K Cole,DEM,39,18,0,0,0,0,21
+Union,Union Ward 2,Comptroller General,,Tiffany Boozer,DEM,103,58,0,0,0,0,45
+Union,Union Ward 2,Comptroller General,,Bruce K Cole,DEM,26,16,0,0,0,0,10
+Union,Union Ward 3,Comptroller General,,Tiffany Boozer,DEM,57,25,0,0,0,1,31
+Union,Union Ward 3,Comptroller General,,Bruce K Cole,DEM,13,3,0,0,0,0,10
+Union,Union Ward 4 Box 1,Comptroller General,,Tiffany Boozer,DEM,50,14,0,0,0,0,36
+Union,Union Ward 4 Box 1,Comptroller General,,Bruce K Cole,DEM,10,3,0,0,0,0,7
+Union,Union Ward 4 Box 2,Comptroller General,,Tiffany Boozer,DEM,20,8,0,0,0,0,12
+Union,Union Ward 4 Box 2,Comptroller General,,Bruce K Cole,DEM,9,4,0,0,0,0,5
+Union,West Springs,Comptroller General,,Tiffany Boozer,DEM,14,4,0,0,0,0,10
+Union,West Springs,Comptroller General,,Bruce K Cole,DEM,4,0,0,0,0,0,4
+Union,Bonham,County Council District 1,,Danny R Bright,REP,3,0,0,0,0,0,3
+Union,Bonham,County Council District 1,,Jeff Cannon,REP,2,0,0,0,0,0,2
+Union,Bonham,County Council District 1,,Buddy Parris,REP,0,0,0,0,0,0,0
+Union,Failsafe,County Council District 1,,Danny R Bright,REP,0,0,0,0,0,0,0
+Union,Failsafe,County Council District 1,,Jeff Cannon,REP,0,0,0,0,0,0,0
+Union,Failsafe,County Council District 1,,Buddy Parris,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,County Council District 1,,Danny R Bright,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,County Council District 1,,Jeff Cannon,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,County Council District 1,,Buddy Parris,REP,0,0,0,0,0,0,0
+Union,Jonesville Box 1,County Council District 1,,Danny R Bright,REP,124,19,0,0,0,0,105
+Union,Jonesville Box 1,County Council District 1,,Jeff Cannon,REP,80,6,0,0,0,0,74
+Union,Jonesville Box 1,County Council District 1,,Buddy Parris,REP,8,1,0,0,0,0,7
+Union,Jonesville Box 2,County Council District 1,,Danny R Bright,REP,76,19,0,0,0,0,57
+Union,Jonesville Box 2,County Council District 1,,Jeff Cannon,REP,45,13,0,0,0,0,32
+Union,Jonesville Box 2,County Council District 1,,Buddy Parris,REP,19,7,0,0,0,1,11
+Union,Kelton,County Council District 1,,Danny R Bright,REP,103,17,0,0,0,0,86
+Union,Kelton,County Council District 1,,Jeff Cannon,REP,134,26,0,0,0,0,108
+Union,Kelton,County Council District 1,,Buddy Parris,REP,6,0,0,0,0,0,6
+Union,Lockhart,County Council District 1,,Danny R Bright,REP,28,3,0,0,0,0,25
+Union,Lockhart,County Council District 1,,Jeff Cannon,REP,27,1,0,0,0,0,26
+Union,Lockhart,County Council District 1,,Buddy Parris,REP,1,0,0,0,0,0,1
+Union,Provisional,County Council District 1,,Danny R Bright,REP,1,0,0,1,0,0,0
+Union,Provisional,County Council District 1,,Jeff Cannon,REP,0,0,0,0,0,0,0
+Union,Provisional,County Council District 1,,Buddy Parris,REP,0,0,0,0,0,0,0
+Union,Adamsburg,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Union,Adamsburg,Governor,,Pamela Evette,REP,40,10,0,0,0,0,30
+Union,Adamsburg,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Union,Adamsburg,Governor,,Nancy Mace,REP,12,2,0,0,0,0,10
+Union,Adamsburg,Governor,,Ralph W Norman,REP,62,12,0,0,0,0,50
+Union,Adamsburg,Governor,,Rom Reddy,REP,24,7,0,0,0,0,17
+Union,Adamsburg,Governor,,Alan Wilson,REP,10,2,0,0,0,0,8
+Union,Adamsburg,Governor,,Jermaine Johnson,DEM,9,4,0,0,0,0,5
+Union,Adamsburg,Governor,,Mullins McLeod,DEM,1,0,0,0,0,0,1
+Union,Adamsburg,Governor,,Billy Webster,DEM,5,1,0,0,0,0,4
+Union,Black Rock,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Black Rock,Governor,,Pamela Evette,REP,14,1,0,0,0,0,13
+Union,Black Rock,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Union,Black Rock,Governor,,Nancy Mace,REP,6,1,0,0,0,0,5
+Union,Black Rock,Governor,,Ralph W Norman,REP,13,0,0,0,0,0,13
+Union,Black Rock,Governor,,Rom Reddy,REP,10,2,0,0,0,0,8
+Union,Black Rock,Governor,,Alan Wilson,REP,2,0,0,0,0,0,2
+Union,Black Rock,Governor,,Jermaine Johnson,DEM,53,12,0,0,0,0,41
+Union,Black Rock,Governor,,Mullins McLeod,DEM,4,3,0,0,0,0,1
+Union,Black Rock,Governor,,Billy Webster,DEM,30,11,0,0,0,0,19
+Union,Bonham,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Union,Bonham,Governor,,Pamela Evette,REP,28,6,0,0,0,0,22
+Union,Bonham,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Union,Bonham,Governor,,Nancy Mace,REP,13,0,0,0,0,0,13
+Union,Bonham,Governor,,Ralph W Norman,REP,67,11,0,0,0,0,56
+Union,Bonham,Governor,,Rom Reddy,REP,30,8,0,0,0,0,22
+Union,Bonham,Governor,,Alan Wilson,REP,22,3,0,0,0,0,19
+Union,Bonham,Governor,,Jermaine Johnson,DEM,50,17,0,0,0,0,33
+Union,Bonham,Governor,,Mullins McLeod,DEM,5,2,0,0,0,0,3
+Union,Bonham,Governor,,Billy Webster,DEM,8,1,0,0,0,0,7
+Union,Buffalo Box 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Buffalo Box 1,Governor,,Pamela Evette,REP,51,6,0,0,0,0,45
+Union,Buffalo Box 1,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Union,Buffalo Box 1,Governor,,Nancy Mace,REP,8,0,0,0,0,0,8
+Union,Buffalo Box 1,Governor,,Ralph W Norman,REP,54,9,0,0,0,0,45
+Union,Buffalo Box 1,Governor,,Rom Reddy,REP,24,7,0,0,0,0,17
+Union,Buffalo Box 1,Governor,,Alan Wilson,REP,21,3,0,0,0,0,18
+Union,Buffalo Box 1,Governor,,Jermaine Johnson,DEM,21,7,0,0,0,0,14
+Union,Buffalo Box 1,Governor,,Mullins McLeod,DEM,6,3,0,0,0,0,3
+Union,Buffalo Box 1,Governor,,Billy Webster,DEM,18,7,0,0,0,0,11
+Union,Carlisle,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Carlisle,Governor,,Pamela Evette,REP,2,0,0,0,0,0,2
+Union,Carlisle,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Union,Carlisle,Governor,,Nancy Mace,REP,1,1,0,0,0,0,0
+Union,Carlisle,Governor,,Ralph W Norman,REP,10,2,0,0,0,0,8
+Union,Carlisle,Governor,,Rom Reddy,REP,2,1,0,0,0,0,1
+Union,Carlisle,Governor,,Alan Wilson,REP,2,1,0,0,0,0,1
+Union,Carlisle,Governor,,Jermaine Johnson,DEM,73,21,0,0,0,0,52
+Union,Carlisle,Governor,,Mullins McLeod,DEM,6,3,0,0,0,0,3
+Union,Carlisle,Governor,,Billy Webster,DEM,20,5,0,0,0,0,15
+Union,Cross Keys,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Cross Keys,Governor,,Pamela Evette,REP,36,6,0,0,0,0,30
+Union,Cross Keys,Governor,,Joshua Kimbrell,REP,3,1,0,0,0,0,2
+Union,Cross Keys,Governor,,Nancy Mace,REP,18,5,0,0,0,0,13
+Union,Cross Keys,Governor,,Ralph W Norman,REP,40,5,0,0,0,0,35
+Union,Cross Keys,Governor,,Rom Reddy,REP,36,15,0,0,0,0,21
+Union,Cross Keys,Governor,,Alan Wilson,REP,20,2,0,0,0,0,18
+Union,Cross Keys,Governor,,Jermaine Johnson,DEM,35,16,0,0,0,0,19
+Union,Cross Keys,Governor,,Mullins McLeod,DEM,7,4,0,0,0,0,3
+Union,Cross Keys,Governor,,Billy Webster,DEM,14,3,0,0,0,0,11
+Union,Excelsior,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Excelsior,Governor,,Pamela Evette,REP,51,17,0,0,0,0,34
+Union,Excelsior,Governor,,Joshua Kimbrell,REP,3,0,0,0,0,0,3
+Union,Excelsior,Governor,,Nancy Mace,REP,10,2,0,0,0,0,8
+Union,Excelsior,Governor,,Ralph W Norman,REP,93,27,0,0,0,0,66
+Union,Excelsior,Governor,,Rom Reddy,REP,43,21,0,0,0,0,22
+Union,Excelsior,Governor,,Alan Wilson,REP,23,9,0,0,0,0,14
+Union,Excelsior,Governor,,Jermaine Johnson,DEM,92,48,0,0,0,0,44
+Union,Excelsior,Governor,,Mullins McLeod,DEM,2,1,0,0,0,0,1
+Union,Excelsior,Governor,,Billy Webster,DEM,22,6,0,0,0,0,16
+Union,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Failsafe,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Union,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Union,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Union,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Union,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Union,Failsafe,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Union,Failsafe,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Union,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Union,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Governor,,Alan Wilson,REP,2,0,2,0,0,0,0
+Union,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,1,0,1,0,0,0,0
+Union,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Governor,,Billy Webster,DEM,2,0,2,0,0,0,0
+Union,Jonesville Box 1,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Union,Jonesville Box 1,Governor,,Pamela Evette,REP,39,3,0,0,0,0,36
+Union,Jonesville Box 1,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Union,Jonesville Box 1,Governor,,Nancy Mace,REP,23,8,0,0,0,0,15
+Union,Jonesville Box 1,Governor,,Ralph W Norman,REP,87,7,0,0,0,0,80
+Union,Jonesville Box 1,Governor,,Rom Reddy,REP,39,5,0,0,0,0,34
+Union,Jonesville Box 1,Governor,,Alan Wilson,REP,22,2,0,0,0,0,20
+Union,Jonesville Box 1,Governor,,Jermaine Johnson,DEM,39,17,0,0,0,0,22
+Union,Jonesville Box 1,Governor,,Mullins McLeod,DEM,5,1,0,0,0,0,4
+Union,Jonesville Box 1,Governor,,Billy Webster,DEM,18,13,0,0,0,0,5
+Union,Jonesville Box 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Jonesville Box 2,Governor,,Pamela Evette,REP,45,8,0,0,0,0,37
+Union,Jonesville Box 2,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Union,Jonesville Box 2,Governor,,Nancy Mace,REP,18,2,0,0,0,0,16
+Union,Jonesville Box 2,Governor,,Ralph W Norman,REP,63,9,0,0,0,0,54
+Union,Jonesville Box 2,Governor,,Rom Reddy,REP,46,19,0,0,0,1,26
+Union,Jonesville Box 2,Governor,,Alan Wilson,REP,27,9,0,0,0,0,18
+Union,Jonesville Box 2,Governor,,Jermaine Johnson,DEM,55,24,0,0,0,0,31
+Union,Jonesville Box 2,Governor,,Mullins McLeod,DEM,6,2,0,0,0,0,4
+Union,Jonesville Box 2,Governor,,Billy Webster,DEM,36,12,0,0,0,0,24
+Union,Kelton,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Union,Kelton,Governor,,Pamela Evette,REP,45,7,0,0,0,0,38
+Union,Kelton,Governor,,Joshua Kimbrell,REP,2,2,0,0,0,0,0
+Union,Kelton,Governor,,Nancy Mace,REP,27,8,0,0,0,0,19
+Union,Kelton,Governor,,Ralph W Norman,REP,91,12,0,0,0,0,79
+Union,Kelton,Governor,,Rom Reddy,REP,59,11,0,0,0,0,48
+Union,Kelton,Governor,,Alan Wilson,REP,23,3,0,0,0,0,20
+Union,Kelton,Governor,,Jermaine Johnson,DEM,42,21,0,0,0,0,21
+Union,Kelton,Governor,,Mullins McLeod,DEM,4,1,0,0,0,0,3
+Union,Kelton,Governor,,Billy Webster,DEM,10,2,0,0,0,0,8
+Union,Lockhart,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Union,Lockhart,Governor,,Pamela Evette,REP,18,3,0,0,0,0,15
+Union,Lockhart,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Union,Lockhart,Governor,,Nancy Mace,REP,14,2,0,0,0,0,12
+Union,Lockhart,Governor,,Ralph W Norman,REP,44,1,0,0,0,0,43
+Union,Lockhart,Governor,,Rom Reddy,REP,13,1,0,0,0,0,12
+Union,Lockhart,Governor,,Alan Wilson,REP,13,2,0,0,0,0,11
+Union,Lockhart,Governor,,Jermaine Johnson,DEM,20,11,0,0,0,0,9
+Union,Lockhart,Governor,,Mullins McLeod,DEM,5,1,0,0,0,0,4
+Union,Lockhart,Governor,,Billy Webster,DEM,7,3,0,0,0,0,4
+Union,Monarch,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Monarch,Governor,,Pamela Evette,REP,57,17,0,0,0,0,40
+Union,Monarch,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Union,Monarch,Governor,,Nancy Mace,REP,23,4,0,0,0,0,19
+Union,Monarch,Governor,,Ralph W Norman,REP,86,20,0,0,0,0,66
+Union,Monarch,Governor,,Rom Reddy,REP,44,11,0,0,0,0,33
+Union,Monarch,Governor,,Alan Wilson,REP,29,10,0,0,0,0,19
+Union,Monarch,Governor,,Jermaine Johnson,DEM,48,23,0,0,0,0,25
+Union,Monarch,Governor,,Mullins McLeod,DEM,3,2,0,0,0,0,1
+Union,Monarch,Governor,,Billy Webster,DEM,7,1,0,0,0,0,6
+Union,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Union,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Union,Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Union,Provisional,Governor,,Ralph W Norman,REP,1,0,0,1,0,0,0
+Union,Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Union,Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Union,Provisional,Governor,,Jermaine Johnson,DEM,2,0,0,2,0,0,0
+Union,Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Union,Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Union,Putnam,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Union,Putnam,Governor,,Pamela Evette,REP,29,2,0,0,0,0,27
+Union,Putnam,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Union,Putnam,Governor,,Nancy Mace,REP,21,2,0,0,0,0,19
+Union,Putnam,Governor,,Ralph W Norman,REP,34,6,0,0,0,0,28
+Union,Putnam,Governor,,Rom Reddy,REP,45,8,0,0,0,0,37
+Union,Putnam,Governor,,Alan Wilson,REP,24,6,0,0,0,0,18
+Union,Putnam,Governor,,Jermaine Johnson,DEM,13,7,0,0,0,0,6
+Union,Putnam,Governor,,Mullins McLeod,DEM,1,1,0,0,0,0,0
+Union,Putnam,Governor,,Billy Webster,DEM,5,2,0,0,0,0,3
+Union,Santuck,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Santuck,Governor,,Pamela Evette,REP,19,4,0,0,0,0,15
+Union,Santuck,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Union,Santuck,Governor,,Nancy Mace,REP,5,0,0,0,0,0,5
+Union,Santuck,Governor,,Ralph W Norman,REP,34,11,0,0,0,0,23
+Union,Santuck,Governor,,Rom Reddy,REP,21,7,0,0,0,0,14
+Union,Santuck,Governor,,Alan Wilson,REP,13,3,0,0,0,0,10
+Union,Santuck,Governor,,Jermaine Johnson,DEM,80,36,0,0,0,1,43
+Union,Santuck,Governor,,Mullins McLeod,DEM,6,2,0,0,0,0,4
+Union,Santuck,Governor,,Billy Webster,DEM,28,8,0,0,0,0,20
+Union,Union Ward 1 Box 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,Governor,,Pamela Evette,REP,26,4,0,0,0,0,22
+Union,Union Ward 1 Box 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 1,Governor,,Nancy Mace,REP,11,2,0,0,0,0,9
+Union,Union Ward 1 Box 1,Governor,,Ralph W Norman,REP,33,11,0,0,0,0,22
+Union,Union Ward 1 Box 1,Governor,,Rom Reddy,REP,20,9,0,0,0,0,11
+Union,Union Ward 1 Box 1,Governor,,Alan Wilson,REP,6,4,0,0,0,0,2
+Union,Union Ward 1 Box 1,Governor,,Jermaine Johnson,DEM,47,29,0,0,0,0,18
+Union,Union Ward 1 Box 1,Governor,,Mullins McLeod,DEM,2,2,0,0,0,0,0
+Union,Union Ward 1 Box 1,Governor,,Billy Webster,DEM,16,7,0,0,0,0,9
+Union,Union Ward 1 Box 2,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Union,Union Ward 1 Box 2,Governor,,Pamela Evette,REP,22,7,0,0,0,0,15
+Union,Union Ward 1 Box 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,Governor,,Nancy Mace,REP,7,0,0,0,0,0,7
+Union,Union Ward 1 Box 2,Governor,,Ralph W Norman,REP,30,10,0,0,0,0,20
+Union,Union Ward 1 Box 2,Governor,,Rom Reddy,REP,14,8,0,0,0,0,6
+Union,Union Ward 1 Box 2,Governor,,Alan Wilson,REP,14,2,0,0,0,0,12
+Union,Union Ward 1 Box 2,Governor,,Jermaine Johnson,DEM,120,66,0,0,0,0,54
+Union,Union Ward 1 Box 2,Governor,,Mullins McLeod,DEM,10,4,0,0,0,0,6
+Union,Union Ward 1 Box 2,Governor,,Billy Webster,DEM,29,14,0,0,0,0,15
+Union,Union Ward 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Union Ward 2,Governor,,Pamela Evette,REP,25,10,0,0,0,0,15
+Union,Union Ward 2,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Union,Union Ward 2,Governor,,Nancy Mace,REP,5,2,0,0,0,0,3
+Union,Union Ward 2,Governor,,Ralph W Norman,REP,45,21,0,0,0,0,24
+Union,Union Ward 2,Governor,,Rom Reddy,REP,19,7,0,0,0,0,12
+Union,Union Ward 2,Governor,,Alan Wilson,REP,9,5,0,0,0,0,4
+Union,Union Ward 2,Governor,,Jermaine Johnson,DEM,92,54,0,0,0,0,38
+Union,Union Ward 2,Governor,,Mullins McLeod,DEM,10,4,0,0,0,0,6
+Union,Union Ward 2,Governor,,Billy Webster,DEM,26,15,0,0,0,0,11
+Union,Union Ward 3,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Union Ward 3,Governor,,Pamela Evette,REP,11,3,0,0,0,0,8
+Union,Union Ward 3,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Union,Union Ward 3,Governor,,Nancy Mace,REP,4,2,0,0,0,0,2
+Union,Union Ward 3,Governor,,Ralph W Norman,REP,13,4,0,0,0,0,9
+Union,Union Ward 3,Governor,,Rom Reddy,REP,12,1,0,0,0,0,11
+Union,Union Ward 3,Governor,,Alan Wilson,REP,9,2,0,0,0,0,7
+Union,Union Ward 3,Governor,,Jermaine Johnson,DEM,58,24,0,0,0,1,33
+Union,Union Ward 3,Governor,,Mullins McLeod,DEM,6,2,0,0,0,0,4
+Union,Union Ward 3,Governor,,Billy Webster,DEM,8,4,0,0,0,0,4
+Union,Union Ward 4 Box 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,Governor,,Pamela Evette,REP,22,11,0,0,0,0,11
+Union,Union Ward 4 Box 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 1,Governor,,Nancy Mace,REP,15,2,0,0,0,0,13
+Union,Union Ward 4 Box 1,Governor,,Ralph W Norman,REP,58,25,0,0,0,0,33
+Union,Union Ward 4 Box 1,Governor,,Rom Reddy,REP,25,10,0,0,0,0,15
+Union,Union Ward 4 Box 1,Governor,,Alan Wilson,REP,17,7,0,0,0,0,10
+Union,Union Ward 4 Box 1,Governor,,Jermaine Johnson,DEM,48,17,0,0,0,0,31
+Union,Union Ward 4 Box 1,Governor,,Mullins McLeod,DEM,2,0,0,0,0,0,2
+Union,Union Ward 4 Box 1,Governor,,Billy Webster,DEM,11,0,0,0,0,0,11
+Union,Union Ward 4 Box 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Governor,,Pamela Evette,REP,6,0,0,0,0,0,6
+Union,Union Ward 4 Box 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Union,Union Ward 4 Box 2,Governor,,Ralph W Norman,REP,4,1,0,0,0,0,3
+Union,Union Ward 4 Box 2,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Governor,,Jermaine Johnson,DEM,23,9,0,0,0,0,14
+Union,Union Ward 4 Box 2,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,Governor,,Billy Webster,DEM,8,4,0,0,0,0,4
+Union,West Springs,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Union,West Springs,Governor,,Pamela Evette,REP,20,2,0,0,0,0,18
+Union,West Springs,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Union,West Springs,Governor,,Nancy Mace,REP,13,0,0,0,0,0,13
+Union,West Springs,Governor,,Ralph W Norman,REP,24,1,0,0,0,0,23
+Union,West Springs,Governor,,Rom Reddy,REP,20,0,0,0,0,0,20
+Union,West Springs,Governor,,Alan Wilson,REP,19,0,0,0,0,0,19
+Union,West Springs,Governor,,Jermaine Johnson,DEM,9,2,0,0,0,0,7
+Union,West Springs,Governor,,Mullins McLeod,DEM,3,1,0,0,0,0,2
+Union,West Springs,Governor,,Billy Webster,DEM,6,1,0,0,0,0,5
+Union,Adamsburg,Secretary of State,,Jason Belton,DEM,8,1,0,0,0,0,7
+Union,Adamsburg,Secretary of State,,Edwina Winter,DEM,7,4,0,0,0,0,3
+Union,Black Rock,Secretary of State,,Jason Belton,DEM,48,13,0,0,0,0,35
+Union,Black Rock,Secretary of State,,Edwina Winter,DEM,38,13,0,0,0,0,25
+Union,Bonham,Secretary of State,,Jason Belton,DEM,37,12,0,0,0,0,25
+Union,Bonham,Secretary of State,,Edwina Winter,DEM,22,8,0,0,0,0,14
+Union,Buffalo Box 1,Secretary of State,,Jason Belton,DEM,22,9,0,0,0,0,13
+Union,Buffalo Box 1,Secretary of State,,Edwina Winter,DEM,21,8,0,0,0,0,13
+Union,Carlisle,Secretary of State,,Jason Belton,DEM,60,16,0,0,0,0,44
+Union,Carlisle,Secretary of State,,Edwina Winter,DEM,39,13,0,0,0,0,26
+Union,Cross Keys,Secretary of State,,Jason Belton,DEM,44,17,0,0,0,0,27
+Union,Cross Keys,Secretary of State,,Edwina Winter,DEM,12,6,0,0,0,0,6
+Union,Excelsior,Secretary of State,,Jason Belton,DEM,69,36,0,0,0,0,33
+Union,Excelsior,Secretary of State,,Edwina Winter,DEM,46,18,0,0,0,0,28
+Union,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Union,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Union,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,2,0,2,0,0,0,0
+Union,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,1,0,1,0,0,0,0
+Union,Jonesville Box 1,Secretary of State,,Jason Belton,DEM,38,20,0,0,0,0,18
+Union,Jonesville Box 1,Secretary of State,,Edwina Winter,DEM,22,9,0,0,0,0,13
+Union,Jonesville Box 2,Secretary of State,,Jason Belton,DEM,49,19,0,0,0,0,30
+Union,Jonesville Box 2,Secretary of State,,Edwina Winter,DEM,43,19,0,0,0,0,24
+Union,Kelton,Secretary of State,,Jason Belton,DEM,30,11,0,0,0,0,19
+Union,Kelton,Secretary of State,,Edwina Winter,DEM,21,10,0,0,0,0,11
+Union,Lockhart,Secretary of State,,Jason Belton,DEM,16,9,0,0,0,0,7
+Union,Lockhart,Secretary of State,,Edwina Winter,DEM,14,6,0,0,0,0,8
+Union,Monarch,Secretary of State,,Jason Belton,DEM,29,13,0,0,0,0,16
+Union,Monarch,Secretary of State,,Edwina Winter,DEM,27,11,0,0,0,0,16
+Union,Provisional,Secretary of State,,Jason Belton,DEM,2,0,0,2,0,0,0
+Union,Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Union,Putnam,Secretary of State,,Jason Belton,DEM,10,6,0,0,0,0,4
+Union,Putnam,Secretary of State,,Edwina Winter,DEM,9,4,0,0,0,0,5
+Union,Santuck,Secretary of State,,Jason Belton,DEM,63,26,0,0,0,1,36
+Union,Santuck,Secretary of State,,Edwina Winter,DEM,46,18,0,0,0,0,28
+Union,Union Ward 1 Box 1,Secretary of State,,Jason Belton,DEM,39,21,0,0,0,0,18
+Union,Union Ward 1 Box 1,Secretary of State,,Edwina Winter,DEM,23,13,0,0,0,0,10
+Union,Union Ward 1 Box 2,Secretary of State,,Jason Belton,DEM,81,41,0,0,0,0,40
+Union,Union Ward 1 Box 2,Secretary of State,,Edwina Winter,DEM,75,42,0,0,0,0,33
+Union,Union Ward 2,Secretary of State,,Jason Belton,DEM,71,42,0,0,0,0,29
+Union,Union Ward 2,Secretary of State,,Edwina Winter,DEM,57,30,0,0,0,0,27
+Union,Union Ward 3,Secretary of State,,Jason Belton,DEM,46,22,0,0,0,1,23
+Union,Union Ward 3,Secretary of State,,Edwina Winter,DEM,24,7,0,0,0,0,17
+Union,Union Ward 4 Box 1,Secretary of State,,Jason Belton,DEM,29,7,0,0,0,0,22
+Union,Union Ward 4 Box 1,Secretary of State,,Edwina Winter,DEM,31,9,0,0,0,0,22
+Union,Union Ward 4 Box 2,Secretary of State,,Jason Belton,DEM,19,9,0,0,0,0,10
+Union,Union Ward 4 Box 2,Secretary of State,,Edwina Winter,DEM,11,3,0,0,0,0,8
+Union,West Springs,Secretary of State,,Jason Belton,DEM,11,2,0,0,0,0,9
+Union,West Springs,Secretary of State,,Edwina Winter,DEM,6,2,0,0,0,0,4
+Union,Adamsburg,State Superintendent of Education,,Lisa Ellis,DEM,10,3,0,0,0,0,7
+Union,Adamsburg,State Superintendent of Education,,Sylvia Wright,DEM,5,2,0,0,0,0,3
+Union,Black Rock,State Superintendent of Education,,Lisa Ellis,DEM,34,8,0,0,0,0,26
+Union,Black Rock,State Superintendent of Education,,Sylvia Wright,DEM,53,18,0,0,0,0,35
+Union,Bonham,State Superintendent of Education,,Lisa Ellis,DEM,23,8,0,0,0,0,15
+Union,Bonham,State Superintendent of Education,,Sylvia Wright,DEM,38,12,0,0,0,0,26
+Union,Buffalo Box 1,State Superintendent of Education,,Lisa Ellis,DEM,18,6,0,0,0,0,12
+Union,Buffalo Box 1,State Superintendent of Education,,Sylvia Wright,DEM,26,11,0,0,0,0,15
+Union,Carlisle,State Superintendent of Education,,Lisa Ellis,DEM,26,10,0,0,0,0,16
+Union,Carlisle,State Superintendent of Education,,Sylvia Wright,DEM,72,18,0,0,0,0,54
+Union,Cross Keys,State Superintendent of Education,,Lisa Ellis,DEM,20,7,0,0,0,0,13
+Union,Cross Keys,State Superintendent of Education,,Sylvia Wright,DEM,35,16,0,0,0,0,19
+Union,Excelsior,State Superintendent of Education,,Lisa Ellis,DEM,39,14,0,0,0,0,25
+Union,Excelsior,State Superintendent of Education,,Sylvia Wright,DEM,76,40,0,0,0,0,36
+Union,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Union,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Union,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,1,0,1,0,0,0,0
+Union,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,2,0,2,0,0,0,0
+Union,Jonesville Box 1,State Superintendent of Education,,Lisa Ellis,DEM,29,15,0,0,0,0,14
+Union,Jonesville Box 1,State Superintendent of Education,,Sylvia Wright,DEM,33,16,0,0,0,0,17
+Union,Jonesville Box 2,State Superintendent of Education,,Lisa Ellis,DEM,34,15,0,0,0,0,19
+Union,Jonesville Box 2,State Superintendent of Education,,Sylvia Wright,DEM,59,23,0,0,0,0,36
+Union,Kelton,State Superintendent of Education,,Lisa Ellis,DEM,24,9,0,0,0,0,15
+Union,Kelton,State Superintendent of Education,,Sylvia Wright,DEM,28,14,0,0,0,0,14
+Union,Lockhart,State Superintendent of Education,,Lisa Ellis,DEM,16,7,0,0,0,0,9
+Union,Lockhart,State Superintendent of Education,,Sylvia Wright,DEM,15,8,0,0,0,0,7
+Union,Monarch,State Superintendent of Education,,Lisa Ellis,DEM,23,13,0,0,0,0,10
+Union,Monarch,State Superintendent of Education,,Sylvia Wright,DEM,34,13,0,0,0,0,21
+Union,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Union,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,2,0,0,2,0,0,0
+Union,Putnam,State Superintendent of Education,,Lisa Ellis,DEM,9,3,0,0,0,0,6
+Union,Putnam,State Superintendent of Education,,Sylvia Wright,DEM,10,7,0,0,0,0,3
+Union,Santuck,State Superintendent of Education,,Lisa Ellis,DEM,41,14,0,0,0,1,26
+Union,Santuck,State Superintendent of Education,,Sylvia Wright,DEM,68,32,0,0,0,0,36
+Union,Union Ward 1 Box 1,State Superintendent of Education,,Lisa Ellis,DEM,28,19,0,0,0,0,9
+Union,Union Ward 1 Box 1,State Superintendent of Education,,Sylvia Wright,DEM,36,18,0,0,0,0,18
+Union,Union Ward 1 Box 2,State Superintendent of Education,,Lisa Ellis,DEM,54,25,0,0,0,0,29
+Union,Union Ward 1 Box 2,State Superintendent of Education,,Sylvia Wright,DEM,99,57,0,0,0,0,42
+Union,Union Ward 2,State Superintendent of Education,,Lisa Ellis,DEM,41,25,0,0,0,0,16
+Union,Union Ward 2,State Superintendent of Education,,Sylvia Wright,DEM,87,48,0,0,0,0,39
+Union,Union Ward 3,State Superintendent of Education,,Lisa Ellis,DEM,25,11,0,0,0,0,14
+Union,Union Ward 3,State Superintendent of Education,,Sylvia Wright,DEM,46,19,0,0,0,1,26
+Union,Union Ward 4 Box 1,State Superintendent of Education,,Lisa Ellis,DEM,19,5,0,0,0,0,14
+Union,Union Ward 4 Box 1,State Superintendent of Education,,Sylvia Wright,DEM,41,11,0,0,0,0,30
+Union,Union Ward 4 Box 2,State Superintendent of Education,,Lisa Ellis,DEM,14,7,0,0,0,0,7
+Union,Union Ward 4 Box 2,State Superintendent of Education,,Sylvia Wright,DEM,15,5,0,0,0,0,10
+Union,West Springs,State Superintendent of Education,,Lisa Ellis,DEM,6,1,0,0,0,0,5
+Union,West Springs,State Superintendent of Education,,Sylvia Wright,DEM,12,3,0,0,0,0,9
+Union,Adamsburg,State Treasurer,,Vincent Coe,DEM,8,3,0,0,0,0,5
+Union,Adamsburg,State Treasurer,,Trav Robertson Jr,DEM,7,2,0,0,0,0,5
+Union,Black Rock,State Treasurer,,Vincent Coe,DEM,40,12,0,0,0,0,28
+Union,Black Rock,State Treasurer,,Trav Robertson Jr,DEM,45,14,0,0,0,0,31
+Union,Bonham,State Treasurer,,Vincent Coe,DEM,34,14,0,0,0,0,20
+Union,Bonham,State Treasurer,,Trav Robertson Jr,DEM,24,6,0,0,0,0,18
+Union,Buffalo Box 1,State Treasurer,,Vincent Coe,DEM,20,6,0,0,0,0,14
+Union,Buffalo Box 1,State Treasurer,,Trav Robertson Jr,DEM,24,11,0,0,0,0,13
+Union,Carlisle,State Treasurer,,Vincent Coe,DEM,57,15,0,0,0,0,42
+Union,Carlisle,State Treasurer,,Trav Robertson Jr,DEM,41,14,0,0,0,0,27
+Union,Cross Keys,State Treasurer,,Vincent Coe,DEM,29,12,0,0,0,0,17
+Union,Cross Keys,State Treasurer,,Trav Robertson Jr,DEM,27,11,0,0,0,0,16
+Union,Excelsior,State Treasurer,,Vincent Coe,DEM,50,25,0,0,0,0,25
+Union,Excelsior,State Treasurer,,Trav Robertson Jr,DEM,65,30,0,0,0,0,35
+Union,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Union,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Union,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,2,0,2,0,0,0,0
+Union,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,1,0,1,0,0,0,0
+Union,Jonesville Box 1,State Treasurer,,Vincent Coe,DEM,28,13,0,0,0,0,15
+Union,Jonesville Box 1,State Treasurer,,Trav Robertson Jr,DEM,33,17,0,0,0,0,16
+Union,Jonesville Box 2,State Treasurer,,Vincent Coe,DEM,42,17,0,0,0,0,25
+Union,Jonesville Box 2,State Treasurer,,Trav Robertson Jr,DEM,51,21,0,0,0,0,30
+Union,Kelton,State Treasurer,,Vincent Coe,DEM,16,5,0,0,0,0,11
+Union,Kelton,State Treasurer,,Trav Robertson Jr,DEM,37,17,0,0,0,0,20
+Union,Lockhart,State Treasurer,,Vincent Coe,DEM,20,8,0,0,0,0,12
+Union,Lockhart,State Treasurer,,Trav Robertson Jr,DEM,11,7,0,0,0,0,4
+Union,Monarch,State Treasurer,,Vincent Coe,DEM,23,8,0,0,0,0,15
+Union,Monarch,State Treasurer,,Trav Robertson Jr,DEM,35,17,0,0,0,0,18
+Union,Provisional,State Treasurer,,Vincent Coe,DEM,2,0,0,2,0,0,0
+Union,Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Union,Putnam,State Treasurer,,Vincent Coe,DEM,9,7,0,0,0,0,2
+Union,Putnam,State Treasurer,,Trav Robertson Jr,DEM,9,2,0,0,0,0,7
+Union,Santuck,State Treasurer,,Vincent Coe,DEM,49,17,0,0,0,1,31
+Union,Santuck,State Treasurer,,Trav Robertson Jr,DEM,61,28,0,0,0,0,33
+Union,Union Ward 1 Box 1,State Treasurer,,Vincent Coe,DEM,26,10,0,0,0,0,16
+Union,Union Ward 1 Box 1,State Treasurer,,Trav Robertson Jr,DEM,35,23,0,0,0,0,12
+Union,Union Ward 1 Box 2,State Treasurer,,Vincent Coe,DEM,67,35,0,0,0,0,32
+Union,Union Ward 1 Box 2,State Treasurer,,Trav Robertson Jr,DEM,87,48,0,0,0,0,39
+Union,Union Ward 2,State Treasurer,,Vincent Coe,DEM,54,25,0,0,0,0,29
+Union,Union Ward 2,State Treasurer,,Trav Robertson Jr,DEM,75,48,0,0,0,0,27
+Union,Union Ward 3,State Treasurer,,Vincent Coe,DEM,33,15,0,0,0,1,17
+Union,Union Ward 3,State Treasurer,,Trav Robertson Jr,DEM,36,14,0,0,0,0,22
+Union,Union Ward 4 Box 1,State Treasurer,,Vincent Coe,DEM,26,9,0,0,0,0,17
+Union,Union Ward 4 Box 1,State Treasurer,,Trav Robertson Jr,DEM,33,7,0,0,0,0,26
+Union,Union Ward 4 Box 2,State Treasurer,,Vincent Coe,DEM,8,5,0,0,0,0,3
+Union,Union Ward 4 Box 2,State Treasurer,,Trav Robertson Jr,DEM,20,7,0,0,0,0,13
+Union,West Springs,State Treasurer,,Vincent Coe,DEM,13,4,0,0,0,0,9
+Union,West Springs,State Treasurer,,Trav Robertson Jr,DEM,5,0,0,0,0,0,5
+Union,Adamsburg,U.S. House,5,Andrew Clough,DEM,4,3,0,0,0,0,1
+Union,Adamsburg,U.S. House,5,Mallory Dittmer,DEM,11,2,0,0,0,0,9
+Union,Black Rock,U.S. House,5,Andrew Clough,DEM,49,12,0,0,0,0,37
+Union,Black Rock,U.S. House,5,Mallory Dittmer,DEM,37,14,0,0,0,0,23
+Union,Bonham,U.S. House,5,Andrew Clough,DEM,30,10,0,0,0,0,20
+Union,Bonham,U.S. House,5,Mallory Dittmer,DEM,29,10,0,0,0,0,19
+Union,Buffalo Box 1,U.S. House,5,Andrew Clough,DEM,20,6,0,0,0,0,14
+Union,Buffalo Box 1,U.S. House,5,Mallory Dittmer,DEM,22,10,0,0,0,0,12
+Union,Carlisle,U.S. House,5,Andrew Clough,DEM,49,12,0,0,0,0,37
+Union,Carlisle,U.S. House,5,Mallory Dittmer,DEM,50,17,0,0,0,0,33
+Union,Cross Keys,U.S. House,5,Andrew Clough,DEM,24,13,0,0,0,0,11
+Union,Cross Keys,U.S. House,5,Mallory Dittmer,DEM,30,8,0,0,0,0,22
+Union,Excelsior,U.S. House,5,Andrew Clough,DEM,57,24,0,0,0,0,33
+Union,Excelsior,U.S. House,5,Mallory Dittmer,DEM,57,31,0,0,0,0,26
+Union,Failsafe,U.S. House,5,Andrew Clough,DEM,0,0,0,0,0,0,0
+Union,Failsafe,U.S. House,5,Mallory Dittmer,DEM,0,0,0,0,0,0,0
+Union,Failsafe Provisional,U.S. House,5,Andrew Clough,DEM,2,0,2,0,0,0,0
+Union,Failsafe Provisional,U.S. House,5,Mallory Dittmer,DEM,1,0,1,0,0,0,0
+Union,Jonesville Box 1,U.S. House,5,Andrew Clough,DEM,33,13,0,0,0,0,20
+Union,Jonesville Box 1,U.S. House,5,Mallory Dittmer,DEM,28,17,0,0,0,0,11
+Union,Jonesville Box 2,U.S. House,5,Andrew Clough,DEM,46,19,0,0,0,0,27
+Union,Jonesville Box 2,U.S. House,5,Mallory Dittmer,DEM,47,19,0,0,0,0,28
+Union,Kelton,U.S. House,5,Andrew Clough,DEM,32,12,0,0,0,0,20
+Union,Kelton,U.S. House,5,Mallory Dittmer,DEM,17,10,0,0,0,0,7
+Union,Lockhart,U.S. House,5,Andrew Clough,DEM,10,3,0,0,0,0,7
+Union,Lockhart,U.S. House,5,Mallory Dittmer,DEM,21,12,0,0,0,0,9
+Union,Monarch,U.S. House,5,Andrew Clough,DEM,24,11,0,0,0,0,13
+Union,Monarch,U.S. House,5,Mallory Dittmer,DEM,32,14,0,0,0,0,18
+Union,Provisional,U.S. House,5,Andrew Clough,DEM,0,0,0,0,0,0,0
+Union,Provisional,U.S. House,5,Mallory Dittmer,DEM,2,0,0,2,0,0,0
+Union,Putnam,U.S. House,5,Andrew Clough,DEM,8,5,0,0,0,0,3
+Union,Putnam,U.S. House,5,Mallory Dittmer,DEM,11,5,0,0,0,0,6
+Union,Santuck,U.S. House,5,Andrew Clough,DEM,62,24,0,0,0,0,38
+Union,Santuck,U.S. House,5,Mallory Dittmer,DEM,49,22,0,0,0,1,26
+Union,Union Ward 1 Box 1,U.S. House,5,Andrew Clough,DEM,24,14,0,0,0,0,10
+Union,Union Ward 1 Box 1,U.S. House,5,Mallory Dittmer,DEM,37,19,0,0,0,0,18
+Union,Union Ward 1 Box 2,U.S. House,5,Andrew Clough,DEM,65,31,0,0,0,0,34
+Union,Union Ward 1 Box 2,U.S. House,5,Mallory Dittmer,DEM,89,51,0,0,0,0,38
+Union,Union Ward 2,U.S. House,5,Andrew Clough,DEM,63,38,0,0,0,0,25
+Union,Union Ward 2,U.S. House,5,Mallory Dittmer,DEM,64,36,0,0,0,0,28
+Union,Union Ward 3,U.S. House,5,Andrew Clough,DEM,41,12,0,0,0,0,29
+Union,Union Ward 3,U.S. House,5,Mallory Dittmer,DEM,28,17,0,0,0,1,10
+Union,Union Ward 4 Box 1,U.S. House,5,Andrew Clough,DEM,26,7,0,0,0,0,19
+Union,Union Ward 4 Box 1,U.S. House,5,Mallory Dittmer,DEM,32,9,0,0,0,0,23
+Union,Union Ward 4 Box 2,U.S. House,5,Andrew Clough,DEM,16,7,0,0,0,0,9
+Union,Union Ward 4 Box 2,U.S. House,5,Mallory Dittmer,DEM,14,5,0,0,0,0,9
+Union,West Springs,U.S. House,5,Andrew Clough,DEM,11,4,0,0,0,0,7
+Union,West Springs,U.S. House,5,Mallory Dittmer,DEM,7,0,0,0,0,0,7
+Union,Adamsburg,U.S. Senate,,Calvin Cowen,REP,8,1,0,0,0,0,7
+Union,Adamsburg,U.S. Senate,,Thomas Keith Dismukes,REP,4,0,0,0,0,0,4
+Union,Adamsburg,U.S. Senate,,Lindsey Graham,REP,83,22,0,0,0,0,61
+Union,Adamsburg,U.S. Senate,,Pat Herrmann,REP,7,3,0,0,0,0,4
+Union,Adamsburg,U.S. Senate,,Mark Lynch,REP,44,7,0,0,0,0,37
+Union,Adamsburg,U.S. Senate,,Darius L Mitchell,REP,4,0,0,0,0,0,4
+Union,Adamsburg,U.S. Senate,,Annie Andrews,DEM,10,5,0,0,0,0,5
+Union,Adamsburg,U.S. Senate,,Brandon P Brown,DEM,5,0,0,0,0,0,5
+Union,Adamsburg,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Union,Black Rock,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Union,Black Rock,U.S. Senate,,Thomas Keith Dismukes,REP,4,0,0,0,0,0,4
+Union,Black Rock,U.S. Senate,,Lindsey Graham,REP,22,0,0,0,0,0,22
+Union,Black Rock,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Union,Black Rock,U.S. Senate,,Mark Lynch,REP,14,4,0,0,0,0,10
+Union,Black Rock,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Union,Black Rock,U.S. Senate,,Annie Andrews,DEM,37,11,0,0,0,0,26
+Union,Black Rock,U.S. Senate,,Brandon P Brown,DEM,35,9,0,0,0,0,26
+Union,Black Rock,U.S. Senate,,Kyle Freeman,DEM,15,6,0,0,0,0,9
+Union,Bonham,U.S. Senate,,Calvin Cowen,REP,11,0,0,0,0,0,11
+Union,Bonham,U.S. Senate,,Thomas Keith Dismukes,REP,7,1,0,0,0,0,6
+Union,Bonham,U.S. Senate,,Lindsey Graham,REP,98,18,0,0,0,0,80
+Union,Bonham,U.S. Senate,,Pat Herrmann,REP,5,1,0,0,0,0,4
+Union,Bonham,U.S. Senate,,Mark Lynch,REP,38,9,0,0,0,0,29
+Union,Bonham,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Union,Bonham,U.S. Senate,,Annie Andrews,DEM,26,10,0,0,0,0,16
+Union,Bonham,U.S. Senate,,Brandon P Brown,DEM,30,9,0,0,0,0,21
+Union,Bonham,U.S. Senate,,Kyle Freeman,DEM,5,1,0,0,0,0,4
+Union,Buffalo Box 1,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Union,Buffalo Box 1,U.S. Senate,,Thomas Keith Dismukes,REP,7,0,0,0,0,0,7
+Union,Buffalo Box 1,U.S. Senate,,Lindsey Graham,REP,112,17,0,0,0,0,95
+Union,Buffalo Box 1,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Union,Buffalo Box 1,U.S. Senate,,Mark Lynch,REP,38,9,0,0,0,0,29
+Union,Buffalo Box 1,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Union,Buffalo Box 1,U.S. Senate,,Annie Andrews,DEM,16,6,0,0,0,0,10
+Union,Buffalo Box 1,U.S. Senate,,Brandon P Brown,DEM,19,6,0,0,0,0,13
+Union,Buffalo Box 1,U.S. Senate,,Kyle Freeman,DEM,8,5,0,0,0,0,3
+Union,Carlisle,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Union,Carlisle,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Union,Carlisle,U.S. Senate,,Lindsey Graham,REP,11,4,0,0,0,0,7
+Union,Carlisle,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Union,Carlisle,U.S. Senate,,Mark Lynch,REP,3,1,0,0,0,0,2
+Union,Carlisle,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Union,Carlisle,U.S. Senate,,Annie Andrews,DEM,38,12,0,0,0,0,26
+Union,Carlisle,U.S. Senate,,Brandon P Brown,DEM,47,16,0,0,0,0,31
+Union,Carlisle,U.S. Senate,,Kyle Freeman,DEM,13,1,0,0,0,0,12
+Union,Cross Keys,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Union,Cross Keys,U.S. Senate,,Thomas Keith Dismukes,REP,8,3,0,0,0,0,5
+Union,Cross Keys,U.S. Senate,,Lindsey Graham,REP,71,19,0,0,0,0,52
+Union,Cross Keys,U.S. Senate,,Pat Herrmann,REP,2,1,0,0,0,0,1
+Union,Cross Keys,U.S. Senate,,Mark Lynch,REP,68,11,0,0,0,0,57
+Union,Cross Keys,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Union,Cross Keys,U.S. Senate,,Annie Andrews,DEM,17,6,0,0,0,0,11
+Union,Cross Keys,U.S. Senate,,Brandon P Brown,DEM,34,14,0,0,0,0,20
+Union,Cross Keys,U.S. Senate,,Kyle Freeman,DEM,5,3,0,0,0,0,2
+Union,Excelsior,U.S. Senate,,Calvin Cowen,REP,3,1,0,0,0,0,2
+Union,Excelsior,U.S. Senate,,Thomas Keith Dismukes,REP,6,2,0,0,0,0,4
+Union,Excelsior,U.S. Senate,,Lindsey Graham,REP,139,48,0,0,0,0,91
+Union,Excelsior,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Union,Excelsior,U.S. Senate,,Mark Lynch,REP,70,25,0,0,0,0,45
+Union,Excelsior,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,0,3
+Union,Excelsior,U.S. Senate,,Annie Andrews,DEM,48,18,0,0,0,0,30
+Union,Excelsior,U.S. Senate,,Brandon P Brown,DEM,50,30,0,0,0,0,20
+Union,Excelsior,U.S. Senate,,Kyle Freeman,DEM,16,6,0,0,0,0,10
+Union,Failsafe,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Union,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Union,Failsafe,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Union,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Union,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Union,Failsafe,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Union,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Union,Failsafe,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Union,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,2,0,2,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,2,0,2,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,1,0,1,0,0,0,0
+Union,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Union,Jonesville Box 1,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Union,Jonesville Box 1,U.S. Senate,,Thomas Keith Dismukes,REP,11,0,0,0,0,0,11
+Union,Jonesville Box 1,U.S. Senate,,Lindsey Graham,REP,105,14,0,0,0,0,91
+Union,Jonesville Box 1,U.S. Senate,,Pat Herrmann,REP,6,0,0,0,0,0,6
+Union,Jonesville Box 1,U.S. Senate,,Mark Lynch,REP,88,13,0,0,0,0,75
+Union,Jonesville Box 1,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Union,Jonesville Box 1,U.S. Senate,,Annie Andrews,DEM,22,11,0,0,0,0,11
+Union,Jonesville Box 1,U.S. Senate,,Brandon P Brown,DEM,36,17,0,0,0,0,19
+Union,Jonesville Box 1,U.S. Senate,,Kyle Freeman,DEM,3,2,0,0,0,0,1
+Union,Jonesville Box 2,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Union,Jonesville Box 2,U.S. Senate,,Thomas Keith Dismukes,REP,7,2,0,0,0,0,5
+Union,Jonesville Box 2,U.S. Senate,,Lindsey Graham,REP,112,37,0,0,0,0,75
+Union,Jonesville Box 2,U.S. Senate,,Pat Herrmann,REP,5,0,0,0,0,0,5
+Union,Jonesville Box 2,U.S. Senate,,Mark Lynch,REP,62,8,0,0,0,1,53
+Union,Jonesville Box 2,U.S. Senate,,Darius L Mitchell,REP,4,0,0,0,0,0,4
+Union,Jonesville Box 2,U.S. Senate,,Annie Andrews,DEM,40,15,0,0,0,0,25
+Union,Jonesville Box 2,U.S. Senate,,Brandon P Brown,DEM,42,20,0,0,0,0,22
+Union,Jonesville Box 2,U.S. Senate,,Kyle Freeman,DEM,12,3,0,0,0,0,9
+Union,Kelton,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Union,Kelton,U.S. Senate,,Thomas Keith Dismukes,REP,9,1,0,0,0,0,8
+Union,Kelton,U.S. Senate,,Lindsey Graham,REP,125,24,0,0,0,0,101
+Union,Kelton,U.S. Senate,,Pat Herrmann,REP,6,1,0,0,0,0,5
+Union,Kelton,U.S. Senate,,Mark Lynch,REP,93,15,0,0,0,0,78
+Union,Kelton,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,0,3
+Union,Kelton,U.S. Senate,,Annie Andrews,DEM,17,10,0,0,0,0,7
+Union,Kelton,U.S. Senate,,Brandon P Brown,DEM,28,13,0,0,0,0,15
+Union,Kelton,U.S. Senate,,Kyle Freeman,DEM,8,1,0,0,0,0,7
+Union,Lockhart,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Union,Lockhart,U.S. Senate,,Thomas Keith Dismukes,REP,6,1,0,0,0,0,5
+Union,Lockhart,U.S. Senate,,Lindsey Graham,REP,56,6,0,0,0,0,50
+Union,Lockhart,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Union,Lockhart,U.S. Senate,,Mark Lynch,REP,36,1,0,0,0,0,35
+Union,Lockhart,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Union,Lockhart,U.S. Senate,,Annie Andrews,DEM,15,6,0,0,0,0,9
+Union,Lockhart,U.S. Senate,,Brandon P Brown,DEM,13,8,0,0,0,0,5
+Union,Lockhart,U.S. Senate,,Kyle Freeman,DEM,3,1,0,0,0,0,2
+Union,Monarch,U.S. Senate,,Calvin Cowen,REP,5,2,0,0,0,0,3
+Union,Monarch,U.S. Senate,,Thomas Keith Dismukes,REP,15,4,0,0,0,0,11
+Union,Monarch,U.S. Senate,,Lindsey Graham,REP,124,33,0,0,0,0,91
+Union,Monarch,U.S. Senate,,Pat Herrmann,REP,7,3,0,0,0,0,4
+Union,Monarch,U.S. Senate,,Mark Lynch,REP,85,17,0,0,0,0,68
+Union,Monarch,U.S. Senate,,Darius L Mitchell,REP,3,1,0,0,0,0,2
+Union,Monarch,U.S. Senate,,Annie Andrews,DEM,28,15,0,0,0,0,13
+Union,Monarch,U.S. Senate,,Brandon P Brown,DEM,25,9,0,0,0,0,16
+Union,Monarch,U.S. Senate,,Kyle Freeman,DEM,4,1,0,0,0,0,3
+Union,Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Union,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Union,Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Union,Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Union,Provisional,U.S. Senate,,Mark Lynch,REP,1,0,0,1,0,0,0
+Union,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Union,Provisional,U.S. Senate,,Annie Andrews,DEM,1,0,0,1,0,0,0
+Union,Provisional,U.S. Senate,,Brandon P Brown,DEM,1,0,0,1,0,0,0
+Union,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Union,Putnam,U.S. Senate,,Calvin Cowen,REP,8,1,0,0,0,0,7
+Union,Putnam,U.S. Senate,,Thomas Keith Dismukes,REP,5,0,0,0,0,0,5
+Union,Putnam,U.S. Senate,,Lindsey Graham,REP,74,14,0,0,0,0,60
+Union,Putnam,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Union,Putnam,U.S. Senate,,Mark Lynch,REP,61,8,0,0,0,0,53
+Union,Putnam,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Union,Putnam,U.S. Senate,,Annie Andrews,DEM,14,8,0,0,0,0,6
+Union,Putnam,U.S. Senate,,Brandon P Brown,DEM,3,2,0,0,0,0,1
+Union,Putnam,U.S. Senate,,Kyle Freeman,DEM,2,0,0,0,0,0,2
+Union,Santuck,U.S. Senate,,Calvin Cowen,REP,3,1,0,0,0,0,2
+Union,Santuck,U.S. Senate,,Thomas Keith Dismukes,REP,3,1,0,0,0,0,2
+Union,Santuck,U.S. Senate,,Lindsey Graham,REP,49,15,0,0,0,0,34
+Union,Santuck,U.S. Senate,,Pat Herrmann,REP,4,1,0,0,0,0,3
+Union,Santuck,U.S. Senate,,Mark Lynch,REP,31,7,0,0,0,0,24
+Union,Santuck,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Union,Santuck,U.S. Senate,,Annie Andrews,DEM,51,19,0,0,0,1,31
+Union,Santuck,U.S. Senate,,Brandon P Brown,DEM,47,24,0,0,0,0,23
+Union,Santuck,U.S. Senate,,Kyle Freeman,DEM,12,3,0,0,0,0,9
+Union,Union Ward 1 Box 1,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Union,Union Ward 1 Box 1,U.S. Senate,,Thomas Keith Dismukes,REP,4,2,0,0,0,0,2
+Union,Union Ward 1 Box 1,U.S. Senate,,Lindsey Graham,REP,66,22,0,0,0,0,44
+Union,Union Ward 1 Box 1,U.S. Senate,,Pat Herrmann,REP,3,1,0,0,0,0,2
+Union,Union Ward 1 Box 1,U.S. Senate,,Mark Lynch,REP,19,6,0,0,0,0,13
+Union,Union Ward 1 Box 1,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Union,Union Ward 1 Box 1,U.S. Senate,,Annie Andrews,DEM,23,14,0,0,0,0,9
+Union,Union Ward 1 Box 1,U.S. Senate,,Brandon P Brown,DEM,34,20,0,0,0,0,14
+Union,Union Ward 1 Box 1,U.S. Senate,,Kyle Freeman,DEM,7,2,0,0,0,0,5
+Union,Union Ward 1 Box 2,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Union,Union Ward 1 Box 2,U.S. Senate,,Thomas Keith Dismukes,REP,6,2,0,0,0,0,4
+Union,Union Ward 1 Box 2,U.S. Senate,,Lindsey Graham,REP,43,15,0,0,0,0,28
+Union,Union Ward 1 Box 2,U.S. Senate,,Pat Herrmann,REP,4,3,0,0,0,0,1
+Union,Union Ward 1 Box 2,U.S. Senate,,Mark Lynch,REP,33,6,0,0,0,0,27
+Union,Union Ward 1 Box 2,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Union,Union Ward 1 Box 2,U.S. Senate,,Annie Andrews,DEM,58,26,0,0,0,0,32
+Union,Union Ward 1 Box 2,U.S. Senate,,Brandon P Brown,DEM,80,45,0,0,0,0,35
+Union,Union Ward 1 Box 2,U.S. Senate,,Kyle Freeman,DEM,18,12,0,0,0,0,6
+Union,Union Ward 2,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Union,Union Ward 2,U.S. Senate,,Thomas Keith Dismukes,REP,3,2,0,0,0,0,1
+Union,Union Ward 2,U.S. Senate,,Lindsey Graham,REP,68,31,0,0,0,0,37
+Union,Union Ward 2,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Union,Union Ward 2,U.S. Senate,,Mark Lynch,REP,30,12,0,0,0,0,18
+Union,Union Ward 2,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Union,Union Ward 2,U.S. Senate,,Annie Andrews,DEM,47,35,0,0,0,0,12
+Union,Union Ward 2,U.S. Senate,,Brandon P Brown,DEM,69,35,0,0,0,0,34
+Union,Union Ward 2,U.S. Senate,,Kyle Freeman,DEM,12,4,0,0,0,0,8
+Union,Union Ward 3,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Union,Union Ward 3,U.S. Senate,,Thomas Keith Dismukes,REP,4,1,0,0,0,0,3
+Union,Union Ward 3,U.S. Senate,,Lindsey Graham,REP,25,6,0,0,0,0,19
+Union,Union Ward 3,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Union,Union Ward 3,U.S. Senate,,Mark Lynch,REP,14,3,0,0,0,0,11
+Union,Union Ward 3,U.S. Senate,,Darius L Mitchell,REP,3,2,0,0,0,0,1
+Union,Union Ward 3,U.S. Senate,,Annie Andrews,DEM,22,9,0,0,0,0,13
+Union,Union Ward 3,U.S. Senate,,Brandon P Brown,DEM,38,14,0,0,0,1,23
+Union,Union Ward 3,U.S. Senate,,Kyle Freeman,DEM,11,6,0,0,0,0,5
+Union,Union Ward 4 Box 1,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Union,Union Ward 4 Box 1,U.S. Senate,,Thomas Keith Dismukes,REP,3,2,0,0,0,0,1
+Union,Union Ward 4 Box 1,U.S. Senate,,Lindsey Graham,REP,76,38,0,0,0,0,38
+Union,Union Ward 4 Box 1,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Union,Union Ward 4 Box 1,U.S. Senate,,Mark Lynch,REP,46,13,0,0,0,0,33
+Union,Union Ward 4 Box 1,U.S. Senate,,Darius L Mitchell,REP,6,2,0,0,0,0,4
+Union,Union Ward 4 Box 1,U.S. Senate,,Annie Andrews,DEM,30,10,0,0,0,0,20
+Union,Union Ward 4 Box 1,U.S. Senate,,Brandon P Brown,DEM,24,5,0,0,0,0,19
+Union,Union Ward 4 Box 1,U.S. Senate,,Kyle Freeman,DEM,7,2,0,0,0,0,5
+Union,Union Ward 4 Box 2,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Union,Union Ward 4 Box 2,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,U.S. Senate,,Lindsey Graham,REP,5,0,0,0,0,0,5
+Union,Union Ward 4 Box 2,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,U.S. Senate,,Mark Lynch,REP,5,1,0,0,0,0,4
+Union,Union Ward 4 Box 2,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Union,Union Ward 4 Box 2,U.S. Senate,,Annie Andrews,DEM,10,4,0,0,0,0,6
+Union,Union Ward 4 Box 2,U.S. Senate,,Brandon P Brown,DEM,17,8,0,0,0,0,9
+Union,Union Ward 4 Box 2,U.S. Senate,,Kyle Freeman,DEM,3,1,0,0,0,0,2
+Union,West Springs,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Union,West Springs,U.S. Senate,,Thomas Keith Dismukes,REP,9,0,0,0,0,0,9
+Union,West Springs,U.S. Senate,,Lindsey Graham,REP,49,2,0,0,0,0,47
+Union,West Springs,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Union,West Springs,U.S. Senate,,Mark Lynch,REP,30,1,0,0,0,0,29
+Union,West Springs,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Union,West Springs,U.S. Senate,,Annie Andrews,DEM,10,3,0,0,0,0,7
+Union,West Springs,U.S. Senate,,Brandon P Brown,DEM,5,1,0,0,0,0,4
+Union,West Springs,U.S. Senate,,Kyle Freeman,DEM,3,0,0,0,0,0,3

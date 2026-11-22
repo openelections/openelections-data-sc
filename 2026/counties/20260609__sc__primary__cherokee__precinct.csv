@@ -1,0 +1,1363 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Cherokee,Allens,Advisory Question 1,,Yes,REP,252,93,0,0,0,0,159
+Cherokee,Allens,Advisory Question 1,,No,REP,32,12,0,0,0,0,20
+Cherokee,Alma Mill,Advisory Question 1,,Yes,REP,169,73,0,0,0,0,96
+Cherokee,Alma Mill,Advisory Question 1,,No,REP,14,7,0,0,0,0,7
+Cherokee,Antioch and King's Creek,Advisory Question 1,,Yes,REP,259,36,0,0,0,2,221
+Cherokee,Antioch and King's Creek,Advisory Question 1,,No,REP,21,4,0,0,0,0,17
+Cherokee,Ashworth,Advisory Question 1,,Yes,REP,344,88,0,0,0,2,254
+Cherokee,Ashworth,Advisory Question 1,,No,REP,31,11,0,0,0,1,19
+Cherokee,Blacksburg Ward No. 1,Advisory Question 1,,Yes,REP,160,27,0,0,0,1,132
+Cherokee,Blacksburg Ward No. 1,Advisory Question 1,,No,REP,6,1,0,0,0,0,5
+Cherokee,Blacksburg Ward No. 2,Advisory Question 1,,Yes,REP,271,59,0,0,0,0,212
+Cherokee,Blacksburg Ward No. 2,Advisory Question 1,,No,REP,13,2,0,0,0,0,11
+Cherokee,Draytonville,Advisory Question 1,,Yes,REP,359,103,0,0,0,0,256
+Cherokee,Draytonville,Advisory Question 1,,No,REP,28,7,0,0,0,0,21
+Cherokee,Ezells and Butler,Advisory Question 1,,Yes,REP,329,68,0,0,0,0,261
+Cherokee,Ezells and Butler,Advisory Question 1,,No,REP,29,9,0,0,0,0,20
+Cherokee,Failsafe,Advisory Question 1,,Yes,REP,8,0,0,0,8,0,0
+Cherokee,Failsafe,Advisory Question 1,,No,REP,1,0,0,0,1,0,0
+Cherokee,Failsafe Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,Advisory Question 1,,Yes,REP,42,28,0,0,0,1,13
+Cherokee,Gaffney Ward No. 1,Advisory Question 1,,No,REP,4,2,0,0,0,1,1
+Cherokee,Gaffney Ward No. 2,Advisory Question 1,,Yes,REP,87,32,0,0,0,1,54
+Cherokee,Gaffney Ward No. 2,Advisory Question 1,,No,REP,5,1,0,0,0,0,4
+Cherokee,Gaffney Ward No. 3,Advisory Question 1,,Yes,REP,81,35,0,0,0,0,46
+Cherokee,Gaffney Ward No. 3,Advisory Question 1,,No,REP,13,8,0,0,0,0,5
+Cherokee,Gaffney Ward No. 4,Advisory Question 1,,Yes,REP,217,100,0,0,0,0,117
+Cherokee,Gaffney Ward No. 4,Advisory Question 1,,No,REP,27,8,0,0,0,0,19
+Cherokee,Gaffney Ward No. 5,Advisory Question 1,,Yes,REP,242,85,0,0,0,0,157
+Cherokee,Gaffney Ward No. 5,Advisory Question 1,,No,REP,22,7,0,0,0,0,15
+Cherokee,Gaffney Ward No. 6,Advisory Question 1,,Yes,REP,244,87,0,0,0,2,155
+Cherokee,Gaffney Ward No. 6,Advisory Question 1,,No,REP,26,13,0,0,0,0,13
+Cherokee,Goucher and Thicketty,Advisory Question 1,,Yes,REP,291,105,0,0,0,0,186
+Cherokee,Goucher and Thicketty,Advisory Question 1,,No,REP,29,11,0,0,0,0,18
+Cherokee,Grassy Pond,Advisory Question 1,,Yes,REP,743,308,0,0,0,5,430
+Cherokee,Grassy Pond,Advisory Question 1,,No,REP,82,36,0,0,0,1,45
+Cherokee,Holly Grove and Buffalo,Advisory Question 1,,Yes,REP,239,57,0,0,0,0,182
+Cherokee,Holly Grove and Buffalo,Advisory Question 1,,No,REP,23,7,0,0,0,0,16
+Cherokee,Limestone Mill,Advisory Question 1,,Yes,REP,105,40,0,0,0,1,64
+Cherokee,Limestone Mill,Advisory Question 1,,No,REP,7,3,0,0,0,0,4
+Cherokee,Littlejohn's and Sarratt's,Advisory Question 1,,Yes,REP,126,18,0,0,0,0,108
+Cherokee,Littlejohn's and Sarratt's,Advisory Question 1,,No,REP,17,1,0,0,0,0,16
+Cherokee,Macedonia,Advisory Question 1,,Yes,REP,411,117,0,0,0,4,290
+Cherokee,Macedonia,Advisory Question 1,,No,REP,46,11,0,0,0,3,32
+Cherokee,Morgan,Advisory Question 1,,Yes,REP,252,47,0,0,0,1,204
+Cherokee,Morgan,Advisory Question 1,,No,REP,27,3,0,0,0,1,23
+Cherokee,Musgrove Mill,Advisory Question 1,,Yes,REP,357,138,0,0,0,0,219
+Cherokee,Musgrove Mill,Advisory Question 1,,No,REP,48,19,0,0,0,0,29
+Cherokee,Ninety Nine and Cherokee Falls,Advisory Question 1,,Yes,REP,232,51,0,0,0,0,181
+Cherokee,Ninety Nine and Cherokee Falls,Advisory Question 1,,No,REP,22,10,0,0,0,0,12
+Cherokee,Pleasant Grove,Advisory Question 1,,Yes,REP,162,52,0,0,0,1,109
+Cherokee,Pleasant Grove,Advisory Question 1,,No,REP,29,12,0,0,0,0,17
+Cherokee,Pleasant Meadows,Advisory Question 1,,Yes,REP,92,37,0,0,0,0,55
+Cherokee,Pleasant Meadows,Advisory Question 1,,No,REP,14,8,0,0,0,0,6
+Cherokee,Provisional,Advisory Question 1,,Yes,REP,2,0,0,2,0,0,0
+Cherokee,Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Cherokee,Timber Ridge,Advisory Question 1,,Yes,REP,284,90,0,0,0,2,192
+Cherokee,Timber Ridge,Advisory Question 1,,No,REP,32,9,0,0,0,0,23
+Cherokee,White Plains,Advisory Question 1,,Yes,REP,248,45,0,0,0,0,203
+Cherokee,White Plains,Advisory Question 1,,No,REP,20,5,0,0,0,0,15
+Cherokee,Wilkinsville and Metcalf,Advisory Question 1,,Yes,REP,185,47,0,0,0,0,138
+Cherokee,Wilkinsville and Metcalf,Advisory Question 1,,No,REP,17,2,0,0,0,0,15
+Cherokee,Wood's,Advisory Question 1,,Yes,REP,341,94,0,0,0,2,245
+Cherokee,Wood's,Advisory Question 1,,No,REP,26,9,0,0,0,0,17
+Cherokee,Allens,Advisory Question 2,,Yes,REP,228,87,0,0,0,0,141
+Cherokee,Allens,Advisory Question 2,,No,REP,53,17,0,0,0,0,36
+Cherokee,Alma Mill,Advisory Question 2,,Yes,REP,137,55,0,0,0,0,82
+Cherokee,Alma Mill,Advisory Question 2,,No,REP,46,24,0,0,0,0,22
+Cherokee,Antioch and King's Creek,Advisory Question 2,,Yes,REP,230,34,0,0,0,2,194
+Cherokee,Antioch and King's Creek,Advisory Question 2,,No,REP,49,6,0,0,0,0,43
+Cherokee,Ashworth,Advisory Question 2,,Yes,REP,316,84,0,0,0,2,230
+Cherokee,Ashworth,Advisory Question 2,,No,REP,56,14,0,0,0,1,41
+Cherokee,Blacksburg Ward No. 1,Advisory Question 2,,Yes,REP,132,22,0,0,0,1,109
+Cherokee,Blacksburg Ward No. 1,Advisory Question 2,,No,REP,34,6,0,0,0,0,28
+Cherokee,Blacksburg Ward No. 2,Advisory Question 2,,Yes,REP,235,52,0,0,0,0,183
+Cherokee,Blacksburg Ward No. 2,Advisory Question 2,,No,REP,48,8,0,0,0,0,40
+Cherokee,Draytonville,Advisory Question 2,,Yes,REP,308,85,0,0,0,0,223
+Cherokee,Draytonville,Advisory Question 2,,No,REP,75,21,0,0,0,0,54
+Cherokee,Ezells and Butler,Advisory Question 2,,Yes,REP,295,60,0,0,0,0,235
+Cherokee,Ezells and Butler,Advisory Question 2,,No,REP,58,14,0,0,0,0,44
+Cherokee,Failsafe,Advisory Question 2,,Yes,REP,8,0,0,0,8,0,0
+Cherokee,Failsafe,Advisory Question 2,,No,REP,1,0,0,0,1,0,0
+Cherokee,Failsafe Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,Advisory Question 2,,Yes,REP,38,28,0,0,0,1,9
+Cherokee,Gaffney Ward No. 1,Advisory Question 2,,No,REP,8,2,0,0,0,1,5
+Cherokee,Gaffney Ward No. 2,Advisory Question 2,,Yes,REP,70,22,0,0,0,1,47
+Cherokee,Gaffney Ward No. 2,Advisory Question 2,,No,REP,21,11,0,0,0,0,10
+Cherokee,Gaffney Ward No. 3,Advisory Question 2,,Yes,REP,67,32,0,0,0,0,35
+Cherokee,Gaffney Ward No. 3,Advisory Question 2,,No,REP,27,11,0,0,0,0,16
+Cherokee,Gaffney Ward No. 4,Advisory Question 2,,Yes,REP,169,79,0,0,0,0,90
+Cherokee,Gaffney Ward No. 4,Advisory Question 2,,No,REP,74,29,0,0,0,0,45
+Cherokee,Gaffney Ward No. 5,Advisory Question 2,,Yes,REP,189,75,0,0,0,0,114
+Cherokee,Gaffney Ward No. 5,Advisory Question 2,,No,REP,75,17,0,0,0,0,58
+Cherokee,Gaffney Ward No. 6,Advisory Question 2,,Yes,REP,210,75,0,0,0,2,133
+Cherokee,Gaffney Ward No. 6,Advisory Question 2,,No,REP,59,23,0,0,0,0,36
+Cherokee,Goucher and Thicketty,Advisory Question 2,,Yes,REP,259,96,0,0,0,0,163
+Cherokee,Goucher and Thicketty,Advisory Question 2,,No,REP,59,19,0,0,0,0,40
+Cherokee,Grassy Pond,Advisory Question 2,,Yes,REP,625,271,0,0,0,4,350
+Cherokee,Grassy Pond,Advisory Question 2,,No,REP,204,75,0,0,0,2,127
+Cherokee,Holly Grove and Buffalo,Advisory Question 2,,Yes,REP,214,49,0,0,0,0,165
+Cherokee,Holly Grove and Buffalo,Advisory Question 2,,No,REP,46,13,0,0,0,0,33
+Cherokee,Limestone Mill,Advisory Question 2,,Yes,REP,90,36,0,0,0,1,53
+Cherokee,Limestone Mill,Advisory Question 2,,No,REP,21,6,0,0,0,0,15
+Cherokee,Littlejohn's and Sarratt's,Advisory Question 2,,Yes,REP,112,14,0,0,0,0,98
+Cherokee,Littlejohn's and Sarratt's,Advisory Question 2,,No,REP,30,5,0,0,0,0,25
+Cherokee,Macedonia,Advisory Question 2,,Yes,REP,356,103,0,0,0,4,249
+Cherokee,Macedonia,Advisory Question 2,,No,REP,98,23,0,0,0,3,72
+Cherokee,Morgan,Advisory Question 2,,Yes,REP,222,44,0,0,0,1,177
+Cherokee,Morgan,Advisory Question 2,,No,REP,53,5,0,0,0,1,47
+Cherokee,Musgrove Mill,Advisory Question 2,,Yes,REP,299,113,0,0,0,0,186
+Cherokee,Musgrove Mill,Advisory Question 2,,No,REP,102,43,0,0,0,0,59
+Cherokee,Ninety Nine and Cherokee Falls,Advisory Question 2,,Yes,REP,215,48,0,0,0,0,167
+Cherokee,Ninety Nine and Cherokee Falls,Advisory Question 2,,No,REP,41,15,0,0,0,0,26
+Cherokee,Pleasant Grove,Advisory Question 2,,Yes,REP,130,38,0,0,0,1,91
+Cherokee,Pleasant Grove,Advisory Question 2,,No,REP,61,25,0,0,0,0,36
+Cherokee,Pleasant Meadows,Advisory Question 2,,Yes,REP,69,26,0,0,0,0,43
+Cherokee,Pleasant Meadows,Advisory Question 2,,No,REP,37,19,0,0,0,0,18
+Cherokee,Provisional,Advisory Question 2,,Yes,REP,2,0,0,2,0,0,0
+Cherokee,Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Cherokee,Timber Ridge,Advisory Question 2,,Yes,REP,240,72,0,0,0,2,166
+Cherokee,Timber Ridge,Advisory Question 2,,No,REP,75,27,0,0,0,0,48
+Cherokee,White Plains,Advisory Question 2,,Yes,REP,225,41,0,0,0,0,184
+Cherokee,White Plains,Advisory Question 2,,No,REP,42,8,0,0,0,0,34
+Cherokee,Wilkinsville and Metcalf,Advisory Question 2,,Yes,REP,168,41,0,0,0,0,127
+Cherokee,Wilkinsville and Metcalf,Advisory Question 2,,No,REP,35,9,0,0,0,0,26
+Cherokee,Wood's,Advisory Question 2,,Yes,REP,275,73,0,0,0,2,200
+Cherokee,Wood's,Advisory Question 2,,No,REP,90,30,0,0,0,0,60
+Cherokee,Allens,Attorney General,,Stephen Goldfinch,REP,136,54,0,0,0,0,82
+Cherokee,Allens,Attorney General,,David M Pascoe,REP,70,27,0,0,0,0,43
+Cherokee,Allens,Attorney General,,David Stumbo,REP,65,23,0,0,0,0,42
+Cherokee,Alma Mill,Attorney General,,Stephen Goldfinch,REP,88,41,0,0,0,0,47
+Cherokee,Alma Mill,Attorney General,,David M Pascoe,REP,48,17,0,0,0,0,31
+Cherokee,Alma Mill,Attorney General,,David Stumbo,REP,33,15,0,0,0,0,18
+Cherokee,Antioch and King's Creek,Attorney General,,Stephen Goldfinch,REP,139,15,0,0,0,0,124
+Cherokee,Antioch and King's Creek,Attorney General,,David M Pascoe,REP,64,15,0,0,0,0,49
+Cherokee,Antioch and King's Creek,Attorney General,,David Stumbo,REP,70,11,0,0,0,0,59
+Cherokee,Ashworth,Attorney General,,Stephen Goldfinch,REP,200,58,0,0,0,0,142
+Cherokee,Ashworth,Attorney General,,David M Pascoe,REP,73,24,0,0,0,0,49
+Cherokee,Ashworth,Attorney General,,David Stumbo,REP,80,9,0,0,0,3,68
+Cherokee,Blacksburg Ward No. 1,Attorney General,,Stephen Goldfinch,REP,91,14,0,0,0,0,77
+Cherokee,Blacksburg Ward No. 1,Attorney General,,David M Pascoe,REP,36,9,0,0,0,0,27
+Cherokee,Blacksburg Ward No. 1,Attorney General,,David Stumbo,REP,30,3,0,0,0,1,26
+Cherokee,Blacksburg Ward No. 2,Attorney General,,Stephen Goldfinch,REP,162,32,0,0,0,0,130
+Cherokee,Blacksburg Ward No. 2,Attorney General,,David M Pascoe,REP,56,11,0,0,0,0,45
+Cherokee,Blacksburg Ward No. 2,Attorney General,,David Stumbo,REP,41,9,0,0,0,0,32
+Cherokee,Draytonville,Attorney General,,Stephen Goldfinch,REP,184,51,0,0,0,0,133
+Cherokee,Draytonville,Attorney General,,David M Pascoe,REP,82,24,0,0,0,0,58
+Cherokee,Draytonville,Attorney General,,David Stumbo,REP,87,22,0,0,0,0,65
+Cherokee,Ezells and Butler,Attorney General,,Stephen Goldfinch,REP,152,30,0,0,0,0,122
+Cherokee,Ezells and Butler,Attorney General,,David M Pascoe,REP,78,19,0,0,0,0,59
+Cherokee,Ezells and Butler,Attorney General,,David Stumbo,REP,103,19,0,0,0,0,84
+Cherokee,Failsafe,Attorney General,,Stephen Goldfinch,REP,4,0,0,0,4,0,0
+Cherokee,Failsafe,Attorney General,,David M Pascoe,REP,3,0,0,0,3,0,0
+Cherokee,Failsafe,Attorney General,,David Stumbo,REP,1,0,0,0,1,0,0
+Cherokee,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,Attorney General,,Stephen Goldfinch,REP,17,10,0,0,0,2,5
+Cherokee,Gaffney Ward No. 1,Attorney General,,David M Pascoe,REP,11,8,0,0,0,0,3
+Cherokee,Gaffney Ward No. 1,Attorney General,,David Stumbo,REP,11,8,0,0,0,0,3
+Cherokee,Gaffney Ward No. 2,Attorney General,,Stephen Goldfinch,REP,34,15,0,0,0,0,19
+Cherokee,Gaffney Ward No. 2,Attorney General,,David M Pascoe,REP,23,8,0,0,0,1,14
+Cherokee,Gaffney Ward No. 2,Attorney General,,David Stumbo,REP,25,9,0,0,0,0,16
+Cherokee,Gaffney Ward No. 3,Attorney General,,Stephen Goldfinch,REP,27,13,0,0,0,0,14
+Cherokee,Gaffney Ward No. 3,Attorney General,,David M Pascoe,REP,29,14,0,0,0,0,15
+Cherokee,Gaffney Ward No. 3,Attorney General,,David Stumbo,REP,22,8,0,0,0,0,14
+Cherokee,Gaffney Ward No. 4,Attorney General,,Stephen Goldfinch,REP,113,60,0,0,0,0,53
+Cherokee,Gaffney Ward No. 4,Attorney General,,David M Pascoe,REP,59,22,0,0,0,0,37
+Cherokee,Gaffney Ward No. 4,Attorney General,,David Stumbo,REP,56,21,0,0,0,0,35
+Cherokee,Gaffney Ward No. 5,Attorney General,,Stephen Goldfinch,REP,112,52,0,0,0,0,60
+Cherokee,Gaffney Ward No. 5,Attorney General,,David M Pascoe,REP,60,17,0,0,0,0,43
+Cherokee,Gaffney Ward No. 5,Attorney General,,David Stumbo,REP,68,15,0,0,0,0,53
+Cherokee,Gaffney Ward No. 6,Attorney General,,Stephen Goldfinch,REP,120,38,0,0,0,2,80
+Cherokee,Gaffney Ward No. 6,Attorney General,,David M Pascoe,REP,75,31,0,0,0,0,44
+Cherokee,Gaffney Ward No. 6,Attorney General,,David Stumbo,REP,56,22,0,0,0,0,34
+Cherokee,Goucher and Thicketty,Attorney General,,Stephen Goldfinch,REP,143,58,0,0,0,0,85
+Cherokee,Goucher and Thicketty,Attorney General,,David M Pascoe,REP,78,24,0,0,0,0,54
+Cherokee,Goucher and Thicketty,Attorney General,,David Stumbo,REP,78,22,0,0,0,0,56
+Cherokee,Grassy Pond,Attorney General,,Stephen Goldfinch,REP,419,182,0,0,0,3,234
+Cherokee,Grassy Pond,Attorney General,,David M Pascoe,REP,185,78,0,0,0,0,107
+Cherokee,Grassy Pond,Attorney General,,David Stumbo,REP,171,66,0,0,0,2,103
+Cherokee,Holly Grove and Buffalo,Attorney General,,Stephen Goldfinch,REP,144,38,0,0,0,0,106
+Cherokee,Holly Grove and Buffalo,Attorney General,,David M Pascoe,REP,51,12,0,0,0,0,39
+Cherokee,Holly Grove and Buffalo,Attorney General,,David Stumbo,REP,48,11,0,0,0,0,37
+Cherokee,Limestone Mill,Attorney General,,Stephen Goldfinch,REP,47,18,0,0,0,1,28
+Cherokee,Limestone Mill,Attorney General,,David M Pascoe,REP,35,14,0,0,0,0,21
+Cherokee,Limestone Mill,Attorney General,,David Stumbo,REP,20,7,0,0,0,0,13
+Cherokee,Littlejohn's and Sarratt's,Attorney General,,Stephen Goldfinch,REP,60,7,0,0,0,0,53
+Cherokee,Littlejohn's and Sarratt's,Attorney General,,David M Pascoe,REP,28,5,0,0,0,0,23
+Cherokee,Littlejohn's and Sarratt's,Attorney General,,David Stumbo,REP,40,6,0,0,0,0,34
+Cherokee,Macedonia,Attorney General,,Stephen Goldfinch,REP,236,76,0,0,0,5,155
+Cherokee,Macedonia,Attorney General,,David M Pascoe,REP,74,18,0,0,0,0,56
+Cherokee,Macedonia,Attorney General,,David Stumbo,REP,123,24,0,0,0,2,97
+Cherokee,Morgan,Attorney General,,Stephen Goldfinch,REP,113,15,0,0,0,0,98
+Cherokee,Morgan,Attorney General,,David M Pascoe,REP,63,17,0,0,0,1,45
+Cherokee,Morgan,Attorney General,,David Stumbo,REP,81,13,0,0,0,0,68
+Cherokee,Musgrove Mill,Attorney General,,Stephen Goldfinch,REP,182,71,0,0,0,0,111
+Cherokee,Musgrove Mill,Attorney General,,David M Pascoe,REP,91,35,0,0,0,0,56
+Cherokee,Musgrove Mill,Attorney General,,David Stumbo,REP,91,38,0,0,0,0,53
+Cherokee,Ninety Nine and Cherokee Falls,Attorney General,,Stephen Goldfinch,REP,128,37,0,0,0,0,91
+Cherokee,Ninety Nine and Cherokee Falls,Attorney General,,David M Pascoe,REP,45,15,0,0,0,0,30
+Cherokee,Ninety Nine and Cherokee Falls,Attorney General,,David Stumbo,REP,70,10,0,0,0,0,60
+Cherokee,Pleasant Grove,Attorney General,,Stephen Goldfinch,REP,75,26,0,0,0,1,48
+Cherokee,Pleasant Grove,Attorney General,,David M Pascoe,REP,41,14,0,0,0,0,27
+Cherokee,Pleasant Grove,Attorney General,,David Stumbo,REP,55,20,0,0,0,0,35
+Cherokee,Pleasant Meadows,Attorney General,,Stephen Goldfinch,REP,46,19,0,0,0,0,27
+Cherokee,Pleasant Meadows,Attorney General,,David M Pascoe,REP,19,6,0,0,0,0,13
+Cherokee,Pleasant Meadows,Attorney General,,David Stumbo,REP,25,12,0,0,0,0,13
+Cherokee,Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,Attorney General,,David Stumbo,REP,1,0,0,1,0,0,0
+Cherokee,Timber Ridge,Attorney General,,Stephen Goldfinch,REP,137,48,0,0,0,2,87
+Cherokee,Timber Ridge,Attorney General,,David M Pascoe,REP,68,17,0,0,0,0,51
+Cherokee,Timber Ridge,Attorney General,,David Stumbo,REP,91,30,0,0,0,0,61
+Cherokee,White Plains,Attorney General,,Stephen Goldfinch,REP,99,24,0,0,0,0,75
+Cherokee,White Plains,Attorney General,,David M Pascoe,REP,62,12,0,0,0,0,50
+Cherokee,White Plains,Attorney General,,David Stumbo,REP,93,12,0,0,0,0,81
+Cherokee,Wilkinsville and Metcalf,Attorney General,,Stephen Goldfinch,REP,83,20,0,0,0,0,63
+Cherokee,Wilkinsville and Metcalf,Attorney General,,David M Pascoe,REP,41,13,0,0,0,0,28
+Cherokee,Wilkinsville and Metcalf,Attorney General,,David Stumbo,REP,67,13,0,0,0,0,54
+Cherokee,Wood's,Attorney General,,Stephen Goldfinch,REP,181,53,0,0,0,0,128
+Cherokee,Wood's,Attorney General,,David M Pascoe,REP,75,18,0,0,0,0,57
+Cherokee,Wood's,Attorney General,,David Stumbo,REP,83,25,0,0,0,2,56
+Cherokee,Allens,Commissioner of Agriculture,,Jeremy B Cannon,REP,40,19,0,0,0,0,21
+Cherokee,Allens,Commissioner of Agriculture,,Danny Ford,REP,141,44,0,0,0,0,97
+Cherokee,Allens,Commissioner of Agriculture,,Cody Simpson,REP,82,34,0,0,0,0,48
+Cherokee,Allens,Commissioner of Agriculture,,Fred West,REP,12,5,0,0,0,0,7
+Cherokee,Alma Mill,Commissioner of Agriculture,,Jeremy B Cannon,REP,26,12,0,0,0,0,14
+Cherokee,Alma Mill,Commissioner of Agriculture,,Danny Ford,REP,81,34,0,0,0,0,47
+Cherokee,Alma Mill,Commissioner of Agriculture,,Cody Simpson,REP,45,14,0,0,0,0,31
+Cherokee,Alma Mill,Commissioner of Agriculture,,Fred West,REP,14,9,0,0,0,0,5
+Cherokee,Antioch and King's Creek,Commissioner of Agriculture,,Jeremy B Cannon,REP,47,8,0,0,0,0,39
+Cherokee,Antioch and King's Creek,Commissioner of Agriculture,,Danny Ford,REP,128,16,0,0,0,1,111
+Cherokee,Antioch and King's Creek,Commissioner of Agriculture,,Cody Simpson,REP,79,10,0,0,0,0,69
+Cherokee,Antioch and King's Creek,Commissioner of Agriculture,,Fred West,REP,21,8,0,0,0,0,13
+Cherokee,Ashworth,Commissioner of Agriculture,,Jeremy B Cannon,REP,45,9,0,0,0,0,36
+Cherokee,Ashworth,Commissioner of Agriculture,,Danny Ford,REP,189,46,0,0,0,0,143
+Cherokee,Ashworth,Commissioner of Agriculture,,Cody Simpson,REP,99,29,0,0,0,3,67
+Cherokee,Ashworth,Commissioner of Agriculture,,Fred West,REP,14,4,0,0,0,0,10
+Cherokee,Blacksburg Ward No. 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,18,0,0,0,0,0,18
+Cherokee,Blacksburg Ward No. 1,Commissioner of Agriculture,,Danny Ford,REP,94,17,0,0,0,1,76
+Cherokee,Blacksburg Ward No. 1,Commissioner of Agriculture,,Cody Simpson,REP,41,9,0,0,0,0,32
+Cherokee,Blacksburg Ward No. 1,Commissioner of Agriculture,,Fred West,REP,7,1,0,0,0,0,6
+Cherokee,Blacksburg Ward No. 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,33,6,0,0,0,0,27
+Cherokee,Blacksburg Ward No. 2,Commissioner of Agriculture,,Danny Ford,REP,135,27,0,0,0,0,108
+Cherokee,Blacksburg Ward No. 2,Commissioner of Agriculture,,Cody Simpson,REP,69,16,0,0,0,0,53
+Cherokee,Blacksburg Ward No. 2,Commissioner of Agriculture,,Fred West,REP,18,2,0,0,0,0,16
+Cherokee,Draytonville,Commissioner of Agriculture,,Jeremy B Cannon,REP,38,13,0,0,0,0,25
+Cherokee,Draytonville,Commissioner of Agriculture,,Danny Ford,REP,209,54,0,0,0,0,155
+Cherokee,Draytonville,Commissioner of Agriculture,,Cody Simpson,REP,90,28,0,0,0,0,62
+Cherokee,Draytonville,Commissioner of Agriculture,,Fred West,REP,19,6,0,0,0,0,13
+Cherokee,Ezells and Butler,Commissioner of Agriculture,,Jeremy B Cannon,REP,40,11,0,0,0,0,29
+Cherokee,Ezells and Butler,Commissioner of Agriculture,,Danny Ford,REP,187,34,0,0,0,0,153
+Cherokee,Ezells and Butler,Commissioner of Agriculture,,Cody Simpson,REP,88,19,0,0,0,0,69
+Cherokee,Ezells and Butler,Commissioner of Agriculture,,Fred West,REP,22,5,0,0,0,0,17
+Cherokee,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,4,0,0,0,4,0,0
+Cherokee,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,4,0,0,0,4,0,0
+Cherokee,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,0,1,0,0
+Cherokee,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,6,4,0,0,0,0,2
+Cherokee,Gaffney Ward No. 1,Commissioner of Agriculture,,Danny Ford,REP,16,11,0,0,0,1,4
+Cherokee,Gaffney Ward No. 1,Commissioner of Agriculture,,Cody Simpson,REP,17,11,0,0,0,0,6
+Cherokee,Gaffney Ward No. 1,Commissioner of Agriculture,,Fred West,REP,4,1,0,0,0,1,2
+Cherokee,Gaffney Ward No. 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,12,5,0,0,0,0,7
+Cherokee,Gaffney Ward No. 2,Commissioner of Agriculture,,Danny Ford,REP,39,15,0,0,0,0,24
+Cherokee,Gaffney Ward No. 2,Commissioner of Agriculture,,Cody Simpson,REP,24,11,0,0,0,1,12
+Cherokee,Gaffney Ward No. 2,Commissioner of Agriculture,,Fred West,REP,8,2,0,0,0,0,6
+Cherokee,Gaffney Ward No. 3,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,3,0,0,0,0,6
+Cherokee,Gaffney Ward No. 3,Commissioner of Agriculture,,Danny Ford,REP,38,16,0,0,0,0,22
+Cherokee,Gaffney Ward No. 3,Commissioner of Agriculture,,Cody Simpson,REP,20,10,0,0,0,0,10
+Cherokee,Gaffney Ward No. 3,Commissioner of Agriculture,,Fred West,REP,15,8,0,0,0,0,7
+Cherokee,Gaffney Ward No. 4,Commissioner of Agriculture,,Jeremy B Cannon,REP,28,9,0,0,0,0,19
+Cherokee,Gaffney Ward No. 4,Commissioner of Agriculture,,Danny Ford,REP,121,53,0,0,0,0,68
+Cherokee,Gaffney Ward No. 4,Commissioner of Agriculture,,Cody Simpson,REP,55,28,0,0,0,0,27
+Cherokee,Gaffney Ward No. 4,Commissioner of Agriculture,,Fred West,REP,25,11,0,0,0,0,14
+Cherokee,Gaffney Ward No. 5,Commissioner of Agriculture,,Jeremy B Cannon,REP,20,9,0,0,0,0,11
+Cherokee,Gaffney Ward No. 5,Commissioner of Agriculture,,Danny Ford,REP,127,41,0,0,0,0,86
+Cherokee,Gaffney Ward No. 5,Commissioner of Agriculture,,Cody Simpson,REP,72,29,0,0,0,0,43
+Cherokee,Gaffney Ward No. 5,Commissioner of Agriculture,,Fred West,REP,21,5,0,0,0,0,16
+Cherokee,Gaffney Ward No. 6,Commissioner of Agriculture,,Jeremy B Cannon,REP,25,8,0,0,0,0,17
+Cherokee,Gaffney Ward No. 6,Commissioner of Agriculture,,Danny Ford,REP,163,59,0,0,0,2,102
+Cherokee,Gaffney Ward No. 6,Commissioner of Agriculture,,Cody Simpson,REP,50,19,0,0,0,0,31
+Cherokee,Gaffney Ward No. 6,Commissioner of Agriculture,,Fred West,REP,21,9,0,0,0,0,12
+Cherokee,Goucher and Thicketty,Commissioner of Agriculture,,Jeremy B Cannon,REP,26,8,0,0,0,0,18
+Cherokee,Goucher and Thicketty,Commissioner of Agriculture,,Danny Ford,REP,149,46,0,0,0,0,103
+Cherokee,Goucher and Thicketty,Commissioner of Agriculture,,Cody Simpson,REP,111,46,0,0,0,0,65
+Cherokee,Goucher and Thicketty,Commissioner of Agriculture,,Fred West,REP,12,2,0,0,0,0,10
+Cherokee,Grassy Pond,Commissioner of Agriculture,,Jeremy B Cannon,REP,86,44,0,0,0,0,42
+Cherokee,Grassy Pond,Commissioner of Agriculture,,Danny Ford,REP,451,169,0,0,0,3,279
+Cherokee,Grassy Pond,Commissioner of Agriculture,,Cody Simpson,REP,195,92,0,0,0,2,101
+Cherokee,Grassy Pond,Commissioner of Agriculture,,Fred West,REP,43,17,0,0,0,0,26
+Cherokee,Holly Grove and Buffalo,Commissioner of Agriculture,,Jeremy B Cannon,REP,31,8,0,0,0,0,23
+Cherokee,Holly Grove and Buffalo,Commissioner of Agriculture,,Danny Ford,REP,122,35,0,0,0,0,87
+Cherokee,Holly Grove and Buffalo,Commissioner of Agriculture,,Cody Simpson,REP,77,15,0,0,0,0,62
+Cherokee,Holly Grove and Buffalo,Commissioner of Agriculture,,Fred West,REP,16,4,0,0,0,0,12
+Cherokee,Limestone Mill,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,7,0,0,0,0,6
+Cherokee,Limestone Mill,Commissioner of Agriculture,,Danny Ford,REP,59,23,0,0,0,1,35
+Cherokee,Limestone Mill,Commissioner of Agriculture,,Cody Simpson,REP,28,10,0,0,0,0,18
+Cherokee,Limestone Mill,Commissioner of Agriculture,,Fred West,REP,5,2,0,0,0,0,3
+Cherokee,Littlejohn's and Sarratt's,Commissioner of Agriculture,,Jeremy B Cannon,REP,16,3,0,0,0,0,13
+Cherokee,Littlejohn's and Sarratt's,Commissioner of Agriculture,,Danny Ford,REP,62,8,0,0,0,0,54
+Cherokee,Littlejohn's and Sarratt's,Commissioner of Agriculture,,Cody Simpson,REP,43,3,0,0,0,0,40
+Cherokee,Littlejohn's and Sarratt's,Commissioner of Agriculture,,Fred West,REP,11,4,0,0,0,0,7
+Cherokee,Macedonia,Commissioner of Agriculture,,Jeremy B Cannon,REP,45,13,0,0,0,3,29
+Cherokee,Macedonia,Commissioner of Agriculture,,Danny Ford,REP,238,57,0,0,0,0,181
+Cherokee,Macedonia,Commissioner of Agriculture,,Cody Simpson,REP,107,35,0,0,0,2,70
+Cherokee,Macedonia,Commissioner of Agriculture,,Fred West,REP,39,11,0,0,0,2,26
+Cherokee,Morgan,Commissioner of Agriculture,,Jeremy B Cannon,REP,34,6,0,0,0,0,28
+Cherokee,Morgan,Commissioner of Agriculture,,Danny Ford,REP,153,22,0,0,0,0,131
+Cherokee,Morgan,Commissioner of Agriculture,,Cody Simpson,REP,66,19,0,0,0,0,47
+Cherokee,Morgan,Commissioner of Agriculture,,Fred West,REP,9,2,0,0,0,0,7
+Cherokee,Musgrove Mill,Commissioner of Agriculture,,Jeremy B Cannon,REP,41,16,0,0,0,0,25
+Cherokee,Musgrove Mill,Commissioner of Agriculture,,Danny Ford,REP,193,65,0,0,0,0,128
+Cherokee,Musgrove Mill,Commissioner of Agriculture,,Cody Simpson,REP,117,54,0,0,0,0,63
+Cherokee,Musgrove Mill,Commissioner of Agriculture,,Fred West,REP,27,13,0,0,0,0,14
+Cherokee,Ninety Nine and Cherokee Falls,Commissioner of Agriculture,,Jeremy B Cannon,REP,32,9,0,0,0,0,23
+Cherokee,Ninety Nine and Cherokee Falls,Commissioner of Agriculture,,Danny Ford,REP,142,27,0,0,0,0,115
+Cherokee,Ninety Nine and Cherokee Falls,Commissioner of Agriculture,,Cody Simpson,REP,61,22,0,0,0,0,39
+Cherokee,Ninety Nine and Cherokee Falls,Commissioner of Agriculture,,Fred West,REP,10,3,0,0,0,0,7
+Cherokee,Pleasant Grove,Commissioner of Agriculture,,Jeremy B Cannon,REP,15,3,0,0,0,1,11
+Cherokee,Pleasant Grove,Commissioner of Agriculture,,Danny Ford,REP,83,31,0,0,0,0,52
+Cherokee,Pleasant Grove,Commissioner of Agriculture,,Cody Simpson,REP,63,24,0,0,0,0,39
+Cherokee,Pleasant Grove,Commissioner of Agriculture,,Fred West,REP,14,2,0,0,0,0,12
+Cherokee,Pleasant Meadows,Commissioner of Agriculture,,Jeremy B Cannon,REP,15,4,0,0,0,0,11
+Cherokee,Pleasant Meadows,Commissioner of Agriculture,,Danny Ford,REP,45,18,0,0,0,0,27
+Cherokee,Pleasant Meadows,Commissioner of Agriculture,,Cody Simpson,REP,23,10,0,0,0,0,13
+Cherokee,Pleasant Meadows,Commissioner of Agriculture,,Fred West,REP,10,6,0,0,0,0,4
+Cherokee,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,1,0,0,0
+Cherokee,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Cherokee,Timber Ridge,Commissioner of Agriculture,,Jeremy B Cannon,REP,48,11,0,0,0,0,37
+Cherokee,Timber Ridge,Commissioner of Agriculture,,Danny Ford,REP,147,51,0,0,0,0,96
+Cherokee,Timber Ridge,Commissioner of Agriculture,,Cody Simpson,REP,73,27,0,0,0,2,44
+Cherokee,Timber Ridge,Commissioner of Agriculture,,Fred West,REP,28,6,0,0,0,0,22
+Cherokee,White Plains,Commissioner of Agriculture,,Jeremy B Cannon,REP,29,9,0,0,0,0,20
+Cherokee,White Plains,Commissioner of Agriculture,,Danny Ford,REP,137,16,0,0,0,0,121
+Cherokee,White Plains,Commissioner of Agriculture,,Cody Simpson,REP,74,18,0,0,0,0,56
+Cherokee,White Plains,Commissioner of Agriculture,,Fred West,REP,12,4,0,0,0,0,8
+Cherokee,Wilkinsville and Metcalf,Commissioner of Agriculture,,Jeremy B Cannon,REP,25,4,0,0,0,0,21
+Cherokee,Wilkinsville and Metcalf,Commissioner of Agriculture,,Danny Ford,REP,96,24,0,0,0,0,72
+Cherokee,Wilkinsville and Metcalf,Commissioner of Agriculture,,Cody Simpson,REP,58,14,0,0,0,0,44
+Cherokee,Wilkinsville and Metcalf,Commissioner of Agriculture,,Fred West,REP,13,4,0,0,0,0,9
+Cherokee,Wood's,Commissioner of Agriculture,,Jeremy B Cannon,REP,37,15,0,0,0,0,22
+Cherokee,Wood's,Commissioner of Agriculture,,Danny Ford,REP,185,49,0,0,0,0,136
+Cherokee,Wood's,Commissioner of Agriculture,,Cody Simpson,REP,101,25,0,0,0,2,74
+Cherokee,Wood's,Commissioner of Agriculture,,Fred West,REP,22,9,0,0,0,0,13
+Cherokee,Allens,Comptroller General,,Tiffany Boozer,DEM,10,3,0,0,0,0,7
+Cherokee,Allens,Comptroller General,,Bruce K Cole,DEM,5,1,0,0,0,0,4
+Cherokee,Alma Mill,Comptroller General,,Tiffany Boozer,DEM,52,20,0,0,0,1,31
+Cherokee,Alma Mill,Comptroller General,,Bruce K Cole,DEM,15,7,0,0,0,1,7
+Cherokee,Antioch and King's Creek,Comptroller General,,Tiffany Boozer,DEM,12,2,0,0,0,0,10
+Cherokee,Antioch and King's Creek,Comptroller General,,Bruce K Cole,DEM,6,0,0,0,0,0,6
+Cherokee,Ashworth,Comptroller General,,Tiffany Boozer,DEM,8,1,0,0,0,0,7
+Cherokee,Ashworth,Comptroller General,,Bruce K Cole,DEM,3,1,0,0,0,0,2
+Cherokee,Blacksburg Ward No. 1,Comptroller General,,Tiffany Boozer,DEM,27,10,0,0,0,0,17
+Cherokee,Blacksburg Ward No. 1,Comptroller General,,Bruce K Cole,DEM,14,1,0,0,0,0,13
+Cherokee,Blacksburg Ward No. 2,Comptroller General,,Tiffany Boozer,DEM,22,12,0,0,0,0,10
+Cherokee,Blacksburg Ward No. 2,Comptroller General,,Bruce K Cole,DEM,6,1,0,0,0,0,5
+Cherokee,Draytonville,Comptroller General,,Tiffany Boozer,DEM,31,11,0,0,0,0,20
+Cherokee,Draytonville,Comptroller General,,Bruce K Cole,DEM,7,2,0,0,0,0,5
+Cherokee,Ezells and Butler,Comptroller General,,Tiffany Boozer,DEM,22,10,0,0,0,0,12
+Cherokee,Ezells and Butler,Comptroller General,,Bruce K Cole,DEM,12,4,0,0,0,1,7
+Cherokee,Failsafe,Comptroller General,,Tiffany Boozer,DEM,3,0,0,0,3,0,0
+Cherokee,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,Comptroller General,,Tiffany Boozer,DEM,32,14,0,0,0,1,17
+Cherokee,Gaffney Ward No. 1,Comptroller General,,Bruce K Cole,DEM,5,1,0,0,0,0,4
+Cherokee,Gaffney Ward No. 2,Comptroller General,,Tiffany Boozer,DEM,74,20,0,0,0,1,53
+Cherokee,Gaffney Ward No. 2,Comptroller General,,Bruce K Cole,DEM,26,7,0,0,0,0,19
+Cherokee,Gaffney Ward No. 3,Comptroller General,,Tiffany Boozer,DEM,76,30,0,0,0,0,46
+Cherokee,Gaffney Ward No. 3,Comptroller General,,Bruce K Cole,DEM,35,12,0,0,0,0,23
+Cherokee,Gaffney Ward No. 4,Comptroller General,,Tiffany Boozer,DEM,62,22,0,0,0,0,40
+Cherokee,Gaffney Ward No. 4,Comptroller General,,Bruce K Cole,DEM,19,12,0,0,0,0,7
+Cherokee,Gaffney Ward No. 5,Comptroller General,,Tiffany Boozer,DEM,49,19,0,0,0,0,30
+Cherokee,Gaffney Ward No. 5,Comptroller General,,Bruce K Cole,DEM,9,5,0,0,0,0,4
+Cherokee,Gaffney Ward No. 6,Comptroller General,,Tiffany Boozer,DEM,29,7,0,0,0,0,22
+Cherokee,Gaffney Ward No. 6,Comptroller General,,Bruce K Cole,DEM,11,4,0,0,0,0,7
+Cherokee,Goucher and Thicketty,Comptroller General,,Tiffany Boozer,DEM,18,9,0,0,0,0,9
+Cherokee,Goucher and Thicketty,Comptroller General,,Bruce K Cole,DEM,6,4,0,0,0,0,2
+Cherokee,Grassy Pond,Comptroller General,,Tiffany Boozer,DEM,56,18,0,0,0,1,37
+Cherokee,Grassy Pond,Comptroller General,,Bruce K Cole,DEM,21,14,0,0,0,0,7
+Cherokee,Holly Grove and Buffalo,Comptroller General,,Tiffany Boozer,DEM,27,9,0,0,0,0,18
+Cherokee,Holly Grove and Buffalo,Comptroller General,,Bruce K Cole,DEM,2,1,0,0,0,0,1
+Cherokee,Limestone Mill,Comptroller General,,Tiffany Boozer,DEM,20,6,0,0,0,0,14
+Cherokee,Limestone Mill,Comptroller General,,Bruce K Cole,DEM,7,2,0,0,0,0,5
+Cherokee,Littlejohn's and Sarratt's,Comptroller General,,Tiffany Boozer,DEM,3,0,0,0,0,0,3
+Cherokee,Littlejohn's and Sarratt's,Comptroller General,,Bruce K Cole,DEM,1,0,0,0,0,0,1
+Cherokee,Macedonia,Comptroller General,,Tiffany Boozer,DEM,41,15,0,0,0,2,24
+Cherokee,Macedonia,Comptroller General,,Bruce K Cole,DEM,11,5,0,0,0,0,6
+Cherokee,Morgan,Comptroller General,,Tiffany Boozer,DEM,16,8,0,0,0,0,8
+Cherokee,Morgan,Comptroller General,,Bruce K Cole,DEM,5,3,0,0,0,1,1
+Cherokee,Musgrove Mill,Comptroller General,,Tiffany Boozer,DEM,46,20,0,0,0,0,26
+Cherokee,Musgrove Mill,Comptroller General,,Bruce K Cole,DEM,14,6,0,0,0,0,8
+Cherokee,Ninety Nine and Cherokee Falls,Comptroller General,,Tiffany Boozer,DEM,11,3,0,0,0,0,8
+Cherokee,Ninety Nine and Cherokee Falls,Comptroller General,,Bruce K Cole,DEM,5,1,0,0,0,1,3
+Cherokee,Pleasant Grove,Comptroller General,,Tiffany Boozer,DEM,41,13,0,0,0,0,28
+Cherokee,Pleasant Grove,Comptroller General,,Bruce K Cole,DEM,10,1,0,0,0,0,9
+Cherokee,Pleasant Meadows,Comptroller General,,Tiffany Boozer,DEM,49,28,0,0,0,0,21
+Cherokee,Pleasant Meadows,Comptroller General,,Bruce K Cole,DEM,29,14,0,0,0,0,15
+Cherokee,Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Cherokee,Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Cherokee,Timber Ridge,Comptroller General,,Tiffany Boozer,DEM,18,9,0,0,0,1,8
+Cherokee,Timber Ridge,Comptroller General,,Bruce K Cole,DEM,4,2,0,0,0,0,2
+Cherokee,White Plains,Comptroller General,,Tiffany Boozer,DEM,18,7,0,0,0,0,11
+Cherokee,White Plains,Comptroller General,,Bruce K Cole,DEM,7,3,0,0,0,0,4
+Cherokee,Wilkinsville and Metcalf,Comptroller General,,Tiffany Boozer,DEM,8,4,0,0,0,0,4
+Cherokee,Wilkinsville and Metcalf,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Cherokee,Wood's,Comptroller General,,Tiffany Boozer,DEM,21,8,0,0,0,0,13
+Cherokee,Wood's,Comptroller General,,Bruce K Cole,DEM,6,2,0,0,0,0,4
+Cherokee,Ashworth,County Council District 2,,Michael Henderson,REP,160,26,0,0,0,0,134
+Cherokee,Ashworth,County Council District 2,,Brad Wilkins,REP,208,72,0,0,0,3,133
+Cherokee,Ezells and Butler,County Council District 2,,Michael Henderson,REP,131,23,0,0,0,0,108
+Cherokee,Ezells and Butler,County Council District 2,,Brad Wilkins,REP,68,20,0,0,0,0,48
+Cherokee,Failsafe,County Council District 2,,Michael Henderson,REP,1,0,0,0,1,0,0
+Cherokee,Failsafe,County Council District 2,,Brad Wilkins,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,County Council District 2,,Michael Henderson,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,County Council District 2,,Brad Wilkins,REP,0,0,0,0,0,0,0
+Cherokee,Grassy Pond,County Council District 2,,Michael Henderson,REP,178,76,0,0,0,2,100
+Cherokee,Grassy Pond,County Council District 2,,Brad Wilkins,REP,303,129,0,0,0,1,173
+Cherokee,Macedonia,County Council District 2,,Michael Henderson,REP,35,19,0,0,0,0,16
+Cherokee,Macedonia,County Council District 2,,Brad Wilkins,REP,61,27,0,0,0,0,34
+Cherokee,Morgan,County Council District 2,,Michael Henderson,REP,232,47,0,0,0,2,183
+Cherokee,Morgan,County Council District 2,,Brad Wilkins,REP,40,3,0,0,0,0,37
+Cherokee,Provisional,County Council District 2,,Michael Henderson,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,County Council District 2,,Brad Wilkins,REP,0,0,0,0,0,0,0
+Cherokee,Wood's,County Council District 2,,Michael Henderson,REP,85,17,0,0,0,2,66
+Cherokee,Wood's,County Council District 2,,Brad Wilkins,REP,153,49,0,0,0,0,104
+Cherokee,Allens,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Cherokee,Allens,Governor,,Pamela Evette,REP,91,36,0,0,0,0,55
+Cherokee,Allens,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Cherokee,Allens,Governor,,Nancy Mace,REP,28,8,0,0,0,0,20
+Cherokee,Allens,Governor,,Ralph W Norman,REP,83,30,0,0,0,0,53
+Cherokee,Allens,Governor,,Rom Reddy,REP,44,16,0,0,0,0,28
+Cherokee,Allens,Governor,,Alan Wilson,REP,41,15,0,0,0,0,26
+Cherokee,Allens,Governor,,Jermaine Johnson,DEM,9,4,0,0,0,0,5
+Cherokee,Allens,Governor,,Mullins McLeod,DEM,3,0,0,0,0,0,3
+Cherokee,Allens,Governor,,Billy Webster,DEM,3,0,0,0,0,0,3
+Cherokee,Alma Mill,Governor,,Jacqueline Hicks DuBose,REP,3,1,0,0,0,0,2
+Cherokee,Alma Mill,Governor,,Pamela Evette,REP,43,18,0,0,0,0,25
+Cherokee,Alma Mill,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Cherokee,Alma Mill,Governor,,Nancy Mace,REP,14,5,0,0,0,0,9
+Cherokee,Alma Mill,Governor,,Ralph W Norman,REP,70,31,0,0,0,0,39
+Cherokee,Alma Mill,Governor,,Rom Reddy,REP,32,15,0,0,0,0,17
+Cherokee,Alma Mill,Governor,,Alan Wilson,REP,22,11,0,0,0,0,11
+Cherokee,Alma Mill,Governor,,Jermaine Johnson,DEM,41,16,0,0,0,1,24
+Cherokee,Alma Mill,Governor,,Mullins McLeod,DEM,10,5,0,0,0,0,5
+Cherokee,Alma Mill,Governor,,Billy Webster,DEM,17,6,0,0,0,1,10
+Cherokee,Antioch and King's Creek,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Cherokee,Antioch and King's Creek,Governor,,Pamela Evette,REP,99,12,0,0,0,1,86
+Cherokee,Antioch and King's Creek,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Cherokee,Antioch and King's Creek,Governor,,Nancy Mace,REP,25,1,0,0,0,0,24
+Cherokee,Antioch and King's Creek,Governor,,Ralph W Norman,REP,96,19,0,0,0,1,76
+Cherokee,Antioch and King's Creek,Governor,,Rom Reddy,REP,25,3,0,0,0,0,22
+Cherokee,Antioch and King's Creek,Governor,,Alan Wilson,REP,35,6,0,0,0,0,29
+Cherokee,Antioch and King's Creek,Governor,,Jermaine Johnson,DEM,14,1,0,0,0,0,13
+Cherokee,Antioch and King's Creek,Governor,,Mullins McLeod,DEM,4,1,0,0,0,0,3
+Cherokee,Antioch and King's Creek,Governor,,Billy Webster,DEM,3,0,0,0,0,0,3
+Cherokee,Ashworth,Governor,,Jacqueline Hicks DuBose,REP,5,1,0,0,0,0,4
+Cherokee,Ashworth,Governor,,Pamela Evette,REP,98,25,0,0,0,1,72
+Cherokee,Ashworth,Governor,,Joshua Kimbrell,REP,7,1,0,0,0,0,6
+Cherokee,Ashworth,Governor,,Nancy Mace,REP,28,7,0,0,0,0,21
+Cherokee,Ashworth,Governor,,Ralph W Norman,REP,140,35,0,0,0,0,105
+Cherokee,Ashworth,Governor,,Rom Reddy,REP,47,20,0,0,0,0,27
+Cherokee,Ashworth,Governor,,Alan Wilson,REP,57,14,0,0,0,2,41
+Cherokee,Ashworth,Governor,,Jermaine Johnson,DEM,8,0,0,0,0,0,8
+Cherokee,Ashworth,Governor,,Mullins McLeod,DEM,2,0,0,0,0,0,2
+Cherokee,Ashworth,Governor,,Billy Webster,DEM,3,2,0,0,0,0,1
+Cherokee,Blacksburg Ward No. 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Cherokee,Blacksburg Ward No. 1,Governor,,Pamela Evette,REP,62,12,0,0,0,0,50
+Cherokee,Blacksburg Ward No. 1,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Cherokee,Blacksburg Ward No. 1,Governor,,Nancy Mace,REP,13,1,0,0,0,0,12
+Cherokee,Blacksburg Ward No. 1,Governor,,Ralph W Norman,REP,50,4,0,0,0,0,46
+Cherokee,Blacksburg Ward No. 1,Governor,,Rom Reddy,REP,27,7,0,0,0,1,19
+Cherokee,Blacksburg Ward No. 1,Governor,,Alan Wilson,REP,15,4,0,0,0,0,11
+Cherokee,Blacksburg Ward No. 1,Governor,,Jermaine Johnson,DEM,25,5,0,0,0,0,20
+Cherokee,Blacksburg Ward No. 1,Governor,,Mullins McLeod,DEM,6,1,0,0,0,0,5
+Cherokee,Blacksburg Ward No. 1,Governor,,Billy Webster,DEM,12,5,0,0,0,0,7
+Cherokee,Blacksburg Ward No. 2,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Cherokee,Blacksburg Ward No. 2,Governor,,Pamela Evette,REP,76,16,0,0,0,0,60
+Cherokee,Blacksburg Ward No. 2,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Cherokee,Blacksburg Ward No. 2,Governor,,Nancy Mace,REP,37,8,0,0,0,0,29
+Cherokee,Blacksburg Ward No. 2,Governor,,Ralph W Norman,REP,119,26,0,0,0,0,93
+Cherokee,Blacksburg Ward No. 2,Governor,,Rom Reddy,REP,22,5,0,0,0,0,17
+Cherokee,Blacksburg Ward No. 2,Governor,,Alan Wilson,REP,29,5,0,0,0,0,24
+Cherokee,Blacksburg Ward No. 2,Governor,,Jermaine Johnson,DEM,19,9,0,0,0,0,10
+Cherokee,Blacksburg Ward No. 2,Governor,,Mullins McLeod,DEM,1,0,0,0,0,0,1
+Cherokee,Blacksburg Ward No. 2,Governor,,Billy Webster,DEM,8,4,0,0,0,0,4
+Cherokee,Draytonville,Governor,,Jacqueline Hicks DuBose,REP,3,0,0,0,0,0,3
+Cherokee,Draytonville,Governor,,Pamela Evette,REP,111,40,0,0,0,0,71
+Cherokee,Draytonville,Governor,,Joshua Kimbrell,REP,4,0,0,0,0,0,4
+Cherokee,Draytonville,Governor,,Nancy Mace,REP,34,2,0,0,0,0,32
+Cherokee,Draytonville,Governor,,Ralph W Norman,REP,113,32,0,0,0,0,81
+Cherokee,Draytonville,Governor,,Rom Reddy,REP,73,22,0,0,0,0,51
+Cherokee,Draytonville,Governor,,Alan Wilson,REP,47,13,0,0,0,0,34
+Cherokee,Draytonville,Governor,,Jermaine Johnson,DEM,30,10,0,0,0,0,20
+Cherokee,Draytonville,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Cherokee,Draytonville,Governor,,Billy Webster,DEM,9,3,0,0,0,0,6
+Cherokee,Ezells and Butler,Governor,,Jacqueline Hicks DuBose,REP,3,0,0,0,0,0,3
+Cherokee,Ezells and Butler,Governor,,Pamela Evette,REP,106,19,0,0,0,0,87
+Cherokee,Ezells and Butler,Governor,,Joshua Kimbrell,REP,4,3,0,0,0,0,1
+Cherokee,Ezells and Butler,Governor,,Nancy Mace,REP,32,5,0,0,0,0,27
+Cherokee,Ezells and Butler,Governor,,Ralph W Norman,REP,112,24,0,0,0,0,88
+Cherokee,Ezells and Butler,Governor,,Rom Reddy,REP,54,19,0,0,0,0,35
+Cherokee,Ezells and Butler,Governor,,Alan Wilson,REP,47,6,0,0,0,0,41
+Cherokee,Ezells and Butler,Governor,,Jermaine Johnson,DEM,15,7,0,0,0,0,8
+Cherokee,Ezells and Butler,Governor,,Mullins McLeod,DEM,3,2,0,0,0,0,1
+Cherokee,Ezells and Butler,Governor,,Billy Webster,DEM,18,5,0,0,0,1,12
+Cherokee,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,1,0,0
+Cherokee,Failsafe,Governor,,Pamela Evette,REP,2,0,0,0,2,0,0
+Cherokee,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe,Governor,,Nancy Mace,REP,3,0,0,0,3,0,0
+Cherokee,Failsafe,Governor,,Ralph W Norman,REP,3,0,0,0,3,0,0
+Cherokee,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe,Governor,,Alan Wilson,REP,1,0,0,0,1,0,0
+Cherokee,Failsafe,Governor,,Jermaine Johnson,DEM,3,0,0,0,3,0,0
+Cherokee,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Cherokee,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,Governor,,Pamela Evette,REP,7,3,0,0,0,1,3
+Cherokee,Gaffney Ward No. 1,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,Governor,,Nancy Mace,REP,6,4,0,0,0,0,2
+Cherokee,Gaffney Ward No. 1,Governor,,Ralph W Norman,REP,16,10,0,0,0,1,5
+Cherokee,Gaffney Ward No. 1,Governor,,Rom Reddy,REP,5,5,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,Governor,,Alan Wilson,REP,9,6,0,0,0,0,3
+Cherokee,Gaffney Ward No. 1,Governor,,Jermaine Johnson,DEM,31,16,0,0,0,0,15
+Cherokee,Gaffney Ward No. 1,Governor,,Mullins McLeod,DEM,3,0,0,0,0,0,3
+Cherokee,Gaffney Ward No. 1,Governor,,Billy Webster,DEM,6,2,0,0,0,0,4
+Cherokee,Gaffney Ward No. 2,Governor,,Jacqueline Hicks DuBose,REP,8,2,0,0,0,0,6
+Cherokee,Gaffney Ward No. 2,Governor,,Pamela Evette,REP,26,12,0,0,0,1,13
+Cherokee,Gaffney Ward No. 2,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Cherokee,Gaffney Ward No. 2,Governor,,Nancy Mace,REP,8,2,0,0,0,0,6
+Cherokee,Gaffney Ward No. 2,Governor,,Ralph W Norman,REP,23,5,0,0,0,0,18
+Cherokee,Gaffney Ward No. 2,Governor,,Rom Reddy,REP,13,9,0,0,0,0,4
+Cherokee,Gaffney Ward No. 2,Governor,,Alan Wilson,REP,6,2,0,0,0,0,4
+Cherokee,Gaffney Ward No. 2,Governor,,Jermaine Johnson,DEM,63,19,0,0,0,1,43
+Cherokee,Gaffney Ward No. 2,Governor,,Mullins McLeod,DEM,11,1,0,0,0,0,10
+Cherokee,Gaffney Ward No. 2,Governor,,Billy Webster,DEM,25,8,0,0,0,0,17
+Cherokee,Gaffney Ward No. 3,Governor,,Jacqueline Hicks DuBose,REP,5,0,0,0,0,0,5
+Cherokee,Gaffney Ward No. 3,Governor,,Pamela Evette,REP,14,12,0,0,0,0,2
+Cherokee,Gaffney Ward No. 3,Governor,,Joshua Kimbrell,REP,6,1,0,0,0,0,5
+Cherokee,Gaffney Ward No. 3,Governor,,Nancy Mace,REP,9,2,0,0,0,0,7
+Cherokee,Gaffney Ward No. 3,Governor,,Ralph W Norman,REP,30,16,0,0,0,2,12
+Cherokee,Gaffney Ward No. 3,Governor,,Rom Reddy,REP,17,10,0,0,0,0,7
+Cherokee,Gaffney Ward No. 3,Governor,,Alan Wilson,REP,10,1,0,0,0,0,9
+Cherokee,Gaffney Ward No. 3,Governor,,Jermaine Johnson,DEM,72,28,0,0,0,0,44
+Cherokee,Gaffney Ward No. 3,Governor,,Mullins McLeod,DEM,10,1,0,0,0,0,9
+Cherokee,Gaffney Ward No. 3,Governor,,Billy Webster,DEM,34,14,0,0,0,0,20
+Cherokee,Gaffney Ward No. 4,Governor,,Jacqueline Hicks DuBose,REP,4,2,0,0,0,0,2
+Cherokee,Gaffney Ward No. 4,Governor,,Pamela Evette,REP,47,23,0,0,0,0,24
+Cherokee,Gaffney Ward No. 4,Governor,,Joshua Kimbrell,REP,6,3,0,0,0,0,3
+Cherokee,Gaffney Ward No. 4,Governor,,Nancy Mace,REP,18,6,0,0,0,0,12
+Cherokee,Gaffney Ward No. 4,Governor,,Ralph W Norman,REP,87,40,0,0,0,0,47
+Cherokee,Gaffney Ward No. 4,Governor,,Rom Reddy,REP,44,17,0,0,0,0,27
+Cherokee,Gaffney Ward No. 4,Governor,,Alan Wilson,REP,37,16,0,0,0,0,21
+Cherokee,Gaffney Ward No. 4,Governor,,Jermaine Johnson,DEM,58,23,0,0,0,0,35
+Cherokee,Gaffney Ward No. 4,Governor,,Mullins McLeod,DEM,2,1,0,0,0,0,1
+Cherokee,Gaffney Ward No. 4,Governor,,Billy Webster,DEM,25,14,0,0,0,0,11
+Cherokee,Gaffney Ward No. 5,Governor,,Jacqueline Hicks DuBose,REP,4,2,0,0,0,0,2
+Cherokee,Gaffney Ward No. 5,Governor,,Pamela Evette,REP,65,14,0,0,0,0,51
+Cherokee,Gaffney Ward No. 5,Governor,,Joshua Kimbrell,REP,4,2,0,0,0,0,2
+Cherokee,Gaffney Ward No. 5,Governor,,Nancy Mace,REP,25,9,0,0,0,0,16
+Cherokee,Gaffney Ward No. 5,Governor,,Ralph W Norman,REP,92,34,0,0,0,0,58
+Cherokee,Gaffney Ward No. 5,Governor,,Rom Reddy,REP,43,20,0,0,0,0,23
+Cherokee,Gaffney Ward No. 5,Governor,,Alan Wilson,REP,33,12,0,0,0,0,21
+Cherokee,Gaffney Ward No. 5,Governor,,Jermaine Johnson,DEM,43,16,0,0,0,0,27
+Cherokee,Gaffney Ward No. 5,Governor,,Mullins McLeod,DEM,2,0,0,0,0,0,2
+Cherokee,Gaffney Ward No. 5,Governor,,Billy Webster,DEM,13,8,0,0,0,0,5
+Cherokee,Gaffney Ward No. 6,Governor,,Jacqueline Hicks DuBose,REP,3,0,0,0,0,0,3
+Cherokee,Gaffney Ward No. 6,Governor,,Pamela Evette,REP,70,29,0,0,0,2,39
+Cherokee,Gaffney Ward No. 6,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Cherokee,Gaffney Ward No. 6,Governor,,Nancy Mace,REP,21,5,0,0,0,0,16
+Cherokee,Gaffney Ward No. 6,Governor,,Ralph W Norman,REP,87,30,0,0,0,0,57
+Cherokee,Gaffney Ward No. 6,Governor,,Rom Reddy,REP,39,17,0,0,0,0,22
+Cherokee,Gaffney Ward No. 6,Governor,,Alan Wilson,REP,48,16,0,0,0,0,32
+Cherokee,Gaffney Ward No. 6,Governor,,Jermaine Johnson,DEM,30,8,0,0,0,0,22
+Cherokee,Gaffney Ward No. 6,Governor,,Mullins McLeod,DEM,4,0,0,0,0,1,3
+Cherokee,Gaffney Ward No. 6,Governor,,Billy Webster,DEM,7,3,0,0,0,1,3
+Cherokee,Goucher and Thicketty,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Cherokee,Goucher and Thicketty,Governor,,Pamela Evette,REP,88,35,0,0,0,0,53
+Cherokee,Goucher and Thicketty,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Cherokee,Goucher and Thicketty,Governor,,Nancy Mace,REP,20,4,0,0,0,0,16
+Cherokee,Goucher and Thicketty,Governor,,Ralph W Norman,REP,105,34,0,0,0,0,71
+Cherokee,Goucher and Thicketty,Governor,,Rom Reddy,REP,55,29,0,0,0,0,26
+Cherokee,Goucher and Thicketty,Governor,,Alan Wilson,REP,46,12,0,0,0,0,34
+Cherokee,Goucher and Thicketty,Governor,,Jermaine Johnson,DEM,14,6,0,0,0,0,8
+Cherokee,Goucher and Thicketty,Governor,,Mullins McLeod,DEM,1,0,0,0,0,0,1
+Cherokee,Goucher and Thicketty,Governor,,Billy Webster,DEM,9,7,0,0,0,0,2
+Cherokee,Grassy Pond,Governor,,Jacqueline Hicks DuBose,REP,8,4,0,0,0,0,4
+Cherokee,Grassy Pond,Governor,,Pamela Evette,REP,233,100,0,0,0,2,131
+Cherokee,Grassy Pond,Governor,,Joshua Kimbrell,REP,3,2,0,0,0,0,1
+Cherokee,Grassy Pond,Governor,,Nancy Mace,REP,58,18,0,0,0,2,38
+Cherokee,Grassy Pond,Governor,,Ralph W Norman,REP,262,120,0,0,0,0,142
+Cherokee,Grassy Pond,Governor,,Rom Reddy,REP,116,56,0,0,0,2,58
+Cherokee,Grassy Pond,Governor,,Alan Wilson,REP,152,47,0,0,0,0,105
+Cherokee,Grassy Pond,Governor,,Jermaine Johnson,DEM,42,15,0,0,0,0,27
+Cherokee,Grassy Pond,Governor,,Mullins McLeod,DEM,7,2,0,0,0,0,5
+Cherokee,Grassy Pond,Governor,,Billy Webster,DEM,29,16,0,0,0,1,12
+Cherokee,Holly Grove and Buffalo,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Cherokee,Holly Grove and Buffalo,Governor,,Pamela Evette,REP,91,17,0,0,0,0,74
+Cherokee,Holly Grove and Buffalo,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Cherokee,Holly Grove and Buffalo,Governor,,Nancy Mace,REP,29,5,0,0,0,0,24
+Cherokee,Holly Grove and Buffalo,Governor,,Ralph W Norman,REP,83,26,0,0,0,0,57
+Cherokee,Holly Grove and Buffalo,Governor,,Rom Reddy,REP,29,9,0,0,0,0,20
+Cherokee,Holly Grove and Buffalo,Governor,,Alan Wilson,REP,29,4,0,0,0,0,25
+Cherokee,Holly Grove and Buffalo,Governor,,Jermaine Johnson,DEM,15,5,0,0,0,0,10
+Cherokee,Holly Grove and Buffalo,Governor,,Mullins McLeod,DEM,4,1,0,0,0,0,3
+Cherokee,Holly Grove and Buffalo,Governor,,Billy Webster,DEM,11,5,0,0,0,0,6
+Cherokee,Limestone Mill,Governor,,Jacqueline Hicks DuBose,REP,4,1,0,0,0,0,3
+Cherokee,Limestone Mill,Governor,,Pamela Evette,REP,32,11,0,0,0,0,21
+Cherokee,Limestone Mill,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Cherokee,Limestone Mill,Governor,,Nancy Mace,REP,9,0,0,0,0,0,9
+Cherokee,Limestone Mill,Governor,,Ralph W Norman,REP,37,19,0,0,0,1,17
+Cherokee,Limestone Mill,Governor,,Rom Reddy,REP,16,8,0,0,0,0,8
+Cherokee,Limestone Mill,Governor,,Alan Wilson,REP,10,2,0,0,0,0,8
+Cherokee,Limestone Mill,Governor,,Jermaine Johnson,DEM,23,7,0,0,0,0,16
+Cherokee,Limestone Mill,Governor,,Mullins McLeod,DEM,1,0,0,0,0,0,1
+Cherokee,Limestone Mill,Governor,,Billy Webster,DEM,2,1,0,0,0,0,1
+Cherokee,Littlejohn's and Sarratt's,Governor,,Jacqueline Hicks DuBose,REP,3,0,0,0,0,0,3
+Cherokee,Littlejohn's and Sarratt's,Governor,,Pamela Evette,REP,38,5,0,0,0,0,33
+Cherokee,Littlejohn's and Sarratt's,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Cherokee,Littlejohn's and Sarratt's,Governor,,Nancy Mace,REP,14,1,0,0,0,0,13
+Cherokee,Littlejohn's and Sarratt's,Governor,,Ralph W Norman,REP,28,4,0,0,0,0,24
+Cherokee,Littlejohn's and Sarratt's,Governor,,Rom Reddy,REP,39,4,0,0,0,0,35
+Cherokee,Littlejohn's and Sarratt's,Governor,,Alan Wilson,REP,21,6,0,0,0,0,15
+Cherokee,Littlejohn's and Sarratt's,Governor,,Jermaine Johnson,DEM,3,0,0,0,0,0,3
+Cherokee,Littlejohn's and Sarratt's,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Cherokee,Littlejohn's and Sarratt's,Governor,,Billy Webster,DEM,3,0,0,0,0,0,3
+Cherokee,Macedonia,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Cherokee,Macedonia,Governor,,Pamela Evette,REP,106,32,0,0,0,0,74
+Cherokee,Macedonia,Governor,,Joshua Kimbrell,REP,2,2,0,0,0,0,0
+Cherokee,Macedonia,Governor,,Nancy Mace,REP,37,5,0,0,0,0,32
+Cherokee,Macedonia,Governor,,Ralph W Norman,REP,174,49,0,0,0,6,119
+Cherokee,Macedonia,Governor,,Rom Reddy,REP,68,19,0,0,0,1,48
+Cherokee,Macedonia,Governor,,Alan Wilson,REP,67,19,0,0,0,0,48
+Cherokee,Macedonia,Governor,,Jermaine Johnson,DEM,37,13,0,0,0,2,22
+Cherokee,Macedonia,Governor,,Mullins McLeod,DEM,3,2,0,0,0,0,1
+Cherokee,Macedonia,Governor,,Billy Webster,DEM,15,7,0,0,0,0,8
+Cherokee,Morgan,Governor,,Jacqueline Hicks DuBose,REP,4,0,0,0,0,0,4
+Cherokee,Morgan,Governor,,Pamela Evette,REP,75,13,0,0,0,1,61
+Cherokee,Morgan,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Cherokee,Morgan,Governor,,Nancy Mace,REP,14,3,0,0,0,0,11
+Cherokee,Morgan,Governor,,Ralph W Norman,REP,86,9,0,0,0,1,76
+Cherokee,Morgan,Governor,,Rom Reddy,REP,50,14,0,0,0,0,36
+Cherokee,Morgan,Governor,,Alan Wilson,REP,47,10,0,0,0,0,37
+Cherokee,Morgan,Governor,,Jermaine Johnson,DEM,9,3,0,0,0,1,5
+Cherokee,Morgan,Governor,,Mullins McLeod,DEM,3,1,0,0,0,0,2
+Cherokee,Morgan,Governor,,Billy Webster,DEM,9,7,0,0,0,0,2
+Cherokee,Musgrove Mill,Governor,,Jacqueline Hicks DuBose,REP,5,2,0,0,0,0,3
+Cherokee,Musgrove Mill,Governor,,Pamela Evette,REP,115,34,0,0,0,0,81
+Cherokee,Musgrove Mill,Governor,,Joshua Kimbrell,REP,7,3,0,0,0,0,4
+Cherokee,Musgrove Mill,Governor,,Nancy Mace,REP,22,9,0,0,0,0,13
+Cherokee,Musgrove Mill,Governor,,Ralph W Norman,REP,116,46,0,0,0,0,70
+Cherokee,Musgrove Mill,Governor,,Rom Reddy,REP,75,40,0,0,0,0,35
+Cherokee,Musgrove Mill,Governor,,Alan Wilson,REP,61,24,0,0,0,0,37
+Cherokee,Musgrove Mill,Governor,,Jermaine Johnson,DEM,47,19,0,0,0,0,28
+Cherokee,Musgrove Mill,Governor,,Mullins McLeod,DEM,2,1,0,0,0,0,1
+Cherokee,Musgrove Mill,Governor,,Billy Webster,DEM,15,8,0,0,0,0,7
+Cherokee,Ninety Nine and Cherokee Falls,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Cherokee,Ninety Nine and Cherokee Falls,Governor,,Pamela Evette,REP,76,18,0,0,0,0,58
+Cherokee,Ninety Nine and Cherokee Falls,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Cherokee,Ninety Nine and Cherokee Falls,Governor,,Nancy Mace,REP,26,9,0,0,0,0,17
+Cherokee,Ninety Nine and Cherokee Falls,Governor,,Ralph W Norman,REP,78,15,0,0,0,0,63
+Cherokee,Ninety Nine and Cherokee Falls,Governor,,Rom Reddy,REP,49,15,0,0,0,0,34
+Cherokee,Ninety Nine and Cherokee Falls,Governor,,Alan Wilson,REP,29,8,0,0,0,0,21
+Cherokee,Ninety Nine and Cherokee Falls,Governor,,Jermaine Johnson,DEM,7,1,0,0,0,0,6
+Cherokee,Ninety Nine and Cherokee Falls,Governor,,Mullins McLeod,DEM,5,0,0,0,0,1,4
+Cherokee,Ninety Nine and Cherokee Falls,Governor,,Billy Webster,DEM,4,3,0,0,0,0,1
+Cherokee,Pleasant Grove,Governor,,Jacqueline Hicks DuBose,REP,3,1,0,0,0,0,2
+Cherokee,Pleasant Grove,Governor,,Pamela Evette,REP,35,9,0,0,0,1,25
+Cherokee,Pleasant Grove,Governor,,Joshua Kimbrell,REP,5,0,0,0,0,0,5
+Cherokee,Pleasant Grove,Governor,,Nancy Mace,REP,12,1,0,0,0,0,11
+Cherokee,Pleasant Grove,Governor,,Ralph W Norman,REP,64,30,0,0,0,0,34
+Cherokee,Pleasant Grove,Governor,,Rom Reddy,REP,31,10,0,0,0,0,21
+Cherokee,Pleasant Grove,Governor,,Alan Wilson,REP,39,13,0,0,0,0,26
+Cherokee,Pleasant Grove,Governor,,Jermaine Johnson,DEM,34,12,0,0,0,0,22
+Cherokee,Pleasant Grove,Governor,,Mullins McLeod,DEM,7,1,0,0,0,0,6
+Cherokee,Pleasant Grove,Governor,,Billy Webster,DEM,14,2,0,0,0,0,12
+Cherokee,Pleasant Meadows,Governor,,Jacqueline Hicks DuBose,REP,3,0,0,0,0,0,3
+Cherokee,Pleasant Meadows,Governor,,Pamela Evette,REP,22,7,0,0,0,0,15
+Cherokee,Pleasant Meadows,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Cherokee,Pleasant Meadows,Governor,,Nancy Mace,REP,7,5,0,0,0,0,2
+Cherokee,Pleasant Meadows,Governor,,Ralph W Norman,REP,35,15,0,0,0,0,20
+Cherokee,Pleasant Meadows,Governor,,Rom Reddy,REP,14,6,0,0,0,0,8
+Cherokee,Pleasant Meadows,Governor,,Alan Wilson,REP,15,6,0,0,0,0,9
+Cherokee,Pleasant Meadows,Governor,,Jermaine Johnson,DEM,50,26,0,0,0,0,24
+Cherokee,Pleasant Meadows,Governor,,Mullins McLeod,DEM,3,0,0,0,0,0,3
+Cherokee,Pleasant Meadows,Governor,,Billy Webster,DEM,28,17,0,0,0,0,11
+Cherokee,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,Governor,,Pamela Evette,REP,2,0,0,2,0,0,0
+Cherokee,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Cherokee,Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Cherokee,Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Cherokee,Timber Ridge,Governor,,Jacqueline Hicks DuBose,REP,6,1,0,0,0,0,5
+Cherokee,Timber Ridge,Governor,,Pamela Evette,REP,88,32,0,0,0,0,56
+Cherokee,Timber Ridge,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Cherokee,Timber Ridge,Governor,,Nancy Mace,REP,34,13,0,0,0,0,21
+Cherokee,Timber Ridge,Governor,,Ralph W Norman,REP,98,32,0,0,0,0,66
+Cherokee,Timber Ridge,Governor,,Rom Reddy,REP,47,14,0,0,0,0,33
+Cherokee,Timber Ridge,Governor,,Alan Wilson,REP,44,7,0,0,0,2,35
+Cherokee,Timber Ridge,Governor,,Jermaine Johnson,DEM,14,5,0,0,0,1,8
+Cherokee,Timber Ridge,Governor,,Mullins McLeod,DEM,1,0,0,0,0,0,1
+Cherokee,Timber Ridge,Governor,,Billy Webster,DEM,10,8,0,0,0,0,2
+Cherokee,White Plains,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Cherokee,White Plains,Governor,,Pamela Evette,REP,76,7,0,0,0,0,69
+Cherokee,White Plains,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Cherokee,White Plains,Governor,,Nancy Mace,REP,30,2,0,0,0,0,28
+Cherokee,White Plains,Governor,,Ralph W Norman,REP,77,20,0,0,0,0,57
+Cherokee,White Plains,Governor,,Rom Reddy,REP,39,13,0,0,0,0,26
+Cherokee,White Plains,Governor,,Alan Wilson,REP,48,9,0,0,0,0,39
+Cherokee,White Plains,Governor,,Jermaine Johnson,DEM,12,6,0,0,0,0,6
+Cherokee,White Plains,Governor,,Mullins McLeod,DEM,6,3,0,0,0,0,3
+Cherokee,White Plains,Governor,,Billy Webster,DEM,8,2,0,0,0,0,6
+Cherokee,Wilkinsville and Metcalf,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Cherokee,Wilkinsville and Metcalf,Governor,,Pamela Evette,REP,66,14,0,0,0,0,52
+Cherokee,Wilkinsville and Metcalf,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Cherokee,Wilkinsville and Metcalf,Governor,,Nancy Mace,REP,22,12,0,0,0,0,10
+Cherokee,Wilkinsville and Metcalf,Governor,,Ralph W Norman,REP,63,14,0,0,0,0,49
+Cherokee,Wilkinsville and Metcalf,Governor,,Rom Reddy,REP,28,6,0,0,0,0,22
+Cherokee,Wilkinsville and Metcalf,Governor,,Alan Wilson,REP,21,4,0,0,0,0,17
+Cherokee,Wilkinsville and Metcalf,Governor,,Jermaine Johnson,DEM,5,2,0,0,0,0,3
+Cherokee,Wilkinsville and Metcalf,Governor,,Mullins McLeod,DEM,1,0,0,0,0,0,1
+Cherokee,Wilkinsville and Metcalf,Governor,,Billy Webster,DEM,3,3,0,0,0,0,0
+Cherokee,Wood's,Governor,,Jacqueline Hicks DuBose,REP,4,1,0,0,0,0,3
+Cherokee,Wood's,Governor,,Pamela Evette,REP,84,21,0,0,0,0,63
+Cherokee,Wood's,Governor,,Joshua Kimbrell,REP,8,1,0,0,0,0,7
+Cherokee,Wood's,Governor,,Nancy Mace,REP,27,13,0,0,0,0,14
+Cherokee,Wood's,Governor,,Ralph W Norman,REP,108,27,0,0,0,0,81
+Cherokee,Wood's,Governor,,Rom Reddy,REP,68,25,0,0,0,2,41
+Cherokee,Wood's,Governor,,Alan Wilson,REP,68,14,0,0,0,0,54
+Cherokee,Wood's,Governor,,Jermaine Johnson,DEM,18,7,0,0,0,0,11
+Cherokee,Wood's,Governor,,Mullins McLeod,DEM,2,1,0,0,0,0,1
+Cherokee,Wood's,Governor,,Billy Webster,DEM,9,4,0,0,0,0,5
+Cherokee,Allens,Secretary of State,,Jason Belton,DEM,1,1,0,0,0,0,0
+Cherokee,Allens,Secretary of State,,Edwina Winter,DEM,14,3,0,0,0,0,11
+Cherokee,Alma Mill,Secretary of State,,Jason Belton,DEM,40,21,0,0,0,2,17
+Cherokee,Alma Mill,Secretary of State,,Edwina Winter,DEM,27,6,0,0,0,0,21
+Cherokee,Antioch and King's Creek,Secretary of State,,Jason Belton,DEM,7,1,0,0,0,0,6
+Cherokee,Antioch and King's Creek,Secretary of State,,Edwina Winter,DEM,14,1,0,0,0,0,13
+Cherokee,Ashworth,Secretary of State,,Jason Belton,DEM,5,1,0,0,0,0,4
+Cherokee,Ashworth,Secretary of State,,Edwina Winter,DEM,7,1,0,0,0,0,6
+Cherokee,Blacksburg Ward No. 1,Secretary of State,,Jason Belton,DEM,25,3,0,0,0,0,22
+Cherokee,Blacksburg Ward No. 1,Secretary of State,,Edwina Winter,DEM,17,7,0,0,0,0,10
+Cherokee,Blacksburg Ward No. 2,Secretary of State,,Jason Belton,DEM,10,4,0,0,0,0,6
+Cherokee,Blacksburg Ward No. 2,Secretary of State,,Edwina Winter,DEM,18,9,0,0,0,0,9
+Cherokee,Draytonville,Secretary of State,,Jason Belton,DEM,13,0,0,0,0,0,13
+Cherokee,Draytonville,Secretary of State,,Edwina Winter,DEM,24,12,0,0,0,0,12
+Cherokee,Ezells and Butler,Secretary of State,,Jason Belton,DEM,18,7,0,0,0,0,11
+Cherokee,Ezells and Butler,Secretary of State,,Edwina Winter,DEM,17,7,0,0,0,1,9
+Cherokee,Failsafe,Secretary of State,,Jason Belton,DEM,2,0,0,0,2,0,0
+Cherokee,Failsafe,Secretary of State,,Edwina Winter,DEM,1,0,0,0,1,0,0
+Cherokee,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,Secretary of State,,Jason Belton,DEM,18,9,0,0,0,0,9
+Cherokee,Gaffney Ward No. 1,Secretary of State,,Edwina Winter,DEM,19,7,0,0,0,1,11
+Cherokee,Gaffney Ward No. 2,Secretary of State,,Jason Belton,DEM,56,16,0,0,0,1,39
+Cherokee,Gaffney Ward No. 2,Secretary of State,,Edwina Winter,DEM,41,11,0,0,0,0,30
+Cherokee,Gaffney Ward No. 3,Secretary of State,,Jason Belton,DEM,63,30,0,0,0,0,33
+Cherokee,Gaffney Ward No. 3,Secretary of State,,Edwina Winter,DEM,52,14,0,0,0,0,38
+Cherokee,Gaffney Ward No. 4,Secretary of State,,Jason Belton,DEM,45,22,0,0,0,0,23
+Cherokee,Gaffney Ward No. 4,Secretary of State,,Edwina Winter,DEM,36,13,0,0,0,0,23
+Cherokee,Gaffney Ward No. 5,Secretary of State,,Jason Belton,DEM,24,13,0,0,0,0,11
+Cherokee,Gaffney Ward No. 5,Secretary of State,,Edwina Winter,DEM,34,11,0,0,0,0,23
+Cherokee,Gaffney Ward No. 6,Secretary of State,,Jason Belton,DEM,16,5,0,0,0,2,9
+Cherokee,Gaffney Ward No. 6,Secretary of State,,Edwina Winter,DEM,26,6,0,0,0,0,20
+Cherokee,Goucher and Thicketty,Secretary of State,,Jason Belton,DEM,12,6,0,0,0,0,6
+Cherokee,Goucher and Thicketty,Secretary of State,,Edwina Winter,DEM,12,7,0,0,0,0,5
+Cherokee,Grassy Pond,Secretary of State,,Jason Belton,DEM,27,10,0,0,0,0,17
+Cherokee,Grassy Pond,Secretary of State,,Edwina Winter,DEM,51,23,0,0,0,1,27
+Cherokee,Holly Grove and Buffalo,Secretary of State,,Jason Belton,DEM,18,6,0,0,0,0,12
+Cherokee,Holly Grove and Buffalo,Secretary of State,,Edwina Winter,DEM,11,4,0,0,0,0,7
+Cherokee,Limestone Mill,Secretary of State,,Jason Belton,DEM,10,5,0,0,0,0,5
+Cherokee,Limestone Mill,Secretary of State,,Edwina Winter,DEM,17,3,0,0,0,0,14
+Cherokee,Littlejohn's and Sarratt's,Secretary of State,,Jason Belton,DEM,2,0,0,0,0,0,2
+Cherokee,Littlejohn's and Sarratt's,Secretary of State,,Edwina Winter,DEM,2,0,0,0,0,0,2
+Cherokee,Macedonia,Secretary of State,,Jason Belton,DEM,29,15,0,0,0,2,12
+Cherokee,Macedonia,Secretary of State,,Edwina Winter,DEM,25,6,0,0,0,0,19
+Cherokee,Morgan,Secretary of State,,Jason Belton,DEM,6,4,0,0,0,1,1
+Cherokee,Morgan,Secretary of State,,Edwina Winter,DEM,15,7,0,0,0,0,8
+Cherokee,Musgrove Mill,Secretary of State,,Jason Belton,DEM,32,14,0,0,0,0,18
+Cherokee,Musgrove Mill,Secretary of State,,Edwina Winter,DEM,30,14,0,0,0,0,16
+Cherokee,Ninety Nine and Cherokee Falls,Secretary of State,,Jason Belton,DEM,7,2,0,0,0,0,5
+Cherokee,Ninety Nine and Cherokee Falls,Secretary of State,,Edwina Winter,DEM,9,2,0,0,0,1,6
+Cherokee,Pleasant Grove,Secretary of State,,Jason Belton,DEM,30,8,0,0,0,0,22
+Cherokee,Pleasant Grove,Secretary of State,,Edwina Winter,DEM,22,7,0,0,0,0,15
+Cherokee,Pleasant Meadows,Secretary of State,,Jason Belton,DEM,44,25,0,0,0,0,19
+Cherokee,Pleasant Meadows,Secretary of State,,Edwina Winter,DEM,33,17,0,0,0,0,16
+Cherokee,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Cherokee,Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Cherokee,Timber Ridge,Secretary of State,,Jason Belton,DEM,9,4,0,0,0,1,4
+Cherokee,Timber Ridge,Secretary of State,,Edwina Winter,DEM,13,8,0,0,0,0,5
+Cherokee,White Plains,Secretary of State,,Jason Belton,DEM,14,7,0,0,0,0,7
+Cherokee,White Plains,Secretary of State,,Edwina Winter,DEM,11,3,0,0,0,0,8
+Cherokee,Wilkinsville and Metcalf,Secretary of State,,Jason Belton,DEM,1,0,0,0,0,0,1
+Cherokee,Wilkinsville and Metcalf,Secretary of State,,Edwina Winter,DEM,7,4,0,0,0,0,3
+Cherokee,Wood's,Secretary of State,,Jason Belton,DEM,13,7,0,0,0,0,6
+Cherokee,Wood's,Secretary of State,,Edwina Winter,DEM,15,4,0,0,0,0,11
+Cherokee,Allens,Sheriff,,William Billy Anthony,REP,161,64,0,0,0,0,97
+Cherokee,Allens,Sheriff,,Brian Opie Blanton,REP,128,43,0,0,0,0,85
+Cherokee,Alma Mill,Sheriff,,William Billy Anthony,REP,74,35,0,0,0,0,39
+Cherokee,Alma Mill,Sheriff,,Brian Opie Blanton,REP,115,48,0,0,0,0,67
+Cherokee,Antioch and King's Creek,Sheriff,,William Billy Anthony,REP,100,13,0,0,0,0,87
+Cherokee,Antioch and King's Creek,Sheriff,,Brian Opie Blanton,REP,181,29,0,0,0,2,150
+Cherokee,Ashworth,Sheriff,,William Billy Anthony,REP,131,30,0,0,0,2,99
+Cherokee,Ashworth,Sheriff,,Brian Opie Blanton,REP,251,73,0,0,0,1,177
+Cherokee,Blacksburg Ward No. 1,Sheriff,,William Billy Anthony,REP,80,17,0,0,0,0,63
+Cherokee,Blacksburg Ward No. 1,Sheriff,,Brian Opie Blanton,REP,85,11,0,0,0,1,73
+Cherokee,Blacksburg Ward No. 2,Sheriff,,William Billy Anthony,REP,97,21,0,0,0,0,76
+Cherokee,Blacksburg Ward No. 2,Sheriff,,Brian Opie Blanton,REP,189,41,0,0,0,0,148
+Cherokee,Draytonville,Sheriff,,William Billy Anthony,REP,152,47,0,0,0,0,105
+Cherokee,Draytonville,Sheriff,,Brian Opie Blanton,REP,242,65,0,0,0,0,177
+Cherokee,Ezells and Butler,Sheriff,,William Billy Anthony,REP,147,41,0,0,0,0,106
+Cherokee,Ezells and Butler,Sheriff,,Brian Opie Blanton,REP,206,35,0,0,0,0,171
+Cherokee,Failsafe,Sheriff,,William Billy Anthony,REP,6,0,0,0,6,0,0
+Cherokee,Failsafe,Sheriff,,Brian Opie Blanton,REP,5,0,0,0,5,0,0
+Cherokee,Failsafe Provisional,Sheriff,,William Billy Anthony,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,Sheriff,,Brian Opie Blanton,REP,0,0,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,Sheriff,,William Billy Anthony,REP,23,16,0,0,0,0,7
+Cherokee,Gaffney Ward No. 1,Sheriff,,Brian Opie Blanton,REP,25,15,0,0,0,2,8
+Cherokee,Gaffney Ward No. 2,Sheriff,,William Billy Anthony,REP,44,16,0,0,0,0,28
+Cherokee,Gaffney Ward No. 2,Sheriff,,Brian Opie Blanton,REP,51,16,0,0,0,1,34
+Cherokee,Gaffney Ward No. 3,Sheriff,,William Billy Anthony,REP,51,23,0,0,0,2,26
+Cherokee,Gaffney Ward No. 3,Sheriff,,Brian Opie Blanton,REP,46,20,0,0,0,0,26
+Cherokee,Gaffney Ward No. 4,Sheriff,,William Billy Anthony,REP,115,55,0,0,0,0,60
+Cherokee,Gaffney Ward No. 4,Sheriff,,Brian Opie Blanton,REP,134,55,0,0,0,0,79
+Cherokee,Gaffney Ward No. 5,Sheriff,,William Billy Anthony,REP,97,32,0,0,0,0,65
+Cherokee,Gaffney Ward No. 5,Sheriff,,Brian Opie Blanton,REP,171,63,0,0,0,0,108
+Cherokee,Gaffney Ward No. 6,Sheriff,,William Billy Anthony,REP,130,45,0,0,0,1,84
+Cherokee,Gaffney Ward No. 6,Sheriff,,Brian Opie Blanton,REP,144,54,0,0,0,1,89
+Cherokee,Goucher and Thicketty,Sheriff,,William Billy Anthony,REP,138,48,0,0,0,0,90
+Cherokee,Goucher and Thicketty,Sheriff,,Brian Opie Blanton,REP,182,67,0,0,0,0,115
+Cherokee,Grassy Pond,Sheriff,,William Billy Anthony,REP,251,115,0,0,0,2,134
+Cherokee,Grassy Pond,Sheriff,,Brian Opie Blanton,REP,587,234,0,0,0,4,349
+Cherokee,Holly Grove and Buffalo,Sheriff,,William Billy Anthony,REP,109,26,0,0,0,0,83
+Cherokee,Holly Grove and Buffalo,Sheriff,,Brian Opie Blanton,REP,154,39,0,0,0,0,115
+Cherokee,Limestone Mill,Sheriff,,William Billy Anthony,REP,36,16,0,0,0,0,20
+Cherokee,Limestone Mill,Sheriff,,Brian Opie Blanton,REP,74,27,0,0,0,1,46
+Cherokee,Littlejohn's and Sarratt's,Sheriff,,William Billy Anthony,REP,74,8,0,0,0,0,66
+Cherokee,Littlejohn's and Sarratt's,Sheriff,,Brian Opie Blanton,REP,68,12,0,0,0,0,56
+Cherokee,Macedonia,Sheriff,,William Billy Anthony,REP,168,50,0,0,0,2,116
+Cherokee,Macedonia,Sheriff,,Brian Opie Blanton,REP,290,80,0,0,0,5,205
+Cherokee,Morgan,Sheriff,,William Billy Anthony,REP,113,19,0,0,0,1,93
+Cherokee,Morgan,Sheriff,,Brian Opie Blanton,REP,159,30,0,0,0,1,128
+Cherokee,Musgrove Mill,Sheriff,,William Billy Anthony,REP,166,58,0,0,0,0,108
+Cherokee,Musgrove Mill,Sheriff,,Brian Opie Blanton,REP,244,101,0,0,0,0,143
+Cherokee,Ninety Nine and Cherokee Falls,Sheriff,,William Billy Anthony,REP,140,44,0,0,0,0,96
+Cherokee,Ninety Nine and Cherokee Falls,Sheriff,,Brian Opie Blanton,REP,119,21,0,0,0,0,98
+Cherokee,Pleasant Grove,Sheriff,,William Billy Anthony,REP,89,24,0,0,0,1,64
+Cherokee,Pleasant Grove,Sheriff,,Brian Opie Blanton,REP,105,42,0,0,0,0,63
+Cherokee,Pleasant Meadows,Sheriff,,William Billy Anthony,REP,37,17,0,0,0,0,20
+Cherokee,Pleasant Meadows,Sheriff,,Brian Opie Blanton,REP,71,28,0,0,0,0,43
+Cherokee,Provisional,Sheriff,,William Billy Anthony,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,Sheriff,,Brian Opie Blanton,REP,2,0,0,2,0,0,0
+Cherokee,Timber Ridge,Sheriff,,William Billy Anthony,REP,180,59,0,0,0,2,119
+Cherokee,Timber Ridge,Sheriff,,Brian Opie Blanton,REP,140,39,0,0,0,0,101
+Cherokee,White Plains,Sheriff,,William Billy Anthony,REP,113,19,0,0,0,0,94
+Cherokee,White Plains,Sheriff,,Brian Opie Blanton,REP,156,31,0,0,0,0,125
+Cherokee,Wilkinsville and Metcalf,Sheriff,,William Billy Anthony,REP,99,22,0,0,0,0,77
+Cherokee,Wilkinsville and Metcalf,Sheriff,,Brian Opie Blanton,REP,105,30,0,0,0,0,75
+Cherokee,Wood's,Sheriff,,William Billy Anthony,REP,146,31,0,0,0,0,115
+Cherokee,Wood's,Sheriff,,Brian Opie Blanton,REP,230,73,0,0,0,2,155
+Cherokee,Allens,State Superintendent of Education,,Lisa Ellis,DEM,5,2,0,0,0,0,3
+Cherokee,Allens,State Superintendent of Education,,Sylvia Wright,DEM,10,2,0,0,0,0,8
+Cherokee,Alma Mill,State Superintendent of Education,,Lisa Ellis,DEM,38,15,0,0,0,0,23
+Cherokee,Alma Mill,State Superintendent of Education,,Sylvia Wright,DEM,28,12,0,0,0,1,15
+Cherokee,Antioch and King's Creek,State Superintendent of Education,,Lisa Ellis,DEM,8,0,0,0,0,0,8
+Cherokee,Antioch and King's Creek,State Superintendent of Education,,Sylvia Wright,DEM,11,2,0,0,0,0,9
+Cherokee,Ashworth,State Superintendent of Education,,Lisa Ellis,DEM,5,2,0,0,0,0,3
+Cherokee,Ashworth,State Superintendent of Education,,Sylvia Wright,DEM,7,0,0,0,0,0,7
+Cherokee,Blacksburg Ward No. 1,State Superintendent of Education,,Lisa Ellis,DEM,19,5,0,0,0,0,14
+Cherokee,Blacksburg Ward No. 1,State Superintendent of Education,,Sylvia Wright,DEM,23,6,0,0,0,0,17
+Cherokee,Blacksburg Ward No. 2,State Superintendent of Education,,Lisa Ellis,DEM,22,12,0,0,0,0,10
+Cherokee,Blacksburg Ward No. 2,State Superintendent of Education,,Sylvia Wright,DEM,5,1,0,0,0,0,4
+Cherokee,Draytonville,State Superintendent of Education,,Lisa Ellis,DEM,22,7,0,0,0,0,15
+Cherokee,Draytonville,State Superintendent of Education,,Sylvia Wright,DEM,17,6,0,0,0,0,11
+Cherokee,Ezells and Butler,State Superintendent of Education,,Lisa Ellis,DEM,17,4,0,0,0,0,13
+Cherokee,Ezells and Butler,State Superintendent of Education,,Sylvia Wright,DEM,18,10,0,0,0,1,7
+Cherokee,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,2,0,0,0,2,0,0
+Cherokee,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,1,0,0,0,1,0,0
+Cherokee,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,State Superintendent of Education,,Lisa Ellis,DEM,21,6,0,0,0,0,15
+Cherokee,Gaffney Ward No. 1,State Superintendent of Education,,Sylvia Wright,DEM,17,10,0,0,0,1,6
+Cherokee,Gaffney Ward No. 2,State Superintendent of Education,,Lisa Ellis,DEM,51,12,0,0,0,0,39
+Cherokee,Gaffney Ward No. 2,State Superintendent of Education,,Sylvia Wright,DEM,47,15,0,0,0,1,31
+Cherokee,Gaffney Ward No. 3,State Superintendent of Education,,Lisa Ellis,DEM,55,18,0,0,0,0,37
+Cherokee,Gaffney Ward No. 3,State Superintendent of Education,,Sylvia Wright,DEM,57,24,0,0,0,0,33
+Cherokee,Gaffney Ward No. 4,State Superintendent of Education,,Lisa Ellis,DEM,42,15,0,0,0,0,27
+Cherokee,Gaffney Ward No. 4,State Superintendent of Education,,Sylvia Wright,DEM,41,20,0,0,0,0,21
+Cherokee,Gaffney Ward No. 5,State Superintendent of Education,,Lisa Ellis,DEM,33,12,0,0,0,0,21
+Cherokee,Gaffney Ward No. 5,State Superintendent of Education,,Sylvia Wright,DEM,24,12,0,0,0,0,12
+Cherokee,Gaffney Ward No. 6,State Superintendent of Education,,Lisa Ellis,DEM,27,8,0,0,0,0,19
+Cherokee,Gaffney Ward No. 6,State Superintendent of Education,,Sylvia Wright,DEM,13,3,0,0,0,2,8
+Cherokee,Goucher and Thicketty,State Superintendent of Education,,Lisa Ellis,DEM,10,4,0,0,0,0,6
+Cherokee,Goucher and Thicketty,State Superintendent of Education,,Sylvia Wright,DEM,14,9,0,0,0,0,5
+Cherokee,Grassy Pond,State Superintendent of Education,,Lisa Ellis,DEM,43,17,0,0,0,0,26
+Cherokee,Grassy Pond,State Superintendent of Education,,Sylvia Wright,DEM,34,15,0,0,0,1,18
+Cherokee,Holly Grove and Buffalo,State Superintendent of Education,,Lisa Ellis,DEM,16,5,0,0,0,0,11
+Cherokee,Holly Grove and Buffalo,State Superintendent of Education,,Sylvia Wright,DEM,13,5,0,0,0,0,8
+Cherokee,Limestone Mill,State Superintendent of Education,,Lisa Ellis,DEM,14,4,0,0,0,0,10
+Cherokee,Limestone Mill,State Superintendent of Education,,Sylvia Wright,DEM,12,4,0,0,0,0,8
+Cherokee,Littlejohn's and Sarratt's,State Superintendent of Education,,Lisa Ellis,DEM,3,0,0,0,0,0,3
+Cherokee,Littlejohn's and Sarratt's,State Superintendent of Education,,Sylvia Wright,DEM,1,0,0,0,0,0,1
+Cherokee,Macedonia,State Superintendent of Education,,Lisa Ellis,DEM,32,12,0,0,0,2,18
+Cherokee,Macedonia,State Superintendent of Education,,Sylvia Wright,DEM,22,9,0,0,0,0,13
+Cherokee,Morgan,State Superintendent of Education,,Lisa Ellis,DEM,11,7,0,0,0,1,3
+Cherokee,Morgan,State Superintendent of Education,,Sylvia Wright,DEM,10,4,0,0,0,0,6
+Cherokee,Musgrove Mill,State Superintendent of Education,,Lisa Ellis,DEM,36,16,0,0,0,0,20
+Cherokee,Musgrove Mill,State Superintendent of Education,,Sylvia Wright,DEM,27,12,0,0,0,0,15
+Cherokee,Ninety Nine and Cherokee Falls,State Superintendent of Education,,Lisa Ellis,DEM,8,2,0,0,0,0,6
+Cherokee,Ninety Nine and Cherokee Falls,State Superintendent of Education,,Sylvia Wright,DEM,8,2,0,0,0,1,5
+Cherokee,Pleasant Grove,State Superintendent of Education,,Lisa Ellis,DEM,29,7,0,0,0,0,22
+Cherokee,Pleasant Grove,State Superintendent of Education,,Sylvia Wright,DEM,25,8,0,0,0,0,17
+Cherokee,Pleasant Meadows,State Superintendent of Education,,Lisa Ellis,DEM,33,10,0,0,0,0,23
+Cherokee,Pleasant Meadows,State Superintendent of Education,,Sylvia Wright,DEM,46,32,0,0,0,0,14
+Cherokee,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Cherokee,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Cherokee,Timber Ridge,State Superintendent of Education,,Lisa Ellis,DEM,14,8,0,0,0,1,5
+Cherokee,Timber Ridge,State Superintendent of Education,,Sylvia Wright,DEM,9,4,0,0,0,0,5
+Cherokee,White Plains,State Superintendent of Education,,Lisa Ellis,DEM,13,8,0,0,0,0,5
+Cherokee,White Plains,State Superintendent of Education,,Sylvia Wright,DEM,13,3,0,0,0,0,10
+Cherokee,Wilkinsville and Metcalf,State Superintendent of Education,,Lisa Ellis,DEM,8,4,0,0,0,0,4
+Cherokee,Wilkinsville and Metcalf,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Cherokee,Wood's,State Superintendent of Education,,Lisa Ellis,DEM,11,2,0,0,0,0,9
+Cherokee,Wood's,State Superintendent of Education,,Sylvia Wright,DEM,17,9,0,0,0,0,8
+Cherokee,Allens,State Treasurer,,Vincent Coe,DEM,4,0,0,0,0,0,4
+Cherokee,Allens,State Treasurer,,Trav Robertson Jr,DEM,11,4,0,0,0,0,7
+Cherokee,Alma Mill,State Treasurer,,Vincent Coe,DEM,28,11,0,0,0,1,16
+Cherokee,Alma Mill,State Treasurer,,Trav Robertson Jr,DEM,39,16,0,0,0,1,22
+Cherokee,Antioch and King's Creek,State Treasurer,,Vincent Coe,DEM,14,2,0,0,0,0,12
+Cherokee,Antioch and King's Creek,State Treasurer,,Trav Robertson Jr,DEM,6,0,0,0,0,0,6
+Cherokee,Ashworth,State Treasurer,,Vincent Coe,DEM,5,1,0,0,0,0,4
+Cherokee,Ashworth,State Treasurer,,Trav Robertson Jr,DEM,6,1,0,0,0,0,5
+Cherokee,Blacksburg Ward No. 1,State Treasurer,,Vincent Coe,DEM,21,7,0,0,0,0,14
+Cherokee,Blacksburg Ward No. 1,State Treasurer,,Trav Robertson Jr,DEM,18,4,0,0,0,0,14
+Cherokee,Blacksburg Ward No. 2,State Treasurer,,Vincent Coe,DEM,13,5,0,0,0,0,8
+Cherokee,Blacksburg Ward No. 2,State Treasurer,,Trav Robertson Jr,DEM,15,8,0,0,0,0,7
+Cherokee,Draytonville,State Treasurer,,Vincent Coe,DEM,15,6,0,0,0,0,9
+Cherokee,Draytonville,State Treasurer,,Trav Robertson Jr,DEM,24,7,0,0,0,0,17
+Cherokee,Ezells and Butler,State Treasurer,,Vincent Coe,DEM,15,6,0,0,0,0,9
+Cherokee,Ezells and Butler,State Treasurer,,Trav Robertson Jr,DEM,20,8,0,0,0,1,11
+Cherokee,Failsafe,State Treasurer,,Vincent Coe,DEM,2,0,0,0,2,0,0
+Cherokee,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,1,0,0,0,1,0,0
+Cherokee,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,State Treasurer,,Vincent Coe,DEM,19,10,0,0,0,0,9
+Cherokee,Gaffney Ward No. 1,State Treasurer,,Trav Robertson Jr,DEM,19,6,0,0,0,1,12
+Cherokee,Gaffney Ward No. 2,State Treasurer,,Vincent Coe,DEM,51,14,0,0,0,1,36
+Cherokee,Gaffney Ward No. 2,State Treasurer,,Trav Robertson Jr,DEM,50,14,0,0,0,0,36
+Cherokee,Gaffney Ward No. 3,State Treasurer,,Vincent Coe,DEM,63,19,0,0,0,0,44
+Cherokee,Gaffney Ward No. 3,State Treasurer,,Trav Robertson Jr,DEM,49,23,0,0,0,0,26
+Cherokee,Gaffney Ward No. 4,State Treasurer,,Vincent Coe,DEM,45,21,0,0,0,0,24
+Cherokee,Gaffney Ward No. 4,State Treasurer,,Trav Robertson Jr,DEM,35,14,0,0,0,0,21
+Cherokee,Gaffney Ward No. 5,State Treasurer,,Vincent Coe,DEM,33,14,0,0,0,0,19
+Cherokee,Gaffney Ward No. 5,State Treasurer,,Trav Robertson Jr,DEM,23,9,0,0,0,0,14
+Cherokee,Gaffney Ward No. 6,State Treasurer,,Vincent Coe,DEM,23,9,0,0,0,0,14
+Cherokee,Gaffney Ward No. 6,State Treasurer,,Trav Robertson Jr,DEM,18,2,0,0,0,2,14
+Cherokee,Goucher and Thicketty,State Treasurer,,Vincent Coe,DEM,18,9,0,0,0,0,9
+Cherokee,Goucher and Thicketty,State Treasurer,,Trav Robertson Jr,DEM,5,3,0,0,0,0,2
+Cherokee,Grassy Pond,State Treasurer,,Vincent Coe,DEM,43,16,0,0,0,1,26
+Cherokee,Grassy Pond,State Treasurer,,Trav Robertson Jr,DEM,34,16,0,0,0,0,18
+Cherokee,Holly Grove and Buffalo,State Treasurer,,Vincent Coe,DEM,18,7,0,0,0,0,11
+Cherokee,Holly Grove and Buffalo,State Treasurer,,Trav Robertson Jr,DEM,10,3,0,0,0,0,7
+Cherokee,Limestone Mill,State Treasurer,,Vincent Coe,DEM,18,5,0,0,0,0,13
+Cherokee,Limestone Mill,State Treasurer,,Trav Robertson Jr,DEM,9,3,0,0,0,0,6
+Cherokee,Littlejohn's and Sarratt's,State Treasurer,,Vincent Coe,DEM,1,0,0,0,0,0,1
+Cherokee,Littlejohn's and Sarratt's,State Treasurer,,Trav Robertson Jr,DEM,3,0,0,0,0,0,3
+Cherokee,Macedonia,State Treasurer,,Vincent Coe,DEM,26,11,0,0,0,0,15
+Cherokee,Macedonia,State Treasurer,,Trav Robertson Jr,DEM,28,10,0,0,0,2,16
+Cherokee,Morgan,State Treasurer,,Vincent Coe,DEM,11,6,0,0,0,1,4
+Cherokee,Morgan,State Treasurer,,Trav Robertson Jr,DEM,10,5,0,0,0,0,5
+Cherokee,Musgrove Mill,State Treasurer,,Vincent Coe,DEM,31,9,0,0,0,0,22
+Cherokee,Musgrove Mill,State Treasurer,,Trav Robertson Jr,DEM,28,16,0,0,0,0,12
+Cherokee,Ninety Nine and Cherokee Falls,State Treasurer,,Vincent Coe,DEM,8,1,0,0,0,1,6
+Cherokee,Ninety Nine and Cherokee Falls,State Treasurer,,Trav Robertson Jr,DEM,8,3,0,0,0,0,5
+Cherokee,Pleasant Grove,State Treasurer,,Vincent Coe,DEM,28,7,0,0,0,0,21
+Cherokee,Pleasant Grove,State Treasurer,,Trav Robertson Jr,DEM,24,7,0,0,0,0,17
+Cherokee,Pleasant Meadows,State Treasurer,,Vincent Coe,DEM,36,22,0,0,0,0,14
+Cherokee,Pleasant Meadows,State Treasurer,,Trav Robertson Jr,DEM,43,20,0,0,0,0,23
+Cherokee,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Cherokee,Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Cherokee,Timber Ridge,State Treasurer,,Vincent Coe,DEM,13,6,0,0,0,0,7
+Cherokee,Timber Ridge,State Treasurer,,Trav Robertson Jr,DEM,8,4,0,0,0,1,3
+Cherokee,White Plains,State Treasurer,,Vincent Coe,DEM,12,4,0,0,0,0,8
+Cherokee,White Plains,State Treasurer,,Trav Robertson Jr,DEM,14,7,0,0,0,0,7
+Cherokee,Wilkinsville and Metcalf,State Treasurer,,Vincent Coe,DEM,3,1,0,0,0,0,2
+Cherokee,Wilkinsville and Metcalf,State Treasurer,,Trav Robertson Jr,DEM,4,2,0,0,0,0,2
+Cherokee,Wood's,State Treasurer,,Vincent Coe,DEM,17,8,0,0,0,0,9
+Cherokee,Wood's,State Treasurer,,Trav Robertson Jr,DEM,11,3,0,0,0,0,8
+Cherokee,Allens,U.S. House,5,Andrew Clough,DEM,3,1,0,0,0,0,2
+Cherokee,Allens,U.S. House,5,Mallory Dittmer,DEM,12,3,0,0,0,0,9
+Cherokee,Alma Mill,U.S. House,5,Andrew Clough,DEM,33,18,0,0,0,1,14
+Cherokee,Alma Mill,U.S. House,5,Mallory Dittmer,DEM,33,8,0,0,0,1,24
+Cherokee,Antioch and King's Creek,U.S. House,5,Andrew Clough,DEM,6,1,0,0,0,0,5
+Cherokee,Antioch and King's Creek,U.S. House,5,Mallory Dittmer,DEM,14,1,0,0,0,0,13
+Cherokee,Ashworth,U.S. House,5,Andrew Clough,DEM,3,1,0,0,0,0,2
+Cherokee,Ashworth,U.S. House,5,Mallory Dittmer,DEM,8,1,0,0,0,0,7
+Cherokee,Blacksburg Ward No. 1,U.S. House,5,Andrew Clough,DEM,20,3,0,0,0,0,17
+Cherokee,Blacksburg Ward No. 1,U.S. House,5,Mallory Dittmer,DEM,22,8,0,0,0,0,14
+Cherokee,Blacksburg Ward No. 2,U.S. House,5,Andrew Clough,DEM,17,8,0,0,0,0,9
+Cherokee,Blacksburg Ward No. 2,U.S. House,5,Mallory Dittmer,DEM,11,5,0,0,0,0,6
+Cherokee,Draytonville,U.S. House,5,Andrew Clough,DEM,16,7,0,0,0,0,9
+Cherokee,Draytonville,U.S. House,5,Mallory Dittmer,DEM,22,6,0,0,0,0,16
+Cherokee,Ezells and Butler,U.S. House,5,Andrew Clough,DEM,17,6,0,0,0,1,10
+Cherokee,Ezells and Butler,U.S. House,5,Mallory Dittmer,DEM,18,8,0,0,0,0,10
+Cherokee,Failsafe,U.S. House,5,Andrew Clough,DEM,2,0,0,0,2,0,0
+Cherokee,Failsafe,U.S. House,5,Mallory Dittmer,DEM,1,0,0,0,1,0,0
+Cherokee,Failsafe Provisional,U.S. House,5,Andrew Clough,DEM,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,U.S. House,5,Mallory Dittmer,DEM,0,0,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,U.S. House,5,Andrew Clough,DEM,22,10,0,0,0,0,12
+Cherokee,Gaffney Ward No. 1,U.S. House,5,Mallory Dittmer,DEM,15,5,0,0,0,1,9
+Cherokee,Gaffney Ward No. 2,U.S. House,5,Andrew Clough,DEM,53,14,0,0,0,0,39
+Cherokee,Gaffney Ward No. 2,U.S. House,5,Mallory Dittmer,DEM,42,13,0,0,0,1,28
+Cherokee,Gaffney Ward No. 3,U.S. House,5,Andrew Clough,DEM,55,24,0,0,0,0,31
+Cherokee,Gaffney Ward No. 3,U.S. House,5,Mallory Dittmer,DEM,57,18,0,0,0,0,39
+Cherokee,Gaffney Ward No. 4,U.S. House,5,Andrew Clough,DEM,43,21,0,0,0,0,22
+Cherokee,Gaffney Ward No. 4,U.S. House,5,Mallory Dittmer,DEM,35,10,0,0,0,0,25
+Cherokee,Gaffney Ward No. 5,U.S. House,5,Andrew Clough,DEM,25,12,0,0,0,0,13
+Cherokee,Gaffney Ward No. 5,U.S. House,5,Mallory Dittmer,DEM,33,12,0,0,0,0,21
+Cherokee,Gaffney Ward No. 6,U.S. House,5,Andrew Clough,DEM,17,5,0,0,0,2,10
+Cherokee,Gaffney Ward No. 6,U.S. House,5,Mallory Dittmer,DEM,24,6,0,0,0,0,18
+Cherokee,Goucher and Thicketty,U.S. House,5,Andrew Clough,DEM,14,9,0,0,0,0,5
+Cherokee,Goucher and Thicketty,U.S. House,5,Mallory Dittmer,DEM,10,4,0,0,0,0,6
+Cherokee,Grassy Pond,U.S. House,5,Andrew Clough,DEM,37,15,0,0,0,0,22
+Cherokee,Grassy Pond,U.S. House,5,Mallory Dittmer,DEM,40,18,0,0,0,1,21
+Cherokee,Holly Grove and Buffalo,U.S. House,5,Andrew Clough,DEM,8,4,0,0,0,0,4
+Cherokee,Holly Grove and Buffalo,U.S. House,5,Mallory Dittmer,DEM,20,5,0,0,0,0,15
+Cherokee,Limestone Mill,U.S. House,5,Andrew Clough,DEM,14,5,0,0,0,0,9
+Cherokee,Limestone Mill,U.S. House,5,Mallory Dittmer,DEM,13,3,0,0,0,0,10
+Cherokee,Littlejohn's and Sarratt's,U.S. House,5,Andrew Clough,DEM,2,0,0,0,0,0,2
+Cherokee,Littlejohn's and Sarratt's,U.S. House,5,Mallory Dittmer,DEM,2,0,0,0,0,0,2
+Cherokee,Macedonia,U.S. House,5,Andrew Clough,DEM,27,9,0,0,0,1,17
+Cherokee,Macedonia,U.S. House,5,Mallory Dittmer,DEM,27,12,0,0,0,1,14
+Cherokee,Morgan,U.S. House,5,Andrew Clough,DEM,9,6,0,0,0,1,2
+Cherokee,Morgan,U.S. House,5,Mallory Dittmer,DEM,12,5,0,0,0,0,7
+Cherokee,Musgrove Mill,U.S. House,5,Andrew Clough,DEM,35,16,0,0,0,0,19
+Cherokee,Musgrove Mill,U.S. House,5,Mallory Dittmer,DEM,26,10,0,0,0,0,16
+Cherokee,Ninety Nine and Cherokee Falls,U.S. House,5,Andrew Clough,DEM,6,1,0,0,0,0,5
+Cherokee,Ninety Nine and Cherokee Falls,U.S. House,5,Mallory Dittmer,DEM,10,3,0,0,0,1,6
+Cherokee,Pleasant Grove,U.S. House,5,Andrew Clough,DEM,26,7,0,0,0,0,19
+Cherokee,Pleasant Grove,U.S. House,5,Mallory Dittmer,DEM,27,6,0,0,0,0,21
+Cherokee,Pleasant Meadows,U.S. House,5,Andrew Clough,DEM,38,17,0,0,0,0,21
+Cherokee,Pleasant Meadows,U.S. House,5,Mallory Dittmer,DEM,35,21,0,0,0,0,14
+Cherokee,Provisional,U.S. House,5,Andrew Clough,DEM,0,0,0,0,0,0,0
+Cherokee,Provisional,U.S. House,5,Mallory Dittmer,DEM,0,0,0,0,0,0,0
+Cherokee,Timber Ridge,U.S. House,5,Andrew Clough,DEM,11,5,0,0,0,1,5
+Cherokee,Timber Ridge,U.S. House,5,Mallory Dittmer,DEM,12,7,0,0,0,0,5
+Cherokee,White Plains,U.S. House,5,Andrew Clough,DEM,13,5,0,0,0,0,8
+Cherokee,White Plains,U.S. House,5,Mallory Dittmer,DEM,13,6,0,0,0,0,7
+Cherokee,Wilkinsville and Metcalf,U.S. House,5,Andrew Clough,DEM,0,0,0,0,0,0,0
+Cherokee,Wilkinsville and Metcalf,U.S. House,5,Mallory Dittmer,DEM,7,3,0,0,0,0,4
+Cherokee,Wood's,U.S. House,5,Andrew Clough,DEM,14,5,0,0,0,0,9
+Cherokee,Wood's,U.S. House,5,Mallory Dittmer,DEM,13,5,0,0,0,0,8
+Cherokee,Allens,U.S. Senate,,Calvin Cowen,REP,7,3,0,0,0,0,4
+Cherokee,Allens,U.S. Senate,,Thomas Keith Dismukes,REP,7,2,0,0,0,0,5
+Cherokee,Allens,U.S. Senate,,Lindsey Graham,REP,166,69,0,0,0,0,97
+Cherokee,Allens,U.S. Senate,,Pat Herrmann,REP,13,2,0,0,0,0,11
+Cherokee,Allens,U.S. Senate,,Mark Lynch,REP,87,26,0,0,0,0,61
+Cherokee,Allens,U.S. Senate,,Darius L Mitchell,REP,8,3,0,0,0,0,5
+Cherokee,Allens,U.S. Senate,,Annie Andrews,DEM,7,3,0,0,0,0,4
+Cherokee,Allens,U.S. Senate,,Brandon P Brown,DEM,6,1,0,0,0,0,5
+Cherokee,Allens,U.S. Senate,,Kyle Freeman,DEM,2,0,0,0,0,0,2
+Cherokee,Alma Mill,U.S. Senate,,Calvin Cowen,REP,8,3,0,0,0,0,5
+Cherokee,Alma Mill,U.S. Senate,,Thomas Keith Dismukes,REP,3,1,0,0,0,0,2
+Cherokee,Alma Mill,U.S. Senate,,Lindsey Graham,REP,90,43,0,0,0,0,47
+Cherokee,Alma Mill,U.S. Senate,,Pat Herrmann,REP,9,4,0,0,0,0,5
+Cherokee,Alma Mill,U.S. Senate,,Mark Lynch,REP,56,20,0,0,0,0,36
+Cherokee,Alma Mill,U.S. Senate,,Darius L Mitchell,REP,12,4,0,0,0,0,8
+Cherokee,Alma Mill,U.S. Senate,,Annie Andrews,DEM,22,9,0,0,0,0,13
+Cherokee,Alma Mill,U.S. Senate,,Brandon P Brown,DEM,40,17,0,0,0,2,21
+Cherokee,Alma Mill,U.S. Senate,,Kyle Freeman,DEM,5,1,0,0,0,0,4
+Cherokee,Antioch and King's Creek,U.S. Senate,,Calvin Cowen,REP,12,1,0,0,0,0,11
+Cherokee,Antioch and King's Creek,U.S. Senate,,Thomas Keith Dismukes,REP,42,6,0,0,0,0,36
+Cherokee,Antioch and King's Creek,U.S. Senate,,Lindsey Graham,REP,129,24,0,0,0,2,103
+Cherokee,Antioch and King's Creek,U.S. Senate,,Pat Herrmann,REP,6,1,0,0,0,0,5
+Cherokee,Antioch and King's Creek,U.S. Senate,,Mark Lynch,REP,90,8,0,0,0,0,82
+Cherokee,Antioch and King's Creek,U.S. Senate,,Darius L Mitchell,REP,3,2,0,0,0,0,1
+Cherokee,Antioch and King's Creek,U.S. Senate,,Annie Andrews,DEM,14,1,0,0,0,0,13
+Cherokee,Antioch and King's Creek,U.S. Senate,,Brandon P Brown,DEM,4,1,0,0,0,0,3
+Cherokee,Antioch and King's Creek,U.S. Senate,,Kyle Freeman,DEM,3,0,0,0,0,0,3
+Cherokee,Ashworth,U.S. Senate,,Calvin Cowen,REP,13,6,0,0,0,0,7
+Cherokee,Ashworth,U.S. Senate,,Thomas Keith Dismukes,REP,13,2,0,0,0,0,11
+Cherokee,Ashworth,U.S. Senate,,Lindsey Graham,REP,178,42,0,0,0,0,136
+Cherokee,Ashworth,U.S. Senate,,Pat Herrmann,REP,8,4,0,0,0,0,4
+Cherokee,Ashworth,U.S. Senate,,Mark Lynch,REP,151,41,0,0,0,3,107
+Cherokee,Ashworth,U.S. Senate,,Darius L Mitchell,REP,11,2,0,0,0,0,9
+Cherokee,Ashworth,U.S. Senate,,Annie Andrews,DEM,9,2,0,0,0,0,7
+Cherokee,Ashworth,U.S. Senate,,Brandon P Brown,DEM,1,0,0,0,0,0,1
+Cherokee,Ashworth,U.S. Senate,,Kyle Freeman,DEM,2,0,0,0,0,0,2
+Cherokee,Blacksburg Ward No. 1,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Cherokee,Blacksburg Ward No. 1,U.S. Senate,,Thomas Keith Dismukes,REP,13,0,0,0,0,0,13
+Cherokee,Blacksburg Ward No. 1,U.S. Senate,,Lindsey Graham,REP,70,13,0,0,0,0,57
+Cherokee,Blacksburg Ward No. 1,U.S. Senate,,Pat Herrmann,REP,9,0,0,0,0,0,9
+Cherokee,Blacksburg Ward No. 1,U.S. Senate,,Mark Lynch,REP,67,13,0,0,0,1,53
+Cherokee,Blacksburg Ward No. 1,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Cherokee,Blacksburg Ward No. 1,U.S. Senate,,Annie Andrews,DEM,20,5,0,0,0,0,15
+Cherokee,Blacksburg Ward No. 1,U.S. Senate,,Brandon P Brown,DEM,18,2,0,0,0,0,16
+Cherokee,Blacksburg Ward No. 1,U.S. Senate,,Kyle Freeman,DEM,6,4,0,0,0,0,2
+Cherokee,Blacksburg Ward No. 2,U.S. Senate,,Calvin Cowen,REP,11,2,0,0,0,0,9
+Cherokee,Blacksburg Ward No. 2,U.S. Senate,,Thomas Keith Dismukes,REP,7,0,0,0,0,0,7
+Cherokee,Blacksburg Ward No. 2,U.S. Senate,,Lindsey Graham,REP,155,29,0,0,0,0,126
+Cherokee,Blacksburg Ward No. 2,U.S. Senate,,Pat Herrmann,REP,5,2,0,0,0,0,3
+Cherokee,Blacksburg Ward No. 2,U.S. Senate,,Mark Lynch,REP,98,26,0,0,0,0,72
+Cherokee,Blacksburg Ward No. 2,U.S. Senate,,Darius L Mitchell,REP,5,1,0,0,0,0,4
+Cherokee,Blacksburg Ward No. 2,U.S. Senate,,Annie Andrews,DEM,14,4,0,0,0,0,10
+Cherokee,Blacksburg Ward No. 2,U.S. Senate,,Brandon P Brown,DEM,8,4,0,0,0,0,4
+Cherokee,Blacksburg Ward No. 2,U.S. Senate,,Kyle Freeman,DEM,5,4,0,0,0,0,1
+Cherokee,Draytonville,U.S. Senate,,Calvin Cowen,REP,14,5,0,0,0,0,9
+Cherokee,Draytonville,U.S. Senate,,Thomas Keith Dismukes,REP,8,2,0,0,0,0,6
+Cherokee,Draytonville,U.S. Senate,,Lindsey Graham,REP,225,70,0,0,0,0,155
+Cherokee,Draytonville,U.S. Senate,,Pat Herrmann,REP,9,3,0,0,0,0,6
+Cherokee,Draytonville,U.S. Senate,,Mark Lynch,REP,106,23,0,0,0,0,83
+Cherokee,Draytonville,U.S. Senate,,Darius L Mitchell,REP,7,1,0,0,0,0,6
+Cherokee,Draytonville,U.S. Senate,,Annie Andrews,DEM,16,6,0,0,0,0,10
+Cherokee,Draytonville,U.S. Senate,,Brandon P Brown,DEM,19,4,0,0,0,0,15
+Cherokee,Draytonville,U.S. Senate,,Kyle Freeman,DEM,4,3,0,0,0,0,1
+Cherokee,Ezells and Butler,U.S. Senate,,Calvin Cowen,REP,9,4,0,0,0,0,5
+Cherokee,Ezells and Butler,U.S. Senate,,Thomas Keith Dismukes,REP,17,5,0,0,0,0,12
+Cherokee,Ezells and Butler,U.S. Senate,,Lindsey Graham,REP,183,42,0,0,0,0,141
+Cherokee,Ezells and Butler,U.S. Senate,,Pat Herrmann,REP,9,4,0,0,0,0,5
+Cherokee,Ezells and Butler,U.S. Senate,,Mark Lynch,REP,124,16,0,0,0,0,108
+Cherokee,Ezells and Butler,U.S. Senate,,Darius L Mitchell,REP,7,3,0,0,0,0,4
+Cherokee,Ezells and Butler,U.S. Senate,,Annie Andrews,DEM,20,7,0,0,0,0,13
+Cherokee,Ezells and Butler,U.S. Senate,,Brandon P Brown,DEM,14,6,0,0,0,1,7
+Cherokee,Ezells and Butler,U.S. Senate,,Kyle Freeman,DEM,2,1,0,0,0,0,1
+Cherokee,Failsafe,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,1,0,0
+Cherokee,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe,U.S. Senate,,Lindsey Graham,REP,4,0,0,0,4,0,0
+Cherokee,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe,U.S. Senate,,Mark Lynch,REP,3,0,0,0,3,0,0
+Cherokee,Failsafe,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,1,0,0
+Cherokee,Failsafe,U.S. Senate,,Annie Andrews,DEM,2,0,0,0,2,0,0
+Cherokee,Failsafe,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Cherokee,Failsafe,U.S. Senate,,Kyle Freeman,DEM,1,0,0,0,1,0,0
+Cherokee,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Cherokee,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,U.S. Senate,,Thomas Keith Dismukes,REP,3,2,0,0,0,1,0
+Cherokee,Gaffney Ward No. 1,U.S. Senate,,Lindsey Graham,REP,25,13,0,0,0,1,11
+Cherokee,Gaffney Ward No. 1,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Cherokee,Gaffney Ward No. 1,U.S. Senate,,Mark Lynch,REP,13,12,0,0,0,0,1
+Cherokee,Gaffney Ward No. 1,U.S. Senate,,Darius L Mitchell,REP,2,2,0,0,0,0,0
+Cherokee,Gaffney Ward No. 1,U.S. Senate,,Annie Andrews,DEM,19,8,0,0,0,1,10
+Cherokee,Gaffney Ward No. 1,U.S. Senate,,Brandon P Brown,DEM,16,8,0,0,0,0,8
+Cherokee,Gaffney Ward No. 1,U.S. Senate,,Kyle Freeman,DEM,3,0,0,0,0,0,3
+Cherokee,Gaffney Ward No. 2,U.S. Senate,,Calvin Cowen,REP,5,2,0,0,0,0,3
+Cherokee,Gaffney Ward No. 2,U.S. Senate,,Thomas Keith Dismukes,REP,4,3,0,0,0,0,1
+Cherokee,Gaffney Ward No. 2,U.S. Senate,,Lindsey Graham,REP,32,11,0,0,0,1,20
+Cherokee,Gaffney Ward No. 2,U.S. Senate,,Pat Herrmann,REP,5,1,0,0,0,0,4
+Cherokee,Gaffney Ward No. 2,U.S. Senate,,Mark Lynch,REP,31,13,0,0,0,0,18
+Cherokee,Gaffney Ward No. 2,U.S. Senate,,Darius L Mitchell,REP,12,3,0,0,0,0,9
+Cherokee,Gaffney Ward No. 2,U.S. Senate,,Annie Andrews,DEM,35,11,0,0,0,0,24
+Cherokee,Gaffney Ward No. 2,U.S. Senate,,Brandon P Brown,DEM,48,12,0,0,0,1,35
+Cherokee,Gaffney Ward No. 2,U.S. Senate,,Kyle Freeman,DEM,16,4,0,0,0,0,12
+Cherokee,Gaffney Ward No. 3,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Cherokee,Gaffney Ward No. 3,U.S. Senate,,Thomas Keith Dismukes,REP,9,3,0,0,0,0,6
+Cherokee,Gaffney Ward No. 3,U.S. Senate,,Lindsey Graham,REP,27,15,0,0,0,2,10
+Cherokee,Gaffney Ward No. 3,U.S. Senate,,Pat Herrmann,REP,10,5,0,0,0,0,5
+Cherokee,Gaffney Ward No. 3,U.S. Senate,,Mark Lynch,REP,21,6,0,0,0,0,15
+Cherokee,Gaffney Ward No. 3,U.S. Senate,,Darius L Mitchell,REP,18,11,0,0,0,0,7
+Cherokee,Gaffney Ward No. 3,U.S. Senate,,Annie Andrews,DEM,34,11,0,0,0,0,23
+Cherokee,Gaffney Ward No. 3,U.S. Senate,,Brandon P Brown,DEM,64,31,0,0,0,0,33
+Cherokee,Gaffney Ward No. 3,U.S. Senate,,Kyle Freeman,DEM,19,3,0,0,0,0,16
+Cherokee,Gaffney Ward No. 4,U.S. Senate,,Calvin Cowen,REP,7,2,0,0,0,0,5
+Cherokee,Gaffney Ward No. 4,U.S. Senate,,Thomas Keith Dismukes,REP,10,6,0,0,0,0,4
+Cherokee,Gaffney Ward No. 4,U.S. Senate,,Lindsey Graham,REP,131,67,0,0,0,0,64
+Cherokee,Gaffney Ward No. 4,U.S. Senate,,Pat Herrmann,REP,7,0,0,0,0,0,7
+Cherokee,Gaffney Ward No. 4,U.S. Senate,,Mark Lynch,REP,76,28,0,0,0,0,48
+Cherokee,Gaffney Ward No. 4,U.S. Senate,,Darius L Mitchell,REP,10,4,0,0,0,0,6
+Cherokee,Gaffney Ward No. 4,U.S. Senate,,Annie Andrews,DEM,34,16,0,0,0,0,18
+Cherokee,Gaffney Ward No. 4,U.S. Senate,,Brandon P Brown,DEM,38,15,0,0,0,0,23
+Cherokee,Gaffney Ward No. 4,U.S. Senate,,Kyle Freeman,DEM,9,4,0,0,0,0,5
+Cherokee,Gaffney Ward No. 5,U.S. Senate,,Calvin Cowen,REP,8,1,0,0,0,0,7
+Cherokee,Gaffney Ward No. 5,U.S. Senate,,Thomas Keith Dismukes,REP,15,4,0,0,0,0,11
+Cherokee,Gaffney Ward No. 5,U.S. Senate,,Lindsey Graham,REP,138,50,0,0,0,0,88
+Cherokee,Gaffney Ward No. 5,U.S. Senate,,Pat Herrmann,REP,11,3,0,0,0,0,8
+Cherokee,Gaffney Ward No. 5,U.S. Senate,,Mark Lynch,REP,76,26,0,0,0,0,50
+Cherokee,Gaffney Ward No. 5,U.S. Senate,,Darius L Mitchell,REP,10,4,0,0,0,0,6
+Cherokee,Gaffney Ward No. 5,U.S. Senate,,Annie Andrews,DEM,40,14,0,0,0,0,26
+Cherokee,Gaffney Ward No. 5,U.S. Senate,,Brandon P Brown,DEM,14,6,0,0,0,0,8
+Cherokee,Gaffney Ward No. 5,U.S. Senate,,Kyle Freeman,DEM,4,3,0,0,0,0,1
+Cherokee,Gaffney Ward No. 6,U.S. Senate,,Calvin Cowen,REP,10,3,0,0,0,0,7
+Cherokee,Gaffney Ward No. 6,U.S. Senate,,Thomas Keith Dismukes,REP,13,5,0,0,0,0,8
+Cherokee,Gaffney Ward No. 6,U.S. Senate,,Lindsey Graham,REP,152,64,0,0,0,0,88
+Cherokee,Gaffney Ward No. 6,U.S. Senate,,Pat Herrmann,REP,7,2,0,0,0,0,5
+Cherokee,Gaffney Ward No. 6,U.S. Senate,,Mark Lynch,REP,78,22,0,0,0,2,54
+Cherokee,Gaffney Ward No. 6,U.S. Senate,,Darius L Mitchell,REP,6,0,0,0,0,0,6
+Cherokee,Gaffney Ward No. 6,U.S. Senate,,Annie Andrews,DEM,20,7,0,0,0,2,11
+Cherokee,Gaffney Ward No. 6,U.S. Senate,,Brandon P Brown,DEM,15,3,0,0,0,0,12
+Cherokee,Gaffney Ward No. 6,U.S. Senate,,Kyle Freeman,DEM,7,1,0,0,0,0,6
+Cherokee,Goucher and Thicketty,U.S. Senate,,Calvin Cowen,REP,7,4,0,0,0,0,3
+Cherokee,Goucher and Thicketty,U.S. Senate,,Thomas Keith Dismukes,REP,11,1,0,0,0,0,10
+Cherokee,Goucher and Thicketty,U.S. Senate,,Lindsey Graham,REP,160,62,0,0,0,0,98
+Cherokee,Goucher and Thicketty,U.S. Senate,,Pat Herrmann,REP,9,5,0,0,0,0,4
+Cherokee,Goucher and Thicketty,U.S. Senate,,Mark Lynch,REP,120,38,0,0,0,0,82
+Cherokee,Goucher and Thicketty,U.S. Senate,,Darius L Mitchell,REP,4,2,0,0,0,0,2
+Cherokee,Goucher and Thicketty,U.S. Senate,,Annie Andrews,DEM,16,9,0,0,0,0,7
+Cherokee,Goucher and Thicketty,U.S. Senate,,Brandon P Brown,DEM,6,2,0,0,0,0,4
+Cherokee,Goucher and Thicketty,U.S. Senate,,Kyle Freeman,DEM,2,2,0,0,0,0,0
+Cherokee,Grassy Pond,U.S. Senate,,Calvin Cowen,REP,19,6,0,0,0,0,13
+Cherokee,Grassy Pond,U.S. Senate,,Thomas Keith Dismukes,REP,35,15,0,0,0,0,20
+Cherokee,Grassy Pond,U.S. Senate,,Lindsey Graham,REP,494,213,0,0,0,5,276
+Cherokee,Grassy Pond,U.S. Senate,,Pat Herrmann,REP,18,11,0,0,0,0,7
+Cherokee,Grassy Pond,U.S. Senate,,Mark Lynch,REP,236,92,0,0,0,1,143
+Cherokee,Grassy Pond,U.S. Senate,,Darius L Mitchell,REP,15,4,0,0,0,0,11
+Cherokee,Grassy Pond,U.S. Senate,,Annie Andrews,DEM,43,17,0,0,0,0,26
+Cherokee,Grassy Pond,U.S. Senate,,Brandon P Brown,DEM,25,12,0,0,0,0,13
+Cherokee,Grassy Pond,U.S. Senate,,Kyle Freeman,DEM,10,4,0,0,0,1,5
+Cherokee,Holly Grove and Buffalo,U.S. Senate,,Calvin Cowen,REP,8,0,0,0,0,0,8
+Cherokee,Holly Grove and Buffalo,U.S. Senate,,Thomas Keith Dismukes,REP,8,2,0,0,0,0,6
+Cherokee,Holly Grove and Buffalo,U.S. Senate,,Lindsey Graham,REP,147,42,0,0,0,0,105
+Cherokee,Holly Grove and Buffalo,U.S. Senate,,Pat Herrmann,REP,11,0,0,0,0,0,11
+Cherokee,Holly Grove and Buffalo,U.S. Senate,,Mark Lynch,REP,80,18,0,0,0,0,62
+Cherokee,Holly Grove and Buffalo,U.S. Senate,,Darius L Mitchell,REP,5,1,0,0,0,0,4
+Cherokee,Holly Grove and Buffalo,U.S. Senate,,Annie Andrews,DEM,13,6,0,0,0,0,7
+Cherokee,Holly Grove and Buffalo,U.S. Senate,,Brandon P Brown,DEM,13,4,0,0,0,0,9
+Cherokee,Holly Grove and Buffalo,U.S. Senate,,Kyle Freeman,DEM,4,0,0,0,0,0,4
+Cherokee,Limestone Mill,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Cherokee,Limestone Mill,U.S. Senate,,Thomas Keith Dismukes,REP,4,0,0,0,0,0,4
+Cherokee,Limestone Mill,U.S. Senate,,Lindsey Graham,REP,61,24,0,0,0,1,36
+Cherokee,Limestone Mill,U.S. Senate,,Pat Herrmann,REP,4,2,0,0,0,0,2
+Cherokee,Limestone Mill,U.S. Senate,,Mark Lynch,REP,34,13,0,0,0,0,21
+Cherokee,Limestone Mill,U.S. Senate,,Darius L Mitchell,REP,5,3,0,0,0,0,2
+Cherokee,Limestone Mill,U.S. Senate,,Annie Andrews,DEM,13,4,0,0,0,0,9
+Cherokee,Limestone Mill,U.S. Senate,,Brandon P Brown,DEM,8,2,0,0,0,0,6
+Cherokee,Limestone Mill,U.S. Senate,,Kyle Freeman,DEM,6,2,0,0,0,0,4
+Cherokee,Littlejohn's and Sarratt's,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Cherokee,Littlejohn's and Sarratt's,U.S. Senate,,Thomas Keith Dismukes,REP,6,1,0,0,0,0,5
+Cherokee,Littlejohn's and Sarratt's,U.S. Senate,,Lindsey Graham,REP,71,10,0,0,0,0,61
+Cherokee,Littlejohn's and Sarratt's,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Cherokee,Littlejohn's and Sarratt's,U.S. Senate,,Mark Lynch,REP,47,8,0,0,0,0,39
+Cherokee,Littlejohn's and Sarratt's,U.S. Senate,,Darius L Mitchell,REP,6,0,0,0,0,0,6
+Cherokee,Littlejohn's and Sarratt's,U.S. Senate,,Annie Andrews,DEM,1,0,0,0,0,0,1
+Cherokee,Littlejohn's and Sarratt's,U.S. Senate,,Brandon P Brown,DEM,2,0,0,0,0,0,2
+Cherokee,Littlejohn's and Sarratt's,U.S. Senate,,Kyle Freeman,DEM,2,0,0,0,0,0,2
+Cherokee,Macedonia,U.S. Senate,,Calvin Cowen,REP,13,3,0,0,0,0,10
+Cherokee,Macedonia,U.S. Senate,,Thomas Keith Dismukes,REP,26,0,0,0,0,0,26
+Cherokee,Macedonia,U.S. Senate,,Lindsey Graham,REP,230,76,0,0,0,3,151
+Cherokee,Macedonia,U.S. Senate,,Pat Herrmann,REP,10,2,0,0,0,2,6
+Cherokee,Macedonia,U.S. Senate,,Mark Lynch,REP,161,38,0,0,0,2,121
+Cherokee,Macedonia,U.S. Senate,,Darius L Mitchell,REP,10,4,0,0,0,0,6
+Cherokee,Macedonia,U.S. Senate,,Annie Andrews,DEM,27,10,0,0,0,1,16
+Cherokee,Macedonia,U.S. Senate,,Brandon P Brown,DEM,19,6,0,0,0,1,12
+Cherokee,Macedonia,U.S. Senate,,Kyle Freeman,DEM,8,5,0,0,0,0,3
+Cherokee,Morgan,U.S. Senate,,Calvin Cowen,REP,11,2,0,0,0,0,9
+Cherokee,Morgan,U.S. Senate,,Thomas Keith Dismukes,REP,14,0,0,0,0,0,14
+Cherokee,Morgan,U.S. Senate,,Lindsey Graham,REP,118,19,0,0,0,1,98
+Cherokee,Morgan,U.S. Senate,,Pat Herrmann,REP,8,5,0,0,0,0,3
+Cherokee,Morgan,U.S. Senate,,Mark Lynch,REP,114,21,0,0,0,1,92
+Cherokee,Morgan,U.S. Senate,,Darius L Mitchell,REP,4,0,0,0,0,0,4
+Cherokee,Morgan,U.S. Senate,,Annie Andrews,DEM,17,8,0,0,0,1,8
+Cherokee,Morgan,U.S. Senate,,Brandon P Brown,DEM,2,1,0,0,0,0,1
+Cherokee,Morgan,U.S. Senate,,Kyle Freeman,DEM,3,2,0,0,0,0,1
+Cherokee,Musgrove Mill,U.S. Senate,,Calvin Cowen,REP,6,2,0,0,0,0,4
+Cherokee,Musgrove Mill,U.S. Senate,,Thomas Keith Dismukes,REP,15,6,0,0,0,0,9
+Cherokee,Musgrove Mill,U.S. Senate,,Lindsey Graham,REP,239,101,0,0,0,0,138
+Cherokee,Musgrove Mill,U.S. Senate,,Pat Herrmann,REP,9,6,0,0,0,0,3
+Cherokee,Musgrove Mill,U.S. Senate,,Mark Lynch,REP,119,38,0,0,0,0,81
+Cherokee,Musgrove Mill,U.S. Senate,,Darius L Mitchell,REP,11,4,0,0,0,0,7
+Cherokee,Musgrove Mill,U.S. Senate,,Annie Andrews,DEM,21,10,0,0,0,0,11
+Cherokee,Musgrove Mill,U.S. Senate,,Brandon P Brown,DEM,31,11,0,0,0,0,20
+Cherokee,Musgrove Mill,U.S. Senate,,Kyle Freeman,DEM,9,4,0,0,0,0,5
+Cherokee,Ninety Nine and Cherokee Falls,U.S. Senate,,Calvin Cowen,REP,8,2,0,0,0,0,6
+Cherokee,Ninety Nine and Cherokee Falls,U.S. Senate,,Thomas Keith Dismukes,REP,10,2,0,0,0,0,8
+Cherokee,Ninety Nine and Cherokee Falls,U.S. Senate,,Lindsey Graham,REP,122,40,0,0,0,0,82
+Cherokee,Ninety Nine and Cherokee Falls,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Cherokee,Ninety Nine and Cherokee Falls,U.S. Senate,,Mark Lynch,REP,107,18,0,0,0,0,89
+Cherokee,Ninety Nine and Cherokee Falls,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Cherokee,Ninety Nine and Cherokee Falls,U.S. Senate,,Annie Andrews,DEM,11,3,0,0,0,1,7
+Cherokee,Ninety Nine and Cherokee Falls,U.S. Senate,,Brandon P Brown,DEM,5,1,0,0,0,0,4
+Cherokee,Ninety Nine and Cherokee Falls,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Cherokee,Pleasant Grove,U.S. Senate,,Calvin Cowen,REP,7,4,0,0,0,0,3
+Cherokee,Pleasant Grove,U.S. Senate,,Thomas Keith Dismukes,REP,12,5,0,0,0,0,7
+Cherokee,Pleasant Grove,U.S. Senate,,Lindsey Graham,REP,85,30,0,0,0,1,54
+Cherokee,Pleasant Grove,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Cherokee,Pleasant Grove,U.S. Senate,,Mark Lynch,REP,67,20,0,0,0,0,47
+Cherokee,Pleasant Grove,U.S. Senate,,Darius L Mitchell,REP,14,4,0,0,0,0,10
+Cherokee,Pleasant Grove,U.S. Senate,,Annie Andrews,DEM,26,8,0,0,0,0,18
+Cherokee,Pleasant Grove,U.S. Senate,,Brandon P Brown,DEM,20,4,0,0,0,0,16
+Cherokee,Pleasant Grove,U.S. Senate,,Kyle Freeman,DEM,9,3,0,0,0,0,6
+Cherokee,Pleasant Meadows,U.S. Senate,,Calvin Cowen,REP,5,3,0,0,0,0,2
+Cherokee,Pleasant Meadows,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Cherokee,Pleasant Meadows,U.S. Senate,,Lindsey Graham,REP,42,15,0,0,0,0,27
+Cherokee,Pleasant Meadows,U.S. Senate,,Pat Herrmann,REP,11,6,0,0,0,0,5
+Cherokee,Pleasant Meadows,U.S. Senate,,Mark Lynch,REP,28,11,0,0,0,0,17
+Cherokee,Pleasant Meadows,U.S. Senate,,Darius L Mitchell,REP,10,5,0,0,0,0,5
+Cherokee,Pleasant Meadows,U.S. Senate,,Annie Andrews,DEM,33,19,0,0,0,0,14
+Cherokee,Pleasant Meadows,U.S. Senate,,Brandon P Brown,DEM,36,20,0,0,0,0,16
+Cherokee,Pleasant Meadows,U.S. Senate,,Kyle Freeman,DEM,9,2,0,0,0,0,7
+Cherokee,Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,U.S. Senate,,Lindsey Graham,REP,2,0,0,2,0,0,0
+Cherokee,Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Cherokee,Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Cherokee,Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Cherokee,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Cherokee,Timber Ridge,U.S. Senate,,Calvin Cowen,REP,13,6,0,0,0,0,7
+Cherokee,Timber Ridge,U.S. Senate,,Thomas Keith Dismukes,REP,29,12,0,0,0,0,17
+Cherokee,Timber Ridge,U.S. Senate,,Lindsey Graham,REP,153,50,0,0,0,2,101
+Cherokee,Timber Ridge,U.S. Senate,,Pat Herrmann,REP,10,2,0,0,0,0,8
+Cherokee,Timber Ridge,U.S. Senate,,Mark Lynch,REP,95,26,0,0,0,0,69
+Cherokee,Timber Ridge,U.S. Senate,,Darius L Mitchell,REP,11,3,0,0,0,0,8
+Cherokee,Timber Ridge,U.S. Senate,,Annie Andrews,DEM,13,7,0,0,0,0,6
+Cherokee,Timber Ridge,U.S. Senate,,Brandon P Brown,DEM,7,3,0,0,0,0,4
+Cherokee,Timber Ridge,U.S. Senate,,Kyle Freeman,DEM,3,1,0,0,0,1,1
+Cherokee,White Plains,U.S. Senate,,Calvin Cowen,REP,5,1,0,0,0,0,4
+Cherokee,White Plains,U.S. Senate,,Thomas Keith Dismukes,REP,18,3,0,0,0,0,15
+Cherokee,White Plains,U.S. Senate,,Lindsey Graham,REP,127,23,0,0,0,0,104
+Cherokee,White Plains,U.S. Senate,,Pat Herrmann,REP,9,2,0,0,0,0,7
+Cherokee,White Plains,U.S. Senate,,Mark Lynch,REP,106,21,0,0,0,0,85
+Cherokee,White Plains,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,0,3
+Cherokee,White Plains,U.S. Senate,,Annie Andrews,DEM,13,5,0,0,0,0,8
+Cherokee,White Plains,U.S. Senate,,Brandon P Brown,DEM,9,4,0,0,0,0,5
+Cherokee,White Plains,U.S. Senate,,Kyle Freeman,DEM,4,2,0,0,0,0,2
+Cherokee,Wilkinsville and Metcalf,U.S. Senate,,Calvin Cowen,REP,15,4,0,0,0,0,11
+Cherokee,Wilkinsville and Metcalf,U.S. Senate,,Thomas Keith Dismukes,REP,12,5,0,0,0,0,7
+Cherokee,Wilkinsville and Metcalf,U.S. Senate,,Lindsey Graham,REP,107,26,0,0,0,0,81
+Cherokee,Wilkinsville and Metcalf,U.S. Senate,,Pat Herrmann,REP,4,1,0,0,0,0,3
+Cherokee,Wilkinsville and Metcalf,U.S. Senate,,Mark Lynch,REP,62,13,0,0,0,0,49
+Cherokee,Wilkinsville and Metcalf,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Cherokee,Wilkinsville and Metcalf,U.S. Senate,,Annie Andrews,DEM,9,5,0,0,0,0,4
+Cherokee,Wilkinsville and Metcalf,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Cherokee,Wilkinsville and Metcalf,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Cherokee,Wood's,U.S. Senate,,Calvin Cowen,REP,19,7,0,0,0,0,12
+Cherokee,Wood's,U.S. Senate,,Thomas Keith Dismukes,REP,14,3,0,0,0,0,11
+Cherokee,Wood's,U.S. Senate,,Lindsey Graham,REP,177,48,0,0,0,2,127
+Cherokee,Wood's,U.S. Senate,,Pat Herrmann,REP,10,4,0,0,0,0,6
+Cherokee,Wood's,U.S. Senate,,Mark Lynch,REP,129,36,0,0,0,0,93
+Cherokee,Wood's,U.S. Senate,,Darius L Mitchell,REP,10,0,0,0,0,0,10
+Cherokee,Wood's,U.S. Senate,,Annie Andrews,DEM,13,6,0,0,0,0,7
+Cherokee,Wood's,U.S. Senate,,Brandon P Brown,DEM,11,3,0,0,0,0,8
+Cherokee,Wood's,U.S. Senate,,Kyle Freeman,DEM,4,2,0,0,0,0,2

@@ -1,0 +1,1093 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Jasper,Coosawhatchie,Advisory Question 1,,Yes,REP,22,3,0,0,0,0,19
+Jasper,Coosawhatchie,Advisory Question 1,,No,REP,3,1,0,0,0,0,2
+Jasper,Failsafe,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Jasper,Gillisonville,Advisory Question 1,,Yes,REP,95,22,0,0,0,0,73
+Jasper,Gillisonville,Advisory Question 1,,No,REP,11,4,0,0,0,0,7
+Jasper,Grahamville 1,Advisory Question 1,,Yes,REP,201,38,0,0,0,0,163
+Jasper,Grahamville 1,Advisory Question 1,,No,REP,24,6,0,0,0,0,18
+Jasper,Grahamville 2,Advisory Question 1,,Yes,REP,210,60,0,0,0,0,150
+Jasper,Grahamville 2,Advisory Question 1,,No,REP,19,2,0,0,0,0,17
+Jasper,Grays,Advisory Question 1,,Yes,REP,170,19,0,0,0,2,149
+Jasper,Grays,Advisory Question 1,,No,REP,13,1,0,0,0,0,12
+Jasper,Hardeeville 1,Advisory Question 1,,Yes,REP,80,37,0,0,0,2,41
+Jasper,Hardeeville 1,Advisory Question 1,,No,REP,12,7,0,0,0,0,5
+Jasper,Hardeeville 2,Advisory Question 1,,Yes,REP,77,32,0,0,0,0,45
+Jasper,Hardeeville 2,Advisory Question 1,,No,REP,3,1,0,0,0,0,2
+Jasper,Hardeeville 3,Advisory Question 1,,Yes,REP,225,28,0,0,0,1,196
+Jasper,Hardeeville 3,Advisory Question 1,,No,REP,20,3,0,0,0,0,17
+Jasper,Levy,Advisory Question 1,,Yes,REP,127,34,0,0,0,0,93
+Jasper,Levy,Advisory Question 1,,No,REP,20,5,0,0,0,0,15
+Jasper,Margaritaville,Advisory Question 1,,Yes,REP,973,217,0,0,0,6,750
+Jasper,Margaritaville,Advisory Question 1,,No,REP,77,25,0,0,0,1,51
+Jasper,Okatie 1,Advisory Question 1,,Yes,REP,84,16,0,0,0,0,68
+Jasper,Okatie 1,Advisory Question 1,,No,REP,8,4,0,0,0,0,4
+Jasper,Okatie 2,Advisory Question 1,,Yes,REP,308,81,0,0,0,3,224
+Jasper,Okatie 2,Advisory Question 1,,No,REP,27,8,0,0,0,0,19
+Jasper,Pineland,Advisory Question 1,,Yes,REP,19,4,0,0,0,0,15
+Jasper,Pineland,Advisory Question 1,,No,REP,5,1,0,0,0,0,4
+Jasper,Provisional,Advisory Question 1,,Yes,REP,1,0,0,1,0,0,0
+Jasper,Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Jasper,Ridgeland 1,Advisory Question 1,,Yes,REP,161,53,0,0,0,0,108
+Jasper,Ridgeland 1,Advisory Question 1,,No,REP,30,9,0,0,0,0,21
+Jasper,Ridgeland 2,Advisory Question 1,,Yes,REP,124,51,0,0,0,0,73
+Jasper,Ridgeland 2,Advisory Question 1,,No,REP,17,2,0,0,0,0,15
+Jasper,Ridgeland 3,Advisory Question 1,,Yes,REP,166,52,0,0,0,2,112
+Jasper,Ridgeland 3,Advisory Question 1,,No,REP,17,6,0,0,0,2,9
+Jasper,Sun City,Advisory Question 1,,Yes,REP,797,222,0,0,0,19,556
+Jasper,Sun City,Advisory Question 1,,No,REP,64,20,0,0,0,2,42
+Jasper,Tillman,Advisory Question 1,,Yes,REP,76,9,0,0,0,0,67
+Jasper,Tillman,Advisory Question 1,,No,REP,12,5,0,0,0,0,7
+Jasper,Coosawhatchie,Advisory Question 2,,Yes,REP,18,3,0,0,0,0,15
+Jasper,Coosawhatchie,Advisory Question 2,,No,REP,6,1,0,0,0,0,5
+Jasper,Failsafe,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Jasper,Gillisonville,Advisory Question 2,,Yes,REP,72,17,0,0,0,0,55
+Jasper,Gillisonville,Advisory Question 2,,No,REP,33,9,0,0,0,0,24
+Jasper,Grahamville 1,Advisory Question 2,,Yes,REP,168,33,0,0,0,0,135
+Jasper,Grahamville 1,Advisory Question 2,,No,REP,57,12,0,0,0,0,45
+Jasper,Grahamville 2,Advisory Question 2,,Yes,REP,184,45,0,0,0,0,139
+Jasper,Grahamville 2,Advisory Question 2,,No,REP,45,17,0,0,0,0,28
+Jasper,Grays,Advisory Question 2,,Yes,REP,142,14,0,0,0,2,126
+Jasper,Grays,Advisory Question 2,,No,REP,39,6,0,0,0,0,33
+Jasper,Hardeeville 1,Advisory Question 2,,Yes,REP,69,32,0,0,0,2,35
+Jasper,Hardeeville 1,Advisory Question 2,,No,REP,23,12,0,0,0,0,11
+Jasper,Hardeeville 2,Advisory Question 2,,Yes,REP,67,30,0,0,0,0,37
+Jasper,Hardeeville 2,Advisory Question 2,,No,REP,12,2,0,0,0,0,10
+Jasper,Hardeeville 3,Advisory Question 2,,Yes,REP,186,22,0,0,0,1,163
+Jasper,Hardeeville 3,Advisory Question 2,,No,REP,57,9,0,0,0,0,48
+Jasper,Levy,Advisory Question 2,,Yes,REP,102,27,0,0,0,0,75
+Jasper,Levy,Advisory Question 2,,No,REP,43,11,0,0,0,0,32
+Jasper,Margaritaville,Advisory Question 2,,Yes,REP,826,194,0,0,0,6,626
+Jasper,Margaritaville,Advisory Question 2,,No,REP,220,47,0,0,0,1,172
+Jasper,Okatie 1,Advisory Question 2,,Yes,REP,79,17,0,0,0,0,62
+Jasper,Okatie 1,Advisory Question 2,,No,REP,14,4,0,0,0,0,10
+Jasper,Okatie 2,Advisory Question 2,,Yes,REP,263,63,0,0,0,3,197
+Jasper,Okatie 2,Advisory Question 2,,No,REP,71,25,0,0,0,0,46
+Jasper,Pineland,Advisory Question 2,,Yes,REP,12,2,0,0,0,0,10
+Jasper,Pineland,Advisory Question 2,,No,REP,12,3,0,0,0,0,9
+Jasper,Provisional,Advisory Question 2,,Yes,REP,1,0,0,1,0,0,0
+Jasper,Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Jasper,Ridgeland 1,Advisory Question 2,,Yes,REP,139,43,0,0,0,0,96
+Jasper,Ridgeland 1,Advisory Question 2,,No,REP,53,19,0,0,0,0,34
+Jasper,Ridgeland 2,Advisory Question 2,,Yes,REP,106,39,0,0,0,0,67
+Jasper,Ridgeland 2,Advisory Question 2,,No,REP,34,13,0,0,0,0,21
+Jasper,Ridgeland 3,Advisory Question 2,,Yes,REP,136,44,0,0,0,1,91
+Jasper,Ridgeland 3,Advisory Question 2,,No,REP,43,12,0,0,0,3,28
+Jasper,Sun City,Advisory Question 2,,Yes,REP,678,197,0,0,0,11,470
+Jasper,Sun City,Advisory Question 2,,No,REP,199,47,0,0,0,10,142
+Jasper,Tillman,Advisory Question 2,,Yes,REP,68,8,0,0,0,0,60
+Jasper,Tillman,Advisory Question 2,,No,REP,19,6,0,0,0,0,13
+Jasper,Coosawhatchie,Attorney General,,Stephen Goldfinch,REP,6,1,0,0,0,0,5
+Jasper,Coosawhatchie,Attorney General,,David M Pascoe,REP,7,1,0,0,0,0,6
+Jasper,Coosawhatchie,Attorney General,,David Stumbo,REP,10,2,0,0,0,0,8
+Jasper,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Jasper,Gillisonville,Attorney General,,Stephen Goldfinch,REP,31,4,0,0,0,0,27
+Jasper,Gillisonville,Attorney General,,David M Pascoe,REP,32,8,0,0,0,0,24
+Jasper,Gillisonville,Attorney General,,David Stumbo,REP,27,4,0,0,0,0,23
+Jasper,Grahamville 1,Attorney General,,Stephen Goldfinch,REP,77,15,0,0,0,0,62
+Jasper,Grahamville 1,Attorney General,,David M Pascoe,REP,66,12,0,0,0,0,54
+Jasper,Grahamville 1,Attorney General,,David Stumbo,REP,67,16,0,0,0,0,51
+Jasper,Grahamville 2,Attorney General,,Stephen Goldfinch,REP,80,27,0,0,0,0,53
+Jasper,Grahamville 2,Attorney General,,David M Pascoe,REP,69,14,0,0,0,0,55
+Jasper,Grahamville 2,Attorney General,,David Stumbo,REP,60,16,0,0,0,0,44
+Jasper,Grays,Attorney General,,Stephen Goldfinch,REP,62,3,0,0,0,2,57
+Jasper,Grays,Attorney General,,David M Pascoe,REP,66,10,0,0,0,0,56
+Jasper,Grays,Attorney General,,David Stumbo,REP,37,5,0,0,0,0,32
+Jasper,Hardeeville 1,Attorney General,,Stephen Goldfinch,REP,29,9,0,0,0,0,20
+Jasper,Hardeeville 1,Attorney General,,David M Pascoe,REP,29,16,0,0,0,1,12
+Jasper,Hardeeville 1,Attorney General,,David Stumbo,REP,26,13,0,0,0,1,12
+Jasper,Hardeeville 2,Attorney General,,Stephen Goldfinch,REP,22,7,0,0,0,0,15
+Jasper,Hardeeville 2,Attorney General,,David M Pascoe,REP,22,13,0,0,0,0,9
+Jasper,Hardeeville 2,Attorney General,,David Stumbo,REP,28,12,0,0,0,0,16
+Jasper,Hardeeville 3,Attorney General,,Stephen Goldfinch,REP,73,15,0,0,0,0,58
+Jasper,Hardeeville 3,Attorney General,,David M Pascoe,REP,74,8,0,0,0,0,66
+Jasper,Hardeeville 3,Attorney General,,David Stumbo,REP,84,6,0,0,0,1,77
+Jasper,Levy,Attorney General,,Stephen Goldfinch,REP,55,17,0,0,0,0,38
+Jasper,Levy,Attorney General,,David M Pascoe,REP,45,12,0,0,0,0,33
+Jasper,Levy,Attorney General,,David Stumbo,REP,33,7,0,0,0,0,26
+Jasper,Margaritaville,Attorney General,,Stephen Goldfinch,REP,334,73,0,0,0,5,256
+Jasper,Margaritaville,Attorney General,,David M Pascoe,REP,253,57,0,0,0,2,194
+Jasper,Margaritaville,Attorney General,,David Stumbo,REP,412,104,0,0,0,0,308
+Jasper,Okatie 1,Attorney General,,Stephen Goldfinch,REP,30,10,0,0,0,0,20
+Jasper,Okatie 1,Attorney General,,David M Pascoe,REP,19,2,0,0,0,0,17
+Jasper,Okatie 1,Attorney General,,David Stumbo,REP,32,6,0,0,0,0,26
+Jasper,Okatie 2,Attorney General,,Stephen Goldfinch,REP,130,26,0,0,0,1,103
+Jasper,Okatie 2,Attorney General,,David M Pascoe,REP,76,28,0,0,0,0,48
+Jasper,Okatie 2,Attorney General,,David Stumbo,REP,100,27,0,0,0,0,73
+Jasper,Pineland,Attorney General,,Stephen Goldfinch,REP,8,1,0,0,0,0,7
+Jasper,Pineland,Attorney General,,David M Pascoe,REP,10,2,0,0,0,0,8
+Jasper,Pineland,Attorney General,,David Stumbo,REP,3,1,0,0,0,0,2
+Jasper,Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Jasper,Provisional,Attorney General,,David M Pascoe,REP,1,0,0,1,0,0,0
+Jasper,Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Jasper,Ridgeland 1,Attorney General,,Stephen Goldfinch,REP,64,19,0,0,0,0,45
+Jasper,Ridgeland 1,Attorney General,,David M Pascoe,REP,66,25,0,0,0,0,41
+Jasper,Ridgeland 1,Attorney General,,David Stumbo,REP,45,14,0,0,0,0,31
+Jasper,Ridgeland 2,Attorney General,,Stephen Goldfinch,REP,40,14,0,0,0,0,26
+Jasper,Ridgeland 2,Attorney General,,David M Pascoe,REP,42,19,0,0,0,0,23
+Jasper,Ridgeland 2,Attorney General,,David Stumbo,REP,42,14,0,0,0,0,28
+Jasper,Ridgeland 3,Attorney General,,Stephen Goldfinch,REP,68,21,0,0,0,2,45
+Jasper,Ridgeland 3,Attorney General,,David M Pascoe,REP,44,20,0,0,0,0,24
+Jasper,Ridgeland 3,Attorney General,,David Stumbo,REP,52,11,0,0,0,0,41
+Jasper,Sun City,Attorney General,,Stephen Goldfinch,REP,300,98,0,0,0,11,191
+Jasper,Sun City,Attorney General,,David M Pascoe,REP,208,56,0,0,0,3,149
+Jasper,Sun City,Attorney General,,David Stumbo,REP,302,79,0,0,0,7,216
+Jasper,Tillman,Attorney General,,Stephen Goldfinch,REP,34,6,0,0,0,0,28
+Jasper,Tillman,Attorney General,,David M Pascoe,REP,23,4,0,0,0,0,19
+Jasper,Tillman,Attorney General,,David Stumbo,REP,28,2,0,0,0,0,26
+Jasper,Coosawhatchie,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,1,0,0,0,0,8
+Jasper,Coosawhatchie,Commissioner of Agriculture,,Danny Ford,REP,10,2,0,0,0,0,8
+Jasper,Coosawhatchie,Commissioner of Agriculture,,Cody Simpson,REP,2,1,0,0,0,0,1
+Jasper,Coosawhatchie,Commissioner of Agriculture,,Fred West,REP,2,0,0,0,0,0,2
+Jasper,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Jasper,Gillisonville,Commissioner of Agriculture,,Jeremy B Cannon,REP,18,4,0,0,0,0,14
+Jasper,Gillisonville,Commissioner of Agriculture,,Danny Ford,REP,35,9,0,0,0,0,26
+Jasper,Gillisonville,Commissioner of Agriculture,,Cody Simpson,REP,23,3,0,0,0,0,20
+Jasper,Gillisonville,Commissioner of Agriculture,,Fred West,REP,9,1,0,0,0,0,8
+Jasper,Grahamville 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,45,7,0,0,0,0,38
+Jasper,Grahamville 1,Commissioner of Agriculture,,Danny Ford,REP,75,16,0,0,0,0,59
+Jasper,Grahamville 1,Commissioner of Agriculture,,Cody Simpson,REP,65,13,0,0,0,0,52
+Jasper,Grahamville 1,Commissioner of Agriculture,,Fred West,REP,29,7,0,0,0,0,22
+Jasper,Grahamville 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,32,10,0,0,0,0,22
+Jasper,Grahamville 2,Commissioner of Agriculture,,Danny Ford,REP,76,21,0,0,0,0,55
+Jasper,Grahamville 2,Commissioner of Agriculture,,Cody Simpson,REP,69,19,0,0,0,0,50
+Jasper,Grahamville 2,Commissioner of Agriculture,,Fred West,REP,28,8,0,0,0,0,20
+Jasper,Grays,Commissioner of Agriculture,,Jeremy B Cannon,REP,38,5,0,0,0,0,33
+Jasper,Grays,Commissioner of Agriculture,,Danny Ford,REP,58,9,0,0,0,2,47
+Jasper,Grays,Commissioner of Agriculture,,Cody Simpson,REP,52,2,0,0,0,0,50
+Jasper,Grays,Commissioner of Agriculture,,Fred West,REP,20,2,0,0,0,0,18
+Jasper,Hardeeville 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,19,11,0,0,0,0,8
+Jasper,Hardeeville 1,Commissioner of Agriculture,,Danny Ford,REP,20,7,0,0,0,1,12
+Jasper,Hardeeville 1,Commissioner of Agriculture,,Cody Simpson,REP,41,19,0,0,0,0,22
+Jasper,Hardeeville 1,Commissioner of Agriculture,,Fred West,REP,2,1,0,0,0,0,1
+Jasper,Hardeeville 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,15,5,0,0,0,0,10
+Jasper,Hardeeville 2,Commissioner of Agriculture,,Danny Ford,REP,28,12,0,0,0,0,16
+Jasper,Hardeeville 2,Commissioner of Agriculture,,Cody Simpson,REP,30,15,0,0,0,0,15
+Jasper,Hardeeville 2,Commissioner of Agriculture,,Fred West,REP,3,1,0,0,0,0,2
+Jasper,Hardeeville 3,Commissioner of Agriculture,,Jeremy B Cannon,REP,36,6,0,0,0,0,30
+Jasper,Hardeeville 3,Commissioner of Agriculture,,Danny Ford,REP,66,4,0,0,0,0,62
+Jasper,Hardeeville 3,Commissioner of Agriculture,,Cody Simpson,REP,91,14,0,0,0,1,76
+Jasper,Hardeeville 3,Commissioner of Agriculture,,Fred West,REP,32,5,0,0,0,0,27
+Jasper,Levy,Commissioner of Agriculture,,Jeremy B Cannon,REP,24,7,0,0,0,0,17
+Jasper,Levy,Commissioner of Agriculture,,Danny Ford,REP,56,15,0,0,0,0,41
+Jasper,Levy,Commissioner of Agriculture,,Cody Simpson,REP,38,12,0,0,0,0,26
+Jasper,Levy,Commissioner of Agriculture,,Fred West,REP,16,1,0,0,0,0,15
+Jasper,Margaritaville,Commissioner of Agriculture,,Jeremy B Cannon,REP,151,27,0,0,0,1,123
+Jasper,Margaritaville,Commissioner of Agriculture,,Danny Ford,REP,255,55,0,0,0,1,199
+Jasper,Margaritaville,Commissioner of Agriculture,,Cody Simpson,REP,461,124,0,0,0,5,332
+Jasper,Margaritaville,Commissioner of Agriculture,,Fred West,REP,86,20,0,0,0,0,66
+Jasper,Okatie 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,23,4,0,0,0,0,19
+Jasper,Okatie 1,Commissioner of Agriculture,,Danny Ford,REP,22,4,0,0,0,0,18
+Jasper,Okatie 1,Commissioner of Agriculture,,Cody Simpson,REP,28,9,0,0,0,0,19
+Jasper,Okatie 1,Commissioner of Agriculture,,Fred West,REP,6,1,0,0,0,0,5
+Jasper,Okatie 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,52,13,0,0,0,0,39
+Jasper,Okatie 2,Commissioner of Agriculture,,Danny Ford,REP,70,19,0,0,0,0,51
+Jasper,Okatie 2,Commissioner of Agriculture,,Cody Simpson,REP,120,36,0,0,0,1,83
+Jasper,Okatie 2,Commissioner of Agriculture,,Fred West,REP,30,4,0,0,0,0,26
+Jasper,Pineland,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,0,0,0,0,0,3
+Jasper,Pineland,Commissioner of Agriculture,,Danny Ford,REP,7,2,0,0,0,0,5
+Jasper,Pineland,Commissioner of Agriculture,,Cody Simpson,REP,9,2,0,0,0,0,7
+Jasper,Pineland,Commissioner of Agriculture,,Fred West,REP,3,0,0,0,0,0,3
+Jasper,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Jasper,Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Jasper,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,1,0,0,0
+Jasper,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Jasper,Ridgeland 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,25,5,0,0,0,0,20
+Jasper,Ridgeland 1,Commissioner of Agriculture,,Danny Ford,REP,67,20,0,0,0,0,47
+Jasper,Ridgeland 1,Commissioner of Agriculture,,Cody Simpson,REP,58,19,0,0,0,0,39
+Jasper,Ridgeland 1,Commissioner of Agriculture,,Fred West,REP,25,15,0,0,0,0,10
+Jasper,Ridgeland 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,18,5,0,0,0,0,13
+Jasper,Ridgeland 2,Commissioner of Agriculture,,Danny Ford,REP,55,26,0,0,0,0,29
+Jasper,Ridgeland 2,Commissioner of Agriculture,,Cody Simpson,REP,39,10,0,0,0,0,29
+Jasper,Ridgeland 2,Commissioner of Agriculture,,Fred West,REP,15,7,0,0,0,0,8
+Jasper,Ridgeland 3,Commissioner of Agriculture,,Jeremy B Cannon,REP,20,3,0,0,0,0,17
+Jasper,Ridgeland 3,Commissioner of Agriculture,,Danny Ford,REP,60,26,0,0,0,0,34
+Jasper,Ridgeland 3,Commissioner of Agriculture,,Cody Simpson,REP,67,17,0,0,0,3,47
+Jasper,Ridgeland 3,Commissioner of Agriculture,,Fred West,REP,19,6,0,0,0,0,13
+Jasper,Sun City,Commissioner of Agriculture,,Jeremy B Cannon,REP,140,28,0,0,0,4,108
+Jasper,Sun City,Commissioner of Agriculture,,Danny Ford,REP,183,60,0,0,0,6,117
+Jasper,Sun City,Commissioner of Agriculture,,Cody Simpson,REP,305,93,0,0,0,7,205
+Jasper,Sun City,Commissioner of Agriculture,,Fred West,REP,116,36,0,0,0,2,78
+Jasper,Tillman,Commissioner of Agriculture,,Jeremy B Cannon,REP,20,4,0,0,0,0,16
+Jasper,Tillman,Commissioner of Agriculture,,Danny Ford,REP,33,8,0,0,0,0,25
+Jasper,Tillman,Commissioner of Agriculture,,Cody Simpson,REP,29,1,0,0,0,0,28
+Jasper,Tillman,Commissioner of Agriculture,,Fred West,REP,4,0,0,0,0,0,4
+Jasper,Coosawhatchie,Comptroller General,,Tiffany Boozer,DEM,61,21,0,0,0,0,40
+Jasper,Coosawhatchie,Comptroller General,,Bruce K Cole,DEM,8,3,0,0,0,0,5
+Jasper,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Jasper,Gillisonville,Comptroller General,,Tiffany Boozer,DEM,82,39,0,0,0,3,40
+Jasper,Gillisonville,Comptroller General,,Bruce K Cole,DEM,23,11,0,0,0,0,12
+Jasper,Grahamville 1,Comptroller General,,Tiffany Boozer,DEM,131,57,0,0,0,4,70
+Jasper,Grahamville 1,Comptroller General,,Bruce K Cole,DEM,37,20,0,0,0,2,15
+Jasper,Grahamville 2,Comptroller General,,Tiffany Boozer,DEM,261,110,0,0,0,8,143
+Jasper,Grahamville 2,Comptroller General,,Bruce K Cole,DEM,72,25,0,0,0,1,46
+Jasper,Grays,Comptroller General,,Tiffany Boozer,DEM,51,21,0,0,0,1,29
+Jasper,Grays,Comptroller General,,Bruce K Cole,DEM,15,4,0,0,0,0,11
+Jasper,Hardeeville 1,Comptroller General,,Tiffany Boozer,DEM,96,54,0,0,0,2,40
+Jasper,Hardeeville 1,Comptroller General,,Bruce K Cole,DEM,31,11,0,0,0,2,18
+Jasper,Hardeeville 2,Comptroller General,,Tiffany Boozer,DEM,101,43,0,0,0,0,58
+Jasper,Hardeeville 2,Comptroller General,,Bruce K Cole,DEM,20,13,0,0,0,0,7
+Jasper,Hardeeville 3,Comptroller General,,Tiffany Boozer,DEM,65,36,0,0,0,2,27
+Jasper,Hardeeville 3,Comptroller General,,Bruce K Cole,DEM,34,11,0,0,0,0,23
+Jasper,Levy,Comptroller General,,Tiffany Boozer,DEM,240,79,0,0,0,1,160
+Jasper,Levy,Comptroller General,,Bruce K Cole,DEM,47,18,0,0,0,0,29
+Jasper,Margaritaville,Comptroller General,,Tiffany Boozer,DEM,394,159,0,0,0,8,227
+Jasper,Margaritaville,Comptroller General,,Bruce K Cole,DEM,169,84,0,0,0,4,81
+Jasper,Okatie 1,Comptroller General,,Tiffany Boozer,DEM,53,21,0,0,0,1,31
+Jasper,Okatie 1,Comptroller General,,Bruce K Cole,DEM,23,8,0,0,0,0,15
+Jasper,Okatie 2,Comptroller General,,Tiffany Boozer,DEM,98,56,0,0,0,4,38
+Jasper,Okatie 2,Comptroller General,,Bruce K Cole,DEM,38,19,0,0,0,4,15
+Jasper,Pineland,Comptroller General,,Tiffany Boozer,DEM,141,42,0,0,0,0,99
+Jasper,Pineland,Comptroller General,,Bruce K Cole,DEM,25,7,0,0,0,0,18
+Jasper,Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Jasper,Ridgeland 1,Comptroller General,,Tiffany Boozer,DEM,51,20,0,0,0,0,31
+Jasper,Ridgeland 1,Comptroller General,,Bruce K Cole,DEM,15,11,0,0,0,0,4
+Jasper,Ridgeland 2,Comptroller General,,Tiffany Boozer,DEM,92,36,0,0,0,8,48
+Jasper,Ridgeland 2,Comptroller General,,Bruce K Cole,DEM,30,15,0,0,0,2,13
+Jasper,Ridgeland 3,Comptroller General,,Tiffany Boozer,DEM,75,33,0,0,0,8,34
+Jasper,Ridgeland 3,Comptroller General,,Bruce K Cole,DEM,21,12,0,0,0,2,7
+Jasper,Sun City,Comptroller General,,Tiffany Boozer,DEM,276,126,0,0,0,9,141
+Jasper,Sun City,Comptroller General,,Bruce K Cole,DEM,225,119,0,0,0,12,94
+Jasper,Tillman,Comptroller General,,Tiffany Boozer,DEM,80,32,0,0,0,2,46
+Jasper,Tillman,Comptroller General,,Bruce K Cole,DEM,39,14,0,0,0,0,25
+Jasper,Coosawhatchie,County Treasurer,,Michael T Skinner,REP,12,3,0,0,0,0,9
+Jasper,Coosawhatchie,County Treasurer,,Deanne Walsh Spikes,REP,11,1,0,0,0,0,10
+Jasper,Failsafe,County Treasurer,,Michael T Skinner,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,County Treasurer,,Deanne Walsh Spikes,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,County Treasurer,,Michael T Skinner,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,County Treasurer,,Deanne Walsh Spikes,REP,0,0,0,0,0,0,0
+Jasper,Gillisonville,County Treasurer,,Michael T Skinner,REP,56,13,0,0,0,0,43
+Jasper,Gillisonville,County Treasurer,,Deanne Walsh Spikes,REP,56,17,0,0,0,0,39
+Jasper,Grahamville 1,County Treasurer,,Michael T Skinner,REP,124,25,0,0,0,0,99
+Jasper,Grahamville 1,County Treasurer,,Deanne Walsh Spikes,REP,103,19,0,0,0,0,84
+Jasper,Grahamville 2,County Treasurer,,Michael T Skinner,REP,136,37,0,0,0,0,99
+Jasper,Grahamville 2,County Treasurer,,Deanne Walsh Spikes,REP,94,26,0,0,0,0,68
+Jasper,Grays,County Treasurer,,Michael T Skinner,REP,106,8,0,0,0,2,96
+Jasper,Grays,County Treasurer,,Deanne Walsh Spikes,REP,74,13,0,0,0,0,61
+Jasper,Hardeeville 1,County Treasurer,,Michael T Skinner,REP,27,11,0,0,0,0,16
+Jasper,Hardeeville 1,County Treasurer,,Deanne Walsh Spikes,REP,67,33,0,0,0,3,31
+Jasper,Hardeeville 2,County Treasurer,,Michael T Skinner,REP,24,16,0,0,0,0,8
+Jasper,Hardeeville 2,County Treasurer,,Deanne Walsh Spikes,REP,56,19,0,0,0,0,37
+Jasper,Hardeeville 3,County Treasurer,,Michael T Skinner,REP,176,24,0,0,0,1,151
+Jasper,Hardeeville 3,County Treasurer,,Deanne Walsh Spikes,REP,60,6,0,0,0,0,54
+Jasper,Levy,County Treasurer,,Michael T Skinner,REP,64,14,0,0,0,0,50
+Jasper,Levy,County Treasurer,,Deanne Walsh Spikes,REP,84,25,0,0,0,0,59
+Jasper,Margaritaville,County Treasurer,,Michael T Skinner,REP,798,196,0,0,0,4,598
+Jasper,Margaritaville,County Treasurer,,Deanne Walsh Spikes,REP,199,39,0,0,0,3,157
+Jasper,Okatie 1,County Treasurer,,Michael T Skinner,REP,70,16,0,0,0,0,54
+Jasper,Okatie 1,County Treasurer,,Deanne Walsh Spikes,REP,13,3,0,0,0,0,10
+Jasper,Okatie 2,County Treasurer,,Michael T Skinner,REP,200,52,0,0,0,1,147
+Jasper,Okatie 2,County Treasurer,,Deanne Walsh Spikes,REP,89,29,0,0,0,0,60
+Jasper,Pineland,County Treasurer,,Michael T Skinner,REP,12,3,0,0,0,0,9
+Jasper,Pineland,County Treasurer,,Deanne Walsh Spikes,REP,11,2,0,0,0,0,9
+Jasper,Provisional,County Treasurer,,Michael T Skinner,REP,1,0,0,1,0,0,0
+Jasper,Provisional,County Treasurer,,Deanne Walsh Spikes,REP,0,0,0,0,0,0,0
+Jasper,Ridgeland 1,County Treasurer,,Michael T Skinner,REP,93,23,0,0,0,0,70
+Jasper,Ridgeland 1,County Treasurer,,Deanne Walsh Spikes,REP,105,41,0,0,0,0,64
+Jasper,Ridgeland 2,County Treasurer,,Michael T Skinner,REP,80,32,0,0,0,0,48
+Jasper,Ridgeland 2,County Treasurer,,Deanne Walsh Spikes,REP,61,21,0,0,0,0,40
+Jasper,Ridgeland 3,County Treasurer,,Michael T Skinner,REP,86,30,0,0,0,2,54
+Jasper,Ridgeland 3,County Treasurer,,Deanne Walsh Spikes,REP,98,28,0,0,0,1,69
+Jasper,Sun City,County Treasurer,,Michael T Skinner,REP,551,151,0,0,0,11,389
+Jasper,Sun City,County Treasurer,,Deanne Walsh Spikes,REP,218,66,0,0,0,9,143
+Jasper,Tillman,County Treasurer,,Michael T Skinner,REP,35,5,0,0,0,0,30
+Jasper,Tillman,County Treasurer,,Deanne Walsh Spikes,REP,55,9,0,0,0,0,46
+Jasper,Coosawhatchie,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Jasper,Coosawhatchie,Governor,,Pamela Evette,REP,7,1,0,0,0,0,6
+Jasper,Coosawhatchie,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Jasper,Coosawhatchie,Governor,,Nancy Mace,REP,2,1,0,0,0,0,1
+Jasper,Coosawhatchie,Governor,,Ralph W Norman,REP,3,0,0,0,0,0,3
+Jasper,Coosawhatchie,Governor,,Rom Reddy,REP,3,0,0,0,0,0,3
+Jasper,Coosawhatchie,Governor,,Alan Wilson,REP,9,2,0,0,0,0,7
+Jasper,Coosawhatchie,Governor,,Jermaine Johnson,DEM,61,22,0,0,0,0,39
+Jasper,Coosawhatchie,Governor,,Mullins McLeod,DEM,6,1,0,0,0,0,5
+Jasper,Coosawhatchie,Governor,,Billy Webster,DEM,3,1,0,0,0,0,2
+Jasper,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Jasper,Gillisonville,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Jasper,Gillisonville,Governor,,Pamela Evette,REP,27,8,0,0,0,0,19
+Jasper,Gillisonville,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Jasper,Gillisonville,Governor,,Nancy Mace,REP,32,5,0,0,0,0,27
+Jasper,Gillisonville,Governor,,Ralph W Norman,REP,9,4,0,0,0,0,5
+Jasper,Gillisonville,Governor,,Rom Reddy,REP,13,3,0,0,0,0,10
+Jasper,Gillisonville,Governor,,Alan Wilson,REP,28,9,0,0,0,0,19
+Jasper,Gillisonville,Governor,,Jermaine Johnson,DEM,87,43,0,0,0,3,41
+Jasper,Gillisonville,Governor,,Mullins McLeod,DEM,11,6,0,0,0,0,5
+Jasper,Gillisonville,Governor,,Billy Webster,DEM,10,4,0,0,0,0,6
+Jasper,Grahamville 1,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Jasper,Grahamville 1,Governor,,Pamela Evette,REP,52,9,0,0,0,0,43
+Jasper,Grahamville 1,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Jasper,Grahamville 1,Governor,,Nancy Mace,REP,44,4,0,0,0,0,40
+Jasper,Grahamville 1,Governor,,Ralph W Norman,REP,30,6,0,0,0,0,24
+Jasper,Grahamville 1,Governor,,Rom Reddy,REP,23,4,0,0,0,0,19
+Jasper,Grahamville 1,Governor,,Alan Wilson,REP,73,21,0,0,0,0,52
+Jasper,Grahamville 1,Governor,,Jermaine Johnson,DEM,120,50,0,0,0,4,66
+Jasper,Grahamville 1,Governor,,Mullins McLeod,DEM,22,12,0,0,0,0,10
+Jasper,Grahamville 1,Governor,,Billy Webster,DEM,30,17,0,0,0,2,11
+Jasper,Grahamville 2,Governor,,Jacqueline Hicks DuBose,REP,4,0,0,0,0,0,4
+Jasper,Grahamville 2,Governor,,Pamela Evette,REP,60,19,0,0,0,0,41
+Jasper,Grahamville 2,Governor,,Joshua Kimbrell,REP,2,2,0,0,0,0,0
+Jasper,Grahamville 2,Governor,,Nancy Mace,REP,50,9,0,0,0,0,41
+Jasper,Grahamville 2,Governor,,Ralph W Norman,REP,24,5,0,0,0,0,19
+Jasper,Grahamville 2,Governor,,Rom Reddy,REP,24,9,0,0,0,0,15
+Jasper,Grahamville 2,Governor,,Alan Wilson,REP,62,17,0,0,0,0,45
+Jasper,Grahamville 2,Governor,,Jermaine Johnson,DEM,271,106,0,0,0,9,156
+Jasper,Grahamville 2,Governor,,Mullins McLeod,DEM,35,15,0,0,0,0,20
+Jasper,Grahamville 2,Governor,,Billy Webster,DEM,40,19,0,0,0,0,21
+Jasper,Grays,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Jasper,Grays,Governor,,Pamela Evette,REP,66,9,0,0,0,2,55
+Jasper,Grays,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Jasper,Grays,Governor,,Nancy Mace,REP,30,3,0,0,0,0,27
+Jasper,Grays,Governor,,Ralph W Norman,REP,14,0,0,0,0,0,14
+Jasper,Grays,Governor,,Rom Reddy,REP,12,1,0,0,0,0,11
+Jasper,Grays,Governor,,Alan Wilson,REP,57,8,0,0,0,0,49
+Jasper,Grays,Governor,,Jermaine Johnson,DEM,49,18,0,0,0,1,30
+Jasper,Grays,Governor,,Mullins McLeod,DEM,8,4,0,0,0,0,4
+Jasper,Grays,Governor,,Billy Webster,DEM,10,3,0,0,0,0,7
+Jasper,Hardeeville 1,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Jasper,Hardeeville 1,Governor,,Pamela Evette,REP,18,3,0,0,0,0,15
+Jasper,Hardeeville 1,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Jasper,Hardeeville 1,Governor,,Nancy Mace,REP,31,15,0,0,0,0,16
+Jasper,Hardeeville 1,Governor,,Ralph W Norman,REP,10,7,0,0,0,1,2
+Jasper,Hardeeville 1,Governor,,Rom Reddy,REP,5,2,0,0,0,0,3
+Jasper,Hardeeville 1,Governor,,Alan Wilson,REP,21,13,0,0,0,1,7
+Jasper,Hardeeville 1,Governor,,Jermaine Johnson,DEM,107,54,0,0,0,2,51
+Jasper,Hardeeville 1,Governor,,Mullins McLeod,DEM,12,7,0,0,0,0,5
+Jasper,Hardeeville 1,Governor,,Billy Webster,DEM,14,7,0,0,0,2,5
+Jasper,Hardeeville 2,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Jasper,Hardeeville 2,Governor,,Pamela Evette,REP,24,8,0,0,0,0,16
+Jasper,Hardeeville 2,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Jasper,Hardeeville 2,Governor,,Nancy Mace,REP,19,7,0,0,0,0,12
+Jasper,Hardeeville 2,Governor,,Ralph W Norman,REP,5,3,0,0,0,0,2
+Jasper,Hardeeville 2,Governor,,Rom Reddy,REP,8,4,0,0,0,0,4
+Jasper,Hardeeville 2,Governor,,Alan Wilson,REP,22,13,0,0,0,0,9
+Jasper,Hardeeville 2,Governor,,Jermaine Johnson,DEM,94,41,0,0,0,0,53
+Jasper,Hardeeville 2,Governor,,Mullins McLeod,DEM,13,7,0,0,0,0,6
+Jasper,Hardeeville 2,Governor,,Billy Webster,DEM,16,9,0,0,0,0,7
+Jasper,Hardeeville 3,Governor,,Jacqueline Hicks DuBose,REP,5,0,0,0,0,0,5
+Jasper,Hardeeville 3,Governor,,Pamela Evette,REP,105,9,0,0,0,0,96
+Jasper,Hardeeville 3,Governor,,Joshua Kimbrell,REP,4,1,0,0,0,0,3
+Jasper,Hardeeville 3,Governor,,Nancy Mace,REP,61,9,0,0,0,0,52
+Jasper,Hardeeville 3,Governor,,Ralph W Norman,REP,29,5,0,0,0,1,23
+Jasper,Hardeeville 3,Governor,,Rom Reddy,REP,13,4,0,0,0,0,9
+Jasper,Hardeeville 3,Governor,,Alan Wilson,REP,32,2,0,0,0,0,30
+Jasper,Hardeeville 3,Governor,,Jermaine Johnson,DEM,56,29,0,0,0,2,25
+Jasper,Hardeeville 3,Governor,,Mullins McLeod,DEM,25,9,0,0,0,0,16
+Jasper,Hardeeville 3,Governor,,Billy Webster,DEM,21,11,0,0,0,0,10
+Jasper,Levy,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Jasper,Levy,Governor,,Pamela Evette,REP,36,10,0,0,0,0,26
+Jasper,Levy,Governor,,Joshua Kimbrell,REP,5,1,0,0,0,0,4
+Jasper,Levy,Governor,,Nancy Mace,REP,45,13,0,0,0,0,32
+Jasper,Levy,Governor,,Ralph W Norman,REP,12,5,0,0,0,0,7
+Jasper,Levy,Governor,,Rom Reddy,REP,13,4,0,0,0,0,9
+Jasper,Levy,Governor,,Alan Wilson,REP,33,5,0,0,0,0,28
+Jasper,Levy,Governor,,Jermaine Johnson,DEM,239,82,0,0,0,1,156
+Jasper,Levy,Governor,,Mullins McLeod,DEM,12,4,0,0,0,0,8
+Jasper,Levy,Governor,,Billy Webster,DEM,39,15,0,0,0,0,24
+Jasper,Margaritaville,Governor,,Jacqueline Hicks DuBose,REP,22,1,0,0,0,0,21
+Jasper,Margaritaville,Governor,,Pamela Evette,REP,429,81,0,0,0,1,347
+Jasper,Margaritaville,Governor,,Joshua Kimbrell,REP,14,11,0,0,0,0,3
+Jasper,Margaritaville,Governor,,Nancy Mace,REP,233,43,0,0,0,4,186
+Jasper,Margaritaville,Governor,,Ralph W Norman,REP,97,22,0,0,0,0,75
+Jasper,Margaritaville,Governor,,Rom Reddy,REP,164,51,0,0,0,2,111
+Jasper,Margaritaville,Governor,,Alan Wilson,REP,101,37,0,0,0,0,64
+Jasper,Margaritaville,Governor,,Jermaine Johnson,DEM,398,192,0,0,0,8,198
+Jasper,Margaritaville,Governor,,Mullins McLeod,DEM,68,16,0,0,0,1,51
+Jasper,Margaritaville,Governor,,Billy Webster,DEM,111,34,0,0,0,3,74
+Jasper,Okatie 1,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Jasper,Okatie 1,Governor,,Pamela Evette,REP,40,4,0,0,0,0,36
+Jasper,Okatie 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Jasper,Okatie 1,Governor,,Nancy Mace,REP,18,7,0,0,0,0,11
+Jasper,Okatie 1,Governor,,Ralph W Norman,REP,9,3,0,0,0,0,6
+Jasper,Okatie 1,Governor,,Rom Reddy,REP,14,4,0,0,0,0,10
+Jasper,Okatie 1,Governor,,Alan Wilson,REP,11,3,0,0,0,0,8
+Jasper,Okatie 1,Governor,,Jermaine Johnson,DEM,58,23,0,0,0,1,34
+Jasper,Okatie 1,Governor,,Mullins McLeod,DEM,7,1,0,0,0,0,6
+Jasper,Okatie 1,Governor,,Billy Webster,DEM,13,5,0,0,0,0,8
+Jasper,Okatie 2,Governor,,Jacqueline Hicks DuBose,REP,9,4,0,0,0,0,5
+Jasper,Okatie 2,Governor,,Pamela Evette,REP,136,21,0,0,0,0,115
+Jasper,Okatie 2,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Jasper,Okatie 2,Governor,,Nancy Mace,REP,92,26,0,0,0,1,65
+Jasper,Okatie 2,Governor,,Ralph W Norman,REP,22,9,0,0,0,2,11
+Jasper,Okatie 2,Governor,,Rom Reddy,REP,24,10,0,0,0,0,14
+Jasper,Okatie 2,Governor,,Alan Wilson,REP,54,18,0,0,0,0,36
+Jasper,Okatie 2,Governor,,Jermaine Johnson,DEM,90,47,0,0,0,6,37
+Jasper,Okatie 2,Governor,,Mullins McLeod,DEM,24,17,0,0,0,0,7
+Jasper,Okatie 2,Governor,,Billy Webster,DEM,32,18,0,0,0,2,12
+Jasper,Pineland,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Jasper,Pineland,Governor,,Pamela Evette,REP,7,0,0,0,0,0,7
+Jasper,Pineland,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Jasper,Pineland,Governor,,Nancy Mace,REP,6,2,0,0,0,0,4
+Jasper,Pineland,Governor,,Ralph W Norman,REP,2,0,0,0,0,0,2
+Jasper,Pineland,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Jasper,Pineland,Governor,,Alan Wilson,REP,6,3,0,0,0,0,3
+Jasper,Pineland,Governor,,Jermaine Johnson,DEM,144,42,0,0,0,0,102
+Jasper,Pineland,Governor,,Mullins McLeod,DEM,10,3,0,0,0,0,7
+Jasper,Pineland,Governor,,Billy Webster,DEM,13,4,0,0,0,0,9
+Jasper,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Jasper,Provisional,Governor,,Pamela Evette,REP,1,0,0,1,0,0,0
+Jasper,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Jasper,Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Jasper,Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Jasper,Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Jasper,Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Jasper,Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Jasper,Ridgeland 1,Governor,,Jacqueline Hicks DuBose,REP,4,1,0,0,0,0,3
+Jasper,Ridgeland 1,Governor,,Pamela Evette,REP,31,12,0,0,0,0,19
+Jasper,Ridgeland 1,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Jasper,Ridgeland 1,Governor,,Nancy Mace,REP,51,12,0,0,0,0,39
+Jasper,Ridgeland 1,Governor,,Ralph W Norman,REP,25,9,0,0,0,0,16
+Jasper,Ridgeland 1,Governor,,Rom Reddy,REP,17,5,0,0,0,0,12
+Jasper,Ridgeland 1,Governor,,Alan Wilson,REP,59,24,0,0,0,0,35
+Jasper,Ridgeland 1,Governor,,Jermaine Johnson,DEM,46,23,0,0,0,0,23
+Jasper,Ridgeland 1,Governor,,Mullins McLeod,DEM,13,6,0,0,0,0,7
+Jasper,Ridgeland 1,Governor,,Billy Webster,DEM,10,6,0,0,0,0,4
+Jasper,Ridgeland 2,Governor,,Jacqueline Hicks DuBose,REP,6,0,0,0,0,0,6
+Jasper,Ridgeland 2,Governor,,Pamela Evette,REP,36,12,0,0,0,0,24
+Jasper,Ridgeland 2,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Jasper,Ridgeland 2,Governor,,Nancy Mace,REP,43,19,0,0,0,0,24
+Jasper,Ridgeland 2,Governor,,Ralph W Norman,REP,4,0,0,0,0,0,4
+Jasper,Ridgeland 2,Governor,,Rom Reddy,REP,7,1,0,0,0,0,6
+Jasper,Ridgeland 2,Governor,,Alan Wilson,REP,45,20,0,0,0,0,25
+Jasper,Ridgeland 2,Governor,,Jermaine Johnson,DEM,102,42,0,0,0,11,49
+Jasper,Ridgeland 2,Governor,,Mullins McLeod,DEM,14,5,0,0,0,0,9
+Jasper,Ridgeland 2,Governor,,Billy Webster,DEM,10,5,0,0,0,0,5
+Jasper,Ridgeland 3,Governor,,Jacqueline Hicks DuBose,REP,3,1,0,0,0,0,2
+Jasper,Ridgeland 3,Governor,,Pamela Evette,REP,40,10,0,0,0,0,30
+Jasper,Ridgeland 3,Governor,,Joshua Kimbrell,REP,3,1,0,0,0,0,2
+Jasper,Ridgeland 3,Governor,,Nancy Mace,REP,36,12,0,0,0,0,24
+Jasper,Ridgeland 3,Governor,,Ralph W Norman,REP,18,7,0,0,0,1,10
+Jasper,Ridgeland 3,Governor,,Rom Reddy,REP,8,4,0,0,0,0,4
+Jasper,Ridgeland 3,Governor,,Alan Wilson,REP,73,23,0,0,0,2,48
+Jasper,Ridgeland 3,Governor,,Jermaine Johnson,DEM,76,34,0,0,0,10,32
+Jasper,Ridgeland 3,Governor,,Mullins McLeod,DEM,7,4,0,0,0,0,3
+Jasper,Ridgeland 3,Governor,,Billy Webster,DEM,13,8,0,0,0,0,5
+Jasper,Sun City,Governor,,Jacqueline Hicks DuBose,REP,11,4,0,0,0,0,7
+Jasper,Sun City,Governor,,Pamela Evette,REP,347,73,0,0,0,3,271
+Jasper,Sun City,Governor,,Joshua Kimbrell,REP,8,2,0,0,0,0,6
+Jasper,Sun City,Governor,,Nancy Mace,REP,163,38,0,0,0,6,119
+Jasper,Sun City,Governor,,Ralph W Norman,REP,111,39,0,0,0,0,72
+Jasper,Sun City,Governor,,Rom Reddy,REP,57,15,0,0,0,1,41
+Jasper,Sun City,Governor,,Alan Wilson,REP,190,76,0,0,0,10,104
+Jasper,Sun City,Governor,,Jermaine Johnson,DEM,308,157,0,0,0,15,136
+Jasper,Sun City,Governor,,Mullins McLeod,DEM,91,54,0,0,0,2,35
+Jasper,Sun City,Governor,,Billy Webster,DEM,128,49,0,0,0,5,74
+Jasper,Tillman,Governor,,Jacqueline Hicks DuBose,REP,3,1,0,0,0,0,2
+Jasper,Tillman,Governor,,Pamela Evette,REP,27,4,0,0,0,0,23
+Jasper,Tillman,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Jasper,Tillman,Governor,,Nancy Mace,REP,13,0,0,0,0,0,13
+Jasper,Tillman,Governor,,Ralph W Norman,REP,5,0,0,0,0,0,5
+Jasper,Tillman,Governor,,Rom Reddy,REP,6,0,0,0,0,0,6
+Jasper,Tillman,Governor,,Alan Wilson,REP,32,8,0,0,0,0,24
+Jasper,Tillman,Governor,,Jermaine Johnson,DEM,88,36,0,0,0,0,52
+Jasper,Tillman,Governor,,Mullins McLeod,DEM,13,3,0,0,0,0,10
+Jasper,Tillman,Governor,,Billy Webster,DEM,22,9,0,0,0,2,11
+Jasper,Coosawhatchie,Probate Judge,,Dixie S Ford,REP,15,1,0,0,0,0,14
+Jasper,Coosawhatchie,Probate Judge,,Kendall Malphrus,REP,10,3,0,0,0,0,7
+Jasper,Failsafe,Probate Judge,,Dixie S Ford,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,Probate Judge,,Kendall Malphrus,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Probate Judge,,Dixie S Ford,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Probate Judge,,Kendall Malphrus,REP,0,0,0,0,0,0,0
+Jasper,Gillisonville,Probate Judge,,Dixie S Ford,REP,79,21,0,0,0,0,58
+Jasper,Gillisonville,Probate Judge,,Kendall Malphrus,REP,34,9,0,0,0,0,25
+Jasper,Grahamville 1,Probate Judge,,Dixie S Ford,REP,122,20,0,0,0,0,102
+Jasper,Grahamville 1,Probate Judge,,Kendall Malphrus,REP,108,25,0,0,0,0,83
+Jasper,Grahamville 2,Probate Judge,,Dixie S Ford,REP,122,27,0,0,0,0,95
+Jasper,Grahamville 2,Probate Judge,,Kendall Malphrus,REP,104,33,0,0,0,0,71
+Jasper,Grays,Probate Judge,,Dixie S Ford,REP,121,12,0,0,0,0,109
+Jasper,Grays,Probate Judge,,Kendall Malphrus,REP,61,9,0,0,0,2,50
+Jasper,Hardeeville 1,Probate Judge,,Dixie S Ford,REP,53,23,0,0,0,0,30
+Jasper,Hardeeville 1,Probate Judge,,Kendall Malphrus,REP,41,21,0,0,0,3,17
+Jasper,Hardeeville 2,Probate Judge,,Dixie S Ford,REP,53,21,0,0,0,0,32
+Jasper,Hardeeville 2,Probate Judge,,Kendall Malphrus,REP,28,14,0,0,0,0,14
+Jasper,Hardeeville 3,Probate Judge,,Dixie S Ford,REP,139,21,0,0,0,1,117
+Jasper,Hardeeville 3,Probate Judge,,Kendall Malphrus,REP,93,8,0,0,0,0,85
+Jasper,Levy,Probate Judge,,Dixie S Ford,REP,80,23,0,0,0,0,57
+Jasper,Levy,Probate Judge,,Kendall Malphrus,REP,64,15,0,0,0,0,49
+Jasper,Margaritaville,Probate Judge,,Dixie S Ford,REP,654,171,0,0,0,7,476
+Jasper,Margaritaville,Probate Judge,,Kendall Malphrus,REP,339,61,0,0,0,0,278
+Jasper,Okatie 1,Probate Judge,,Dixie S Ford,REP,38,9,0,0,0,0,29
+Jasper,Okatie 1,Probate Judge,,Kendall Malphrus,REP,45,9,0,0,0,0,36
+Jasper,Okatie 2,Probate Judge,,Dixie S Ford,REP,158,50,0,0,0,2,106
+Jasper,Okatie 2,Probate Judge,,Kendall Malphrus,REP,127,32,0,0,0,1,94
+Jasper,Pineland,Probate Judge,,Dixie S Ford,REP,21,5,0,0,0,0,16
+Jasper,Pineland,Probate Judge,,Kendall Malphrus,REP,3,0,0,0,0,0,3
+Jasper,Provisional,Probate Judge,,Dixie S Ford,REP,0,0,0,0,0,0,0
+Jasper,Provisional,Probate Judge,,Kendall Malphrus,REP,1,0,0,1,0,0,0
+Jasper,Ridgeland 1,Probate Judge,,Dixie S Ford,REP,129,45,0,0,0,0,84
+Jasper,Ridgeland 1,Probate Judge,,Kendall Malphrus,REP,68,19,0,0,0,0,49
+Jasper,Ridgeland 2,Probate Judge,,Dixie S Ford,REP,87,35,0,0,0,0,52
+Jasper,Ridgeland 2,Probate Judge,,Kendall Malphrus,REP,54,17,0,0,0,0,37
+Jasper,Ridgeland 3,Probate Judge,,Dixie S Ford,REP,135,47,0,0,0,2,86
+Jasper,Ridgeland 3,Probate Judge,,Kendall Malphrus,REP,52,12,0,0,0,0,40
+Jasper,Sun City,Probate Judge,,Dixie S Ford,REP,343,106,0,0,0,13,224
+Jasper,Sun City,Probate Judge,,Kendall Malphrus,REP,413,113,0,0,0,7,293
+Jasper,Tillman,Probate Judge,,Dixie S Ford,REP,58,6,0,0,0,0,52
+Jasper,Tillman,Probate Judge,,Kendall Malphrus,REP,32,8,0,0,0,0,24
+Jasper,Coosawhatchie,Secretary of State,,Jason Belton,DEM,45,15,0,0,0,0,30
+Jasper,Coosawhatchie,Secretary of State,,Edwina Winter,DEM,23,9,0,0,0,0,14
+Jasper,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Jasper,Gillisonville,Secretary of State,,Jason Belton,DEM,67,28,0,0,0,3,36
+Jasper,Gillisonville,Secretary of State,,Edwina Winter,DEM,39,22,0,0,0,0,17
+Jasper,Grahamville 1,Secretary of State,,Jason Belton,DEM,89,36,0,0,0,5,48
+Jasper,Grahamville 1,Secretary of State,,Edwina Winter,DEM,81,43,0,0,0,1,37
+Jasper,Grahamville 2,Secretary of State,,Jason Belton,DEM,174,63,0,0,0,8,103
+Jasper,Grahamville 2,Secretary of State,,Edwina Winter,DEM,165,74,0,0,0,1,90
+Jasper,Grays,Secretary of State,,Jason Belton,DEM,47,20,0,0,0,1,26
+Jasper,Grays,Secretary of State,,Edwina Winter,DEM,19,5,0,0,0,0,14
+Jasper,Hardeeville 1,Secretary of State,,Jason Belton,DEM,70,32,0,0,0,2,36
+Jasper,Hardeeville 1,Secretary of State,,Edwina Winter,DEM,61,34,0,0,0,2,25
+Jasper,Hardeeville 2,Secretary of State,,Jason Belton,DEM,66,26,0,0,0,0,40
+Jasper,Hardeeville 2,Secretary of State,,Edwina Winter,DEM,57,31,0,0,0,0,26
+Jasper,Hardeeville 3,Secretary of State,,Jason Belton,DEM,43,16,0,0,0,0,27
+Jasper,Hardeeville 3,Secretary of State,,Edwina Winter,DEM,55,30,0,0,0,2,23
+Jasper,Levy,Secretary of State,,Jason Belton,DEM,193,67,0,0,0,1,125
+Jasper,Levy,Secretary of State,,Edwina Winter,DEM,94,31,0,0,0,0,63
+Jasper,Margaritaville,Secretary of State,,Jason Belton,DEM,222,77,0,0,0,0,145
+Jasper,Margaritaville,Secretary of State,,Edwina Winter,DEM,347,167,0,0,0,12,168
+Jasper,Okatie 1,Secretary of State,,Jason Belton,DEM,42,15,0,0,0,1,26
+Jasper,Okatie 1,Secretary of State,,Edwina Winter,DEM,36,14,0,0,0,0,22
+Jasper,Okatie 2,Secretary of State,,Jason Belton,DEM,70,41,0,0,0,2,27
+Jasper,Okatie 2,Secretary of State,,Edwina Winter,DEM,69,35,0,0,0,6,28
+Jasper,Pineland,Secretary of State,,Jason Belton,DEM,111,29,0,0,0,0,82
+Jasper,Pineland,Secretary of State,,Edwina Winter,DEM,53,19,0,0,0,0,34
+Jasper,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Jasper,Ridgeland 1,Secretary of State,,Jason Belton,DEM,30,12,0,0,0,0,18
+Jasper,Ridgeland 1,Secretary of State,,Edwina Winter,DEM,38,21,0,0,0,0,17
+Jasper,Ridgeland 2,Secretary of State,,Jason Belton,DEM,63,23,0,0,0,9,31
+Jasper,Ridgeland 2,Secretary of State,,Edwina Winter,DEM,61,28,0,0,0,2,31
+Jasper,Ridgeland 3,Secretary of State,,Jason Belton,DEM,44,22,0,0,0,5,17
+Jasper,Ridgeland 3,Secretary of State,,Edwina Winter,DEM,47,21,0,0,0,5,21
+Jasper,Sun City,Secretary of State,,Jason Belton,DEM,229,134,0,0,0,8,87
+Jasper,Sun City,Secretary of State,,Edwina Winter,DEM,281,115,0,0,0,14,152
+Jasper,Tillman,Secretary of State,,Jason Belton,DEM,71,28,0,0,0,0,43
+Jasper,Tillman,Secretary of State,,Edwina Winter,DEM,49,18,0,0,0,2,29
+Jasper,Coosawhatchie,State House,122,Maja Moore,DEM,18,6,0,0,0,0,12
+Jasper,Coosawhatchie,State House,122,Korey Williams,DEM,52,19,0,0,0,0,33
+Jasper,Failsafe,State House,122,Maja Moore,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,State House,122,Korey Williams,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State House,122,Maja Moore,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State House,122,Korey Williams,DEM,0,0,0,0,0,0,0
+Jasper,Gillisonville,State House,122,Maja Moore,DEM,36,16,0,0,0,0,20
+Jasper,Gillisonville,State House,122,Korey Williams,DEM,73,37,0,0,0,3,33
+Jasper,Grahamville 1,State House,122,Maja Moore,DEM,65,24,0,0,0,2,39
+Jasper,Grahamville 1,State House,122,Korey Williams,DEM,104,53,0,0,0,4,47
+Jasper,Grahamville 2,State House,122,Maja Moore,DEM,115,36,0,0,0,0,79
+Jasper,Grahamville 2,State House,122,Korey Williams,DEM,235,108,0,0,0,9,118
+Jasper,Grays,State House,122,Maja Moore,DEM,22,9,0,0,0,0,13
+Jasper,Grays,State House,122,Korey Williams,DEM,43,15,0,0,0,1,27
+Jasper,Hardeeville 1,State House,122,Maja Moore,DEM,44,18,0,0,0,2,24
+Jasper,Hardeeville 1,State House,122,Korey Williams,DEM,88,49,0,0,0,2,37
+Jasper,Hardeeville 2,State House,122,Maja Moore,DEM,39,19,0,0,0,0,20
+Jasper,Hardeeville 2,State House,122,Korey Williams,DEM,82,37,0,0,0,0,45
+Jasper,Hardeeville 3,State House,122,Maja Moore,DEM,53,28,0,0,0,2,23
+Jasper,Hardeeville 3,State House,122,Korey Williams,DEM,47,21,0,0,0,0,26
+Jasper,Margaritaville,State House,122,Maja Moore,DEM,210,68,0,0,0,8,134
+Jasper,Margaritaville,State House,122,Korey Williams,DEM,356,174,0,0,0,4,178
+Jasper,Okatie 1,State House,122,Maja Moore,DEM,37,12,0,0,0,1,24
+Jasper,Okatie 1,State House,122,Korey Williams,DEM,39,16,0,0,0,0,23
+Jasper,Pineland,State House,122,Maja Moore,DEM,29,9,0,0,0,0,20
+Jasper,Pineland,State House,122,Korey Williams,DEM,140,43,0,0,0,0,97
+Jasper,Provisional,State House,122,Maja Moore,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,State House,122,Korey Williams,DEM,0,0,0,0,0,0,0
+Jasper,Ridgeland 1,State House,122,Maja Moore,DEM,30,12,0,0,0,0,18
+Jasper,Ridgeland 1,State House,122,Korey Williams,DEM,40,23,0,0,0,0,17
+Jasper,Ridgeland 2,State House,122,Maja Moore,DEM,25,11,0,0,0,0,14
+Jasper,Ridgeland 2,State House,122,Korey Williams,DEM,100,39,0,0,0,11,50
+Jasper,Ridgeland 3,State House,122,Maja Moore,DEM,33,14,0,0,0,3,16
+Jasper,Ridgeland 3,State House,122,Korey Williams,DEM,62,31,0,0,0,6,25
+Jasper,Tillman,State House,122,Maja Moore,DEM,35,9,0,0,0,2,24
+Jasper,Tillman,State House,122,Korey Williams,DEM,89,39,0,0,0,0,50
+Jasper,Failsafe,State House,123,Willie P Aiken,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,State House,123,Ann C Shippy,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State House,123,Willie P Aiken,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State House,123,Ann C Shippy,DEM,0,0,0,0,0,0,0
+Jasper,Levy,State House,123,Willie P Aiken,DEM,272,93,0,0,0,1,178
+Jasper,Levy,State House,123,Ann C Shippy,DEM,20,7,0,0,0,0,13
+Jasper,Provisional,State House,123,Willie P Aiken,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,State House,123,Ann C Shippy,DEM,0,0,0,0,0,0,0
+Jasper,Coosawhatchie,State Superintendent of Education,,Lisa Ellis,DEM,11,5,0,0,0,0,6
+Jasper,Coosawhatchie,State Superintendent of Education,,Sylvia Wright,DEM,56,19,0,0,0,0,37
+Jasper,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Jasper,Gillisonville,State Superintendent of Education,,Lisa Ellis,DEM,35,18,0,0,0,0,17
+Jasper,Gillisonville,State Superintendent of Education,,Sylvia Wright,DEM,72,33,0,0,0,3,36
+Jasper,Grahamville 1,State Superintendent of Education,,Lisa Ellis,DEM,60,28,0,0,0,1,31
+Jasper,Grahamville 1,State Superintendent of Education,,Sylvia Wright,DEM,109,49,0,0,0,5,55
+Jasper,Grahamville 2,State Superintendent of Education,,Lisa Ellis,DEM,98,39,0,0,0,0,59
+Jasper,Grahamville 2,State Superintendent of Education,,Sylvia Wright,DEM,243,97,0,0,0,9,137
+Jasper,Grays,State Superintendent of Education,,Lisa Ellis,DEM,18,7,0,0,0,0,11
+Jasper,Grays,State Superintendent of Education,,Sylvia Wright,DEM,45,18,0,0,0,1,26
+Jasper,Hardeeville 1,State Superintendent of Education,,Lisa Ellis,DEM,37,12,0,0,0,1,24
+Jasper,Hardeeville 1,State Superintendent of Education,,Sylvia Wright,DEM,94,54,0,0,0,3,37
+Jasper,Hardeeville 2,State Superintendent of Education,,Lisa Ellis,DEM,33,17,0,0,0,0,16
+Jasper,Hardeeville 2,State Superintendent of Education,,Sylvia Wright,DEM,88,39,0,0,0,0,49
+Jasper,Hardeeville 3,State Superintendent of Education,,Lisa Ellis,DEM,42,18,0,0,0,0,24
+Jasper,Hardeeville 3,State Superintendent of Education,,Sylvia Wright,DEM,56,30,0,0,0,2,24
+Jasper,Levy,State Superintendent of Education,,Lisa Ellis,DEM,76,22,0,0,0,0,54
+Jasper,Levy,State Superintendent of Education,,Sylvia Wright,DEM,213,75,0,0,0,1,137
+Jasper,Margaritaville,State Superintendent of Education,,Lisa Ellis,DEM,285,117,0,0,0,7,161
+Jasper,Margaritaville,State Superintendent of Education,,Sylvia Wright,DEM,270,123,0,0,0,5,142
+Jasper,Okatie 1,State Superintendent of Education,,Lisa Ellis,DEM,28,9,0,0,0,0,19
+Jasper,Okatie 1,State Superintendent of Education,,Sylvia Wright,DEM,49,20,0,0,0,1,28
+Jasper,Okatie 2,State Superintendent of Education,,Lisa Ellis,DEM,72,39,0,0,0,4,29
+Jasper,Okatie 2,State Superintendent of Education,,Sylvia Wright,DEM,68,39,0,0,0,4,25
+Jasper,Pineland,State Superintendent of Education,,Lisa Ellis,DEM,35,15,0,0,0,0,20
+Jasper,Pineland,State Superintendent of Education,,Sylvia Wright,DEM,132,34,0,0,0,0,98
+Jasper,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Jasper,Ridgeland 1,State Superintendent of Education,,Lisa Ellis,DEM,21,12,0,0,0,0,9
+Jasper,Ridgeland 1,State Superintendent of Education,,Sylvia Wright,DEM,45,20,0,0,0,0,25
+Jasper,Ridgeland 2,State Superintendent of Education,,Lisa Ellis,DEM,31,11,0,0,0,2,18
+Jasper,Ridgeland 2,State Superintendent of Education,,Sylvia Wright,DEM,93,40,0,0,0,8,45
+Jasper,Ridgeland 3,State Superintendent of Education,,Lisa Ellis,DEM,19,10,0,0,0,0,9
+Jasper,Ridgeland 3,State Superintendent of Education,,Sylvia Wright,DEM,75,34,0,0,0,10,31
+Jasper,Sun City,State Superintendent of Education,,Lisa Ellis,DEM,261,129,0,0,0,13,119
+Jasper,Sun City,State Superintendent of Education,,Sylvia Wright,DEM,242,122,0,0,0,8,112
+Jasper,Tillman,State Superintendent of Education,,Lisa Ellis,DEM,31,6,0,0,0,2,23
+Jasper,Tillman,State Superintendent of Education,,Sylvia Wright,DEM,88,39,0,0,0,0,49
+Jasper,Coosawhatchie,State Treasurer,,Vincent Coe,DEM,36,12,0,0,0,0,24
+Jasper,Coosawhatchie,State Treasurer,,Trav Robertson Jr,DEM,33,12,0,0,0,0,21
+Jasper,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Jasper,Gillisonville,State Treasurer,,Vincent Coe,DEM,50,26,0,0,0,0,24
+Jasper,Gillisonville,State Treasurer,,Trav Robertson Jr,DEM,56,24,0,0,0,3,29
+Jasper,Grahamville 1,State Treasurer,,Vincent Coe,DEM,70,26,0,0,0,4,40
+Jasper,Grahamville 1,State Treasurer,,Trav Robertson Jr,DEM,99,52,0,0,0,2,45
+Jasper,Grahamville 2,State Treasurer,,Vincent Coe,DEM,117,51,0,0,0,4,62
+Jasper,Grahamville 2,State Treasurer,,Trav Robertson Jr,DEM,221,85,0,0,0,5,131
+Jasper,Grays,State Treasurer,,Vincent Coe,DEM,33,15,0,0,0,1,17
+Jasper,Grays,State Treasurer,,Trav Robertson Jr,DEM,32,10,0,0,0,0,22
+Jasper,Hardeeville 1,State Treasurer,,Vincent Coe,DEM,49,21,0,0,0,2,26
+Jasper,Hardeeville 1,State Treasurer,,Trav Robertson Jr,DEM,81,46,0,0,0,2,33
+Jasper,Hardeeville 2,State Treasurer,,Vincent Coe,DEM,52,32,0,0,0,0,20
+Jasper,Hardeeville 2,State Treasurer,,Trav Robertson Jr,DEM,67,22,0,0,0,0,45
+Jasper,Hardeeville 3,State Treasurer,,Vincent Coe,DEM,65,31,0,0,0,2,32
+Jasper,Hardeeville 3,State Treasurer,,Trav Robertson Jr,DEM,33,16,0,0,0,0,17
+Jasper,Levy,State Treasurer,,Vincent Coe,DEM,144,58,0,0,0,0,86
+Jasper,Levy,State Treasurer,,Trav Robertson Jr,DEM,144,40,0,0,0,1,103
+Jasper,Margaritaville,State Treasurer,,Vincent Coe,DEM,393,187,0,0,0,7,199
+Jasper,Margaritaville,State Treasurer,,Trav Robertson Jr,DEM,169,56,0,0,0,5,108
+Jasper,Okatie 1,State Treasurer,,Vincent Coe,DEM,48,16,0,0,0,0,32
+Jasper,Okatie 1,State Treasurer,,Trav Robertson Jr,DEM,29,13,0,0,0,1,15
+Jasper,Okatie 2,State Treasurer,,Vincent Coe,DEM,91,44,0,0,0,5,42
+Jasper,Okatie 2,State Treasurer,,Trav Robertson Jr,DEM,46,31,0,0,0,3,12
+Jasper,Pineland,State Treasurer,,Vincent Coe,DEM,53,20,0,0,0,0,33
+Jasper,Pineland,State Treasurer,,Trav Robertson Jr,DEM,112,30,0,0,0,0,82
+Jasper,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Jasper,Ridgeland 1,State Treasurer,,Vincent Coe,DEM,31,12,0,0,0,0,19
+Jasper,Ridgeland 1,State Treasurer,,Trav Robertson Jr,DEM,35,19,0,0,0,0,16
+Jasper,Ridgeland 2,State Treasurer,,Vincent Coe,DEM,54,22,0,0,0,9,23
+Jasper,Ridgeland 2,State Treasurer,,Trav Robertson Jr,DEM,67,29,0,0,0,2,36
+Jasper,Ridgeland 3,State Treasurer,,Vincent Coe,DEM,39,18,0,0,0,8,13
+Jasper,Ridgeland 3,State Treasurer,,Trav Robertson Jr,DEM,53,25,0,0,0,2,26
+Jasper,Sun City,State Treasurer,,Vincent Coe,DEM,354,177,0,0,0,14,163
+Jasper,Sun City,State Treasurer,,Trav Robertson Jr,DEM,147,70,0,0,0,7,70
+Jasper,Tillman,State Treasurer,,Vincent Coe,DEM,56,19,0,0,0,2,35
+Jasper,Tillman,State Treasurer,,Trav Robertson Jr,DEM,63,27,0,0,0,0,36
+Jasper,Failsafe,U.S. House,1,Dan Brown,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Jay Byars,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Jenny Costa Honeycutt,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Logan Cunningham,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Tyler Dykes,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Kendal Ludden,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Sam McCown,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Alex Pelbath,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Cindy Wagers Riley,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Mark Sanford,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Mark Smith,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Francina Dantzler,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Mac Deford,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Max Diaz,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Ben Frasier,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Matthew Fulmer,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Nancy Lacore,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,1,Mayra Rivera-Vazquez,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Dan Brown,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Jay Byars,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Jenny Costa Honeycutt,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Logan Cunningham,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Tyler Dykes,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Kendal Ludden,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Sam McCown,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Alex Pelbath,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Cindy Wagers Riley,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Mark Sanford,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Mark Smith,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Francina Dantzler,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Mac Deford,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Max Diaz,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Ben Frasier,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Matthew Fulmer,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Nancy Lacore,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,1,Mayra Rivera-Vazquez,DEM,0,0,0,0,0,0,0
+Jasper,Okatie 2,U.S. House,1,Dan Brown,REP,19,5,0,0,0,0,14
+Jasper,Okatie 2,U.S. House,1,Jay Byars,REP,14,1,0,0,0,0,13
+Jasper,Okatie 2,U.S. House,1,Jenny Costa Honeycutt,REP,61,16,0,0,0,1,44
+Jasper,Okatie 2,U.S. House,1,Logan Cunningham,REP,36,9,0,0,0,0,27
+Jasper,Okatie 2,U.S. House,1,Tyler Dykes,REP,14,2,0,0,0,0,12
+Jasper,Okatie 2,U.S. House,1,Kendal Ludden,REP,5,1,0,0,0,2,2
+Jasper,Okatie 2,U.S. House,1,Sam McCown,REP,26,9,0,0,0,0,17
+Jasper,Okatie 2,U.S. House,1,Alex Pelbath,REP,36,10,0,0,0,0,26
+Jasper,Okatie 2,U.S. House,1,Cindy Wagers Riley,REP,7,1,0,0,0,0,6
+Jasper,Okatie 2,U.S. House,1,Mark Sanford,REP,33,12,0,0,0,0,21
+Jasper,Okatie 2,U.S. House,1,Mark Smith,REP,63,20,0,0,0,0,43
+Jasper,Okatie 2,U.S. House,1,Francina Dantzler,DEM,12,5,0,0,0,0,7
+Jasper,Okatie 2,U.S. House,1,Mac Deford,DEM,37,21,0,0,0,5,11
+Jasper,Okatie 2,U.S. House,1,Max Diaz,DEM,5,3,0,0,0,0,2
+Jasper,Okatie 2,U.S. House,1,Ben Frasier,DEM,20,15,0,0,0,0,5
+Jasper,Okatie 2,U.S. House,1,Matthew Fulmer,DEM,3,1,0,0,0,0,2
+Jasper,Okatie 2,U.S. House,1,Nancy Lacore,DEM,53,27,0,0,0,5,21
+Jasper,Okatie 2,U.S. House,1,Mayra Rivera-Vazquez,DEM,20,10,0,0,0,0,10
+Jasper,Provisional,U.S. House,1,Dan Brown,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Jay Byars,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Jenny Costa Honeycutt,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Logan Cunningham,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Tyler Dykes,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Kendal Ludden,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Sam McCown,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Alex Pelbath,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Cindy Wagers Riley,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Mark Sanford,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Mark Smith,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Francina Dantzler,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Mac Deford,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Max Diaz,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Ben Frasier,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Matthew Fulmer,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Nancy Lacore,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,1,Mayra Rivera-Vazquez,DEM,0,0,0,0,0,0,0
+Jasper,Sun City,U.S. House,1,Dan Brown,REP,97,31,0,0,0,1,65
+Jasper,Sun City,U.S. House,1,Jay Byars,REP,35,10,0,0,0,1,24
+Jasper,Sun City,U.S. House,1,Jenny Costa Honeycutt,REP,181,43,0,0,0,8,130
+Jasper,Sun City,U.S. House,1,Logan Cunningham,REP,57,17,0,0,0,0,40
+Jasper,Sun City,U.S. House,1,Tyler Dykes,REP,11,0,0,0,0,0,11
+Jasper,Sun City,U.S. House,1,Kendal Ludden,REP,7,1,0,0,0,0,6
+Jasper,Sun City,U.S. House,1,Sam McCown,REP,74,29,0,0,0,2,43
+Jasper,Sun City,U.S. House,1,Alex Pelbath,REP,104,38,0,0,0,0,66
+Jasper,Sun City,U.S. House,1,Cindy Wagers Riley,REP,14,2,0,0,0,1,11
+Jasper,Sun City,U.S. House,1,Mark Sanford,REP,67,16,0,0,0,3,48
+Jasper,Sun City,U.S. House,1,Mark Smith,REP,173,50,0,0,0,5,118
+Jasper,Sun City,U.S. House,1,Francina Dantzler,DEM,21,7,0,0,0,0,14
+Jasper,Sun City,U.S. House,1,Mac Deford,DEM,218,132,0,0,0,10,76
+Jasper,Sun City,U.S. House,1,Max Diaz,DEM,6,3,0,0,0,0,3
+Jasper,Sun City,U.S. House,1,Ben Frasier,DEM,22,10,0,0,0,1,11
+Jasper,Sun City,U.S. House,1,Matthew Fulmer,DEM,7,1,0,0,0,2,4
+Jasper,Sun City,U.S. House,1,Nancy Lacore,DEM,227,96,0,0,0,9,122
+Jasper,Sun City,U.S. House,1,Mayra Rivera-Vazquez,DEM,34,11,0,0,0,0,23
+Jasper,Coosawhatchie,U.S. House,6,John Peterson,REP,14,3,0,0,0,0,11
+Jasper,Coosawhatchie,U.S. House,6,Maurice Washington,REP,8,1,0,0,0,0,7
+Jasper,Coosawhatchie,U.S. House,6,James E Jim Clyburn,DEM,57,22,0,0,0,0,35
+Jasper,Coosawhatchie,U.S. House,6,Frederick R Goodwin,DEM,13,4,0,0,0,0,9
+Jasper,Failsafe,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Jasper,Gillisonville,U.S. House,6,John Peterson,REP,73,15,0,0,0,0,58
+Jasper,Gillisonville,U.S. House,6,Maurice Washington,REP,16,1,0,0,0,0,15
+Jasper,Gillisonville,U.S. House,6,James E Jim Clyburn,DEM,89,45,0,0,0,3,41
+Jasper,Gillisonville,U.S. House,6,Frederick R Goodwin,DEM,20,8,0,0,0,0,12
+Jasper,Grahamville 1,U.S. House,6,John Peterson,REP,155,36,0,0,0,0,119
+Jasper,Grahamville 1,U.S. House,6,Maurice Washington,REP,45,6,0,0,0,0,39
+Jasper,Grahamville 1,U.S. House,6,James E Jim Clyburn,DEM,149,67,0,0,0,6,76
+Jasper,Grahamville 1,U.S. House,6,Frederick R Goodwin,DEM,26,12,0,0,0,0,14
+Jasper,Grahamville 2,U.S. House,6,John Peterson,REP,163,45,0,0,0,0,118
+Jasper,Grahamville 2,U.S. House,6,Maurice Washington,REP,34,10,0,0,0,0,24
+Jasper,Grahamville 2,U.S. House,6,James E Jim Clyburn,DEM,291,122,0,0,0,8,161
+Jasper,Grahamville 2,U.S. House,6,Frederick R Goodwin,DEM,59,22,0,0,0,1,36
+Jasper,Grays,U.S. House,6,John Peterson,REP,121,11,0,0,0,2,108
+Jasper,Grays,U.S. House,6,Maurice Washington,REP,43,6,0,0,0,0,37
+Jasper,Grays,U.S. House,6,James E Jim Clyburn,DEM,50,21,0,0,0,1,28
+Jasper,Grays,U.S. House,6,Frederick R Goodwin,DEM,15,4,0,0,0,0,11
+Jasper,Hardeeville 1,U.S. House,6,John Peterson,REP,63,29,0,0,0,0,34
+Jasper,Hardeeville 1,U.S. House,6,Maurice Washington,REP,19,9,0,0,0,1,9
+Jasper,Hardeeville 1,U.S. House,6,James E Jim Clyburn,DEM,112,59,0,0,0,3,50
+Jasper,Hardeeville 1,U.S. House,6,Frederick R Goodwin,DEM,22,10,0,0,0,1,11
+Jasper,Hardeeville 2,U.S. House,6,John Peterson,REP,60,25,0,0,0,0,35
+Jasper,Hardeeville 2,U.S. House,6,Maurice Washington,REP,15,7,0,0,0,0,8
+Jasper,Hardeeville 2,U.S. House,6,James E Jim Clyburn,DEM,103,50,0,0,0,0,53
+Jasper,Hardeeville 2,U.S. House,6,Frederick R Goodwin,DEM,19,7,0,0,0,0,12
+Jasper,Hardeeville 3,U.S. House,6,John Peterson,REP,164,18,0,0,0,1,145
+Jasper,Hardeeville 3,U.S. House,6,Maurice Washington,REP,58,11,0,0,0,0,47
+Jasper,Hardeeville 3,U.S. House,6,James E Jim Clyburn,DEM,89,46,0,0,0,2,41
+Jasper,Hardeeville 3,U.S. House,6,Frederick R Goodwin,DEM,12,3,0,0,0,0,9
+Jasper,Levy,U.S. House,6,John Peterson,REP,111,26,0,0,0,0,85
+Jasper,Levy,U.S. House,6,Maurice Washington,REP,24,9,0,0,0,0,15
+Jasper,Levy,U.S. House,6,James E Jim Clyburn,DEM,241,93,0,0,0,1,147
+Jasper,Levy,U.S. House,6,Frederick R Goodwin,DEM,48,6,0,0,0,0,42
+Jasper,Margaritaville,U.S. House,6,John Peterson,REP,590,103,0,0,0,6,481
+Jasper,Margaritaville,U.S. House,6,Maurice Washington,REP,369,121,0,0,0,1,247
+Jasper,Margaritaville,U.S. House,6,James E Jim Clyburn,DEM,506,225,0,0,0,12,269
+Jasper,Margaritaville,U.S. House,6,Frederick R Goodwin,DEM,64,17,0,0,0,0,47
+Jasper,Okatie 1,U.S. House,6,John Peterson,REP,68,12,0,0,0,0,56
+Jasper,Okatie 1,U.S. House,6,Maurice Washington,REP,12,5,0,0,0,0,7
+Jasper,Okatie 1,U.S. House,6,James E Jim Clyburn,DEM,66,25,0,0,0,1,40
+Jasper,Okatie 1,U.S. House,6,Frederick R Goodwin,DEM,11,4,0,0,0,0,7
+Jasper,Pineland,U.S. House,6,John Peterson,REP,17,5,0,0,0,0,12
+Jasper,Pineland,U.S. House,6,Maurice Washington,REP,5,0,0,0,0,0,5
+Jasper,Pineland,U.S. House,6,James E Jim Clyburn,DEM,157,49,0,0,0,0,108
+Jasper,Pineland,U.S. House,6,Frederick R Goodwin,DEM,13,3,0,0,0,0,10
+Jasper,Provisional,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,6,Maurice Washington,REP,1,0,0,1,0,0,0
+Jasper,Provisional,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Jasper,Ridgeland 1,U.S. House,6,John Peterson,REP,136,48,0,0,0,0,88
+Jasper,Ridgeland 1,U.S. House,6,Maurice Washington,REP,39,9,0,0,0,0,30
+Jasper,Ridgeland 1,U.S. House,6,James E Jim Clyburn,DEM,51,25,0,0,0,0,26
+Jasper,Ridgeland 1,U.S. House,6,Frederick R Goodwin,DEM,17,8,0,0,0,0,9
+Jasper,Ridgeland 2,U.S. House,6,John Peterson,REP,101,37,0,0,0,0,64
+Jasper,Ridgeland 2,U.S. House,6,Maurice Washington,REP,24,7,0,0,0,0,17
+Jasper,Ridgeland 2,U.S. House,6,James E Jim Clyburn,DEM,102,40,0,0,0,11,51
+Jasper,Ridgeland 2,U.S. House,6,Frederick R Goodwin,DEM,20,10,0,0,0,0,10
+Jasper,Ridgeland 3,U.S. House,6,John Peterson,REP,141,48,0,0,0,2,91
+Jasper,Ridgeland 3,U.S. House,6,Maurice Washington,REP,16,6,0,0,0,0,10
+Jasper,Ridgeland 3,U.S. House,6,James E Jim Clyburn,DEM,83,43,0,0,0,9,31
+Jasper,Ridgeland 3,U.S. House,6,Frederick R Goodwin,DEM,16,5,0,0,0,0,11
+Jasper,Tillman,U.S. House,6,John Peterson,REP,74,13,0,0,0,0,61
+Jasper,Tillman,U.S. House,6,Maurice Washington,REP,7,0,0,0,0,0,7
+Jasper,Tillman,U.S. House,6,James E Jim Clyburn,DEM,103,44,0,0,0,2,57
+Jasper,Tillman,U.S. House,6,Frederick R Goodwin,DEM,18,5,0,0,0,0,13
+Jasper,Coosawhatchie,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Jasper,Coosawhatchie,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Jasper,Coosawhatchie,U.S. Senate,,Lindsey Graham,REP,14,2,0,0,0,0,12
+Jasper,Coosawhatchie,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Jasper,Coosawhatchie,U.S. Senate,,Mark Lynch,REP,7,2,0,0,0,0,5
+Jasper,Coosawhatchie,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Jasper,Coosawhatchie,U.S. Senate,,Annie Andrews,DEM,22,8,0,0,0,0,14
+Jasper,Coosawhatchie,U.S. Senate,,Brandon P Brown,DEM,34,11,0,0,0,0,23
+Jasper,Coosawhatchie,U.S. Senate,,Kyle Freeman,DEM,12,5,0,0,0,0,7
+Jasper,Failsafe,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Jasper,Gillisonville,U.S. Senate,,Calvin Cowen,REP,5,0,0,0,0,0,5
+Jasper,Gillisonville,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Jasper,Gillisonville,U.S. Senate,,Lindsey Graham,REP,69,24,0,0,0,0,45
+Jasper,Gillisonville,U.S. Senate,,Pat Herrmann,REP,2,1,0,0,0,0,1
+Jasper,Gillisonville,U.S. Senate,,Mark Lynch,REP,24,2,0,0,0,0,22
+Jasper,Gillisonville,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,0,3
+Jasper,Gillisonville,U.S. Senate,,Annie Andrews,DEM,42,21,0,0,0,3,18
+Jasper,Gillisonville,U.S. Senate,,Brandon P Brown,DEM,49,26,0,0,0,0,23
+Jasper,Gillisonville,U.S. Senate,,Kyle Freeman,DEM,14,4,0,0,0,0,10
+Jasper,Grahamville 1,U.S. Senate,,Calvin Cowen,REP,5,0,0,0,0,0,5
+Jasper,Grahamville 1,U.S. Senate,,Thomas Keith Dismukes,REP,22,2,0,0,0,0,20
+Jasper,Grahamville 1,U.S. Senate,,Lindsey Graham,REP,133,31,0,0,0,0,102
+Jasper,Grahamville 1,U.S. Senate,,Pat Herrmann,REP,12,3,0,0,0,0,9
+Jasper,Grahamville 1,U.S. Senate,,Mark Lynch,REP,41,6,0,0,0,0,35
+Jasper,Grahamville 1,U.S. Senate,,Darius L Mitchell,REP,6,2,0,0,0,0,4
+Jasper,Grahamville 1,U.S. Senate,,Annie Andrews,DEM,78,34,0,0,0,4,40
+Jasper,Grahamville 1,U.S. Senate,,Brandon P Brown,DEM,57,26,0,0,0,1,30
+Jasper,Grahamville 1,U.S. Senate,,Kyle Freeman,DEM,35,17,0,0,0,1,17
+Jasper,Grahamville 2,U.S. Senate,,Calvin Cowen,REP,12,6,0,0,0,0,6
+Jasper,Grahamville 2,U.S. Senate,,Thomas Keith Dismukes,REP,8,6,0,0,0,0,2
+Jasper,Grahamville 2,U.S. Senate,,Lindsey Graham,REP,145,31,0,0,0,0,114
+Jasper,Grahamville 2,U.S. Senate,,Pat Herrmann,REP,4,2,0,0,0,0,2
+Jasper,Grahamville 2,U.S. Senate,,Mark Lynch,REP,46,12,0,0,0,0,34
+Jasper,Grahamville 2,U.S. Senate,,Darius L Mitchell,REP,8,1,0,0,0,0,7
+Jasper,Grahamville 2,U.S. Senate,,Annie Andrews,DEM,149,64,0,0,0,5,80
+Jasper,Grahamville 2,U.S. Senate,,Brandon P Brown,DEM,127,49,0,0,0,4,74
+Jasper,Grahamville 2,U.S. Senate,,Kyle Freeman,DEM,63,22,0,0,0,0,41
+Jasper,Grays,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Jasper,Grays,U.S. Senate,,Thomas Keith Dismukes,REP,9,0,0,0,0,0,9
+Jasper,Grays,U.S. Senate,,Lindsey Graham,REP,134,15,0,0,0,2,117
+Jasper,Grays,U.S. Senate,,Pat Herrmann,REP,6,0,0,0,0,0,6
+Jasper,Grays,U.S. Senate,,Mark Lynch,REP,25,3,0,0,0,0,22
+Jasper,Grays,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Jasper,Grays,U.S. Senate,,Annie Andrews,DEM,25,8,0,0,0,0,17
+Jasper,Grays,U.S. Senate,,Brandon P Brown,DEM,32,14,0,0,0,1,17
+Jasper,Grays,U.S. Senate,,Kyle Freeman,DEM,8,3,0,0,0,0,5
+Jasper,Hardeeville 1,U.S. Senate,,Calvin Cowen,REP,5,1,0,0,0,0,4
+Jasper,Hardeeville 1,U.S. Senate,,Thomas Keith Dismukes,REP,3,1,0,0,0,0,2
+Jasper,Hardeeville 1,U.S. Senate,,Lindsey Graham,REP,60,31,0,0,0,1,28
+Jasper,Hardeeville 1,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Jasper,Hardeeville 1,U.S. Senate,,Mark Lynch,REP,13,5,0,0,0,0,8
+Jasper,Hardeeville 1,U.S. Senate,,Darius L Mitchell,REP,3,1,0,0,0,0,2
+Jasper,Hardeeville 1,U.S. Senate,,Annie Andrews,DEM,67,39,0,0,0,2,26
+Jasper,Hardeeville 1,U.S. Senate,,Brandon P Brown,DEM,50,24,0,0,0,1,25
+Jasper,Hardeeville 1,U.S. Senate,,Kyle Freeman,DEM,13,3,0,0,0,1,9
+Jasper,Hardeeville 2,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Jasper,Hardeeville 2,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Jasper,Hardeeville 2,U.S. Senate,,Lindsey Graham,REP,61,29,0,0,0,0,32
+Jasper,Hardeeville 2,U.S. Senate,,Pat Herrmann,REP,3,2,0,0,0,0,1
+Jasper,Hardeeville 2,U.S. Senate,,Mark Lynch,REP,10,1,0,0,0,0,9
+Jasper,Hardeeville 2,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Jasper,Hardeeville 2,U.S. Senate,,Annie Andrews,DEM,54,25,0,0,0,0,29
+Jasper,Hardeeville 2,U.S. Senate,,Brandon P Brown,DEM,51,23,0,0,0,0,28
+Jasper,Hardeeville 2,U.S. Senate,,Kyle Freeman,DEM,14,8,0,0,0,0,6
+Jasper,Hardeeville 3,U.S. Senate,,Calvin Cowen,REP,9,3,0,0,0,0,6
+Jasper,Hardeeville 3,U.S. Senate,,Thomas Keith Dismukes,REP,13,2,0,0,0,0,11
+Jasper,Hardeeville 3,U.S. Senate,,Lindsey Graham,REP,155,15,0,0,0,0,140
+Jasper,Hardeeville 3,U.S. Senate,,Pat Herrmann,REP,14,6,0,0,0,0,8
+Jasper,Hardeeville 3,U.S. Senate,,Mark Lynch,REP,47,2,0,0,0,0,45
+Jasper,Hardeeville 3,U.S. Senate,,Darius L Mitchell,REP,8,2,0,0,0,0,6
+Jasper,Hardeeville 3,U.S. Senate,,Annie Andrews,DEM,81,37,0,0,0,2,42
+Jasper,Hardeeville 3,U.S. Senate,,Brandon P Brown,DEM,11,6,0,0,0,0,5
+Jasper,Hardeeville 3,U.S. Senate,,Kyle Freeman,DEM,9,5,0,0,0,0,4
+Jasper,Levy,U.S. Senate,,Calvin Cowen,REP,4,2,0,0,0,0,2
+Jasper,Levy,U.S. Senate,,Thomas Keith Dismukes,REP,6,0,0,0,0,0,6
+Jasper,Levy,U.S. Senate,,Lindsey Graham,REP,100,26,0,0,0,0,74
+Jasper,Levy,U.S. Senate,,Pat Herrmann,REP,7,1,0,0,0,0,6
+Jasper,Levy,U.S. Senate,,Mark Lynch,REP,24,9,0,0,0,0,15
+Jasper,Levy,U.S. Senate,,Darius L Mitchell,REP,3,1,0,0,0,0,2
+Jasper,Levy,U.S. Senate,,Annie Andrews,DEM,100,37,0,0,0,0,63
+Jasper,Levy,U.S. Senate,,Brandon P Brown,DEM,170,54,0,0,0,1,115
+Jasper,Levy,U.S. Senate,,Kyle Freeman,DEM,20,7,0,0,0,0,13
+Jasper,Margaritaville,U.S. Senate,,Calvin Cowen,REP,40,4,0,0,0,0,36
+Jasper,Margaritaville,U.S. Senate,,Thomas Keith Dismukes,REP,43,10,0,0,0,1,32
+Jasper,Margaritaville,U.S. Senate,,Lindsey Graham,REP,597,133,0,0,0,2,462
+Jasper,Margaritaville,U.S. Senate,,Pat Herrmann,REP,47,10,0,0,0,0,37
+Jasper,Margaritaville,U.S. Senate,,Mark Lynch,REP,296,72,0,0,0,4,220
+Jasper,Margaritaville,U.S. Senate,,Darius L Mitchell,REP,31,14,0,0,0,0,17
+Jasper,Margaritaville,U.S. Senate,,Annie Andrews,DEM,506,232,0,0,0,11,263
+Jasper,Margaritaville,U.S. Senate,,Brandon P Brown,DEM,49,6,0,0,0,0,43
+Jasper,Margaritaville,U.S. Senate,,Kyle Freeman,DEM,25,7,0,0,0,1,17
+Jasper,Okatie 1,U.S. Senate,,Calvin Cowen,REP,5,0,0,0,0,0,5
+Jasper,Okatie 1,U.S. Senate,,Thomas Keith Dismukes,REP,7,0,0,0,0,0,7
+Jasper,Okatie 1,U.S. Senate,,Lindsey Graham,REP,48,12,0,0,0,0,36
+Jasper,Okatie 1,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Jasper,Okatie 1,U.S. Senate,,Mark Lynch,REP,27,9,0,0,0,0,18
+Jasper,Okatie 1,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Jasper,Okatie 1,U.S. Senate,,Annie Andrews,DEM,39,11,0,0,0,1,27
+Jasper,Okatie 1,U.S. Senate,,Brandon P Brown,DEM,29,13,0,0,0,0,16
+Jasper,Okatie 1,U.S. Senate,,Kyle Freeman,DEM,9,4,0,0,0,0,5
+Jasper,Okatie 2,U.S. Senate,,Calvin Cowen,REP,9,3,0,0,0,0,6
+Jasper,Okatie 2,U.S. Senate,,Thomas Keith Dismukes,REP,19,3,0,0,0,0,16
+Jasper,Okatie 2,U.S. Senate,,Lindsey Graham,REP,224,57,0,0,0,3,164
+Jasper,Okatie 2,U.S. Senate,,Pat Herrmann,REP,6,1,0,0,0,0,5
+Jasper,Okatie 2,U.S. Senate,,Mark Lynch,REP,74,23,0,0,0,0,51
+Jasper,Okatie 2,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,0,3
+Jasper,Okatie 2,U.S. Senate,,Annie Andrews,DEM,114,61,0,0,0,9,44
+Jasper,Okatie 2,U.S. Senate,,Brandon P Brown,DEM,27,13,0,0,0,0,14
+Jasper,Okatie 2,U.S. Senate,,Kyle Freeman,DEM,12,11,0,0,0,1,0
+Jasper,Pineland,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Jasper,Pineland,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Jasper,Pineland,U.S. Senate,,Lindsey Graham,REP,10,4,0,0,0,0,6
+Jasper,Pineland,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Jasper,Pineland,U.S. Senate,,Mark Lynch,REP,6,1,0,0,0,0,5
+Jasper,Pineland,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Jasper,Pineland,U.S. Senate,,Annie Andrews,DEM,101,30,0,0,0,0,71
+Jasper,Pineland,U.S. Senate,,Brandon P Brown,DEM,58,19,0,0,0,0,39
+Jasper,Pineland,U.S. Senate,,Kyle Freeman,DEM,9,1,0,0,0,0,8
+Jasper,Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. Senate,,Lindsey Graham,REP,1,0,0,1,0,0,0
+Jasper,Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Jasper,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Jasper,Ridgeland 1,U.S. Senate,,Calvin Cowen,REP,7,1,0,0,0,0,6
+Jasper,Ridgeland 1,U.S. Senate,,Thomas Keith Dismukes,REP,8,4,0,0,0,0,4
+Jasper,Ridgeland 1,U.S. Senate,,Lindsey Graham,REP,106,43,0,0,0,0,63
+Jasper,Ridgeland 1,U.S. Senate,,Pat Herrmann,REP,8,2,0,0,0,0,6
+Jasper,Ridgeland 1,U.S. Senate,,Mark Lynch,REP,49,10,0,0,0,0,39
+Jasper,Ridgeland 1,U.S. Senate,,Darius L Mitchell,REP,8,1,0,0,0,0,7
+Jasper,Ridgeland 1,U.S. Senate,,Annie Andrews,DEM,41,20,0,0,0,0,21
+Jasper,Ridgeland 1,U.S. Senate,,Brandon P Brown,DEM,19,9,0,0,0,0,10
+Jasper,Ridgeland 1,U.S. Senate,,Kyle Freeman,DEM,8,4,0,0,0,0,4
+Jasper,Ridgeland 2,U.S. Senate,,Calvin Cowen,REP,5,1,0,0,0,0,4
+Jasper,Ridgeland 2,U.S. Senate,,Thomas Keith Dismukes,REP,2,2,0,0,0,0,0
+Jasper,Ridgeland 2,U.S. Senate,,Lindsey Graham,REP,74,32,0,0,0,0,42
+Jasper,Ridgeland 2,U.S. Senate,,Pat Herrmann,REP,5,2,0,0,0,0,3
+Jasper,Ridgeland 2,U.S. Senate,,Mark Lynch,REP,48,14,0,0,0,0,34
+Jasper,Ridgeland 2,U.S. Senate,,Darius L Mitchell,REP,6,0,0,0,0,0,6
+Jasper,Ridgeland 2,U.S. Senate,,Annie Andrews,DEM,56,23,0,0,0,1,32
+Jasper,Ridgeland 2,U.S. Senate,,Brandon P Brown,DEM,50,21,0,0,0,7,22
+Jasper,Ridgeland 2,U.S. Senate,,Kyle Freeman,DEM,19,7,0,0,0,2,10
+Jasper,Ridgeland 3,U.S. Senate,,Calvin Cowen,REP,5,1,0,0,0,0,4
+Jasper,Ridgeland 3,U.S. Senate,,Thomas Keith Dismukes,REP,9,2,0,0,0,0,7
+Jasper,Ridgeland 3,U.S. Senate,,Lindsey Graham,REP,125,43,0,0,0,1,81
+Jasper,Ridgeland 3,U.S. Senate,,Pat Herrmann,REP,5,2,0,0,0,1,2
+Jasper,Ridgeland 3,U.S. Senate,,Mark Lynch,REP,31,9,0,0,0,0,22
+Jasper,Ridgeland 3,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,1,2
+Jasper,Ridgeland 3,U.S. Senate,,Annie Andrews,DEM,32,17,0,0,0,2,13
+Jasper,Ridgeland 3,U.S. Senate,,Brandon P Brown,DEM,52,21,0,0,0,8,23
+Jasper,Ridgeland 3,U.S. Senate,,Kyle Freeman,DEM,12,8,0,0,0,0,4
+Jasper,Sun City,U.S. Senate,,Calvin Cowen,REP,29,7,0,0,0,0,22
+Jasper,Sun City,U.S. Senate,,Thomas Keith Dismukes,REP,57,20,0,0,0,4,33
+Jasper,Sun City,U.S. Senate,,Lindsey Graham,REP,586,155,0,0,0,15,416
+Jasper,Sun City,U.S. Senate,,Pat Herrmann,REP,31,12,0,0,0,1,18
+Jasper,Sun City,U.S. Senate,,Mark Lynch,REP,146,47,0,0,0,0,99
+Jasper,Sun City,U.S. Senate,,Darius L Mitchell,REP,16,3,0,0,0,0,13
+Jasper,Sun City,U.S. Senate,,Annie Andrews,DEM,461,223,0,0,0,20,218
+Jasper,Sun City,U.S. Senate,,Brandon P Brown,DEM,32,18,0,0,0,1,13
+Jasper,Sun City,U.S. Senate,,Kyle Freeman,DEM,39,17,0,0,0,1,21
+Jasper,Tillman,U.S. Senate,,Calvin Cowen,REP,3,1,0,0,0,0,2
+Jasper,Tillman,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Jasper,Tillman,U.S. Senate,,Lindsey Graham,REP,57,11,0,0,0,0,46
+Jasper,Tillman,U.S. Senate,,Pat Herrmann,REP,5,0,0,0,0,0,5
+Jasper,Tillman,U.S. Senate,,Mark Lynch,REP,16,1,0,0,0,0,15
+Jasper,Tillman,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,0,3
+Jasper,Tillman,U.S. Senate,,Annie Andrews,DEM,53,15,0,0,0,2,36
+Jasper,Tillman,U.S. Senate,,Brandon P Brown,DEM,52,25,0,0,0,0,27
+Jasper,Tillman,U.S. Senate,,Kyle Freeman,DEM,17,8,0,0,0,0,9

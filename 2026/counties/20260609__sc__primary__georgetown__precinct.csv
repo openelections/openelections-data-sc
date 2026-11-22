@@ -1,0 +1,1473 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Georgetown,ANDREWS,Advisory Question 1,,Yes,REP,78,30,0,0,0,0,48
+Georgetown,ANDREWS,Advisory Question 1,,No,REP,8,2,0,0,0,0,6
+Georgetown,ANDREWS OUTSIDE,Advisory Question 1,,Yes,REP,67,16,0,0,0,0,51
+Georgetown,ANDREWS OUTSIDE,Advisory Question 1,,No,REP,6,1,0,0,0,0,5
+Georgetown,BETHEL,Advisory Question 1,,Yes,REP,103,23,0,0,0,0,80
+Georgetown,BETHEL,Advisory Question 1,,No,REP,15,2,0,0,0,0,13
+Georgetown,BLACK RIVER,Advisory Question 1,,Yes,REP,275,113,0,0,0,2,160
+Georgetown,BLACK RIVER,Advisory Question 1,,No,REP,24,10,0,0,0,0,14
+Georgetown,BROWN'S FERRY,Advisory Question 1,,Yes,REP,58,14,0,0,0,0,44
+Georgetown,BROWN'S FERRY,Advisory Question 1,,No,REP,7,3,0,0,0,0,4
+Georgetown,CARVER'S BAY,Advisory Question 1,,Yes,REP,20,1,0,0,0,0,19
+Georgetown,CARVER'S BAY,Advisory Question 1,,No,REP,3,1,0,0,0,0,2
+Georgetown,CHOPPEE,Advisory Question 1,,Yes,REP,60,9,0,0,0,2,49
+Georgetown,CHOPPEE,Advisory Question 1,,No,REP,7,1,0,0,0,0,6
+Georgetown,DREAM KEEPERS,Advisory Question 1,,Yes,REP,4,2,0,0,0,0,2
+Georgetown,DREAM KEEPERS,Advisory Question 1,,No,REP,2,2,0,0,0,0,0
+Georgetown,FOLLY GROVE,Advisory Question 1,,Yes,REP,119,6,0,0,0,0,113
+Georgetown,FOLLY GROVE,Advisory Question 1,,No,REP,13,1,0,0,0,0,12
+Georgetown,Failsafe,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Advisory Question 1,,No,REP,1,0,1,0,0,0,0
+Georgetown,GEORGETOWN NO. 1,Advisory Question 1,,Yes,REP,148,43,0,0,0,2,103
+Georgetown,GEORGETOWN NO. 1,Advisory Question 1,,No,REP,37,8,0,0,0,0,29
+Georgetown,GEORGETOWN NO. 3,Advisory Question 1,,Yes,REP,23,4,0,0,0,1,18
+Georgetown,GEORGETOWN NO. 3,Advisory Question 1,,No,REP,5,0,0,0,0,0,5
+Georgetown,GEORGETOWN NO. 4,Advisory Question 1,,Yes,REP,76,17,0,0,0,2,57
+Georgetown,GEORGETOWN NO. 4,Advisory Question 1,,No,REP,24,4,0,0,0,0,20
+Georgetown,GEORGETOWN NO. 5,Advisory Question 1,,Yes,REP,203,49,0,0,0,0,154
+Georgetown,GEORGETOWN NO. 5,Advisory Question 1,,No,REP,28,6,0,0,0,1,21
+Georgetown,KENSINGTON,Advisory Question 1,,Yes,REP,174,42,0,0,0,2,130
+Georgetown,KENSINGTON,Advisory Question 1,,No,REP,24,9,0,0,0,0,15
+Georgetown,LAMBERT TOWN,Advisory Question 1,,Yes,REP,67,2,0,0,0,0,65
+Georgetown,LAMBERT TOWN,Advisory Question 1,,No,REP,13,0,0,0,0,0,13
+Georgetown,MURRELL'S INLET NO. 1,Advisory Question 1,,Yes,REP,731,248,0,0,0,9,474
+Georgetown,MURRELL'S INLET NO. 1,Advisory Question 1,,No,REP,57,27,0,0,0,1,29
+Georgetown,MURRELL'S INLET NO. 2,Advisory Question 1,,Yes,REP,342,93,0,0,0,2,247
+Georgetown,MURRELL'S INLET NO. 2,Advisory Question 1,,No,REP,23,7,0,0,0,0,16
+Georgetown,MURRELL'S INLET NO. 3,Advisory Question 1,,Yes,REP,167,46,0,0,0,0,121
+Georgetown,MURRELL'S INLET NO. 3,Advisory Question 1,,No,REP,16,6,0,0,0,0,10
+Georgetown,MURRELL'S INLET NO. 4,Advisory Question 1,,Yes,REP,344,71,0,0,0,5,268
+Georgetown,MURRELL'S INLET NO. 4,Advisory Question 1,,No,REP,31,11,0,0,0,0,20
+Georgetown,MYERSVILLE,Advisory Question 1,,Yes,REP,6,0,0,0,0,0,6
+Georgetown,MYERSVILLE,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Georgetown,PAWLEY'S ISLAND NO. 1,Advisory Question 1,,Yes,REP,1050,555,0,0,0,21,474
+Georgetown,PAWLEY'S ISLAND NO. 1,Advisory Question 1,,No,REP,130,74,0,0,0,1,55
+Georgetown,PAWLEY'S ISLAND NO. 2,Advisory Question 1,,Yes,REP,661,336,0,0,0,4,321
+Georgetown,PAWLEY'S ISLAND NO. 2,Advisory Question 1,,No,REP,81,45,0,0,0,2,34
+Georgetown,PAWLEY'S ISLAND NO. 3,Advisory Question 1,,Yes,REP,585,235,0,0,0,1,349
+Georgetown,PAWLEY'S ISLAND NO. 3,Advisory Question 1,,No,REP,70,30,0,0,0,0,40
+Georgetown,PAWLEY'S ISLAND NO. 4,Advisory Question 1,,Yes,REP,688,274,0,0,0,5,409
+Georgetown,PAWLEY'S ISLAND NO. 4,Advisory Question 1,,No,REP,87,38,0,0,0,3,46
+Georgetown,PAWLEY'S ISLAND NO. 5,Advisory Question 1,,Yes,REP,920,476,0,0,0,12,432
+Georgetown,PAWLEY'S ISLAND NO. 5,Advisory Question 1,,No,REP,95,42,0,0,0,2,51
+Georgetown,PEE DEE,Advisory Question 1,,Yes,REP,43,23,0,0,0,0,20
+Georgetown,PEE DEE,Advisory Question 1,,No,REP,2,0,0,0,0,0,2
+Georgetown,PENNY ROYAL,Advisory Question 1,,Yes,REP,57,13,0,0,0,2,42
+Georgetown,PENNY ROYAL,Advisory Question 1,,No,REP,8,1,0,0,0,0,7
+Georgetown,PLANTERSVILLE,Advisory Question 1,,Yes,REP,39,15,0,0,0,0,24
+Georgetown,PLANTERSVILLE,Advisory Question 1,,No,REP,3,0,0,0,0,0,3
+Georgetown,PLEASANT HILL,Advisory Question 1,,Yes,REP,99,10,0,0,0,1,88
+Georgetown,PLEASANT HILL,Advisory Question 1,,No,REP,11,0,0,0,0,0,11
+Georgetown,POTATO BED FERRY,Advisory Question 1,,Yes,REP,80,14,0,0,0,0,66
+Georgetown,POTATO BED FERRY,Advisory Question 1,,No,REP,9,0,0,0,0,0,9
+Georgetown,Provisional,Advisory Question 1,,Yes,REP,3,0,0,3,0,0,0
+Georgetown,Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Georgetown,SAMPIT,Advisory Question 1,,Yes,REP,23,4,0,0,0,0,19
+Georgetown,SAMPIT,Advisory Question 1,,No,REP,2,0,0,0,0,0,2
+Georgetown,SANTEE,Advisory Question 1,,Yes,REP,23,4,0,0,0,0,19
+Georgetown,SANTEE,Advisory Question 1,,No,REP,2,0,0,0,0,0,2
+Georgetown,SPRING GULLY,Advisory Question 1,,Yes,REP,94,28,0,0,0,0,66
+Georgetown,SPRING GULLY,Advisory Question 1,,No,REP,9,3,0,0,0,0,6
+Georgetown,WINYAH BAY,Advisory Question 1,,Yes,REP,166,54,0,0,0,1,111
+Georgetown,WINYAH BAY,Advisory Question 1,,No,REP,10,3,0,0,0,0,7
+Georgetown,ANDREWS,Advisory Question 2,,Yes,REP,71,28,0,0,0,0,43
+Georgetown,ANDREWS,Advisory Question 2,,No,REP,16,5,0,0,0,0,11
+Georgetown,ANDREWS OUTSIDE,Advisory Question 2,,Yes,REP,58,14,0,0,0,0,44
+Georgetown,ANDREWS OUTSIDE,Advisory Question 2,,No,REP,15,3,0,0,0,0,12
+Georgetown,BETHEL,Advisory Question 2,,Yes,REP,92,23,0,0,0,0,69
+Georgetown,BETHEL,Advisory Question 2,,No,REP,25,2,0,0,0,0,23
+Georgetown,BLACK RIVER,Advisory Question 2,,Yes,REP,229,93,0,0,0,2,134
+Georgetown,BLACK RIVER,Advisory Question 2,,No,REP,70,28,0,0,0,0,42
+Georgetown,BROWN'S FERRY,Advisory Question 2,,Yes,REP,51,14,0,0,0,0,37
+Georgetown,BROWN'S FERRY,Advisory Question 2,,No,REP,14,3,0,0,0,0,11
+Georgetown,CARVER'S BAY,Advisory Question 2,,Yes,REP,20,1,0,0,0,0,19
+Georgetown,CARVER'S BAY,Advisory Question 2,,No,REP,4,1,0,0,0,0,3
+Georgetown,CHOPPEE,Advisory Question 2,,Yes,REP,56,8,0,0,0,2,46
+Georgetown,CHOPPEE,Advisory Question 2,,No,REP,11,2,0,0,0,0,9
+Georgetown,DREAM KEEPERS,Advisory Question 2,,Yes,REP,4,2,0,0,0,0,2
+Georgetown,DREAM KEEPERS,Advisory Question 2,,No,REP,2,2,0,0,0,0,0
+Georgetown,FOLLY GROVE,Advisory Question 2,,Yes,REP,102,4,0,0,0,0,98
+Georgetown,FOLLY GROVE,Advisory Question 2,,No,REP,31,3,0,0,0,0,28
+Georgetown,Failsafe,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Advisory Question 2,,Yes,REP,1,0,1,0,0,0,0
+Georgetown,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 1,Advisory Question 2,,Yes,REP,115,28,0,0,0,2,85
+Georgetown,GEORGETOWN NO. 1,Advisory Question 2,,No,REP,68,24,0,0,0,0,44
+Georgetown,GEORGETOWN NO. 3,Advisory Question 2,,Yes,REP,21,3,0,0,0,1,17
+Georgetown,GEORGETOWN NO. 3,Advisory Question 2,,No,REP,7,1,0,0,0,0,6
+Georgetown,GEORGETOWN NO. 4,Advisory Question 2,,Yes,REP,69,15,0,0,0,2,52
+Georgetown,GEORGETOWN NO. 4,Advisory Question 2,,No,REP,31,6,0,0,0,0,25
+Georgetown,GEORGETOWN NO. 5,Advisory Question 2,,Yes,REP,175,40,0,0,0,0,135
+Georgetown,GEORGETOWN NO. 5,Advisory Question 2,,No,REP,55,14,0,0,0,1,40
+Georgetown,KENSINGTON,Advisory Question 2,,Yes,REP,147,40,0,0,0,2,105
+Georgetown,KENSINGTON,Advisory Question 2,,No,REP,45,10,0,0,0,0,35
+Georgetown,LAMBERT TOWN,Advisory Question 2,,Yes,REP,55,2,0,0,0,0,53
+Georgetown,LAMBERT TOWN,Advisory Question 2,,No,REP,25,0,0,0,0,0,25
+Georgetown,MURRELL'S INLET NO. 1,Advisory Question 2,,Yes,REP,650,216,0,0,0,8,426
+Georgetown,MURRELL'S INLET NO. 1,Advisory Question 2,,No,REP,140,60,0,0,0,2,78
+Georgetown,MURRELL'S INLET NO. 2,Advisory Question 2,,Yes,REP,285,82,0,0,0,1,202
+Georgetown,MURRELL'S INLET NO. 2,Advisory Question 2,,No,REP,77,16,0,0,0,1,60
+Georgetown,MURRELL'S INLET NO. 3,Advisory Question 2,,Yes,REP,159,47,0,0,0,0,112
+Georgetown,MURRELL'S INLET NO. 3,Advisory Question 2,,No,REP,24,5,0,0,0,0,19
+Georgetown,MURRELL'S INLET NO. 4,Advisory Question 2,,Yes,REP,298,65,0,0,0,3,230
+Georgetown,MURRELL'S INLET NO. 4,Advisory Question 2,,No,REP,77,18,0,0,0,2,57
+Georgetown,MYERSVILLE,Advisory Question 2,,Yes,REP,6,0,0,0,0,0,6
+Georgetown,MYERSVILLE,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Georgetown,PAWLEY'S ISLAND NO. 1,Advisory Question 2,,Yes,REP,834,447,0,0,0,11,376
+Georgetown,PAWLEY'S ISLAND NO. 1,Advisory Question 2,,No,REP,337,177,0,0,0,11,149
+Georgetown,PAWLEY'S ISLAND NO. 2,Advisory Question 2,,Yes,REP,560,284,0,0,0,1,275
+Georgetown,PAWLEY'S ISLAND NO. 2,Advisory Question 2,,No,REP,179,93,0,0,0,5,81
+Georgetown,PAWLEY'S ISLAND NO. 3,Advisory Question 2,,Yes,REP,522,205,0,0,0,1,316
+Georgetown,PAWLEY'S ISLAND NO. 3,Advisory Question 2,,No,REP,132,59,0,0,0,0,73
+Georgetown,PAWLEY'S ISLAND NO. 4,Advisory Question 2,,Yes,REP,602,239,0,0,0,7,356
+Georgetown,PAWLEY'S ISLAND NO. 4,Advisory Question 2,,No,REP,169,72,0,0,0,1,96
+Georgetown,PAWLEY'S ISLAND NO. 5,Advisory Question 2,,Yes,REP,771,392,0,0,0,11,368
+Georgetown,PAWLEY'S ISLAND NO. 5,Advisory Question 2,,No,REP,240,127,0,0,0,1,112
+Georgetown,PEE DEE,Advisory Question 2,,Yes,REP,38,21,0,0,0,0,17
+Georgetown,PEE DEE,Advisory Question 2,,No,REP,7,2,0,0,0,0,5
+Georgetown,PENNY ROYAL,Advisory Question 2,,Yes,REP,51,9,0,0,0,2,40
+Georgetown,PENNY ROYAL,Advisory Question 2,,No,REP,14,5,0,0,0,0,9
+Georgetown,PLANTERSVILLE,Advisory Question 2,,Yes,REP,35,15,0,0,0,0,20
+Georgetown,PLANTERSVILLE,Advisory Question 2,,No,REP,7,0,0,0,0,0,7
+Georgetown,PLEASANT HILL,Advisory Question 2,,Yes,REP,83,8,0,0,0,1,74
+Georgetown,PLEASANT HILL,Advisory Question 2,,No,REP,28,2,0,0,0,0,26
+Georgetown,POTATO BED FERRY,Advisory Question 2,,Yes,REP,72,12,0,0,0,0,60
+Georgetown,POTATO BED FERRY,Advisory Question 2,,No,REP,17,2,0,0,0,0,15
+Georgetown,Provisional,Advisory Question 2,,Yes,REP,2,0,0,2,0,0,0
+Georgetown,Provisional,Advisory Question 2,,No,REP,1,0,0,1,0,0,0
+Georgetown,SAMPIT,Advisory Question 2,,Yes,REP,22,4,0,0,0,0,18
+Georgetown,SAMPIT,Advisory Question 2,,No,REP,3,0,0,0,0,0,3
+Georgetown,SANTEE,Advisory Question 2,,Yes,REP,19,3,0,0,0,0,16
+Georgetown,SANTEE,Advisory Question 2,,No,REP,6,1,0,0,0,0,5
+Georgetown,SPRING GULLY,Advisory Question 2,,Yes,REP,84,25,0,0,0,0,59
+Georgetown,SPRING GULLY,Advisory Question 2,,No,REP,18,5,0,0,0,0,13
+Georgetown,WINYAH BAY,Advisory Question 2,,Yes,REP,137,43,0,0,0,1,93
+Georgetown,WINYAH BAY,Advisory Question 2,,No,REP,38,14,0,0,0,0,24
+Georgetown,ANDREWS,Attorney General,,Stephen Goldfinch,REP,66,26,0,0,0,0,40
+Georgetown,ANDREWS,Attorney General,,David M Pascoe,REP,11,5,0,0,0,0,6
+Georgetown,ANDREWS,Attorney General,,David Stumbo,REP,9,1,0,0,0,0,8
+Georgetown,ANDREWS OUTSIDE,Attorney General,,Stephen Goldfinch,REP,54,15,0,0,0,0,39
+Georgetown,ANDREWS OUTSIDE,Attorney General,,David M Pascoe,REP,10,1,0,0,0,0,9
+Georgetown,ANDREWS OUTSIDE,Attorney General,,David Stumbo,REP,8,1,0,0,0,0,7
+Georgetown,BETHEL,Attorney General,,Stephen Goldfinch,REP,77,18,0,0,0,0,59
+Georgetown,BETHEL,Attorney General,,David M Pascoe,REP,11,0,0,0,0,0,11
+Georgetown,BETHEL,Attorney General,,David Stumbo,REP,27,7,0,0,0,0,20
+Georgetown,BLACK RIVER,Attorney General,,Stephen Goldfinch,REP,218,101,0,0,0,0,117
+Georgetown,BLACK RIVER,Attorney General,,David M Pascoe,REP,26,5,0,0,0,0,21
+Georgetown,BLACK RIVER,Attorney General,,David Stumbo,REP,47,13,0,0,0,2,32
+Georgetown,BROWN'S FERRY,Attorney General,,Stephen Goldfinch,REP,48,10,0,0,0,0,38
+Georgetown,BROWN'S FERRY,Attorney General,,David M Pascoe,REP,9,3,0,0,0,0,6
+Georgetown,BROWN'S FERRY,Attorney General,,David Stumbo,REP,9,4,0,0,0,0,5
+Georgetown,CARVER'S BAY,Attorney General,,Stephen Goldfinch,REP,18,1,0,0,0,0,17
+Georgetown,CARVER'S BAY,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Georgetown,CARVER'S BAY,Attorney General,,David Stumbo,REP,4,1,0,0,0,0,3
+Georgetown,CHOPPEE,Attorney General,,Stephen Goldfinch,REP,47,7,0,0,0,2,38
+Georgetown,CHOPPEE,Attorney General,,David M Pascoe,REP,6,0,0,0,0,0,6
+Georgetown,CHOPPEE,Attorney General,,David Stumbo,REP,11,3,0,0,0,0,8
+Georgetown,DREAM KEEPERS,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Georgetown,DREAM KEEPERS,Attorney General,,David M Pascoe,REP,3,2,0,0,0,0,1
+Georgetown,DREAM KEEPERS,Attorney General,,David Stumbo,REP,2,2,0,0,0,0,0
+Georgetown,FOLLY GROVE,Attorney General,,Stephen Goldfinch,REP,113,5,0,0,0,0,108
+Georgetown,FOLLY GROVE,Attorney General,,David M Pascoe,REP,9,2,0,0,0,0,7
+Georgetown,FOLLY GROVE,Attorney General,,David Stumbo,REP,10,0,0,0,0,0,10
+Georgetown,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 1,Attorney General,,Stephen Goldfinch,REP,125,32,0,0,0,0,93
+Georgetown,GEORGETOWN NO. 1,Attorney General,,David M Pascoe,REP,34,7,0,0,0,2,25
+Georgetown,GEORGETOWN NO. 1,Attorney General,,David Stumbo,REP,16,10,0,0,0,0,6
+Georgetown,GEORGETOWN NO. 3,Attorney General,,Stephen Goldfinch,REP,22,3,0,0,0,1,18
+Georgetown,GEORGETOWN NO. 3,Attorney General,,David M Pascoe,REP,1,0,0,0,0,0,1
+Georgetown,GEORGETOWN NO. 3,Attorney General,,David Stumbo,REP,5,1,0,0,0,0,4
+Georgetown,GEORGETOWN NO. 4,Attorney General,,Stephen Goldfinch,REP,64,17,0,0,0,2,45
+Georgetown,GEORGETOWN NO. 4,Attorney General,,David M Pascoe,REP,23,2,0,0,0,0,21
+Georgetown,GEORGETOWN NO. 4,Attorney General,,David Stumbo,REP,13,2,0,0,0,0,11
+Georgetown,GEORGETOWN NO. 5,Attorney General,,Stephen Goldfinch,REP,151,35,0,0,0,0,116
+Georgetown,GEORGETOWN NO. 5,Attorney General,,David M Pascoe,REP,25,6,0,0,0,0,19
+Georgetown,GEORGETOWN NO. 5,Attorney General,,David Stumbo,REP,44,12,0,0,0,1,31
+Georgetown,KENSINGTON,Attorney General,,Stephen Goldfinch,REP,146,35,0,0,0,2,109
+Georgetown,KENSINGTON,Attorney General,,David M Pascoe,REP,19,2,0,0,0,0,17
+Georgetown,KENSINGTON,Attorney General,,David Stumbo,REP,31,12,0,0,0,0,19
+Georgetown,LAMBERT TOWN,Attorney General,,Stephen Goldfinch,REP,59,2,0,0,0,0,57
+Georgetown,LAMBERT TOWN,Attorney General,,David M Pascoe,REP,7,0,0,0,0,0,7
+Georgetown,LAMBERT TOWN,Attorney General,,David Stumbo,REP,14,0,0,0,0,0,14
+Georgetown,MURRELL'S INLET NO. 1,Attorney General,,Stephen Goldfinch,REP,610,217,0,0,0,6,387
+Georgetown,MURRELL'S INLET NO. 1,Attorney General,,David M Pascoe,REP,73,29,0,0,0,0,44
+Georgetown,MURRELL'S INLET NO. 1,Attorney General,,David Stumbo,REP,91,32,0,0,0,4,55
+Georgetown,MURRELL'S INLET NO. 2,Attorney General,,Stephen Goldfinch,REP,284,81,0,0,0,1,202
+Georgetown,MURRELL'S INLET NO. 2,Attorney General,,David M Pascoe,REP,45,10,0,0,0,1,34
+Georgetown,MURRELL'S INLET NO. 2,Attorney General,,David Stumbo,REP,32,8,0,0,0,0,24
+Georgetown,MURRELL'S INLET NO. 3,Attorney General,,Stephen Goldfinch,REP,113,39,0,0,0,0,74
+Georgetown,MURRELL'S INLET NO. 3,Attorney General,,David M Pascoe,REP,29,2,0,0,0,0,27
+Georgetown,MURRELL'S INLET NO. 3,Attorney General,,David Stumbo,REP,39,9,0,0,0,0,30
+Georgetown,MURRELL'S INLET NO. 4,Attorney General,,Stephen Goldfinch,REP,284,61,0,0,0,5,218
+Georgetown,MURRELL'S INLET NO. 4,Attorney General,,David M Pascoe,REP,42,9,0,0,0,0,33
+Georgetown,MURRELL'S INLET NO. 4,Attorney General,,David Stumbo,REP,42,12,0,0,0,0,30
+Georgetown,MYERSVILLE,Attorney General,,Stephen Goldfinch,REP,7,0,0,0,0,0,7
+Georgetown,MYERSVILLE,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Georgetown,MYERSVILLE,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Georgetown,PAWLEY'S ISLAND NO. 1,Attorney General,,Stephen Goldfinch,REP,760,404,0,0,0,11,345
+Georgetown,PAWLEY'S ISLAND NO. 1,Attorney General,,David M Pascoe,REP,170,104,0,0,0,2,64
+Georgetown,PAWLEY'S ISLAND NO. 1,Attorney General,,David Stumbo,REP,190,89,0,0,0,7,94
+Georgetown,PAWLEY'S ISLAND NO. 2,Attorney General,,Stephen Goldfinch,REP,477,249,0,0,0,1,227
+Georgetown,PAWLEY'S ISLAND NO. 2,Attorney General,,David M Pascoe,REP,91,47,0,0,0,4,40
+Georgetown,PAWLEY'S ISLAND NO. 2,Attorney General,,David Stumbo,REP,145,61,0,0,0,1,83
+Georgetown,PAWLEY'S ISLAND NO. 3,Attorney General,,Stephen Goldfinch,REP,449,189,0,0,0,0,260
+Georgetown,PAWLEY'S ISLAND NO. 3,Attorney General,,David M Pascoe,REP,82,38,0,0,0,0,44
+Georgetown,PAWLEY'S ISLAND NO. 3,Attorney General,,David Stumbo,REP,109,29,0,0,0,1,79
+Georgetown,PAWLEY'S ISLAND NO. 4,Attorney General,,Stephen Goldfinch,REP,519,210,0,0,0,3,306
+Georgetown,PAWLEY'S ISLAND NO. 4,Attorney General,,David M Pascoe,REP,106,49,0,0,0,4,53
+Georgetown,PAWLEY'S ISLAND NO. 4,Attorney General,,David Stumbo,REP,132,47,0,0,0,1,84
+Georgetown,PAWLEY'S ISLAND NO. 5,Attorney General,,Stephen Goldfinch,REP,675,339,0,0,0,10,326
+Georgetown,PAWLEY'S ISLAND NO. 5,Attorney General,,David M Pascoe,REP,120,65,0,0,0,2,53
+Georgetown,PAWLEY'S ISLAND NO. 5,Attorney General,,David Stumbo,REP,176,92,0,0,0,2,82
+Georgetown,PEE DEE,Attorney General,,Stephen Goldfinch,REP,30,18,0,0,0,0,12
+Georgetown,PEE DEE,Attorney General,,David M Pascoe,REP,7,3,0,0,0,0,4
+Georgetown,PEE DEE,Attorney General,,David Stumbo,REP,6,2,0,0,0,0,4
+Georgetown,PENNY ROYAL,Attorney General,,Stephen Goldfinch,REP,55,11,0,0,0,0,44
+Georgetown,PENNY ROYAL,Attorney General,,David M Pascoe,REP,4,0,0,0,0,2,2
+Georgetown,PENNY ROYAL,Attorney General,,David Stumbo,REP,6,3,0,0,0,0,3
+Georgetown,PLANTERSVILLE,Attorney General,,Stephen Goldfinch,REP,33,14,0,0,0,0,19
+Georgetown,PLANTERSVILLE,Attorney General,,David M Pascoe,REP,4,0,0,0,0,0,4
+Georgetown,PLANTERSVILLE,Attorney General,,David Stumbo,REP,3,0,0,0,0,0,3
+Georgetown,PLEASANT HILL,Attorney General,,Stephen Goldfinch,REP,77,8,0,0,0,0,69
+Georgetown,PLEASANT HILL,Attorney General,,David M Pascoe,REP,15,0,0,0,0,1,14
+Georgetown,PLEASANT HILL,Attorney General,,David Stumbo,REP,16,2,0,0,0,0,14
+Georgetown,POTATO BED FERRY,Attorney General,,Stephen Goldfinch,REP,62,11,0,0,0,0,51
+Georgetown,POTATO BED FERRY,Attorney General,,David M Pascoe,REP,14,1,0,0,0,0,13
+Georgetown,POTATO BED FERRY,Attorney General,,David Stumbo,REP,9,1,0,0,0,0,8
+Georgetown,Provisional,Attorney General,,Stephen Goldfinch,REP,2,0,0,2,0,0,0
+Georgetown,Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Georgetown,Provisional,Attorney General,,David Stumbo,REP,1,0,0,1,0,0,0
+Georgetown,SAMPIT,Attorney General,,Stephen Goldfinch,REP,19,4,0,0,0,0,15
+Georgetown,SAMPIT,Attorney General,,David M Pascoe,REP,1,0,0,0,0,0,1
+Georgetown,SAMPIT,Attorney General,,David Stumbo,REP,3,0,0,0,0,0,3
+Georgetown,SANTEE,Attorney General,,Stephen Goldfinch,REP,21,4,0,0,0,0,17
+Georgetown,SANTEE,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Georgetown,SANTEE,Attorney General,,David Stumbo,REP,2,0,0,0,0,0,2
+Georgetown,SPRING GULLY,Attorney General,,Stephen Goldfinch,REP,79,20,0,0,0,0,59
+Georgetown,SPRING GULLY,Attorney General,,David M Pascoe,REP,12,3,0,0,0,0,9
+Georgetown,SPRING GULLY,Attorney General,,David Stumbo,REP,9,6,0,0,0,0,3
+Georgetown,WINYAH BAY,Attorney General,,Stephen Goldfinch,REP,147,47,0,0,0,0,100
+Georgetown,WINYAH BAY,Attorney General,,David M Pascoe,REP,13,7,0,0,0,1,5
+Georgetown,WINYAH BAY,Attorney General,,David Stumbo,REP,19,5,0,0,0,0,14
+Georgetown,ANDREWS,Commissioner of Agriculture,,Jeremy B Cannon,REP,17,6,0,0,0,0,11
+Georgetown,ANDREWS,Commissioner of Agriculture,,Danny Ford,REP,23,11,0,0,0,0,12
+Georgetown,ANDREWS,Commissioner of Agriculture,,Cody Simpson,REP,41,13,0,0,0,0,28
+Georgetown,ANDREWS,Commissioner of Agriculture,,Fred West,REP,5,1,0,0,0,0,4
+Georgetown,ANDREWS OUTSIDE,Commissioner of Agriculture,,Jeremy B Cannon,REP,15,5,0,0,0,0,10
+Georgetown,ANDREWS OUTSIDE,Commissioner of Agriculture,,Danny Ford,REP,21,5,0,0,0,0,16
+Georgetown,ANDREWS OUTSIDE,Commissioner of Agriculture,,Cody Simpson,REP,32,7,0,0,0,0,25
+Georgetown,ANDREWS OUTSIDE,Commissioner of Agriculture,,Fred West,REP,2,0,0,0,0,0,2
+Georgetown,BETHEL,Commissioner of Agriculture,,Jeremy B Cannon,REP,21,1,0,0,0,0,20
+Georgetown,BETHEL,Commissioner of Agriculture,,Danny Ford,REP,27,3,0,0,0,0,24
+Georgetown,BETHEL,Commissioner of Agriculture,,Cody Simpson,REP,66,21,0,0,0,0,45
+Georgetown,BETHEL,Commissioner of Agriculture,,Fred West,REP,4,0,0,0,0,0,4
+Georgetown,BLACK RIVER,Commissioner of Agriculture,,Jeremy B Cannon,REP,34,12,0,0,0,0,22
+Georgetown,BLACK RIVER,Commissioner of Agriculture,,Danny Ford,REP,103,39,0,0,0,0,64
+Georgetown,BLACK RIVER,Commissioner of Agriculture,,Cody Simpson,REP,132,61,0,0,0,2,69
+Georgetown,BLACK RIVER,Commissioner of Agriculture,,Fred West,REP,16,4,0,0,0,0,12
+Georgetown,BROWN'S FERRY,Commissioner of Agriculture,,Jeremy B Cannon,REP,15,2,0,0,0,0,13
+Georgetown,BROWN'S FERRY,Commissioner of Agriculture,,Danny Ford,REP,18,4,0,0,0,0,14
+Georgetown,BROWN'S FERRY,Commissioner of Agriculture,,Cody Simpson,REP,25,10,0,0,0,0,15
+Georgetown,BROWN'S FERRY,Commissioner of Agriculture,,Fred West,REP,2,1,0,0,0,0,1
+Georgetown,CARVER'S BAY,Commissioner of Agriculture,,Jeremy B Cannon,REP,12,0,0,0,0,0,12
+Georgetown,CARVER'S BAY,Commissioner of Agriculture,,Danny Ford,REP,2,2,0,0,0,0,0
+Georgetown,CARVER'S BAY,Commissioner of Agriculture,,Cody Simpson,REP,7,0,0,0,0,0,7
+Georgetown,CARVER'S BAY,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Georgetown,CHOPPEE,Commissioner of Agriculture,,Jeremy B Cannon,REP,30,2,0,0,0,1,27
+Georgetown,CHOPPEE,Commissioner of Agriculture,,Danny Ford,REP,7,0,0,0,0,0,7
+Georgetown,CHOPPEE,Commissioner of Agriculture,,Cody Simpson,REP,23,7,0,0,0,1,15
+Georgetown,CHOPPEE,Commissioner of Agriculture,,Fred West,REP,5,1,0,0,0,0,4
+Georgetown,DREAM KEEPERS,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,2,0,0,0,0,1
+Georgetown,DREAM KEEPERS,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Georgetown,DREAM KEEPERS,Commissioner of Agriculture,,Cody Simpson,REP,2,2,0,0,0,0,0
+Georgetown,DREAM KEEPERS,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Georgetown,FOLLY GROVE,Commissioner of Agriculture,,Jeremy B Cannon,REP,49,1,0,0,0,0,48
+Georgetown,FOLLY GROVE,Commissioner of Agriculture,,Danny Ford,REP,19,1,0,0,0,0,18
+Georgetown,FOLLY GROVE,Commissioner of Agriculture,,Cody Simpson,REP,54,4,0,0,0,0,50
+Georgetown,FOLLY GROVE,Commissioner of Agriculture,,Fred West,REP,4,0,0,0,0,0,4
+Georgetown,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,1,0,1,0,0,0,0
+Georgetown,GEORGETOWN NO. 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,21,5,0,0,0,0,16
+Georgetown,GEORGETOWN NO. 1,Commissioner of Agriculture,,Danny Ford,REP,49,16,0,0,0,0,33
+Georgetown,GEORGETOWN NO. 1,Commissioner of Agriculture,,Cody Simpson,REP,76,21,0,0,0,2,53
+Georgetown,GEORGETOWN NO. 1,Commissioner of Agriculture,,Fred West,REP,19,5,0,0,0,0,14
+Georgetown,GEORGETOWN NO. 3,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,0,0,0,0,1,2
+Georgetown,GEORGETOWN NO. 3,Commissioner of Agriculture,,Danny Ford,REP,10,1,0,0,0,0,9
+Georgetown,GEORGETOWN NO. 3,Commissioner of Agriculture,,Cody Simpson,REP,14,3,0,0,0,0,11
+Georgetown,GEORGETOWN NO. 3,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Georgetown,GEORGETOWN NO. 4,Commissioner of Agriculture,,Jeremy B Cannon,REP,12,2,0,0,0,0,10
+Georgetown,GEORGETOWN NO. 4,Commissioner of Agriculture,,Danny Ford,REP,23,4,0,0,0,0,19
+Georgetown,GEORGETOWN NO. 4,Commissioner of Agriculture,,Cody Simpson,REP,41,11,0,0,0,2,28
+Georgetown,GEORGETOWN NO. 4,Commissioner of Agriculture,,Fred West,REP,17,2,0,0,0,0,15
+Georgetown,GEORGETOWN NO. 5,Commissioner of Agriculture,,Jeremy B Cannon,REP,43,16,0,0,0,0,27
+Georgetown,GEORGETOWN NO. 5,Commissioner of Agriculture,,Danny Ford,REP,53,11,0,0,0,0,42
+Georgetown,GEORGETOWN NO. 5,Commissioner of Agriculture,,Cody Simpson,REP,99,22,0,0,0,0,77
+Georgetown,GEORGETOWN NO. 5,Commissioner of Agriculture,,Fred West,REP,17,3,0,0,0,1,13
+Georgetown,KENSINGTON,Commissioner of Agriculture,,Jeremy B Cannon,REP,37,7,0,0,0,0,30
+Georgetown,KENSINGTON,Commissioner of Agriculture,,Danny Ford,REP,54,18,0,0,0,0,36
+Georgetown,KENSINGTON,Commissioner of Agriculture,,Cody Simpson,REP,81,18,0,0,0,2,61
+Georgetown,KENSINGTON,Commissioner of Agriculture,,Fred West,REP,15,5,0,0,0,0,10
+Georgetown,LAMBERT TOWN,Commissioner of Agriculture,,Jeremy B Cannon,REP,14,0,0,0,0,0,14
+Georgetown,LAMBERT TOWN,Commissioner of Agriculture,,Danny Ford,REP,25,1,0,0,0,0,24
+Georgetown,LAMBERT TOWN,Commissioner of Agriculture,,Cody Simpson,REP,40,1,0,0,0,0,39
+Georgetown,LAMBERT TOWN,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Georgetown,MURRELL'S INLET NO. 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,110,40,0,0,0,3,67
+Georgetown,MURRELL'S INLET NO. 1,Commissioner of Agriculture,,Danny Ford,REP,167,58,0,0,0,3,106
+Georgetown,MURRELL'S INLET NO. 1,Commissioner of Agriculture,,Cody Simpson,REP,341,122,0,0,0,1,218
+Georgetown,MURRELL'S INLET NO. 1,Commissioner of Agriculture,,Fred West,REP,82,30,0,0,0,3,49
+Georgetown,MURRELL'S INLET NO. 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,43,9,0,0,0,0,34
+Georgetown,MURRELL'S INLET NO. 2,Commissioner of Agriculture,,Danny Ford,REP,63,15,0,0,0,0,48
+Georgetown,MURRELL'S INLET NO. 2,Commissioner of Agriculture,,Cody Simpson,REP,174,52,0,0,0,0,122
+Georgetown,MURRELL'S INLET NO. 2,Commissioner of Agriculture,,Fred West,REP,37,16,0,0,0,2,19
+Georgetown,MURRELL'S INLET NO. 3,Commissioner of Agriculture,,Jeremy B Cannon,REP,33,8,0,0,0,0,25
+Georgetown,MURRELL'S INLET NO. 3,Commissioner of Agriculture,,Danny Ford,REP,43,13,0,0,0,0,30
+Georgetown,MURRELL'S INLET NO. 3,Commissioner of Agriculture,,Cody Simpson,REP,78,24,0,0,0,0,54
+Georgetown,MURRELL'S INLET NO. 3,Commissioner of Agriculture,,Fred West,REP,13,2,0,0,0,0,11
+Georgetown,MURRELL'S INLET NO. 4,Commissioner of Agriculture,,Jeremy B Cannon,REP,50,3,0,0,0,2,45
+Georgetown,MURRELL'S INLET NO. 4,Commissioner of Agriculture,,Danny Ford,REP,88,27,0,0,0,2,59
+Georgetown,MURRELL'S INLET NO. 4,Commissioner of Agriculture,,Cody Simpson,REP,163,42,0,0,0,1,120
+Georgetown,MURRELL'S INLET NO. 4,Commissioner of Agriculture,,Fred West,REP,38,7,0,0,0,0,31
+Georgetown,MYERSVILLE,Commissioner of Agriculture,,Jeremy B Cannon,REP,2,0,0,0,0,0,2
+Georgetown,MYERSVILLE,Commissioner of Agriculture,,Danny Ford,REP,1,0,0,0,0,0,1
+Georgetown,MYERSVILLE,Commissioner of Agriculture,,Cody Simpson,REP,4,0,0,0,0,0,4
+Georgetown,MYERSVILLE,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Georgetown,PAWLEY'S ISLAND NO. 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,141,66,0,0,0,0,75
+Georgetown,PAWLEY'S ISLAND NO. 1,Commissioner of Agriculture,,Danny Ford,REP,247,130,0,0,0,7,110
+Georgetown,PAWLEY'S ISLAND NO. 1,Commissioner of Agriculture,,Cody Simpson,REP,494,272,0,0,0,7,215
+Georgetown,PAWLEY'S ISLAND NO. 1,Commissioner of Agriculture,,Fred West,REP,114,50,0,0,0,4,60
+Georgetown,PAWLEY'S ISLAND NO. 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,112,60,0,0,0,0,52
+Georgetown,PAWLEY'S ISLAND NO. 2,Commissioner of Agriculture,,Danny Ford,REP,149,79,0,0,0,3,67
+Georgetown,PAWLEY'S ISLAND NO. 2,Commissioner of Agriculture,,Cody Simpson,REP,334,154,0,0,0,1,179
+Georgetown,PAWLEY'S ISLAND NO. 2,Commissioner of Agriculture,,Fred West,REP,61,36,0,0,0,1,24
+Georgetown,PAWLEY'S ISLAND NO. 3,Commissioner of Agriculture,,Jeremy B Cannon,REP,63,22,0,0,0,0,41
+Georgetown,PAWLEY'S ISLAND NO. 3,Commissioner of Agriculture,,Danny Ford,REP,139,52,0,0,0,0,87
+Georgetown,PAWLEY'S ISLAND NO. 3,Commissioner of Agriculture,,Cody Simpson,REP,335,146,0,0,0,1,188
+Georgetown,PAWLEY'S ISLAND NO. 3,Commissioner of Agriculture,,Fred West,REP,52,19,0,0,0,0,33
+Georgetown,PAWLEY'S ISLAND NO. 4,Commissioner of Agriculture,,Jeremy B Cannon,REP,74,25,0,0,0,3,46
+Georgetown,PAWLEY'S ISLAND NO. 4,Commissioner of Agriculture,,Danny Ford,REP,159,70,0,0,0,0,89
+Georgetown,PAWLEY'S ISLAND NO. 4,Commissioner of Agriculture,,Cody Simpson,REP,394,152,0,0,0,5,237
+Georgetown,PAWLEY'S ISLAND NO. 4,Commissioner of Agriculture,,Fred West,REP,59,36,0,0,0,0,23
+Georgetown,PAWLEY'S ISLAND NO. 5,Commissioner of Agriculture,,Jeremy B Cannon,REP,102,45,0,0,0,3,54
+Georgetown,PAWLEY'S ISLAND NO. 5,Commissioner of Agriculture,,Danny Ford,REP,236,110,0,0,0,2,124
+Georgetown,PAWLEY'S ISLAND NO. 5,Commissioner of Agriculture,,Cody Simpson,REP,446,238,0,0,0,5,203
+Georgetown,PAWLEY'S ISLAND NO. 5,Commissioner of Agriculture,,Fred West,REP,93,50,0,0,0,4,39
+Georgetown,PEE DEE,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,2,0,0,0,0,5
+Georgetown,PEE DEE,Commissioner of Agriculture,,Danny Ford,REP,10,6,0,0,0,0,4
+Georgetown,PEE DEE,Commissioner of Agriculture,,Cody Simpson,REP,22,12,0,0,0,0,10
+Georgetown,PEE DEE,Commissioner of Agriculture,,Fred West,REP,1,1,0,0,0,0,0
+Georgetown,PENNY ROYAL,Commissioner of Agriculture,,Jeremy B Cannon,REP,5,0,0,0,0,0,5
+Georgetown,PENNY ROYAL,Commissioner of Agriculture,,Danny Ford,REP,15,3,0,0,0,0,12
+Georgetown,PENNY ROYAL,Commissioner of Agriculture,,Cody Simpson,REP,32,9,0,0,0,0,23
+Georgetown,PENNY ROYAL,Commissioner of Agriculture,,Fred West,REP,8,2,0,0,0,0,6
+Georgetown,PLANTERSVILLE,Commissioner of Agriculture,,Jeremy B Cannon,REP,12,6,0,0,0,0,6
+Georgetown,PLANTERSVILLE,Commissioner of Agriculture,,Danny Ford,REP,6,1,0,0,0,0,5
+Georgetown,PLANTERSVILLE,Commissioner of Agriculture,,Cody Simpson,REP,16,6,0,0,0,0,10
+Georgetown,PLANTERSVILLE,Commissioner of Agriculture,,Fred West,REP,5,1,0,0,0,0,4
+Georgetown,PLEASANT HILL,Commissioner of Agriculture,,Jeremy B Cannon,REP,46,3,0,0,0,0,43
+Georgetown,PLEASANT HILL,Commissioner of Agriculture,,Danny Ford,REP,12,0,0,0,0,0,12
+Georgetown,PLEASANT HILL,Commissioner of Agriculture,,Cody Simpson,REP,50,7,0,0,0,1,42
+Georgetown,PLEASANT HILL,Commissioner of Agriculture,,Fred West,REP,2,0,0,0,0,0,2
+Georgetown,POTATO BED FERRY,Commissioner of Agriculture,,Jeremy B Cannon,REP,23,3,0,0,0,0,20
+Georgetown,POTATO BED FERRY,Commissioner of Agriculture,,Danny Ford,REP,29,4,0,0,0,0,25
+Georgetown,POTATO BED FERRY,Commissioner of Agriculture,,Cody Simpson,REP,26,4,0,0,0,0,22
+Georgetown,POTATO BED FERRY,Commissioner of Agriculture,,Fred West,REP,6,0,0,0,0,0,6
+Georgetown,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Georgetown,Provisional,Commissioner of Agriculture,,Danny Ford,REP,2,0,0,2,0,0,0
+Georgetown,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,1,0,0,0
+Georgetown,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Georgetown,SAMPIT,Commissioner of Agriculture,,Jeremy B Cannon,REP,4,0,0,0,0,0,4
+Georgetown,SAMPIT,Commissioner of Agriculture,,Danny Ford,REP,8,2,0,0,0,0,6
+Georgetown,SAMPIT,Commissioner of Agriculture,,Cody Simpson,REP,8,2,0,0,0,0,6
+Georgetown,SAMPIT,Commissioner of Agriculture,,Fred West,REP,4,0,0,0,0,0,4
+Georgetown,SANTEE,Commissioner of Agriculture,,Jeremy B Cannon,REP,2,0,0,0,0,0,2
+Georgetown,SANTEE,Commissioner of Agriculture,,Danny Ford,REP,8,3,0,0,0,0,5
+Georgetown,SANTEE,Commissioner of Agriculture,,Cody Simpson,REP,10,1,0,0,0,0,9
+Georgetown,SANTEE,Commissioner of Agriculture,,Fred West,REP,2,0,0,0,0,0,2
+Georgetown,SPRING GULLY,Commissioner of Agriculture,,Jeremy B Cannon,REP,24,6,0,0,0,0,18
+Georgetown,SPRING GULLY,Commissioner of Agriculture,,Danny Ford,REP,26,12,0,0,0,0,14
+Georgetown,SPRING GULLY,Commissioner of Agriculture,,Cody Simpson,REP,42,9,0,0,0,0,33
+Georgetown,SPRING GULLY,Commissioner of Agriculture,,Fred West,REP,5,1,0,0,0,0,4
+Georgetown,WINYAH BAY,Commissioner of Agriculture,,Jeremy B Cannon,REP,32,9,0,0,0,0,23
+Georgetown,WINYAH BAY,Commissioner of Agriculture,,Danny Ford,REP,44,13,0,0,0,0,31
+Georgetown,WINYAH BAY,Commissioner of Agriculture,,Cody Simpson,REP,70,30,0,0,0,0,40
+Georgetown,WINYAH BAY,Commissioner of Agriculture,,Fred West,REP,19,3,0,0,0,1,15
+Georgetown,ANDREWS,Comptroller General,,Tiffany Boozer,DEM,205,116,0,0,0,1,88
+Georgetown,ANDREWS,Comptroller General,,Bruce K Cole,DEM,84,50,0,0,0,1,33
+Georgetown,ANDREWS OUTSIDE,Comptroller General,,Tiffany Boozer,DEM,76,44,0,0,0,0,32
+Georgetown,ANDREWS OUTSIDE,Comptroller General,,Bruce K Cole,DEM,51,24,0,0,0,0,27
+Georgetown,BETHEL,Comptroller General,,Tiffany Boozer,DEM,16,5,0,0,0,0,11
+Georgetown,BETHEL,Comptroller General,,Bruce K Cole,DEM,16,5,0,0,0,0,11
+Georgetown,BLACK RIVER,Comptroller General,,Tiffany Boozer,DEM,71,44,0,0,0,0,27
+Georgetown,BLACK RIVER,Comptroller General,,Bruce K Cole,DEM,27,13,0,0,0,0,14
+Georgetown,BROWN'S FERRY,Comptroller General,,Tiffany Boozer,DEM,351,154,0,0,0,5,192
+Georgetown,BROWN'S FERRY,Comptroller General,,Bruce K Cole,DEM,89,59,0,0,0,0,30
+Georgetown,CARVER'S BAY,Comptroller General,,Tiffany Boozer,DEM,8,3,0,0,0,0,5
+Georgetown,CARVER'S BAY,Comptroller General,,Bruce K Cole,DEM,3,1,0,0,0,0,2
+Georgetown,CHOPPEE,Comptroller General,,Tiffany Boozer,DEM,140,101,0,0,0,1,38
+Georgetown,CHOPPEE,Comptroller General,,Bruce K Cole,DEM,65,38,0,0,0,0,27
+Georgetown,DREAM KEEPERS,Comptroller General,,Tiffany Boozer,DEM,152,73,0,0,0,6,73
+Georgetown,DREAM KEEPERS,Comptroller General,,Bruce K Cole,DEM,62,38,0,0,0,2,22
+Georgetown,FOLLY GROVE,Comptroller General,,Tiffany Boozer,DEM,56,30,0,0,0,0,26
+Georgetown,FOLLY GROVE,Comptroller General,,Bruce K Cole,DEM,24,15,0,0,0,0,9
+Georgetown,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,1,0,1,0,0,0,0
+Georgetown,GEORGETOWN NO. 1,Comptroller General,,Tiffany Boozer,DEM,81,56,0,0,0,2,23
+Georgetown,GEORGETOWN NO. 1,Comptroller General,,Bruce K Cole,DEM,29,17,0,0,0,0,12
+Georgetown,GEORGETOWN NO. 3,Comptroller General,,Tiffany Boozer,DEM,197,108,0,0,0,10,79
+Georgetown,GEORGETOWN NO. 3,Comptroller General,,Bruce K Cole,DEM,74,49,0,0,0,4,21
+Georgetown,GEORGETOWN NO. 4,Comptroller General,,Tiffany Boozer,DEM,39,23,0,0,0,1,15
+Georgetown,GEORGETOWN NO. 4,Comptroller General,,Bruce K Cole,DEM,16,9,0,0,0,0,7
+Georgetown,GEORGETOWN NO. 5,Comptroller General,,Tiffany Boozer,DEM,128,76,0,0,0,3,49
+Georgetown,GEORGETOWN NO. 5,Comptroller General,,Bruce K Cole,DEM,42,17,0,0,0,1,24
+Georgetown,KENSINGTON,Comptroller General,,Tiffany Boozer,DEM,73,24,0,0,0,3,46
+Georgetown,KENSINGTON,Comptroller General,,Bruce K Cole,DEM,40,22,0,0,0,0,18
+Georgetown,LAMBERT TOWN,Comptroller General,,Tiffany Boozer,DEM,17,13,0,0,0,0,4
+Georgetown,LAMBERT TOWN,Comptroller General,,Bruce K Cole,DEM,5,3,0,0,0,0,2
+Georgetown,MURRELL'S INLET NO. 1,Comptroller General,,Tiffany Boozer,DEM,128,62,0,0,0,2,64
+Georgetown,MURRELL'S INLET NO. 1,Comptroller General,,Bruce K Cole,DEM,64,28,0,0,0,4,32
+Georgetown,MURRELL'S INLET NO. 2,Comptroller General,,Tiffany Boozer,DEM,96,45,0,0,0,0,51
+Georgetown,MURRELL'S INLET NO. 2,Comptroller General,,Bruce K Cole,DEM,50,21,0,0,0,0,29
+Georgetown,MURRELL'S INLET NO. 3,Comptroller General,,Tiffany Boozer,DEM,37,22,0,0,0,0,15
+Georgetown,MURRELL'S INLET NO. 3,Comptroller General,,Bruce K Cole,DEM,16,5,0,0,0,0,11
+Georgetown,MURRELL'S INLET NO. 4,Comptroller General,,Tiffany Boozer,DEM,48,18,0,0,0,1,29
+Georgetown,MURRELL'S INLET NO. 4,Comptroller General,,Bruce K Cole,DEM,17,3,0,0,0,0,14
+Georgetown,MYERSVILLE,Comptroller General,,Tiffany Boozer,DEM,125,22,0,0,0,0,103
+Georgetown,MYERSVILLE,Comptroller General,,Bruce K Cole,DEM,26,8,0,0,0,0,18
+Georgetown,PAWLEY'S ISLAND NO. 1,Comptroller General,,Tiffany Boozer,DEM,163,93,0,0,0,2,68
+Georgetown,PAWLEY'S ISLAND NO. 1,Comptroller General,,Bruce K Cole,DEM,79,54,0,0,0,1,24
+Georgetown,PAWLEY'S ISLAND NO. 2,Comptroller General,,Tiffany Boozer,DEM,289,201,0,0,0,1,87
+Georgetown,PAWLEY'S ISLAND NO. 2,Comptroller General,,Bruce K Cole,DEM,129,99,0,0,0,2,28
+Georgetown,PAWLEY'S ISLAND NO. 3,Comptroller General,,Tiffany Boozer,DEM,141,83,0,0,0,2,56
+Georgetown,PAWLEY'S ISLAND NO. 3,Comptroller General,,Bruce K Cole,DEM,68,43,0,0,0,3,22
+Georgetown,PAWLEY'S ISLAND NO. 4,Comptroller General,,Tiffany Boozer,DEM,112,70,0,0,0,4,38
+Georgetown,PAWLEY'S ISLAND NO. 4,Comptroller General,,Bruce K Cole,DEM,62,46,0,0,0,0,16
+Georgetown,PAWLEY'S ISLAND NO. 5,Comptroller General,,Tiffany Boozer,DEM,153,100,0,0,0,4,49
+Georgetown,PAWLEY'S ISLAND NO. 5,Comptroller General,,Bruce K Cole,DEM,70,46,0,0,0,4,20
+Georgetown,PEE DEE,Comptroller General,,Tiffany Boozer,DEM,89,30,0,0,0,0,59
+Georgetown,PEE DEE,Comptroller General,,Bruce K Cole,DEM,40,14,0,0,0,0,26
+Georgetown,PENNY ROYAL,Comptroller General,,Tiffany Boozer,DEM,33,22,0,0,0,0,11
+Georgetown,PENNY ROYAL,Comptroller General,,Bruce K Cole,DEM,22,13,0,0,0,0,9
+Georgetown,PLANTERSVILLE,Comptroller General,,Tiffany Boozer,DEM,140,50,0,0,0,1,89
+Georgetown,PLANTERSVILLE,Comptroller General,,Bruce K Cole,DEM,46,19,0,0,0,0,27
+Georgetown,PLEASANT HILL,Comptroller General,,Tiffany Boozer,DEM,56,40,0,0,0,0,16
+Georgetown,PLEASANT HILL,Comptroller General,,Bruce K Cole,DEM,35,24,0,0,0,0,11
+Georgetown,POTATO BED FERRY,Comptroller General,,Tiffany Boozer,DEM,57,26,0,0,0,0,31
+Georgetown,POTATO BED FERRY,Comptroller General,,Bruce K Cole,DEM,20,5,0,0,0,0,15
+Georgetown,Provisional,Comptroller General,,Tiffany Boozer,DEM,1,0,0,1,0,0,0
+Georgetown,Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Georgetown,SAMPIT,Comptroller General,,Tiffany Boozer,DEM,166,74,0,0,0,2,90
+Georgetown,SAMPIT,Comptroller General,,Bruce K Cole,DEM,64,39,0,0,0,0,25
+Georgetown,SANTEE,Comptroller General,,Tiffany Boozer,DEM,195,84,0,0,0,1,110
+Georgetown,SANTEE,Comptroller General,,Bruce K Cole,DEM,93,37,0,0,0,0,56
+Georgetown,SPRING GULLY,Comptroller General,,Tiffany Boozer,DEM,180,97,0,0,0,2,81
+Georgetown,SPRING GULLY,Comptroller General,,Bruce K Cole,DEM,64,44,0,0,0,0,20
+Georgetown,WINYAH BAY,Comptroller General,,Tiffany Boozer,DEM,52,22,0,0,0,0,30
+Georgetown,WINYAH BAY,Comptroller General,,Bruce K Cole,DEM,16,7,0,0,0,0,9
+Georgetown,Failsafe,County Council District 6,,Stella Mercado,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,County Council District 6,,Bill Ringer,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,County Council District 6,,Stella Mercado,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,County Council District 6,,Bill Ringer,REP,0,0,0,0,0,0,0
+Georgetown,MURRELL'S INLET NO. 2,County Council District 6,,Stella Mercado,REP,21,3,0,0,0,0,18
+Georgetown,MURRELL'S INLET NO. 2,County Council District 6,,Bill Ringer,REP,27,11,0,0,0,0,16
+Georgetown,MURRELL'S INLET NO. 3,County Council District 6,,Stella Mercado,REP,86,35,0,0,0,0,51
+Georgetown,MURRELL'S INLET NO. 3,County Council District 6,,Bill Ringer,REP,36,7,0,0,0,0,29
+Georgetown,PAWLEY'S ISLAND NO. 1,County Council District 6,,Stella Mercado,REP,321,156,0,0,0,8,157
+Georgetown,PAWLEY'S ISLAND NO. 1,County Council District 6,,Bill Ringer,REP,868,490,0,0,0,14,364
+Georgetown,PAWLEY'S ISLAND NO. 2,County Council District 6,,Stella Mercado,REP,158,83,0,0,0,0,75
+Georgetown,PAWLEY'S ISLAND NO. 2,County Council District 6,,Bill Ringer,REP,399,228,0,0,0,5,166
+Georgetown,PAWLEY'S ISLAND NO. 3,County Council District 6,,Stella Mercado,REP,56,25,0,0,0,0,31
+Georgetown,PAWLEY'S ISLAND NO. 3,County Council District 6,,Bill Ringer,REP,46,21,0,0,0,0,25
+Georgetown,PAWLEY'S ISLAND NO. 5,County Council District 6,,Stella Mercado,REP,129,80,0,0,0,2,47
+Georgetown,PAWLEY'S ISLAND NO. 5,County Council District 6,,Bill Ringer,REP,293,181,0,0,0,2,110
+Georgetown,Provisional,County Council District 6,,Stella Mercado,REP,1,0,0,1,0,0,0
+Georgetown,Provisional,County Council District 6,,Bill Ringer,REP,1,0,0,1,0,0,0
+Georgetown,ANDREWS,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,ANDREWS,Governor,,Pamela Evette,REP,19,11,0,0,0,0,8
+Georgetown,ANDREWS,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,ANDREWS,Governor,,Nancy Mace,REP,13,7,0,0,0,0,6
+Georgetown,ANDREWS,Governor,,Ralph W Norman,REP,17,4,0,0,0,0,13
+Georgetown,ANDREWS,Governor,,Rom Reddy,REP,10,4,0,0,0,0,6
+Georgetown,ANDREWS,Governor,,Alan Wilson,REP,29,7,0,0,0,0,22
+Georgetown,ANDREWS,Governor,,Jermaine Johnson,DEM,224,123,0,0,0,0,101
+Georgetown,ANDREWS,Governor,,Mullins McLeod,DEM,33,18,0,0,0,0,15
+Georgetown,ANDREWS,Governor,,Billy Webster,DEM,46,32,0,0,0,2,12
+Georgetown,ANDREWS OUTSIDE,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,ANDREWS OUTSIDE,Governor,,Pamela Evette,REP,24,8,0,0,0,0,16
+Georgetown,ANDREWS OUTSIDE,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,ANDREWS OUTSIDE,Governor,,Nancy Mace,REP,16,3,0,0,0,0,13
+Georgetown,ANDREWS OUTSIDE,Governor,,Ralph W Norman,REP,6,1,0,0,0,0,5
+Georgetown,ANDREWS OUTSIDE,Governor,,Rom Reddy,REP,6,1,0,0,0,0,5
+Georgetown,ANDREWS OUTSIDE,Governor,,Alan Wilson,REP,20,4,0,0,0,0,16
+Georgetown,ANDREWS OUTSIDE,Governor,,Jermaine Johnson,DEM,92,45,0,0,0,0,47
+Georgetown,ANDREWS OUTSIDE,Governor,,Mullins McLeod,DEM,19,10,0,0,0,0,9
+Georgetown,ANDREWS OUTSIDE,Governor,,Billy Webster,DEM,21,14,0,0,0,0,7
+Georgetown,BETHEL,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Georgetown,BETHEL,Governor,,Pamela Evette,REP,43,8,0,0,0,0,35
+Georgetown,BETHEL,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Georgetown,BETHEL,Governor,,Nancy Mace,REP,17,4,0,0,0,0,13
+Georgetown,BETHEL,Governor,,Ralph W Norman,REP,10,1,0,0,0,0,9
+Georgetown,BETHEL,Governor,,Rom Reddy,REP,6,0,0,0,0,0,6
+Georgetown,BETHEL,Governor,,Alan Wilson,REP,39,11,0,0,0,0,28
+Georgetown,BETHEL,Governor,,Jermaine Johnson,DEM,23,6,0,0,0,0,17
+Georgetown,BETHEL,Governor,,Mullins McLeod,DEM,4,2,0,0,0,0,2
+Georgetown,BETHEL,Governor,,Billy Webster,DEM,9,5,0,0,0,0,4
+Georgetown,BLACK RIVER,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Georgetown,BLACK RIVER,Governor,,Pamela Evette,REP,119,48,0,0,0,0,71
+Georgetown,BLACK RIVER,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,BLACK RIVER,Governor,,Nancy Mace,REP,29,9,0,0,0,0,20
+Georgetown,BLACK RIVER,Governor,,Ralph W Norman,REP,26,8,0,0,0,0,18
+Georgetown,BLACK RIVER,Governor,,Rom Reddy,REP,30,14,0,0,0,1,15
+Georgetown,BLACK RIVER,Governor,,Alan Wilson,REP,96,44,0,0,0,1,51
+Georgetown,BLACK RIVER,Governor,,Jermaine Johnson,DEM,43,24,0,0,0,1,18
+Georgetown,BLACK RIVER,Governor,,Mullins McLeod,DEM,25,16,0,0,0,0,9
+Georgetown,BLACK RIVER,Governor,,Billy Webster,DEM,40,23,0,0,0,0,17
+Georgetown,BROWN'S FERRY,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,BROWN'S FERRY,Governor,,Pamela Evette,REP,23,12,0,0,0,0,11
+Georgetown,BROWN'S FERRY,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,BROWN'S FERRY,Governor,,Nancy Mace,REP,6,2,0,0,0,0,4
+Georgetown,BROWN'S FERRY,Governor,,Ralph W Norman,REP,6,0,0,0,0,0,6
+Georgetown,BROWN'S FERRY,Governor,,Rom Reddy,REP,4,1,0,0,0,0,3
+Georgetown,BROWN'S FERRY,Governor,,Alan Wilson,REP,27,2,0,0,0,0,25
+Georgetown,BROWN'S FERRY,Governor,,Jermaine Johnson,DEM,345,156,0,0,0,4,185
+Georgetown,BROWN'S FERRY,Governor,,Mullins McLeod,DEM,74,46,0,0,0,1,27
+Georgetown,BROWN'S FERRY,Governor,,Billy Webster,DEM,43,26,0,0,0,0,17
+Georgetown,CARVER'S BAY,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,CARVER'S BAY,Governor,,Pamela Evette,REP,11,1,0,0,0,0,10
+Georgetown,CARVER'S BAY,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,CARVER'S BAY,Governor,,Nancy Mace,REP,2,0,0,0,0,0,2
+Georgetown,CARVER'S BAY,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Georgetown,CARVER'S BAY,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Georgetown,CARVER'S BAY,Governor,,Alan Wilson,REP,11,1,0,0,0,0,10
+Georgetown,CARVER'S BAY,Governor,,Jermaine Johnson,DEM,7,4,0,0,0,0,3
+Georgetown,CARVER'S BAY,Governor,,Mullins McLeod,DEM,3,0,0,0,0,0,3
+Georgetown,CARVER'S BAY,Governor,,Billy Webster,DEM,1,0,0,0,0,0,1
+Georgetown,CHOPPEE,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,CHOPPEE,Governor,,Pamela Evette,REP,27,4,0,0,0,1,22
+Georgetown,CHOPPEE,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,CHOPPEE,Governor,,Nancy Mace,REP,9,0,0,0,0,0,9
+Georgetown,CHOPPEE,Governor,,Ralph W Norman,REP,7,0,0,0,0,0,7
+Georgetown,CHOPPEE,Governor,,Rom Reddy,REP,3,1,0,0,0,0,2
+Georgetown,CHOPPEE,Governor,,Alan Wilson,REP,21,5,0,0,0,1,15
+Georgetown,CHOPPEE,Governor,,Jermaine Johnson,DEM,159,112,0,0,0,0,47
+Georgetown,CHOPPEE,Governor,,Mullins McLeod,DEM,23,16,0,0,0,1,6
+Georgetown,CHOPPEE,Governor,,Billy Webster,DEM,26,15,0,0,0,0,11
+Georgetown,DREAM KEEPERS,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,DREAM KEEPERS,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Georgetown,DREAM KEEPERS,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,DREAM KEEPERS,Governor,,Nancy Mace,REP,2,1,0,0,0,0,1
+Georgetown,DREAM KEEPERS,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Georgetown,DREAM KEEPERS,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Georgetown,DREAM KEEPERS,Governor,,Alan Wilson,REP,4,3,0,0,0,0,1
+Georgetown,DREAM KEEPERS,Governor,,Jermaine Johnson,DEM,123,56,0,0,0,0,67
+Georgetown,DREAM KEEPERS,Governor,,Mullins McLeod,DEM,82,47,0,0,0,8,27
+Georgetown,DREAM KEEPERS,Governor,,Billy Webster,DEM,20,14,0,0,0,0,6
+Georgetown,FOLLY GROVE,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Georgetown,FOLLY GROVE,Governor,,Pamela Evette,REP,41,1,0,0,0,0,40
+Georgetown,FOLLY GROVE,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Georgetown,FOLLY GROVE,Governor,,Nancy Mace,REP,12,0,0,0,0,0,12
+Georgetown,FOLLY GROVE,Governor,,Ralph W Norman,REP,4,0,0,0,0,0,4
+Georgetown,FOLLY GROVE,Governor,,Rom Reddy,REP,7,2,0,0,0,0,5
+Georgetown,FOLLY GROVE,Governor,,Alan Wilson,REP,66,3,0,0,0,0,63
+Georgetown,FOLLY GROVE,Governor,,Jermaine Johnson,DEM,53,30,0,0,0,0,23
+Georgetown,FOLLY GROVE,Governor,,Mullins McLeod,DEM,12,8,0,0,0,0,4
+Georgetown,FOLLY GROVE,Governor,,Billy Webster,DEM,16,8,0,0,0,0,8
+Georgetown,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Governor,,Rom Reddy,REP,1,0,1,0,0,0,0
+Georgetown,Failsafe Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,1,0,1,0,0,0,0
+Georgetown,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 1,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Georgetown,GEORGETOWN NO. 1,Governor,,Pamela Evette,REP,50,14,0,0,0,0,36
+Georgetown,GEORGETOWN NO. 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 1,Governor,,Nancy Mace,REP,16,1,0,0,0,0,15
+Georgetown,GEORGETOWN NO. 1,Governor,,Ralph W Norman,REP,16,6,0,0,0,2,8
+Georgetown,GEORGETOWN NO. 1,Governor,,Rom Reddy,REP,32,8,0,0,0,0,24
+Georgetown,GEORGETOWN NO. 1,Governor,,Alan Wilson,REP,70,23,0,0,0,0,47
+Georgetown,GEORGETOWN NO. 1,Governor,,Jermaine Johnson,DEM,70,44,0,0,0,1,25
+Georgetown,GEORGETOWN NO. 1,Governor,,Mullins McLeod,DEM,14,11,0,0,0,1,2
+Georgetown,GEORGETOWN NO. 1,Governor,,Billy Webster,DEM,38,24,0,0,0,0,14
+Georgetown,GEORGETOWN NO. 3,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,1,0
+Georgetown,GEORGETOWN NO. 3,Governor,,Pamela Evette,REP,8,2,0,0,0,0,6
+Georgetown,GEORGETOWN NO. 3,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 3,Governor,,Nancy Mace,REP,6,0,0,0,0,0,6
+Georgetown,GEORGETOWN NO. 3,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 3,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 3,Governor,,Alan Wilson,REP,13,2,0,0,0,0,11
+Georgetown,GEORGETOWN NO. 3,Governor,,Jermaine Johnson,DEM,170,92,0,0,0,2,76
+Georgetown,GEORGETOWN NO. 3,Governor,,Mullins McLeod,DEM,79,48,0,0,0,11,20
+Georgetown,GEORGETOWN NO. 3,Governor,,Billy Webster,DEM,39,29,0,0,0,1,9
+Georgetown,GEORGETOWN NO. 4,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 4,Governor,,Pamela Evette,REP,23,6,0,0,0,0,17
+Georgetown,GEORGETOWN NO. 4,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 4,Governor,,Nancy Mace,REP,13,3,0,0,0,1,9
+Georgetown,GEORGETOWN NO. 4,Governor,,Ralph W Norman,REP,11,2,0,0,0,0,9
+Georgetown,GEORGETOWN NO. 4,Governor,,Rom Reddy,REP,13,1,0,0,0,0,12
+Georgetown,GEORGETOWN NO. 4,Governor,,Alan Wilson,REP,41,9,0,0,0,1,31
+Georgetown,GEORGETOWN NO. 4,Governor,,Jermaine Johnson,DEM,30,14,0,0,0,1,15
+Georgetown,GEORGETOWN NO. 4,Governor,,Mullins McLeod,DEM,11,7,0,0,0,0,4
+Georgetown,GEORGETOWN NO. 4,Governor,,Billy Webster,DEM,19,13,0,0,0,0,6
+Georgetown,GEORGETOWN NO. 5,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 5,Governor,,Pamela Evette,REP,91,26,0,0,0,0,65
+Georgetown,GEORGETOWN NO. 5,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 5,Governor,,Nancy Mace,REP,29,7,0,0,0,0,22
+Georgetown,GEORGETOWN NO. 5,Governor,,Ralph W Norman,REP,26,6,0,0,0,0,20
+Georgetown,GEORGETOWN NO. 5,Governor,,Rom Reddy,REP,30,7,0,0,0,1,22
+Georgetown,GEORGETOWN NO. 5,Governor,,Alan Wilson,REP,57,10,0,0,0,0,47
+Georgetown,GEORGETOWN NO. 5,Governor,,Jermaine Johnson,DEM,112,60,0,0,0,4,48
+Georgetown,GEORGETOWN NO. 5,Governor,,Mullins McLeod,DEM,26,15,0,0,0,0,11
+Georgetown,GEORGETOWN NO. 5,Governor,,Billy Webster,DEM,41,21,0,0,0,0,20
+Georgetown,KENSINGTON,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Georgetown,KENSINGTON,Governor,,Pamela Evette,REP,68,12,0,0,0,0,56
+Georgetown,KENSINGTON,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Georgetown,KENSINGTON,Governor,,Nancy Mace,REP,33,6,0,0,0,1,26
+Georgetown,KENSINGTON,Governor,,Ralph W Norman,REP,22,5,0,0,0,1,16
+Georgetown,KENSINGTON,Governor,,Rom Reddy,REP,15,5,0,0,0,0,10
+Georgetown,KENSINGTON,Governor,,Alan Wilson,REP,58,22,0,0,0,0,36
+Georgetown,KENSINGTON,Governor,,Jermaine Johnson,DEM,55,20,0,0,0,1,34
+Georgetown,KENSINGTON,Governor,,Mullins McLeod,DEM,31,20,0,0,0,0,11
+Georgetown,KENSINGTON,Governor,,Billy Webster,DEM,27,6,0,0,0,2,19
+Georgetown,LAMBERT TOWN,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,LAMBERT TOWN,Governor,,Pamela Evette,REP,31,0,0,0,0,0,31
+Georgetown,LAMBERT TOWN,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Georgetown,LAMBERT TOWN,Governor,,Nancy Mace,REP,19,1,0,0,0,0,18
+Georgetown,LAMBERT TOWN,Governor,,Ralph W Norman,REP,1,0,0,0,0,0,1
+Georgetown,LAMBERT TOWN,Governor,,Rom Reddy,REP,11,0,0,0,0,0,11
+Georgetown,LAMBERT TOWN,Governor,,Alan Wilson,REP,21,1,0,0,0,0,20
+Georgetown,LAMBERT TOWN,Governor,,Jermaine Johnson,DEM,16,11,0,0,0,0,5
+Georgetown,LAMBERT TOWN,Governor,,Mullins McLeod,DEM,3,2,0,0,0,0,1
+Georgetown,LAMBERT TOWN,Governor,,Billy Webster,DEM,3,3,0,0,0,0,0
+Georgetown,MURRELL'S INLET NO. 1,Governor,,Jacqueline Hicks DuBose,REP,8,1,0,0,0,0,7
+Georgetown,MURRELL'S INLET NO. 1,Governor,,Pamela Evette,REP,349,110,0,0,0,6,233
+Georgetown,MURRELL'S INLET NO. 1,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Georgetown,MURRELL'S INLET NO. 1,Governor,,Nancy Mace,REP,92,28,0,0,0,1,63
+Georgetown,MURRELL'S INLET NO. 1,Governor,,Ralph W Norman,REP,73,21,0,0,0,0,52
+Georgetown,MURRELL'S INLET NO. 1,Governor,,Rom Reddy,REP,103,50,0,0,0,0,53
+Georgetown,MURRELL'S INLET NO. 1,Governor,,Alan Wilson,REP,166,68,0,0,0,3,95
+Georgetown,MURRELL'S INLET NO. 1,Governor,,Jermaine Johnson,DEM,88,44,0,0,0,2,42
+Georgetown,MURRELL'S INLET NO. 1,Governor,,Mullins McLeod,DEM,32,16,0,0,0,0,16
+Georgetown,MURRELL'S INLET NO. 1,Governor,,Billy Webster,DEM,83,35,0,0,0,4,44
+Georgetown,MURRELL'S INLET NO. 2,Governor,,Jacqueline Hicks DuBose,REP,3,3,0,0,0,0,0
+Georgetown,MURRELL'S INLET NO. 2,Governor,,Pamela Evette,REP,136,37,0,0,0,1,98
+Georgetown,MURRELL'S INLET NO. 2,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Georgetown,MURRELL'S INLET NO. 2,Governor,,Nancy Mace,REP,47,11,0,0,0,1,35
+Georgetown,MURRELL'S INLET NO. 2,Governor,,Ralph W Norman,REP,34,8,0,0,0,0,26
+Georgetown,MURRELL'S INLET NO. 2,Governor,,Rom Reddy,REP,63,18,0,0,0,0,45
+Georgetown,MURRELL'S INLET NO. 2,Governor,,Alan Wilson,REP,87,24,0,0,0,0,63
+Georgetown,MURRELL'S INLET NO. 2,Governor,,Jermaine Johnson,DEM,62,22,0,0,0,0,40
+Georgetown,MURRELL'S INLET NO. 2,Governor,,Mullins McLeod,DEM,32,19,0,0,0,0,13
+Georgetown,MURRELL'S INLET NO. 2,Governor,,Billy Webster,DEM,59,28,0,0,0,0,31
+Georgetown,MURRELL'S INLET NO. 3,Governor,,Jacqueline Hicks DuBose,REP,3,0,0,0,0,0,3
+Georgetown,MURRELL'S INLET NO. 3,Governor,,Pamela Evette,REP,70,19,0,0,0,0,51
+Georgetown,MURRELL'S INLET NO. 3,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Georgetown,MURRELL'S INLET NO. 3,Governor,,Nancy Mace,REP,27,3,0,0,0,0,24
+Georgetown,MURRELL'S INLET NO. 3,Governor,,Ralph W Norman,REP,18,3,0,0,0,0,15
+Georgetown,MURRELL'S INLET NO. 3,Governor,,Rom Reddy,REP,23,10,0,0,0,0,13
+Georgetown,MURRELL'S INLET NO. 3,Governor,,Alan Wilson,REP,42,17,0,0,0,0,25
+Georgetown,MURRELL'S INLET NO. 3,Governor,,Jermaine Johnson,DEM,29,14,0,0,0,0,15
+Georgetown,MURRELL'S INLET NO. 3,Governor,,Mullins McLeod,DEM,3,2,0,0,0,0,1
+Georgetown,MURRELL'S INLET NO. 3,Governor,,Billy Webster,DEM,23,11,0,0,0,0,12
+Georgetown,MURRELL'S INLET NO. 4,Governor,,Jacqueline Hicks DuBose,REP,3,1,0,0,0,0,2
+Georgetown,MURRELL'S INLET NO. 4,Governor,,Pamela Evette,REP,156,30,0,0,0,2,124
+Georgetown,MURRELL'S INLET NO. 4,Governor,,Joshua Kimbrell,REP,5,2,0,0,0,0,3
+Georgetown,MURRELL'S INLET NO. 4,Governor,,Nancy Mace,REP,42,9,0,0,0,2,31
+Georgetown,MURRELL'S INLET NO. 4,Governor,,Ralph W Norman,REP,41,7,0,0,0,0,34
+Georgetown,MURRELL'S INLET NO. 4,Governor,,Rom Reddy,REP,39,17,0,0,0,0,22
+Georgetown,MURRELL'S INLET NO. 4,Governor,,Alan Wilson,REP,90,17,0,0,0,1,72
+Georgetown,MURRELL'S INLET NO. 4,Governor,,Jermaine Johnson,DEM,37,12,0,0,0,0,25
+Georgetown,MURRELL'S INLET NO. 4,Governor,,Mullins McLeod,DEM,11,4,0,0,0,1,6
+Georgetown,MURRELL'S INLET NO. 4,Governor,,Billy Webster,DEM,25,9,0,0,0,0,16
+Georgetown,MYERSVILLE,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,MYERSVILLE,Governor,,Pamela Evette,REP,2,0,0,0,0,0,2
+Georgetown,MYERSVILLE,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,MYERSVILLE,Governor,,Nancy Mace,REP,2,0,0,0,0,0,2
+Georgetown,MYERSVILLE,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Georgetown,MYERSVILLE,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Georgetown,MYERSVILLE,Governor,,Alan Wilson,REP,2,0,0,0,0,0,2
+Georgetown,MYERSVILLE,Governor,,Jermaine Johnson,DEM,132,22,0,0,0,0,110
+Georgetown,MYERSVILLE,Governor,,Mullins McLeod,DEM,13,4,0,0,0,0,9
+Georgetown,MYERSVILLE,Governor,,Billy Webster,DEM,10,5,0,0,0,0,5
+Georgetown,PAWLEY'S ISLAND NO. 1,Governor,,Jacqueline Hicks DuBose,REP,24,14,0,0,0,0,10
+Georgetown,PAWLEY'S ISLAND NO. 1,Governor,,Pamela Evette,REP,394,210,0,0,0,8,176
+Georgetown,PAWLEY'S ISLAND NO. 1,Governor,,Joshua Kimbrell,REP,11,5,0,0,0,0,6
+Georgetown,PAWLEY'S ISLAND NO. 1,Governor,,Nancy Mace,REP,164,88,0,0,0,1,75
+Georgetown,PAWLEY'S ISLAND NO. 1,Governor,,Ralph W Norman,REP,144,73,0,0,0,3,68
+Georgetown,PAWLEY'S ISLAND NO. 1,Governor,,Rom Reddy,REP,187,101,0,0,0,3,83
+Georgetown,PAWLEY'S ISLAND NO. 1,Governor,,Alan Wilson,REP,232,119,0,0,0,6,107
+Georgetown,PAWLEY'S ISLAND NO. 1,Governor,,Jermaine Johnson,DEM,115,63,0,0,0,2,50
+Georgetown,PAWLEY'S ISLAND NO. 1,Governor,,Mullins McLeod,DEM,28,17,0,0,0,0,11
+Georgetown,PAWLEY'S ISLAND NO. 1,Governor,,Billy Webster,DEM,120,81,0,0,0,1,38
+Georgetown,PAWLEY'S ISLAND NO. 2,Governor,,Jacqueline Hicks DuBose,REP,14,9,0,0,0,0,5
+Georgetown,PAWLEY'S ISLAND NO. 2,Governor,,Pamela Evette,REP,254,133,0,0,0,0,121
+Georgetown,PAWLEY'S ISLAND NO. 2,Governor,,Joshua Kimbrell,REP,8,5,0,0,0,0,3
+Georgetown,PAWLEY'S ISLAND NO. 2,Governor,,Nancy Mace,REP,126,65,0,0,0,1,60
+Georgetown,PAWLEY'S ISLAND NO. 2,Governor,,Ralph W Norman,REP,77,32,0,0,0,0,45
+Georgetown,PAWLEY'S ISLAND NO. 2,Governor,,Rom Reddy,REP,123,70,0,0,0,3,50
+Georgetown,PAWLEY'S ISLAND NO. 2,Governor,,Alan Wilson,REP,134,58,0,0,0,2,74
+Georgetown,PAWLEY'S ISLAND NO. 2,Governor,,Jermaine Johnson,DEM,249,176,0,0,0,2,71
+Georgetown,PAWLEY'S ISLAND NO. 2,Governor,,Mullins McLeod,DEM,64,46,0,0,0,0,18
+Georgetown,PAWLEY'S ISLAND NO. 2,Governor,,Billy Webster,DEM,132,95,0,0,0,1,36
+Georgetown,PAWLEY'S ISLAND NO. 3,Governor,,Jacqueline Hicks DuBose,REP,8,4,0,0,0,0,4
+Georgetown,PAWLEY'S ISLAND NO. 3,Governor,,Pamela Evette,REP,209,80,0,0,0,0,129
+Georgetown,PAWLEY'S ISLAND NO. 3,Governor,,Joshua Kimbrell,REP,5,2,0,0,0,0,3
+Georgetown,PAWLEY'S ISLAND NO. 3,Governor,,Nancy Mace,REP,88,36,0,0,0,0,52
+Georgetown,PAWLEY'S ISLAND NO. 3,Governor,,Ralph W Norman,REP,70,26,0,0,0,1,43
+Georgetown,PAWLEY'S ISLAND NO. 3,Governor,,Rom Reddy,REP,88,36,0,0,0,0,52
+Georgetown,PAWLEY'S ISLAND NO. 3,Governor,,Alan Wilson,REP,201,84,0,0,0,0,117
+Georgetown,PAWLEY'S ISLAND NO. 3,Governor,,Jermaine Johnson,DEM,94,59,0,0,0,2,33
+Georgetown,PAWLEY'S ISLAND NO. 3,Governor,,Mullins McLeod,DEM,35,19,0,0,0,3,13
+Georgetown,PAWLEY'S ISLAND NO. 3,Governor,,Billy Webster,DEM,102,61,0,0,0,0,41
+Georgetown,PAWLEY'S ISLAND NO. 4,Governor,,Jacqueline Hicks DuBose,REP,13,9,0,0,0,0,4
+Georgetown,PAWLEY'S ISLAND NO. 4,Governor,,Pamela Evette,REP,229,77,0,0,0,1,151
+Georgetown,PAWLEY'S ISLAND NO. 4,Governor,,Joshua Kimbrell,REP,9,3,0,0,0,1,5
+Georgetown,PAWLEY'S ISLAND NO. 4,Governor,,Nancy Mace,REP,109,27,0,0,0,0,82
+Georgetown,PAWLEY'S ISLAND NO. 4,Governor,,Ralph W Norman,REP,87,36,0,0,0,4,47
+Georgetown,PAWLEY'S ISLAND NO. 4,Governor,,Rom Reddy,REP,103,42,0,0,0,2,59
+Georgetown,PAWLEY'S ISLAND NO. 4,Governor,,Alan Wilson,REP,228,120,0,0,0,0,108
+Georgetown,PAWLEY'S ISLAND NO. 4,Governor,,Jermaine Johnson,DEM,82,50,0,0,0,1,31
+Georgetown,PAWLEY'S ISLAND NO. 4,Governor,,Mullins McLeod,DEM,22,13,0,0,0,3,6
+Georgetown,PAWLEY'S ISLAND NO. 4,Governor,,Billy Webster,DEM,94,65,0,0,0,0,29
+Georgetown,PAWLEY'S ISLAND NO. 5,Governor,,Jacqueline Hicks DuBose,REP,19,14,0,0,0,0,5
+Georgetown,PAWLEY'S ISLAND NO. 5,Governor,,Pamela Evette,REP,395,216,0,0,0,3,176
+Georgetown,PAWLEY'S ISLAND NO. 5,Governor,,Joshua Kimbrell,REP,7,5,0,0,0,0,2
+Georgetown,PAWLEY'S ISLAND NO. 5,Governor,,Nancy Mace,REP,142,67,0,0,0,5,70
+Georgetown,PAWLEY'S ISLAND NO. 5,Governor,,Ralph W Norman,REP,101,38,0,0,0,3,60
+Georgetown,PAWLEY'S ISLAND NO. 5,Governor,,Rom Reddy,REP,131,81,0,0,0,2,48
+Georgetown,PAWLEY'S ISLAND NO. 5,Governor,,Alan Wilson,REP,212,92,0,0,0,1,119
+Georgetown,PAWLEY'S ISLAND NO. 5,Governor,,Jermaine Johnson,DEM,95,64,0,0,0,1,30
+Georgetown,PAWLEY'S ISLAND NO. 5,Governor,,Mullins McLeod,DEM,23,14,0,0,0,4,5
+Georgetown,PAWLEY'S ISLAND NO. 5,Governor,,Billy Webster,DEM,125,78,0,0,0,3,44
+Georgetown,PEE DEE,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Georgetown,PEE DEE,Governor,,Pamela Evette,REP,16,4,0,0,0,0,12
+Georgetown,PEE DEE,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,PEE DEE,Governor,,Nancy Mace,REP,5,4,0,0,0,0,1
+Georgetown,PEE DEE,Governor,,Ralph W Norman,REP,4,3,0,0,0,0,1
+Georgetown,PEE DEE,Governor,,Rom Reddy,REP,7,7,0,0,0,0,0
+Georgetown,PEE DEE,Governor,,Alan Wilson,REP,12,5,0,0,0,0,7
+Georgetown,PEE DEE,Governor,,Jermaine Johnson,DEM,104,33,0,0,0,0,71
+Georgetown,PEE DEE,Governor,,Mullins McLeod,DEM,13,7,0,0,0,0,6
+Georgetown,PEE DEE,Governor,,Billy Webster,DEM,12,3,0,0,0,0,9
+Georgetown,PENNY ROYAL,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Georgetown,PENNY ROYAL,Governor,,Pamela Evette,REP,24,5,0,0,0,0,19
+Georgetown,PENNY ROYAL,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,PENNY ROYAL,Governor,,Nancy Mace,REP,9,1,0,0,0,0,8
+Georgetown,PENNY ROYAL,Governor,,Ralph W Norman,REP,5,1,0,0,0,2,2
+Georgetown,PENNY ROYAL,Governor,,Rom Reddy,REP,1,1,0,0,0,0,0
+Georgetown,PENNY ROYAL,Governor,,Alan Wilson,REP,25,6,0,0,0,0,19
+Georgetown,PENNY ROYAL,Governor,,Jermaine Johnson,DEM,27,16,0,0,0,0,11
+Georgetown,PENNY ROYAL,Governor,,Mullins McLeod,DEM,20,16,0,0,0,0,4
+Georgetown,PENNY ROYAL,Governor,,Billy Webster,DEM,10,4,0,0,0,0,6
+Georgetown,PLANTERSVILLE,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,PLANTERSVILLE,Governor,,Pamela Evette,REP,7,3,0,0,0,0,4
+Georgetown,PLANTERSVILLE,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,PLANTERSVILLE,Governor,,Nancy Mace,REP,6,2,0,0,0,0,4
+Georgetown,PLANTERSVILLE,Governor,,Ralph W Norman,REP,4,0,0,0,0,0,4
+Georgetown,PLANTERSVILLE,Governor,,Rom Reddy,REP,9,3,0,0,0,0,6
+Georgetown,PLANTERSVILLE,Governor,,Alan Wilson,REP,16,7,0,0,0,0,9
+Georgetown,PLANTERSVILLE,Governor,,Jermaine Johnson,DEM,123,33,0,0,0,1,89
+Georgetown,PLANTERSVILLE,Governor,,Mullins McLeod,DEM,43,27,0,0,0,0,16
+Georgetown,PLANTERSVILLE,Governor,,Billy Webster,DEM,27,12,0,0,0,0,15
+Georgetown,PLEASANT HILL,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Georgetown,PLEASANT HILL,Governor,,Pamela Evette,REP,38,3,0,0,0,0,35
+Georgetown,PLEASANT HILL,Governor,,Joshua Kimbrell,REP,3,0,0,0,0,0,3
+Georgetown,PLEASANT HILL,Governor,,Nancy Mace,REP,10,1,0,0,0,0,9
+Georgetown,PLEASANT HILL,Governor,,Ralph W Norman,REP,8,1,0,0,0,0,7
+Georgetown,PLEASANT HILL,Governor,,Rom Reddy,REP,10,2,0,0,0,0,8
+Georgetown,PLEASANT HILL,Governor,,Alan Wilson,REP,40,3,0,0,0,1,36
+Georgetown,PLEASANT HILL,Governor,,Jermaine Johnson,DEM,64,44,0,0,0,0,20
+Georgetown,PLEASANT HILL,Governor,,Mullins McLeod,DEM,15,11,0,0,0,0,4
+Georgetown,PLEASANT HILL,Governor,,Billy Webster,DEM,13,9,0,0,0,0,4
+Georgetown,POTATO BED FERRY,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,POTATO BED FERRY,Governor,,Pamela Evette,REP,20,6,0,0,0,0,14
+Georgetown,POTATO BED FERRY,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,POTATO BED FERRY,Governor,,Nancy Mace,REP,20,0,0,0,0,0,20
+Georgetown,POTATO BED FERRY,Governor,,Ralph W Norman,REP,3,0,0,0,0,0,3
+Georgetown,POTATO BED FERRY,Governor,,Rom Reddy,REP,17,2,0,0,0,0,15
+Georgetown,POTATO BED FERRY,Governor,,Alan Wilson,REP,32,6,0,0,0,0,26
+Georgetown,POTATO BED FERRY,Governor,,Jermaine Johnson,DEM,44,18,0,0,0,0,26
+Georgetown,POTATO BED FERRY,Governor,,Mullins McLeod,DEM,11,6,0,0,0,0,5
+Georgetown,POTATO BED FERRY,Governor,,Billy Webster,DEM,22,8,0,0,0,0,14
+Georgetown,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Georgetown,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,Provisional,Governor,,Nancy Mace,REP,1,0,0,1,0,0,0
+Georgetown,Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Georgetown,Provisional,Governor,,Rom Reddy,REP,1,0,0,1,0,0,0
+Georgetown,Provisional,Governor,,Alan Wilson,REP,1,0,0,1,0,0,0
+Georgetown,Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Georgetown,Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Georgetown,Provisional,Governor,,Billy Webster,DEM,1,0,0,1,0,0,0
+Georgetown,SAMPIT,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,SAMPIT,Governor,,Pamela Evette,REP,7,2,0,0,0,0,5
+Georgetown,SAMPIT,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,SAMPIT,Governor,,Nancy Mace,REP,9,0,0,0,0,0,9
+Georgetown,SAMPIT,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Georgetown,SAMPIT,Governor,,Rom Reddy,REP,2,0,0,0,0,0,2
+Georgetown,SAMPIT,Governor,,Alan Wilson,REP,7,2,0,0,0,0,5
+Georgetown,SAMPIT,Governor,,Jermaine Johnson,DEM,166,71,0,0,0,2,93
+Georgetown,SAMPIT,Governor,,Mullins McLeod,DEM,37,26,0,0,0,0,11
+Georgetown,SAMPIT,Governor,,Billy Webster,DEM,34,22,0,0,0,0,12
+Georgetown,SANTEE,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,SANTEE,Governor,,Pamela Evette,REP,11,0,0,0,0,0,11
+Georgetown,SANTEE,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Georgetown,SANTEE,Governor,,Nancy Mace,REP,3,2,0,0,0,0,1
+Georgetown,SANTEE,Governor,,Ralph W Norman,REP,1,0,0,0,0,0,1
+Georgetown,SANTEE,Governor,,Rom Reddy,REP,3,1,0,0,0,0,2
+Georgetown,SANTEE,Governor,,Alan Wilson,REP,7,1,0,0,0,0,6
+Georgetown,SANTEE,Governor,,Jermaine Johnson,DEM,162,68,0,0,0,1,93
+Georgetown,SANTEE,Governor,,Mullins McLeod,DEM,55,21,0,0,0,0,34
+Georgetown,SANTEE,Governor,,Billy Webster,DEM,82,36,0,0,0,0,46
+Georgetown,SPRING GULLY,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Georgetown,SPRING GULLY,Governor,,Pamela Evette,REP,38,10,0,0,0,0,28
+Georgetown,SPRING GULLY,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Georgetown,SPRING GULLY,Governor,,Nancy Mace,REP,19,4,0,0,0,0,15
+Georgetown,SPRING GULLY,Governor,,Ralph W Norman,REP,3,0,0,0,0,0,3
+Georgetown,SPRING GULLY,Governor,,Rom Reddy,REP,8,3,0,0,0,0,5
+Georgetown,SPRING GULLY,Governor,,Alan Wilson,REP,35,14,0,0,0,0,21
+Georgetown,SPRING GULLY,Governor,,Jermaine Johnson,DEM,170,93,0,0,0,2,75
+Georgetown,SPRING GULLY,Governor,,Mullins McLeod,DEM,53,31,0,0,0,0,22
+Georgetown,SPRING GULLY,Governor,,Billy Webster,DEM,28,20,0,0,0,0,8
+Georgetown,WINYAH BAY,Governor,,Jacqueline Hicks DuBose,REP,4,1,0,0,0,1,2
+Georgetown,WINYAH BAY,Governor,,Pamela Evette,REP,61,16,0,0,0,0,45
+Georgetown,WINYAH BAY,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Georgetown,WINYAH BAY,Governor,,Nancy Mace,REP,24,9,0,0,0,0,15
+Georgetown,WINYAH BAY,Governor,,Ralph W Norman,REP,16,4,0,0,0,0,12
+Georgetown,WINYAH BAY,Governor,,Rom Reddy,REP,24,8,0,0,0,0,16
+Georgetown,WINYAH BAY,Governor,,Alan Wilson,REP,49,20,0,0,0,0,29
+Georgetown,WINYAH BAY,Governor,,Jermaine Johnson,DEM,44,20,0,0,0,0,24
+Georgetown,WINYAH BAY,Governor,,Mullins McLeod,DEM,14,4,0,0,0,0,10
+Georgetown,WINYAH BAY,Governor,,Billy Webster,DEM,16,7,0,0,0,0,9
+Georgetown,ANDREWS,Secretary of State,,Jason Belton,DEM,155,84,0,0,0,1,70
+Georgetown,ANDREWS,Secretary of State,,Edwina Winter,DEM,134,82,0,0,0,1,51
+Georgetown,ANDREWS OUTSIDE,Secretary of State,,Jason Belton,DEM,66,35,0,0,0,0,31
+Georgetown,ANDREWS OUTSIDE,Secretary of State,,Edwina Winter,DEM,63,32,0,0,0,0,31
+Georgetown,BETHEL,Secretary of State,,Jason Belton,DEM,16,4,0,0,0,0,12
+Georgetown,BETHEL,Secretary of State,,Edwina Winter,DEM,17,7,0,0,0,0,10
+Georgetown,BLACK RIVER,Secretary of State,,Jason Belton,DEM,42,24,0,0,0,0,18
+Georgetown,BLACK RIVER,Secretary of State,,Edwina Winter,DEM,58,34,0,0,0,1,23
+Georgetown,BROWN'S FERRY,Secretary of State,,Jason Belton,DEM,349,163,0,0,0,3,183
+Georgetown,BROWN'S FERRY,Secretary of State,,Edwina Winter,DEM,102,60,0,0,0,2,40
+Georgetown,CARVER'S BAY,Secretary of State,,Jason Belton,DEM,4,1,0,0,0,0,3
+Georgetown,CARVER'S BAY,Secretary of State,,Edwina Winter,DEM,7,3,0,0,0,0,4
+Georgetown,CHOPPEE,Secretary of State,,Jason Belton,DEM,150,99,0,0,0,0,51
+Georgetown,CHOPPEE,Secretary of State,,Edwina Winter,DEM,57,42,0,0,0,1,14
+Georgetown,DREAM KEEPERS,Secretary of State,,Jason Belton,DEM,147,79,0,0,0,7,61
+Georgetown,DREAM KEEPERS,Secretary of State,,Edwina Winter,DEM,68,32,0,0,0,1,35
+Georgetown,FOLLY GROVE,Secretary of State,,Jason Belton,DEM,50,29,0,0,0,0,21
+Georgetown,FOLLY GROVE,Secretary of State,,Edwina Winter,DEM,31,17,0,0,0,0,14
+Georgetown,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,1,0,1,0,0,0,0
+Georgetown,GEORGETOWN NO. 1,Secretary of State,,Jason Belton,DEM,60,36,0,0,0,2,22
+Georgetown,GEORGETOWN NO. 1,Secretary of State,,Edwina Winter,DEM,51,37,0,0,0,0,14
+Georgetown,GEORGETOWN NO. 3,Secretary of State,,Jason Belton,DEM,180,93,0,0,0,12,75
+Georgetown,GEORGETOWN NO. 3,Secretary of State,,Edwina Winter,DEM,95,66,0,0,0,2,27
+Georgetown,GEORGETOWN NO. 4,Secretary of State,,Jason Belton,DEM,28,18,0,0,0,1,9
+Georgetown,GEORGETOWN NO. 4,Secretary of State,,Edwina Winter,DEM,27,15,0,0,0,0,12
+Georgetown,GEORGETOWN NO. 5,Secretary of State,,Jason Belton,DEM,101,53,0,0,0,2,46
+Georgetown,GEORGETOWN NO. 5,Secretary of State,,Edwina Winter,DEM,68,39,0,0,0,2,27
+Georgetown,KENSINGTON,Secretary of State,,Jason Belton,DEM,55,28,0,0,0,1,26
+Georgetown,KENSINGTON,Secretary of State,,Edwina Winter,DEM,56,18,0,0,0,2,36
+Georgetown,LAMBERT TOWN,Secretary of State,,Jason Belton,DEM,13,9,0,0,0,0,4
+Georgetown,LAMBERT TOWN,Secretary of State,,Edwina Winter,DEM,9,7,0,0,0,0,2
+Georgetown,MURRELL'S INLET NO. 1,Secretary of State,,Jason Belton,DEM,80,37,0,0,0,1,42
+Georgetown,MURRELL'S INLET NO. 1,Secretary of State,,Edwina Winter,DEM,115,52,0,0,0,5,58
+Georgetown,MURRELL'S INLET NO. 2,Secretary of State,,Jason Belton,DEM,65,33,0,0,0,0,32
+Georgetown,MURRELL'S INLET NO. 2,Secretary of State,,Edwina Winter,DEM,83,32,0,0,0,0,51
+Georgetown,MURRELL'S INLET NO. 3,Secretary of State,,Jason Belton,DEM,23,8,0,0,0,0,15
+Georgetown,MURRELL'S INLET NO. 3,Secretary of State,,Edwina Winter,DEM,29,19,0,0,0,0,10
+Georgetown,MURRELL'S INLET NO. 4,Secretary of State,,Jason Belton,DEM,32,11,0,0,0,1,20
+Georgetown,MURRELL'S INLET NO. 4,Secretary of State,,Edwina Winter,DEM,36,11,0,0,0,0,25
+Georgetown,MYERSVILLE,Secretary of State,,Jason Belton,DEM,134,24,0,0,0,0,110
+Georgetown,MYERSVILLE,Secretary of State,,Edwina Winter,DEM,21,8,0,0,0,0,13
+Georgetown,PAWLEY'S ISLAND NO. 1,Secretary of State,,Jason Belton,DEM,103,62,0,0,0,2,39
+Georgetown,PAWLEY'S ISLAND NO. 1,Secretary of State,,Edwina Winter,DEM,149,89,0,0,0,1,59
+Georgetown,PAWLEY'S ISLAND NO. 2,Secretary of State,,Jason Belton,DEM,172,126,0,0,0,1,45
+Georgetown,PAWLEY'S ISLAND NO. 2,Secretary of State,,Edwina Winter,DEM,260,182,0,0,0,2,76
+Georgetown,PAWLEY'S ISLAND NO. 3,Secretary of State,,Jason Belton,DEM,106,65,0,0,0,0,41
+Georgetown,PAWLEY'S ISLAND NO. 3,Secretary of State,,Edwina Winter,DEM,106,63,0,0,0,4,39
+Georgetown,PAWLEY'S ISLAND NO. 4,Secretary of State,,Jason Belton,DEM,70,45,0,0,0,1,24
+Georgetown,PAWLEY'S ISLAND NO. 4,Secretary of State,,Edwina Winter,DEM,112,75,0,0,0,3,34
+Georgetown,PAWLEY'S ISLAND NO. 5,Secretary of State,,Jason Belton,DEM,81,51,0,0,0,3,27
+Georgetown,PAWLEY'S ISLAND NO. 5,Secretary of State,,Edwina Winter,DEM,144,96,0,0,0,5,43
+Georgetown,PEE DEE,Secretary of State,,Jason Belton,DEM,85,34,0,0,0,0,51
+Georgetown,PEE DEE,Secretary of State,,Edwina Winter,DEM,43,10,0,0,0,0,33
+Georgetown,PENNY ROYAL,Secretary of State,,Jason Belton,DEM,28,19,0,0,0,0,9
+Georgetown,PENNY ROYAL,Secretary of State,,Edwina Winter,DEM,24,12,0,0,0,0,12
+Georgetown,PLANTERSVILLE,Secretary of State,,Jason Belton,DEM,135,46,0,0,0,1,88
+Georgetown,PLANTERSVILLE,Secretary of State,,Edwina Winter,DEM,49,22,0,0,0,0,27
+Georgetown,PLEASANT HILL,Secretary of State,,Jason Belton,DEM,65,50,0,0,0,0,15
+Georgetown,PLEASANT HILL,Secretary of State,,Edwina Winter,DEM,28,14,0,0,0,0,14
+Georgetown,POTATO BED FERRY,Secretary of State,,Jason Belton,DEM,34,15,0,0,0,0,19
+Georgetown,POTATO BED FERRY,Secretary of State,,Edwina Winter,DEM,43,16,0,0,0,0,27
+Georgetown,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Georgetown,Provisional,Secretary of State,,Edwina Winter,DEM,1,0,0,1,0,0,0
+Georgetown,SAMPIT,Secretary of State,,Jason Belton,DEM,164,74,0,0,0,2,88
+Georgetown,SAMPIT,Secretary of State,,Edwina Winter,DEM,67,42,0,0,0,0,25
+Georgetown,SANTEE,Secretary of State,,Jason Belton,DEM,163,75,0,0,0,1,87
+Georgetown,SANTEE,Secretary of State,,Edwina Winter,DEM,131,47,0,0,0,0,84
+Georgetown,SPRING GULLY,Secretary of State,,Jason Belton,DEM,167,97,0,0,0,2,68
+Georgetown,SPRING GULLY,Secretary of State,,Edwina Winter,DEM,79,44,0,0,0,0,35
+Georgetown,WINYAH BAY,Secretary of State,,Jason Belton,DEM,37,13,0,0,0,0,24
+Georgetown,WINYAH BAY,Secretary of State,,Edwina Winter,DEM,34,16,0,0,0,0,18
+Georgetown,ANDREWS,State House,103,Carl Anderson,DEM,205,128,0,0,0,1,76
+Georgetown,ANDREWS,State House,103,Wendell M Padgett,DEM,97,43,0,0,0,1,53
+Georgetown,ANDREWS OUTSIDE,State House,103,Carl Anderson,DEM,101,58,0,0,0,0,43
+Georgetown,ANDREWS OUTSIDE,State House,103,Wendell M Padgett,DEM,30,9,0,0,0,0,21
+Georgetown,BETHEL,State House,103,Carl Anderson,DEM,22,14,0,0,0,0,8
+Georgetown,BETHEL,State House,103,Wendell M Padgett,DEM,14,0,0,0,0,0,14
+Georgetown,BROWN'S FERRY,State House,103,Carl Anderson,DEM,387,199,0,0,0,5,183
+Georgetown,BROWN'S FERRY,State House,103,Wendell M Padgett,DEM,77,27,0,0,0,0,50
+Georgetown,CARVER'S BAY,State House,103,Carl Anderson,DEM,8,3,0,0,0,0,5
+Georgetown,CARVER'S BAY,State House,103,Wendell M Padgett,DEM,5,2,0,0,0,0,3
+Georgetown,CHOPPEE,State House,103,Carl Anderson,DEM,169,122,0,0,0,1,46
+Georgetown,CHOPPEE,State House,103,Wendell M Padgett,DEM,41,22,0,0,0,0,19
+Georgetown,DREAM KEEPERS,State House,103,Carl Anderson,DEM,194,108,0,0,0,8,78
+Georgetown,DREAM KEEPERS,State House,103,Wendell M Padgett,DEM,35,12,0,0,0,0,23
+Georgetown,FOLLY GROVE,State House,103,Carl Anderson,DEM,62,36,0,0,0,0,26
+Georgetown,FOLLY GROVE,State House,103,Wendell M Padgett,DEM,17,9,0,0,0,0,8
+Georgetown,Failsafe,State House,103,Carl Anderson,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe,State House,103,Wendell M Padgett,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,State House,103,Carl Anderson,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,State House,103,Wendell M Padgett,DEM,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 3,State House,103,Carl Anderson,DEM,231,142,0,0,0,11,78
+Georgetown,GEORGETOWN NO. 3,State House,103,Wendell M Padgett,DEM,60,26,0,0,0,3,31
+Georgetown,KENSINGTON,State House,103,Carl Anderson,DEM,74,37,0,0,0,2,35
+Georgetown,KENSINGTON,State House,103,Wendell M Padgett,DEM,22,5,0,0,0,1,16
+Georgetown,LAMBERT TOWN,State House,103,Carl Anderson,DEM,15,13,0,0,0,0,2
+Georgetown,LAMBERT TOWN,State House,103,Wendell M Padgett,DEM,7,3,0,0,0,0,4
+Georgetown,MURRELL'S INLET NO. 3,State House,103,Carl Anderson,DEM,10,6,0,0,0,0,4
+Georgetown,MURRELL'S INLET NO. 3,State House,103,Wendell M Padgett,DEM,1,0,0,0,0,0,1
+Georgetown,MYERSVILLE,State House,103,Carl Anderson,DEM,112,22,0,0,0,0,90
+Georgetown,MYERSVILLE,State House,103,Wendell M Padgett,DEM,42,9,0,0,0,0,33
+Georgetown,PEE DEE,State House,103,Carl Anderson,DEM,101,33,0,0,0,0,68
+Georgetown,PEE DEE,State House,103,Wendell M Padgett,DEM,27,11,0,0,0,0,16
+Georgetown,PENNY ROYAL,State House,103,Carl Anderson,DEM,25,24,0,0,0,0,1
+Georgetown,PENNY ROYAL,State House,103,Wendell M Padgett,DEM,5,4,0,0,0,0,1
+Georgetown,PLANTERSVILLE,State House,103,Carl Anderson,DEM,170,58,0,0,0,1,111
+Georgetown,PLANTERSVILLE,State House,103,Wendell M Padgett,DEM,19,10,0,0,0,0,9
+Georgetown,PLEASANT HILL,State House,103,Carl Anderson,DEM,60,47,0,0,0,0,13
+Georgetown,PLEASANT HILL,State House,103,Wendell M Padgett,DEM,33,18,0,0,0,0,15
+Georgetown,POTATO BED FERRY,State House,103,Carl Anderson,DEM,54,30,0,0,0,0,24
+Georgetown,POTATO BED FERRY,State House,103,Wendell M Padgett,DEM,24,2,0,0,0,0,22
+Georgetown,Provisional,State House,103,Carl Anderson,DEM,0,0,0,0,0,0,0
+Georgetown,Provisional,State House,103,Wendell M Padgett,DEM,0,0,0,0,0,0,0
+Georgetown,SAMPIT,State House,103,Carl Anderson,DEM,189,93,0,0,0,0,96
+Georgetown,SAMPIT,State House,103,Wendell M Padgett,DEM,48,25,0,0,0,2,21
+Georgetown,SANTEE,State House,103,Carl Anderson,DEM,238,99,0,0,0,1,138
+Georgetown,SANTEE,State House,103,Wendell M Padgett,DEM,56,26,0,0,0,0,30
+Georgetown,SPRING GULLY,State House,103,Carl Anderson,DEM,190,110,0,0,0,2,78
+Georgetown,SPRING GULLY,State House,103,Wendell M Padgett,DEM,62,36,0,0,0,0,26
+Georgetown,ANDREWS,State Superintendent of Education,,Lisa Ellis,DEM,77,45,0,0,0,0,32
+Georgetown,ANDREWS,State Superintendent of Education,,Sylvia Wright,DEM,219,125,0,0,0,2,92
+Georgetown,ANDREWS OUTSIDE,State Superintendent of Education,,Lisa Ellis,DEM,30,17,0,0,0,0,13
+Georgetown,ANDREWS OUTSIDE,State Superintendent of Education,,Sylvia Wright,DEM,100,50,0,0,0,0,50
+Georgetown,BETHEL,State Superintendent of Education,,Lisa Ellis,DEM,7,1,0,0,0,0,6
+Georgetown,BETHEL,State Superintendent of Education,,Sylvia Wright,DEM,28,13,0,0,0,0,15
+Georgetown,BLACK RIVER,State Superintendent of Education,,Lisa Ellis,DEM,44,27,0,0,0,0,17
+Georgetown,BLACK RIVER,State Superintendent of Education,,Sylvia Wright,DEM,58,32,0,0,0,0,26
+Georgetown,BROWN'S FERRY,State Superintendent of Education,,Lisa Ellis,DEM,84,43,0,0,0,0,41
+Georgetown,BROWN'S FERRY,State Superintendent of Education,,Sylvia Wright,DEM,370,177,0,0,0,5,188
+Georgetown,CARVER'S BAY,State Superintendent of Education,,Lisa Ellis,DEM,4,2,0,0,0,0,2
+Georgetown,CARVER'S BAY,State Superintendent of Education,,Sylvia Wright,DEM,8,3,0,0,0,0,5
+Georgetown,CHOPPEE,State Superintendent of Education,,Lisa Ellis,DEM,47,31,0,0,0,1,15
+Georgetown,CHOPPEE,State Superintendent of Education,,Sylvia Wright,DEM,162,112,0,0,0,0,50
+Georgetown,DREAM KEEPERS,State Superintendent of Education,,Lisa Ellis,DEM,42,24,0,0,0,0,18
+Georgetown,DREAM KEEPERS,State Superintendent of Education,,Sylvia Wright,DEM,175,88,0,0,0,8,79
+Georgetown,FOLLY GROVE,State Superintendent of Education,,Lisa Ellis,DEM,21,6,0,0,0,0,15
+Georgetown,FOLLY GROVE,State Superintendent of Education,,Sylvia Wright,DEM,60,40,0,0,0,0,20
+Georgetown,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,1,0,1,0,0,0,0
+Georgetown,GEORGETOWN NO. 1,State Superintendent of Education,,Lisa Ellis,DEM,42,28,0,0,0,0,14
+Georgetown,GEORGETOWN NO. 1,State Superintendent of Education,,Sylvia Wright,DEM,69,46,0,0,0,2,21
+Georgetown,GEORGETOWN NO. 3,State Superintendent of Education,,Lisa Ellis,DEM,63,43,0,0,0,4,16
+Georgetown,GEORGETOWN NO. 3,State Superintendent of Education,,Sylvia Wright,DEM,209,115,0,0,0,10,84
+Georgetown,GEORGETOWN NO. 4,State Superintendent of Education,,Lisa Ellis,DEM,32,15,0,0,0,0,17
+Georgetown,GEORGETOWN NO. 4,State Superintendent of Education,,Sylvia Wright,DEM,27,19,0,0,0,1,7
+Georgetown,GEORGETOWN NO. 5,State Superintendent of Education,,Lisa Ellis,DEM,55,23,0,0,0,1,31
+Georgetown,GEORGETOWN NO. 5,State Superintendent of Education,,Sylvia Wright,DEM,117,71,0,0,0,3,43
+Georgetown,KENSINGTON,State Superintendent of Education,,Lisa Ellis,DEM,39,13,0,0,0,0,26
+Georgetown,KENSINGTON,State Superintendent of Education,,Sylvia Wright,DEM,73,33,0,0,0,3,37
+Georgetown,LAMBERT TOWN,State Superintendent of Education,,Lisa Ellis,DEM,7,5,0,0,0,0,2
+Georgetown,LAMBERT TOWN,State Superintendent of Education,,Sylvia Wright,DEM,15,11,0,0,0,0,4
+Georgetown,MURRELL'S INLET NO. 1,State Superintendent of Education,,Lisa Ellis,DEM,106,46,0,0,0,5,55
+Georgetown,MURRELL'S INLET NO. 1,State Superintendent of Education,,Sylvia Wright,DEM,88,46,0,0,0,1,41
+Georgetown,MURRELL'S INLET NO. 2,State Superintendent of Education,,Lisa Ellis,DEM,83,28,0,0,0,0,55
+Georgetown,MURRELL'S INLET NO. 2,State Superintendent of Education,,Sylvia Wright,DEM,62,36,0,0,0,0,26
+Georgetown,MURRELL'S INLET NO. 3,State Superintendent of Education,,Lisa Ellis,DEM,17,9,0,0,0,0,8
+Georgetown,MURRELL'S INLET NO. 3,State Superintendent of Education,,Sylvia Wright,DEM,35,18,0,0,0,0,17
+Georgetown,MURRELL'S INLET NO. 4,State Superintendent of Education,,Lisa Ellis,DEM,37,10,0,0,0,0,27
+Georgetown,MURRELL'S INLET NO. 4,State Superintendent of Education,,Sylvia Wright,DEM,30,12,0,0,0,1,17
+Georgetown,MYERSVILLE,State Superintendent of Education,,Lisa Ellis,DEM,19,4,0,0,0,0,15
+Georgetown,MYERSVILLE,State Superintendent of Education,,Sylvia Wright,DEM,137,27,0,0,0,0,110
+Georgetown,PAWLEY'S ISLAND NO. 1,State Superintendent of Education,,Lisa Ellis,DEM,120,77,0,0,0,1,42
+Georgetown,PAWLEY'S ISLAND NO. 1,State Superintendent of Education,,Sylvia Wright,DEM,122,69,0,0,0,2,51
+Georgetown,PAWLEY'S ISLAND NO. 2,State Superintendent of Education,,Lisa Ellis,DEM,171,115,0,0,0,1,55
+Georgetown,PAWLEY'S ISLAND NO. 2,State Superintendent of Education,,Sylvia Wright,DEM,257,188,0,0,0,2,67
+Georgetown,PAWLEY'S ISLAND NO. 3,State Superintendent of Education,,Lisa Ellis,DEM,100,62,0,0,0,2,36
+Georgetown,PAWLEY'S ISLAND NO. 3,State Superintendent of Education,,Sylvia Wright,DEM,115,68,0,0,0,3,44
+Georgetown,PAWLEY'S ISLAND NO. 4,State Superintendent of Education,,Lisa Ellis,DEM,95,62,0,0,0,3,30
+Georgetown,PAWLEY'S ISLAND NO. 4,State Superintendent of Education,,Sylvia Wright,DEM,84,56,0,0,0,1,27
+Georgetown,PAWLEY'S ISLAND NO. 5,State Superintendent of Education,,Lisa Ellis,DEM,112,69,0,0,0,2,41
+Georgetown,PAWLEY'S ISLAND NO. 5,State Superintendent of Education,,Sylvia Wright,DEM,115,79,0,0,0,6,30
+Georgetown,PEE DEE,State Superintendent of Education,,Lisa Ellis,DEM,32,7,0,0,0,0,25
+Georgetown,PEE DEE,State Superintendent of Education,,Sylvia Wright,DEM,96,37,0,0,0,0,59
+Georgetown,PENNY ROYAL,State Superintendent of Education,,Lisa Ellis,DEM,20,11,0,0,0,0,9
+Georgetown,PENNY ROYAL,State Superintendent of Education,,Sylvia Wright,DEM,38,26,0,0,0,0,12
+Georgetown,PLANTERSVILLE,State Superintendent of Education,,Lisa Ellis,DEM,42,12,0,0,0,0,30
+Georgetown,PLANTERSVILLE,State Superintendent of Education,,Sylvia Wright,DEM,149,58,0,0,0,1,90
+Georgetown,PLEASANT HILL,State Superintendent of Education,,Lisa Ellis,DEM,29,14,0,0,0,0,15
+Georgetown,PLEASANT HILL,State Superintendent of Education,,Sylvia Wright,DEM,63,51,0,0,0,0,12
+Georgetown,POTATO BED FERRY,State Superintendent of Education,,Lisa Ellis,DEM,22,11,0,0,0,0,11
+Georgetown,POTATO BED FERRY,State Superintendent of Education,,Sylvia Wright,DEM,56,20,0,0,0,0,36
+Georgetown,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Georgetown,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,1,0,0,1,0,0,0
+Georgetown,SAMPIT,State Superintendent of Education,,Lisa Ellis,DEM,56,31,0,0,0,0,25
+Georgetown,SAMPIT,State Superintendent of Education,,Sylvia Wright,DEM,177,85,0,0,0,2,90
+Georgetown,SANTEE,State Superintendent of Education,,Lisa Ellis,DEM,71,21,0,0,0,0,50
+Georgetown,SANTEE,State Superintendent of Education,,Sylvia Wright,DEM,219,102,0,0,0,1,116
+Georgetown,SPRING GULLY,State Superintendent of Education,,Lisa Ellis,DEM,53,32,0,0,0,0,21
+Georgetown,SPRING GULLY,State Superintendent of Education,,Sylvia Wright,DEM,196,111,0,0,0,2,83
+Georgetown,WINYAH BAY,State Superintendent of Education,,Lisa Ellis,DEM,28,11,0,0,0,0,17
+Georgetown,WINYAH BAY,State Superintendent of Education,,Sylvia Wright,DEM,42,19,0,0,0,0,23
+Georgetown,ANDREWS,State Treasurer,,Vincent Coe,DEM,159,94,0,0,0,2,63
+Georgetown,ANDREWS,State Treasurer,,Trav Robertson Jr,DEM,134,73,0,0,0,0,61
+Georgetown,ANDREWS OUTSIDE,State Treasurer,,Vincent Coe,DEM,68,34,0,0,0,0,34
+Georgetown,ANDREWS OUTSIDE,State Treasurer,,Trav Robertson Jr,DEM,58,31,0,0,0,0,27
+Georgetown,BETHEL,State Treasurer,,Vincent Coe,DEM,21,6,0,0,0,0,15
+Georgetown,BETHEL,State Treasurer,,Trav Robertson Jr,DEM,13,6,0,0,0,0,7
+Georgetown,BLACK RIVER,State Treasurer,,Vincent Coe,DEM,69,40,0,0,0,0,29
+Georgetown,BLACK RIVER,State Treasurer,,Trav Robertson Jr,DEM,29,16,0,0,0,0,13
+Georgetown,BROWN'S FERRY,State Treasurer,,Vincent Coe,DEM,303,139,0,0,0,5,159
+Georgetown,BROWN'S FERRY,State Treasurer,,Trav Robertson Jr,DEM,149,84,0,0,0,0,65
+Georgetown,CARVER'S BAY,State Treasurer,,Vincent Coe,DEM,7,3,0,0,0,0,4
+Georgetown,CARVER'S BAY,State Treasurer,,Trav Robertson Jr,DEM,3,0,0,0,0,0,3
+Georgetown,CHOPPEE,State Treasurer,,Vincent Coe,DEM,142,98,0,0,0,1,43
+Georgetown,CHOPPEE,State Treasurer,,Trav Robertson Jr,DEM,63,41,0,0,0,0,22
+Georgetown,DREAM KEEPERS,State Treasurer,,Vincent Coe,DEM,135,68,0,0,0,7,60
+Georgetown,DREAM KEEPERS,State Treasurer,,Trav Robertson Jr,DEM,78,42,0,0,0,0,36
+Georgetown,FOLLY GROVE,State Treasurer,,Vincent Coe,DEM,56,35,0,0,0,0,21
+Georgetown,FOLLY GROVE,State Treasurer,,Trav Robertson Jr,DEM,25,11,0,0,0,0,14
+Georgetown,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,1,0,1,0,0,0,0
+Georgetown,GEORGETOWN NO. 1,State Treasurer,,Vincent Coe,DEM,69,46,0,0,0,2,21
+Georgetown,GEORGETOWN NO. 1,State Treasurer,,Trav Robertson Jr,DEM,41,26,0,0,0,0,15
+Georgetown,GEORGETOWN NO. 3,State Treasurer,,Vincent Coe,DEM,184,106,0,0,0,10,68
+Georgetown,GEORGETOWN NO. 3,State Treasurer,,Trav Robertson Jr,DEM,89,54,0,0,0,2,33
+Georgetown,GEORGETOWN NO. 4,State Treasurer,,Vincent Coe,DEM,37,21,0,0,0,1,15
+Georgetown,GEORGETOWN NO. 4,State Treasurer,,Trav Robertson Jr,DEM,18,11,0,0,0,0,7
+Georgetown,GEORGETOWN NO. 5,State Treasurer,,Vincent Coe,DEM,100,63,0,0,0,2,35
+Georgetown,GEORGETOWN NO. 5,State Treasurer,,Trav Robertson Jr,DEM,65,27,0,0,0,2,36
+Georgetown,KENSINGTON,State Treasurer,,Vincent Coe,DEM,70,26,0,0,0,1,43
+Georgetown,KENSINGTON,State Treasurer,,Trav Robertson Jr,DEM,43,20,0,0,0,2,21
+Georgetown,LAMBERT TOWN,State Treasurer,,Vincent Coe,DEM,13,8,0,0,0,0,5
+Georgetown,LAMBERT TOWN,State Treasurer,,Trav Robertson Jr,DEM,9,8,0,0,0,0,1
+Georgetown,MURRELL'S INLET NO. 1,State Treasurer,,Vincent Coe,DEM,120,57,0,0,0,5,58
+Georgetown,MURRELL'S INLET NO. 1,State Treasurer,,Trav Robertson Jr,DEM,69,31,0,0,0,1,37
+Georgetown,MURRELL'S INLET NO. 2,State Treasurer,,Vincent Coe,DEM,86,43,0,0,0,0,43
+Georgetown,MURRELL'S INLET NO. 2,State Treasurer,,Trav Robertson Jr,DEM,58,22,0,0,0,0,36
+Georgetown,MURRELL'S INLET NO. 3,State Treasurer,,Vincent Coe,DEM,30,17,0,0,0,0,13
+Georgetown,MURRELL'S INLET NO. 3,State Treasurer,,Trav Robertson Jr,DEM,22,10,0,0,0,0,12
+Georgetown,MURRELL'S INLET NO. 4,State Treasurer,,Vincent Coe,DEM,36,10,0,0,0,1,25
+Georgetown,MURRELL'S INLET NO. 4,State Treasurer,,Trav Robertson Jr,DEM,29,11,0,0,0,0,18
+Georgetown,MYERSVILLE,State Treasurer,,Vincent Coe,DEM,142,27,0,0,0,0,115
+Georgetown,MYERSVILLE,State Treasurer,,Trav Robertson Jr,DEM,15,5,0,0,0,0,10
+Georgetown,PAWLEY'S ISLAND NO. 1,State Treasurer,,Vincent Coe,DEM,150,93,0,0,0,0,57
+Georgetown,PAWLEY'S ISLAND NO. 1,State Treasurer,,Trav Robertson Jr,DEM,87,52,0,0,0,3,32
+Georgetown,PAWLEY'S ISLAND NO. 2,State Treasurer,,Vincent Coe,DEM,253,191,0,0,0,2,60
+Georgetown,PAWLEY'S ISLAND NO. 2,State Treasurer,,Trav Robertson Jr,DEM,165,108,0,0,0,1,56
+Georgetown,PAWLEY'S ISLAND NO. 3,State Treasurer,,Vincent Coe,DEM,124,75,0,0,0,0,49
+Georgetown,PAWLEY'S ISLAND NO. 3,State Treasurer,,Trav Robertson Jr,DEM,83,53,0,0,0,3,27
+Georgetown,PAWLEY'S ISLAND NO. 4,State Treasurer,,Vincent Coe,DEM,99,62,0,0,0,4,33
+Georgetown,PAWLEY'S ISLAND NO. 4,State Treasurer,,Trav Robertson Jr,DEM,76,55,0,0,0,0,21
+Georgetown,PAWLEY'S ISLAND NO. 5,State Treasurer,,Vincent Coe,DEM,137,82,0,0,0,6,49
+Georgetown,PAWLEY'S ISLAND NO. 5,State Treasurer,,Trav Robertson Jr,DEM,81,60,0,0,0,2,19
+Georgetown,PEE DEE,State Treasurer,,Vincent Coe,DEM,93,36,0,0,0,0,57
+Georgetown,PEE DEE,State Treasurer,,Trav Robertson Jr,DEM,36,8,0,0,0,0,28
+Georgetown,PENNY ROYAL,State Treasurer,,Vincent Coe,DEM,36,24,0,0,0,0,12
+Georgetown,PENNY ROYAL,State Treasurer,,Trav Robertson Jr,DEM,19,10,0,0,0,0,9
+Georgetown,PLANTERSVILLE,State Treasurer,,Vincent Coe,DEM,145,51,0,0,0,0,94
+Georgetown,PLANTERSVILLE,State Treasurer,,Trav Robertson Jr,DEM,38,17,0,0,0,1,20
+Georgetown,PLEASANT HILL,State Treasurer,,Vincent Coe,DEM,62,46,0,0,0,0,16
+Georgetown,PLEASANT HILL,State Treasurer,,Trav Robertson Jr,DEM,31,19,0,0,0,0,12
+Georgetown,POTATO BED FERRY,State Treasurer,,Vincent Coe,DEM,39,14,0,0,0,0,25
+Georgetown,POTATO BED FERRY,State Treasurer,,Trav Robertson Jr,DEM,37,17,0,0,0,0,20
+Georgetown,Provisional,State Treasurer,,Vincent Coe,DEM,1,0,0,1,0,0,0
+Georgetown,Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Georgetown,SAMPIT,State Treasurer,,Vincent Coe,DEM,155,70,0,0,0,2,83
+Georgetown,SAMPIT,State Treasurer,,Trav Robertson Jr,DEM,76,46,0,0,0,0,30
+Georgetown,SANTEE,State Treasurer,,Vincent Coe,DEM,163,69,0,0,0,1,93
+Georgetown,SANTEE,State Treasurer,,Trav Robertson Jr,DEM,125,51,0,0,0,0,74
+Georgetown,SPRING GULLY,State Treasurer,,Vincent Coe,DEM,148,80,0,0,0,2,66
+Georgetown,SPRING GULLY,State Treasurer,,Trav Robertson Jr,DEM,97,60,0,0,0,0,37
+Georgetown,WINYAH BAY,State Treasurer,,Vincent Coe,DEM,39,16,0,0,0,0,23
+Georgetown,WINYAH BAY,State Treasurer,,Trav Robertson Jr,DEM,31,15,0,0,0,0,16
+Georgetown,ANDREWS,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Georgetown,ANDREWS,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Georgetown,ANDREWS,U.S. Senate,,Lindsey Graham,REP,57,27,0,0,0,0,30
+Georgetown,ANDREWS,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Georgetown,ANDREWS,U.S. Senate,,Mark Lynch,REP,22,6,0,0,0,0,16
+Georgetown,ANDREWS,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Georgetown,ANDREWS,U.S. Senate,,Annie Andrews,DEM,130,73,0,0,0,0,57
+Georgetown,ANDREWS,U.S. Senate,,Brandon P Brown,DEM,122,68,0,0,0,0,54
+Georgetown,ANDREWS,U.S. Senate,,Kyle Freeman,DEM,42,27,0,0,0,2,13
+Georgetown,ANDREWS OUTSIDE,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Georgetown,ANDREWS OUTSIDE,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Georgetown,ANDREWS OUTSIDE,U.S. Senate,,Lindsey Graham,REP,58,14,0,0,0,0,44
+Georgetown,ANDREWS OUTSIDE,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Georgetown,ANDREWS OUTSIDE,U.S. Senate,,Mark Lynch,REP,9,3,0,0,0,0,6
+Georgetown,ANDREWS OUTSIDE,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,ANDREWS OUTSIDE,U.S. Senate,,Annie Andrews,DEM,53,28,0,0,0,0,25
+Georgetown,ANDREWS OUTSIDE,U.S. Senate,,Brandon P Brown,DEM,58,30,0,0,0,0,28
+Georgetown,ANDREWS OUTSIDE,U.S. Senate,,Kyle Freeman,DEM,17,8,0,0,0,0,9
+Georgetown,BETHEL,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Georgetown,BETHEL,U.S. Senate,,Thomas Keith Dismukes,REP,4,0,0,0,0,0,4
+Georgetown,BETHEL,U.S. Senate,,Lindsey Graham,REP,86,21,0,0,0,0,65
+Georgetown,BETHEL,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Georgetown,BETHEL,U.S. Senate,,Mark Lynch,REP,22,3,0,0,0,0,19
+Georgetown,BETHEL,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Georgetown,BETHEL,U.S. Senate,,Annie Andrews,DEM,17,8,0,0,0,0,9
+Georgetown,BETHEL,U.S. Senate,,Brandon P Brown,DEM,15,4,0,0,0,0,11
+Georgetown,BETHEL,U.S. Senate,,Kyle Freeman,DEM,4,1,0,0,0,0,3
+Georgetown,BLACK RIVER,U.S. Senate,,Calvin Cowen,REP,4,3,0,0,0,0,1
+Georgetown,BLACK RIVER,U.S. Senate,,Thomas Keith Dismukes,REP,2,1,0,0,0,0,1
+Georgetown,BLACK RIVER,U.S. Senate,,Lindsey Graham,REP,219,96,0,0,0,2,121
+Georgetown,BLACK RIVER,U.S. Senate,,Pat Herrmann,REP,7,4,0,0,0,0,3
+Georgetown,BLACK RIVER,U.S. Senate,,Mark Lynch,REP,55,17,0,0,0,0,38
+Georgetown,BLACK RIVER,U.S. Senate,,Darius L Mitchell,REP,9,1,0,0,0,0,8
+Georgetown,BLACK RIVER,U.S. Senate,,Annie Andrews,DEM,80,44,0,0,0,1,35
+Georgetown,BLACK RIVER,U.S. Senate,,Brandon P Brown,DEM,21,13,0,0,0,0,8
+Georgetown,BLACK RIVER,U.S. Senate,,Kyle Freeman,DEM,6,5,0,0,0,0,1
+Georgetown,BROWN'S FERRY,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Georgetown,BROWN'S FERRY,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Georgetown,BROWN'S FERRY,U.S. Senate,,Lindsey Graham,REP,44,8,0,0,0,0,36
+Georgetown,BROWN'S FERRY,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Georgetown,BROWN'S FERRY,U.S. Senate,,Mark Lynch,REP,16,7,0,0,0,0,9
+Georgetown,BROWN'S FERRY,U.S. Senate,,Darius L Mitchell,REP,3,2,0,0,0,0,1
+Georgetown,BROWN'S FERRY,U.S. Senate,,Annie Andrews,DEM,205,100,0,0,0,3,102
+Georgetown,BROWN'S FERRY,U.S. Senate,,Brandon P Brown,DEM,216,108,0,0,0,2,106
+Georgetown,BROWN'S FERRY,U.S. Senate,,Kyle Freeman,DEM,37,17,0,0,0,0,20
+Georgetown,CARVER'S BAY,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Georgetown,CARVER'S BAY,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Georgetown,CARVER'S BAY,U.S. Senate,,Lindsey Graham,REP,17,1,0,0,0,0,16
+Georgetown,CARVER'S BAY,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Georgetown,CARVER'S BAY,U.S. Senate,,Mark Lynch,REP,4,1,0,0,0,0,3
+Georgetown,CARVER'S BAY,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,CARVER'S BAY,U.S. Senate,,Annie Andrews,DEM,6,2,0,0,0,0,4
+Georgetown,CARVER'S BAY,U.S. Senate,,Brandon P Brown,DEM,5,3,0,0,0,0,2
+Georgetown,CARVER'S BAY,U.S. Senate,,Kyle Freeman,DEM,1,0,0,0,0,0,1
+Georgetown,CHOPPEE,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Georgetown,CHOPPEE,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Georgetown,CHOPPEE,U.S. Senate,,Lindsey Graham,REP,52,10,0,0,0,1,41
+Georgetown,CHOPPEE,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Georgetown,CHOPPEE,U.S. Senate,,Mark Lynch,REP,10,0,0,0,0,1,9
+Georgetown,CHOPPEE,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Georgetown,CHOPPEE,U.S. Senate,,Annie Andrews,DEM,75,52,0,0,0,1,22
+Georgetown,CHOPPEE,U.S. Senate,,Brandon P Brown,DEM,115,78,0,0,0,0,37
+Georgetown,CHOPPEE,U.S. Senate,,Kyle Freeman,DEM,17,11,0,0,0,0,6
+Georgetown,DREAM KEEPERS,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Georgetown,DREAM KEEPERS,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Georgetown,DREAM KEEPERS,U.S. Senate,,Lindsey Graham,REP,3,2,0,0,0,0,1
+Georgetown,DREAM KEEPERS,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Georgetown,DREAM KEEPERS,U.S. Senate,,Mark Lynch,REP,3,2,0,0,0,0,1
+Georgetown,DREAM KEEPERS,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,DREAM KEEPERS,U.S. Senate,,Annie Andrews,DEM,54,27,0,0,0,0,27
+Georgetown,DREAM KEEPERS,U.S. Senate,,Brandon P Brown,DEM,146,79,0,0,0,8,59
+Georgetown,DREAM KEEPERS,U.S. Senate,,Kyle Freeman,DEM,14,6,0,0,0,0,8
+Georgetown,FOLLY GROVE,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Georgetown,FOLLY GROVE,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Georgetown,FOLLY GROVE,U.S. Senate,,Lindsey Graham,REP,103,4,0,0,0,0,99
+Georgetown,FOLLY GROVE,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Georgetown,FOLLY GROVE,U.S. Senate,,Mark Lynch,REP,21,3,0,0,0,0,18
+Georgetown,FOLLY GROVE,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,0,3
+Georgetown,FOLLY GROVE,U.S. Senate,,Annie Andrews,DEM,43,24,0,0,0,0,19
+Georgetown,FOLLY GROVE,U.S. Senate,,Brandon P Brown,DEM,25,18,0,0,0,0,7
+Georgetown,FOLLY GROVE,U.S. Senate,,Kyle Freeman,DEM,13,4,0,0,0,0,9
+Georgetown,Failsafe,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,1,0,1,0,0,0,0
+Georgetown,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Georgetown,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,1,0,1,0,0,0,0
+Georgetown,GEORGETOWN NO. 1,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Georgetown,GEORGETOWN NO. 1,U.S. Senate,,Thomas Keith Dismukes,REP,5,3,0,0,0,0,2
+Georgetown,GEORGETOWN NO. 1,U.S. Senate,,Lindsey Graham,REP,137,41,0,0,0,2,94
+Georgetown,GEORGETOWN NO. 1,U.S. Senate,,Pat Herrmann,REP,2,1,0,0,0,0,1
+Georgetown,GEORGETOWN NO. 1,U.S. Senate,,Mark Lynch,REP,31,6,0,0,0,0,25
+Georgetown,GEORGETOWN NO. 1,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Georgetown,GEORGETOWN NO. 1,U.S. Senate,,Annie Andrews,DEM,71,46,0,0,0,0,25
+Georgetown,GEORGETOWN NO. 1,U.S. Senate,,Brandon P Brown,DEM,37,25,0,0,0,2,10
+Georgetown,GEORGETOWN NO. 1,U.S. Senate,,Kyle Freeman,DEM,7,4,0,0,0,0,3
+Georgetown,GEORGETOWN NO. 3,U.S. Senate,,Calvin Cowen,REP,1,1,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 3,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 3,U.S. Senate,,Lindsey Graham,REP,19,3,0,0,0,0,16
+Georgetown,GEORGETOWN NO. 3,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Georgetown,GEORGETOWN NO. 3,U.S. Senate,,Mark Lynch,REP,6,0,0,0,0,1,5
+Georgetown,GEORGETOWN NO. 3,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,GEORGETOWN NO. 3,U.S. Senate,,Annie Andrews,DEM,98,62,0,0,0,4,32
+Georgetown,GEORGETOWN NO. 3,U.S. Senate,,Brandon P Brown,DEM,161,88,0,0,0,10,63
+Georgetown,GEORGETOWN NO. 3,U.S. Senate,,Kyle Freeman,DEM,18,11,0,0,0,0,7
+Georgetown,GEORGETOWN NO. 4,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Georgetown,GEORGETOWN NO. 4,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Georgetown,GEORGETOWN NO. 4,U.S. Senate,,Lindsey Graham,REP,75,18,0,0,0,2,55
+Georgetown,GEORGETOWN NO. 4,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Georgetown,GEORGETOWN NO. 4,U.S. Senate,,Mark Lynch,REP,16,2,0,0,0,0,14
+Georgetown,GEORGETOWN NO. 4,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Georgetown,GEORGETOWN NO. 4,U.S. Senate,,Annie Andrews,DEM,36,21,0,0,0,0,15
+Georgetown,GEORGETOWN NO. 4,U.S. Senate,,Brandon P Brown,DEM,18,11,0,0,0,1,6
+Georgetown,GEORGETOWN NO. 4,U.S. Senate,,Kyle Freeman,DEM,4,2,0,0,0,0,2
+Georgetown,GEORGETOWN NO. 5,U.S. Senate,,Calvin Cowen,REP,5,0,0,0,0,0,5
+Georgetown,GEORGETOWN NO. 5,U.S. Senate,,Thomas Keith Dismukes,REP,6,0,0,0,0,0,6
+Georgetown,GEORGETOWN NO. 5,U.S. Senate,,Lindsey Graham,REP,147,40,0,0,0,0,107
+Georgetown,GEORGETOWN NO. 5,U.S. Senate,,Pat Herrmann,REP,11,3,0,0,0,0,8
+Georgetown,GEORGETOWN NO. 5,U.S. Senate,,Mark Lynch,REP,58,13,0,0,0,1,44
+Georgetown,GEORGETOWN NO. 5,U.S. Senate,,Darius L Mitchell,REP,4,0,0,0,0,0,4
+Georgetown,GEORGETOWN NO. 5,U.S. Senate,,Annie Andrews,DEM,95,45,0,0,0,4,46
+Georgetown,GEORGETOWN NO. 5,U.S. Senate,,Brandon P Brown,DEM,71,44,0,0,0,0,27
+Georgetown,GEORGETOWN NO. 5,U.S. Senate,,Kyle Freeman,DEM,9,6,0,0,0,0,3
+Georgetown,KENSINGTON,U.S. Senate,,Calvin Cowen,REP,4,2,0,0,0,0,2
+Georgetown,KENSINGTON,U.S. Senate,,Thomas Keith Dismukes,REP,11,4,0,0,0,0,7
+Georgetown,KENSINGTON,U.S. Senate,,Lindsey Graham,REP,132,35,0,0,0,2,95
+Georgetown,KENSINGTON,U.S. Senate,,Pat Herrmann,REP,8,0,0,0,0,0,8
+Georgetown,KENSINGTON,U.S. Senate,,Mark Lynch,REP,39,9,0,0,0,0,30
+Georgetown,KENSINGTON,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Georgetown,KENSINGTON,U.S. Senate,,Annie Andrews,DEM,66,25,0,0,0,3,38
+Georgetown,KENSINGTON,U.S. Senate,,Brandon P Brown,DEM,40,18,0,0,0,0,22
+Georgetown,KENSINGTON,U.S. Senate,,Kyle Freeman,DEM,5,2,0,0,0,0,3
+Georgetown,LAMBERT TOWN,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Georgetown,LAMBERT TOWN,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Georgetown,LAMBERT TOWN,U.S. Senate,,Lindsey Graham,REP,67,2,0,0,0,0,65
+Georgetown,LAMBERT TOWN,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Georgetown,LAMBERT TOWN,U.S. Senate,,Mark Lynch,REP,11,0,0,0,0,0,11
+Georgetown,LAMBERT TOWN,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,LAMBERT TOWN,U.S. Senate,,Annie Andrews,DEM,8,5,0,0,0,0,3
+Georgetown,LAMBERT TOWN,U.S. Senate,,Brandon P Brown,DEM,11,8,0,0,0,0,3
+Georgetown,LAMBERT TOWN,U.S. Senate,,Kyle Freeman,DEM,3,3,0,0,0,0,0
+Georgetown,MURRELL'S INLET NO. 1,U.S. Senate,,Calvin Cowen,REP,22,10,0,0,0,0,12
+Georgetown,MURRELL'S INLET NO. 1,U.S. Senate,,Thomas Keith Dismukes,REP,29,10,0,0,0,3,16
+Georgetown,MURRELL'S INLET NO. 1,U.S. Senate,,Lindsey Graham,REP,560,214,0,0,0,3,343
+Georgetown,MURRELL'S INLET NO. 1,U.S. Senate,,Pat Herrmann,REP,17,3,0,0,0,0,14
+Georgetown,MURRELL'S INLET NO. 1,U.S. Senate,,Mark Lynch,REP,148,38,0,0,0,3,107
+Georgetown,MURRELL'S INLET NO. 1,U.S. Senate,,Darius L Mitchell,REP,9,4,0,0,0,0,5
+Georgetown,MURRELL'S INLET NO. 1,U.S. Senate,,Annie Andrews,DEM,173,79,0,0,0,5,89
+Georgetown,MURRELL'S INLET NO. 1,U.S. Senate,,Brandon P Brown,DEM,24,11,0,0,0,2,11
+Georgetown,MURRELL'S INLET NO. 1,U.S. Senate,,Kyle Freeman,DEM,10,5,0,0,0,0,5
+Georgetown,MURRELL'S INLET NO. 2,U.S. Senate,,Calvin Cowen,REP,10,5,0,0,0,0,5
+Georgetown,MURRELL'S INLET NO. 2,U.S. Senate,,Thomas Keith Dismukes,REP,13,6,0,0,0,0,7
+Georgetown,MURRELL'S INLET NO. 2,U.S. Senate,,Lindsey Graham,REP,258,67,0,0,0,2,189
+Georgetown,MURRELL'S INLET NO. 2,U.S. Senate,,Pat Herrmann,REP,9,1,0,0,0,0,8
+Georgetown,MURRELL'S INLET NO. 2,U.S. Senate,,Mark Lynch,REP,65,17,0,0,0,0,48
+Georgetown,MURRELL'S INLET NO. 2,U.S. Senate,,Darius L Mitchell,REP,11,5,0,0,0,0,6
+Georgetown,MURRELL'S INLET NO. 2,U.S. Senate,,Annie Andrews,DEM,115,50,0,0,0,0,65
+Georgetown,MURRELL'S INLET NO. 2,U.S. Senate,,Brandon P Brown,DEM,33,18,0,0,0,0,15
+Georgetown,MURRELL'S INLET NO. 2,U.S. Senate,,Kyle Freeman,DEM,6,3,0,0,0,0,3
+Georgetown,MURRELL'S INLET NO. 3,U.S. Senate,,Calvin Cowen,REP,5,0,0,0,0,0,5
+Georgetown,MURRELL'S INLET NO. 3,U.S. Senate,,Thomas Keith Dismukes,REP,6,1,0,0,0,0,5
+Georgetown,MURRELL'S INLET NO. 3,U.S. Senate,,Lindsey Graham,REP,119,33,0,0,0,0,86
+Georgetown,MURRELL'S INLET NO. 3,U.S. Senate,,Pat Herrmann,REP,10,0,0,0,0,0,10
+Georgetown,MURRELL'S INLET NO. 3,U.S. Senate,,Mark Lynch,REP,41,14,0,0,0,0,27
+Georgetown,MURRELL'S INLET NO. 3,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,MURRELL'S INLET NO. 3,U.S. Senate,,Annie Andrews,DEM,37,17,0,0,0,0,20
+Georgetown,MURRELL'S INLET NO. 3,U.S. Senate,,Brandon P Brown,DEM,11,8,0,0,0,0,3
+Georgetown,MURRELL'S INLET NO. 3,U.S. Senate,,Kyle Freeman,DEM,6,2,0,0,0,0,4
+Georgetown,MURRELL'S INLET NO. 4,U.S. Senate,,Calvin Cowen,REP,9,0,0,0,0,0,9
+Georgetown,MURRELL'S INLET NO. 4,U.S. Senate,,Thomas Keith Dismukes,REP,5,2,0,0,0,0,3
+Georgetown,MURRELL'S INLET NO. 4,U.S. Senate,,Lindsey Graham,REP,256,54,0,0,0,2,200
+Georgetown,MURRELL'S INLET NO. 4,U.S. Senate,,Pat Herrmann,REP,14,2,0,0,0,0,12
+Georgetown,MURRELL'S INLET NO. 4,U.S. Senate,,Mark Lynch,REP,79,20,0,0,0,3,56
+Georgetown,MURRELL'S INLET NO. 4,U.S. Senate,,Darius L Mitchell,REP,5,1,0,0,0,0,4
+Georgetown,MURRELL'S INLET NO. 4,U.S. Senate,,Annie Andrews,DEM,60,24,0,0,0,1,35
+Georgetown,MURRELL'S INLET NO. 4,U.S. Senate,,Brandon P Brown,DEM,8,0,0,0,0,0,8
+Georgetown,MURRELL'S INLET NO. 4,U.S. Senate,,Kyle Freeman,DEM,3,0,0,0,0,0,3
+Georgetown,MYERSVILLE,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Georgetown,MYERSVILLE,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Georgetown,MYERSVILLE,U.S. Senate,,Lindsey Graham,REP,6,0,0,0,0,0,6
+Georgetown,MYERSVILLE,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Georgetown,MYERSVILLE,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Georgetown,MYERSVILLE,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,MYERSVILLE,U.S. Senate,,Annie Andrews,DEM,102,13,0,0,0,0,89
+Georgetown,MYERSVILLE,U.S. Senate,,Brandon P Brown,DEM,43,13,0,0,0,0,30
+Georgetown,MYERSVILLE,U.S. Senate,,Kyle Freeman,DEM,9,4,0,0,0,0,5
+Georgetown,PAWLEY'S ISLAND NO. 1,U.S. Senate,,Calvin Cowen,REP,34,16,0,0,0,0,18
+Georgetown,PAWLEY'S ISLAND NO. 1,U.S. Senate,,Thomas Keith Dismukes,REP,36,23,0,0,0,0,13
+Georgetown,PAWLEY'S ISLAND NO. 1,U.S. Senate,,Lindsey Graham,REP,720,392,0,0,0,15,313
+Georgetown,PAWLEY'S ISLAND NO. 1,U.S. Senate,,Pat Herrmann,REP,44,23,0,0,0,0,21
+Georgetown,PAWLEY'S ISLAND NO. 1,U.S. Senate,,Mark Lynch,REP,280,135,0,0,0,3,142
+Georgetown,PAWLEY'S ISLAND NO. 1,U.S. Senate,,Darius L Mitchell,REP,28,17,0,0,0,1,10
+Georgetown,PAWLEY'S ISLAND NO. 1,U.S. Senate,,Annie Andrews,DEM,225,130,0,0,0,1,94
+Georgetown,PAWLEY'S ISLAND NO. 1,U.S. Senate,,Brandon P Brown,DEM,25,20,0,0,0,1,4
+Georgetown,PAWLEY'S ISLAND NO. 1,U.S. Senate,,Kyle Freeman,DEM,14,9,0,0,0,1,4
+Georgetown,PAWLEY'S ISLAND NO. 2,U.S. Senate,,Calvin Cowen,REP,35,21,0,0,0,0,14
+Georgetown,PAWLEY'S ISLAND NO. 2,U.S. Senate,,Thomas Keith Dismukes,REP,31,18,0,0,0,2,11
+Georgetown,PAWLEY'S ISLAND NO. 2,U.S. Senate,,Lindsey Graham,REP,424,219,0,0,0,1,204
+Georgetown,PAWLEY'S ISLAND NO. 2,U.S. Senate,,Pat Herrmann,REP,47,22,0,0,0,1,24
+Georgetown,PAWLEY'S ISLAND NO. 2,U.S. Senate,,Mark Lynch,REP,165,73,0,0,0,1,91
+Georgetown,PAWLEY'S ISLAND NO. 2,U.S. Senate,,Darius L Mitchell,REP,32,21,0,0,0,1,10
+Georgetown,PAWLEY'S ISLAND NO. 2,U.S. Senate,,Annie Andrews,DEM,315,208,0,0,0,3,104
+Georgetown,PAWLEY'S ISLAND NO. 2,U.S. Senate,,Brandon P Brown,DEM,103,83,0,0,0,0,20
+Georgetown,PAWLEY'S ISLAND NO. 2,U.S. Senate,,Kyle Freeman,DEM,29,24,0,0,0,0,5
+Georgetown,PAWLEY'S ISLAND NO. 3,U.S. Senate,,Calvin Cowen,REP,12,7,0,0,0,0,5
+Georgetown,PAWLEY'S ISLAND NO. 3,U.S. Senate,,Thomas Keith Dismukes,REP,20,8,0,0,0,1,11
+Georgetown,PAWLEY'S ISLAND NO. 3,U.S. Senate,,Lindsey Graham,REP,455,187,0,0,0,0,268
+Georgetown,PAWLEY'S ISLAND NO. 3,U.S. Senate,,Pat Herrmann,REP,25,10,0,0,0,0,15
+Georgetown,PAWLEY'S ISLAND NO. 3,U.S. Senate,,Mark Lynch,REP,123,45,0,0,0,0,78
+Georgetown,PAWLEY'S ISLAND NO. 3,U.S. Senate,,Darius L Mitchell,REP,20,8,0,0,0,0,12
+Georgetown,PAWLEY'S ISLAND NO. 3,U.S. Senate,,Annie Andrews,DEM,197,118,0,0,0,5,74
+Georgetown,PAWLEY'S ISLAND NO. 3,U.S. Senate,,Brandon P Brown,DEM,26,15,0,0,0,0,11
+Georgetown,PAWLEY'S ISLAND NO. 3,U.S. Senate,,Kyle Freeman,DEM,8,4,0,0,0,0,4
+Georgetown,PAWLEY'S ISLAND NO. 4,U.S. Senate,,Calvin Cowen,REP,24,8,0,0,0,0,16
+Georgetown,PAWLEY'S ISLAND NO. 4,U.S. Senate,,Thomas Keith Dismukes,REP,26,9,0,0,0,0,17
+Georgetown,PAWLEY'S ISLAND NO. 4,U.S. Senate,,Lindsey Graham,REP,542,213,0,0,0,5,324
+Georgetown,PAWLEY'S ISLAND NO. 4,U.S. Senate,,Pat Herrmann,REP,30,13,0,0,0,3,14
+Georgetown,PAWLEY'S ISLAND NO. 4,U.S. Senate,,Mark Lynch,REP,134,64,0,0,0,0,70
+Georgetown,PAWLEY'S ISLAND NO. 4,U.S. Senate,,Darius L Mitchell,REP,9,4,0,0,0,0,5
+Georgetown,PAWLEY'S ISLAND NO. 4,U.S. Senate,,Annie Andrews,DEM,165,110,0,0,0,4,51
+Georgetown,PAWLEY'S ISLAND NO. 4,U.S. Senate,,Brandon P Brown,DEM,20,11,0,0,0,0,9
+Georgetown,PAWLEY'S ISLAND NO. 4,U.S. Senate,,Kyle Freeman,DEM,10,6,0,0,0,0,4
+Georgetown,PAWLEY'S ISLAND NO. 5,U.S. Senate,,Calvin Cowen,REP,25,16,0,0,0,0,9
+Georgetown,PAWLEY'S ISLAND NO. 5,U.S. Senate,,Thomas Keith Dismukes,REP,28,15,0,0,0,1,12
+Georgetown,PAWLEY'S ISLAND NO. 5,U.S. Senate,,Lindsey Graham,REP,668,351,0,0,0,11,306
+Georgetown,PAWLEY'S ISLAND NO. 5,U.S. Senate,,Pat Herrmann,REP,32,16,0,0,0,1,15
+Georgetown,PAWLEY'S ISLAND NO. 5,U.S. Senate,,Mark Lynch,REP,218,94,0,0,0,1,123
+Georgetown,PAWLEY'S ISLAND NO. 5,U.S. Senate,,Darius L Mitchell,REP,28,16,0,0,0,0,12
+Georgetown,PAWLEY'S ISLAND NO. 5,U.S. Senate,,Annie Andrews,DEM,219,135,0,0,0,8,76
+Georgetown,PAWLEY'S ISLAND NO. 5,U.S. Senate,,Brandon P Brown,DEM,20,15,0,0,0,0,5
+Georgetown,PAWLEY'S ISLAND NO. 5,U.S. Senate,,Kyle Freeman,DEM,6,6,0,0,0,0,0
+Georgetown,PEE DEE,U.S. Senate,,Calvin Cowen,REP,1,1,0,0,0,0,0
+Georgetown,PEE DEE,U.S. Senate,,Thomas Keith Dismukes,REP,3,2,0,0,0,0,1
+Georgetown,PEE DEE,U.S. Senate,,Lindsey Graham,REP,39,19,0,0,0,0,20
+Georgetown,PEE DEE,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Georgetown,PEE DEE,U.S. Senate,,Mark Lynch,REP,2,1,0,0,0,0,1
+Georgetown,PEE DEE,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,PEE DEE,U.S. Senate,,Annie Andrews,DEM,71,25,0,0,0,0,46
+Georgetown,PEE DEE,U.S. Senate,,Brandon P Brown,DEM,52,18,0,0,0,0,34
+Georgetown,PEE DEE,U.S. Senate,,Kyle Freeman,DEM,7,1,0,0,0,0,6
+Georgetown,PENNY ROYAL,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Georgetown,PENNY ROYAL,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Georgetown,PENNY ROYAL,U.S. Senate,,Lindsey Graham,REP,54,12,0,0,0,2,40
+Georgetown,PENNY ROYAL,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Georgetown,PENNY ROYAL,U.S. Senate,,Mark Lynch,REP,10,1,0,0,0,0,9
+Georgetown,PENNY ROYAL,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,PENNY ROYAL,U.S. Senate,,Annie Andrews,DEM,22,14,0,0,0,0,8
+Georgetown,PENNY ROYAL,U.S. Senate,,Brandon P Brown,DEM,25,19,0,0,0,0,6
+Georgetown,PENNY ROYAL,U.S. Senate,,Kyle Freeman,DEM,11,4,0,0,0,0,7
+Georgetown,PLANTERSVILLE,U.S. Senate,,Calvin Cowen,REP,3,2,0,0,0,0,1
+Georgetown,PLANTERSVILLE,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Georgetown,PLANTERSVILLE,U.S. Senate,,Lindsey Graham,REP,30,13,0,0,0,0,17
+Georgetown,PLANTERSVILLE,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Georgetown,PLANTERSVILLE,U.S. Senate,,Mark Lynch,REP,4,0,0,0,0,0,4
+Georgetown,PLANTERSVILLE,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Georgetown,PLANTERSVILLE,U.S. Senate,,Annie Andrews,DEM,58,27,0,0,0,0,31
+Georgetown,PLANTERSVILLE,U.S. Senate,,Brandon P Brown,DEM,121,40,0,0,0,1,80
+Georgetown,PLANTERSVILLE,U.S. Senate,,Kyle Freeman,DEM,10,5,0,0,0,0,5
+Georgetown,PLEASANT HILL,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Georgetown,PLEASANT HILL,U.S. Senate,,Thomas Keith Dismukes,REP,3,1,0,0,0,0,2
+Georgetown,PLEASANT HILL,U.S. Senate,,Lindsey Graham,REP,84,9,0,0,0,0,75
+Georgetown,PLEASANT HILL,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Georgetown,PLEASANT HILL,U.S. Senate,,Mark Lynch,REP,15,0,0,0,0,0,15
+Georgetown,PLEASANT HILL,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,1,2
+Georgetown,PLEASANT HILL,U.S. Senate,,Annie Andrews,DEM,36,26,0,0,0,0,10
+Georgetown,PLEASANT HILL,U.S. Senate,,Brandon P Brown,DEM,44,30,0,0,0,0,14
+Georgetown,PLEASANT HILL,U.S. Senate,,Kyle Freeman,DEM,10,6,0,0,0,0,4
+Georgetown,POTATO BED FERRY,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Georgetown,POTATO BED FERRY,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Georgetown,POTATO BED FERRY,U.S. Senate,,Lindsey Graham,REP,66,13,0,0,0,0,53
+Georgetown,POTATO BED FERRY,U.S. Senate,,Pat Herrmann,REP,3,1,0,0,0,0,2
+Georgetown,POTATO BED FERRY,U.S. Senate,,Mark Lynch,REP,16,0,0,0,0,0,16
+Georgetown,POTATO BED FERRY,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,POTATO BED FERRY,U.S. Senate,,Annie Andrews,DEM,44,17,0,0,0,0,27
+Georgetown,POTATO BED FERRY,U.S. Senate,,Brandon P Brown,DEM,24,12,0,0,0,0,12
+Georgetown,POTATO BED FERRY,U.S. Senate,,Kyle Freeman,DEM,9,2,0,0,0,0,7
+Georgetown,Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Georgetown,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Georgetown,Provisional,U.S. Senate,,Lindsey Graham,REP,2,0,0,2,0,0,0
+Georgetown,Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Georgetown,Provisional,U.S. Senate,,Mark Lynch,REP,1,0,0,1,0,0,0
+Georgetown,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,Provisional,U.S. Senate,,Annie Andrews,DEM,1,0,0,1,0,0,0
+Georgetown,Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Georgetown,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Georgetown,SAMPIT,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Georgetown,SAMPIT,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Georgetown,SAMPIT,U.S. Senate,,Lindsey Graham,REP,18,4,0,0,0,0,14
+Georgetown,SAMPIT,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Georgetown,SAMPIT,U.S. Senate,,Mark Lynch,REP,4,0,0,0,0,0,4
+Georgetown,SAMPIT,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Georgetown,SAMPIT,U.S. Senate,,Annie Andrews,DEM,76,46,0,0,0,0,30
+Georgetown,SAMPIT,U.S. Senate,,Brandon P Brown,DEM,135,55,0,0,0,2,78
+Georgetown,SAMPIT,U.S. Senate,,Kyle Freeman,DEM,21,14,0,0,0,0,7
+Georgetown,SANTEE,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Georgetown,SANTEE,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Georgetown,SANTEE,U.S. Senate,,Lindsey Graham,REP,20,1,0,0,0,0,19
+Georgetown,SANTEE,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Georgetown,SANTEE,U.S. Senate,,Mark Lynch,REP,3,2,0,0,0,0,1
+Georgetown,SANTEE,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Georgetown,SANTEE,U.S. Senate,,Annie Andrews,DEM,133,58,0,0,0,0,75
+Georgetown,SANTEE,U.S. Senate,,Brandon P Brown,DEM,127,55,0,0,0,1,71
+Georgetown,SANTEE,U.S. Senate,,Kyle Freeman,DEM,28,9,0,0,0,0,19
+Georgetown,SPRING GULLY,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Georgetown,SPRING GULLY,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Georgetown,SPRING GULLY,U.S. Senate,,Lindsey Graham,REP,69,28,0,0,0,0,41
+Georgetown,SPRING GULLY,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Georgetown,SPRING GULLY,U.S. Senate,,Mark Lynch,REP,21,3,0,0,0,0,18
+Georgetown,SPRING GULLY,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Georgetown,SPRING GULLY,U.S. Senate,,Annie Andrews,DEM,90,49,0,0,0,0,41
+Georgetown,SPRING GULLY,U.S. Senate,,Brandon P Brown,DEM,134,78,0,0,0,2,54
+Georgetown,SPRING GULLY,U.S. Senate,,Kyle Freeman,DEM,23,15,0,0,0,0,8
+Georgetown,WINYAH BAY,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Georgetown,WINYAH BAY,U.S. Senate,,Thomas Keith Dismukes,REP,4,1,0,0,0,0,3
+Georgetown,WINYAH BAY,U.S. Senate,,Lindsey Graham,REP,133,42,0,0,0,0,91
+Georgetown,WINYAH BAY,U.S. Senate,,Pat Herrmann,REP,5,1,0,0,0,0,4
+Georgetown,WINYAH BAY,U.S. Senate,,Mark Lynch,REP,32,12,0,0,0,0,20
+Georgetown,WINYAH BAY,U.S. Senate,,Darius L Mitchell,REP,4,2,0,0,0,1,1
+Georgetown,WINYAH BAY,U.S. Senate,,Annie Andrews,DEM,38,15,0,0,0,0,23
+Georgetown,WINYAH BAY,U.S. Senate,,Brandon P Brown,DEM,23,9,0,0,0,0,14
+Georgetown,WINYAH BAY,U.S. Senate,,Kyle Freeman,DEM,11,6,0,0,0,0,5

@@ -1,0 +1,2615 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Sumter,BATES,Advisory Question 1,,Yes,REP,3,2,0,0,0,0,1
+Sumter,BATES,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,Advisory Question 1,,Yes,REP,3,1,0,0,0,0,2
+Sumter,BIRNIE,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Sumter,BUNRS-DOWNS,Advisory Question 1,,Yes,REP,68,11,0,0,0,3,54
+Sumter,BUNRS-DOWNS,Advisory Question 1,,No,REP,11,3,0,0,0,0,8
+Sumter,CAUSEWAY BRANCH 1,Advisory Question 1,,Yes,REP,172,50,0,0,0,6,116
+Sumter,CAUSEWAY BRANCH 1,Advisory Question 1,,No,REP,15,6,0,0,0,1,8
+Sumter,CAUSEWAY BRANCH 2,Advisory Question 1,,Yes,REP,106,31,0,0,0,0,75
+Sumter,CAUSEWAY BRANCH 2,Advisory Question 1,,No,REP,12,4,0,0,0,0,8
+Sumter,CHERRYVALE,Advisory Question 1,,Yes,REP,17,1,0,0,0,0,16
+Sumter,CHERRYVALE,Advisory Question 1,,No,REP,3,0,0,0,0,0,3
+Sumter,CROSSWELL,Advisory Question 1,,Yes,REP,32,6,0,0,0,2,24
+Sumter,CROSSWELL,Advisory Question 1,,No,REP,4,2,0,0,0,0,2
+Sumter,DALZELL 1,Advisory Question 1,,Yes,REP,131,58,0,0,0,1,72
+Sumter,DALZELL 1,Advisory Question 1,,No,REP,14,4,0,0,0,0,10
+Sumter,DALZELL 2,Advisory Question 1,,Yes,REP,51,17,0,0,0,0,34
+Sumter,DALZELL 2,Advisory Question 1,,No,REP,3,2,0,0,0,0,1
+Sumter,DELAINE,Advisory Question 1,,Yes,REP,54,10,0,0,0,1,43
+Sumter,DELAINE,Advisory Question 1,,No,REP,10,2,0,0,0,0,8
+Sumter,EBENEZER 1,Advisory Question 1,,Yes,REP,84,23,0,0,0,0,61
+Sumter,EBENEZER 1,Advisory Question 1,,No,REP,11,3,0,0,0,0,8
+Sumter,EBENEZER 2,Advisory Question 1,,Yes,REP,115,27,0,0,0,2,86
+Sumter,EBENEZER 2,Advisory Question 1,,No,REP,4,2,0,0,0,0,2
+Sumter,FOLSOM PARK,Advisory Question 1,,Yes,REP,19,8,0,0,0,0,11
+Sumter,FOLSOM PARK,Advisory Question 1,,No,REP,1,1,0,0,0,0,0
+Sumter,FURMAN,Advisory Question 1,,Yes,REP,136,20,0,0,0,5,111
+Sumter,FURMAN,Advisory Question 1,,No,REP,10,0,0,0,0,2,8
+Sumter,Failsafe,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,Advisory Question 1,,Yes,REP,183,58,0,0,0,3,122
+Sumter,GREEN SWAMP,Advisory Question 1,,No,REP,24,5,0,0,0,0,19
+Sumter,GREEN SWAMP 2,Advisory Question 1,,Yes,REP,172,40,0,0,0,2,130
+Sumter,GREEN SWAMP 2,Advisory Question 1,,No,REP,24,3,0,0,0,0,21
+Sumter,HAMPTON PARK,Advisory Question 1,,Yes,REP,62,12,0,0,0,0,50
+Sumter,HAMPTON PARK,Advisory Question 1,,No,REP,8,2,0,0,0,0,6
+Sumter,HILLCREST,Advisory Question 1,,Yes,REP,65,28,0,0,0,0,37
+Sumter,HILLCREST,Advisory Question 1,,No,REP,7,2,0,0,0,1,4
+Sumter,HORATIO,Advisory Question 1,,Yes,REP,25,7,0,0,0,0,18
+Sumter,HORATIO,Advisory Question 1,,No,REP,3,1,0,0,0,0,2
+Sumter,LEMIRA,Advisory Question 1,,Yes,REP,15,2,0,0,0,1,12
+Sumter,LEMIRA,Advisory Question 1,,No,REP,4,1,0,0,0,0,3
+Sumter,LORING,Advisory Question 1,,Yes,REP,16,5,0,0,0,1,10
+Sumter,LORING,Advisory Question 1,,No,REP,4,1,0,0,0,0,3
+Sumter,MAGNOLIA-HARMONY,Advisory Question 1,,Yes,REP,4,2,0,0,0,0,2
+Sumter,MAGNOLIA-HARMONY,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Sumter,MANCHESTER FOREST,Advisory Question 1,,Yes,REP,133,22,0,0,0,0,111
+Sumter,MANCHESTER FOREST,Advisory Question 1,,No,REP,9,2,0,0,0,0,7
+Sumter,MAYESVILLE,Advisory Question 1,,Yes,REP,27,1,0,0,0,0,26
+Sumter,MAYESVILLE,Advisory Question 1,,No,REP,7,0,0,0,0,0,7
+Sumter,MAYEWOOD,Advisory Question 1,,Yes,REP,144,32,0,0,0,1,111
+Sumter,MAYEWOOD,Advisory Question 1,,No,REP,15,4,0,0,0,0,11
+Sumter,MCCRAYS MILL 1,Advisory Question 1,,Yes,REP,131,22,0,0,0,0,109
+Sumter,MCCRAYS MILL 1,Advisory Question 1,,No,REP,7,1,0,0,0,2,4
+Sumter,MCCRAYS MILL 2,Advisory Question 1,,Yes,REP,190,34,0,0,0,2,154
+Sumter,MCCRAYS MILL 2,Advisory Question 1,,No,REP,10,1,0,0,0,0,9
+Sumter,MILLWOOD,Advisory Question 1,,Yes,REP,37,8,0,0,0,2,27
+Sumter,MILLWOOD,Advisory Question 1,,No,REP,7,0,0,0,0,0,7
+Sumter,MORRIS COLLEGE,Advisory Question 1,,Yes,REP,18,5,0,0,0,0,13
+Sumter,MORRIS COLLEGE,Advisory Question 1,,No,REP,4,1,0,0,0,0,3
+Sumter,MULBERRY,Advisory Question 1,,Yes,REP,23,9,0,0,0,0,14
+Sumter,MULBERRY,Advisory Question 1,,No,REP,5,0,0,0,0,0,5
+Sumter,OAKLAND PLANTATION 1,Advisory Question 1,,Yes,REP,131,36,0,0,0,1,94
+Sumter,OAKLAND PLANTATION 1,Advisory Question 1,,No,REP,10,3,0,0,0,0,7
+Sumter,OAKLAND PLANTATION 2,Advisory Question 1,,Yes,REP,102,25,0,0,0,1,76
+Sumter,OAKLAND PLANTATION 2,Advisory Question 1,,No,REP,11,2,0,0,0,0,9
+Sumter,OSWEGO,Advisory Question 1,,Yes,REP,124,36,0,0,0,4,84
+Sumter,OSWEGO,Advisory Question 1,,No,REP,21,4,0,0,0,0,17
+Sumter,PALMETTO PARK,Advisory Question 1,,Yes,REP,62,11,0,0,0,0,51
+Sumter,PALMETTO PARK,Advisory Question 1,,No,REP,7,0,0,0,0,0,7
+Sumter,PINEWOOD,Advisory Question 1,,Yes,REP,90,12,0,0,0,4,74
+Sumter,PINEWOOD,Advisory Question 1,,No,REP,11,2,0,0,0,1,8
+Sumter,POCOTALIGO 1,Advisory Question 1,,Yes,REP,173,47,0,0,0,1,125
+Sumter,POCOTALIGO 1,Advisory Question 1,,No,REP,18,3,0,0,0,0,15
+Sumter,POCOTALIGO 2,Advisory Question 1,,Yes,REP,60,11,0,0,0,1,48
+Sumter,POCOTALIGO 2,Advisory Question 1,,No,REP,5,2,0,0,0,1,2
+Sumter,PRIVATEER,Advisory Question 1,,Yes,REP,183,37,0,0,0,5,141
+Sumter,PRIVATEER,Advisory Question 1,,No,REP,10,1,0,0,0,1,8
+Sumter,Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Sumter,REMBERT,Advisory Question 1,,Yes,REP,54,15,0,0,0,0,39
+Sumter,REMBERT,Advisory Question 1,,No,REP,4,0,0,0,0,1,3
+Sumter,SALEM,Advisory Question 1,,Yes,REP,13,1,0,0,0,0,12
+Sumter,SALEM,Advisory Question 1,,No,REP,2,0,0,0,0,0,2
+Sumter,SALTERSTOWN,Advisory Question 1,,Yes,REP,62,11,0,0,0,0,51
+Sumter,SALTERSTOWN,Advisory Question 1,,No,REP,6,2,0,0,0,0,4
+Sumter,SAVAGE-GLOVER,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,Advisory Question 1,,No,REP,1,0,0,0,0,0,1
+Sumter,SECOND MILL,Advisory Question 1,,Yes,REP,243,43,0,0,0,8,192
+Sumter,SECOND MILL,Advisory Question 1,,No,REP,35,6,0,0,0,0,29
+Sumter,SHAW,Advisory Question 1,,Yes,REP,4,0,0,0,0,1,3
+Sumter,SHAW,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,Advisory Question 1,,Yes,REP,13,7,0,0,0,0,6
+Sumter,SOUTH LIBERTY,Advisory Question 1,,No,REP,1,0,0,0,0,0,1
+Sumter,SOUTH RED BAY,Advisory Question 1,,Yes,REP,7,0,0,0,0,0,7
+Sumter,SOUTH RED BAY,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Sumter,SPECTRUM,Advisory Question 1,,Yes,REP,27,6,0,0,0,2,19
+Sumter,SPECTRUM,Advisory Question 1,,No,REP,3,1,0,0,0,0,2
+Sumter,ST. PAUL,Advisory Question 1,,Yes,REP,91,37,0,0,0,3,51
+Sumter,ST. PAUL,Advisory Question 1,,No,REP,10,3,0,0,0,0,7
+Sumter,ST.JOHN,Advisory Question 1,,Yes,REP,99,6,0,0,0,0,93
+Sumter,ST.JOHN,Advisory Question 1,,No,REP,13,0,0,0,0,0,13
+Sumter,STONE HILL,Advisory Question 1,,Yes,REP,1,0,0,0,0,0,1
+Sumter,STONE HILL,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 1,Advisory Question 1,,Yes,REP,39,4,0,0,0,0,35
+Sumter,SUMTER HIGH 1,Advisory Question 1,,No,REP,6,4,0,0,0,1,1
+Sumter,SUMTER HIGH 2,Advisory Question 1,,Yes,REP,107,31,0,0,0,0,76
+Sumter,SUMTER HIGH 2,Advisory Question 1,,No,REP,12,4,0,0,0,0,8
+Sumter,SUNSET,Advisory Question 1,,Yes,REP,112,18,0,0,0,5,89
+Sumter,SUNSET,Advisory Question 1,,No,REP,14,6,0,0,0,0,8
+Sumter,SWAN LAKE,Advisory Question 1,,Yes,REP,125,34,0,0,0,3,88
+Sumter,SWAN LAKE,Advisory Question 1,,No,REP,24,3,0,0,0,0,21
+Sumter,THOMAS SUMTER,Advisory Question 1,,Yes,REP,51,10,0,0,0,0,41
+Sumter,THOMAS SUMTER,Advisory Question 1,,No,REP,4,3,0,0,0,0,1
+Sumter,TURKEY CREEK,Advisory Question 1,,Yes,REP,74,15,0,0,0,0,59
+Sumter,TURKEY CREEK,Advisory Question 1,,No,REP,5,0,0,0,0,0,5
+Sumter,WILDER,Advisory Question 1,,Yes,REP,8,2,0,0,0,0,6
+Sumter,WILDER,Advisory Question 1,,No,REP,1,1,0,0,0,0,0
+Sumter,WILSON HALL,Advisory Question 1,,Yes,REP,373,92,0,0,0,6,275
+Sumter,WILSON HALL,Advisory Question 1,,No,REP,48,14,0,0,0,2,32
+Sumter,BATES,Advisory Question 2,,Yes,REP,3,2,0,0,0,0,1
+Sumter,BATES,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,Advisory Question 2,,Yes,REP,2,0,0,0,0,0,2
+Sumter,BIRNIE,Advisory Question 2,,No,REP,1,1,0,0,0,0,0
+Sumter,BUNRS-DOWNS,Advisory Question 2,,Yes,REP,58,10,0,0,0,3,45
+Sumter,BUNRS-DOWNS,Advisory Question 2,,No,REP,23,4,0,0,0,0,19
+Sumter,CAUSEWAY BRANCH 1,Advisory Question 2,,Yes,REP,142,44,0,0,0,6,92
+Sumter,CAUSEWAY BRANCH 1,Advisory Question 2,,No,REP,46,12,0,0,0,1,33
+Sumter,CAUSEWAY BRANCH 2,Advisory Question 2,,Yes,REP,81,24,0,0,0,0,57
+Sumter,CAUSEWAY BRANCH 2,Advisory Question 2,,No,REP,35,11,0,0,0,0,24
+Sumter,CHERRYVALE,Advisory Question 2,,Yes,REP,14,1,0,0,0,0,13
+Sumter,CHERRYVALE,Advisory Question 2,,No,REP,7,0,0,0,0,0,7
+Sumter,CROSSWELL,Advisory Question 2,,Yes,REP,28,5,0,0,0,2,21
+Sumter,CROSSWELL,Advisory Question 2,,No,REP,8,3,0,0,0,0,5
+Sumter,DALZELL 1,Advisory Question 2,,Yes,REP,105,51,0,0,0,1,53
+Sumter,DALZELL 1,Advisory Question 2,,No,REP,40,11,0,0,0,0,29
+Sumter,DALZELL 2,Advisory Question 2,,Yes,REP,45,15,0,0,0,0,30
+Sumter,DALZELL 2,Advisory Question 2,,No,REP,9,4,0,0,0,0,5
+Sumter,DELAINE,Advisory Question 2,,Yes,REP,50,9,0,0,0,1,40
+Sumter,DELAINE,Advisory Question 2,,No,REP,14,3,0,0,0,0,11
+Sumter,EBENEZER 1,Advisory Question 2,,Yes,REP,77,23,0,0,0,0,54
+Sumter,EBENEZER 1,Advisory Question 2,,No,REP,18,3,0,0,0,0,15
+Sumter,EBENEZER 2,Advisory Question 2,,Yes,REP,98,26,0,0,0,2,70
+Sumter,EBENEZER 2,Advisory Question 2,,No,REP,21,3,0,0,0,0,18
+Sumter,FOLSOM PARK,Advisory Question 2,,Yes,REP,12,4,0,0,0,0,8
+Sumter,FOLSOM PARK,Advisory Question 2,,No,REP,8,5,0,0,0,0,3
+Sumter,FURMAN,Advisory Question 2,,Yes,REP,123,18,0,0,0,7,98
+Sumter,FURMAN,Advisory Question 2,,No,REP,22,3,0,0,0,0,19
+Sumter,Failsafe,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,Advisory Question 2,,Yes,REP,152,48,0,0,0,2,102
+Sumter,GREEN SWAMP,Advisory Question 2,,No,REP,53,15,0,0,0,0,38
+Sumter,GREEN SWAMP 2,Advisory Question 2,,Yes,REP,131,32,0,0,0,1,98
+Sumter,GREEN SWAMP 2,Advisory Question 2,,No,REP,67,12,0,0,0,1,54
+Sumter,HAMPTON PARK,Advisory Question 2,,Yes,REP,51,11,0,0,0,0,40
+Sumter,HAMPTON PARK,Advisory Question 2,,No,REP,20,3,0,0,0,0,17
+Sumter,HILLCREST,Advisory Question 2,,Yes,REP,57,22,0,0,0,0,35
+Sumter,HILLCREST,Advisory Question 2,,No,REP,15,8,0,0,0,1,6
+Sumter,HORATIO,Advisory Question 2,,Yes,REP,24,7,0,0,0,0,17
+Sumter,HORATIO,Advisory Question 2,,No,REP,4,1,0,0,0,0,3
+Sumter,LEMIRA,Advisory Question 2,,Yes,REP,14,3,0,0,0,1,10
+Sumter,LEMIRA,Advisory Question 2,,No,REP,5,0,0,0,0,0,5
+Sumter,LORING,Advisory Question 2,,Yes,REP,13,3,0,0,0,1,9
+Sumter,LORING,Advisory Question 2,,No,REP,7,3,0,0,0,0,4
+Sumter,MAGNOLIA-HARMONY,Advisory Question 2,,Yes,REP,3,1,0,0,0,0,2
+Sumter,MAGNOLIA-HARMONY,Advisory Question 2,,No,REP,1,1,0,0,0,0,0
+Sumter,MANCHESTER FOREST,Advisory Question 2,,Yes,REP,107,19,0,0,0,0,88
+Sumter,MANCHESTER FOREST,Advisory Question 2,,No,REP,35,5,0,0,0,0,30
+Sumter,MAYESVILLE,Advisory Question 2,,Yes,REP,16,0,0,0,0,0,16
+Sumter,MAYESVILLE,Advisory Question 2,,No,REP,17,1,0,0,0,0,16
+Sumter,MAYEWOOD,Advisory Question 2,,Yes,REP,125,28,0,0,0,1,96
+Sumter,MAYEWOOD,Advisory Question 2,,No,REP,34,9,0,0,0,0,25
+Sumter,MCCRAYS MILL 1,Advisory Question 2,,Yes,REP,107,17,0,0,0,0,90
+Sumter,MCCRAYS MILL 1,Advisory Question 2,,No,REP,31,6,0,0,0,2,23
+Sumter,MCCRAYS MILL 2,Advisory Question 2,,Yes,REP,156,26,0,0,0,2,128
+Sumter,MCCRAYS MILL 2,Advisory Question 2,,No,REP,43,10,0,0,0,0,33
+Sumter,MILLWOOD,Advisory Question 2,,Yes,REP,33,7,0,0,0,2,24
+Sumter,MILLWOOD,Advisory Question 2,,No,REP,11,1,0,0,0,0,10
+Sumter,MORRIS COLLEGE,Advisory Question 2,,Yes,REP,15,4,0,0,0,0,11
+Sumter,MORRIS COLLEGE,Advisory Question 2,,No,REP,7,2,0,0,0,0,5
+Sumter,MULBERRY,Advisory Question 2,,Yes,REP,17,4,0,0,0,0,13
+Sumter,MULBERRY,Advisory Question 2,,No,REP,11,5,0,0,0,0,6
+Sumter,OAKLAND PLANTATION 1,Advisory Question 2,,Yes,REP,113,36,0,0,0,1,76
+Sumter,OAKLAND PLANTATION 1,Advisory Question 2,,No,REP,30,4,0,0,0,0,26
+Sumter,OAKLAND PLANTATION 2,Advisory Question 2,,Yes,REP,94,21,0,0,0,1,72
+Sumter,OAKLAND PLANTATION 2,Advisory Question 2,,No,REP,19,6,0,0,0,0,13
+Sumter,OSWEGO,Advisory Question 2,,Yes,REP,116,31,0,0,0,4,81
+Sumter,OSWEGO,Advisory Question 2,,No,REP,32,10,0,0,0,0,22
+Sumter,PALMETTO PARK,Advisory Question 2,,Yes,REP,55,8,0,0,0,0,47
+Sumter,PALMETTO PARK,Advisory Question 2,,No,REP,14,3,0,0,0,0,11
+Sumter,PINEWOOD,Advisory Question 2,,Yes,REP,68,10,0,0,0,2,56
+Sumter,PINEWOOD,Advisory Question 2,,No,REP,33,4,0,0,0,3,26
+Sumter,POCOTALIGO 1,Advisory Question 2,,Yes,REP,147,43,0,0,0,0,104
+Sumter,POCOTALIGO 1,Advisory Question 2,,No,REP,43,7,0,0,0,0,36
+Sumter,POCOTALIGO 2,Advisory Question 2,,Yes,REP,55,10,0,0,0,2,43
+Sumter,POCOTALIGO 2,Advisory Question 2,,No,REP,10,3,0,0,0,0,7
+Sumter,PRIVATEER,Advisory Question 2,,Yes,REP,150,25,0,0,0,5,120
+Sumter,PRIVATEER,Advisory Question 2,,No,REP,41,13,0,0,0,1,27
+Sumter,Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Sumter,REMBERT,Advisory Question 2,,Yes,REP,48,14,0,0,0,0,34
+Sumter,REMBERT,Advisory Question 2,,No,REP,10,1,0,0,0,1,8
+Sumter,SALEM,Advisory Question 2,,Yes,REP,12,1,0,0,0,0,11
+Sumter,SALEM,Advisory Question 2,,No,REP,3,0,0,0,0,0,3
+Sumter,SALTERSTOWN,Advisory Question 2,,Yes,REP,54,12,0,0,0,0,42
+Sumter,SALTERSTOWN,Advisory Question 2,,No,REP,13,1,0,0,0,0,12
+Sumter,SAVAGE-GLOVER,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,Advisory Question 2,,No,REP,1,0,0,0,0,0,1
+Sumter,SECOND MILL,Advisory Question 2,,Yes,REP,192,34,0,0,0,8,150
+Sumter,SECOND MILL,Advisory Question 2,,No,REP,83,14,0,0,0,0,69
+Sumter,SHAW,Advisory Question 2,,Yes,REP,3,0,0,0,0,1,2
+Sumter,SHAW,Advisory Question 2,,No,REP,1,0,0,0,0,0,1
+Sumter,SOUTH LIBERTY,Advisory Question 2,,Yes,REP,13,6,0,0,0,0,7
+Sumter,SOUTH LIBERTY,Advisory Question 2,,No,REP,1,1,0,0,0,0,0
+Sumter,SOUTH RED BAY,Advisory Question 2,,Yes,REP,5,0,0,0,0,0,5
+Sumter,SOUTH RED BAY,Advisory Question 2,,No,REP,1,0,0,0,0,0,1
+Sumter,SPECTRUM,Advisory Question 2,,Yes,REP,27,6,0,0,0,2,19
+Sumter,SPECTRUM,Advisory Question 2,,No,REP,4,1,0,0,0,0,3
+Sumter,ST. PAUL,Advisory Question 2,,Yes,REP,76,34,0,0,0,3,39
+Sumter,ST. PAUL,Advisory Question 2,,No,REP,25,6,0,0,0,0,19
+Sumter,ST.JOHN,Advisory Question 2,,Yes,REP,78,6,0,0,0,0,72
+Sumter,ST.JOHN,Advisory Question 2,,No,REP,34,0,0,0,0,0,34
+Sumter,STONE HILL,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,Advisory Question 2,,No,REP,1,0,0,0,0,0,1
+Sumter,SUMTER HIGH 1,Advisory Question 2,,Yes,REP,37,7,0,0,0,1,29
+Sumter,SUMTER HIGH 1,Advisory Question 2,,No,REP,9,1,0,0,0,0,8
+Sumter,SUMTER HIGH 2,Advisory Question 2,,Yes,REP,98,26,0,0,0,0,72
+Sumter,SUMTER HIGH 2,Advisory Question 2,,No,REP,19,7,0,0,0,0,12
+Sumter,SUNSET,Advisory Question 2,,Yes,REP,98,19,0,0,0,3,76
+Sumter,SUNSET,Advisory Question 2,,No,REP,28,5,0,0,0,2,21
+Sumter,SWAN LAKE,Advisory Question 2,,Yes,REP,95,26,0,0,0,2,67
+Sumter,SWAN LAKE,Advisory Question 2,,No,REP,55,11,0,0,0,1,43
+Sumter,THOMAS SUMTER,Advisory Question 2,,Yes,REP,37,10,0,0,0,0,27
+Sumter,THOMAS SUMTER,Advisory Question 2,,No,REP,18,3,0,0,0,0,15
+Sumter,TURKEY CREEK,Advisory Question 2,,Yes,REP,66,14,0,0,0,0,52
+Sumter,TURKEY CREEK,Advisory Question 2,,No,REP,13,1,0,0,0,0,12
+Sumter,WILDER,Advisory Question 2,,Yes,REP,8,2,0,0,0,0,6
+Sumter,WILDER,Advisory Question 2,,No,REP,1,1,0,0,0,0,0
+Sumter,WILSON HALL,Advisory Question 2,,Yes,REP,302,78,0,0,0,3,221
+Sumter,WILSON HALL,Advisory Question 2,,No,REP,121,29,0,0,0,5,87
+Sumter,BATES,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Sumter,BATES,Attorney General,,David M Pascoe,REP,1,1,0,0,0,0,0
+Sumter,BATES,Attorney General,,David Stumbo,REP,2,1,0,0,0,0,1
+Sumter,BIRNIE,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,Attorney General,,David M Pascoe,REP,2,0,0,0,0,0,2
+Sumter,BIRNIE,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Sumter,BUNRS-DOWNS,Attorney General,,Stephen Goldfinch,REP,19,3,0,0,0,0,16
+Sumter,BUNRS-DOWNS,Attorney General,,David M Pascoe,REP,26,5,0,0,0,0,21
+Sumter,BUNRS-DOWNS,Attorney General,,David Stumbo,REP,24,5,0,0,0,0,19
+Sumter,CAUSEWAY BRANCH 1,Attorney General,,Stephen Goldfinch,REP,76,23,0,0,0,2,51
+Sumter,CAUSEWAY BRANCH 1,Attorney General,,David M Pascoe,REP,61,22,0,0,0,3,36
+Sumter,CAUSEWAY BRANCH 1,Attorney General,,David Stumbo,REP,40,9,0,0,0,2,29
+Sumter,CAUSEWAY BRANCH 2,Attorney General,,Stephen Goldfinch,REP,43,15,0,0,0,0,28
+Sumter,CAUSEWAY BRANCH 2,Attorney General,,David M Pascoe,REP,37,11,0,0,0,0,26
+Sumter,CAUSEWAY BRANCH 2,Attorney General,,David Stumbo,REP,32,8,0,0,0,0,24
+Sumter,CHERRYVALE,Attorney General,,Stephen Goldfinch,REP,10,1,0,0,0,0,9
+Sumter,CHERRYVALE,Attorney General,,David M Pascoe,REP,5,0,0,0,0,0,5
+Sumter,CHERRYVALE,Attorney General,,David Stumbo,REP,5,0,0,0,0,0,5
+Sumter,CROSSWELL,Attorney General,,Stephen Goldfinch,REP,16,6,0,0,0,2,8
+Sumter,CROSSWELL,Attorney General,,David M Pascoe,REP,15,1,0,0,0,0,14
+Sumter,CROSSWELL,Attorney General,,David Stumbo,REP,5,2,0,0,0,0,3
+Sumter,DALZELL 1,Attorney General,,Stephen Goldfinch,REP,48,27,0,0,0,0,21
+Sumter,DALZELL 1,Attorney General,,David M Pascoe,REP,47,17,0,0,0,1,29
+Sumter,DALZELL 1,Attorney General,,David Stumbo,REP,40,14,0,0,0,0,26
+Sumter,DALZELL 2,Attorney General,,Stephen Goldfinch,REP,27,8,0,0,0,0,19
+Sumter,DALZELL 2,Attorney General,,David M Pascoe,REP,17,8,0,0,0,0,9
+Sumter,DALZELL 2,Attorney General,,David Stumbo,REP,7,1,0,0,0,0,6
+Sumter,DELAINE,Attorney General,,Stephen Goldfinch,REP,28,4,0,0,0,0,24
+Sumter,DELAINE,Attorney General,,David M Pascoe,REP,21,6,0,0,0,0,15
+Sumter,DELAINE,Attorney General,,David Stumbo,REP,15,4,0,0,0,1,10
+Sumter,EBENEZER 1,Attorney General,,Stephen Goldfinch,REP,33,6,0,0,0,0,27
+Sumter,EBENEZER 1,Attorney General,,David M Pascoe,REP,30,11,0,0,0,0,19
+Sumter,EBENEZER 1,Attorney General,,David Stumbo,REP,24,6,0,0,0,0,18
+Sumter,EBENEZER 2,Attorney General,,Stephen Goldfinch,REP,58,12,0,0,0,0,46
+Sumter,EBENEZER 2,Attorney General,,David M Pascoe,REP,23,7,0,0,0,0,16
+Sumter,EBENEZER 2,Attorney General,,David Stumbo,REP,27,8,0,0,0,0,19
+Sumter,FOLSOM PARK,Attorney General,,Stephen Goldfinch,REP,10,5,0,0,0,0,5
+Sumter,FOLSOM PARK,Attorney General,,David M Pascoe,REP,4,2,0,0,0,0,2
+Sumter,FOLSOM PARK,Attorney General,,David Stumbo,REP,4,1,0,0,0,0,3
+Sumter,FURMAN,Attorney General,,Stephen Goldfinch,REP,71,10,0,0,0,6,55
+Sumter,FURMAN,Attorney General,,David M Pascoe,REP,30,5,0,0,0,0,25
+Sumter,FURMAN,Attorney General,,David Stumbo,REP,38,6,0,0,0,0,32
+Sumter,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,Attorney General,,Stephen Goldfinch,REP,76,23,0,0,0,2,51
+Sumter,GREEN SWAMP,Attorney General,,David M Pascoe,REP,52,16,0,0,0,0,36
+Sumter,GREEN SWAMP,Attorney General,,David Stumbo,REP,66,19,0,0,0,0,47
+Sumter,GREEN SWAMP 2,Attorney General,,Stephen Goldfinch,REP,81,15,0,0,0,1,65
+Sumter,GREEN SWAMP 2,Attorney General,,David M Pascoe,REP,38,10,0,0,0,0,28
+Sumter,GREEN SWAMP 2,Attorney General,,David Stumbo,REP,60,15,0,0,0,1,44
+Sumter,HAMPTON PARK,Attorney General,,Stephen Goldfinch,REP,29,5,0,0,0,0,24
+Sumter,HAMPTON PARK,Attorney General,,David M Pascoe,REP,20,5,0,0,0,0,15
+Sumter,HAMPTON PARK,Attorney General,,David Stumbo,REP,17,4,0,0,0,0,13
+Sumter,HILLCREST,Attorney General,,Stephen Goldfinch,REP,28,16,0,0,0,0,12
+Sumter,HILLCREST,Attorney General,,David M Pascoe,REP,26,10,0,0,0,1,15
+Sumter,HILLCREST,Attorney General,,David Stumbo,REP,17,4,0,0,0,0,13
+Sumter,HORATIO,Attorney General,,Stephen Goldfinch,REP,16,6,0,0,0,0,10
+Sumter,HORATIO,Attorney General,,David M Pascoe,REP,6,1,0,0,0,0,5
+Sumter,HORATIO,Attorney General,,David Stumbo,REP,4,1,0,0,0,0,3
+Sumter,LEMIRA,Attorney General,,Stephen Goldfinch,REP,5,2,0,0,0,0,3
+Sumter,LEMIRA,Attorney General,,David M Pascoe,REP,5,1,0,0,0,0,4
+Sumter,LEMIRA,Attorney General,,David Stumbo,REP,8,0,0,0,0,1,7
+Sumter,LORING,Attorney General,,Stephen Goldfinch,REP,7,2,0,0,0,1,4
+Sumter,LORING,Attorney General,,David M Pascoe,REP,5,2,0,0,0,0,3
+Sumter,LORING,Attorney General,,David Stumbo,REP,5,2,0,0,0,0,3
+Sumter,MAGNOLIA-HARMONY,Attorney General,,Stephen Goldfinch,REP,2,1,0,0,0,0,1
+Sumter,MAGNOLIA-HARMONY,Attorney General,,David M Pascoe,REP,1,0,0,0,0,0,1
+Sumter,MAGNOLIA-HARMONY,Attorney General,,David Stumbo,REP,1,1,0,0,0,0,0
+Sumter,MANCHESTER FOREST,Attorney General,,Stephen Goldfinch,REP,56,7,0,0,0,0,49
+Sumter,MANCHESTER FOREST,Attorney General,,David M Pascoe,REP,39,8,0,0,0,0,31
+Sumter,MANCHESTER FOREST,Attorney General,,David Stumbo,REP,39,6,0,0,0,0,33
+Sumter,MAYESVILLE,Attorney General,,Stephen Goldfinch,REP,18,0,0,0,0,0,18
+Sumter,MAYESVILLE,Attorney General,,David M Pascoe,REP,10,0,0,0,0,0,10
+Sumter,MAYESVILLE,Attorney General,,David Stumbo,REP,5,1,0,0,0,0,4
+Sumter,MAYEWOOD,Attorney General,,Stephen Goldfinch,REP,102,27,0,0,0,0,75
+Sumter,MAYEWOOD,Attorney General,,David M Pascoe,REP,36,6,0,0,0,0,30
+Sumter,MAYEWOOD,Attorney General,,David Stumbo,REP,18,3,0,0,0,0,15
+Sumter,MCCRAYS MILL 1,Attorney General,,Stephen Goldfinch,REP,46,11,0,0,0,0,35
+Sumter,MCCRAYS MILL 1,Attorney General,,David M Pascoe,REP,42,6,0,0,0,2,34
+Sumter,MCCRAYS MILL 1,Attorney General,,David Stumbo,REP,37,4,0,0,0,0,33
+Sumter,MCCRAYS MILL 2,Attorney General,,Stephen Goldfinch,REP,91,12,0,0,0,2,77
+Sumter,MCCRAYS MILL 2,Attorney General,,David M Pascoe,REP,49,16,0,0,0,0,33
+Sumter,MCCRAYS MILL 2,Attorney General,,David Stumbo,REP,49,7,0,0,0,0,42
+Sumter,MILLWOOD,Attorney General,,Stephen Goldfinch,REP,19,4,0,0,0,0,15
+Sumter,MILLWOOD,Attorney General,,David M Pascoe,REP,10,2,0,0,0,0,8
+Sumter,MILLWOOD,Attorney General,,David Stumbo,REP,14,2,0,0,0,2,10
+Sumter,MORRIS COLLEGE,Attorney General,,Stephen Goldfinch,REP,5,1,0,0,0,0,4
+Sumter,MORRIS COLLEGE,Attorney General,,David M Pascoe,REP,8,3,0,0,0,0,5
+Sumter,MORRIS COLLEGE,Attorney General,,David Stumbo,REP,6,2,0,0,0,0,4
+Sumter,MULBERRY,Attorney General,,Stephen Goldfinch,REP,15,4,0,0,0,0,11
+Sumter,MULBERRY,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Sumter,MULBERRY,Attorney General,,David Stumbo,REP,11,5,0,0,0,0,6
+Sumter,OAKLAND PLANTATION 1,Attorney General,,Stephen Goldfinch,REP,65,16,0,0,0,0,49
+Sumter,OAKLAND PLANTATION 1,Attorney General,,David M Pascoe,REP,28,15,0,0,0,1,12
+Sumter,OAKLAND PLANTATION 1,Attorney General,,David Stumbo,REP,34,5,0,0,0,0,29
+Sumter,OAKLAND PLANTATION 2,Attorney General,,Stephen Goldfinch,REP,52,12,0,0,0,0,40
+Sumter,OAKLAND PLANTATION 2,Attorney General,,David M Pascoe,REP,24,5,0,0,0,1,18
+Sumter,OAKLAND PLANTATION 2,Attorney General,,David Stumbo,REP,29,8,0,0,0,0,21
+Sumter,OSWEGO,Attorney General,,Stephen Goldfinch,REP,58,15,0,0,0,0,43
+Sumter,OSWEGO,Attorney General,,David M Pascoe,REP,37,10,0,0,0,0,27
+Sumter,OSWEGO,Attorney General,,David Stumbo,REP,37,12,0,0,0,4,21
+Sumter,PALMETTO PARK,Attorney General,,Stephen Goldfinch,REP,37,6,0,0,0,0,31
+Sumter,PALMETTO PARK,Attorney General,,David M Pascoe,REP,18,4,0,0,0,0,14
+Sumter,PALMETTO PARK,Attorney General,,David Stumbo,REP,10,1,0,0,0,0,9
+Sumter,PINEWOOD,Attorney General,,Stephen Goldfinch,REP,47,5,0,0,0,3,39
+Sumter,PINEWOOD,Attorney General,,David M Pascoe,REP,28,5,0,0,0,0,23
+Sumter,PINEWOOD,Attorney General,,David Stumbo,REP,20,3,0,0,0,2,15
+Sumter,POCOTALIGO 1,Attorney General,,Stephen Goldfinch,REP,91,23,0,0,0,0,68
+Sumter,POCOTALIGO 1,Attorney General,,David M Pascoe,REP,48,16,0,0,0,0,32
+Sumter,POCOTALIGO 1,Attorney General,,David Stumbo,REP,43,9,0,0,0,1,33
+Sumter,POCOTALIGO 2,Attorney General,,Stephen Goldfinch,REP,33,6,0,0,0,2,25
+Sumter,POCOTALIGO 2,Attorney General,,David M Pascoe,REP,12,3,0,0,0,0,9
+Sumter,POCOTALIGO 2,Attorney General,,David Stumbo,REP,18,4,0,0,0,0,14
+Sumter,PRIVATEER,Attorney General,,Stephen Goldfinch,REP,78,12,0,0,0,1,65
+Sumter,PRIVATEER,Attorney General,,David M Pascoe,REP,56,13,0,0,0,1,42
+Sumter,PRIVATEER,Attorney General,,David Stumbo,REP,52,14,0,0,0,5,33
+Sumter,Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Sumter,REMBERT,Attorney General,,Stephen Goldfinch,REP,18,8,0,0,0,0,10
+Sumter,REMBERT,Attorney General,,David M Pascoe,REP,22,5,0,0,0,1,16
+Sumter,REMBERT,Attorney General,,David Stumbo,REP,13,2,0,0,0,0,11
+Sumter,SALEM,Attorney General,,Stephen Goldfinch,REP,10,0,0,0,0,0,10
+Sumter,SALEM,Attorney General,,David M Pascoe,REP,2,0,0,0,0,0,2
+Sumter,SALEM,Attorney General,,David Stumbo,REP,4,1,0,0,0,0,3
+Sumter,SALTERSTOWN,Attorney General,,Stephen Goldfinch,REP,32,4,0,0,0,0,28
+Sumter,SALTERSTOWN,Attorney General,,David M Pascoe,REP,8,2,0,0,0,0,6
+Sumter,SALTERSTOWN,Attorney General,,David Stumbo,REP,20,5,0,0,0,0,15
+Sumter,SAVAGE-GLOVER,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Sumter,SECOND MILL,Attorney General,,Stephen Goldfinch,REP,130,22,0,0,0,3,105
+Sumter,SECOND MILL,Attorney General,,David M Pascoe,REP,55,10,0,0,0,3,42
+Sumter,SECOND MILL,Attorney General,,David Stumbo,REP,83,12,0,0,0,2,69
+Sumter,SHAW,Attorney General,,Stephen Goldfinch,REP,1,0,0,0,0,0,1
+Sumter,SHAW,Attorney General,,David M Pascoe,REP,1,0,0,0,0,1,0
+Sumter,SHAW,Attorney General,,David Stumbo,REP,2,0,0,0,0,0,2
+Sumter,SOUTH LIBERTY,Attorney General,,Stephen Goldfinch,REP,5,3,0,0,0,0,2
+Sumter,SOUTH LIBERTY,Attorney General,,David M Pascoe,REP,4,2,0,0,0,0,2
+Sumter,SOUTH LIBERTY,Attorney General,,David Stumbo,REP,5,2,0,0,0,0,3
+Sumter,SOUTH RED BAY,Attorney General,,Stephen Goldfinch,REP,2,0,0,0,0,0,2
+Sumter,SOUTH RED BAY,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,Attorney General,,David Stumbo,REP,1,0,0,0,0,0,1
+Sumter,SPECTRUM,Attorney General,,Stephen Goldfinch,REP,8,2,0,0,0,0,6
+Sumter,SPECTRUM,Attorney General,,David M Pascoe,REP,11,3,0,0,0,1,7
+Sumter,SPECTRUM,Attorney General,,David Stumbo,REP,10,1,0,0,0,1,8
+Sumter,ST. PAUL,Attorney General,,Stephen Goldfinch,REP,46,18,0,0,0,3,25
+Sumter,ST. PAUL,Attorney General,,David M Pascoe,REP,25,8,0,0,0,0,17
+Sumter,ST. PAUL,Attorney General,,David Stumbo,REP,25,13,0,0,0,0,12
+Sumter,ST.JOHN,Attorney General,,Stephen Goldfinch,REP,57,2,0,0,0,0,55
+Sumter,ST.JOHN,Attorney General,,David M Pascoe,REP,19,2,0,0,0,0,17
+Sumter,ST.JOHN,Attorney General,,David Stumbo,REP,30,2,0,0,0,0,28
+Sumter,STONE HILL,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,Attorney General,,David Stumbo,REP,1,0,0,0,0,0,1
+Sumter,SUMTER HIGH 1,Attorney General,,Stephen Goldfinch,REP,17,2,0,0,0,0,15
+Sumter,SUMTER HIGH 1,Attorney General,,David M Pascoe,REP,17,5,0,0,0,0,12
+Sumter,SUMTER HIGH 1,Attorney General,,David Stumbo,REP,6,1,0,0,0,1,4
+Sumter,SUMTER HIGH 2,Attorney General,,Stephen Goldfinch,REP,52,18,0,0,0,0,34
+Sumter,SUMTER HIGH 2,Attorney General,,David M Pascoe,REP,39,11,0,0,0,0,28
+Sumter,SUMTER HIGH 2,Attorney General,,David Stumbo,REP,25,4,0,0,0,0,21
+Sumter,SUNSET,Attorney General,,Stephen Goldfinch,REP,59,15,0,0,0,2,42
+Sumter,SUNSET,Attorney General,,David M Pascoe,REP,27,5,0,0,0,0,22
+Sumter,SUNSET,Attorney General,,David Stumbo,REP,33,3,0,0,0,3,27
+Sumter,SWAN LAKE,Attorney General,,Stephen Goldfinch,REP,56,10,0,0,0,2,44
+Sumter,SWAN LAKE,Attorney General,,David M Pascoe,REP,36,14,0,0,0,0,22
+Sumter,SWAN LAKE,Attorney General,,David Stumbo,REP,49,8,0,0,0,1,40
+Sumter,THOMAS SUMTER,Attorney General,,Stephen Goldfinch,REP,27,3,0,0,0,0,24
+Sumter,THOMAS SUMTER,Attorney General,,David M Pascoe,REP,16,6,0,0,0,0,10
+Sumter,THOMAS SUMTER,Attorney General,,David Stumbo,REP,8,3,0,0,0,0,5
+Sumter,TURKEY CREEK,Attorney General,,Stephen Goldfinch,REP,47,14,0,0,0,0,33
+Sumter,TURKEY CREEK,Attorney General,,David M Pascoe,REP,20,1,0,0,0,0,19
+Sumter,TURKEY CREEK,Attorney General,,David Stumbo,REP,10,0,0,0,0,0,10
+Sumter,WILDER,Attorney General,,Stephen Goldfinch,REP,2,2,0,0,0,0,0
+Sumter,WILDER,Attorney General,,David M Pascoe,REP,3,0,0,0,0,0,3
+Sumter,WILDER,Attorney General,,David Stumbo,REP,3,1,0,0,0,0,2
+Sumter,WILSON HALL,Attorney General,,Stephen Goldfinch,REP,205,51,0,0,0,2,152
+Sumter,WILSON HALL,Attorney General,,David M Pascoe,REP,87,20,0,0,0,2,65
+Sumter,WILSON HALL,Attorney General,,David Stumbo,REP,96,27,0,0,0,2,67
+Sumter,BATES,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Sumter,BATES,Commissioner of Agriculture,,Danny Ford,REP,2,2,0,0,0,0,0
+Sumter,BATES,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,0,0,0,1
+Sumter,BATES,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,Commissioner of Agriculture,,Cody Simpson,REP,3,1,0,0,0,0,2
+Sumter,BIRNIE,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Sumter,BUNRS-DOWNS,Commissioner of Agriculture,,Jeremy B Cannon,REP,12,1,0,0,0,0,11
+Sumter,BUNRS-DOWNS,Commissioner of Agriculture,,Danny Ford,REP,28,5,0,0,0,2,21
+Sumter,BUNRS-DOWNS,Commissioner of Agriculture,,Cody Simpson,REP,33,7,0,0,0,1,25
+Sumter,BUNRS-DOWNS,Commissioner of Agriculture,,Fred West,REP,4,0,0,0,0,0,4
+Sumter,CAUSEWAY BRANCH 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,26,8,0,0,0,1,17
+Sumter,CAUSEWAY BRANCH 1,Commissioner of Agriculture,,Danny Ford,REP,53,17,0,0,0,0,36
+Sumter,CAUSEWAY BRANCH 1,Commissioner of Agriculture,,Cody Simpson,REP,82,21,0,0,0,6,55
+Sumter,CAUSEWAY BRANCH 1,Commissioner of Agriculture,,Fred West,REP,18,9,0,0,0,0,9
+Sumter,CAUSEWAY BRANCH 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,14,5,0,0,0,0,9
+Sumter,CAUSEWAY BRANCH 2,Commissioner of Agriculture,,Danny Ford,REP,44,13,0,0,0,0,31
+Sumter,CAUSEWAY BRANCH 2,Commissioner of Agriculture,,Cody Simpson,REP,50,14,0,0,0,0,36
+Sumter,CAUSEWAY BRANCH 2,Commissioner of Agriculture,,Fred West,REP,5,1,0,0,0,0,4
+Sumter,CHERRYVALE,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,0,0,0,0,0,3
+Sumter,CHERRYVALE,Commissioner of Agriculture,,Danny Ford,REP,7,1,0,0,0,0,6
+Sumter,CHERRYVALE,Commissioner of Agriculture,,Cody Simpson,REP,10,0,0,0,0,0,10
+Sumter,CHERRYVALE,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Sumter,CROSSWELL,Commissioner of Agriculture,,Jeremy B Cannon,REP,8,0,0,0,0,2,6
+Sumter,CROSSWELL,Commissioner of Agriculture,,Danny Ford,REP,13,5,0,0,0,0,8
+Sumter,CROSSWELL,Commissioner of Agriculture,,Cody Simpson,REP,12,3,0,0,0,0,9
+Sumter,CROSSWELL,Commissioner of Agriculture,,Fred West,REP,3,0,0,0,0,0,3
+Sumter,DALZELL 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,6,0,0,0,0,7
+Sumter,DALZELL 1,Commissioner of Agriculture,,Danny Ford,REP,46,16,0,0,0,1,29
+Sumter,DALZELL 1,Commissioner of Agriculture,,Cody Simpson,REP,71,30,0,0,0,0,41
+Sumter,DALZELL 1,Commissioner of Agriculture,,Fred West,REP,9,5,0,0,0,0,4
+Sumter,DALZELL 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,3,0,0,0,0,6
+Sumter,DALZELL 2,Commissioner of Agriculture,,Danny Ford,REP,19,6,0,0,0,0,13
+Sumter,DALZELL 2,Commissioner of Agriculture,,Cody Simpson,REP,17,6,0,0,0,0,11
+Sumter,DALZELL 2,Commissioner of Agriculture,,Fred West,REP,6,2,0,0,0,0,4
+Sumter,DELAINE,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,1,0,0,0,0,8
+Sumter,DELAINE,Commissioner of Agriculture,,Danny Ford,REP,21,4,0,0,0,0,17
+Sumter,DELAINE,Commissioner of Agriculture,,Cody Simpson,REP,26,5,0,0,0,1,20
+Sumter,DELAINE,Commissioner of Agriculture,,Fred West,REP,10,4,0,0,0,0,6
+Sumter,EBENEZER 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,1,0,0,0,0,8
+Sumter,EBENEZER 1,Commissioner of Agriculture,,Danny Ford,REP,22,3,0,0,0,0,19
+Sumter,EBENEZER 1,Commissioner of Agriculture,,Cody Simpson,REP,49,19,0,0,0,0,30
+Sumter,EBENEZER 1,Commissioner of Agriculture,,Fred West,REP,7,0,0,0,0,0,7
+Sumter,EBENEZER 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,18,7,0,0,0,0,11
+Sumter,EBENEZER 2,Commissioner of Agriculture,,Danny Ford,REP,36,5,0,0,0,2,29
+Sumter,EBENEZER 2,Commissioner of Agriculture,,Cody Simpson,REP,44,11,0,0,0,0,33
+Sumter,EBENEZER 2,Commissioner of Agriculture,,Fred West,REP,14,3,0,0,0,0,11
+Sumter,FOLSOM PARK,Commissioner of Agriculture,,Jeremy B Cannon,REP,4,1,0,0,0,0,3
+Sumter,FOLSOM PARK,Commissioner of Agriculture,,Danny Ford,REP,9,4,0,0,0,0,5
+Sumter,FOLSOM PARK,Commissioner of Agriculture,,Cody Simpson,REP,5,2,0,0,0,0,3
+Sumter,FOLSOM PARK,Commissioner of Agriculture,,Fred West,REP,1,1,0,0,0,0,0
+Sumter,FURMAN,Commissioner of Agriculture,,Jeremy B Cannon,REP,18,3,0,0,0,0,15
+Sumter,FURMAN,Commissioner of Agriculture,,Danny Ford,REP,38,5,0,0,0,0,33
+Sumter,FURMAN,Commissioner of Agriculture,,Cody Simpson,REP,75,11,0,0,0,6,58
+Sumter,FURMAN,Commissioner of Agriculture,,Fred West,REP,11,3,0,0,0,0,8
+Sumter,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,Commissioner of Agriculture,,Jeremy B Cannon,REP,25,9,0,0,0,0,16
+Sumter,GREEN SWAMP,Commissioner of Agriculture,,Danny Ford,REP,69,21,0,0,0,2,46
+Sumter,GREEN SWAMP,Commissioner of Agriculture,,Cody Simpson,REP,81,24,0,0,0,1,56
+Sumter,GREEN SWAMP,Commissioner of Agriculture,,Fred West,REP,20,7,0,0,0,0,13
+Sumter,GREEN SWAMP 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,21,1,0,0,0,0,20
+Sumter,GREEN SWAMP 2,Commissioner of Agriculture,,Danny Ford,REP,54,16,0,0,0,2,36
+Sumter,GREEN SWAMP 2,Commissioner of Agriculture,,Cody Simpson,REP,72,21,0,0,0,0,51
+Sumter,GREEN SWAMP 2,Commissioner of Agriculture,,Fred West,REP,31,4,0,0,0,0,27
+Sumter,HAMPTON PARK,Commissioner of Agriculture,,Jeremy B Cannon,REP,6,1,0,0,0,0,5
+Sumter,HAMPTON PARK,Commissioner of Agriculture,,Danny Ford,REP,27,3,0,0,0,0,24
+Sumter,HAMPTON PARK,Commissioner of Agriculture,,Cody Simpson,REP,29,9,0,0,0,0,20
+Sumter,HAMPTON PARK,Commissioner of Agriculture,,Fred West,REP,3,0,0,0,0,0,3
+Sumter,HILLCREST,Commissioner of Agriculture,,Jeremy B Cannon,REP,8,4,0,0,0,0,4
+Sumter,HILLCREST,Commissioner of Agriculture,,Danny Ford,REP,24,13,0,0,0,0,11
+Sumter,HILLCREST,Commissioner of Agriculture,,Cody Simpson,REP,28,8,0,0,0,1,19
+Sumter,HILLCREST,Commissioner of Agriculture,,Fred West,REP,8,5,0,0,0,0,3
+Sumter,HORATIO,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,1,0,0,0,0,2
+Sumter,HORATIO,Commissioner of Agriculture,,Danny Ford,REP,7,2,0,0,0,0,5
+Sumter,HORATIO,Commissioner of Agriculture,,Cody Simpson,REP,18,5,0,0,0,0,13
+Sumter,HORATIO,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Sumter,LEMIRA,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,0,0,0,0,0,1
+Sumter,LEMIRA,Commissioner of Agriculture,,Danny Ford,REP,7,2,0,0,0,0,5
+Sumter,LEMIRA,Commissioner of Agriculture,,Cody Simpson,REP,10,1,0,0,0,1,8
+Sumter,LEMIRA,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Sumter,LORING,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,0,0,0,0,0,1
+Sumter,LORING,Commissioner of Agriculture,,Danny Ford,REP,11,4,0,0,0,1,6
+Sumter,LORING,Commissioner of Agriculture,,Cody Simpson,REP,6,1,0,0,0,0,5
+Sumter,LORING,Commissioner of Agriculture,,Fred West,REP,1,1,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,Commissioner of Agriculture,,Danny Ford,REP,1,1,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,Commissioner of Agriculture,,Cody Simpson,REP,2,0,0,0,0,0,2
+Sumter,MAGNOLIA-HARMONY,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Sumter,MANCHESTER FOREST,Commissioner of Agriculture,,Jeremy B Cannon,REP,17,2,0,0,0,0,15
+Sumter,MANCHESTER FOREST,Commissioner of Agriculture,,Danny Ford,REP,49,9,0,0,0,0,40
+Sumter,MANCHESTER FOREST,Commissioner of Agriculture,,Cody Simpson,REP,61,7,0,0,0,0,54
+Sumter,MANCHESTER FOREST,Commissioner of Agriculture,,Fred West,REP,9,4,0,0,0,0,5
+Sumter,MAYESVILLE,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,0,0,0,0,0,1
+Sumter,MAYESVILLE,Commissioner of Agriculture,,Danny Ford,REP,2,0,0,0,0,0,2
+Sumter,MAYESVILLE,Commissioner of Agriculture,,Cody Simpson,REP,20,0,0,0,0,0,20
+Sumter,MAYESVILLE,Commissioner of Agriculture,,Fred West,REP,11,1,0,0,0,0,10
+Sumter,MAYEWOOD,Commissioner of Agriculture,,Jeremy B Cannon,REP,19,4,0,0,0,0,15
+Sumter,MAYEWOOD,Commissioner of Agriculture,,Danny Ford,REP,35,9,0,0,0,0,26
+Sumter,MAYEWOOD,Commissioner of Agriculture,,Cody Simpson,REP,97,22,0,0,0,1,74
+Sumter,MAYEWOOD,Commissioner of Agriculture,,Fred West,REP,8,2,0,0,0,0,6
+Sumter,MCCRAYS MILL 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,17,6,0,0,0,0,11
+Sumter,MCCRAYS MILL 1,Commissioner of Agriculture,,Danny Ford,REP,40,7,0,0,0,0,33
+Sumter,MCCRAYS MILL 1,Commissioner of Agriculture,,Cody Simpson,REP,67,7,0,0,0,2,58
+Sumter,MCCRAYS MILL 1,Commissioner of Agriculture,,Fred West,REP,4,1,0,0,0,0,3
+Sumter,MCCRAYS MILL 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,20,2,0,0,0,2,16
+Sumter,MCCRAYS MILL 2,Commissioner of Agriculture,,Danny Ford,REP,72,16,0,0,0,0,56
+Sumter,MCCRAYS MILL 2,Commissioner of Agriculture,,Cody Simpson,REP,79,9,0,0,0,0,70
+Sumter,MCCRAYS MILL 2,Commissioner of Agriculture,,Fred West,REP,15,5,0,0,0,0,10
+Sumter,MILLWOOD,Commissioner of Agriculture,,Jeremy B Cannon,REP,6,1,0,0,0,0,5
+Sumter,MILLWOOD,Commissioner of Agriculture,,Danny Ford,REP,12,2,0,0,0,0,10
+Sumter,MILLWOOD,Commissioner of Agriculture,,Cody Simpson,REP,25,5,0,0,0,2,18
+Sumter,MILLWOOD,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Sumter,MORRIS COLLEGE,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,1,0,0,0,0,2
+Sumter,MORRIS COLLEGE,Commissioner of Agriculture,,Danny Ford,REP,6,1,0,0,0,0,5
+Sumter,MORRIS COLLEGE,Commissioner of Agriculture,,Cody Simpson,REP,8,3,0,0,0,0,5
+Sumter,MORRIS COLLEGE,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Sumter,MULBERRY,Commissioner of Agriculture,,Jeremy B Cannon,REP,2,0,0,0,0,0,2
+Sumter,MULBERRY,Commissioner of Agriculture,,Danny Ford,REP,12,8,0,0,0,0,4
+Sumter,MULBERRY,Commissioner of Agriculture,,Cody Simpson,REP,14,1,0,0,0,0,13
+Sumter,MULBERRY,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Sumter,OAKLAND PLANTATION 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,5,0,0,0,0,6
+Sumter,OAKLAND PLANTATION 1,Commissioner of Agriculture,,Danny Ford,REP,45,13,0,0,0,0,32
+Sumter,OAKLAND PLANTATION 1,Commissioner of Agriculture,,Cody Simpson,REP,57,15,0,0,0,1,41
+Sumter,OAKLAND PLANTATION 1,Commissioner of Agriculture,,Fred West,REP,14,2,0,0,0,0,12
+Sumter,OAKLAND PLANTATION 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,10,3,0,0,0,1,6
+Sumter,OAKLAND PLANTATION 2,Commissioner of Agriculture,,Danny Ford,REP,34,9,0,0,0,0,25
+Sumter,OAKLAND PLANTATION 2,Commissioner of Agriculture,,Cody Simpson,REP,53,11,0,0,0,0,42
+Sumter,OAKLAND PLANTATION 2,Commissioner of Agriculture,,Fred West,REP,6,2,0,0,0,0,4
+Sumter,OSWEGO,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,2,0,0,0,0,7
+Sumter,OSWEGO,Commissioner of Agriculture,,Danny Ford,REP,36,7,0,0,0,0,29
+Sumter,OSWEGO,Commissioner of Agriculture,,Cody Simpson,REP,92,30,0,0,0,2,60
+Sumter,OSWEGO,Commissioner of Agriculture,,Fred West,REP,6,1,0,0,0,2,3
+Sumter,PALMETTO PARK,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,1,0,0,0,0,6
+Sumter,PALMETTO PARK,Commissioner of Agriculture,,Danny Ford,REP,21,2,0,0,0,0,19
+Sumter,PALMETTO PARK,Commissioner of Agriculture,,Cody Simpson,REP,28,6,0,0,0,0,22
+Sumter,PALMETTO PARK,Commissioner of Agriculture,,Fred West,REP,11,2,0,0,0,0,9
+Sumter,PINEWOOD,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,2,0,0,0,0,9
+Sumter,PINEWOOD,Commissioner of Agriculture,,Danny Ford,REP,18,1,0,0,0,1,16
+Sumter,PINEWOOD,Commissioner of Agriculture,,Cody Simpson,REP,69,11,0,0,0,2,56
+Sumter,PINEWOOD,Commissioner of Agriculture,,Fred West,REP,3,0,0,0,0,2,1
+Sumter,POCOTALIGO 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,16,6,0,0,0,0,10
+Sumter,POCOTALIGO 1,Commissioner of Agriculture,,Danny Ford,REP,61,20,0,0,0,1,40
+Sumter,POCOTALIGO 1,Commissioner of Agriculture,,Cody Simpson,REP,100,19,0,0,0,0,81
+Sumter,POCOTALIGO 1,Commissioner of Agriculture,,Fred West,REP,9,4,0,0,0,0,5
+Sumter,POCOTALIGO 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,6,2,0,0,0,0,4
+Sumter,POCOTALIGO 2,Commissioner of Agriculture,,Danny Ford,REP,16,2,0,0,0,0,14
+Sumter,POCOTALIGO 2,Commissioner of Agriculture,,Cody Simpson,REP,40,8,0,0,0,2,30
+Sumter,POCOTALIGO 2,Commissioner of Agriculture,,Fred West,REP,3,1,0,0,0,0,2
+Sumter,PRIVATEER,Commissioner of Agriculture,,Jeremy B Cannon,REP,22,3,0,0,0,1,18
+Sumter,PRIVATEER,Commissioner of Agriculture,,Danny Ford,REP,56,12,0,0,0,1,43
+Sumter,PRIVATEER,Commissioner of Agriculture,,Cody Simpson,REP,103,22,0,0,0,2,79
+Sumter,PRIVATEER,Commissioner of Agriculture,,Fred West,REP,7,0,0,0,0,2,5
+Sumter,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Sumter,REMBERT,Commissioner of Agriculture,,Jeremy B Cannon,REP,12,2,0,0,0,0,10
+Sumter,REMBERT,Commissioner of Agriculture,,Danny Ford,REP,15,6,0,0,0,0,9
+Sumter,REMBERT,Commissioner of Agriculture,,Cody Simpson,REP,25,5,0,0,0,1,19
+Sumter,REMBERT,Commissioner of Agriculture,,Fred West,REP,3,2,0,0,0,0,1
+Sumter,SALEM,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,0,0,0,0,0,7
+Sumter,SALEM,Commissioner of Agriculture,,Danny Ford,REP,3,1,0,0,0,0,2
+Sumter,SALEM,Commissioner of Agriculture,,Cody Simpson,REP,5,0,0,0,0,0,5
+Sumter,SALEM,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Sumter,SALTERSTOWN,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,0,0,0,0,0,13
+Sumter,SALTERSTOWN,Commissioner of Agriculture,,Danny Ford,REP,14,2,0,0,0,0,12
+Sumter,SALTERSTOWN,Commissioner of Agriculture,,Cody Simpson,REP,32,7,0,0,0,0,25
+Sumter,SALTERSTOWN,Commissioner of Agriculture,,Fred West,REP,2,1,0,0,0,0,1
+Sumter,SAVAGE-GLOVER,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Sumter,SECOND MILL,Commissioner of Agriculture,,Jeremy B Cannon,REP,19,4,0,0,0,0,15
+Sumter,SECOND MILL,Commissioner of Agriculture,,Danny Ford,REP,116,19,0,0,0,2,95
+Sumter,SECOND MILL,Commissioner of Agriculture,,Cody Simpson,REP,110,17,0,0,0,3,90
+Sumter,SECOND MILL,Commissioner of Agriculture,,Fred West,REP,27,6,0,0,0,3,18
+Sumter,SHAW,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,0,0,0,0,0,1
+Sumter,SHAW,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Sumter,SHAW,Commissioner of Agriculture,,Cody Simpson,REP,2,0,0,0,0,0,2
+Sumter,SHAW,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,1,0
+Sumter,SOUTH LIBERTY,Commissioner of Agriculture,,Jeremy B Cannon,REP,2,0,0,0,0,0,2
+Sumter,SOUTH LIBERTY,Commissioner of Agriculture,,Danny Ford,REP,3,2,0,0,0,0,1
+Sumter,SOUTH LIBERTY,Commissioner of Agriculture,,Cody Simpson,REP,6,3,0,0,0,0,3
+Sumter,SOUTH LIBERTY,Commissioner of Agriculture,,Fred West,REP,3,2,0,0,0,0,1
+Sumter,SOUTH RED BAY,Commissioner of Agriculture,,Jeremy B Cannon,REP,1,0,0,0,0,0,1
+Sumter,SOUTH RED BAY,Commissioner of Agriculture,,Danny Ford,REP,1,0,0,0,0,0,1
+Sumter,SOUTH RED BAY,Commissioner of Agriculture,,Cody Simpson,REP,2,0,0,0,0,0,2
+Sumter,SOUTH RED BAY,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Sumter,SPECTRUM,Commissioner of Agriculture,,Jeremy B Cannon,REP,5,3,0,0,0,0,2
+Sumter,SPECTRUM,Commissioner of Agriculture,,Danny Ford,REP,8,3,0,0,0,0,5
+Sumter,SPECTRUM,Commissioner of Agriculture,,Cody Simpson,REP,14,0,0,0,0,1,13
+Sumter,SPECTRUM,Commissioner of Agriculture,,Fred West,REP,2,0,0,0,0,1,1
+Sumter,ST. PAUL,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,5,0,0,0,1,3
+Sumter,ST. PAUL,Commissioner of Agriculture,,Danny Ford,REP,40,14,0,0,0,0,26
+Sumter,ST. PAUL,Commissioner of Agriculture,,Cody Simpson,REP,42,16,0,0,0,2,24
+Sumter,ST. PAUL,Commissioner of Agriculture,,Fred West,REP,4,2,0,0,0,0,2
+Sumter,ST.JOHN,Commissioner of Agriculture,,Jeremy B Cannon,REP,43,3,0,0,0,0,40
+Sumter,ST.JOHN,Commissioner of Agriculture,,Danny Ford,REP,19,0,0,0,0,0,19
+Sumter,ST.JOHN,Commissioner of Agriculture,,Cody Simpson,REP,39,3,0,0,0,0,36
+Sumter,ST.JOHN,Commissioner of Agriculture,,Fred West,REP,10,0,0,0,0,0,10
+Sumter,STONE HILL,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,0,0,0,1
+Sumter,STONE HILL,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,10,2,0,0,0,0,8
+Sumter,SUMTER HIGH 1,Commissioner of Agriculture,,Danny Ford,REP,11,3,0,0,0,0,8
+Sumter,SUMTER HIGH 1,Commissioner of Agriculture,,Cody Simpson,REP,20,3,0,0,0,0,17
+Sumter,SUMTER HIGH 1,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,1,0
+Sumter,SUMTER HIGH 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,18,3,0,0,0,0,15
+Sumter,SUMTER HIGH 2,Commissioner of Agriculture,,Danny Ford,REP,37,12,0,0,0,0,25
+Sumter,SUMTER HIGH 2,Commissioner of Agriculture,,Cody Simpson,REP,57,19,0,0,0,0,38
+Sumter,SUMTER HIGH 2,Commissioner of Agriculture,,Fred West,REP,6,1,0,0,0,0,5
+Sumter,SUNSET,Commissioner of Agriculture,,Jeremy B Cannon,REP,21,4,0,0,0,0,17
+Sumter,SUNSET,Commissioner of Agriculture,,Danny Ford,REP,30,4,0,0,0,1,25
+Sumter,SUNSET,Commissioner of Agriculture,,Cody Simpson,REP,55,14,0,0,0,3,38
+Sumter,SUNSET,Commissioner of Agriculture,,Fred West,REP,10,1,0,0,0,1,8
+Sumter,SWAN LAKE,Commissioner of Agriculture,,Jeremy B Cannon,REP,14,2,0,0,0,1,11
+Sumter,SWAN LAKE,Commissioner of Agriculture,,Danny Ford,REP,45,17,0,0,0,0,28
+Sumter,SWAN LAKE,Commissioner of Agriculture,,Cody Simpson,REP,65,14,0,0,0,0,51
+Sumter,SWAN LAKE,Commissioner of Agriculture,,Fred West,REP,20,2,0,0,0,1,17
+Sumter,THOMAS SUMTER,Commissioner of Agriculture,,Jeremy B Cannon,REP,5,1,0,0,0,0,4
+Sumter,THOMAS SUMTER,Commissioner of Agriculture,,Danny Ford,REP,18,6,0,0,0,0,12
+Sumter,THOMAS SUMTER,Commissioner of Agriculture,,Cody Simpson,REP,22,6,0,0,0,0,16
+Sumter,THOMAS SUMTER,Commissioner of Agriculture,,Fred West,REP,8,0,0,0,0,0,8
+Sumter,TURKEY CREEK,Commissioner of Agriculture,,Jeremy B Cannon,REP,6,1,0,0,0,0,5
+Sumter,TURKEY CREEK,Commissioner of Agriculture,,Danny Ford,REP,13,2,0,0,0,0,11
+Sumter,TURKEY CREEK,Commissioner of Agriculture,,Cody Simpson,REP,59,11,0,0,0,0,48
+Sumter,TURKEY CREEK,Commissioner of Agriculture,,Fred West,REP,2,1,0,0,0,0,1
+Sumter,WILDER,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Sumter,WILDER,Commissioner of Agriculture,,Danny Ford,REP,3,2,0,0,0,0,1
+Sumter,WILDER,Commissioner of Agriculture,,Cody Simpson,REP,6,1,0,0,0,0,5
+Sumter,WILDER,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Sumter,WILSON HALL,Commissioner of Agriculture,,Jeremy B Cannon,REP,33,10,0,0,0,0,23
+Sumter,WILSON HALL,Commissioner of Agriculture,,Danny Ford,REP,121,32,0,0,0,2,87
+Sumter,WILSON HALL,Commissioner of Agriculture,,Cody Simpson,REP,190,45,0,0,0,4,141
+Sumter,WILSON HALL,Commissioner of Agriculture,,Fred West,REP,55,13,0,0,0,0,42
+Sumter,BATES,Comptroller General,,Tiffany Boozer,DEM,115,54,0,0,0,6,55
+Sumter,BATES,Comptroller General,,Bruce K Cole,DEM,32,17,0,0,0,2,13
+Sumter,BIRNIE,Comptroller General,,Tiffany Boozer,DEM,152,85,0,0,0,6,61
+Sumter,BIRNIE,Comptroller General,,Bruce K Cole,DEM,59,36,0,0,0,2,21
+Sumter,BUNRS-DOWNS,Comptroller General,,Tiffany Boozer,DEM,78,36,0,0,0,2,40
+Sumter,BUNRS-DOWNS,Comptroller General,,Bruce K Cole,DEM,35,20,0,0,0,1,14
+Sumter,CAUSEWAY BRANCH 1,Comptroller General,,Tiffany Boozer,DEM,185,117,0,0,0,3,65
+Sumter,CAUSEWAY BRANCH 1,Comptroller General,,Bruce K Cole,DEM,47,27,0,0,0,2,18
+Sumter,CAUSEWAY BRANCH 2,Comptroller General,,Tiffany Boozer,DEM,129,79,0,0,0,3,47
+Sumter,CAUSEWAY BRANCH 2,Comptroller General,,Bruce K Cole,DEM,45,20,0,0,0,0,25
+Sumter,CHERRYVALE,Comptroller General,,Tiffany Boozer,DEM,51,17,0,0,0,0,34
+Sumter,CHERRYVALE,Comptroller General,,Bruce K Cole,DEM,12,3,0,0,0,0,9
+Sumter,CROSSWELL,Comptroller General,,Tiffany Boozer,DEM,181,100,0,0,0,1,80
+Sumter,CROSSWELL,Comptroller General,,Bruce K Cole,DEM,50,36,0,0,0,2,12
+Sumter,DALZELL 1,Comptroller General,,Tiffany Boozer,DEM,158,98,0,0,0,2,58
+Sumter,DALZELL 1,Comptroller General,,Bruce K Cole,DEM,48,29,0,0,0,3,16
+Sumter,DALZELL 2,Comptroller General,,Tiffany Boozer,DEM,123,54,0,0,0,6,63
+Sumter,DALZELL 2,Comptroller General,,Bruce K Cole,DEM,27,13,0,0,0,1,13
+Sumter,DELAINE,Comptroller General,,Tiffany Boozer,DEM,255,136,0,0,0,12,107
+Sumter,DELAINE,Comptroller General,,Bruce K Cole,DEM,73,34,0,0,0,1,38
+Sumter,EBENEZER 1,Comptroller General,,Tiffany Boozer,DEM,172,80,0,0,0,5,87
+Sumter,EBENEZER 1,Comptroller General,,Bruce K Cole,DEM,37,20,0,0,0,1,16
+Sumter,EBENEZER 2,Comptroller General,,Tiffany Boozer,DEM,221,129,0,0,0,4,88
+Sumter,EBENEZER 2,Comptroller General,,Bruce K Cole,DEM,61,28,0,0,0,1,32
+Sumter,FOLSOM PARK,Comptroller General,,Tiffany Boozer,DEM,145,92,0,0,0,1,52
+Sumter,FOLSOM PARK,Comptroller General,,Bruce K Cole,DEM,49,32,0,0,0,3,14
+Sumter,FURMAN,Comptroller General,,Tiffany Boozer,DEM,74,39,0,0,0,4,31
+Sumter,FURMAN,Comptroller General,,Bruce K Cole,DEM,20,10,0,0,0,0,10
+Sumter,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,1,0,1,0,0,0,0
+Sumter,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,Comptroller General,,Tiffany Boozer,DEM,303,179,0,0,0,7,117
+Sumter,GREEN SWAMP,Comptroller General,,Bruce K Cole,DEM,75,39,0,0,0,3,33
+Sumter,GREEN SWAMP 2,Comptroller General,,Tiffany Boozer,DEM,48,23,0,0,0,4,21
+Sumter,GREEN SWAMP 2,Comptroller General,,Bruce K Cole,DEM,25,13,0,0,0,2,10
+Sumter,HAMPTON PARK,Comptroller General,,Tiffany Boozer,DEM,82,36,0,0,0,3,43
+Sumter,HAMPTON PARK,Comptroller General,,Bruce K Cole,DEM,34,14,0,0,0,3,17
+Sumter,HILLCREST,Comptroller General,,Tiffany Boozer,DEM,139,98,0,0,0,3,38
+Sumter,HILLCREST,Comptroller General,,Bruce K Cole,DEM,37,24,0,0,0,1,12
+Sumter,HORATIO,Comptroller General,,Tiffany Boozer,DEM,106,60,0,0,0,0,46
+Sumter,HORATIO,Comptroller General,,Bruce K Cole,DEM,41,33,0,0,0,1,7
+Sumter,LEMIRA,Comptroller General,,Tiffany Boozer,DEM,153,86,0,0,0,15,52
+Sumter,LEMIRA,Comptroller General,,Bruce K Cole,DEM,57,36,0,0,0,3,18
+Sumter,LORING,Comptroller General,,Tiffany Boozer,DEM,70,39,0,0,0,0,31
+Sumter,LORING,Comptroller General,,Bruce K Cole,DEM,21,10,0,0,0,0,11
+Sumter,MAGNOLIA-HARMONY,Comptroller General,,Tiffany Boozer,DEM,99,59,0,0,0,2,38
+Sumter,MAGNOLIA-HARMONY,Comptroller General,,Bruce K Cole,DEM,29,17,0,0,0,2,10
+Sumter,MANCHESTER FOREST,Comptroller General,,Tiffany Boozer,DEM,142,72,0,0,0,2,68
+Sumter,MANCHESTER FOREST,Comptroller General,,Bruce K Cole,DEM,53,26,0,0,0,5,22
+Sumter,MAYESVILLE,Comptroller General,,Tiffany Boozer,DEM,84,19,0,0,0,0,65
+Sumter,MAYESVILLE,Comptroller General,,Bruce K Cole,DEM,25,5,0,0,0,0,20
+Sumter,MAYEWOOD,Comptroller General,,Tiffany Boozer,DEM,133,74,0,0,0,8,51
+Sumter,MAYEWOOD,Comptroller General,,Bruce K Cole,DEM,36,23,0,0,0,4,9
+Sumter,MCCRAYS MILL 1,Comptroller General,,Tiffany Boozer,DEM,206,114,0,0,0,6,86
+Sumter,MCCRAYS MILL 1,Comptroller General,,Bruce K Cole,DEM,65,37,0,0,0,1,27
+Sumter,MCCRAYS MILL 2,Comptroller General,,Tiffany Boozer,DEM,235,124,0,0,0,8,103
+Sumter,MCCRAYS MILL 2,Comptroller General,,Bruce K Cole,DEM,79,46,0,0,0,4,29
+Sumter,MILLWOOD,Comptroller General,,Tiffany Boozer,DEM,70,35,0,0,0,1,34
+Sumter,MILLWOOD,Comptroller General,,Bruce K Cole,DEM,21,9,0,0,0,0,12
+Sumter,MORRIS COLLEGE,Comptroller General,,Tiffany Boozer,DEM,124,69,0,0,0,2,53
+Sumter,MORRIS COLLEGE,Comptroller General,,Bruce K Cole,DEM,47,28,0,0,0,2,17
+Sumter,MULBERRY,Comptroller General,,Tiffany Boozer,DEM,101,50,0,0,0,2,49
+Sumter,MULBERRY,Comptroller General,,Bruce K Cole,DEM,28,18,0,0,0,2,8
+Sumter,OAKLAND PLANTATION 1,Comptroller General,,Tiffany Boozer,DEM,148,93,0,0,0,4,51
+Sumter,OAKLAND PLANTATION 1,Comptroller General,,Bruce K Cole,DEM,36,20,0,0,0,0,16
+Sumter,OAKLAND PLANTATION 2,Comptroller General,,Tiffany Boozer,DEM,97,66,0,0,0,0,31
+Sumter,OAKLAND PLANTATION 2,Comptroller General,,Bruce K Cole,DEM,34,18,0,0,0,0,16
+Sumter,OSWEGO,Comptroller General,,Tiffany Boozer,DEM,118,66,0,0,0,10,42
+Sumter,OSWEGO,Comptroller General,,Bruce K Cole,DEM,32,20,0,0,0,2,10
+Sumter,PALMETTO PARK,Comptroller General,,Tiffany Boozer,DEM,113,63,0,0,0,1,49
+Sumter,PALMETTO PARK,Comptroller General,,Bruce K Cole,DEM,19,13,0,0,0,0,6
+Sumter,PINEWOOD,Comptroller General,,Tiffany Boozer,DEM,171,70,0,0,0,3,98
+Sumter,PINEWOOD,Comptroller General,,Bruce K Cole,DEM,51,30,0,0,0,4,17
+Sumter,POCOTALIGO 1,Comptroller General,,Tiffany Boozer,DEM,184,108,0,0,0,3,73
+Sumter,POCOTALIGO 1,Comptroller General,,Bruce K Cole,DEM,54,25,0,0,0,0,29
+Sumter,POCOTALIGO 2,Comptroller General,,Tiffany Boozer,DEM,118,60,0,0,0,17,41
+Sumter,POCOTALIGO 2,Comptroller General,,Bruce K Cole,DEM,34,16,0,0,0,2,16
+Sumter,PRIVATEER,Comptroller General,,Tiffany Boozer,DEM,161,93,0,0,0,4,64
+Sumter,PRIVATEER,Comptroller General,,Bruce K Cole,DEM,45,24,0,0,0,0,21
+Sumter,Provisional,Comptroller General,,Tiffany Boozer,DEM,1,0,0,1,0,0,0
+Sumter,Provisional,Comptroller General,,Bruce K Cole,DEM,1,0,0,1,0,0,0
+Sumter,REMBERT,Comptroller General,,Tiffany Boozer,DEM,375,171,0,0,0,81,123
+Sumter,REMBERT,Comptroller General,,Bruce K Cole,DEM,115,49,0,0,0,20,46
+Sumter,SALEM,Comptroller General,,Tiffany Boozer,DEM,68,24,0,0,0,3,41
+Sumter,SALEM,Comptroller General,,Bruce K Cole,DEM,21,7,0,0,0,0,14
+Sumter,SALTERSTOWN,Comptroller General,,Tiffany Boozer,DEM,74,45,0,0,0,1,28
+Sumter,SALTERSTOWN,Comptroller General,,Bruce K Cole,DEM,25,11,0,0,0,2,12
+Sumter,SAVAGE-GLOVER,Comptroller General,,Tiffany Boozer,DEM,81,37,0,0,0,2,42
+Sumter,SAVAGE-GLOVER,Comptroller General,,Bruce K Cole,DEM,27,18,0,0,0,0,9
+Sumter,SECOND MILL,Comptroller General,,Tiffany Boozer,DEM,66,36,0,0,0,3,27
+Sumter,SECOND MILL,Comptroller General,,Bruce K Cole,DEM,21,11,0,0,0,0,10
+Sumter,SHAW,Comptroller General,,Tiffany Boozer,DEM,12,3,0,0,0,2,7
+Sumter,SHAW,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,Comptroller General,,Tiffany Boozer,DEM,75,41,0,0,0,6,28
+Sumter,SOUTH LIBERTY,Comptroller General,,Bruce K Cole,DEM,22,14,0,0,0,4,4
+Sumter,SOUTH RED BAY,Comptroller General,,Tiffany Boozer,DEM,118,72,0,0,0,2,44
+Sumter,SOUTH RED BAY,Comptroller General,,Bruce K Cole,DEM,39,20,0,0,0,0,19
+Sumter,SPECTRUM,Comptroller General,,Tiffany Boozer,DEM,163,101,0,0,0,7,55
+Sumter,SPECTRUM,Comptroller General,,Bruce K Cole,DEM,51,28,0,0,0,9,14
+Sumter,ST. PAUL,Comptroller General,,Tiffany Boozer,DEM,226,122,0,0,0,12,92
+Sumter,ST. PAUL,Comptroller General,,Bruce K Cole,DEM,69,38,0,0,0,4,27
+Sumter,ST.JOHN,Comptroller General,,Tiffany Boozer,DEM,126,36,0,0,0,3,87
+Sumter,ST.JOHN,Comptroller General,,Bruce K Cole,DEM,38,13,0,0,0,1,24
+Sumter,STONE HILL,Comptroller General,,Tiffany Boozer,DEM,88,43,0,0,0,14,31
+Sumter,STONE HILL,Comptroller General,,Bruce K Cole,DEM,18,7,0,0,0,1,10
+Sumter,SUMTER HIGH 1,Comptroller General,,Tiffany Boozer,DEM,64,39,0,0,0,0,25
+Sumter,SUMTER HIGH 1,Comptroller General,,Bruce K Cole,DEM,20,16,0,0,0,0,4
+Sumter,SUMTER HIGH 2,Comptroller General,,Tiffany Boozer,DEM,174,104,0,0,0,1,69
+Sumter,SUMTER HIGH 2,Comptroller General,,Bruce K Cole,DEM,59,38,0,0,0,0,21
+Sumter,SUNSET,Comptroller General,,Tiffany Boozer,DEM,210,138,0,0,0,1,71
+Sumter,SUNSET,Comptroller General,,Bruce K Cole,DEM,47,23,0,0,0,1,23
+Sumter,SWAN LAKE,Comptroller General,,Tiffany Boozer,DEM,110,69,0,0,0,0,41
+Sumter,SWAN LAKE,Comptroller General,,Bruce K Cole,DEM,28,17,0,0,0,0,11
+Sumter,THOMAS SUMTER,Comptroller General,,Tiffany Boozer,DEM,198,102,0,0,0,39,57
+Sumter,THOMAS SUMTER,Comptroller General,,Bruce K Cole,DEM,64,42,0,0,0,0,22
+Sumter,TURKEY CREEK,Comptroller General,,Tiffany Boozer,DEM,114,68,0,0,0,3,43
+Sumter,TURKEY CREEK,Comptroller General,,Bruce K Cole,DEM,44,35,0,0,0,0,9
+Sumter,WILDER,Comptroller General,,Tiffany Boozer,DEM,149,83,0,0,0,6,60
+Sumter,WILDER,Comptroller General,,Bruce K Cole,DEM,55,28,0,0,0,3,24
+Sumter,WILSON HALL,Comptroller General,,Tiffany Boozer,DEM,122,78,0,0,0,6,38
+Sumter,WILSON HALL,Comptroller General,,Bruce K Cole,DEM,49,31,0,0,0,1,17
+Sumter,BATES,County Council District 6,,Gloria Rose Lee,DEM,75,34,0,0,0,8,33
+Sumter,BATES,County Council District 6,,James T McCain Jr,DEM,79,42,0,0,0,1,36
+Sumter,BIRNIE,County Council District 6,,Gloria Rose Lee,DEM,73,38,0,0,0,7,28
+Sumter,BIRNIE,County Council District 6,,James T McCain Jr,DEM,141,86,0,0,0,0,55
+Sumter,BUNRS-DOWNS,County Council District 6,,Gloria Rose Lee,DEM,34,19,0,0,0,0,15
+Sumter,BUNRS-DOWNS,County Council District 6,,James T McCain Jr,DEM,40,15,0,0,0,1,24
+Sumter,Failsafe,County Council District 6,,Gloria Rose Lee,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe,County Council District 6,,James T McCain Jr,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,County Council District 6,,Gloria Rose Lee,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,County Council District 6,,James T McCain Jr,DEM,0,0,0,0,0,0,0
+Sumter,HAMPTON PARK,County Council District 6,,Gloria Rose Lee,DEM,52,20,0,0,0,6,26
+Sumter,HAMPTON PARK,County Council District 6,,James T McCain Jr,DEM,75,36,0,0,0,0,39
+Sumter,MAGNOLIA-HARMONY,County Council District 6,,Gloria Rose Lee,DEM,27,8,0,0,0,14,5
+Sumter,MAGNOLIA-HARMONY,County Council District 6,,James T McCain Jr,DEM,14,6,0,0,0,1,7
+Sumter,MORRIS COLLEGE,County Council District 6,,Gloria Rose Lee,DEM,8,3,0,0,0,0,5
+Sumter,MORRIS COLLEGE,County Council District 6,,James T McCain Jr,DEM,7,3,0,0,0,0,4
+Sumter,POCOTALIGO 1,County Council District 6,,Gloria Rose Lee,DEM,6,2,0,0,0,0,4
+Sumter,POCOTALIGO 1,County Council District 6,,James T McCain Jr,DEM,6,2,0,0,0,1,3
+Sumter,PRIVATEER,County Council District 6,,Gloria Rose Lee,DEM,72,45,0,0,0,1,26
+Sumter,PRIVATEER,County Council District 6,,James T McCain Jr,DEM,53,28,0,0,0,2,23
+Sumter,Provisional,County Council District 6,,Gloria Rose Lee,DEM,0,0,0,0,0,0,0
+Sumter,Provisional,County Council District 6,,James T McCain Jr,DEM,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,County Council District 6,,Gloria Rose Lee,DEM,48,19,0,0,0,2,27
+Sumter,SAVAGE-GLOVER,County Council District 6,,James T McCain Jr,DEM,62,37,0,0,0,0,25
+Sumter,SECOND MILL,County Council District 6,,Gloria Rose Lee,DEM,3,2,0,0,0,0,1
+Sumter,SECOND MILL,County Council District 6,,James T McCain Jr,DEM,4,1,0,0,0,0,3
+Sumter,SOUTH LIBERTY,County Council District 6,,Gloria Rose Lee,DEM,53,25,0,0,0,9,19
+Sumter,SOUTH LIBERTY,County Council District 6,,James T McCain Jr,DEM,47,30,0,0,0,3,14
+Sumter,SOUTH RED BAY,County Council District 6,,Gloria Rose Lee,DEM,79,44,0,0,0,2,33
+Sumter,SOUTH RED BAY,County Council District 6,,James T McCain Jr,DEM,84,52,0,0,0,0,32
+Sumter,SPECTRUM,County Council District 6,,Gloria Rose Lee,DEM,109,51,0,0,0,13,45
+Sumter,SPECTRUM,County Council District 6,,James T McCain Jr,DEM,108,81,0,0,0,3,24
+Sumter,STONE HILL,County Council District 6,,Gloria Rose Lee,DEM,66,33,0,0,0,13,20
+Sumter,STONE HILL,County Council District 6,,James T McCain Jr,DEM,42,18,0,0,0,2,22
+Sumter,SUNSET,County Council District 6,,Gloria Rose Lee,DEM,66,33,0,0,0,1,32
+Sumter,SUNSET,County Council District 6,,James T McCain Jr,DEM,77,55,0,0,0,0,22
+Sumter,SWAN LAKE,County Council District 6,,Gloria Rose Lee,DEM,57,33,0,0,0,0,24
+Sumter,SWAN LAKE,County Council District 6,,James T McCain Jr,DEM,96,61,0,0,0,0,35
+Sumter,WILDER,County Council District 6,,Gloria Rose Lee,DEM,110,60,0,0,0,4,46
+Sumter,WILDER,County Council District 6,,James T McCain Jr,DEM,98,54,0,0,0,5,39
+Sumter,BATES,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,BATES,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Sumter,BATES,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,BATES,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Sumter,BATES,Governor,,Ralph W Norman,REP,1,0,0,0,0,0,1
+Sumter,BATES,Governor,,Rom Reddy,REP,2,2,0,0,0,0,0
+Sumter,BATES,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Sumter,BATES,Governor,,Jermaine Johnson,DEM,69,32,0,0,0,2,35
+Sumter,BATES,Governor,,Mullins McLeod,DEM,9,5,0,0,0,0,4
+Sumter,BATES,Governor,,Billy Webster,DEM,79,40,0,0,0,7,32
+Sumter,BIRNIE,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,Governor,,Ralph W Norman,REP,2,0,0,0,0,0,2
+Sumter,BIRNIE,Governor,,Rom Reddy,REP,1,1,0,0,0,0,0
+Sumter,BIRNIE,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,Governor,,Jermaine Johnson,DEM,106,59,0,0,0,1,46
+Sumter,BIRNIE,Governor,,Mullins McLeod,DEM,17,10,0,0,0,0,7
+Sumter,BIRNIE,Governor,,Billy Webster,DEM,96,57,0,0,0,7,32
+Sumter,BUNRS-DOWNS,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Sumter,BUNRS-DOWNS,Governor,,Pamela Evette,REP,31,5,0,0,0,0,26
+Sumter,BUNRS-DOWNS,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,BUNRS-DOWNS,Governor,,Nancy Mace,REP,5,0,0,0,0,0,5
+Sumter,BUNRS-DOWNS,Governor,,Ralph W Norman,REP,15,1,0,0,0,1,13
+Sumter,BUNRS-DOWNS,Governor,,Rom Reddy,REP,9,0,0,0,0,0,9
+Sumter,BUNRS-DOWNS,Governor,,Alan Wilson,REP,22,8,0,0,0,2,12
+Sumter,BUNRS-DOWNS,Governor,,Jermaine Johnson,DEM,49,21,0,0,0,1,27
+Sumter,BUNRS-DOWNS,Governor,,Mullins McLeod,DEM,15,9,0,0,0,0,6
+Sumter,BUNRS-DOWNS,Governor,,Billy Webster,DEM,57,30,0,0,0,2,25
+Sumter,CAUSEWAY BRANCH 1,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Sumter,CAUSEWAY BRANCH 1,Governor,,Pamela Evette,REP,72,23,0,0,0,4,45
+Sumter,CAUSEWAY BRANCH 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,CAUSEWAY BRANCH 1,Governor,,Nancy Mace,REP,25,6,0,0,0,2,17
+Sumter,CAUSEWAY BRANCH 1,Governor,,Ralph W Norman,REP,32,11,0,0,0,0,21
+Sumter,CAUSEWAY BRANCH 1,Governor,,Rom Reddy,REP,26,8,0,0,0,0,18
+Sumter,CAUSEWAY BRANCH 1,Governor,,Alan Wilson,REP,32,8,0,0,0,1,23
+Sumter,CAUSEWAY BRANCH 1,Governor,,Jermaine Johnson,DEM,120,72,0,0,0,3,45
+Sumter,CAUSEWAY BRANCH 1,Governor,,Mullins McLeod,DEM,19,9,0,0,0,0,10
+Sumter,CAUSEWAY BRANCH 1,Governor,,Billy Webster,DEM,95,65,0,0,0,2,28
+Sumter,CAUSEWAY BRANCH 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,CAUSEWAY BRANCH 2,Governor,,Pamela Evette,REP,37,10,0,0,0,0,27
+Sumter,CAUSEWAY BRANCH 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,CAUSEWAY BRANCH 2,Governor,,Nancy Mace,REP,18,5,0,0,0,0,13
+Sumter,CAUSEWAY BRANCH 2,Governor,,Ralph W Norman,REP,24,8,0,0,0,0,16
+Sumter,CAUSEWAY BRANCH 2,Governor,,Rom Reddy,REP,18,9,0,0,0,0,9
+Sumter,CAUSEWAY BRANCH 2,Governor,,Alan Wilson,REP,24,4,0,0,0,0,20
+Sumter,CAUSEWAY BRANCH 2,Governor,,Jermaine Johnson,DEM,97,52,0,0,0,1,44
+Sumter,CAUSEWAY BRANCH 2,Governor,,Mullins McLeod,DEM,14,7,0,0,0,0,7
+Sumter,CAUSEWAY BRANCH 2,Governor,,Billy Webster,DEM,67,43,0,0,0,2,22
+Sumter,CHERRYVALE,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,CHERRYVALE,Governor,,Pamela Evette,REP,10,1,0,0,0,0,9
+Sumter,CHERRYVALE,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,CHERRYVALE,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Sumter,CHERRYVALE,Governor,,Ralph W Norman,REP,2,0,0,0,0,0,2
+Sumter,CHERRYVALE,Governor,,Rom Reddy,REP,7,0,0,0,0,0,7
+Sumter,CHERRYVALE,Governor,,Alan Wilson,REP,2,0,0,0,0,0,2
+Sumter,CHERRYVALE,Governor,,Jermaine Johnson,DEM,37,10,0,0,0,0,27
+Sumter,CHERRYVALE,Governor,,Mullins McLeod,DEM,14,7,0,0,0,0,7
+Sumter,CHERRYVALE,Governor,,Billy Webster,DEM,13,4,0,0,0,0,9
+Sumter,CROSSWELL,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,CROSSWELL,Governor,,Pamela Evette,REP,17,4,0,0,0,0,13
+Sumter,CROSSWELL,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,CROSSWELL,Governor,,Nancy Mace,REP,3,0,0,0,0,0,3
+Sumter,CROSSWELL,Governor,,Ralph W Norman,REP,1,1,0,0,0,0,0
+Sumter,CROSSWELL,Governor,,Rom Reddy,REP,10,1,0,0,0,2,7
+Sumter,CROSSWELL,Governor,,Alan Wilson,REP,6,2,0,0,0,0,4
+Sumter,CROSSWELL,Governor,,Jermaine Johnson,DEM,136,76,0,0,0,0,60
+Sumter,CROSSWELL,Governor,,Mullins McLeod,DEM,25,12,0,0,0,0,13
+Sumter,CROSSWELL,Governor,,Billy Webster,DEM,71,48,0,0,0,3,20
+Sumter,DALZELL 1,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Sumter,DALZELL 1,Governor,,Pamela Evette,REP,62,24,0,0,0,0,38
+Sumter,DALZELL 1,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Sumter,DALZELL 1,Governor,,Nancy Mace,REP,7,3,0,0,0,0,4
+Sumter,DALZELL 1,Governor,,Ralph W Norman,REP,29,14,0,0,0,0,15
+Sumter,DALZELL 1,Governor,,Rom Reddy,REP,21,13,0,0,0,0,8
+Sumter,DALZELL 1,Governor,,Alan Wilson,REP,24,8,0,0,0,1,15
+Sumter,DALZELL 1,Governor,,Jermaine Johnson,DEM,124,71,0,0,0,0,53
+Sumter,DALZELL 1,Governor,,Mullins McLeod,DEM,19,11,0,0,0,1,7
+Sumter,DALZELL 1,Governor,,Billy Webster,DEM,69,49,0,0,0,4,16
+Sumter,DALZELL 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,DALZELL 2,Governor,,Pamela Evette,REP,26,11,0,0,0,0,15
+Sumter,DALZELL 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,DALZELL 2,Governor,,Nancy Mace,REP,10,2,0,0,0,0,8
+Sumter,DALZELL 2,Governor,,Ralph W Norman,REP,7,1,0,0,0,0,6
+Sumter,DALZELL 2,Governor,,Rom Reddy,REP,2,1,0,0,0,0,1
+Sumter,DALZELL 2,Governor,,Alan Wilson,REP,11,4,0,0,0,0,7
+Sumter,DALZELL 2,Governor,,Jermaine Johnson,DEM,93,43,0,0,0,3,47
+Sumter,DALZELL 2,Governor,,Mullins McLeod,DEM,19,4,0,0,0,1,14
+Sumter,DALZELL 2,Governor,,Billy Webster,DEM,42,21,0,0,0,4,17
+Sumter,DELAINE,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Sumter,DELAINE,Governor,,Pamela Evette,REP,29,4,0,0,0,0,25
+Sumter,DELAINE,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Sumter,DELAINE,Governor,,Nancy Mace,REP,7,3,0,0,0,1,3
+Sumter,DELAINE,Governor,,Ralph W Norman,REP,11,1,0,0,0,0,10
+Sumter,DELAINE,Governor,,Rom Reddy,REP,6,0,0,0,0,0,6
+Sumter,DELAINE,Governor,,Alan Wilson,REP,11,5,0,0,0,0,6
+Sumter,DELAINE,Governor,,Jermaine Johnson,DEM,172,85,0,0,0,5,82
+Sumter,DELAINE,Governor,,Mullins McLeod,DEM,38,16,0,0,0,3,19
+Sumter,DELAINE,Governor,,Billy Webster,DEM,127,71,0,0,0,5,51
+Sumter,EBENEZER 1,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Sumter,EBENEZER 1,Governor,,Pamela Evette,REP,41,8,0,0,0,0,33
+Sumter,EBENEZER 1,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Sumter,EBENEZER 1,Governor,,Nancy Mace,REP,11,6,0,0,0,0,5
+Sumter,EBENEZER 1,Governor,,Ralph W Norman,REP,10,2,0,0,0,0,8
+Sumter,EBENEZER 1,Governor,,Rom Reddy,REP,8,4,0,0,0,0,4
+Sumter,EBENEZER 1,Governor,,Alan Wilson,REP,22,5,0,0,0,0,17
+Sumter,EBENEZER 1,Governor,,Jermaine Johnson,DEM,133,58,0,0,0,3,72
+Sumter,EBENEZER 1,Governor,,Mullins McLeod,DEM,13,7,0,0,0,0,6
+Sumter,EBENEZER 1,Governor,,Billy Webster,DEM,69,36,0,0,0,3,30
+Sumter,EBENEZER 2,Governor,,Jacqueline Hicks DuBose,REP,3,0,0,0,0,0,3
+Sumter,EBENEZER 2,Governor,,Pamela Evette,REP,47,10,0,0,0,0,37
+Sumter,EBENEZER 2,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Sumter,EBENEZER 2,Governor,,Nancy Mace,REP,15,4,0,0,0,0,11
+Sumter,EBENEZER 2,Governor,,Ralph W Norman,REP,23,4,0,0,0,2,17
+Sumter,EBENEZER 2,Governor,,Rom Reddy,REP,10,5,0,0,0,0,5
+Sumter,EBENEZER 2,Governor,,Alan Wilson,REP,21,6,0,0,0,0,15
+Sumter,EBENEZER 2,Governor,,Jermaine Johnson,DEM,180,91,0,0,0,5,84
+Sumter,EBENEZER 2,Governor,,Mullins McLeod,DEM,32,18,0,0,0,0,14
+Sumter,EBENEZER 2,Governor,,Billy Webster,DEM,77,53,0,0,0,0,24
+Sumter,FOLSOM PARK,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,FOLSOM PARK,Governor,,Pamela Evette,REP,6,2,0,0,0,0,4
+Sumter,FOLSOM PARK,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,FOLSOM PARK,Governor,,Nancy Mace,REP,3,1,0,0,0,0,2
+Sumter,FOLSOM PARK,Governor,,Ralph W Norman,REP,5,2,0,0,0,0,3
+Sumter,FOLSOM PARK,Governor,,Rom Reddy,REP,2,2,0,0,0,0,0
+Sumter,FOLSOM PARK,Governor,,Alan Wilson,REP,3,1,0,0,0,0,2
+Sumter,FOLSOM PARK,Governor,,Jermaine Johnson,DEM,132,88,0,0,0,2,42
+Sumter,FOLSOM PARK,Governor,,Mullins McLeod,DEM,13,10,0,0,0,0,3
+Sumter,FOLSOM PARK,Governor,,Billy Webster,DEM,53,30,0,0,0,2,21
+Sumter,FURMAN,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,FURMAN,Governor,,Pamela Evette,REP,66,3,0,0,0,6,57
+Sumter,FURMAN,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Sumter,FURMAN,Governor,,Nancy Mace,REP,19,5,0,0,0,0,14
+Sumter,FURMAN,Governor,,Ralph W Norman,REP,16,4,0,0,0,1,11
+Sumter,FURMAN,Governor,,Rom Reddy,REP,21,4,0,0,0,0,17
+Sumter,FURMAN,Governor,,Alan Wilson,REP,28,5,0,0,0,0,23
+Sumter,FURMAN,Governor,,Jermaine Johnson,DEM,52,24,0,0,0,3,25
+Sumter,FURMAN,Governor,,Mullins McLeod,DEM,8,5,0,0,0,0,3
+Sumter,FURMAN,Governor,,Billy Webster,DEM,38,22,0,0,0,2,14
+Sumter,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,1,0,1,0,0,0,0
+Sumter,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,Governor,,Pamela Evette,REP,83,26,0,0,0,1,56
+Sumter,GREEN SWAMP,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Sumter,GREEN SWAMP,Governor,,Nancy Mace,REP,15,3,0,0,0,0,12
+Sumter,GREEN SWAMP,Governor,,Ralph W Norman,REP,36,12,0,0,0,2,22
+Sumter,GREEN SWAMP,Governor,,Rom Reddy,REP,24,7,0,0,0,0,17
+Sumter,GREEN SWAMP,Governor,,Alan Wilson,REP,49,16,0,0,0,0,33
+Sumter,GREEN SWAMP,Governor,,Jermaine Johnson,DEM,222,129,0,0,0,5,88
+Sumter,GREEN SWAMP,Governor,,Mullins McLeod,DEM,34,23,0,0,0,0,11
+Sumter,GREEN SWAMP,Governor,,Billy Webster,DEM,133,71,0,0,0,8,54
+Sumter,GREEN SWAMP 2,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Sumter,GREEN SWAMP 2,Governor,,Pamela Evette,REP,63,14,0,0,0,0,49
+Sumter,GREEN SWAMP 2,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Sumter,GREEN SWAMP 2,Governor,,Nancy Mace,REP,16,4,0,0,0,0,12
+Sumter,GREEN SWAMP 2,Governor,,Ralph W Norman,REP,33,6,0,0,0,0,27
+Sumter,GREEN SWAMP 2,Governor,,Rom Reddy,REP,25,3,0,0,0,0,22
+Sumter,GREEN SWAMP 2,Governor,,Alan Wilson,REP,59,16,0,0,0,2,41
+Sumter,GREEN SWAMP 2,Governor,,Jermaine Johnson,DEM,27,13,0,0,0,2,12
+Sumter,GREEN SWAMP 2,Governor,,Mullins McLeod,DEM,6,3,0,0,0,1,2
+Sumter,GREEN SWAMP 2,Governor,,Billy Webster,DEM,41,21,0,0,0,3,17
+Sumter,HAMPTON PARK,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,HAMPTON PARK,Governor,,Pamela Evette,REP,32,5,0,0,0,0,27
+Sumter,HAMPTON PARK,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,HAMPTON PARK,Governor,,Nancy Mace,REP,9,1,0,0,0,0,8
+Sumter,HAMPTON PARK,Governor,,Ralph W Norman,REP,11,1,0,0,0,0,10
+Sumter,HAMPTON PARK,Governor,,Rom Reddy,REP,7,1,0,0,0,0,6
+Sumter,HAMPTON PARK,Governor,,Alan Wilson,REP,13,6,0,0,0,0,7
+Sumter,HAMPTON PARK,Governor,,Jermaine Johnson,DEM,63,27,0,0,0,1,35
+Sumter,HAMPTON PARK,Governor,,Mullins McLeod,DEM,10,3,0,0,0,0,7
+Sumter,HAMPTON PARK,Governor,,Billy Webster,DEM,51,21,0,0,0,5,25
+Sumter,HILLCREST,Governor,,Jacqueline Hicks DuBose,REP,4,1,0,0,0,0,3
+Sumter,HILLCREST,Governor,,Pamela Evette,REP,15,3,0,0,0,0,12
+Sumter,HILLCREST,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,HILLCREST,Governor,,Nancy Mace,REP,7,4,0,0,0,0,3
+Sumter,HILLCREST,Governor,,Ralph W Norman,REP,19,10,0,0,0,1,8
+Sumter,HILLCREST,Governor,,Rom Reddy,REP,12,6,0,0,0,0,6
+Sumter,HILLCREST,Governor,,Alan Wilson,REP,15,6,0,0,0,0,9
+Sumter,HILLCREST,Governor,,Jermaine Johnson,DEM,107,72,0,0,0,3,32
+Sumter,HILLCREST,Governor,,Mullins McLeod,DEM,10,6,0,0,0,0,4
+Sumter,HILLCREST,Governor,,Billy Webster,DEM,64,49,0,0,0,1,14
+Sumter,HORATIO,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Sumter,HORATIO,Governor,,Pamela Evette,REP,11,5,0,0,0,0,6
+Sumter,HORATIO,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,HORATIO,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Sumter,HORATIO,Governor,,Ralph W Norman,REP,6,0,0,0,0,0,6
+Sumter,HORATIO,Governor,,Rom Reddy,REP,4,2,0,0,0,0,2
+Sumter,HORATIO,Governor,,Alan Wilson,REP,7,0,0,0,0,0,7
+Sumter,HORATIO,Governor,,Jermaine Johnson,DEM,81,47,0,0,0,0,34
+Sumter,HORATIO,Governor,,Mullins McLeod,DEM,14,6,0,0,0,1,7
+Sumter,HORATIO,Governor,,Billy Webster,DEM,53,41,0,0,0,0,12
+Sumter,LEMIRA,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,LEMIRA,Governor,,Pamela Evette,REP,9,2,0,0,0,0,7
+Sumter,LEMIRA,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,LEMIRA,Governor,,Nancy Mace,REP,3,0,0,0,0,0,3
+Sumter,LEMIRA,Governor,,Ralph W Norman,REP,1,0,0,0,0,1,0
+Sumter,LEMIRA,Governor,,Rom Reddy,REP,2,0,0,0,0,0,2
+Sumter,LEMIRA,Governor,,Alan Wilson,REP,4,1,0,0,0,0,3
+Sumter,LEMIRA,Governor,,Jermaine Johnson,DEM,104,58,0,0,0,9,37
+Sumter,LEMIRA,Governor,,Mullins McLeod,DEM,24,15,0,0,0,0,9
+Sumter,LEMIRA,Governor,,Billy Webster,DEM,87,53,0,0,0,9,25
+Sumter,LORING,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,LORING,Governor,,Pamela Evette,REP,11,5,0,0,0,0,6
+Sumter,LORING,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,LORING,Governor,,Nancy Mace,REP,3,0,0,0,0,0,3
+Sumter,LORING,Governor,,Ralph W Norman,REP,1,0,0,0,0,1,0
+Sumter,LORING,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Sumter,LORING,Governor,,Alan Wilson,REP,3,1,0,0,0,0,2
+Sumter,LORING,Governor,,Jermaine Johnson,DEM,57,29,0,0,0,0,28
+Sumter,LORING,Governor,,Mullins McLeod,DEM,9,4,0,0,0,0,5
+Sumter,LORING,Governor,,Billy Webster,DEM,29,18,0,0,0,0,11
+Sumter,MAGNOLIA-HARMONY,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,Governor,,Pamela Evette,REP,3,2,0,0,0,0,1
+Sumter,MAGNOLIA-HARMONY,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Sumter,MAGNOLIA-HARMONY,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,Governor,,Jermaine Johnson,DEM,59,36,0,0,0,2,21
+Sumter,MAGNOLIA-HARMONY,Governor,,Mullins McLeod,DEM,18,9,0,0,0,0,9
+Sumter,MAGNOLIA-HARMONY,Governor,,Billy Webster,DEM,52,32,0,0,0,2,18
+Sumter,MANCHESTER FOREST,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Sumter,MANCHESTER FOREST,Governor,,Pamela Evette,REP,52,7,0,0,0,0,45
+Sumter,MANCHESTER FOREST,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Sumter,MANCHESTER FOREST,Governor,,Nancy Mace,REP,13,1,0,0,0,0,12
+Sumter,MANCHESTER FOREST,Governor,,Ralph W Norman,REP,24,6,0,0,0,0,18
+Sumter,MANCHESTER FOREST,Governor,,Rom Reddy,REP,25,4,0,0,0,0,21
+Sumter,MANCHESTER FOREST,Governor,,Alan Wilson,REP,27,5,0,0,0,0,22
+Sumter,MANCHESTER FOREST,Governor,,Jermaine Johnson,DEM,89,48,0,0,0,5,36
+Sumter,MANCHESTER FOREST,Governor,,Mullins McLeod,DEM,28,14,0,0,0,0,14
+Sumter,MANCHESTER FOREST,Governor,,Billy Webster,DEM,77,35,0,0,0,0,42
+Sumter,MAYESVILLE,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Sumter,MAYESVILLE,Governor,,Pamela Evette,REP,12,0,0,0,0,0,12
+Sumter,MAYESVILLE,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Sumter,MAYESVILLE,Governor,,Nancy Mace,REP,4,0,0,0,0,0,4
+Sumter,MAYESVILLE,Governor,,Ralph W Norman,REP,3,1,0,0,0,0,2
+Sumter,MAYESVILLE,Governor,,Rom Reddy,REP,8,0,0,0,0,0,8
+Sumter,MAYESVILLE,Governor,,Alan Wilson,REP,5,0,0,0,0,0,5
+Sumter,MAYESVILLE,Governor,,Jermaine Johnson,DEM,65,17,0,0,0,0,48
+Sumter,MAYESVILLE,Governor,,Mullins McLeod,DEM,9,3,0,0,0,0,6
+Sumter,MAYESVILLE,Governor,,Billy Webster,DEM,38,5,0,0,0,0,33
+Sumter,MAYEWOOD,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Sumter,MAYEWOOD,Governor,,Pamela Evette,REP,74,18,0,0,0,0,56
+Sumter,MAYEWOOD,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,MAYEWOOD,Governor,,Nancy Mace,REP,17,1,0,0,0,0,16
+Sumter,MAYEWOOD,Governor,,Ralph W Norman,REP,15,5,0,0,0,1,9
+Sumter,MAYEWOOD,Governor,,Rom Reddy,REP,17,1,0,0,0,0,16
+Sumter,MAYEWOOD,Governor,,Alan Wilson,REP,35,11,0,0,0,0,24
+Sumter,MAYEWOOD,Governor,,Jermaine Johnson,DEM,108,59,0,0,0,6,43
+Sumter,MAYEWOOD,Governor,,Mullins McLeod,DEM,11,6,0,0,0,0,5
+Sumter,MAYEWOOD,Governor,,Billy Webster,DEM,54,34,0,0,0,5,15
+Sumter,MCCRAYS MILL 1,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Sumter,MCCRAYS MILL 1,Governor,,Pamela Evette,REP,54,6,0,0,0,2,46
+Sumter,MCCRAYS MILL 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,MCCRAYS MILL 1,Governor,,Nancy Mace,REP,9,1,0,0,0,0,8
+Sumter,MCCRAYS MILL 1,Governor,,Ralph W Norman,REP,30,7,0,0,0,0,23
+Sumter,MCCRAYS MILL 1,Governor,,Rom Reddy,REP,18,5,0,0,0,0,13
+Sumter,MCCRAYS MILL 1,Governor,,Alan Wilson,REP,26,4,0,0,0,0,22
+Sumter,MCCRAYS MILL 1,Governor,,Jermaine Johnson,DEM,156,82,0,0,0,5,69
+Sumter,MCCRAYS MILL 1,Governor,,Mullins McLeod,DEM,24,12,0,0,0,0,12
+Sumter,MCCRAYS MILL 1,Governor,,Billy Webster,DEM,91,55,0,0,0,2,34
+Sumter,MCCRAYS MILL 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,MCCRAYS MILL 2,Governor,,Pamela Evette,REP,73,10,0,0,0,0,63
+Sumter,MCCRAYS MILL 2,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Sumter,MCCRAYS MILL 2,Governor,,Nancy Mace,REP,21,4,0,0,0,0,17
+Sumter,MCCRAYS MILL 2,Governor,,Ralph W Norman,REP,46,11,0,0,0,0,35
+Sumter,MCCRAYS MILL 2,Governor,,Rom Reddy,REP,20,3,0,0,0,2,15
+Sumter,MCCRAYS MILL 2,Governor,,Alan Wilson,REP,40,9,0,0,0,0,31
+Sumter,MCCRAYS MILL 2,Governor,,Jermaine Johnson,DEM,173,90,0,0,0,8,75
+Sumter,MCCRAYS MILL 2,Governor,,Mullins McLeod,DEM,25,13,0,0,0,0,12
+Sumter,MCCRAYS MILL 2,Governor,,Billy Webster,DEM,120,66,0,0,0,5,49
+Sumter,MILLWOOD,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,MILLWOOD,Governor,,Pamela Evette,REP,23,4,0,0,0,2,17
+Sumter,MILLWOOD,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,MILLWOOD,Governor,,Nancy Mace,REP,4,0,0,0,0,0,4
+Sumter,MILLWOOD,Governor,,Ralph W Norman,REP,5,1,0,0,0,0,4
+Sumter,MILLWOOD,Governor,,Rom Reddy,REP,5,2,0,0,0,0,3
+Sumter,MILLWOOD,Governor,,Alan Wilson,REP,7,1,0,0,0,0,6
+Sumter,MILLWOOD,Governor,,Jermaine Johnson,DEM,52,28,0,0,0,0,24
+Sumter,MILLWOOD,Governor,,Mullins McLeod,DEM,8,2,0,0,0,0,6
+Sumter,MILLWOOD,Governor,,Billy Webster,DEM,33,17,0,0,0,0,16
+Sumter,MORRIS COLLEGE,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,MORRIS COLLEGE,Governor,,Pamela Evette,REP,11,1,0,0,0,0,10
+Sumter,MORRIS COLLEGE,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Sumter,MORRIS COLLEGE,Governor,,Nancy Mace,REP,2,1,0,0,0,0,1
+Sumter,MORRIS COLLEGE,Governor,,Ralph W Norman,REP,2,0,0,0,0,0,2
+Sumter,MORRIS COLLEGE,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Sumter,MORRIS COLLEGE,Governor,,Alan Wilson,REP,5,3,0,0,0,0,2
+Sumter,MORRIS COLLEGE,Governor,,Jermaine Johnson,DEM,95,50,0,0,0,3,42
+Sumter,MORRIS COLLEGE,Governor,,Mullins McLeod,DEM,15,5,0,0,0,0,10
+Sumter,MORRIS COLLEGE,Governor,,Billy Webster,DEM,67,47,0,0,0,1,19
+Sumter,MULBERRY,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,MULBERRY,Governor,,Pamela Evette,REP,11,4,0,0,0,0,7
+Sumter,MULBERRY,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,MULBERRY,Governor,,Nancy Mace,REP,3,0,0,0,0,0,3
+Sumter,MULBERRY,Governor,,Ralph W Norman,REP,6,3,0,0,0,0,3
+Sumter,MULBERRY,Governor,,Rom Reddy,REP,3,0,0,0,0,0,3
+Sumter,MULBERRY,Governor,,Alan Wilson,REP,6,2,0,0,0,0,4
+Sumter,MULBERRY,Governor,,Jermaine Johnson,DEM,64,22,0,0,0,0,42
+Sumter,MULBERRY,Governor,,Mullins McLeod,DEM,14,12,0,0,0,0,2
+Sumter,MULBERRY,Governor,,Billy Webster,DEM,60,41,0,0,0,4,15
+Sumter,OAKLAND PLANTATION 1,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Sumter,OAKLAND PLANTATION 1,Governor,,Pamela Evette,REP,61,12,0,0,0,0,49
+Sumter,OAKLAND PLANTATION 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,OAKLAND PLANTATION 1,Governor,,Nancy Mace,REP,12,5,0,0,0,0,7
+Sumter,OAKLAND PLANTATION 1,Governor,,Ralph W Norman,REP,26,13,0,0,0,0,13
+Sumter,OAKLAND PLANTATION 1,Governor,,Rom Reddy,REP,16,3,0,0,0,0,13
+Sumter,OAKLAND PLANTATION 1,Governor,,Alan Wilson,REP,27,6,0,0,0,1,20
+Sumter,OAKLAND PLANTATION 1,Governor,,Jermaine Johnson,DEM,101,62,0,0,0,1,38
+Sumter,OAKLAND PLANTATION 1,Governor,,Mullins McLeod,DEM,14,9,0,0,0,1,4
+Sumter,OAKLAND PLANTATION 1,Governor,,Billy Webster,DEM,75,45,0,0,0,2,28
+Sumter,OAKLAND PLANTATION 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,OAKLAND PLANTATION 2,Governor,,Pamela Evette,REP,34,8,0,0,0,0,26
+Sumter,OAKLAND PLANTATION 2,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Sumter,OAKLAND PLANTATION 2,Governor,,Nancy Mace,REP,13,1,0,0,0,0,12
+Sumter,OAKLAND PLANTATION 2,Governor,,Ralph W Norman,REP,28,6,0,0,0,1,21
+Sumter,OAKLAND PLANTATION 2,Governor,,Rom Reddy,REP,16,8,0,0,0,0,8
+Sumter,OAKLAND PLANTATION 2,Governor,,Alan Wilson,REP,20,4,0,0,0,0,16
+Sumter,OAKLAND PLANTATION 2,Governor,,Jermaine Johnson,DEM,69,46,0,0,0,0,23
+Sumter,OAKLAND PLANTATION 2,Governor,,Mullins McLeod,DEM,11,7,0,0,0,0,4
+Sumter,OAKLAND PLANTATION 2,Governor,,Billy Webster,DEM,54,34,0,0,0,0,20
+Sumter,OSWEGO,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,OSWEGO,Governor,,Pamela Evette,REP,48,6,0,0,0,2,40
+Sumter,OSWEGO,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,OSWEGO,Governor,,Nancy Mace,REP,15,2,0,0,0,0,13
+Sumter,OSWEGO,Governor,,Ralph W Norman,REP,28,15,0,0,0,2,11
+Sumter,OSWEGO,Governor,,Rom Reddy,REP,22,6,0,0,0,0,16
+Sumter,OSWEGO,Governor,,Alan Wilson,REP,34,11,0,0,0,0,23
+Sumter,OSWEGO,Governor,,Jermaine Johnson,DEM,77,41,0,0,0,7,29
+Sumter,OSWEGO,Governor,,Mullins McLeod,DEM,15,11,0,0,0,0,4
+Sumter,OSWEGO,Governor,,Billy Webster,DEM,63,39,0,0,0,5,19
+Sumter,PALMETTO PARK,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,PALMETTO PARK,Governor,,Pamela Evette,REP,24,3,0,0,0,0,21
+Sumter,PALMETTO PARK,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Sumter,PALMETTO PARK,Governor,,Nancy Mace,REP,9,2,0,0,0,0,7
+Sumter,PALMETTO PARK,Governor,,Ralph W Norman,REP,13,4,0,0,0,0,9
+Sumter,PALMETTO PARK,Governor,,Rom Reddy,REP,5,0,0,0,0,0,5
+Sumter,PALMETTO PARK,Governor,,Alan Wilson,REP,17,2,0,0,0,0,15
+Sumter,PALMETTO PARK,Governor,,Jermaine Johnson,DEM,88,52,0,0,0,1,35
+Sumter,PALMETTO PARK,Governor,,Mullins McLeod,DEM,9,7,0,0,0,0,2
+Sumter,PALMETTO PARK,Governor,,Billy Webster,DEM,38,18,0,0,0,0,20
+Sumter,PINEWOOD,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Sumter,PINEWOOD,Governor,,Pamela Evette,REP,43,5,0,0,0,0,38
+Sumter,PINEWOOD,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,PINEWOOD,Governor,,Nancy Mace,REP,10,4,0,0,0,0,6
+Sumter,PINEWOOD,Governor,,Ralph W Norman,REP,22,2,0,0,0,0,20
+Sumter,PINEWOOD,Governor,,Rom Reddy,REP,6,0,0,0,0,0,6
+Sumter,PINEWOOD,Governor,,Alan Wilson,REP,22,3,0,0,0,5,14
+Sumter,PINEWOOD,Governor,,Jermaine Johnson,DEM,119,54,0,0,0,0,65
+Sumter,PINEWOOD,Governor,,Mullins McLeod,DEM,15,9,0,0,0,0,6
+Sumter,PINEWOOD,Governor,,Billy Webster,DEM,98,40,0,0,0,7,51
+Sumter,POCOTALIGO 1,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Sumter,POCOTALIGO 1,Governor,,Pamela Evette,REP,84,14,0,0,0,0,70
+Sumter,POCOTALIGO 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,POCOTALIGO 1,Governor,,Nancy Mace,REP,16,2,0,0,0,0,14
+Sumter,POCOTALIGO 1,Governor,,Ralph W Norman,REP,32,11,0,0,0,0,21
+Sumter,POCOTALIGO 1,Governor,,Rom Reddy,REP,24,10,0,0,0,0,14
+Sumter,POCOTALIGO 1,Governor,,Alan Wilson,REP,34,13,0,0,0,1,20
+Sumter,POCOTALIGO 1,Governor,,Jermaine Johnson,DEM,126,67,0,0,0,1,58
+Sumter,POCOTALIGO 1,Governor,,Mullins McLeod,DEM,22,16,0,0,0,0,6
+Sumter,POCOTALIGO 1,Governor,,Billy Webster,DEM,95,53,0,0,0,2,40
+Sumter,POCOTALIGO 2,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Sumter,POCOTALIGO 2,Governor,,Pamela Evette,REP,26,3,0,0,0,2,21
+Sumter,POCOTALIGO 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,POCOTALIGO 2,Governor,,Nancy Mace,REP,6,0,0,0,0,0,6
+Sumter,POCOTALIGO 2,Governor,,Ralph W Norman,REP,20,9,0,0,0,0,11
+Sumter,POCOTALIGO 2,Governor,,Rom Reddy,REP,5,1,0,0,0,0,4
+Sumter,POCOTALIGO 2,Governor,,Alan Wilson,REP,8,2,0,0,0,0,6
+Sumter,POCOTALIGO 2,Governor,,Jermaine Johnson,DEM,86,40,0,0,0,10,36
+Sumter,POCOTALIGO 2,Governor,,Mullins McLeod,DEM,16,10,0,0,0,1,5
+Sumter,POCOTALIGO 2,Governor,,Billy Webster,DEM,53,29,0,0,0,8,16
+Sumter,PRIVATEER,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,PRIVATEER,Governor,,Pamela Evette,REP,107,12,0,0,0,1,94
+Sumter,PRIVATEER,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,1,1
+Sumter,PRIVATEER,Governor,,Nancy Mace,REP,17,4,0,0,0,1,12
+Sumter,PRIVATEER,Governor,,Ralph W Norman,REP,17,8,0,0,0,2,7
+Sumter,PRIVATEER,Governor,,Rom Reddy,REP,24,10,0,0,0,0,14
+Sumter,PRIVATEER,Governor,,Alan Wilson,REP,31,5,0,0,0,3,23
+Sumter,PRIVATEER,Governor,,Jermaine Johnson,DEM,149,80,0,0,0,3,66
+Sumter,PRIVATEER,Governor,,Mullins McLeod,DEM,13,9,0,0,0,0,4
+Sumter,PRIVATEER,Governor,,Billy Webster,DEM,48,30,0,0,0,1,17
+Sumter,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Sumter,Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Sumter,Provisional,Governor,,Mullins McLeod,DEM,1,0,0,1,0,0,0
+Sumter,Provisional,Governor,,Billy Webster,DEM,1,0,0,1,0,0,0
+Sumter,REMBERT,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Sumter,REMBERT,Governor,,Pamela Evette,REP,15,4,0,0,0,0,11
+Sumter,REMBERT,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,REMBERT,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Sumter,REMBERT,Governor,,Ralph W Norman,REP,27,3,0,0,0,1,23
+Sumter,REMBERT,Governor,,Rom Reddy,REP,7,3,0,0,0,0,4
+Sumter,REMBERT,Governor,,Alan Wilson,REP,9,4,0,0,0,0,5
+Sumter,REMBERT,Governor,,Jermaine Johnson,DEM,209,104,0,0,0,31,74
+Sumter,REMBERT,Governor,,Mullins McLeod,DEM,102,22,0,0,0,55,25
+Sumter,REMBERT,Governor,,Billy Webster,DEM,187,100,0,0,0,15,72
+Sumter,SALEM,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,SALEM,Governor,,Pamela Evette,REP,4,0,0,0,0,0,4
+Sumter,SALEM,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Sumter,SALEM,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Sumter,SALEM,Governor,,Ralph W Norman,REP,4,1,0,0,0,0,3
+Sumter,SALEM,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Sumter,SALEM,Governor,,Alan Wilson,REP,6,0,0,0,0,0,6
+Sumter,SALEM,Governor,,Jermaine Johnson,DEM,41,17,0,0,0,1,23
+Sumter,SALEM,Governor,,Mullins McLeod,DEM,9,3,0,0,0,0,6
+Sumter,SALEM,Governor,,Billy Webster,DEM,41,11,0,0,0,2,28
+Sumter,SALTERSTOWN,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Sumter,SALTERSTOWN,Governor,,Pamela Evette,REP,29,5,0,0,0,0,24
+Sumter,SALTERSTOWN,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,SALTERSTOWN,Governor,,Nancy Mace,REP,3,1,0,0,0,0,2
+Sumter,SALTERSTOWN,Governor,,Ralph W Norman,REP,12,4,0,0,0,0,8
+Sumter,SALTERSTOWN,Governor,,Rom Reddy,REP,4,0,0,0,0,0,4
+Sumter,SALTERSTOWN,Governor,,Alan Wilson,REP,19,3,0,0,0,0,16
+Sumter,SALTERSTOWN,Governor,,Jermaine Johnson,DEM,46,23,0,0,0,0,23
+Sumter,SALTERSTOWN,Governor,,Mullins McLeod,DEM,10,8,0,0,0,0,2
+Sumter,SALTERSTOWN,Governor,,Billy Webster,DEM,47,27,0,0,0,3,17
+Sumter,SAVAGE-GLOVER,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Sumter,SAVAGE-GLOVER,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,Governor,,Jermaine Johnson,DEM,62,24,0,0,0,2,36
+Sumter,SAVAGE-GLOVER,Governor,,Mullins McLeod,DEM,11,7,0,0,0,0,4
+Sumter,SAVAGE-GLOVER,Governor,,Billy Webster,DEM,35,24,0,0,0,0,11
+Sumter,SECOND MILL,Governor,,Jacqueline Hicks DuBose,REP,5,1,0,0,0,0,4
+Sumter,SECOND MILL,Governor,,Pamela Evette,REP,80,17,0,0,0,0,63
+Sumter,SECOND MILL,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Sumter,SECOND MILL,Governor,,Nancy Mace,REP,30,1,0,0,0,2,27
+Sumter,SECOND MILL,Governor,,Ralph W Norman,REP,42,9,0,0,0,0,33
+Sumter,SECOND MILL,Governor,,Rom Reddy,REP,25,6,0,0,0,2,17
+Sumter,SECOND MILL,Governor,,Alan Wilson,REP,99,17,0,0,0,4,78
+Sumter,SECOND MILL,Governor,,Jermaine Johnson,DEM,44,17,0,0,0,2,25
+Sumter,SECOND MILL,Governor,,Mullins McLeod,DEM,14,10,0,0,0,1,3
+Sumter,SECOND MILL,Governor,,Billy Webster,DEM,44,26,0,0,0,0,18
+Sumter,SHAW,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,SHAW,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Sumter,SHAW,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,SHAW,Governor,,Nancy Mace,REP,2,0,0,0,0,1,1
+Sumter,SHAW,Governor,,Ralph W Norman,REP,2,0,0,0,0,0,2
+Sumter,SHAW,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Sumter,SHAW,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Sumter,SHAW,Governor,,Jermaine Johnson,DEM,9,2,0,0,0,2,5
+Sumter,SHAW,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Sumter,SHAW,Governor,,Billy Webster,DEM,2,1,0,0,0,0,1
+Sumter,SOUTH LIBERTY,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Sumter,SOUTH LIBERTY,Governor,,Pamela Evette,REP,4,4,0,0,0,0,0
+Sumter,SOUTH LIBERTY,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,Governor,,Ralph W Norman,REP,4,0,0,0,0,0,4
+Sumter,SOUTH LIBERTY,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Sumter,SOUTH LIBERTY,Governor,,Alan Wilson,REP,3,1,0,0,0,0,2
+Sumter,SOUTH LIBERTY,Governor,,Jermaine Johnson,DEM,42,28,0,0,0,3,11
+Sumter,SOUTH LIBERTY,Governor,,Mullins McLeod,DEM,15,6,0,0,0,4,5
+Sumter,SOUTH LIBERTY,Governor,,Billy Webster,DEM,43,22,0,0,0,5,16
+Sumter,SOUTH RED BAY,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,Governor,,Pamela Evette,REP,4,0,0,0,0,0,4
+Sumter,SOUTH RED BAY,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Sumter,SOUTH RED BAY,Governor,,Ralph W Norman,REP,1,0,0,0,0,0,1
+Sumter,SOUTH RED BAY,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,Governor,,Alan Wilson,REP,1,0,0,0,0,0,1
+Sumter,SOUTH RED BAY,Governor,,Jermaine Johnson,DEM,77,46,0,0,0,0,31
+Sumter,SOUTH RED BAY,Governor,,Mullins McLeod,DEM,17,4,0,0,0,0,13
+Sumter,SOUTH RED BAY,Governor,,Billy Webster,DEM,70,48,0,0,0,2,20
+Sumter,SPECTRUM,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Sumter,SPECTRUM,Governor,,Pamela Evette,REP,7,2,0,0,0,0,5
+Sumter,SPECTRUM,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,SPECTRUM,Governor,,Nancy Mace,REP,8,2,0,0,0,0,6
+Sumter,SPECTRUM,Governor,,Ralph W Norman,REP,5,0,0,0,0,1,4
+Sumter,SPECTRUM,Governor,,Rom Reddy,REP,5,1,0,0,0,0,4
+Sumter,SPECTRUM,Governor,,Alan Wilson,REP,5,2,0,0,0,1,2
+Sumter,SPECTRUM,Governor,,Jermaine Johnson,DEM,124,70,0,0,0,7,47
+Sumter,SPECTRUM,Governor,,Mullins McLeod,DEM,25,18,0,0,0,0,7
+Sumter,SPECTRUM,Governor,,Billy Webster,DEM,71,46,0,0,0,9,16
+Sumter,ST. PAUL,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,1,0
+Sumter,ST. PAUL,Governor,,Pamela Evette,REP,35,17,0,0,0,0,18
+Sumter,ST. PAUL,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Sumter,ST. PAUL,Governor,,Nancy Mace,REP,11,2,0,0,0,0,9
+Sumter,ST. PAUL,Governor,,Ralph W Norman,REP,17,10,0,0,0,0,7
+Sumter,ST. PAUL,Governor,,Rom Reddy,REP,10,2,0,0,0,0,8
+Sumter,ST. PAUL,Governor,,Alan Wilson,REP,26,9,0,0,0,2,15
+Sumter,ST. PAUL,Governor,,Jermaine Johnson,DEM,175,85,0,0,0,8,82
+Sumter,ST. PAUL,Governor,,Mullins McLeod,DEM,28,16,0,0,0,1,11
+Sumter,ST. PAUL,Governor,,Billy Webster,DEM,95,61,0,0,0,7,27
+Sumter,ST.JOHN,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,ST.JOHN,Governor,,Pamela Evette,REP,45,2,0,0,0,0,43
+Sumter,ST.JOHN,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Sumter,ST.JOHN,Governor,,Nancy Mace,REP,11,2,0,0,0,0,9
+Sumter,ST.JOHN,Governor,,Ralph W Norman,REP,11,0,0,0,0,0,11
+Sumter,ST.JOHN,Governor,,Rom Reddy,REP,10,1,0,0,0,0,9
+Sumter,ST.JOHN,Governor,,Alan Wilson,REP,35,1,0,0,0,0,34
+Sumter,ST.JOHN,Governor,,Jermaine Johnson,DEM,84,24,0,0,0,2,58
+Sumter,ST.JOHN,Governor,,Mullins McLeod,DEM,11,5,0,0,0,1,5
+Sumter,ST.JOHN,Governor,,Billy Webster,DEM,75,21,0,0,0,2,52
+Sumter,STONE HILL,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Sumter,STONE HILL,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,Governor,,Jermaine Johnson,DEM,47,28,0,0,0,3,16
+Sumter,STONE HILL,Governor,,Mullins McLeod,DEM,9,5,0,0,0,0,4
+Sumter,STONE HILL,Governor,,Billy Webster,DEM,53,17,0,0,0,12,24
+Sumter,SUMTER HIGH 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 1,Governor,,Pamela Evette,REP,14,3,0,0,0,0,11
+Sumter,SUMTER HIGH 1,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Sumter,SUMTER HIGH 1,Governor,,Nancy Mace,REP,7,0,0,0,0,0,7
+Sumter,SUMTER HIGH 1,Governor,,Ralph W Norman,REP,6,1,0,0,0,0,5
+Sumter,SUMTER HIGH 1,Governor,,Rom Reddy,REP,6,0,0,0,0,1,5
+Sumter,SUMTER HIGH 1,Governor,,Alan Wilson,REP,12,3,0,0,0,0,9
+Sumter,SUMTER HIGH 1,Governor,,Jermaine Johnson,DEM,46,26,0,0,0,0,20
+Sumter,SUMTER HIGH 1,Governor,,Mullins McLeod,DEM,11,9,0,0,0,0,2
+Sumter,SUMTER HIGH 1,Governor,,Billy Webster,DEM,29,20,0,0,0,0,9
+Sumter,SUMTER HIGH 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 2,Governor,,Pamela Evette,REP,47,13,0,0,0,0,34
+Sumter,SUMTER HIGH 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 2,Governor,,Nancy Mace,REP,17,6,0,0,0,0,11
+Sumter,SUMTER HIGH 2,Governor,,Ralph W Norman,REP,16,3,0,0,0,0,13
+Sumter,SUMTER HIGH 2,Governor,,Rom Reddy,REP,11,1,0,0,0,0,10
+Sumter,SUMTER HIGH 2,Governor,,Alan Wilson,REP,31,13,0,0,0,0,18
+Sumter,SUMTER HIGH 2,Governor,,Jermaine Johnson,DEM,121,71,0,0,0,1,49
+Sumter,SUMTER HIGH 2,Governor,,Mullins McLeod,DEM,15,9,0,0,0,0,6
+Sumter,SUMTER HIGH 2,Governor,,Billy Webster,DEM,98,62,0,0,0,0,36
+Sumter,SUNSET,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,SUNSET,Governor,,Pamela Evette,REP,55,11,0,0,0,3,41
+Sumter,SUNSET,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,SUNSET,Governor,,Nancy Mace,REP,14,3,0,0,0,2,9
+Sumter,SUNSET,Governor,,Ralph W Norman,REP,27,7,0,0,0,0,20
+Sumter,SUNSET,Governor,,Rom Reddy,REP,9,1,0,0,0,0,8
+Sumter,SUNSET,Governor,,Alan Wilson,REP,21,2,0,0,0,0,19
+Sumter,SUNSET,Governor,,Jermaine Johnson,DEM,143,86,0,0,0,0,57
+Sumter,SUNSET,Governor,,Mullins McLeod,DEM,23,11,0,0,0,0,12
+Sumter,SUNSET,Governor,,Billy Webster,DEM,96,66,0,0,0,2,28
+Sumter,SWAN LAKE,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,SWAN LAKE,Governor,,Pamela Evette,REP,40,13,0,0,0,0,27
+Sumter,SWAN LAKE,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,SWAN LAKE,Governor,,Nancy Mace,REP,13,0,0,0,0,0,13
+Sumter,SWAN LAKE,Governor,,Ralph W Norman,REP,28,8,0,0,0,0,20
+Sumter,SWAN LAKE,Governor,,Rom Reddy,REP,27,7,0,0,0,1,19
+Sumter,SWAN LAKE,Governor,,Alan Wilson,REP,42,9,0,0,0,2,31
+Sumter,SWAN LAKE,Governor,,Jermaine Johnson,DEM,76,50,0,0,0,0,26
+Sumter,SWAN LAKE,Governor,,Mullins McLeod,DEM,18,13,0,0,0,0,5
+Sumter,SWAN LAKE,Governor,,Billy Webster,DEM,59,32,0,0,0,0,27
+Sumter,THOMAS SUMTER,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,THOMAS SUMTER,Governor,,Pamela Evette,REP,16,5,0,0,0,0,11
+Sumter,THOMAS SUMTER,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,THOMAS SUMTER,Governor,,Nancy Mace,REP,4,1,0,0,0,0,3
+Sumter,THOMAS SUMTER,Governor,,Ralph W Norman,REP,9,3,0,0,0,0,6
+Sumter,THOMAS SUMTER,Governor,,Rom Reddy,REP,10,3,0,0,0,0,7
+Sumter,THOMAS SUMTER,Governor,,Alan Wilson,REP,16,1,0,0,0,0,15
+Sumter,THOMAS SUMTER,Governor,,Jermaine Johnson,DEM,128,64,0,0,0,17,47
+Sumter,THOMAS SUMTER,Governor,,Mullins McLeod,DEM,20,10,0,0,0,6,4
+Sumter,THOMAS SUMTER,Governor,,Billy Webster,DEM,119,71,0,0,0,18,30
+Sumter,TURKEY CREEK,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,TURKEY CREEK,Governor,,Pamela Evette,REP,38,6,0,0,0,0,32
+Sumter,TURKEY CREEK,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,TURKEY CREEK,Governor,,Nancy Mace,REP,13,1,0,0,0,0,12
+Sumter,TURKEY CREEK,Governor,,Ralph W Norman,REP,7,2,0,0,0,0,5
+Sumter,TURKEY CREEK,Governor,,Rom Reddy,REP,3,0,0,0,0,0,3
+Sumter,TURKEY CREEK,Governor,,Alan Wilson,REP,19,6,0,0,0,0,13
+Sumter,TURKEY CREEK,Governor,,Jermaine Johnson,DEM,81,50,0,0,0,2,29
+Sumter,TURKEY CREEK,Governor,,Mullins McLeod,DEM,14,10,0,0,0,0,4
+Sumter,TURKEY CREEK,Governor,,Billy Webster,DEM,68,49,0,0,0,1,18
+Sumter,WILDER,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,WILDER,Governor,,Pamela Evette,REP,4,2,0,0,0,0,2
+Sumter,WILDER,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Sumter,WILDER,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Sumter,WILDER,Governor,,Ralph W Norman,REP,3,0,0,0,0,0,3
+Sumter,WILDER,Governor,,Rom Reddy,REP,1,1,0,0,0,0,0
+Sumter,WILDER,Governor,,Alan Wilson,REP,1,0,0,0,0,0,1
+Sumter,WILDER,Governor,,Jermaine Johnson,DEM,119,64,0,0,0,3,52
+Sumter,WILDER,Governor,,Mullins McLeod,DEM,12,6,0,0,0,0,6
+Sumter,WILDER,Governor,,Billy Webster,DEM,79,44,0,0,0,6,29
+Sumter,WILSON HALL,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Sumter,WILSON HALL,Governor,,Pamela Evette,REP,144,27,0,0,0,2,115
+Sumter,WILSON HALL,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Sumter,WILSON HALL,Governor,,Nancy Mace,REP,29,7,0,0,0,0,22
+Sumter,WILSON HALL,Governor,,Ralph W Norman,REP,71,24,0,0,0,2,45
+Sumter,WILSON HALL,Governor,,Rom Reddy,REP,24,5,0,0,0,0,19
+Sumter,WILSON HALL,Governor,,Alan Wilson,REP,163,44,0,0,0,4,115
+Sumter,WILSON HALL,Governor,,Jermaine Johnson,DEM,85,54,0,0,0,1,30
+Sumter,WILSON HALL,Governor,,Mullins McLeod,DEM,15,10,0,0,0,0,5
+Sumter,WILSON HALL,Governor,,Billy Webster,DEM,74,44,0,0,0,6,24
+Sumter,BATES,Secretary of State,,Jason Belton,DEM,102,46,0,0,0,6,50
+Sumter,BATES,Secretary of State,,Edwina Winter,DEM,47,25,0,0,0,3,19
+Sumter,BIRNIE,Secretary of State,,Jason Belton,DEM,127,76,0,0,0,2,49
+Sumter,BIRNIE,Secretary of State,,Edwina Winter,DEM,86,46,0,0,0,6,34
+Sumter,BUNRS-DOWNS,Secretary of State,,Jason Belton,DEM,55,23,0,0,0,2,30
+Sumter,BUNRS-DOWNS,Secretary of State,,Edwina Winter,DEM,59,32,0,0,0,1,26
+Sumter,CAUSEWAY BRANCH 1,Secretary of State,,Jason Belton,DEM,122,74,0,0,0,1,47
+Sumter,CAUSEWAY BRANCH 1,Secretary of State,,Edwina Winter,DEM,113,71,0,0,0,4,38
+Sumter,CAUSEWAY BRANCH 2,Secretary of State,,Jason Belton,DEM,93,55,0,0,0,3,35
+Sumter,CAUSEWAY BRANCH 2,Secretary of State,,Edwina Winter,DEM,84,47,0,0,0,0,37
+Sumter,CHERRYVALE,Secretary of State,,Jason Belton,DEM,33,13,0,0,0,0,20
+Sumter,CHERRYVALE,Secretary of State,,Edwina Winter,DEM,30,8,0,0,0,0,22
+Sumter,CROSSWELL,Secretary of State,,Jason Belton,DEM,138,84,0,0,0,1,53
+Sumter,CROSSWELL,Secretary of State,,Edwina Winter,DEM,89,51,0,0,0,0,38
+Sumter,DALZELL 1,Secretary of State,,Jason Belton,DEM,121,73,0,0,0,2,46
+Sumter,DALZELL 1,Secretary of State,,Edwina Winter,DEM,83,52,0,0,0,3,28
+Sumter,DALZELL 2,Secretary of State,,Jason Belton,DEM,79,39,0,0,0,4,36
+Sumter,DALZELL 2,Secretary of State,,Edwina Winter,DEM,72,27,0,0,0,3,42
+Sumter,DELAINE,Secretary of State,,Jason Belton,DEM,178,95,0,0,0,6,77
+Sumter,DELAINE,Secretary of State,,Edwina Winter,DEM,151,76,0,0,0,7,68
+Sumter,EBENEZER 1,Secretary of State,,Jason Belton,DEM,111,60,0,0,0,2,49
+Sumter,EBENEZER 1,Secretary of State,,Edwina Winter,DEM,97,40,0,0,0,4,53
+Sumter,EBENEZER 2,Secretary of State,,Jason Belton,DEM,162,92,0,0,0,2,68
+Sumter,EBENEZER 2,Secretary of State,,Edwina Winter,DEM,119,65,0,0,0,3,51
+Sumter,FOLSOM PARK,Secretary of State,,Jason Belton,DEM,118,77,0,0,0,3,38
+Sumter,FOLSOM PARK,Secretary of State,,Edwina Winter,DEM,78,49,0,0,0,1,28
+Sumter,FURMAN,Secretary of State,,Jason Belton,DEM,52,24,0,0,0,1,27
+Sumter,FURMAN,Secretary of State,,Edwina Winter,DEM,43,25,0,0,0,3,15
+Sumter,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,1,0,1,0,0,0,0
+Sumter,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,Secretary of State,,Jason Belton,DEM,209,126,0,0,0,10,73
+Sumter,GREEN SWAMP,Secretary of State,,Edwina Winter,DEM,167,92,0,0,0,2,73
+Sumter,GREEN SWAMP 2,Secretary of State,,Jason Belton,DEM,31,11,0,0,0,4,16
+Sumter,GREEN SWAMP 2,Secretary of State,,Edwina Winter,DEM,42,25,0,0,0,2,15
+Sumter,HAMPTON PARK,Secretary of State,,Jason Belton,DEM,64,27,0,0,0,5,32
+Sumter,HAMPTON PARK,Secretary of State,,Edwina Winter,DEM,51,21,0,0,0,1,29
+Sumter,HILLCREST,Secretary of State,,Jason Belton,DEM,97,66,0,0,0,2,29
+Sumter,HILLCREST,Secretary of State,,Edwina Winter,DEM,79,57,0,0,0,2,20
+Sumter,HORATIO,Secretary of State,,Jason Belton,DEM,96,56,0,0,0,0,40
+Sumter,HORATIO,Secretary of State,,Edwina Winter,DEM,50,37,0,0,0,1,12
+Sumter,LEMIRA,Secretary of State,,Jason Belton,DEM,136,75,0,0,0,13,48
+Sumter,LEMIRA,Secretary of State,,Edwina Winter,DEM,75,49,0,0,0,5,21
+Sumter,LORING,Secretary of State,,Jason Belton,DEM,57,27,0,0,0,0,30
+Sumter,LORING,Secretary of State,,Edwina Winter,DEM,33,22,0,0,0,0,11
+Sumter,MAGNOLIA-HARMONY,Secretary of State,,Jason Belton,DEM,77,48,0,0,0,3,26
+Sumter,MAGNOLIA-HARMONY,Secretary of State,,Edwina Winter,DEM,52,28,0,0,0,1,23
+Sumter,MANCHESTER FOREST,Secretary of State,,Jason Belton,DEM,109,58,0,0,0,5,46
+Sumter,MANCHESTER FOREST,Secretary of State,,Edwina Winter,DEM,83,39,0,0,0,0,44
+Sumter,MAYESVILLE,Secretary of State,,Jason Belton,DEM,63,15,0,0,0,0,48
+Sumter,MAYESVILLE,Secretary of State,,Edwina Winter,DEM,42,9,0,0,0,0,33
+Sumter,MAYEWOOD,Secretary of State,,Jason Belton,DEM,114,63,0,0,0,11,40
+Sumter,MAYEWOOD,Secretary of State,,Edwina Winter,DEM,57,34,0,0,0,1,22
+Sumter,MCCRAYS MILL 1,Secretary of State,,Jason Belton,DEM,144,75,0,0,0,5,64
+Sumter,MCCRAYS MILL 1,Secretary of State,,Edwina Winter,DEM,127,75,0,0,0,2,50
+Sumter,MCCRAYS MILL 2,Secretary of State,,Jason Belton,DEM,161,84,0,0,0,9,68
+Sumter,MCCRAYS MILL 2,Secretary of State,,Edwina Winter,DEM,149,83,0,0,0,4,62
+Sumter,MILLWOOD,Secretary of State,,Jason Belton,DEM,42,19,0,0,0,1,22
+Sumter,MILLWOOD,Secretary of State,,Edwina Winter,DEM,49,27,0,0,0,0,22
+Sumter,MORRIS COLLEGE,Secretary of State,,Jason Belton,DEM,81,42,0,0,0,4,35
+Sumter,MORRIS COLLEGE,Secretary of State,,Edwina Winter,DEM,86,52,0,0,0,0,34
+Sumter,MULBERRY,Secretary of State,,Jason Belton,DEM,70,35,0,0,0,1,34
+Sumter,MULBERRY,Secretary of State,,Edwina Winter,DEM,59,33,0,0,0,3,23
+Sumter,OAKLAND PLANTATION 1,Secretary of State,,Jason Belton,DEM,97,60,0,0,0,3,34
+Sumter,OAKLAND PLANTATION 1,Secretary of State,,Edwina Winter,DEM,87,52,0,0,0,1,34
+Sumter,OAKLAND PLANTATION 2,Secretary of State,,Jason Belton,DEM,76,44,0,0,0,0,32
+Sumter,OAKLAND PLANTATION 2,Secretary of State,,Edwina Winter,DEM,53,39,0,0,0,0,14
+Sumter,OSWEGO,Secretary of State,,Jason Belton,DEM,95,52,0,0,0,10,33
+Sumter,OSWEGO,Secretary of State,,Edwina Winter,DEM,53,35,0,0,0,2,16
+Sumter,PALMETTO PARK,Secretary of State,,Jason Belton,DEM,71,43,0,0,0,1,27
+Sumter,PALMETTO PARK,Secretary of State,,Edwina Winter,DEM,60,32,0,0,0,0,28
+Sumter,PINEWOOD,Secretary of State,,Jason Belton,DEM,137,56,0,0,0,4,77
+Sumter,PINEWOOD,Secretary of State,,Edwina Winter,DEM,81,42,0,0,0,3,36
+Sumter,POCOTALIGO 1,Secretary of State,,Jason Belton,DEM,149,79,0,0,0,2,68
+Sumter,POCOTALIGO 1,Secretary of State,,Edwina Winter,DEM,89,53,0,0,0,1,35
+Sumter,POCOTALIGO 2,Secretary of State,,Jason Belton,DEM,99,45,0,0,0,17,37
+Sumter,POCOTALIGO 2,Secretary of State,,Edwina Winter,DEM,53,31,0,0,0,2,20
+Sumter,PRIVATEER,Secretary of State,,Jason Belton,DEM,98,58,0,0,0,2,38
+Sumter,PRIVATEER,Secretary of State,,Edwina Winter,DEM,102,57,0,0,0,2,43
+Sumter,Provisional,Secretary of State,,Jason Belton,DEM,1,0,0,1,0,0,0
+Sumter,Provisional,Secretary of State,,Edwina Winter,DEM,1,0,0,1,0,0,0
+Sumter,REMBERT,Secretary of State,,Jason Belton,DEM,348,140,0,0,0,83,125
+Sumter,REMBERT,Secretary of State,,Edwina Winter,DEM,140,77,0,0,0,18,45
+Sumter,SALEM,Secretary of State,,Jason Belton,DEM,56,23,0,0,0,1,32
+Sumter,SALEM,Secretary of State,,Edwina Winter,DEM,32,7,0,0,0,2,23
+Sumter,SALTERSTOWN,Secretary of State,,Jason Belton,DEM,57,31,0,0,0,1,25
+Sumter,SALTERSTOWN,Secretary of State,,Edwina Winter,DEM,46,27,0,0,0,2,17
+Sumter,SAVAGE-GLOVER,Secretary of State,,Jason Belton,DEM,69,27,0,0,0,2,40
+Sumter,SAVAGE-GLOVER,Secretary of State,,Edwina Winter,DEM,41,30,0,0,0,0,11
+Sumter,SECOND MILL,Secretary of State,,Jason Belton,DEM,41,21,0,0,0,2,18
+Sumter,SECOND MILL,Secretary of State,,Edwina Winter,DEM,48,26,0,0,0,1,21
+Sumter,SHAW,Secretary of State,,Jason Belton,DEM,8,3,0,0,0,1,4
+Sumter,SHAW,Secretary of State,,Edwina Winter,DEM,4,0,0,0,0,1,3
+Sumter,SOUTH LIBERTY,Secretary of State,,Jason Belton,DEM,47,26,0,0,0,5,16
+Sumter,SOUTH LIBERTY,Secretary of State,,Edwina Winter,DEM,49,27,0,0,0,6,16
+Sumter,SOUTH RED BAY,Secretary of State,,Jason Belton,DEM,110,64,0,0,0,2,44
+Sumter,SOUTH RED BAY,Secretary of State,,Edwina Winter,DEM,48,27,0,0,0,0,21
+Sumter,SPECTRUM,Secretary of State,,Jason Belton,DEM,121,72,0,0,0,11,38
+Sumter,SPECTRUM,Secretary of State,,Edwina Winter,DEM,92,58,0,0,0,5,29
+Sumter,ST. PAUL,Secretary of State,,Jason Belton,DEM,163,89,0,0,0,13,61
+Sumter,ST. PAUL,Secretary of State,,Edwina Winter,DEM,132,71,0,0,0,3,58
+Sumter,ST.JOHN,Secretary of State,,Jason Belton,DEM,114,34,0,0,0,3,77
+Sumter,ST.JOHN,Secretary of State,,Edwina Winter,DEM,50,16,0,0,0,2,32
+Sumter,STONE HILL,Secretary of State,,Jason Belton,DEM,70,32,0,0,0,12,26
+Sumter,STONE HILL,Secretary of State,,Edwina Winter,DEM,34,17,0,0,0,2,15
+Sumter,SUMTER HIGH 1,Secretary of State,,Jason Belton,DEM,40,26,0,0,0,0,14
+Sumter,SUMTER HIGH 1,Secretary of State,,Edwina Winter,DEM,44,29,0,0,0,0,15
+Sumter,SUMTER HIGH 2,Secretary of State,,Jason Belton,DEM,134,81,0,0,0,0,53
+Sumter,SUMTER HIGH 2,Secretary of State,,Edwina Winter,DEM,102,62,0,0,0,1,39
+Sumter,SUNSET,Secretary of State,,Jason Belton,DEM,151,95,0,0,0,0,56
+Sumter,SUNSET,Secretary of State,,Edwina Winter,DEM,107,65,0,0,0,2,40
+Sumter,SWAN LAKE,Secretary of State,,Jason Belton,DEM,76,45,0,0,0,0,31
+Sumter,SWAN LAKE,Secretary of State,,Edwina Winter,DEM,62,40,0,0,0,0,22
+Sumter,THOMAS SUMTER,Secretary of State,,Jason Belton,DEM,174,87,0,0,0,28,59
+Sumter,THOMAS SUMTER,Secretary of State,,Edwina Winter,DEM,88,55,0,0,0,11,22
+Sumter,TURKEY CREEK,Secretary of State,,Jason Belton,DEM,96,67,0,0,0,2,27
+Sumter,TURKEY CREEK,Secretary of State,,Edwina Winter,DEM,62,36,0,0,0,1,25
+Sumter,WILDER,Secretary of State,,Jason Belton,DEM,133,75,0,0,0,7,51
+Sumter,WILDER,Secretary of State,,Edwina Winter,DEM,71,37,0,0,0,2,32
+Sumter,WILSON HALL,Secretary of State,,Jason Belton,DEM,106,62,0,0,0,7,37
+Sumter,WILSON HALL,Secretary of State,,Edwina Winter,DEM,65,46,0,0,0,0,19
+Sumter,BATES,State House,51,David Weeks,DEM,139,73,0,0,0,9,57
+Sumter,BATES,State House,51,Melissa J Weeks Richardson,DEM,19,5,0,0,0,0,14
+Sumter,BIRNIE,State House,51,David Weeks,DEM,181,113,0,0,0,5,63
+Sumter,BIRNIE,State House,51,Melissa J Weeks Richardson,DEM,37,14,0,0,0,0,23
+Sumter,BUNRS-DOWNS,State House,51,David Weeks,DEM,37,19,0,0,0,2,16
+Sumter,BUNRS-DOWNS,State House,51,Melissa J Weeks Richardson,DEM,8,6,0,0,0,0,2
+Sumter,CROSSWELL,State House,51,David Weeks,DEM,182,109,0,0,0,3,70
+Sumter,CROSSWELL,State House,51,Melissa J Weeks Richardson,DEM,49,27,0,0,0,0,22
+Sumter,DALZELL 2,State House,51,David Weeks,DEM,92,48,0,0,0,4,40
+Sumter,DALZELL 2,State House,51,Melissa J Weeks Richardson,DEM,62,20,0,0,0,4,38
+Sumter,EBENEZER 1,State House,51,David Weeks,DEM,141,72,0,0,0,6,63
+Sumter,EBENEZER 1,State House,51,Melissa J Weeks Richardson,DEM,71,29,0,0,0,0,42
+Sumter,FOLSOM PARK,State House,51,David Weeks,DEM,150,100,0,0,0,1,49
+Sumter,FOLSOM PARK,State House,51,Melissa J Weeks Richardson,DEM,45,25,0,0,0,3,17
+Sumter,Failsafe,State House,51,David Weeks,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe,State House,51,Melissa J Weeks Richardson,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State House,51,David Weeks,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State House,51,Melissa J Weeks Richardson,DEM,0,0,0,0,0,0,0
+Sumter,LEMIRA,State House,51,David Weeks,DEM,184,111,0,0,0,17,56
+Sumter,LEMIRA,State House,51,Melissa J Weeks Richardson,DEM,33,17,0,0,0,1,15
+Sumter,LORING,State House,51,David Weeks,DEM,77,40,0,0,0,0,37
+Sumter,LORING,State House,51,Melissa J Weeks Richardson,DEM,18,11,0,0,0,0,7
+Sumter,MAGNOLIA-HARMONY,State House,51,David Weeks,DEM,106,67,0,0,0,4,35
+Sumter,MAGNOLIA-HARMONY,State House,51,Melissa J Weeks Richardson,DEM,24,11,0,0,0,0,13
+Sumter,MAYEWOOD,State House,51,David Weeks,DEM,140,82,0,0,0,12,46
+Sumter,MAYEWOOD,State House,51,Melissa J Weeks Richardson,DEM,31,15,0,0,0,0,16
+Sumter,MILLWOOD,State House,51,David Weeks,DEM,76,41,0,0,0,1,34
+Sumter,MILLWOOD,State House,51,Melissa J Weeks Richardson,DEM,19,7,0,0,0,0,12
+Sumter,MORRIS COLLEGE,State House,51,David Weeks,DEM,139,84,0,0,0,3,52
+Sumter,MORRIS COLLEGE,State House,51,Melissa J Weeks Richardson,DEM,35,17,0,0,0,1,17
+Sumter,MULBERRY,State House,51,David Weeks,DEM,110,62,0,0,0,3,45
+Sumter,MULBERRY,State House,51,Melissa J Weeks Richardson,DEM,24,10,0,0,0,1,13
+Sumter,OSWEGO,State House,51,David Weeks,DEM,50,22,0,0,0,5,23
+Sumter,OSWEGO,State House,51,Melissa J Weeks Richardson,DEM,7,3,0,0,0,0,4
+Sumter,PALMETTO PARK,State House,51,David Weeks,DEM,99,61,0,0,0,0,38
+Sumter,PALMETTO PARK,State House,51,Melissa J Weeks Richardson,DEM,34,14,0,0,0,1,19
+Sumter,Provisional,State House,51,David Weeks,DEM,1,0,0,1,0,0,0
+Sumter,Provisional,State House,51,Melissa J Weeks Richardson,DEM,1,0,0,1,0,0,0
+Sumter,SALTERSTOWN,State House,51,David Weeks,DEM,89,47,0,0,0,3,39
+Sumter,SALTERSTOWN,State House,51,Melissa J Weeks Richardson,DEM,13,10,0,0,0,0,3
+Sumter,SAVAGE-GLOVER,State House,51,David Weeks,DEM,94,48,0,0,0,2,44
+Sumter,SAVAGE-GLOVER,State House,51,Melissa J Weeks Richardson,DEM,17,10,0,0,0,0,7
+Sumter,SOUTH LIBERTY,State House,51,David Weeks,DEM,81,50,0,0,0,10,21
+Sumter,SOUTH LIBERTY,State House,51,Melissa J Weeks Richardson,DEM,22,8,0,0,0,2,12
+Sumter,SOUTH RED BAY,State House,51,David Weeks,DEM,138,83,0,0,0,2,53
+Sumter,SOUTH RED BAY,State House,51,Melissa J Weeks Richardson,DEM,25,12,0,0,0,0,13
+Sumter,SPECTRUM,State House,51,David Weeks,DEM,172,104,0,0,0,15,53
+Sumter,SPECTRUM,State House,51,Melissa J Weeks Richardson,DEM,45,30,0,0,0,1,14
+Sumter,STONE HILL,State House,51,David Weeks,DEM,88,40,0,0,0,15,33
+Sumter,STONE HILL,State House,51,Melissa J Weeks Richardson,DEM,20,10,0,0,0,0,10
+Sumter,SUMTER HIGH 1,State House,51,David Weeks,DEM,67,47,0,0,0,0,20
+Sumter,SUMTER HIGH 1,State House,51,Melissa J Weeks Richardson,DEM,18,8,0,0,0,0,10
+Sumter,SUMTER HIGH 2,State House,51,David Weeks,DEM,181,115,0,0,0,0,66
+Sumter,SUMTER HIGH 2,State House,51,Melissa J Weeks Richardson,DEM,50,25,0,0,0,1,24
+Sumter,SUNSET,State House,51,David Weeks,DEM,211,141,0,0,0,1,69
+Sumter,SUNSET,State House,51,Melissa J Weeks Richardson,DEM,50,24,0,0,0,1,25
+Sumter,TURKEY CREEK,State House,51,David Weeks,DEM,127,89,0,0,0,3,35
+Sumter,TURKEY CREEK,State House,51,Melissa J Weeks Richardson,DEM,36,17,0,0,0,0,19
+Sumter,WILDER,State House,51,David Weeks,DEM,182,104,0,0,0,8,70
+Sumter,WILDER,State House,51,Melissa J Weeks Richardson,DEM,28,12,0,0,0,1,15
+Sumter,CHERRYVALE,State House,64,Michele Demery,DEM,44,15,0,0,0,0,29
+Sumter,CHERRYVALE,State House,64,Jack Spann,DEM,20,6,0,0,0,0,14
+Sumter,DELAINE,State House,64,Michele Demery,DEM,223,113,0,0,0,10,100
+Sumter,DELAINE,State House,64,Jack Spann,DEM,104,55,0,0,0,3,46
+Sumter,Failsafe,State House,64,Michele Demery,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe,State House,64,Jack Spann,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State House,64,Michele Demery,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State House,64,Jack Spann,DEM,0,0,0,0,0,0,0
+Sumter,HORATIO,State House,64,Michele Demery,DEM,88,59,0,0,0,1,28
+Sumter,HORATIO,State House,64,Jack Spann,DEM,56,33,0,0,0,0,23
+Sumter,MANCHESTER FOREST,State House,64,Michele Demery,DEM,128,65,0,0,0,5,58
+Sumter,MANCHESTER FOREST,State House,64,Jack Spann,DEM,66,31,0,0,0,2,33
+Sumter,PINEWOOD,State House,64,Michele Demery,DEM,59,32,0,0,0,0,27
+Sumter,PINEWOOD,State House,64,Jack Spann,DEM,170,71,0,0,0,7,92
+Sumter,Provisional,State House,64,Michele Demery,DEM,0,0,0,0,0,0,0
+Sumter,Provisional,State House,64,Jack Spann,DEM,0,0,0,0,0,0,0
+Sumter,ST. PAUL,State House,64,Michele Demery,DEM,38,15,0,0,0,1,22
+Sumter,ST. PAUL,State House,64,Jack Spann,DEM,23,11,0,0,0,1,11
+Sumter,BATES,State Superintendent of Education,,Lisa Ellis,DEM,58,29,0,0,0,3,26
+Sumter,BATES,State Superintendent of Education,,Sylvia Wright,DEM,92,43,0,0,0,6,43
+Sumter,BIRNIE,State Superintendent of Education,,Lisa Ellis,DEM,70,45,0,0,0,1,24
+Sumter,BIRNIE,State Superintendent of Education,,Sylvia Wright,DEM,143,77,0,0,0,7,59
+Sumter,BUNRS-DOWNS,State Superintendent of Education,,Lisa Ellis,DEM,50,26,0,0,0,0,24
+Sumter,BUNRS-DOWNS,State Superintendent of Education,,Sylvia Wright,DEM,66,31,0,0,0,3,32
+Sumter,CAUSEWAY BRANCH 1,State Superintendent of Education,,Lisa Ellis,DEM,68,35,0,0,0,2,31
+Sumter,CAUSEWAY BRANCH 1,State Superintendent of Education,,Sylvia Wright,DEM,163,108,0,0,0,3,52
+Sumter,CAUSEWAY BRANCH 2,State Superintendent of Education,,Lisa Ellis,DEM,71,40,0,0,0,0,31
+Sumter,CAUSEWAY BRANCH 2,State Superintendent of Education,,Sylvia Wright,DEM,105,61,0,0,0,3,41
+Sumter,CHERRYVALE,State Superintendent of Education,,Lisa Ellis,DEM,22,4,0,0,0,0,18
+Sumter,CHERRYVALE,State Superintendent of Education,,Sylvia Wright,DEM,42,17,0,0,0,0,25
+Sumter,CROSSWELL,State Superintendent of Education,,Lisa Ellis,DEM,72,46,0,0,0,2,24
+Sumter,CROSSWELL,State Superintendent of Education,,Sylvia Wright,DEM,156,88,0,0,0,1,67
+Sumter,DALZELL 1,State Superintendent of Education,,Lisa Ellis,DEM,61,39,0,0,0,2,20
+Sumter,DALZELL 1,State Superintendent of Education,,Sylvia Wright,DEM,146,89,0,0,0,3,54
+Sumter,DALZELL 2,State Superintendent of Education,,Lisa Ellis,DEM,52,24,0,0,0,4,24
+Sumter,DALZELL 2,State Superintendent of Education,,Sylvia Wright,DEM,99,44,0,0,0,3,52
+Sumter,DELAINE,State Superintendent of Education,,Lisa Ellis,DEM,93,45,0,0,0,0,48
+Sumter,DELAINE,State Superintendent of Education,,Sylvia Wright,DEM,237,125,0,0,0,12,100
+Sumter,EBENEZER 1,State Superintendent of Education,,Lisa Ellis,DEM,73,29,0,0,0,3,41
+Sumter,EBENEZER 1,State Superintendent of Education,,Sylvia Wright,DEM,137,71,0,0,0,3,63
+Sumter,EBENEZER 2,State Superintendent of Education,,Lisa Ellis,DEM,92,51,0,0,0,3,38
+Sumter,EBENEZER 2,State Superintendent of Education,,Sylvia Wright,DEM,190,107,0,0,0,2,81
+Sumter,FOLSOM PARK,State Superintendent of Education,,Lisa Ellis,DEM,56,40,0,0,0,0,16
+Sumter,FOLSOM PARK,State Superintendent of Education,,Sylvia Wright,DEM,137,85,0,0,0,4,48
+Sumter,FURMAN,State Superintendent of Education,,Lisa Ellis,DEM,42,21,0,0,0,0,21
+Sumter,FURMAN,State Superintendent of Education,,Sylvia Wright,DEM,54,28,0,0,0,5,21
+Sumter,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,1,0,1,0,0,0,0
+Sumter,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,State Superintendent of Education,,Lisa Ellis,DEM,135,83,0,0,0,4,48
+Sumter,GREEN SWAMP,State Superintendent of Education,,Sylvia Wright,DEM,246,137,0,0,0,7,102
+Sumter,GREEN SWAMP 2,State Superintendent of Education,,Lisa Ellis,DEM,32,13,0,0,0,3,16
+Sumter,GREEN SWAMP 2,State Superintendent of Education,,Sylvia Wright,DEM,43,25,0,0,0,3,15
+Sumter,HAMPTON PARK,State Superintendent of Education,,Lisa Ellis,DEM,59,21,0,0,0,1,37
+Sumter,HAMPTON PARK,State Superintendent of Education,,Sylvia Wright,DEM,61,30,0,0,0,5,26
+Sumter,HILLCREST,State Superintendent of Education,,Lisa Ellis,DEM,49,33,0,0,0,1,15
+Sumter,HILLCREST,State Superintendent of Education,,Sylvia Wright,DEM,127,90,0,0,0,3,34
+Sumter,HORATIO,State Superintendent of Education,,Lisa Ellis,DEM,39,26,0,0,0,1,12
+Sumter,HORATIO,State Superintendent of Education,,Sylvia Wright,DEM,107,68,0,0,0,0,39
+Sumter,LEMIRA,State Superintendent of Education,,Lisa Ellis,DEM,80,44,0,0,0,5,31
+Sumter,LEMIRA,State Superintendent of Education,,Sylvia Wright,DEM,134,81,0,0,0,13,40
+Sumter,LORING,State Superintendent of Education,,Lisa Ellis,DEM,31,16,0,0,0,0,15
+Sumter,LORING,State Superintendent of Education,,Sylvia Wright,DEM,60,33,0,0,0,0,27
+Sumter,MAGNOLIA-HARMONY,State Superintendent of Education,,Lisa Ellis,DEM,37,22,0,0,0,0,15
+Sumter,MAGNOLIA-HARMONY,State Superintendent of Education,,Sylvia Wright,DEM,90,53,0,0,0,4,33
+Sumter,MANCHESTER FOREST,State Superintendent of Education,,Lisa Ellis,DEM,59,27,0,0,0,4,28
+Sumter,MANCHESTER FOREST,State Superintendent of Education,,Sylvia Wright,DEM,135,71,0,0,0,3,61
+Sumter,MAYESVILLE,State Superintendent of Education,,Lisa Ellis,DEM,32,7,0,0,0,0,25
+Sumter,MAYESVILLE,State Superintendent of Education,,Sylvia Wright,DEM,76,16,0,0,0,0,60
+Sumter,MAYEWOOD,State Superintendent of Education,,Lisa Ellis,DEM,55,36,0,0,0,5,14
+Sumter,MAYEWOOD,State Superintendent of Education,,Sylvia Wright,DEM,115,61,0,0,0,7,47
+Sumter,MCCRAYS MILL 1,State Superintendent of Education,,Lisa Ellis,DEM,77,49,0,0,0,0,28
+Sumter,MCCRAYS MILL 1,State Superintendent of Education,,Sylvia Wright,DEM,195,103,0,0,0,7,85
+Sumter,MCCRAYS MILL 2,State Superintendent of Education,,Lisa Ellis,DEM,99,58,0,0,0,2,39
+Sumter,MCCRAYS MILL 2,State Superintendent of Education,,Sylvia Wright,DEM,214,110,0,0,0,11,93
+Sumter,MILLWOOD,State Superintendent of Education,,Lisa Ellis,DEM,29,18,0,0,0,0,11
+Sumter,MILLWOOD,State Superintendent of Education,,Sylvia Wright,DEM,64,29,0,0,0,1,34
+Sumter,MORRIS COLLEGE,State Superintendent of Education,,Lisa Ellis,DEM,46,26,0,0,0,1,19
+Sumter,MORRIS COLLEGE,State Superintendent of Education,,Sylvia Wright,DEM,123,70,0,0,0,3,50
+Sumter,MULBERRY,State Superintendent of Education,,Lisa Ellis,DEM,44,22,0,0,0,3,19
+Sumter,MULBERRY,State Superintendent of Education,,Sylvia Wright,DEM,87,48,0,0,0,1,38
+Sumter,OAKLAND PLANTATION 1,State Superintendent of Education,,Lisa Ellis,DEM,71,43,0,0,0,1,27
+Sumter,OAKLAND PLANTATION 1,State Superintendent of Education,,Sylvia Wright,DEM,116,71,0,0,0,3,42
+Sumter,OAKLAND PLANTATION 2,State Superintendent of Education,,Lisa Ellis,DEM,60,38,0,0,0,0,22
+Sumter,OAKLAND PLANTATION 2,State Superintendent of Education,,Sylvia Wright,DEM,73,48,0,0,0,0,25
+Sumter,OSWEGO,State Superintendent of Education,,Lisa Ellis,DEM,54,26,0,0,0,5,23
+Sumter,OSWEGO,State Superintendent of Education,,Sylvia Wright,DEM,100,63,0,0,0,7,30
+Sumter,PALMETTO PARK,State Superintendent of Education,,Lisa Ellis,DEM,43,27,0,0,0,0,16
+Sumter,PALMETTO PARK,State Superintendent of Education,,Sylvia Wright,DEM,89,49,0,0,0,1,39
+Sumter,PINEWOOD,State Superintendent of Education,,Lisa Ellis,DEM,88,36,0,0,0,4,48
+Sumter,PINEWOOD,State Superintendent of Education,,Sylvia Wright,DEM,133,64,0,0,0,3,66
+Sumter,POCOTALIGO 1,State Superintendent of Education,,Lisa Ellis,DEM,77,33,0,0,0,1,43
+Sumter,POCOTALIGO 1,State Superintendent of Education,,Sylvia Wright,DEM,162,99,0,0,0,2,61
+Sumter,POCOTALIGO 2,State Superintendent of Education,,Lisa Ellis,DEM,52,29,0,0,0,2,21
+Sumter,POCOTALIGO 2,State Superintendent of Education,,Sylvia Wright,DEM,98,47,0,0,0,16,35
+Sumter,PRIVATEER,State Superintendent of Education,,Lisa Ellis,DEM,57,31,0,0,0,2,24
+Sumter,PRIVATEER,State Superintendent of Education,,Sylvia Wright,DEM,148,86,0,0,0,2,60
+Sumter,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,1,0,0,1,0,0,0
+Sumter,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,1,0,0,1,0,0,0
+Sumter,REMBERT,State Superintendent of Education,,Lisa Ellis,DEM,127,63,0,0,0,7,57
+Sumter,REMBERT,State Superintendent of Education,,Sylvia Wright,DEM,363,158,0,0,0,92,113
+Sumter,SALEM,State Superintendent of Education,,Lisa Ellis,DEM,31,12,0,0,0,2,17
+Sumter,SALEM,State Superintendent of Education,,Sylvia Wright,DEM,56,18,0,0,0,1,37
+Sumter,SALTERSTOWN,State Superintendent of Education,,Lisa Ellis,DEM,25,10,0,0,0,2,13
+Sumter,SALTERSTOWN,State Superintendent of Education,,Sylvia Wright,DEM,75,46,0,0,0,1,28
+Sumter,SAVAGE-GLOVER,State Superintendent of Education,,Lisa Ellis,DEM,28,15,0,0,0,0,13
+Sumter,SAVAGE-GLOVER,State Superintendent of Education,,Sylvia Wright,DEM,80,41,0,0,0,2,37
+Sumter,SECOND MILL,State Superintendent of Education,,Lisa Ellis,DEM,35,14,0,0,0,0,21
+Sumter,SECOND MILL,State Superintendent of Education,,Sylvia Wright,DEM,56,34,0,0,0,3,19
+Sumter,SHAW,State Superintendent of Education,,Lisa Ellis,DEM,4,0,0,0,0,0,4
+Sumter,SHAW,State Superintendent of Education,,Sylvia Wright,DEM,8,3,0,0,0,2,3
+Sumter,SOUTH LIBERTY,State Superintendent of Education,,Lisa Ellis,DEM,18,11,0,0,0,3,4
+Sumter,SOUTH LIBERTY,State Superintendent of Education,,Sylvia Wright,DEM,78,43,0,0,0,8,27
+Sumter,SOUTH RED BAY,State Superintendent of Education,,Lisa Ellis,DEM,56,32,0,0,0,0,24
+Sumter,SOUTH RED BAY,State Superintendent of Education,,Sylvia Wright,DEM,104,63,0,0,0,2,39
+Sumter,SPECTRUM,State Superintendent of Education,,Lisa Ellis,DEM,77,49,0,0,0,3,25
+Sumter,SPECTRUM,State Superintendent of Education,,Sylvia Wright,DEM,140,83,0,0,0,13,44
+Sumter,ST. PAUL,State Superintendent of Education,,Lisa Ellis,DEM,100,50,0,0,0,4,46
+Sumter,ST. PAUL,State Superintendent of Education,,Sylvia Wright,DEM,197,112,0,0,0,12,73
+Sumter,ST.JOHN,State Superintendent of Education,,Lisa Ellis,DEM,51,17,0,0,0,1,33
+Sumter,ST.JOHN,State Superintendent of Education,,Sylvia Wright,DEM,115,32,0,0,0,4,79
+Sumter,STONE HILL,State Superintendent of Education,,Lisa Ellis,DEM,32,14,0,0,0,1,17
+Sumter,STONE HILL,State Superintendent of Education,,Sylvia Wright,DEM,74,34,0,0,0,14,26
+Sumter,SUMTER HIGH 1,State Superintendent of Education,,Lisa Ellis,DEM,36,24,0,0,0,0,12
+Sumter,SUMTER HIGH 1,State Superintendent of Education,,Sylvia Wright,DEM,47,30,0,0,0,0,17
+Sumter,SUMTER HIGH 2,State Superintendent of Education,,Lisa Ellis,DEM,62,40,0,0,0,0,22
+Sumter,SUMTER HIGH 2,State Superintendent of Education,,Sylvia Wright,DEM,170,102,0,0,0,1,67
+Sumter,SUNSET,State Superintendent of Education,,Lisa Ellis,DEM,79,50,0,0,0,0,29
+Sumter,SUNSET,State Superintendent of Education,,Sylvia Wright,DEM,179,111,0,0,0,2,66
+Sumter,SWAN LAKE,State Superintendent of Education,,Lisa Ellis,DEM,62,39,0,0,0,0,23
+Sumter,SWAN LAKE,State Superintendent of Education,,Sylvia Wright,DEM,81,49,0,0,0,0,32
+Sumter,THOMAS SUMTER,State Superintendent of Education,,Lisa Ellis,DEM,75,41,0,0,0,13,21
+Sumter,THOMAS SUMTER,State Superintendent of Education,,Sylvia Wright,DEM,188,102,0,0,0,26,60
+Sumter,TURKEY CREEK,State Superintendent of Education,,Lisa Ellis,DEM,59,36,0,0,0,0,23
+Sumter,TURKEY CREEK,State Superintendent of Education,,Sylvia Wright,DEM,102,70,0,0,0,3,29
+Sumter,WILDER,State Superintendent of Education,,Lisa Ellis,DEM,43,21,0,0,0,0,22
+Sumter,WILDER,State Superintendent of Education,,Sylvia Wright,DEM,163,90,0,0,0,9,64
+Sumter,WILSON HALL,State Superintendent of Education,,Lisa Ellis,DEM,76,45,0,0,0,0,31
+Sumter,WILSON HALL,State Superintendent of Education,,Sylvia Wright,DEM,95,63,0,0,0,7,25
+Sumter,BATES,State Treasurer,,Vincent Coe,DEM,74,39,0,0,0,6,29
+Sumter,BATES,State Treasurer,,Trav Robertson Jr,DEM,76,34,0,0,0,3,39
+Sumter,BIRNIE,State Treasurer,,Vincent Coe,DEM,93,55,0,0,0,2,36
+Sumter,BIRNIE,State Treasurer,,Trav Robertson Jr,DEM,123,68,0,0,0,6,49
+Sumter,BUNRS-DOWNS,State Treasurer,,Vincent Coe,DEM,43,15,0,0,0,2,26
+Sumter,BUNRS-DOWNS,State Treasurer,,Trav Robertson Jr,DEM,70,40,0,0,0,1,29
+Sumter,CAUSEWAY BRANCH 1,State Treasurer,,Vincent Coe,DEM,132,79,0,0,0,1,52
+Sumter,CAUSEWAY BRANCH 1,State Treasurer,,Trav Robertson Jr,DEM,101,65,0,0,0,4,32
+Sumter,CAUSEWAY BRANCH 2,State Treasurer,,Vincent Coe,DEM,99,57,0,0,0,3,39
+Sumter,CAUSEWAY BRANCH 2,State Treasurer,,Trav Robertson Jr,DEM,78,45,0,0,0,0,33
+Sumter,CHERRYVALE,State Treasurer,,Vincent Coe,DEM,23,12,0,0,0,0,11
+Sumter,CHERRYVALE,State Treasurer,,Trav Robertson Jr,DEM,39,9,0,0,0,0,30
+Sumter,CROSSWELL,State Treasurer,,Vincent Coe,DEM,116,67,0,0,0,0,49
+Sumter,CROSSWELL,State Treasurer,,Trav Robertson Jr,DEM,112,68,0,0,0,1,43
+Sumter,DALZELL 1,State Treasurer,,Vincent Coe,DEM,107,64,0,0,0,4,39
+Sumter,DALZELL 1,State Treasurer,,Trav Robertson Jr,DEM,99,64,0,0,0,1,34
+Sumter,DALZELL 2,State Treasurer,,Vincent Coe,DEM,74,37,0,0,0,4,33
+Sumter,DALZELL 2,State Treasurer,,Trav Robertson Jr,DEM,78,31,0,0,0,3,44
+Sumter,DELAINE,State Treasurer,,Vincent Coe,DEM,146,77,0,0,0,7,62
+Sumter,DELAINE,State Treasurer,,Trav Robertson Jr,DEM,183,93,0,0,0,6,84
+Sumter,EBENEZER 1,State Treasurer,,Vincent Coe,DEM,104,53,0,0,0,2,49
+Sumter,EBENEZER 1,State Treasurer,,Trav Robertson Jr,DEM,107,47,0,0,0,4,56
+Sumter,EBENEZER 2,State Treasurer,,Vincent Coe,DEM,148,81,0,0,0,3,64
+Sumter,EBENEZER 2,State Treasurer,,Trav Robertson Jr,DEM,127,76,0,0,0,1,50
+Sumter,FOLSOM PARK,State Treasurer,,Vincent Coe,DEM,99,69,0,0,0,3,27
+Sumter,FOLSOM PARK,State Treasurer,,Trav Robertson Jr,DEM,94,56,0,0,0,1,37
+Sumter,FURMAN,State Treasurer,,Vincent Coe,DEM,48,27,0,0,0,2,19
+Sumter,FURMAN,State Treasurer,,Trav Robertson Jr,DEM,46,22,0,0,0,2,22
+Sumter,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,1,0,1,0,0,0,0
+Sumter,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,State Treasurer,,Vincent Coe,DEM,198,116,0,0,0,7,75
+Sumter,GREEN SWAMP,State Treasurer,,Trav Robertson Jr,DEM,176,100,0,0,0,4,72
+Sumter,GREEN SWAMP 2,State Treasurer,,Vincent Coe,DEM,43,22,0,0,0,3,18
+Sumter,GREEN SWAMP 2,State Treasurer,,Trav Robertson Jr,DEM,30,14,0,0,0,3,13
+Sumter,HAMPTON PARK,State Treasurer,,Vincent Coe,DEM,64,28,0,0,0,1,35
+Sumter,HAMPTON PARK,State Treasurer,,Trav Robertson Jr,DEM,50,21,0,0,0,5,24
+Sumter,HILLCREST,State Treasurer,,Vincent Coe,DEM,89,58,0,0,0,2,29
+Sumter,HILLCREST,State Treasurer,,Trav Robertson Jr,DEM,90,69,0,0,0,2,19
+Sumter,HORATIO,State Treasurer,,Vincent Coe,DEM,72,44,0,0,0,0,28
+Sumter,HORATIO,State Treasurer,,Trav Robertson Jr,DEM,72,48,0,0,0,1,23
+Sumter,LEMIRA,State Treasurer,,Vincent Coe,DEM,104,56,0,0,0,13,35
+Sumter,LEMIRA,State Treasurer,,Trav Robertson Jr,DEM,107,68,0,0,0,4,35
+Sumter,LORING,State Treasurer,,Vincent Coe,DEM,37,19,0,0,0,0,18
+Sumter,LORING,State Treasurer,,Trav Robertson Jr,DEM,55,31,0,0,0,0,24
+Sumter,MAGNOLIA-HARMONY,State Treasurer,,Vincent Coe,DEM,61,40,0,0,0,2,19
+Sumter,MAGNOLIA-HARMONY,State Treasurer,,Trav Robertson Jr,DEM,66,36,0,0,0,2,28
+Sumter,MANCHESTER FOREST,State Treasurer,,Vincent Coe,DEM,98,53,0,0,0,5,40
+Sumter,MANCHESTER FOREST,State Treasurer,,Trav Robertson Jr,DEM,93,45,0,0,0,0,48
+Sumter,MAYESVILLE,State Treasurer,,Vincent Coe,DEM,44,9,0,0,0,0,35
+Sumter,MAYESVILLE,State Treasurer,,Trav Robertson Jr,DEM,66,16,0,0,0,0,50
+Sumter,MAYEWOOD,State Treasurer,,Vincent Coe,DEM,94,50,0,0,0,12,32
+Sumter,MAYEWOOD,State Treasurer,,Trav Robertson Jr,DEM,75,46,0,0,0,0,29
+Sumter,MCCRAYS MILL 1,State Treasurer,,Vincent Coe,DEM,139,78,0,0,0,5,56
+Sumter,MCCRAYS MILL 1,State Treasurer,,Trav Robertson Jr,DEM,131,73,0,0,0,2,56
+Sumter,MCCRAYS MILL 2,State Treasurer,,Vincent Coe,DEM,177,83,0,0,0,9,85
+Sumter,MCCRAYS MILL 2,State Treasurer,,Trav Robertson Jr,DEM,137,85,0,0,0,4,48
+Sumter,MILLWOOD,State Treasurer,,Vincent Coe,DEM,51,28,0,0,0,1,22
+Sumter,MILLWOOD,State Treasurer,,Trav Robertson Jr,DEM,41,18,0,0,0,0,23
+Sumter,MORRIS COLLEGE,State Treasurer,,Vincent Coe,DEM,87,52,0,0,0,3,32
+Sumter,MORRIS COLLEGE,State Treasurer,,Trav Robertson Jr,DEM,82,45,0,0,0,1,36
+Sumter,MULBERRY,State Treasurer,,Vincent Coe,DEM,66,30,0,0,0,1,35
+Sumter,MULBERRY,State Treasurer,,Trav Robertson Jr,DEM,60,35,0,0,0,3,22
+Sumter,OAKLAND PLANTATION 1,State Treasurer,,Vincent Coe,DEM,88,54,0,0,0,4,30
+Sumter,OAKLAND PLANTATION 1,State Treasurer,,Trav Robertson Jr,DEM,91,56,0,0,0,0,35
+Sumter,OAKLAND PLANTATION 2,State Treasurer,,Vincent Coe,DEM,68,44,0,0,0,0,24
+Sumter,OAKLAND PLANTATION 2,State Treasurer,,Trav Robertson Jr,DEM,62,39,0,0,0,0,23
+Sumter,OSWEGO,State Treasurer,,Vincent Coe,DEM,88,48,0,0,0,10,30
+Sumter,OSWEGO,State Treasurer,,Trav Robertson Jr,DEM,64,40,0,0,0,2,22
+Sumter,PALMETTO PARK,State Treasurer,,Vincent Coe,DEM,70,39,0,0,0,0,31
+Sumter,PALMETTO PARK,State Treasurer,,Trav Robertson Jr,DEM,62,38,0,0,0,1,23
+Sumter,PINEWOOD,State Treasurer,,Vincent Coe,DEM,83,45,0,0,0,4,34
+Sumter,PINEWOOD,State Treasurer,,Trav Robertson Jr,DEM,134,54,0,0,0,3,77
+Sumter,POCOTALIGO 1,State Treasurer,,Vincent Coe,DEM,138,84,0,0,0,2,52
+Sumter,POCOTALIGO 1,State Treasurer,,Trav Robertson Jr,DEM,101,50,0,0,0,1,50
+Sumter,POCOTALIGO 2,State Treasurer,,Vincent Coe,DEM,80,32,0,0,0,16,32
+Sumter,POCOTALIGO 2,State Treasurer,,Trav Robertson Jr,DEM,66,39,0,0,0,3,24
+Sumter,PRIVATEER,State Treasurer,,Vincent Coe,DEM,112,63,0,0,0,4,45
+Sumter,PRIVATEER,State Treasurer,,Trav Robertson Jr,DEM,92,54,0,0,0,0,38
+Sumter,Provisional,State Treasurer,,Vincent Coe,DEM,2,0,0,2,0,0,0
+Sumter,Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Sumter,REMBERT,State Treasurer,,Vincent Coe,DEM,285,127,0,0,0,79,79
+Sumter,REMBERT,State Treasurer,,Trav Robertson Jr,DEM,208,96,0,0,0,21,91
+Sumter,SALEM,State Treasurer,,Vincent Coe,DEM,39,14,0,0,0,2,23
+Sumter,SALEM,State Treasurer,,Trav Robertson Jr,DEM,49,16,0,0,0,1,32
+Sumter,SALTERSTOWN,State Treasurer,,Vincent Coe,DEM,48,28,0,0,0,2,18
+Sumter,SALTERSTOWN,State Treasurer,,Trav Robertson Jr,DEM,51,28,0,0,0,1,22
+Sumter,SAVAGE-GLOVER,State Treasurer,,Vincent Coe,DEM,58,30,0,0,0,2,26
+Sumter,SAVAGE-GLOVER,State Treasurer,,Trav Robertson Jr,DEM,49,24,0,0,0,0,25
+Sumter,SECOND MILL,State Treasurer,,Vincent Coe,DEM,46,24,0,0,0,3,19
+Sumter,SECOND MILL,State Treasurer,,Trav Robertson Jr,DEM,41,22,0,0,0,0,19
+Sumter,SHAW,State Treasurer,,Vincent Coe,DEM,10,3,0,0,0,2,5
+Sumter,SHAW,State Treasurer,,Trav Robertson Jr,DEM,2,0,0,0,0,0,2
+Sumter,SOUTH LIBERTY,State Treasurer,,Vincent Coe,DEM,44,26,0,0,0,4,14
+Sumter,SOUTH LIBERTY,State Treasurer,,Trav Robertson Jr,DEM,54,29,0,0,0,7,18
+Sumter,SOUTH RED BAY,State Treasurer,,Vincent Coe,DEM,84,48,0,0,0,1,35
+Sumter,SOUTH RED BAY,State Treasurer,,Trav Robertson Jr,DEM,76,45,0,0,0,1,30
+Sumter,SPECTRUM,State Treasurer,,Vincent Coe,DEM,108,60,0,0,0,10,38
+Sumter,SPECTRUM,State Treasurer,,Trav Robertson Jr,DEM,102,67,0,0,0,6,29
+Sumter,ST. PAUL,State Treasurer,,Vincent Coe,DEM,153,78,0,0,0,10,65
+Sumter,ST. PAUL,State Treasurer,,Trav Robertson Jr,DEM,139,82,0,0,0,5,52
+Sumter,ST.JOHN,State Treasurer,,Vincent Coe,DEM,100,24,0,0,0,2,74
+Sumter,ST.JOHN,State Treasurer,,Trav Robertson Jr,DEM,66,26,0,0,0,3,37
+Sumter,STONE HILL,State Treasurer,,Vincent Coe,DEM,51,25,0,0,0,5,21
+Sumter,STONE HILL,State Treasurer,,Trav Robertson Jr,DEM,54,24,0,0,0,10,20
+Sumter,SUMTER HIGH 1,State Treasurer,,Vincent Coe,DEM,41,27,0,0,0,0,14
+Sumter,SUMTER HIGH 1,State Treasurer,,Trav Robertson Jr,DEM,42,27,0,0,0,0,15
+Sumter,SUMTER HIGH 2,State Treasurer,,Vincent Coe,DEM,122,73,0,0,0,0,49
+Sumter,SUMTER HIGH 2,State Treasurer,,Trav Robertson Jr,DEM,111,70,0,0,0,1,40
+Sumter,SUNSET,State Treasurer,,Vincent Coe,DEM,131,84,0,0,0,2,45
+Sumter,SUNSET,State Treasurer,,Trav Robertson Jr,DEM,132,79,0,0,0,0,53
+Sumter,SWAN LAKE,State Treasurer,,Vincent Coe,DEM,77,47,0,0,0,0,30
+Sumter,SWAN LAKE,State Treasurer,,Trav Robertson Jr,DEM,56,37,0,0,0,0,19
+Sumter,THOMAS SUMTER,State Treasurer,,Vincent Coe,DEM,124,59,0,0,0,27,38
+Sumter,THOMAS SUMTER,State Treasurer,,Trav Robertson Jr,DEM,137,85,0,0,0,12,40
+Sumter,TURKEY CREEK,State Treasurer,,Vincent Coe,DEM,77,51,0,0,0,2,24
+Sumter,TURKEY CREEK,State Treasurer,,Trav Robertson Jr,DEM,81,52,0,0,0,1,28
+Sumter,WILDER,State Treasurer,,Vincent Coe,DEM,102,64,0,0,0,7,31
+Sumter,WILDER,State Treasurer,,Trav Robertson Jr,DEM,104,50,0,0,0,2,52
+Sumter,WILSON HALL,State Treasurer,,Vincent Coe,DEM,105,57,0,0,0,6,42
+Sumter,WILSON HALL,State Treasurer,,Trav Robertson Jr,DEM,61,48,0,0,0,1,12
+Sumter,BIRNIE,U.S. House,5,Andrew Clough,DEM,65,37,0,0,0,3,25
+Sumter,BIRNIE,U.S. House,5,Mallory Dittmer,DEM,28,14,0,0,0,2,12
+Sumter,BUNRS-DOWNS,U.S. House,5,Andrew Clough,DEM,52,25,0,0,0,0,27
+Sumter,BUNRS-DOWNS,U.S. House,5,Mallory Dittmer,DEM,60,30,0,0,0,3,27
+Sumter,CAUSEWAY BRANCH 1,U.S. House,5,Andrew Clough,DEM,124,73,0,0,0,3,48
+Sumter,CAUSEWAY BRANCH 1,U.S. House,5,Mallory Dittmer,DEM,107,70,0,0,0,2,35
+Sumter,CAUSEWAY BRANCH 2,U.S. House,5,Andrew Clough,DEM,91,60,0,0,0,1,30
+Sumter,CAUSEWAY BRANCH 2,U.S. House,5,Mallory Dittmer,DEM,85,40,0,0,0,2,43
+Sumter,CHERRYVALE,U.S. House,5,Andrew Clough,DEM,39,14,0,0,0,0,25
+Sumter,CHERRYVALE,U.S. House,5,Mallory Dittmer,DEM,24,7,0,0,0,0,17
+Sumter,DALZELL 1,U.S. House,5,Andrew Clough,DEM,119,70,0,0,0,2,47
+Sumter,DALZELL 1,U.S. House,5,Mallory Dittmer,DEM,83,53,0,0,0,3,27
+Sumter,DALZELL 2,U.S. House,5,Andrew Clough,DEM,82,36,0,0,0,1,45
+Sumter,DALZELL 2,U.S. House,5,Mallory Dittmer,DEM,69,32,0,0,0,5,32
+Sumter,DELAINE,U.S. House,5,Andrew Clough,DEM,171,87,0,0,0,5,79
+Sumter,DELAINE,U.S. House,5,Mallory Dittmer,DEM,153,78,0,0,0,8,67
+Sumter,EBENEZER 1,U.S. House,5,Andrew Clough,DEM,125,58,0,0,0,4,63
+Sumter,EBENEZER 1,U.S. House,5,Mallory Dittmer,DEM,82,41,0,0,0,2,39
+Sumter,EBENEZER 2,U.S. House,5,Andrew Clough,DEM,148,81,0,0,0,2,65
+Sumter,EBENEZER 2,U.S. House,5,Mallory Dittmer,DEM,130,75,0,0,0,2,53
+Sumter,FOLSOM PARK,U.S. House,5,Andrew Clough,DEM,109,74,0,0,0,3,32
+Sumter,FOLSOM PARK,U.S. House,5,Mallory Dittmer,DEM,85,51,0,0,0,1,33
+Sumter,FURMAN,U.S. House,5,Andrew Clough,DEM,56,33,0,0,0,1,22
+Sumter,FURMAN,U.S. House,5,Mallory Dittmer,DEM,38,16,0,0,0,3,19
+Sumter,Failsafe,U.S. House,5,Andrew Clough,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. House,5,Mallory Dittmer,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. House,5,Andrew Clough,DEM,1,0,1,0,0,0,0
+Sumter,Failsafe Provisional,U.S. House,5,Mallory Dittmer,DEM,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,U.S. House,5,Andrew Clough,DEM,216,133,0,0,0,7,76
+Sumter,GREEN SWAMP,U.S. House,5,Mallory Dittmer,DEM,161,87,0,0,0,3,71
+Sumter,GREEN SWAMP 2,U.S. House,5,Andrew Clough,DEM,34,17,0,0,0,1,16
+Sumter,GREEN SWAMP 2,U.S. House,5,Mallory Dittmer,DEM,38,19,0,0,0,5,14
+Sumter,HILLCREST,U.S. House,5,Andrew Clough,DEM,106,79,0,0,0,1,26
+Sumter,HILLCREST,U.S. House,5,Mallory Dittmer,DEM,70,44,0,0,0,3,23
+Sumter,HORATIO,U.S. House,5,Andrew Clough,DEM,93,59,0,0,0,0,34
+Sumter,HORATIO,U.S. House,5,Mallory Dittmer,DEM,48,31,0,0,0,1,16
+Sumter,MANCHESTER FOREST,U.S. House,5,Andrew Clough,DEM,113,64,0,0,0,0,49
+Sumter,MANCHESTER FOREST,U.S. House,5,Mallory Dittmer,DEM,79,32,0,0,0,7,40
+Sumter,MCCRAYS MILL 1,U.S. House,5,Andrew Clough,DEM,159,88,0,0,0,3,68
+Sumter,MCCRAYS MILL 1,U.S. House,5,Mallory Dittmer,DEM,112,63,0,0,0,4,45
+Sumter,MCCRAYS MILL 2,U.S. House,5,Andrew Clough,DEM,185,109,0,0,0,7,69
+Sumter,MCCRAYS MILL 2,U.S. House,5,Mallory Dittmer,DEM,130,61,0,0,0,5,64
+Sumter,MILLWOOD,U.S. House,5,Andrew Clough,DEM,50,27,0,0,0,1,22
+Sumter,MILLWOOD,U.S. House,5,Mallory Dittmer,DEM,42,19,0,0,0,0,23
+Sumter,MULBERRY,U.S. House,5,Andrew Clough,DEM,72,39,0,0,0,1,32
+Sumter,MULBERRY,U.S. House,5,Mallory Dittmer,DEM,54,28,0,0,0,3,23
+Sumter,OAKLAND PLANTATION 1,U.S. House,5,Andrew Clough,DEM,125,78,0,0,0,0,47
+Sumter,OAKLAND PLANTATION 1,U.S. House,5,Mallory Dittmer,DEM,58,35,0,0,0,4,19
+Sumter,OAKLAND PLANTATION 2,U.S. House,5,Andrew Clough,DEM,65,40,0,0,0,0,25
+Sumter,OAKLAND PLANTATION 2,U.S. House,5,Mallory Dittmer,DEM,65,43,0,0,0,0,22
+Sumter,OSWEGO,U.S. House,5,Andrew Clough,DEM,97,56,0,0,0,7,34
+Sumter,OSWEGO,U.S. House,5,Mallory Dittmer,DEM,55,33,0,0,0,4,18
+Sumter,PALMETTO PARK,U.S. House,5,Andrew Clough,DEM,80,49,0,0,0,0,31
+Sumter,PALMETTO PARK,U.S. House,5,Mallory Dittmer,DEM,52,27,0,0,0,1,24
+Sumter,PINEWOOD,U.S. House,5,Andrew Clough,DEM,147,62,0,0,0,6,79
+Sumter,PINEWOOD,U.S. House,5,Mallory Dittmer,DEM,70,35,0,0,0,1,34
+Sumter,PRIVATEER,U.S. House,5,Andrew Clough,DEM,105,61,0,0,0,2,42
+Sumter,PRIVATEER,U.S. House,5,Mallory Dittmer,DEM,96,54,0,0,0,1,41
+Sumter,Provisional,U.S. House,5,Andrew Clough,DEM,1,0,0,1,0,0,0
+Sumter,Provisional,U.S. House,5,Mallory Dittmer,DEM,0,0,0,0,0,0,0
+Sumter,REMBERT,U.S. House,5,Andrew Clough,DEM,288,153,0,0,0,26,109
+Sumter,REMBERT,U.S. House,5,Mallory Dittmer,DEM,197,65,0,0,0,74,58
+Sumter,SALTERSTOWN,U.S. House,5,Andrew Clough,DEM,63,34,0,0,0,2,27
+Sumter,SALTERSTOWN,U.S. House,5,Mallory Dittmer,DEM,35,20,0,0,0,1,14
+Sumter,SECOND MILL,U.S. House,5,Andrew Clough,DEM,46,28,0,0,0,0,18
+Sumter,SECOND MILL,U.S. House,5,Mallory Dittmer,DEM,43,19,0,0,0,3,21
+Sumter,SHAW,U.S. House,5,Andrew Clough,DEM,5,1,0,0,0,0,4
+Sumter,SHAW,U.S. House,5,Mallory Dittmer,DEM,6,2,0,0,0,2,2
+Sumter,SPECTRUM,U.S. House,5,Andrew Clough,DEM,134,85,0,0,0,2,47
+Sumter,SPECTRUM,U.S. House,5,Mallory Dittmer,DEM,77,43,0,0,0,14,20
+Sumter,ST. PAUL,U.S. House,5,Andrew Clough,DEM,170,96,0,0,0,8,66
+Sumter,ST. PAUL,U.S. House,5,Mallory Dittmer,DEM,125,65,0,0,0,8,52
+Sumter,SUMTER HIGH 1,U.S. House,5,Andrew Clough,DEM,44,27,0,0,0,0,17
+Sumter,SUMTER HIGH 1,U.S. House,5,Mallory Dittmer,DEM,38,26,0,0,0,0,12
+Sumter,SUMTER HIGH 2,U.S. House,5,Andrew Clough,DEM,142,89,0,0,0,0,53
+Sumter,SUMTER HIGH 2,U.S. House,5,Mallory Dittmer,DEM,83,48,0,0,0,1,34
+Sumter,SUNSET,U.S. House,5,Andrew Clough,DEM,156,92,0,0,0,1,63
+Sumter,SUNSET,U.S. House,5,Mallory Dittmer,DEM,100,69,0,0,0,1,30
+Sumter,THOMAS SUMTER,U.S. House,5,Andrew Clough,DEM,160,89,0,0,0,14,57
+Sumter,THOMAS SUMTER,U.S. House,5,Mallory Dittmer,DEM,103,55,0,0,0,25,23
+Sumter,WILSON HALL,U.S. House,5,Andrew Clough,DEM,101,62,0,0,0,4,35
+Sumter,WILSON HALL,U.S. House,5,Mallory Dittmer,DEM,66,43,0,0,0,3,20
+Sumter,BATES,U.S. House,6,John Peterson,REP,3,2,0,0,0,0,1
+Sumter,BATES,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Sumter,BATES,U.S. House,6,James E Jim Clyburn,DEM,148,73,0,0,0,9,66
+Sumter,BATES,U.S. House,6,Frederick R Goodwin,DEM,9,5,0,0,0,0,4
+Sumter,BIRNIE,U.S. House,6,John Peterson,REP,2,0,0,0,0,0,2
+Sumter,BIRNIE,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,U.S. House,6,James E Jim Clyburn,DEM,115,69,0,0,0,2,44
+Sumter,BIRNIE,U.S. House,6,Frederick R Goodwin,DEM,9,4,0,0,0,0,5
+Sumter,CROSSWELL,U.S. House,6,John Peterson,REP,28,7,0,0,0,2,19
+Sumter,CROSSWELL,U.S. House,6,Maurice Washington,REP,5,0,0,0,0,0,5
+Sumter,CROSSWELL,U.S. House,6,James E Jim Clyburn,DEM,216,129,0,0,0,3,84
+Sumter,CROSSWELL,U.S. House,6,Frederick R Goodwin,DEM,16,7,0,0,0,0,9
+Sumter,Failsafe,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Sumter,HAMPTON PARK,U.S. House,6,John Peterson,REP,48,10,0,0,0,0,38
+Sumter,HAMPTON PARK,U.S. House,6,Maurice Washington,REP,17,2,0,0,0,0,15
+Sumter,HAMPTON PARK,U.S. House,6,James E Jim Clyburn,DEM,112,50,0,0,0,6,56
+Sumter,HAMPTON PARK,U.S. House,6,Frederick R Goodwin,DEM,14,4,0,0,0,0,10
+Sumter,LEMIRA,U.S. House,6,John Peterson,REP,16,3,0,0,0,1,12
+Sumter,LEMIRA,U.S. House,6,Maurice Washington,REP,1,0,0,0,0,0,1
+Sumter,LEMIRA,U.S. House,6,James E Jim Clyburn,DEM,206,124,0,0,0,17,65
+Sumter,LEMIRA,U.S. House,6,Frederick R Goodwin,DEM,12,4,0,0,0,1,7
+Sumter,LORING,U.S. House,6,John Peterson,REP,15,5,0,0,0,0,10
+Sumter,LORING,U.S. House,6,Maurice Washington,REP,4,1,0,0,0,1,2
+Sumter,LORING,U.S. House,6,James E Jim Clyburn,DEM,90,48,0,0,0,0,42
+Sumter,LORING,U.S. House,6,Frederick R Goodwin,DEM,5,3,0,0,0,0,2
+Sumter,MAGNOLIA-HARMONY,U.S. House,6,John Peterson,REP,4,2,0,0,0,0,2
+Sumter,MAGNOLIA-HARMONY,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. House,6,James E Jim Clyburn,DEM,124,76,0,0,0,4,44
+Sumter,MAGNOLIA-HARMONY,U.S. House,6,Frederick R Goodwin,DEM,6,2,0,0,0,0,4
+Sumter,MAYESVILLE,U.S. House,6,John Peterson,REP,30,1,0,0,0,0,29
+Sumter,MAYESVILLE,U.S. House,6,Maurice Washington,REP,1,0,0,0,0,0,1
+Sumter,MAYESVILLE,U.S. House,6,James E Jim Clyburn,DEM,103,24,0,0,0,0,79
+Sumter,MAYESVILLE,U.S. House,6,Frederick R Goodwin,DEM,8,1,0,0,0,0,7
+Sumter,MAYEWOOD,U.S. House,6,John Peterson,REP,135,31,0,0,0,0,104
+Sumter,MAYEWOOD,U.S. House,6,Maurice Washington,REP,14,4,0,0,0,0,10
+Sumter,MAYEWOOD,U.S. House,6,James E Jim Clyburn,DEM,163,95,0,0,0,12,56
+Sumter,MAYEWOOD,U.S. House,6,Frederick R Goodwin,DEM,10,4,0,0,0,0,6
+Sumter,MORRIS COLLEGE,U.S. House,6,John Peterson,REP,15,4,0,0,0,0,11
+Sumter,MORRIS COLLEGE,U.S. House,6,Maurice Washington,REP,3,1,0,0,0,0,2
+Sumter,MORRIS COLLEGE,U.S. House,6,James E Jim Clyburn,DEM,164,101,0,0,0,2,61
+Sumter,MORRIS COLLEGE,U.S. House,6,Frederick R Goodwin,DEM,11,2,0,0,0,2,7
+Sumter,POCOTALIGO 1,U.S. House,6,John Peterson,REP,148,33,0,0,0,1,114
+Sumter,POCOTALIGO 1,U.S. House,6,Maurice Washington,REP,31,13,0,0,0,0,18
+Sumter,POCOTALIGO 1,U.S. House,6,James E Jim Clyburn,DEM,228,133,0,0,0,3,92
+Sumter,POCOTALIGO 1,U.S. House,6,Frederick R Goodwin,DEM,15,3,0,0,0,0,12
+Sumter,POCOTALIGO 2,U.S. House,6,John Peterson,REP,61,14,0,0,0,2,45
+Sumter,POCOTALIGO 2,U.S. House,6,Maurice Washington,REP,3,0,0,0,0,0,3
+Sumter,POCOTALIGO 2,U.S. House,6,James E Jim Clyburn,DEM,138,75,0,0,0,19,44
+Sumter,POCOTALIGO 2,U.S. House,6,Frederick R Goodwin,DEM,17,4,0,0,0,0,13
+Sumter,Provisional,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. House,6,James E Jim Clyburn,DEM,1,0,0,1,0,0,0
+Sumter,Provisional,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Sumter,SALEM,U.S. House,6,John Peterson,REP,9,0,0,0,0,0,9
+Sumter,SALEM,U.S. House,6,Maurice Washington,REP,4,1,0,0,0,0,3
+Sumter,SALEM,U.S. House,6,James E Jim Clyburn,DEM,93,30,0,0,0,3,60
+Sumter,SALEM,U.S. House,6,Frederick R Goodwin,DEM,1,1,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. House,6,James E Jim Clyburn,DEM,107,58,0,0,0,2,47
+Sumter,SAVAGE-GLOVER,U.S. House,6,Frederick R Goodwin,DEM,7,2,0,0,0,0,5
+Sumter,SOUTH LIBERTY,U.S. House,6,John Peterson,REP,11,5,0,0,0,0,6
+Sumter,SOUTH LIBERTY,U.S. House,6,Maurice Washington,REP,3,2,0,0,0,0,1
+Sumter,SOUTH LIBERTY,U.S. House,6,James E Jim Clyburn,DEM,98,57,0,0,0,11,30
+Sumter,SOUTH LIBERTY,U.S. House,6,Frederick R Goodwin,DEM,5,0,0,0,0,1,4
+Sumter,SOUTH RED BAY,U.S. House,6,John Peterson,REP,3,0,0,0,0,0,3
+Sumter,SOUTH RED BAY,U.S. House,6,Maurice Washington,REP,1,0,0,0,0,0,1
+Sumter,SOUTH RED BAY,U.S. House,6,James E Jim Clyburn,DEM,155,95,0,0,0,2,58
+Sumter,SOUTH RED BAY,U.S. House,6,Frederick R Goodwin,DEM,11,3,0,0,0,0,8
+Sumter,ST.JOHN,U.S. House,6,John Peterson,REP,90,6,0,0,0,0,84
+Sumter,ST.JOHN,U.S. House,6,Maurice Washington,REP,9,0,0,0,0,0,9
+Sumter,ST.JOHN,U.S. House,6,James E Jim Clyburn,DEM,158,46,0,0,0,4,108
+Sumter,ST.JOHN,U.S. House,6,Frederick R Goodwin,DEM,11,4,0,0,0,1,6
+Sumter,STONE HILL,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. House,6,Maurice Washington,REP,1,0,0,0,0,0,1
+Sumter,STONE HILL,U.S. House,6,James E Jim Clyburn,DEM,102,45,0,0,0,15,42
+Sumter,STONE HILL,U.S. House,6,Frederick R Goodwin,DEM,6,4,0,0,0,0,2
+Sumter,SWAN LAKE,U.S. House,6,John Peterson,REP,108,27,0,0,0,2,79
+Sumter,SWAN LAKE,U.S. House,6,Maurice Washington,REP,32,5,0,0,0,1,26
+Sumter,SWAN LAKE,U.S. House,6,James E Jim Clyburn,DEM,135,86,0,0,0,0,49
+Sumter,SWAN LAKE,U.S. House,6,Frederick R Goodwin,DEM,15,6,0,0,0,0,9
+Sumter,TURKEY CREEK,U.S. House,6,John Peterson,REP,67,10,0,0,0,0,57
+Sumter,TURKEY CREEK,U.S. House,6,Maurice Washington,REP,10,4,0,0,0,0,6
+Sumter,TURKEY CREEK,U.S. House,6,James E Jim Clyburn,DEM,153,101,0,0,0,3,49
+Sumter,TURKEY CREEK,U.S. House,6,Frederick R Goodwin,DEM,9,5,0,0,0,0,4
+Sumter,WILDER,U.S. House,6,John Peterson,REP,8,3,0,0,0,0,5
+Sumter,WILDER,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. House,6,James E Jim Clyburn,DEM,201,112,0,0,0,9,80
+Sumter,WILDER,U.S. House,6,Frederick R Goodwin,DEM,11,4,0,0,0,0,7
+Sumter,BATES,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Sumter,BATES,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Mark Lynch,REP,1,1,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Annie Andrews,DEM,68,37,0,0,0,6,25
+Sumter,BATES,U.S. Senate,,Brandon P Brown,DEM,65,29,0,0,0,2,34
+Sumter,BATES,U.S. Senate,,Kyle Freeman,DEM,17,6,0,0,0,1,10
+Sumter,BIRNIE,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Sumter,BIRNIE,U.S. Senate,,Lindsey Graham,REP,1,1,0,0,0,0,0
+Sumter,BIRNIE,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Sumter,BIRNIE,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,U.S. Senate,,Annie Andrews,DEM,98,55,0,0,0,2,41
+Sumter,BIRNIE,U.S. Senate,,Brandon P Brown,DEM,84,49,0,0,0,5,30
+Sumter,BIRNIE,U.S. Senate,,Kyle Freeman,DEM,31,18,0,0,0,1,12
+Sumter,BUNRS-DOWNS,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Sumter,BUNRS-DOWNS,U.S. Senate,,Thomas Keith Dismukes,REP,6,0,0,0,0,0,6
+Sumter,BUNRS-DOWNS,U.S. Senate,,Lindsey Graham,REP,56,10,0,0,0,1,45
+Sumter,BUNRS-DOWNS,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Sumter,BUNRS-DOWNS,U.S. Senate,,Mark Lynch,REP,13,4,0,0,0,2,7
+Sumter,BUNRS-DOWNS,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Sumter,BUNRS-DOWNS,U.S. Senate,,Annie Andrews,DEM,77,35,0,0,0,1,41
+Sumter,BUNRS-DOWNS,U.S. Senate,,Brandon P Brown,DEM,31,18,0,0,0,1,12
+Sumter,BUNRS-DOWNS,U.S. Senate,,Kyle Freeman,DEM,7,4,0,0,0,0,3
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Calvin Cowen,REP,5,4,0,0,0,0,1
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Thomas Keith Dismukes,REP,8,1,0,0,0,0,7
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Lindsey Graham,REP,125,38,0,0,0,5,82
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Pat Herrmann,REP,13,9,0,0,0,0,4
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Mark Lynch,REP,34,4,0,0,0,2,28
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Annie Andrews,DEM,140,88,0,0,0,2,50
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Brandon P Brown,DEM,69,45,0,0,0,3,21
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Kyle Freeman,DEM,25,12,0,0,0,0,13
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Thomas Keith Dismukes,REP,5,2,0,0,0,0,3
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Lindsey Graham,REP,94,27,0,0,0,0,67
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Mark Lynch,REP,13,6,0,0,0,0,7
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Annie Andrews,DEM,102,59,0,0,0,0,43
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Brandon P Brown,DEM,66,37,0,0,0,3,26
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Kyle Freeman,DEM,9,5,0,0,0,0,4
+Sumter,CHERRYVALE,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Sumter,CHERRYVALE,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Sumter,CHERRYVALE,U.S. Senate,,Lindsey Graham,REP,12,1,0,0,0,0,11
+Sumter,CHERRYVALE,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Sumter,CHERRYVALE,U.S. Senate,,Mark Lynch,REP,5,0,0,0,0,0,5
+Sumter,CHERRYVALE,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,CHERRYVALE,U.S. Senate,,Annie Andrews,DEM,35,11,0,0,0,0,24
+Sumter,CHERRYVALE,U.S. Senate,,Brandon P Brown,DEM,19,9,0,0,0,0,10
+Sumter,CHERRYVALE,U.S. Senate,,Kyle Freeman,DEM,9,1,0,0,0,0,8
+Sumter,CROSSWELL,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Sumter,CROSSWELL,U.S. Senate,,Thomas Keith Dismukes,REP,3,1,0,0,0,2,0
+Sumter,CROSSWELL,U.S. Senate,,Lindsey Graham,REP,20,4,0,0,0,0,16
+Sumter,CROSSWELL,U.S. Senate,,Pat Herrmann,REP,3,1,0,0,0,0,2
+Sumter,CROSSWELL,U.S. Senate,,Mark Lynch,REP,8,1,0,0,0,0,7
+Sumter,CROSSWELL,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Sumter,CROSSWELL,U.S. Senate,,Annie Andrews,DEM,117,70,0,0,0,0,47
+Sumter,CROSSWELL,U.S. Senate,,Brandon P Brown,DEM,83,47,0,0,0,1,35
+Sumter,CROSSWELL,U.S. Senate,,Kyle Freeman,DEM,27,18,0,0,0,0,9
+Sumter,DALZELL 1,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Sumter,DALZELL 1,U.S. Senate,,Thomas Keith Dismukes,REP,9,6,0,0,0,0,3
+Sumter,DALZELL 1,U.S. Senate,,Lindsey Graham,REP,96,40,0,0,0,0,56
+Sumter,DALZELL 1,U.S. Senate,,Pat Herrmann,REP,3,2,0,0,0,0,1
+Sumter,DALZELL 1,U.S. Senate,,Mark Lynch,REP,24,7,0,0,0,0,17
+Sumter,DALZELL 1,U.S. Senate,,Darius L Mitchell,REP,7,3,0,0,0,1,3
+Sumter,DALZELL 1,U.S. Senate,,Annie Andrews,DEM,113,65,0,0,0,4,44
+Sumter,DALZELL 1,U.S. Senate,,Brandon P Brown,DEM,75,53,0,0,0,1,21
+Sumter,DALZELL 1,U.S. Senate,,Kyle Freeman,DEM,18,9,0,0,0,0,9
+Sumter,DALZELL 2,U.S. Senate,,Calvin Cowen,REP,2,2,0,0,0,0,0
+Sumter,DALZELL 2,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Sumter,DALZELL 2,U.S. Senate,,Lindsey Graham,REP,36,13,0,0,0,0,23
+Sumter,DALZELL 2,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Sumter,DALZELL 2,U.S. Senate,,Mark Lynch,REP,11,3,0,0,0,0,8
+Sumter,DALZELL 2,U.S. Senate,,Darius L Mitchell,REP,3,1,0,0,0,0,2
+Sumter,DALZELL 2,U.S. Senate,,Annie Andrews,DEM,68,33,0,0,0,2,33
+Sumter,DALZELL 2,U.S. Senate,,Brandon P Brown,DEM,70,29,0,0,0,5,36
+Sumter,DALZELL 2,U.S. Senate,,Kyle Freeman,DEM,15,6,0,0,0,1,8
+Sumter,DELAINE,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Sumter,DELAINE,U.S. Senate,,Thomas Keith Dismukes,REP,4,0,0,0,0,0,4
+Sumter,DELAINE,U.S. Senate,,Lindsey Graham,REP,46,8,0,0,0,1,37
+Sumter,DELAINE,U.S. Senate,,Pat Herrmann,REP,1,1,0,0,0,0,0
+Sumter,DELAINE,U.S. Senate,,Mark Lynch,REP,13,4,0,0,0,0,9
+Sumter,DELAINE,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Sumter,DELAINE,U.S. Senate,,Annie Andrews,DEM,172,84,0,0,0,8,80
+Sumter,DELAINE,U.S. Senate,,Brandon P Brown,DEM,128,71,0,0,0,5,52
+Sumter,DELAINE,U.S. Senate,,Kyle Freeman,DEM,32,15,0,0,0,0,17
+Sumter,EBENEZER 1,U.S. Senate,,Calvin Cowen,REP,3,2,0,0,0,0,1
+Sumter,EBENEZER 1,U.S. Senate,,Thomas Keith Dismukes,REP,4,3,0,0,0,0,1
+Sumter,EBENEZER 1,U.S. Senate,,Lindsey Graham,REP,64,16,0,0,0,0,48
+Sumter,EBENEZER 1,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Sumter,EBENEZER 1,U.S. Senate,,Mark Lynch,REP,18,4,0,0,0,0,14
+Sumter,EBENEZER 1,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,0,3
+Sumter,EBENEZER 1,U.S. Senate,,Annie Andrews,DEM,116,56,0,0,0,5,55
+Sumter,EBENEZER 1,U.S. Senate,,Brandon P Brown,DEM,80,33,0,0,0,0,47
+Sumter,EBENEZER 1,U.S. Senate,,Kyle Freeman,DEM,16,11,0,0,0,1,4
+Sumter,EBENEZER 2,U.S. Senate,,Calvin Cowen,REP,9,2,0,0,0,0,7
+Sumter,EBENEZER 2,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Sumter,EBENEZER 2,U.S. Senate,,Lindsey Graham,REP,77,18,0,0,0,2,57
+Sumter,EBENEZER 2,U.S. Senate,,Pat Herrmann,REP,8,1,0,0,0,0,7
+Sumter,EBENEZER 2,U.S. Senate,,Mark Lynch,REP,18,5,0,0,0,0,13
+Sumter,EBENEZER 2,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Sumter,EBENEZER 2,U.S. Senate,,Annie Andrews,DEM,146,87,0,0,0,2,57
+Sumter,EBENEZER 2,U.S. Senate,,Brandon P Brown,DEM,118,67,0,0,0,3,48
+Sumter,EBENEZER 2,U.S. Senate,,Kyle Freeman,DEM,22,7,0,0,0,0,15
+Sumter,FOLSOM PARK,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Sumter,FOLSOM PARK,U.S. Senate,,Thomas Keith Dismukes,REP,1,1,0,0,0,0,0
+Sumter,FOLSOM PARK,U.S. Senate,,Lindsey Graham,REP,10,4,0,0,0,0,6
+Sumter,FOLSOM PARK,U.S. Senate,,Pat Herrmann,REP,3,1,0,0,0,0,2
+Sumter,FOLSOM PARK,U.S. Senate,,Mark Lynch,REP,3,2,0,0,0,0,1
+Sumter,FOLSOM PARK,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Sumter,FOLSOM PARK,U.S. Senate,,Annie Andrews,DEM,73,48,0,0,0,0,25
+Sumter,FOLSOM PARK,U.S. Senate,,Brandon P Brown,DEM,99,61,0,0,0,2,36
+Sumter,FOLSOM PARK,U.S. Senate,,Kyle Freeman,DEM,22,16,0,0,0,2,4
+Sumter,FURMAN,U.S. Senate,,Calvin Cowen,REP,6,2,0,0,0,0,4
+Sumter,FURMAN,U.S. Senate,,Thomas Keith Dismukes,REP,9,3,0,0,0,0,6
+Sumter,FURMAN,U.S. Senate,,Lindsey Graham,REP,106,14,0,0,0,7,85
+Sumter,FURMAN,U.S. Senate,,Pat Herrmann,REP,3,1,0,0,0,0,2
+Sumter,FURMAN,U.S. Senate,,Mark Lynch,REP,24,2,0,0,0,0,22
+Sumter,FURMAN,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,FURMAN,U.S. Senate,,Annie Andrews,DEM,49,26,0,0,0,3,20
+Sumter,FURMAN,U.S. Senate,,Brandon P Brown,DEM,35,15,0,0,0,1,19
+Sumter,FURMAN,U.S. Senate,,Kyle Freeman,DEM,12,9,0,0,0,0,3
+Sumter,Failsafe,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,1,0,1,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,U.S. Senate,,Calvin Cowen,REP,6,0,0,0,0,0,6
+Sumter,GREEN SWAMP,U.S. Senate,,Thomas Keith Dismukes,REP,10,7,0,0,0,0,3
+Sumter,GREEN SWAMP,U.S. Senate,,Lindsey Graham,REP,147,43,0,0,0,2,102
+Sumter,GREEN SWAMP,U.S. Senate,,Pat Herrmann,REP,3,2,0,0,0,0,1
+Sumter,GREEN SWAMP,U.S. Senate,,Mark Lynch,REP,38,9,0,0,0,1,28
+Sumter,GREEN SWAMP,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Sumter,GREEN SWAMP,U.S. Senate,,Annie Andrews,DEM,206,112,0,0,0,5,89
+Sumter,GREEN SWAMP,U.S. Senate,,Brandon P Brown,DEM,150,92,0,0,0,6,52
+Sumter,GREEN SWAMP,U.S. Senate,,Kyle Freeman,DEM,28,17,0,0,0,0,11
+Sumter,GREEN SWAMP 2,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Sumter,GREEN SWAMP 2,U.S. Senate,,Thomas Keith Dismukes,REP,9,1,0,0,0,0,8
+Sumter,GREEN SWAMP 2,U.S. Senate,,Lindsey Graham,REP,155,39,0,0,0,2,114
+Sumter,GREEN SWAMP 2,U.S. Senate,,Pat Herrmann,REP,8,3,0,0,0,0,5
+Sumter,GREEN SWAMP 2,U.S. Senate,,Mark Lynch,REP,19,1,0,0,0,0,18
+Sumter,GREEN SWAMP 2,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Sumter,GREEN SWAMP 2,U.S. Senate,,Annie Andrews,DEM,50,25,0,0,0,3,22
+Sumter,GREEN SWAMP 2,U.S. Senate,,Brandon P Brown,DEM,17,6,0,0,0,3,8
+Sumter,GREEN SWAMP 2,U.S. Senate,,Kyle Freeman,DEM,6,5,0,0,0,0,1
+Sumter,HAMPTON PARK,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Sumter,HAMPTON PARK,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Sumter,HAMPTON PARK,U.S. Senate,,Lindsey Graham,REP,49,10,0,0,0,0,39
+Sumter,HAMPTON PARK,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Sumter,HAMPTON PARK,U.S. Senate,,Mark Lynch,REP,14,4,0,0,0,0,10
+Sumter,HAMPTON PARK,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Sumter,HAMPTON PARK,U.S. Senate,,Annie Andrews,DEM,82,29,0,0,0,3,50
+Sumter,HAMPTON PARK,U.S. Senate,,Brandon P Brown,DEM,31,17,0,0,0,3,11
+Sumter,HAMPTON PARK,U.S. Senate,,Kyle Freeman,DEM,10,5,0,0,0,0,5
+Sumter,HILLCREST,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Sumter,HILLCREST,U.S. Senate,,Thomas Keith Dismukes,REP,3,1,0,0,0,0,2
+Sumter,HILLCREST,U.S. Senate,,Lindsey Graham,REP,45,21,0,0,0,0,24
+Sumter,HILLCREST,U.S. Senate,,Pat Herrmann,REP,4,1,0,0,0,0,3
+Sumter,HILLCREST,U.S. Senate,,Mark Lynch,REP,13,5,0,0,0,1,7
+Sumter,HILLCREST,U.S. Senate,,Darius L Mitchell,REP,2,2,0,0,0,0,0
+Sumter,HILLCREST,U.S. Senate,,Annie Andrews,DEM,93,65,0,0,0,4,24
+Sumter,HILLCREST,U.S. Senate,,Brandon P Brown,DEM,69,47,0,0,0,0,22
+Sumter,HILLCREST,U.S. Senate,,Kyle Freeman,DEM,15,12,0,0,0,0,3
+Sumter,HORATIO,U.S. Senate,,Calvin Cowen,REP,1,1,0,0,0,0,0
+Sumter,HORATIO,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,HORATIO,U.S. Senate,,Lindsey Graham,REP,16,4,0,0,0,0,12
+Sumter,HORATIO,U.S. Senate,,Pat Herrmann,REP,1,1,0,0,0,0,0
+Sumter,HORATIO,U.S. Senate,,Mark Lynch,REP,10,2,0,0,0,0,8
+Sumter,HORATIO,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,HORATIO,U.S. Senate,,Annie Andrews,DEM,71,46,0,0,0,1,24
+Sumter,HORATIO,U.S. Senate,,Brandon P Brown,DEM,67,42,0,0,0,0,25
+Sumter,HORATIO,U.S. Senate,,Kyle Freeman,DEM,11,6,0,0,0,0,5
+Sumter,LEMIRA,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Sumter,LEMIRA,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,LEMIRA,U.S. Senate,,Lindsey Graham,REP,9,1,0,0,0,1,7
+Sumter,LEMIRA,U.S. Senate,,Pat Herrmann,REP,1,1,0,0,0,0,0
+Sumter,LEMIRA,U.S. Senate,,Mark Lynch,REP,7,1,0,0,0,0,6
+Sumter,LEMIRA,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,LEMIRA,U.S. Senate,,Annie Andrews,DEM,86,52,0,0,0,9,25
+Sumter,LEMIRA,U.S. Senate,,Brandon P Brown,DEM,103,58,0,0,0,9,36
+Sumter,LEMIRA,U.S. Senate,,Kyle Freeman,DEM,21,12,0,0,0,0,9
+Sumter,LORING,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,LORING,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Sumter,LORING,U.S. Senate,,Lindsey Graham,REP,10,3,0,0,0,0,7
+Sumter,LORING,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,1,1
+Sumter,LORING,U.S. Senate,,Mark Lynch,REP,4,1,0,0,0,0,3
+Sumter,LORING,U.S. Senate,,Darius L Mitchell,REP,2,2,0,0,0,0,0
+Sumter,LORING,U.S. Senate,,Annie Andrews,DEM,41,21,0,0,0,0,20
+Sumter,LORING,U.S. Senate,,Brandon P Brown,DEM,37,20,0,0,0,0,17
+Sumter,LORING,U.S. Senate,,Kyle Freeman,DEM,11,7,0,0,0,0,4
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Lindsey Graham,REP,4,2,0,0,0,0,2
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Annie Andrews,DEM,59,33,0,0,0,2,24
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Brandon P Brown,DEM,50,28,0,0,0,2,20
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Kyle Freeman,DEM,17,12,0,0,0,0,5
+Sumter,MANCHESTER FOREST,U.S. Senate,,Calvin Cowen,REP,7,2,0,0,0,0,5
+Sumter,MANCHESTER FOREST,U.S. Senate,,Thomas Keith Dismukes,REP,10,0,0,0,0,0,10
+Sumter,MANCHESTER FOREST,U.S. Senate,,Lindsey Graham,REP,94,15,0,0,0,0,79
+Sumter,MANCHESTER FOREST,U.S. Senate,,Pat Herrmann,REP,5,0,0,0,0,0,5
+Sumter,MANCHESTER FOREST,U.S. Senate,,Mark Lynch,REP,21,3,0,0,0,0,18
+Sumter,MANCHESTER FOREST,U.S. Senate,,Darius L Mitchell,REP,5,3,0,0,0,0,2
+Sumter,MANCHESTER FOREST,U.S. Senate,,Annie Andrews,DEM,100,48,0,0,0,4,48
+Sumter,MANCHESTER FOREST,U.S. Senate,,Brandon P Brown,DEM,73,39,0,0,0,3,31
+Sumter,MANCHESTER FOREST,U.S. Senate,,Kyle Freeman,DEM,23,11,0,0,0,0,12
+Sumter,MAYESVILLE,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Sumter,MAYESVILLE,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Sumter,MAYESVILLE,U.S. Senate,,Lindsey Graham,REP,26,1,0,0,0,0,25
+Sumter,MAYESVILLE,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Sumter,MAYESVILLE,U.S. Senate,,Mark Lynch,REP,4,0,0,0,0,0,4
+Sumter,MAYESVILLE,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,MAYESVILLE,U.S. Senate,,Annie Andrews,DEM,64,12,0,0,0,0,52
+Sumter,MAYESVILLE,U.S. Senate,,Brandon P Brown,DEM,37,9,0,0,0,0,28
+Sumter,MAYESVILLE,U.S. Senate,,Kyle Freeman,DEM,6,2,0,0,0,0,4
+Sumter,MAYEWOOD,U.S. Senate,,Calvin Cowen,REP,3,2,0,0,0,0,1
+Sumter,MAYEWOOD,U.S. Senate,,Thomas Keith Dismukes,REP,8,2,0,0,0,0,6
+Sumter,MAYEWOOD,U.S. Senate,,Lindsey Graham,REP,123,28,0,0,0,0,95
+Sumter,MAYEWOOD,U.S. Senate,,Pat Herrmann,REP,5,2,0,0,0,0,3
+Sumter,MAYEWOOD,U.S. Senate,,Mark Lynch,REP,21,3,0,0,0,1,17
+Sumter,MAYEWOOD,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Sumter,MAYEWOOD,U.S. Senate,,Annie Andrews,DEM,81,45,0,0,0,4,32
+Sumter,MAYEWOOD,U.S. Senate,,Brandon P Brown,DEM,72,41,0,0,0,8,23
+Sumter,MAYEWOOD,U.S. Senate,,Kyle Freeman,DEM,18,12,0,0,0,0,6
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Calvin Cowen,REP,3,1,0,0,0,0,2
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Thomas Keith Dismukes,REP,9,0,0,0,0,0,9
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Lindsey Graham,REP,87,17,0,0,0,2,68
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Pat Herrmann,REP,10,2,0,0,0,0,8
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Mark Lynch,REP,21,3,0,0,0,0,18
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Annie Andrews,DEM,141,78,0,0,0,5,58
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Brandon P Brown,DEM,109,59,0,0,0,2,48
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Kyle Freeman,DEM,23,14,0,0,0,0,9
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Calvin Cowen,REP,7,0,0,0,0,0,7
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Thomas Keith Dismukes,REP,9,3,0,0,0,0,6
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Lindsey Graham,REP,127,22,0,0,0,2,103
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Pat Herrmann,REP,7,2,0,0,0,0,5
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Mark Lynch,REP,46,9,0,0,0,0,37
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Darius L Mitchell,REP,4,0,0,0,0,0,4
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Annie Andrews,DEM,168,87,0,0,0,8,73
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Brandon P Brown,DEM,116,62,0,0,0,5,49
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Kyle Freeman,DEM,33,20,0,0,0,0,13
+Sumter,MILLWOOD,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Sumter,MILLWOOD,U.S. Senate,,Thomas Keith Dismukes,REP,5,0,0,0,0,0,5
+Sumter,MILLWOOD,U.S. Senate,,Lindsey Graham,REP,29,8,0,0,0,2,19
+Sumter,MILLWOOD,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Sumter,MILLWOOD,U.S. Senate,,Mark Lynch,REP,4,0,0,0,0,0,4
+Sumter,MILLWOOD,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Sumter,MILLWOOD,U.S. Senate,,Annie Andrews,DEM,43,20,0,0,0,0,23
+Sumter,MILLWOOD,U.S. Senate,,Brandon P Brown,DEM,41,22,0,0,0,1,18
+Sumter,MILLWOOD,U.S. Senate,,Kyle Freeman,DEM,10,6,0,0,0,0,4
+Sumter,MORRIS COLLEGE,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Sumter,MORRIS COLLEGE,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Sumter,MORRIS COLLEGE,U.S. Senate,,Lindsey Graham,REP,12,3,0,0,0,0,9
+Sumter,MORRIS COLLEGE,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,MORRIS COLLEGE,U.S. Senate,,Mark Lynch,REP,7,2,0,0,0,0,5
+Sumter,MORRIS COLLEGE,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Sumter,MORRIS COLLEGE,U.S. Senate,,Annie Andrews,DEM,87,49,0,0,0,2,36
+Sumter,MORRIS COLLEGE,U.S. Senate,,Brandon P Brown,DEM,64,39,0,0,0,1,24
+Sumter,MORRIS COLLEGE,U.S. Senate,,Kyle Freeman,DEM,23,13,0,0,0,1,9
+Sumter,MULBERRY,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Sumter,MULBERRY,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Sumter,MULBERRY,U.S. Senate,,Lindsey Graham,REP,24,8,0,0,0,0,16
+Sumter,MULBERRY,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,MULBERRY,U.S. Senate,,Mark Lynch,REP,3,1,0,0,0,0,2
+Sumter,MULBERRY,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,MULBERRY,U.S. Senate,,Annie Andrews,DEM,58,30,0,0,0,3,25
+Sumter,MULBERRY,U.S. Senate,,Brandon P Brown,DEM,53,28,0,0,0,0,25
+Sumter,MULBERRY,U.S. Senate,,Kyle Freeman,DEM,19,10,0,0,0,1,8
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Calvin Cowen,REP,6,1,0,0,0,0,5
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Lindsey Graham,REP,92,22,0,0,0,1,69
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Pat Herrmann,REP,13,4,0,0,0,0,9
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Mark Lynch,REP,29,12,0,0,0,0,17
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Annie Andrews,DEM,116,74,0,0,0,1,41
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Brandon P Brown,DEM,55,29,0,0,0,3,23
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Kyle Freeman,DEM,16,12,0,0,0,0,4
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Lindsey Graham,REP,72,17,0,0,0,0,55
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Pat Herrmann,REP,10,4,0,0,0,0,6
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Mark Lynch,REP,23,2,0,0,0,1,20
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Darius L Mitchell,REP,4,4,0,0,0,0,0
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Annie Andrews,DEM,78,52,0,0,0,0,26
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Brandon P Brown,DEM,48,27,0,0,0,0,21
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Kyle Freeman,DEM,6,6,0,0,0,0,0
+Sumter,OSWEGO,U.S. Senate,,Calvin Cowen,REP,7,3,0,0,0,0,4
+Sumter,OSWEGO,U.S. Senate,,Thomas Keith Dismukes,REP,4,1,0,0,0,0,3
+Sumter,OSWEGO,U.S. Senate,,Lindsey Graham,REP,96,31,0,0,0,2,63
+Sumter,OSWEGO,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Sumter,OSWEGO,U.S. Senate,,Mark Lynch,REP,37,5,0,0,0,2,30
+Sumter,OSWEGO,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Sumter,OSWEGO,U.S. Senate,,Annie Andrews,DEM,76,44,0,0,0,9,23
+Sumter,OSWEGO,U.S. Senate,,Brandon P Brown,DEM,60,35,0,0,0,3,22
+Sumter,OSWEGO,U.S. Senate,,Kyle Freeman,DEM,17,10,0,0,0,0,7
+Sumter,PALMETTO PARK,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Sumter,PALMETTO PARK,U.S. Senate,,Thomas Keith Dismukes,REP,2,1,0,0,0,0,1
+Sumter,PALMETTO PARK,U.S. Senate,,Lindsey Graham,REP,41,7,0,0,0,0,34
+Sumter,PALMETTO PARK,U.S. Senate,,Pat Herrmann,REP,6,1,0,0,0,0,5
+Sumter,PALMETTO PARK,U.S. Senate,,Mark Lynch,REP,18,2,0,0,0,0,16
+Sumter,PALMETTO PARK,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,PALMETTO PARK,U.S. Senate,,Annie Andrews,DEM,63,35,0,0,0,0,28
+Sumter,PALMETTO PARK,U.S. Senate,,Brandon P Brown,DEM,54,32,0,0,0,1,21
+Sumter,PALMETTO PARK,U.S. Senate,,Kyle Freeman,DEM,15,8,0,0,0,0,7
+Sumter,PINEWOOD,U.S. Senate,,Calvin Cowen,REP,4,2,0,0,0,0,2
+Sumter,PINEWOOD,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Sumter,PINEWOOD,U.S. Senate,,Lindsey Graham,REP,77,10,0,0,0,3,64
+Sumter,PINEWOOD,U.S. Senate,,Pat Herrmann,REP,5,0,0,0,0,2,3
+Sumter,PINEWOOD,U.S. Senate,,Mark Lynch,REP,11,1,0,0,0,0,10
+Sumter,PINEWOOD,U.S. Senate,,Darius L Mitchell,REP,5,0,0,0,0,0,5
+Sumter,PINEWOOD,U.S. Senate,,Annie Andrews,DEM,117,49,0,0,0,3,65
+Sumter,PINEWOOD,U.S. Senate,,Brandon P Brown,DEM,84,40,0,0,0,2,42
+Sumter,PINEWOOD,U.S. Senate,,Kyle Freeman,DEM,24,13,0,0,0,2,9
+Sumter,POCOTALIGO 1,U.S. Senate,,Calvin Cowen,REP,7,2,0,0,0,0,5
+Sumter,POCOTALIGO 1,U.S. Senate,,Thomas Keith Dismukes,REP,7,0,0,0,0,0,7
+Sumter,POCOTALIGO 1,U.S. Senate,,Lindsey Graham,REP,142,35,0,0,0,1,106
+Sumter,POCOTALIGO 1,U.S. Senate,,Pat Herrmann,REP,5,4,0,0,0,0,1
+Sumter,POCOTALIGO 1,U.S. Senate,,Mark Lynch,REP,28,8,0,0,0,0,20
+Sumter,POCOTALIGO 1,U.S. Senate,,Darius L Mitchell,REP,3,1,0,0,0,0,2
+Sumter,POCOTALIGO 1,U.S. Senate,,Annie Andrews,DEM,128,70,0,0,0,0,58
+Sumter,POCOTALIGO 1,U.S. Senate,,Brandon P Brown,DEM,89,53,0,0,0,3,33
+Sumter,POCOTALIGO 1,U.S. Senate,,Kyle Freeman,DEM,21,11,0,0,0,0,10
+Sumter,POCOTALIGO 2,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,POCOTALIGO 2,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Sumter,POCOTALIGO 2,U.S. Senate,,Lindsey Graham,REP,49,8,0,0,0,2,39
+Sumter,POCOTALIGO 2,U.S. Senate,,Pat Herrmann,REP,7,2,0,0,0,0,5
+Sumter,POCOTALIGO 2,U.S. Senate,,Mark Lynch,REP,8,3,0,0,0,0,5
+Sumter,POCOTALIGO 2,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,POCOTALIGO 2,U.S. Senate,,Annie Andrews,DEM,60,36,0,0,0,2,22
+Sumter,POCOTALIGO 2,U.S. Senate,,Brandon P Brown,DEM,75,33,0,0,0,16,26
+Sumter,POCOTALIGO 2,U.S. Senate,,Kyle Freeman,DEM,16,8,0,0,0,1,7
+Sumter,PRIVATEER,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Sumter,PRIVATEER,U.S. Senate,,Thomas Keith Dismukes,REP,7,2,0,0,0,1,4
+Sumter,PRIVATEER,U.S. Senate,,Lindsey Graham,REP,132,22,0,0,0,5,105
+Sumter,PRIVATEER,U.S. Senate,,Pat Herrmann,REP,7,3,0,0,0,0,4
+Sumter,PRIVATEER,U.S. Senate,,Mark Lynch,REP,42,10,0,0,0,2,30
+Sumter,PRIVATEER,U.S. Senate,,Darius L Mitchell,REP,4,2,0,0,0,0,2
+Sumter,PRIVATEER,U.S. Senate,,Annie Andrews,DEM,91,51,0,0,0,2,38
+Sumter,PRIVATEER,U.S. Senate,,Brandon P Brown,DEM,91,52,0,0,0,1,38
+Sumter,PRIVATEER,U.S. Senate,,Kyle Freeman,DEM,26,15,0,0,0,1,10
+Sumter,Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Annie Andrews,DEM,1,0,0,1,0,0,0
+Sumter,Provisional,U.S. Senate,,Brandon P Brown,DEM,1,0,0,1,0,0,0
+Sumter,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Sumter,REMBERT,U.S. Senate,,Calvin Cowen,REP,1,1,0,0,0,0,0
+Sumter,REMBERT,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Sumter,REMBERT,U.S. Senate,,Lindsey Graham,REP,36,7,0,0,0,0,29
+Sumter,REMBERT,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Sumter,REMBERT,U.S. Senate,,Mark Lynch,REP,16,7,0,0,0,1,8
+Sumter,REMBERT,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Sumter,REMBERT,U.S. Senate,,Annie Andrews,DEM,208,100,0,0,0,14,94
+Sumter,REMBERT,U.S. Senate,,Brandon P Brown,DEM,234,96,0,0,0,76,62
+Sumter,REMBERT,U.S. Senate,,Kyle Freeman,DEM,49,24,0,0,0,10,15
+Sumter,SALEM,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,SALEM,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,SALEM,U.S. Senate,,Lindsey Graham,REP,10,1,0,0,0,0,9
+Sumter,SALEM,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Sumter,SALEM,U.S. Senate,,Mark Lynch,REP,5,0,0,0,0,0,5
+Sumter,SALEM,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,SALEM,U.S. Senate,,Annie Andrews,DEM,48,15,0,0,0,3,30
+Sumter,SALEM,U.S. Senate,,Brandon P Brown,DEM,27,11,0,0,0,0,16
+Sumter,SALEM,U.S. Senate,,Kyle Freeman,DEM,13,5,0,0,0,0,8
+Sumter,SALTERSTOWN,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,SALTERSTOWN,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Sumter,SALTERSTOWN,U.S. Senate,,Lindsey Graham,REP,44,12,0,0,0,0,32
+Sumter,SALTERSTOWN,U.S. Senate,,Pat Herrmann,REP,7,1,0,0,0,0,6
+Sumter,SALTERSTOWN,U.S. Senate,,Mark Lynch,REP,14,0,0,0,0,0,14
+Sumter,SALTERSTOWN,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Sumter,SALTERSTOWN,U.S. Senate,,Annie Andrews,DEM,48,23,0,0,0,3,22
+Sumter,SALTERSTOWN,U.S. Senate,,Brandon P Brown,DEM,42,28,0,0,0,0,14
+Sumter,SALTERSTOWN,U.S. Senate,,Kyle Freeman,DEM,10,5,0,0,0,0,5
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Lindsey Graham,REP,1,0,0,0,0,0,1
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Annie Andrews,DEM,59,30,0,0,0,0,29
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Brandon P Brown,DEM,37,20,0,0,0,2,15
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Kyle Freeman,DEM,12,6,0,0,0,0,6
+Sumter,SECOND MILL,U.S. Senate,,Calvin Cowen,REP,5,2,0,0,0,0,3
+Sumter,SECOND MILL,U.S. Senate,,Thomas Keith Dismukes,REP,7,0,0,0,0,0,7
+Sumter,SECOND MILL,U.S. Senate,,Lindsey Graham,REP,202,36,0,0,0,8,158
+Sumter,SECOND MILL,U.S. Senate,,Pat Herrmann,REP,12,5,0,0,0,0,7
+Sumter,SECOND MILL,U.S. Senate,,Mark Lynch,REP,43,5,0,0,0,0,38
+Sumter,SECOND MILL,U.S. Senate,,Darius L Mitchell,REP,6,2,0,0,0,0,4
+Sumter,SECOND MILL,U.S. Senate,,Annie Andrews,DEM,55,27,0,0,0,1,27
+Sumter,SECOND MILL,U.S. Senate,,Brandon P Brown,DEM,30,16,0,0,0,2,12
+Sumter,SECOND MILL,U.S. Senate,,Kyle Freeman,DEM,7,4,0,0,0,0,3
+Sumter,SHAW,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,SHAW,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,SHAW,U.S. Senate,,Lindsey Graham,REP,2,0,0,0,0,0,2
+Sumter,SHAW,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Sumter,SHAW,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,1,0
+Sumter,SHAW,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,SHAW,U.S. Senate,,Annie Andrews,DEM,6,1,0,0,0,1,4
+Sumter,SHAW,U.S. Senate,,Brandon P Brown,DEM,6,2,0,0,0,1,3
+Sumter,SHAW,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Sumter,SOUTH LIBERTY,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. Senate,,Lindsey Graham,REP,9,5,0,0,0,0,4
+Sumter,SOUTH LIBERTY,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. Senate,,Mark Lynch,REP,3,1,0,0,0,0,2
+Sumter,SOUTH LIBERTY,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. Senate,,Annie Andrews,DEM,49,24,0,0,0,5,20
+Sumter,SOUTH LIBERTY,U.S. Senate,,Brandon P Brown,DEM,35,21,0,0,0,4,10
+Sumter,SOUTH LIBERTY,U.S. Senate,,Kyle Freeman,DEM,15,10,0,0,0,2,3
+Sumter,SOUTH RED BAY,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. Senate,,Lindsey Graham,REP,2,0,0,0,0,0,2
+Sumter,SOUTH RED BAY,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. Senate,,Mark Lynch,REP,3,0,0,0,0,0,3
+Sumter,SOUTH RED BAY,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. Senate,,Annie Andrews,DEM,71,38,0,0,0,2,31
+Sumter,SOUTH RED BAY,U.S. Senate,,Brandon P Brown,DEM,72,46,0,0,0,0,26
+Sumter,SOUTH RED BAY,U.S. Senate,,Kyle Freeman,DEM,16,10,0,0,0,0,6
+Sumter,SPECTRUM,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,SPECTRUM,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Sumter,SPECTRUM,U.S. Senate,,Lindsey Graham,REP,21,5,0,0,0,1,15
+Sumter,SPECTRUM,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,SPECTRUM,U.S. Senate,,Mark Lynch,REP,7,2,0,0,0,1,4
+Sumter,SPECTRUM,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Sumter,SPECTRUM,U.S. Senate,,Annie Andrews,DEM,117,69,0,0,0,11,37
+Sumter,SPECTRUM,U.S. Senate,,Brandon P Brown,DEM,78,48,0,0,0,5,25
+Sumter,SPECTRUM,U.S. Senate,,Kyle Freeman,DEM,20,13,0,0,0,0,7
+Sumter,ST. PAUL,U.S. Senate,,Calvin Cowen,REP,5,2,0,0,0,0,3
+Sumter,ST. PAUL,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Sumter,ST. PAUL,U.S. Senate,,Lindsey Graham,REP,58,23,0,0,0,3,32
+Sumter,ST. PAUL,U.S. Senate,,Pat Herrmann,REP,6,2,0,0,0,0,4
+Sumter,ST. PAUL,U.S. Senate,,Mark Lynch,REP,24,8,0,0,0,0,16
+Sumter,ST. PAUL,U.S. Senate,,Darius L Mitchell,REP,6,5,0,0,0,0,1
+Sumter,ST. PAUL,U.S. Senate,,Annie Andrews,DEM,159,82,0,0,0,8,69
+Sumter,ST. PAUL,U.S. Senate,,Brandon P Brown,DEM,116,65,0,0,0,7,44
+Sumter,ST. PAUL,U.S. Senate,,Kyle Freeman,DEM,23,14,0,0,0,1,8
+Sumter,ST.JOHN,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,ST.JOHN,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Sumter,ST.JOHN,U.S. Senate,,Lindsey Graham,REP,75,4,0,0,0,0,71
+Sumter,ST.JOHN,U.S. Senate,,Pat Herrmann,REP,12,2,0,0,0,0,10
+Sumter,ST.JOHN,U.S. Senate,,Mark Lynch,REP,23,0,0,0,0,0,23
+Sumter,ST.JOHN,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Sumter,ST.JOHN,U.S. Senate,,Annie Andrews,DEM,109,32,0,0,0,3,74
+Sumter,ST.JOHN,U.S. Senate,,Brandon P Brown,DEM,47,15,0,0,0,2,30
+Sumter,ST.JOHN,U.S. Senate,,Kyle Freeman,DEM,9,2,0,0,0,0,7
+Sumter,STONE HILL,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Sumter,STONE HILL,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Annie Andrews,DEM,49,21,0,0,0,11,17
+Sumter,STONE HILL,U.S. Senate,,Brandon P Brown,DEM,45,20,0,0,0,4,21
+Sumter,STONE HILL,U.S. Senate,,Kyle Freeman,DEM,9,5,0,0,0,0,4
+Sumter,SUMTER HIGH 1,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Sumter,SUMTER HIGH 1,U.S. Senate,,Thomas Keith Dismukes,REP,2,1,0,0,0,1,0
+Sumter,SUMTER HIGH 1,U.S. Senate,,Lindsey Graham,REP,33,4,0,0,0,0,29
+Sumter,SUMTER HIGH 1,U.S. Senate,,Pat Herrmann,REP,3,1,0,0,0,0,2
+Sumter,SUMTER HIGH 1,U.S. Senate,,Mark Lynch,REP,4,1,0,0,0,0,3
+Sumter,SUMTER HIGH 1,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 1,U.S. Senate,,Annie Andrews,DEM,41,27,0,0,0,0,14
+Sumter,SUMTER HIGH 1,U.S. Senate,,Brandon P Brown,DEM,34,22,0,0,0,0,12
+Sumter,SUMTER HIGH 1,U.S. Senate,,Kyle Freeman,DEM,8,5,0,0,0,0,3
+Sumter,SUMTER HIGH 2,U.S. Senate,,Calvin Cowen,REP,5,2,0,0,0,0,3
+Sumter,SUMTER HIGH 2,U.S. Senate,,Thomas Keith Dismukes,REP,8,2,0,0,0,0,6
+Sumter,SUMTER HIGH 2,U.S. Senate,,Lindsey Graham,REP,84,30,0,0,0,0,54
+Sumter,SUMTER HIGH 2,U.S. Senate,,Pat Herrmann,REP,6,0,0,0,0,0,6
+Sumter,SUMTER HIGH 2,U.S. Senate,,Mark Lynch,REP,19,2,0,0,0,0,17
+Sumter,SUMTER HIGH 2,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 2,U.S. Senate,,Annie Andrews,DEM,119,65,0,0,0,1,53
+Sumter,SUMTER HIGH 2,U.S. Senate,,Brandon P Brown,DEM,92,62,0,0,0,0,30
+Sumter,SUMTER HIGH 2,U.S. Senate,,Kyle Freeman,DEM,20,13,0,0,0,0,7
+Sumter,SUNSET,U.S. Senate,,Calvin Cowen,REP,6,0,0,0,0,0,6
+Sumter,SUNSET,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Sumter,SUNSET,U.S. Senate,,Lindsey Graham,REP,83,15,0,0,0,5,63
+Sumter,SUNSET,U.S. Senate,,Pat Herrmann,REP,5,2,0,0,0,0,3
+Sumter,SUNSET,U.S. Senate,,Mark Lynch,REP,25,6,0,0,0,0,19
+Sumter,SUNSET,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Sumter,SUNSET,U.S. Senate,,Annie Andrews,DEM,137,83,0,0,0,2,52
+Sumter,SUNSET,U.S. Senate,,Brandon P Brown,DEM,93,59,0,0,0,0,34
+Sumter,SUNSET,U.S. Senate,,Kyle Freeman,DEM,27,19,0,0,0,0,8
+Sumter,SWAN LAKE,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Sumter,SWAN LAKE,U.S. Senate,,Thomas Keith Dismukes,REP,5,1,0,0,0,0,4
+Sumter,SWAN LAKE,U.S. Senate,,Lindsey Graham,REP,96,27,0,0,0,3,66
+Sumter,SWAN LAKE,U.S. Senate,,Pat Herrmann,REP,8,1,0,0,0,0,7
+Sumter,SWAN LAKE,U.S. Senate,,Mark Lynch,REP,30,4,0,0,0,0,26
+Sumter,SWAN LAKE,U.S. Senate,,Darius L Mitchell,REP,5,2,0,0,0,0,3
+Sumter,SWAN LAKE,U.S. Senate,,Annie Andrews,DEM,107,60,0,0,0,0,47
+Sumter,SWAN LAKE,U.S. Senate,,Brandon P Brown,DEM,34,26,0,0,0,0,8
+Sumter,SWAN LAKE,U.S. Senate,,Kyle Freeman,DEM,8,6,0,0,0,0,2
+Sumter,THOMAS SUMTER,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Sumter,THOMAS SUMTER,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Sumter,THOMAS SUMTER,U.S. Senate,,Lindsey Graham,REP,36,11,0,0,0,0,25
+Sumter,THOMAS SUMTER,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Sumter,THOMAS SUMTER,U.S. Senate,,Mark Lynch,REP,12,2,0,0,0,0,10
+Sumter,THOMAS SUMTER,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,THOMAS SUMTER,U.S. Senate,,Annie Andrews,DEM,126,71,0,0,0,19,36
+Sumter,THOMAS SUMTER,U.S. Senate,,Brandon P Brown,DEM,112,57,0,0,0,17,38
+Sumter,THOMAS SUMTER,U.S. Senate,,Kyle Freeman,DEM,25,15,0,0,0,3,7
+Sumter,TURKEY CREEK,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,TURKEY CREEK,U.S. Senate,,Thomas Keith Dismukes,REP,6,4,0,0,0,0,2
+Sumter,TURKEY CREEK,U.S. Senate,,Lindsey Graham,REP,62,9,0,0,0,0,53
+Sumter,TURKEY CREEK,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Sumter,TURKEY CREEK,U.S. Senate,,Mark Lynch,REP,8,2,0,0,0,0,6
+Sumter,TURKEY CREEK,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Sumter,TURKEY CREEK,U.S. Senate,,Annie Andrews,DEM,83,57,0,0,0,2,24
+Sumter,TURKEY CREEK,U.S. Senate,,Brandon P Brown,DEM,53,33,0,0,0,1,19
+Sumter,TURKEY CREEK,U.S. Senate,,Kyle Freeman,DEM,26,17,0,0,0,0,9
+Sumter,WILDER,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. Senate,,Lindsey Graham,REP,9,3,0,0,0,0,6
+Sumter,WILDER,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. Senate,,Annie Andrews,DEM,95,49,0,0,0,3,43
+Sumter,WILDER,U.S. Senate,,Brandon P Brown,DEM,91,55,0,0,0,6,30
+Sumter,WILDER,U.S. Senate,,Kyle Freeman,DEM,19,8,0,0,0,0,11
+Sumter,WILSON HALL,U.S. Senate,,Calvin Cowen,REP,8,3,0,0,0,0,5
+Sumter,WILSON HALL,U.S. Senate,,Thomas Keith Dismukes,REP,9,4,0,0,0,0,5
+Sumter,WILSON HALL,U.S. Senate,,Lindsey Graham,REP,339,82,0,0,0,8,249
+Sumter,WILSON HALL,U.S. Senate,,Pat Herrmann,REP,12,2,0,0,0,0,10
+Sumter,WILSON HALL,U.S. Senate,,Mark Lynch,REP,52,13,0,0,0,0,39
+Sumter,WILSON HALL,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Sumter,WILSON HALL,U.S. Senate,,Annie Andrews,DEM,97,59,0,0,0,1,37
+Sumter,WILSON HALL,U.S. Senate,,Brandon P Brown,DEM,57,35,0,0,0,6,16
+Sumter,WILSON HALL,U.S. Senate,,Kyle Freeman,DEM,19,14,0,0,0,0,5

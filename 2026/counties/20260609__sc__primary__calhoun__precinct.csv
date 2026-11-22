@@ -1,0 +1,643 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Calhoun,Bethel,Advisory Question 1,,Yes,REP,124,23,0,0,0,0,101
+Calhoun,Bethel,Advisory Question 1,,No,REP,24,2,0,0,0,0,22
+Calhoun,Cameron,Advisory Question 1,,Yes,REP,93,12,0,0,0,0,81
+Calhoun,Cameron,Advisory Question 1,,No,REP,19,4,0,0,0,0,15
+Calhoun,Center Hill,Advisory Question 1,,Yes,REP,111,31,0,0,0,0,80
+Calhoun,Center Hill,Advisory Question 1,,No,REP,9,0,0,0,0,0,9
+Calhoun,Creston,Advisory Question 1,,Yes,REP,29,2,0,0,0,0,27
+Calhoun,Creston,Advisory Question 1,,No,REP,5,2,0,0,0,0,3
+Calhoun,Dixie,Advisory Question 1,,Yes,REP,89,38,0,0,0,0,51
+Calhoun,Dixie,Advisory Question 1,,No,REP,24,6,0,0,0,0,18
+Calhoun,Failsafe,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Calhoun,Fall Branch,Advisory Question 1,,Yes,REP,53,6,0,0,0,0,47
+Calhoun,Fall Branch,Advisory Question 1,,No,REP,9,2,0,0,0,0,7
+Calhoun,Fort Motte,Advisory Question 1,,Yes,REP,49,5,0,0,0,0,44
+Calhoun,Fort Motte,Advisory Question 1,,No,REP,4,1,0,0,0,0,3
+Calhoun,Lone Star,Advisory Question 1,,Yes,REP,139,25,0,0,0,3,111
+Calhoun,Lone Star,Advisory Question 1,,No,REP,12,4,0,0,0,0,8
+Calhoun,Midway,Advisory Question 1,,Yes,REP,67,1,0,0,0,0,66
+Calhoun,Midway,Advisory Question 1,,No,REP,20,0,0,0,0,0,20
+Calhoun,Murph Hill,Advisory Question 1,,Yes,REP,38,6,0,0,0,0,32
+Calhoun,Murph Hill,Advisory Question 1,,No,REP,4,0,0,0,0,0,4
+Calhoun,Provisional,Advisory Question 1,,Yes,REP,2,0,0,2,0,0,0
+Calhoun,Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Calhoun,Sandy Run,Advisory Question 1,,Yes,REP,474,125,0,0,0,2,347
+Calhoun,Sandy Run,Advisory Question 1,,No,REP,49,14,0,0,0,0,35
+Calhoun,St. Matthews,Advisory Question 1,,Yes,REP,240,57,0,0,0,1,182
+Calhoun,St. Matthews,Advisory Question 1,,No,REP,24,9,0,0,0,0,15
+Calhoun,Bethel,Advisory Question 2,,Yes,REP,112,21,0,0,0,0,91
+Calhoun,Bethel,Advisory Question 2,,No,REP,36,4,0,0,0,0,32
+Calhoun,Cameron,Advisory Question 2,,Yes,REP,76,11,0,0,0,0,65
+Calhoun,Cameron,Advisory Question 2,,No,REP,35,5,0,0,0,0,30
+Calhoun,Center Hill,Advisory Question 2,,Yes,REP,93,25,0,0,0,0,68
+Calhoun,Center Hill,Advisory Question 2,,No,REP,26,6,0,0,0,0,20
+Calhoun,Creston,Advisory Question 2,,Yes,REP,25,2,0,0,0,0,23
+Calhoun,Creston,Advisory Question 2,,No,REP,9,2,0,0,0,0,7
+Calhoun,Dixie,Advisory Question 2,,Yes,REP,84,34,0,0,0,0,50
+Calhoun,Dixie,Advisory Question 2,,No,REP,29,10,0,0,0,0,19
+Calhoun,Failsafe,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Calhoun,Fall Branch,Advisory Question 2,,Yes,REP,47,6,0,0,0,0,41
+Calhoun,Fall Branch,Advisory Question 2,,No,REP,14,1,0,0,0,0,13
+Calhoun,Fort Motte,Advisory Question 2,,Yes,REP,38,3,0,0,0,0,35
+Calhoun,Fort Motte,Advisory Question 2,,No,REP,15,3,0,0,0,0,12
+Calhoun,Lone Star,Advisory Question 2,,Yes,REP,122,23,0,0,0,2,97
+Calhoun,Lone Star,Advisory Question 2,,No,REP,27,5,0,0,0,1,21
+Calhoun,Midway,Advisory Question 2,,Yes,REP,67,0,0,0,0,0,67
+Calhoun,Midway,Advisory Question 2,,No,REP,20,1,0,0,0,0,19
+Calhoun,Murph Hill,Advisory Question 2,,Yes,REP,32,5,0,0,0,0,27
+Calhoun,Murph Hill,Advisory Question 2,,No,REP,10,1,0,0,0,0,9
+Calhoun,Provisional,Advisory Question 2,,Yes,REP,2,0,0,2,0,0,0
+Calhoun,Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Calhoun,Sandy Run,Advisory Question 2,,Yes,REP,419,110,0,0,0,2,307
+Calhoun,Sandy Run,Advisory Question 2,,No,REP,101,28,0,0,0,0,73
+Calhoun,St. Matthews,Advisory Question 2,,Yes,REP,211,53,0,0,0,1,157
+Calhoun,St. Matthews,Advisory Question 2,,No,REP,52,12,0,0,0,0,40
+Calhoun,Bethel,Attorney General,,Stephen Goldfinch,REP,54,9,0,0,0,0,45
+Calhoun,Bethel,Attorney General,,David M Pascoe,REP,64,10,0,0,0,0,54
+Calhoun,Bethel,Attorney General,,David Stumbo,REP,21,6,0,0,0,0,15
+Calhoun,Cameron,Attorney General,,Stephen Goldfinch,REP,32,5,0,0,0,0,27
+Calhoun,Cameron,Attorney General,,David M Pascoe,REP,48,7,0,0,0,0,41
+Calhoun,Cameron,Attorney General,,David Stumbo,REP,32,4,0,0,0,0,28
+Calhoun,Center Hill,Attorney General,,Stephen Goldfinch,REP,45,12,0,0,0,0,33
+Calhoun,Center Hill,Attorney General,,David M Pascoe,REP,55,14,0,0,0,0,41
+Calhoun,Center Hill,Attorney General,,David Stumbo,REP,19,5,0,0,0,0,14
+Calhoun,Creston,Attorney General,,Stephen Goldfinch,REP,12,0,0,0,0,0,12
+Calhoun,Creston,Attorney General,,David M Pascoe,REP,13,4,0,0,0,0,9
+Calhoun,Creston,Attorney General,,David Stumbo,REP,9,0,0,0,0,0,9
+Calhoun,Dixie,Attorney General,,Stephen Goldfinch,REP,41,25,0,0,0,0,16
+Calhoun,Dixie,Attorney General,,David M Pascoe,REP,43,11,0,0,0,0,32
+Calhoun,Dixie,Attorney General,,David Stumbo,REP,29,8,0,0,0,0,21
+Calhoun,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Calhoun,Fall Branch,Attorney General,,Stephen Goldfinch,REP,18,2,0,0,0,0,16
+Calhoun,Fall Branch,Attorney General,,David M Pascoe,REP,24,2,0,0,0,0,22
+Calhoun,Fall Branch,Attorney General,,David Stumbo,REP,19,3,0,0,0,0,16
+Calhoun,Fort Motte,Attorney General,,Stephen Goldfinch,REP,15,1,0,0,0,0,14
+Calhoun,Fort Motte,Attorney General,,David M Pascoe,REP,24,3,0,0,0,0,21
+Calhoun,Fort Motte,Attorney General,,David Stumbo,REP,12,1,0,0,0,0,11
+Calhoun,Lone Star,Attorney General,,Stephen Goldfinch,REP,40,6,0,0,0,0,34
+Calhoun,Lone Star,Attorney General,,David M Pascoe,REP,62,12,0,0,0,3,47
+Calhoun,Lone Star,Attorney General,,David Stumbo,REP,46,11,0,0,0,0,35
+Calhoun,Midway,Attorney General,,Stephen Goldfinch,REP,35,1,0,0,0,0,34
+Calhoun,Midway,Attorney General,,David M Pascoe,REP,28,0,0,0,0,0,28
+Calhoun,Midway,Attorney General,,David Stumbo,REP,23,0,0,0,0,0,23
+Calhoun,Murph Hill,Attorney General,,Stephen Goldfinch,REP,12,2,0,0,0,0,10
+Calhoun,Murph Hill,Attorney General,,David M Pascoe,REP,21,1,0,0,0,0,20
+Calhoun,Murph Hill,Attorney General,,David Stumbo,REP,8,3,0,0,0,0,5
+Calhoun,Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,Attorney General,,David M Pascoe,REP,1,0,0,1,0,0,0
+Calhoun,Provisional,Attorney General,,David Stumbo,REP,1,0,0,1,0,0,0
+Calhoun,Sandy Run,Attorney General,,Stephen Goldfinch,REP,182,49,0,0,0,0,133
+Calhoun,Sandy Run,Attorney General,,David M Pascoe,REP,189,46,0,0,0,2,141
+Calhoun,Sandy Run,Attorney General,,David Stumbo,REP,117,39,0,0,0,0,78
+Calhoun,St. Matthews,Attorney General,,Stephen Goldfinch,REP,90,23,0,0,0,0,67
+Calhoun,St. Matthews,Attorney General,,David M Pascoe,REP,117,25,0,0,0,1,91
+Calhoun,St. Matthews,Attorney General,,David Stumbo,REP,54,17,0,0,0,0,37
+Calhoun,Bethel,Commissioner of Agriculture,,Jeremy B Cannon,REP,19,3,0,0,0,0,16
+Calhoun,Bethel,Commissioner of Agriculture,,Danny Ford,REP,60,6,0,0,0,0,54
+Calhoun,Bethel,Commissioner of Agriculture,,Cody Simpson,REP,44,13,0,0,0,0,31
+Calhoun,Bethel,Commissioner of Agriculture,,Fred West,REP,18,4,0,0,0,0,14
+Calhoun,Cameron,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,3,0,0,0,0,8
+Calhoun,Cameron,Commissioner of Agriculture,,Danny Ford,REP,26,3,0,0,0,0,23
+Calhoun,Cameron,Commissioner of Agriculture,,Cody Simpson,REP,53,10,0,0,0,0,43
+Calhoun,Cameron,Commissioner of Agriculture,,Fred West,REP,23,0,0,0,0,0,23
+Calhoun,Center Hill,Commissioner of Agriculture,,Jeremy B Cannon,REP,21,4,0,0,0,0,17
+Calhoun,Center Hill,Commissioner of Agriculture,,Danny Ford,REP,46,10,0,0,0,0,36
+Calhoun,Center Hill,Commissioner of Agriculture,,Cody Simpson,REP,30,6,0,0,0,0,24
+Calhoun,Center Hill,Commissioner of Agriculture,,Fred West,REP,20,9,0,0,0,0,11
+Calhoun,Creston,Commissioner of Agriculture,,Jeremy B Cannon,REP,4,0,0,0,0,0,4
+Calhoun,Creston,Commissioner of Agriculture,,Danny Ford,REP,8,2,0,0,0,0,6
+Calhoun,Creston,Commissioner of Agriculture,,Cody Simpson,REP,16,0,0,0,0,0,16
+Calhoun,Creston,Commissioner of Agriculture,,Fred West,REP,5,2,0,0,0,0,3
+Calhoun,Dixie,Commissioner of Agriculture,,Jeremy B Cannon,REP,10,5,0,0,0,0,5
+Calhoun,Dixie,Commissioner of Agriculture,,Danny Ford,REP,38,13,0,0,0,0,25
+Calhoun,Dixie,Commissioner of Agriculture,,Cody Simpson,REP,38,14,0,0,0,0,24
+Calhoun,Dixie,Commissioner of Agriculture,,Fred West,REP,25,12,0,0,0,0,13
+Calhoun,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Calhoun,Fall Branch,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,0,0,0,0,0,13
+Calhoun,Fall Branch,Commissioner of Agriculture,,Danny Ford,REP,21,3,0,0,0,0,18
+Calhoun,Fall Branch,Commissioner of Agriculture,,Cody Simpson,REP,19,3,0,0,0,0,16
+Calhoun,Fall Branch,Commissioner of Agriculture,,Fred West,REP,8,1,0,0,0,0,7
+Calhoun,Fort Motte,Commissioner of Agriculture,,Jeremy B Cannon,REP,4,0,0,0,0,0,4
+Calhoun,Fort Motte,Commissioner of Agriculture,,Danny Ford,REP,15,2,0,0,0,0,13
+Calhoun,Fort Motte,Commissioner of Agriculture,,Cody Simpson,REP,24,1,0,0,0,0,23
+Calhoun,Fort Motte,Commissioner of Agriculture,,Fred West,REP,8,3,0,0,0,0,5
+Calhoun,Lone Star,Commissioner of Agriculture,,Jeremy B Cannon,REP,15,3,0,0,0,0,12
+Calhoun,Lone Star,Commissioner of Agriculture,,Danny Ford,REP,44,8,0,0,0,2,34
+Calhoun,Lone Star,Commissioner of Agriculture,,Cody Simpson,REP,72,14,0,0,0,1,57
+Calhoun,Lone Star,Commissioner of Agriculture,,Fred West,REP,19,4,0,0,0,0,15
+Calhoun,Midway,Commissioner of Agriculture,,Jeremy B Cannon,REP,17,0,0,0,0,0,17
+Calhoun,Midway,Commissioner of Agriculture,,Danny Ford,REP,14,1,0,0,0,0,13
+Calhoun,Midway,Commissioner of Agriculture,,Cody Simpson,REP,44,0,0,0,0,0,44
+Calhoun,Midway,Commissioner of Agriculture,,Fred West,REP,9,0,0,0,0,0,9
+Calhoun,Murph Hill,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,1,0,0,0,0,8
+Calhoun,Murph Hill,Commissioner of Agriculture,,Danny Ford,REP,18,2,0,0,0,0,16
+Calhoun,Murph Hill,Commissioner of Agriculture,,Cody Simpson,REP,14,3,0,0,0,0,11
+Calhoun,Murph Hill,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,1,0,0,0
+Calhoun,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Calhoun,Sandy Run,Commissioner of Agriculture,,Jeremy B Cannon,REP,68,21,0,0,0,0,47
+Calhoun,Sandy Run,Commissioner of Agriculture,,Danny Ford,REP,187,55,0,0,0,0,132
+Calhoun,Sandy Run,Commissioner of Agriculture,,Cody Simpson,REP,178,47,0,0,0,1,130
+Calhoun,Sandy Run,Commissioner of Agriculture,,Fred West,REP,49,10,0,0,0,1,38
+Calhoun,St. Matthews,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,5,0,0,0,0,8
+Calhoun,St. Matthews,Commissioner of Agriculture,,Danny Ford,REP,98,23,0,0,0,1,74
+Calhoun,St. Matthews,Commissioner of Agriculture,,Cody Simpson,REP,86,9,0,0,0,0,77
+Calhoun,St. Matthews,Commissioner of Agriculture,,Fred West,REP,59,24,0,0,0,0,35
+Calhoun,Bethel,Comptroller General,,Tiffany Boozer,DEM,53,30,0,0,0,1,22
+Calhoun,Bethel,Comptroller General,,Bruce K Cole,DEM,22,12,0,0,0,4,6
+Calhoun,Cameron,Comptroller General,,Tiffany Boozer,DEM,76,45,0,0,0,1,30
+Calhoun,Cameron,Comptroller General,,Bruce K Cole,DEM,21,12,0,0,0,0,9
+Calhoun,Center Hill,Comptroller General,,Tiffany Boozer,DEM,132,79,0,0,0,0,53
+Calhoun,Center Hill,Comptroller General,,Bruce K Cole,DEM,43,20,0,0,0,0,23
+Calhoun,Creston,Comptroller General,,Tiffany Boozer,DEM,14,3,0,0,0,0,11
+Calhoun,Creston,Comptroller General,,Bruce K Cole,DEM,2,1,0,0,0,0,1
+Calhoun,Dixie,Comptroller General,,Tiffany Boozer,DEM,361,272,0,0,0,7,82
+Calhoun,Dixie,Comptroller General,,Bruce K Cole,DEM,122,88,0,0,0,2,32
+Calhoun,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Calhoun,Fall Branch,Comptroller General,,Tiffany Boozer,DEM,48,30,0,0,0,0,18
+Calhoun,Fall Branch,Comptroller General,,Bruce K Cole,DEM,16,9,0,0,0,0,7
+Calhoun,Fort Motte,Comptroller General,,Tiffany Boozer,DEM,18,12,0,0,0,0,6
+Calhoun,Fort Motte,Comptroller General,,Bruce K Cole,DEM,18,9,0,0,0,1,8
+Calhoun,Lone Star,Comptroller General,,Tiffany Boozer,DEM,113,57,0,0,0,3,53
+Calhoun,Lone Star,Comptroller General,,Bruce K Cole,DEM,32,20,0,0,0,0,12
+Calhoun,Midway,Comptroller General,,Tiffany Boozer,DEM,14,12,0,0,0,0,2
+Calhoun,Midway,Comptroller General,,Bruce K Cole,DEM,5,1,0,0,0,0,4
+Calhoun,Murph Hill,Comptroller General,,Tiffany Boozer,DEM,59,34,0,0,0,0,25
+Calhoun,Murph Hill,Comptroller General,,Bruce K Cole,DEM,27,16,0,0,0,0,11
+Calhoun,Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Calhoun,Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Calhoun,Sandy Run,Comptroller General,,Tiffany Boozer,DEM,96,63,0,0,0,2,31
+Calhoun,Sandy Run,Comptroller General,,Bruce K Cole,DEM,28,14,0,0,0,0,14
+Calhoun,St. Matthews,Comptroller General,,Tiffany Boozer,DEM,146,99,0,0,0,3,44
+Calhoun,St. Matthews,Comptroller General,,Bruce K Cole,DEM,57,37,0,0,0,0,20
+Calhoun,Bethel,County Council District 3,,Rebecca Bonnette,REP,21,6,0,0,0,0,15
+Calhoun,Bethel,County Council District 3,,Christian Wolfe,REP,28,4,0,0,0,0,24
+Calhoun,Center Hill,County Council District 3,,Rebecca Bonnette,REP,20,13,0,0,0,0,7
+Calhoun,Center Hill,County Council District 3,,Christian Wolfe,REP,9,0,0,0,0,0,9
+Calhoun,Failsafe,County Council District 3,,Rebecca Bonnette,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,County Council District 3,,Christian Wolfe,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,County Council District 3,,Rebecca Bonnette,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,County Council District 3,,Christian Wolfe,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,County Council District 3,,Rebecca Bonnette,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,County Council District 3,,Christian Wolfe,REP,0,0,0,0,0,0,0
+Calhoun,Sandy Run,County Council District 3,,Rebecca Bonnette,REP,171,47,0,0,0,0,124
+Calhoun,Sandy Run,County Council District 3,,Christian Wolfe,REP,364,101,0,0,0,2,261
+Calhoun,Bethel,Governor,,Jacqueline Hicks DuBose,REP,3,0,0,0,0,0,3
+Calhoun,Bethel,Governor,,Pamela Evette,REP,52,8,0,0,0,0,44
+Calhoun,Bethel,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Calhoun,Bethel,Governor,,Nancy Mace,REP,10,0,0,0,0,0,10
+Calhoun,Bethel,Governor,,Ralph W Norman,REP,20,9,0,0,0,0,11
+Calhoun,Bethel,Governor,,Rom Reddy,REP,13,0,0,0,0,0,13
+Calhoun,Bethel,Governor,,Alan Wilson,REP,49,9,0,0,0,0,40
+Calhoun,Bethel,Governor,,Jermaine Johnson,DEM,43,25,0,0,0,2,16
+Calhoun,Bethel,Governor,,Mullins McLeod,DEM,6,3,0,0,0,1,2
+Calhoun,Bethel,Governor,,Billy Webster,DEM,32,18,0,0,0,3,11
+Calhoun,Cameron,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Calhoun,Cameron,Governor,,Pamela Evette,REP,35,3,0,0,0,0,32
+Calhoun,Cameron,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Calhoun,Cameron,Governor,,Nancy Mace,REP,8,1,0,0,0,0,7
+Calhoun,Cameron,Governor,,Ralph W Norman,REP,9,0,0,0,0,0,9
+Calhoun,Cameron,Governor,,Rom Reddy,REP,10,5,0,0,0,0,5
+Calhoun,Cameron,Governor,,Alan Wilson,REP,50,7,0,0,0,0,43
+Calhoun,Cameron,Governor,,Jermaine Johnson,DEM,51,34,0,0,0,0,17
+Calhoun,Cameron,Governor,,Mullins McLeod,DEM,8,4,0,0,0,0,4
+Calhoun,Cameron,Governor,,Billy Webster,DEM,44,21,0,0,0,1,22
+Calhoun,Center Hill,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Calhoun,Center Hill,Governor,,Pamela Evette,REP,47,10,0,0,0,0,37
+Calhoun,Center Hill,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Calhoun,Center Hill,Governor,,Nancy Mace,REP,8,3,0,0,0,0,5
+Calhoun,Center Hill,Governor,,Ralph W Norman,REP,13,2,0,0,0,0,11
+Calhoun,Center Hill,Governor,,Rom Reddy,REP,16,5,0,0,0,0,11
+Calhoun,Center Hill,Governor,,Alan Wilson,REP,35,11,0,0,0,0,24
+Calhoun,Center Hill,Governor,,Jermaine Johnson,DEM,110,57,0,0,0,0,53
+Calhoun,Center Hill,Governor,,Mullins McLeod,DEM,15,12,0,0,0,0,3
+Calhoun,Center Hill,Governor,,Billy Webster,DEM,54,33,0,0,0,0,21
+Calhoun,Creston,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Calhoun,Creston,Governor,,Pamela Evette,REP,9,2,0,0,0,0,7
+Calhoun,Creston,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Calhoun,Creston,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Calhoun,Creston,Governor,,Ralph W Norman,REP,1,0,0,0,0,0,1
+Calhoun,Creston,Governor,,Rom Reddy,REP,5,2,0,0,0,0,3
+Calhoun,Creston,Governor,,Alan Wilson,REP,18,0,0,0,0,0,18
+Calhoun,Creston,Governor,,Jermaine Johnson,DEM,9,1,0,0,0,0,8
+Calhoun,Creston,Governor,,Mullins McLeod,DEM,2,0,0,0,0,0,2
+Calhoun,Creston,Governor,,Billy Webster,DEM,6,3,0,0,0,0,3
+Calhoun,Dixie,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Calhoun,Dixie,Governor,,Pamela Evette,REP,41,21,0,0,0,0,20
+Calhoun,Dixie,Governor,,Joshua Kimbrell,REP,3,3,0,0,0,0,0
+Calhoun,Dixie,Governor,,Nancy Mace,REP,7,1,0,0,0,0,6
+Calhoun,Dixie,Governor,,Ralph W Norman,REP,8,4,0,0,0,0,4
+Calhoun,Dixie,Governor,,Rom Reddy,REP,13,5,0,0,0,0,8
+Calhoun,Dixie,Governor,,Alan Wilson,REP,42,11,0,0,0,0,31
+Calhoun,Dixie,Governor,,Jermaine Johnson,DEM,291,212,0,0,0,7,72
+Calhoun,Dixie,Governor,,Mullins McLeod,DEM,26,17,0,0,0,0,9
+Calhoun,Dixie,Governor,,Billy Webster,DEM,186,148,0,0,0,3,35
+Calhoun,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Calhoun,Fall Branch,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Calhoun,Fall Branch,Governor,,Pamela Evette,REP,24,2,0,0,0,0,22
+Calhoun,Fall Branch,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Calhoun,Fall Branch,Governor,,Nancy Mace,REP,4,0,0,0,0,0,4
+Calhoun,Fall Branch,Governor,,Ralph W Norman,REP,13,2,0,0,0,0,11
+Calhoun,Fall Branch,Governor,,Rom Reddy,REP,7,2,0,0,0,0,5
+Calhoun,Fall Branch,Governor,,Alan Wilson,REP,13,2,0,0,0,0,11
+Calhoun,Fall Branch,Governor,,Jermaine Johnson,DEM,38,22,0,0,0,0,16
+Calhoun,Fall Branch,Governor,,Mullins McLeod,DEM,5,1,0,0,0,0,4
+Calhoun,Fall Branch,Governor,,Billy Webster,DEM,24,18,0,0,0,0,6
+Calhoun,Fort Motte,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Calhoun,Fort Motte,Governor,,Pamela Evette,REP,21,0,0,0,0,0,21
+Calhoun,Fort Motte,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Calhoun,Fort Motte,Governor,,Nancy Mace,REP,3,0,0,0,0,0,3
+Calhoun,Fort Motte,Governor,,Ralph W Norman,REP,4,2,0,0,0,0,2
+Calhoun,Fort Motte,Governor,,Rom Reddy,REP,16,4,0,0,0,0,12
+Calhoun,Fort Motte,Governor,,Alan Wilson,REP,9,0,0,0,0,0,9
+Calhoun,Fort Motte,Governor,,Jermaine Johnson,DEM,17,9,0,0,0,0,8
+Calhoun,Fort Motte,Governor,,Mullins McLeod,DEM,3,2,0,0,0,0,1
+Calhoun,Fort Motte,Governor,,Billy Webster,DEM,17,11,0,0,0,1,5
+Calhoun,Lone Star,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Calhoun,Lone Star,Governor,,Pamela Evette,REP,45,8,0,0,0,0,37
+Calhoun,Lone Star,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Calhoun,Lone Star,Governor,,Nancy Mace,REP,14,1,0,0,0,0,13
+Calhoun,Lone Star,Governor,,Ralph W Norman,REP,21,6,0,0,0,0,15
+Calhoun,Lone Star,Governor,,Rom Reddy,REP,24,8,0,0,0,1,15
+Calhoun,Lone Star,Governor,,Alan Wilson,REP,46,6,0,0,0,2,38
+Calhoun,Lone Star,Governor,,Jermaine Johnson,DEM,77,42,0,0,0,2,33
+Calhoun,Lone Star,Governor,,Mullins McLeod,DEM,6,3,0,0,0,0,3
+Calhoun,Lone Star,Governor,,Billy Webster,DEM,68,35,0,0,0,1,32
+Calhoun,Midway,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Calhoun,Midway,Governor,,Pamela Evette,REP,31,0,0,0,0,0,31
+Calhoun,Midway,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Calhoun,Midway,Governor,,Nancy Mace,REP,5,0,0,0,0,0,5
+Calhoun,Midway,Governor,,Ralph W Norman,REP,13,0,0,0,0,0,13
+Calhoun,Midway,Governor,,Rom Reddy,REP,12,0,0,0,0,0,12
+Calhoun,Midway,Governor,,Alan Wilson,REP,26,1,0,0,0,0,25
+Calhoun,Midway,Governor,,Jermaine Johnson,DEM,10,8,0,0,0,0,2
+Calhoun,Midway,Governor,,Mullins McLeod,DEM,1,1,0,0,0,0,0
+Calhoun,Midway,Governor,,Billy Webster,DEM,9,5,0,0,0,0,4
+Calhoun,Murph Hill,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Calhoun,Murph Hill,Governor,,Pamela Evette,REP,11,2,0,0,0,0,9
+Calhoun,Murph Hill,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Calhoun,Murph Hill,Governor,,Nancy Mace,REP,7,1,0,0,0,0,6
+Calhoun,Murph Hill,Governor,,Ralph W Norman,REP,4,0,0,0,0,0,4
+Calhoun,Murph Hill,Governor,,Rom Reddy,REP,10,0,0,0,0,0,10
+Calhoun,Murph Hill,Governor,,Alan Wilson,REP,10,3,0,0,0,0,7
+Calhoun,Murph Hill,Governor,,Jermaine Johnson,DEM,45,31,0,0,0,0,14
+Calhoun,Murph Hill,Governor,,Mullins McLeod,DEM,3,1,0,0,0,0,2
+Calhoun,Murph Hill,Governor,,Billy Webster,DEM,40,20,0,0,0,0,20
+Calhoun,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,Governor,,Ralph W Norman,REP,1,0,0,1,0,0,0
+Calhoun,Provisional,Governor,,Rom Reddy,REP,1,0,0,1,0,0,0
+Calhoun,Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Calhoun,Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Calhoun,Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Calhoun,Sandy Run,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Calhoun,Sandy Run,Governor,,Pamela Evette,REP,164,44,0,0,0,1,119
+Calhoun,Sandy Run,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Calhoun,Sandy Run,Governor,,Nancy Mace,REP,33,11,0,0,0,0,22
+Calhoun,Sandy Run,Governor,,Ralph W Norman,REP,62,16,0,0,0,0,46
+Calhoun,Sandy Run,Governor,,Rom Reddy,REP,60,23,0,0,0,1,36
+Calhoun,Sandy Run,Governor,,Alan Wilson,REP,200,45,0,0,0,0,155
+Calhoun,Sandy Run,Governor,,Jermaine Johnson,DEM,68,39,0,0,0,2,27
+Calhoun,Sandy Run,Governor,,Mullins McLeod,DEM,11,8,0,0,0,0,3
+Calhoun,Sandy Run,Governor,,Billy Webster,DEM,54,35,0,0,0,0,19
+Calhoun,St. Matthews,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Calhoun,St. Matthews,Governor,,Pamela Evette,REP,84,17,0,0,0,0,67
+Calhoun,St. Matthews,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Calhoun,St. Matthews,Governor,,Nancy Mace,REP,26,3,0,0,0,0,23
+Calhoun,St. Matthews,Governor,,Ralph W Norman,REP,40,11,0,0,0,1,28
+Calhoun,St. Matthews,Governor,,Rom Reddy,REP,32,13,0,0,0,0,19
+Calhoun,St. Matthews,Governor,,Alan Wilson,REP,83,23,0,0,0,0,60
+Calhoun,St. Matthews,Governor,,Jermaine Johnson,DEM,116,83,0,0,0,0,33
+Calhoun,St. Matthews,Governor,,Mullins McLeod,DEM,17,11,0,0,0,0,6
+Calhoun,St. Matthews,Governor,,Billy Webster,DEM,83,50,0,0,0,3,30
+Calhoun,Bethel,Secretary of State,,Jason Belton,DEM,59,33,0,0,0,6,20
+Calhoun,Bethel,Secretary of State,,Edwina Winter,DEM,20,11,0,0,0,0,9
+Calhoun,Cameron,Secretary of State,,Jason Belton,DEM,56,27,0,0,0,0,29
+Calhoun,Cameron,Secretary of State,,Edwina Winter,DEM,41,27,0,0,0,1,13
+Calhoun,Center Hill,Secretary of State,,Jason Belton,DEM,101,52,0,0,0,0,49
+Calhoun,Center Hill,Secretary of State,,Edwina Winter,DEM,73,46,0,0,0,0,27
+Calhoun,Creston,Secretary of State,,Jason Belton,DEM,11,3,0,0,0,0,8
+Calhoun,Creston,Secretary of State,,Edwina Winter,DEM,5,1,0,0,0,0,4
+Calhoun,Dixie,Secretary of State,,Jason Belton,DEM,319,239,0,0,0,9,71
+Calhoun,Dixie,Secretary of State,,Edwina Winter,DEM,165,121,0,0,0,0,44
+Calhoun,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Calhoun,Fall Branch,Secretary of State,,Jason Belton,DEM,46,30,0,0,0,0,16
+Calhoun,Fall Branch,Secretary of State,,Edwina Winter,DEM,20,10,0,0,0,0,10
+Calhoun,Fort Motte,Secretary of State,,Jason Belton,DEM,19,12,0,0,0,1,6
+Calhoun,Fort Motte,Secretary of State,,Edwina Winter,DEM,16,9,0,0,0,0,7
+Calhoun,Lone Star,Secretary of State,,Jason Belton,DEM,96,53,0,0,0,1,42
+Calhoun,Lone Star,Secretary of State,,Edwina Winter,DEM,49,23,0,0,0,2,24
+Calhoun,Midway,Secretary of State,,Jason Belton,DEM,12,8,0,0,0,0,4
+Calhoun,Midway,Secretary of State,,Edwina Winter,DEM,8,6,0,0,0,0,2
+Calhoun,Murph Hill,Secretary of State,,Jason Belton,DEM,59,36,0,0,0,0,23
+Calhoun,Murph Hill,Secretary of State,,Edwina Winter,DEM,26,14,0,0,0,0,12
+Calhoun,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Calhoun,Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Calhoun,Sandy Run,Secretary of State,,Jason Belton,DEM,60,43,0,0,0,2,15
+Calhoun,Sandy Run,Secretary of State,,Edwina Winter,DEM,64,34,0,0,0,0,30
+Calhoun,St. Matthews,Secretary of State,,Jason Belton,DEM,129,88,0,0,0,0,41
+Calhoun,St. Matthews,Secretary of State,,Edwina Winter,DEM,74,48,0,0,0,3,23
+Calhoun,Bethel,State Superintendent of Education,,Lisa Ellis,DEM,23,13,0,0,0,0,10
+Calhoun,Bethel,State Superintendent of Education,,Sylvia Wright,DEM,54,30,0,0,0,5,19
+Calhoun,Cameron,State Superintendent of Education,,Lisa Ellis,DEM,33,16,0,0,0,0,17
+Calhoun,Cameron,State Superintendent of Education,,Sylvia Wright,DEM,67,40,0,0,0,1,26
+Calhoun,Center Hill,State Superintendent of Education,,Lisa Ellis,DEM,46,22,0,0,0,0,24
+Calhoun,Center Hill,State Superintendent of Education,,Sylvia Wright,DEM,128,77,0,0,0,0,51
+Calhoun,Creston,State Superintendent of Education,,Lisa Ellis,DEM,5,0,0,0,0,0,5
+Calhoun,Creston,State Superintendent of Education,,Sylvia Wright,DEM,11,4,0,0,0,0,7
+Calhoun,Dixie,State Superintendent of Education,,Lisa Ellis,DEM,151,116,0,0,0,0,35
+Calhoun,Dixie,State Superintendent of Education,,Sylvia Wright,DEM,333,245,0,0,0,9,79
+Calhoun,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Calhoun,Fall Branch,State Superintendent of Education,,Lisa Ellis,DEM,20,12,0,0,0,0,8
+Calhoun,Fall Branch,State Superintendent of Education,,Sylvia Wright,DEM,47,29,0,0,0,0,18
+Calhoun,Fort Motte,State Superintendent of Education,,Lisa Ellis,DEM,14,8,0,0,0,0,6
+Calhoun,Fort Motte,State Superintendent of Education,,Sylvia Wright,DEM,21,13,0,0,0,1,7
+Calhoun,Lone Star,State Superintendent of Education,,Lisa Ellis,DEM,60,29,0,0,0,1,30
+Calhoun,Lone Star,State Superintendent of Education,,Sylvia Wright,DEM,86,48,0,0,0,2,36
+Calhoun,Midway,State Superintendent of Education,,Lisa Ellis,DEM,4,3,0,0,0,0,1
+Calhoun,Midway,State Superintendent of Education,,Sylvia Wright,DEM,16,11,0,0,0,0,5
+Calhoun,Murph Hill,State Superintendent of Education,,Lisa Ellis,DEM,22,15,0,0,0,0,7
+Calhoun,Murph Hill,State Superintendent of Education,,Sylvia Wright,DEM,64,35,0,0,0,0,29
+Calhoun,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Calhoun,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Calhoun,Sandy Run,State Superintendent of Education,,Lisa Ellis,DEM,47,30,0,0,0,0,17
+Calhoun,Sandy Run,State Superintendent of Education,,Sylvia Wright,DEM,77,48,0,0,0,2,27
+Calhoun,St. Matthews,State Superintendent of Education,,Lisa Ellis,DEM,77,52,0,0,0,2,23
+Calhoun,St. Matthews,State Superintendent of Education,,Sylvia Wright,DEM,130,89,0,0,0,1,40
+Calhoun,Bethel,State Treasurer,,Vincent Coe,DEM,38,18,0,0,0,5,15
+Calhoun,Bethel,State Treasurer,,Trav Robertson Jr,DEM,41,26,0,0,0,1,14
+Calhoun,Cameron,State Treasurer,,Vincent Coe,DEM,46,29,0,0,0,0,17
+Calhoun,Cameron,State Treasurer,,Trav Robertson Jr,DEM,50,27,0,0,0,1,22
+Calhoun,Center Hill,State Treasurer,,Vincent Coe,DEM,82,46,0,0,0,0,36
+Calhoun,Center Hill,State Treasurer,,Trav Robertson Jr,DEM,92,55,0,0,0,0,37
+Calhoun,Creston,State Treasurer,,Vincent Coe,DEM,9,0,0,0,0,0,9
+Calhoun,Creston,State Treasurer,,Trav Robertson Jr,DEM,7,4,0,0,0,0,3
+Calhoun,Dixie,State Treasurer,,Vincent Coe,DEM,211,160,0,0,0,8,43
+Calhoun,Dixie,State Treasurer,,Trav Robertson Jr,DEM,275,205,0,0,0,1,69
+Calhoun,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Calhoun,Fall Branch,State Treasurer,,Vincent Coe,DEM,42,25,0,0,0,0,17
+Calhoun,Fall Branch,State Treasurer,,Trav Robertson Jr,DEM,24,16,0,0,0,0,8
+Calhoun,Fort Motte,State Treasurer,,Vincent Coe,DEM,19,13,0,0,0,1,5
+Calhoun,Fort Motte,State Treasurer,,Trav Robertson Jr,DEM,16,8,0,0,0,0,8
+Calhoun,Lone Star,State Treasurer,,Vincent Coe,DEM,79,43,0,0,0,1,35
+Calhoun,Lone Star,State Treasurer,,Trav Robertson Jr,DEM,63,32,0,0,0,2,29
+Calhoun,Midway,State Treasurer,,Vincent Coe,DEM,11,9,0,0,0,0,2
+Calhoun,Midway,State Treasurer,,Trav Robertson Jr,DEM,9,5,0,0,0,0,4
+Calhoun,Murph Hill,State Treasurer,,Vincent Coe,DEM,41,25,0,0,0,0,16
+Calhoun,Murph Hill,State Treasurer,,Trav Robertson Jr,DEM,45,25,0,0,0,0,20
+Calhoun,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Calhoun,Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Calhoun,Sandy Run,State Treasurer,,Vincent Coe,DEM,64,37,0,0,0,2,25
+Calhoun,Sandy Run,State Treasurer,,Trav Robertson Jr,DEM,58,39,0,0,0,0,19
+Calhoun,St. Matthews,State Treasurer,,Vincent Coe,DEM,98,61,0,0,0,2,35
+Calhoun,St. Matthews,State Treasurer,,Trav Robertson Jr,DEM,103,74,0,0,0,1,28
+Calhoun,Bethel,U.S. House,6,John Peterson,REP,104,21,0,0,0,0,83
+Calhoun,Bethel,U.S. House,6,Maurice Washington,REP,30,5,0,0,0,0,25
+Calhoun,Bethel,U.S. House,6,James E Jim Clyburn,DEM,71,42,0,0,0,3,26
+Calhoun,Bethel,U.S. House,6,Frederick R Goodwin,DEM,10,4,0,0,0,3,3
+Calhoun,Cameron,U.S. House,6,John Peterson,REP,82,13,0,0,0,0,69
+Calhoun,Cameron,U.S. House,6,Maurice Washington,REP,26,3,0,0,0,0,23
+Calhoun,Cameron,U.S. House,6,James E Jim Clyburn,DEM,96,58,0,0,0,1,37
+Calhoun,Cameron,U.S. House,6,Frederick R Goodwin,DEM,7,1,0,0,0,0,6
+Calhoun,Center Hill,U.S. House,6,John Peterson,REP,97,23,0,0,0,0,74
+Calhoun,Center Hill,U.S. House,6,Maurice Washington,REP,17,7,0,0,0,0,10
+Calhoun,Center Hill,U.S. House,6,James E Jim Clyburn,DEM,173,100,0,0,0,0,73
+Calhoun,Center Hill,U.S. House,6,Frederick R Goodwin,DEM,7,3,0,0,0,0,4
+Calhoun,Creston,U.S. House,6,John Peterson,REP,27,2,0,0,0,0,25
+Calhoun,Creston,U.S. House,6,Maurice Washington,REP,5,2,0,0,0,0,3
+Calhoun,Creston,U.S. House,6,James E Jim Clyburn,DEM,15,4,0,0,0,0,11
+Calhoun,Creston,U.S. House,6,Frederick R Goodwin,DEM,2,0,0,0,0,0,2
+Calhoun,Dixie,U.S. House,6,John Peterson,REP,85,34,0,0,0,0,51
+Calhoun,Dixie,U.S. House,6,Maurice Washington,REP,21,6,0,0,0,0,15
+Calhoun,Dixie,U.S. House,6,James E Jim Clyburn,DEM,475,356,0,0,0,10,109
+Calhoun,Dixie,U.S. House,6,Frederick R Goodwin,DEM,27,20,0,0,0,0,7
+Calhoun,Failsafe,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Calhoun,Fall Branch,U.S. House,6,John Peterson,REP,49,4,0,0,0,0,45
+Calhoun,Fall Branch,U.S. House,6,Maurice Washington,REP,9,1,0,0,0,0,8
+Calhoun,Fall Branch,U.S. House,6,James E Jim Clyburn,DEM,62,38,0,0,0,0,24
+Calhoun,Fall Branch,U.S. House,6,Frederick R Goodwin,DEM,5,3,0,0,0,0,2
+Calhoun,Fort Motte,U.S. House,6,John Peterson,REP,39,2,0,0,0,0,37
+Calhoun,Fort Motte,U.S. House,6,Maurice Washington,REP,7,1,0,0,0,0,6
+Calhoun,Fort Motte,U.S. House,6,James E Jim Clyburn,DEM,36,22,0,0,0,1,13
+Calhoun,Fort Motte,U.S. House,6,Frederick R Goodwin,DEM,2,0,0,0,0,0,2
+Calhoun,Lone Star,U.S. House,6,John Peterson,REP,123,23,0,0,0,3,97
+Calhoun,Lone Star,U.S. House,6,Maurice Washington,REP,16,3,0,0,0,0,13
+Calhoun,Lone Star,U.S. House,6,James E Jim Clyburn,DEM,145,77,0,0,0,3,65
+Calhoun,Lone Star,U.S. House,6,Frederick R Goodwin,DEM,6,3,0,0,0,0,3
+Calhoun,Midway,U.S. House,6,John Peterson,REP,71,1,0,0,0,0,70
+Calhoun,Midway,U.S. House,6,Maurice Washington,REP,12,0,0,0,0,0,12
+Calhoun,Midway,U.S. House,6,James E Jim Clyburn,DEM,18,13,0,0,0,0,5
+Calhoun,Midway,U.S. House,6,Frederick R Goodwin,DEM,2,1,0,0,0,0,1
+Calhoun,Murph Hill,U.S. House,6,John Peterson,REP,30,5,0,0,0,0,25
+Calhoun,Murph Hill,U.S. House,6,Maurice Washington,REP,8,1,0,0,0,0,7
+Calhoun,Murph Hill,U.S. House,6,James E Jim Clyburn,DEM,86,50,0,0,0,0,36
+Calhoun,Murph Hill,U.S. House,6,Frederick R Goodwin,DEM,2,2,0,0,0,0,0
+Calhoun,Provisional,U.S. House,6,John Peterson,REP,1,0,0,1,0,0,0
+Calhoun,Provisional,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Calhoun,Provisional,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Calhoun,Sandy Run,U.S. House,6,John Peterson,REP,394,96,0,0,0,1,297
+Calhoun,Sandy Run,U.S. House,6,Maurice Washington,REP,72,33,0,0,0,0,39
+Calhoun,Sandy Run,U.S. House,6,James E Jim Clyburn,DEM,116,77,0,0,0,2,37
+Calhoun,Sandy Run,U.S. House,6,Frederick R Goodwin,DEM,13,2,0,0,0,0,11
+Calhoun,St. Matthews,U.S. House,6,John Peterson,REP,201,44,0,0,0,0,157
+Calhoun,St. Matthews,U.S. House,6,Maurice Washington,REP,40,16,0,0,0,1,23
+Calhoun,St. Matthews,U.S. House,6,James E Jim Clyburn,DEM,202,139,0,0,0,3,60
+Calhoun,St. Matthews,U.S. House,6,Frederick R Goodwin,DEM,10,4,0,0,0,0,6
+Calhoun,Bethel,U.S. Senate,,Calvin Cowen,REP,7,2,0,0,0,0,5
+Calhoun,Bethel,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Calhoun,Bethel,U.S. Senate,,Lindsey Graham,REP,101,19,0,0,0,0,82
+Calhoun,Bethel,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Calhoun,Bethel,U.S. Senate,,Mark Lynch,REP,26,4,0,0,0,0,22
+Calhoun,Bethel,U.S. Senate,,Darius L Mitchell,REP,6,1,0,0,0,0,5
+Calhoun,Bethel,U.S. Senate,,Annie Andrews,DEM,46,23,0,0,0,6,17
+Calhoun,Bethel,U.S. Senate,,Brandon P Brown,DEM,22,14,0,0,0,0,8
+Calhoun,Bethel,U.S. Senate,,Kyle Freeman,DEM,9,7,0,0,0,0,2
+Calhoun,Cameron,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Calhoun,Cameron,U.S. Senate,,Thomas Keith Dismukes,REP,3,2,0,0,0,0,1
+Calhoun,Cameron,U.S. Senate,,Lindsey Graham,REP,90,12,0,0,0,0,78
+Calhoun,Cameron,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Calhoun,Cameron,U.S. Senate,,Mark Lynch,REP,15,1,0,0,0,0,14
+Calhoun,Cameron,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Calhoun,Cameron,U.S. Senate,,Annie Andrews,DEM,61,34,0,0,0,0,27
+Calhoun,Cameron,U.S. Senate,,Brandon P Brown,DEM,29,17,0,0,0,1,11
+Calhoun,Cameron,U.S. Senate,,Kyle Freeman,DEM,9,6,0,0,0,0,3
+Calhoun,Center Hill,U.S. Senate,,Calvin Cowen,REP,3,1,0,0,0,0,2
+Calhoun,Center Hill,U.S. Senate,,Thomas Keith Dismukes,REP,4,0,0,0,0,0,4
+Calhoun,Center Hill,U.S. Senate,,Lindsey Graham,REP,86,22,0,0,0,0,64
+Calhoun,Center Hill,U.S. Senate,,Pat Herrmann,REP,6,1,0,0,0,0,5
+Calhoun,Center Hill,U.S. Senate,,Mark Lynch,REP,21,8,0,0,0,0,13
+Calhoun,Center Hill,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Calhoun,Center Hill,U.S. Senate,,Annie Andrews,DEM,73,46,0,0,0,0,27
+Calhoun,Center Hill,U.S. Senate,,Brandon P Brown,DEM,82,47,0,0,0,0,35
+Calhoun,Center Hill,U.S. Senate,,Kyle Freeman,DEM,20,6,0,0,0,0,14
+Calhoun,Creston,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Calhoun,Creston,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Calhoun,Creston,U.S. Senate,,Lindsey Graham,REP,28,2,0,0,0,0,26
+Calhoun,Creston,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Calhoun,Creston,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Calhoun,Creston,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Calhoun,Creston,U.S. Senate,,Annie Andrews,DEM,7,1,0,0,0,0,6
+Calhoun,Creston,U.S. Senate,,Brandon P Brown,DEM,10,3,0,0,0,0,7
+Calhoun,Creston,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Calhoun,Dixie,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Calhoun,Dixie,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Calhoun,Dixie,U.S. Senate,,Lindsey Graham,REP,75,28,0,0,0,0,47
+Calhoun,Dixie,U.S. Senate,,Pat Herrmann,REP,3,2,0,0,0,0,1
+Calhoun,Dixie,U.S. Senate,,Mark Lynch,REP,24,10,0,0,0,0,14
+Calhoun,Dixie,U.S. Senate,,Darius L Mitchell,REP,5,4,0,0,0,0,1
+Calhoun,Dixie,U.S. Senate,,Annie Andrews,DEM,210,152,0,0,0,5,53
+Calhoun,Dixie,U.S. Senate,,Brandon P Brown,DEM,216,167,0,0,0,5,44
+Calhoun,Dixie,U.S. Senate,,Kyle Freeman,DEM,56,41,0,0,0,0,15
+Calhoun,Failsafe,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Calhoun,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Calhoun,Fall Branch,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Calhoun,Fall Branch,U.S. Senate,,Thomas Keith Dismukes,REP,3,1,0,0,0,0,2
+Calhoun,Fall Branch,U.S. Senate,,Lindsey Graham,REP,29,3,0,0,0,0,26
+Calhoun,Fall Branch,U.S. Senate,,Pat Herrmann,REP,5,0,0,0,0,0,5
+Calhoun,Fall Branch,U.S. Senate,,Mark Lynch,REP,17,3,0,0,0,0,14
+Calhoun,Fall Branch,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,0,3
+Calhoun,Fall Branch,U.S. Senate,,Annie Andrews,DEM,33,17,0,0,0,0,16
+Calhoun,Fall Branch,U.S. Senate,,Brandon P Brown,DEM,23,16,0,0,0,0,7
+Calhoun,Fall Branch,U.S. Senate,,Kyle Freeman,DEM,9,6,0,0,0,0,3
+Calhoun,Fort Motte,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Calhoun,Fort Motte,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Calhoun,Fort Motte,U.S. Senate,,Lindsey Graham,REP,41,5,0,0,0,0,36
+Calhoun,Fort Motte,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Calhoun,Fort Motte,U.S. Senate,,Mark Lynch,REP,5,1,0,0,0,0,4
+Calhoun,Fort Motte,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Calhoun,Fort Motte,U.S. Senate,,Annie Andrews,DEM,18,11,0,0,0,0,7
+Calhoun,Fort Motte,U.S. Senate,,Brandon P Brown,DEM,13,8,0,0,0,1,4
+Calhoun,Fort Motte,U.S. Senate,,Kyle Freeman,DEM,4,2,0,0,0,0,2
+Calhoun,Lone Star,U.S. Senate,,Calvin Cowen,REP,8,1,0,0,0,1,6
+Calhoun,Lone Star,U.S. Senate,,Thomas Keith Dismukes,REP,3,1,0,0,0,0,2
+Calhoun,Lone Star,U.S. Senate,,Lindsey Graham,REP,107,20,0,0,0,2,85
+Calhoun,Lone Star,U.S. Senate,,Pat Herrmann,REP,2,1,0,0,0,0,1
+Calhoun,Lone Star,U.S. Senate,,Mark Lynch,REP,26,5,0,0,0,0,21
+Calhoun,Lone Star,U.S. Senate,,Darius L Mitchell,REP,6,1,0,0,0,0,5
+Calhoun,Lone Star,U.S. Senate,,Annie Andrews,DEM,66,35,0,0,0,1,30
+Calhoun,Lone Star,U.S. Senate,,Brandon P Brown,DEM,47,24,0,0,0,0,23
+Calhoun,Lone Star,U.S. Senate,,Kyle Freeman,DEM,33,20,0,0,0,2,11
+Calhoun,Midway,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Calhoun,Midway,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Calhoun,Midway,U.S. Senate,,Lindsey Graham,REP,69,1,0,0,0,0,68
+Calhoun,Midway,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Calhoun,Midway,U.S. Senate,,Mark Lynch,REP,14,0,0,0,0,0,14
+Calhoun,Midway,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Calhoun,Midway,U.S. Senate,,Annie Andrews,DEM,9,8,0,0,0,0,1
+Calhoun,Midway,U.S. Senate,,Brandon P Brown,DEM,9,6,0,0,0,0,3
+Calhoun,Midway,U.S. Senate,,Kyle Freeman,DEM,2,0,0,0,0,0,2
+Calhoun,Murph Hill,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Calhoun,Murph Hill,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Calhoun,Murph Hill,U.S. Senate,,Lindsey Graham,REP,27,4,0,0,0,0,23
+Calhoun,Murph Hill,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Calhoun,Murph Hill,U.S. Senate,,Mark Lynch,REP,7,2,0,0,0,0,5
+Calhoun,Murph Hill,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Calhoun,Murph Hill,U.S. Senate,,Annie Andrews,DEM,44,24,0,0,0,0,20
+Calhoun,Murph Hill,U.S. Senate,,Brandon P Brown,DEM,36,20,0,0,0,0,16
+Calhoun,Murph Hill,U.S. Senate,,Kyle Freeman,DEM,6,6,0,0,0,0,0
+Calhoun,Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,1,0,0,0
+Calhoun,Provisional,U.S. Senate,,Lindsey Graham,REP,1,0,0,1,0,0,0
+Calhoun,Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Calhoun,Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Calhoun,Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Calhoun,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Calhoun,Sandy Run,U.S. Senate,,Calvin Cowen,REP,23,7,0,0,0,0,16
+Calhoun,Sandy Run,U.S. Senate,,Thomas Keith Dismukes,REP,18,6,0,0,0,0,12
+Calhoun,Sandy Run,U.S. Senate,,Lindsey Graham,REP,327,82,0,0,0,1,244
+Calhoun,Sandy Run,U.S. Senate,,Pat Herrmann,REP,19,5,0,0,0,0,14
+Calhoun,Sandy Run,U.S. Senate,,Mark Lynch,REP,110,32,0,0,0,1,77
+Calhoun,Sandy Run,U.S. Senate,,Darius L Mitchell,REP,15,9,0,0,0,0,6
+Calhoun,Sandy Run,U.S. Senate,,Annie Andrews,DEM,70,36,0,0,0,0,34
+Calhoun,Sandy Run,U.S. Senate,,Brandon P Brown,DEM,41,29,0,0,0,2,10
+Calhoun,Sandy Run,U.S. Senate,,Kyle Freeman,DEM,17,13,0,0,0,0,4
+Calhoun,St. Matthews,U.S. Senate,,Calvin Cowen,REP,9,3,0,0,0,0,6
+Calhoun,St. Matthews,U.S. Senate,,Thomas Keith Dismukes,REP,4,2,0,0,0,0,2
+Calhoun,St. Matthews,U.S. Senate,,Lindsey Graham,REP,197,49,0,0,0,0,148
+Calhoun,St. Matthews,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Calhoun,St. Matthews,U.S. Senate,,Mark Lynch,REP,51,13,0,0,0,1,37
+Calhoun,St. Matthews,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Calhoun,St. Matthews,U.S. Senate,,Annie Andrews,DEM,100,63,0,0,0,3,34
+Calhoun,St. Matthews,U.S. Senate,,Brandon P Brown,DEM,79,56,0,0,0,0,23
+Calhoun,St. Matthews,U.S. Senate,,Kyle Freeman,DEM,27,21,0,0,0,0,6

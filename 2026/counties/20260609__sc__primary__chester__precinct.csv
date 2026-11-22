@@ -1,0 +1,1009 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Chester,Baldwin Mill,Advisory Question 1,,Yes,REP,72,19,0,0,0,1,52
+Chester,Baldwin Mill,Advisory Question 1,,No,REP,4,2,0,0,0,1,1
+Chester,Baton Rouge,Advisory Question 1,,Yes,REP,121,26,0,0,0,1,94
+Chester,Baton Rouge,Advisory Question 1,,No,REP,13,3,0,0,0,1,9
+Chester,Beckhamville,Advisory Question 1,,Yes,REP,95,14,0,0,0,1,80
+Chester,Beckhamville,Advisory Question 1,,No,REP,13,0,0,0,0,1,12
+Chester,Blackstock,Advisory Question 1,,Yes,REP,102,14,0,0,0,2,86
+Chester,Blackstock,Advisory Question 1,,No,REP,8,2,0,0,0,0,6
+Chester,Chester Ward 1,Advisory Question 1,,Yes,REP,67,15,0,0,0,0,52
+Chester,Chester Ward 1,Advisory Question 1,,No,REP,7,1,0,0,0,3,3
+Chester,Chester Ward 2,Advisory Question 1,,Yes,REP,21,9,0,0,0,1,11
+Chester,Chester Ward 2,Advisory Question 1,,No,REP,11,3,0,0,0,0,8
+Chester,Chester Ward 3,Advisory Question 1,,Yes,REP,137,65,0,0,0,1,71
+Chester,Chester Ward 3,Advisory Question 1,,No,REP,22,13,0,0,0,2,7
+Chester,Chester Ward 4,Advisory Question 1,,Yes,REP,47,19,0,0,0,1,27
+Chester,Chester Ward 4,Advisory Question 1,,No,REP,9,2,0,0,0,2,5
+Chester,Chester Ward 5,Advisory Question 1,,Yes,REP,184,70,0,0,0,0,114
+Chester,Chester Ward 5,Advisory Question 1,,No,REP,14,5,0,0,0,1,8
+Chester,Edgemoor,Advisory Question 1,,Yes,REP,242,48,0,0,0,0,194
+Chester,Edgemoor,Advisory Question 1,,No,REP,25,4,0,0,0,2,19
+Chester,Eureka Mill,Advisory Question 1,,Yes,REP,94,29,0,0,0,1,64
+Chester,Eureka Mill,Advisory Question 1,,No,REP,10,2,0,0,0,1,7
+Chester,Failsafe,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Chester,Fort Lawn,Advisory Question 1,,Yes,REP,190,42,0,0,0,0,148
+Chester,Fort Lawn,Advisory Question 1,,No,REP,21,4,0,0,0,2,15
+Chester,Great Falls,Advisory Question 1,,Yes,REP,54,6,0,0,0,0,48
+Chester,Great Falls,Advisory Question 1,,No,REP,7,1,0,0,0,2,4
+Chester,Halsellville,Advisory Question 1,,Yes,REP,24,4,0,0,0,1,19
+Chester,Halsellville,Advisory Question 1,,No,REP,1,0,0,0,0,1,0
+Chester,Hazelwood,Advisory Question 1,,Yes,REP,109,18,0,0,0,2,89
+Chester,Hazelwood,Advisory Question 1,,No,REP,16,0,0,0,0,0,16
+Chester,Lando/Lansford,Advisory Question 1,,Yes,REP,231,60,0,0,0,2,169
+Chester,Lando/Lansford,Advisory Question 1,,No,REP,25,5,0,0,0,1,19
+Chester,Lowrys,Advisory Question 1,,Yes,REP,183,34,0,0,0,1,148
+Chester,Lowrys,Advisory Question 1,,No,REP,13,4,0,0,0,1,8
+Chester,Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Chester,Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Chester,Richburg,Advisory Question 1,,Yes,REP,213,76,0,0,0,5,132
+Chester,Richburg,Advisory Question 1,,No,REP,23,16,0,0,0,0,7
+Chester,Rodman,Advisory Question 1,,Yes,REP,238,84,0,0,0,3,151
+Chester,Rodman,Advisory Question 1,,No,REP,39,18,0,0,0,0,21
+Chester,Rossville,Advisory Question 1,,Yes,REP,86,9,0,0,0,1,76
+Chester,Rossville,Advisory Question 1,,No,REP,6,0,0,0,0,0,6
+Chester,Wilksburg,Advisory Question 1,,Yes,REP,37,2,0,0,0,1,34
+Chester,Wilksburg,Advisory Question 1,,No,REP,4,0,0,0,0,0,4
+Chester,Baldwin Mill,Advisory Question 2,,Yes,REP,66,20,0,0,0,0,46
+Chester,Baldwin Mill,Advisory Question 2,,No,REP,9,2,0,0,0,1,6
+Chester,Baton Rouge,Advisory Question 2,,Yes,REP,104,21,0,0,0,2,81
+Chester,Baton Rouge,Advisory Question 2,,No,REP,30,8,0,0,0,0,22
+Chester,Beckhamville,Advisory Question 2,,Yes,REP,85,13,0,0,0,1,71
+Chester,Beckhamville,Advisory Question 2,,No,REP,23,1,0,0,0,1,21
+Chester,Blackstock,Advisory Question 2,,Yes,REP,86,11,0,0,0,2,73
+Chester,Blackstock,Advisory Question 2,,No,REP,25,5,0,0,0,0,20
+Chester,Chester Ward 1,Advisory Question 2,,Yes,REP,59,9,0,0,0,2,48
+Chester,Chester Ward 1,Advisory Question 2,,No,REP,13,6,0,0,0,1,6
+Chester,Chester Ward 2,Advisory Question 2,,Yes,REP,24,12,0,0,0,0,12
+Chester,Chester Ward 2,Advisory Question 2,,No,REP,9,0,0,0,0,1,8
+Chester,Chester Ward 3,Advisory Question 2,,Yes,REP,114,54,0,0,0,1,59
+Chester,Chester Ward 3,Advisory Question 2,,No,REP,45,25,0,0,0,2,18
+Chester,Chester Ward 4,Advisory Question 2,,Yes,REP,42,14,0,0,0,2,26
+Chester,Chester Ward 4,Advisory Question 2,,No,REP,15,7,0,0,0,1,7
+Chester,Chester Ward 5,Advisory Question 2,,Yes,REP,152,59,0,0,0,0,93
+Chester,Chester Ward 5,Advisory Question 2,,No,REP,46,16,0,0,0,1,29
+Chester,Edgemoor,Advisory Question 2,,Yes,REP,206,42,0,0,0,1,163
+Chester,Edgemoor,Advisory Question 2,,No,REP,60,10,0,0,0,1,49
+Chester,Eureka Mill,Advisory Question 2,,Yes,REP,87,28,0,0,0,1,58
+Chester,Eureka Mill,Advisory Question 2,,No,REP,19,3,0,0,0,1,15
+Chester,Failsafe,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Chester,Fort Lawn,Advisory Question 2,,Yes,REP,171,39,0,0,0,1,131
+Chester,Fort Lawn,Advisory Question 2,,No,REP,42,7,0,0,0,1,34
+Chester,Great Falls,Advisory Question 2,,Yes,REP,43,6,0,0,0,0,37
+Chester,Great Falls,Advisory Question 2,,No,REP,17,2,0,0,0,1,14
+Chester,Halsellville,Advisory Question 2,,Yes,REP,21,3,0,0,0,1,17
+Chester,Halsellville,Advisory Question 2,,No,REP,2,0,0,0,0,1,1
+Chester,Hazelwood,Advisory Question 2,,Yes,REP,94,15,0,0,0,2,77
+Chester,Hazelwood,Advisory Question 2,,No,REP,29,3,0,0,0,0,26
+Chester,Lando/Lansford,Advisory Question 2,,Yes,REP,210,53,0,0,0,1,156
+Chester,Lando/Lansford,Advisory Question 2,,No,REP,43,11,0,0,0,2,30
+Chester,Lowrys,Advisory Question 2,,Yes,REP,165,36,0,0,0,1,128
+Chester,Lowrys,Advisory Question 2,,No,REP,32,2,0,0,0,1,29
+Chester,Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Chester,Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Chester,Richburg,Advisory Question 2,,Yes,REP,194,72,0,0,0,2,120
+Chester,Richburg,Advisory Question 2,,No,REP,40,20,0,0,0,3,17
+Chester,Rodman,Advisory Question 2,,Yes,REP,203,72,0,0,0,0,131
+Chester,Rodman,Advisory Question 2,,No,REP,69,29,0,0,0,2,38
+Chester,Rossville,Advisory Question 2,,Yes,REP,77,8,0,0,0,1,68
+Chester,Rossville,Advisory Question 2,,No,REP,15,1,0,0,0,0,14
+Chester,Wilksburg,Advisory Question 2,,Yes,REP,32,2,0,0,0,0,30
+Chester,Wilksburg,Advisory Question 2,,No,REP,9,0,0,0,0,1,8
+Chester,Baldwin Mill,Attorney General,,Stephen Goldfinch,REP,29,6,0,0,0,0,23
+Chester,Baldwin Mill,Attorney General,,David M Pascoe,REP,11,5,0,0,0,1,5
+Chester,Baldwin Mill,Attorney General,,David Stumbo,REP,34,10,0,0,0,0,24
+Chester,Baton Rouge,Attorney General,,Stephen Goldfinch,REP,44,7,0,0,0,1,36
+Chester,Baton Rouge,Attorney General,,David M Pascoe,REP,21,8,0,0,0,0,13
+Chester,Baton Rouge,Attorney General,,David Stumbo,REP,62,13,0,0,0,1,48
+Chester,Beckhamville,Attorney General,,Stephen Goldfinch,REP,43,3,0,0,0,1,39
+Chester,Beckhamville,Attorney General,,David M Pascoe,REP,18,5,0,0,0,1,12
+Chester,Beckhamville,Attorney General,,David Stumbo,REP,41,5,0,0,0,0,36
+Chester,Blackstock,Attorney General,,Stephen Goldfinch,REP,38,5,0,0,0,0,33
+Chester,Blackstock,Attorney General,,David M Pascoe,REP,16,4,0,0,0,2,10
+Chester,Blackstock,Attorney General,,David Stumbo,REP,56,7,0,0,0,0,49
+Chester,Chester Ward 1,Attorney General,,Stephen Goldfinch,REP,23,7,0,0,0,0,16
+Chester,Chester Ward 1,Attorney General,,David M Pascoe,REP,15,6,0,0,0,1,8
+Chester,Chester Ward 1,Attorney General,,David Stumbo,REP,31,3,0,0,0,2,26
+Chester,Chester Ward 2,Attorney General,,Stephen Goldfinch,REP,15,7,0,0,0,0,8
+Chester,Chester Ward 2,Attorney General,,David M Pascoe,REP,8,3,0,0,0,1,4
+Chester,Chester Ward 2,Attorney General,,David Stumbo,REP,10,3,0,0,0,0,7
+Chester,Chester Ward 3,Attorney General,,Stephen Goldfinch,REP,63,26,0,0,0,1,36
+Chester,Chester Ward 3,Attorney General,,David M Pascoe,REP,27,17,0,0,0,0,10
+Chester,Chester Ward 3,Attorney General,,David Stumbo,REP,64,34,0,0,0,2,28
+Chester,Chester Ward 4,Attorney General,,Stephen Goldfinch,REP,19,6,0,0,0,2,11
+Chester,Chester Ward 4,Attorney General,,David M Pascoe,REP,18,6,0,0,0,1,11
+Chester,Chester Ward 4,Attorney General,,David Stumbo,REP,20,9,0,0,0,0,11
+Chester,Chester Ward 5,Attorney General,,Stephen Goldfinch,REP,77,32,0,0,0,1,44
+Chester,Chester Ward 5,Attorney General,,David M Pascoe,REP,25,11,0,0,0,0,14
+Chester,Chester Ward 5,Attorney General,,David Stumbo,REP,92,27,0,0,0,0,65
+Chester,Edgemoor,Attorney General,,Stephen Goldfinch,REP,108,20,0,0,0,2,86
+Chester,Edgemoor,Attorney General,,David M Pascoe,REP,45,7,0,0,0,0,38
+Chester,Edgemoor,Attorney General,,David Stumbo,REP,102,23,0,0,0,0,79
+Chester,Eureka Mill,Attorney General,,Stephen Goldfinch,REP,54,14,0,0,0,1,39
+Chester,Eureka Mill,Attorney General,,David M Pascoe,REP,13,5,0,0,0,1,7
+Chester,Eureka Mill,Attorney General,,David Stumbo,REP,32,9,0,0,0,0,23
+Chester,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Chester,Fort Lawn,Attorney General,,Stephen Goldfinch,REP,94,25,0,0,0,1,68
+Chester,Fort Lawn,Attorney General,,David M Pascoe,REP,30,8,0,0,0,1,21
+Chester,Fort Lawn,Attorney General,,David Stumbo,REP,80,14,0,0,0,0,66
+Chester,Great Falls,Attorney General,,Stephen Goldfinch,REP,18,3,0,0,0,0,15
+Chester,Great Falls,Attorney General,,David M Pascoe,REP,10,0,0,0,0,2,8
+Chester,Great Falls,Attorney General,,David Stumbo,REP,29,5,0,0,0,0,24
+Chester,Halsellville,Attorney General,,Stephen Goldfinch,REP,8,2,0,0,0,0,6
+Chester,Halsellville,Attorney General,,David M Pascoe,REP,3,1,0,0,0,1,1
+Chester,Halsellville,Attorney General,,David Stumbo,REP,12,1,0,0,0,1,10
+Chester,Hazelwood,Attorney General,,Stephen Goldfinch,REP,49,5,0,0,0,1,43
+Chester,Hazelwood,Attorney General,,David M Pascoe,REP,20,4,0,0,0,0,16
+Chester,Hazelwood,Attorney General,,David Stumbo,REP,50,8,0,0,0,1,41
+Chester,Lando/Lansford,Attorney General,,Stephen Goldfinch,REP,113,30,0,0,0,1,82
+Chester,Lando/Lansford,Attorney General,,David M Pascoe,REP,38,8,0,0,0,2,28
+Chester,Lando/Lansford,Attorney General,,David Stumbo,REP,101,25,0,0,0,0,76
+Chester,Lowrys,Attorney General,,Stephen Goldfinch,REP,67,13,0,0,0,1,53
+Chester,Lowrys,Attorney General,,David M Pascoe,REP,28,5,0,0,0,1,22
+Chester,Lowrys,Attorney General,,David Stumbo,REP,94,16,0,0,0,0,78
+Chester,Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Chester,Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Chester,Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Chester,Richburg,Attorney General,,Stephen Goldfinch,REP,88,32,0,0,0,1,55
+Chester,Richburg,Attorney General,,David M Pascoe,REP,23,11,0,0,0,1,11
+Chester,Richburg,Attorney General,,David Stumbo,REP,102,39,0,0,0,1,62
+Chester,Rodman,Attorney General,,Stephen Goldfinch,REP,106,46,0,0,0,1,59
+Chester,Rodman,Attorney General,,David M Pascoe,REP,36,16,0,0,0,1,19
+Chester,Rodman,Attorney General,,David Stumbo,REP,117,31,0,0,0,1,85
+Chester,Rossville,Attorney General,,Stephen Goldfinch,REP,33,2,0,0,0,1,30
+Chester,Rossville,Attorney General,,David M Pascoe,REP,11,3,0,0,0,0,8
+Chester,Rossville,Attorney General,,David Stumbo,REP,41,3,0,0,0,0,38
+Chester,Wilksburg,Attorney General,,Stephen Goldfinch,REP,13,2,0,0,0,0,11
+Chester,Wilksburg,Attorney General,,David M Pascoe,REP,4,0,0,0,0,0,4
+Chester,Wilksburg,Attorney General,,David Stumbo,REP,22,0,0,0,0,1,21
+Chester,Baldwin Mill,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,3,0,0,0,0,6
+Chester,Baldwin Mill,Commissioner of Agriculture,,Danny Ford,REP,22,9,0,0,0,0,13
+Chester,Baldwin Mill,Commissioner of Agriculture,,Cody Simpson,REP,31,7,0,0,0,2,22
+Chester,Baldwin Mill,Commissioner of Agriculture,,Fred West,REP,8,1,0,0,0,0,7
+Chester,Baton Rouge,Commissioner of Agriculture,,Jeremy B Cannon,REP,19,3,0,0,0,0,16
+Chester,Baton Rouge,Commissioner of Agriculture,,Danny Ford,REP,56,15,0,0,0,2,39
+Chester,Baton Rouge,Commissioner of Agriculture,,Cody Simpson,REP,45,8,0,0,0,0,37
+Chester,Baton Rouge,Commissioner of Agriculture,,Fred West,REP,8,2,0,0,0,0,6
+Chester,Beckhamville,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,0,0,0,0,0,11
+Chester,Beckhamville,Commissioner of Agriculture,,Danny Ford,REP,43,5,0,0,0,0,38
+Chester,Beckhamville,Commissioner of Agriculture,,Cody Simpson,REP,33,8,0,0,0,2,23
+Chester,Beckhamville,Commissioner of Agriculture,,Fred West,REP,11,0,0,0,0,0,11
+Chester,Blackstock,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,2,0,0,0,0,11
+Chester,Blackstock,Commissioner of Agriculture,,Danny Ford,REP,44,6,0,0,0,1,37
+Chester,Blackstock,Commissioner of Agriculture,,Cody Simpson,REP,42,6,0,0,0,0,36
+Chester,Blackstock,Commissioner of Agriculture,,Fred West,REP,10,2,0,0,0,0,8
+Chester,Chester Ward 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,1,0,0,0,0,12
+Chester,Chester Ward 1,Commissioner of Agriculture,,Danny Ford,REP,17,6,0,0,0,0,11
+Chester,Chester Ward 1,Commissioner of Agriculture,,Cody Simpson,REP,32,4,0,0,0,4,24
+Chester,Chester Ward 1,Commissioner of Agriculture,,Fred West,REP,7,2,0,0,0,0,5
+Chester,Chester Ward 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,5,1,0,0,0,0,4
+Chester,Chester Ward 2,Commissioner of Agriculture,,Danny Ford,REP,10,7,0,0,0,0,3
+Chester,Chester Ward 2,Commissioner of Agriculture,,Cody Simpson,REP,17,4,0,0,0,2,11
+Chester,Chester Ward 2,Commissioner of Agriculture,,Fred West,REP,3,1,0,0,0,0,2
+Chester,Chester Ward 3,Commissioner of Agriculture,,Jeremy B Cannon,REP,38,20,0,0,0,1,17
+Chester,Chester Ward 3,Commissioner of Agriculture,,Danny Ford,REP,56,26,0,0,0,0,30
+Chester,Chester Ward 3,Commissioner of Agriculture,,Cody Simpson,REP,39,22,0,0,0,1,16
+Chester,Chester Ward 3,Commissioner of Agriculture,,Fred West,REP,14,6,0,0,0,1,7
+Chester,Chester Ward 4,Commissioner of Agriculture,,Jeremy B Cannon,REP,4,1,0,0,0,1,2
+Chester,Chester Ward 4,Commissioner of Agriculture,,Danny Ford,REP,27,11,0,0,0,1,15
+Chester,Chester Ward 4,Commissioner of Agriculture,,Cody Simpson,REP,19,6,0,0,0,1,12
+Chester,Chester Ward 4,Commissioner of Agriculture,,Fred West,REP,6,2,0,0,0,0,4
+Chester,Chester Ward 5,Commissioner of Agriculture,,Jeremy B Cannon,REP,24,7,0,0,0,0,17
+Chester,Chester Ward 5,Commissioner of Agriculture,,Danny Ford,REP,84,34,0,0,0,0,50
+Chester,Chester Ward 5,Commissioner of Agriculture,,Cody Simpson,REP,57,18,0,0,0,0,39
+Chester,Chester Ward 5,Commissioner of Agriculture,,Fred West,REP,21,10,0,0,0,0,11
+Chester,Edgemoor,Commissioner of Agriculture,,Jeremy B Cannon,REP,40,10,0,0,0,1,29
+Chester,Edgemoor,Commissioner of Agriculture,,Danny Ford,REP,113,23,0,0,0,0,90
+Chester,Edgemoor,Commissioner of Agriculture,,Cody Simpson,REP,87,15,0,0,0,0,72
+Chester,Edgemoor,Commissioner of Agriculture,,Fred West,REP,14,2,0,0,0,1,11
+Chester,Eureka Mill,Commissioner of Agriculture,,Jeremy B Cannon,REP,16,3,0,0,0,0,13
+Chester,Eureka Mill,Commissioner of Agriculture,,Danny Ford,REP,45,13,0,0,0,0,32
+Chester,Eureka Mill,Commissioner of Agriculture,,Cody Simpson,REP,31,11,0,0,0,1,19
+Chester,Eureka Mill,Commissioner of Agriculture,,Fred West,REP,6,0,0,0,0,1,5
+Chester,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Chester,Fort Lawn,Commissioner of Agriculture,,Jeremy B Cannon,REP,37,3,0,0,0,1,33
+Chester,Fort Lawn,Commissioner of Agriculture,,Danny Ford,REP,64,15,0,0,0,1,48
+Chester,Fort Lawn,Commissioner of Agriculture,,Cody Simpson,REP,87,25,0,0,0,0,62
+Chester,Fort Lawn,Commissioner of Agriculture,,Fred West,REP,14,3,0,0,0,0,11
+Chester,Great Falls,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,0,0,0,0,1,10
+Chester,Great Falls,Commissioner of Agriculture,,Danny Ford,REP,21,2,0,0,0,0,19
+Chester,Great Falls,Commissioner of Agriculture,,Cody Simpson,REP,14,3,0,0,0,1,10
+Chester,Great Falls,Commissioner of Agriculture,,Fred West,REP,8,2,0,0,0,0,6
+Chester,Halsellville,Commissioner of Agriculture,,Jeremy B Cannon,REP,6,0,0,0,0,0,6
+Chester,Halsellville,Commissioner of Agriculture,,Danny Ford,REP,11,2,0,0,0,0,9
+Chester,Halsellville,Commissioner of Agriculture,,Cody Simpson,REP,5,0,0,0,0,2,3
+Chester,Halsellville,Commissioner of Agriculture,,Fred West,REP,1,1,0,0,0,0,0
+Chester,Hazelwood,Commissioner of Agriculture,,Jeremy B Cannon,REP,17,3,0,0,0,0,14
+Chester,Hazelwood,Commissioner of Agriculture,,Danny Ford,REP,43,7,0,0,0,1,35
+Chester,Hazelwood,Commissioner of Agriculture,,Cody Simpson,REP,44,5,0,0,0,0,39
+Chester,Hazelwood,Commissioner of Agriculture,,Fred West,REP,13,3,0,0,0,1,9
+Chester,Lando/Lansford,Commissioner of Agriculture,,Jeremy B Cannon,REP,53,16,0,0,0,0,37
+Chester,Lando/Lansford,Commissioner of Agriculture,,Danny Ford,REP,76,10,0,0,0,1,65
+Chester,Lando/Lansford,Commissioner of Agriculture,,Cody Simpson,REP,99,27,0,0,0,1,71
+Chester,Lando/Lansford,Commissioner of Agriculture,,Fred West,REP,21,9,0,0,0,1,11
+Chester,Lowrys,Commissioner of Agriculture,,Jeremy B Cannon,REP,27,7,0,0,0,0,20
+Chester,Lowrys,Commissioner of Agriculture,,Danny Ford,REP,70,11,0,0,0,1,58
+Chester,Lowrys,Commissioner of Agriculture,,Cody Simpson,REP,76,16,0,0,0,0,60
+Chester,Lowrys,Commissioner of Agriculture,,Fred West,REP,11,1,0,0,0,0,10
+Chester,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Chester,Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Chester,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Chester,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Chester,Richburg,Commissioner of Agriculture,,Jeremy B Cannon,REP,46,16,0,0,0,0,30
+Chester,Richburg,Commissioner of Agriculture,,Danny Ford,REP,66,20,0,0,0,3,43
+Chester,Richburg,Commissioner of Agriculture,,Cody Simpson,REP,74,30,0,0,0,0,44
+Chester,Richburg,Commissioner of Agriculture,,Fred West,REP,19,11,0,0,0,1,7
+Chester,Rodman,Commissioner of Agriculture,,Jeremy B Cannon,REP,44,18,0,0,0,0,26
+Chester,Rodman,Commissioner of Agriculture,,Danny Ford,REP,87,34,0,0,0,1,52
+Chester,Rodman,Commissioner of Agriculture,,Cody Simpson,REP,105,31,0,0,0,1,73
+Chester,Rodman,Commissioner of Agriculture,,Fred West,REP,21,10,0,0,0,0,11
+Chester,Rossville,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,2,0,0,0,0,11
+Chester,Rossville,Commissioner of Agriculture,,Danny Ford,REP,29,2,0,0,0,1,26
+Chester,Rossville,Commissioner of Agriculture,,Cody Simpson,REP,33,4,0,0,0,0,29
+Chester,Rossville,Commissioner of Agriculture,,Fred West,REP,8,1,0,0,0,0,7
+Chester,Wilksburg,Commissioner of Agriculture,,Jeremy B Cannon,REP,12,0,0,0,0,0,12
+Chester,Wilksburg,Commissioner of Agriculture,,Danny Ford,REP,19,1,0,0,0,0,18
+Chester,Wilksburg,Commissioner of Agriculture,,Cody Simpson,REP,6,1,0,0,0,1,4
+Chester,Wilksburg,Commissioner of Agriculture,,Fred West,REP,2,0,0,0,0,0,2
+Chester,Baldwin Mill,Comptroller General,,Tiffany Boozer,DEM,110,46,0,0,0,2,62
+Chester,Baldwin Mill,Comptroller General,,Bruce K Cole,DEM,33,14,0,0,0,1,18
+Chester,Baton Rouge,Comptroller General,,Tiffany Boozer,DEM,26,13,0,0,0,1,12
+Chester,Baton Rouge,Comptroller General,,Bruce K Cole,DEM,11,4,0,0,0,1,6
+Chester,Beckhamville,Comptroller General,,Tiffany Boozer,DEM,60,9,0,0,0,0,51
+Chester,Beckhamville,Comptroller General,,Bruce K Cole,DEM,26,8,0,0,0,1,17
+Chester,Blackstock,Comptroller General,,Tiffany Boozer,DEM,54,19,0,0,0,0,35
+Chester,Blackstock,Comptroller General,,Bruce K Cole,DEM,17,6,0,0,0,1,10
+Chester,Chester Ward 1,Comptroller General,,Tiffany Boozer,DEM,184,102,0,0,0,6,76
+Chester,Chester Ward 1,Comptroller General,,Bruce K Cole,DEM,65,33,0,0,0,6,26
+Chester,Chester Ward 2,Comptroller General,,Tiffany Boozer,DEM,107,52,0,0,0,2,53
+Chester,Chester Ward 2,Comptroller General,,Bruce K Cole,DEM,55,29,0,0,0,9,17
+Chester,Chester Ward 3,Comptroller General,,Tiffany Boozer,DEM,133,74,0,0,0,5,54
+Chester,Chester Ward 3,Comptroller General,,Bruce K Cole,DEM,66,37,0,0,0,4,25
+Chester,Chester Ward 4,Comptroller General,,Tiffany Boozer,DEM,134,46,0,0,0,10,78
+Chester,Chester Ward 4,Comptroller General,,Bruce K Cole,DEM,59,26,0,0,0,13,20
+Chester,Chester Ward 5,Comptroller General,,Tiffany Boozer,DEM,63,33,0,0,0,3,27
+Chester,Chester Ward 5,Comptroller General,,Bruce K Cole,DEM,33,19,0,0,0,1,13
+Chester,Edgemoor,Comptroller General,,Tiffany Boozer,DEM,84,26,0,0,0,1,57
+Chester,Edgemoor,Comptroller General,,Bruce K Cole,DEM,20,4,0,0,0,0,16
+Chester,Eureka Mill,Comptroller General,,Tiffany Boozer,DEM,191,89,0,0,0,4,98
+Chester,Eureka Mill,Comptroller General,,Bruce K Cole,DEM,59,32,0,0,0,1,26
+Chester,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Chester,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Chester,Fort Lawn,Comptroller General,,Tiffany Boozer,DEM,107,48,0,0,0,0,59
+Chester,Fort Lawn,Comptroller General,,Bruce K Cole,DEM,24,11,0,0,0,1,12
+Chester,Great Falls,Comptroller General,,Tiffany Boozer,DEM,70,9,0,0,0,1,60
+Chester,Great Falls,Comptroller General,,Bruce K Cole,DEM,21,3,0,0,0,0,18
+Chester,Halsellville,Comptroller General,,Tiffany Boozer,DEM,27,8,0,0,0,0,19
+Chester,Halsellville,Comptroller General,,Bruce K Cole,DEM,9,7,0,0,0,0,2
+Chester,Hazelwood,Comptroller General,,Tiffany Boozer,DEM,40,20,0,0,0,0,20
+Chester,Hazelwood,Comptroller General,,Bruce K Cole,DEM,17,8,0,0,0,0,9
+Chester,Lando/Lansford,Comptroller General,,Tiffany Boozer,DEM,48,17,0,0,0,6,25
+Chester,Lando/Lansford,Comptroller General,,Bruce K Cole,DEM,19,10,0,0,0,2,7
+Chester,Lowrys,Comptroller General,,Tiffany Boozer,DEM,53,26,0,0,0,0,27
+Chester,Lowrys,Comptroller General,,Bruce K Cole,DEM,27,15,0,0,0,1,11
+Chester,Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Chester,Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Chester,Richburg,Comptroller General,,Tiffany Boozer,DEM,114,53,0,0,0,1,60
+Chester,Richburg,Comptroller General,,Bruce K Cole,DEM,51,38,0,0,0,1,12
+Chester,Rodman,Comptroller General,,Tiffany Boozer,DEM,83,42,0,0,0,4,37
+Chester,Rodman,Comptroller General,,Bruce K Cole,DEM,37,22,0,0,0,1,14
+Chester,Rossville,Comptroller General,,Tiffany Boozer,DEM,13,5,0,0,0,0,8
+Chester,Rossville,Comptroller General,,Bruce K Cole,DEM,6,2,0,0,0,1,3
+Chester,Wilksburg,Comptroller General,,Tiffany Boozer,DEM,63,28,0,0,0,0,35
+Chester,Wilksburg,Comptroller General,,Bruce K Cole,DEM,27,8,0,0,0,1,18
+Chester,Baldwin Mill,County Council At Large,,David Morton,REP,36,8,0,0,0,1,27
+Chester,Baldwin Mill,County Council At Large,,Erin Mosley,REP,39,12,0,0,0,1,26
+Chester,Baton Rouge,County Council At Large,,David Morton,REP,68,13,0,0,0,2,53
+Chester,Baton Rouge,County Council At Large,,Erin Mosley,REP,64,16,0,0,0,0,48
+Chester,Beckhamville,County Council At Large,,David Morton,REP,48,6,0,0,0,2,40
+Chester,Beckhamville,County Council At Large,,Erin Mosley,REP,52,8,0,0,0,0,44
+Chester,Blackstock,County Council At Large,,David Morton,REP,51,5,0,0,0,2,44
+Chester,Blackstock,County Council At Large,,Erin Mosley,REP,61,11,0,0,0,0,50
+Chester,Chester Ward 1,County Council At Large,,David Morton,REP,32,4,0,0,0,1,27
+Chester,Chester Ward 1,County Council At Large,,Erin Mosley,REP,35,11,0,0,0,2,22
+Chester,Chester Ward 2,County Council At Large,,David Morton,REP,15,2,0,0,0,1,12
+Chester,Chester Ward 2,County Council At Large,,Erin Mosley,REP,18,10,0,0,0,1,7
+Chester,Chester Ward 3,County Council At Large,,David Morton,REP,72,32,0,0,0,1,39
+Chester,Chester Ward 3,County Council At Large,,Erin Mosley,REP,82,45,0,0,0,2,35
+Chester,Chester Ward 4,County Council At Large,,David Morton,REP,34,14,0,0,0,1,19
+Chester,Chester Ward 4,County Council At Large,,Erin Mosley,REP,23,7,0,0,0,2,14
+Chester,Chester Ward 5,County Council At Large,,David Morton,REP,84,37,0,0,0,0,47
+Chester,Chester Ward 5,County Council At Large,,Erin Mosley,REP,117,38,0,0,0,2,77
+Chester,Edgemoor,County Council At Large,,David Morton,REP,195,43,0,0,0,0,152
+Chester,Edgemoor,County Council At Large,,Erin Mosley,REP,73,9,0,0,0,2,62
+Chester,Eureka Mill,County Council At Large,,David Morton,REP,61,15,0,0,0,2,44
+Chester,Eureka Mill,County Council At Large,,Erin Mosley,REP,44,15,0,0,0,0,29
+Chester,Failsafe,County Council At Large,,David Morton,REP,0,0,0,0,0,0,0
+Chester,Failsafe,County Council At Large,,Erin Mosley,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,County Council At Large,,David Morton,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,County Council At Large,,Erin Mosley,REP,0,0,0,0,0,0,0
+Chester,Fort Lawn,County Council At Large,,David Morton,REP,135,28,0,0,0,1,106
+Chester,Fort Lawn,County Council At Large,,Erin Mosley,REP,71,19,0,0,0,1,51
+Chester,Great Falls,County Council At Large,,David Morton,REP,19,1,0,0,0,1,17
+Chester,Great Falls,County Council At Large,,Erin Mosley,REP,37,6,0,0,0,1,30
+Chester,Halsellville,County Council At Large,,David Morton,REP,17,2,0,0,0,1,14
+Chester,Halsellville,County Council At Large,,Erin Mosley,REP,7,1,0,0,0,1,5
+Chester,Hazelwood,County Council At Large,,David Morton,REP,54,15,0,0,0,1,38
+Chester,Hazelwood,County Council At Large,,Erin Mosley,REP,70,4,0,0,0,1,65
+Chester,Lando/Lansford,County Council At Large,,David Morton,REP,197,49,0,0,0,3,145
+Chester,Lando/Lansford,County Council At Large,,Erin Mosley,REP,57,17,0,0,0,1,39
+Chester,Lowrys,County Council At Large,,David Morton,REP,66,15,0,0,0,1,50
+Chester,Lowrys,County Council At Large,,Erin Mosley,REP,127,21,0,0,0,1,105
+Chester,Provisional,County Council At Large,,David Morton,REP,0,0,0,0,0,0,0
+Chester,Provisional,County Council At Large,,Erin Mosley,REP,0,0,0,0,0,0,0
+Chester,Richburg,County Council At Large,,David Morton,REP,170,63,0,0,0,5,102
+Chester,Richburg,County Council At Large,,Erin Mosley,REP,65,28,0,0,0,1,36
+Chester,Rodman,County Council At Large,,David Morton,REP,185,74,0,0,0,3,108
+Chester,Rodman,County Council At Large,,Erin Mosley,REP,96,30,0,0,0,0,66
+Chester,Rossville,County Council At Large,,David Morton,REP,44,2,0,0,0,0,42
+Chester,Rossville,County Council At Large,,Erin Mosley,REP,41,6,0,0,0,1,34
+Chester,Wilksburg,County Council At Large,,David Morton,REP,20,1,0,0,0,0,19
+Chester,Wilksburg,County Council At Large,,Erin Mosley,REP,20,1,0,0,0,1,18
+Chester,Baldwin Mill,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,1,1
+Chester,Baldwin Mill,Governor,,Pamela Evette,REP,20,6,0,0,0,1,13
+Chester,Baldwin Mill,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Chester,Baldwin Mill,Governor,,Nancy Mace,REP,13,4,0,0,0,0,9
+Chester,Baldwin Mill,Governor,,Ralph W Norman,REP,19,7,0,0,0,0,12
+Chester,Baldwin Mill,Governor,,Rom Reddy,REP,5,3,0,0,0,0,2
+Chester,Baldwin Mill,Governor,,Alan Wilson,REP,20,3,0,0,0,0,17
+Chester,Baldwin Mill,Governor,,Jermaine Johnson,DEM,111,47,0,0,0,1,63
+Chester,Baldwin Mill,Governor,,Mullins McLeod,DEM,18,8,0,0,0,2,8
+Chester,Baldwin Mill,Governor,,Billy Webster,DEM,15,5,0,0,0,0,10
+Chester,Baton Rouge,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Baton Rouge,Governor,,Pamela Evette,REP,29,4,0,0,0,0,25
+Chester,Baton Rouge,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Chester,Baton Rouge,Governor,,Nancy Mace,REP,17,2,0,0,0,1,14
+Chester,Baton Rouge,Governor,,Ralph W Norman,REP,43,10,0,0,0,0,33
+Chester,Baton Rouge,Governor,,Rom Reddy,REP,16,4,0,0,0,0,12
+Chester,Baton Rouge,Governor,,Alan Wilson,REP,31,10,0,0,0,1,20
+Chester,Baton Rouge,Governor,,Jermaine Johnson,DEM,27,13,0,0,0,2,12
+Chester,Baton Rouge,Governor,,Mullins McLeod,DEM,4,3,0,0,0,0,1
+Chester,Baton Rouge,Governor,,Billy Webster,DEM,6,2,0,0,0,0,4
+Chester,Beckhamville,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Beckhamville,Governor,,Pamela Evette,REP,28,0,0,0,0,0,28
+Chester,Beckhamville,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,1,0
+Chester,Beckhamville,Governor,,Nancy Mace,REP,16,4,0,0,0,1,11
+Chester,Beckhamville,Governor,,Ralph W Norman,REP,33,8,0,0,0,0,25
+Chester,Beckhamville,Governor,,Rom Reddy,REP,6,0,0,0,0,0,6
+Chester,Beckhamville,Governor,,Alan Wilson,REP,24,1,0,0,0,0,23
+Chester,Beckhamville,Governor,,Jermaine Johnson,DEM,70,15,0,0,0,0,55
+Chester,Beckhamville,Governor,,Mullins McLeod,DEM,6,1,0,0,0,0,5
+Chester,Beckhamville,Governor,,Billy Webster,DEM,16,2,0,0,0,1,13
+Chester,Blackstock,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Blackstock,Governor,,Pamela Evette,REP,22,5,0,0,0,0,17
+Chester,Blackstock,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Chester,Blackstock,Governor,,Nancy Mace,REP,13,1,0,0,0,0,12
+Chester,Blackstock,Governor,,Ralph W Norman,REP,38,4,0,0,0,1,33
+Chester,Blackstock,Governor,,Rom Reddy,REP,9,0,0,0,0,1,8
+Chester,Blackstock,Governor,,Alan Wilson,REP,31,5,0,0,0,0,26
+Chester,Blackstock,Governor,,Jermaine Johnson,DEM,60,21,0,0,0,2,37
+Chester,Blackstock,Governor,,Mullins McLeod,DEM,7,3,0,0,0,0,4
+Chester,Blackstock,Governor,,Billy Webster,DEM,6,0,0,0,0,0,6
+Chester,Chester Ward 1,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Chester,Chester Ward 1,Governor,,Pamela Evette,REP,21,4,0,0,0,0,17
+Chester,Chester Ward 1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Chester,Chester Ward 1,Governor,,Nancy Mace,REP,6,1,0,0,0,0,5
+Chester,Chester Ward 1,Governor,,Ralph W Norman,REP,17,6,0,0,0,0,11
+Chester,Chester Ward 1,Governor,,Rom Reddy,REP,5,1,0,0,0,1,3
+Chester,Chester Ward 1,Governor,,Alan Wilson,REP,26,4,0,0,0,3,19
+Chester,Chester Ward 1,Governor,,Jermaine Johnson,DEM,180,101,0,0,0,8,71
+Chester,Chester Ward 1,Governor,,Mullins McLeod,DEM,32,16,0,0,0,5,11
+Chester,Chester Ward 1,Governor,,Billy Webster,DEM,44,25,0,0,0,0,19
+Chester,Chester Ward 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Chester Ward 2,Governor,,Pamela Evette,REP,5,1,0,0,0,0,4
+Chester,Chester Ward 2,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Chester,Chester Ward 2,Governor,,Nancy Mace,REP,6,2,0,0,0,0,4
+Chester,Chester Ward 2,Governor,,Ralph W Norman,REP,7,0,0,0,0,1,6
+Chester,Chester Ward 2,Governor,,Rom Reddy,REP,2,1,0,0,0,0,1
+Chester,Chester Ward 2,Governor,,Alan Wilson,REP,13,8,0,0,0,1,4
+Chester,Chester Ward 2,Governor,,Jermaine Johnson,DEM,138,68,0,0,0,12,58
+Chester,Chester Ward 2,Governor,,Mullins McLeod,DEM,11,5,0,0,0,4,2
+Chester,Chester Ward 2,Governor,,Billy Webster,DEM,17,8,0,0,0,0,9
+Chester,Chester Ward 3,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Chester Ward 3,Governor,,Pamela Evette,REP,53,22,0,0,0,1,30
+Chester,Chester Ward 3,Governor,,Joshua Kimbrell,REP,3,3,0,0,0,0,0
+Chester,Chester Ward 3,Governor,,Nancy Mace,REP,11,6,0,0,0,0,5
+Chester,Chester Ward 3,Governor,,Ralph W Norman,REP,45,20,0,0,0,2,23
+Chester,Chester Ward 3,Governor,,Rom Reddy,REP,4,3,0,0,0,0,1
+Chester,Chester Ward 3,Governor,,Alan Wilson,REP,45,26,0,0,0,0,19
+Chester,Chester Ward 3,Governor,,Jermaine Johnson,DEM,156,87,0,0,0,7,62
+Chester,Chester Ward 3,Governor,,Mullins McLeod,DEM,17,10,0,0,0,1,6
+Chester,Chester Ward 3,Governor,,Billy Webster,DEM,32,17,0,0,0,2,13
+Chester,Chester Ward 4,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Chester,Chester Ward 4,Governor,,Pamela Evette,REP,6,2,0,0,0,0,4
+Chester,Chester Ward 4,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Chester,Chester Ward 4,Governor,,Nancy Mace,REP,7,2,0,0,0,0,5
+Chester,Chester Ward 4,Governor,,Ralph W Norman,REP,17,8,0,0,0,1,8
+Chester,Chester Ward 4,Governor,,Rom Reddy,REP,8,1,0,0,0,0,7
+Chester,Chester Ward 4,Governor,,Alan Wilson,REP,19,9,0,0,0,2,8
+Chester,Chester Ward 4,Governor,,Jermaine Johnson,DEM,154,55,0,0,0,20,79
+Chester,Chester Ward 4,Governor,,Mullins McLeod,DEM,15,11,0,0,0,3,1
+Chester,Chester Ward 4,Governor,,Billy Webster,DEM,31,8,0,0,0,2,21
+Chester,Chester Ward 5,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Chester Ward 5,Governor,,Pamela Evette,REP,43,15,0,0,0,0,28
+Chester,Chester Ward 5,Governor,,Joshua Kimbrell,REP,3,1,0,0,0,0,2
+Chester,Chester Ward 5,Governor,,Nancy Mace,REP,16,7,0,0,0,0,9
+Chester,Chester Ward 5,Governor,,Ralph W Norman,REP,55,20,0,0,0,0,35
+Chester,Chester Ward 5,Governor,,Rom Reddy,REP,11,6,0,0,0,0,5
+Chester,Chester Ward 5,Governor,,Alan Wilson,REP,74,26,0,0,0,2,46
+Chester,Chester Ward 5,Governor,,Jermaine Johnson,DEM,76,42,0,0,0,5,29
+Chester,Chester Ward 5,Governor,,Mullins McLeod,DEM,12,3,0,0,0,0,9
+Chester,Chester Ward 5,Governor,,Billy Webster,DEM,14,10,0,0,0,0,4
+Chester,Edgemoor,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Chester,Edgemoor,Governor,,Pamela Evette,REP,63,9,0,0,0,0,54
+Chester,Edgemoor,Governor,,Joshua Kimbrell,REP,3,1,0,0,0,0,2
+Chester,Edgemoor,Governor,,Nancy Mace,REP,32,8,0,0,0,2,22
+Chester,Edgemoor,Governor,,Ralph W Norman,REP,82,16,0,0,0,0,66
+Chester,Edgemoor,Governor,,Rom Reddy,REP,20,2,0,0,0,0,18
+Chester,Edgemoor,Governor,,Alan Wilson,REP,67,16,0,0,0,0,51
+Chester,Edgemoor,Governor,,Jermaine Johnson,DEM,76,22,0,0,0,0,54
+Chester,Edgemoor,Governor,,Mullins McLeod,DEM,11,6,0,0,0,0,5
+Chester,Edgemoor,Governor,,Billy Webster,DEM,21,3,0,0,0,2,16
+Chester,Eureka Mill,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Eureka Mill,Governor,,Pamela Evette,REP,27,4,0,0,0,0,23
+Chester,Eureka Mill,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Chester,Eureka Mill,Governor,,Nancy Mace,REP,12,5,0,0,0,0,7
+Chester,Eureka Mill,Governor,,Ralph W Norman,REP,26,6,0,0,0,0,20
+Chester,Eureka Mill,Governor,,Rom Reddy,REP,5,1,0,0,0,1,3
+Chester,Eureka Mill,Governor,,Alan Wilson,REP,34,14,0,0,0,1,19
+Chester,Eureka Mill,Governor,,Jermaine Johnson,DEM,219,103,0,0,0,6,110
+Chester,Eureka Mill,Governor,,Mullins McLeod,DEM,10,6,0,0,0,0,4
+Chester,Eureka Mill,Governor,,Billy Webster,DEM,24,13,0,0,0,0,11
+Chester,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Chester,Failsafe,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Chester,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Chester,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Chester,Fort Lawn,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Chester,Fort Lawn,Governor,,Pamela Evette,REP,48,8,0,0,0,0,40
+Chester,Fort Lawn,Governor,,Joshua Kimbrell,REP,3,2,0,0,0,0,1
+Chester,Fort Lawn,Governor,,Nancy Mace,REP,20,1,0,0,0,0,19
+Chester,Fort Lawn,Governor,,Ralph W Norman,REP,68,18,0,0,0,0,50
+Chester,Fort Lawn,Governor,,Rom Reddy,REP,12,3,0,0,0,0,9
+Chester,Fort Lawn,Governor,,Alan Wilson,REP,62,16,0,0,0,2,44
+Chester,Fort Lawn,Governor,,Jermaine Johnson,DEM,97,45,0,0,0,0,52
+Chester,Fort Lawn,Governor,,Mullins McLeod,DEM,23,7,0,0,0,1,15
+Chester,Fort Lawn,Governor,,Billy Webster,DEM,14,6,0,0,0,0,8
+Chester,Great Falls,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Chester,Great Falls,Governor,,Pamela Evette,REP,20,2,0,0,0,0,18
+Chester,Great Falls,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Chester,Great Falls,Governor,,Nancy Mace,REP,8,0,0,0,0,1,7
+Chester,Great Falls,Governor,,Ralph W Norman,REP,20,3,0,0,0,0,17
+Chester,Great Falls,Governor,,Rom Reddy,REP,5,1,0,0,0,0,4
+Chester,Great Falls,Governor,,Alan Wilson,REP,9,2,0,0,0,1,6
+Chester,Great Falls,Governor,,Jermaine Johnson,DEM,76,9,0,0,0,1,66
+Chester,Great Falls,Governor,,Mullins McLeod,DEM,9,2,0,0,0,1,6
+Chester,Great Falls,Governor,,Billy Webster,DEM,12,3,0,0,0,1,8
+Chester,Halsellville,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Halsellville,Governor,,Pamela Evette,REP,7,1,0,0,0,2,4
+Chester,Halsellville,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Chester,Halsellville,Governor,,Nancy Mace,REP,1,1,0,0,0,0,0
+Chester,Halsellville,Governor,,Ralph W Norman,REP,9,1,0,0,0,0,8
+Chester,Halsellville,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Chester,Halsellville,Governor,,Alan Wilson,REP,7,0,0,0,0,0,7
+Chester,Halsellville,Governor,,Jermaine Johnson,DEM,30,14,0,0,0,0,16
+Chester,Halsellville,Governor,,Mullins McLeod,DEM,3,0,0,0,0,1,2
+Chester,Halsellville,Governor,,Billy Webster,DEM,5,2,0,0,0,0,3
+Chester,Hazelwood,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Hazelwood,Governor,,Pamela Evette,REP,21,4,0,0,0,0,17
+Chester,Hazelwood,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Chester,Hazelwood,Governor,,Nancy Mace,REP,17,1,0,0,0,1,15
+Chester,Hazelwood,Governor,,Ralph W Norman,REP,30,7,0,0,0,0,23
+Chester,Hazelwood,Governor,,Rom Reddy,REP,13,3,0,0,0,0,10
+Chester,Hazelwood,Governor,,Alan Wilson,REP,43,4,0,0,0,1,38
+Chester,Hazelwood,Governor,,Jermaine Johnson,DEM,43,21,0,0,0,0,22
+Chester,Hazelwood,Governor,,Mullins McLeod,DEM,8,4,0,0,0,1,3
+Chester,Hazelwood,Governor,,Billy Webster,DEM,8,3,0,0,0,0,5
+Chester,Lando/Lansford,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Chester,Lando/Lansford,Governor,,Pamela Evette,REP,58,21,0,0,0,0,37
+Chester,Lando/Lansford,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Chester,Lando/Lansford,Governor,,Nancy Mace,REP,30,8,0,0,0,1,21
+Chester,Lando/Lansford,Governor,,Ralph W Norman,REP,103,23,0,0,0,2,78
+Chester,Lando/Lansford,Governor,,Rom Reddy,REP,20,3,0,0,0,0,17
+Chester,Lando/Lansford,Governor,,Alan Wilson,REP,48,10,0,0,0,1,37
+Chester,Lando/Lansford,Governor,,Jermaine Johnson,DEM,49,15,0,0,0,6,28
+Chester,Lando/Lansford,Governor,,Mullins McLeod,DEM,7,5,0,0,0,0,2
+Chester,Lando/Lansford,Governor,,Billy Webster,DEM,15,8,0,0,0,2,5
+Chester,Lowrys,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Chester,Lowrys,Governor,,Pamela Evette,REP,36,5,0,0,0,0,31
+Chester,Lowrys,Governor,,Joshua Kimbrell,REP,3,0,0,0,0,1,2
+Chester,Lowrys,Governor,,Nancy Mace,REP,18,6,0,0,0,0,12
+Chester,Lowrys,Governor,,Ralph W Norman,REP,72,14,0,0,0,0,58
+Chester,Lowrys,Governor,,Rom Reddy,REP,3,0,0,0,0,0,3
+Chester,Lowrys,Governor,,Alan Wilson,REP,64,11,0,0,0,1,52
+Chester,Lowrys,Governor,,Jermaine Johnson,DEM,60,36,0,0,0,1,23
+Chester,Lowrys,Governor,,Mullins McLeod,DEM,10,4,0,0,0,0,6
+Chester,Lowrys,Governor,,Billy Webster,DEM,11,4,0,0,0,0,7
+Chester,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Chester,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Chester,Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Chester,Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Chester,Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Chester,Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Chester,Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Chester,Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Chester,Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Chester,Richburg,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Chester,Richburg,Governor,,Pamela Evette,REP,56,15,0,0,0,0,41
+Chester,Richburg,Governor,,Joshua Kimbrell,REP,5,3,0,0,0,1,1
+Chester,Richburg,Governor,,Nancy Mace,REP,34,13,0,0,0,2,19
+Chester,Richburg,Governor,,Ralph W Norman,REP,75,27,0,0,0,0,48
+Chester,Richburg,Governor,,Rom Reddy,REP,10,3,0,0,0,0,7
+Chester,Richburg,Governor,,Alan Wilson,REP,55,29,0,0,0,3,23
+Chester,Richburg,Governor,,Jermaine Johnson,DEM,125,67,0,0,0,2,56
+Chester,Richburg,Governor,,Mullins McLeod,DEM,17,7,0,0,0,1,9
+Chester,Richburg,Governor,,Billy Webster,DEM,27,20,0,0,0,0,7
+Chester,Rodman,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Chester,Rodman,Governor,,Pamela Evette,REP,47,17,0,0,0,2,28
+Chester,Rodman,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Chester,Rodman,Governor,,Nancy Mace,REP,29,11,0,0,0,0,18
+Chester,Rodman,Governor,,Ralph W Norman,REP,69,34,0,0,0,0,35
+Chester,Rodman,Governor,,Rom Reddy,REP,25,5,0,0,0,0,20
+Chester,Rodman,Governor,,Alan Wilson,REP,106,34,0,0,0,1,71
+Chester,Rodman,Governor,,Jermaine Johnson,DEM,104,53,0,0,0,4,47
+Chester,Rodman,Governor,,Mullins McLeod,DEM,12,7,0,0,0,1,4
+Chester,Rodman,Governor,,Billy Webster,DEM,13,7,0,0,0,1,5
+Chester,Rossville,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Rossville,Governor,,Pamela Evette,REP,25,2,0,0,0,0,23
+Chester,Rossville,Governor,,Joshua Kimbrell,REP,1,1,0,0,0,0,0
+Chester,Rossville,Governor,,Nancy Mace,REP,17,3,0,0,0,0,14
+Chester,Rossville,Governor,,Ralph W Norman,REP,26,0,0,0,0,1,25
+Chester,Rossville,Governor,,Rom Reddy,REP,7,1,0,0,0,0,6
+Chester,Rossville,Governor,,Alan Wilson,REP,18,3,0,0,0,1,14
+Chester,Rossville,Governor,,Jermaine Johnson,DEM,12,4,0,0,0,0,8
+Chester,Rossville,Governor,,Mullins McLeod,DEM,5,2,0,0,0,1,2
+Chester,Rossville,Governor,,Billy Webster,DEM,3,2,0,0,0,0,1
+Chester,Wilksburg,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Chester,Wilksburg,Governor,,Pamela Evette,REP,8,1,0,0,0,0,7
+Chester,Wilksburg,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Chester,Wilksburg,Governor,,Nancy Mace,REP,6,0,0,0,0,0,6
+Chester,Wilksburg,Governor,,Ralph W Norman,REP,20,0,0,0,0,1,19
+Chester,Wilksburg,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Chester,Wilksburg,Governor,,Alan Wilson,REP,7,1,0,0,0,1,5
+Chester,Wilksburg,Governor,,Jermaine Johnson,DEM,65,28,0,0,0,0,37
+Chester,Wilksburg,Governor,,Mullins McLeod,DEM,5,3,0,0,0,1,1
+Chester,Wilksburg,Governor,,Billy Webster,DEM,21,5,0,0,0,0,16
+Chester,Baldwin Mill,Secretary of State,,Jason Belton,DEM,91,40,0,0,0,0,51
+Chester,Baldwin Mill,Secretary of State,,Edwina Winter,DEM,52,20,0,0,0,3,29
+Chester,Baton Rouge,Secretary of State,,Jason Belton,DEM,26,15,0,0,0,1,10
+Chester,Baton Rouge,Secretary of State,,Edwina Winter,DEM,11,3,0,0,0,1,7
+Chester,Beckhamville,Secretary of State,,Jason Belton,DEM,57,9,0,0,0,1,47
+Chester,Beckhamville,Secretary of State,,Edwina Winter,DEM,31,9,0,0,0,0,22
+Chester,Blackstock,Secretary of State,,Jason Belton,DEM,47,17,0,0,0,0,30
+Chester,Blackstock,Secretary of State,,Edwina Winter,DEM,24,7,0,0,0,1,16
+Chester,Chester Ward 1,Secretary of State,,Jason Belton,DEM,159,90,0,0,0,5,64
+Chester,Chester Ward 1,Secretary of State,,Edwina Winter,DEM,96,49,0,0,0,8,39
+Chester,Chester Ward 2,Secretary of State,,Jason Belton,DEM,102,51,0,0,0,9,42
+Chester,Chester Ward 2,Secretary of State,,Edwina Winter,DEM,65,30,0,0,0,7,28
+Chester,Chester Ward 3,Secretary of State,,Jason Belton,DEM,115,63,0,0,0,2,50
+Chester,Chester Ward 3,Secretary of State,,Edwina Winter,DEM,84,48,0,0,0,7,29
+Chester,Chester Ward 4,Secretary of State,,Jason Belton,DEM,121,48,0,0,0,9,64
+Chester,Chester Ward 4,Secretary of State,,Edwina Winter,DEM,70,23,0,0,0,13,34
+Chester,Chester Ward 5,Secretary of State,,Jason Belton,DEM,61,34,0,0,0,2,25
+Chester,Chester Ward 5,Secretary of State,,Edwina Winter,DEM,36,18,0,0,0,2,16
+Chester,Edgemoor,Secretary of State,,Jason Belton,DEM,61,26,0,0,0,0,35
+Chester,Edgemoor,Secretary of State,,Edwina Winter,DEM,44,4,0,0,0,1,39
+Chester,Eureka Mill,Secretary of State,,Jason Belton,DEM,187,92,0,0,0,3,92
+Chester,Eureka Mill,Secretary of State,,Edwina Winter,DEM,63,28,0,0,0,3,32
+Chester,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Chester,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Chester,Fort Lawn,Secretary of State,,Jason Belton,DEM,89,46,0,0,0,0,43
+Chester,Fort Lawn,Secretary of State,,Edwina Winter,DEM,44,12,0,0,0,1,31
+Chester,Great Falls,Secretary of State,,Jason Belton,DEM,70,8,0,0,0,1,61
+Chester,Great Falls,Secretary of State,,Edwina Winter,DEM,24,5,0,0,0,0,19
+Chester,Halsellville,Secretary of State,,Jason Belton,DEM,28,13,0,0,0,0,15
+Chester,Halsellville,Secretary of State,,Edwina Winter,DEM,9,3,0,0,0,1,5
+Chester,Hazelwood,Secretary of State,,Jason Belton,DEM,29,16,0,0,0,0,13
+Chester,Hazelwood,Secretary of State,,Edwina Winter,DEM,28,12,0,0,0,0,16
+Chester,Lando/Lansford,Secretary of State,,Jason Belton,DEM,42,19,0,0,0,2,21
+Chester,Lando/Lansford,Secretary of State,,Edwina Winter,DEM,26,9,0,0,0,5,12
+Chester,Lowrys,Secretary of State,,Jason Belton,DEM,51,29,0,0,0,0,22
+Chester,Lowrys,Secretary of State,,Edwina Winter,DEM,31,14,0,0,0,1,16
+Chester,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Chester,Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Chester,Richburg,Secretary of State,,Jason Belton,DEM,91,47,0,0,0,2,42
+Chester,Richburg,Secretary of State,,Edwina Winter,DEM,73,43,0,0,0,0,30
+Chester,Rodman,Secretary of State,,Jason Belton,DEM,85,48,0,0,0,0,37
+Chester,Rodman,Secretary of State,,Edwina Winter,DEM,40,17,0,0,0,6,17
+Chester,Rossville,Secretary of State,,Jason Belton,DEM,14,6,0,0,0,1,7
+Chester,Rossville,Secretary of State,,Edwina Winter,DEM,6,2,0,0,0,0,4
+Chester,Wilksburg,Secretary of State,,Jason Belton,DEM,50,24,0,0,0,0,26
+Chester,Wilksburg,Secretary of State,,Edwina Winter,DEM,39,11,0,0,0,1,27
+Chester,Baldwin Mill,State Superintendent of Education,,Lisa Ellis,DEM,27,6,0,0,0,1,20
+Chester,Baldwin Mill,State Superintendent of Education,,Sylvia Wright,DEM,118,54,0,0,0,2,62
+Chester,Baton Rouge,State Superintendent of Education,,Lisa Ellis,DEM,14,4,0,0,0,3,7
+Chester,Baton Rouge,State Superintendent of Education,,Sylvia Wright,DEM,22,12,0,0,0,0,10
+Chester,Beckhamville,State Superintendent of Education,,Lisa Ellis,DEM,45,8,0,0,0,0,37
+Chester,Beckhamville,State Superintendent of Education,,Sylvia Wright,DEM,45,10,0,0,0,1,34
+Chester,Blackstock,State Superintendent of Education,,Lisa Ellis,DEM,19,3,0,0,0,0,16
+Chester,Blackstock,State Superintendent of Education,,Sylvia Wright,DEM,52,21,0,0,0,1,30
+Chester,Chester Ward 1,State Superintendent of Education,,Lisa Ellis,DEM,47,24,0,0,0,2,21
+Chester,Chester Ward 1,State Superintendent of Education,,Sylvia Wright,DEM,208,115,0,0,0,10,83
+Chester,Chester Ward 2,State Superintendent of Education,,Lisa Ellis,DEM,34,17,0,0,0,5,12
+Chester,Chester Ward 2,State Superintendent of Education,,Sylvia Wright,DEM,136,66,0,0,0,11,59
+Chester,Chester Ward 3,State Superintendent of Education,,Lisa Ellis,DEM,61,32,0,0,0,3,26
+Chester,Chester Ward 3,State Superintendent of Education,,Sylvia Wright,DEM,133,79,0,0,0,5,49
+Chester,Chester Ward 4,State Superintendent of Education,,Lisa Ellis,DEM,46,12,0,0,0,5,29
+Chester,Chester Ward 4,State Superintendent of Education,,Sylvia Wright,DEM,149,61,0,0,0,18,70
+Chester,Chester Ward 5,State Superintendent of Education,,Lisa Ellis,DEM,36,11,0,0,0,1,24
+Chester,Chester Ward 5,State Superintendent of Education,,Sylvia Wright,DEM,61,42,0,0,0,2,17
+Chester,Edgemoor,State Superintendent of Education,,Lisa Ellis,DEM,35,7,0,0,0,2,26
+Chester,Edgemoor,State Superintendent of Education,,Sylvia Wright,DEM,71,23,0,0,0,0,48
+Chester,Eureka Mill,State Superintendent of Education,,Lisa Ellis,DEM,38,21,0,0,0,1,16
+Chester,Eureka Mill,State Superintendent of Education,,Sylvia Wright,DEM,214,101,0,0,0,5,108
+Chester,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Chester,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Chester,Fort Lawn,State Superintendent of Education,,Lisa Ellis,DEM,42,18,0,0,0,0,24
+Chester,Fort Lawn,State Superintendent of Education,,Sylvia Wright,DEM,90,40,0,0,0,1,49
+Chester,Great Falls,State Superintendent of Education,,Lisa Ellis,DEM,21,2,0,0,0,1,18
+Chester,Great Falls,State Superintendent of Education,,Sylvia Wright,DEM,73,12,0,0,0,0,61
+Chester,Halsellville,State Superintendent of Education,,Lisa Ellis,DEM,10,1,0,0,0,1,8
+Chester,Halsellville,State Superintendent of Education,,Sylvia Wright,DEM,27,14,0,0,0,0,13
+Chester,Hazelwood,State Superintendent of Education,,Lisa Ellis,DEM,17,6,0,0,0,0,11
+Chester,Hazelwood,State Superintendent of Education,,Sylvia Wright,DEM,40,22,0,0,0,0,18
+Chester,Lando/Lansford,State Superintendent of Education,,Lisa Ellis,DEM,28,12,0,0,0,1,15
+Chester,Lando/Lansford,State Superintendent of Education,,Sylvia Wright,DEM,43,16,0,0,0,7,20
+Chester,Lowrys,State Superintendent of Education,,Lisa Ellis,DEM,18,6,0,0,0,1,11
+Chester,Lowrys,State Superintendent of Education,,Sylvia Wright,DEM,65,38,0,0,0,0,27
+Chester,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Chester,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Chester,Richburg,State Superintendent of Education,,Lisa Ellis,DEM,50,24,0,0,0,1,25
+Chester,Richburg,State Superintendent of Education,,Sylvia Wright,DEM,118,69,0,0,0,2,47
+Chester,Rodman,State Superintendent of Education,,Lisa Ellis,DEM,34,20,0,0,0,1,13
+Chester,Rodman,State Superintendent of Education,,Sylvia Wright,DEM,92,47,0,0,0,5,40
+Chester,Rossville,State Superintendent of Education,,Lisa Ellis,DEM,6,0,0,0,0,0,6
+Chester,Rossville,State Superintendent of Education,,Sylvia Wright,DEM,14,8,0,0,0,1,5
+Chester,Wilksburg,State Superintendent of Education,,Lisa Ellis,DEM,30,8,0,0,0,0,22
+Chester,Wilksburg,State Superintendent of Education,,Sylvia Wright,DEM,59,28,0,0,0,1,30
+Chester,Baldwin Mill,State Treasurer,,Vincent Coe,DEM,69,27,0,0,0,1,41
+Chester,Baldwin Mill,State Treasurer,,Trav Robertson Jr,DEM,73,32,0,0,0,2,39
+Chester,Baton Rouge,State Treasurer,,Vincent Coe,DEM,25,14,0,0,0,1,10
+Chester,Baton Rouge,State Treasurer,,Trav Robertson Jr,DEM,12,3,0,0,0,2,7
+Chester,Beckhamville,State Treasurer,,Vincent Coe,DEM,50,9,0,0,0,0,41
+Chester,Beckhamville,State Treasurer,,Trav Robertson Jr,DEM,36,9,0,0,0,1,26
+Chester,Blackstock,State Treasurer,,Vincent Coe,DEM,31,10,0,0,0,0,21
+Chester,Blackstock,State Treasurer,,Trav Robertson Jr,DEM,39,14,0,0,0,2,23
+Chester,Chester Ward 1,State Treasurer,,Vincent Coe,DEM,151,83,0,0,0,6,62
+Chester,Chester Ward 1,State Treasurer,,Trav Robertson Jr,DEM,101,54,0,0,0,6,41
+Chester,Chester Ward 2,State Treasurer,,Vincent Coe,DEM,99,53,0,0,0,11,35
+Chester,Chester Ward 2,State Treasurer,,Trav Robertson Jr,DEM,67,29,0,0,0,5,33
+Chester,Chester Ward 3,State Treasurer,,Vincent Coe,DEM,111,67,0,0,0,1,43
+Chester,Chester Ward 3,State Treasurer,,Trav Robertson Jr,DEM,88,45,0,0,0,9,34
+Chester,Chester Ward 4,State Treasurer,,Vincent Coe,DEM,109,44,0,0,0,11,54
+Chester,Chester Ward 4,State Treasurer,,Trav Robertson Jr,DEM,88,30,0,0,0,13,45
+Chester,Chester Ward 5,State Treasurer,,Vincent Coe,DEM,53,30,0,0,0,2,21
+Chester,Chester Ward 5,State Treasurer,,Trav Robertson Jr,DEM,45,22,0,0,0,3,20
+Chester,Edgemoor,State Treasurer,,Vincent Coe,DEM,55,19,0,0,0,0,36
+Chester,Edgemoor,State Treasurer,,Trav Robertson Jr,DEM,51,12,0,0,0,2,37
+Chester,Eureka Mill,State Treasurer,,Vincent Coe,DEM,152,85,0,0,0,4,63
+Chester,Eureka Mill,State Treasurer,,Trav Robertson Jr,DEM,98,36,0,0,0,2,60
+Chester,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Chester,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Chester,Fort Lawn,State Treasurer,,Vincent Coe,DEM,84,44,0,0,0,0,40
+Chester,Fort Lawn,State Treasurer,,Trav Robertson Jr,DEM,47,13,0,0,0,1,33
+Chester,Great Falls,State Treasurer,,Vincent Coe,DEM,50,5,0,0,0,0,45
+Chester,Great Falls,State Treasurer,,Trav Robertson Jr,DEM,43,7,0,0,0,2,34
+Chester,Halsellville,State Treasurer,,Vincent Coe,DEM,25,13,0,0,0,0,12
+Chester,Halsellville,State Treasurer,,Trav Robertson Jr,DEM,13,3,0,0,0,1,9
+Chester,Hazelwood,State Treasurer,,Vincent Coe,DEM,24,15,0,0,0,0,9
+Chester,Hazelwood,State Treasurer,,Trav Robertson Jr,DEM,33,13,0,0,0,0,20
+Chester,Lando/Lansford,State Treasurer,,Vincent Coe,DEM,36,11,0,0,0,8,17
+Chester,Lando/Lansford,State Treasurer,,Trav Robertson Jr,DEM,30,14,0,0,0,0,16
+Chester,Lowrys,State Treasurer,,Vincent Coe,DEM,52,27,0,0,0,0,25
+Chester,Lowrys,State Treasurer,,Trav Robertson Jr,DEM,27,14,0,0,0,1,12
+Chester,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Chester,Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Chester,Richburg,State Treasurer,,Vincent Coe,DEM,82,45,0,0,0,1,36
+Chester,Richburg,State Treasurer,,Trav Robertson Jr,DEM,85,46,0,0,0,2,37
+Chester,Rodman,State Treasurer,,Vincent Coe,DEM,67,39,0,0,0,0,28
+Chester,Rodman,State Treasurer,,Trav Robertson Jr,DEM,55,27,0,0,0,6,22
+Chester,Rossville,State Treasurer,,Vincent Coe,DEM,12,6,0,0,0,1,5
+Chester,Rossville,State Treasurer,,Trav Robertson Jr,DEM,8,2,0,0,0,0,6
+Chester,Wilksburg,State Treasurer,,Vincent Coe,DEM,40,23,0,0,0,1,16
+Chester,Wilksburg,State Treasurer,,Trav Robertson Jr,DEM,47,10,0,0,0,0,37
+Chester,Baldwin Mill,U.S. House,5,Andrew Clough,DEM,77,37,0,0,0,0,40
+Chester,Baldwin Mill,U.S. House,5,Mallory Dittmer,DEM,65,22,0,0,0,3,40
+Chester,Baton Rouge,U.S. House,5,Andrew Clough,DEM,16,8,0,0,0,1,7
+Chester,Baton Rouge,U.S. House,5,Mallory Dittmer,DEM,21,8,0,0,0,2,11
+Chester,Beckhamville,U.S. House,5,Andrew Clough,DEM,63,12,0,0,0,1,50
+Chester,Beckhamville,U.S. House,5,Mallory Dittmer,DEM,26,6,0,0,0,0,20
+Chester,Blackstock,U.S. House,5,Andrew Clough,DEM,32,14,0,0,0,1,17
+Chester,Blackstock,U.S. House,5,Mallory Dittmer,DEM,38,10,0,0,0,0,28
+Chester,Chester Ward 1,U.S. House,5,Andrew Clough,DEM,139,86,0,0,0,10,43
+Chester,Chester Ward 1,U.S. House,5,Mallory Dittmer,DEM,112,52,0,0,0,2,58
+Chester,Chester Ward 2,U.S. House,5,Andrew Clough,DEM,87,49,0,0,0,7,31
+Chester,Chester Ward 2,U.S. House,5,Mallory Dittmer,DEM,75,32,0,0,0,6,37
+Chester,Chester Ward 3,U.S. House,5,Andrew Clough,DEM,102,61,0,0,0,6,35
+Chester,Chester Ward 3,U.S. House,5,Mallory Dittmer,DEM,97,51,0,0,0,3,43
+Chester,Chester Ward 4,U.S. House,5,Andrew Clough,DEM,85,32,0,0,0,16,37
+Chester,Chester Ward 4,U.S. House,5,Mallory Dittmer,DEM,112,41,0,0,0,9,62
+Chester,Chester Ward 5,U.S. House,5,Andrew Clough,DEM,51,26,0,0,0,1,24
+Chester,Chester Ward 5,U.S. House,5,Mallory Dittmer,DEM,46,27,0,0,0,2,17
+Chester,Edgemoor,U.S. House,5,Andrew Clough,DEM,47,12,0,0,0,0,35
+Chester,Edgemoor,U.S. House,5,Mallory Dittmer,DEM,58,17,0,0,0,1,40
+Chester,Eureka Mill,U.S. House,5,Andrew Clough,DEM,133,69,0,0,0,4,60
+Chester,Eureka Mill,U.S. House,5,Mallory Dittmer,DEM,115,50,0,0,0,2,63
+Chester,Failsafe,U.S. House,5,Andrew Clough,DEM,0,0,0,0,0,0,0
+Chester,Failsafe,U.S. House,5,Mallory Dittmer,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,U.S. House,5,Andrew Clough,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,U.S. House,5,Mallory Dittmer,DEM,0,0,0,0,0,0,0
+Chester,Fort Lawn,U.S. House,5,Andrew Clough,DEM,76,39,0,0,0,0,37
+Chester,Fort Lawn,U.S. House,5,Mallory Dittmer,DEM,52,15,0,0,0,1,36
+Chester,Great Falls,U.S. House,5,Andrew Clough,DEM,59,7,0,0,0,1,51
+Chester,Great Falls,U.S. House,5,Mallory Dittmer,DEM,32,6,0,0,0,0,26
+Chester,Halsellville,U.S. House,5,Andrew Clough,DEM,24,11,0,0,0,0,13
+Chester,Halsellville,U.S. House,5,Mallory Dittmer,DEM,14,5,0,0,0,1,8
+Chester,Hazelwood,U.S. House,5,Andrew Clough,DEM,34,21,0,0,0,0,13
+Chester,Hazelwood,U.S. House,5,Mallory Dittmer,DEM,22,7,0,0,0,0,15
+Chester,Lando/Lansford,U.S. House,5,Andrew Clough,DEM,38,17,0,0,0,1,20
+Chester,Lando/Lansford,U.S. House,5,Mallory Dittmer,DEM,31,11,0,0,0,7,13
+Chester,Lowrys,U.S. House,5,Andrew Clough,DEM,43,26,0,0,0,0,17
+Chester,Lowrys,U.S. House,5,Mallory Dittmer,DEM,36,14,0,0,0,1,21
+Chester,Provisional,U.S. House,5,Andrew Clough,DEM,0,0,0,0,0,0,0
+Chester,Provisional,U.S. House,5,Mallory Dittmer,DEM,0,0,0,0,0,0,0
+Chester,Richburg,U.S. House,5,Andrew Clough,DEM,97,55,0,0,0,2,40
+Chester,Richburg,U.S. House,5,Mallory Dittmer,DEM,69,36,0,0,0,0,33
+Chester,Rodman,U.S. House,5,Andrew Clough,DEM,72,38,0,0,0,2,32
+Chester,Rodman,U.S. House,5,Mallory Dittmer,DEM,53,28,0,0,0,3,22
+Chester,Rossville,U.S. House,5,Andrew Clough,DEM,12,4,0,0,0,0,8
+Chester,Rossville,U.S. House,5,Mallory Dittmer,DEM,7,3,0,0,0,1,3
+Chester,Wilksburg,U.S. House,5,Andrew Clough,DEM,50,22,0,0,0,0,28
+Chester,Wilksburg,U.S. House,5,Mallory Dittmer,DEM,36,12,0,0,0,1,23
+Chester,Baldwin Mill,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Chester,Baldwin Mill,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Chester,Baldwin Mill,U.S. Senate,,Lindsey Graham,REP,37,9,0,0,0,1,27
+Chester,Baldwin Mill,U.S. Senate,,Pat Herrmann,REP,8,3,0,0,0,0,5
+Chester,Baldwin Mill,U.S. Senate,,Mark Lynch,REP,28,10,0,0,0,0,18
+Chester,Baldwin Mill,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,1,0
+Chester,Baldwin Mill,U.S. Senate,,Annie Andrews,DEM,56,22,0,0,0,1,33
+Chester,Baldwin Mill,U.S. Senate,,Brandon P Brown,DEM,73,32,0,0,0,2,39
+Chester,Baldwin Mill,U.S. Senate,,Kyle Freeman,DEM,15,4,0,0,0,0,11
+Chester,Baton Rouge,U.S. Senate,,Calvin Cowen,REP,3,1,0,0,0,0,2
+Chester,Baton Rouge,U.S. Senate,,Thomas Keith Dismukes,REP,10,3,0,0,0,2,5
+Chester,Baton Rouge,U.S. Senate,,Lindsey Graham,REP,77,18,0,0,0,0,59
+Chester,Baton Rouge,U.S. Senate,,Pat Herrmann,REP,5,0,0,0,0,0,5
+Chester,Baton Rouge,U.S. Senate,,Mark Lynch,REP,36,7,0,0,0,0,29
+Chester,Baton Rouge,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Chester,Baton Rouge,U.S. Senate,,Annie Andrews,DEM,15,6,0,0,0,1,8
+Chester,Baton Rouge,U.S. Senate,,Brandon P Brown,DEM,15,7,0,0,0,0,8
+Chester,Baton Rouge,U.S. Senate,,Kyle Freeman,DEM,6,3,0,0,0,2,1
+Chester,Beckhamville,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Chester,Beckhamville,U.S. Senate,,Thomas Keith Dismukes,REP,7,1,0,0,0,0,6
+Chester,Beckhamville,U.S. Senate,,Lindsey Graham,REP,58,10,0,0,0,1,47
+Chester,Beckhamville,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,1,2
+Chester,Beckhamville,U.S. Senate,,Mark Lynch,REP,34,3,0,0,0,0,31
+Chester,Beckhamville,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Chester,Beckhamville,U.S. Senate,,Annie Andrews,DEM,28,6,0,0,0,0,22
+Chester,Beckhamville,U.S. Senate,,Brandon P Brown,DEM,56,12,0,0,0,1,43
+Chester,Beckhamville,U.S. Senate,,Kyle Freeman,DEM,4,0,0,0,0,0,4
+Chester,Blackstock,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Chester,Blackstock,U.S. Senate,,Thomas Keith Dismukes,REP,8,0,0,0,0,0,8
+Chester,Blackstock,U.S. Senate,,Lindsey Graham,REP,68,12,0,0,0,0,56
+Chester,Blackstock,U.S. Senate,,Pat Herrmann,REP,5,2,0,0,0,0,3
+Chester,Blackstock,U.S. Senate,,Mark Lynch,REP,27,1,0,0,0,0,26
+Chester,Blackstock,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,1,2
+Chester,Blackstock,U.S. Senate,,Annie Andrews,DEM,33,11,0,0,0,0,22
+Chester,Blackstock,U.S. Senate,,Brandon P Brown,DEM,34,13,0,0,0,1,20
+Chester,Blackstock,U.S. Senate,,Kyle Freeman,DEM,5,0,0,0,0,0,5
+Chester,Chester Ward 1,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Chester,Chester Ward 1,U.S. Senate,,Thomas Keith Dismukes,REP,2,1,0,0,0,0,1
+Chester,Chester Ward 1,U.S. Senate,,Lindsey Graham,REP,44,12,0,0,0,3,29
+Chester,Chester Ward 1,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Chester,Chester Ward 1,U.S. Senate,,Mark Lynch,REP,27,3,0,0,0,1,23
+Chester,Chester Ward 1,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Chester,Chester Ward 1,U.S. Senate,,Annie Andrews,DEM,104,50,0,0,0,9,45
+Chester,Chester Ward 1,U.S. Senate,,Brandon P Brown,DEM,130,80,0,0,0,3,47
+Chester,Chester Ward 1,U.S. Senate,,Kyle Freeman,DEM,22,9,0,0,0,1,12
+Chester,Chester Ward 2,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Chester,Chester Ward 2,U.S. Senate,,Thomas Keith Dismukes,REP,6,1,0,0,0,1,4
+Chester,Chester Ward 2,U.S. Senate,,Lindsey Graham,REP,16,6,0,0,0,0,10
+Chester,Chester Ward 2,U.S. Senate,,Pat Herrmann,REP,2,2,0,0,0,0,0
+Chester,Chester Ward 2,U.S. Senate,,Mark Lynch,REP,9,3,0,0,0,0,6
+Chester,Chester Ward 2,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,1,0
+Chester,Chester Ward 2,U.S. Senate,,Annie Andrews,DEM,70,36,0,0,0,7,27
+Chester,Chester Ward 2,U.S. Senate,,Brandon P Brown,DEM,83,40,0,0,0,9,34
+Chester,Chester Ward 2,U.S. Senate,,Kyle Freeman,DEM,14,5,0,0,0,0,9
+Chester,Chester Ward 3,U.S. Senate,,Calvin Cowen,REP,5,3,0,0,0,0,2
+Chester,Chester Ward 3,U.S. Senate,,Thomas Keith Dismukes,REP,12,7,0,0,0,2,3
+Chester,Chester Ward 3,U.S. Senate,,Lindsey Graham,REP,105,50,0,0,0,0,55
+Chester,Chester Ward 3,U.S. Senate,,Pat Herrmann,REP,3,2,0,0,0,0,1
+Chester,Chester Ward 3,U.S. Senate,,Mark Lynch,REP,29,14,0,0,0,1,14
+Chester,Chester Ward 3,U.S. Senate,,Darius L Mitchell,REP,4,3,0,0,0,0,1
+Chester,Chester Ward 3,U.S. Senate,,Annie Andrews,DEM,86,48,0,0,0,6,32
+Chester,Chester Ward 3,U.S. Senate,,Brandon P Brown,DEM,99,52,0,0,0,3,44
+Chester,Chester Ward 3,U.S. Senate,,Kyle Freeman,DEM,16,13,0,0,0,1,2
+Chester,Chester Ward 4,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,1,0
+Chester,Chester Ward 4,U.S. Senate,,Thomas Keith Dismukes,REP,4,0,0,0,0,0,4
+Chester,Chester Ward 4,U.S. Senate,,Lindsey Graham,REP,39,17,0,0,0,1,21
+Chester,Chester Ward 4,U.S. Senate,,Pat Herrmann,REP,3,1,0,0,0,1,1
+Chester,Chester Ward 4,U.S. Senate,,Mark Lynch,REP,10,3,0,0,0,0,7
+Chester,Chester Ward 4,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Chester,Chester Ward 4,U.S. Senate,,Annie Andrews,DEM,77,25,0,0,0,12,40
+Chester,Chester Ward 4,U.S. Senate,,Brandon P Brown,DEM,105,45,0,0,0,9,51
+Chester,Chester Ward 4,U.S. Senate,,Kyle Freeman,DEM,14,4,0,0,0,2,8
+Chester,Chester Ward 5,U.S. Senate,,Calvin Cowen,REP,3,1,0,0,0,0,2
+Chester,Chester Ward 5,U.S. Senate,,Thomas Keith Dismukes,REP,6,0,0,0,0,0,6
+Chester,Chester Ward 5,U.S. Senate,,Lindsey Graham,REP,143,57,0,0,0,2,84
+Chester,Chester Ward 5,U.S. Senate,,Pat Herrmann,REP,7,3,0,0,0,0,4
+Chester,Chester Ward 5,U.S. Senate,,Mark Lynch,REP,35,10,0,0,0,0,25
+Chester,Chester Ward 5,U.S. Senate,,Darius L Mitchell,REP,3,1,0,0,0,0,2
+Chester,Chester Ward 5,U.S. Senate,,Annie Andrews,DEM,41,16,0,0,0,1,24
+Chester,Chester Ward 5,U.S. Senate,,Brandon P Brown,DEM,52,34,0,0,0,3,15
+Chester,Chester Ward 5,U.S. Senate,,Kyle Freeman,DEM,6,3,0,0,0,0,3
+Chester,Edgemoor,U.S. Senate,,Calvin Cowen,REP,13,3,0,0,0,1,9
+Chester,Edgemoor,U.S. Senate,,Thomas Keith Dismukes,REP,16,5,0,0,0,0,11
+Chester,Edgemoor,U.S. Senate,,Lindsey Graham,REP,158,29,0,0,0,1,128
+Chester,Edgemoor,U.S. Senate,,Pat Herrmann,REP,10,1,0,0,0,0,9
+Chester,Edgemoor,U.S. Senate,,Mark Lynch,REP,64,13,0,0,0,0,51
+Chester,Edgemoor,U.S. Senate,,Darius L Mitchell,REP,7,1,0,0,0,0,6
+Chester,Edgemoor,U.S. Senate,,Annie Andrews,DEM,58,14,0,0,0,1,43
+Chester,Edgemoor,U.S. Senate,,Brandon P Brown,DEM,42,16,0,0,0,0,26
+Chester,Edgemoor,U.S. Senate,,Kyle Freeman,DEM,8,1,0,0,0,0,7
+Chester,Eureka Mill,U.S. Senate,,Calvin Cowen,REP,5,2,0,0,0,0,3
+Chester,Eureka Mill,U.S. Senate,,Thomas Keith Dismukes,REP,4,1,0,0,0,0,3
+Chester,Eureka Mill,U.S. Senate,,Lindsey Graham,REP,63,18,0,0,0,1,44
+Chester,Eureka Mill,U.S. Senate,,Pat Herrmann,REP,2,1,0,0,0,0,1
+Chester,Eureka Mill,U.S. Senate,,Mark Lynch,REP,29,7,0,0,0,1,21
+Chester,Eureka Mill,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Chester,Eureka Mill,U.S. Senate,,Annie Andrews,DEM,74,41,0,0,0,2,31
+Chester,Eureka Mill,U.S. Senate,,Brandon P Brown,DEM,157,73,0,0,0,4,80
+Chester,Eureka Mill,U.S. Senate,,Kyle Freeman,DEM,21,7,0,0,0,0,14
+Chester,Failsafe,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Chester,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Chester,Failsafe,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Chester,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Chester,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Chester,Failsafe,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Chester,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Chester,Failsafe,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Chester,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Chester,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Chester,Fort Lawn,U.S. Senate,,Calvin Cowen,REP,11,2,0,0,0,1,8
+Chester,Fort Lawn,U.S. Senate,,Thomas Keith Dismukes,REP,8,3,0,0,0,0,5
+Chester,Fort Lawn,U.S. Senate,,Lindsey Graham,REP,117,30,0,0,0,0,87
+Chester,Fort Lawn,U.S. Senate,,Pat Herrmann,REP,5,1,0,0,0,1,3
+Chester,Fort Lawn,U.S. Senate,,Mark Lynch,REP,63,9,0,0,0,0,54
+Chester,Fort Lawn,U.S. Senate,,Darius L Mitchell,REP,9,3,0,0,0,0,6
+Chester,Fort Lawn,U.S. Senate,,Annie Andrews,DEM,48,18,0,0,0,0,30
+Chester,Fort Lawn,U.S. Senate,,Brandon P Brown,DEM,69,32,0,0,0,0,37
+Chester,Fort Lawn,U.S. Senate,,Kyle Freeman,DEM,17,7,0,0,0,1,9
+Chester,Great Falls,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Chester,Great Falls,U.S. Senate,,Thomas Keith Dismukes,REP,4,1,0,0,0,1,2
+Chester,Great Falls,U.S. Senate,,Lindsey Graham,REP,37,5,0,0,0,1,31
+Chester,Great Falls,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Chester,Great Falls,U.S. Senate,,Mark Lynch,REP,15,2,0,0,0,0,13
+Chester,Great Falls,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Chester,Great Falls,U.S. Senate,,Annie Andrews,DEM,37,8,0,0,0,1,28
+Chester,Great Falls,U.S. Senate,,Brandon P Brown,DEM,49,4,0,0,0,0,45
+Chester,Great Falls,U.S. Senate,,Kyle Freeman,DEM,8,2,0,0,0,0,6
+Chester,Halsellville,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Chester,Halsellville,U.S. Senate,,Thomas Keith Dismukes,REP,5,1,0,0,0,1,3
+Chester,Halsellville,U.S. Senate,,Lindsey Graham,REP,9,2,0,0,0,0,7
+Chester,Halsellville,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Chester,Halsellville,U.S. Senate,,Mark Lynch,REP,8,1,0,0,0,0,7
+Chester,Halsellville,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,1,0
+Chester,Halsellville,U.S. Senate,,Annie Andrews,DEM,12,2,0,0,0,0,10
+Chester,Halsellville,U.S. Senate,,Brandon P Brown,DEM,24,14,0,0,0,0,10
+Chester,Halsellville,U.S. Senate,,Kyle Freeman,DEM,2,0,0,0,0,1,1
+Chester,Hazelwood,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Chester,Hazelwood,U.S. Senate,,Thomas Keith Dismukes,REP,2,1,0,0,0,0,1
+Chester,Hazelwood,U.S. Senate,,Lindsey Graham,REP,73,12,0,0,0,0,61
+Chester,Hazelwood,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,1,1
+Chester,Hazelwood,U.S. Senate,,Mark Lynch,REP,35,4,0,0,0,0,31
+Chester,Hazelwood,U.S. Senate,,Darius L Mitchell,REP,7,0,0,0,0,1,6
+Chester,Hazelwood,U.S. Senate,,Annie Andrews,DEM,26,11,0,0,0,0,15
+Chester,Hazelwood,U.S. Senate,,Brandon P Brown,DEM,22,12,0,0,0,0,10
+Chester,Hazelwood,U.S. Senate,,Kyle Freeman,DEM,10,5,0,0,0,0,5
+Chester,Lando/Lansford,U.S. Senate,,Calvin Cowen,REP,10,2,0,0,0,0,8
+Chester,Lando/Lansford,U.S. Senate,,Thomas Keith Dismukes,REP,11,2,0,0,0,0,9
+Chester,Lando/Lansford,U.S. Senate,,Lindsey Graham,REP,164,45,0,0,0,2,117
+Chester,Lando/Lansford,U.S. Senate,,Pat Herrmann,REP,7,5,0,0,0,0,2
+Chester,Lando/Lansford,U.S. Senate,,Mark Lynch,REP,58,8,0,0,0,1,49
+Chester,Lando/Lansford,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,1,2
+Chester,Lando/Lansford,U.S. Senate,,Annie Andrews,DEM,33,9,0,0,0,5,19
+Chester,Lando/Lansford,U.S. Senate,,Brandon P Brown,DEM,31,15,0,0,0,3,13
+Chester,Lando/Lansford,U.S. Senate,,Kyle Freeman,DEM,7,4,0,0,0,0,3
+Chester,Lowrys,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Chester,Lowrys,U.S. Senate,,Thomas Keith Dismukes,REP,16,6,0,0,0,0,10
+Chester,Lowrys,U.S. Senate,,Lindsey Graham,REP,122,17,0,0,0,1,104
+Chester,Lowrys,U.S. Senate,,Pat Herrmann,REP,6,2,0,0,0,0,4
+Chester,Lowrys,U.S. Senate,,Mark Lynch,REP,37,6,0,0,0,0,31
+Chester,Lowrys,U.S. Senate,,Darius L Mitchell,REP,9,5,0,0,0,1,3
+Chester,Lowrys,U.S. Senate,,Annie Andrews,DEM,38,15,0,0,0,0,23
+Chester,Lowrys,U.S. Senate,,Brandon P Brown,DEM,34,24,0,0,0,1,9
+Chester,Lowrys,U.S. Senate,,Kyle Freeman,DEM,8,4,0,0,0,0,4
+Chester,Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Chester,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Chester,Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Chester,Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Chester,Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Chester,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Chester,Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Chester,Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Chester,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Chester,Richburg,U.S. Senate,,Calvin Cowen,REP,9,2,0,0,0,0,7
+Chester,Richburg,U.S. Senate,,Thomas Keith Dismukes,REP,7,2,0,0,0,1,4
+Chester,Richburg,U.S. Senate,,Lindsey Graham,REP,147,56,0,0,0,4,87
+Chester,Richburg,U.S. Senate,,Pat Herrmann,REP,8,1,0,0,0,1,6
+Chester,Richburg,U.S. Senate,,Mark Lynch,REP,49,20,0,0,0,0,29
+Chester,Richburg,U.S. Senate,,Darius L Mitchell,REP,5,2,0,0,0,0,3
+Chester,Richburg,U.S. Senate,,Annie Andrews,DEM,66,38,0,0,0,0,28
+Chester,Richburg,U.S. Senate,,Brandon P Brown,DEM,79,40,0,0,0,1,38
+Chester,Richburg,U.S. Senate,,Kyle Freeman,DEM,23,15,0,0,0,1,7
+Chester,Rodman,U.S. Senate,,Calvin Cowen,REP,7,4,0,0,0,0,3
+Chester,Rodman,U.S. Senate,,Thomas Keith Dismukes,REP,12,3,0,0,0,1,8
+Chester,Rodman,U.S. Senate,,Lindsey Graham,REP,153,58,0,0,0,0,95
+Chester,Rodman,U.S. Senate,,Pat Herrmann,REP,12,7,0,0,0,0,5
+Chester,Rodman,U.S. Senate,,Mark Lynch,REP,81,25,0,0,0,0,56
+Chester,Rodman,U.S. Senate,,Darius L Mitchell,REP,7,2,0,0,0,1,4
+Chester,Rodman,U.S. Senate,,Annie Andrews,DEM,56,23,0,0,0,5,28
+Chester,Rodman,U.S. Senate,,Brandon P Brown,DEM,55,33,0,0,0,1,21
+Chester,Rodman,U.S. Senate,,Kyle Freeman,DEM,13,8,0,0,0,0,5
+Chester,Rossville,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Chester,Rossville,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Chester,Rossville,U.S. Senate,,Lindsey Graham,REP,42,6,0,0,0,1,35
+Chester,Rossville,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Chester,Rossville,U.S. Senate,,Mark Lynch,REP,37,4,0,0,0,0,33
+Chester,Rossville,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Chester,Rossville,U.S. Senate,,Annie Andrews,DEM,5,2,0,0,0,0,3
+Chester,Rossville,U.S. Senate,,Brandon P Brown,DEM,11,3,0,0,0,1,7
+Chester,Rossville,U.S. Senate,,Kyle Freeman,DEM,4,3,0,0,0,0,1
+Chester,Wilksburg,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Chester,Wilksburg,U.S. Senate,,Thomas Keith Dismukes,REP,1,1,0,0,0,0,0
+Chester,Wilksburg,U.S. Senate,,Lindsey Graham,REP,27,1,0,0,0,1,25
+Chester,Wilksburg,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,1,1
+Chester,Wilksburg,U.S. Senate,,Mark Lynch,REP,9,0,0,0,0,0,9
+Chester,Wilksburg,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Chester,Wilksburg,U.S. Senate,,Annie Andrews,DEM,34,11,0,0,0,0,23
+Chester,Wilksburg,U.S. Senate,,Brandon P Brown,DEM,41,20,0,0,0,1,20
+Chester,Wilksburg,U.S. Senate,,Kyle Freeman,DEM,13,3,0,0,0,0,10

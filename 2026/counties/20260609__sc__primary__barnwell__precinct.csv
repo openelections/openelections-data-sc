@@ -1,0 +1,877 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Barnwell,Barnwell No. 1,Advisory Question 1,,Yes,REP,53,19,0,0,0,0,34
+Barnwell,Barnwell No. 1,Advisory Question 1,,No,REP,6,4,0,0,0,0,2
+Barnwell,Barnwell No. 2,Advisory Question 1,,Yes,REP,211,81,0,0,0,1,129
+Barnwell,Barnwell No. 2,Advisory Question 1,,No,REP,22,9,0,0,0,0,13
+Barnwell,Barnwell No. 3,Advisory Question 1,,Yes,REP,238,94,0,0,0,3,141
+Barnwell,Barnwell No. 3,Advisory Question 1,,No,REP,35,16,0,0,0,0,19
+Barnwell,Barnwell No. 4,Advisory Question 1,,Yes,REP,108,42,0,0,0,1,65
+Barnwell,Barnwell No. 4,Advisory Question 1,,No,REP,12,6,0,0,0,0,6
+Barnwell,Blackville No. 1,Advisory Question 1,,Yes,REP,47,11,0,0,0,0,36
+Barnwell,Blackville No. 1,Advisory Question 1,,No,REP,8,3,0,0,0,0,5
+Barnwell,Blackville No. 2,Advisory Question 1,,Yes,REP,38,12,0,0,0,0,26
+Barnwell,Blackville No. 2,Advisory Question 1,,No,REP,1,0,0,0,0,0,1
+Barnwell,Elko,Advisory Question 1,,Yes,REP,60,7,0,0,0,3,50
+Barnwell,Elko,Advisory Question 1,,No,REP,11,6,0,0,0,0,5
+Barnwell,Failsafe,Advisory Question 1,,Yes,REP,1,0,0,0,1,0,0
+Barnwell,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Advisory Question 1,,Yes,REP,1,0,1,0,0,0,0
+Barnwell,Failsafe Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Barnwell,Friendship,Advisory Question 1,,Yes,REP,102,15,0,0,0,0,87
+Barnwell,Friendship,Advisory Question 1,,No,REP,14,2,0,0,0,0,12
+Barnwell,Healing Springs,Advisory Question 1,,Yes,REP,24,9,0,0,0,0,15
+Barnwell,Healing Springs,Advisory Question 1,,No,REP,3,2,0,0,0,0,1
+Barnwell,Hilda,Advisory Question 1,,Yes,REP,130,19,0,0,0,0,111
+Barnwell,Hilda,Advisory Question 1,,No,REP,9,2,0,0,0,0,7
+Barnwell,Kline,Advisory Question 1,,Yes,REP,71,15,0,0,0,0,56
+Barnwell,Kline,Advisory Question 1,,No,REP,2,0,0,0,0,0,2
+Barnwell,Provisional,Advisory Question 1,,Yes,REP,1,0,0,1,0,0,0
+Barnwell,Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Barnwell,Snelling,Advisory Question 1,,Yes,REP,123,19,0,0,0,0,104
+Barnwell,Snelling,Advisory Question 1,,No,REP,19,5,0,0,0,0,14
+Barnwell,Williston No. 1,Advisory Question 1,,Yes,REP,86,11,0,0,0,0,75
+Barnwell,Williston No. 1,Advisory Question 1,,No,REP,10,2,0,0,0,0,8
+Barnwell,Williston No. 2,Advisory Question 1,,Yes,REP,65,11,0,0,0,2,52
+Barnwell,Williston No. 2,Advisory Question 1,,No,REP,10,3,0,0,0,0,7
+Barnwell,Williston No. 3,Advisory Question 1,,Yes,REP,97,27,0,0,0,0,70
+Barnwell,Williston No. 3,Advisory Question 1,,No,REP,8,3,0,0,0,0,5
+Barnwell,Barnwell No. 1,Advisory Question 2,,Yes,REP,36,8,0,0,0,0,28
+Barnwell,Barnwell No. 1,Advisory Question 2,,No,REP,22,14,0,0,0,0,8
+Barnwell,Barnwell No. 2,Advisory Question 2,,Yes,REP,179,65,0,0,0,1,113
+Barnwell,Barnwell No. 2,Advisory Question 2,,No,REP,52,24,0,0,0,0,28
+Barnwell,Barnwell No. 3,Advisory Question 2,,Yes,REP,196,78,0,0,0,3,115
+Barnwell,Barnwell No. 3,Advisory Question 2,,No,REP,73,31,0,0,0,0,42
+Barnwell,Barnwell No. 4,Advisory Question 2,,Yes,REP,91,35,0,0,0,0,56
+Barnwell,Barnwell No. 4,Advisory Question 2,,No,REP,29,12,0,0,0,1,16
+Barnwell,Blackville No. 1,Advisory Question 2,,Yes,REP,41,10,0,0,0,0,31
+Barnwell,Blackville No. 1,Advisory Question 2,,No,REP,16,5,0,0,0,0,11
+Barnwell,Blackville No. 2,Advisory Question 2,,Yes,REP,29,7,0,0,0,0,22
+Barnwell,Blackville No. 2,Advisory Question 2,,No,REP,10,5,0,0,0,0,5
+Barnwell,Elko,Advisory Question 2,,Yes,REP,55,6,0,0,0,3,46
+Barnwell,Elko,Advisory Question 2,,No,REP,14,6,0,0,0,0,8
+Barnwell,Failsafe,Advisory Question 2,,Yes,REP,1,0,0,0,1,0,0
+Barnwell,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Advisory Question 2,,Yes,REP,1,0,1,0,0,0,0
+Barnwell,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Barnwell,Friendship,Advisory Question 2,,Yes,REP,90,14,0,0,0,0,76
+Barnwell,Friendship,Advisory Question 2,,No,REP,26,3,0,0,0,0,23
+Barnwell,Healing Springs,Advisory Question 2,,Yes,REP,19,6,0,0,0,0,13
+Barnwell,Healing Springs,Advisory Question 2,,No,REP,7,4,0,0,0,0,3
+Barnwell,Hilda,Advisory Question 2,,Yes,REP,117,17,0,0,0,0,100
+Barnwell,Hilda,Advisory Question 2,,No,REP,22,4,0,0,0,0,18
+Barnwell,Kline,Advisory Question 2,,Yes,REP,61,15,0,0,0,0,46
+Barnwell,Kline,Advisory Question 2,,No,REP,10,0,0,0,0,0,10
+Barnwell,Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Barnwell,Snelling,Advisory Question 2,,Yes,REP,103,12,0,0,0,0,91
+Barnwell,Snelling,Advisory Question 2,,No,REP,38,12,0,0,0,0,26
+Barnwell,Williston No. 1,Advisory Question 2,,Yes,REP,77,10,0,0,0,0,67
+Barnwell,Williston No. 1,Advisory Question 2,,No,REP,20,3,0,0,0,0,17
+Barnwell,Williston No. 2,Advisory Question 2,,Yes,REP,58,11,0,0,0,1,46
+Barnwell,Williston No. 2,Advisory Question 2,,No,REP,17,3,0,0,0,1,13
+Barnwell,Williston No. 3,Advisory Question 2,,Yes,REP,80,19,0,0,0,0,61
+Barnwell,Williston No. 3,Advisory Question 2,,No,REP,23,10,0,0,0,0,13
+Barnwell,Barnwell No. 1,Attorney General,,Stephen Goldfinch,REP,25,11,0,0,0,0,14
+Barnwell,Barnwell No. 1,Attorney General,,David M Pascoe,REP,14,4,0,0,0,0,10
+Barnwell,Barnwell No. 1,Attorney General,,David Stumbo,REP,13,6,0,0,0,0,7
+Barnwell,Barnwell No. 2,Attorney General,,Stephen Goldfinch,REP,74,27,0,0,0,0,47
+Barnwell,Barnwell No. 2,Attorney General,,David M Pascoe,REP,76,34,0,0,0,0,42
+Barnwell,Barnwell No. 2,Attorney General,,David Stumbo,REP,71,27,0,0,0,0,44
+Barnwell,Barnwell No. 3,Attorney General,,Stephen Goldfinch,REP,98,37,0,0,0,2,59
+Barnwell,Barnwell No. 3,Attorney General,,David M Pascoe,REP,93,37,0,0,0,1,55
+Barnwell,Barnwell No. 3,Attorney General,,David Stumbo,REP,62,26,0,0,0,0,36
+Barnwell,Barnwell No. 4,Attorney General,,Stephen Goldfinch,REP,53,19,0,0,0,0,34
+Barnwell,Barnwell No. 4,Attorney General,,David M Pascoe,REP,43,23,0,0,0,0,20
+Barnwell,Barnwell No. 4,Attorney General,,David Stumbo,REP,19,4,0,0,0,1,14
+Barnwell,Blackville No. 1,Attorney General,,Stephen Goldfinch,REP,22,6,0,0,0,0,16
+Barnwell,Blackville No. 1,Attorney General,,David M Pascoe,REP,24,8,0,0,0,0,16
+Barnwell,Blackville No. 1,Attorney General,,David Stumbo,REP,8,1,0,0,0,0,7
+Barnwell,Blackville No. 2,Attorney General,,Stephen Goldfinch,REP,18,5,0,0,0,0,13
+Barnwell,Blackville No. 2,Attorney General,,David M Pascoe,REP,14,5,0,0,0,0,9
+Barnwell,Blackville No. 2,Attorney General,,David Stumbo,REP,6,2,0,0,0,0,4
+Barnwell,Elko,Attorney General,,Stephen Goldfinch,REP,15,0,0,0,0,1,14
+Barnwell,Elko,Attorney General,,David M Pascoe,REP,40,10,0,0,0,2,28
+Barnwell,Elko,Attorney General,,David Stumbo,REP,10,2,0,0,0,0,8
+Barnwell,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,Attorney General,,David M Pascoe,REP,1,0,0,0,1,0,0
+Barnwell,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Attorney General,,David Stumbo,REP,1,0,1,0,0,0,0
+Barnwell,Friendship,Attorney General,,Stephen Goldfinch,REP,56,7,0,0,0,0,49
+Barnwell,Friendship,Attorney General,,David M Pascoe,REP,41,4,0,0,0,0,37
+Barnwell,Friendship,Attorney General,,David Stumbo,REP,12,2,0,0,0,0,10
+Barnwell,Healing Springs,Attorney General,,Stephen Goldfinch,REP,5,1,0,0,0,0,4
+Barnwell,Healing Springs,Attorney General,,David M Pascoe,REP,15,8,0,0,0,0,7
+Barnwell,Healing Springs,Attorney General,,David Stumbo,REP,5,2,0,0,0,0,3
+Barnwell,Hilda,Attorney General,,Stephen Goldfinch,REP,49,7,0,0,0,0,42
+Barnwell,Hilda,Attorney General,,David M Pascoe,REP,47,5,0,0,0,0,42
+Barnwell,Hilda,Attorney General,,David Stumbo,REP,40,9,0,0,0,0,31
+Barnwell,Kline,Attorney General,,Stephen Goldfinch,REP,29,9,0,0,0,0,20
+Barnwell,Kline,Attorney General,,David M Pascoe,REP,22,3,0,0,0,0,19
+Barnwell,Kline,Attorney General,,David Stumbo,REP,16,4,0,0,0,0,12
+Barnwell,Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,Attorney General,,David Stumbo,REP,1,0,0,1,0,0,0
+Barnwell,Snelling,Attorney General,,Stephen Goldfinch,REP,46,7,0,0,0,0,39
+Barnwell,Snelling,Attorney General,,David M Pascoe,REP,53,11,0,0,0,0,42
+Barnwell,Snelling,Attorney General,,David Stumbo,REP,35,6,0,0,0,0,29
+Barnwell,Williston No. 1,Attorney General,,Stephen Goldfinch,REP,33,3,0,0,0,0,30
+Barnwell,Williston No. 1,Attorney General,,David M Pascoe,REP,42,6,0,0,0,0,36
+Barnwell,Williston No. 1,Attorney General,,David Stumbo,REP,20,4,0,0,0,0,16
+Barnwell,Williston No. 2,Attorney General,,Stephen Goldfinch,REP,30,7,0,0,0,1,22
+Barnwell,Williston No. 2,Attorney General,,David M Pascoe,REP,22,5,0,0,0,0,17
+Barnwell,Williston No. 2,Attorney General,,David Stumbo,REP,13,0,0,0,0,0,13
+Barnwell,Williston No. 3,Attorney General,,Stephen Goldfinch,REP,42,9,0,0,0,0,33
+Barnwell,Williston No. 3,Attorney General,,David M Pascoe,REP,33,11,0,0,0,0,22
+Barnwell,Williston No. 3,Attorney General,,David Stumbo,REP,27,8,0,0,0,0,19
+Barnwell,Barnwell No. 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,4,0,0,0,0,3
+Barnwell,Barnwell No. 1,Commissioner of Agriculture,,Danny Ford,REP,20,7,0,0,0,0,13
+Barnwell,Barnwell No. 1,Commissioner of Agriculture,,Cody Simpson,REP,24,10,0,0,0,0,14
+Barnwell,Barnwell No. 1,Commissioner of Agriculture,,Fred West,REP,6,1,0,0,0,0,5
+Barnwell,Barnwell No. 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,26,9,0,0,0,0,17
+Barnwell,Barnwell No. 2,Commissioner of Agriculture,,Danny Ford,REP,95,33,0,0,0,1,61
+Barnwell,Barnwell No. 2,Commissioner of Agriculture,,Cody Simpson,REP,78,35,0,0,0,0,43
+Barnwell,Barnwell No. 2,Commissioner of Agriculture,,Fred West,REP,26,10,0,0,0,0,16
+Barnwell,Barnwell No. 3,Commissioner of Agriculture,,Jeremy B Cannon,REP,36,18,0,0,0,1,17
+Barnwell,Barnwell No. 3,Commissioner of Agriculture,,Danny Ford,REP,99,41,0,0,0,2,56
+Barnwell,Barnwell No. 3,Commissioner of Agriculture,,Cody Simpson,REP,93,30,0,0,0,0,63
+Barnwell,Barnwell No. 3,Commissioner of Agriculture,,Fred West,REP,28,14,0,0,0,0,14
+Barnwell,Barnwell No. 4,Commissioner of Agriculture,,Jeremy B Cannon,REP,19,9,0,0,0,0,10
+Barnwell,Barnwell No. 4,Commissioner of Agriculture,,Danny Ford,REP,37,16,0,0,0,0,21
+Barnwell,Barnwell No. 4,Commissioner of Agriculture,,Cody Simpson,REP,44,17,0,0,0,1,26
+Barnwell,Barnwell No. 4,Commissioner of Agriculture,,Fred West,REP,17,5,0,0,0,0,12
+Barnwell,Blackville No. 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,10,2,0,0,0,0,8
+Barnwell,Blackville No. 1,Commissioner of Agriculture,,Danny Ford,REP,22,5,0,0,0,0,17
+Barnwell,Blackville No. 1,Commissioner of Agriculture,,Cody Simpson,REP,14,6,0,0,0,0,8
+Barnwell,Blackville No. 1,Commissioner of Agriculture,,Fred West,REP,7,0,0,0,0,0,7
+Barnwell,Blackville No. 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,8,2,0,0,0,0,6
+Barnwell,Blackville No. 2,Commissioner of Agriculture,,Danny Ford,REP,22,7,0,0,0,0,15
+Barnwell,Blackville No. 2,Commissioner of Agriculture,,Cody Simpson,REP,6,2,0,0,0,0,4
+Barnwell,Blackville No. 2,Commissioner of Agriculture,,Fred West,REP,2,0,0,0,0,0,2
+Barnwell,Elko,Commissioner of Agriculture,,Jeremy B Cannon,REP,8,1,0,0,0,1,6
+Barnwell,Elko,Commissioner of Agriculture,,Danny Ford,REP,25,5,0,0,0,0,20
+Barnwell,Elko,Commissioner of Agriculture,,Cody Simpson,REP,33,5,0,0,0,1,27
+Barnwell,Elko,Commissioner of Agriculture,,Fred West,REP,3,1,0,0,0,1,1
+Barnwell,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,0,1,0,0
+Barnwell,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,1,0,1,0,0,0,0
+Barnwell,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Barnwell,Friendship,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,2,0,0,0,0,9
+Barnwell,Friendship,Commissioner of Agriculture,,Danny Ford,REP,62,9,0,0,0,0,53
+Barnwell,Friendship,Commissioner of Agriculture,,Cody Simpson,REP,29,3,0,0,0,0,26
+Barnwell,Friendship,Commissioner of Agriculture,,Fred West,REP,7,0,0,0,0,0,7
+Barnwell,Healing Springs,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,2,0,0,0,0,5
+Barnwell,Healing Springs,Commissioner of Agriculture,,Danny Ford,REP,10,3,0,0,0,0,7
+Barnwell,Healing Springs,Commissioner of Agriculture,,Cody Simpson,REP,8,6,0,0,0,0,2
+Barnwell,Healing Springs,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Barnwell,Hilda,Commissioner of Agriculture,,Jeremy B Cannon,REP,29,5,0,0,0,0,24
+Barnwell,Hilda,Commissioner of Agriculture,,Danny Ford,REP,38,6,0,0,0,0,32
+Barnwell,Hilda,Commissioner of Agriculture,,Cody Simpson,REP,45,8,0,0,0,0,37
+Barnwell,Hilda,Commissioner of Agriculture,,Fred West,REP,22,2,0,0,0,0,20
+Barnwell,Kline,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,3,0,0,0,0,8
+Barnwell,Kline,Commissioner of Agriculture,,Danny Ford,REP,23,4,0,0,0,0,19
+Barnwell,Kline,Commissioner of Agriculture,,Cody Simpson,REP,32,8,0,0,0,0,24
+Barnwell,Kline,Commissioner of Agriculture,,Fred West,REP,4,1,0,0,0,0,3
+Barnwell,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,1,0,0,0
+Barnwell,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Barnwell,Snelling,Commissioner of Agriculture,,Jeremy B Cannon,REP,30,7,0,0,0,0,23
+Barnwell,Snelling,Commissioner of Agriculture,,Danny Ford,REP,52,11,0,0,0,0,41
+Barnwell,Snelling,Commissioner of Agriculture,,Cody Simpson,REP,46,5,0,0,0,0,41
+Barnwell,Snelling,Commissioner of Agriculture,,Fred West,REP,10,0,0,0,0,0,10
+Barnwell,Williston No. 1,Commissioner of Agriculture,,Jeremy B Cannon,REP,14,1,0,0,0,0,13
+Barnwell,Williston No. 1,Commissioner of Agriculture,,Danny Ford,REP,43,5,0,0,0,0,38
+Barnwell,Williston No. 1,Commissioner of Agriculture,,Cody Simpson,REP,31,5,0,0,0,0,26
+Barnwell,Williston No. 1,Commissioner of Agriculture,,Fred West,REP,8,2,0,0,0,0,6
+Barnwell,Williston No. 2,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,2,0,0,0,0,5
+Barnwell,Williston No. 2,Commissioner of Agriculture,,Danny Ford,REP,33,4,0,0,0,1,28
+Barnwell,Williston No. 2,Commissioner of Agriculture,,Cody Simpson,REP,23,6,0,0,0,0,17
+Barnwell,Williston No. 2,Commissioner of Agriculture,,Fred West,REP,2,1,0,0,0,0,1
+Barnwell,Williston No. 3,Commissioner of Agriculture,,Jeremy B Cannon,REP,20,6,0,0,0,0,14
+Barnwell,Williston No. 3,Commissioner of Agriculture,,Danny Ford,REP,37,10,0,0,0,0,27
+Barnwell,Williston No. 3,Commissioner of Agriculture,,Cody Simpson,REP,41,11,0,0,0,0,30
+Barnwell,Williston No. 3,Commissioner of Agriculture,,Fred West,REP,5,2,0,0,0,0,3
+Barnwell,Barnwell No. 1,Comptroller General,,Tiffany Boozer,DEM,35,23,0,0,0,0,12
+Barnwell,Barnwell No. 1,Comptroller General,,Bruce K Cole,DEM,18,13,0,0,0,0,5
+Barnwell,Barnwell No. 2,Comptroller General,,Tiffany Boozer,DEM,111,68,0,0,0,5,38
+Barnwell,Barnwell No. 2,Comptroller General,,Bruce K Cole,DEM,24,14,0,0,0,1,9
+Barnwell,Barnwell No. 3,Comptroller General,,Tiffany Boozer,DEM,114,53,0,0,0,4,57
+Barnwell,Barnwell No. 3,Comptroller General,,Bruce K Cole,DEM,36,15,0,0,0,2,19
+Barnwell,Barnwell No. 4,Comptroller General,,Tiffany Boozer,DEM,131,76,0,0,0,1,54
+Barnwell,Barnwell No. 4,Comptroller General,,Bruce K Cole,DEM,32,17,0,0,0,1,14
+Barnwell,Blackville No. 1,Comptroller General,,Tiffany Boozer,DEM,106,60,0,0,0,4,42
+Barnwell,Blackville No. 1,Comptroller General,,Bruce K Cole,DEM,44,26,0,0,0,4,14
+Barnwell,Blackville No. 2,Comptroller General,,Tiffany Boozer,DEM,84,48,0,0,0,2,34
+Barnwell,Blackville No. 2,Comptroller General,,Bruce K Cole,DEM,26,17,0,0,0,1,8
+Barnwell,Elko,Comptroller General,,Tiffany Boozer,DEM,54,27,0,0,0,3,24
+Barnwell,Elko,Comptroller General,,Bruce K Cole,DEM,15,8,0,0,0,0,7
+Barnwell,Failsafe,Comptroller General,,Tiffany Boozer,DEM,2,0,0,0,2,0,0
+Barnwell,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,1,0,1,0,0,0,0
+Barnwell,Friendship,Comptroller General,,Tiffany Boozer,DEM,5,4,0,0,0,0,1
+Barnwell,Friendship,Comptroller General,,Bruce K Cole,DEM,3,3,0,0,0,0,0
+Barnwell,Healing Springs,Comptroller General,,Tiffany Boozer,DEM,133,87,0,0,0,10,36
+Barnwell,Healing Springs,Comptroller General,,Bruce K Cole,DEM,60,39,0,0,0,2,19
+Barnwell,Hilda,Comptroller General,,Tiffany Boozer,DEM,10,7,0,0,0,2,1
+Barnwell,Hilda,Comptroller General,,Bruce K Cole,DEM,6,5,0,0,0,0,1
+Barnwell,Kline,Comptroller General,,Tiffany Boozer,DEM,37,16,0,0,0,4,17
+Barnwell,Kline,Comptroller General,,Bruce K Cole,DEM,9,2,0,0,0,0,7
+Barnwell,Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Barnwell,Snelling,Comptroller General,,Tiffany Boozer,DEM,91,60,0,0,0,1,30
+Barnwell,Snelling,Comptroller General,,Bruce K Cole,DEM,21,9,0,0,0,0,12
+Barnwell,Williston No. 1,Comptroller General,,Tiffany Boozer,DEM,149,93,0,0,0,6,50
+Barnwell,Williston No. 1,Comptroller General,,Bruce K Cole,DEM,35,24,0,0,0,2,9
+Barnwell,Williston No. 2,Comptroller General,,Tiffany Boozer,DEM,31,19,0,0,0,0,12
+Barnwell,Williston No. 2,Comptroller General,,Bruce K Cole,DEM,9,6,0,0,0,0,3
+Barnwell,Williston No. 3,Comptroller General,,Tiffany Boozer,DEM,66,33,0,0,0,4,29
+Barnwell,Williston No. 3,Comptroller General,,Bruce K Cole,DEM,17,8,0,0,0,0,9
+Barnwell,Blackville No. 1,County Council District 2,,David Kenner,DEM,97,57,0,0,0,6,34
+Barnwell,Blackville No. 1,County Council District 2,,Fonda Ephriam Patrick,DEM,47,28,0,0,0,1,18
+Barnwell,Blackville No. 2,County Council District 2,,David Kenner,DEM,74,46,0,0,0,2,26
+Barnwell,Blackville No. 2,County Council District 2,,Fonda Ephriam Patrick,DEM,46,28,0,0,0,1,17
+Barnwell,Failsafe,County Council District 2,,David Kenner,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe,County Council District 2,,Fonda Ephriam Patrick,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,County Council District 2,,David Kenner,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,County Council District 2,,Fonda Ephriam Patrick,DEM,0,0,0,0,0,0,0
+Barnwell,Healing Springs,County Council District 2,,David Kenner,DEM,107,64,0,0,0,6,37
+Barnwell,Healing Springs,County Council District 2,,Fonda Ephriam Patrick,DEM,84,59,0,0,0,4,21
+Barnwell,Hilda,County Council District 2,,David Kenner,DEM,2,1,0,0,0,0,1
+Barnwell,Hilda,County Council District 2,,Fonda Ephriam Patrick,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,County Council District 2,,David Kenner,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,County Council District 2,,Fonda Ephriam Patrick,DEM,0,0,0,0,0,0,0
+Barnwell,Barnwell No. 1,County Council District 6,,Harold Buckmon,DEM,10,8,0,0,0,0,2
+Barnwell,Barnwell No. 1,County Council District 6,,Annie Bradley Patrick,DEM,8,6,0,0,0,0,2
+Barnwell,Barnwell No. 3,County Council District 6,,Harold Buckmon,DEM,27,12,0,0,0,1,14
+Barnwell,Barnwell No. 3,County Council District 6,,Annie Bradley Patrick,DEM,36,19,0,0,0,2,15
+Barnwell,Barnwell No. 4,County Council District 6,,Harold Buckmon,DEM,91,56,0,0,0,1,34
+Barnwell,Barnwell No. 4,County Council District 6,,Annie Bradley Patrick,DEM,60,34,0,0,0,1,25
+Barnwell,Failsafe,County Council District 6,,Harold Buckmon,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe,County Council District 6,,Annie Bradley Patrick,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,County Council District 6,,Harold Buckmon,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,County Council District 6,,Annie Bradley Patrick,DEM,0,0,0,0,0,0,0
+Barnwell,Kline,County Council District 6,,Harold Buckmon,DEM,4,3,0,0,0,0,1
+Barnwell,Kline,County Council District 6,,Annie Bradley Patrick,DEM,16,9,0,0,0,4,3
+Barnwell,Provisional,County Council District 6,,Harold Buckmon,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,County Council District 6,,Annie Bradley Patrick,DEM,0,0,0,0,0,0,0
+Barnwell,Snelling,County Council District 6,,Harold Buckmon,DEM,38,25,0,0,0,0,13
+Barnwell,Snelling,County Council District 6,,Annie Bradley Patrick,DEM,24,14,0,0,0,1,9
+Barnwell,Barnwell No. 1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Barnwell,Barnwell No. 1,Governor,,Pamela Evette,REP,18,12,0,0,0,0,6
+Barnwell,Barnwell No. 1,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Barnwell,Barnwell No. 1,Governor,,Nancy Mace,REP,16,1,0,0,0,0,15
+Barnwell,Barnwell No. 1,Governor,,Ralph W Norman,REP,4,3,0,0,0,0,1
+Barnwell,Barnwell No. 1,Governor,,Rom Reddy,REP,2,0,0,0,0,0,2
+Barnwell,Barnwell No. 1,Governor,,Alan Wilson,REP,19,7,0,0,0,0,12
+Barnwell,Barnwell No. 1,Governor,,Jermaine Johnson,DEM,39,28,0,0,0,0,11
+Barnwell,Barnwell No. 1,Governor,,Mullins McLeod,DEM,5,3,0,0,0,0,2
+Barnwell,Barnwell No. 1,Governor,,Billy Webster,DEM,9,5,0,0,0,0,4
+Barnwell,Barnwell No. 2,Governor,,Jacqueline Hicks DuBose,REP,3,3,0,0,0,0,0
+Barnwell,Barnwell No. 2,Governor,,Pamela Evette,REP,64,16,0,0,0,1,47
+Barnwell,Barnwell No. 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Barnwell,Barnwell No. 2,Governor,,Nancy Mace,REP,23,7,0,0,0,0,16
+Barnwell,Barnwell No. 2,Governor,,Ralph W Norman,REP,37,15,0,0,0,0,22
+Barnwell,Barnwell No. 2,Governor,,Rom Reddy,REP,17,10,0,0,0,0,7
+Barnwell,Barnwell No. 2,Governor,,Alan Wilson,REP,91,40,0,0,0,0,51
+Barnwell,Barnwell No. 2,Governor,,Jermaine Johnson,DEM,118,73,0,0,0,3,42
+Barnwell,Barnwell No. 2,Governor,,Mullins McLeod,DEM,10,8,0,0,0,0,2
+Barnwell,Barnwell No. 2,Governor,,Billy Webster,DEM,12,3,0,0,0,3,6
+Barnwell,Barnwell No. 3,Governor,,Jacqueline Hicks DuBose,REP,4,2,0,0,0,0,2
+Barnwell,Barnwell No. 3,Governor,,Pamela Evette,REP,81,31,0,0,0,1,49
+Barnwell,Barnwell No. 3,Governor,,Joshua Kimbrell,REP,2,2,0,0,0,0,0
+Barnwell,Barnwell No. 3,Governor,,Nancy Mace,REP,31,10,0,0,0,1,20
+Barnwell,Barnwell No. 3,Governor,,Ralph W Norman,REP,25,9,0,0,0,0,16
+Barnwell,Barnwell No. 3,Governor,,Rom Reddy,REP,18,5,0,0,0,0,13
+Barnwell,Barnwell No. 3,Governor,,Alan Wilson,REP,114,52,0,0,0,0,62
+Barnwell,Barnwell No. 3,Governor,,Jermaine Johnson,DEM,119,57,0,0,0,5,57
+Barnwell,Barnwell No. 3,Governor,,Mullins McLeod,DEM,21,13,0,0,0,0,8
+Barnwell,Barnwell No. 3,Governor,,Billy Webster,DEM,19,2,0,0,0,2,15
+Barnwell,Barnwell No. 4,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Barnwell,Barnwell No. 4,Governor,,Pamela Evette,REP,36,14,0,0,0,0,22
+Barnwell,Barnwell No. 4,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Barnwell,Barnwell No. 4,Governor,,Nancy Mace,REP,12,3,0,0,0,0,9
+Barnwell,Barnwell No. 4,Governor,,Ralph W Norman,REP,16,7,0,0,0,0,9
+Barnwell,Barnwell No. 4,Governor,,Rom Reddy,REP,5,2,0,0,0,0,3
+Barnwell,Barnwell No. 4,Governor,,Alan Wilson,REP,49,21,0,0,0,1,27
+Barnwell,Barnwell No. 4,Governor,,Jermaine Johnson,DEM,136,82,0,0,0,1,53
+Barnwell,Barnwell No. 4,Governor,,Mullins McLeod,DEM,15,7,0,0,0,0,8
+Barnwell,Barnwell No. 4,Governor,,Billy Webster,DEM,15,5,0,0,0,1,9
+Barnwell,Blackville No. 1,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Barnwell,Blackville No. 1,Governor,,Pamela Evette,REP,16,4,0,0,0,0,12
+Barnwell,Blackville No. 1,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Barnwell,Blackville No. 1,Governor,,Nancy Mace,REP,11,1,0,0,0,0,10
+Barnwell,Blackville No. 1,Governor,,Ralph W Norman,REP,5,2,0,0,0,0,3
+Barnwell,Blackville No. 1,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Barnwell,Blackville No. 1,Governor,,Alan Wilson,REP,22,7,0,0,0,0,15
+Barnwell,Blackville No. 1,Governor,,Jermaine Johnson,DEM,113,63,0,0,0,6,44
+Barnwell,Blackville No. 1,Governor,,Mullins McLeod,DEM,11,5,0,0,0,0,6
+Barnwell,Blackville No. 1,Governor,,Billy Webster,DEM,35,24,0,0,0,2,9
+Barnwell,Blackville No. 2,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Barnwell,Blackville No. 2,Governor,,Pamela Evette,REP,7,1,0,0,0,0,6
+Barnwell,Blackville No. 2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Barnwell,Blackville No. 2,Governor,,Nancy Mace,REP,5,4,0,0,0,0,1
+Barnwell,Blackville No. 2,Governor,,Ralph W Norman,REP,5,3,0,0,0,0,2
+Barnwell,Blackville No. 2,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Barnwell,Blackville No. 2,Governor,,Alan Wilson,REP,21,5,0,0,0,0,16
+Barnwell,Blackville No. 2,Governor,,Jermaine Johnson,DEM,92,56,0,0,0,1,35
+Barnwell,Blackville No. 2,Governor,,Mullins McLeod,DEM,7,3,0,0,0,0,4
+Barnwell,Blackville No. 2,Governor,,Billy Webster,DEM,18,12,0,0,0,2,4
+Barnwell,Elko,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Barnwell,Elko,Governor,,Pamela Evette,REP,37,9,0,0,0,2,26
+Barnwell,Elko,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Barnwell,Elko,Governor,,Nancy Mace,REP,5,2,0,0,0,0,3
+Barnwell,Elko,Governor,,Ralph W Norman,REP,10,0,0,0,0,0,10
+Barnwell,Elko,Governor,,Rom Reddy,REP,2,0,0,0,0,1,1
+Barnwell,Elko,Governor,,Alan Wilson,REP,19,2,0,0,0,0,17
+Barnwell,Elko,Governor,,Jermaine Johnson,DEM,57,29,0,0,0,4,24
+Barnwell,Elko,Governor,,Mullins McLeod,DEM,5,2,0,0,0,0,3
+Barnwell,Elko,Governor,,Billy Webster,DEM,8,4,0,0,0,0,4
+Barnwell,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,Governor,,Alan Wilson,REP,1,0,0,0,1,0,0
+Barnwell,Failsafe,Governor,,Jermaine Johnson,DEM,1,0,0,0,1,0,0
+Barnwell,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe,Governor,,Billy Webster,DEM,1,0,0,0,1,0,0
+Barnwell,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Governor,,Pamela Evette,REP,1,0,1,0,0,0,0
+Barnwell,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,1,0,1,0,0,0,0
+Barnwell,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Barnwell,Friendship,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Barnwell,Friendship,Governor,,Pamela Evette,REP,37,4,0,0,0,0,33
+Barnwell,Friendship,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Barnwell,Friendship,Governor,,Nancy Mace,REP,13,1,0,0,0,0,12
+Barnwell,Friendship,Governor,,Ralph W Norman,REP,6,3,0,0,0,0,3
+Barnwell,Friendship,Governor,,Rom Reddy,REP,6,0,0,0,0,0,6
+Barnwell,Friendship,Governor,,Alan Wilson,REP,50,8,0,0,0,0,42
+Barnwell,Friendship,Governor,,Jermaine Johnson,DEM,10,7,0,0,0,0,3
+Barnwell,Friendship,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Barnwell,Friendship,Governor,,Billy Webster,DEM,1,1,0,0,0,0,0
+Barnwell,Healing Springs,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Barnwell,Healing Springs,Governor,,Pamela Evette,REP,10,2,0,0,0,0,8
+Barnwell,Healing Springs,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Barnwell,Healing Springs,Governor,,Nancy Mace,REP,4,2,0,0,0,0,2
+Barnwell,Healing Springs,Governor,,Ralph W Norman,REP,5,4,0,0,0,0,1
+Barnwell,Healing Springs,Governor,,Rom Reddy,REP,3,0,0,0,0,0,3
+Barnwell,Healing Springs,Governor,,Alan Wilson,REP,5,3,0,0,0,0,2
+Barnwell,Healing Springs,Governor,,Jermaine Johnson,DEM,149,99,0,0,0,8,42
+Barnwell,Healing Springs,Governor,,Mullins McLeod,DEM,18,10,0,0,0,0,8
+Barnwell,Healing Springs,Governor,,Billy Webster,DEM,30,17,0,0,0,4,9
+Barnwell,Hilda,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Barnwell,Hilda,Governor,,Pamela Evette,REP,53,9,0,0,0,0,44
+Barnwell,Hilda,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Barnwell,Hilda,Governor,,Nancy Mace,REP,15,2,0,0,0,0,13
+Barnwell,Hilda,Governor,,Ralph W Norman,REP,8,4,0,0,0,0,4
+Barnwell,Hilda,Governor,,Rom Reddy,REP,12,1,0,0,0,0,11
+Barnwell,Hilda,Governor,,Alan Wilson,REP,49,4,0,0,0,0,45
+Barnwell,Hilda,Governor,,Jermaine Johnson,DEM,9,6,0,0,0,2,1
+Barnwell,Hilda,Governor,,Mullins McLeod,DEM,5,4,0,0,0,0,1
+Barnwell,Hilda,Governor,,Billy Webster,DEM,2,2,0,0,0,0,0
+Barnwell,Kline,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Barnwell,Kline,Governor,,Pamela Evette,REP,29,4,0,0,0,0,25
+Barnwell,Kline,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Barnwell,Kline,Governor,,Nancy Mace,REP,13,4,0,0,0,0,9
+Barnwell,Kline,Governor,,Ralph W Norman,REP,6,4,0,0,0,0,2
+Barnwell,Kline,Governor,,Rom Reddy,REP,6,0,0,0,0,0,6
+Barnwell,Kline,Governor,,Alan Wilson,REP,17,4,0,0,0,0,13
+Barnwell,Kline,Governor,,Jermaine Johnson,DEM,34,11,0,0,0,4,19
+Barnwell,Kline,Governor,,Mullins McLeod,DEM,8,5,0,0,0,0,3
+Barnwell,Kline,Governor,,Billy Webster,DEM,7,4,0,0,0,0,3
+Barnwell,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,Governor,,Rom Reddy,REP,1,0,0,1,0,0,0
+Barnwell,Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Barnwell,Snelling,Governor,,Jacqueline Hicks DuBose,REP,5,2,0,0,0,0,3
+Barnwell,Snelling,Governor,,Pamela Evette,REP,56,7,0,0,0,0,49
+Barnwell,Snelling,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Barnwell,Snelling,Governor,,Nancy Mace,REP,15,1,0,0,0,0,14
+Barnwell,Snelling,Governor,,Ralph W Norman,REP,10,0,0,0,0,0,10
+Barnwell,Snelling,Governor,,Rom Reddy,REP,10,2,0,0,0,0,8
+Barnwell,Snelling,Governor,,Alan Wilson,REP,46,12,0,0,0,0,34
+Barnwell,Snelling,Governor,,Jermaine Johnson,DEM,95,61,0,0,0,0,34
+Barnwell,Snelling,Governor,,Mullins McLeod,DEM,10,5,0,0,0,0,5
+Barnwell,Snelling,Governor,,Billy Webster,DEM,12,7,0,0,0,1,4
+Barnwell,Williston No. 1,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Barnwell,Williston No. 1,Governor,,Pamela Evette,REP,37,3,0,0,0,0,34
+Barnwell,Williston No. 1,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Barnwell,Williston No. 1,Governor,,Nancy Mace,REP,14,2,0,0,0,0,12
+Barnwell,Williston No. 1,Governor,,Ralph W Norman,REP,4,1,0,0,0,0,3
+Barnwell,Williston No. 1,Governor,,Rom Reddy,REP,8,1,0,0,0,0,7
+Barnwell,Williston No. 1,Governor,,Alan Wilson,REP,32,7,0,0,0,0,25
+Barnwell,Williston No. 1,Governor,,Jermaine Johnson,DEM,142,89,0,0,0,7,46
+Barnwell,Williston No. 1,Governor,,Mullins McLeod,DEM,25,17,0,0,0,0,8
+Barnwell,Williston No. 1,Governor,,Billy Webster,DEM,30,19,0,0,0,2,9
+Barnwell,Williston No. 2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Barnwell,Williston No. 2,Governor,,Pamela Evette,REP,21,1,0,0,0,0,20
+Barnwell,Williston No. 2,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Barnwell,Williston No. 2,Governor,,Nancy Mace,REP,14,4,0,0,0,0,10
+Barnwell,Williston No. 2,Governor,,Ralph W Norman,REP,8,3,0,0,0,0,5
+Barnwell,Williston No. 2,Governor,,Rom Reddy,REP,5,2,0,0,0,0,3
+Barnwell,Williston No. 2,Governor,,Alan Wilson,REP,26,4,0,0,0,2,20
+Barnwell,Williston No. 2,Governor,,Jermaine Johnson,DEM,28,19,0,0,0,0,9
+Barnwell,Williston No. 2,Governor,,Mullins McLeod,DEM,4,3,0,0,0,0,1
+Barnwell,Williston No. 2,Governor,,Billy Webster,DEM,10,4,0,0,0,0,6
+Barnwell,Williston No. 3,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Barnwell,Williston No. 3,Governor,,Pamela Evette,REP,42,12,0,0,0,0,30
+Barnwell,Williston No. 3,Governor,,Joshua Kimbrell,REP,3,1,0,0,0,0,2
+Barnwell,Williston No. 3,Governor,,Nancy Mace,REP,12,3,0,0,0,0,9
+Barnwell,Williston No. 3,Governor,,Ralph W Norman,REP,14,7,0,0,0,0,7
+Barnwell,Williston No. 3,Governor,,Rom Reddy,REP,6,0,0,0,0,0,6
+Barnwell,Williston No. 3,Governor,,Alan Wilson,REP,30,9,0,0,0,0,21
+Barnwell,Williston No. 3,Governor,,Jermaine Johnson,DEM,66,32,0,0,0,4,30
+Barnwell,Williston No. 3,Governor,,Mullins McLeod,DEM,9,4,0,0,0,0,5
+Barnwell,Williston No. 3,Governor,,Billy Webster,DEM,13,7,0,0,0,0,6
+Barnwell,Barnwell No. 1,Secretary of State,,Jason Belton,DEM,31,25,0,0,0,0,6
+Barnwell,Barnwell No. 1,Secretary of State,,Edwina Winter,DEM,21,10,0,0,0,0,11
+Barnwell,Barnwell No. 2,Secretary of State,,Jason Belton,DEM,82,56,0,0,0,2,24
+Barnwell,Barnwell No. 2,Secretary of State,,Edwina Winter,DEM,57,28,0,0,0,4,25
+Barnwell,Barnwell No. 3,Secretary of State,,Jason Belton,DEM,94,48,0,0,0,5,41
+Barnwell,Barnwell No. 3,Secretary of State,,Edwina Winter,DEM,58,20,0,0,0,1,37
+Barnwell,Barnwell No. 4,Secretary of State,,Jason Belton,DEM,106,65,0,0,0,2,39
+Barnwell,Barnwell No. 4,Secretary of State,,Edwina Winter,DEM,56,25,0,0,0,0,31
+Barnwell,Blackville No. 1,Secretary of State,,Jason Belton,DEM,109,65,0,0,0,4,40
+Barnwell,Blackville No. 1,Secretary of State,,Edwina Winter,DEM,44,23,0,0,0,4,17
+Barnwell,Blackville No. 2,Secretary of State,,Jason Belton,DEM,82,48,0,0,0,2,32
+Barnwell,Blackville No. 2,Secretary of State,,Edwina Winter,DEM,33,21,0,0,0,1,11
+Barnwell,Elko,Secretary of State,,Jason Belton,DEM,46,23,0,0,0,2,21
+Barnwell,Elko,Secretary of State,,Edwina Winter,DEM,24,12,0,0,0,2,10
+Barnwell,Failsafe,Secretary of State,,Jason Belton,DEM,2,0,0,0,2,0,0
+Barnwell,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,1,0,1,0,0,0,0
+Barnwell,Friendship,Secretary of State,,Jason Belton,DEM,4,3,0,0,0,0,1
+Barnwell,Friendship,Secretary of State,,Edwina Winter,DEM,5,5,0,0,0,0,0
+Barnwell,Healing Springs,Secretary of State,,Jason Belton,DEM,141,96,0,0,0,8,37
+Barnwell,Healing Springs,Secretary of State,,Edwina Winter,DEM,55,31,0,0,0,4,20
+Barnwell,Hilda,Secretary of State,,Jason Belton,DEM,11,7,0,0,0,2,2
+Barnwell,Hilda,Secretary of State,,Edwina Winter,DEM,5,5,0,0,0,0,0
+Barnwell,Kline,Secretary of State,,Jason Belton,DEM,33,12,0,0,0,4,17
+Barnwell,Kline,Secretary of State,,Edwina Winter,DEM,15,7,0,0,0,0,8
+Barnwell,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Barnwell,Snelling,Secretary of State,,Jason Belton,DEM,68,45,0,0,0,0,23
+Barnwell,Snelling,Secretary of State,,Edwina Winter,DEM,46,26,0,0,0,1,19
+Barnwell,Williston No. 1,Secretary of State,,Jason Belton,DEM,124,85,0,0,0,6,33
+Barnwell,Williston No. 1,Secretary of State,,Edwina Winter,DEM,68,38,0,0,0,3,27
+Barnwell,Williston No. 2,Secretary of State,,Jason Belton,DEM,23,14,0,0,0,0,9
+Barnwell,Williston No. 2,Secretary of State,,Edwina Winter,DEM,18,12,0,0,0,0,6
+Barnwell,Williston No. 3,Secretary of State,,Jason Belton,DEM,60,27,0,0,0,4,29
+Barnwell,Williston No. 3,Secretary of State,,Edwina Winter,DEM,25,14,0,0,0,0,11
+Barnwell,Barnwell No. 1,State House,91,Daniel Alexander,REP,54,20,0,0,0,0,34
+Barnwell,Barnwell No. 1,State House,91,Tyler Morgan,REP,5,3,0,0,0,0,2
+Barnwell,Barnwell No. 2,State House,91,Daniel Alexander,REP,193,66,0,0,0,0,127
+Barnwell,Barnwell No. 2,State House,91,Tyler Morgan,REP,40,24,0,0,0,0,16
+Barnwell,Barnwell No. 3,State House,91,Daniel Alexander,REP,239,97,0,0,0,2,140
+Barnwell,Barnwell No. 3,State House,91,Tyler Morgan,REP,33,13,0,0,0,1,19
+Barnwell,Barnwell No. 4,State House,91,Daniel Alexander,REP,101,36,0,0,0,1,64
+Barnwell,Barnwell No. 4,State House,91,Tyler Morgan,REP,18,12,0,0,0,0,6
+Barnwell,Blackville No. 1,State House,91,Daniel Alexander,REP,46,13,0,0,0,0,33
+Barnwell,Blackville No. 1,State House,91,Tyler Morgan,REP,10,2,0,0,0,0,8
+Barnwell,Blackville No. 2,State House,91,Daniel Alexander,REP,34,10,0,0,0,0,24
+Barnwell,Blackville No. 2,State House,91,Tyler Morgan,REP,6,3,0,0,0,0,3
+Barnwell,Elko,State House,91,Daniel Alexander,REP,54,9,0,0,0,1,44
+Barnwell,Elko,State House,91,Tyler Morgan,REP,16,4,0,0,0,2,10
+Barnwell,Failsafe,State House,91,Daniel Alexander,REP,1,0,0,0,1,0,0
+Barnwell,Failsafe,State House,91,Tyler Morgan,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,State House,91,Daniel Alexander,REP,1,0,1,0,0,0,0
+Barnwell,Failsafe Provisional,State House,91,Tyler Morgan,REP,0,0,0,0,0,0,0
+Barnwell,Friendship,State House,91,Daniel Alexander,REP,109,16,0,0,0,0,93
+Barnwell,Friendship,State House,91,Tyler Morgan,REP,7,1,0,0,0,0,6
+Barnwell,Healing Springs,State House,91,Daniel Alexander,REP,21,8,0,0,0,0,13
+Barnwell,Healing Springs,State House,91,Tyler Morgan,REP,4,2,0,0,0,0,2
+Barnwell,Hilda,State House,91,Daniel Alexander,REP,118,19,0,0,0,0,99
+Barnwell,Hilda,State House,91,Tyler Morgan,REP,19,2,0,0,0,0,17
+Barnwell,Kline,State House,91,Daniel Alexander,REP,65,13,0,0,0,0,52
+Barnwell,Kline,State House,91,Tyler Morgan,REP,8,3,0,0,0,0,5
+Barnwell,Provisional,State House,91,Daniel Alexander,REP,1,0,0,1,0,0,0
+Barnwell,Provisional,State House,91,Tyler Morgan,REP,0,0,0,0,0,0,0
+Barnwell,Snelling,State House,91,Daniel Alexander,REP,116,21,0,0,0,0,95
+Barnwell,Snelling,State House,91,Tyler Morgan,REP,23,3,0,0,0,0,20
+Barnwell,Williston No. 1,State House,91,Daniel Alexander,REP,72,7,0,0,0,0,65
+Barnwell,Williston No. 1,State House,91,Tyler Morgan,REP,22,6,0,0,0,0,16
+Barnwell,Williston No. 2,State House,91,Daniel Alexander,REP,55,10,0,0,0,1,44
+Barnwell,Williston No. 2,State House,91,Tyler Morgan,REP,16,3,0,0,0,0,13
+Barnwell,Williston No. 3,State House,91,Daniel Alexander,REP,83,22,0,0,0,0,61
+Barnwell,Williston No. 3,State House,91,Tyler Morgan,REP,19,5,0,0,0,0,14
+Barnwell,Barnwell No. 1,State Superintendent of Education,,Lisa Ellis,DEM,15,10,0,0,0,0,5
+Barnwell,Barnwell No. 1,State Superintendent of Education,,Sylvia Wright,DEM,37,25,0,0,0,0,12
+Barnwell,Barnwell No. 2,State Superintendent of Education,,Lisa Ellis,DEM,33,18,0,0,0,1,14
+Barnwell,Barnwell No. 2,State Superintendent of Education,,Sylvia Wright,DEM,106,65,0,0,0,5,36
+Barnwell,Barnwell No. 3,State Superintendent of Education,,Lisa Ellis,DEM,42,17,0,0,0,4,21
+Barnwell,Barnwell No. 3,State Superintendent of Education,,Sylvia Wright,DEM,112,51,0,0,0,3,58
+Barnwell,Barnwell No. 4,State Superintendent of Education,,Lisa Ellis,DEM,31,13,0,0,0,0,18
+Barnwell,Barnwell No. 4,State Superintendent of Education,,Sylvia Wright,DEM,134,82,0,0,0,2,50
+Barnwell,Blackville No. 1,State Superintendent of Education,,Lisa Ellis,DEM,44,24,0,0,0,2,18
+Barnwell,Blackville No. 1,State Superintendent of Education,,Sylvia Wright,DEM,108,63,0,0,0,6,39
+Barnwell,Blackville No. 2,State Superintendent of Education,,Lisa Ellis,DEM,29,16,0,0,0,0,13
+Barnwell,Blackville No. 2,State Superintendent of Education,,Sylvia Wright,DEM,85,53,0,0,0,3,29
+Barnwell,Elko,State Superintendent of Education,,Lisa Ellis,DEM,12,5,0,0,0,2,5
+Barnwell,Elko,State Superintendent of Education,,Sylvia Wright,DEM,57,30,0,0,0,2,25
+Barnwell,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,2,0,0,0,2,0,0
+Barnwell,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,1,0,1,0,0,0,0
+Barnwell,Friendship,State Superintendent of Education,,Lisa Ellis,DEM,2,1,0,0,0,0,1
+Barnwell,Friendship,State Superintendent of Education,,Sylvia Wright,DEM,7,7,0,0,0,0,0
+Barnwell,Healing Springs,State Superintendent of Education,,Lisa Ellis,DEM,63,38,0,0,0,1,24
+Barnwell,Healing Springs,State Superintendent of Education,,Sylvia Wright,DEM,130,87,0,0,0,11,32
+Barnwell,Hilda,State Superintendent of Education,,Lisa Ellis,DEM,6,6,0,0,0,0,0
+Barnwell,Hilda,State Superintendent of Education,,Sylvia Wright,DEM,10,6,0,0,0,2,2
+Barnwell,Kline,State Superintendent of Education,,Lisa Ellis,DEM,10,3,0,0,0,0,7
+Barnwell,Kline,State Superintendent of Education,,Sylvia Wright,DEM,40,18,0,0,0,4,18
+Barnwell,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Barnwell,Snelling,State Superintendent of Education,,Lisa Ellis,DEM,28,14,0,0,0,0,14
+Barnwell,Snelling,State Superintendent of Education,,Sylvia Wright,DEM,89,59,0,0,0,1,29
+Barnwell,Williston No. 1,State Superintendent of Education,,Lisa Ellis,DEM,52,36,0,0,0,0,16
+Barnwell,Williston No. 1,State Superintendent of Education,,Sylvia Wright,DEM,140,86,0,0,0,9,45
+Barnwell,Williston No. 2,State Superintendent of Education,,Lisa Ellis,DEM,12,5,0,0,0,0,7
+Barnwell,Williston No. 2,State Superintendent of Education,,Sylvia Wright,DEM,29,21,0,0,0,0,8
+Barnwell,Williston No. 3,State Superintendent of Education,,Lisa Ellis,DEM,26,11,0,0,0,0,15
+Barnwell,Williston No. 3,State Superintendent of Education,,Sylvia Wright,DEM,60,30,0,0,0,4,26
+Barnwell,Barnwell No. 1,State Treasurer,,Vincent Coe,DEM,24,19,0,0,0,0,5
+Barnwell,Barnwell No. 1,State Treasurer,,Trav Robertson Jr,DEM,28,16,0,0,0,0,12
+Barnwell,Barnwell No. 2,State Treasurer,,Vincent Coe,DEM,62,39,0,0,0,3,20
+Barnwell,Barnwell No. 2,State Treasurer,,Trav Robertson Jr,DEM,75,42,0,0,0,3,30
+Barnwell,Barnwell No. 3,State Treasurer,,Vincent Coe,DEM,68,34,0,0,0,5,29
+Barnwell,Barnwell No. 3,State Treasurer,,Trav Robertson Jr,DEM,85,35,0,0,0,1,49
+Barnwell,Barnwell No. 4,State Treasurer,,Vincent Coe,DEM,95,55,0,0,0,1,39
+Barnwell,Barnwell No. 4,State Treasurer,,Trav Robertson Jr,DEM,68,37,0,0,0,1,30
+Barnwell,Blackville No. 1,State Treasurer,,Vincent Coe,DEM,71,45,0,0,0,3,23
+Barnwell,Blackville No. 1,State Treasurer,,Trav Robertson Jr,DEM,79,40,0,0,0,5,34
+Barnwell,Blackville No. 2,State Treasurer,,Vincent Coe,DEM,58,33,0,0,0,2,23
+Barnwell,Blackville No. 2,State Treasurer,,Trav Robertson Jr,DEM,54,34,0,0,0,1,19
+Barnwell,Elko,State Treasurer,,Vincent Coe,DEM,33,17,0,0,0,1,15
+Barnwell,Elko,State Treasurer,,Trav Robertson Jr,DEM,35,17,0,0,0,3,15
+Barnwell,Failsafe,State Treasurer,,Vincent Coe,DEM,2,0,0,0,2,0,0
+Barnwell,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,1,0,1,0,0,0,0
+Barnwell,Friendship,State Treasurer,,Vincent Coe,DEM,5,5,0,0,0,0,0
+Barnwell,Friendship,State Treasurer,,Trav Robertson Jr,DEM,4,3,0,0,0,0,1
+Barnwell,Healing Springs,State Treasurer,,Vincent Coe,DEM,109,66,0,0,0,9,34
+Barnwell,Healing Springs,State Treasurer,,Trav Robertson Jr,DEM,84,59,0,0,0,3,22
+Barnwell,Hilda,State Treasurer,,Vincent Coe,DEM,9,8,0,0,0,0,1
+Barnwell,Hilda,State Treasurer,,Trav Robertson Jr,DEM,7,4,0,0,0,2,1
+Barnwell,Kline,State Treasurer,,Vincent Coe,DEM,22,10,0,0,0,3,9
+Barnwell,Kline,State Treasurer,,Trav Robertson Jr,DEM,26,10,0,0,0,1,15
+Barnwell,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Barnwell,Snelling,State Treasurer,,Vincent Coe,DEM,59,46,0,0,0,0,13
+Barnwell,Snelling,State Treasurer,,Trav Robertson Jr,DEM,57,27,0,0,0,1,29
+Barnwell,Williston No. 1,State Treasurer,,Vincent Coe,DEM,80,55,0,0,0,2,23
+Barnwell,Williston No. 1,State Treasurer,,Trav Robertson Jr,DEM,105,64,0,0,0,5,36
+Barnwell,Williston No. 2,State Treasurer,,Vincent Coe,DEM,16,10,0,0,0,0,6
+Barnwell,Williston No. 2,State Treasurer,,Trav Robertson Jr,DEM,25,16,0,0,0,0,9
+Barnwell,Williston No. 3,State Treasurer,,Vincent Coe,DEM,48,24,0,0,0,4,20
+Barnwell,Williston No. 3,State Treasurer,,Trav Robertson Jr,DEM,38,18,0,0,0,0,20
+Barnwell,Barnwell No. 1,U.S. House,2,Sam Gibbons,REP,5,1,0,0,0,0,4
+Barnwell,Barnwell No. 1,U.S. House,2,Hamp Redmond,REP,17,6,0,0,0,0,11
+Barnwell,Barnwell No. 1,U.S. House,2,Joe Wilson,REP,37,16,0,0,0,0,21
+Barnwell,Barnwell No. 1,U.S. House,2,Zyon Khalifa,DEM,13,8,0,0,0,0,5
+Barnwell,Barnwell No. 1,U.S. House,2,Roger Pruitt,DEM,14,10,0,0,0,0,4
+Barnwell,Barnwell No. 1,U.S. House,2,David Robinson II,DEM,21,15,0,0,0,0,6
+Barnwell,Barnwell No. 1,U.S. House,2,Daniel J Shrief,DEM,4,2,0,0,0,0,2
+Barnwell,Barnwell No. 2,U.S. House,2,Sam Gibbons,REP,18,5,0,0,0,0,13
+Barnwell,Barnwell No. 2,U.S. House,2,Hamp Redmond,REP,66,17,0,0,0,0,49
+Barnwell,Barnwell No. 2,U.S. House,2,Joe Wilson,REP,147,68,0,0,0,1,78
+Barnwell,Barnwell No. 2,U.S. House,2,Zyon Khalifa,DEM,48,27,0,0,0,0,21
+Barnwell,Barnwell No. 2,U.S. House,2,Roger Pruitt,DEM,38,28,0,0,0,2,8
+Barnwell,Barnwell No. 2,U.S. House,2,David Robinson II,DEM,44,23,0,0,0,4,17
+Barnwell,Barnwell No. 2,U.S. House,2,Daniel J Shrief,DEM,8,4,0,0,0,0,4
+Barnwell,Barnwell No. 3,U.S. House,2,Sam Gibbons,REP,23,10,0,0,0,0,13
+Barnwell,Barnwell No. 3,U.S. House,2,Hamp Redmond,REP,50,17,0,0,0,0,33
+Barnwell,Barnwell No. 3,U.S. House,2,Joe Wilson,REP,198,79,0,0,0,3,116
+Barnwell,Barnwell No. 3,U.S. House,2,Zyon Khalifa,DEM,44,13,0,0,0,0,31
+Barnwell,Barnwell No. 3,U.S. House,2,Roger Pruitt,DEM,40,26,0,0,0,2,12
+Barnwell,Barnwell No. 3,U.S. House,2,David Robinson II,DEM,60,24,0,0,0,4,32
+Barnwell,Barnwell No. 3,U.S. House,2,Daniel J Shrief,DEM,9,5,0,0,0,0,4
+Barnwell,Barnwell No. 4,U.S. House,2,Sam Gibbons,REP,5,2,0,0,0,0,3
+Barnwell,Barnwell No. 4,U.S. House,2,Hamp Redmond,REP,28,9,0,0,0,0,19
+Barnwell,Barnwell No. 4,U.S. House,2,Joe Wilson,REP,87,37,0,0,0,1,49
+Barnwell,Barnwell No. 4,U.S. House,2,Zyon Khalifa,DEM,62,31,0,0,0,1,30
+Barnwell,Barnwell No. 4,U.S. House,2,Roger Pruitt,DEM,34,25,0,0,0,0,9
+Barnwell,Barnwell No. 4,U.S. House,2,David Robinson II,DEM,56,29,0,0,0,1,26
+Barnwell,Barnwell No. 4,U.S. House,2,Daniel J Shrief,DEM,7,5,0,0,0,0,2
+Barnwell,Blackville No. 1,U.S. House,2,Sam Gibbons,REP,4,2,0,0,0,0,2
+Barnwell,Blackville No. 1,U.S. House,2,Hamp Redmond,REP,12,3,0,0,0,0,9
+Barnwell,Blackville No. 1,U.S. House,2,Joe Wilson,REP,40,10,0,0,0,0,30
+Barnwell,Blackville No. 1,U.S. House,2,Zyon Khalifa,DEM,33,17,0,0,0,3,13
+Barnwell,Blackville No. 1,U.S. House,2,Roger Pruitt,DEM,23,15,0,0,0,2,6
+Barnwell,Blackville No. 1,U.S. House,2,David Robinson II,DEM,87,54,0,0,0,3,30
+Barnwell,Blackville No. 1,U.S. House,2,Daniel J Shrief,DEM,12,5,0,0,0,0,7
+Barnwell,Blackville No. 2,U.S. House,2,Sam Gibbons,REP,3,0,0,0,0,0,3
+Barnwell,Blackville No. 2,U.S. House,2,Hamp Redmond,REP,4,3,0,0,0,0,1
+Barnwell,Blackville No. 2,U.S. House,2,Joe Wilson,REP,33,10,0,0,0,0,23
+Barnwell,Blackville No. 2,U.S. House,2,Zyon Khalifa,DEM,34,19,0,0,0,0,15
+Barnwell,Blackville No. 2,U.S. House,2,Roger Pruitt,DEM,18,8,0,0,0,0,10
+Barnwell,Blackville No. 2,U.S. House,2,David Robinson II,DEM,56,40,0,0,0,3,13
+Barnwell,Blackville No. 2,U.S. House,2,Daniel J Shrief,DEM,6,3,0,0,0,0,3
+Barnwell,Elko,U.S. House,2,Sam Gibbons,REP,5,0,0,0,0,1,4
+Barnwell,Elko,U.S. House,2,Hamp Redmond,REP,12,0,0,0,0,0,12
+Barnwell,Elko,U.S. House,2,Joe Wilson,REP,53,12,0,0,0,2,39
+Barnwell,Elko,U.S. House,2,Zyon Khalifa,DEM,18,10,0,0,0,0,8
+Barnwell,Elko,U.S. House,2,Roger Pruitt,DEM,20,13,0,0,0,0,7
+Barnwell,Elko,U.S. House,2,David Robinson II,DEM,24,10,0,0,0,3,11
+Barnwell,Elko,U.S. House,2,Daniel J Shrief,DEM,6,1,0,0,0,0,5
+Barnwell,Failsafe,U.S. House,2,Sam Gibbons,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,U.S. House,2,Hamp Redmond,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,U.S. House,2,Joe Wilson,REP,1,0,0,0,1,0,0
+Barnwell,Failsafe,U.S. House,2,Zyon Khalifa,DEM,1,0,0,0,1,0,0
+Barnwell,Failsafe,U.S. House,2,Roger Pruitt,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe,U.S. House,2,David Robinson II,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe,U.S. House,2,Daniel J Shrief,DEM,1,0,0,0,1,0,0
+Barnwell,Failsafe Provisional,U.S. House,2,Sam Gibbons,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. House,2,Hamp Redmond,REP,1,0,1,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. House,2,Joe Wilson,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. House,2,Zyon Khalifa,DEM,1,0,1,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. House,2,Roger Pruitt,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. House,2,David Robinson II,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. House,2,Daniel J Shrief,DEM,0,0,0,0,0,0,0
+Barnwell,Friendship,U.S. House,2,Sam Gibbons,REP,5,0,0,0,0,0,5
+Barnwell,Friendship,U.S. House,2,Hamp Redmond,REP,26,2,0,0,0,0,24
+Barnwell,Friendship,U.S. House,2,Joe Wilson,REP,85,15,0,0,0,0,70
+Barnwell,Friendship,U.S. House,2,Zyon Khalifa,DEM,4,3,0,0,0,0,1
+Barnwell,Friendship,U.S. House,2,Roger Pruitt,DEM,1,1,0,0,0,0,0
+Barnwell,Friendship,U.S. House,2,David Robinson II,DEM,4,4,0,0,0,0,0
+Barnwell,Friendship,U.S. House,2,Daniel J Shrief,DEM,0,0,0,0,0,0,0
+Barnwell,Healing Springs,U.S. House,2,Sam Gibbons,REP,4,2,0,0,0,0,2
+Barnwell,Healing Springs,U.S. House,2,Hamp Redmond,REP,8,4,0,0,0,0,4
+Barnwell,Healing Springs,U.S. House,2,Joe Wilson,REP,15,5,0,0,0,0,10
+Barnwell,Healing Springs,U.S. House,2,Zyon Khalifa,DEM,51,27,0,0,0,5,19
+Barnwell,Healing Springs,U.S. House,2,Roger Pruitt,DEM,40,31,0,0,0,2,7
+Barnwell,Healing Springs,U.S. House,2,David Robinson II,DEM,90,58,0,0,0,5,27
+Barnwell,Healing Springs,U.S. House,2,Daniel J Shrief,DEM,8,6,0,0,0,0,2
+Barnwell,Hilda,U.S. House,2,Sam Gibbons,REP,7,1,0,0,0,0,6
+Barnwell,Hilda,U.S. House,2,Hamp Redmond,REP,36,5,0,0,0,0,31
+Barnwell,Hilda,U.S. House,2,Joe Wilson,REP,97,15,0,0,0,0,82
+Barnwell,Hilda,U.S. House,2,Zyon Khalifa,DEM,6,3,0,0,0,2,1
+Barnwell,Hilda,U.S. House,2,Roger Pruitt,DEM,6,5,0,0,0,0,1
+Barnwell,Hilda,U.S. House,2,David Robinson II,DEM,3,3,0,0,0,0,0
+Barnwell,Hilda,U.S. House,2,Daniel J Shrief,DEM,1,1,0,0,0,0,0
+Barnwell,Kline,U.S. House,2,Sam Gibbons,REP,8,2,0,0,0,0,6
+Barnwell,Kline,U.S. House,2,Hamp Redmond,REP,14,1,0,0,0,0,13
+Barnwell,Kline,U.S. House,2,Joe Wilson,REP,48,13,0,0,0,0,35
+Barnwell,Kline,U.S. House,2,Zyon Khalifa,DEM,9,4,0,0,0,1,4
+Barnwell,Kline,U.S. House,2,Roger Pruitt,DEM,13,7,0,0,0,3,3
+Barnwell,Kline,U.S. House,2,David Robinson II,DEM,21,8,0,0,0,0,13
+Barnwell,Kline,U.S. House,2,Daniel J Shrief,DEM,6,1,0,0,0,0,5
+Barnwell,Provisional,U.S. House,2,Sam Gibbons,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. House,2,Hamp Redmond,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. House,2,Joe Wilson,REP,1,0,0,1,0,0,0
+Barnwell,Provisional,U.S. House,2,Zyon Khalifa,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. House,2,Roger Pruitt,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. House,2,David Robinson II,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. House,2,Daniel J Shrief,DEM,0,0,0,0,0,0,0
+Barnwell,Snelling,U.S. House,2,Sam Gibbons,REP,15,2,0,0,0,0,13
+Barnwell,Snelling,U.S. House,2,Hamp Redmond,REP,32,3,0,0,0,0,29
+Barnwell,Snelling,U.S. House,2,Joe Wilson,REP,97,19,0,0,0,0,78
+Barnwell,Snelling,U.S. House,2,Zyon Khalifa,DEM,39,24,0,0,0,0,15
+Barnwell,Snelling,U.S. House,2,Roger Pruitt,DEM,24,18,0,0,0,0,6
+Barnwell,Snelling,U.S. House,2,David Robinson II,DEM,40,22,0,0,0,1,17
+Barnwell,Snelling,U.S. House,2,Daniel J Shrief,DEM,11,7,0,0,0,0,4
+Barnwell,Williston No. 1,U.S. House,2,Sam Gibbons,REP,9,3,0,0,0,0,6
+Barnwell,Williston No. 1,U.S. House,2,Hamp Redmond,REP,13,1,0,0,0,0,12
+Barnwell,Williston No. 1,U.S. House,2,Joe Wilson,REP,71,8,0,0,0,0,63
+Barnwell,Williston No. 1,U.S. House,2,Zyon Khalifa,DEM,43,24,0,0,0,1,18
+Barnwell,Williston No. 1,U.S. House,2,Roger Pruitt,DEM,61,40,0,0,0,2,19
+Barnwell,Williston No. 1,U.S. House,2,David Robinson II,DEM,77,50,0,0,0,4,23
+Barnwell,Williston No. 1,U.S. House,2,Daniel J Shrief,DEM,10,7,0,0,0,0,3
+Barnwell,Williston No. 2,U.S. House,2,Sam Gibbons,REP,6,1,0,0,0,0,5
+Barnwell,Williston No. 2,U.S. House,2,Hamp Redmond,REP,12,4,0,0,0,0,8
+Barnwell,Williston No. 2,U.S. House,2,Joe Wilson,REP,57,9,0,0,0,2,46
+Barnwell,Williston No. 2,U.S. House,2,Zyon Khalifa,DEM,10,6,0,0,0,0,4
+Barnwell,Williston No. 2,U.S. House,2,Roger Pruitt,DEM,14,9,0,0,0,0,5
+Barnwell,Williston No. 2,U.S. House,2,David Robinson II,DEM,12,7,0,0,0,0,5
+Barnwell,Williston No. 2,U.S. House,2,Daniel J Shrief,DEM,4,3,0,0,0,0,1
+Barnwell,Williston No. 3,U.S. House,2,Sam Gibbons,REP,6,1,0,0,0,0,5
+Barnwell,Williston No. 3,U.S. House,2,Hamp Redmond,REP,18,3,0,0,0,0,15
+Barnwell,Williston No. 3,U.S. House,2,Joe Wilson,REP,82,27,0,0,0,0,55
+Barnwell,Williston No. 3,U.S. House,2,Zyon Khalifa,DEM,30,11,0,0,0,3,16
+Barnwell,Williston No. 3,U.S. House,2,Roger Pruitt,DEM,22,13,0,0,0,0,9
+Barnwell,Williston No. 3,U.S. House,2,David Robinson II,DEM,25,12,0,0,0,0,13
+Barnwell,Williston No. 3,U.S. House,2,Daniel J Shrief,DEM,6,3,0,0,0,0,3
+Barnwell,Barnwell No. 1,U.S. Senate,,Calvin Cowen,REP,4,2,0,0,0,0,2
+Barnwell,Barnwell No. 1,U.S. Senate,,Thomas Keith Dismukes,REP,3,1,0,0,0,0,2
+Barnwell,Barnwell No. 1,U.S. Senate,,Lindsey Graham,REP,32,15,0,0,0,0,17
+Barnwell,Barnwell No. 1,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Barnwell,Barnwell No. 1,U.S. Senate,,Mark Lynch,REP,18,5,0,0,0,0,13
+Barnwell,Barnwell No. 1,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Barnwell,Barnwell No. 1,U.S. Senate,,Annie Andrews,DEM,21,14,0,0,0,0,7
+Barnwell,Barnwell No. 1,U.S. Senate,,Brandon P Brown,DEM,24,19,0,0,0,0,5
+Barnwell,Barnwell No. 1,U.S. Senate,,Kyle Freeman,DEM,7,2,0,0,0,0,5
+Barnwell,Barnwell No. 2,U.S. Senate,,Calvin Cowen,REP,2,1,0,0,0,0,1
+Barnwell,Barnwell No. 2,U.S. Senate,,Thomas Keith Dismukes,REP,6,4,0,0,0,0,2
+Barnwell,Barnwell No. 2,U.S. Senate,,Lindsey Graham,REP,144,59,0,0,0,1,84
+Barnwell,Barnwell No. 2,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Barnwell,Barnwell No. 2,U.S. Senate,,Mark Lynch,REP,70,22,0,0,0,0,48
+Barnwell,Barnwell No. 2,U.S. Senate,,Darius L Mitchell,REP,6,4,0,0,0,0,2
+Barnwell,Barnwell No. 2,U.S. Senate,,Annie Andrews,DEM,50,27,0,0,0,1,22
+Barnwell,Barnwell No. 2,U.S. Senate,,Brandon P Brown,DEM,71,46,0,0,0,5,20
+Barnwell,Barnwell No. 2,U.S. Senate,,Kyle Freeman,DEM,15,10,0,0,0,0,5
+Barnwell,Barnwell No. 3,U.S. Senate,,Calvin Cowen,REP,5,2,0,0,0,0,3
+Barnwell,Barnwell No. 3,U.S. Senate,,Thomas Keith Dismukes,REP,10,4,0,0,0,0,6
+Barnwell,Barnwell No. 3,U.S. Senate,,Lindsey Graham,REP,169,78,0,0,0,2,89
+Barnwell,Barnwell No. 3,U.S. Senate,,Pat Herrmann,REP,12,3,0,0,0,0,9
+Barnwell,Barnwell No. 3,U.S. Senate,,Mark Lynch,REP,68,16,0,0,0,1,51
+Barnwell,Barnwell No. 3,U.S. Senate,,Darius L Mitchell,REP,7,4,0,0,0,0,3
+Barnwell,Barnwell No. 3,U.S. Senate,,Annie Andrews,DEM,68,26,0,0,0,5,37
+Barnwell,Barnwell No. 3,U.S. Senate,,Brandon P Brown,DEM,74,40,0,0,0,2,32
+Barnwell,Barnwell No. 3,U.S. Senate,,Kyle Freeman,DEM,13,4,0,0,0,0,9
+Barnwell,Barnwell No. 4,U.S. Senate,,Calvin Cowen,REP,4,2,0,0,0,0,2
+Barnwell,Barnwell No. 4,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Barnwell,Barnwell No. 4,U.S. Senate,,Lindsey Graham,REP,83,35,0,0,0,1,47
+Barnwell,Barnwell No. 4,U.S. Senate,,Pat Herrmann,REP,4,1,0,0,0,0,3
+Barnwell,Barnwell No. 4,U.S. Senate,,Mark Lynch,REP,29,10,0,0,0,0,19
+Barnwell,Barnwell No. 4,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Barnwell,Barnwell No. 4,U.S. Senate,,Annie Andrews,DEM,52,23,0,0,0,1,28
+Barnwell,Barnwell No. 4,U.S. Senate,,Brandon P Brown,DEM,100,63,0,0,0,1,36
+Barnwell,Barnwell No. 4,U.S. Senate,,Kyle Freeman,DEM,12,7,0,0,0,0,5
+Barnwell,Blackville No. 1,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Barnwell,Blackville No. 1,U.S. Senate,,Thomas Keith Dismukes,REP,2,1,0,0,0,0,1
+Barnwell,Blackville No. 1,U.S. Senate,,Lindsey Graham,REP,33,8,0,0,0,0,25
+Barnwell,Blackville No. 1,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Barnwell,Blackville No. 1,U.S. Senate,,Mark Lynch,REP,18,5,0,0,0,0,13
+Barnwell,Blackville No. 1,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Barnwell,Blackville No. 1,U.S. Senate,,Annie Andrews,DEM,69,43,0,0,0,5,21
+Barnwell,Blackville No. 1,U.S. Senate,,Brandon P Brown,DEM,68,40,0,0,0,3,25
+Barnwell,Blackville No. 1,U.S. Senate,,Kyle Freeman,DEM,19,9,0,0,0,0,10
+Barnwell,Blackville No. 2,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Barnwell,Blackville No. 2,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Barnwell,Blackville No. 2,U.S. Senate,,Lindsey Graham,REP,33,11,0,0,0,0,22
+Barnwell,Blackville No. 2,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Barnwell,Blackville No. 2,U.S. Senate,,Mark Lynch,REP,6,2,0,0,0,0,4
+Barnwell,Blackville No. 2,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Barnwell,Blackville No. 2,U.S. Senate,,Annie Andrews,DEM,51,30,0,0,0,2,19
+Barnwell,Blackville No. 2,U.S. Senate,,Brandon P Brown,DEM,56,34,0,0,0,1,21
+Barnwell,Blackville No. 2,U.S. Senate,,Kyle Freeman,DEM,9,7,0,0,0,0,2
+Barnwell,Elko,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Barnwell,Elko,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Barnwell,Elko,U.S. Senate,,Lindsey Graham,REP,55,12,0,0,0,2,41
+Barnwell,Elko,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Barnwell,Elko,U.S. Senate,,Mark Lynch,REP,10,1,0,0,0,0,9
+Barnwell,Elko,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,1,0
+Barnwell,Elko,U.S. Senate,,Annie Andrews,DEM,22,9,0,0,0,4,9
+Barnwell,Elko,U.S. Senate,,Brandon P Brown,DEM,37,19,0,0,0,0,18
+Barnwell,Elko,U.S. Senate,,Kyle Freeman,DEM,11,7,0,0,0,0,4
+Barnwell,Failsafe,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,1,0,0
+Barnwell,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe,U.S. Senate,,Brandon P Brown,DEM,2,0,0,0,2,0,0
+Barnwell,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,1,0,1,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Barnwell,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,1,0,1,0,0,0,0
+Barnwell,Friendship,U.S. Senate,,Calvin Cowen,REP,5,1,0,0,0,0,4
+Barnwell,Friendship,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Barnwell,Friendship,U.S. Senate,,Lindsey Graham,REP,81,12,0,0,0,0,69
+Barnwell,Friendship,U.S. Senate,,Pat Herrmann,REP,6,0,0,0,0,0,6
+Barnwell,Friendship,U.S. Senate,,Mark Lynch,REP,17,2,0,0,0,0,15
+Barnwell,Friendship,U.S. Senate,,Darius L Mitchell,REP,3,1,0,0,0,0,2
+Barnwell,Friendship,U.S. Senate,,Annie Andrews,DEM,2,1,0,0,0,0,1
+Barnwell,Friendship,U.S. Senate,,Brandon P Brown,DEM,5,5,0,0,0,0,0
+Barnwell,Friendship,U.S. Senate,,Kyle Freeman,DEM,2,2,0,0,0,0,0
+Barnwell,Healing Springs,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Barnwell,Healing Springs,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Barnwell,Healing Springs,U.S. Senate,,Lindsey Graham,REP,9,4,0,0,0,0,5
+Barnwell,Healing Springs,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Barnwell,Healing Springs,U.S. Senate,,Mark Lynch,REP,12,6,0,0,0,0,6
+Barnwell,Healing Springs,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Barnwell,Healing Springs,U.S. Senate,,Annie Andrews,DEM,75,48,0,0,0,6,21
+Barnwell,Healing Springs,U.S. Senate,,Brandon P Brown,DEM,94,63,0,0,0,6,25
+Barnwell,Healing Springs,U.S. Senate,,Kyle Freeman,DEM,23,13,0,0,0,0,10
+Barnwell,Hilda,U.S. Senate,,Calvin Cowen,REP,4,1,0,0,0,0,3
+Barnwell,Hilda,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Barnwell,Hilda,U.S. Senate,,Lindsey Graham,REP,103,15,0,0,0,0,88
+Barnwell,Hilda,U.S. Senate,,Pat Herrmann,REP,5,0,0,0,0,0,5
+Barnwell,Hilda,U.S. Senate,,Mark Lynch,REP,24,5,0,0,0,0,19
+Barnwell,Hilda,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Barnwell,Hilda,U.S. Senate,,Annie Andrews,DEM,8,7,0,0,0,0,1
+Barnwell,Hilda,U.S. Senate,,Brandon P Brown,DEM,7,4,0,0,0,2,1
+Barnwell,Hilda,U.S. Senate,,Kyle Freeman,DEM,1,1,0,0,0,0,0
+Barnwell,Kline,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Barnwell,Kline,U.S. Senate,,Thomas Keith Dismukes,REP,3,2,0,0,0,0,1
+Barnwell,Kline,U.S. Senate,,Lindsey Graham,REP,50,8,0,0,0,0,42
+Barnwell,Kline,U.S. Senate,,Pat Herrmann,REP,2,1,0,0,0,0,1
+Barnwell,Kline,U.S. Senate,,Mark Lynch,REP,15,4,0,0,0,0,11
+Barnwell,Kline,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Barnwell,Kline,U.S. Senate,,Annie Andrews,DEM,18,10,0,0,0,1,7
+Barnwell,Kline,U.S. Senate,,Brandon P Brown,DEM,21,7,0,0,0,3,11
+Barnwell,Kline,U.S. Senate,,Kyle Freeman,DEM,11,4,0,0,0,0,7
+Barnwell,Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. Senate,,Mark Lynch,REP,1,0,0,1,0,0,0
+Barnwell,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Barnwell,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Barnwell,Snelling,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Barnwell,Snelling,U.S. Senate,,Thomas Keith Dismukes,REP,6,1,0,0,0,0,5
+Barnwell,Snelling,U.S. Senate,,Lindsey Graham,REP,86,15,0,0,0,0,71
+Barnwell,Snelling,U.S. Senate,,Pat Herrmann,REP,4,1,0,0,0,0,3
+Barnwell,Snelling,U.S. Senate,,Mark Lynch,REP,38,6,0,0,0,0,32
+Barnwell,Snelling,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,0,3
+Barnwell,Snelling,U.S. Senate,,Annie Andrews,DEM,49,27,0,0,0,0,22
+Barnwell,Snelling,U.S. Senate,,Brandon P Brown,DEM,49,36,0,0,0,1,12
+Barnwell,Snelling,U.S. Senate,,Kyle Freeman,DEM,18,10,0,0,0,0,8
+Barnwell,Williston No. 1,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Barnwell,Williston No. 1,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Barnwell,Williston No. 1,U.S. Senate,,Lindsey Graham,REP,59,8,0,0,0,0,51
+Barnwell,Williston No. 1,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Barnwell,Williston No. 1,U.S. Senate,,Mark Lynch,REP,22,2,0,0,0,0,20
+Barnwell,Williston No. 1,U.S. Senate,,Darius L Mitchell,REP,3,2,0,0,0,0,1
+Barnwell,Williston No. 1,U.S. Senate,,Annie Andrews,DEM,72,46,0,0,0,2,24
+Barnwell,Williston No. 1,U.S. Senate,,Brandon P Brown,DEM,109,70,0,0,0,7,32
+Barnwell,Williston No. 1,U.S. Senate,,Kyle Freeman,DEM,15,9,0,0,0,0,6
+Barnwell,Williston No. 2,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Barnwell,Williston No. 2,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Barnwell,Williston No. 2,U.S. Senate,,Lindsey Graham,REP,43,7,0,0,0,2,34
+Barnwell,Williston No. 2,U.S. Senate,,Pat Herrmann,REP,3,2,0,0,0,0,1
+Barnwell,Williston No. 2,U.S. Senate,,Mark Lynch,REP,23,5,0,0,0,0,18
+Barnwell,Williston No. 2,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,0,3
+Barnwell,Williston No. 2,U.S. Senate,,Annie Andrews,DEM,23,13,0,0,0,0,10
+Barnwell,Williston No. 2,U.S. Senate,,Brandon P Brown,DEM,16,12,0,0,0,0,4
+Barnwell,Williston No. 2,U.S. Senate,,Kyle Freeman,DEM,2,1,0,0,0,0,1
+Barnwell,Williston No. 3,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Barnwell,Williston No. 3,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Barnwell,Williston No. 3,U.S. Senate,,Lindsey Graham,REP,75,27,0,0,0,0,48
+Barnwell,Williston No. 3,U.S. Senate,,Pat Herrmann,REP,5,0,0,0,0,0,5
+Barnwell,Williston No. 3,U.S. Senate,,Mark Lynch,REP,22,5,0,0,0,0,17
+Barnwell,Williston No. 3,U.S. Senate,,Darius L Mitchell,REP,1,1,0,0,0,0,0
+Barnwell,Williston No. 3,U.S. Senate,,Annie Andrews,DEM,39,19,0,0,0,3,17
+Barnwell,Williston No. 3,U.S. Senate,,Brandon P Brown,DEM,40,21,0,0,0,1,18
+Barnwell,Williston No. 3,U.S. Senate,,Kyle Freeman,DEM,8,3,0,0,0,0,5

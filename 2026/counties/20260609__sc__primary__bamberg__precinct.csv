@@ -1,0 +1,727 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Bamberg,Colston,Advisory Question 1,,Yes,REP,14,1,0,0,0,0,13
+Bamberg,Colston,Advisory Question 1,,No,REP,5,0,0,0,0,0,5
+Bamberg,East Denmark,Advisory Question 1,,Yes,REP,52,18,0,0,0,0,34
+Bamberg,East Denmark,Advisory Question 1,,No,REP,5,1,0,0,0,0,4
+Bamberg,Edisto,Advisory Question 1,,Yes,REP,38,13,0,0,0,0,25
+Bamberg,Edisto,Advisory Question 1,,No,REP,6,1,0,0,0,0,5
+Bamberg,Ehrhardt,Advisory Question 1,,Yes,REP,79,3,0,0,0,0,76
+Bamberg,Ehrhardt,Advisory Question 1,,No,REP,4,0,0,0,0,0,4
+Bamberg,Failsafe,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Bamberg,Govan,Advisory Question 1,,Yes,REP,3,1,0,0,0,0,2
+Bamberg,Govan,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,Advisory Question 1,,Yes,REP,2,0,0,0,0,0,2
+Bamberg,Hightower's Mill,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Bamberg,Hunter's Chapel,Advisory Question 1,,Yes,REP,28,10,0,0,0,0,18
+Bamberg,Hunter's Chapel,Advisory Question 1,,No,REP,6,0,0,0,0,0,6
+Bamberg,Kearse,Advisory Question 1,,Yes,REP,10,0,0,0,0,0,10
+Bamberg,Kearse,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Bamberg,Little Swamp,Advisory Question 1,,Yes,REP,24,0,0,0,0,0,24
+Bamberg,Little Swamp,Advisory Question 1,,No,REP,1,0,0,0,0,0,1
+Bamberg,North Bamberg,Advisory Question 1,,Yes,REP,129,31,0,0,0,3,95
+Bamberg,North Bamberg,Advisory Question 1,,No,REP,31,8,0,0,0,0,23
+Bamberg,Olar,Advisory Question 1,,Yes,REP,25,1,0,0,0,0,24
+Bamberg,Olar,Advisory Question 1,,No,REP,4,0,0,0,0,0,4
+Bamberg,Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Bamberg,South Bamberg,Advisory Question 1,,Yes,REP,58,28,0,0,0,0,30
+Bamberg,South Bamberg,Advisory Question 1,,No,REP,7,4,0,0,0,0,3
+Bamberg,West Denmark,Advisory Question 1,,Yes,REP,30,8,0,0,0,1,21
+Bamberg,West Denmark,Advisory Question 1,,No,REP,8,4,0,0,0,0,4
+Bamberg,Colston,Advisory Question 2,,Yes,REP,12,1,0,0,0,0,11
+Bamberg,Colston,Advisory Question 2,,No,REP,7,0,0,0,0,0,7
+Bamberg,East Denmark,Advisory Question 2,,Yes,REP,49,17,0,0,0,0,32
+Bamberg,East Denmark,Advisory Question 2,,No,REP,8,2,0,0,0,0,6
+Bamberg,Edisto,Advisory Question 2,,Yes,REP,33,10,0,0,0,0,23
+Bamberg,Edisto,Advisory Question 2,,No,REP,12,4,0,0,0,0,8
+Bamberg,Ehrhardt,Advisory Question 2,,Yes,REP,70,3,0,0,0,0,67
+Bamberg,Ehrhardt,Advisory Question 2,,No,REP,14,0,0,0,0,0,14
+Bamberg,Failsafe,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Bamberg,Govan,Advisory Question 2,,Yes,REP,1,0,0,0,0,0,1
+Bamberg,Govan,Advisory Question 2,,No,REP,2,1,0,0,0,0,1
+Bamberg,Hightower's Mill,Advisory Question 2,,Yes,REP,1,0,0,0,0,0,1
+Bamberg,Hightower's Mill,Advisory Question 2,,No,REP,1,0,0,0,0,0,1
+Bamberg,Hunter's Chapel,Advisory Question 2,,Yes,REP,24,8,0,0,0,0,16
+Bamberg,Hunter's Chapel,Advisory Question 2,,No,REP,9,1,0,0,0,0,8
+Bamberg,Kearse,Advisory Question 2,,Yes,REP,7,0,0,0,0,0,7
+Bamberg,Kearse,Advisory Question 2,,No,REP,1,0,0,0,0,0,1
+Bamberg,Little Swamp,Advisory Question 2,,Yes,REP,22,0,0,0,0,0,22
+Bamberg,Little Swamp,Advisory Question 2,,No,REP,3,0,0,0,0,0,3
+Bamberg,North Bamberg,Advisory Question 2,,Yes,REP,98,23,0,0,0,2,73
+Bamberg,North Bamberg,Advisory Question 2,,No,REP,63,17,0,0,0,1,45
+Bamberg,Olar,Advisory Question 2,,Yes,REP,26,1,0,0,0,0,25
+Bamberg,Olar,Advisory Question 2,,No,REP,3,0,0,0,0,0,3
+Bamberg,Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Bamberg,South Bamberg,Advisory Question 2,,Yes,REP,48,26,0,0,0,0,22
+Bamberg,South Bamberg,Advisory Question 2,,No,REP,17,6,0,0,0,0,11
+Bamberg,West Denmark,Advisory Question 2,,Yes,REP,26,9,0,0,0,1,16
+Bamberg,West Denmark,Advisory Question 2,,No,REP,12,3,0,0,0,0,9
+Bamberg,Colston,Attorney General,,Stephen Goldfinch,REP,3,0,0,0,0,0,3
+Bamberg,Colston,Attorney General,,David M Pascoe,REP,12,1,0,0,0,0,11
+Bamberg,Colston,Attorney General,,David Stumbo,REP,5,0,0,0,0,0,5
+Bamberg,East Denmark,Attorney General,,Stephen Goldfinch,REP,19,6,0,0,0,0,13
+Bamberg,East Denmark,Attorney General,,David M Pascoe,REP,28,12,0,0,0,0,16
+Bamberg,East Denmark,Attorney General,,David Stumbo,REP,8,0,0,0,0,0,8
+Bamberg,Edisto,Attorney General,,Stephen Goldfinch,REP,8,3,0,0,0,0,5
+Bamberg,Edisto,Attorney General,,David M Pascoe,REP,24,8,0,0,0,0,16
+Bamberg,Edisto,Attorney General,,David Stumbo,REP,9,3,0,0,0,0,6
+Bamberg,Ehrhardt,Attorney General,,Stephen Goldfinch,REP,31,1,0,0,0,0,30
+Bamberg,Ehrhardt,Attorney General,,David M Pascoe,REP,28,0,0,0,0,0,28
+Bamberg,Ehrhardt,Attorney General,,David Stumbo,REP,21,2,0,0,0,0,19
+Bamberg,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Bamberg,Govan,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Bamberg,Govan,Attorney General,,David M Pascoe,REP,2,2,0,0,0,0,0
+Bamberg,Govan,Attorney General,,David Stumbo,REP,2,0,0,0,0,0,2
+Bamberg,Hightower's Mill,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,Attorney General,,David M Pascoe,REP,2,0,0,0,0,0,2
+Bamberg,Hightower's Mill,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Bamberg,Hunter's Chapel,Attorney General,,Stephen Goldfinch,REP,8,4,0,0,0,0,4
+Bamberg,Hunter's Chapel,Attorney General,,David M Pascoe,REP,20,3,0,0,0,0,17
+Bamberg,Hunter's Chapel,Attorney General,,David Stumbo,REP,4,1,0,0,0,0,3
+Bamberg,Kearse,Attorney General,,Stephen Goldfinch,REP,3,0,0,0,0,0,3
+Bamberg,Kearse,Attorney General,,David M Pascoe,REP,3,0,0,0,0,0,3
+Bamberg,Kearse,Attorney General,,David Stumbo,REP,3,0,0,0,0,0,3
+Bamberg,Little Swamp,Attorney General,,Stephen Goldfinch,REP,12,0,0,0,0,0,12
+Bamberg,Little Swamp,Attorney General,,David M Pascoe,REP,10,0,0,0,0,0,10
+Bamberg,Little Swamp,Attorney General,,David Stumbo,REP,2,0,0,0,0,0,2
+Bamberg,North Bamberg,Attorney General,,Stephen Goldfinch,REP,31,9,0,0,0,0,22
+Bamberg,North Bamberg,Attorney General,,David M Pascoe,REP,87,22,0,0,0,1,64
+Bamberg,North Bamberg,Attorney General,,David Stumbo,REP,34,8,0,0,0,2,24
+Bamberg,Olar,Attorney General,,Stephen Goldfinch,REP,9,1,0,0,0,0,8
+Bamberg,Olar,Attorney General,,David M Pascoe,REP,15,0,0,0,0,0,15
+Bamberg,Olar,Attorney General,,David Stumbo,REP,6,0,0,0,0,0,6
+Bamberg,Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Bamberg,South Bamberg,Attorney General,,Stephen Goldfinch,REP,17,7,0,0,0,0,10
+Bamberg,South Bamberg,Attorney General,,David M Pascoe,REP,27,13,0,0,0,0,14
+Bamberg,South Bamberg,Attorney General,,David Stumbo,REP,13,6,0,0,0,0,7
+Bamberg,West Denmark,Attorney General,,Stephen Goldfinch,REP,11,3,0,0,0,1,7
+Bamberg,West Denmark,Attorney General,,David M Pascoe,REP,18,7,0,0,0,0,11
+Bamberg,West Denmark,Attorney General,,David Stumbo,REP,8,2,0,0,0,0,6
+Bamberg,Colston,Commissioner of Agriculture,,Jeremy B Cannon,REP,2,0,0,0,0,0,2
+Bamberg,Colston,Commissioner of Agriculture,,Danny Ford,REP,10,0,0,0,0,0,10
+Bamberg,Colston,Commissioner of Agriculture,,Cody Simpson,REP,6,0,0,0,0,0,6
+Bamberg,Colston,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Bamberg,East Denmark,Commissioner of Agriculture,,Jeremy B Cannon,REP,10,1,0,0,0,0,9
+Bamberg,East Denmark,Commissioner of Agriculture,,Danny Ford,REP,21,9,0,0,0,0,12
+Bamberg,East Denmark,Commissioner of Agriculture,,Cody Simpson,REP,17,7,0,0,0,0,10
+Bamberg,East Denmark,Commissioner of Agriculture,,Fred West,REP,6,2,0,0,0,0,4
+Bamberg,Edisto,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,3,0,0,0,0,6
+Bamberg,Edisto,Commissioner of Agriculture,,Danny Ford,REP,10,5,0,0,0,0,5
+Bamberg,Edisto,Commissioner of Agriculture,,Cody Simpson,REP,19,5,0,0,0,0,14
+Bamberg,Edisto,Commissioner of Agriculture,,Fred West,REP,6,2,0,0,0,0,4
+Bamberg,Ehrhardt,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,0,0,0,0,0,13
+Bamberg,Ehrhardt,Commissioner of Agriculture,,Danny Ford,REP,33,2,0,0,0,0,31
+Bamberg,Ehrhardt,Commissioner of Agriculture,,Cody Simpson,REP,29,0,0,0,0,0,29
+Bamberg,Ehrhardt,Commissioner of Agriculture,,Fred West,REP,10,1,0,0,0,0,9
+Bamberg,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Bamberg,Govan,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Bamberg,Govan,Commissioner of Agriculture,,Danny Ford,REP,3,2,0,0,0,0,1
+Bamberg,Govan,Commissioner of Agriculture,,Cody Simpson,REP,1,0,0,0,0,0,1
+Bamberg,Govan,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,Commissioner of Agriculture,,Danny Ford,REP,1,0,0,0,0,0,1
+Bamberg,Hightower's Mill,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Bamberg,Hunter's Chapel,Commissioner of Agriculture,,Jeremy B Cannon,REP,13,4,0,0,0,0,9
+Bamberg,Hunter's Chapel,Commissioner of Agriculture,,Danny Ford,REP,9,2,0,0,0,0,7
+Bamberg,Hunter's Chapel,Commissioner of Agriculture,,Cody Simpson,REP,8,2,0,0,0,0,6
+Bamberg,Hunter's Chapel,Commissioner of Agriculture,,Fred West,REP,2,1,0,0,0,0,1
+Bamberg,Kearse,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Bamberg,Kearse,Commissioner of Agriculture,,Danny Ford,REP,3,0,0,0,0,0,3
+Bamberg,Kearse,Commissioner of Agriculture,,Cody Simpson,REP,5,0,0,0,0,0,5
+Bamberg,Kearse,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Bamberg,Little Swamp,Commissioner of Agriculture,,Jeremy B Cannon,REP,3,0,0,0,0,0,3
+Bamberg,Little Swamp,Commissioner of Agriculture,,Danny Ford,REP,13,0,0,0,0,0,13
+Bamberg,Little Swamp,Commissioner of Agriculture,,Cody Simpson,REP,6,0,0,0,0,0,6
+Bamberg,Little Swamp,Commissioner of Agriculture,,Fred West,REP,1,0,0,0,0,0,1
+Bamberg,North Bamberg,Commissioner of Agriculture,,Jeremy B Cannon,REP,11,3,0,0,0,0,8
+Bamberg,North Bamberg,Commissioner of Agriculture,,Danny Ford,REP,63,19,0,0,0,1,43
+Bamberg,North Bamberg,Commissioner of Agriculture,,Cody Simpson,REP,47,10,0,0,0,2,35
+Bamberg,North Bamberg,Commissioner of Agriculture,,Fred West,REP,31,6,0,0,0,0,25
+Bamberg,Olar,Commissioner of Agriculture,,Jeremy B Cannon,REP,5,0,0,0,0,0,5
+Bamberg,Olar,Commissioner of Agriculture,,Danny Ford,REP,10,0,0,0,0,0,10
+Bamberg,Olar,Commissioner of Agriculture,,Cody Simpson,REP,12,1,0,0,0,0,11
+Bamberg,Olar,Commissioner of Agriculture,,Fred West,REP,2,0,0,0,0,0,2
+Bamberg,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Bamberg,South Bamberg,Commissioner of Agriculture,,Jeremy B Cannon,REP,16,7,0,0,0,0,9
+Bamberg,South Bamberg,Commissioner of Agriculture,,Danny Ford,REP,27,11,0,0,0,0,16
+Bamberg,South Bamberg,Commissioner of Agriculture,,Cody Simpson,REP,5,2,0,0,0,0,3
+Bamberg,South Bamberg,Commissioner of Agriculture,,Fred West,REP,10,8,0,0,0,0,2
+Bamberg,West Denmark,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,2,0,0,0,0,5
+Bamberg,West Denmark,Commissioner of Agriculture,,Danny Ford,REP,18,5,0,0,0,0,13
+Bamberg,West Denmark,Commissioner of Agriculture,,Cody Simpson,REP,6,2,0,0,0,1,3
+Bamberg,West Denmark,Commissioner of Agriculture,,Fred West,REP,7,2,0,0,0,0,5
+Bamberg,Colston,Comptroller General,,Tiffany Boozer,DEM,16,4,0,0,0,1,11
+Bamberg,Colston,Comptroller General,,Bruce K Cole,DEM,9,3,0,0,0,1,5
+Bamberg,East Denmark,Comptroller General,,Tiffany Boozer,DEM,254,162,0,0,0,3,89
+Bamberg,East Denmark,Comptroller General,,Bruce K Cole,DEM,132,81,0,0,0,8,43
+Bamberg,Edisto,Comptroller General,,Tiffany Boozer,DEM,18,10,0,0,0,1,7
+Bamberg,Edisto,Comptroller General,,Bruce K Cole,DEM,7,2,0,0,0,2,3
+Bamberg,Ehrhardt,Comptroller General,,Tiffany Boozer,DEM,46,12,0,0,0,8,26
+Bamberg,Ehrhardt,Comptroller General,,Bruce K Cole,DEM,17,5,0,0,0,4,8
+Bamberg,Failsafe,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Bamberg,Govan,Comptroller General,,Tiffany Boozer,DEM,20,5,0,0,0,0,15
+Bamberg,Govan,Comptroller General,,Bruce K Cole,DEM,7,2,0,0,0,0,5
+Bamberg,Hightower's Mill,Comptroller General,,Tiffany Boozer,DEM,7,6,0,0,0,0,1
+Bamberg,Hightower's Mill,Comptroller General,,Bruce K Cole,DEM,4,3,0,0,0,0,1
+Bamberg,Hunter's Chapel,Comptroller General,,Tiffany Boozer,DEM,17,12,0,0,0,2,3
+Bamberg,Hunter's Chapel,Comptroller General,,Bruce K Cole,DEM,8,6,0,0,0,1,1
+Bamberg,Kearse,Comptroller General,,Tiffany Boozer,DEM,2,1,0,0,0,0,1
+Bamberg,Kearse,Comptroller General,,Bruce K Cole,DEM,2,1,0,0,0,0,1
+Bamberg,Little Swamp,Comptroller General,,Tiffany Boozer,DEM,5,2,0,0,0,0,3
+Bamberg,Little Swamp,Comptroller General,,Bruce K Cole,DEM,1,0,0,0,0,0,1
+Bamberg,North Bamberg,Comptroller General,,Tiffany Boozer,DEM,192,105,0,0,0,9,78
+Bamberg,North Bamberg,Comptroller General,,Bruce K Cole,DEM,118,56,0,0,0,25,37
+Bamberg,Olar,Comptroller General,,Tiffany Boozer,DEM,24,11,0,0,0,0,13
+Bamberg,Olar,Comptroller General,,Bruce K Cole,DEM,9,6,0,0,0,0,3
+Bamberg,Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Bamberg,Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Bamberg,South Bamberg,Comptroller General,,Tiffany Boozer,DEM,274,167,0,0,0,10,97
+Bamberg,South Bamberg,Comptroller General,,Bruce K Cole,DEM,189,67,0,0,0,62,60
+Bamberg,West Denmark,Comptroller General,,Tiffany Boozer,DEM,153,85,0,0,0,0,68
+Bamberg,West Denmark,Comptroller General,,Bruce K Cole,DEM,69,33,0,0,0,2,34
+Bamberg,Failsafe,County Council District 2,,Tony Marsharell Duncan,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe,County Council District 2,,Martin Ryant III,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,County Council District 2,,Tony Marsharell Duncan,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,County Council District 2,,Martin Ryant III,DEM,0,0,0,0,0,0,0
+Bamberg,North Bamberg,County Council District 2,,Tony Marsharell Duncan,DEM,37,16,0,0,0,4,17
+Bamberg,North Bamberg,County Council District 2,,Martin Ryant III,DEM,23,10,0,0,0,12,1
+Bamberg,Provisional,County Council District 2,,Tony Marsharell Duncan,DEM,0,0,0,0,0,0,0
+Bamberg,Provisional,County Council District 2,,Martin Ryant III,DEM,0,0,0,0,0,0,0
+Bamberg,South Bamberg,County Council District 2,,Tony Marsharell Duncan,DEM,179,104,0,0,0,14,61
+Bamberg,South Bamberg,County Council District 2,,Martin Ryant III,DEM,85,36,0,0,0,30,19
+Bamberg,East Denmark,County Council District 6,,Evert Comer Jr,DEM,59,38,0,0,0,0,21
+Bamberg,East Denmark,County Council District 6,,Mark D Tyler,DEM,70,41,0,0,0,1,28
+Bamberg,Failsafe,County Council District 6,,Evert Comer Jr,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe,County Council District 6,,Mark D Tyler,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,County Council District 6,,Evert Comer Jr,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,County Council District 6,,Mark D Tyler,DEM,0,0,0,0,0,0,0
+Bamberg,Olar,County Council District 6,,Evert Comer Jr,DEM,4,3,0,0,0,0,1
+Bamberg,Olar,County Council District 6,,Mark D Tyler,DEM,11,4,0,0,0,0,7
+Bamberg,Provisional,County Council District 6,,Evert Comer Jr,DEM,0,0,0,0,0,0,0
+Bamberg,Provisional,County Council District 6,,Mark D Tyler,DEM,0,0,0,0,0,0,0
+Bamberg,West Denmark,County Council District 6,,Evert Comer Jr,DEM,42,26,0,0,0,0,16
+Bamberg,West Denmark,County Council District 6,,Mark D Tyler,DEM,50,19,0,0,0,2,29
+Bamberg,Colston,County Treasurer,,Rosa Ray James,DEM,5,1,0,0,0,1,3
+Bamberg,Colston,County Treasurer,,Cynthia S McMillan,DEM,23,7,0,0,0,1,15
+Bamberg,East Denmark,County Treasurer,,Rosa Ray James,DEM,216,135,0,0,0,6,75
+Bamberg,East Denmark,County Treasurer,,Cynthia S McMillan,DEM,184,115,0,0,0,5,64
+Bamberg,Edisto,County Treasurer,,Rosa Ray James,DEM,8,4,0,0,0,0,4
+Bamberg,Edisto,County Treasurer,,Cynthia S McMillan,DEM,19,8,0,0,0,4,7
+Bamberg,Ehrhardt,County Treasurer,,Rosa Ray James,DEM,16,6,0,0,0,3,7
+Bamberg,Ehrhardt,County Treasurer,,Cynthia S McMillan,DEM,50,12,0,0,0,9,29
+Bamberg,Failsafe,County Treasurer,,Rosa Ray James,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe,County Treasurer,,Cynthia S McMillan,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,County Treasurer,,Rosa Ray James,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,County Treasurer,,Cynthia S McMillan,DEM,0,0,0,0,0,0,0
+Bamberg,Govan,County Treasurer,,Rosa Ray James,DEM,15,5,0,0,0,0,10
+Bamberg,Govan,County Treasurer,,Cynthia S McMillan,DEM,14,2,0,0,0,0,12
+Bamberg,Hightower's Mill,County Treasurer,,Rosa Ray James,DEM,9,7,0,0,0,0,2
+Bamberg,Hightower's Mill,County Treasurer,,Cynthia S McMillan,DEM,3,3,0,0,0,0,0
+Bamberg,Hunter's Chapel,County Treasurer,,Rosa Ray James,DEM,8,6,0,0,0,0,2
+Bamberg,Hunter's Chapel,County Treasurer,,Cynthia S McMillan,DEM,18,13,0,0,0,3,2
+Bamberg,Kearse,County Treasurer,,Rosa Ray James,DEM,0,0,0,0,0,0,0
+Bamberg,Kearse,County Treasurer,,Cynthia S McMillan,DEM,4,2,0,0,0,0,2
+Bamberg,Little Swamp,County Treasurer,,Rosa Ray James,DEM,2,0,0,0,0,0,2
+Bamberg,Little Swamp,County Treasurer,,Cynthia S McMillan,DEM,5,2,0,0,0,0,3
+Bamberg,North Bamberg,County Treasurer,,Rosa Ray James,DEM,129,60,0,0,0,24,45
+Bamberg,North Bamberg,County Treasurer,,Cynthia S McMillan,DEM,200,111,0,0,0,10,79
+Bamberg,Olar,County Treasurer,,Rosa Ray James,DEM,15,8,0,0,0,0,7
+Bamberg,Olar,County Treasurer,,Cynthia S McMillan,DEM,17,8,0,0,0,0,9
+Bamberg,Provisional,County Treasurer,,Rosa Ray James,DEM,0,0,0,0,0,0,0
+Bamberg,Provisional,County Treasurer,,Cynthia S McMillan,DEM,0,0,0,0,0,0,0
+Bamberg,South Bamberg,County Treasurer,,Rosa Ray James,DEM,166,61,0,0,0,53,52
+Bamberg,South Bamberg,County Treasurer,,Cynthia S McMillan,DEM,321,182,0,0,0,19,120
+Bamberg,West Denmark,County Treasurer,,Rosa Ray James,DEM,159,76,0,0,0,2,81
+Bamberg,West Denmark,County Treasurer,,Cynthia S McMillan,DEM,69,46,0,0,0,0,23
+Bamberg,Colston,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Bamberg,Colston,Governor,,Pamela Evette,REP,10,1,0,0,0,0,9
+Bamberg,Colston,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,Colston,Governor,,Nancy Mace,REP,2,0,0,0,0,0,2
+Bamberg,Colston,Governor,,Ralph W Norman,REP,4,0,0,0,0,0,4
+Bamberg,Colston,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Bamberg,Colston,Governor,,Alan Wilson,REP,4,0,0,0,0,0,4
+Bamberg,Colston,Governor,,Jermaine Johnson,DEM,18,5,0,0,0,2,11
+Bamberg,Colston,Governor,,Mullins McLeod,DEM,4,2,0,0,0,0,2
+Bamberg,Colston,Governor,,Billy Webster,DEM,5,1,0,0,0,0,4
+Bamberg,East Denmark,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Bamberg,East Denmark,Governor,,Pamela Evette,REP,18,8,0,0,0,0,10
+Bamberg,East Denmark,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,East Denmark,Governor,,Nancy Mace,REP,16,5,0,0,0,0,11
+Bamberg,East Denmark,Governor,,Ralph W Norman,REP,7,2,0,0,0,0,5
+Bamberg,East Denmark,Governor,,Rom Reddy,REP,5,0,0,0,0,0,5
+Bamberg,East Denmark,Governor,,Alan Wilson,REP,10,4,0,0,0,0,6
+Bamberg,East Denmark,Governor,,Jermaine Johnson,DEM,272,181,0,0,0,6,85
+Bamberg,East Denmark,Governor,,Mullins McLeod,DEM,44,26,0,0,0,3,15
+Bamberg,East Denmark,Governor,,Billy Webster,DEM,79,40,0,0,0,2,37
+Bamberg,Edisto,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Bamberg,Edisto,Governor,,Pamela Evette,REP,15,5,0,0,0,0,10
+Bamberg,Edisto,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,Edisto,Governor,,Nancy Mace,REP,9,2,0,0,0,0,7
+Bamberg,Edisto,Governor,,Ralph W Norman,REP,7,4,0,0,0,0,3
+Bamberg,Edisto,Governor,,Rom Reddy,REP,3,0,0,0,0,0,3
+Bamberg,Edisto,Governor,,Alan Wilson,REP,11,3,0,0,0,0,8
+Bamberg,Edisto,Governor,,Jermaine Johnson,DEM,20,9,0,0,0,1,10
+Bamberg,Edisto,Governor,,Mullins McLeod,DEM,4,1,0,0,0,3,0
+Bamberg,Edisto,Governor,,Billy Webster,DEM,5,4,0,0,0,0,1
+Bamberg,Ehrhardt,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Bamberg,Ehrhardt,Governor,,Pamela Evette,REP,31,2,0,0,0,0,29
+Bamberg,Ehrhardt,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,Ehrhardt,Governor,,Nancy Mace,REP,15,1,0,0,0,0,14
+Bamberg,Ehrhardt,Governor,,Ralph W Norman,REP,19,0,0,0,0,0,19
+Bamberg,Ehrhardt,Governor,,Rom Reddy,REP,4,0,0,0,0,0,4
+Bamberg,Ehrhardt,Governor,,Alan Wilson,REP,14,0,0,0,0,0,14
+Bamberg,Ehrhardt,Governor,,Jermaine Johnson,DEM,41,12,0,0,0,4,25
+Bamberg,Ehrhardt,Governor,,Mullins McLeod,DEM,11,4,0,0,0,4,3
+Bamberg,Ehrhardt,Governor,,Billy Webster,DEM,11,2,0,0,0,2,7
+Bamberg,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Bamberg,Govan,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Bamberg,Govan,Governor,,Pamela Evette,REP,2,2,0,0,0,0,0
+Bamberg,Govan,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,Govan,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Bamberg,Govan,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Bamberg,Govan,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Bamberg,Govan,Governor,,Alan Wilson,REP,2,0,0,0,0,0,2
+Bamberg,Govan,Governor,,Jermaine Johnson,DEM,21,6,0,0,0,0,15
+Bamberg,Govan,Governor,,Mullins McLeod,DEM,1,0,0,0,0,0,1
+Bamberg,Govan,Governor,,Billy Webster,DEM,3,0,0,0,0,0,3
+Bamberg,Hightower's Mill,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,Governor,,Pamela Evette,REP,2,0,0,0,0,0,2
+Bamberg,Hightower's Mill,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,Governor,,Jermaine Johnson,DEM,6,5,0,0,0,0,1
+Bamberg,Hightower's Mill,Governor,,Mullins McLeod,DEM,3,2,0,0,0,0,1
+Bamberg,Hightower's Mill,Governor,,Billy Webster,DEM,2,2,0,0,0,0,0
+Bamberg,Hunter's Chapel,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Bamberg,Hunter's Chapel,Governor,,Pamela Evette,REP,9,3,0,0,0,0,6
+Bamberg,Hunter's Chapel,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Bamberg,Hunter's Chapel,Governor,,Nancy Mace,REP,4,2,0,0,0,0,2
+Bamberg,Hunter's Chapel,Governor,,Ralph W Norman,REP,8,2,0,0,0,0,6
+Bamberg,Hunter's Chapel,Governor,,Rom Reddy,REP,3,2,0,0,0,0,1
+Bamberg,Hunter's Chapel,Governor,,Alan Wilson,REP,9,1,0,0,0,0,8
+Bamberg,Hunter's Chapel,Governor,,Jermaine Johnson,DEM,14,9,0,0,0,2,3
+Bamberg,Hunter's Chapel,Governor,,Mullins McLeod,DEM,4,3,0,0,0,1,0
+Bamberg,Hunter's Chapel,Governor,,Billy Webster,DEM,9,7,0,0,0,0,2
+Bamberg,Kearse,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Bamberg,Kearse,Governor,,Pamela Evette,REP,2,0,0,0,0,0,2
+Bamberg,Kearse,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,Kearse,Governor,,Nancy Mace,REP,1,0,0,0,0,0,1
+Bamberg,Kearse,Governor,,Ralph W Norman,REP,1,0,0,0,0,0,1
+Bamberg,Kearse,Governor,,Rom Reddy,REP,1,0,0,0,0,0,1
+Bamberg,Kearse,Governor,,Alan Wilson,REP,6,0,0,0,0,0,6
+Bamberg,Kearse,Governor,,Jermaine Johnson,DEM,3,1,0,0,0,0,2
+Bamberg,Kearse,Governor,,Mullins McLeod,DEM,1,1,0,0,0,0,0
+Bamberg,Kearse,Governor,,Billy Webster,DEM,1,1,0,0,0,0,0
+Bamberg,Little Swamp,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Bamberg,Little Swamp,Governor,,Pamela Evette,REP,11,0,0,0,0,0,11
+Bamberg,Little Swamp,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,Little Swamp,Governor,,Nancy Mace,REP,9,0,0,0,0,0,9
+Bamberg,Little Swamp,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Bamberg,Little Swamp,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Bamberg,Little Swamp,Governor,,Alan Wilson,REP,5,0,0,0,0,0,5
+Bamberg,Little Swamp,Governor,,Jermaine Johnson,DEM,5,2,0,0,0,0,3
+Bamberg,Little Swamp,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Bamberg,Little Swamp,Governor,,Billy Webster,DEM,2,0,0,0,0,0,2
+Bamberg,North Bamberg,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Bamberg,North Bamberg,Governor,,Pamela Evette,REP,37,8,0,0,0,0,29
+Bamberg,North Bamberg,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,North Bamberg,Governor,,Nancy Mace,REP,21,2,0,0,0,1,18
+Bamberg,North Bamberg,Governor,,Ralph W Norman,REP,27,10,0,0,0,0,17
+Bamberg,North Bamberg,Governor,,Rom Reddy,REP,14,2,0,0,0,2,10
+Bamberg,North Bamberg,Governor,,Alan Wilson,REP,60,17,0,0,0,0,43
+Bamberg,North Bamberg,Governor,,Jermaine Johnson,DEM,223,133,0,0,0,7,83
+Bamberg,North Bamberg,Governor,,Mullins McLeod,DEM,52,16,0,0,0,23,13
+Bamberg,North Bamberg,Governor,,Billy Webster,DEM,49,18,0,0,0,4,27
+Bamberg,Olar,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Bamberg,Olar,Governor,,Pamela Evette,REP,9,0,0,0,0,0,9
+Bamberg,Olar,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,Olar,Governor,,Nancy Mace,REP,6,0,0,0,0,0,6
+Bamberg,Olar,Governor,,Ralph W Norman,REP,8,0,0,0,0,0,8
+Bamberg,Olar,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Bamberg,Olar,Governor,,Alan Wilson,REP,7,1,0,0,0,0,6
+Bamberg,Olar,Governor,,Jermaine Johnson,DEM,15,6,0,0,0,0,9
+Bamberg,Olar,Governor,,Mullins McLeod,DEM,6,4,0,0,0,0,2
+Bamberg,Olar,Governor,,Billy Webster,DEM,13,7,0,0,0,0,6
+Bamberg,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Bamberg,Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Bamberg,Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Bamberg,South Bamberg,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Bamberg,South Bamberg,Governor,,Pamela Evette,REP,20,7,0,0,0,0,13
+Bamberg,South Bamberg,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,South Bamberg,Governor,,Nancy Mace,REP,7,3,0,0,0,0,4
+Bamberg,South Bamberg,Governor,,Ralph W Norman,REP,17,9,0,0,0,0,8
+Bamberg,South Bamberg,Governor,,Rom Reddy,REP,4,4,0,0,0,0,0
+Bamberg,South Bamberg,Governor,,Alan Wilson,REP,18,9,0,0,0,0,9
+Bamberg,South Bamberg,Governor,,Jermaine Johnson,DEM,292,170,0,0,0,12,110
+Bamberg,South Bamberg,Governor,,Mullins McLeod,DEM,95,23,0,0,0,59,13
+Bamberg,South Bamberg,Governor,,Billy Webster,DEM,86,47,0,0,0,1,38
+Bamberg,West Denmark,Governor,,Jacqueline Hicks DuBose,REP,2,1,0,0,0,0,1
+Bamberg,West Denmark,Governor,,Pamela Evette,REP,14,6,0,0,0,0,8
+Bamberg,West Denmark,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Bamberg,West Denmark,Governor,,Nancy Mace,REP,4,2,0,0,0,0,2
+Bamberg,West Denmark,Governor,,Ralph W Norman,REP,8,2,0,0,0,0,6
+Bamberg,West Denmark,Governor,,Rom Reddy,REP,2,0,0,0,0,0,2
+Bamberg,West Denmark,Governor,,Alan Wilson,REP,11,3,0,0,0,1,7
+Bamberg,West Denmark,Governor,,Jermaine Johnson,DEM,181,101,0,0,0,2,78
+Bamberg,West Denmark,Governor,,Mullins McLeod,DEM,13,5,0,0,0,0,8
+Bamberg,West Denmark,Governor,,Billy Webster,DEM,34,17,0,0,0,0,17
+Bamberg,Colston,Secretary of State,,Jason Belton,DEM,11,1,0,0,0,2,8
+Bamberg,Colston,Secretary of State,,Edwina Winter,DEM,14,6,0,0,0,0,8
+Bamberg,East Denmark,Secretary of State,,Jason Belton,DEM,241,150,0,0,0,3,88
+Bamberg,East Denmark,Secretary of State,,Edwina Winter,DEM,140,89,0,0,0,8,43
+Bamberg,Edisto,Secretary of State,,Jason Belton,DEM,18,10,0,0,0,2,6
+Bamberg,Edisto,Secretary of State,,Edwina Winter,DEM,9,3,0,0,0,1,5
+Bamberg,Ehrhardt,Secretary of State,,Jason Belton,DEM,34,11,0,0,0,2,21
+Bamberg,Ehrhardt,Secretary of State,,Edwina Winter,DEM,27,6,0,0,0,8,13
+Bamberg,Failsafe,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Bamberg,Govan,Secretary of State,,Jason Belton,DEM,17,3,0,0,0,0,14
+Bamberg,Govan,Secretary of State,,Edwina Winter,DEM,8,3,0,0,0,0,5
+Bamberg,Hightower's Mill,Secretary of State,,Jason Belton,DEM,6,5,0,0,0,0,1
+Bamberg,Hightower's Mill,Secretary of State,,Edwina Winter,DEM,4,3,0,0,0,0,1
+Bamberg,Hunter's Chapel,Secretary of State,,Jason Belton,DEM,17,13,0,0,0,2,2
+Bamberg,Hunter's Chapel,Secretary of State,,Edwina Winter,DEM,8,5,0,0,0,1,2
+Bamberg,Kearse,Secretary of State,,Jason Belton,DEM,2,1,0,0,0,0,1
+Bamberg,Kearse,Secretary of State,,Edwina Winter,DEM,2,1,0,0,0,0,1
+Bamberg,Little Swamp,Secretary of State,,Jason Belton,DEM,7,2,0,0,0,0,5
+Bamberg,Little Swamp,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Bamberg,North Bamberg,Secretary of State,,Jason Belton,DEM,162,90,0,0,0,5,67
+Bamberg,North Bamberg,Secretary of State,,Edwina Winter,DEM,151,74,0,0,0,28,49
+Bamberg,Olar,Secretary of State,,Jason Belton,DEM,20,7,0,0,0,0,13
+Bamberg,Olar,Secretary of State,,Edwina Winter,DEM,15,10,0,0,0,0,5
+Bamberg,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Bamberg,Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Bamberg,South Bamberg,Secretary of State,,Jason Belton,DEM,247,137,0,0,0,11,99
+Bamberg,South Bamberg,Secretary of State,,Edwina Winter,DEM,215,98,0,0,0,61,56
+Bamberg,West Denmark,Secretary of State,,Jason Belton,DEM,141,72,0,0,0,0,69
+Bamberg,West Denmark,Secretary of State,,Edwina Winter,DEM,84,49,0,0,0,2,33
+Bamberg,Colston,State Superintendent of Education,,Lisa Ellis,DEM,10,3,0,0,0,1,6
+Bamberg,Colston,State Superintendent of Education,,Sylvia Wright,DEM,15,4,0,0,0,1,10
+Bamberg,East Denmark,State Superintendent of Education,,Lisa Ellis,DEM,130,79,0,0,0,1,50
+Bamberg,East Denmark,State Superintendent of Education,,Sylvia Wright,DEM,263,168,0,0,0,10,85
+Bamberg,Edisto,State Superintendent of Education,,Lisa Ellis,DEM,7,3,0,0,0,0,4
+Bamberg,Edisto,State Superintendent of Education,,Sylvia Wright,DEM,20,10,0,0,0,3,7
+Bamberg,Ehrhardt,State Superintendent of Education,,Lisa Ellis,DEM,22,5,0,0,0,2,15
+Bamberg,Ehrhardt,State Superintendent of Education,,Sylvia Wright,DEM,43,13,0,0,0,10,20
+Bamberg,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Bamberg,Govan,State Superintendent of Education,,Lisa Ellis,DEM,6,2,0,0,0,0,4
+Bamberg,Govan,State Superintendent of Education,,Sylvia Wright,DEM,20,5,0,0,0,0,15
+Bamberg,Hightower's Mill,State Superintendent of Education,,Lisa Ellis,DEM,4,4,0,0,0,0,0
+Bamberg,Hightower's Mill,State Superintendent of Education,,Sylvia Wright,DEM,6,4,0,0,0,0,2
+Bamberg,Hunter's Chapel,State Superintendent of Education,,Lisa Ellis,DEM,11,7,0,0,0,0,4
+Bamberg,Hunter's Chapel,State Superintendent of Education,,Sylvia Wright,DEM,16,11,0,0,0,3,2
+Bamberg,Kearse,State Superintendent of Education,,Lisa Ellis,DEM,3,1,0,0,0,0,2
+Bamberg,Kearse,State Superintendent of Education,,Sylvia Wright,DEM,1,1,0,0,0,0,0
+Bamberg,Little Swamp,State Superintendent of Education,,Lisa Ellis,DEM,2,0,0,0,0,0,2
+Bamberg,Little Swamp,State Superintendent of Education,,Sylvia Wright,DEM,4,2,0,0,0,0,2
+Bamberg,North Bamberg,State Superintendent of Education,,Lisa Ellis,DEM,81,39,0,0,0,2,40
+Bamberg,North Bamberg,State Superintendent of Education,,Sylvia Wright,DEM,235,125,0,0,0,32,78
+Bamberg,Olar,State Superintendent of Education,,Lisa Ellis,DEM,7,4,0,0,0,0,3
+Bamberg,Olar,State Superintendent of Education,,Sylvia Wright,DEM,25,13,0,0,0,0,12
+Bamberg,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Bamberg,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Bamberg,South Bamberg,State Superintendent of Education,,Lisa Ellis,DEM,122,71,0,0,0,5,46
+Bamberg,South Bamberg,State Superintendent of Education,,Sylvia Wright,DEM,346,166,0,0,0,67,113
+Bamberg,West Denmark,State Superintendent of Education,,Lisa Ellis,DEM,68,33,0,0,0,0,35
+Bamberg,West Denmark,State Superintendent of Education,,Sylvia Wright,DEM,156,86,0,0,0,2,68
+Bamberg,Colston,State Treasurer,,Vincent Coe,DEM,11,3,0,0,0,2,6
+Bamberg,Colston,State Treasurer,,Trav Robertson Jr,DEM,14,4,0,0,0,0,10
+Bamberg,East Denmark,State Treasurer,,Vincent Coe,DEM,177,110,0,0,0,5,62
+Bamberg,East Denmark,State Treasurer,,Trav Robertson Jr,DEM,205,130,0,0,0,6,69
+Bamberg,Edisto,State Treasurer,,Vincent Coe,DEM,13,9,0,0,0,3,1
+Bamberg,Edisto,State Treasurer,,Trav Robertson Jr,DEM,14,4,0,0,0,0,10
+Bamberg,Ehrhardt,State Treasurer,,Vincent Coe,DEM,30,4,0,0,0,8,18
+Bamberg,Ehrhardt,State Treasurer,,Trav Robertson Jr,DEM,34,14,0,0,0,4,16
+Bamberg,Failsafe,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Bamberg,Govan,State Treasurer,,Vincent Coe,DEM,13,3,0,0,0,0,10
+Bamberg,Govan,State Treasurer,,Trav Robertson Jr,DEM,11,3,0,0,0,0,8
+Bamberg,Hightower's Mill,State Treasurer,,Vincent Coe,DEM,6,6,0,0,0,0,0
+Bamberg,Hightower's Mill,State Treasurer,,Trav Robertson Jr,DEM,4,3,0,0,0,0,1
+Bamberg,Hunter's Chapel,State Treasurer,,Vincent Coe,DEM,17,12,0,0,0,3,2
+Bamberg,Hunter's Chapel,State Treasurer,,Trav Robertson Jr,DEM,8,6,0,0,0,0,2
+Bamberg,Kearse,State Treasurer,,Vincent Coe,DEM,2,0,0,0,0,0,2
+Bamberg,Kearse,State Treasurer,,Trav Robertson Jr,DEM,2,2,0,0,0,0,0
+Bamberg,Little Swamp,State Treasurer,,Vincent Coe,DEM,1,0,0,0,0,0,1
+Bamberg,Little Swamp,State Treasurer,,Trav Robertson Jr,DEM,6,2,0,0,0,0,4
+Bamberg,North Bamberg,State Treasurer,,Vincent Coe,DEM,159,79,0,0,0,29,51
+Bamberg,North Bamberg,State Treasurer,,Trav Robertson Jr,DEM,153,83,0,0,0,5,65
+Bamberg,Olar,State Treasurer,,Vincent Coe,DEM,18,11,0,0,0,0,7
+Bamberg,Olar,State Treasurer,,Trav Robertson Jr,DEM,14,5,0,0,0,0,9
+Bamberg,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Bamberg,Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Bamberg,South Bamberg,State Treasurer,,Vincent Coe,DEM,251,112,0,0,0,65,74
+Bamberg,South Bamberg,State Treasurer,,Trav Robertson Jr,DEM,212,125,0,0,0,6,81
+Bamberg,West Denmark,State Treasurer,,Vincent Coe,DEM,111,57,0,0,0,2,52
+Bamberg,West Denmark,State Treasurer,,Trav Robertson Jr,DEM,112,63,0,0,0,0,49
+Bamberg,Colston,U.S. House,6,John Peterson,REP,13,1,0,0,0,0,12
+Bamberg,Colston,U.S. House,6,Maurice Washington,REP,7,0,0,0,0,0,7
+Bamberg,Colston,U.S. House,6,James E Jim Clyburn,DEM,24,8,0,0,0,1,15
+Bamberg,Colston,U.S. House,6,Frederick R Goodwin,DEM,2,0,0,0,0,0,2
+Bamberg,East Denmark,U.S. House,6,John Peterson,REP,47,16,0,0,0,0,31
+Bamberg,East Denmark,U.S. House,6,Maurice Washington,REP,6,2,0,0,0,0,4
+Bamberg,East Denmark,U.S. House,6,James E Jim Clyburn,DEM,366,235,0,0,0,11,120
+Bamberg,East Denmark,U.S. House,6,Frederick R Goodwin,DEM,36,17,0,0,0,0,19
+Bamberg,Edisto,U.S. House,6,John Peterson,REP,32,9,0,0,0,0,23
+Bamberg,Edisto,U.S. House,6,Maurice Washington,REP,6,3,0,0,0,0,3
+Bamberg,Edisto,U.S. House,6,James E Jim Clyburn,DEM,25,10,0,0,0,4,11
+Bamberg,Edisto,U.S. House,6,Frederick R Goodwin,DEM,4,4,0,0,0,0,0
+Bamberg,Ehrhardt,U.S. House,6,John Peterson,REP,71,3,0,0,0,0,68
+Bamberg,Ehrhardt,U.S. House,6,Maurice Washington,REP,10,0,0,0,0,0,10
+Bamberg,Ehrhardt,U.S. House,6,James E Jim Clyburn,DEM,56,18,0,0,0,10,28
+Bamberg,Ehrhardt,U.S. House,6,Frederick R Goodwin,DEM,9,0,0,0,0,2,7
+Bamberg,Failsafe,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Bamberg,Govan,U.S. House,6,John Peterson,REP,3,2,0,0,0,0,1
+Bamberg,Govan,U.S. House,6,Maurice Washington,REP,1,0,0,0,0,0,1
+Bamberg,Govan,U.S. House,6,James E Jim Clyburn,DEM,27,6,0,0,0,0,21
+Bamberg,Govan,U.S. House,6,Frederick R Goodwin,DEM,1,0,0,0,0,0,1
+Bamberg,Hightower's Mill,U.S. House,6,John Peterson,REP,2,0,0,0,0,0,2
+Bamberg,Hightower's Mill,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,U.S. House,6,James E Jim Clyburn,DEM,10,8,0,0,0,0,2
+Bamberg,Hightower's Mill,U.S. House,6,Frederick R Goodwin,DEM,2,2,0,0,0,0,0
+Bamberg,Hunter's Chapel,U.S. House,6,John Peterson,REP,27,7,0,0,0,0,20
+Bamberg,Hunter's Chapel,U.S. House,6,Maurice Washington,REP,2,1,0,0,0,0,1
+Bamberg,Hunter's Chapel,U.S. House,6,James E Jim Clyburn,DEM,25,17,0,0,0,3,5
+Bamberg,Hunter's Chapel,U.S. House,6,Frederick R Goodwin,DEM,2,2,0,0,0,0,0
+Bamberg,Kearse,U.S. House,6,John Peterson,REP,8,0,0,0,0,0,8
+Bamberg,Kearse,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Bamberg,Kearse,U.S. House,6,James E Jim Clyburn,DEM,2,1,0,0,0,0,1
+Bamberg,Kearse,U.S. House,6,Frederick R Goodwin,DEM,3,2,0,0,0,0,1
+Bamberg,Little Swamp,U.S. House,6,John Peterson,REP,21,0,0,0,0,0,21
+Bamberg,Little Swamp,U.S. House,6,Maurice Washington,REP,1,0,0,0,0,0,1
+Bamberg,Little Swamp,U.S. House,6,James E Jim Clyburn,DEM,7,2,0,0,0,0,5
+Bamberg,Little Swamp,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Bamberg,North Bamberg,U.S. House,6,John Peterson,REP,120,33,0,0,0,3,84
+Bamberg,North Bamberg,U.S. House,6,Maurice Washington,REP,26,4,0,0,0,0,22
+Bamberg,North Bamberg,U.S. House,6,James E Jim Clyburn,DEM,293,154,0,0,0,33,106
+Bamberg,North Bamberg,U.S. House,6,Frederick R Goodwin,DEM,34,14,0,0,0,1,19
+Bamberg,Olar,U.S. House,6,John Peterson,REP,22,1,0,0,0,0,21
+Bamberg,Olar,U.S. House,6,Maurice Washington,REP,6,0,0,0,0,0,6
+Bamberg,Olar,U.S. House,6,James E Jim Clyburn,DEM,27,15,0,0,0,0,12
+Bamberg,Olar,U.S. House,6,Frederick R Goodwin,DEM,10,2,0,0,0,0,8
+Bamberg,Provisional,U.S. House,6,John Peterson,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,U.S. House,6,Maurice Washington,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,U.S. House,6,James E Jim Clyburn,DEM,0,0,0,0,0,0,0
+Bamberg,Provisional,U.S. House,6,Frederick R Goodwin,DEM,0,0,0,0,0,0,0
+Bamberg,South Bamberg,U.S. House,6,John Peterson,REP,51,24,0,0,0,0,27
+Bamberg,South Bamberg,U.S. House,6,Maurice Washington,REP,6,3,0,0,0,0,3
+Bamberg,South Bamberg,U.S. House,6,James E Jim Clyburn,DEM,417,202,0,0,0,70,145
+Bamberg,South Bamberg,U.S. House,6,Frederick R Goodwin,DEM,66,42,0,0,0,2,22
+Bamberg,West Denmark,U.S. House,6,John Peterson,REP,31,8,0,0,0,1,22
+Bamberg,West Denmark,U.S. House,6,Maurice Washington,REP,5,3,0,0,0,0,2
+Bamberg,West Denmark,U.S. House,6,James E Jim Clyburn,DEM,203,112,0,0,0,2,89
+Bamberg,West Denmark,U.S. House,6,Frederick R Goodwin,DEM,28,12,0,0,0,0,16
+Bamberg,Colston,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Bamberg,Colston,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Bamberg,Colston,U.S. Senate,,Lindsey Graham,REP,14,1,0,0,0,0,13
+Bamberg,Colston,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Bamberg,Colston,U.S. Senate,,Mark Lynch,REP,5,0,0,0,0,0,5
+Bamberg,Colston,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Bamberg,Colston,U.S. Senate,,Annie Andrews,DEM,10,4,0,0,0,0,6
+Bamberg,Colston,U.S. Senate,,Brandon P Brown,DEM,11,2,0,0,0,2,7
+Bamberg,Colston,U.S. Senate,,Kyle Freeman,DEM,4,1,0,0,0,0,3
+Bamberg,East Denmark,U.S. Senate,,Calvin Cowen,REP,3,2,0,0,0,0,1
+Bamberg,East Denmark,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Bamberg,East Denmark,U.S. Senate,,Lindsey Graham,REP,43,12,0,0,0,0,31
+Bamberg,East Denmark,U.S. Senate,,Pat Herrmann,REP,1,1,0,0,0,0,0
+Bamberg,East Denmark,U.S. Senate,,Mark Lynch,REP,9,4,0,0,0,0,5
+Bamberg,East Denmark,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Bamberg,East Denmark,U.S. Senate,,Annie Andrews,DEM,131,86,0,0,0,5,40
+Bamberg,East Denmark,U.S. Senate,,Brandon P Brown,DEM,167,108,0,0,0,5,54
+Bamberg,East Denmark,U.S. Senate,,Kyle Freeman,DEM,87,47,0,0,0,1,39
+Bamberg,Edisto,U.S. Senate,,Calvin Cowen,REP,3,1,0,0,0,0,2
+Bamberg,Edisto,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Bamberg,Edisto,U.S. Senate,,Lindsey Graham,REP,27,10,0,0,0,0,17
+Bamberg,Edisto,U.S. Senate,,Pat Herrmann,REP,4,3,0,0,0,0,1
+Bamberg,Edisto,U.S. Senate,,Mark Lynch,REP,8,1,0,0,0,0,7
+Bamberg,Edisto,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Bamberg,Edisto,U.S. Senate,,Annie Andrews,DEM,10,3,0,0,0,2,5
+Bamberg,Edisto,U.S. Senate,,Brandon P Brown,DEM,9,4,0,0,0,0,5
+Bamberg,Edisto,U.S. Senate,,Kyle Freeman,DEM,7,4,0,0,0,2,1
+Bamberg,Ehrhardt,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Bamberg,Ehrhardt,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Bamberg,Ehrhardt,U.S. Senate,,Lindsey Graham,REP,57,3,0,0,0,0,54
+Bamberg,Ehrhardt,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Bamberg,Ehrhardt,U.S. Senate,,Mark Lynch,REP,18,0,0,0,0,0,18
+Bamberg,Ehrhardt,U.S. Senate,,Darius L Mitchell,REP,4,0,0,0,0,0,4
+Bamberg,Ehrhardt,U.S. Senate,,Annie Andrews,DEM,23,5,0,0,0,5,13
+Bamberg,Ehrhardt,U.S. Senate,,Brandon P Brown,DEM,33,10,0,0,0,7,16
+Bamberg,Ehrhardt,U.S. Senate,,Kyle Freeman,DEM,8,2,0,0,0,0,6
+Bamberg,Failsafe,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Bamberg,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Bamberg,Govan,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Bamberg,Govan,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Bamberg,Govan,U.S. Senate,,Lindsey Graham,REP,3,2,0,0,0,0,1
+Bamberg,Govan,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Bamberg,Govan,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Bamberg,Govan,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Bamberg,Govan,U.S. Senate,,Annie Andrews,DEM,10,2,0,0,0,0,8
+Bamberg,Govan,U.S. Senate,,Brandon P Brown,DEM,12,4,0,0,0,0,8
+Bamberg,Govan,U.S. Senate,,Kyle Freeman,DEM,5,1,0,0,0,0,4
+Bamberg,Hightower's Mill,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,U.S. Senate,,Mark Lynch,REP,2,0,0,0,0,0,2
+Bamberg,Hightower's Mill,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Bamberg,Hightower's Mill,U.S. Senate,,Annie Andrews,DEM,4,4,0,0,0,0,0
+Bamberg,Hightower's Mill,U.S. Senate,,Brandon P Brown,DEM,7,5,0,0,0,0,2
+Bamberg,Hightower's Mill,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Bamberg,Hunter's Chapel,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Bamberg,Hunter's Chapel,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Bamberg,Hunter's Chapel,U.S. Senate,,Lindsey Graham,REP,24,7,0,0,0,0,17
+Bamberg,Hunter's Chapel,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Bamberg,Hunter's Chapel,U.S. Senate,,Mark Lynch,REP,7,2,0,0,0,0,5
+Bamberg,Hunter's Chapel,U.S. Senate,,Darius L Mitchell,REP,2,1,0,0,0,0,1
+Bamberg,Hunter's Chapel,U.S. Senate,,Annie Andrews,DEM,11,6,0,0,0,3,2
+Bamberg,Hunter's Chapel,U.S. Senate,,Brandon P Brown,DEM,12,9,0,0,0,0,3
+Bamberg,Hunter's Chapel,U.S. Senate,,Kyle Freeman,DEM,4,4,0,0,0,0,0
+Bamberg,Kearse,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Bamberg,Kearse,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Bamberg,Kearse,U.S. Senate,,Lindsey Graham,REP,9,0,0,0,0,0,9
+Bamberg,Kearse,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Bamberg,Kearse,U.S. Senate,,Mark Lynch,REP,2,0,0,0,0,0,2
+Bamberg,Kearse,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Bamberg,Kearse,U.S. Senate,,Annie Andrews,DEM,2,2,0,0,0,0,0
+Bamberg,Kearse,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Bamberg,Kearse,U.S. Senate,,Kyle Freeman,DEM,3,1,0,0,0,0,2
+Bamberg,Little Swamp,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Bamberg,Little Swamp,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Bamberg,Little Swamp,U.S. Senate,,Lindsey Graham,REP,18,0,0,0,0,0,18
+Bamberg,Little Swamp,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Bamberg,Little Swamp,U.S. Senate,,Mark Lynch,REP,5,0,0,0,0,0,5
+Bamberg,Little Swamp,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Bamberg,Little Swamp,U.S. Senate,,Annie Andrews,DEM,3,2,0,0,0,0,1
+Bamberg,Little Swamp,U.S. Senate,,Brandon P Brown,DEM,3,0,0,0,0,0,3
+Bamberg,Little Swamp,U.S. Senate,,Kyle Freeman,DEM,1,0,0,0,0,0,1
+Bamberg,North Bamberg,U.S. Senate,,Calvin Cowen,REP,1,1,0,0,0,0,0
+Bamberg,North Bamberg,U.S. Senate,,Thomas Keith Dismukes,REP,3,3,0,0,0,0,0
+Bamberg,North Bamberg,U.S. Senate,,Lindsey Graham,REP,122,31,0,0,0,2,89
+Bamberg,North Bamberg,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Bamberg,North Bamberg,U.S. Senate,,Mark Lynch,REP,29,4,0,0,0,1,24
+Bamberg,North Bamberg,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Bamberg,North Bamberg,U.S. Senate,,Annie Andrews,DEM,149,59,0,0,0,28,62
+Bamberg,North Bamberg,U.S. Senate,,Brandon P Brown,DEM,126,79,0,0,0,5,42
+Bamberg,North Bamberg,U.S. Senate,,Kyle Freeman,DEM,45,27,0,0,0,1,17
+Bamberg,Olar,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Bamberg,Olar,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Bamberg,Olar,U.S. Senate,,Lindsey Graham,REP,24,0,0,0,0,0,24
+Bamberg,Olar,U.S. Senate,,Pat Herrmann,REP,1,1,0,0,0,0,0
+Bamberg,Olar,U.S. Senate,,Mark Lynch,REP,4,0,0,0,0,0,4
+Bamberg,Olar,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Bamberg,Olar,U.S. Senate,,Annie Andrews,DEM,10,4,0,0,0,0,6
+Bamberg,Olar,U.S. Senate,,Brandon P Brown,DEM,12,5,0,0,0,0,7
+Bamberg,Olar,U.S. Senate,,Kyle Freeman,DEM,12,9,0,0,0,0,3
+Bamberg,Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Bamberg,Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Bamberg,Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Bamberg,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Bamberg,South Bamberg,U.S. Senate,,Calvin Cowen,REP,1,1,0,0,0,0,0
+Bamberg,South Bamberg,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Bamberg,South Bamberg,U.S. Senate,,Lindsey Graham,REP,45,25,0,0,0,0,20
+Bamberg,South Bamberg,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Bamberg,South Bamberg,U.S. Senate,,Mark Lynch,REP,18,6,0,0,0,0,12
+Bamberg,South Bamberg,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Bamberg,South Bamberg,U.S. Senate,,Annie Andrews,DEM,196,73,0,0,0,62,61
+Bamberg,South Bamberg,U.S. Senate,,Brandon P Brown,DEM,191,108,0,0,0,7,76
+Bamberg,South Bamberg,U.S. Senate,,Kyle Freeman,DEM,74,47,0,0,0,2,25
+Bamberg,West Denmark,U.S. Senate,,Calvin Cowen,REP,4,2,0,0,0,0,2
+Bamberg,West Denmark,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Bamberg,West Denmark,U.S. Senate,,Lindsey Graham,REP,27,9,0,0,0,1,17
+Bamberg,West Denmark,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Bamberg,West Denmark,U.S. Senate,,Mark Lynch,REP,6,3,0,0,0,0,3
+Bamberg,West Denmark,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Bamberg,West Denmark,U.S. Senate,,Annie Andrews,DEM,78,45,0,0,0,2,31
+Bamberg,West Denmark,U.S. Senate,,Brandon P Brown,DEM,97,50,0,0,0,0,47
+Bamberg,West Denmark,U.S. Senate,,Kyle Freeman,DEM,52,27,0,0,0,0,25

@@ -1,0 +1,655 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Edgefield,Brunson,Advisory Question 1,,Yes,REP,51,10,0,0,0,0,41
+Edgefield,Brunson,Advisory Question 1,,No,REP,10,0,0,0,0,0,10
+Edgefield,Edgefield No.1,Advisory Question 1,,Yes,REP,138,33,0,0,0,0,105
+Edgefield,Edgefield No.1,Advisory Question 1,,No,REP,19,10,0,0,0,0,9
+Edgefield,Edgefield No.2,Advisory Question 1,,Yes,REP,177,48,0,0,0,1,128
+Edgefield,Edgefield No.2,Advisory Question 1,,No,REP,19,1,0,0,0,0,18
+Edgefield,Failsafe,Advisory Question 1,,Yes,REP,2,0,0,0,2,0,0
+Edgefield,Failsafe,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Advisory Question 1,,Yes,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Advisory Question 1,,No,REP,0,0,0,0,0,0,0
+Edgefield,Harmony,Advisory Question 1,,Yes,REP,145,22,0,0,0,0,123
+Edgefield,Harmony,Advisory Question 1,,No,REP,31,4,0,0,0,0,27
+Edgefield,Johnston No.1,Advisory Question 1,,Yes,REP,68,2,0,0,0,0,66
+Edgefield,Johnston No.1,Advisory Question 1,,No,REP,12,2,0,0,0,0,10
+Edgefield,Johnston No.2,Advisory Question 1,,Yes,REP,98,9,0,0,0,0,89
+Edgefield,Johnston No.2,Advisory Question 1,,No,REP,13,2,0,0,0,0,11
+Edgefield,Merriweather No.1,Advisory Question 1,,Yes,REP,426,71,0,0,0,2,353
+Edgefield,Merriweather No.1,Advisory Question 1,,No,REP,50,7,0,0,0,1,42
+Edgefield,Merriweather No.2,Advisory Question 1,,Yes,REP,472,115,0,0,0,4,353
+Edgefield,Merriweather No.2,Advisory Question 1,,No,REP,41,5,0,0,0,0,36
+Edgefield,North Side,Advisory Question 1,,Yes,REP,67,5,0,0,0,0,62
+Edgefield,North Side,Advisory Question 1,,No,REP,6,1,0,0,0,0,5
+Edgefield,Provisional,Advisory Question 1,,Yes,REP,1,0,0,1,0,0,0
+Edgefield,Provisional,Advisory Question 1,,No,REP,1,0,0,1,0,0,0
+Edgefield,Trenton No.1,Advisory Question 1,,Yes,REP,104,19,0,0,0,0,85
+Edgefield,Trenton No.1,Advisory Question 1,,No,REP,11,3,0,0,0,0,8
+Edgefield,Trenton No.2,Advisory Question 1,,Yes,REP,128,20,0,0,0,4,104
+Edgefield,Trenton No.2,Advisory Question 1,,No,REP,13,3,0,0,0,0,10
+Edgefield,Westside,Advisory Question 1,,Yes,REP,197,39,0,0,0,1,157
+Edgefield,Westside,Advisory Question 1,,No,REP,17,2,0,0,0,0,15
+Edgefield,Brunson,Advisory Question 2,,Yes,REP,44,9,0,0,0,0,35
+Edgefield,Brunson,Advisory Question 2,,No,REP,17,1,0,0,0,0,16
+Edgefield,Edgefield No.1,Advisory Question 2,,Yes,REP,112,22,0,0,0,0,90
+Edgefield,Edgefield No.1,Advisory Question 2,,No,REP,46,22,0,0,0,0,24
+Edgefield,Edgefield No.2,Advisory Question 2,,Yes,REP,143,42,0,0,0,1,100
+Edgefield,Edgefield No.2,Advisory Question 2,,No,REP,54,8,0,0,0,0,46
+Edgefield,Failsafe,Advisory Question 2,,Yes,REP,2,0,0,0,2,0,0
+Edgefield,Failsafe,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Advisory Question 2,,Yes,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Advisory Question 2,,No,REP,0,0,0,0,0,0,0
+Edgefield,Harmony,Advisory Question 2,,Yes,REP,117,17,0,0,0,0,100
+Edgefield,Harmony,Advisory Question 2,,No,REP,59,9,0,0,0,0,50
+Edgefield,Johnston No.1,Advisory Question 2,,Yes,REP,55,2,0,0,0,0,53
+Edgefield,Johnston No.1,Advisory Question 2,,No,REP,24,2,0,0,0,0,22
+Edgefield,Johnston No.2,Advisory Question 2,,Yes,REP,72,5,0,0,0,0,67
+Edgefield,Johnston No.2,Advisory Question 2,,No,REP,35,6,0,0,0,0,29
+Edgefield,Merriweather No.1,Advisory Question 2,,Yes,REP,387,58,0,0,0,2,327
+Edgefield,Merriweather No.1,Advisory Question 2,,No,REP,88,20,0,0,0,1,67
+Edgefield,Merriweather No.2,Advisory Question 2,,Yes,REP,402,100,0,0,0,4,298
+Edgefield,Merriweather No.2,Advisory Question 2,,No,REP,109,20,0,0,0,0,89
+Edgefield,North Side,Advisory Question 2,,Yes,REP,47,1,0,0,0,0,46
+Edgefield,North Side,Advisory Question 2,,No,REP,25,4,0,0,0,0,21
+Edgefield,Provisional,Advisory Question 2,,Yes,REP,1,0,0,1,0,0,0
+Edgefield,Provisional,Advisory Question 2,,No,REP,1,0,0,1,0,0,0
+Edgefield,Trenton No.1,Advisory Question 2,,Yes,REP,86,18,0,0,0,0,68
+Edgefield,Trenton No.1,Advisory Question 2,,No,REP,29,4,0,0,0,0,25
+Edgefield,Trenton No.2,Advisory Question 2,,Yes,REP,112,15,0,0,0,2,95
+Edgefield,Trenton No.2,Advisory Question 2,,No,REP,31,8,0,0,0,2,21
+Edgefield,Westside,Advisory Question 2,,Yes,REP,175,38,0,0,0,1,136
+Edgefield,Westside,Advisory Question 2,,No,REP,40,3,0,0,0,0,37
+Edgefield,Brunson,Attorney General,,Stephen Goldfinch,REP,14,3,0,0,0,0,11
+Edgefield,Brunson,Attorney General,,David M Pascoe,REP,7,2,0,0,0,0,5
+Edgefield,Brunson,Attorney General,,David Stumbo,REP,38,5,0,0,0,0,33
+Edgefield,Edgefield No.1,Attorney General,,Stephen Goldfinch,REP,48,10,0,0,0,0,38
+Edgefield,Edgefield No.1,Attorney General,,David M Pascoe,REP,31,8,0,0,0,0,23
+Edgefield,Edgefield No.1,Attorney General,,David Stumbo,REP,70,22,0,0,0,0,48
+Edgefield,Edgefield No.2,Attorney General,,Stephen Goldfinch,REP,61,15,0,0,0,1,45
+Edgefield,Edgefield No.2,Attorney General,,David M Pascoe,REP,41,9,0,0,0,0,32
+Edgefield,Edgefield No.2,Attorney General,,David Stumbo,REP,84,21,0,0,0,0,63
+Edgefield,Failsafe,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,Attorney General,,David M Pascoe,REP,1,0,0,0,1,0,0
+Edgefield,Failsafe,Attorney General,,David Stumbo,REP,1,0,0,0,1,0,0
+Edgefield,Failsafe Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Attorney General,,David M Pascoe,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Edgefield,Harmony,Attorney General,,Stephen Goldfinch,REP,55,8,0,0,0,0,47
+Edgefield,Harmony,Attorney General,,David M Pascoe,REP,32,9,0,0,0,0,23
+Edgefield,Harmony,Attorney General,,David Stumbo,REP,81,9,0,0,0,0,72
+Edgefield,Johnston No.1,Attorney General,,Stephen Goldfinch,REP,19,1,0,0,0,0,18
+Edgefield,Johnston No.1,Attorney General,,David M Pascoe,REP,22,1,0,0,0,0,21
+Edgefield,Johnston No.1,Attorney General,,David Stumbo,REP,37,2,0,0,0,0,35
+Edgefield,Johnston No.2,Attorney General,,Stephen Goldfinch,REP,36,3,0,0,0,0,33
+Edgefield,Johnston No.2,Attorney General,,David M Pascoe,REP,18,3,0,0,0,0,15
+Edgefield,Johnston No.2,Attorney General,,David Stumbo,REP,52,3,0,0,0,0,49
+Edgefield,Merriweather No.1,Attorney General,,Stephen Goldfinch,REP,177,28,0,0,0,1,148
+Edgefield,Merriweather No.1,Attorney General,,David M Pascoe,REP,94,20,0,0,0,1,73
+Edgefield,Merriweather No.1,Attorney General,,David Stumbo,REP,180,27,0,0,0,1,152
+Edgefield,Merriweather No.2,Attorney General,,Stephen Goldfinch,REP,177,47,0,0,0,0,130
+Edgefield,Merriweather No.2,Attorney General,,David M Pascoe,REP,106,19,0,0,0,1,86
+Edgefield,Merriweather No.2,Attorney General,,David Stumbo,REP,212,49,0,0,0,2,161
+Edgefield,North Side,Attorney General,,Stephen Goldfinch,REP,11,0,0,0,0,0,11
+Edgefield,North Side,Attorney General,,David M Pascoe,REP,12,0,0,0,0,0,12
+Edgefield,North Side,Attorney General,,David Stumbo,REP,50,6,0,0,0,0,44
+Edgefield,Provisional,Attorney General,,Stephen Goldfinch,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,Attorney General,,David M Pascoe,REP,1,0,0,1,0,0,0
+Edgefield,Provisional,Attorney General,,David Stumbo,REP,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,Attorney General,,Stephen Goldfinch,REP,33,7,0,0,0,0,26
+Edgefield,Trenton No.1,Attorney General,,David M Pascoe,REP,26,6,0,0,0,0,20
+Edgefield,Trenton No.1,Attorney General,,David Stumbo,REP,50,10,0,0,0,0,40
+Edgefield,Trenton No.2,Attorney General,,Stephen Goldfinch,REP,51,13,0,0,0,2,36
+Edgefield,Trenton No.2,Attorney General,,David M Pascoe,REP,36,3,0,0,0,0,33
+Edgefield,Trenton No.2,Attorney General,,David Stumbo,REP,46,6,0,0,0,2,38
+Edgefield,Westside,Attorney General,,Stephen Goldfinch,REP,57,10,0,0,0,0,47
+Edgefield,Westside,Attorney General,,David M Pascoe,REP,33,7,0,0,0,0,26
+Edgefield,Westside,Attorney General,,David Stumbo,REP,115,21,0,0,0,1,93
+Edgefield,Brunson,Auditor,,Josh Griffin,REP,33,7,0,0,0,0,26
+Edgefield,Brunson,Auditor,,Dana Waters,REP,21,3,0,0,0,0,18
+Edgefield,Edgefield No.1,Auditor,,Josh Griffin,REP,104,27,0,0,0,0,77
+Edgefield,Edgefield No.1,Auditor,,Dana Waters,REP,39,10,0,0,0,0,29
+Edgefield,Edgefield No.2,Auditor,,Josh Griffin,REP,136,30,0,0,0,1,105
+Edgefield,Edgefield No.2,Auditor,,Dana Waters,REP,36,13,0,0,0,0,23
+Edgefield,Failsafe,Auditor,,Josh Griffin,REP,2,0,0,0,2,0,0
+Edgefield,Failsafe,Auditor,,Dana Waters,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Auditor,,Josh Griffin,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Auditor,,Dana Waters,REP,0,0,0,0,0,0,0
+Edgefield,Harmony,Auditor,,Josh Griffin,REP,129,13,0,0,0,0,116
+Edgefield,Harmony,Auditor,,Dana Waters,REP,33,12,0,0,0,0,21
+Edgefield,Johnston No.1,Auditor,,Josh Griffin,REP,54,3,0,0,0,0,51
+Edgefield,Johnston No.1,Auditor,,Dana Waters,REP,18,1,0,0,0,0,17
+Edgefield,Johnston No.2,Auditor,,Josh Griffin,REP,74,5,0,0,0,0,69
+Edgefield,Johnston No.2,Auditor,,Dana Waters,REP,29,4,0,0,0,0,25
+Edgefield,Merriweather No.1,Auditor,,Josh Griffin,REP,234,42,0,0,0,1,191
+Edgefield,Merriweather No.1,Auditor,,Dana Waters,REP,183,27,0,0,0,1,155
+Edgefield,Merriweather No.2,Auditor,,Josh Griffin,REP,280,63,0,0,0,2,215
+Edgefield,Merriweather No.2,Auditor,,Dana Waters,REP,177,45,0,0,0,1,131
+Edgefield,North Side,Auditor,,Josh Griffin,REP,58,5,0,0,0,0,53
+Edgefield,North Side,Auditor,,Dana Waters,REP,11,1,0,0,0,0,10
+Edgefield,Provisional,Auditor,,Josh Griffin,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,Auditor,,Dana Waters,REP,1,0,0,1,0,0,0
+Edgefield,Trenton No.1,Auditor,,Josh Griffin,REP,71,11,0,0,0,0,60
+Edgefield,Trenton No.1,Auditor,,Dana Waters,REP,29,8,0,0,0,0,21
+Edgefield,Trenton No.2,Auditor,,Josh Griffin,REP,76,12,0,0,0,4,60
+Edgefield,Trenton No.2,Auditor,,Dana Waters,REP,53,6,0,0,0,0,47
+Edgefield,Westside,Auditor,,Josh Griffin,REP,127,18,0,0,0,1,108
+Edgefield,Westside,Auditor,,Dana Waters,REP,67,20,0,0,0,0,47
+Edgefield,Failsafe,City Council At Large North Augusta,,David Buck,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,City Council At Large North Augusta,,Caleb Chancey,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,City Council At Large North Augusta,,John M Felak,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,City Council At Large North Augusta,,Jenafer McCauley,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,City Council At Large North Augusta,,David Shellhorse,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,City Council At Large North Augusta,,Tabitha Waldrop,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,City Council At Large North Augusta,,David Buck,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,City Council At Large North Augusta,,Caleb Chancey,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,City Council At Large North Augusta,,John M Felak,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,City Council At Large North Augusta,,Jenafer McCauley,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,City Council At Large North Augusta,,David Shellhorse,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,City Council At Large North Augusta,,Tabitha Waldrop,REP,0,0,0,0,0,0,0
+Edgefield,Merriweather No.1,City Council At Large North Augusta,,David Buck,REP,14,0,0,0,0,1,13
+Edgefield,Merriweather No.1,City Council At Large North Augusta,,Caleb Chancey,REP,6,0,0,0,0,0,6
+Edgefield,Merriweather No.1,City Council At Large North Augusta,,John M Felak,REP,14,0,0,0,0,0,14
+Edgefield,Merriweather No.1,City Council At Large North Augusta,,Jenafer McCauley,REP,14,0,0,0,0,0,14
+Edgefield,Merriweather No.1,City Council At Large North Augusta,,David Shellhorse,REP,12,0,0,0,0,1,11
+Edgefield,Merriweather No.1,City Council At Large North Augusta,,Tabitha Waldrop,REP,12,0,0,0,0,1,11
+Edgefield,Provisional,City Council At Large North Augusta,,David Buck,REP,2,0,0,2,0,0,0
+Edgefield,Provisional,City Council At Large North Augusta,,Caleb Chancey,REP,2,0,0,2,0,0,0
+Edgefield,Provisional,City Council At Large North Augusta,,John M Felak,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,City Council At Large North Augusta,,Jenafer McCauley,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,City Council At Large North Augusta,,David Shellhorse,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,City Council At Large North Augusta,,Tabitha Waldrop,REP,2,0,0,2,0,0,0
+Edgefield,Brunson,Commissioner of Agriculture,,Jeremy B Cannon,REP,10,2,0,0,0,0,8
+Edgefield,Brunson,Commissioner of Agriculture,,Danny Ford,REP,26,6,0,0,0,0,20
+Edgefield,Brunson,Commissioner of Agriculture,,Cody Simpson,REP,16,1,0,0,0,0,15
+Edgefield,Brunson,Commissioner of Agriculture,,Fred West,REP,5,1,0,0,0,0,4
+Edgefield,Edgefield No.1,Commissioner of Agriculture,,Jeremy B Cannon,REP,9,1,0,0,0,0,8
+Edgefield,Edgefield No.1,Commissioner of Agriculture,,Danny Ford,REP,51,12,0,0,0,0,39
+Edgefield,Edgefield No.1,Commissioner of Agriculture,,Cody Simpson,REP,67,21,0,0,0,0,46
+Edgefield,Edgefield No.1,Commissioner of Agriculture,,Fred West,REP,22,8,0,0,0,0,14
+Edgefield,Edgefield No.2,Commissioner of Agriculture,,Jeremy B Cannon,REP,20,8,0,0,0,0,12
+Edgefield,Edgefield No.2,Commissioner of Agriculture,,Danny Ford,REP,76,20,0,0,0,1,55
+Edgefield,Edgefield No.2,Commissioner of Agriculture,,Cody Simpson,REP,63,9,0,0,0,0,54
+Edgefield,Edgefield No.2,Commissioner of Agriculture,,Fred West,REP,23,8,0,0,0,0,15
+Edgefield,Failsafe,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,Commissioner of Agriculture,,Danny Ford,REP,2,0,0,0,2,0,0
+Edgefield,Failsafe,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Commissioner of Agriculture,,Danny Ford,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Edgefield,Harmony,Commissioner of Agriculture,,Jeremy B Cannon,REP,18,1,0,0,0,0,17
+Edgefield,Harmony,Commissioner of Agriculture,,Danny Ford,REP,60,11,0,0,0,0,49
+Edgefield,Harmony,Commissioner of Agriculture,,Cody Simpson,REP,81,11,0,0,0,0,70
+Edgefield,Harmony,Commissioner of Agriculture,,Fred West,REP,16,3,0,0,0,0,13
+Edgefield,Johnston No.1,Commissioner of Agriculture,,Jeremy B Cannon,REP,21,0,0,0,0,0,21
+Edgefield,Johnston No.1,Commissioner of Agriculture,,Danny Ford,REP,27,3,0,0,0,0,24
+Edgefield,Johnston No.1,Commissioner of Agriculture,,Cody Simpson,REP,27,0,0,0,0,0,27
+Edgefield,Johnston No.1,Commissioner of Agriculture,,Fred West,REP,4,1,0,0,0,0,3
+Edgefield,Johnston No.2,Commissioner of Agriculture,,Jeremy B Cannon,REP,15,0,0,0,0,0,15
+Edgefield,Johnston No.2,Commissioner of Agriculture,,Danny Ford,REP,30,2,0,0,0,0,28
+Edgefield,Johnston No.2,Commissioner of Agriculture,,Cody Simpson,REP,33,6,0,0,0,0,27
+Edgefield,Johnston No.2,Commissioner of Agriculture,,Fred West,REP,30,2,0,0,0,0,28
+Edgefield,Merriweather No.1,Commissioner of Agriculture,,Jeremy B Cannon,REP,66,13,0,0,0,1,52
+Edgefield,Merriweather No.1,Commissioner of Agriculture,,Danny Ford,REP,153,27,0,0,0,0,126
+Edgefield,Merriweather No.1,Commissioner of Agriculture,,Cody Simpson,REP,158,20,0,0,0,1,137
+Edgefield,Merriweather No.1,Commissioner of Agriculture,,Fred West,REP,67,10,0,0,0,1,56
+Edgefield,Merriweather No.2,Commissioner of Agriculture,,Jeremy B Cannon,REP,60,15,0,0,0,1,44
+Edgefield,Merriweather No.2,Commissioner of Agriculture,,Danny Ford,REP,135,33,0,0,0,1,101
+Edgefield,Merriweather No.2,Commissioner of Agriculture,,Cody Simpson,REP,217,46,0,0,0,2,169
+Edgefield,Merriweather No.2,Commissioner of Agriculture,,Fred West,REP,77,16,0,0,0,0,61
+Edgefield,North Side,Commissioner of Agriculture,,Jeremy B Cannon,REP,7,0,0,0,0,0,7
+Edgefield,North Side,Commissioner of Agriculture,,Danny Ford,REP,21,1,0,0,0,0,20
+Edgefield,North Side,Commissioner of Agriculture,,Cody Simpson,REP,32,4,0,0,0,0,28
+Edgefield,North Side,Commissioner of Agriculture,,Fred West,REP,12,1,0,0,0,0,11
+Edgefield,Provisional,Commissioner of Agriculture,,Jeremy B Cannon,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,Commissioner of Agriculture,,Danny Ford,REP,1,0,0,1,0,0,0
+Edgefield,Provisional,Commissioner of Agriculture,,Cody Simpson,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,Commissioner of Agriculture,,Fred West,REP,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,Commissioner of Agriculture,,Jeremy B Cannon,REP,10,2,0,0,0,0,8
+Edgefield,Trenton No.1,Commissioner of Agriculture,,Danny Ford,REP,40,8,0,0,0,0,32
+Edgefield,Trenton No.1,Commissioner of Agriculture,,Cody Simpson,REP,49,11,0,0,0,0,38
+Edgefield,Trenton No.1,Commissioner of Agriculture,,Fred West,REP,9,2,0,0,0,0,7
+Edgefield,Trenton No.2,Commissioner of Agriculture,,Jeremy B Cannon,REP,21,2,0,0,0,0,19
+Edgefield,Trenton No.2,Commissioner of Agriculture,,Danny Ford,REP,46,6,0,0,0,2,38
+Edgefield,Trenton No.2,Commissioner of Agriculture,,Cody Simpson,REP,50,9,0,0,0,2,39
+Edgefield,Trenton No.2,Commissioner of Agriculture,,Fred West,REP,15,4,0,0,0,0,11
+Edgefield,Westside,Commissioner of Agriculture,,Jeremy B Cannon,REP,20,2,0,0,0,0,18
+Edgefield,Westside,Commissioner of Agriculture,,Danny Ford,REP,69,18,0,0,0,0,51
+Edgefield,Westside,Commissioner of Agriculture,,Cody Simpson,REP,65,12,0,0,0,0,53
+Edgefield,Westside,Commissioner of Agriculture,,Fred West,REP,49,6,0,0,0,0,43
+Edgefield,Brunson,Comptroller General,,Tiffany Boozer,DEM,87,49,0,0,0,4,34
+Edgefield,Brunson,Comptroller General,,Bruce K Cole,DEM,37,12,0,0,0,1,24
+Edgefield,Edgefield No.1,Comptroller General,,Tiffany Boozer,DEM,53,27,0,0,0,0,26
+Edgefield,Edgefield No.1,Comptroller General,,Bruce K Cole,DEM,29,18,0,0,0,1,10
+Edgefield,Edgefield No.2,Comptroller General,,Tiffany Boozer,DEM,135,74,0,0,0,5,56
+Edgefield,Edgefield No.2,Comptroller General,,Bruce K Cole,DEM,44,26,0,0,0,0,18
+Edgefield,Failsafe,Comptroller General,,Tiffany Boozer,DEM,1,0,0,0,1,0,0
+Edgefield,Failsafe,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Edgefield,Harmony,Comptroller General,,Tiffany Boozer,DEM,33,21,0,0,0,1,11
+Edgefield,Harmony,Comptroller General,,Bruce K Cole,DEM,16,8,0,0,0,0,8
+Edgefield,Johnston No.1,Comptroller General,,Tiffany Boozer,DEM,135,38,0,0,0,24,73
+Edgefield,Johnston No.1,Comptroller General,,Bruce K Cole,DEM,39,14,0,0,0,1,24
+Edgefield,Johnston No.2,Comptroller General,,Tiffany Boozer,DEM,129,44,0,0,0,12,73
+Edgefield,Johnston No.2,Comptroller General,,Bruce K Cole,DEM,40,19,0,0,0,0,21
+Edgefield,Merriweather No.1,Comptroller General,,Tiffany Boozer,DEM,106,40,0,0,0,6,60
+Edgefield,Merriweather No.1,Comptroller General,,Bruce K Cole,DEM,33,11,0,0,0,0,22
+Edgefield,Merriweather No.2,Comptroller General,,Tiffany Boozer,DEM,116,48,0,0,0,5,63
+Edgefield,Merriweather No.2,Comptroller General,,Bruce K Cole,DEM,43,21,0,0,0,2,20
+Edgefield,North Side,Comptroller General,,Tiffany Boozer,DEM,42,19,0,0,0,0,23
+Edgefield,North Side,Comptroller General,,Bruce K Cole,DEM,23,7,0,0,0,0,16
+Edgefield,Provisional,Comptroller General,,Tiffany Boozer,DEM,0,0,0,0,0,0,0
+Edgefield,Provisional,Comptroller General,,Bruce K Cole,DEM,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,Comptroller General,,Tiffany Boozer,DEM,76,45,0,0,0,0,31
+Edgefield,Trenton No.1,Comptroller General,,Bruce K Cole,DEM,37,22,0,0,0,0,15
+Edgefield,Trenton No.2,Comptroller General,,Tiffany Boozer,DEM,249,128,0,0,0,4,117
+Edgefield,Trenton No.2,Comptroller General,,Bruce K Cole,DEM,85,46,0,0,0,0,39
+Edgefield,Westside,Comptroller General,,Tiffany Boozer,DEM,16,4,0,0,0,2,10
+Edgefield,Westside,Comptroller General,,Bruce K Cole,DEM,2,2,0,0,0,0,0
+Edgefield,Brunson,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Edgefield,Brunson,Governor,,Pamela Evette,REP,23,2,0,0,0,0,21
+Edgefield,Brunson,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Edgefield,Brunson,Governor,,Nancy Mace,REP,4,2,0,0,0,0,2
+Edgefield,Brunson,Governor,,Ralph W Norman,REP,11,2,0,0,0,0,9
+Edgefield,Brunson,Governor,,Rom Reddy,REP,7,3,0,0,0,0,4
+Edgefield,Brunson,Governor,,Alan Wilson,REP,12,1,0,0,0,0,11
+Edgefield,Brunson,Governor,,Jermaine Johnson,DEM,80,41,0,0,0,3,36
+Edgefield,Brunson,Governor,,Mullins McLeod,DEM,7,2,0,0,0,1,4
+Edgefield,Brunson,Governor,,Billy Webster,DEM,37,18,0,0,0,1,18
+Edgefield,Edgefield No.1,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Governor,,Pamela Evette,REP,68,18,0,0,0,0,50
+Edgefield,Edgefield No.1,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Edgefield,Edgefield No.1,Governor,,Nancy Mace,REP,20,3,0,0,0,0,17
+Edgefield,Edgefield No.1,Governor,,Ralph W Norman,REP,16,6,0,0,0,0,10
+Edgefield,Edgefield No.1,Governor,,Rom Reddy,REP,12,6,0,0,0,0,6
+Edgefield,Edgefield No.1,Governor,,Alan Wilson,REP,44,12,0,0,0,0,32
+Edgefield,Edgefield No.1,Governor,,Jermaine Johnson,DEM,56,30,0,0,0,0,26
+Edgefield,Edgefield No.1,Governor,,Mullins McLeod,DEM,7,5,0,0,0,1,1
+Edgefield,Edgefield No.1,Governor,,Billy Webster,DEM,21,10,0,0,0,0,11
+Edgefield,Edgefield No.2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Edgefield,Edgefield No.2,Governor,,Pamela Evette,REP,89,25,0,0,0,1,63
+Edgefield,Edgefield No.2,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Edgefield,Edgefield No.2,Governor,,Nancy Mace,REP,24,3,0,0,0,0,21
+Edgefield,Edgefield No.2,Governor,,Ralph W Norman,REP,24,7,0,0,0,0,17
+Edgefield,Edgefield No.2,Governor,,Rom Reddy,REP,22,11,0,0,0,0,11
+Edgefield,Edgefield No.2,Governor,,Alan Wilson,REP,40,5,0,0,0,0,35
+Edgefield,Edgefield No.2,Governor,,Jermaine Johnson,DEM,131,67,0,0,0,3,61
+Edgefield,Edgefield No.2,Governor,,Mullins McLeod,DEM,26,19,0,0,0,0,7
+Edgefield,Edgefield No.2,Governor,,Billy Webster,DEM,30,16,0,0,0,2,12
+Edgefield,Failsafe,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,Governor,,Pamela Evette,REP,1,0,0,0,1,0,0
+Edgefield,Failsafe,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,Governor,,Alan Wilson,REP,1,0,0,0,1,0,0
+Edgefield,Failsafe,Governor,,Jermaine Johnson,DEM,1,0,0,0,1,0,0
+Edgefield,Failsafe,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Governor,,Alan Wilson,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Edgefield,Harmony,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Edgefield,Harmony,Governor,,Pamela Evette,REP,62,11,0,0,0,0,51
+Edgefield,Harmony,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Edgefield,Harmony,Governor,,Nancy Mace,REP,16,1,0,0,0,0,15
+Edgefield,Harmony,Governor,,Ralph W Norman,REP,28,6,0,0,0,0,22
+Edgefield,Harmony,Governor,,Rom Reddy,REP,16,7,0,0,0,0,9
+Edgefield,Harmony,Governor,,Alan Wilson,REP,52,1,0,0,0,0,51
+Edgefield,Harmony,Governor,,Jermaine Johnson,DEM,26,13,0,0,0,1,12
+Edgefield,Harmony,Governor,,Mullins McLeod,DEM,9,5,0,0,0,0,4
+Edgefield,Harmony,Governor,,Billy Webster,DEM,14,11,0,0,0,0,3
+Edgefield,Johnston No.1,Governor,,Jacqueline Hicks DuBose,REP,3,0,0,0,0,0,3
+Edgefield,Johnston No.1,Governor,,Pamela Evette,REP,27,1,0,0,0,0,26
+Edgefield,Johnston No.1,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Edgefield,Johnston No.1,Governor,,Nancy Mace,REP,7,0,0,0,0,0,7
+Edgefield,Johnston No.1,Governor,,Ralph W Norman,REP,11,0,0,0,0,0,11
+Edgefield,Johnston No.1,Governor,,Rom Reddy,REP,7,0,0,0,0,0,7
+Edgefield,Johnston No.1,Governor,,Alan Wilson,REP,24,3,0,0,0,0,21
+Edgefield,Johnston No.1,Governor,,Jermaine Johnson,DEM,95,29,0,0,0,3,63
+Edgefield,Johnston No.1,Governor,,Mullins McLeod,DEM,55,13,0,0,0,21,21
+Edgefield,Johnston No.1,Governor,,Billy Webster,DEM,26,11,0,0,0,1,14
+Edgefield,Johnston No.2,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Edgefield,Johnston No.2,Governor,,Pamela Evette,REP,49,5,0,0,0,0,44
+Edgefield,Johnston No.2,Governor,,Joshua Kimbrell,REP,2,0,0,0,0,0,2
+Edgefield,Johnston No.2,Governor,,Nancy Mace,REP,14,1,0,0,0,0,13
+Edgefield,Johnston No.2,Governor,,Ralph W Norman,REP,9,0,0,0,0,0,9
+Edgefield,Johnston No.2,Governor,,Rom Reddy,REP,5,2,0,0,0,0,3
+Edgefield,Johnston No.2,Governor,,Alan Wilson,REP,34,3,0,0,0,0,31
+Edgefield,Johnston No.2,Governor,,Jermaine Johnson,DEM,109,44,0,0,0,1,64
+Edgefield,Johnston No.2,Governor,,Mullins McLeod,DEM,37,10,0,0,0,11,16
+Edgefield,Johnston No.2,Governor,,Billy Webster,DEM,28,10,0,0,0,0,18
+Edgefield,Merriweather No.1,Governor,,Jacqueline Hicks DuBose,REP,1,1,0,0,0,0,0
+Edgefield,Merriweather No.1,Governor,,Pamela Evette,REP,231,33,0,0,0,0,198
+Edgefield,Merriweather No.1,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Edgefield,Merriweather No.1,Governor,,Nancy Mace,REP,56,5,0,0,0,1,50
+Edgefield,Merriweather No.1,Governor,,Ralph W Norman,REP,54,10,0,0,0,0,44
+Edgefield,Merriweather No.1,Governor,,Rom Reddy,REP,40,11,0,0,0,1,28
+Edgefield,Merriweather No.1,Governor,,Alan Wilson,REP,99,18,0,0,0,1,80
+Edgefield,Merriweather No.1,Governor,,Jermaine Johnson,DEM,99,40,0,0,0,4,55
+Edgefield,Merriweather No.1,Governor,,Mullins McLeod,DEM,14,4,0,0,0,0,10
+Edgefield,Merriweather No.1,Governor,,Billy Webster,DEM,27,7,0,0,0,2,18
+Edgefield,Merriweather No.2,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Edgefield,Merriweather No.2,Governor,,Pamela Evette,REP,198,41,0,0,0,3,154
+Edgefield,Merriweather No.2,Governor,,Joshua Kimbrell,REP,4,0,0,0,0,0,4
+Edgefield,Merriweather No.2,Governor,,Nancy Mace,REP,62,22,0,0,0,0,40
+Edgefield,Merriweather No.2,Governor,,Ralph W Norman,REP,86,14,0,0,0,0,72
+Edgefield,Merriweather No.2,Governor,,Rom Reddy,REP,51,11,0,0,0,1,39
+Edgefield,Merriweather No.2,Governor,,Alan Wilson,REP,115,32,0,0,0,0,83
+Edgefield,Merriweather No.2,Governor,,Jermaine Johnson,DEM,117,46,0,0,0,3,68
+Edgefield,Merriweather No.2,Governor,,Mullins McLeod,DEM,22,13,0,0,0,1,8
+Edgefield,Merriweather No.2,Governor,,Billy Webster,DEM,24,13,0,0,0,3,8
+Edgefield,North Side,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Edgefield,North Side,Governor,,Pamela Evette,REP,24,1,0,0,0,0,23
+Edgefield,North Side,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Edgefield,North Side,Governor,,Nancy Mace,REP,3,0,0,0,0,0,3
+Edgefield,North Side,Governor,,Ralph W Norman,REP,13,3,0,0,0,0,10
+Edgefield,North Side,Governor,,Rom Reddy,REP,10,0,0,0,0,0,10
+Edgefield,North Side,Governor,,Alan Wilson,REP,22,2,0,0,0,0,20
+Edgefield,North Side,Governor,,Jermaine Johnson,DEM,52,21,0,0,0,0,31
+Edgefield,North Side,Governor,,Mullins McLeod,DEM,4,2,0,0,0,0,2
+Edgefield,North Side,Governor,,Billy Webster,DEM,9,3,0,0,0,0,6
+Edgefield,Provisional,Governor,,Jacqueline Hicks DuBose,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,Governor,,Pamela Evette,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,Governor,,Nancy Mace,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,Governor,,Ralph W Norman,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,Governor,,Rom Reddy,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,Governor,,Alan Wilson,REP,2,0,0,2,0,0,0
+Edgefield,Provisional,Governor,,Jermaine Johnson,DEM,0,0,0,0,0,0,0
+Edgefield,Provisional,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Edgefield,Provisional,Governor,,Billy Webster,DEM,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Edgefield,Trenton No.1,Governor,,Pamela Evette,REP,52,13,0,0,0,0,39
+Edgefield,Trenton No.1,Governor,,Joshua Kimbrell,REP,2,1,0,0,0,0,1
+Edgefield,Trenton No.1,Governor,,Nancy Mace,REP,9,1,0,0,0,0,8
+Edgefield,Trenton No.1,Governor,,Ralph W Norman,REP,12,3,0,0,0,0,9
+Edgefield,Trenton No.1,Governor,,Rom Reddy,REP,7,1,0,0,0,0,6
+Edgefield,Trenton No.1,Governor,,Alan Wilson,REP,32,5,0,0,0,0,27
+Edgefield,Trenton No.1,Governor,,Jermaine Johnson,DEM,76,42,0,0,0,0,34
+Edgefield,Trenton No.1,Governor,,Mullins McLeod,DEM,11,9,0,0,0,0,2
+Edgefield,Trenton No.1,Governor,,Billy Webster,DEM,25,14,0,0,0,0,11
+Edgefield,Trenton No.2,Governor,,Jacqueline Hicks DuBose,REP,1,0,0,0,0,0,1
+Edgefield,Trenton No.2,Governor,,Pamela Evette,REP,62,11,0,0,0,0,51
+Edgefield,Trenton No.2,Governor,,Joshua Kimbrell,REP,0,0,0,0,0,0,0
+Edgefield,Trenton No.2,Governor,,Nancy Mace,REP,19,1,0,0,0,0,18
+Edgefield,Trenton No.2,Governor,,Ralph W Norman,REP,20,3,0,0,0,0,17
+Edgefield,Trenton No.2,Governor,,Rom Reddy,REP,8,1,0,0,0,0,7
+Edgefield,Trenton No.2,Governor,,Alan Wilson,REP,31,7,0,0,0,4,20
+Edgefield,Trenton No.2,Governor,,Jermaine Johnson,DEM,240,133,0,0,0,4,103
+Edgefield,Trenton No.2,Governor,,Mullins McLeod,DEM,27,19,0,0,0,0,8
+Edgefield,Trenton No.2,Governor,,Billy Webster,DEM,78,30,0,0,0,0,48
+Edgefield,Westside,Governor,,Jacqueline Hicks DuBose,REP,2,0,0,0,0,0,2
+Edgefield,Westside,Governor,,Pamela Evette,REP,94,21,0,0,0,0,73
+Edgefield,Westside,Governor,,Joshua Kimbrell,REP,1,0,0,0,0,0,1
+Edgefield,Westside,Governor,,Nancy Mace,REP,30,6,0,0,0,0,24
+Edgefield,Westside,Governor,,Ralph W Norman,REP,31,3,0,0,0,0,28
+Edgefield,Westside,Governor,,Rom Reddy,REP,12,3,0,0,0,0,9
+Edgefield,Westside,Governor,,Alan Wilson,REP,44,8,0,0,0,1,35
+Edgefield,Westside,Governor,,Jermaine Johnson,DEM,17,7,0,0,0,2,8
+Edgefield,Westside,Governor,,Mullins McLeod,DEM,0,0,0,0,0,0,0
+Edgefield,Westside,Governor,,Billy Webster,DEM,3,1,0,0,0,0,2
+Edgefield,Brunson,Secretary of State,,Jason Belton,DEM,73,34,0,0,0,3,36
+Edgefield,Brunson,Secretary of State,,Edwina Winter,DEM,47,25,0,0,0,2,20
+Edgefield,Edgefield No.1,Secretary of State,,Jason Belton,DEM,36,21,0,0,0,0,15
+Edgefield,Edgefield No.1,Secretary of State,,Edwina Winter,DEM,45,23,0,0,0,1,21
+Edgefield,Edgefield No.2,Secretary of State,,Jason Belton,DEM,91,49,0,0,0,3,39
+Edgefield,Edgefield No.2,Secretary of State,,Edwina Winter,DEM,86,50,0,0,0,2,34
+Edgefield,Failsafe,Secretary of State,,Jason Belton,DEM,1,0,0,0,1,0,0
+Edgefield,Failsafe,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Edgefield,Harmony,Secretary of State,,Jason Belton,DEM,20,9,0,0,0,1,10
+Edgefield,Harmony,Secretary of State,,Edwina Winter,DEM,28,19,0,0,0,0,9
+Edgefield,Johnston No.1,Secretary of State,,Jason Belton,DEM,75,25,0,0,0,2,48
+Edgefield,Johnston No.1,Secretary of State,,Edwina Winter,DEM,95,26,0,0,0,23,46
+Edgefield,Johnston No.2,Secretary of State,,Jason Belton,DEM,86,29,0,0,0,2,55
+Edgefield,Johnston No.2,Secretary of State,,Edwina Winter,DEM,81,35,0,0,0,10,36
+Edgefield,Merriweather No.1,Secretary of State,,Jason Belton,DEM,62,21,0,0,0,4,37
+Edgefield,Merriweather No.1,Secretary of State,,Edwina Winter,DEM,76,29,0,0,0,2,45
+Edgefield,Merriweather No.2,Secretary of State,,Jason Belton,DEM,78,37,0,0,0,3,38
+Edgefield,Merriweather No.2,Secretary of State,,Edwina Winter,DEM,82,33,0,0,0,4,45
+Edgefield,North Side,Secretary of State,,Jason Belton,DEM,32,12,0,0,0,0,20
+Edgefield,North Side,Secretary of State,,Edwina Winter,DEM,33,14,0,0,0,0,19
+Edgefield,Provisional,Secretary of State,,Jason Belton,DEM,0,0,0,0,0,0,0
+Edgefield,Provisional,Secretary of State,,Edwina Winter,DEM,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,Secretary of State,,Jason Belton,DEM,54,32,0,0,0,0,22
+Edgefield,Trenton No.1,Secretary of State,,Edwina Winter,DEM,59,34,0,0,0,0,25
+Edgefield,Trenton No.2,Secretary of State,,Jason Belton,DEM,168,97,0,0,0,4,67
+Edgefield,Trenton No.2,Secretary of State,,Edwina Winter,DEM,170,80,0,0,0,0,90
+Edgefield,Westside,Secretary of State,,Jason Belton,DEM,8,3,0,0,0,0,5
+Edgefield,Westside,Secretary of State,,Edwina Winter,DEM,12,5,0,0,0,2,5
+Edgefield,Brunson,State Superintendent of Education,,Lisa Ellis,DEM,37,17,0,0,0,3,17
+Edgefield,Brunson,State Superintendent of Education,,Sylvia Wright,DEM,86,43,0,0,0,2,41
+Edgefield,Edgefield No.1,State Superintendent of Education,,Lisa Ellis,DEM,37,24,0,0,0,1,12
+Edgefield,Edgefield No.1,State Superintendent of Education,,Sylvia Wright,DEM,46,22,0,0,0,0,24
+Edgefield,Edgefield No.2,State Superintendent of Education,,Lisa Ellis,DEM,59,40,0,0,0,0,19
+Edgefield,Edgefield No.2,State Superintendent of Education,,Sylvia Wright,DEM,119,56,0,0,0,5,58
+Edgefield,Failsafe,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe,State Superintendent of Education,,Sylvia Wright,DEM,1,0,0,0,1,0,0
+Edgefield,Failsafe Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Edgefield,Harmony,State Superintendent of Education,,Lisa Ellis,DEM,23,14,0,0,0,0,9
+Edgefield,Harmony,State Superintendent of Education,,Sylvia Wright,DEM,26,15,0,0,0,1,10
+Edgefield,Johnston No.1,State Superintendent of Education,,Lisa Ellis,DEM,83,22,0,0,0,18,43
+Edgefield,Johnston No.1,State Superintendent of Education,,Sylvia Wright,DEM,86,30,0,0,0,5,51
+Edgefield,Johnston No.2,State Superintendent of Education,,Lisa Ellis,DEM,74,25,0,0,0,10,39
+Edgefield,Johnston No.2,State Superintendent of Education,,Sylvia Wright,DEM,95,38,0,0,0,2,55
+Edgefield,Merriweather No.1,State Superintendent of Education,,Lisa Ellis,DEM,55,23,0,0,0,2,30
+Edgefield,Merriweather No.1,State Superintendent of Education,,Sylvia Wright,DEM,83,27,0,0,0,4,52
+Edgefield,Merriweather No.2,State Superintendent of Education,,Lisa Ellis,DEM,61,29,0,0,0,3,29
+Edgefield,Merriweather No.2,State Superintendent of Education,,Sylvia Wright,DEM,97,41,0,0,0,4,52
+Edgefield,North Side,State Superintendent of Education,,Lisa Ellis,DEM,24,9,0,0,0,0,15
+Edgefield,North Side,State Superintendent of Education,,Sylvia Wright,DEM,40,17,0,0,0,0,23
+Edgefield,Provisional,State Superintendent of Education,,Lisa Ellis,DEM,0,0,0,0,0,0,0
+Edgefield,Provisional,State Superintendent of Education,,Sylvia Wright,DEM,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,State Superintendent of Education,,Lisa Ellis,DEM,23,12,0,0,0,0,11
+Edgefield,Trenton No.1,State Superintendent of Education,,Sylvia Wright,DEM,89,53,0,0,0,0,36
+Edgefield,Trenton No.2,State Superintendent of Education,,Lisa Ellis,DEM,112,55,0,0,0,0,57
+Edgefield,Trenton No.2,State Superintendent of Education,,Sylvia Wright,DEM,223,120,0,0,0,4,99
+Edgefield,Westside,State Superintendent of Education,,Lisa Ellis,DEM,11,4,0,0,0,2,5
+Edgefield,Westside,State Superintendent of Education,,Sylvia Wright,DEM,7,2,0,0,0,0,5
+Edgefield,Brunson,State Treasurer,,Vincent Coe,DEM,62,30,0,0,0,1,31
+Edgefield,Brunson,State Treasurer,,Trav Robertson Jr,DEM,60,30,0,0,0,4,26
+Edgefield,Edgefield No.1,State Treasurer,,Vincent Coe,DEM,37,22,0,0,0,0,15
+Edgefield,Edgefield No.1,State Treasurer,,Trav Robertson Jr,DEM,42,22,0,0,0,1,19
+Edgefield,Edgefield No.2,State Treasurer,,Vincent Coe,DEM,83,48,0,0,0,4,31
+Edgefield,Edgefield No.2,State Treasurer,,Trav Robertson Jr,DEM,94,51,0,0,0,1,42
+Edgefield,Failsafe,State Treasurer,,Vincent Coe,DEM,1,0,0,0,1,0,0
+Edgefield,Failsafe,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Edgefield,Harmony,State Treasurer,,Vincent Coe,DEM,18,4,0,0,0,0,14
+Edgefield,Harmony,State Treasurer,,Trav Robertson Jr,DEM,30,24,0,0,0,1,5
+Edgefield,Johnston No.1,State Treasurer,,Vincent Coe,DEM,53,20,0,0,0,4,29
+Edgefield,Johnston No.1,State Treasurer,,Trav Robertson Jr,DEM,117,31,0,0,0,19,67
+Edgefield,Johnston No.2,State Treasurer,,Vincent Coe,DEM,76,28,0,0,0,2,46
+Edgefield,Johnston No.2,State Treasurer,,Trav Robertson Jr,DEM,91,35,0,0,0,10,46
+Edgefield,Merriweather No.1,State Treasurer,,Vincent Coe,DEM,78,25,0,0,0,4,49
+Edgefield,Merriweather No.1,State Treasurer,,Trav Robertson Jr,DEM,59,24,0,0,0,2,33
+Edgefield,Merriweather No.2,State Treasurer,,Vincent Coe,DEM,73,31,0,0,0,2,40
+Edgefield,Merriweather No.2,State Treasurer,,Trav Robertson Jr,DEM,85,37,0,0,0,5,43
+Edgefield,North Side,State Treasurer,,Vincent Coe,DEM,32,12,0,0,0,0,20
+Edgefield,North Side,State Treasurer,,Trav Robertson Jr,DEM,33,14,0,0,0,0,19
+Edgefield,Provisional,State Treasurer,,Vincent Coe,DEM,0,0,0,0,0,0,0
+Edgefield,Provisional,State Treasurer,,Trav Robertson Jr,DEM,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,State Treasurer,,Vincent Coe,DEM,47,27,0,0,0,0,20
+Edgefield,Trenton No.1,State Treasurer,,Trav Robertson Jr,DEM,65,39,0,0,0,0,26
+Edgefield,Trenton No.2,State Treasurer,,Vincent Coe,DEM,130,68,0,0,0,2,60
+Edgefield,Trenton No.2,State Treasurer,,Trav Robertson Jr,DEM,208,109,0,0,0,2,97
+Edgefield,Westside,State Treasurer,,Vincent Coe,DEM,10,1,0,0,0,2,7
+Edgefield,Westside,State Treasurer,,Trav Robertson Jr,DEM,8,5,0,0,0,0,3
+Edgefield,Brunson,U.S. House,3,Eunice Lehmacher,DEM,41,13,0,0,0,4,24
+Edgefield,Brunson,U.S. House,3,Ernest E Mackins,DEM,82,48,0,0,0,1,33
+Edgefield,Edgefield No.1,U.S. House,3,Eunice Lehmacher,DEM,37,20,0,0,0,0,17
+Edgefield,Edgefield No.1,U.S. House,3,Ernest E Mackins,DEM,44,24,0,0,0,1,19
+Edgefield,Edgefield No.2,U.S. House,3,Eunice Lehmacher,DEM,69,40,0,0,0,1,28
+Edgefield,Edgefield No.2,U.S. House,3,Ernest E Mackins,DEM,109,59,0,0,0,4,46
+Edgefield,Failsafe,U.S. House,3,Eunice Lehmacher,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe,U.S. House,3,Ernest E Mackins,DEM,1,0,0,0,1,0,0
+Edgefield,Failsafe Provisional,U.S. House,3,Eunice Lehmacher,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. House,3,Ernest E Mackins,DEM,0,0,0,0,0,0,0
+Edgefield,Harmony,U.S. House,3,Eunice Lehmacher,DEM,20,13,0,0,0,0,7
+Edgefield,Harmony,U.S. House,3,Ernest E Mackins,DEM,29,16,0,0,0,1,12
+Edgefield,Johnston No.1,U.S. House,3,Eunice Lehmacher,DEM,93,17,0,0,0,21,55
+Edgefield,Johnston No.1,U.S. House,3,Ernest E Mackins,DEM,79,35,0,0,0,4,40
+Edgefield,Johnston No.2,U.S. House,3,Eunice Lehmacher,DEM,86,33,0,0,0,10,43
+Edgefield,Johnston No.2,U.S. House,3,Ernest E Mackins,DEM,83,29,0,0,0,2,52
+Edgefield,Merriweather No.1,U.S. House,3,Eunice Lehmacher,DEM,74,32,0,0,0,5,37
+Edgefield,Merriweather No.1,U.S. House,3,Ernest E Mackins,DEM,64,19,0,0,0,1,44
+Edgefield,Merriweather No.2,U.S. House,3,Eunice Lehmacher,DEM,72,31,0,0,0,4,37
+Edgefield,Merriweather No.2,U.S. House,3,Ernest E Mackins,DEM,88,40,0,0,0,3,45
+Edgefield,North Side,U.S. House,3,Eunice Lehmacher,DEM,28,9,0,0,0,0,19
+Edgefield,North Side,U.S. House,3,Ernest E Mackins,DEM,35,16,0,0,0,0,19
+Edgefield,Provisional,U.S. House,3,Eunice Lehmacher,DEM,0,0,0,0,0,0,0
+Edgefield,Provisional,U.S. House,3,Ernest E Mackins,DEM,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,U.S. House,3,Eunice Lehmacher,DEM,41,19,0,0,0,0,22
+Edgefield,Trenton No.1,U.S. House,3,Ernest E Mackins,DEM,73,48,0,0,0,0,25
+Edgefield,Trenton No.2,U.S. House,3,Eunice Lehmacher,DEM,120,56,0,0,0,0,64
+Edgefield,Trenton No.2,U.S. House,3,Ernest E Mackins,DEM,216,120,0,0,0,4,92
+Edgefield,Westside,U.S. House,3,Eunice Lehmacher,DEM,13,3,0,0,0,2,8
+Edgefield,Westside,U.S. House,3,Ernest E Mackins,DEM,7,5,0,0,0,0,2
+Edgefield,Brunson,U.S. Senate,,Calvin Cowen,REP,1,1,0,0,0,0,0
+Edgefield,Brunson,U.S. Senate,,Thomas Keith Dismukes,REP,1,0,0,0,0,0,1
+Edgefield,Brunson,U.S. Senate,,Lindsey Graham,REP,39,5,0,0,0,0,34
+Edgefield,Brunson,U.S. Senate,,Pat Herrmann,REP,1,0,0,0,0,0,1
+Edgefield,Brunson,U.S. Senate,,Mark Lynch,REP,12,3,0,0,0,0,9
+Edgefield,Brunson,U.S. Senate,,Darius L Mitchell,REP,3,1,0,0,0,0,2
+Edgefield,Brunson,U.S. Senate,,Annie Andrews,DEM,54,29,0,0,0,3,22
+Edgefield,Brunson,U.S. Senate,,Brandon P Brown,DEM,49,25,0,0,0,0,24
+Edgefield,Brunson,U.S. Senate,,Kyle Freeman,DEM,18,4,0,0,0,2,12
+Edgefield,Edgefield No.1,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Edgefield,Edgefield No.1,U.S. Senate,,Thomas Keith Dismukes,REP,4,1,0,0,0,0,3
+Edgefield,Edgefield No.1,U.S. Senate,,Lindsey Graham,REP,102,26,0,0,0,0,76
+Edgefield,Edgefield No.1,U.S. Senate,,Pat Herrmann,REP,5,1,0,0,0,0,4
+Edgefield,Edgefield No.1,U.S. Senate,,Mark Lynch,REP,37,16,0,0,0,0,21
+Edgefield,Edgefield No.1,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Edgefield,Edgefield No.1,U.S. Senate,,Annie Andrews,DEM,51,31,0,0,0,0,20
+Edgefield,Edgefield No.1,U.S. Senate,,Brandon P Brown,DEM,20,10,0,0,0,1,9
+Edgefield,Edgefield No.1,U.S. Senate,,Kyle Freeman,DEM,12,5,0,0,0,0,7
+Edgefield,Edgefield No.2,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Edgefield,Edgefield No.2,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Edgefield,Edgefield No.2,U.S. Senate,,Lindsey Graham,REP,127,34,0,0,0,1,92
+Edgefield,Edgefield No.2,U.S. Senate,,Pat Herrmann,REP,2,0,0,0,0,0,2
+Edgefield,Edgefield No.2,U.S. Senate,,Mark Lynch,REP,57,15,0,0,0,0,42
+Edgefield,Edgefield No.2,U.S. Senate,,Darius L Mitchell,REP,4,1,0,0,0,0,3
+Edgefield,Edgefield No.2,U.S. Senate,,Annie Andrews,DEM,95,61,0,0,0,4,30
+Edgefield,Edgefield No.2,U.S. Senate,,Brandon P Brown,DEM,58,22,0,0,0,1,35
+Edgefield,Edgefield No.2,U.S. Senate,,Kyle Freeman,DEM,29,16,0,0,0,0,13
+Edgefield,Failsafe,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,1,0,0
+Edgefield,Failsafe,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,U.S. Senate,,Lindsey Graham,REP,1,0,0,0,1,0,0
+Edgefield,Failsafe,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe,U.S. Senate,,Brandon P Brown,DEM,1,0,0,0,1,0,0
+Edgefield,Failsafe,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. Senate,,Calvin Cowen,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Edgefield,Failsafe Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Edgefield,Harmony,U.S. Senate,,Calvin Cowen,REP,2,0,0,0,0,0,2
+Edgefield,Harmony,U.S. Senate,,Thomas Keith Dismukes,REP,2,0,0,0,0,0,2
+Edgefield,Harmony,U.S. Senate,,Lindsey Graham,REP,115,22,0,0,0,0,93
+Edgefield,Harmony,U.S. Senate,,Pat Herrmann,REP,4,1,0,0,0,0,3
+Edgefield,Harmony,U.S. Senate,,Mark Lynch,REP,46,3,0,0,0,0,43
+Edgefield,Harmony,U.S. Senate,,Darius L Mitchell,REP,3,0,0,0,0,0,3
+Edgefield,Harmony,U.S. Senate,,Annie Andrews,DEM,30,15,0,0,0,1,14
+Edgefield,Harmony,U.S. Senate,,Brandon P Brown,DEM,13,10,0,0,0,0,3
+Edgefield,Harmony,U.S. Senate,,Kyle Freeman,DEM,5,3,0,0,0,0,2
+Edgefield,Johnston No.1,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Edgefield,Johnston No.1,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Edgefield,Johnston No.1,U.S. Senate,,Lindsey Graham,REP,53,4,0,0,0,0,49
+Edgefield,Johnston No.1,U.S. Senate,,Pat Herrmann,REP,3,0,0,0,0,0,3
+Edgefield,Johnston No.1,U.S. Senate,,Mark Lynch,REP,20,0,0,0,0,0,20
+Edgefield,Johnston No.1,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Edgefield,Johnston No.1,U.S. Senate,,Annie Andrews,DEM,129,35,0,0,0,24,70
+Edgefield,Johnston No.1,U.S. Senate,,Brandon P Brown,DEM,33,12,0,0,0,1,20
+Edgefield,Johnston No.1,U.S. Senate,,Kyle Freeman,DEM,15,6,0,0,0,0,9
+Edgefield,Johnston No.2,U.S. Senate,,Calvin Cowen,REP,1,0,0,0,0,0,1
+Edgefield,Johnston No.2,U.S. Senate,,Thomas Keith Dismukes,REP,3,0,0,0,0,0,3
+Edgefield,Johnston No.2,U.S. Senate,,Lindsey Graham,REP,76,7,0,0,0,0,69
+Edgefield,Johnston No.2,U.S. Senate,,Pat Herrmann,REP,4,2,0,0,0,0,2
+Edgefield,Johnston No.2,U.S. Senate,,Mark Lynch,REP,25,2,0,0,0,0,23
+Edgefield,Johnston No.2,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Edgefield,Johnston No.2,U.S. Senate,,Annie Andrews,DEM,106,36,0,0,0,11,59
+Edgefield,Johnston No.2,U.S. Senate,,Brandon P Brown,DEM,40,15,0,0,0,1,24
+Edgefield,Johnston No.2,U.S. Senate,,Kyle Freeman,DEM,23,11,0,0,0,0,12
+Edgefield,Merriweather No.1,U.S. Senate,,Calvin Cowen,REP,7,1,0,0,0,0,6
+Edgefield,Merriweather No.1,U.S. Senate,,Thomas Keith Dismukes,REP,23,4,0,0,0,0,19
+Edgefield,Merriweather No.1,U.S. Senate,,Lindsey Graham,REP,282,47,0,0,0,2,233
+Edgefield,Merriweather No.1,U.S. Senate,,Pat Herrmann,REP,22,5,0,0,0,1,16
+Edgefield,Merriweather No.1,U.S. Senate,,Mark Lynch,REP,135,19,0,0,0,0,116
+Edgefield,Merriweather No.1,U.S. Senate,,Darius L Mitchell,REP,5,1,0,0,0,0,4
+Edgefield,Merriweather No.1,U.S. Senate,,Annie Andrews,DEM,82,32,0,0,0,4,46
+Edgefield,Merriweather No.1,U.S. Senate,,Brandon P Brown,DEM,36,12,0,0,0,2,22
+Edgefield,Merriweather No.1,U.S. Senate,,Kyle Freeman,DEM,23,7,0,0,0,0,16
+Edgefield,Merriweather No.2,U.S. Senate,,Calvin Cowen,REP,14,2,0,0,0,0,12
+Edgefield,Merriweather No.2,U.S. Senate,,Thomas Keith Dismukes,REP,27,4,0,0,0,0,23
+Edgefield,Merriweather No.2,U.S. Senate,,Lindsey Graham,REP,303,76,0,0,0,2,225
+Edgefield,Merriweather No.2,U.S. Senate,,Pat Herrmann,REP,13,2,0,0,0,0,11
+Edgefield,Merriweather No.2,U.S. Senate,,Mark Lynch,REP,147,33,0,0,0,1,113
+Edgefield,Merriweather No.2,U.S. Senate,,Darius L Mitchell,REP,10,1,0,0,0,1,8
+Edgefield,Merriweather No.2,U.S. Senate,,Annie Andrews,DEM,88,32,0,0,0,5,51
+Edgefield,Merriweather No.2,U.S. Senate,,Brandon P Brown,DEM,55,28,0,0,0,2,25
+Edgefield,Merriweather No.2,U.S. Senate,,Kyle Freeman,DEM,19,12,0,0,0,0,7
+Edgefield,North Side,U.S. Senate,,Calvin Cowen,REP,3,0,0,0,0,0,3
+Edgefield,North Side,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Edgefield,North Side,U.S. Senate,,Lindsey Graham,REP,42,6,0,0,0,0,36
+Edgefield,North Side,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Edgefield,North Side,U.S. Senate,,Mark Lynch,REP,23,0,0,0,0,0,23
+Edgefield,North Side,U.S. Senate,,Darius L Mitchell,REP,1,0,0,0,0,0,1
+Edgefield,North Side,U.S. Senate,,Annie Andrews,DEM,28,12,0,0,0,0,16
+Edgefield,North Side,U.S. Senate,,Brandon P Brown,DEM,30,12,0,0,0,0,18
+Edgefield,North Side,U.S. Senate,,Kyle Freeman,DEM,7,2,0,0,0,0,5
+Edgefield,Provisional,U.S. Senate,,Calvin Cowen,REP,1,0,0,1,0,0,0
+Edgefield,Provisional,U.S. Senate,,Thomas Keith Dismukes,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,U.S. Senate,,Lindsey Graham,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,U.S. Senate,,Pat Herrmann,REP,1,0,0,1,0,0,0
+Edgefield,Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Edgefield,Provisional,U.S. Senate,,Annie Andrews,DEM,0,0,0,0,0,0,0
+Edgefield,Provisional,U.S. Senate,,Brandon P Brown,DEM,0,0,0,0,0,0,0
+Edgefield,Provisional,U.S. Senate,,Kyle Freeman,DEM,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,U.S. Senate,,Calvin Cowen,REP,5,2,0,0,0,0,3
+Edgefield,Trenton No.1,U.S. Senate,,Thomas Keith Dismukes,REP,4,2,0,0,0,0,2
+Edgefield,Trenton No.1,U.S. Senate,,Lindsey Graham,REP,87,18,0,0,0,0,69
+Edgefield,Trenton No.1,U.S. Senate,,Pat Herrmann,REP,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,U.S. Senate,,Mark Lynch,REP,20,1,0,0,0,0,19
+Edgefield,Trenton No.1,U.S. Senate,,Darius L Mitchell,REP,0,0,0,0,0,0,0
+Edgefield,Trenton No.1,U.S. Senate,,Annie Andrews,DEM,58,35,0,0,0,0,23
+Edgefield,Trenton No.1,U.S. Senate,,Brandon P Brown,DEM,40,22,0,0,0,0,18
+Edgefield,Trenton No.1,U.S. Senate,,Kyle Freeman,DEM,16,10,0,0,0,0,6
+Edgefield,Trenton No.2,U.S. Senate,,Calvin Cowen,REP,4,0,0,0,0,0,4
+Edgefield,Trenton No.2,U.S. Senate,,Thomas Keith Dismukes,REP,7,1,0,0,0,0,6
+Edgefield,Trenton No.2,U.S. Senate,,Lindsey Graham,REP,73,15,0,0,0,4,54
+Edgefield,Trenton No.2,U.S. Senate,,Pat Herrmann,REP,8,3,0,0,0,0,5
+Edgefield,Trenton No.2,U.S. Senate,,Mark Lynch,REP,46,4,0,0,0,0,42
+Edgefield,Trenton No.2,U.S. Senate,,Darius L Mitchell,REP,5,0,0,0,0,0,5
+Edgefield,Trenton No.2,U.S. Senate,,Annie Andrews,DEM,156,77,0,0,0,0,79
+Edgefield,Trenton No.2,U.S. Senate,,Brandon P Brown,DEM,140,85,0,0,0,4,51
+Edgefield,Trenton No.2,U.S. Senate,,Kyle Freeman,DEM,44,16,0,0,0,0,28
+Edgefield,Westside,U.S. Senate,,Calvin Cowen,REP,7,1,0,0,0,0,6
+Edgefield,Westside,U.S. Senate,,Thomas Keith Dismukes,REP,8,2,0,0,0,0,6
+Edgefield,Westside,U.S. Senate,,Lindsey Graham,REP,145,31,0,0,0,1,113
+Edgefield,Westside,U.S. Senate,,Pat Herrmann,REP,4,0,0,0,0,0,4
+Edgefield,Westside,U.S. Senate,,Mark Lynch,REP,47,7,0,0,0,0,40
+Edgefield,Westside,U.S. Senate,,Darius L Mitchell,REP,2,0,0,0,0,0,2
+Edgefield,Westside,U.S. Senate,,Annie Andrews,DEM,15,4,0,0,0,2,9
+Edgefield,Westside,U.S. Senate,,Brandon P Brown,DEM,3,2,0,0,0,0,1
+Edgefield,Westside,U.S. Senate,,Kyle Freeman,DEM,2,2,0,0,0,0,0
