@@ -1,0 +1,43 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Jasper,Coosawhatchie,U.S. Senate,,Darline Graham,REP,11,1,0,0,0,0,10
+Jasper,Coosawhatchie,U.S. Senate,,Ralph Norman,REP,3,0,0,0,0,0,3
+Jasper,Failsafe,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Jasper,Failsafe,U.S. Senate,,Ralph Norman,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Jasper,Failsafe Provisional,U.S. Senate,,Ralph Norman,REP,0,0,0,0,0,0,0
+Jasper,Gillisonville,U.S. Senate,,Darline Graham,REP,34,6,0,0,0,0,28
+Jasper,Gillisonville,U.S. Senate,,Ralph Norman,REP,11,2,0,0,0,0,9
+Jasper,Grahamville 1,U.S. Senate,,Darline Graham,REP,78,23,0,0,0,0,55
+Jasper,Grahamville 1,U.S. Senate,,Ralph Norman,REP,31,5,0,0,0,0,26
+Jasper,Grahamville 2,U.S. Senate,,Darline Graham,REP,72,14,0,0,0,0,58
+Jasper,Grahamville 2,U.S. Senate,,Ralph Norman,REP,34,5,0,0,0,0,29
+Jasper,Grays,U.S. Senate,,Darline Graham,REP,94,5,0,0,0,0,89
+Jasper,Grays,U.S. Senate,,Ralph Norman,REP,12,2,0,0,0,0,10
+Jasper,Hardeeville 1,U.S. Senate,,Darline Graham,REP,18,0,0,0,0,0,18
+Jasper,Hardeeville 1,U.S. Senate,,Ralph Norman,REP,11,1,0,0,0,0,10
+Jasper,Hardeeville 2,U.S. Senate,,Darline Graham,REP,29,2,0,0,0,0,27
+Jasper,Hardeeville 2,U.S. Senate,,Ralph Norman,REP,15,2,0,0,0,0,13
+Jasper,Hardeeville 3,U.S. Senate,,Darline Graham,REP,136,3,0,0,0,0,133
+Jasper,Hardeeville 3,U.S. Senate,,Ralph Norman,REP,47,0,0,0,0,0,47
+Jasper,Levy,U.S. Senate,,Darline Graham,REP,61,2,0,0,0,0,59
+Jasper,Levy,U.S. Senate,,Ralph Norman,REP,18,0,0,0,0,0,18
+Jasper,Margaritaville,U.S. Senate,,Darline Graham,REP,590,23,0,0,0,0,567
+Jasper,Margaritaville,U.S. Senate,,Ralph Norman,REP,273,6,0,0,0,0,267
+Jasper,Okatie 1,U.S. Senate,,Darline Graham,REP,42,0,0,0,0,0,42
+Jasper,Okatie 1,U.S. Senate,,Ralph Norman,REP,17,3,0,0,0,0,14
+Jasper,Okatie 2,U.S. Senate,,Darline Graham,REP,225,12,0,0,0,1,212
+Jasper,Okatie 2,U.S. Senate,,Ralph Norman,REP,81,4,0,0,0,2,75
+Jasper,Pineland,U.S. Senate,,Darline Graham,REP,3,0,0,0,0,0,3
+Jasper,Pineland,U.S. Senate,,Ralph Norman,REP,5,1,0,0,0,0,4
+Jasper,Provisional,U.S. Senate,,Darline Graham,REP,1,0,0,1,0,0,0
+Jasper,Provisional,U.S. Senate,,Ralph Norman,REP,1,0,0,1,0,0,0
+Jasper,Ridgeland 1,U.S. Senate,,Darline Graham,REP,49,13,0,0,0,0,36
+Jasper,Ridgeland 1,U.S. Senate,,Ralph Norman,REP,36,8,0,0,0,0,28
+Jasper,Ridgeland 2,U.S. Senate,,Darline Graham,REP,29,8,0,0,0,0,21
+Jasper,Ridgeland 2,U.S. Senate,,Ralph Norman,REP,20,3,0,0,0,0,17
+Jasper,Ridgeland 3,U.S. Senate,,Darline Graham,REP,48,14,0,0,0,0,34
+Jasper,Ridgeland 3,U.S. Senate,,Ralph Norman,REP,13,5,0,0,0,0,8
+Jasper,Sun City,U.S. Senate,,Darline Graham,REP,627,37,0,0,0,6,584
+Jasper,Sun City,U.S. Senate,,Ralph Norman,REP,216,11,0,0,0,5,200
+Jasper,Tillman,U.S. Senate,,Darline Graham,REP,34,1,0,0,0,0,33
+Jasper,Tillman,U.S. Senate,,Ralph Norman,REP,13,2,0,0,0,0,11
