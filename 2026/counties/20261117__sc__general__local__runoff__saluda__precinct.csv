@@ -1,0 +1,9 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Saluda,Failsafe,Mayor - Saluda,,Miliken Matthews,NON,0,0,0,0,0,0,0
+Saluda,Failsafe,Mayor - Saluda,,Josh Morton,NON,0,0,0,0,0,0,0
+Saluda,Provisional,Mayor - Saluda,,Miliken Matthews,NON,0,0,0,0,0,0,0
+Saluda,Provisional,Mayor - Saluda,,Josh Morton,NON,0,0,0,0,0,0,0
+Saluda,Saluda No. 1,Mayor - Saluda,,Miliken Matthews,NON,204,98,0,0,0,6,100
+Saluda,Saluda No. 1,Mayor - Saluda,,Josh Morton,NON,57,33,0,0,0,0,24
+Saluda,Saluda No. 2,Mayor - Saluda,,Miliken Matthews,NON,78,38,0,0,0,0,40
+Saluda,Saluda No. 2,Mayor - Saluda,,Josh Morton,NON,231,124,0,0,0,1,106
