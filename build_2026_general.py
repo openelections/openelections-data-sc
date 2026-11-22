@@ -74,6 +74,9 @@ def parse_office(text):
         return ['U.S. House' if m.group(1) == 'U.S.' else 'State House', m.group(2)]
     if text == 'U.S. Senate':
         return ['U.S. Senate', '']
+    m = re.match(r'^State Senate, District (\d+)$', text)
+    if m:
+        return ['State Senate', m.group(1)]
     m = re.match(r'^State Senate District (\d+) \(Unexpired Term\)$', text)
     if m:
         return ['State Senate', m.group(1)]
