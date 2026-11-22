@@ -1,0 +1,611 @@
+county,precinct,office,district,candidate,party,votes,early_voting,failsafe_provisional,provisional,failsafe,absentee_by_mail,election_day
+Sumter,BATES,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Russell Fry,REP,0,0,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Darline Graham,REP,1,1,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Ralph Norman,REP,0,0,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Mark Sanford,REP,1,1,0,0,0,0,0
+Sumter,BATES,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,U.S. Senate,,Russell Fry,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,U.S. Senate,,Darline Graham,REP,1,0,0,0,0,0,1
+Sumter,BIRNIE,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,U.S. Senate,,Ralph Norman,REP,2,0,0,0,0,0,2
+Sumter,BIRNIE,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,U.S. Senate,,Mark Sanford,REP,0,0,0,0,0,0,0
+Sumter,BIRNIE,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,BUNRS-DOWNS,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,BUNRS-DOWNS,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,BUNRS-DOWNS,U.S. Senate,,Russell Fry,REP,7,2,0,0,0,0,5
+Sumter,BUNRS-DOWNS,U.S. Senate,,Darline Graham,REP,34,6,0,0,0,0,28
+Sumter,BUNRS-DOWNS,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,BUNRS-DOWNS,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,BUNRS-DOWNS,U.S. Senate,,Ralph Norman,REP,13,3,0,0,0,1,9
+Sumter,BUNRS-DOWNS,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,BUNRS-DOWNS,U.S. Senate,,Mark Sanford,REP,13,5,0,0,0,0,8
+Sumter,BUNRS-DOWNS,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Duke Buckner,REP,1,1,0,0,0,0,0
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Russell Fry,REP,36,9,0,0,0,2,25
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Darline Graham,REP,54,6,0,0,0,1,47
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Mark Lynch,REP,3,0,0,0,0,0,3
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Ralph Norman,REP,28,11,0,0,0,0,17
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Mark Sanford,REP,18,4,0,0,0,1,13
+Sumter,CAUSEWAY BRANCH 1,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Danny Ford II,REP,2,0,0,0,0,0,2
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Russell Fry,REP,29,7,0,0,0,0,22
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Darline Graham,REP,33,7,0,0,0,0,26
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Mark Lynch,REP,2,1,0,0,0,0,1
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Ralph Norman,REP,16,2,0,0,0,0,14
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Mark Sanford,REP,6,2,0,0,0,0,4
+Sumter,CAUSEWAY BRANCH 2,U.S. Senate,,Samuel Sam Shepherd,REP,1,0,0,0,0,0,1
+Sumter,CHERRYVALE,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,CHERRYVALE,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,CHERRYVALE,U.S. Senate,,Russell Fry,REP,2,0,0,0,0,0,2
+Sumter,CHERRYVALE,U.S. Senate,,Darline Graham,REP,9,0,0,0,0,0,9
+Sumter,CHERRYVALE,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,CHERRYVALE,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,CHERRYVALE,U.S. Senate,,Ralph Norman,REP,1,0,0,0,0,0,1
+Sumter,CHERRYVALE,U.S. Senate,,Glenda Gail Parker,REP,1,0,0,0,0,0,1
+Sumter,CHERRYVALE,U.S. Senate,,Mark Sanford,REP,4,0,0,0,0,0,4
+Sumter,CHERRYVALE,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,CROSSWELL,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,CROSSWELL,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,CROSSWELL,U.S. Senate,,Russell Fry,REP,4,1,0,0,0,0,3
+Sumter,CROSSWELL,U.S. Senate,,Darline Graham,REP,18,5,0,0,0,0,13
+Sumter,CROSSWELL,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,CROSSWELL,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,CROSSWELL,U.S. Senate,,Ralph Norman,REP,4,2,0,0,0,0,2
+Sumter,CROSSWELL,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,CROSSWELL,U.S. Senate,,Mark Sanford,REP,6,0,0,0,0,0,6
+Sumter,CROSSWELL,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,DALZELL 1,U.S. Senate,,Duke Buckner,REP,2,0,0,0,0,0,2
+Sumter,DALZELL 1,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,DALZELL 1,U.S. Senate,,Russell Fry,REP,12,4,0,0,0,0,8
+Sumter,DALZELL 1,U.S. Senate,,Darline Graham,REP,36,8,0,0,0,0,28
+Sumter,DALZELL 1,U.S. Senate,,Mark Lynch,REP,3,2,0,0,0,1,0
+Sumter,DALZELL 1,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,DALZELL 1,U.S. Senate,,Ralph Norman,REP,24,1,0,0,0,0,23
+Sumter,DALZELL 1,U.S. Senate,,Glenda Gail Parker,REP,1,0,0,0,0,1,0
+Sumter,DALZELL 1,U.S. Senate,,Mark Sanford,REP,7,0,0,0,0,0,7
+Sumter,DALZELL 1,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,DALZELL 2,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,DALZELL 2,U.S. Senate,,Danny Ford II,REP,1,0,0,0,0,0,1
+Sumter,DALZELL 2,U.S. Senate,,Russell Fry,REP,2,0,0,0,0,0,2
+Sumter,DALZELL 2,U.S. Senate,,Darline Graham,REP,14,1,0,0,0,0,13
+Sumter,DALZELL 2,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Sumter,DALZELL 2,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,DALZELL 2,U.S. Senate,,Ralph Norman,REP,7,2,0,0,0,0,5
+Sumter,DALZELL 2,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,DALZELL 2,U.S. Senate,,Mark Sanford,REP,6,2,0,0,0,0,4
+Sumter,DALZELL 2,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,DELAINE,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,DELAINE,U.S. Senate,,Danny Ford II,REP,1,0,0,0,0,0,1
+Sumter,DELAINE,U.S. Senate,,Russell Fry,REP,7,3,0,0,0,1,3
+Sumter,DELAINE,U.S. Senate,,Darline Graham,REP,15,2,0,0,0,0,13
+Sumter,DELAINE,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Sumter,DELAINE,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,DELAINE,U.S. Senate,,Ralph Norman,REP,13,3,0,0,0,0,10
+Sumter,DELAINE,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,DELAINE,U.S. Senate,,Mark Sanford,REP,5,0,0,0,0,0,5
+Sumter,DELAINE,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,EBENEZER 1,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,EBENEZER 1,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,EBENEZER 1,U.S. Senate,,Russell Fry,REP,12,3,0,0,0,0,9
+Sumter,EBENEZER 1,U.S. Senate,,Darline Graham,REP,29,5,0,0,0,0,24
+Sumter,EBENEZER 1,U.S. Senate,,Mark Lynch,REP,1,1,0,0,0,0,0
+Sumter,EBENEZER 1,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,EBENEZER 1,U.S. Senate,,Ralph Norman,REP,20,6,0,0,0,0,14
+Sumter,EBENEZER 1,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,EBENEZER 1,U.S. Senate,,Mark Sanford,REP,5,0,0,0,0,0,5
+Sumter,EBENEZER 1,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,EBENEZER 2,U.S. Senate,,Duke Buckner,REP,2,1,0,0,0,0,1
+Sumter,EBENEZER 2,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,EBENEZER 2,U.S. Senate,,Russell Fry,REP,9,3,0,0,0,0,6
+Sumter,EBENEZER 2,U.S. Senate,,Darline Graham,REP,39,13,0,0,0,0,26
+Sumter,EBENEZER 2,U.S. Senate,,Mark Lynch,REP,3,2,0,0,0,0,1
+Sumter,EBENEZER 2,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,EBENEZER 2,U.S. Senate,,Ralph Norman,REP,20,7,0,0,0,2,11
+Sumter,EBENEZER 2,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,EBENEZER 2,U.S. Senate,,Mark Sanford,REP,11,5,0,0,0,0,6
+Sumter,EBENEZER 2,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,FOLSOM PARK,U.S. Senate,,Duke Buckner,REP,1,0,0,0,0,0,1
+Sumter,FOLSOM PARK,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,FOLSOM PARK,U.S. Senate,,Russell Fry,REP,1,1,0,0,0,0,0
+Sumter,FOLSOM PARK,U.S. Senate,,Darline Graham,REP,5,1,0,0,0,0,4
+Sumter,FOLSOM PARK,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,FOLSOM PARK,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,FOLSOM PARK,U.S. Senate,,Ralph Norman,REP,2,0,0,0,0,0,2
+Sumter,FOLSOM PARK,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,FOLSOM PARK,U.S. Senate,,Mark Sanford,REP,4,0,0,0,0,0,4
+Sumter,FOLSOM PARK,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,FURMAN,U.S. Senate,,Duke Buckner,REP,2,0,0,0,0,0,2
+Sumter,FURMAN,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,FURMAN,U.S. Senate,,Russell Fry,REP,17,2,0,0,0,4,11
+Sumter,FURMAN,U.S. Senate,,Darline Graham,REP,48,5,0,0,0,3,40
+Sumter,FURMAN,U.S. Senate,,Mark Lynch,REP,3,1,0,0,0,0,2
+Sumter,FURMAN,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,FURMAN,U.S. Senate,,Ralph Norman,REP,16,2,0,0,0,0,14
+Sumter,FURMAN,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,FURMAN,U.S. Senate,,Mark Sanford,REP,17,2,0,0,0,0,15
+Sumter,FURMAN,U.S. Senate,,Samuel Sam Shepherd,REP,1,1,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Russell Fry,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Ralph Norman,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Mark Sanford,REP,0,0,0,0,0,0,0
+Sumter,Failsafe,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Russell Fry,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Ralph Norman,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Mark Sanford,REP,0,0,0,0,0,0,0
+Sumter,Failsafe Provisional,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,U.S. Senate,,Duke Buckner,REP,2,0,0,0,0,0,2
+Sumter,GREEN SWAMP,U.S. Senate,,Danny Ford II,REP,1,0,0,0,0,0,1
+Sumter,GREEN SWAMP,U.S. Senate,,Russell Fry,REP,31,8,0,0,0,0,23
+Sumter,GREEN SWAMP,U.S. Senate,,Darline Graham,REP,68,9,0,0,0,3,56
+Sumter,GREEN SWAMP,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Sumter,GREEN SWAMP,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP,U.S. Senate,,Ralph Norman,REP,36,8,0,0,0,0,28
+Sumter,GREEN SWAMP,U.S. Senate,,Glenda Gail Parker,REP,1,0,0,0,0,0,1
+Sumter,GREEN SWAMP,U.S. Senate,,Mark Sanford,REP,17,7,0,0,0,0,10
+Sumter,GREEN SWAMP,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP 2,U.S. Senate,,Duke Buckner,REP,1,0,0,0,0,0,1
+Sumter,GREEN SWAMP 2,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP 2,U.S. Senate,,Russell Fry,REP,40,7,0,0,0,0,33
+Sumter,GREEN SWAMP 2,U.S. Senate,,Darline Graham,REP,59,12,0,0,0,4,43
+Sumter,GREEN SWAMP 2,U.S. Senate,,Mark Lynch,REP,3,0,0,0,0,0,3
+Sumter,GREEN SWAMP 2,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP 2,U.S. Senate,,Ralph Norman,REP,28,10,0,0,0,0,18
+Sumter,GREEN SWAMP 2,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,GREEN SWAMP 2,U.S. Senate,,Mark Sanford,REP,22,3,0,0,0,0,19
+Sumter,GREEN SWAMP 2,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,HAMPTON PARK,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,HAMPTON PARK,U.S. Senate,,Danny Ford II,REP,1,1,0,0,0,0,0
+Sumter,HAMPTON PARK,U.S. Senate,,Russell Fry,REP,12,1,0,0,0,0,11
+Sumter,HAMPTON PARK,U.S. Senate,,Darline Graham,REP,10,2,0,0,0,0,8
+Sumter,HAMPTON PARK,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,HAMPTON PARK,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,HAMPTON PARK,U.S. Senate,,Ralph Norman,REP,14,2,0,0,0,0,12
+Sumter,HAMPTON PARK,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,HAMPTON PARK,U.S. Senate,,Mark Sanford,REP,5,0,0,0,0,0,5
+Sumter,HAMPTON PARK,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,HILLCREST,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,HILLCREST,U.S. Senate,,Danny Ford II,REP,1,1,0,0,0,0,0
+Sumter,HILLCREST,U.S. Senate,,Russell Fry,REP,3,0,0,0,0,0,3
+Sumter,HILLCREST,U.S. Senate,,Darline Graham,REP,23,1,0,0,0,0,22
+Sumter,HILLCREST,U.S. Senate,,Mark Lynch,REP,2,1,0,0,0,0,1
+Sumter,HILLCREST,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,HILLCREST,U.S. Senate,,Ralph Norman,REP,15,1,0,0,0,0,14
+Sumter,HILLCREST,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,HILLCREST,U.S. Senate,,Mark Sanford,REP,5,1,0,0,0,0,4
+Sumter,HILLCREST,U.S. Senate,,Samuel Sam Shepherd,REP,1,0,0,0,0,0,1
+Sumter,HORATIO,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,HORATIO,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,HORATIO,U.S. Senate,,Russell Fry,REP,5,2,0,0,0,0,3
+Sumter,HORATIO,U.S. Senate,,Darline Graham,REP,7,0,0,0,0,0,7
+Sumter,HORATIO,U.S. Senate,,Mark Lynch,REP,1,1,0,0,0,0,0
+Sumter,HORATIO,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,HORATIO,U.S. Senate,,Ralph Norman,REP,12,1,0,0,0,0,11
+Sumter,HORATIO,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,HORATIO,U.S. Senate,,Mark Sanford,REP,2,0,0,0,0,0,2
+Sumter,HORATIO,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,LEMIRA,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,LEMIRA,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,LEMIRA,U.S. Senate,,Russell Fry,REP,0,0,0,0,0,0,0
+Sumter,LEMIRA,U.S. Senate,,Darline Graham,REP,3,0,0,0,0,1,2
+Sumter,LEMIRA,U.S. Senate,,Mark Lynch,REP,1,1,0,0,0,0,0
+Sumter,LEMIRA,U.S. Senate,,Mark McBride,REP,1,0,0,0,0,0,1
+Sumter,LEMIRA,U.S. Senate,,Ralph Norman,REP,2,1,0,0,0,0,1
+Sumter,LEMIRA,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,LEMIRA,U.S. Senate,,Mark Sanford,REP,1,0,0,0,0,0,1
+Sumter,LEMIRA,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,LORING,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,LORING,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,LORING,U.S. Senate,,Russell Fry,REP,2,0,0,0,0,0,2
+Sumter,LORING,U.S. Senate,,Darline Graham,REP,10,0,0,0,0,0,10
+Sumter,LORING,U.S. Senate,,Mark Lynch,REP,2,0,0,0,0,0,2
+Sumter,LORING,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,LORING,U.S. Senate,,Ralph Norman,REP,1,0,0,0,0,0,1
+Sumter,LORING,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,LORING,U.S. Senate,,Mark Sanford,REP,0,0,0,0,0,0,0
+Sumter,LORING,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Russell Fry,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Darline Graham,REP,4,2,0,0,0,0,2
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Ralph Norman,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Mark Sanford,REP,1,0,0,0,0,0,1
+Sumter,MAGNOLIA-HARMONY,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,MANCHESTER FOREST,U.S. Senate,,Duke Buckner,REP,2,0,0,0,0,0,2
+Sumter,MANCHESTER FOREST,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,MANCHESTER FOREST,U.S. Senate,,Russell Fry,REP,23,3,0,0,0,0,20
+Sumter,MANCHESTER FOREST,U.S. Senate,,Darline Graham,REP,50,3,0,0,0,1,46
+Sumter,MANCHESTER FOREST,U.S. Senate,,Mark Lynch,REP,6,0,0,0,0,0,6
+Sumter,MANCHESTER FOREST,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,MANCHESTER FOREST,U.S. Senate,,Ralph Norman,REP,12,1,0,0,0,0,11
+Sumter,MANCHESTER FOREST,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,MANCHESTER FOREST,U.S. Senate,,Mark Sanford,REP,13,0,0,0,0,0,13
+Sumter,MANCHESTER FOREST,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,MAYESVILLE,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,MAYESVILLE,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,MAYESVILLE,U.S. Senate,,Russell Fry,REP,7,0,0,0,0,0,7
+Sumter,MAYESVILLE,U.S. Senate,,Darline Graham,REP,4,0,0,0,0,0,4
+Sumter,MAYESVILLE,U.S. Senate,,Mark Lynch,REP,3,0,0,0,0,0,3
+Sumter,MAYESVILLE,U.S. Senate,,Mark McBride,REP,1,0,0,0,0,0,1
+Sumter,MAYESVILLE,U.S. Senate,,Ralph Norman,REP,2,0,0,0,0,0,2
+Sumter,MAYESVILLE,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,MAYESVILLE,U.S. Senate,,Mark Sanford,REP,3,0,0,0,0,0,3
+Sumter,MAYESVILLE,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,MAYEWOOD,U.S. Senate,,Duke Buckner,REP,1,0,0,0,0,0,1
+Sumter,MAYEWOOD,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,MAYEWOOD,U.S. Senate,,Russell Fry,REP,29,3,0,0,0,0,26
+Sumter,MAYEWOOD,U.S. Senate,,Darline Graham,REP,46,8,0,0,0,1,37
+Sumter,MAYEWOOD,U.S. Senate,,Mark Lynch,REP,6,4,0,0,0,0,2
+Sumter,MAYEWOOD,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,MAYEWOOD,U.S. Senate,,Ralph Norman,REP,11,2,0,0,0,0,9
+Sumter,MAYEWOOD,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,MAYEWOOD,U.S. Senate,,Mark Sanford,REP,14,5,0,0,0,0,9
+Sumter,MAYEWOOD,U.S. Senate,,Samuel Sam Shepherd,REP,1,0,0,0,0,0,1
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Duke Buckner,REP,1,1,0,0,0,0,0
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Danny Ford II,REP,1,0,0,0,0,0,1
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Russell Fry,REP,18,1,0,0,0,0,17
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Darline Graham,REP,43,5,0,0,0,2,36
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Mark Lynch,REP,6,1,0,0,0,0,5
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Mark McBride,REP,1,0,0,0,0,0,1
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Ralph Norman,REP,21,7,0,0,0,0,14
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Glenda Gail Parker,REP,1,0,0,0,0,1,0
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Mark Sanford,REP,6,1,0,0,0,0,5
+Sumter,MCCRAYS MILL 1,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Duke Buckner,REP,2,0,0,0,0,0,2
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Danny Ford II,REP,3,0,0,0,0,0,3
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Russell Fry,REP,16,1,0,0,0,0,15
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Darline Graham,REP,61,10,0,0,0,2,49
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Mark Lynch,REP,4,2,0,0,0,0,2
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Mark McBride,REP,2,2,0,0,0,0,0
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Ralph Norman,REP,34,16,0,0,0,0,18
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Mark Sanford,REP,14,0,0,0,0,0,14
+Sumter,MCCRAYS MILL 2,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,MILLWOOD,U.S. Senate,,Duke Buckner,REP,1,0,0,0,0,0,1
+Sumter,MILLWOOD,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,MILLWOOD,U.S. Senate,,Russell Fry,REP,5,0,0,0,0,0,5
+Sumter,MILLWOOD,U.S. Senate,,Darline Graham,REP,13,9,0,0,0,2,2
+Sumter,MILLWOOD,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,MILLWOOD,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,MILLWOOD,U.S. Senate,,Ralph Norman,REP,1,0,0,0,0,0,1
+Sumter,MILLWOOD,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,MILLWOOD,U.S. Senate,,Mark Sanford,REP,3,0,0,0,0,0,3
+Sumter,MILLWOOD,U.S. Senate,,Samuel Sam Shepherd,REP,1,0,0,0,0,0,1
+Sumter,MORRIS COLLEGE,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,MORRIS COLLEGE,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,MORRIS COLLEGE,U.S. Senate,,Russell Fry,REP,4,0,0,0,0,0,4
+Sumter,MORRIS COLLEGE,U.S. Senate,,Darline Graham,REP,6,0,0,0,0,0,6
+Sumter,MORRIS COLLEGE,U.S. Senate,,Mark Lynch,REP,1,1,0,0,0,0,0
+Sumter,MORRIS COLLEGE,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,MORRIS COLLEGE,U.S. Senate,,Ralph Norman,REP,1,0,0,0,0,0,1
+Sumter,MORRIS COLLEGE,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,MORRIS COLLEGE,U.S. Senate,,Mark Sanford,REP,1,0,0,0,0,0,1
+Sumter,MORRIS COLLEGE,U.S. Senate,,Samuel Sam Shepherd,REP,1,0,0,0,0,0,1
+Sumter,MULBERRY,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,MULBERRY,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,MULBERRY,U.S. Senate,,Russell Fry,REP,6,0,0,0,0,0,6
+Sumter,MULBERRY,U.S. Senate,,Darline Graham,REP,6,3,0,0,0,0,3
+Sumter,MULBERRY,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,MULBERRY,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,MULBERRY,U.S. Senate,,Ralph Norman,REP,7,1,0,0,0,0,6
+Sumter,MULBERRY,U.S. Senate,,Glenda Gail Parker,REP,1,0,0,0,0,0,1
+Sumter,MULBERRY,U.S. Senate,,Mark Sanford,REP,3,0,0,0,0,0,3
+Sumter,MULBERRY,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Duke Buckner,REP,2,0,0,0,0,0,2
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Russell Fry,REP,8,0,0,0,0,0,8
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Darline Graham,REP,54,3,0,0,0,0,51
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Mark Lynch,REP,3,0,0,0,0,0,3
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Ralph Norman,REP,21,2,0,0,0,0,19
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Glenda Gail Parker,REP,2,0,0,0,0,0,2
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Mark Sanford,REP,13,1,0,0,0,0,12
+Sumter,OAKLAND PLANTATION 1,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Duke Buckner,REP,1,0,0,0,0,0,1
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Russell Fry,REP,12,3,0,0,0,0,9
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Darline Graham,REP,25,6,0,0,0,0,19
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Mark Lynch,REP,2,0,0,0,0,0,2
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Mark McBride,REP,1,0,0,0,0,0,1
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Ralph Norman,REP,20,2,0,0,0,0,18
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Mark Sanford,REP,8,2,0,0,0,0,6
+Sumter,OAKLAND PLANTATION 2,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,OSWEGO,U.S. Senate,,Duke Buckner,REP,1,1,0,0,0,0,0
+Sumter,OSWEGO,U.S. Senate,,Danny Ford II,REP,3,1,0,0,0,0,2
+Sumter,OSWEGO,U.S. Senate,,Russell Fry,REP,26,5,0,0,0,0,21
+Sumter,OSWEGO,U.S. Senate,,Darline Graham,REP,43,13,0,0,0,2,28
+Sumter,OSWEGO,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,OSWEGO,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,OSWEGO,U.S. Senate,,Ralph Norman,REP,27,9,0,0,0,2,16
+Sumter,OSWEGO,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,OSWEGO,U.S. Senate,,Mark Sanford,REP,3,0,0,0,0,0,3
+Sumter,OSWEGO,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,PALMETTO PARK,U.S. Senate,,Duke Buckner,REP,1,0,0,0,0,0,1
+Sumter,PALMETTO PARK,U.S. Senate,,Danny Ford II,REP,1,0,0,0,0,0,1
+Sumter,PALMETTO PARK,U.S. Senate,,Russell Fry,REP,5,1,0,0,0,0,4
+Sumter,PALMETTO PARK,U.S. Senate,,Darline Graham,REP,27,3,0,0,0,0,24
+Sumter,PALMETTO PARK,U.S. Senate,,Mark Lynch,REP,3,2,0,0,0,0,1
+Sumter,PALMETTO PARK,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,PALMETTO PARK,U.S. Senate,,Ralph Norman,REP,12,1,0,0,0,0,11
+Sumter,PALMETTO PARK,U.S. Senate,,Glenda Gail Parker,REP,1,0,0,0,0,0,1
+Sumter,PALMETTO PARK,U.S. Senate,,Mark Sanford,REP,3,1,0,0,0,0,2
+Sumter,PALMETTO PARK,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,PINEWOOD,U.S. Senate,,Duke Buckner,REP,1,0,0,0,0,0,1
+Sumter,PINEWOOD,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,PINEWOOD,U.S. Senate,,Russell Fry,REP,14,0,0,0,0,2,12
+Sumter,PINEWOOD,U.S. Senate,,Darline Graham,REP,38,2,0,0,0,1,35
+Sumter,PINEWOOD,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Sumter,PINEWOOD,U.S. Senate,,Mark McBride,REP,1,0,0,0,0,0,1
+Sumter,PINEWOOD,U.S. Senate,,Ralph Norman,REP,15,0,0,0,0,1,14
+Sumter,PINEWOOD,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,PINEWOOD,U.S. Senate,,Mark Sanford,REP,3,0,0,0,0,0,3
+Sumter,PINEWOOD,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,POCOTALIGO 1,U.S. Senate,,Duke Buckner,REP,1,0,0,0,0,0,1
+Sumter,POCOTALIGO 1,U.S. Senate,,Danny Ford II,REP,2,1,0,0,0,0,1
+Sumter,POCOTALIGO 1,U.S. Senate,,Russell Fry,REP,23,7,0,0,0,0,16
+Sumter,POCOTALIGO 1,U.S. Senate,,Darline Graham,REP,61,11,0,0,0,1,49
+Sumter,POCOTALIGO 1,U.S. Senate,,Mark Lynch,REP,5,2,0,0,0,0,3
+Sumter,POCOTALIGO 1,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,POCOTALIGO 1,U.S. Senate,,Ralph Norman,REP,24,8,0,0,0,0,16
+Sumter,POCOTALIGO 1,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,POCOTALIGO 1,U.S. Senate,,Mark Sanford,REP,16,11,0,0,0,0,5
+Sumter,POCOTALIGO 1,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,POCOTALIGO 2,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,POCOTALIGO 2,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,POCOTALIGO 2,U.S. Senate,,Russell Fry,REP,2,2,0,0,0,0,0
+Sumter,POCOTALIGO 2,U.S. Senate,,Darline Graham,REP,25,3,0,0,0,2,20
+Sumter,POCOTALIGO 2,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Sumter,POCOTALIGO 2,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,POCOTALIGO 2,U.S. Senate,,Ralph Norman,REP,7,2,0,0,0,0,5
+Sumter,POCOTALIGO 2,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,POCOTALIGO 2,U.S. Senate,,Mark Sanford,REP,5,2,0,0,0,0,3
+Sumter,POCOTALIGO 2,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,PRIVATEER,U.S. Senate,,Duke Buckner,REP,3,0,0,0,0,0,3
+Sumter,PRIVATEER,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,PRIVATEER,U.S. Senate,,Russell Fry,REP,25,4,0,0,0,0,21
+Sumter,PRIVATEER,U.S. Senate,,Darline Graham,REP,82,18,0,0,0,2,62
+Sumter,PRIVATEER,U.S. Senate,,Mark Lynch,REP,4,2,0,0,0,0,2
+Sumter,PRIVATEER,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,PRIVATEER,U.S. Senate,,Ralph Norman,REP,31,8,0,0,0,0,23
+Sumter,PRIVATEER,U.S. Senate,,Glenda Gail Parker,REP,1,0,0,0,0,0,1
+Sumter,PRIVATEER,U.S. Senate,,Mark Sanford,REP,19,3,0,0,0,3,13
+Sumter,PRIVATEER,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Russell Fry,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Ralph Norman,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Mark Sanford,REP,0,0,0,0,0,0,0
+Sumter,Provisional,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,REMBERT,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,REMBERT,U.S. Senate,,Danny Ford II,REP,1,0,0,0,0,0,1
+Sumter,REMBERT,U.S. Senate,,Russell Fry,REP,2,0,0,0,0,0,2
+Sumter,REMBERT,U.S. Senate,,Darline Graham,REP,10,1,0,0,0,0,9
+Sumter,REMBERT,U.S. Senate,,Mark Lynch,REP,5,1,0,0,0,0,4
+Sumter,REMBERT,U.S. Senate,,Mark McBride,REP,1,0,0,0,0,0,1
+Sumter,REMBERT,U.S. Senate,,Ralph Norman,REP,11,1,0,0,0,0,10
+Sumter,REMBERT,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,REMBERT,U.S. Senate,,Mark Sanford,REP,4,1,0,0,0,0,3
+Sumter,REMBERT,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,SALEM,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,SALEM,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,SALEM,U.S. Senate,,Russell Fry,REP,0,0,0,0,0,0,0
+Sumter,SALEM,U.S. Senate,,Darline Graham,REP,4,0,0,0,0,0,4
+Sumter,SALEM,U.S. Senate,,Mark Lynch,REP,3,0,0,0,0,0,3
+Sumter,SALEM,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,SALEM,U.S. Senate,,Ralph Norman,REP,1,0,0,0,0,0,1
+Sumter,SALEM,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,SALEM,U.S. Senate,,Mark Sanford,REP,0,0,0,0,0,0,0
+Sumter,SALEM,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,SALTERSTOWN,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,SALTERSTOWN,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,SALTERSTOWN,U.S. Senate,,Russell Fry,REP,14,2,0,0,0,0,12
+Sumter,SALTERSTOWN,U.S. Senate,,Darline Graham,REP,26,3,0,0,0,0,23
+Sumter,SALTERSTOWN,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,SALTERSTOWN,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,SALTERSTOWN,U.S. Senate,,Ralph Norman,REP,6,1,0,0,0,0,5
+Sumter,SALTERSTOWN,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,SALTERSTOWN,U.S. Senate,,Mark Sanford,REP,8,4,0,0,0,0,4
+Sumter,SALTERSTOWN,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Russell Fry,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Darline Graham,REP,1,0,0,0,0,0,1
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Ralph Norman,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Mark Sanford,REP,0,0,0,0,0,0,0
+Sumter,SAVAGE-GLOVER,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,SECOND MILL,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,SECOND MILL,U.S. Senate,,Danny Ford II,REP,1,0,0,0,0,0,1
+Sumter,SECOND MILL,U.S. Senate,,Russell Fry,REP,54,9,0,0,0,0,45
+Sumter,SECOND MILL,U.S. Senate,,Darline Graham,REP,70,14,0,0,0,2,54
+Sumter,SECOND MILL,U.S. Senate,,Mark Lynch,REP,8,0,0,0,0,0,8
+Sumter,SECOND MILL,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,SECOND MILL,U.S. Senate,,Ralph Norman,REP,49,8,0,0,0,3,38
+Sumter,SECOND MILL,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,SECOND MILL,U.S. Senate,,Mark Sanford,REP,22,7,0,0,0,0,15
+Sumter,SECOND MILL,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,SHAW,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,SHAW,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,SHAW,U.S. Senate,,Russell Fry,REP,0,0,0,0,0,0,0
+Sumter,SHAW,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Sumter,SHAW,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,SHAW,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,SHAW,U.S. Senate,,Ralph Norman,REP,0,0,0,0,0,0,0
+Sumter,SHAW,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,SHAW,U.S. Senate,,Mark Sanford,REP,0,0,0,0,0,0,0
+Sumter,SHAW,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. Senate,,Russell Fry,REP,3,3,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. Senate,,Darline Graham,REP,3,2,0,0,0,0,1
+Sumter,SOUTH LIBERTY,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. Senate,,Ralph Norman,REP,1,0,0,0,0,0,1
+Sumter,SOUTH LIBERTY,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. Senate,,Mark Sanford,REP,0,0,0,0,0,0,0
+Sumter,SOUTH LIBERTY,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. Senate,,Russell Fry,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. Senate,,Darline Graham,REP,5,0,0,0,0,0,5
+Sumter,SOUTH RED BAY,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. Senate,,Ralph Norman,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. Senate,,Mark Sanford,REP,1,1,0,0,0,0,0
+Sumter,SOUTH RED BAY,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,SPECTRUM,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,SPECTRUM,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,SPECTRUM,U.S. Senate,,Russell Fry,REP,1,0,0,0,0,0,1
+Sumter,SPECTRUM,U.S. Senate,,Darline Graham,REP,9,2,0,0,0,0,7
+Sumter,SPECTRUM,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,SPECTRUM,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,SPECTRUM,U.S. Senate,,Ralph Norman,REP,4,0,0,0,0,0,4
+Sumter,SPECTRUM,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,SPECTRUM,U.S. Senate,,Mark Sanford,REP,4,1,0,0,0,0,3
+Sumter,SPECTRUM,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,ST. PAUL,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,ST. PAUL,U.S. Senate,,Danny Ford II,REP,1,0,0,0,0,0,1
+Sumter,ST. PAUL,U.S. Senate,,Russell Fry,REP,5,2,0,0,0,1,2
+Sumter,ST. PAUL,U.S. Senate,,Darline Graham,REP,39,6,0,0,0,2,31
+Sumter,ST. PAUL,U.S. Senate,,Mark Lynch,REP,5,0,0,0,0,0,5
+Sumter,ST. PAUL,U.S. Senate,,Mark McBride,REP,1,0,0,0,0,0,1
+Sumter,ST. PAUL,U.S. Senate,,Ralph Norman,REP,9,5,0,0,0,0,4
+Sumter,ST. PAUL,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,ST. PAUL,U.S. Senate,,Mark Sanford,REP,15,2,0,0,0,0,13
+Sumter,ST. PAUL,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,ST.JOHN,U.S. Senate,,Duke Buckner,REP,1,0,0,0,0,0,1
+Sumter,ST.JOHN,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,ST.JOHN,U.S. Senate,,Russell Fry,REP,41,2,0,0,0,0,39
+Sumter,ST.JOHN,U.S. Senate,,Darline Graham,REP,23,0,0,0,0,0,23
+Sumter,ST.JOHN,U.S. Senate,,Mark Lynch,REP,3,0,0,0,0,0,3
+Sumter,ST.JOHN,U.S. Senate,,Mark McBride,REP,1,0,0,0,0,0,1
+Sumter,ST.JOHN,U.S. Senate,,Ralph Norman,REP,8,0,0,0,0,0,8
+Sumter,ST.JOHN,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,ST.JOHN,U.S. Senate,,Mark Sanford,REP,6,0,0,0,0,0,6
+Sumter,ST.JOHN,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Duke Buckner,REP,1,0,0,0,0,0,1
+Sumter,STONE HILL,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Russell Fry,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Darline Graham,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Ralph Norman,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Mark Sanford,REP,0,0,0,0,0,0,0
+Sumter,STONE HILL,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 1,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 1,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 1,U.S. Senate,,Russell Fry,REP,1,0,0,0,0,0,1
+Sumter,SUMTER HIGH 1,U.S. Senate,,Darline Graham,REP,23,2,0,0,0,0,21
+Sumter,SUMTER HIGH 1,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 1,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 1,U.S. Senate,,Ralph Norman,REP,4,2,0,0,0,0,2
+Sumter,SUMTER HIGH 1,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 1,U.S. Senate,,Mark Sanford,REP,3,2,0,0,0,0,1
+Sumter,SUMTER HIGH 1,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 2,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 2,U.S. Senate,,Danny Ford II,REP,1,0,0,0,0,0,1
+Sumter,SUMTER HIGH 2,U.S. Senate,,Russell Fry,REP,16,4,0,0,0,0,12
+Sumter,SUMTER HIGH 2,U.S. Senate,,Darline Graham,REP,37,12,0,0,0,0,25
+Sumter,SUMTER HIGH 2,U.S. Senate,,Mark Lynch,REP,1,0,0,0,0,0,1
+Sumter,SUMTER HIGH 2,U.S. Senate,,Mark McBride,REP,1,0,0,0,0,0,1
+Sumter,SUMTER HIGH 2,U.S. Senate,,Ralph Norman,REP,20,7,0,0,0,0,13
+Sumter,SUMTER HIGH 2,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,SUMTER HIGH 2,U.S. Senate,,Mark Sanford,REP,5,4,0,0,0,0,1
+Sumter,SUMTER HIGH 2,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,SUNSET,U.S. Senate,,Duke Buckner,REP,2,0,0,0,0,0,2
+Sumter,SUNSET,U.S. Senate,,Danny Ford II,REP,1,0,0,0,0,0,1
+Sumter,SUNSET,U.S. Senate,,Russell Fry,REP,23,4,0,0,0,2,17
+Sumter,SUNSET,U.S. Senate,,Darline Graham,REP,27,2,0,0,0,1,24
+Sumter,SUNSET,U.S. Senate,,Mark Lynch,REP,7,5,0,0,0,0,2
+Sumter,SUNSET,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,SUNSET,U.S. Senate,,Ralph Norman,REP,23,3,0,0,0,2,18
+Sumter,SUNSET,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,SUNSET,U.S. Senate,,Mark Sanford,REP,11,0,0,0,0,0,11
+Sumter,SUNSET,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,SWAN LAKE,U.S. Senate,,Duke Buckner,REP,1,0,0,0,0,0,1
+Sumter,SWAN LAKE,U.S. Senate,,Danny Ford II,REP,2,1,0,0,0,0,1
+Sumter,SWAN LAKE,U.S. Senate,,Russell Fry,REP,30,5,0,0,0,1,24
+Sumter,SWAN LAKE,U.S. Senate,,Darline Graham,REP,35,8,0,0,0,0,27
+Sumter,SWAN LAKE,U.S. Senate,,Mark Lynch,REP,1,1,0,0,0,0,0
+Sumter,SWAN LAKE,U.S. Senate,,Mark McBride,REP,1,0,0,0,0,0,1
+Sumter,SWAN LAKE,U.S. Senate,,Ralph Norman,REP,19,4,0,0,0,0,15
+Sumter,SWAN LAKE,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,SWAN LAKE,U.S. Senate,,Mark Sanford,REP,10,1,0,0,0,2,7
+Sumter,SWAN LAKE,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,THOMAS SUMTER,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,THOMAS SUMTER,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,THOMAS SUMTER,U.S. Senate,,Russell Fry,REP,9,3,0,0,0,0,6
+Sumter,THOMAS SUMTER,U.S. Senate,,Darline Graham,REP,21,3,0,0,0,0,18
+Sumter,THOMAS SUMTER,U.S. Senate,,Mark Lynch,REP,3,2,0,0,0,0,1
+Sumter,THOMAS SUMTER,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,THOMAS SUMTER,U.S. Senate,,Ralph Norman,REP,11,3,0,0,0,0,8
+Sumter,THOMAS SUMTER,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,THOMAS SUMTER,U.S. Senate,,Mark Sanford,REP,3,0,0,0,0,0,3
+Sumter,THOMAS SUMTER,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,TURKEY CREEK,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,TURKEY CREEK,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,TURKEY CREEK,U.S. Senate,,Russell Fry,REP,11,5,0,0,0,0,6
+Sumter,TURKEY CREEK,U.S. Senate,,Darline Graham,REP,19,6,0,0,0,0,13
+Sumter,TURKEY CREEK,U.S. Senate,,Mark Lynch,REP,2,2,0,0,0,0,0
+Sumter,TURKEY CREEK,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,TURKEY CREEK,U.S. Senate,,Ralph Norman,REP,6,1,0,0,0,0,5
+Sumter,TURKEY CREEK,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,TURKEY CREEK,U.S. Senate,,Mark Sanford,REP,6,1,0,0,0,0,5
+Sumter,TURKEY CREEK,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. Senate,,Duke Buckner,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. Senate,,Danny Ford II,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. Senate,,Russell Fry,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. Senate,,Darline Graham,REP,3,2,0,0,0,0,1
+Sumter,WILDER,U.S. Senate,,Mark Lynch,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. Senate,,Ralph Norman,REP,1,0,0,0,0,0,1
+Sumter,WILDER,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. Senate,,Mark Sanford,REP,0,0,0,0,0,0,0
+Sumter,WILDER,U.S. Senate,,Samuel Sam Shepherd,REP,0,0,0,0,0,0,0
+Sumter,WILSON HALL,U.S. Senate,,Duke Buckner,REP,1,1,0,0,0,0,0
+Sumter,WILSON HALL,U.S. Senate,,Danny Ford II,REP,3,1,0,0,0,0,2
+Sumter,WILSON HALL,U.S. Senate,,Russell Fry,REP,87,16,0,0,0,0,71
+Sumter,WILSON HALL,U.S. Senate,,Darline Graham,REP,125,15,0,0,0,3,107
+Sumter,WILSON HALL,U.S. Senate,,Mark Lynch,REP,8,1,0,0,0,0,7
+Sumter,WILSON HALL,U.S. Senate,,Mark McBride,REP,0,0,0,0,0,0,0
+Sumter,WILSON HALL,U.S. Senate,,Ralph Norman,REP,62,12,0,0,0,2,48
+Sumter,WILSON HALL,U.S. Senate,,Glenda Gail Parker,REP,0,0,0,0,0,0,0
+Sumter,WILSON HALL,U.S. Senate,,Mark Sanford,REP,36,7,0,0,0,1,28
+Sumter,WILSON HALL,U.S. Senate,,Samuel Sam Shepherd,REP,1,0,0,0,0,0,1
